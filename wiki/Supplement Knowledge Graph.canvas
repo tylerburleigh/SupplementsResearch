@@ -1,0 +1,63 @@
+{
+  "nodes": [
+    {
+      "id": "label-supplements",
+      "type": "text",
+      "x": -800,
+      "y": -400,
+      "width": 200,
+      "height": 50,
+      "color": "1",
+      "text": "# Supplements\nAdd supplement entity notes here"
+    },
+    {
+      "id": "label-pathways",
+      "type": "text",
+      "x": 0,
+      "y": -400,
+      "width": 200,
+      "height": 50,
+      "color": "4",
+      "text": "# Pathways\nAdd pathway concept notes here"
+    },
+    {
+      "id": "label-outcomes",
+      "type": "text",
+      "x": 800,
+      "y": -400,
+      "width": 200,
+      "height": 50,
+      "color": "5",
+      "text": "# Outcomes\nAdd outcome concept notes here"
+    },
+    {
+      "id": "label-hypotheses",
+      "type": "text",
+      "x": 0,
+      "y": 200,
+      "width": 200,
+      "height": 50,
+      "color": "3",
+      "text": "# Hypotheses\nAdd hypothesis notes here"
+    }
+  ],
+  "edges": [],
+  "colorGroups": [
+    {
+      "color": "1",
+      "label": "Supplements"
+    },
+    {
+      "color": "4",
+      "label": "Pathways"
+    },
+    {
+      "color": "5",
+      "label": "Outcomes"
+    },
+    {
+      "color": "3",
+      "label": "Hypotheses"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+filters:
+  and:
+    - 'type == "entity"'
+    - 'entity_type == "supplement"'
+    - file.inFolder("wiki/entities")
+properties:
+  entity_type:
+    displayName: Type
+  sources:
+    displayName: Sources
+  updated:
+    displayName: Updated
+views:
+  - type: table
+    name: All Supplements
+    order:
+      - file.name
+      - sources
+      - updated
+    groupBy:
+      property: entity_type
+      direction: ASC
+  - type: table
+    name: By Evidence Level
+    order:
+      - file.name
+      - evidence_level
+      - sources
+      - updated
+    groupBy:
+      property: evidence_level
+      direction: DESC

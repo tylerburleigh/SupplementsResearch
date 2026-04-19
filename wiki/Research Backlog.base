@@ -1,0 +1,28 @@
+filters:
+  and:
+    - file.hasTag("open-question")
+    - file.inFolder("wiki")
+properties:
+  type:
+    displayName: Page Type
+  updated:
+    displayName: Updated
+views:
+  - type: table
+    name: Open Questions
+    order:
+      - file.name
+      - type
+      - updated
+    groupBy:
+      property: type
+      direction: ASC
+  - type: table
+    name: By Age
+    order:
+      - file.name
+      - type
+      - updated
+    sort:
+      - property: updated
+        direction: ASC

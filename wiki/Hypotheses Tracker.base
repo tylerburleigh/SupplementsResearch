@@ -1,0 +1,44 @@
+filters:
+  and:
+    - 'type == "hypothesis"'
+    - file.inFolder("wiki/hypotheses")
+properties:
+  hypothesis_status:
+    displayName: Status
+  evidence_level:
+    displayName: Evidence
+  supplements:
+    displayName: Supplements
+  pathways:
+    displayName: Pathways
+  outcomes:
+    displayName: Outcomes
+  updated:
+    displayName: Updated
+views:
+  - type: table
+    name: All Hypotheses
+    order:
+      - file.name
+      - hypothesis_status
+      - evidence_level
+      - supplements
+      - pathways
+      - outcomes
+      - updated
+    groupBy:
+      property: hypothesis_status
+      direction: ASC
+  - type: table
+    name: Open Only
+    filters:
+      and:
+        - 'hypothesis_status == "open"'
+    order:
+      - file.name
+      - evidence_level
+      - supplements
+      - pathways
+      - outcomes
+    summaries:
+      evidence_level: Average
