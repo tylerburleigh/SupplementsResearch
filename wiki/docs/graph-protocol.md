@@ -2,7 +2,7 @@
 type: meta
 sources: []
 created: "2026-04-19"
-updated: "2026-04-26"
+updated: "2026-04-27"
 status: current
 tags:
   - meta
@@ -19,12 +19,14 @@ See also: [[ingest-checklist]], [[lint-rules]], [[research-methodology]], [[sche
 |------|-----------|------------|-----------------|
 | entity | `wiki/entities/` | Supplements, compounds, brands, delivery forms | `entity_type`, `aliases`, `sources`, `evidence_level`, `mechanistic_evidence`, `animal_evidence`, `human_evidence`, `translational_status`, `practical_status`, `primary_outcomes`, `primary_pathways`, `primary_genetics` |
 | concept | `wiki/concepts/` | Pathways, pathway families, outcomes, conditions, biomarkers, processes, risk domains, populations, genes, variants, genotypes | `concept_type`, `domain`, `sources` |
-| hypothesis | `wiki/hypotheses/` | Testable claim: supplement → pathway/process → outcome/condition/risk-domain, optionally scoped by genetics | `supplements`, `pathways`, `outcomes`, `population`, `genetic_context`, `effect_direction`, `mechanistic_evidence`, `animal_evidence`, `human_evidence`, `translational_status`, `evidence_level`, `hypothesis_status` |
+| hypothesis | `wiki/hypotheses/` | Testable claim: supplement → pathway/process → outcome/condition/risk-domain, optionally scoped by genetics | `supplements`, `pathways`, `outcomes`, `population`, `genetic_context`, `effect_direction`, `mechanistic_evidence`, `animal_evidence`, `human_evidence`, `translational_status`, `evidence_level`, `hypothesis_status`, `review_by`, `if_supported`, `if_contradicted`, `evaluated` |
 | source-summary | `wiki/sources/` | One per ingested synthesis source or selected primary anchor | `raw_path`, `raw_hash`, `ingest_status`, `study_type`, `source_role`, `evidence_layer`, `reading_status`, `decision_relevance`, `anchor_for` |
 | comparison | `wiki/comparisons/` | Head-to-head supplement comparison | `subjects` |
 | stack | `wiki/stacks/` | Multi-supplement combination with rationale | `goal`, `supplements` |
+| decision | `wiki/decisions/` | Practical supplement or stack decision with reversal criteria and outcome review | `decision_type`, `action`, `decision_status`, `supplements`, `related_stack`, `review_by`, `closed` |
 | dosing | `wiki/dosing/` | Dedicated supplement dosing detail page | `supplement`, `aliases`, `sources` |
-| meta | `wiki/` root or scaffold files inside wiki subdirectories | Infrastructure, dashboards, checklists, queues, READMEs, and process docs | `sources`, `tags` |
+| query | `wiki/queries/` | Durable, reusable answers to practical or cross-page questions | `sources` |
+| meta | `wiki/` root or scaffold files inside wiki subdirectories | Infrastructure, dashboards, generated catalogs, checklists, queues, READMEs, and process docs | `sources`, `tags` |
 
 ## The Core Chain
 
@@ -85,6 +87,7 @@ The only edge type that creates explicit directed paths between entity and conce
 - **Concept → Hypothesis**: "Related Hypotheses" section links hypothesis pages
 - **Comparison → Entity**: `subjects: []` frontmatter + table column headers
 - **Stack → Entity**: `supplements: []` frontmatter + composition table rows
+- **Decision → Entity/Stack**: `supplements: []` and optional `related_stack` frontmatter + supporting evidence links
 
 ### Tag Shadow Graph
 
@@ -106,10 +109,11 @@ Tags create implicit groupings independent of wikilinks. Use them for semantic n
 
 ## Bidirectionality Rules
 
-1. **No orphans.** Every content page must have at least one incoming wikilink. The lint pass checks this.
+1. **No orphans.** Every content page must have at least one incoming wikilink. The lint pass checks this. `type: query` pages are the exception because they are reached through [[queries/README]], DataView, and [[catalog]] rather than reciprocal content links.
 2. **No dead ends.** Every content page must have at least one outgoing wikilink. The lint pass checks this.
-3. **Provenance is bidirectional.** If a content page cites a source, the source-summary must list the content page under "Entities Mentioned," "Concepts Covered," "Hypotheses or Decisions Anchored," or "Claims Anchored."
-4. **Hypothesis edges are reciprocated.** If a hypothesis links an entity, the entity page should reference the hypothesis in its "Relationships" section.
+3. **Meta links do not prove graph connectivity.** Infrastructure pages such as [[catalog]], [[index]], [[handoff]], and directory READMEs may link widely for navigation, but those links do not satisfy content-page orphan checks.
+4. **Provenance is bidirectional.** If a content page cites a source, the source-summary must list the content page under "Entities Mentioned," "Concepts Covered," "Hypotheses or Decisions Anchored," or "Claims Anchored."
+5. **Hypothesis edges are reciprocated.** If a hypothesis links an entity, the entity page should reference the hypothesis in its "Relationships" section.
 
 ## DataView Dependencies
 
@@ -117,14 +121,17 @@ This table shows which scaffold pages break if frontmatter is wrong.
 
 | Scaffold Page | Selects On | Reads Frontmatter |
 |---------------|-----------|-------------------|
-| [[index]] | directory, type | `entity_type`, `concept_type`, `hypothesis_status`, `evidence_level`, `sources`, `subjects`, `goal`, `supplements` |
-| [[research-backlog]] | tags, hypothesis_status | `tags` (open-question), `hypothesis_status`, `sources` (length), `updated` |
+| [[index]] | directory, type | `entity_type`, `concept_type`, `hypothesis_status`, `review_by`, `evidence_level`, `sources`, `subjects`, `goal`, `supplements`, `decision_type`, `action`, `decision_status` |
+| [[catalog]] | page frontmatter and TLDRs via `wiki/scripts/lint.py --rebuild-catalog` | `type`, `entity_type`, `concept_type`, `hypothesis_status`, `review_by`, `evidence_level`, `sources`, `subjects`, `goal`, `supplements`, `decision_type`, `action`, `decision_status`, `source_role`, `evidence_layer`, `reading_status` |
+| [[research-backlog]] | tags, hypothesis_status | `tags` (open-question), `hypothesis_status`, `review_by`, `sources` (length), `updated` |
 | [[debates]] | hypothesis_status | `hypothesis_status` (nuanced, contradicted) |
 | [[interactions]] | entity_type | `entity_type` (supplement), `file.outlinks` |
 | [[taxonomy]] | tags | `tags` (pathway/\*, outcome/\*, condition/\*, process/\*, risk-domain/\*, population/\*) |
 | [[Quick Reference Dosing]] | entity_type, dosing type | `entity_type` (supplement), `type: dosing`, `supplement`, `updated` |
 | [[Evidence Map]] | entity, concept, hypothesis metadata | `practical_status`, `evidence_level`, `mechanistic_evidence`, `animal_evidence`, `human_evidence`, `translational_status`, `effect_direction`, `population`, `genetic_context`, `primary_outcomes`, `primary_pathways`, `primary_genetics`, `concept_type`, `domain` |
-| Directory READMEs | directory, type | `entity_type`, `concept_type`, `hypothesis_status`, `evidence_level`, `sources`, `subjects`, `goal`, `supplements`, `supplement`, `study_type`, `source_role`, `evidence_layer`, `raw_path` |
+| [[research-queue]] | Markdown table rows, maintained by `wiki/scripts/backlog_sync.py` | ID, Source Page, Review By, Priority, Status |
+| [[evidence-watch]] | Markdown table rows, linted by `wiki/scripts/lint.py` | Date, Event, Target, Hypothesis / Decision, Status |
+| Directory READMEs | directory, type | `entity_type`, `concept_type`, `hypothesis_status`, `review_by`, `evidence_level`, `sources`, `subjects`, `goal`, `supplements`, `supplement`, `study_type`, `source_role`, `evidence_layer`, `raw_path` |
 
 ## Template Usage
 
@@ -132,11 +139,13 @@ This table shows which scaffold pages break if frontmatter is wrong.
 |----------|---------------|------------------------------------------|----------------------------|
 | entity | One per supplement or compound | Decision Snapshot, Relationships, Interactions, Evidence table format, Dosing table format | What It Is, Mechanism of Action, Safety Profile, Practical Notes, Key Gaps |
 | concept | One per pathway, pathway family, outcome, condition, biomarker, process, risk domain, population, gene, genetic variant, genotype, or pharmacogenomic marker | Evidence Map, Related Hypotheses, Connections | Definition, Relevance to Longevity, Key Claims, Contradictions & Tensions, Open Questions |
-| hypothesis | When a claim spans supplements, genetics, or carries tension | Chain, Status, Evidence Stream Summary, frontmatter (`supplements`, `pathways`, `outcomes`) | Claim, Supporting/Contradicting Evidence, Tensions and Nuances, What Would Change This |
+| hypothesis | When a claim spans supplements, genetics, or carries tension | Chain, Status, Review Plan, Evidence Stream Summary, frontmatter (`supplements`, `pathways`, `outcomes`, `review_by`) | Claim, Supporting/Contradicting Evidence, Tensions and Nuances, What Would Change This |
 | source-summary | One per ingested synthesis source or selected primary anchor | Entities Mentioned, Concepts Covered, Hypotheses or Decisions Anchored, frontmatter (`raw_path`, `raw_hash`, `ingest_status`, `source_role`, `evidence_layer`) | Key Takeaways, Evidence Assessment, Claims Anchored, Promotion Notes |
 | comparison | When two supplements compete for the same role | subjects frontmatter, Comparison table format | Analysis, Interaction Considerations, Recommendation, Open Questions |
 | stack | When designing a multi-supplement regimen | supplements frontmatter, Composition table, Interaction Check | Goal, Rationale, Evidence Assessment, Open Questions |
+| decision | When a supplement or stack action needs durable reasoning and later outcome review | decision frontmatter, What, What Would Change My Mind, Follow-Up, Outcome | Why, Supporting Evidence |
 | dosing | When an entity page's dosing section grows too large or varies by form/outcome | supplement frontmatter, Forms Comparison, Dosing by Outcome | Timing and Cycling, Special Populations, Decision Notes, Key Gaps |
+| query | When a question is likely to recur or the answer synthesizes multiple pages | sources frontmatter, clear answer section, cited source summaries | Evidence summary, Practical implications, Gaps, Related pages |
 
 ## Ingest Sequence
 
@@ -147,6 +156,6 @@ The order pages are created during an ingest. The graph builds up incrementally:
 3. **Entity pages** — created/updated for each supplement mentioned in the source
 4. **Concept pages** — created/updated for pathways, pathway families, outcomes, conditions, biomarkers, processes, risk domains, populations, genes, variants, genotypes, or pharmacogenomic markers discovered
 5. **Hypothesis pages** — created for significant cross-cutting claims (not every claim needs one)
-6. **Comparison/stack pages** — created if the source enables or motivates them
-7. **Scaffold updates** — synthesis, interactions, debates, decisions, log, handoff, taxonomy, Quick Reference Dosing
+6. **Comparison/stack/decision pages** — created if the source enables a comparison, stack, or practical supplement decision
+7. **Scaffold updates** — synthesis, interactions, debates, structural decisions log, research queue, evidence watch, operation log, handoff, catalog, taxonomy, Quick Reference Dosing
 8. **Bidirectionality and provenance check** — verify all new pages have incoming and outgoing links, all `[!source]` callouts cite a source-summary, decision-critical claims cite a non-synthesis anchor or are marked unverified/gap, all source-summaries list their derived pages, and the source-summary is flipped to `ingest_status: complete`

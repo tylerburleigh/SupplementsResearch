@@ -2,7 +2,7 @@
 type: meta
 sources: []
 created: "2026-04-18"
-updated: "2026-04-26"
+updated: "2026-04-27"
 status: current
 tags:
   - meta
@@ -29,8 +29,10 @@ tags:
 | Ask a recurring practical question | [[queries/README|Common Questions]] | Answered query pages |
 | Compare alternatives | [[comparisons/README|Comparisons]] | Entity pages and source summaries |
 | Check safety or conflicts | [[interactions]] | Entity safety sections, source summaries |
-| Choose what to research next | [[research-backlog]] | `research-priority.md`, [[sources/promotion-queue|promotion-queue]] |
-| Browse the full knowledge base | [[index]] | Bases dashboards and directory README pages |
+| Choose what to research next | [[research-queue]] | [[research-backlog]], `research-priority.md`, [[sources/promotion-queue|promotion-queue]] |
+| Track future evidence or review events | [[evidence-watch]] | Hypothesis pages and practical decision notes |
+| Record or revisit a stack decision | Practical decision pages in `wiki/decisions/` | Entity pages, dosing pages, [[interactions]], stack pages |
+| Browse the full knowledge base | [[index]] | [[catalog]], Bases dashboards, and directory README pages |
 
 ## Practical Posture
 
@@ -90,5 +92,9 @@ See [[debates]] for detail.
 - [[Evidence Map]] - practical status, evidence level, population scope, genetics context, and translational status across entities, concepts, and hypotheses.
 - [[Supplements Database]] - supplement-only dashboard grouped by evidence, practical status, and translational status.
 - [[Hypotheses Tracker]] - open, supported, nuanced, and contradicted supplement-to-outcome claims.
+- [[Decisions]] - practical decision dashboard; structural decisions are logged in [[decisions]].
 - [[queries/README|Common Questions]] - user-facing questions that should become durable answer pages.
+- [[research-queue]] - ID-based queue for content gaps and unverified claims.
+- [[evidence-watch]] - future evidence and review events that should trigger updates.
 - [[index]] - exhaustive DataView catalog of entities, concepts, hypotheses, comparisons, stacks, dosing pages, sources, and open questions.
+- [[catalog]] - static markdown catalog for agents and shell-only sessions.

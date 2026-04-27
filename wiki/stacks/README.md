@@ -2,7 +2,7 @@
 type: meta
 sources: []
 created: "2026-04-19"
-updated: "2026-04-26"
+updated: "2026-04-27"
 status: current
 tags:
   - meta
@@ -20,4 +20,4 @@ WHERE type = "stack"
 SORT file.name ASC
 ```
 
-See also: [[index]], [[interactions]], [[synthesis]]
+See also: [[index]], [[interactions]], [[synthesis]], [[decisions/README|Practical Decisions]]

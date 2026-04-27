@@ -2,7 +2,7 @@
 type: meta
 sources: []
 created: "2026-04-19"
-updated: "2026-04-26"
+updated: "2026-04-27"
 status: current
 tags:
   - meta
@@ -10,9 +10,9 @@ tags:
 ---
 
 > [!tldr]
-> Aggregated view of all open questions and research gaps across the wiki.
+> Aggregated view of all open questions and research gaps across the wiki; use [[research-queue]] for ID-based follow-up.
 
-See also: [[index]], [[lint-rules]], [[debates]], [[synthesis]]
+See also: [[index]], [[research-queue]], [[evidence-watch]], [[lint-rules]], [[debates]], [[synthesis]]
 
 ## All Open Gaps
 
@@ -35,11 +35,15 @@ SORT evidence_level DESC
 ## Open Hypotheses
 
 ```dataview
-TABLE hypothesis_status AS "Status", translational_status AS "Translational Status", effect_direction AS "Direction", population AS "Population", genetic_context AS "Genetics", evidence_level AS "Evidence Level", supplements AS "Supplements", outcomes AS "Outcomes"
+TABLE hypothesis_status AS "Status", review_by AS "Review By", evaluated AS "Evaluated", translational_status AS "Translational Status", effect_direction AS "Direction", population AS "Population", genetic_context AS "Genetics", evidence_level AS "Evidence Level", supplements AS "Supplements", outcomes AS "Outcomes"
 FROM "wiki/hypotheses"
 WHERE hypothesis_status = "open"
-SORT evidence_level DESC
+SORT review_by ASC, evidence_level DESC
 ```
+
+## ID-Based Research Queue
+
+The editable action queue lives at [[research-queue]]. Preview new rows with `python3 wiki/scripts/backlog_sync.py`; apply them with `python3 wiki/scripts/backlog_sync.py --apply`.
 
 ## Mechanism-Led Open Questions
 

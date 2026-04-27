@@ -30,14 +30,17 @@ See also: [[index]], [[research-backlog]], [[ingest-checklist]], [[taxonomy]]
 - [ ] Concept pages include `domain`
 - [ ] `aliases` list present on entity pages (can be empty)
 - [ ] `evidence_level` present on supplement entities and hypotheses
-- [ ] `effect_direction`, `population`, `genetic_context`, `mechanistic_evidence`, `animal_evidence`, `human_evidence`, and `translational_status` present on hypothesis pages
+- [ ] `effect_direction`, `population`, `genetic_context`, `mechanistic_evidence`, `animal_evidence`, `human_evidence`, `translational_status`, `review_by`, `if_supported`, and `if_contradicted` present on hypothesis pages
 - [ ] `hypothesis_status` present on hypothesis pages
+- [ ] Non-open hypothesis pages have an `evaluated` date
+- [ ] Practical decision pages use `type: decision`, live in `wiki/decisions/`, and include `decision_type`, `action`, `decision_status`, `supplements`, and optional `review_by`
 - [ ] Source-summary pages include `ingest_status`, `reading_status`, `decision_relevance`, and `anchor_for`
 - [ ] Source-summary `source_role` and `evidence_layer` are both populated and not conflated
 - [ ] Source-summary pages list forward provenance for entities, concepts, hypotheses, decisions, or claims they support
 - [ ] Dosing pages use `type: dosing`, include `supplement`, and live in `wiki/dosing/`
+- [ ] Durable answer pages use `type: query`, live in `wiki/queries/`, and cite source summaries through `sources`
 - [ ] `sources` list is non-empty for non-scaffold pages except source-summary pages, which use `raw_path` and `raw_hash` as primary provenance
-- [ ] Frontmatter wikilinks in `sources`, `primary_outcomes`, `primary_pathways`, `primary_genetics`, `subjects`, `supplement`, `supplements`, `pathways`, `outcomes`, `population`, and `genetic_context` resolve to wiki pages of the expected type when present
+- [ ] Frontmatter wikilinks in `sources`, `primary_outcomes`, `primary_pathways`, `primary_genetics`, `subjects`, `supplement`, `supplements`, `pathways`, `outcomes`, `population`, `genetic_context`, and `related_stack` resolve to wiki pages of the expected type when present
 - [ ] `tags` follow the taxonomy (supplement/, pathway/, outcome/, condition/, process/, risk-domain/, population/, gene/, variant/, genotype/, open-question, meta) — no mirror tags that duplicate frontmatter fields
 - [ ] Dates in ISO 8601 format
 
@@ -45,9 +48,11 @@ See also: [[index]], [[research-backlog]], [[ingest-checklist]], [[taxonomy]]
 
 - [ ] All cross-references use wikilinks, not markdown links
 - [ ] No unresolved wikilinks (all targets exist as files)
-- [ ] No orphan pages (every page is linked from at least one other page)
+- [ ] No orphan pages (every content page except `type: query` is linked from at least one other non-meta page)
 - [ ] No dead-end pages (every page has at least one outgoing wikilink)
 - [ ] Self-links do not count toward orphan/dead-end checks
+- [ ] Links from `type: meta` pages do not count as content-page incoming links for orphan checks
+- [ ] Wikilinks inside fenced code blocks or inline code spans are ignored by link validation
 - [ ] Source-summary pages link to their raw/research source
 
 ## Claim Rules
@@ -83,15 +88,27 @@ See also: [[index]], [[research-backlog]], [[ingest-checklist]], [[taxonomy]]
 - [ ] Hypotheses marked `supported`, `contradicted`, or `nuanced` cite at least one non-synthesis anchor
 - [ ] Hypothesis evidence stream ratings match the cited evidence layer (mechanistic evidence is not counted as animal or human evidence)
 - [ ] Genetics-specific hypotheses cite a genetics anchor or mark `genetic_context` claims as unverified/gap
+- [ ] Open hypotheses have a future-oriented `review_by` date and explicit `if_supported` / `if_contradicted` implications
+- [ ] Closed hypotheses record `evaluated` so calibration can be audited later
+
+## Decision Rules
+
+- [ ] `type: decision` pages link affected supplements and optionally the related stack
+- [ ] Active decision pages with `review_by` dates are revisited during `/wiki-review`
+- [ ] Decision pages include "What Would Change My Mind" and "Outcome" sections
+- [ ] Stack membership, dose, avoidance, pause/resume, and monitoring changes get decision pages when the reasoning should be revisited
 
 ## Integrity Rules
 
 - [ ] `raw_hash` on source-summary pages matches current file in `raw/` or `research/`
 - [ ] Schema enum values in `CLAUDE.md` stay synchronized with `wiki/scripts/lint.py`
+- [ ] `wiki/catalog.md` is regenerated with `python3 wiki/scripts/lint.py --rebuild-catalog` after page-shape changes
 - [ ] `ingest_status: in-progress` source-summary pages are resumed, restarted, or completed before another ingest of the same source proceeds
 - [ ] [[promotion-queue]] entries exist for decision-critical report-derived claims that lack anchor sources
 - [ ] Completed [[promotion-queue]] rows have corresponding source-summary pages and target-page citations
 - [ ] Promotion-queue entries with `Marked` dates >30 days old surface in research-backlog
+- [ ] `wiki/research-queue.md` rows use `R###` IDs, valid priority/status values, and ISO `Review By` dates
+- [ ] `wiki/evidence-watch.md` rows use ISO dates and checkbox status; overdue unchecked events surface as warnings
 - [ ] No stale pages (`updated` date older than 30 days without `stale` status)
 - [ ] Log has entries for all ingests and significant operations
 - [ ] Synthesis reflects current wiki state (not just the latest ingest)

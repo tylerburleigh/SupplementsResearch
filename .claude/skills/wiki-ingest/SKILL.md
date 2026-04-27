@@ -91,14 +91,15 @@ Show the user, before any pages are written:
 
 1. **Source** — citation or supplement name, source type (research report vs. external source).
 2. **Key takeaways** — 4-8 substantive claims you'd extract, with evidence levels where applicable.
-3. **Planned new pages** — entities/, concepts/, sources/, comparisons/. For each, the filename (Title Case) and a one-line note.
+3. **Planned new pages** — entities/, concepts/, sources/, hypotheses/, comparisons/, stacks/, decisions/. For each, the filename (Title Case) and a one-line note.
 4. **Existing pages to update** — search `wiki/` for overlapping entities and concepts.
 5. **Evidence streams** — separate mechanistic, animal, and human signals; flag blocking negative evidence.
 6. **Genetics context** — genes, variants, genotypes, or pharmacogenomic markers that affect relevance, risk, dose, or interpretation.
 7. **Primary-anchor sources** — cited primary sources to promote into their own source-summary pages because they anchor evidence level, dosing, safety, genetics, contradictions, or stack decisions. Do not promote every citation by default.
 8. **Potential contradictions** — claims in the source that disagree with existing wiki content.
-9. **Stack relevance** — how this source might affect existing or planned stacks.
-10. **Graph connectivity** — confirm every planned new page has at least one incoming link from another planned or existing page (no orphans), and every planned new page links out to at least one other page (no dead ends). If any page would be isolated, say so.
+9. **Hypothesis review plan** — for any planned hypothesis page, the `review_by` date and what would change if supported or contradicted.
+10. **Stack relevance and decisions** — how this source might affect existing/planned stacks and whether it warrants a practical decision page.
+11. **Graph connectivity** — confirm every planned new page has at least one incoming link from another planned or existing page (no orphans), and every planned new page links out to at least one other page (no dead ends). If any page would be isolated, say so.
 
 End with: "Proceed?"
 
@@ -155,7 +156,7 @@ Exception: surface attribution-mismatch findings prominently.
 Show:
 
 - Source path and type
-- (Full ingest) Pages created, pages updated, index/log/synthesis updates confirmed
+- (Full ingest) Pages created, pages updated, catalog/log/synthesis updates confirmed
 - (Audit-only) Number of linked pages audited
 - Auditor's gap report inline
 - A reminder to commit when ready (do **not** auto-commit)

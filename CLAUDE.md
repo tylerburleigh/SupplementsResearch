@@ -19,6 +19,7 @@ These data contracts enable tooling. Do not deviate from them.
 - `research-priority.md` — Human-owned ranked list of supplements to research next. The deep-research skill reads this for context.
 - `wiki/` — Your compiled knowledge base. You own this directory entirely.
   - `wiki/index.md` — Content catalog (DataView-driven). Ensure frontmatter is correct; do not edit directly.
+  - `wiki/catalog.md` — Static markdown catalog generated from frontmatter and TLDRs for agents and non-Obsidian workflows. Refresh with `python3 wiki/scripts/lint.py --rebuild-catalog` after creating, deleting, or materially retitling wiki pages.
   - `wiki/log.md` — Chronological operation log. Append on every operation.
   - `wiki/synthesis.md` — Evolving high-level synthesis. Revise on every ingest.
   - `wiki/handoff.md` — Session handoff. Read at session start, update at session end.
@@ -26,8 +27,10 @@ These data contracts enable tooling. Do not deviate from them.
   - `wiki/debates.md` — Active disagreements between sources and hypotheses.
   - `wiki/decisions.md` — Append-only log of structural decisions.
   - `wiki/research-backlog.md` — DataView-driven backlog of open questions, thinly-sourced pages, stale pages, and hash mismatches. Do not edit directly.
+  - `wiki/research-queue.md` — ID-based queue of content-page `[!gap]` and `[!unverified]` callouts with priorities, review dates, and resolution state.
+  - `wiki/evidence-watch.md` — Calendar-style watchlist for future trials, guideline updates, lab checks, and stack-review events that should trigger page updates.
   - `wiki/Evidence Map.base` — Base dashboard for practical status, effect direction, population scope, evidence level, and basic-biology concepts.
-  - `wiki/Supplements Database.base`, `wiki/Hypotheses Tracker.base`, `wiki/Outcomes Dashboard.base`, `wiki/Pathways Dashboard.base`, `wiki/Research Backlog.base` — Base dashboards backed by page frontmatter.
+  - `wiki/Supplements Database.base`, `wiki/Hypotheses Tracker.base`, `wiki/Decisions.base`, `wiki/Outcomes Dashboard.base`, `wiki/Pathways Dashboard.base`, `wiki/Research Backlog.base` — Base dashboards backed by page frontmatter.
   - `wiki/taxonomy.md` — Hierarchical supplement grouping by mechanism, function, and category.
   - `wiki/lint-rules.md` — Explicit checklist of what the lint pass validates.
   - `wiki/ingest-checklist.md` — Step-by-step checklist for human review during each ingest.
@@ -40,6 +43,8 @@ These data contracts enable tooling. Do not deviate from them.
   - `wiki/comparisons/` — Head-to-head supplement comparisons.
   - `wiki/hypotheses/` — Testable claims connecting supplements → pathways → outcomes.
   - `wiki/stacks/` — Supplementation stack configurations with rationale.
+  - `wiki/decisions/` — Practical supplement or stack decision notes. These track start/stop/dose/avoid/monitoring decisions; structural wiki decisions stay in `wiki/decisions.md`.
+  - `wiki/reviews/` — Periodic wiki review notes.
   - `wiki/queries/` — Significant query answers filed as permanent pages.
   - `wiki/dosing/` — Dedicated dosing detail pages (`type: dosing`) split from entity pages when dosing grows large.
 - `templates/` — Page templates. Use as starting points for new pages.
@@ -62,7 +67,7 @@ After cleanup, a research directory contains:
 ### Frontmatter (Required on Every Wiki Page)
 
 ```yaml
-type: entity | concept | source-summary | comparison | hypothesis | stack | dosing | meta
+type: entity | concept | source-summary | comparison | hypothesis | stack | decision | dosing | query | meta
 sources: []
 created: "YYYY-MM-DD"
 updated: "YYYY-MM-DD"
@@ -75,9 +80,11 @@ Additional by type:
 - concept: `concept_type` (pathway | pathway-family | outcome | condition | biomarker | process | risk-domain | population | gene | genetic-variant | genotype | pharmacogenomic-marker), `domain` (longevity | disease-risk | cognition | mood | metabolic | cardiovascular | musculoskeletal | immune | safety | dosing | basic-biology | genetics)
 - source-summary: `raw_path` (string, path to source in `raw/` or `research/<supplement>/report.md`), `raw_hash` (SHA256 of source file — enables staleness detection), `ingest_status` (in-progress | complete), `study_type` (RCT | meta-analysis | observational | in-vitro | animal | review | editorial | preprint | research-report | GWAS | genetic-association | Mendelian-randomization | pharmacogenetic | nutrigenomic), `source_role` (synthesis | primary-anchor | contradiction | dosing | safety | genetics | background), `evidence_layer` (mechanistic | animal | human | genetics | mixed), `reading_status` (full-text | abstract-only | report-derived), `decision_relevance` (high | medium | low), `anchor_for` (list: efficacy | mechanism | dosing | safety | contradiction | genetics | stack-decision)
 - comparison: `subjects` (list of wikilinks)
-- hypothesis: `supplements` (list of wikilinks), `pathways` (list of wikilinks), `outcomes` (list of wikilinks), `population` (string or wikilink), `genetic_context` (string or wikilink), `evidence_level` (1-4), `mechanistic_evidence` (strong | moderate | weak | mixed | negative | none), `animal_evidence` (strong | moderate | weak | mixed | negative | none), `human_evidence` (strong | moderate | weak | mixed | negative | none | untested), `translational_status` (human-supported | mechanism-led | animal-led | contradicted | insufficient), `effect_direction` (beneficial | harmful | mixed | null | unknown), `hypothesis_status` (open | supported | contradicted | nuanced)
+- hypothesis: `supplements` (list of wikilinks), `pathways` (list of wikilinks), `outcomes` (list of wikilinks), `population` (string or wikilink), `genetic_context` (string or wikilink), `evidence_level` (1-4), `mechanistic_evidence` (strong | moderate | weak | mixed | negative | none), `animal_evidence` (strong | moderate | weak | mixed | negative | none), `human_evidence` (strong | moderate | weak | mixed | negative | none | untested), `translational_status` (human-supported | mechanism-led | animal-led | contradicted | insufficient), `effect_direction` (beneficial | harmful | mixed | null | unknown), `hypothesis_status` (open | supported | contradicted | nuanced), `review_by` (YYYY-MM-DD), `if_supported` (string), `if_contradicted` (string), `evaluated` (YYYY-MM-DD or blank)
 - stack: `goal` (string), `supplements` (list of wikilinks to supplement entities)
+- decision: `decision_type` (stack-change | dose-change | start-stop | safety | monitoring), `action` (start | stop | continue | change-dose | avoid | defer | pause | resume | monitor), `decision_status` (active | closed | superseded), `supplements` (list of wikilinks), `related_stack` (optional stack wikilink), `review_by` (YYYY-MM-DD or blank), `closed` (YYYY-MM-DD or blank)
 - dosing: `supplement` (wikilink to supplement entity), `aliases` (list of strings)
+- query: no additional fields. Used for durable, reusable answers in `wiki/queries/`.
 - meta: no additional fields. Used for infrastructure pages in the `wiki/` root (index, log, handoff, etc.).
 
 ### TLDR (Required)
@@ -143,7 +150,7 @@ All cross-references use wikilinks: `[[Page Name]]`. Not markdown links. The gra
 
 Page filenames use Title Case with spaces: `Sulforaphane.md`, linked as `[[Sulforaphane]]`. The filename must match the wikilink text exactly.
 
-Exception: `type: meta` scaffold pages may live in the `wiki/` root, `wiki/docs/`, or as directory README/queue pages under content folders. Root and docs meta pages use lowercase with hyphens (e.g., `research-backlog.md`, `lint-rules.md`, `schema-canary.md`); directory scaffold pages may use `README.md` or a lowercase queue filename such as `promotion-queue.md`. These are infrastructure, not content — they don't appear in the graph as knowledge nodes.
+Exception: `type: meta` scaffold pages may live in the `wiki/` root, `wiki/docs/`, or as directory README/queue pages under content folders. Root and docs meta pages use lowercase with hyphens (e.g., `catalog.md`, `research-backlog.md`, `lint-rules.md`, `schema-canary.md`); directory scaffold pages may use `README.md` or a lowercase queue filename such as `promotion-queue.md`. These are infrastructure, not content — they don't appear in the graph as knowledge nodes.
 
 No special characters beyond spaces and hyphens. Disambiguate with parentheticals: `NAC (Supplement).md`.
 
@@ -153,7 +160,13 @@ Supplement entities should have `aliases` set in frontmatter for common abbrevia
 
 `wiki/index.md` is DataView-driven. Do not manually edit it — it auto-updates from page frontmatter. Your job is to ensure frontmatter is correct on every wiki page (type, entity_type, concept_type, hypothesis_status, evidence_level, sources list, tags).
 
-`wiki/research-backlog.md` is also DataView-driven. Do not manually edit it. It auto-surfaces open-question pages, open hypotheses, thinly-sourced pages, and stale pages.
+`wiki/catalog.md` is the static markdown counterpart for agents and shell-only sessions. It is generated from page frontmatter and first `[!tldr]` lines. Rebuild it after page-shape changes with:
+
+```bash
+python3 wiki/scripts/lint.py --rebuild-catalog
+```
+
+`wiki/research-backlog.md` is also DataView-driven. Do not manually edit it. It auto-surfaces open-question pages, open hypotheses, thinly-sourced pages, and stale pages. `wiki/research-queue.md` is the editable ID-based action queue generated from content-page `[!gap]` and `[!unverified]` callouts by `python3 wiki/scripts/backlog_sync.py`.
 
 ### Log Format
 
@@ -168,10 +181,13 @@ Log every ingest, query that generates a page, and lint pass.
 - One page per entity. Search before creating to avoid duplicates.
 - When sources disagree, surface the disagreement explicitly.
 - Prefer targeted updates over full page rewrites.
-- Every ingest and query updates the wiki. Log and synthesis updates are part of the deliverable. The index and backlog are DataView-driven and update automatically — ensure frontmatter is correct instead.
+- Every ingest and query updates the wiki. Log, synthesis, and catalog updates are part of the deliverable. The index and backlog are DataView-driven and update automatically — ensure frontmatter is correct instead.
 - If a page grows past ~1,500 words, consider splitting it.
 - Mark pages with open questions using the `open-question` tag so they surface in the Research Backlog.
 - Promotion-queue rows use a `Marked` ISO date. Rows marked more than 30 days ago surface in `wiki/research-backlog.md` and should be promoted, closed, or explicitly deferred.
+- Practical stack changes, dose changes, start/stop decisions, avoidance decisions, and monitoring decisions get `type: decision` pages under `wiki/decisions/` when the reasoning should be revisited.
+- Hypothesis pages are time-bound. Set `review_by`, `if_supported`, and `if_contradicted` when creating the page; set `evaluated` when changing `hypothesis_status` away from `open`.
+- Evidence-watch rows use exact ISO dates and checkbox status. Past unchecked rows should be evaluated, moved, or deferred during reviews.
 
 ### Tag Taxonomy
 
@@ -237,14 +253,17 @@ Human-facing navigation follows progressive disclosure. `wiki/synthesis.md` is t
 | Any task | `wiki/handoff.md` | — |
 | Scout | `wiki/handoff.md` → `wiki/docs/research-methodology.md` | Check `wiki/scouting/` for existing briefs |
 | Ingest | `purpose.md` → `wiki/synthesis.md` | Related entity/concept pages from index |
-| Query | `wiki/synthesis.md` → `wiki/queries/README.md` | `wiki/index.md`, then relevant entity/concept pages |
+| Query | `wiki/synthesis.md` → `wiki/queries/README.md` | `wiki/catalog.md` or `wiki/index.md`, then relevant entity/concept pages |
 | Stack design | `purpose.md` → `wiki/synthesis.md` | Entity pages for candidate supplements |
 | Interaction check | `wiki/interactions.md` | Relevant entity pages |
 | "What's next?" | `wiki/research-backlog.md` → `purpose.md` | `research-priority.md` |
+| Research queue | `wiki/research-queue.md` | `python3 wiki/scripts/backlog_sync.py` |
+| Periodic review | `wiki/handoff.md` → `wiki/synthesis.md` | `wiki/research-queue.md`, `wiki/evidence-watch.md`, `/wiki-review` |
+| Stack decision | `purpose.md` → `wiki/synthesis.md` | Entity, dosing, interaction, stack, and decision pages |
 | Lint | `wiki/research-backlog.md` → `wiki/lint-rules.md` | Full wiki scan |
 | Contradiction check | `wiki/debates.md` | Linked hypothesis pages |
 | Graph question | `wiki/docs/graph-protocol.md` | Relevant template or scaffold page |
-| Browse/catalog | `wiki/index.md` | Bases dashboards and directory README pages |
+| Browse/catalog | `wiki/index.md` for Obsidian/DataView; `wiki/catalog.md` for shell/agent reads | Bases dashboards and directory README pages |
 
 Always read `wiki/handoff.md` first — it captures what the last session was doing. Always update it at session end.
 
@@ -317,6 +336,7 @@ Each hypothesis page includes:
 6. **Status** — open, supported, contradicted, or nuanced
 7. **What would confirm/refute** — What evidence would change the status
 8. **Open questions** — `[!gap]` callouts for what's unknown
+9. **Review plan** — `review_by`, `if_supported`, `if_contradicted`, and `evaluated` fields so hypotheses are revisited instead of lingering indefinitely
 
 ### Stack Pages
 
@@ -329,13 +349,36 @@ Stack pages represent combinations of supplements with a shared goal. Each stack
 5. **Evidence assessment** — Overall strength of evidence for the stack as a whole
 6. **Open questions** — What needs more research
 
+### Practical Decision Pages
+
+`type: decision` pages represent durable supplement and stack decisions: start, stop, continue, change dose, avoid, defer, pause, resume, or monitor. Create one when the decision affects stack membership, dose, safety posture, or monitoring cadence and should be reviewed later.
+
+Each decision page includes:
+
+1. **What** — Concrete action, supplement(s), dose/form/timing if relevant
+2. **Why** — Evidence, safety, interaction, personal-fit, and practical rationale
+3. **What would change my mind** — Specific reversal or strengthening criteria
+4. **Supporting evidence** — Entity, dosing, stack, hypothesis, interaction, and source-summary links
+5. **Follow-up** — `review_by` and action items
+6. **Outcome** — Filled when `decision_status` becomes `closed` or `superseded`
+
+Structural wiki decisions remain in `wiki/decisions.md`; practical supplement decisions live in `wiki/decisions/`.
+
 ### Query
 
-Answer questions using the wiki's accumulated knowledge. Read `purpose.md` for context, start from `wiki/synthesis.md` and `wiki/queries/README.md`, then search the index and wiki as needed. Cite specific pages. Distinguish sourced claims from inferences. If the answer is valuable — synthesizes multiple pages, resolves a recurring question, or would take significant reconstruction — file it as a new page in `wiki/queries/`.
+Answer questions using the wiki's accumulated knowledge. Read `purpose.md` for context, start from `wiki/synthesis.md` and `wiki/queries/README.md`, then search `wiki/catalog.md`, `wiki/index.md`, and relevant pages as needed. Cite specific pages. Distinguish sourced claims from inferences. If the answer is valuable — synthesizes multiple pages, resolves a recurring question, or would take significant reconstruction — file it as a new page in `wiki/queries/`, rebuild the static catalog, and append the log. Use `/wiki-query` for substantive questions.
 
 ### Lint
 
-Health-check the wiki: orphans, dead ends, unresolved links, unverified claims, gaps. Validate frontmatter, index consistency, and cross-references. Check for supplement entity pages missing required sections. **Staleness check:** compare `raw_hash` values on source-summary pages against current files in `raw/` or `research/` — flag any mismatches. Present findings by category; apply fixes only with human approval.
+Health-check the wiki: orphans, dead ends, unresolved links, unverified claims, gaps, catalog drift, source-role provenance, and stale sources. Validate frontmatter, cross-references, and generated catalog behavior. Check for supplement entity pages missing required sections. **Staleness check:** compare `raw_hash` values on source-summary pages against current files in `raw/` or `research/` — flag any mismatches. Present findings by category; apply fixes only with human approval. Use `/wiki-lint` for full lint passes.
+
+### Repair
+
+Repair known page issues with the smallest defensible edit. Use it for audit findings, attribution mismatches, missing caveats, broken source-summary links, metadata drift, stale status fields, and other specific defects. Re-ground source-backed changes in the source-summary and raw/research source before editing. Update `updated:`, rebuild `wiki/catalog.md`, append the log, and stop when the named issue is fixed. Use `/wiki-repair` rather than mixing repair into query work.
+
+### Review
+
+Use `/wiki-review` for periodic evidence hygiene. Start with `python3 wiki/scripts/briefing.py`, then run deterministic lint and `python3 wiki/scripts/backlog_sync.py`. Monthly reviews should resolve or defer a few research-queue rows, check promotion-queue aging, update evidence-watch items, and refresh synthesis if the practical posture changed. Quarterly reviews should stress-test stack decisions, practical statuses, and calibration.
 
 ### Synthesis
 
@@ -380,3 +423,4 @@ Use `obsidian append` to add entries. Do not rewrite past entries.
 - Research reports are ingested as synthesis sources. Promote individual primary sources into separate source-summary pages only when they anchor evidence level, dosing, safety, contradictions, or stack decisions.
 - Source role and evidence type stay separate. `source_role` explains why a source is in the graph; `evidence_layer` and stream fields preserve mechanistic, animal, human, and genetics evidence without upgrading one layer into another.
 - Decision-critical claims cannot rely only on synthesis sources. If the anchor has not been checked, mark the claim unverified/gap and add it to `wiki/sources/promotion-queue.md`.
+- Borrowed operating-loop mechanics are first-class: session briefing, research queue sync, evidence watch, periodic reviews, practical decision notes, and time-bound hypotheses keep evidence work from becoming one-off notes.

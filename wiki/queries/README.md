@@ -2,7 +2,7 @@
 type: meta
 sources: []
 created: "2026-04-19"
-updated: "2026-04-26"
+updated: "2026-04-27"
 status: current
 tags:
   - meta
@@ -14,7 +14,7 @@ tags:
 
 ## How This Works
 
-Use this page when the user arrives with a practical question rather than a supplement name, pathway, or source. When a question is answered using wiki knowledge - especially if it synthesizes multiple pages or would take significant reconstruction - file it as a query page in `wiki/queries/`. This page tracks the questions; the linked pages hold the answers.
+Use this page when the user arrives with a practical question rather than a supplement name, pathway, or source. When a question is answered using wiki knowledge - especially if it synthesizes multiple pages or would take significant reconstruction - file it as a `type: query` page in `wiki/queries/`. This page tracks the questions; the linked pages hold the answers.
 
 ## Question Routes
 
@@ -24,7 +24,8 @@ Use this page when the user arrives with a practical question rather than a supp
 | What should I avoid? | [[interactions]], entity Safety Profile sections, [[debates]], contradicted hypotheses |
 | What dose or form should I use? | [[Quick Reference Dosing]], dosing pages, source summaries with `source_role: dosing` |
 | Which option is better? | Comparison pages, entity Evidence by Outcome sections, source summaries |
-| What should be researched next? | [[research-backlog]], `research-priority.md`, [[sources/promotion-queue|promotion-queue]] |
+| What should be researched next? | [[research-queue]], [[research-backlog]], `research-priority.md`, [[sources/promotion-queue|promotion-queue]] |
+| Should I start, stop, or change a stack item? | Entity pages, dosing pages, [[interactions]], stack pages, practical decision pages in `wiki/decisions/` |
 
 ## Active Questions
 

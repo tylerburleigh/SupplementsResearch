@@ -12,6 +12,10 @@ human_evidence: "untested"  # strong | moderate | weak | mixed | negative | none
 translational_status: "insufficient"  # human-supported | mechanism-led | animal-led | contradicted | insufficient
 effect_direction: "unknown"  # beneficial | harmful | mixed | null | unknown
 hypothesis_status: open
+review_by: ""  # YYYY-MM-DD date for next evidence/status review
+if_supported: ""
+if_contradicted: ""
+evaluated: ""
 sources: []
 created: "{{date}}"
 updated: "{{date}}"
@@ -79,6 +83,15 @@ Keep stream ratings tied to evidence type. Mechanistic evidence can strengthen p
 
 > [!analysis] Status reasoning
 > Why this status, in 1-2 sentences. If the status depends only on a synthesis report, keep the hypothesis open or mark the missing anchor as a gap.
+
+## Review Plan
+
+| Field | Value |
+|-------|-------|
+| Review by | `review_by` |
+| If supported | `if_supported` |
+| If contradicted | `if_contradicted` |
+| Evaluated | `evaluated` |
 
 ## What Would Change This
 

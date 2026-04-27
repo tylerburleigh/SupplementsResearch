@@ -5,6 +5,10 @@ filters:
 properties:
   hypothesis_status:
     displayName: Status
+  review_by:
+    displayName: Review By
+  evaluated:
+    displayName: Evaluated
   evidence_level:
     displayName: Evidence
   mechanistic_evidence:
@@ -35,6 +39,8 @@ views:
     order:
       - file.name
       - hypothesis_status
+      - review_by
+      - evaluated
       - evidence_level
       - translational_status
       - mechanistic_evidence
@@ -57,6 +63,7 @@ views:
         - 'hypothesis_status == "open"'
     order:
       - file.name
+      - review_by
       - evidence_level
       - translational_status
       - mechanistic_evidence
@@ -76,6 +83,7 @@ views:
       - file.name
       - effect_direction
       - hypothesis_status
+      - review_by
       - evidence_level
       - translational_status
       - population
@@ -93,6 +101,7 @@ views:
         - 'hypothesis_status == "open"'
     order:
       - file.name
+      - review_by
       - mechanistic_evidence
       - animal_evidence
       - human_evidence

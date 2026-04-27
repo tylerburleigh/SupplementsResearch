@@ -2,7 +2,7 @@
 type: meta
 sources: []
 created: "2026-04-19"
-updated: "2026-04-26"
+updated: "2026-04-27"
 status: current
 tags:
   - meta
@@ -22,8 +22,21 @@ This wiki uses two complementary research paths:
 | **Deep pipeline** | `foundry-research` deep-research | Comprehensive supplement investigation (multi-source, 30 min) | Structured report in `research/<supplement>/` |
 | **Ad-hoc** | `/scout` skill | Quick targeted questions, preliminary evidence checks, gap-filling | Preliminary brief in `wiki/scouting/` |
 | **Ingest** | `/wiki-ingest` skill | Integrating research or raw sources into the wiki | Wiki pages |
+| **Review** | `/wiki-review` skill | Periodic evidence hygiene, queue review, and calibration | Review note in `wiki/reviews/` |
 
 Choose the right tool for the job. Don't use deep research for a single-question lookup. Don't use ad-hoc scouting for a full supplement investigation.
+
+## Operating Loop
+
+Use this loop to keep the wiki current between ingests:
+
+1. Run `python3 wiki/scripts/briefing.py` at session start or before a review.
+2. Run `python3 wiki/scripts/lint.py` before structural edits and during reviews.
+3. Run `python3 wiki/scripts/backlog_sync.py` to preview content-page gaps and unverified claims that are not yet in [[research-queue]].
+4. Use [[evidence-watch]] for future evidence events that should trigger updates.
+5. Use `type: decision` pages for stack, dose, start/stop, avoidance, and monitoring decisions that should be revisited.
+
+Monthly reviews should resolve or defer a few research-queue rows and check promotion-queue aging. Quarterly reviews should stress-test practical statuses, stack decisions, and calibration.
 
 ## Ingest Granularity
 

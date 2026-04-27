@@ -15,6 +15,24 @@ tags:
 
 <!-- Update at end of each session. Keep brief — 5-10 lines max. -->
 
+### [2026-04-27] operating-loop borrowing pass
+- Added `wiki/scripts/briefing.py` for local session-start agenda: purpose placeholders, review cadence, lint status, content gaps, research queue, evidence watch, hypotheses, sources, and next research priority
+- Added `wiki/scripts/backlog_sync.py` plus `wiki/research-queue.md` for ID-based tracking of content-page `[!gap]` and `[!unverified]` callouts
+- Added `wiki/evidence-watch.md`, `templates/review.md`, and `/wiki-review` for periodic evidence hygiene
+- Added first-class practical `type: decision` pages under `wiki/decisions/`, `templates/decision.md`, and `wiki/Decisions.base`
+- Made hypotheses time-bound with `review_by`, `if_supported`, `if_contradicted`, and `evaluated` fields
+- Updated schema docs, graph protocol, methodology, lint rules, agent/skill instructions, README, dashboards, and static catalog
+- `python3 wiki/scripts/lint.py`, `python3 wiki/scripts/briefing.py`, `python3 wiki/scripts/backlog_sync.py`, and `python3 -m unittest -q` pass
+
+### [2026-04-27] llm-wiki borrowing pass
+- Added `wiki/scripts/lint.py --rebuild-catalog` and generated `wiki/catalog.md` as a static agent-readable catalog beside the DataView index
+- Added fixture-based `unittest` coverage for lint invariants, catalog rebuild, inline-code wikilink stripping, source-hash drift, source callouts, and meta-link orphan isolation
+- Added `/wiki-repair`, `/wiki-lint`, and `/wiki-query` skills adapted to this supplements schema
+- Updated graph/schema docs so catalog links do not count as content graph connectivity
+- Expanded `.gitignore` for local agent state, Python caches, virtualenvs, logs, and temp files
+- Review follow-up: restored CLAUDE.md vault-layout hierarchy, made missing catalog a lint error, added first-class `type: query`, and made catalog rebuild validate before writing
+- `python3 wiki/scripts/lint.py`, `python3 -m unittest -q`, and `python3 -m py_compile wiki/scripts/lint.py` pass after the changes
+
 ### [2026-04-27] PLAN follow-up hardening
 - Added lint validation for wikilinks stored in relationship frontmatter fields, including expected target types for sources, supplement links, pathways, outcomes, and genetics
 - Added a CLAUDE.md schema-sync guard so documented enum values cannot drift from lint constants silently

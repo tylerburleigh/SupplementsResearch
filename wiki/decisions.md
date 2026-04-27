@@ -2,7 +2,7 @@
 type: meta
 sources: []
 created: "2026-04-19"
-updated: "2026-04-26"
+updated: "2026-04-27"
 status: current
 tags:
   - meta
@@ -25,3 +25,9 @@ tags:
 ### [2026-04-26] decision | Made progressive disclosure the wiki navigation model. `wiki/synthesis.md` is the human-facing front door, `wiki/queries/README.md` is the practical question hub, and `wiki/index.md` plus Bases dashboards are deeper catalog views. This keeps the organizational scaffold intact while routing users first through decisions, questions, and next actions.
 
 ### [2026-04-26] decision | Implemented schema resilience as executable lint plus resumable ingest state. Source summaries now carry `ingest_status` so partial ingests can be resumed or restarted deliberately; research reports use real SHA256 hashes for staleness checks; mirror tags stay removed because frontmatter is the decision/query source of truth. Promotion queue aging is surfaced from `wiki/research-backlog.md` because Bases query files/frontmatter, not Markdown table rows.
+
+### [2026-04-27] decision | Added a static generated catalog beside the DataView index. `wiki/index.md` stays the human-facing Obsidian view, while `wiki/catalog.md` is rebuilt from frontmatter and TLDRs for agents, tests, and shell-only sessions. Meta-page links, including catalog links, do not satisfy content-page orphan checks so navigation scaffolds cannot mask weak graph connectivity.
+
+### [2026-04-27] decision | Made durable query answers first-class `type: query` pages instead of `type: meta`. Query pages live in `wiki/queries/`, appear in the static catalog, cite source summaries through `sources:`, and must link out to the evidence they use. They are exempt from incoming-link orphan checks because the query hub, DataView, and catalog are their intended entry points.
+
+### [2026-04-27] decision | Added an operating loop around the wiki rather than only adding more page types. `wiki/scripts/briefing.py` gives a session-start agenda; `wiki/scripts/backlog_sync.py` promotes content-page gaps into `wiki/research-queue.md`; `wiki/evidence-watch.md` tracks future evidence events; `/wiki-review` creates periodic review notes; and practical supplement decisions are first-class `type: decision` pages with reversal criteria and review dates.

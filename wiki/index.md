@@ -2,18 +2,18 @@
 type: meta
 sources: []
 created: "2026-04-19"
-updated: "2026-04-26"
+updated: "2026-04-27"
 status: current
 tags:
   - meta
 ---
 
 > [!tldr]
-> DataView-driven catalog of wiki supplements, concepts, hypotheses, comparisons, stacks, dosing pages, sources, and open questions.
+> DataView-driven catalog of wiki supplements, concepts, hypotheses, comparisons, stacks, decisions, dosing pages, sources, and open questions.
 
 # Wiki Index
 
-See also: [[Evidence Map]], [[Supplements Database]], [[Hypotheses Tracker]], [[Outcomes Dashboard]], [[Pathways Dashboard]]
+See also: [[catalog]], [[Evidence Map]], [[Supplements Database]], [[Hypotheses Tracker]], [[Outcomes Dashboard]], [[Pathways Dashboard]], [[research-queue]], [[evidence-watch]]
 
 ## Supplements
 
@@ -45,10 +45,10 @@ SORT file.name ASC
 ## Hypotheses
 
 ```dataview
-TABLE hypothesis_status AS "Status", translational_status AS "Translational Status", effect_direction AS "Direction", population AS "Population", genetic_context AS "Genetics", evidence_level AS "Evidence", length(sources) AS "Sources"
+TABLE hypothesis_status AS "Status", review_by AS "Review By", evaluated AS "Evaluated", translational_status AS "Translational Status", effect_direction AS "Direction", population AS "Population", genetic_context AS "Genetics", evidence_level AS "Evidence", length(sources) AS "Sources"
 FROM "wiki/hypotheses"
 WHERE type = "hypothesis"
-SORT evidence_level DESC
+SORT review_by ASC, evidence_level DESC
 ```
 
 ## Mechanism-Led Candidates
@@ -76,6 +76,15 @@ TABLE goal AS "Goal", length(supplements) AS "Supplements"
 FROM "wiki/stacks"
 WHERE type = "stack"
 SORT file.name ASC
+```
+
+## Decisions
+
+```dataview
+TABLE decision_type AS "Type", action AS "Action", decision_status AS "Decision Status", supplements AS "Supplements", related_stack AS "Stack", review_by AS "Review By", closed AS "Closed"
+FROM "wiki/decisions"
+WHERE type = "decision"
+SORT review_by ASC, updated DESC
 ```
 
 ## Dosing Pages

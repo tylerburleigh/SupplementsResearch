@@ -1,12 +1,40 @@
 # Obsidian
 .obsidian/
 
+# Local agent state
+.claude/settings.local.json
+.codex
+
 # OS
 .DS_Store
 Thumbs.db
 desktop.ini
 
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Virtual environments and local config
+.venv/
+venv/
+env/
+.env
+.env.*
+!.env.example
+
+# Logs and cache
+*.log
+.cache/
+tmp/
+
 # Temporary files
 *.tmp
 *.swp
+*.swo
 *~

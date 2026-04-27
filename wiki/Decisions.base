@@ -1,0 +1,53 @@
+filters:
+  and:
+    - 'type == "decision"'
+    - file.inFolder("wiki/decisions")
+properties:
+  decision_type:
+    displayName: Type
+  action:
+    displayName: Action
+  decision_status:
+    displayName: Status
+  supplements:
+    displayName: Supplements
+  related_stack:
+    displayName: Stack
+  review_by:
+    displayName: Review By
+  closed:
+    displayName: Closed
+  updated:
+    displayName: Updated
+views:
+  - type: table
+    name: Active Decisions
+    filters:
+      and:
+        - 'decision_status == "active"'
+    order:
+      - file.name
+      - decision_type
+      - action
+      - supplements
+      - related_stack
+      - review_by
+      - updated
+    sort:
+      - property: review_by
+        direction: ASC
+  - type: table
+    name: All Decisions
+    order:
+      - file.name
+      - decision_type
+      - action
+      - decision_status
+      - supplements
+      - related_stack
+      - review_by
+      - closed
+      - updated
+    sort:
+      - property: updated
+        direction: DESC

@@ -6,7 +6,7 @@ An evidence-based wiki on supplementation for longevity and healthspan. Research
 
 ## Start Here
 
-Start with the task, not the folder structure. [`wiki/synthesis.md`](wiki/synthesis.md) is the front door; [`wiki/index.md`](wiki/index.md) is the full catalog once you know what you are looking for.
+Start with the task, not the folder structure. [`wiki/synthesis.md`](wiki/synthesis.md) is the front door; [`wiki/index.md`](wiki/index.md) is the Obsidian/DataView catalog once you know what you are looking for. [`wiki/catalog.md`](wiki/catalog.md) is the static catalog for agents and shell-only sessions.
 
 | If you want to... | Start here | Then go deeper with... |
 |------|-----------|-----------|
@@ -16,8 +16,11 @@ Start with the task, not the folder structure. [`wiki/synthesis.md`](wiki/synthe
 | Compare supplement options | [`wiki/comparisons/README.md`](wiki/comparisons/README.md) | Entity pages and source summaries |
 | Check dose, form, or timing | [`wiki/Quick Reference Dosing.md`](wiki/Quick%20Reference%20Dosing.md) | Dedicated dosing pages in `wiki/dosing/` |
 | Find safety concerns or conflicts | [`wiki/interactions.md`](wiki/interactions.md) | Supplement entity safety sections and source summaries |
-| Choose what to research next | [`wiki/research-backlog.md`](wiki/research-backlog.md) | [`research-priority.md`](research-priority.md), [`purpose.md`](purpose.md) |
-| Browse everything | [`wiki/index.md`](wiki/index.md) | Bases dashboards and directory README pages |
+| Choose what to research next | [`wiki/research-queue.md`](wiki/research-queue.md) | [`wiki/research-backlog.md`](wiki/research-backlog.md), [`research-priority.md`](research-priority.md), [`purpose.md`](purpose.md) |
+| Track future evidence to revisit | [`wiki/evidence-watch.md`](wiki/evidence-watch.md) | Hypothesis pages and practical decision notes |
+| Record a stack decision | [`templates/decision.md`](templates/decision.md) | `wiki/decisions/`, entity pages, dosing pages, [`wiki/interactions.md`](wiki/interactions.md) |
+| Run periodic maintenance | `python3 wiki/scripts/briefing.py` | `/wiki-review`, [`wiki/reviews/`](wiki/reviews/) |
+| Browse everything | [`wiki/index.md`](wiki/index.md) | [`wiki/catalog.md`](wiki/catalog.md), Bases dashboards, and directory README pages |
 
 Key context pages:
 
@@ -40,8 +43,13 @@ wiki/             The compiled knowledge base
   hypotheses/     Testable claims connecting supplements → pathways → outcomes
   comparisons/    Head-to-head supplement comparisons
   stacks/         Stack configurations with rationale
+  decisions/      Practical supplement and stack decision notes
+  reviews/        Periodic wiki review notes
   queries/        Durable answers to recurring practical questions
   dosing/         Dedicated dosing pages when entity dosing sections grow large
+  catalog.md      Static markdown catalog generated for agents and non-Obsidian workflows
+  research-queue.md  ID-based gap/unverified claim queue
+  evidence-watch.md  Future evidence and review-event watchlist
 templates/        Page templates
 purpose.md        Your research direction (edit this directly)
 writing-style.md  Style guide for wiki pages
@@ -95,10 +103,25 @@ Run `git config core.hooksPath .githooks` so commits use the tracked pre-commit 
 **Lint the wiki** (find orphans, broken links, missing frontmatter):
 Ask Claude: *"lint the wiki"*
 
+**Brief the current state** (session start / review agenda):
+Run `python3 wiki/scripts/briefing.py`.
+
+**Sync gaps into the research queue**:
+Run `python3 wiki/scripts/backlog_sync.py` to preview new items, then `python3 wiki/scripts/backlog_sync.py --apply` to add them to `wiki/research-queue.md`.
+
+**Run a periodic review**:
+Ask Claude: *"run a monthly wiki review"* or use `/wiki-review`.
+
+**Run lint tests** (for scaffold/linter changes):
+Run `python3 -m unittest -q`.
+
+**Refresh the static catalog** (for agents and shell-only sessions):
+Run `python3 wiki/scripts/lint.py --rebuild-catalog`.
+
 **Re-ingest a source** (if a paper has been updated):
 Ask Claude: `/wiki-ingest raw/your-file.pdf` — Claude checks `raw_hash` to detect changes.
 
-**The index and backlog update automatically** from page frontmatter via DataView. If something looks wrong in the index, check the frontmatter on the relevant page rather than editing the index directly.
+**The index and backlog update automatically** from page frontmatter via DataView. If something looks wrong in the index, check the frontmatter on the relevant page rather than editing the index directly. The static catalog is generated; rebuild it instead of hand-editing it.
 
 ---
 

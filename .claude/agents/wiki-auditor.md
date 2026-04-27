@@ -44,7 +44,7 @@ You are deliberately independent of the extractor. You do not see the extractor'
    - Source-summary pages missing "Entities Mentioned" or "Concepts Covered" entries for pages that cite them
    - Entity pages whose "Relationships" section doesn't link to concepts or hypotheses that reference them
    - Broken bidirectionality: a wikilink from page A to page B without a reciprocal link back
-   - Missing decision/evidence metadata: entity `practical_status`, concept `domain`, hypothesis `effect_direction` or `population`
+   - Missing decision/evidence metadata: entity `practical_status`, concept `domain`, hypothesis `effect_direction`, `population`, `review_by`, `if_supported`, or `if_contradicted`
    - Concept subtype mismatch, such as treating a disease as `outcome` when it should be `condition`, or treating basic biology as a clinical outcome
    - Missing evidence-stream metadata: `mechanistic_evidence`, `animal_evidence`, `human_evidence`, or `translational_status`
    - Missing genetics metadata when a report discusses gene, variant, genotype, or pharmacogenomic context

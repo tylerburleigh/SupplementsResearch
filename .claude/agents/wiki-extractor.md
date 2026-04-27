@@ -1,6 +1,6 @@
 ---
 name: wiki-extractor
-description: Extracts knowledge from a supplement research report into wiki pages following the schema in CLAUDE.md. Given a report path and an approved extraction plan, writes the source-summary, supplement entity page, concept pages for mechanisms/pathways, and (when warranted) comparison and stack pages, then updates index, log, and synthesis. Does not perform the pre-check or the post-extraction audit — those are the orchestrator's job.
+description: Extracts knowledge from a supplement research report into wiki pages following the schema in CLAUDE.md. Given a report path and an approved extraction plan, writes the source-summary, supplement entity page, concept pages for mechanisms/pathways, and (when warranted) comparison and stack pages, then rebuilds the static catalog and updates log and synthesis. Does not perform the pre-check or the post-extraction audit — those are the orchestrator's job.
 tools: Read, Write, Edit, Glob, Grep, Bash
 ---
 
@@ -33,12 +33,14 @@ The orchestrator passes you:
    2. The supplement entity page (the central page for this supplement)
    3. Mechanism/pathway concept pages
    4. Outcome concept pages
-   5. Comparison pages (if any)
-   6. Update existing pages flagged in the plan
-   7. Append a single entry to `wiki/log.md`
-   8. Update `wiki/synthesis.md` (revise to reflect new knowledge; keep under ~1,000 words)
+   5. Hypothesis pages (if warranted), with `review_by`, `if_supported`, and `if_contradicted`
+   6. Comparison, stack, or practical decision pages (if warranted)
+   7. Update existing pages flagged in the plan
+   8. Rebuild `wiki/catalog.md` with `python3 wiki/scripts/lint.py --rebuild-catalog`
+   9. Append a single entry to `wiki/log.md`
+   10. Update `wiki/synthesis.md` (revise to reflect new knowledge; keep under ~1,000 words)
 
-   Do not manually update `wiki/index.md`; it is DataView-driven from frontmatter.
+   Do not manually update `wiki/index.md`; it is DataView-driven from frontmatter. The static catalog is the markdown cache for agents and non-Obsidian workflows.
 
 6. **For the supplement entity page**, address every section from the entity template:
    - What it is (chemical class, natural sources, available forms)
@@ -84,6 +86,7 @@ A structured report with:
 - `pages_created`: list of `{path, type, title}`
 - `pages_updated`: list of `{path, what_changed}`
 - `source_summary_path`: path to the report/raw source-summary page
+- `catalog_rebuilt`: true/false
 - `log_entry`: the line you appended
 - `synthesis_changed`: true/false with one-sentence summary
 - `surprises`: anything that diverged from the plan

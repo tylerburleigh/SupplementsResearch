@@ -28,7 +28,9 @@ TYPE_VALUES = {
     "comparison",
     "hypothesis",
     "stack",
+    "decision",
     "dosing",
+    "query",
     "meta",
 }
 STATUS_VALUES = {"current", "stale"}
@@ -111,6 +113,27 @@ PRACTICAL = {"candidate", "consider", "deprioritize", "avoid", "research-only"}
 EFFECT_DIRECTIONS = {"beneficial", "harmful", "mixed", "null", "unknown"}
 HYPOTHESIS_STATUSES = {"open", "supported", "contradicted", "nuanced"}
 INGEST_STATUSES = {"in-progress", "complete"}
+DECISION_TYPES = {
+    "stack-change",
+    "dose-change",
+    "start-stop",
+    "safety",
+    "monitoring",
+}
+DECISION_ACTIONS = {
+    "start",
+    "stop",
+    "continue",
+    "change-dose",
+    "avoid",
+    "defer",
+    "pause",
+    "resume",
+    "monitor",
+}
+DECISION_STATUSES = {"active", "closed", "superseded"}
+QUEUE_PRIORITIES = {"high", "medium", "low"}
+QUEUE_STATUSES = {"open", "resolved", "deferred"}
 
 SCHEMA_ENUMS = {
     "type": TYPE_VALUES,
@@ -132,6 +155,9 @@ SCHEMA_ENUMS = {
     "practical_status": PRACTICAL,
     "effect_direction": EFFECT_DIRECTIONS,
     "hypothesis_status": HYPOTHESIS_STATUSES,
+    "decision_type": DECISION_TYPES,
+    "action": DECISION_ACTIONS,
+    "decision_status": DECISION_STATUSES,
 }
 
 TAG_EXACT = {"open-question", "meta"}
@@ -156,7 +182,9 @@ CONTENT_DIR = {
     "comparison": WIKI / "comparisons",
     "hypothesis": WIKI / "hypotheses",
     "stack": WIKI / "stacks",
+    "decision": WIKI / "decisions",
     "dosing": WIKI / "dosing",
+    "query": WIKI / "queries",
 }
 
 FRONTMATTER_LINK_RULES = {
@@ -178,6 +206,7 @@ FRONTMATTER_LINK_RULES = {
     "supplements": {"type": {"entity"}, "entity_type": {"supplement", "compound"}},
     "pathways": {"type": {"concept"}, "concept_type": {"pathway", "pathway-family", "process"}},
     "outcomes": {"type": {"concept"}, "concept_type": {"outcome", "condition", "risk-domain"}},
+    "related_stack": {"type": {"stack"}},
 }
 OPTIONAL_FRONTMATTER_LINK_RULES = {
     "population": {"type": {"concept"}, "concept_type": {"population", "condition", "risk-domain"}},
@@ -191,6 +220,33 @@ WIKILINK_RE = re.compile(r"\[\[([^\]]+)\]\]")
 CALLOUT_RE = re.compile(r"^>\s*\[!([A-Za-z0-9_-]+)\]")
 DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 DOC_FIELD_ENUM_RE = re.compile(r"`(?P<field>[^`]+)`\s*\((?P<body>[^)]*\|[^)]*)\)")
+INLINE_CODE_RE = re.compile(r"`[^`\n]+`")
+CATALOG = WIKI / "catalog.md"
+
+
+def set_root(root: Path) -> None:
+    """Point the linter at a vault root.
+
+    The default is the repository root inferred from this script location.
+    Tests use this to run the real linter against temporary fixture vaults.
+    """
+
+    global ROOT, WIKI, CLAUDE, CONTENT_DIR, CATALOG
+    ROOT = root.resolve()
+    WIKI = ROOT / "wiki"
+    CLAUDE = ROOT / "CLAUDE.md"
+    CATALOG = WIKI / "catalog.md"
+    CONTENT_DIR = {
+        "entity": WIKI / "entities",
+        "concept": WIKI / "concepts",
+        "source-summary": WIKI / "sources",
+        "comparison": WIKI / "comparisons",
+        "hypothesis": WIKI / "hypotheses",
+        "stack": WIKI / "stacks",
+        "decision": WIKI / "decisions",
+        "dosing": WIKI / "dosing",
+        "query": WIKI / "queries",
+    }
 
 
 @dataclass
@@ -308,7 +364,25 @@ def normalize_link_target(raw: str) -> str:
 
 
 def stripped_body(body: str) -> str:
-    return re.sub(r"```.*?```", "", body, flags=re.S)
+    """Remove code blocks and inline code before wikilink scanning.
+
+    Obsidian renders wikilinks inside code as literal text. Lint should
+    match that behavior so documentation examples do not need fake pages.
+    """
+
+    out: list[str] = []
+    in_fence = False
+    for line in body.splitlines(keepends=True):
+        stripped = line.lstrip()
+        if stripped.startswith("```") or stripped.startswith("~~~"):
+            in_fence = not in_fence
+            out.append("\n" if line.endswith("\n") else "")
+            continue
+        if in_fence:
+            out.append("\n" if line.endswith("\n") else "")
+            continue
+        out.append(line)
+    return INLINE_CODE_RE.sub("", "".join(out))
 
 
 def collect_targets(files: Iterable[Path]) -> dict[str, Path]:
@@ -546,6 +620,14 @@ def check_frontmatter(pages: list[Page]) -> list[Finding]:
             for key in ("population", "genetic_context"):
                 if key not in page.frontmatter:
                     findings.append(Finding("error", page.rel, f"missing `{key}` frontmatter"))
+            for key in ("review_by", "if_supported", "if_contradicted"):
+                if not page.frontmatter.get(key):
+                    findings.append(Finding("error", page.rel, f"missing `{key}` frontmatter"))
+            if page.frontmatter.get("review_by") and not is_iso_date(page.frontmatter.get("review_by")):
+                findings.append(Finding("error", page.rel, "`review_by` must be YYYY-MM-DD"))
+            evaluated = page.frontmatter.get("evaluated")
+            if evaluated not in (None, "") and not is_iso_date(evaluated):
+                findings.append(Finding("error", page.rel, "`evaluated` must be YYYY-MM-DD when set"))
             if page.frontmatter.get("evidence_level") not in {1, 2, 3, 4}:
                 findings.append(Finding("error", page.rel, "`evidence_level` must be 1, 2, 3, or 4"))
             check_enum(findings, page, "mechanistic_evidence", EVIDENCE_RATINGS)
@@ -554,12 +636,29 @@ def check_frontmatter(pages: list[Page]) -> list[Finding]:
             check_enum(findings, page, "translational_status", TRANSLATIONAL)
             check_enum(findings, page, "effect_direction", EFFECT_DIRECTIONS)
             check_enum(findings, page, "hypothesis_status", HYPOTHESIS_STATUSES)
+            if page.frontmatter.get("hypothesis_status") != "open" and evaluated in (None, ""):
+                findings.append(
+                    Finding("error", page.rel, "non-open hypothesis requires `evaluated` date")
+                )
 
         elif page_type == "stack":
             if not page.frontmatter.get("goal"):
                 findings.append(Finding("error", page.rel, "missing `goal` frontmatter"))
             if not as_list(page.frontmatter.get("supplements")):
                 findings.append(Finding("error", page.rel, "missing `supplements` frontmatter"))
+
+        elif page_type == "decision":
+            check_enum(findings, page, "decision_type", DECISION_TYPES)
+            check_enum(findings, page, "action", DECISION_ACTIONS)
+            check_enum(findings, page, "decision_status", DECISION_STATUSES)
+            if not as_list(page.frontmatter.get("supplements")):
+                findings.append(Finding("error", page.rel, "missing `supplements` frontmatter"))
+            review_by = page.frontmatter.get("review_by")
+            if review_by not in (None, "") and not is_iso_date(review_by):
+                findings.append(Finding("error", page.rel, "`review_by` must be YYYY-MM-DD when set"))
+            closed = page.frontmatter.get("closed")
+            if closed not in (None, "") and not is_iso_date(closed):
+                findings.append(Finding("error", page.rel, "`closed` must be YYYY-MM-DD when set"))
 
         elif page_type == "dosing":
             if not page.frontmatter.get("supplement"):
@@ -589,6 +688,10 @@ def frontmatter_link_fields(page: Page) -> list[str]:
         fields.extend(["supplements", "pathways", "outcomes"])
     elif page.type == "stack":
         fields.append("supplements")
+    elif page.type == "decision":
+        fields.extend(["supplements"])
+        if "related_stack" in page.frontmatter:
+            fields.append("related_stack")
     elif page.type == "dosing":
         fields.append("supplement")
     return [field for field in fields if field in page.frontmatter]
@@ -779,7 +882,7 @@ def check_links(pages: list[Page], files: list[Path]) -> list[Finding]:
                 continue
             if resolved == page.path:
                 continue
-            if resolved in incoming:
+            if page.type != "meta" and resolved in incoming:
                 incoming[resolved].add(page.path)
 
     for page in pages:
@@ -793,10 +896,197 @@ def check_links(pages: list[Page], files: list[Path]) -> list[Finding]:
         ]
         if not outgoing:
             findings.append(Finding("error", page.rel, "dead-end content page has no outgoing wikilinks"))
-        if not incoming.get(page.path):
+        if page.type != "query" and not incoming.get(page.path):
             findings.append(Finding("error", page.rel, "orphan content page has no incoming wikilinks"))
 
     return findings
+
+
+def first_tldr_line(page: Page) -> str:
+    lines = page.body.splitlines()
+    for idx, line in enumerate(lines):
+        if not line.strip():
+            continue
+        if line.strip() != "> [!tldr]":
+            return ""
+        if idx + 1 < len(lines) and lines[idx + 1].lstrip().startswith(">"):
+            return lines[idx + 1].lstrip("> ").strip()
+        return ""
+    return ""
+
+
+def source_count(page: Page) -> int:
+    return len(as_list(page.frontmatter.get("sources")))
+
+
+def catalog_metadata(page: Page) -> str:
+    fm = page.frontmatter
+    if page.type == "entity":
+        bits = [
+            str(fm.get("entity_type", "")),
+            f"practical: {fm.get('practical_status', '')}",
+            f"translational: {fm.get('translational_status', '')}",
+            f"evidence: {fm.get('evidence_level', '')}",
+        ]
+    elif page.type == "concept":
+        bits = [str(fm.get("concept_type", "")), str(fm.get("domain", ""))]
+    elif page.type == "hypothesis":
+        bits = [
+            f"status: {fm.get('hypothesis_status', '')}",
+            f"direction: {fm.get('effect_direction', '')}",
+            f"translational: {fm.get('translational_status', '')}",
+        ]
+    elif page.type == "source-summary":
+        bits = [
+            str(fm.get("study_type", "")),
+            f"role: {fm.get('source_role', '')}",
+            f"layer: {fm.get('evidence_layer', '')}",
+            f"read: {fm.get('reading_status', '')}",
+        ]
+    elif page.type == "comparison":
+        bits = [f"subjects: {len(as_list(fm.get('subjects')))}"]
+    elif page.type == "stack":
+        bits = [f"goal: {fm.get('goal', '')}", f"supplements: {len(as_list(fm.get('supplements')))}"]
+    elif page.type == "decision":
+        bits = [
+            str(fm.get("decision_type", "")),
+            f"action: {fm.get('action', '')}",
+            f"status: {fm.get('decision_status', '')}",
+            f"review: {fm.get('review_by', '')}",
+        ]
+    elif page.type == "dosing":
+        bits = [f"supplement: {fm.get('supplement', '')}"]
+    else:
+        bits = []
+    return "; ".join(bit for bit in bits if bit and not bit.endswith(": "))
+
+
+def catalog_groups(pages: list[Page]) -> list[tuple[str, list[Page]]]:
+    groups = [
+        (
+            "Supplements",
+            [
+                page
+                for page in pages
+                if page.type == "entity" and page.frontmatter.get("entity_type") == "supplement"
+            ],
+        ),
+        (
+            "Other Entities",
+            [
+                page
+                for page in pages
+                if page.type == "entity" and page.frontmatter.get("entity_type") != "supplement"
+            ],
+        ),
+        ("Concepts", [page for page in pages if page.type == "concept"]),
+        ("Hypotheses", [page for page in pages if page.type == "hypothesis"]),
+        ("Comparisons", [page for page in pages if page.type == "comparison"]),
+        ("Stacks", [page for page in pages if page.type == "stack"]),
+        ("Decisions", [page for page in pages if page.type == "decision"]),
+        ("Dosing Pages", [page for page in pages if page.type == "dosing"]),
+        ("Queries", [page for page in pages if page.type == "query"]),
+        ("Sources", [page for page in pages if page.type == "source-summary"]),
+    ]
+    return [(heading, sorted(items, key=lambda item: item.path.stem.lower())) for heading, items in groups]
+
+
+def existing_catalog_created() -> str:
+    if not CATALOG.exists():
+        return dt.date.today().isoformat()
+    parsed = parse_frontmatter(CATALOG.read_text(encoding="utf-8"))
+    if parsed is None:
+        return dt.date.today().isoformat()
+    created = parsed[0].get("created")
+    return created if isinstance(created, str) and is_iso_date(created) else dt.date.today().isoformat()
+
+
+def render_catalog(pages: list[Page]) -> str:
+    today = dt.date.today().isoformat()
+    created = existing_catalog_created()
+    page_stems = {page.path.stem for page in pages}
+    see_also = [
+        f"[[{stem}]]"
+        for stem in ("index", "research-backlog", "synthesis")
+        if stem in page_stems
+    ]
+    lines = [
+        "---",
+        "type: meta",
+        "sources: []",
+        f'created: "{created}"',
+        f'updated: "{today}"',
+        "status: current",
+        "tags:",
+        "  - meta",
+        "---",
+        "",
+        "> [!tldr]",
+        "> Static markdown catalog for agents and non-Obsidian workflows; generated from page frontmatter and TLDRs.",
+        "",
+        "# Static Catalog",
+        "",
+        "Generated by `python3 wiki/scripts/lint.py --rebuild-catalog`.",
+        "",
+    ]
+    if see_also:
+        lines.extend(["See also: " + ", ".join(see_also), ""])
+
+    for heading, items in catalog_groups(pages):
+        lines.append(f"## {heading}")
+        if not items:
+            lines.append("")
+            continue
+        for page in items:
+            metadata = catalog_metadata(page)
+            parts = [f"- [[{page.path.stem}]]", f"sources: {source_count(page)}"]
+            if metadata:
+                parts.append(metadata)
+            tldr = first_tldr_line(page)
+            if tldr:
+                parts.append(tldr)
+            lines.append(" | ".join(parts))
+        lines.append("")
+
+    return "\n".join(lines).rstrip() + "\n"
+
+
+def rebuild_catalog() -> str:
+    pages = [page for page in load_pages() if page.path != CATALOG]
+    CATALOG.parent.mkdir(parents=True, exist_ok=True)
+    CATALOG.write_text(render_catalog(pages), encoding="utf-8")
+    count = sum(1 for page in pages if page.type != "meta")
+    return f"wiki catalog: rebuilt {CATALOG.relative_to(ROOT).as_posix()} ({count} content pages)"
+
+
+def catalog_comparable(text: str) -> str:
+    return "\n".join(
+        line
+        for line in text.splitlines()
+        if not line.startswith(("created: ", "updated: "))
+    ).strip()
+
+
+def check_catalog_current(pages: list[Page]) -> list[Finding]:
+    if not CATALOG.exists():
+        return [
+            Finding(
+                "error",
+                CATALOG.relative_to(ROOT).as_posix(),
+                "static catalog is missing; run `python3 wiki/scripts/lint.py --rebuild-catalog`",
+            )
+        ]
+    actual = CATALOG.read_text(encoding="utf-8")
+    expected = render_catalog([page for page in pages if page.path != CATALOG])
+    if catalog_comparable(actual) != catalog_comparable(expected):
+        return [
+            Finding(
+                "error",
+                CATALOG.relative_to(ROOT).as_posix(),
+                "static catalog is stale; run `python3 wiki/scripts/lint.py --rebuild-catalog`",
+            )
+        ]
+    return []
 
 
 def sha256(path: Path) -> str:
@@ -884,11 +1174,118 @@ def check_promotion_queue(today: dt.date) -> list[Finding]:
     return findings
 
 
-def run_checks(staleness_only: bool) -> list[Finding]:
+def split_table_row(line: str) -> list[str]:
+    """Split a markdown table row while preserving escaped pipes."""
+
+    placeholder = "\x00PIPE\x00"
+    cleaned = line.strip().replace(r"\|", placeholder)
+    if not cleaned.startswith("|") or not cleaned.endswith("|"):
+        return []
+    return [cell.strip().replace(placeholder, "|") for cell in cleaned.split("|")[1:-1]]
+
+
+def is_separator_row(cells: list[str]) -> bool:
+    return bool(cells) and all(set(cell.replace(":", "").strip()) <= {"-"} for cell in cells)
+
+
+def check_research_queue(today: dt.date) -> list[Finding]:
+    path = WIKI / "research-queue.md"
+    if not path.exists():
+        return [
+            Finding(
+                "warn",
+                "wiki/research-queue.md",
+                "research queue is missing; run `python3 wiki/scripts/backlog_sync.py --apply` after adding gaps",
+            )
+        ]
+
+    findings: list[Finding] = []
+    seen_ids: set[str] = set()
+    for line in path.read_text(encoding="utf-8").splitlines():
+        if not line.strip().startswith("|"):
+            continue
+        cells = split_table_row(line)
+        if len(cells) != 8 or cells[0] in {"#", ""} or is_separator_row(cells):
+            continue
+        item_id, question, source, surfaced_from, priority, review_by, status, resolved = cells
+        if not re.fullmatch(r"R\d{3}", item_id):
+            findings.append(Finding("error", path.relative_to(ROOT).as_posix(), f"invalid queue id `{item_id}`"))
+        if item_id in seen_ids:
+            findings.append(Finding("error", path.relative_to(ROOT).as_posix(), f"duplicate queue id `{item_id}`"))
+        seen_ids.add(item_id)
+        if not question or question == "-":
+            findings.append(Finding("error", path.relative_to(ROOT).as_posix(), f"{item_id} has empty Question"))
+        if not source or source == "-":
+            findings.append(Finding("error", path.relative_to(ROOT).as_posix(), f"{item_id} has empty Source Page"))
+        if not surfaced_from or surfaced_from == "-":
+            findings.append(Finding("error", path.relative_to(ROOT).as_posix(), f"{item_id} has empty Surfaced From"))
+        if priority not in QUEUE_PRIORITIES:
+            findings.append(
+                Finding("error", path.relative_to(ROOT).as_posix(), f"{item_id} priority must be high, medium, or low")
+            )
+        if not is_iso_date(review_by):
+            findings.append(
+                Finding("error", path.relative_to(ROOT).as_posix(), f"{item_id} Review By must be YYYY-MM-DD")
+            )
+            continue
+        if status not in QUEUE_STATUSES:
+            findings.append(
+                Finding("error", path.relative_to(ROOT).as_posix(), f"{item_id} status must be open, resolved, or deferred")
+            )
+            continue
+        if status == "open" and dt.date.fromisoformat(review_by) < today:
+            findings.append(
+                Finding("warn", path.relative_to(ROOT).as_posix(), f"{item_id} is past Review By date {review_by}")
+            )
+        if status == "resolved" and not resolved:
+            findings.append(
+                Finding("warn", path.relative_to(ROOT).as_posix(), f"{item_id} is resolved but has empty Resolution")
+            )
+    return findings
+
+
+def check_evidence_watch(today: dt.date) -> list[Finding]:
+    path = WIKI / "evidence-watch.md"
+    if not path.exists():
+        return [Finding("warn", "wiki/evidence-watch.md", "evidence watch is missing")]
+
+    findings: list[Finding] = []
+    rel = path.relative_to(ROOT).as_posix()
+    for line in path.read_text(encoding="utf-8").splitlines():
+        if not line.strip().startswith("|"):
+            continue
+        cells = split_table_row(line)
+        if len(cells) != 5 or cells[0] in {"Date", ""} or is_separator_row(cells):
+            continue
+        event_date, event, target, hypothesis_or_decision, status = cells
+        if not is_iso_date(event_date):
+            findings.append(Finding("error", rel, f"event date must be YYYY-MM-DD: `{event_date}`"))
+            continue
+        if not event:
+            findings.append(Finding("error", rel, f"event on {event_date} has empty Event"))
+        if not target:
+            findings.append(Finding("error", rel, f"event on {event_date} has empty Target"))
+        if not hypothesis_or_decision:
+            findings.append(Finding("error", rel, f"event on {event_date} has empty Hypothesis / Decision"))
+        if "- [ ]" not in status and "- [x]" not in status:
+            findings.append(
+                Finding("error", rel, f"event on {event_date} status must contain `- [ ]` or `- [x]`")
+            )
+            continue
+        if "- [ ]" in status and (today - dt.date.fromisoformat(event_date)).days > 7:
+            findings.append(Finding("warn", rel, f"unchecked past event from {event_date}: {event}"))
+    return findings
+
+
+def run_checks(staleness_only: bool, *, require_catalog: bool = True) -> list[Finding]:
     pages = load_pages()
+    if not require_catalog:
+        pages = [page for page in pages if page.path != CATALOG]
     if staleness_only:
         return check_staleness(pages)
     files = wiki_files()
+    if not require_catalog and CATALOG not in files:
+        files.append(CATALOG)
     targets = collect_targets(files)
     targets.update(collect_aliases(pages))
     source_summary_paths = {page.path for page in pages if page.type == "source-summary"}
@@ -900,15 +1297,44 @@ def run_checks(staleness_only: bool) -> list[Finding]:
     findings.extend(check_tldr_and_callouts(pages, targets, source_summary_paths))
     findings.extend(check_links(pages, files))
     findings.extend(check_staleness(pages))
+    if require_catalog:
+        findings.extend(check_catalog_current(pages))
     findings.extend(check_promotion_queue(dt.date.today()))
+    findings.extend(check_research_queue(dt.date.today()))
+    findings.extend(check_evidence_watch(dt.date.today()))
     return findings
 
 
 def main(argv: list[str]) -> int:
     parser = argparse.ArgumentParser(description="Lint the supplements research wiki.")
+    parser.add_argument(
+        "--vault",
+        default=None,
+        help="vault root containing CLAUDE.md and wiki/; defaults to this repository",
+    )
+    parser.add_argument(
+        "--rebuild-catalog",
+        action="store_true",
+        help="rewrite wiki/catalog.md from page frontmatter and TLDRs, then exit",
+    )
     parser.add_argument("--staleness-only", action="store_true", help="only check source hashes")
     parser.add_argument("--quiet", action="store_true", help="only print errors")
     args = parser.parse_args(argv)
+
+    if args.vault is not None:
+        set_root(Path(args.vault))
+
+    if args.rebuild_catalog:
+        findings = run_checks(False, require_catalog=False)
+        errors = [finding for finding in findings if finding.severity == "error"]
+        if errors:
+            for finding in errors:
+                print(finding.format())
+            return 1
+        for finding in findings:
+            print(finding.format())
+        print(rebuild_catalog())
+        return 0
 
     findings = run_checks(args.staleness_only)
     errors = [finding for finding in findings if finding.severity == "error"]
