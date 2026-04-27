@@ -1,0 +1,24 @@
+{
+  "id": "src-346",
+  "title": "Autophagy, aging, and age-related neurodegeneration.",
+  "authors": [
+    "Palmer, Jennifer E.",
+    "Wilson, Niall",
+    "Son, Sung Min",
+    "Obrocki, Pawel",
+    "Wrobel, L.",
+    "Rob, Matea",
+    "Takla, Michael",
+    "Korolchuk, V.",
+    "Rubinsztein, D."
+  ],
+  "doi": "10.1016/j.neuron.2024.09.015",
+  "url": "https://www.semanticscholar.org/paper/76a763c92403f3c8be1ff90daed3ed117409a6bd",
+  "provider": "semantic_scholar",
+  "year": 2024,
+  "venue": "Neuron",
+  "citation_count": 141,
+  "abstract": "Autophagy is a conserved mechanism that degrades damaged or superfluous cellular contents and enables nutrient recycling under starvation conditions. Many neurodegeneration-associated proteins are autophagy substrates, and autophagy upregulation ameliorates disease in many animal models of neurodegeneration by enhancing the clearance of toxic proteins, proinflammatory molecules, and dysfunctional organelles. Autophagy inhibition also induces neuronal and glial senescence, a phenomenon that occurs with increasing age in non-diseased brains as well as in response to neurodegeneration-associated stresses. However, aging and many neurodegeneration-associated proteins and mutations impair autophagy. This creates a potentially detrimental feedback loop whereby the accumulation of these disease-associated proteins impairs their autophagic clearance, facilitating their further accumulation and aggregation. Thus, understanding how autophagy interacts with aging, senescence, and neurodegenerative diseases in a temporal, cellular, and genetic context is important for the future clinical application of autophagy-modulating therapies in aging and neurodegeneration.",
+  "type": "academic",
+  "pdf_url": ""
+}

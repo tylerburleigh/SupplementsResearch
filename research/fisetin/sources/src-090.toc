@@ -1,0 +1,70 @@
+3	2	Review Article Open
+22	2	Introduction
+26	2	1 To further
+62	2	Inflammaging At The Cellular Level
+105	2	17 The primary features of senescent
+136	2	25 The results
+224	2	49 Therefore, the role of neutrophils in defending
+271	2	56 While age does not seem to affect the
+301	2	69 This suggests that the
+316	2	72 The
+348	2	82 This observation suggests that bone marrow-
+383	2	85 Although Treg cells increase in number with age, their
+417	2	70 Numerous studies have
+431	2	Inflammaging At The Organ Level
+562	2	114 However,
+600	2	127 Also, impaired function of
+622	2	131 In addition, older individuals,
+652	2	134 During aging, the
+663	2	135 Remarkably, even older adults without neurological
+689	2	140 In addition, because mature cardiomyocytes have a
+764	2	153 Activated hepatic
+767	2	154 During senescence, their replication, immune-
+854	2	169 In addition, the aging process
+864	2	176 These age-related changes in
+887	2	182 This is characterized by diminished popula-
+908	2	Mechanisms Of Inflammaging
+918	2	189 The SASP possesses the capacity to perpetuate
+933	2	190 Furthermore,
+944	2	198 At the
+1051	2	235 It is characterized by cellular swelling, loss of
+1061	2	236 It is important to note
+1104	2	241 On the other hand, in the
+1119	2	241 Importantly, nerve injury-
+1141	2	243 Moreover, pyrop-
+1183	2	250 Several
+1195	2	252 Ferroptosis inhibitors have shown promise in
+1215	2	258 With skeletal muscle aging, there is a decreased
+1266	2	268 Knockout of the
+1273	2	269 Senescent neutrophils exhibit several distinct
+1321	2	275 Cytokines or PAMPs trigger the
+1348	2	Classical Models To Study Aging
+1375	2	281 In addition, DNA repair
+1501	2	418 Severe growth retardation, hair loss, osteoporosis, muscle atrophy
+1561	2	284 OIS is often associated with DNA replication stress
+1585	2	289 Similarly, treatment of
+1589	2	290 In addition,
+1610	2	297 Mouse models of accelerated aging
+1818	2	304 For instance, mouse models of HGPS
+1838	2	309 With
+1854	2	312 On the other hand,
+1891	2	6 In addition, the low susceptibility of centenarians to
+1896	2	318 Compared with
+1913	2	198 The aging transcriptome landscape in
+1920	2	Intervention Strategies In Aging
+1924	2	320 More and more
+1935	2	324 Previous studies have also proved that
+1945	2	327 The supplementa-
+2147	2	334 These evidence suggest
+2192	2	341 The most potent
+2207	2	346 Considering the potential
+2214	2	347 Excessive clearance of senes-
+2227	2	350 Previously, CAR-T therapy
+2254	2	359 MSC transplantation
+2292	2	Discussion
+2319	2	371 On the
+2345	2	374 While immunobiography provides a com-
+2360	2	Acknowledgements
+2368	2	Author Contributions
+2371	2	Additional Information
+2373	2	References

@@ -1,0 +1,20 @@
+{
+  "id": "src-458",
+  "title": "Toll-like receptor 2 at the crossroad between cancer cells, the immune system, and the microbiota",
+  "authors": [
+    "Bolli, E.",
+    "Cavallo, F.",
+    "Conti, L.",
+    "Di Lorenzo, A.",
+    "Tarone, L."
+  ],
+  "doi": "10.3390/ijms21249418",
+  "url": "https://doi.org/10.3390/ijms21249418",
+  "provider": "core",
+  "year": 2020,
+  "venue": "'MDPI AG'",
+  "citation_count": 0,
+  "abstract": "Toll-like receptor 2 (TLR2) expressed on myeloid cells mediates the recognition of harmful molecules belonging to invading pathogens or host damaged tissues, leading to inflammation. For this ability to activate immune responses, TLR2 has been considered a player in anti-cancer immunity. Therefore, TLR2 agonists have been used as adjuvants for anti-cancer immunotherapies. However, TLR2 is also expressed on neoplastic cells from different malignancies and promotes their proliferation through activation of the myeloid differentiation primary response protein 88 (MyD88)/nuclear factor kappa-light-chain-enhancer of activated B cell (NF-&kappa;B) pathway. Furthermore, its activation on regulatory immune cells may contribute to the generation of an immunosuppressive microenvironment and of the pre-metastatic niche, promoting cancer progression. Thus, TLR2 represents a double-edge sword, whose role in cancer needs to be carefully understood for the setup of effective therapies. In this review, we discuss the divergent effects induced by TLR2 activation in different immune cell populations, cancer cells, and cancer stem cells. Moreover, we analyze the stimuli that lead to its activation in the tumor microenvironment, addressing the role of danger, pathogen, and microbiota-associated molecular patterns and their modulation during cancer treatments. This information will contribute to the scientific debate on the use of TLR2 agonists or antagonists in cancer treatment and pave the way for new therapeutic avenues",
+  "type": "academic",
+  "pdf_url": "https://core.ac.uk/download/385863388.pdf"
+}

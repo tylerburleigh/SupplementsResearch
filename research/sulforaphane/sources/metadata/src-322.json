@@ -1,0 +1,23 @@
+{
+  "id": "src-322",
+  "title": "Regulation of Mammary Stem/Progenitor Cells by PTEN/Akt/β-Catenin Signaling",
+  "authors": [
+    "Körkaya, Hasan",
+    "Paulson, Amanda K.",
+    "Charafe‐Jauffret, Emmanuelle",
+    "Ginestier, Christophe",
+    "Brown, Marty",
+    "Dutcher, Julie",
+    "Clouthier, Shawn G.",
+    "Wicha, Max S."
+  ],
+  "doi": "10.1371/journal.pbio.1000121",
+  "url": "https://openalex.org/W2009094422",
+  "provider": "openalex",
+  "year": 2009,
+  "venue": "PLoS Biology",
+  "citation_count": 525,
+  "abstract": "Recent evidence suggests that many malignancies, including breast cancer, are driven by a cellular subcomponent that displays stem cell-like properties. The protein phosphatase and tensin homolog (PTEN) is inactivated in a wide range of human cancers, an alteration that is associated with a poor prognosis. Because PTEN has been reported to play a role in the maintenance of embryonic and tissue-specific stem cells, we investigated the role of the PTEN/Akt pathway in the regulation of normal and malignant mammary stem/progenitor cell populations. We demonstrate that activation of this pathway, via PTEN knockdown, enriches for normal and malignant human mammary stem/progenitor cells in vitro and in vivo. Knockdown of PTEN in normal human mammary epithelial cells enriches for the stem/progenitor cell compartment, generating atypical hyperplastic lesions in humanized NOD/SCID mice. Akt-driven stem/progenitor cell enrichment is mediated by activation of the Wnt/beta-catenin pathway through the phosphorylation of GSK3-beta. In contrast to chemotherapy, the Akt inhibitor perifosine is able to target the tumorigenic cell population in breast tumor xenografts. These studies demonstrate an important role for the PTEN/PI3-K/Akt/beta-catenin pathway in the regulation of normal and malignant stem/progenitor cell populations and suggest that agents that inhibit this pathway are able to effectively target tumorigenic breast cancer cells.",
+  "type": "academic",
+  "pdf_url": "https://journals.plos.org/plosbiology/article/file?id=10.1371/journal.pbio.1000121&type=printable"
+}

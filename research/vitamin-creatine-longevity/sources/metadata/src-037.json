@@ -1,0 +1,26 @@
+{
+  "id": "src-037",
+  "title": "Biomarkers of meat and seafood intake: an extensive literature review",
+  "authors": [
+    "Cuparencu, Cătălina",
+    "Praticò, Giulia",
+    "Hemeryck, Lieselot",
+    "Harsha, P.S.C. Sri",
+    "Noerman, Stefania",
+    "Rombouts, Caroline",
+    "Xi, Muyao",
+    "Vanhaecke, Lynn",
+    "Hanhineva, Kati",
+    "Brennan, Lorraine",
+    "Dragsted, Lars Ove"
+  ],
+  "doi": "10.1186/s12263-019-0656-4",
+  "url": "https://openalex.org/W2998294571",
+  "provider": "openalex",
+  "year": 2019,
+  "venue": "Genes & Nutrition",
+  "citation_count": 125,
+  "abstract": "Meat, including fish and shellfish, represents a valuable constituent of most balanced diets. Consumption of different types of meat and fish has been associated with both beneficial and adverse health effects. While white meats and fish are generally associated with positive health outcomes, red and especially processed meats have been associated with colorectal cancer and other diseases<i>.</i> The contribution of these foods to the development or prevention of chronic diseases is still not fully elucidated. One of the main problems is the difficulty in properly evaluating meat intake, as the existing self-reporting tools for dietary assessment may be imprecise and therefore affected by systematic and random errors. Dietary biomarkers measured in biological fluids have been proposed as possible objective measurements of the actual intake of specific foods and as a support for classical assessment methods. Good biomarkers for meat intake should reflect total dietary intake of meat, independent of source or processing and should be able to differentiate meat consumption from that of other protein-rich foods; alternatively, meat intake biomarkers should be specific to each of the different meat sources (e.g., red vs. white; fish, bird, or mammal) and/or cooking methods. In this paper, we present a systematic investigation of the scientific literature while providing a comprehensive overview of the possible biomarker(s) for the intake of different types of meat, including fish and shellfish, and processed and heated meats according to published guidelines for biomarker reviews (BFIrev). The most promising biomarkers are further validated for their usefulness for dietary assessment by published validation criteria.",
+  "type": "academic",
+  "pdf_url": "https://genesandnutrition.biomedcentral.com/track/pdf/10.1186/s12263-019-0656-4"
+}

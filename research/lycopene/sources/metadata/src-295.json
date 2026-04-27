@@ -1,0 +1,16 @@
+{
+  "id": "src-295",
+  "title": "Targeting multiple signaling pathways as a strategy for managing prostate cancer: multifocal signal modulation therapy.",
+  "authors": [
+    "McCarty, Mark F"
+  ],
+  "doi": "10.1177/1534735404270757",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/15523106",
+  "provider": "pubmed",
+  "year": 2004,
+  "venue": "Integrative cancer therapies",
+  "citation_count": 0,
+  "abstract": "The aberrant behavior of cancer reflects upregulation of certain oncogenic signaling pathways that promote proliferation, inhibit apoptosis, and enable the cancer to spread and evoke angiogenesis. Theoretically, it should be feasible to decrease the activity of these pathways-or increase the activity of pathways that oppose them-with noncytotoxic agents. Since multiple pathways are dysfunctional in most cancers, and cancers accumulate new oncogenic mutations as they progress, the greatest and most durable therapeutic benefit will likely be achieved with combination regimens that address several targets. Thus, a multifocal signal modulation therapy (MSMT) of cancer is proposed. This concept has already been documented by researchers who have shown that certain combinations of signal modulators-of limited utility when administered individually-can achieve dramatic suppression of tumor growth in rodent xenograft models. The present essay attempts to guide development of MSMTs for prostate cancer. Androgen ablation is a signal-modulating measure already in standard use in the management of delocalized prostate cancer. The additional molecular targets considered here include the type 1 insulin-like growth factor receptor, the epidermal growth factor receptor, mammalian target of rapamycin, NF-kappaB, hypoxia-inducible factor-1alpha, hsp90, cyclooxygenase-2, protein kinase A type I, vascular endothelial growth factor, 5-lipoxygenase, 12-lipoxygenase, angiotensin II receptor type 1, bradykinin receptor type 1, c-Src, interleukin-6, ras, MDM2, bcl-2/bclxL, vitamin D receptor, estrogen receptor-beta, and PPAR-. Various nutrients and phytochemicals suspected to have potential utility in prostate cancer prevention and therapy, but whose key molecular targets are still unknown, might reasonably be incorporated into MSMTs for prostate cancer; these include lycopene, selenium, green tea polyphenols, genistein, and silibinin. MSMTs can be developed systematically by testing various combinations of signal-modulating agents, in concentrations that can feasibly be achieved and maintained clinically, on human prostate cancer cell lines; combinations that appear promising can then be tested in xenograft models and, ultimately, in the clinic. Some signal modulators can increase response to cytotoxic drugs by upregulating effectors of apoptosis. When MSMTs fail to raise the spontaneous apoptosis rate sufficiently to achieve tumor stasis or regression, incorporation of appropriate cytotoxic agents into the regimen may improve the clinical outcome.",
+  "type": "academic",
+  "pdf_url": ""
+}

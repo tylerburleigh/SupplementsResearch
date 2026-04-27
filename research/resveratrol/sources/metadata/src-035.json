@@ -1,0 +1,21 @@
+{
+  "id": "src-035",
+  "title": "Effect of resveratrol on inflammatory cytokines: A meta-analysis of randomized controlled trials.",
+  "authors": [
+    "Omraninava, Melodi",
+    "Razi, Bahman",
+    "Aslani, Saeed",
+    "Imani, Danyal",
+    "Jamialahmadi, Tannaz",
+    "Sahebkar, Amirhossein"
+  ],
+  "doi": "10.1016/j.ejphar.2021.174380",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34303665",
+  "provider": "pubmed",
+  "year": 2021,
+  "venue": "European journal of pharmacology",
+  "citation_count": 0,
+  "abstract": "The aim of the current study was to perform a meta-analysis of randomized clinical trials regarding the effect of resveratrol in decreasing the levels of inflammatory cytokines, including interleukin (IL)-1, IL-6, IL-8, and tumor necrosis factor (TNF)-α in a combination of inflammatory diseases. Literature search was carried out in Scopus, ISI web of science, Medline, and Cochrane Library databases by up to September 2020. The pooled effect size was determined through measuring the weighted mean differences (WMD) and their corresponding 95% confidence intervals (CI) for the difference between the resveratrol-receiving and control groups. Finally, 33 publications, including 3 studies on IL-1, 26 studies on IL-6, 4 studies on IL-8, and 21 studies on TNF-α met our final inclusion criteria and included in the quantitative analysis. Analysis in the overall population showed a significant effect of resveratrol consumption in reducing serum TNF-α levels (WMD = -0.66 pg/ml, 95% CI = -1.05 to -0.27, P = 0.001). A significant reduction of IL-6 concentration was observed only in the patients receiving ≥500 mg/day dose of resveratrol (WMD = -1.89 pg/ml, 95% CI = -3.73 to -0.05, P = 0.04) with inter-study heterogeneity (I2 = 94.4%, P < 0.001). Nonetheless, no significant alteration was observed in IL-1 (WMD = -0.14 pg/ml, 95% CI = -0.31 to 0.03, P = 0.10) and IL-8 (WMD = 0.18 pg/ml, 95% CI = -1.04 to 1.40, P = 0.73) levels following resveratrol consumption. Based on the present findings, resveratrol is able to decrease TNF-α and IL-6 (in ≥500 mg/day dose) levels but not IL-1 and IL-8 levels.",
+  "type": "academic",
+  "pdf_url": ""
+}

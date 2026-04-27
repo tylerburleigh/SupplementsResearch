@@ -1,0 +1,21 @@
+{
+  "id": "src-320",
+  "title": "Activation of the Wnt Signaling Pathway: A Molecular Mechanism for Lithium Action",
+  "authors": [
+    "Hedgepeth, Chester M.",
+    "Conrad, Leslee J.",
+    "Zhang, Jie",
+    "Huang, Hui‐Chuan",
+    "Lee, V. M.-Y.",
+    "Klein, Peter S."
+  ],
+  "doi": "10.1006/dbio.1997.8552",
+  "url": "https://openalex.org/W2048675800",
+  "provider": "openalex",
+  "year": 1997,
+  "venue": "Developmental Biology",
+  "citation_count": 643,
+  "abstract": "Glycogen synthase kinase-3 beta (GSK-3 beta/zeste-white-3/shaggy) is a negative regulator of the wnt signaling pathway which plays a central role in the development of invertebrates and vertebrates; loss of function and dominant negative mutations in GSK-3 beta lead to activation of the wnt pathway in Drosophila and Xenopus. We now provide evidence that lithium activates downstream components of the wnt signaling pathway in vivo, leading to accumulation of beta-catenin protein. Our data indicate that this activation of the wnt pathway is a consequence of inhibition of GSK-3 beta by lithium. Using a novel assay for GSK-3 beta in oocytes, we show that lithium inhibits GSK-3 beta from species as diverse as Dictyostelium discoideum and Xenopus laevis, providing a biochemical mechanism for the action of lithium on the development of these organisms. Lithium treatment also leads to activation of an AP-1-luciferase reporter in Xenopus embryos, consistent with previous observations that GSK-3 beta inhibits c-jun activity. Activation of the wnt pathway with a dominant negative form of GSK-3 beta is inhibited by myo-inositol, similar to the previously described effect of coinjecting myo-inositol with lithium. The mechanism by which myo-inositol inhibits both dominant negative GSK-3 beta and lithium remains uncertain.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.1006/dbio.1997.8552"
+}

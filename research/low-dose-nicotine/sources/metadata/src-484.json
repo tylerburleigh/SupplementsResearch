@@ -1,0 +1,32 @@
+{
+  "id": "src-484",
+  "title": "KDIGO 2020 Clinical Practice Guideline for Diabetes Management in Chronic Kidney Disease",
+  "authors": [
+    "Boer, Ian H. de",
+    "Caramori, M. Luiza",
+    "Chan, Juliana C.N.",
+    "Heerspink, Hiddo J.L.",
+    "Hurst, Clint",
+    "Khunti, Kamlesh",
+    "Liew, Adrian",
+    "Michos, Erin D.",
+    "Navaneethan, Sankar D.",
+    "Olowu, Wasiu A.",
+    "Sadusky, Tami",
+    "Tandon, Nikhil",
+    "Tuttle, Katherine R.",
+    "Wanner, Christoph",
+    "Wilkens, Katy G.",
+    "Zoungas, Sophia",
+    "Rossing, Peter"
+  ],
+  "doi": "10.1016/j.kint.2020.06.019",
+  "url": "https://openalex.org/W3096486083",
+  "provider": "openalex",
+  "year": 2020,
+  "venue": "Kidney International",
+  "citation_count": 1392,
+  "abstract": "",
+  "type": "academic",
+  "pdf_url": "https://curis.ku.dk/ws/files/259830341/PIIS0085253820307183.pdf"
+}

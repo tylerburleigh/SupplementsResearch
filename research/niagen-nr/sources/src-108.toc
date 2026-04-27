@@ -1,0 +1,81 @@
+41	2	Nad
+77	2	Original Research Article
+88	2	Original Research
+89	2	Article
+121	2	Nad
+164	2	Methods
+212	2	Original Research
+213	2	Article
+220	2	30 All
+246	2	Statistical Analysis
+259	2	Results
+293	2	Srf
+330	2	Original Research
+331	2	Article
+367	2	Original Research
+368	2	Article
+394	2	Original Research
+395	2	Article
+413	2	Srf
+427	2	Hko
+446	2	Nad
+461	2	34 NR increased the ex-
+506	2	Fhko
+511	2	Hko
+524	2	Original Research
+525	2	Article
+535	2	Original Research
+536	2	Article
+565	2	Hko Lv
+574	2	Srf
+643	2	Original Research
+644	2	Article
+670	2	Original Research
+671	2	Article
+784	2	Original Research
+785	2	Article
+821	2	Original Research
+822	2	Article
+831	2	Original Research
+832	2	Article
+874	2	Discussion
+919	2	Original Research
+920	2	Article
+1005	2	Original Research
+1006	2	Article
+1041	2	Nad
+1080	2	Original Research
+1081	2	Article
+1093	2	Nad
+1123	2	34 In the SRFHKO heart, NR was shown to result
+1150	2	50 Our study and previous findings by oth-
+1165	2	Article Information
+1189	2	Acknowledgments
+1207	2	Original Research
+1208	2	Article
+1217	2	References
+1246	2	10. Oka S, Alcendor R, Zhai P , Park JY, Shao D, Cho J, Yamamoto T, Tian B,
+1257	2	13. Trammell SA, Weidemann BJ, Chadda A, Yorek MS, Holmes A, Coppey
+1261	2	14. Lund LH, Edwards LB, Kucheryavaya AY, Benden C, Dipchand AI, Gold-
+1267	2	15. Parlakian A, Charvet C, Escoubet B, Mericskay M, Molkentin JD, Gary-
+1272	2	16. Tritsch E, Mallat Y, Lefebvre F, Diguet N, Escoubet B, Blanc J, De Windt LJ,
+1276	2	17. Touvron M, Escoubet B, Mericskay M, Angelini A, Lamotte L, Santini MP ,
+1281	2	18. Diguet N, Mallat Y, Ladouce R, Clodic G, Prola A, Tritsch E, Blanc J, Larcher
+1290	2	20. Kuwahara K, Teg Pipes GC, McAnally J, Richardson JA, Hill JA, Bassel-Duby
+1294	2	21. Frank D, Rangrez AY, Poyanmehr R, Seeger TS, Kuhn C, Eden M, Stiebel-
+1320	2	27. Cerutti R, Pirinen E, Lamperti C, Marchet S, Sauve AA, Li W, Leoni V, Schon
+1328	2	29. Trammell SA, Schmidt MS, Weidemann BJ, Redpath P , Jaksch F, Del-
+1337	2	31. Grozio A, Sociali G, Sturla L, Caffa I, Soncini D, Salis A, Raffaelli N, De
+1348	2	34. Schmeisser K, Mansfeld J, Kuhlow D, Weimer S, Priebe S, Heiland I,
+1356	2	Original Research
+1357	2	Article
+1362	2	36. Galli U, Travelli C, Massarotti A, Fakhfouri G, Rahimian R, Tron GC,
+1366	2	37. Pillai VB, Sundaresan NR, Kim G, Gupta M, Rajamohan SB, Pillai JB, Samant S,
+1373	2	39. Muchir A, Pavlidis P , Decostre V, Herron AJ, Arimura T, Bonne G, Worman
+1377	2	40. Akbay EA, Moslehi J, Christensen CL, Saha S, Tchaicha JH, Ramkissoon SH,
+1385	2	41. Martin OJ, Lai L, Soundarapandian MM, Leone TC, Zorzano A, Keller
+1402	2	46. Lee CF, Chavez JD, Garcia-Menendez L, Choi Y, Roe ND, Chiao YA, Edgar
+1406	2	47. Ratajczak J, Joffraud M, Trammell SA, Ras R, Canela N, Boutant M, Kulkar-
+1411	2	48. Fletcher RS, Ratajczak J, Doig CL, Oakey LA, Callingham R, Da Silva Xavier
+1417	2	49. Wellen KE, Hatzivassiliou G, Sachdeva UM, Bui TV, Cross JR, Thompson
+1420	2	50. Shi H, Enriquez A, Rapadas M, Martin EMMA, Wang R, Moreau J, Lim

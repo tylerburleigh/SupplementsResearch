@@ -1,0 +1,16 @@
+{
+  "id": "src-247",
+  "title": "Infections and Autoimmunity—The Immune System and Vitamin D: A Systematic Review",
+  "authors": [
+    "Wimalawansa, Sunil J."
+  ],
+  "doi": "10.3390/nu15173842",
+  "url": "https://openalex.org/W4386435997",
+  "provider": "openalex",
+  "year": 2023,
+  "venue": "Nutrients",
+  "citation_count": 100,
+  "abstract": "Both 25-autoimmunity and(25(OH)D: calcifediol) and its active form, 1,25-dihydroxyvitamin D (1,25(OH)<sub>2</sub>D: calcitriol), play critical roles in protecting humans from invasive pathogens, reducing risks of autoimmunity, and maintaining health. Conversely, low 25(OH)D status increases susceptibility to infections and developing autoimmunity. This systematic review examines vitamin D's mechanisms and effects on enhancing innate and acquired immunity against microbes and preventing autoimmunity. The study evaluated the quality of evidence regarding biology, physiology, and aspects of human health on vitamin D related to infections and autoimmunity in peer-reviewed journal articles published in English. The search and analyses followed PRISMA guidelines. Data strongly suggested that maintaining serum 25(OH)D concentrations of more than 50 ng/mL is associated with significant risk reduction from viral and bacterial infections, sepsis, and autoimmunity. Most adequately powered, well-designed, randomized controlled trials with sufficient duration supported substantial benefits of vitamin D. Virtually all studies that failed to conclude benefits or were ambiguous had major study design errors. Treatment of vitamin D deficiency costs less than 0.01% of the cost of investigation of worsening comorbidities associated with hypovitaminosis D. Despite cost-benefits, the prevalence of vitamin D deficiency remains high worldwide. This was clear among those who died from COVID-19 in 2020/21-most had severe vitamin D deficiency. Yet, the lack of direction from health agencies and insurance companies on using vitamin D as an adjunct therapy is astonishing. Data confirmed that keeping an individual's serum 25(OH)D concentrations above 50 ng/mL (125 nmol/L) (and above 40 ng/mL in the population) reduces risks from community outbreaks, sepsis, and autoimmune disorders. Maintaining such concentrations in 97.5% of people is achievable through daily safe sun exposure (except in countries far from the equator during winter) or taking between 5000 and 8000 IU vitamin D supplements daily (average dose, for non-obese adults, ~70 to 90 IU/kg body weight). Those with gastrointestinal malabsorption, obesity, or on medications that increase the catabolism of vitamin D and a few other specific disorders require much higher intake. This systematic review evaluates non-classical actions of vitamin D, with particular emphasis on infection and autoimmunity related to the immune system.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2072-6643/15/17/3842/pdf?version=1693819862"
+}

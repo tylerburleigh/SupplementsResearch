@@ -1,0 +1,29 @@
+{
+  "id": "src-009",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://genesight.com/white-papers/what-are-the-treatment-options-for-patients-with-the-mthfr-c677t-mutation",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-20T12:20:14.894402+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-009.md",
+  "quality_details": {
+    "content_length": 18660,
+    "alpha_ratio": 0.765,
+    "sentence_count": 311,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

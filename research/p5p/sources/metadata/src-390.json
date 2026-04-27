@@ -1,0 +1,20 @@
+{
+  "id": "src-390",
+  "title": "Association between nutrient intake and inflammatory bowel disease risk: Insights from NHANES data and dose-response analysis.",
+  "authors": [
+    "Xiong, Nuoya",
+    "Zhang, Wei",
+    "Zhang, Yajie",
+    "Nie, Chunlai",
+    "Dan, Hongxia"
+  ],
+  "doi": "10.1016/j.nut.2024.112632",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39700661",
+  "provider": "pubmed",
+  "year": 2025,
+  "venue": "Nutrition (Burbank, Los Angeles County, Calif.)",
+  "citation_count": 0,
+  "abstract": "BACKGROUND: The role of dietary and nutritional factors in inflammatory bowel disease (IBD) remains poorly understood, necessitating further investigation. This study aims to explore the association between nutrient intake and the risk of IBD.\nMETHODS: This cross-sectional study utilized data from the 2009-2010 NHANES cycle, focusing on individuals with complete 24-hour dietary intake records and clinically assessed IBD information. Nutrient intake was assessed through dietary recalls and supplement data. Associations between nutrient intake and IBD risk were analyzed by propensity score matching (PSM) with balanced baseline characteristics and logistic regression. Dose-response relationships were examined by restricted cubic splines (RCS). Statistical significance was set at P < 0.05, and analyses were conducted using R software.\nRESULTS: The study included 4,072 participants with clinically assessed IBD and complete nutrient intake data. In adjusted analyses, lower intake of vitamin B3, copper, phosphorus, selenium, sodium, and protein below the recommended dietary allowance may increase the risk of developing IBD. Similarly, reduced intake of vitamin B6, vitamin E, and total PUFA is associated with elevated susceptibility to IBD.\nCONCLUSION: This study elucidates the intricate relationship between nutrient intake and the onset of IBD, underscoring the importance of maintaining a balanced diet for gastrointestinal health. These findings emphasize the significance of informed dietary choices in promoting intestinal wellness and potentially reducing the risk of IBD development.",
+  "type": "academic",
+  "pdf_url": ""
+}

@@ -1,0 +1,24 @@
+{
+  "id": "src-174",
+  "title": "Gene expression in response to anti-tumour intervention by polysaccharide-K (PSK) in colorectal carcinoma cells",
+  "authors": [
+    "Yoshikawa, Reigetsu",
+    "Yanagi, Hidenori",
+    "Hashimoto-Tamaoki, Tomoko",
+    "Morinaga, Tomonori",
+    "Nakano, Yoshiro",
+    "Noda, Masafumi",
+    "Fujiwara, Yoshinori",
+    "Okamura, Haruki",
+    "Yamamura, Takehira"
+  ],
+  "doi": "10.3892/or.12.6.1287",
+  "url": "https://openalex.org/W2133002666",
+  "provider": "openalex",
+  "year": 2004,
+  "venue": "Oncology Reports",
+  "citation_count": 23,
+  "abstract": "Distant metastasis is one of the major problems in treatment for advanced colorectal cancer. Polysaccharide-K (PSK), or Krestin, a mushroom ingredient, has been used as a chemoimmunotherapeutic agent for the treatment of cancers in Asia for over 30 years. Some studies have reported that PSK prevent distant metastases and improve survival rates by 10-20% in colorectal cancer. However, the mechanism of the interrelated immunomodulatory and direct anti-cancer cell activities of PSK has yet to be elucidated. To investigate the direct effect, we used cDNA microarrays to analyse expression profiles in a human colorectal adenocarcinoma cell line, HCT116, containing the wild-type p53 gene. Expression of 453 genes was significantly altered (142 up-regulated and 311 down-regulated) after 96 h exposure to 500 microg/ml PSK. Under more stringent conditions, 9 genes were up-regulated and 36 down-regulated. We then examined the expression of candidate genes in two cell lines, HCT116, and SW480, a cell line with a mutant p53 gene. Our results suggest that PSK may augment anti-tumour action via genes including multidrug resistance protein 3 (MRP3), lymphotactin (Lptn), transgelin (TAGLN), and Pirin, without disturbing cell-cycle progression, and may deserve a large clinical trial in cancer therapy.",
+  "type": "academic",
+  "pdf_url": ""
+}

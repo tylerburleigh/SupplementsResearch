@@ -1,0 +1,19 @@
+{
+  "id": "src-548",
+  "title": "Redox Paradox of Polyphenols: Bioavailability, Hormesis, and Safety Concerns.",
+  "authors": [
+    "Vranková, S.",
+    "Cebova, M.",
+    "Klimentova, Jana",
+    "Pecháňová, Oľga"
+  ],
+  "doi": "10.1002/ptr.70268",
+  "url": "https://www.semanticscholar.org/paper/b7b6608657287f06012c53371b87ca81a547f044",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "Phytotherapy Research",
+  "citation_count": 2,
+  "abstract": "Polyphenols are widely recognized for their antioxidant, anti-inflammatory, and disease-preventive properties, yet accumulating evidence highlights a paradoxical nature of their biological activity. At physiological dietary levels, polyphenols exert beneficial effects through modulation of redox homeostasis, signaling pathways, and protective enzyme systems. However, high-dose supplementation or pharmacological use may disrupt cellular balance, leading to pro-oxidant activity, enzyme inhibition, endocrine disruption, and organ toxicity. This review summarizes current knowledge on the dual effects of polyphenols, emphasizing their hormetic dose-response behavior and the context-dependent outcomes of their intake. Adverse outcomes have been reported across experimental and clinical studies. These include carcinogenic effects, impaired iron absorption resulting in anemia, thyroid hormone disturbances, hepatotoxicity, nephrotoxicity, and gastrointestinal intolerance. Mechanistic pathways involve mainly metal ion chelation, cytochrome P450 interference, and the formation of reactive quinone intermediates that bind protein thiols, deplete glutathione, and increase reactive oxygen species. Such processes compromise redox balance, alter cellular signaling, and may exacerbate underlying disease states. These findings underscore the need for a nuanced understanding of polyphenol biology beyond their presumed antioxidant role. Future research should prioritize dose-response characterization, mechanistic clarification of pro-oxidant and endocrine-disrupting effects, and rigorous clinical evaluation of long-term safety. Optimizing the health benefits of polyphenols will require dosing strategies informed by their hormetic nature, variable bioavailability, and individual physiological context, ensuring efficacy without triggering harmful side effects.",
+  "type": "academic",
+  "pdf_url": ""
+}

@@ -1,0 +1,20 @@
+{
+  "id": "src-243",
+  "title": "Role of resveratrol in prevention and therapy of cancer: preclinical and clinical studies.",
+  "authors": [
+    "Aggarwal, Bharat B.",
+    "Bhardwaj, Anjana",
+    "Aggarwal, Rishi S.",
+    "Seeram, Navindra P.",
+    "Shishodia, Shishir",
+    "Takada, Yasunari"
+  ],
+  "url": "https://openalex.org/W2171467827",
+  "provider": "openalex",
+  "year": 2004,
+  "venue": "PubMed",
+  "citation_count": 1393,
+  "abstract": "Resveratrol, trans-3,5,4'-trihydroxystilbene, was first isolated in 1940 as a constituent of the roots of white hellebore (Veratrum grandiflorum O. Loes), but has since been found in various plants, including grapes, berries and peanuts. Besides cardioprotective effects, resveratrol exhibits anticancer properties, as suggested by its ability to suppress proliferation of a wide variety of tumor cells, including lymphoid and myeloid cancers; multiple myeloma; cancers of the breast, prostate, stomach, colon, pancreas, and thyroid; melanoma; head and neck squamous cell carcinoma; ovarian carcinoma; and cervical carcinoma. The growth-inhibitory effects of resveratrol are mediated through cell-cycle arrest; upregulation of p21Cip1/WAF1, p53 and Bax; down-regulation of survivin, cyclin D1, cyclin E, Bcl-2, Bcl-xL and clAPs; and activation of caspases. Resveratrol has been shown to suppress the activation of several transcription factors, including NF-kappaB, AP-1 and Egr-1; to inhibit protein kinases including IkappaBalpha kinase, JNK, MAPK, Akt, PKC, PKD and casein kinase II; and to down-regulate products of genes such as COX-2, 5-LOX, VEGF, IL-1, IL-6, IL-8, AR and PSA. These activities account for the suppression of angiogenesis by this stilbene. Resveratrol also has been shown to potentiate the apoptotic effects of cytokines (e.g., TRAIL), chemotherapeutic agents and gamma-radiation. Phamacokinetic studies revealed that the target organs of resveratrol are liver and kidney, where it is concentrated after absorption and is mainly converted to a sulfated form and a glucuronide conjugate. In vivo, resveratrol blocks the multistep process of carcinogenesis at various stages: it blocks carcinogen activation by inhibiting aryl hydrocarbon-induced CYP1A1 expression and activity, and suppresses tumor initiation, promotion and progression. Besides chemopreventive effects, resveratrol appears to exhibit therapeutic effects against cancer. Limited data in humans have revealed that resveratrol is pharmacologically quite safe. Currently, structural analogues of resveratrol with improved bioavailability are being pursued as potential therapeutic agents for cancer.",
+  "type": "academic",
+  "pdf_url": ""
+}

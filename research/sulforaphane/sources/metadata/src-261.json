@@ -1,0 +1,25 @@
+{
+  "id": "src-261",
+  "title": "Dietary Phytochemicals Targeting Cancer Stem Cells",
+  "authors": [
+    "Líšková, Alena",
+    "Kubatka, Peter",
+    "Samec, Marek",
+    "Žúbor, Pavol",
+    "Mlynček, M",
+    "Bielik, Tibor",
+    "Samuel, Samson Mathews",
+    "Zulli, Anthony",
+    "Kwon, Taeg Kyu",
+    "Büsselberg, Dietrich"
+  ],
+  "doi": "10.3390/molecules24050899",
+  "url": "https://openalex.org/W2918542504",
+  "provider": "openalex",
+  "year": 2019,
+  "venue": "Molecules",
+  "citation_count": 90,
+  "abstract": "There is an increasing awareness of the importance of a diet rich in fruits and vegetables for human health. Cancer stem cells (CSCs) are characterized as a subpopulation of cancer cells with aberrant regulation of self-renewal, proliferation or apoptosis leading to cancer progression, invasiveness, metastasis formation, and therapy resistance. Anticancer effects of phytochemicals are also directed to target CSCs. Here we provide a comprehensive review of dietary phytochemicals targeting CSCs. Moreover, we evaluate and summarize studies dealing with effects of dietary phytochemicals on CSCs of various malignancies in preclinical and clinical research. Dietary phytochemicals have a significant impact on CSCs which may be applied in cancer prevention and treatment. However, anticancer effects of plant derived compounds have not yet been fully investigated in clinical research.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/1420-3049/24/5/899/pdf?version=1552044262"
+}

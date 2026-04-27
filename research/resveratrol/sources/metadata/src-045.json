@@ -1,0 +1,19 @@
+{
+  "id": "src-045",
+  "title": "Impact of Resveratrol Supplementation on Human Sirtuin 1: A Grading of Recommendations Assessment, Development and Evaluation-Assessed Systematic Review and Dose-Response Meta-Analysis of Randomized Controlled Trials.",
+  "authors": [
+    "Mansouri, Fatemeh",
+    "Feliziani, Giulia",
+    "Bordoni, Laura",
+    "Gabbianelli, Rosita"
+  ],
+  "doi": "10.1016/j.jand.2025.03.011",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40158656",
+  "provider": "pubmed",
+  "year": 2025,
+  "venue": "Journal of the Academy of Nutrition and Dietetics",
+  "citation_count": 0,
+  "abstract": "BACKGROUND: Resveratrol, a natural polyphenol compound, possesses anti-aging, antitumor, and vascular protective properties. These attributes are believed to stem from its influence on Sirtuin 1 (Sirt1), a member of the human Sirtuin family and a nicotinamide adenine dinucleotide-dependent histone deacetylase.\nOBJECTIVE: The aim of this study was to quantitatively investigate the impact of resveratrol supplementation on Sirt1 levels in adults by conducting a systematic review and meta-analysis of randomized controlled trials (RCTs) involving resveratrol supplementation.\nMETHODS: This Grading of Recommendations Assessment, Development and Evaluation-assessed systematic review involved a comprehensive search of PubMed, Embase, MEDLINE, Scopus, Web of Science, Cochrane Central Register of Controlled Trials, and Google Scholar databases using related keywords and was conducted from March 14, 2024, to April 15, 2024, to identify all RCTs investigating resveratrol's effects on Sirt1. Effect sizes were quantified as mean differences (MDs) or standardized mean differences (SMDs), with standard deviations of outcomes. An overall effect estimate was derived using a random-effects model when 2 or more studies reported similar outcomes. Statistical heterogeneity was assessed through the calculation of I2 statistics. In addition, a dose-response analysis was performed to assess potential dose-response relationships. Risk of bias was assessed using the Cochrane risk-of-bias tool for RCTs (RoB 2). Publication bias was evaluated using Begg's test and a meta-regression using the year of publication as a moderator.\nRESULTS: Eleven RCTs examining the effects of resveratrol on Sirt1 gene expression (4 RCTs), protein expression (5 RCTs), and serum levels (3 RCTs) were included in the meta-analysis. The results showed no significant impact of resveratrol on Sirt1 gene expression (SMD = 0.05; 95% CI -0.24 to 0.344; P = .73), protein expression (SMD = 0.3; 95% CI -0.15 to 0.77; P = .18), or serum levels (MD = -0.04; 95% CI -0.235 to 0.16; P = .7). However, subgroup analyses suggested a significant increase in Sirt1 gene expression in studies with an intervention duration of <12 weeks and evaluating blood tissue. Furthermore, the impact of resveratrol on Sirt1 appeared to be influenced by the dosage regimen, with a significant effect for intervention duration.\nCONCLUSIONS: Study results indicate that resveratrol supplementation does not significantly influence human Sirt1 based on the overall meta-analysis. However, the dose-response analysis suggests that the effect of resveratrol on Sirt1 depends on the dosage regimen.",
+  "type": "academic",
+  "pdf_url": ""
+}

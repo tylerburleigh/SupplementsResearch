@@ -1,0 +1,41 @@
+{
+  "id": "src-087",
+  "title": "PDE5 inhibitor potentially improves polyuria and bladder storage and voiding dysfunctions in type 2 diabetic rats",
+  "authors": [
+    "Kabuto, Takafumi",
+    "Inamura, So",
+    "Kobayashi, Hisato",
+    "Zha, Xinmin",
+    "Nagase, Keiko",
+    "Taga, Minekatsu",
+    "Seki, Masaya",
+    "Tanaka, Nobuki",
+    "Okumura, Yoshinaga",
+    "Yokoyama, Osamu",
+    "Terada, Naoki"
+  ],
+  "year": 2024,
+  "abstract": "Purpose\nBladder dysfunction associated with type 2 diabetes mellitus (T2DM) includes urine storage and voiding disorders. We examined pathological conditions of the bladder wall in a rat T2DM model and evaluated the effects of the phosphodiesterase-5 (PDE-5) inhibitor tadalafil.\n\nMaterials and methods\nMale Otsuka Long-Evans Tokushima Fatty (OLETF) rats and Long-Evans Tokushima Otsuka (LETO) rats were used as the T2DM and control groups, respectively. Tadalafil was orally administered for 12 weeks. Micturition behavior was monitored using metabolic cages, and bladder function was evaluated by cystometry. Bladder blood flow was evaluated by laser speckle imaging, and an organ bath bladder distention test was used to measure adenosine triphosphate (ATP) release from the bladder urothelium. The expression levels of vesicular nucleotide transporter (VNUT), hypoxia markers, pro-inflammatory cytokines and growth factors in the bladder wall were measured using real-time polymerase chain reaction and enzyme-linked immunosorbent assay. Bladder wall contractions in response to KCl and carbachol were monitored using bladder-strip tests.\n\nResults\nWith aging, OLETF rats had higher micturition frequency and greater urine volume than LETO rats. Although bladder capacity was not significantly different, non-voiding bladder contraction occurred more frequently in OLETF rats than in LETO rats. Bladder blood flow was decreased and ATP release was increased with higher VNUT expression in OLETF rats than in LETO rats. These effects were suppressed by tadalafil administration, with accompanying decreased HIF-1α, 8-OHdG, IL-6, TNF-α, IGF-1, and bFGF expression. The impaired contractile responses of bladder strips to KCl and carbachol in OLETF rats with aging were restored by tadalafil administration.\n\nConclusions\nThe T2DM rats had polyuria, increased ATP release induced by decreased bladder blood flow and impaired contractile function. PDE5 inhibition improved these changes and may prevent T2DM-associated urinary frequency and bladder storage and voiding dysfunctions.",
+  "doi": "10.1371/journal.pone.0301883",
+  "url": "https://doi.org/10.1371/journal.pone.0301883",
+  "pdf_url": "",
+  "venue": "PLOS ONE",
+  "citation_count": 2,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-25T14:58:40.346989+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-087.md",
+  "quality_details": {
+    "content_length": 51088,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

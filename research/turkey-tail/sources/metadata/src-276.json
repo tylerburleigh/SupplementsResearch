@@ -1,0 +1,29 @@
+{
+  "id": "src-276",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "",
+  "pdf_url": "https://www.roswellpark.org/sites/default/files/gollnick_2-12-15_paper_for_lecture_1.pdf",
+  "venue": "",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "",
+  "fetched_at": "2026-04-23T18:43:02.868159+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-276.md",
+  "quality_details": {
+    "content_length": 58592,
+    "alpha_ratio": 0.727,
+    "sentence_count": 722,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

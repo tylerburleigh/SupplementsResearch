@@ -1,0 +1,39 @@
+{
+  "id": "src-171",
+  "title": "Impact of Vitamin D Supplementation on Influenza Vaccine Response and Immune Functions in Deficient Elderly Persons: A Randomized Placebo-Controlled Trial",
+  "authors": [
+    "Goncalves-Mendes, Nicolas",
+    "Talvas, Jérémie",
+    "Dualé, Christian",
+    "Guttmann, Aline",
+    "Corbin, Violaine",
+    "Marceau, Geoffroy",
+    "Sapin, Vincent",
+    "Brachet, Patrick",
+    "Evrard, Bertrand",
+    "Laurichesse, Henri",
+    "Vasson, Marie-Paule"
+  ],
+  "year": 2019,
+  "abstract": "",
+  "doi": "10.3389/fimmu.2019.00065",
+  "url": "https://doi.org/10.3389/fimmu.2019.00065",
+  "pdf_url": "",
+  "venue": "Frontiers in Immunology",
+  "citation_count": 115,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T20:58:13.326315+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-171.md",
+  "quality_details": {
+    "content_length": 54713,
+    "alpha_ratio": 0.701,
+    "sentence_count": 566,
+    "reasons": []
+  }
+}

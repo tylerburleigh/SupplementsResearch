@@ -1,0 +1,25 @@
+{
+  "id": "src-292",
+  "title": "Quantum Dot Nanomedicine Formulations Dramatically Improve Pharmacological Properties and Alter Uptake Pathways of Metformin and Nicotinamide Mononucleotide in Aging Mice.",
+  "authors": [
+    "Hunt, Nicholas J.",
+    "Lockwood, Glen P.",
+    "Kang, S. W.",
+    "Westwood, Lara J",
+    "Limantoro, Christina",
+    "Chrzanowski, Wojciech",
+    "Mccourt, P.",
+    "Kuncic, Z.",
+    "Couteur, D. L. Le",
+    "Cogger, V."
+  ],
+  "doi": "10.1021/acsnano.0c09278",
+  "url": "https://www.semanticscholar.org/paper/fb6ccb0d39b71cf3c6437c3e39a2b20189c91a10",
+  "provider": "semantic_scholar",
+  "year": 2021,
+  "venue": "ACS Nano",
+  "citation_count": 28,
+  "abstract": "Orally administered Ag2S quantum dots (QDs) rapidly cross the small intestine and are taken up by the liver. Metformin and nicotinamide mononucleotide (NMN) target metabolic and aging processes within the liver. This study examined the pharmacology and toxicology of QD-based nanomedicines as carriers of metformin and NMN in young and old mice, determining if their therapeutic potency and reduced effects associated with aging could be improved. Pharmacokinetic studies demonstrated that QD-conjugated metformin and NMN have greater bioavailability, with selective accumulation in the liver following oral administration compared to unconjugated formulations. Pharmacodynamic data showed that the QD-conjugated medicines had increased physiological, metabolic, and cellular potency compared to unconjugated formulations (25× metformin; 100× NMN) and highlighted a shift in the peak induction of, and greater metabolic response to, glucose tolerance testing. Two weeks of treatment with low-dose QD-NMN (0.8 mg/kg/day) improved glucose tolerance tests in young (3 months) mice, whereas old (18 and 24 months) mice demonstrated improved fasting and fed insulin levels and insulin resistance. High-dose unconjugated NMN (80 mg/kg/day) demonstrated improvements in young mice but not in old mice. After 100 days of QD (320 μg/kg/day) treatment, there was no evidence of cellular necrosis, fibrosis, inflammation, or accumulation. Ag2S QD nanomedicines improved the pharmacokinetic and pharmacodynamic properties of metformin and NMN by increasing their therapeutic potency, bypassing classical cellular uptake pathways, and demonstrated efficacy when drug alone was ineffective in aging mice.",
+  "type": "academic",
+  "pdf_url": "https://munin.uit.no/bitstream/10037/21933/3/article.pdf"
+}

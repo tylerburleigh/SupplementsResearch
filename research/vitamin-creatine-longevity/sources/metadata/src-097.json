@@ -1,0 +1,23 @@
+{
+  "id": "src-097",
+  "title": "Total alkaloids of Aconitum carmichaelii Debx alleviate cisplatin-induced acute renal injury by inhibiting inflammation and oxidative stress related to gut microbiota metabolism.",
+  "authors": [
+    "Yang, Xi",
+    "Xin, Yijing",
+    "Gu, Yan-Jun",
+    "Wang, Youlei",
+    "Hu, Xingjiang",
+    "Ying, Guanghui",
+    "Zhang, Qiao",
+    "He, Xuelin"
+  ],
+  "doi": "10.1016/j.phymed.2024.156128",
+  "url": "https://www.semanticscholar.org/paper/4aacac47968c511553bde0c44e3b2061aea50ec0",
+  "provider": "semantic_scholar",
+  "year": 2024,
+  "venue": "Phytomedicine",
+  "citation_count": 18,
+  "abstract": "BACKGROUND\nCisplatin-induced acute kidney injury (AKI) is a complex and serious clinical issue, representing a major cause of hospital-acquired AKI. Alkaloids are the main active constituents of Aconitum carmichaelii Debx, which exhibit protective effects in several kidney disease models and against other acute organ injuries. However, its activity and mechanism of action in AKI treatment remain unclear.\n\nPURPOSE\nThis study aimed to elucidate the effect of Aconitum carmichaelii Debx (ACA) in a model of cisplain-induced AKI and comprehensively investigate its underlying mechanisms.\n\nMETHODS\nThe major alkaloids in ACA were analyzed using high-performance liquid chromatography. Blood urea nitrogen (BUN) and serum creatine levels were measured using automated biochemical instruments. 16S rRNA sequencing, short-chain fatty acid (SCFA) analysis, fecal microbiota transplantation (FMT), non-targeted metabolomics, and transcriptomics were performed to systematically identify prospective biomarkers after ACA treatment. Anti-inflammatory and anti-oxidative stress activities were monitored using ELISA and western blotting.\n\nRESULTS\nFour main compounds (fuziline, neoline, talatisamine, and songorine) were identified in ACA. ACA significantly alleviated cisplatin-induced AKI by reducing (BUN) and serum creatine levels and improving histopathological scores. Moreover, ACA balanced cisplatin-mediated confoundments in microbial composition and function, including decreasing the levels of Escherichia-Shigella, Clostridium, and Ruminococcus, as well as increasing Ligilactobacillus, Anaerotruncus, Bacteroides and Desulfovibrio levels, accompanied by uremic toxin reduction, and augmenting serum SCFAs. The FMT experiments further confirmed that ACA exerts anti-AKI effects by affecting gut microbiota. A multi-omics study has shown that ACA regulates glutathione and tryptophan metabolism and mediates pathways that trigger inflammatory responses. Finally, ACA reduced serum levels of inflammatory factors (IL-1β, IL-6, and TNF-α), restored enzymes of the antioxidative system (SOD and CAT) and GSH values, and decreased monoester diterpene alkaloid levels in the kidney by inhibiting the expression of NF-κB pathway-related proteins and increasing Nrf2/HO-1 pathway-related protein expression.\n\nCONCLUSION\nACA protects against cisplatin-induced AKI through its anti-inflammatory and antioxidant functions, which may be associated with the restoration of gut microbiota metabolism. ACA is a potential drug for AKI and other forms of organ damage related to the disruption of the gut microbiota.",
+  "type": "academic",
+  "pdf_url": ""
+}

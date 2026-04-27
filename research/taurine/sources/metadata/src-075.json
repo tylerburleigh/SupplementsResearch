@@ -1,0 +1,19 @@
+{
+  "id": "src-075",
+  "title": "Lactate and pyruvate promote oxidative stress resistance through hormetic ROS signaling",
+  "authors": [
+    "Tauffenberger, Arnaud",
+    "Fiumelli, Hubert",
+    "Almustafa, Salam",
+    "Magistretti, Pierre J."
+  ],
+  "doi": "10.1038/s41419-019-1877-6",
+  "url": "https://openalex.org/W2972734535",
+  "provider": "openalex",
+  "year": 2019,
+  "venue": "Cell Death and Disease",
+  "citation_count": 346,
+  "abstract": "L-lactate was long considered a glycolytic by-product but is now being recognized as a signaling molecule involved in cell survival. In this manuscript, we report the role of L-lactate in stress resistance and cell survival mechanisms using neuroblastoma cells (SH-SY5Y) as well as the C. elegans model. We observed that L-lactate promotes cellular defense mechanisms, including Unfolded Protein Response (UPR) and activation of nuclear factor erythroid 2-related factor 2 (NRF2), by promoting a mild Reactive Oxygen Species (ROS) burst. This increase in ROS triggers antioxidant defenses and pro-survival pathways, such as PI3K/AKT and Endoplasmic Reticulum (ER) chaperones. These results contribute to the understanding of the molecular mechanisms involved in beneficial effects of L-lactate, involving mild ROS burst, leading to activation of unfolded protein responses and detoxification mechanisms. We present evidence that this hormetic mechanism induced by L-lactate protects against oxidative stress in vitro and in vivo. This work contributes to the identification of molecular mechanisms, which could serve as targets for future therapeutic approaches for cell protection and aging-related disorders.",
+  "type": "academic",
+  "pdf_url": "https://www.nature.com/articles/s41419-019-1877-6.pdf"
+}

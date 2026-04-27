@@ -1,0 +1,22 @@
+{
+  "id": "src-121",
+  "title": "Aging and aging-related diseases: from molecular mechanisms to interventions and treatments",
+  "authors": [
+    "Guo, Jun",
+    "Huang, Xiuqing",
+    "Dou, Lin",
+    "Yan, Mingjing",
+    "Shen, Tao",
+    "Tang, Weiqing",
+    "Li, Jian"
+  ],
+  "doi": "10.1038/s41392-022-01251-0",
+  "url": "https://openalex.org/W4311744984",
+  "provider": "openalex",
+  "year": 2022,
+  "venue": "Signal Transduction and Targeted Therapy",
+  "citation_count": 1465,
+  "abstract": "Aging is a gradual and irreversible pathophysiological process. It presents with declines in tissue and cell functions and significant increases in the risks of various aging-related diseases, including neurodegenerative diseases, cardiovascular diseases, metabolic diseases, musculoskeletal diseases, and immune system diseases. Although the development of modern medicine has promoted human health and greatly extended life expectancy, with the aging of society, a variety of chronic diseases have gradually become the most important causes of disability and death in elderly individuals. Current research on aging focuses on elucidating how various endogenous and exogenous stresses (such as genomic instability, telomere dysfunction, epigenetic alterations, loss of proteostasis, compromise of autophagy, mitochondrial dysfunction, cellular senescence, stem cell exhaustion, altered intercellular communication, deregulated nutrient sensing) participate in the regulation of aging. Furthermore, thorough research on the pathogenesis of aging to identify interventions that promote health and longevity (such as caloric restriction, microbiota transplantation, and nutritional intervention) and clinical treatment methods for aging-related diseases (depletion of senescent cells, stem cell therapy, antioxidative and anti-inflammatory treatments, and hormone replacement therapy) could decrease the incidence and development of aging-related diseases and in turn promote healthy aging and longevity.",
+  "type": "academic",
+  "pdf_url": "https://www.nature.com/articles/s41392-022-01251-0.pdf"
+}

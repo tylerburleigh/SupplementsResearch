@@ -1,0 +1,33 @@
+146	2	Introduction
+258	2	Methods
+610	2	3. In the period
+1205	2	Discussion
+1557	2	References
+1618	2	Summary
+1652	2	Author Contributions
+1689	2	19. Czech-Kowalska J, Latka-Grot J, Bulsiewicz D, Jaworski M, Pludowski P ,
+1756	2	39. Grant WB, Wimalawansa SJ, Holick MF , Cannell JJ, Pludowski P ,
+1804	2	54. Rode AKO, Kongsbak M, Hansen MM, Lopez DV , Levring TB, Woetmann
+1820	2	57. Grant WB, Karras SN, Bischoff-Ferrari HA, Annweiler C, Boucher BJ,
+1824	2	58. Martineau AR, Cates CJ, Urashima M, Jensen M, Griffiths AP , Nurmatov U,
+1869	2	71. Arfian N, Muflikhah K, Soeyono SK, Sari DC, Tranggono U, Anggorowati N,
+1878	2	74. Dimitrakopoulou VI, Tsilidis KK, Haycock PC, Dimou NL, Al-Dabhani K,
+1891	2	78. Gorham ED, Garland CF , Garland FC, Grant WB, Mohr SB, Lipkin M,
+1913	2	84. Jolliffe DA, Greenberg L, Hooper RL, Griffiths CJ, Camargo CA Jr,
+1917	2	85. Kabbani TA, Koutroubakis IE, Schoen RE, Ramos-Rivers C, Shah N,
+1925	2	87. Shoenfeld Y , Giacomelli R, Azrielant S, Berardicurti O, Reynolds JA,
+1947	2	93. Giovinazzo S, Vicchio TM, Certo R, Alibrandi A, Palmieri O,
+1951	2	94. Muscogiuri G, Tirabassi G, Bizzaro G, Orio F , Paschou SA, Vryonidou A,
+1964	2	97. Bellastella G, Maiorino MI, Petrizzo M, De Bellis A, Capuano A, Esposito K,
+1968	2	98. Martineau AR, Jolliffe DA, Hooper RL, Greenberg L, Aloia JF , Bergman P ,
+2010	2	109. Feart C, Helmer C, Merle B, Herrmann FR, Annweiler C, Dartigues JF ,
+2036	2	117. Gaksch M, Jorde R, Grimnes G, Joakimsen R, Schirmer H, Wilsgaard T,
+2072	2	127. Czech-Kowalska J, Dobrzanska A, Pleskaczynska A, Malinowska E, Gruszfeld D,
+2086	2	131. Dinour D, Davidovits M, Aviner S, Ganon L, Michael L, Modan-Moses D,
+2102	2	134. Pludowski P , Holick MF , Grant WB, Konstantynowicz J, Mascarenhas MR,
+2109	2	136. Holick MF , Binkley NC, Bischoff-Ferrari HA, Gordon CM, Hanley DA,
+2169	2	153. Sacheck JM, Van Rompay MI, Chomitz VR, Economos CD, Eliasziw M,
+2173	2	154. Bischoff-Ferrari HA, Dawson-Hughes B, Staehelin HB, Orav JE, Stuck AE,
+2180	2	156. American Geriatrics Society Workgroup on Vitamin D Supplementation for
+2213	2	164. Czech-Kowalska J, Gruszfeld D, Jaworski M, Bulsiewicz D, Latka-
+2230	2	168. Bischoff-Ferrari HA, Dawson-Hughes B, Orav EJ, Staehelin HB, Meyer OW ,

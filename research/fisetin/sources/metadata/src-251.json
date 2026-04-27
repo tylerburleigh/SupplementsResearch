@@ -1,0 +1,19 @@
+{
+  "id": "src-251",
+  "title": "Senolytics and senostatics as adjuvant tumour therapy",
+  "authors": [
+    "Short, Susan",
+    "Fielder, Edward",
+    "Miwa, Satomi",
+    "Zglinicki, Thomas von"
+  ],
+  "doi": "10.1016/j.ebiom.2019.01.056",
+  "url": "https://openalex.org/W2915058673",
+  "provider": "openalex",
+  "year": 2019,
+  "venue": "EBioMedicine",
+  "citation_count": 212,
+  "abstract": "Cell senescence is a driver of ageing, frailty, age-associated disease and functional decline. In oncology, tumour cell senescence may contribute to the effect of adjuvant therapies, as it blocks tumour growth. However, this is frequently incomplete, and tumour cells that recover from senescence may gain a more stem-like state with increased proliferative potential. This might be exaggerated by the induction of senescence in the surrounding niche cells. Finally, senescence will spread through bystander effects, possibly overwhelming the capacity of the immune system to ablate senescent cells. This induces a persistent system-wide senescent cell accumulation, which we hypothesize is the cause for the premature frailty, multi-morbidity and increased mortality in cancer survivors. Senolytics, drugs that selectively kill senescent cells, have been developed recently and have been proposed as second-line adjuvant tumour therapy. Similarly, by blocking accelerated senescence following therapy, senolytics might prevent and potentially even revert premature frailty in cancer survivors. Adjuvant senostatic interventions, which suppress senescence-associated bystander signalling, might also have therapeutic potential. This becomes pertinent because treatments that are senostatic in vitro (e.g. dietary restriction mimetics) persistently reduce numbers of senescent cells in vivo, i.e. act as net senolytics in immunocompetent hosts.",
+  "type": "academic",
+  "pdf_url": "http://www.thelancet.com/article/S2352396419300623/pdf"
+}

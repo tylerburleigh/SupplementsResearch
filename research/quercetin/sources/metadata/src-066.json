@@ -1,0 +1,20 @@
+{
+  "id": "src-066",
+  "title": "Efficacy of Vitamin D Supplementation on the Risk of Falls Among Community-Dwelling Older Adults: A Systematic Review and Meta-Analysis",
+  "authors": [
+    "Torres-Lopez, Raquel",
+    "Obradors, Núria",
+    "Elosua, Roberto",
+    "Azagra-Ledesma, R.",
+    "Zwart, M."
+  ],
+  "doi": "10.3390/jcm14176117",
+  "url": "https://www.semanticscholar.org/paper/276eaca3ba045b99c2c13058565e664e16e53a56",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "Journal of Clinical Medicine",
+  "citation_count": 1,
+  "abstract": "Background/Objectives: Previous meta-analyses on vitamin D (VitD) supplementation for fall prevention have mixed different populations and doses. This study aimed to evaluate whether VitD supplementation reduces fall risk in community-dwelling adults aged ≥65 years. Methods: Randomized clinical trials (RCTs) including adults ≥65 years living in the community and receiving supplemental VitD were identified through the MEDLINE and EMBASE databases (January 2005–July 2024), and independent reviewers selected studies reporting fall risk, extracted data, and assessed risk of bias. Outcomes were pooled using the inverse variance method. Heterogeneity and publication bias were assessed with I2, Egger’s test, and the trim-and-fill method. Results: The analysis dataset was 23,211 participants from 10 RCTs. Most studies had minimal risk of bias. Overall, VitD supplementation was not associated with a reduction in fall risk, as no statistically significant or consistent trend was observed (OR = 0.99; 95%CI: 0.95–1.03; I2 = 31%). In women, no significant association was found (OR = 0.97; 95%CI: 0.92–1.02; I2 = 31.2%), and in men, no significant association was observed (OR = 1.08; 95%CI: 0.98–1.20; I2 = 0%) when analyzed separately. Supplementation with doses ≤1000 IU/day showed no significant association with fall risk (OR = 0.96; 95%CI: 0.90–1.02; I2 = 39.5%), as did durations ≤12 months (OR = 0.96; 95%CI: 0.90–1.02; I2 = 56.2%) and daily administration (OR = 0.97; 95%CI: 0.92–1.03; I2 = 37.2%). Doses >1000 IU/day, intermittent dosing (both OR = 1.02; 95%CI: 0.96–1.09; I2 = 0%), and durations >12 months (OR = 1.01; 95%CI: 0.96–1.07; I2 = 0%) all showed no significant association. Although evidence of publication bias was detected, adjustment did not alter the results. Conclusions: This meta-analysis shows that VitD supplementation has no effect on the risk of falls in community-dwelling adults ≥65 years, yet its main interest lies in ensuring population homogeneity found in previous analyses of mixed settings.",
+  "type": "academic",
+  "pdf_url": ""
+}

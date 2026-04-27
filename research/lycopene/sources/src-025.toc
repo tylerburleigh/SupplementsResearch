@@ -1,0 +1,21 @@
+18	2	Descriptive Epidemiology
+223	2	Risk Factors
+937	2	Future Research
+975	2	Summary
+991	2	References
+998	2	2007. Dairy products, calcium intake, and risk of prostate
+1044	2	2010. Serum levels of folate, lycopene, beta-carotene, ret-
+1065	2	2010. Calcium intake increases risk of prostate cancer
+1167	2	2011. Prediagnostic plasma vitamin D metabolites and
+1192	2	1996. Prospective study of sex hormone levels and risk of
+1198	2	2013. Statin use in relation to prostate cancer outcomes in
+1218	2	2002. A prospective study of tomato products, lycopene,
+1233	2	2007. Risk factors for prostate cancer incidence and pro-
+1250	2	2011. Characterizing genetic risk at known prostate can-
+1259	2	2015. Statin use at the time of initiation of androgen dep-
+1412	2	2008. Dairy product, saturated fatty acid, and calcium
+1467	2	2013. Vitamin D, season, and risk of prostate cancer: A
+1488	2	2016. Familial risk and heritability of cancer among twins
+1506	2	2007. Smoking is associated with worse outcomes in pa-
+1568	2	2009. Men with low serum cholesterol have a lower risk of
+1602	2	2014. Prostate cancer in young men: An important clin-

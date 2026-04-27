@@ -1,0 +1,19 @@
+{
+  "id": "src-460",
+  "title": "Role of Vitamin K in Selected Malignant Neoplasms in Women",
+  "authors": [
+    "Markowska, Anna",
+    "Antoszczak, Michał",
+    "Markowska, Janina",
+    "Huczyński, Adam"
+  ],
+  "doi": "10.3390/nu14163401",
+  "url": "https://openalex.org/W4293510976",
+  "provider": "openalex",
+  "year": 2022,
+  "venue": "Nutrients",
+  "citation_count": 30,
+  "abstract": "The main function of vitamin K in the human organism is its activity in the blood clotting cascade. Epidemiological studies suggest that reduced intake of vitamin K may contribute to an increased risk of geriatric diseases such as atherosclerosis, dementia, osteoporosis, and osteoarthritis. A growing number of studies also indicate that vitamin K may be involved not only in preventing the development of certain cancers but it may also support classical cancer chemotherapy. This review article summarizes the results of studies on the anticancer effects of vitamin K on selected female malignancies, i.e., breast, cervical, and ovarian cancer, published over the past 20 years. The promising effects of vitamin K on cancer cells observed so far indicate its great potential, but also the need for expansion of our knowledge in this area by conducting extensive research, including clinical trials.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2072-6643/14/16/3401/pdf?version=1660891888"
+}

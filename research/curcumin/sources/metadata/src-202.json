@@ -1,0 +1,37 @@
+{
+  "id": "src-202",
+  "title": "The effects of nano-curcumin as a nutritional strategy on clinical and inflammatory factors in children with cystic fibrosis: the study protocol for a randomized controlled trial",
+  "authors": [
+    "Talebi, Saeedeh",
+    "Safarian, Mahammad",
+    "Jaafari, Mahmood Reza",
+    "Sayedi, Seyed Javad",
+    "Abbasi, Zahra",
+    "Ranjbar, Golnaz",
+    "Kianifar, Hamid Reza"
+  ],
+  "year": 2021,
+  "abstract": "Abstract\n\nBackground\nCystic fibrosis (CF) is a genetic disorder, which is caused by the CFTR protein defects. Along with CFTR dysfunction, inflammation plays a key role in the disease outcomes. Inflammation may develop due to the internal dysfunction of the CFTR protein or external factors. Curcumin affects the CFTR protein function primarily as a corrector and potentiator and secondary as an anti-inflammatory and antimicrobial agent. The present study aims to assess the impact of nano-curcumin on clinical and inflammatory markers in children with CF.\n\nMethods\nThis prospective, double blind control trial will be conducted at the Akbar Children’s Hospital in Mashhad, Iran. Children with CF will be enrolled based on the eligibility criteria. Placebo and curcumin with the maximum dose of 80 mg considering the body surface of the patients will be administrated for 3 months. The primary outcome is to evaluate inflammation based on serum interleukin-6, interleukin-10, and hs-CRP, stool calprotectin, and neutrophil count of nasopharyngeal swab. The secondary outcome involved clinical assessment via spirometry, anthropometrics, and quality of life. They will be assessed before and after 3 months.\n\nDiscussion\nDue to the multifarious effects of curcumin on CF disease, it could be proposed as a nutritional strategy in the treatment of cystic fibrosis.\n\nTrial registration\n\nIranian Registry of Clinical Trials\nIRCT20200705048018N1\n. Registered on July 10, 2020.",
+  "doi": "10.1186/s13063-021-05224-6",
+  "url": "https://doi.org/10.1186/s13063-021-05224-6",
+  "pdf_url": "",
+  "venue": "Trials",
+  "citation_count": 11,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-22T14:42:39.386453+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-202.md",
+  "quality_details": {
+    "content_length": 46462,
+    "alpha_ratio": 0.77,
+    "sentence_count": 377,
+    "reasons": [
+      "paywall_page (access this article)"
+    ]
+  }
+}

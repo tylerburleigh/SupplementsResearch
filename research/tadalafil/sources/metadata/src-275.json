@@ -1,0 +1,22 @@
+{
+  "id": "src-275",
+  "title": "Association of Phosphodiesterase-5 Inhibitors Versus Alprostadil With Survival in Men With Coronary Artery Disease.",
+  "authors": [
+    "Andersson, Daniel P",
+    "Landucci, Laura",
+    "Lagerros, Ylva Trolle",
+    "Grotta, Alessandra",
+    "Bellocco, Rino",
+    "Lehtihet, Mikael",
+    "Holzmann, Martin J"
+  ],
+  "doi": "10.1016/j.jacc.2021.01.045",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/33766260",
+  "provider": "pubmed",
+  "year": 2021,
+  "venue": "Journal of the American College of Cardiology",
+  "citation_count": 0,
+  "abstract": "BACKGROUND: Phosphodiesterase 5 inhibitor (PDE5i) treatment is associated with reduced mortality compared with no treatment for erectile dysfunction after myocardial infarction (MI).\nOBJECTIVES: This study sought to investigate the association between treatment with PDE5i or alprostadil and outcomes in men with stable coronary artery disease.\nMETHODS: All Swedish men with a prior MI or revascularization who received PDE5i or alprostadil during 2006 through 2013 at >6 months after the event were included, using the Swedish Patient Register and the Swedish Prescribed Drug Register. Cox regression was used to estimate adjusted hazard ratios with 95% confidence intervals for all-cause mortality, MI, heart failure, cardiovascular mortality, noncardiovascular mortality, cardiac revascularization, peripheral arterial disease, and stroke in men treated with PDE5i versus alprostadil.\nRESULTS: This study included 16,548 men treated with PDE5i and 1,994 treated with alprostadil. The mean follow-up was 5.8 years, with 2,261 deaths (14%) in the PDE5i group and 521 (26%) in the alprostadil group. PDE5i compared with alprostadil treatment was associated with lower mortality (hazard ratio: 0.88; 95% confidence interval: 0.79 to 0.98) and with similar associations for MI, heart failure, cardiovascular mortality, and revascularization. When quintiles (q) of filled PDE5i prescriptions were compared using q1 as reference, patients in q3, q4, and q5 had lower all-cause mortality. Among alprostadil users, those in q5 had a lower all-cause mortality compared to q1.\nCONCLUSIONS: In men with stable coronary artery disease, treatment with PDE5i is associated with lower risks of death, MI, heart failure, and revascularization compared with alprostadil treatment. Although the decrease in all-cause mortality was PDE5i dose dependent, the data do not permit the inference of causality or any clinical benefits of PDE5i because of the observational study design.",
+  "type": "academic",
+  "pdf_url": ""
+}

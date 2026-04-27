@@ -1,0 +1,33 @@
+{
+  "id": "src-109",
+  "title": "Effect of combination therapy of methylfolate with antidepressants in patients with depressive disorder",
+  "authors": [
+    "Siddique, Afifa",
+    "Khokhar, Muhammad Masood",
+    "Waheed, Akbar",
+    "Naeem, Uzma",
+    "Aziz, Shahzad Akhtar"
+  ],
+  "year": 2025,
+  "abstract": "",
+  "doi": "10.1186/s40360-025-00846-x",
+  "url": "https://doi.org/10.1186/s40360-025-00846-x",
+  "pdf_url": "",
+  "venue": "BMC Pharmacology and Toxicology",
+  "citation_count": 2,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-20T13:48:13.109072+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-109.md",
+  "quality_details": {
+    "content_length": 31130,
+    "alpha_ratio": 0.745,
+    "sentence_count": 286,
+    "reasons": []
+  }
+}

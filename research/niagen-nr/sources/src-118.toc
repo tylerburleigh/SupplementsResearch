@@ -1,0 +1,24 @@
+6	2	Generation
+50	2	Nad
+137	2	Nad
+142	2	Nad
+161	2	Nad
+186	2	Nad
+201	2	Experimental Procedures
+340	2	Results
+366	2	Nad
+428	2	Nad
+451	2	Nad
+469	2	Nad
+495	2	Nad
+505	2	Nad
+523	2	Nad
+583	2	Nad
+658	2	Nad
+676	2	Nad
+703	2	Discussion
+712	2	Nad
+730	2	Nad
+811	2	Nad
+900	2	Nad
+903	2	References

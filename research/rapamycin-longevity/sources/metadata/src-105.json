@@ -1,0 +1,27 @@
+{
+  "id": "src-105",
+  "title": "TORC1 inhibition enhances immune function and reduces infections in the elderly.",
+  "authors": [
+    "Mannick, Joan B",
+    "Morris, Melody",
+    "Hockey, Hans-Ulrich P",
+    "Roma, Guglielmo",
+    "Beibel, Martin",
+    "Kulmatycki, Kenneth",
+    "Watkins, Mollie",
+    "Shavlakadze, Tea",
+    "Zhou, Weihua",
+    "Quinn, Dean",
+    "Glass, David J",
+    "Klickstein, Lloyd B"
+  ],
+  "doi": "10.1126/scitranslmed.aaq1564",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/29997249",
+  "provider": "pubmed",
+  "year": 2018,
+  "venue": "Science translational medicine",
+  "citation_count": 0,
+  "abstract": "Inhibition of the mechanistic target of rapamycin (mTOR) protein kinase extends life span and ameliorates aging-related pathologies including declining immune function in model organisms. The objective of this phase 2a randomized, placebo-controlled clinical trial was to determine whether low-dose mTOR inhibitor therapy enhanced immune function and decreased infection rates in 264 elderly subjects given the study drugs for 6 weeks. A low-dose combination of a catalytic (BEZ235) plus an allosteric (RAD001) mTOR inhibitor that selectively inhibits target of rapamycin complex 1 (TORC1) downstream of mTOR was safe and was associated with a significant (P = 0.001) decrease in the rate of infections reported by elderly subjects for a year after study drug initiation. In addition, we observed an up-regulation of antiviral gene expression and an improvement in the response to influenza vaccination in this treatment group. Thus, selective TORC1 inhibition has the potential to improve immune function and reduce infections in the elderly.",
+  "type": "academic",
+  "pdf_url": ""
+}

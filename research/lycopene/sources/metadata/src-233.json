@@ -1,0 +1,18 @@
+{
+  "id": "src-233",
+  "title": "Fruit and Vegetable Intakes and Prostate Cancer Risk",
+  "authors": [
+    "Cohen, J. H.",
+    "Kristal, Alan R.",
+    "Stanford, J. L."
+  ],
+  "doi": "10.1093/jnci/92.1.61",
+  "url": "https://openalex.org/W2163895012",
+  "provider": "openalex",
+  "year": 2000,
+  "venue": "JNCI Journal of the National Cancer Institute",
+  "citation_count": 710,
+  "abstract": "These results suggest that high consumption of vegetables, particularly cruciferous vegetables, is associated with a reduced risk of prostate cancer.",
+  "type": "academic",
+  "pdf_url": "https://academic.oup.com/jnci/article-pdf/92/1/61/9518593/61.pdf"
+}

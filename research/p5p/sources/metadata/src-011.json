@@ -1,0 +1,29 @@
+{
+  "id": "src-011",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://countrylifevitamins.com/products/p-5-p-pyridoxal-5-phosphate-50-mg",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-20T15:58:58.652735+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-011.md",
+  "quality_details": {
+    "content_length": 3984,
+    "alpha_ratio": 0.739,
+    "sentence_count": 37,
+    "reasons": [
+      "paywall_page (add to cart)"
+    ]
+  }
+}

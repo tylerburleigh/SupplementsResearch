@@ -1,0 +1,25 @@
+{
+  "id": "src-103",
+  "title": "Neuroprotective Mechanisms of Resveratrol in Alzheimer’s Disease: Role of SIRT1",
+  "authors": [
+    "Gomes, Bruno Alexandre Quadros",
+    "Silva, João Paulo Bastos",
+    "Romeiro, Camila Fernanda Rodrigues",
+    "Santos, Sávio Monteiro dos",
+    "Rodrigues, Caroline Azulay",
+    "Gonçalves, Pricila Rodrigues",
+    "Sakai, Joni Tetsuo",
+    "Mendes, Paulo Fernando Santos",
+    "Varela, Everton Luiz Pompeu",
+    "Monteiro, Marta Chagas"
+  ],
+  "doi": "10.1155/2018/8152373",
+  "url": "https://openalex.org/W2898838755",
+  "provider": "openalex",
+  "year": 2018,
+  "venue": "Oxidative Medicine and Cellular Longevity",
+  "citation_count": 385,
+  "abstract": "Alzheimer's disease (AD) is a progressive and neurodegenerative disorder of the cortex and hippocampus, which eventually leads to cognitive impairment. Although the etiology of AD remains unclear, the presence of <i>β</i>-amyloid (A<i>β</i>) peptides in these learning and memory regions is a hallmark of AD. Therefore, the inhibition of A<i>β</i> peptide aggregation has been considered the primary therapeutic strategy for AD treatment. Many studies have shown that resveratrol has antioxidant, anti-inflammatory, and neuroprotective properties and can decrease the toxicity and aggregation of A<i>β</i> peptides in the hippocampus of AD patients, promote neurogenesis, and prevent hippocampal damage. In addition, the antioxidant activity of resveratrol plays an important role in neuronal differentiation through the activation of silent information regulator-1 (SIRT1). SIRT1 plays a vital role in the growth and differentiation of neurons and prevents the apoptotic death of these neurons by deacetylating and repressing p53 activity; however, the exact mechanisms remain unclear. Resveratrol also has anti-inflammatory effects as it suppresses M1 microglia activation, which is involved in the initiation of neurodegeneration, and promotes Th2 responses by increasing anti-inflammatory cytokines and SIRT1 expression. This review will focus on the antioxidant and anti-inflammatory neuroprotective effects of resveratrol, specifically on its role in SIRT1 and the association with AD pathophysiology.",
+  "type": "academic",
+  "pdf_url": "https://downloads.hindawi.com/journals/omcl/2018/8152373.pdf"
+}

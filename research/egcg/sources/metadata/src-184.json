@@ -1,0 +1,16 @@
+{
+  "id": "src-184",
+  "title": "The Impact of Nutrition and Environmental Epigenetics on Human Health and Disease",
+  "authors": [
+    "Tiffon, Céline"
+  ],
+  "doi": "10.3390/ijms19113425",
+  "url": "https://openalex.org/W2899197098",
+  "provider": "openalex",
+  "year": 2018,
+  "venue": "International Journal of Molecular Sciences",
+  "citation_count": 480,
+  "abstract": "Environmental epigenetics describes how environmental factors affect cellular epigenetics and, hence, human health. Epigenetic marks alter the spatial conformation of chromatin to regulate gene expression. Environmental factors with epigenetic effects include behaviors, nutrition, and chemicals and industrial pollutants. Epigenetic mechanisms are also implicated during development in utero and at the cellular level, so environmental exposures may harm the fetus by impairing the epigenome of the developing organism to modify disease risk later in life. By contrast, bioactive food components may trigger protective epigenetic modifications throughout life, with early life nutrition being particularly important. Beyond their genetics, the overall health status of an individual may be regarded as an integration of many environmental signals starting at gestation and acting through epigenetic modifications. This review explores how the environment affects the epigenome in health and disease, with a particular focus on cancer. Understanding the molecular effects of behavior, nutrients, and pollutants might be relevant for developing preventative strategies and personalized heath programs. Furthermore, by restoring cellular differentiation, epigenetic drugs could represent a potential strategy for the treatment of many diseases including cancer.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/1422-0067/19/11/3425/pdf?version=1541058680"
+}

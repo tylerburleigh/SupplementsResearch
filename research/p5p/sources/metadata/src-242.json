@@ -1,0 +1,19 @@
+{
+  "id": "src-242",
+  "title": "The importance of thiamine (vitamin B1) in humans",
+  "authors": [
+    "Mrowicka, Małgorzata",
+    "Mrowicki, Jerzy",
+    "Dragan, Grzegorz",
+    "Majsterek, Ireneusz"
+  ],
+  "doi": "10.1042/bsr20230374",
+  "url": "https://openalex.org/W4382631947",
+  "provider": "openalex",
+  "year": 2023,
+  "venue": "Bioscience Reports",
+  "citation_count": 172,
+  "abstract": "Thiamine (thiamin, B1) is a vitamin necessary for proper cell function. It exists in a free form as a thiamine, or as a mono-, di- or triphosphate. Thiamine plays a special role in the body as a coenzyme necessary for the metabolism of carbohydrates, fats and proteins. In addition, it participates in the cellular respiration and oxidation of fatty acids: in malnourished people, high doses of glucose result in acute thiamine deficiency. It also participates in energy production in the mitochondria and protein synthesis. In addition, it is also needed to ensure the proper functioning of the central and peripheral nervous system, where it is involved in neurotransmitter synthesis. Its deficiency leads to mitochondrial dysfunction, lactate and pyruvate accumulation, and consequently to focal thalamic degeneration, manifested as Wernicke's encephalopathy or Wernicke-Korsakoff syndrome. It can also lead to severe or even fatal neurologic and cardiovascular complications, including heart failure, neuropathy leading to ataxia and paralysis, confusion, or delirium. The most common risk factor for thiamine deficiency is alcohol abuse. This paper presents current knowledge of the biological functions of thiamine, its antioxidant properties, and the effects of its deficiency in the body.",
+  "type": "academic",
+  "pdf_url": "https://portlandpress.com/bioscirep/article-pdf/doi/10.1042/BSR20230374/947944/bsr-2023-0374.pdf"
+}

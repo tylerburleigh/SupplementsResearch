@@ -1,0 +1,32 @@
+{
+  "id": "src-174",
+  "title": "NAD+ dyshomeostasis in RYR1-related myopathies.",
+  "authors": [
+    "Lawal, Tokunbor A",
+    "Riekhof, Willa",
+    "Groom, Linda",
+    "Varma, Pooja",
+    "Chrismer, Irene C",
+    "Kokkinis, Angela",
+    "Grunseich, Christopher",
+    "Witherspoon, Jessica W",
+    "Razaqyar, Muslima S",
+    "Sinaii, Ninet",
+    "Meilleur, Katherine G",
+    "Xiang, Lichen",
+    "Buzkova, Jana",
+    "Euro, Liliya",
+    "Mohassel, Payam",
+    "Dirksen, Robert T",
+    "Todd, Joshua J"
+  ],
+  "doi": "10.1186/s13395-025-00390-6",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40846977",
+  "provider": "pubmed",
+  "year": 2025,
+  "venue": "Skeletal muscle",
+  "citation_count": 0,
+  "abstract": "BACKGROUND: Pathogenic variants in RYR1 cause a spectrum of rare congenital myopathies associated with intracellular calcium dysregulation. Glutathione redox imbalance has been reported in several Ryr1 disease model systems and clinical studies. NAD+ and NADP are essential cofactors in cellular metabolism and redox homeostasis. NAD+ deficiency has been associated with skeletal muscle bioenergetic deficits in mitochondrial myopathy and sarcopenia.\nMETHODS: Using a new colorimetric assay and large control dataset (n = 299), we assessed redox balance (glutathione, NAD+, and NADP) in whole blood from 28 RYR1-RM affected individuals (NCT02362425). Analyses were expanded to human skeletal muscle (n = 4), primary myotube cultures (n = 5), and whole blood and skeletal muscle specimens from Ryr1 Y524S mice. The in vitro effects of nicotinamide riboside (NR) on cellular NAD+ content and mitochondrial respirometry were also tested.\nRESULTS: At baseline, a majority of affected individuals exhibited systemic NAD+ deficiency (19/28 [68%] < 21 µM) and increased NADPH concentrations (22/26 [85%] > 1.6 µM). When compared to controls, decreased NAD+/NADH and NADP/NADPH ratios were observed in 9/28 and 23/26 individuals, respectively. In patient-derived myotube cultures (n = 5), NR appeared to increase cellular NAD+ concentrations in a dose and time-dependent manner at 72-h only and favorably modified maximal respiration and ATP production. Average whole blood GSH/GSSG ratio was comparable between groups, and redox imbalance was not observed in Ryr1 Y524S specimens.\nCONCLUSIONS: NAD+ and NADP dyshomeostasis was identified in a subset of RYR1-RM affected individuals. Further experiments are warranted to confirm if NAD+ repletion could be an attractive therapeutic approach given the favorable outcomes reported in other neuromuscular disorders.",
+  "type": "academic",
+  "pdf_url": ""
+}

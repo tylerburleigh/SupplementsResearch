@@ -1,0 +1,19 @@
+{
+  "id": "src-269",
+  "title": "Autophagy in Alzheimer’s disease pathogenesis: Therapeutic potential and future perspectives",
+  "authors": [
+    "Zhang, Zhigang",
+    "Yang, Xifei",
+    "Song, You‐Qiang",
+    "Tu, Jie"
+  ],
+  "doi": "10.1016/j.arr.2021.101464",
+  "url": "https://openalex.org/W3199718651",
+  "provider": "openalex",
+  "year": 2021,
+  "venue": "Ageing Research Reviews",
+  "citation_count": 339,
+  "abstract": "Alzheimer's disease (AD) is a complex neurodegenerative disease in the elderly and the most common cause of human dementia. AD is characterized by accumulation of abnormal protein aggregates including amyloid plaques (composed of beta-amyloid (Aβ) peptides) and neurofibrillary tangles (formed by hyper-phosphorylated tau protein). Synaptic plasticity, neuroinflammation, calcium signaling etc. also show dysfunction in AD patients. Autophagy is an evolutionarily conserved lysosome-dependent cellular event in eukaryotes. It is closely linked to modulation of protein metabolism, through which damaged organelles and mis-folded proteins are degraded and then recycled to maintain protein homeostasis. Accumulating evidence has shown that impaired autophagy also contributes to AD pathogenesis. In the present review, we highlight the role of autophagy, including bulk and selective autophagy, in regulating metabolic circuits in AD pathogenesis. We also discuss the potential and future perspectives of autophagy-inducing strategies in AD therapeutics.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.1016/j.arr.2021.101464"
+}

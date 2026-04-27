@@ -1,0 +1,16 @@
+{
+  "id": "src-409",
+  "title": "Green Tea Catechins: Their Use in Treating and Preventing Infectious Diseases",
+  "authors": [
+    "Reygaert, Wanda"
+  ],
+  "doi": "10.1155/2018/9105261",
+  "url": "https://openalex.org/W2883893794",
+  "provider": "openalex",
+  "year": 2018,
+  "venue": "BioMed Research International",
+  "citation_count": 321,
+  "abstract": "Green tea is one of the most popular drinks consumed worldwide. Produced mainly in Asian countries from the leaves of the <i>Camellia sinensis</i> plant, the potential health benefits have been widely studied. Recently, researchers have studied the ability of green tea to eradicate infectious agents and the ability to actually prevent infections. The important components in green tea that show antimicrobial properties are the catechins. The four main catechins that occur in green tea are (-)-epicatechin (EC), (-)-epicatechin-3-gallate (ECG), (-)-epigallocatechin (EGC), and (-)-epigallocatechin-3-gallate (EGCG). Of these catechins, EGCG and EGC are found in the highest amounts in green tea and have been the subject of most of the studies. These catechins have been shown to demonstrate a variety of antimicrobial properties, both to organisms affected and in mechanisms used. Consumption of green tea has been shown to distribute these compounds and/or their metabolites throughout the body, which allows for not only the possibility of treatment of infections but also the prevention of infections.",
+  "type": "academic",
+  "pdf_url": "http://downloads.hindawi.com/journals/bmri/2018/9105261.pdf"
+}

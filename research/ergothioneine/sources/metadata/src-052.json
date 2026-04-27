@@ -1,0 +1,18 @@
+{
+  "id": "src-052",
+  "title": "Phytoagents for Cancer Management: Regulation of Nucleic Acid Oxidation, ROS, and Related Mechanisms",
+  "authors": [
+    "Lee, Wai-Leng",
+    "Huang, Jing-Ying",
+    "Shyur, Lie‐Fen"
+  ],
+  "doi": "10.1155/2013/925804",
+  "url": "https://openalex.org/W2131545933",
+  "provider": "openalex",
+  "year": 2013,
+  "venue": "Oxidative Medicine and Cellular Longevity",
+  "citation_count": 124,
+  "abstract": "Accumulation of oxidized nucleic acids causes genomic instability leading to senescence, apoptosis, and tumorigenesis. Phytoagents are known to reduce the risk of cancer development; whether such effects are through regulating the extent of nucleic acid oxidation remains unclear. Here, we outlined the role of reactive oxygen species in nucleic acid oxidation as a driving force in cancer progression. The consequential relationship between genome instability and cancer progression highlights the importance of modulation of cellular redox level in cancer management. Current epidemiological and experimental evidence demonstrate the effects and modes of action of phytoagents in nucleic acid oxidation and provide rationales for the use of phytoagents as chemopreventive or therapeutic agents. Vitamins and various phytoagents antagonize carcinogen-triggered oxidative stress by scavenging free radicals and/or activating endogenous defence systems such as Nrf2-regulated antioxidant genes or pathways. Moreover, metal ion chelation by phytoagents helps to attenuate oxidative DNA damage caused by transition metal ions. Besides, the prooxidant effects of some phytoagents pose selective cytotoxicity on cancer cells and shed light on a new strategy of cancer therapy. The \"double-edged sword\" role of phytoagents as redox regulators in nucleic acid oxidation and their possible roles in cancer prevention or therapy are discussed in this review.",
+  "type": "academic",
+  "pdf_url": "https://downloads.hindawi.com/journals/omcl/2013/925804.pdf"
+}

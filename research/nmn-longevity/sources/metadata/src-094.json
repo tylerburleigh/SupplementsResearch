@@ -1,0 +1,22 @@
+{
+  "id": "src-094",
+  "title": "Supplementation of nicotinamide mononucleotide diminishes COX-2 associated inflammatory responses in macrophages by activating kynurenine/AhR signaling.",
+  "authors": [
+    "Liu, Jing",
+    "Hou, Wenxuan",
+    "Zong, Zhaoyun",
+    "Chen, Yuling",
+    "Liu, Xiaohui",
+    "Zhang, Ran",
+    "Deng, Haiteng"
+  ],
+  "doi": "10.1016/j.freeradbiomed.2024.01.046",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38336100",
+  "provider": "pubmed",
+  "year": 2024,
+  "venue": "Free radical biology & medicine",
+  "citation_count": 0,
+  "abstract": "Cyclooxygenase-2 (COX-2) is an inducible enzyme responsible for prostaglandin synthesis during inflammation and immune responses. Our previous results show that NAD+ level decreased in activated macrophages while nicotinamide mononucleotide (NMN) supplementation suppressed the inflammatory responses via restoring NAD+ level and downregulating COX-2. However, whether NMN downregulates COX-2 in mouse model of inflammation, and its underlying mechanism needs to be further explored. In the present study, we established LPS- and alum-induced inflammation model and demonstrated that NMN suppressed the inflammatory responses in vivo. Quantitative proteomics in mouse peritoneal macrophages identified that NMN activated AhR signaling pathway in activated macrophages. Furthermore, we revealed that NMN supplementation led to IDO1 activation and kynurenine accumulation, which caused AhR nuclear translocation and activation. On the other hand, AhR or IDO1 knockout abolished the effects of NMN on suppressing COX-2 expression and inflammatory responses in macrophages. In summary, our results demonstrated that NMN suppresses inflammatory responses by activating IDO-kynurenine-AhR pathway, and suggested that administration of NMN in early-stage immuno-activation may cause an adverse health effect.",
+  "type": "academic",
+  "pdf_url": ""
+}

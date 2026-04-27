@@ -1,0 +1,21 @@
+{
+  "id": "src-413",
+  "title": "Health Benefits of Plant-Derived Sulfur Compounds, Glucosinolates, and Organosulfur Compounds",
+  "authors": [
+    "Miękus, Natalia",
+    "Marszałek, Krystian",
+    "Podlacha, Magdalena",
+    "Iqbal, Aamir",
+    "Puchalski, Czesław",
+    "Świergiel, Artur H."
+  ],
+  "doi": "10.3390/molecules25173804",
+  "url": "https://openalex.org/W3080263865",
+  "provider": "openalex",
+  "year": 2020,
+  "venue": "Molecules",
+  "citation_count": 212,
+  "abstract": "The broad spectrum of the mechanism of action of immune-boosting natural compounds as well as the complex nature of the food matrices make researching the health benefits of various food products a complicated task. Moreover, many routes are involved in the action of most natural compounds that lead to the inhibition of chronic inflammation, which results in a decrease in the ability to remove a pathogen asymptomatically and is connected to various pathological events, such as cancer. A number of cancers have been associated with inflammatory processes. The current review strives to answer the question of whether plant-derived sulfur compounds could be beneficial in cancer prevention and therapy. This review focuses on the two main sources of natural sulfur compounds: alliaceous and cruciferous vegetables. Through the presentation of scientific data which deal with the study of the chosen compounds in cancer (cell lines, animal models, and human studies), the discussion of food processing's influence on immune-boosting food content is presented. Additionally, it is demonstrated that there is still a need to precisely demonstrate the bioavailability of sulfur-containing compounds from various types of functional food, since the inappropriate preparation of vegetables can significantly reduce the content of beneficial sulfur compounds. Additionally, there is an urgent need to carry out more epidemiological studies to reveal the benefits of several natural compounds in cancer prevention and therapy.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/1420-3049/25/17/3804/pdf"
+}

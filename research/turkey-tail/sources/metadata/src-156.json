@@ -1,0 +1,34 @@
+{
+  "id": "src-156",
+  "title": "Oxidative Stress Relief for Cancer-Bearing Hosts by the Protein-Bound Polysaccharide of\n                    <i>Coriolus versicolor</i>\n                    QUEL with SOD Mimicking Activity",
+  "authors": [
+    "Kobayashi, Yuuki",
+    "Kariya, Kazutoshi",
+    "Saigenji, Katsunori",
+    "Nakamura, Kunie"
+  ],
+  "year": 1994,
+  "abstract": "",
+  "doi": "10.1089/cbr.1994.9.55",
+  "url": "https://doi.org/10.1089/cbr.1994.9.55",
+  "pdf_url": "",
+  "venue": "Cancer Biotherapy",
+  "citation_count": 15,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-23T19:04:22.379200+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-156.md",
+  "quality_details": {
+    "content_length": 4309,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

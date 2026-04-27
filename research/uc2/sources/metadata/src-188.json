@@ -1,0 +1,22 @@
+{
+  "id": "src-188",
+  "title": "Double-Blind Pilot Trial of Oral Tolerization with Myelin Antigens in Multiple Sclerosis",
+  "authors": [
+    "Weiner, Howard L.",
+    "Mackin, Glenn A.",
+    "Matsui, Makoto",
+    "Orav, E. John",
+    "Khoury, Samia J.",
+    "Dawson, David M.",
+    "Hafler, David A."
+  ],
+  "doi": "10.1126/science.7680493",
+  "url": "https://openalex.org/W2034249407",
+  "provider": "openalex",
+  "year": 1993,
+  "venue": "Science",
+  "citation_count": 587,
+  "abstract": "Multiple sclerosis (MS) is thought to be an autoimmune disease mediated by T lymphocytes that recognize myelin components of the central nervous system. In a 1-year double-blind study, 30 individuals with relapsing-remitting MS received daily capsules of bovine myelin or a control protein to determine the effect of oral tolerization to myelin antigens on the disease. Six of 15 individuals in the myelin-treated group had at least one major exacerbation; 12 or 15 had an attack in the control group. T cells reactive with myelin basic protein were reduced in the myelin-treated group. No toxicity or side effects were noted. Although conclusions about efficacy cannot be drawn from these data, they open an area of investigation for MS and other autoimmune diseases.",
+  "type": "academic",
+  "pdf_url": ""
+}

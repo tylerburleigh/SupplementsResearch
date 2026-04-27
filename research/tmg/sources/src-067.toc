@@ -1,0 +1,6 @@
+32	2	Abstract
+252	2	4. Betaine in non-mammalian systems
+280	2	5. Betaine transport in kidney and liver
+467	2	8. Ap p l i c a t i o n  t o  l i v e r  i n j u r y  i n  h u m a n s
+546	2	9. Conclusions
+573	2	References

@@ -1,0 +1,18 @@
+{
+  "id": "src-106",
+  "title": "Vascular calcification: Molecular mechanisms and therapeutic interventions",
+  "authors": [
+    "Pan, Wei",
+    "Jie, Wei",
+    "Huang, Hui"
+  ],
+  "doi": "10.1002/mco2.200",
+  "url": "https://openalex.org/W4313513742",
+  "provider": "openalex",
+  "year": 2023,
+  "venue": "MedComm",
+  "citation_count": 90,
+  "abstract": "Vascular calcification (VC) is recognized as a pathological vascular disorder associated with various diseases, such as atherosclerosis, hypertension, aortic valve stenosis, coronary artery disease, diabetes mellitus, as well as chronic kidney disease. Therefore, it is a life-threatening state for human health. There were several studies targeting mechanisms of VC that revealed the importance of vascular smooth muscle cells transdifferentiating, phosphorous and calcium milieu, as well as matrix vesicles on the progress of VC. However, the underlying molecular mechanisms of VC need to be elucidated. Though there is no acknowledged effective therapeutic strategy to reverse or cure VC clinically, recent evidence has proved that VC is not a passive irreversible comorbidity but an active process regulated by many factors. Some available approaches targeting the underlying molecular mechanism provide promising prospects for the therapy of VC. This review aims to summarize the novel findings on molecular mechanisms and therapeutic interventions of VC, including the role of inflammatory responses, endoplasmic reticulum stress, mitochondrial dysfunction, iron homeostasis, metabolic imbalance, and some related signaling pathways on VC progression. We also conclude some recent studies on controversial interventions in the clinical practice of VC, such as calcium channel blockers, renin-angiotensin system inhibitions, statins, bisphosphonates, denosumab, vitamins, and ion conditioning agents.",
+  "type": "academic",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/mco2.200"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "src-069",
+  "title": "Knowledge graph aids comprehensive explanation of drug and chemical toxicity.",
+  "authors": [
+    "Hao, Yun",
+    "Romano, Joseph D",
+    "Moore, Jason H"
+  ],
+  "doi": "10.1002/psp4.12975",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37475158",
+  "provider": "pubmed",
+  "year": 2023,
+  "venue": "CPT: pharmacometrics & systems pharmacology",
+  "citation_count": 0,
+  "abstract": "In computational toxicology, prediction of complex endpoints has always been challenging, as they often involve multiple distinct mechanisms. State-of-the-art models are either limited by low accuracy, or lack of interpretability due to their black-box nature. Here, we introduce AIDTox, an interpretable deep learning model which incorporates curated knowledge of chemical-gene connections, gene-pathway annotations, and pathway hierarchy. AIDTox accurately predicts cytotoxicity outcomes in HepG2 and HEK293 cells. It also provides comprehensive explanations of cytotoxicity covering multiple aspects of drug activity, including target interaction, metabolism, and elimination. In summary, AIDTox provides a computational framework for unveiling cellular mechanisms for complex toxicity endpoints.",
+  "type": "academic",
+  "pdf_url": ""
+}

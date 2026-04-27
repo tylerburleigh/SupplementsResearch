@@ -1,0 +1,20 @@
+{
+  "id": "src-055",
+  "title": "Effects of resveratrol supplementation on bone quality: a systematic review and meta-analysis of randomized controlled trials.",
+  "authors": [
+    "Li, Qiangqiang",
+    "Yang, Guangpu",
+    "Xu, Hongtao",
+    "Tang, Shaowen",
+    "Lee, Wayne Yuk-Wai"
+  ],
+  "doi": "10.1186/s12906-021-03381-4",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34420523",
+  "provider": "pubmed",
+  "year": 2021,
+  "venue": "BMC complementary medicine and therapies",
+  "citation_count": 0,
+  "abstract": "BACKGROUND: The results from clinical trials have revealed that the effects of resveratrol supplementation on bone mineral density (BMD) and bone biomarkers are inconsistent. Our objective was to determine the effects of resveratrol supplementation on BMD and serum bone biomarkers.\nMETHODS: PubMed, Cochrane library, EMBASE, Web of science and Scopus were searched up to August 24, 2020. Two reviewers independently performed the articles search and screen according to defined selection criteria. The study quality of the randomized controlled trials (RCTs) was evaluated with the Cochrane scoring system. Heterogeneity among studies was examined by Cochrane Q test. Retrieved data were pooled after mean differences (MD) were computed between two groups for BMD and serum biomarkers. Subgroup analyses were performed to evaluate a potential difference in terms of dose of resveratrol and intervention duration. Sensitivity analysis was executed by omitting studies with imputed values in order to evaluate the influence of these studies on the overall results.\nRESULTS: Ten eligible studies involving 698 subjects were included in this meta-analysis with 401 participants receiving resveratrol and 297 receiving placebo. Supplementation of resveratrol had no statistically significant effects on areal bone mineral density (aBMD) at lumbar spine (MD: -0.02, 95% CI: - 0.05, 0.01, p = 0.26, I2 = 6%), total hip BMD (MD: -0.01, 95% CI: - 0.04, 0.02, p = 0.65, I2 = 0%), and whole body BMD (MD: 0.00, 95% CI: - 0.02, 0.02, p = 0.74, I2 = 0%). Supplementation of resveratrol also did not result in significant change in bone serum markers, including serum alkaline phosphatase (ALP), bone alkaline phosphatase (BAP), osteocalcin (OCN), procollagen I N-terminal propeptide (PINP), C-terminal telopeptide of type I collagen (CTX) and parathyroid hormone (PTH). Subgroup analysis showed the effect of resveratrol supplementation on BMD and serum bone markers were similar in trails of different doses, intervention duration, and pathological conditions of the participants.\nCONCLUSION: Resveratrol supplementation did not show any significant effect on BMD or serum bone markers with the current evidence. Further investigation with more well-organized multicentre randomized trial is warranted.",
+  "type": "academic",
+  "pdf_url": ""
+}

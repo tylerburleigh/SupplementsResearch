@@ -1,0 +1,17 @@
+{
+  "id": "src-307",
+  "title": "Homocysteine – from disease biomarker to disease prevention",
+  "authors": [
+    "Smith, A. David",
+    "Refsum, Helga"
+  ],
+  "doi": "10.1111/joim.13279",
+  "url": "https://openalex.org/W3134243068",
+  "provider": "openalex",
+  "year": 2021,
+  "venue": "Journal of Internal Medicine",
+  "citation_count": 246,
+  "abstract": "We have reviewed the literature and have identified more than 100 diseases or conditions that are associated with raised concentrations of plasma total homocysteine. The commonest associations are with cardiovascular diseases and diseases of the central nervous system, but a large number of developmental and age-related conditions are also associated. Few other disease biomarkers have so many associations. The clinical importance of these associations becomes especially relevant if lowering plasma total homocysteine by B vitamin treatment can prevent disease and so improve health. Five diseases can at least in part be prevented by lowering total homocysteine: neural tube defects, impaired childhood cognition, macular degeneration, primary stroke, and cognitive impairment in the elderly. We conclude from our review that total homocysteine values in adults of 10 μmol/L or below are probably safe, but that values of 11 μmol/L or above may justify intervention. Homocysteine is more than a disease biomarker: it is a guide for the prevention of disease.",
+  "type": "academic",
+  "pdf_url": ""
+}

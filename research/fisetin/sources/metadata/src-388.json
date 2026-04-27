@@ -1,0 +1,19 @@
+{
+  "id": "src-388",
+  "title": "Targeted senotherapy improves electrographic and behavioral outcomes in a mouse model of temporal lobe epilepsy",
+  "authors": [
+    "McFall, David J.",
+    "Hussain, Abbas I.",
+    "Cho, Michelle",
+    "Forcelli, P."
+  ],
+  "doi": "10.1002/epi.70226",
+  "url": "https://www.semanticscholar.org/paper/474bbaa6718db3dfd2bd2eec681d1bf41324079e",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "Epilepsia",
+  "citation_count": 0,
+  "abstract": "Current pharmacotherapy for temporal lobe epilepsy (TLE) is limited to symptomatic treatment and leaves approximately one third of patients with inadequate seizure control. Discovering disease‐modifying targets is an unmet clinical need. We have previously identified senescent cells (SCs) as one such target. Many drugs that eliminate SCs (\nsenolytics\n) interfere with apoptotic resistance proteins, potentially resulting in broad cytotoxicity and numerous side effects. Newer, more targeted therapies, like selective senescence killing compound 1 (SSK1), a gemcitabine prodrug that is selectively activated in SCs, offer the possibility to reduce off‐target effects, but SSK1 has yet to be investigated in any preclinical epilepsy model.\n\nWe used pilocarpine to induce status epilepticus (SE) in 3‐ to 4‐month‐old mice. Immediately following SE, mice were randomly assigned to receive either SSK1 treatment or vehicle for the remainder of the study. We assessed behavioral performance on memory tasks, seizure burden by EEG, and histological markers of SCs.\n\nSE robustly increased hippocampal and thalamic expression of SC marker p16 by over 100% compared to saline controls. SSK1 treatment reduced p16+ cells by ~45%, without any apparent neurotoxicity. In addition, SSK1 treatment normalized spatial memory impairments and reduced spontaneous seizure burden, completely protecting a majority (60%) of animals from seizures. SC burden in the hippocampus, but not the thalamus, correlated with seizure burden in vehicle‐treated animals.\n\nThese findings lend further credence to the viability of targeting SCs to treat TLE. As with other genetic and pharmacologic SC ablation strategies, SSK1 produced a similar reduction in p16+ cells and normalization of spatial memory. SSK1, however, displays a stronger protective effect against seizures. In short, SSK1 is a compelling, translationally viable option for senolysis in TLE.",
+  "type": "academic",
+  "pdf_url": ""
+}

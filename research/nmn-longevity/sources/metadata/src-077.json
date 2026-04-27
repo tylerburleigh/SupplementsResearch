@@ -1,0 +1,30 @@
+{
+  "id": "src-077",
+  "title": "The Role of Nicotinamide Mononucleotide Supplementation in Psoriasis Treatment.",
+  "authors": [
+    "Zhang, Zhengyi",
+    "Cheng, Baochen",
+    "Du, Wenqian",
+    "Zeng, Mengqi",
+    "He, Ke",
+    "Yin, Tingyi",
+    "Shang, Sen",
+    "Su, Tian",
+    "Han, Dan",
+    "Gan, Xinyi",
+    "Wang, Ziyang",
+    "Liu, Meng",
+    "Wang, Min",
+    "Liu, Jiankang",
+    "Zheng, Yan"
+  ],
+  "doi": "10.3390/antiox13020186",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38397784",
+  "provider": "pubmed",
+  "year": 2024,
+  "venue": "Antioxidants (Basel, Switzerland)",
+  "citation_count": 0,
+  "abstract": "Psoriasis is one of several chronic inflammatory skin diseases with a high rate of recurrence, and its pathogenesis remains unclear. Nicotinamide mononucleotide (NMN), as an important precursor of nicotinamide adenine dinucleotide (NAD+), has been reported to be a promising agent in treating various diseases, its positive effects including those induced via its anti-inflammatory and antioxidant properties. For this reason, we have aimed to explore the possible role of NMN in the treatment of psoriasis. Psoriasis models were constructed with imiquimod (IMQ) stimulation for 5 days in vivo and with M5 treatment in keratinocyte cell lines in vitro. NMN treatment during the IMQ application period markedly attenuated excess epidermal proliferation, splenomegaly, and inflammatory responses. According to GEO databases, Sirtuin1 (SIRT1) levels significantly decreased in psoriasis patients' lesion tissues; this was also the case in the IMQ-treated mice, while NMN treatment reversed the SIRT1 decline in the mouse model. Moreover, NMN supplementation also improved the prognoses of the mice after IMQ stimulation, compared to the untreated group with elevated SIRT1 levels. In HEKa and HaCaT cells, the co-culturing of NMN and M5 significantly decreased the expression levels of proinflammation factors, the phosphorylation of NF-κB, stimulator of interferon genes (STING) levels, and reactive oxygen species levels. NMN treatment also recovered the decrease in mitochondrial membrane potential and respiration ability and reduced mtDNA in the cytoplasm, leading to the inhibition of autoimmune inflammation. The knockdown of SIRT1 in vitro eliminated the protective and therapeutic effects of NMN against M5. To conclude, our results indicate that NMN protects against IMQ-induced psoriatic inflammation, oxidative stress, and mitochondrial dysfunction by activating the SIRT1 pathway.",
+  "type": "academic",
+  "pdf_url": ""
+}

@@ -1,0 +1,15 @@
+3	2	Original Investigation
+9	1	The Author(s) 2018
+10	2	Abstract
+39	2	2 Department of Cognitive Psychology, Institute of Cognitive
+42	2	3 Institute for Sports and Sport Science, University of Kassel,
+44	2	4 Forensic Laboratory of Biologically Active Substances, Department
+47	2	5 Department of Experimental Neurobiology, National Institute of
+52	2	Introduction
+244	2	Methods
+245	2	Procedure
+526	2	Results
+580	2	Discussion
+805	2	Limitations
+857	2	Conclusion
+896	2	References

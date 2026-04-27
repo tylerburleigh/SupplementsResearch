@@ -1,0 +1,26 @@
+{
+  "id": "src-140",
+  "title": "Serum ferritin and admission stroke severity in first-ever acute ischemic stroke: a cross-sectional study",
+  "authors": [
+    "Gao, Ying",
+    "Xu, Xinyi",
+    "Gao, Haoli",
+    "Ren, Lei",
+    "Wang, Yan",
+    "Zhao, Cheng",
+    "Mu, Yongwei",
+    "Zhao, Xiaolu",
+    "Yang, Xiaokun",
+    "Liu, Jihua",
+    "Lu, Xiudi"
+  ],
+  "doi": "10.3389/fneur.2025.1683774",
+  "url": "https://www.semanticscholar.org/paper/1b14cdcec1232ae7e1a15a88dc7676fabde906dd",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "Frontiers in Neurology",
+  "citation_count": 0,
+  "abstract": "Background Iron dysregulation may aggravate ischemic brain injury through oxidative stress and ferroptosis. Serum ferritin (SF) reflects iron storage and inflammation, but its relationship with initial neurological deficit in first-ever acute ischemic stroke (AIS) remains unclear. Objective To investigate the association between admission SF levels and stroke severity in patients with first-ever anterior circulation AIS. Methods This cross-sectional study included 288 patients with first-ever anterior circulation AIS admitted within 72 h of onset. SF was measured within 24 h of admission. Stroke severity was assessed using the NIHSS; greater neurological deficit was defined as NIHSS > 5. Multivariable logistic regression, sensitivity analyses, and restricted cubic spline (RCS) modeling were performed. Subgroup analyses explored interactions with age, sex, and TOAST subtype. Results The median age was 64 years, 66.0% were male, and the median NIHSS score was 3. Patients with NIHSS > 5 had higher SF [231.77 ng/mL (IQR 135.94–303.92)] than those with NIHSS ≤ 5 [175.00 ng/mL (117.12–231.81); p = 0.003]. After full adjustment, higher log-SF remained independently associated with NIHSS > 5 (OR = 2.12, 95% CI 1.18–3.81; p = 0.012). RCS analysis revealed a U-shaped relationship (P for non-linearity = 0.029), with stronger associations in patients <65 years (OR = 6.17, 95% CI 1.82–20.92; p = 0.004) and in small-artery occlusion subtype (OR = 4.20, 95% CI 1.41–12.47; p = 0.010). Conclusion Among patients with first-ever anterior circulation AIS, serum ferritin showed a U-shaped association with neurological deficit. These results warrant validation in larger multicenter studies.",
+  "type": "academic",
+  "pdf_url": ""
+}

@@ -1,0 +1,17 @@
+{
+  "id": "src-247",
+  "title": "The Emerging Roles of γ-Glutamyl Peptides Produced by γ-Glutamyltransferase and the Glutathione Synthesis System",
+  "authors": [
+    "Ikeda, Yoshitaka",
+    "Fujii, Junichi"
+  ],
+  "doi": "10.3390/cells12242831",
+  "url": "https://openalex.org/W4389711713",
+  "provider": "openalex",
+  "year": 2023,
+  "venue": "Cells",
+  "citation_count": 44,
+  "abstract": "L-γ-Glutamyl-L-cysteinyl-glycine is commonly referred to as glutathione (GSH); this ubiquitous thiol plays essential roles in animal life. Conjugation and electron donation to enzymes such as glutathione peroxidase (GPX) are prominent functions of GSH. Cellular glutathione balance is robustly maintained via regulated synthesis, which is catalyzed via the coordination of γ-glutamyl-cysteine synthetase (γ-GCS) and glutathione synthetase, as well as by reductive recycling by glutathione reductase. A prevailing short supply of L-cysteine (Cys) tends to limit glutathione synthesis, which leads to the production of various other γ-glutamyl peptides due to the unique enzymatic properties of γ-GCS. Extracellular degradation of glutathione by γ-glutamyltransferase (GGT) is a dominant source of Cys for some cells. GGT catalyzes the hydrolytic removal of the γ-glutamyl group of glutathione or transfers it to amino acids or to dipeptides outside cells. Such processes depend on an abundance of acceptor substrates. However, the physiological roles of extracellularly preserved γ-glutamyl peptides have long been unclear. The identification of γ-glutamyl peptides, such as glutathione, as allosteric modulators of calcium-sensing receptors (CaSRs) could provide insights into the significance of the preservation of γ-glutamyl peptides. It is conceivable that GGT could generate a new class of intercellular messaging molecules in response to extracellular microenvironments.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2073-4409/12/24/2831/pdf?version=1702537476"
+}

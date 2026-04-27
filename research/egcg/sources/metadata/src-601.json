@@ -1,0 +1,23 @@
+{
+  "id": "src-601",
+  "title": "Tea consumption and risk of all-cause, cardiovascular disease, and cancer mortality: a meta-analysis of thirty-eight prospective cohort data sets",
+  "authors": [
+    "Kim, Youngyo",
+    "Je, Youjin"
+  ],
+  "year": 2024,
+  "abstract": "OBJECTIVES: Tea consumption has been considered beneficial to human health because tea contains phytochemicals such as polyphenols and theaflavins. We conducted a systematic review and meta-analysis on the association between tea consumption and mortality from all causes, cardiovascular disease (CVD), and cancer to provide a quantitative assessment of current evidence.METHODS: The PubMed, Web of Science, and Scopus databases were searched through April 2024 to identify eligible studies. Random effects models were used to combine study-specific effect estimates (ESs).RESULTS: A total of 38 prospective cohort data sets (from 27 papers) with 1,956,549 participants were included in this meta-analysis. The pooled ESs of the highest versus lowest categories of tea consumption were 0.90 (95% confidence interval [CI], 0.86 to 0.95) for all-cause mortality, 0.86 (95% CI, 0.79 to 0.94) for CVD mortality, and 0.90 (95% CI, 0.78 to 1.03) for cancer mortality. In the dose-response analysis, a non-linear association was observed. The greatest risk reductions were observed for the consumption of 2.0 cup/day for all-cause mortality (ES, 0.91; 95% CI, 0.88 to 0.94) and 1.5 cup/day for cancer mortality (ES, 0.92; 95% CI, 0.89 to 0.96), whereas additional consumption did not show a further reduction in the risk of death. A plateau was observed for CVD mortality at moderate consumption levels (1.5-3.0 cup/day), but a sustained reduction in mortality risk was observed at higher intake levels.CONCLUSIONS: Moderate tea consumption (e.g., 1.5-2.0 cup/day) was associated with lower all-cause, CVD, and cancer mortality compared to no tea consumption. Further well-designed prospective studies are needed for a definitive conclusion.",
+  "doi": "10.4178/epih.e2024056",
+  "url": "https://doi.org/10.4178/epih.e2024056",
+  "pdf_url": "",
+  "venue": "Epidemiology and Health",
+  "citation_count": 12,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-23T01:41:54.845366+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok"
+}

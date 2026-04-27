@@ -1,0 +1,18 @@
+{
+  "id": "src-420",
+  "title": "Metabolic Fate of Dietary Glucosinolates and Their Metabolites: A Role for the Microbiome",
+  "authors": [
+    "Bouranis, John A.",
+    "Beaver, Laura M.",
+    "Ho, Emily"
+  ],
+  "doi": "10.3389/fnut.2021.748433",
+  "url": "https://openalex.org/W3200876632",
+  "provider": "openalex",
+  "year": 2021,
+  "venue": "Frontiers in Nutrition",
+  "citation_count": 31,
+  "abstract": "Robust evidence shows that phytochemicals from cruciferous vegetables, like broccoli, are associated with numerous health benefits. The anti-cancer properties of these foods are attributed to bioactive isothiocyanates (ITCs) and indoles, phytochemicals generated from biological precursor compounds called glucosinolates. ITCs, and particularly sulforaphane (SFN), are of intense interest as they block the initiation, and suppress the progression of cancer, through genetic and epigenetic mechanisms. The efficacy of these compounds is well-demonstrated in cell culture and animal models, however, high levels of inter-individual variation in absorption and excretion of ITCs is a significant barrier to the use of dietary glucosinolates to prevent and treat disease. The source of inter-individual ITC variation has yet to be fully elucidated and the gut microbiome may play a key role. This review highlights evidence that the gut microbiome influences the metabolic fate and activity of ITCs. Human feeding trials have shown inter-individual variations in gut microbiome composition coincides with variations in ITC absorption and excretion, and some bacteria produce ITCs from glucosinolates. Additionally, consumption of cruciferous vegetables can alter the composition of the gut microbiome and shift the physiochemical environment of the gut lumen, influencing the production of phytochemicals. Microbiome and diet induced changes to ITC metabolism may lead to the decrease of cancer fighting phytochemicals such as SFN and increase the production of biologically inert ones like SFN-nitrile. We conclude by offering perspective on the use of novel \"omics\" technologies to elucidate the interplay of the gut microbiome and ITC formation.",
+  "type": "academic",
+  "pdf_url": "https://www.frontiersin.org/articles/10.3389/fnut.2021.748433/pdf"
+}

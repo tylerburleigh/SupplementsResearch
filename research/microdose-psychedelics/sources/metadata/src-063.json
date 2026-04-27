@@ -1,0 +1,32 @@
+{
+  "id": "src-063",
+  "title": "Towards an understanding of psychedelic-induced neuroplasticity",
+  "authors": [
+    "Calder, Abigail E.",
+    "Hasler, Gregor"
+  ],
+  "year": 2023,
+  "abstract": "AbstractClassic psychedelics, such as LSD, psilocybin, and the DMT-containing beverage ayahuasca, show some potential to treat depression, anxiety, and addiction. Importantly, clinical improvements can last for months or years after treatment. It has been theorized that these long-term improvements arise because psychedelics rapidly and lastingly stimulate neuroplasticity. The focus of this review is on answering specific questions about the effects of psychedelics on neuroplasticity. Firstly, we review the evidence that psychedelics promote neuroplasticity and examine the cellular and molecular mechanisms behind the effects of different psychedelics on different aspects of neuroplasticity, including dendritogenesis, synaptogenesis, neurogenesis, and expression of plasticity-related genes (e.g., brain-derived neurotrophic factor and immediate early genes). We then examine where in the brain psychedelics promote neuroplasticity, particularly discussing the prefrontal cortex and hippocampus. We also examine what doses are required to produce this effect (e.g., hallucinogenic doses vs. “microdoses”), and how long purported changes in neuroplasticity last. Finally, we discuss the likely consequences of psychedelics’ effects on neuroplasticity for both patients and healthy people, and we identify important research questions that would further scientific understanding of psychedelics’ effects on neuroplasticity and its potential clinical applications.",
+  "doi": "10.1038/s41386-022-01389-z",
+  "url": "https://doi.org/10.1038/s41386-022-01389-z",
+  "pdf_url": "",
+  "venue": "Neuropsychopharmacology",
+  "citation_count": 240,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-26T10:46:27.777570+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-063.md",
+  "quality_details": {
+    "content_length": 69723,
+    "alpha_ratio": 0.755,
+    "sentence_count": 753,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

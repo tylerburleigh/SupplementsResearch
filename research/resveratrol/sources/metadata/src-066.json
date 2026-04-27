@@ -1,0 +1,18 @@
+{
+  "id": "src-066",
+  "title": "The effects of resveratrol supplementation in patients with type 2 diabetes, metabolic syndrome, and nonalcoholic fatty liver disease: an umbrella review of meta-analyses of randomized controlled trials.",
+  "authors": [
+    "Zeraattalab-Motlagh, Sheida",
+    "Jayedi, Ahmad",
+    "Shab-Bidar, Sakineh"
+  ],
+  "doi": "10.1093/ajcn/nqab250",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34320173",
+  "provider": "pubmed",
+  "year": 2021,
+  "venue": "The American journal of clinical nutrition",
+  "citation_count": 0,
+  "abstract": "BACKGROUND: Uncertainty remains about the estimates of the effects for resveratrol supplementation, including the certainty of the evidence for each estimate and the magnitude of the observed impact based on the minimal important difference.\nOBJECTIVE: We aimed to provide an overview of the effects of resveratrol supplementation, in comparison to control groups, for the management of cardiometabolic risk factors in patients with type 2 diabetes (T2D), metabolic syndrome (MetS), and nonalcoholic fatty liver disease (NAFLD).\nMETHODS: PubMed, Scopus, and ISI Web of Science were searched from inception to May 2021. For each meta-analysis, the mean difference and its 95% CI were recalculated using a random-effects model. The certainty of evidence was rated using the GRADE (Grading of Recommendations Assessment, Development, and Evaluation) approach.\nRESULTS: We identified 11 meta-analyses corresponding to 29 outcomes in 1476 individuals with T2D, 17 meta-analyses reporting 26 outcomes in 727 participants with the MetS, and 10 meta-analyses reporting 24 outcomes in 271 patients with NAFLD. Resveratrol supplementation had beneficial effects on some outcomes such as blood pressure, lipid profile, glycemic control, and insulin resistance in T2D, waist circumference in MetS, and body-weight and inflammation markers in NAFLD; however, for almost all outcomes, the magnitude of the effect was trivial, the certainty of evidence was very low to low, or the number of trials was too few. In the case of glycated hemoglobin (HbA1c), there was evidence that resveratrol can exert favorable and clinically important effects in the short term (<12 wk; mean difference: -1.05%, 95% CI: -2.09%, -0.02%; n = 6; GRADE = moderate).\nCONCLUSIONS: Current evidence does not support supplementation with resveratrol for the management of cardiometabolic risk factors in patients with T2D, MetS, and NAFLD. In the case of HbA1c, subject to the limitations such as short-term follow-up and small sample size, there was a clinically important effect. The protocol of the present systematic review was registered in Open Science Framework (https://osf.io/ake85; registration doi: 10.17605/OSF.IO/AKE85).",
+  "type": "academic",
+  "pdf_url": ""
+}

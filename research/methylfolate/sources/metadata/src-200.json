@@ -1,0 +1,15 @@
+{
+  "id": "src-200",
+  "title": "The Effects of Methotrexate and Genetic Polymorphisms on the Folate/Homocysteine Pathway",
+  "authors": [
+    "Summers, Carolyn"
+  ],
+  "url": "https://openalex.org/W1604612951",
+  "provider": "openalex",
+  "year": 2011,
+  "venue": "Scholarly Commons (University of Pennsylvania)",
+  "citation_count": 0,
+  "abstract": "High homocysteine (Hcy) and low folate status are associated with many clinical conditions ranging from cardiovascular disease to neural tube defects. Hcy and folate levels are affected by diet as well as lifestyle and genetic factors. Associations between genetic polymorphisms of the enzymes involved in folate/Hcy metabolism and Hcy levels and folate phenotypes were examined. Genetic polymorphisms were studied in a range of populations, which included healthy individuals, systemic lupus erythematosus (SLE) patients, rheumatoid arthritis (RA) patients, and families with a child affected by neural tube defects (NTDs). Chronic low folate is associated with development of a “proatherosclerotic” phenotype in the endothelial cell line, EA.hy 926. The effect of the anti-folate, methotrexate (MTX), on the expression of inflammatory genes was studied in EA.hy 926 cells in the context of folate status and activation by TNF-α.\\nGenotyping was performed by TaqMan allelic discrimination assays or by size difference PCR. Total Hcy (tHcy) concentrations and levels of plasma and red blood cell (RBC) folate derivatives were measured by stable isotope dilution liquid chromatography multiple reaction monitoring mass spectrometry. Affymetrix microarrays were used to assess changes in gene expression in vitro. Candidate inflammatory genes were then queried using qRT-PCR. ELISAs were performed to confirm changes in protein levels.\\nSeveral polymorphisms had effects on tHcy levels and not only on total RBC folate but on individual RBC folate derivatives. Specifically effects were observed within the studies in healthy men, healthy women, and RA patients, but not in SLE patients. Also none of the polymorphisms studied showed an association with increased risk for NTDs using Transmission Disequilibrium Test analyses. Genetic polymorphisms of the enzymes of the folate/Hcy pathway impact levels of tHcy and folate, which may then impact risk for various clinical conditions.\\nMTX increased mRNA expression and protein levels of several inflammatory genes, which included C3 and IL-8. Activation of endothelial cells by TNF-α did not seem to be affected by treatment with MTX, with exception of the up regulation of C3. MTX lowered intracellular folate and altered the distribution of folate derivatives, which had an effect on inflammatory gene expression in endothelial cells.",
+  "type": "academic",
+  "pdf_url": "https://repository.upenn.edu/edissertations/985"
+}

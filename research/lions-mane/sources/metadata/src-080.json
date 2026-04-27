@@ -1,0 +1,24 @@
+{
+  "id": "src-080",
+  "title": "Adipose-Derived Stem Cells Stimulate Regeneration of Peripheral Nerves: BDNF Secreted by These Cells Promotes Nerve Healing and Axon Growth De Novo",
+  "authors": [
+    "Lopatina, Tatiana",
+    "Kalinina, Natalia",
+    "Karagyaur, Maxim",
+    "Stambolsky, Dmitry",
+    "Rubina, Kseniya",
+    "Revischin, Alexander",
+    "Pavlova, Galina",
+    "Parfyonova, Yelena",
+    "Va, Tkachuk"
+  ],
+  "doi": "10.1371/journal.pone.0017899",
+  "url": "https://openalex.org/W2067738652",
+  "provider": "openalex",
+  "year": 2011,
+  "venue": "PLoS ONE",
+  "citation_count": 286,
+  "abstract": "Transplantation of adipose-derived mesenchymal stem cells (ASCs) induces tissue regeneration by accelerating the growth of blood vessels and nerve. However, mechanisms by which they accelerate the growth of nerve fibers are only partially understood. We used transplantation of ASCs with subcutaneous matrigel implants (well-known in vivo model of angiogenesis) and model of mice limb reinnervation to check the influence of ASC on nerve growth. Here we show that ASCs stimulate the regeneration of nerves in innervated mice's limbs and induce axon growth in subcutaneous matrigel implants. To investigate the mechanism of this action we analyzed different properties of these cells and showed that they express numerous genes of neurotrophins and extracellular matrix proteins required for the nerve growth and myelination. Induction of neural differentiation of ASCs enhances production of brain-derived neurotrophic factor (BDNF) as well as ability of these cells to induce nerve fiber growth. BDNF neutralizing antibodies abrogated the stimulatory effects of ASCs on the growth of nerve sprouts. These data suggest that ASCs induce nerve repair and growth via BDNF production. This stimulatory effect can be further enhanced by culturing the cells in neural differentiation medium prior to transplantation.",
+  "type": "academic",
+  "pdf_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0017899&type=printable"
+}

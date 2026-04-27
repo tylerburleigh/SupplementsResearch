@@ -1,0 +1,27 @@
+{
+  "id": "src-150",
+  "title": "Enhancing mitochondrial proteostasis reduces amyloid-β proteotoxicity.",
+  "authors": [
+    "Sorrentino, Vincenzo",
+    "Romani, Mario",
+    "Mouchiroud, Laurent",
+    "Beck, John S",
+    "Zhang, Hongbo",
+    "D'Amico, Davide",
+    "Moullan, Norman",
+    "Potenza, Francesca",
+    "Schmid, Adrien W",
+    "Rietsch, Solène",
+    "Counts, Scott E",
+    "Auwerx, Johan"
+  ],
+  "doi": "10.1038/nature25143",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/29211722",
+  "provider": "pubmed",
+  "year": 2017,
+  "venue": "Nature",
+  "citation_count": 0,
+  "abstract": "Alzheimer's disease is a common and devastating disease characterized by aggregation of the amyloid-β peptide. However, we know relatively little about the underlying molecular mechanisms or how to treat patients with Alzheimer's disease. Here we provide bioinformatic and experimental evidence of a conserved mitochondrial stress response signature present in diseases involving amyloid-β proteotoxicity in human, mouse and Caenorhabditis elegans that involves the mitochondrial unfolded protein response and mitophagy pathways. Using a worm model of amyloid-β proteotoxicity, GMC101, we recapitulated mitochondrial features and confirmed that the induction of this mitochondrial stress response was essential for the maintenance of mitochondrial proteostasis and health. Notably, increasing mitochondrial proteostasis by pharmacologically and genetically targeting mitochondrial translation and mitophagy increases the fitness and lifespan of GMC101 worms and reduces amyloid aggregation in cells, worms and in transgenic mouse models of Alzheimer's disease. Our data support the relevance of enhancing mitochondrial proteostasis to delay amyloid-β proteotoxic diseases, such as Alzheimer's disease.",
+  "type": "academic",
+  "pdf_url": ""
+}

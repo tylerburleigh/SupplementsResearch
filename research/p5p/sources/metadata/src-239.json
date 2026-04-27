@@ -1,0 +1,33 @@
+{
+  "id": "src-239",
+  "title": "Gender-specific pathway differences in the human serum metabolome",
+  "authors": [
+    "Krumsiek, Jan",
+    "Mittelstraß, Kirstin",
+    "Trinh, Kieu",
+    "Stückler, Ferdinand",
+    "Ried, Janina S.",
+    "Adamski, Jerzy",
+    "Peters, Annette",
+    "Illig, Thomas",
+    "Kronenberg, Florian",
+    "Friedrich, Nele",
+    "Nauck, Matthias",
+    "Pietzner, Maik",
+    "Mook‐Kanamori, Dennis O.",
+    "Suhre, Karsten",
+    "Gieger, Christian",
+    "Grallert, Harald",
+    "Theis, Fabian J.",
+    "Kastenmüller, Gabi"
+  ],
+  "doi": "10.1007/s11306-015-0829-0",
+  "url": "https://openalex.org/W1961515348",
+  "provider": "openalex",
+  "year": 2015,
+  "venue": "Metabolomics",
+  "citation_count": 300,
+  "abstract": "The susceptibility for various diseases as well as the response to treatments differ considerably between men and women. As a basis for a gender-specific personalized healthcare, an extensive characterization of the molecular differences between the two genders is required. In the present study, we conducted a large-scale metabolomics analysis of 507 metabolic markers measured in serum of 1756 participants from the German KORA F4 study (903 females and 853 males). One-third of the metabolites show significant differences between males and females. A pathway analysis revealed strong differences in steroid metabolism, fatty acids and further lipids, a large fraction of amino acids, oxidative phosphorylation, purine metabolism and gamma-glutamyl dipeptides. We then extended this analysis by a network-based clustering approach. Metabolite interactions were estimated using Gaussian graphical models to get an unbiased, fully data-driven metabolic network representation. This approach is not limited to possibly arbitrary pathway boundaries and can even include poorly or uncharacterized metabolites. The network analysis revealed several strongly gender-regulated submodules across different pathways. Finally, a gender-stratified genome-wide association study was performed to determine whether the observed gender differences are caused by dimorphisms in the effects of genetic polymorphisms on the metabolome. With only a single genome-wide significant hit, our results suggest that this scenario is not the case. In summary, we report an extensive characterization and interpretation of gender-specific differences of the human serum metabolome, providing a broad basis for future analyses.",
+  "type": "academic",
+  "pdf_url": "https://link.springer.com/content/pdf/10.1007/s11306-015-0829-0.pdf"
+}

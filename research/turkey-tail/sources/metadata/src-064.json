@@ -1,0 +1,18 @@
+{
+  "id": "src-064",
+  "title": "A tutorial on pharmacometric Markov models.",
+  "authors": [
+    "Ooi, Qing Xi",
+    "Plan, Elodie",
+    "Bergstrand, Martin"
+  ],
+  "doi": "10.1002/psp4.13278",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39670923",
+  "provider": "pubmed",
+  "year": 2025,
+  "venue": "CPT: pharmacometrics & systems pharmacology",
+  "citation_count": 0,
+  "abstract": "The Markov chain is a stochastic process in which the future value of a variable is conditionally independent of the past, given its present value. Data with Markovian features are characterized by: frequent observations relative to the expected changes in values, many consecutive same-category or similar-value observations at the individual level, and a positive correlation observed between the current and previous values for that variable. In drug development and clinical settings, the data available commonly present Markovian features and are increasingly often modeled using Markov elements or dedicated Markov models. This tutorial presents the main characteristics, evaluations, and applications of various Markov modeling approaches including the discrete-time Markov models (DTMM), continuous-time Markov models (CTMM), hidden Markov models, and item-response theory model with Markov sub-models. The tutorial has a specific emphasis on the use of DTMM and CTMM for modeling ordered-categorical data with Markovian features. Although the main body of this tutorial is written in a software-neutral manner, annotated NONMEM code for all key Markov models is included in the Supplementary Information.",
+  "type": "academic",
+  "pdf_url": ""
+}

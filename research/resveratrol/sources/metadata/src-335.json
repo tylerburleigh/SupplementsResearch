@@ -1,0 +1,30 @@
+{
+  "id": "src-335",
+  "title": "A small molecule ApoE4-targeted therapeutic candidate that normalizes sirtuin 1 levels and improves cognition in an Alzheimer's disease mouse model.",
+  "authors": [
+    "Bai, Dongsheng",
+    "Bilousova, Tina",
+    "Bredesen, Dale E",
+    "Campagna, Jesus",
+    "Cole, Gregory",
+    "Elias, Chris Jean",
+    "Hatami, Asa",
+    "Jagodzinska, Barbara",
+    "John, Varghese",
+    "Jun, Michael",
+    "Jung, Michael E",
+    "LaDu, Mary Jo",
+    "Pham, Johnny",
+    "Spilman, Patricia",
+    "Zhu, Chunni"
+  ],
+  "doi": "10.1038/s41598-018-35687-8",
+  "url": "https://doi.org/10.1038/s41598-018-35687-8",
+  "provider": "core",
+  "year": 2018,
+  "venue": "Scientific Reports",
+  "citation_count": 0,
+  "abstract": "We describe here the results from the testing of a small molecule first-in-class apolipoprotein E4 (ApoE4)-targeted sirtuin1 (SirT1) enhancer, A03, that increases the levels of the neuroprotective enzyme SirT1 while not affecting levels of neurotoxic sirtuin 2 (SirT2) in vitro in ApoE4-transfected cells. A03 was identified by high-throughput screening (HTS) and found to be orally bioavailable and brain penetrant. In vivo, A03 treatment increased SirT1 levels in the hippocampus of 5XFAD-ApoE4 (E4FAD) Alzheimer's disease (AD) model mice and elicited cognitive improvement while inducing no observed toxicity. We were able to resolve the enantiomers of A03 and show using in vitro models that the L-enantiomer was more potent than the corresponding D-enantiomer in increasing SirT1 levels. ApoE4 expression has been shown to decrease the level of the NAD-dependent deacetylase and major longevity determinant SirT1 in brain tissue and serum of AD patients as compared to normal controls. A deficiency in SirT1 level has been recently implicated in increased tau acetylation, a dominant post-translational modification and key pathological event in AD and tauopathies. Therefore, as a novel approach to therapeutic development for AD, we targeted identification of compounds that enhance and normalize brain SirT1 levels",
+  "type": "academic",
+  "pdf_url": "https://core.ac.uk/download/323080314.pdf"
+}

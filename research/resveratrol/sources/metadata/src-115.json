@@ -1,0 +1,25 @@
+{
+  "id": "src-115",
+  "title": "Beneficial Effects of Dietary Polyphenols on Gut Microbiota and Strategies to Improve Delivery Efficiency",
+  "authors": [
+    "Singh, Amit Kumar",
+    "Cabral, Célia",
+    "Kumar, Ramesh",
+    "Ganguly, Risha",
+    "Rana, Harvesh Kumar",
+    "Gupta, Ashutosh",
+    "Lauro, Maria Rosaria",
+    "Carbone, Claudia",
+    "Reis, Flávio",
+    "Pandey, Abhay K."
+  ],
+  "doi": "10.3390/nu11092216",
+  "url": "https://openalex.org/W2972606658",
+  "provider": "openalex",
+  "year": 2019,
+  "venue": "Nutrients",
+  "citation_count": 411,
+  "abstract": "The human intestine contains an intricate ecological community of dwelling bacteria, referred as gut microbiota (GM), which plays a pivotal role in host homeostasis. Multiple factors could interfere with this delicate balance, including genetics, age, antibiotics, as well as environmental factors, particularly diet, thus causing a disruption of microbiota equilibrium (dysbiosis). Growing evidences support the involvement of GM dysbiosis in gastrointestinal (GI) and extra-intestinal cardiometabolic diseases, namely obesity and diabetes. This review firstly overviews the role of GM in health and disease, then critically reviews the evidences regarding the influence of dietary polyphenols in GM based on preclinical and clinical data, ending with strategies under development to improve efficiency of delivery. Although the precise mechanisms deserve further clarification, preclinical and clinical data suggest that dietary polyphenols present prebiotic properties and exert antimicrobial activities against pathogenic GM, having benefits in distinct disorders. Specifically, dietary polyphenols have been shown ability to modulate GM composition and function, interfering with bacterial quorum sensing, membrane permeability, as well as sensitizing bacteria to xenobiotics. In addition, can impact on gut metabolism and immunity and exert anti-inflammatory properties. In order to overcome the low bioavailability, several different approaches have been developed, aiming to improve solubility and transport of dietary polyphenols throughout the GI tract and deliver in the targeted intestinal regions. Although more research is still needed, particularly translational and clinical studies, the biotechnological progresses achieved during the last years open up good perspectives to, in a near future, be able to improve the use of dietary polyphenols modulating GM in a broad range of disorders characterized by a dysbiotic phenotype.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2072-6643/11/9/2216/pdf?version=1568364578"
+}

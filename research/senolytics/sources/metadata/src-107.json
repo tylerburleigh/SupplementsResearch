@@ -1,0 +1,30 @@
+{
+  "id": "src-107",
+  "title": "Progressive Cellular Senescence Mediates Renal Dysfunction in Ischemic Nephropathy.",
+  "authors": [
+    "Kim, Seo Rin",
+    "Puranik, Amrutesh S",
+    "Jiang, Kai",
+    "Chen, Xiaojun",
+    "Zhu, Xiang-Yang",
+    "Taylor, Ian",
+    "Khodadadi-Jamayran, Alireza",
+    "Lerman, Amir",
+    "Hickson, LaTonya J",
+    "Childs, Bennett G",
+    "Textor, Stephen C",
+    "Tchkonia, Tamara",
+    "Niewold, Timothy B",
+    "Kirkland, James L",
+    "Lerman, Lilach O"
+  ],
+  "doi": "10.1681/asn.2020091373",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34135081",
+  "provider": "pubmed",
+  "year": 2021,
+  "venue": "Journal of the American Society of Nephrology : JASN",
+  "citation_count": 0,
+  "abstract": "BACKGROUND: Peripheral vascular diseases may induce chronic ischemia and cellular injury distal to the arterial obstruction. Cellular senescence involves proliferation arrest in response to stress, which can damage neighboring cells. Renal artery stenosis (RAS) induces stenotic-kidney dysfunction and injury, but whether these arise from cellular senescenceand their temporal pattern remain unknown.\nMETHODS: Chronic renal ischemia was induced in transgenic INK-ATTAC and wild type C57BL/6 mice by unilateral RAS, and kidney function (in vivo micro-MRI) and tissue damage were assessed. Mouse healthy and stenotic kidneys were analyzed using unbiased single-cell RNA-sequencing. To demonstrate translational relevance, cellular senescence was studied in human stenotic kidneys.\nRESULTS: Using intraperitoneal AP20187 injections starting 1, 2, or 4 weeks after RAS, selective clearance of cells highly expressing p16Ink4a attenuated cellular senescence and improved stenotic-kidney function; however, starting treatment immediately after RAS induction was unsuccessful. Broader clearance of senescent cells, using the oral senolytic combination dasatinib and quercetin, in C57BL/6 RAS mice was more effective in clearing cells positive for p21 (Cdkn1a) and alleviating renal dysfunction and damage. Unbiased, single-cell RNA sequencing in freshly dissociated cells from healthy and stenotic mouse kidneys identified stenotic-kidney epithelial cells undergoing both mesenchymal transition and senescence. As in mice, injured human stenotic kidneys exhibited cellular senescence, suggesting this process is conserved.\nCONCLUSIONS: Maladaptive tubular cell senescence, involving upregulated p16 (Cdkn2a), p19 (Cdkn2d), and p21 (Cdkn1a) expression, is associated with renal dysfunction and injury in chronic ischemia. These findings support development of senolytic strategies to delay chronic ischemic renal injury.",
+  "type": "academic",
+  "pdf_url": ""
+}

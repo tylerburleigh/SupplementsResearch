@@ -1,0 +1,33 @@
+{
+  "id": "src-263",
+  "title": "Vitamin D Supplementation and the Incidence of Fractures in the Elderly Healthy Population: A Meta-analysis of Randomized Controlled Trials",
+  "authors": [
+    "de Souza, Mariana de Moura",
+    "Moraes Dantas, Rachel Louise",
+    "Leão Durães, Vitor",
+    "Defante, Maria Luiza Rodrigues",
+    "Mendes, Thiago Bosco"
+  ],
+  "year": 2024,
+  "abstract": "",
+  "doi": "10.1007/s11606-024-08933-1",
+  "url": "https://doi.org/10.1007/s11606-024-08933-1",
+  "pdf_url": "",
+  "venue": "Journal of General Internal Medicine",
+  "citation_count": 9,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T20:58:37.797261+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-263.md",
+  "quality_details": {
+    "content_length": 30519,
+    "alpha_ratio": 0.722,
+    "sentence_count": 338,
+    "reasons": []
+  }
+}

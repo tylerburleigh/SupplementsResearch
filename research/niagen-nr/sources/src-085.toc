@@ -1,0 +1,17 @@
+3	2	Article Open
+26	2	Introduction
+30	3	85.1 There are two major types of hearing loss: conductive and
+74	2	14 Inner hair
+102	2	Results
+281	2	Csb
+305	2	Discussion
+371	2	Csa
+444	2	Methods
+469	2	Csb
+546	2	Statistical Analysis
+570	2	Data Availability
+574	2	References
+673	2	Acknowledgements
+678	2	Author Contributions
+683	2	Competing Interests
+685	2	Additional Information

@@ -1,0 +1,22 @@
+{
+  "id": "src-108",
+  "title": "Identification of functional rare coding variants in IGF-1 gene in humans with exceptional longevity.",
+  "authors": [
+    "Ali, Amanat",
+    "Zhang, Zhengdong D",
+    "Gao, Tina",
+    "Aleksic, Sandra",
+    "Gavathiotis, Evripidis",
+    "Barzilai, Nir",
+    "Milman, Sofiya"
+  ],
+  "doi": "10.1038/s41598-025-94094-y",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40133344",
+  "provider": "pubmed",
+  "year": 2025,
+  "venue": "Scientific reports",
+  "citation_count": 0,
+  "abstract": "Diminished signaling via insulin/insulin-like growth factor-1 (IGF-1) axis is associated with longevity in different model organisms. IGF-1 gene is highly conserved across species, with only few evolutionary changes identified in it. Despite its potential role in regulating lifespan, no coding variants in IGF-1 have been reported in human longevity cohorts to date. This study investigated the whole exome sequencing data from 2,108 individuals in a cohort of Ashkenazi Jewish centenarians, their offspring, and controls without familial longevity to identify functional IGF-1 coding variants. We identified two likely functional coding variants IGF-1:p.Ile91Leu and IGF-1:p.Ala118Thr in our longevity cohort. Notably, a centenarian specific novel variant IGF-1:p.Ile91Leu was located at the binding interface of IGF-1-IGF-1R, whereas IGF-1:p.Ala118Thr was significantly associated with lower circulating levels of IGF-1. We performed extended all-atom molecular dynamics simulations to evaluate the impact of Ile91Leu on stability, binding dynamics and energetics of IGF-1 bound to IGF-1R. The IGF-1:p.Ile91Leu formed less stable interactions with IGF-1R's critical binding pocket residues and demonstrated lower binding affinity at the extracellular binding site compared to wild-type IGF-1. Our findings suggest that IGF-1:p.Ile91Leu and IGF-1:p.Ala118Thr variants attenuate IGF-1R activity by impairing IGF-1 binding and diminishing the circulatory levels of IGF-1, respectively. Consequently, diminished IGF-1 signaling resulting from these variants may contribute to exceptional longevity in humans.",
+  "type": "academic",
+  "pdf_url": ""
+}

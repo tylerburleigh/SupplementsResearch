@@ -1,0 +1,17 @@
+{
+  "id": "src-200",
+  "title": "Vascular Cell Senescence",
+  "authors": [
+    "Minamino, Tohru",
+    "Komuro, Issei"
+  ],
+  "doi": "10.1161/01.res.0000256837.40544.4a",
+  "url": "https://openalex.org/W2114171855",
+  "provider": "openalex",
+  "year": 2007,
+  "venue": "Circulation Research",
+  "citation_count": 525,
+  "abstract": "Cardiologists and most physicians believe that aging is an independent risk factor for human atherosclerosis, whereas atherosclerosis is thought to be a characteristic feature of aging in humans by many gerontologists. Because atherosclerosis is among the age-associated changes that almost always escape the influence of natural selection in humans, it might be reasonable to regard atherosclerosis as a feature of aging. Accordingly, when we investigate the pathogenesis of human atherosclerosis, it may be more important to answer the question of how we age than what specifically promotes atherosclerosis. Recently, genetic analyses using various animal models have identified molecules that are crucial for aging. These include components of the DNA-repair system, the tumor suppressor pathway, the telomere maintenance system, the insulin/Akt pathway, and other metabolic pathways. Interestingly, most of the molecules that influence the phenotypic changes of aging also regulate cellular senescence, suggesting a causative link between cellular senescence and aging. For example, DNA-repair defects can cause phenotypic changes that resemble premature aging, and senescent cells that show DNA damage accumulate in the elderly. Excessive calorie intake can cause diabetes and hyperinsulinemia, whereas dysregulation of the insulin pathway has been shown to induce cellular senescence in vitro. Calorie restriction or a reduction of insulin signals extends the lifespan of various species and decreases biomarkers of cellular senescence in vivo. There is emerging evidence that cellular senescence contributes to the pathogenesis of human atherosclerosis. Senescent vascular cells accumulate in human atheroma tissues and exhibit various features of dysfunction. In this review, we examine the hypothesis that cellular senescence might contribute to atherosclerosis, which is a characteristic of aging in humans.",
+  "type": "academic",
+  "pdf_url": "https://www.ahajournals.org/doi/pdf/10.1161/01.RES.0000256837.40544.4a"
+}

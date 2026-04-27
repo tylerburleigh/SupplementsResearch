@@ -1,0 +1,25 @@
+{
+  "id": "src-368",
+  "title": "Iron deficiency and all-cause mortality after myocardial infarction.",
+  "authors": [
+    "Jenča, Dominik",
+    "Melenovský, Vojtěch",
+    "Mrázková, Jolana",
+    "Šramko, Marek",
+    "Kotrč, Martin",
+    "Želízko, Michael",
+    "Adámková, Věra",
+    "Piťha, Jan",
+    "Kautzner, Josef",
+    "Wohlfahrt, Peter"
+  ],
+  "doi": "10.1016/j.ejim.2024.04.020",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38697863",
+  "provider": "pubmed",
+  "year": 2024,
+  "venue": "European journal of internal medicine",
+  "citation_count": 0,
+  "abstract": "BACKGROUND: Data on the clinical significance of iron deficiency (ID) in patients with myocardial infarction (MI) are conflicting. This may be related to the use of various ID criteria. We aimed to compare the association of different ID criteria with all-cause mortality after MI.\nMETHODS: Consecutive patients hospitalized for their first MI at a large tertiary heart center were included. We evaluated the association of different iron metabolism parameters measured on the first day after hospital admission with all-cause mortality.\nRESULTS: From the 1,156 patients included (aged 64±12 years, 25 % women), 194 (16.8 %) patients died during the median follow-up of 3.4 years. After multivariate adjustment, iron level ≤13 µmol/L (HR 1.67, 95 % CI 1.19-2.34) and the combination of iron level ≤12.8 µmol/L and soluble transferrin receptor (sTfR) ≥3 mg/L (HR 2.56, 95 % CI 1.64-3.99) termed as PragueID criteria were associated with increased mortality risk and had additional predictive value to the GRACE score. Compared to the model including iron level, the addition of sTfR improved risk stratification (net reclassification improvement 0.61, 95 % CI 0.52-0.69) by reclassifying patients into a higher-risk group. No association between ferritin level and mortality was found. 51 % of patients had low iron levels, and 58 % fulfilled the PragueID criteria.\nCONCLUSION: Iron deficiency is common among patients with the first MI. The PragueID criteria based on iron and soluble transferrin receptor levels provide the best prediction of mortality and should be evaluated in future interventional studies for the identification of patients potentially benefiting from intravenous iron therapy.",
+  "type": "academic",
+  "pdf_url": ""
+}

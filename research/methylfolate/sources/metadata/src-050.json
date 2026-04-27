@@ -1,0 +1,19 @@
+{
+  "id": "src-050",
+  "title": "Folate Deficiency and Folic Acid Supplementation: The Prevention of Neural-Tube Defects and Congenital Heart Defects",
+  "authors": [
+    "Czeizel, A.",
+    "Dudás, István",
+    "Vereczkey, Attila",
+    "Bánhidy, Ferenc"
+  ],
+  "doi": "10.3390/nu5114760",
+  "url": "https://openalex.org/W2032300647",
+  "provider": "openalex",
+  "year": 2013,
+  "venue": "Nutrients",
+  "citation_count": 346,
+  "abstract": "Diet, particularly vitamin deficiency, is associated with the risk of birth defects. The aim of this review paper is to show the characteristics of common and severe neural-tube defects together with congenital heart defects (CHD) as vitamin deficiencies play a role in their origin. The findings of the Hungarian intervention (randomized double-blind and cohort controlled) trials indicated that periconceptional folic acid (FA)-containing multivitamin supplementation prevented the major proportion (about 90%) of neural-tube defects (NTD) as well as a certain proportion (about 40%) of congenital heart defects. Finally the benefits and drawbacks of three main practical applications of folic acid/multivitamin treatment such as (i) dietary intake; (ii) periconceptional supplementation; and (iii) flour fortification are discussed. The conclusion arrived at is indeed confirmation of Benjamin Franklin's statement: \"An ounce of prevention is better than a pound of care\".",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2072-6643/5/11/4760/pdf?version=1385032338"
+}

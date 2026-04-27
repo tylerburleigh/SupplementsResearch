@@ -1,0 +1,20 @@
+{
+  "id": "src-300",
+  "title": "Approaches, Strategies and Procedures for Identifying Anti-Inflammatory Drug Lead Molecules from Natural Products",
+  "authors": [
+    "Jamtsho, Tenzin",
+    "Yeshi, Karma",
+    "Perry, Matthew J.",
+    "Loukas, Alex",
+    "Wangchuk, Phurpa"
+  ],
+  "doi": "10.3390/ph17030283",
+  "url": "https://openalex.org/W4392032795",
+  "provider": "openalex",
+  "year": 2024,
+  "venue": "Pharmaceuticals",
+  "citation_count": 28,
+  "abstract": "Natural products (NPs) have played a vital role in human survival for millennia, particularly for their medicinal properties. Many traditional medicine practices continue to utilise crude plants and animal products for treating various diseases, including inflammation. In contrast, contemporary medicine focuses more on isolating drug-lead compounds from NPs to develop new and better treatment drugs for treating inflammatory disorders such as inflammatory bowel diseases. There is an ongoing search for new drug leads as there is still no cure for many inflammatory conditions. Various approaches and technologies are used in drug discoveries from NPs. This review comprehensively focuses on anti-inflammatory small molecules and describes the key strategies in identifying, extracting, fractionating and isolating small-molecule drug leads. This review also discusses the (i) most used approaches and recently available techniques, including artificial intelligence (AI), (ii) machine learning, and computational approaches in drug discovery; (iii) provides various animal models and cell lines used in in-vitro and in-vivo assessment of the anti-inflammatory potential of NPs.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/1424-8247/17/3/283/pdf?version=1708660302"
+}

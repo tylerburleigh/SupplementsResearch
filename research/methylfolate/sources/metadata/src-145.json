@@ -1,0 +1,22 @@
+{
+  "id": "src-145",
+  "title": "No causal effects of plasma homocysteine levels on the risk of coronary heart disease or acute myocardial infarction: A Mendelian randomization study.",
+  "authors": [
+    "Miao, Liu",
+    "Deng, Guo-Xiong",
+    "Yin, Rui-Xing",
+    "Nie, Rong-Jun",
+    "Yang, Shuo",
+    "Wang, Yong",
+    "Li, Hui"
+  ],
+  "doi": "10.1177/2047487319894679",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/33838042",
+  "provider": "pubmed",
+  "year": 2021,
+  "venue": "European journal of preventive cardiology",
+  "citation_count": 0,
+  "abstract": "BACKGROUND: Although many observational studies have shown an association between plasma homocysteine levels and cardiovascular diseases, controversy remains. In this study, we estimated the role of increased plasma homocysteine levels on the etiology of coronary heart disease and acute myocardial infarction.\nMETHODS: A two-sample Mendelian randomization study on disease was conducted, i.e. \"coronary heart disease\" (n = 184,305) and \"acute myocardial infarction\" (n = 181,875). Nine single nucleotide polymorphisms, which were genome-wide significantly associated with plasma homocysteine levels in 57,644 subjects from the Coronary ARtery DIsease Genome wide Replication and Meta-analysis (CARDIoGRAM) plus The Coronary Artery Disease (C4D) Genetics (CARDIoGRAMplusC4D) consortium genome-wide association study and were known to be associated at p < 5×10-8, were used as an instrumental variable.\nRESULTS: None of the nine single nucleotide polymorphisms were associated with coronary heart disease or acute myocardial infarction (p > 0.05 for all). Mendelian randomization analysis revealed no causal effects of plasma homocysteine levels, either on coronary heart disease (inverse variance weighted; odds ratio = 1.015, 95% confidence interval = 0.923-1.106, p = 0.752) or on acute myocardial infarction (inverse variance weighted; odds ratio = 1.037, 95% confidence interval = 0.932-1.142, p = 0.499). The results were consistent in sensitivity analyses using the weighted median and Mendelian randomization-Egger methods, and no directional pleiotropy (p = 0.213 for coronary heart disease and p = 0.343 for acute myocardial infarction) was observed. Sensitivity analyses confirmed that plasma homocysteine levels were not significantly associated with coronary heart disease or acute myocardial infarction.\nCONCLUSIONS: The findings from this Mendelian randomization study indicate no causal relationship between plasma homocysteine levels and coronary heart disease or acute myocardial infarction. Conflicting findings from observational studies might have resulted from residual confounding or reverse causation.",
+  "type": "academic",
+  "pdf_url": ""
+}

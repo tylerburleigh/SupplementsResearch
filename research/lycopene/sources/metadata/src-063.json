@@ -1,0 +1,44 @@
+{
+  "id": "src-063",
+  "title": "Prostate cancer risk related to foods, food groups, macronutrients and micronutrients derived from the UK Dietary Cohort Consortium food diaries",
+  "authors": [
+    "Lane, J A",
+    "Oliver, S E",
+    "Appleby, P N",
+    "Lentjes, M A H",
+    "Emmett, P",
+    "Kuh, D",
+    "Stephen, A",
+    "Brunner, E J",
+    "Shipley, M J",
+    "Hamdy, F C",
+    "Neal, D E",
+    "Donovan, J L",
+    "Khaw, K-T",
+    "Key, T J"
+  ],
+  "year": 2017,
+  "abstract": "Abstract\n\nBackground/Objectives:\nThe influence of dietary factors remains controversial for screen-detected prostate cancer and inconclusive for clinically detected disease. We aimed to examine these associations using prospectively collected food diaries.\n\nSubjects/Methods:\n\nA total of 1,717 prostate cancer cases in middle-aged and older UK men were pooled from four prospective cohorts with clinically detected disease (\nn\n=663), with routine data follow-up (means 6.6–13.3 years) and a case-control study with screen-detected disease (\nn\n=1054), nested in a randomised trial of prostate cancer treatments (ISCTRN 20141297). Multiple-day food diaries (records) completed by men prior to diagnosis were used to estimate intakes of 37 selected nutrients, food groups and items, including carbohydrate, fat, protein, dairy products, fish, meat, fruit and vegetables, energy, fibre, alcohol, lycopene and selenium. Cases were matched on age and diary date to at least one control within study (\nn\n=3528). Prostate cancer risk was calculated, using conditional logistic regression (adjusted for baseline covariates) and expressed as odds ratios in each quintile of intake (±95% confidence intervals). Prostate cancer risk was also investigated by localised or advanced stage and by cancer detection method.\n\nResults:\nThere were no strong associations between prostate cancer risk and 37 dietary factors.\n\nConclusions:\nProstate cancer risk, including by disease stage, was not strongly associated with dietary factors measured by food diaries in middle-aged and older UK men.",
+  "doi": "10.1038/ejcn.2016.162",
+  "url": "https://doi.org/10.1038/ejcn.2016.162",
+  "pdf_url": "",
+  "venue": "European Journal of Clinical Nutrition",
+  "citation_count": 30,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-19T18:36:51.039960+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-063.md",
+  "quality_details": {
+    "content_length": 56000,
+    "alpha_ratio": 0.602,
+    "sentence_count": 489,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

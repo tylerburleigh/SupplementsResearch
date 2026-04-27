@@ -1,0 +1,36 @@
+{
+  "id": "src-046",
+  "title": "Undenatured Type II Collagen Ameliorates Inflammatory Responses and Articular Cartilage Damage in the Rat Model of Osteoarthritis",
+  "authors": [
+    "Orhan, Cemal",
+    "Juturu, Vijaya",
+    "Sahin, Emre",
+    "Tuzcu, Mehmet",
+    "Ozercan, Ibrahim Hanifi",
+    "Durmus, Ali Said",
+    "Sahin, Nurhan",
+    "Sahin, Kazim"
+  ],
+  "year": 2021,
+  "abstract": "Osteoarthritis (OA) is an age-related joint disease that includes gradual disruption of the articular cartilage and the resulting pain. The present study was designed to test the effects of undenatured type II collagen (UC-II®) on joint inflammation in the monoiodoacetate (MIA) OA model. We also investigated possible mechanisms underlying these effects. Female Wistar rats were divided into three groups: (i) Control; (ii) MIA-induced rats treated with vehicle; (iii) MIA-induced rats treated with UC-II (4 mg/kg BW). OA was induced in rats by intra-articular injection of MIA (1 mg) after seven days of UC-II treatment. UC-II reduced MIA-induced Kellgren-Lawrence scoring (53.3%, P &amp;lt; 0.05). The serum levels of inflammatory cytokines [IL-1β (7.8%), IL-6 (18.0%), TNF-α (25.9%), COMP (16.4%), CRP (32.4%)] were reduced in UC-II supplemented group (P &amp;lt; 0.0001). In the articular cartilage, UC-II inhibited the production of PGE2 (19.6%) and the expression of IL-1β, IL-6, TNF-a, COX-2, MCP-1, NF-κB, MMP-3, RANKL (P &amp;lt; 0.001). The COL-1 and OPG levels were increased, and MDA decreased in UC-II supplemented rats (P &amp;lt; 0.001). UC-II could be useful to alleviate joint inflammation and pain in OA joints by reducing the expression of inflammatory mediators.",
+  "doi": "10.3389/fvets.2021.617789",
+  "url": "https://doi.org/10.3389/fvets.2021.617789",
+  "pdf_url": "",
+  "venue": "Frontiers in Veterinary Science",
+  "citation_count": 31,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-19T13:43:04.152215+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-046.md",
+  "quality_details": {
+    "content_length": 45919,
+    "alpha_ratio": 0.73,
+    "sentence_count": 435,
+    "reasons": []
+  }
+}

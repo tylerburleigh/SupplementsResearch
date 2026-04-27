@@ -1,0 +1,23 @@
+{
+  "id": "src-322",
+  "title": "Recombinant expression and immune function analysis of C-reactive protein (CRP) from Hexagrammos otakii.",
+  "authors": [
+    "Zhong, Jinmiao",
+    "Zha, Haidong",
+    "Cong, Haiyan",
+    "Zhang, Haoyue",
+    "Zhao, Lihua",
+    "Yu, Shanshan",
+    "Zhu, Qian",
+    "Liu, Yingying"
+  ],
+  "doi": "10.1016/j.gene.2023.148048",
+  "url": "https://www.semanticscholar.org/paper/678321b53f68b3064b66300430620253dcc5fdb4",
+  "provider": "semantic_scholar",
+  "year": 2023,
+  "venue": "Gene",
+  "citation_count": 4,
+  "abstract": "C-reactive protein (CRP) belongs to the short-chain pentraxin family and functions as a soluble pattern recognition molecule (PRM) aiding in host defense against pathogens. In the present study, a CRP gene, designated HoCRP, was cloned from Hexagrammos otakii for the first time. The full length of the HoCRP cDNA sequence is 821 bp, which contains an open reading frame (ORF) of 675 bp encoding a 224 amino acid protein. The deduced protein is predicted to have a theoretical isoelectric point (pI) of 5.30 and a molecular weight of 25.4 kDa. The recombinant HoCRP protein (rHoCRP) was expressed in E. coli to further characterize the functions of HoCRP. Saccharide binding experiments demonstrated that rHoCRP exhibited a high affinity for various pathogen-associated molecular patterns (PAMPs). Furthermore, bacterial binding and agglutination assays indicated that rHoCRP had the capability to recognize a wide spectrum of microorganisms. These findings suggest that HoCRP functions not only as a PRM for binding PAMPs but also as an immune effector molecule. Considering the role CRP plays in the classical complement pathway, the interaction between rHoCRP and rHoC1q was assessed and proven by a Pull-down and Elisa assay, which implied that rHoCRP may be able to activate complement. In addition, phagocytosis enhancement by rHoCRP in the presence or absence of complement components was analysed by flow cytometry. The results showed that rHoCRP could synergistically enhance the phagocytosis of RAW264.7 cells with complement, providing further evidence of complement activation by rHoCRP through the opsonization of specific complement components. In summary, our findings suggest that rHoCRP may play a crucial role in host antibacterial defense by recognizing pathogens, activating the complement system, and enhancing macrophage function.",
+  "type": "academic",
+  "pdf_url": ""
+}

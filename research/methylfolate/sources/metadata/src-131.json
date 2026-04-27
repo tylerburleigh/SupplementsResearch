@@ -1,0 +1,22 @@
+{
+  "id": "src-131",
+  "title": "Association Between Plasma Homocysteine Level and Mortality: A Mendelian Randomization Study.",
+  "authors": [
+    "Choi, Chang Kyun",
+    "Kweon, Sun-Seog",
+    "Lee, Young-Hoon",
+    "Nam, Hae-Sung",
+    "Choi, Seong-Woo",
+    "Kim, Hye-Yeon",
+    "Shin, Min-Ho"
+  ],
+  "doi": "10.4070/kcj.2023.0089",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37559417",
+  "provider": "pubmed",
+  "year": 2023,
+  "venue": "Korean circulation journal",
+  "citation_count": 0,
+  "abstract": "BACKGROUND AND OBJECTIVES: In previous studies, high homocysteine levels were associated with high cardiovascular mortality. However, these results were inconsistent with those of randomized controlled trials. We aimed to evaluate the causal role of homocysteine on all-cause and cardiovascular mortality using Mendelian randomization (MR) analysis.\nMETHODS: This study included the 10,005 participants in the Namwon Study. In conventional observational analysis, age, sex, survey years, lifestyles, body mass index, comorbidities, and serum folate level were adjusted using multivariate Cox proportional regression. MR using 2-stage least squares regression was used to evaluate the association between genetically predicted plasma homocysteine levels and mortality. Age, sex, and survey years were adjusted for each stage. The methylenetetrahydrofolate reductase (MTHFR) polymorphism was used as an instrumental variable for predicting plasma homocysteine levels.\nRESULTS: Observed homocysteine levels were positively associated with all-cause (hazard ratio [HR], 1.40; 95% confidence interval [CI], 1.26-1.54) and cardiovascular (HR, 1.62; 95% CI, 1.28-2.06) mortality when plasma homocysteine levels doubled. However, these associations were not significant in MR analysis. The HRs of doubling genetically predicted plasma homocysteine levels for all-cause and cardiovascular mortality were 0.99 (95% CI, 0.62-1.57) and 1.76 (95% CI, 0.54-5.77), respectively.\nCONCLUSIONS: This MR analysis did not support a causal role for elevated plasma homocysteine concentrations in premature deaths.",
+  "type": "academic",
+  "pdf_url": ""
+}

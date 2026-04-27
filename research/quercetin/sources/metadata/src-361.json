@@ -1,0 +1,22 @@
+{
+  "id": "src-361",
+  "title": "Evaluation of the Drug–Drug Interaction Potential of Ensitrelvir Fumaric Acid with Cytochrome P450 3A Substrates in Healthy Japanese Adults",
+  "authors": [
+    "Shimizu, Ryosuke",
+    "Sonoyama, T.",
+    "Fukuhara, Takahiro",
+    "Kuwata, Aya",
+    "Matsuzaki, T.",
+    "Matsuo, Yumiko",
+    "Kubota, Ryuji"
+  ],
+  "doi": "10.1007/s40261-023-01265-8",
+  "url": "https://www.semanticscholar.org/paper/fab4d7c9cae295a8498edc549d70204cb357753d",
+  "provider": "semantic_scholar",
+  "year": 2023,
+  "venue": "Clinical drug investigation",
+  "citation_count": 30,
+  "abstract": "Background Management of drug–drug interactions (DDIs) for ensitrelvir, a novel 3-chymotrypsin-like protease inhibitor of SARS-CoV-2 infection is crucial. A previous clinical DDI study of ensitrelvir with midazolam, a clinical index cytochrome P450 (CYP) 3A substrate, demonstrated that ensitrelvir given for 5 days orally with a loading/maintenance dose of 750/250 mg acted as a strong CYP3A inhibitor. Objectives The objectives of this study were to investigate the effect of ensitrelvir on the pharmacokinetics of CYP3A substrates, dexamethasone, prednisolone and midazolam, and to assess the pharmacokinetics, safety, and tolerability of ensitrelvir following multiple-dose administration of ensitrelvir. Methods This was a Phase 1, multicenter, single-arm, open-label study in healthy Japanese adult participants. The effects of multiple doses of ensitrelvir in the fasted state on the pharmacokinetics of dexamethasone, prednisolone, and midazolam were investigated. Ensitrelvir was administered from Day 1 through Day 5, with a loading/maintenance dose of 750/250 mg for the dexamethasone and prednisolone cohorts whereas 375/125 mg for the midazolam cohort. Either dexamethasone, prednisolone, or midazolam was administered alone (Day − 2) or in combination with ensitrelvir (Day 5) in each of the cohorts. Additionally, dexamethasone or prednisolone was administered on Days 9 and 14. The pharmacokinetic parameters of ensitrelvir, dexamethasone, prednisolone, and midazolam were calculated based on their plasma concentration data with non-compartmental analysis. In safety assessments, the nature, frequency, and severity of treatment-emergent adverse events were evaluated and recorded. Results The area under the concentration-time curve (AUC) ratio of dexamethasone on Day 5 was 3.47-fold compared with the corresponding values for dexamethasone alone on Day − 2 and the effect diminished over time after the last dose of ensitrelvir. No clinically meaningful effect was observed for prednisolone. The AUC ratio of midazolam was 6.77-fold with ensitrelvir 375/125 mg suggesting ensitrelvir at 375/125 mg strongly inhibits CYP3A similar to that at 750/250 mg. No new safety signals with ensitrelvir were reported during the study. Conclusion The inhibitory effect for CYP3A was confirmed after the last dose of ensitrelvir, and the effect diminished over time. In addition, ensitrelvir at 375/125 mg showed CYP3A inhibitory potential similar to that at 750/250 mg. These findings can be used as a clinical recommendation for prescribing ensitrelvir with regard to concomitant medications. Clinical Trial Registration Japan Registry of Clinical Trials identifier: jRCT2031210202.",
+  "type": "academic",
+  "pdf_url": "https://link.springer.com/content/pdf/10.1007/s40261-023-01265-8.pdf"
+}

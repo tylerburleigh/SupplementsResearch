@@ -1,0 +1,38 @@
+{
+  "id": "src-029",
+  "title": "Effect of broccoli sprout extract and baseline gut microbiota on fasting blood glucose in prediabetes: a randomized, placebo-controlled trial",
+  "authors": [
+    "Dwibedi, Chinmay",
+    "Axelsson, Annika S.",
+    "Abrahamsson, Birgitta",
+    "Fahey, Jed W.",
+    "Asplund, Olof",
+    "Hansson, Ola",
+    "Ahlqvist, Emma",
+    "Tremaroli, Valentina",
+    "Bäckhed, Fredrik",
+    "Rosengren, Anders H."
+  ],
+  "year": 2025,
+  "abstract": "Abstract\nMore effective treatments are needed for impaired fasting glucose or glucose intolerance, known as prediabetes. Sulforaphane is an isothiocyanate that reduces hepatic gluconeogenesis in individuals with type 2 diabetes and is well tolerated when provided as a broccoli sprout extract (BSE). Here we report a randomized, double-blind, placebo-controlled trial in which drug-naive individuals with prediabetes were treated with BSE (n = 35) or placebo (n = 39) once daily for 12 weeks. The primary outcome was a 0.3 mmol l−1 reduction in fasting blood glucose compared with placebo from baseline to week 12. Gastro-intestinal side effects but no severe adverse events were observed in response to treatment. BSE did not meet the prespecified primary outcome, and the overall effect in individuals with prediabetes was a 0.2 mmol l−1 reduction in fasting blood glucose (95% confidence interval −0.44 to −0.01; P = 0.04). Exploratory analyses to identify subgroups revealed that individuals with mild obesity, low insulin resistance and reduced insulin secretion had a pronounced response (0.4 mmol l−1 reduction) and were consequently referred to as responders. Gut microbiota analysis further revealed an association between baseline gut microbiota and pathophysiology and that responders had a different gut microbiota composition. Genomic analyses confirmed that responders had a higher abundance of a Bacteroides-encoded transcriptional regulator required for the conversion of the inactive precursor to bioactive sulforaphane. The abundance of this gene operon correlated with sulforaphane serum concentration. These findings suggest a combined influence of host pathophysiology and gut microbiota on metabolic treatment response, and exploratory analyses need to be confirmed in future trials. ClinicalTrials.gov registration: NCT03763240.",
+  "doi": "10.1038/s41564-025-01932-w",
+  "url": "https://doi.org/10.1038/s41564-025-01932-w",
+  "pdf_url": "",
+  "venue": "Nature Microbiology",
+  "citation_count": 15,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-18T23:18:51.841717+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-029.md",
+  "quality_details": {
+    "content_length": 89168,
+    "alpha_ratio": 0.757,
+    "sentence_count": 882,
+    "reasons": []
+  }
+}

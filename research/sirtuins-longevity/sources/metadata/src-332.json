@@ -1,0 +1,17 @@
+{
+  "id": "src-332",
+  "title": "HDACs and HDAC Inhibitors in Cancer Development and Therapy",
+  "authors": [
+    "Li, Yixuan",
+    "Seto, Edward"
+  ],
+  "doi": "10.1101/cshperspect.a026831",
+  "url": "https://openalex.org/W2511667040",
+  "provider": "openalex",
+  "year": 2016,
+  "venue": "Cold Spring Harbor Perspectives in Medicine",
+  "citation_count": 1271,
+  "abstract": "Over the last several decades, it has become clear that epigenetic abnormalities may be one of the hallmarks of cancer. Posttranslational modifications of histones, for example, may play a crucial role in cancer development and progression by modulating gene transcription, chromatin remodeling, and nuclear architecture. Histone acetylation, a well-studied posttranslational histone modification, is controlled by the opposing activities of histone acetyltransferases (HATs) and histone deacetylases (HDACs). By removing acetyl groups, HDACs reverse chromatin acetylation and alter transcription of oncogenes and tumor suppressor genes. In addition, HDACs deacetylate numerous nonhistone cellular substrates that govern a wide array of biological processes including cancer initiation and progression. This review will discuss the role of HDACs in cancer and the therapeutic potential of HDAC inhibitors (HDACi) as emerging drugs in cancer treatment.",
+  "type": "academic",
+  "pdf_url": "http://perspectivesinmedicine.cshlp.org/content/6/10/a026831.full.pdf"
+}

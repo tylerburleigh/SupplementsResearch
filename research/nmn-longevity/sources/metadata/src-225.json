@@ -1,0 +1,31 @@
+{
+  "id": "src-225",
+  "title": "Administration of Nicotinamide Mononucleotide Mitigates the HIV Nef-Induced Metabolic and Pathological Changes in the Heart.",
+  "authors": [
+    "Kondrachuk, Olena",
+    "Nakhungu, Esther",
+    "Ogundipe, Gbenga",
+    "Tailor, Nishit",
+    "Ciccone, Pierce",
+    "Hong, Kim",
+    "Gadiraju, Anvita",
+    "Kimura, Yuka",
+    "Zi, Artemis",
+    "Yusuf, Sumaya",
+    "Alkousa, Aya",
+    "Nguyen, Sarah",
+    "Rajkumar, Rithvik",
+    "Do, Jaycee",
+    "Rappaport, Jay",
+    "Gupta, Manish K"
+  ],
+  "doi": "10.3390/cells15050444",
+  "url": "https://www.semanticscholar.org/paper/f425a05d9e8928aa1d654cd0be90ecc1758a6ada",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "Cells",
+  "citation_count": 0,
+  "abstract": "Due to the application of antiretroviral therapy, HIV has become a manageable chronic disease, and people living with HIV/AIDS (PLWHA) experience several comorbidities, including cardiovascular disease. Although antiretroviral therapy suppresses the viral load to an undetectable level, HIV proteins can still be detected in the circulation and in different organs. In our previous study, we found that the expression of the Nef protein causes cardiac dysfunction and heart failure in a transgenic mouse model. We also observed inhibition of autophagy along with the upregulation of the senescence marker Bcl2. To further understand the metabolic changes related to Nef in cardiac tissue, we examined nicotinamide adenine dinucleotide (NAD) metabolism in the heart. Our metabolic study with cardiac tissue revealed that Nef expression decreases NAD+ levels in the heart. Additionally, we explored whether replenishing cellular NAD+ could be a potential therapeutic target for HIV-associated cardiovascular disease. Interestingly, our study found that NMN treatment can improve cellular autophagy, decrease the senescence marker Bcl2, and reduce fibrosis in the heart. Overall, our study suggests that NMN could serve as a promising therapeutic molecule for the treatment of HIV-associated cardiovascular comorbidities.",
+  "type": "academic",
+  "pdf_url": ""
+}

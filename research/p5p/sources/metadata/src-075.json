@@ -1,0 +1,23 @@
+{
+  "id": "src-075",
+  "title": "Impaired hydrogen sulfide synthesis and IL-10 signaling underlie hyperhomocysteinemia-associated exacerbation of colitis",
+  "authors": [
+    "Flannigan, Kyle L.",
+    "Agbor, Terence A.",
+    "Blackler, Rory W.",
+    "Kim, Janice",
+    "Khan, Waliul I.",
+    "Verdú, Elena F.",
+    "Ferraz, José G.",
+    "Wallace, John L."
+  ],
+  "doi": "10.1073/pnas.1413390111",
+  "url": "https://openalex.org/W1969737712",
+  "provider": "openalex",
+  "year": 2014,
+  "venue": "Proceedings of the National Academy of Sciences",
+  "citation_count": 98,
+  "abstract": "Vitamin B deficiencies, which can lead to hyperhomocysteinemia (Hhcy), are commonly reported in patients with inflammatory bowel disease (IBD) and may be a causative underlying factor. However, the mechanism for this effect is not known. Hydrogen sulfide (H2S) is a gaseous mediator that promotes tissue repair and resolution of inflammation. In experimental colitis, a marked increase in colonic H2S synthesis drives ulcer healing and resolution of inflammation. Because H2S synthesis is in part dependent upon enzymes that require vitamin B6 as a cofactor, we tested the hypothesis that Hhcy in rodent models would increase the susceptibility to colitis. In all three models tested, diet-induced Hhcy significantly exacerbated colitis. The usual elevation of colonic H2S synthesis after induction of colitis was absent in all three models of colitis. Administration of an H2S donor to Hhcy rats significantly decreased the severity of colitis. Compared with wild-type mice, interleukin (IL) 10-deficient mice on a normal diet had decreased levels of colonic H2S synthesis, a 40% increase in serum homocysteine, and a phenotype similar to wild-type mice with Hhcy. IL-10-deficient mice fed the vitamin B-deficient diet exhibited more severe colonic inflammation, but the normal elevation of colonic H2S synthesis was absent. Administration of IL-10 to the IL-10-deficient mice restored colonic H2S synthesis and significantly decreased serum homocysteine levels. These results suggest that the exacerbation of colitis in Hhcy is due in part to impaired colonic H2S synthesis. Moreover, IL-10 plays a novel role in promoting H2S production and homocysteine metabolism, which may have therapeutic value in conditions characterized by Hhcy.",
+  "type": "academic",
+  "pdf_url": "https://www.pnas.org/content/pnas/111/37/13559.full.pdf"
+}

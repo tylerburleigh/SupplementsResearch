@@ -1,0 +1,16 @@
+{
+  "id": "src-164",
+  "title": "Immunological basis of oral tolerance.",
+  "authors": [
+    "Mitchison, A",
+    "Sieper, J"
+  ],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/7660684",
+  "provider": "pubmed",
+  "year": 1995,
+  "venue": "Zeitschrift fur Rheumatologie",
+  "citation_count": 0,
+  "abstract": "Oral tolerance may be defined as a specific reduction in the immune response brought about by feeding an antigen. It has been reviewed by us recently as a possible treatment of rheumatoid arthritis. It has a respectably long history as an experimental phenomenon, in the course of which a variety of modes of action have been proposed. More recently the following mode of action has been proposed: An antigen, for instance foreign type II collagen, passes from the lumen of the gut across multifold-cells (M-cells) lying under Peyer's patches, and thence into antigen-presenting cells within the patches. These cells then activate a local population of T cells which specializes in the secretion of transforming growth factor-beta (TGF beta) and IL-4. Following activation a few of these cells wander out through the lymphatics and blood stream, and thence through tissue, until they again find type II collagen, their recall antigen. What they find in a patient with inflammatory arthritis, it is believed, is self-type II collagen exposed within the inflamed joints, which they recognize via its cross-reaction with the foreign collagen which had originally activated them. The specialized T cells are then stimulated by their recall antigen to secrete TGF beta and IL-4. These inhibitory cytokines suppress the activity of neighboring disease-inducing Th1 cells (\"bystander suppression\"). The latter cells presumably recognize one or more autoantigens, the nature of which is unknown. It need not be type II collagen, which figures in the whole story only as an organ-specific antigen, which lures the suppressive T cells to the right place.",
+  "type": "academic",
+  "pdf_url": ""
+}

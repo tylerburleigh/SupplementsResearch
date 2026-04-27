@@ -1,0 +1,36 @@
+{
+  "id": "src-049",
+  "title": "Differences between soluble and insoluble undenatured type II collagen in improving osteoarthritis in rats and their potential mechanisms",
+  "authors": [
+    "Xu, Rong",
+    "Du, Yulan",
+    "Li, Xiaomin",
+    "Mao, Xinliang",
+    "Zheng, Lin",
+    "Zhao, Mouming"
+  ],
+  "year": 2023,
+  "abstract": "The differences in the improvement effects of SC II, IC II and celecoxib on MIA-induced osteoarthritis model rats were compared, and the results suggest SC II may be superior to IC II in improving osteoarthritis in rats.",
+  "doi": "10.1039/d3fo02954a",
+  "url": "https://doi.org/10.1039/d3fo02954a",
+  "pdf_url": "",
+  "venue": "Food &amp; Function",
+  "citation_count": 3,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-19T13:43:00.728478+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-049.md",
+  "quality_details": {
+    "content_length": 4198,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

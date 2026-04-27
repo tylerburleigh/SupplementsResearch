@@ -1,0 +1,27 @@
+{
+  "id": "src-372",
+  "title": "Long-term Effects of IL-6 Receptor Blockade Therapy on Regulatory Lymphocytes and Neutrophils in Neuromyelitis Optica Spectrum Disorder",
+  "authors": [
+    "Matsuoka, T.",
+    "Araki, Manabu",
+    "Lin, Youwei",
+    "Okamoto, Tomoko",
+    "Gold, Ralf",
+    "Chihara, N.",
+    "Sato, W.",
+    "Kimura, Atsuko",
+    "Tachimori, H.",
+    "Miyamoto, K.",
+    "Kusunoki, Susumu",
+    "Yamamura, Takashi"
+  ],
+  "doi": "10.1212/nxi.0000000000200173",
+  "url": "https://www.semanticscholar.org/paper/e1a506662cdf3585a5ab657ba30d687f27edf8d3",
+  "provider": "semantic_scholar",
+  "year": 2023,
+  "venue": "Neurology(R) neuroimmunology & neuroinflammation",
+  "citation_count": 14,
+  "abstract": "Background and Objectives Neuromyelitis optica spectrum disorder (NMOSD) is a disabling autoimmune neurologic disease. Anti–IL-6 receptor (IL-6R) therapy prevents relapses in patients with anti–aquaporin 4 (AQP4)-IgG-positive NMOSD; however, it remains unclear how cellular immune components are altered by anti–IL-6R therapy. In this study, we examined the long-term effects of the anti–IL-6R monoclonal antibody tocilizumab (TCZ) on immune cell profiles in patients with NMOSD. Methods Monthly IV injections of TCZ (8 mg/kg) were administered as an add-on therapy to 19 anti–AQP4-IgG-positive patients, who had been refractory to corticosteroids and immunosuppressive drugs. Peripheral blood was collected before infusion of TCZ for flow cytometry analysis of lymphocyte subsets. Seven patients provided whole blood samples for gene expression profiles. Results Patients with NMOSD had reduced numbers of lymphocyte subsets with regulatory functions, including transitional B cells, CD56high NK cells, and CD45RA−FoxP3high regulatory T cells. However, after initiating TCZ therapy, the numbers increased to normal levels within 1 year. Gene expression analysis revealed that neutrophil granule–related genes, predominated by those related to azurophil granules, were significantly upregulated in patients with NMOSD. Such alterations suggestive of accelerated myeloid turnover were not observed 1 year after TCZ therapy, and the effects of TCZ on some neutrophil genes were observed as early as 5 days after starting TCZ. In vitro analysis demonstrated that naïve T-cell division was impaired in the enrolled patients, which was fully recovered after 18 months of therapy. Discussion In patients with active NMOSD not treated with molecular targeting drugs, we observed reduction or deficiency in lymphocytes with regulatory potentials and activation of neutrophils. However, introduction of anti–IL-6R therapy accompanied by tapering concomitant drugs corrected such abnormalities, which might contribute to persistent relapse prevention. The recovery in the naïve T-cell division after starting TCZ may underlie the relatively low risk of infection in patients under anti–IL-6R therapy. Trial Registration Information University Hospital Medical Information Network Clinical Trials Registry: UMIN000005889 (July 8, 2011) and UMIN000007866 (May 1, 2012) (umin.ac.jp/ctr/index.htm). The first participant was enrolled on November 2, 2011.",
+  "type": "academic",
+  "pdf_url": "https://nn.neurology.org/content/nnn/11/1/e200173.full.pdf"
+}

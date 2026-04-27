@@ -1,0 +1,29 @@
+{
+  "id": "src-022",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://historichealth.org/creatine-benefits-for-women",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-21T12:54:31.989859+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-022.md",
+  "quality_details": {
+    "content_length": 5342,
+    "alpha_ratio": 0.809,
+    "sentence_count": 44,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

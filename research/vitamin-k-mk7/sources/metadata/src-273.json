@@ -1,0 +1,19 @@
+{
+  "id": "src-273",
+  "title": "Vitamin K supplementation impact in dialysis patients: a systematic review and meta-analysis of randomized trials.",
+  "authors": [
+    "Andrian, Titus",
+    "Stefan, Anca",
+    "Nistor, Ionut",
+    "Covic, Adrian"
+  ],
+  "doi": "10.1093/ckj/sfad255",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38046003",
+  "provider": "pubmed",
+  "year": 2023,
+  "venue": "Clinical kidney journal",
+  "citation_count": 0,
+  "abstract": "Vitamin K supplementation has been considered recently as a potential treatment for addressing vascular calcification in chronic kidney disease patients. We conducted a systematic review and meta-analysis to summarize the impact of vitamin K supplementation in dialysis patients. Electronic databases were searched for clinical randomized trials among patients treated with vitamin K. Random effects models were performed and risk of bias was evaluated with Cochrane tools and the search was conducted until 15 of September 2023. Eleven trials comprising 830 patients (both adult and pediatric, mainly hemodialysis) compared vitamin K with different controls: lower doses of vitamin K, standard care or placebo. Vitamin K supplementation had no effect on mortality. Vitamin K administration improved vitamin K levels and led to lower levels of dp-uc-MGP and moderately increased calcium levels [0.18 (0.04-0.32)]. Vitamin K1 proved more potency in reducing dp-uc-MGP [SMD -1.64 (-2.05, -1.23) vs. -0.56 (-0.82, -0.31)] and also raised serum vitamin K levels in comparison with vitamin K2 [5.69 (3.43, 7.94) vs. 2.25 (-2.36, 6.87)]. While it did not have a proved benefit in changing calcification scores [-0.14 (-0.37 ± 0.09)], vitamin K proved to be a safe product. There was some concern with bias. Vitamin K supplementation has no impact on mortality and did not show significant benefit in reversing calcification scores. Vitamin K1 improved vitamin K deposits and lowered dp-uc-MGP, which is a calcification biomarker more than vitamin K2. As it proved to be a safe product, additional randomized well-powered studies with improved treatment regimens are needed to establish the true impact of vitamin K in dialysis patients.",
+  "type": "academic",
+  "pdf_url": ""
+}

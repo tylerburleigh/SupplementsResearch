@@ -1,0 +1,17 @@
+{
+  "id": "src-071",
+  "title": "Predicting the Onset of Nonlinear Pharmacokinetics.",
+  "authors": [
+    "Stein, Andrew M",
+    "Peletier, Lambertus A"
+  ],
+  "doi": "10.1002/psp4.12316",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/30196577",
+  "provider": "pubmed",
+  "year": 2018,
+  "venue": "CPT: pharmacometrics & systems pharmacology",
+  "citation_count": 0,
+  "abstract": "When analyzing the pharmacokinetics (PK) of drugs, one is often faced with concentration C vs. time curves, which display a sharp transition at a critical concentration Ccrit . For C > Ccrit , the curve displays linear clearance and for C < Ccrit clearance increases in a nonlinear manner as C decreases. Often, it is important to choose a high enough dose such that PK remains linear in order to help ensure that continuous target engagement is achieved throughout the duration of therapy. In this article, we derive a simple expression for Ccrit for models involving linear and nonlinear (saturable) clearance, such as Michaelis-Menten and target-mediated drug disposition (TMDD) models. Study Highlights.",
+  "type": "academic",
+  "pdf_url": ""
+}

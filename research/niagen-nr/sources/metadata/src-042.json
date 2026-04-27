@@ -1,0 +1,21 @@
+{
+  "id": "src-042",
+  "title": "Distinct Fecal and Plasma Metabolites in Children with Autism Spectrum Disorders and Their Modulation after Microbiota Transfer Therapy.",
+  "authors": [
+    "Kang, Dae-Wook",
+    "Adams, James B",
+    "Vargason, Troy",
+    "Santiago, Marina",
+    "Hahn, Juergen",
+    "Krajmalnik-Brown, Rosa"
+  ],
+  "doi": "10.1128/msphere.00314-20",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/33087514",
+  "provider": "pubmed",
+  "year": 2020,
+  "venue": "mSphere",
+  "citation_count": 0,
+  "abstract": "Accumulating evidence has strengthened a link between dysbiotic gut microbiota and autism. Fecal microbiota transplant (FMT) is a promising therapy to repair dysbiotic gut microbiota. We previously performed intensive FMT called microbiota transfer therapy (MTT) for children with autism spectrum disorders (ASD) and observed a substantial improvement of gastrointestinal and behavioral symptoms. We also reported modulation of the gut microbiome toward a healthy one. In this study, we report comprehensive metabolite profiles from plasma and fecal samples of the children who participated in the MTT trial. With 619 plasma metabolites detected, we found that the autism group had distinctive metabolic profiles at baseline. Eight metabolites (nicotinamide riboside, IMP, iminodiacetate, methylsuccinate, galactonate, valylglycine, sarcosine, and leucylglycine) were significantly lower in the ASD group at baseline, while caprylate and heptanoate were significantly higher in the ASD group. MTT drove global shifts in plasma profiles across various metabolic features, including nicotinate/nicotinamide and purine metabolism. In contrast, for 669 fecal metabolites detected, when correcting for multiple hypotheses, no metabolite was significantly different at baseline. Although not statistically significant, p-cresol sulfate was relatively higher in the ASD group at baseline, and after MTT, the levels decreased and were similar to levels in typically developing (TD) controls. p-Cresol sulfate levels were inversely correlated with Desulfovibrio, suggesting a potential role of Desulfovibrio on p-cresol sulfate modulation. Further studies of metabolites in a larger ASD cohort, before and after MTT, are warranted, as well as clinical trials of other therapies to address the metabolic changes which MTT was not able to correct.IMPORTANCE Despite the prevalence of autism and its extensive impact on our society, no U.S. Food and Drug Administration-approved treatment is available for this complex neurobiological disorder. Based on mounting evidences that support a link between autism and the gut microbiome, we previously performed a pioneering open-label clinical trial using intensive fecal microbiota transplant. The therapy significantly improved gastrointestinal and behavioral symptoms. Comprehensive metabolomic measurements in this study showed that children with autism spectrum disorder (ASD) had different levels of many plasma metabolites at baseline compared to those in typically developing children. Microbiota transfer therapy (MTT) had a systemic effect, resulting in substantial changes in plasma metabolites, driving a number of metabolites to be more similar to those from typically developing children. Our results provide evidence that changes in metabolites are one mechanism of the gut-brain connection mediated by the gut microbiota and offer plausible clinical evidence for a promising autism treatment and biomarkers.",
+  "type": "academic",
+  "pdf_url": ""
+}

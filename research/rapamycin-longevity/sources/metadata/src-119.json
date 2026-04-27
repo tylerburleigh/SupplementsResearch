@@ -1,0 +1,22 @@
+{
+  "id": "src-119",
+  "title": "Neuron-derived extracellular vesicles to examine brain mTOR target engagement with sirolimus in patients with multiple system atrophy.",
+  "authors": [
+    "Pucha, Krishna A",
+    "Ma, Thong C",
+    "York, William",
+    "Kang, Un Jung",
+    "Kaufmann, Horacio",
+    "Kapogiannis, Dimitrios",
+    "Palma, Jose-Alberto"
+  ],
+  "doi": "10.1016/j.parkreldis.2023.105821",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37643509",
+  "provider": "pubmed",
+  "year": 2023,
+  "venue": "Parkinsonism & related disorders",
+  "citation_count": 0,
+  "abstract": "INTRODUCTION: Impaired autophagy is a pathogenic mechanism in the synucleinopathies. Sirolimus, a potent mTOR inhibitor and autophagy activator, had no beneficial effects in a randomized placebo-controlled trial in patients with multiple system atrophy (MSA). Whether sirolimus effectively inhibited brain mTOR activity was unknown. We aimed to evaluate if patients with MSA treated with sirolimus had evidence of inhibited brain mTOR pathways by measuring neuron-derived serum extracellular vesicles (NEVs).\nMETHODS: Serum samples were collected from participants of the sirolimus-MSA trial, which randomized patients to sirolimus (2-6 mg/day) or placebo for 48 weeks. NEVs were immunoprecipitated with three antibodies-against neurons. Brain mTOR engagement was quantified as the change in the NEV phosphorylated mTOR (p-mTOR) to total-mTOR (tot-mTOR) ratio after 48 weeks of sirolimus.\nRESULTS: Samples from 27 patients [mean (±SD) age, 59.2±7 years, 15 (55.5%) men] were analyzed (19 sirolimus, 8 placebo). Treated- and placebo-patients had similar p-mTOR:tot-mTOR ratio at 24 (placebo: 0.248 ± 0.03, sirolimus: 0.289 ± 0.02; P = 0.305) and 48 weeks (placebo: 0.299 ± 0.05, sirolimus: 0.261 ± 0.03; P = 0.544). The tot-mTOR, p-mTOR, or their ratio levels were not associated with Unified MSA Rating Scale (UMSARS) worsening.\nDISCUSSION: These results are consistent with no brain mTOR engagement by oral sirolimus up to 6 mg/day. NEV-based biomarkers are a rational approach to investigating target engagement in clinical trials of brain-targeted therapeutics.",
+  "type": "academic",
+  "pdf_url": ""
+}

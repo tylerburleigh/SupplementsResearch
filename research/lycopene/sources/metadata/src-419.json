@@ -1,0 +1,22 @@
+{
+  "id": "src-419",
+  "title": "THE USE OF A SELF-ADMINISTERED QUESTIONNAIRE TO ASSESS DIET FOUR YEARS IN THE PAST",
+  "authors": [
+    "Willett, Walter C.",
+    "Sampson, Laura",
+    "Browne, Marilyn L.",
+    "Stampfer, Meir J.",
+    "Rosner, Bernard",
+    "Hennekens, Charles H.",
+    "Speizer, Frank E."
+  ],
+  "doi": "10.1093/oxfordjournals.aje.a114780",
+  "url": "https://openalex.org/W2108581685",
+  "provider": "openalex",
+  "year": 1988,
+  "venue": "American Journal of Epidemiology",
+  "citation_count": 802,
+  "abstract": "The use of a mailed, self-administered, semiquantitative food frequency questionnaire to describe past dietary intake was evaluated in 1984 among a group of 150 Boston-area women who had completed four one-week diet records three to four years previously. Correlation coefficients comparing calorie-adjusted nutrient intakes computed from the questionnaire with those obtained from a compressed version of the questionnaire completed during diet record keeping ranged from 0.44 for total carbohydrate to 0.62 for vitamin C including supplements. Coefficients comparing calorie-adjusted nutrient intakes measured by questionnaire with those assessed by the diet records completed three to four years previously ranged from 0.28 for iron without supplements to 0.61 for total carbohydrate. An evaluation of the incremental contribution provided by several open-ended sections of the questionnaire to the estimation of nutrient intake suggested that in this population most of these items might be eliminated without material loss of information. These findings demonstrate that useful estimates of nutrient intake several years previously can be obtained by a relatively inexpensive, mailed, self-administered questionnaire.",
+  "type": "academic",
+  "pdf_url": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "src-280",
+  "title": "QTc prolongation is associated with impaired right ventricular function and predicts mortality in pulmonary hypertension.",
+  "authors": [
+    "Rich, Jonathan D",
+    "Thenappan, Thenappan",
+    "Freed, Benjamin",
+    "Patel, Amit R",
+    "Thisted, Ronald A",
+    "Childers, Rory",
+    "Archer, Stephen L"
+  ],
+  "doi": "10.1016/j.ijcard.2012.03.071",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/22459397",
+  "provider": "pubmed",
+  "year": 2013,
+  "venue": "International journal of cardiology",
+  "citation_count": 0,
+  "abstract": "BACKGROUND: In rodent models of pulmonary hypertension (PH) and right ventricular hypertrophy (RVH), the QTc interval is prolonged, reflecting downregulation of repolarizing Kv channels in RV myocytes. The significance of QTc prolongation in human PH is unknown. We hypothesized that QTc prolongation occurs in human PH, is associated with RVH and decreased RV function, and predicts adverse prognosis.\nMETHODS: Patients receiving a PAH-specific therapy (a prostanoid, endothelin-receptor antagonist and/or a phosphodiesterase-5 inhibitor), who had a 12-lead electrocardiogram (ECG) (n=202) were compared to age- and sex-matched controls (n=100). The duration of QTc on ECG was correlated with invasive hemodynamics (n=156) and with the status of the RV, as measured by Brain Natriuretic Peptide (NT-proBNP, n=145) and magnetic resonance imaging (n=24). Survival of the entire PH cohort and a subgroup with WHO Groups 1 and 4 PAH was prospectively determined from the Social Security Death Index.\nRESULTS: QTc intervals were longer in PH vs. controls (454.8 ± 29 ms vs. 429.8 ± 18 ms, p<0.001) and did not differ based on PAH-specific therapy. NT-proBNP increased proportionately with QTc and was higher for those in the upper quintile (QTc ≥ 480 ms) vs. those with QTc<480 ms (4004 ± 6682 pg/mL vs. 1501 ± 1822 pg/mL, p<0.001). The QTc interval also correlated directly with increasing RV end-diastolic volume (r=.67, p<0.001) and mass (r=.0.51, p<0.05), and inversely with RV ejection fraction (r=-.49, p<0.05). In the entire PH cohort and WHO Groups 1 and 4 subgroup, QTc ≥ 480 ms and cardiac index were independent predictors of mortality.\nCONCLUSIONS: QTc prolongation in PH patients reflects the status of the RV and is an independent predictor of mortality.",
+  "type": "academic",
+  "pdf_url": ""
+}

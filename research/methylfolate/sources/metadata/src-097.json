@@ -1,0 +1,20 @@
+{
+  "id": "src-097",
+  "title": "Systematic Review and Meta-Analysis of L-Methylfolate Augmentation in Depressive Disorders.",
+  "authors": [
+    "Maruf, Abdullah Al",
+    "Poweleit, Ethan A",
+    "Brown, Lisa C",
+    "Strawn, Jeffrey R",
+    "Bousman, Chad A"
+  ],
+  "doi": "10.1055/a-1681-2047",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34794190",
+  "provider": "pubmed",
+  "year": 2022,
+  "venue": "Pharmacopsychiatry",
+  "citation_count": 0,
+  "abstract": "OBJECTIVES: Partial response to pharmacotherapy is common in major depressive disorder (MDD) and many patients require alternative pharmacotherapy or augmentation, including adjunctive L-methylfolate. Given that L-methylfolate augmentation is rarely included in major clinical practice guidelines, we sought to systematically review evidence for L-methylfolate augmentation in adults with MDD and to examine its efficacy meta-analytically.\nMETHODS: We systematically searched PubMed for articles up to December 31, 2020, following the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) recommendations. Included studies were published in peer-reviewed, English-language journals and examined L-methylfolate adjunctive therapy in depressive disorders or its effect on antidepressant response. A fixed- and random-effects meta-analysis and risk of bias assessment using the Cochrane Risk of Bias Tool were conducted.\nRESULTS: Qualitative assessment of nine articles (N=6,707 patients) suggests that adjunctive L-methylfolate improved antidepressant response. In the meta-analysis of categorical Hamilton Rating Scale for Depression-17 response, (three studies, N=483) adjunctive L-methylfolate was associated with a small effect versus antidepressant monotherapy (relative risk: 1.25, 95% confidence interval [CI]=1.08 to 1.46, p=0.004). A meta-analysis of four studies (N=507) using a continuous measure of depressive symptoms showed a similar effect of adjunctive L-methylfolate (standardized mean difference=- 0.38, 95% CI=- 0.59 to-0.17, p=0.0003).\nCONCLUSION: Adjunctive L-methylfolate may have modest efficacy in antidepressant-treated adults with MDD.",
+  "type": "academic",
+  "pdf_url": ""
+}

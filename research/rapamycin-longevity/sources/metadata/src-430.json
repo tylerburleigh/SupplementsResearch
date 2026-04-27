@@ -1,0 +1,28 @@
+{
+  "id": "src-430",
+  "title": "Rapamycin Improves the Response of Effector and Memory CD8+ T Cells Induced by Immunization With ASP2 of Trypanosoma cruzi.",
+  "authors": [
+    "Moraschi, Barbara Ferri",
+    "Noronha, Isaú Henrique",
+    "Ferreira, Camila Pontes",
+    "Cariste, Leonardo M",
+    "Monteiro, Caroline B",
+    "Denapoli, Priscila",
+    "Vrechi, Talita",
+    "Pereira, Gustavo J S",
+    "Gazzinelli, Ricardo T",
+    "Lannes-Vieira, Joseli",
+    "Rodrigues, Maurício M",
+    "Bortoluci, Karina R",
+    "Vasconcelos, José Ronnie C"
+  ],
+  "doi": "10.3389/fcimb.2021.676183",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34123875",
+  "provider": "pubmed",
+  "year": 2021,
+  "venue": "Frontiers in cellular and infection microbiology",
+  "citation_count": 0,
+  "abstract": "Deficiency in memory formation and increased immunosenescence are pivotal features of Trypanosoma cruzi infection proposed to play a role in parasite persistence and disease development. The vaccination protocol that consists in a prime with plasmid DNA followed by the boost with a deficient recombinant human adenovirus type 5, both carrying the ASP2 gene of T. cruzi, is a powerful strategy to elicit effector memory CD8+ T-cells against this parasite. In virus infections, the inhibition of mTOR, a kinase involved in several biological processes, improves the response of memory CD8+ T-cells. Therefore, our aim was to assess the role of rapamycin, the pharmacological inhibitor of mTOR, in CD8+ T response against T. cruzi induced by heterologous prime-boost vaccine. For this purpose, C57BL/6 or A/Sn mice were immunized and daily treated with rapamycin for 34 days. CD8+ T-cells response was evaluated by immunophenotyping, intracellular staining, ELISpot assay and in vivo cytotoxicity. In comparison with vehicle-injection, rapamycin administration during immunization enhanced the frequency of ASP2-specific CD8+ T-cells and the percentage of the polyfunctional population, which degranulated (CD107a+) and secreted both interferon gamma (IFNγ) and tumor necrosis factor (TNF). The beneficial effects were long-lasting and could be detected 95 days after priming. Moreover, the effects were detected in mice immunized with ten-fold lower doses of plasmid/adenovirus. Additionally, the highly susceptible to T. cruzi infection A/Sn mice, when immunized with low vaccine doses, treated with rapamycin, and challenged with trypomastigote forms of the Y strain showed a survival rate of 100%, compared with 42% in vehicle-injected group. Trying to shed light on the biological mechanisms involved in these beneficial effects on CD8+ T-cells by mTOR inhibition after immunization, we showed that in vivo proliferation was higher after rapamycin treatment compared with vehicle-injected group. Taken together, our data provide a new approach to vaccine development against intracellular parasites, placing the mTOR inhibitor rapamycin as an adjuvant to improve effective CD8+ T-cell response.",
+  "type": "academic",
+  "pdf_url": ""
+}

@@ -1,0 +1,25 @@
+{
+  "id": "src-218",
+  "title": "Epigenetic regulation of aging: implications for interventions of aging and diseases",
+  "authors": [
+    "Kang, Wang",
+    "Liu, Huicong",
+    "Hu, Qinchao",
+    "Wang, Lingna",
+    "Liu, Jiaqing",
+    "Zheng, Zikai",
+    "Zhang, Weiqi",
+    "Ren, Jie",
+    "Zhu, Fangfang",
+    "Liu, Guang‐Hui"
+  ],
+  "doi": "10.1038/s41392-022-01211-8",
+  "url": "https://openalex.org/W4308298493",
+  "provider": "openalex",
+  "year": 2022,
+  "venue": "Signal Transduction and Targeted Therapy",
+  "citation_count": 606,
+  "abstract": "Aging is accompanied by the decline of organismal functions and a series of prominent hallmarks, including genetic and epigenetic alterations. These aging-associated epigenetic changes include DNA methylation, histone modification, chromatin remodeling, non-coding RNA (ncRNA) regulation, and RNA modification, all of which participate in the regulation of the aging process, and hence contribute to aging-related diseases. Therefore, understanding the epigenetic mechanisms in aging will provide new avenues to develop strategies to delay aging. Indeed, aging interventions based on manipulating epigenetic mechanisms have led to the alleviation of aging or the extension of the lifespan in animal models. Small molecule-based therapies and reprogramming strategies that enable epigenetic rejuvenation have been developed for ameliorating or reversing aging-related conditions. In addition, adopting health-promoting activities, such as caloric restriction, exercise, and calibrating circadian rhythm, has been demonstrated to delay aging. Furthermore, various clinical trials for aging intervention are ongoing, providing more evidence of the safety and efficacy of these therapies. Here, we review recent work on the epigenetic regulation of aging and outline the advances in intervention strategies for aging and age-associated diseases. A better understanding of the critical roles of epigenetics in the aging process will lead to more clinical advances in the prevention of human aging and therapy of aging-related diseases.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.1038/s41392-022-01211-8"
+}

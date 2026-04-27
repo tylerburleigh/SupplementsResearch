@@ -1,0 +1,10 @@
+{
+  "id": "src-427",
+  "title": "Macrophage metabolism in inflammatory heart disease - PMC - NIH",
+  "authors": [],
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12540094",
+  "provider": "perplexity",
+  "year": 2025,
+  "abstract": "In contrast, MFN-mediated normal mitochondrial fusion could promote the M2 macrophage phenotype and inhibit the M1 phenotype.\n...\nOlfactomedin-like protein 3 (OLFML3) protein enhances M2 polarization by promoting immune-responsive gene 1 (IRG1) mitochondrial localization, catalyzing itaconate production, which maintaining mitochondrial membrane potential and mitochondrial reactive oxygen species (mtROS) homeostasis (100).\n...\nNAD^+^ is an important intracellular redox coenzyme.\nStudies have shown that TNF-α is related to NAD^+^ levels in macrophages.\nM1 macrophages stimulated with LPS exhibit biphasic and transient increases in NAD^+^ levels associated with the release of TNF-α (104).\n…\nSirtuins influence macrophage polarization through multiple pathways.\nSIRT1/2 can directly inhibit the NF-κB signaling pathway by deacetylating the p65 subunit of NF-κB, reducing the expression of pro-inflammatory cytokines (such as IL-6, IL-1β, and TNF-α) and suppressing M1 polarization (127–129).\nSIRT1 can also upregulate the expression of STAT6 to promote M2 polarization (130).\nSIRT3 promotes M2 polarization by activating mitochondrial autophagy, which reduces the release of inflammatory cytokines like IL-1β and TNF-α (131, 132).\nSIRT4 decreases M1 polarization by inhibiting STAT3 and suppressing inflammatory factors such as ROS, MMP-13, IL-6, and TNF-α.\nMeanwhile, SIRT4 promotes M2 polarization, increases the mRNA levels of Arg-1 and CD206 and enhances the expression of the IL-10 (133, 134).\nSIRT5 promotes the acetylation of p65 and activates the NF-κB signaling pathway to augment IL-1β production during inflammation (135, 136).",
+  "type": "web"
+}

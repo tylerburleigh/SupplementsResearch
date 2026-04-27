@@ -1,0 +1,22 @@
+{
+  "id": "src-180",
+  "title": "Unravelling Glucoraphanin and Glucoerucin Metabolism across Broccoli Sprout Development: Insights from Metabolite and Transcriptome Analysis.",
+  "authors": [
+    "Wang, Jiansheng",
+    "Shen, Yusen",
+    "Sheng, Xiaoguang",
+    "Yu, Huifang",
+    "Song, Mengfei",
+    "Wang, Qiaomei",
+    "Gu, Honghui"
+  ],
+  "doi": "10.3390/plants13060750",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38592746",
+  "provider": "pubmed",
+  "year": 2024,
+  "venue": "Plants (Basel, Switzerland)",
+  "citation_count": 0,
+  "abstract": "Variations in the concentration of glucoraphanin (GRA) and glucoerucin (GER), as well as the corresponding breakdown products, isothiocyanates (ITCs) and nitriles, were investigated during the growth of broccoli sprouts. The concentrations of GRA and GER decreased sharply from 33.66 µmol/g to 11.48 µmol/g and 12.98 µmol/g to 8.23 µmol/g, respectively, after seed germination. From the third to the seventh day, both GRA and GER were maintained as relatively stable. The highest concentrations of sulforaphane (17.16 µmol/g) and erucin (12.26 µmol/g) were observed on the first day. Hereafter, the concentrations of nitrile hydrolyzed from GRA or GER were higher than those of the corresponding ITCs. Moreover, the ratio of sulforaphane to sulforaphane nitrile decreased from 1.35 to 0.164 from 1 d to 5 d, with a similar trend exhibited for erucin/erucin nitrile after 2 d. RNA-seq analysis showed that BolMYB28 and BolCYP83A1, involved in aliphatic glucosinolate (GSL) biosynthesis, remained largely unexpressed until the third day. In contrast, the genes operating within the GSL-myrosinase hydrolysis pathway were highly expressed right from the beginning, with their expression levels increasing significantly after the third day. Additionally, we identified two BolESPs and six BolNSPs that might play important roles in promoting the production of nitriles during the development of broccoli sprouts.",
+  "type": "academic",
+  "pdf_url": ""
+}

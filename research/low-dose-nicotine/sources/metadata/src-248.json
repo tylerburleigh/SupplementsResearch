@@ -1,0 +1,17 @@
+{
+  "id": "src-248",
+  "title": "The Cholinergic System Modulates Memory and Hippocampal Plasticity via Its Interactions with Non-Neuronal Cells",
+  "authors": [
+    "Maurer, Sara V.",
+    "Williams, Christina L."
+  ],
+  "doi": "10.3389/fimmu.2017.01489",
+  "url": "https://openalex.org/W2767430353",
+  "provider": "openalex",
+  "year": 2017,
+  "venue": "Frontiers in Immunology",
+  "citation_count": 250,
+  "abstract": "Degeneration of central cholinergic neurons impairs memory, and enhancement of cholinergic synapses improves cognitive processes. Cholinergic signaling is also anti-inflammatory, and neuroinflammation is increasingly linked to adverse memory, especially in Alzheimer's disease. Much of the evidence surrounding cholinergic impacts on the neuroimmune system focuses on the α7 nicotinic acetylcholine (ACh) receptor, as stimulation of this receptor prevents many of the effects of immune activation. Microglia and astrocytes both express this receptor, so it is possible that some cholinergic effects may be <i>via</i> these non-neuronal cells. Though the presence of microglia is required for memory, overactivated microglia due to an immune challenge overproduce inflammatory cytokines, which is adverse for memory. Blocking these exaggerated effects, specifically by decreasing the release of tumor necrosis factor α (TNF-α), interleukin 1β (IL-1β), and interleukin 6 (IL-6), has been shown to prevent inflammation-induced memory impairment. While there is considerable evidence that cholinergic signaling improves memory, fewer studies have linked the \"cholinergic anti-inflammatory pathway\" to memory processes. This review will summarize the current understanding of the cholinergic anti-inflammatory pathway as it relates to memory and will argue that one mechanism by which the cholinergic system modulates hippocampal memory processes is its influence on neuroimmune function <i>via</i> the α7 nicotinic ACh receptor.",
+  "type": "academic",
+  "pdf_url": "https://www.frontiersin.org/articles/10.3389/fimmu.2017.01489/pdf"
+}

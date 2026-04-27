@@ -1,0 +1,40 @@
+{
+  "id": "src-043",
+  "title": "Inter-individual variability in neural response to low doses of LSD",
+  "authors": [
+    "Hutten, Nadia R. P. W.",
+    "Quaedflieg, Conny W. E. M.",
+    "Mason, Natasha L.",
+    "Theunissen, Eef L.",
+    "Liechti, Matthias E.",
+    "Duthaler, Urs",
+    "Kuypers, Kim P. C.",
+    "Bonnelle, Valerie",
+    "Feilding, Amanda",
+    "Ramaekers, Johannes G."
+  ],
+  "year": 2024,
+  "abstract": "AbstractThe repeated use of small doses of psychedelics (also referred to as “microdosing”) to facilitate benefits in mental health, cognition, and mood is a trending practice. Placebo-controlled studies however have largely failed to demonstrate strong benefits, possibly because of large inter-individual response variability. The current study tested the hypothesis that effects of low doses of LSD on arousal, attention and memory depend on an individual’s cognitive state at baseline. Healthy participants (N = 53) were randomly assigned to receive repeated doses of LSD (15 mcg) or placebo on 4 occasions divided over 2 weeks. Each treatment condition also consisted of a baseline and a 1-week follow-up visit. Neurophysiological measures of arousal (resting state EEG), pre-attentive processing (auditory oddball task), and perceptual learning and memory (visual long-term potentiation (LTP) paradigm) were assessed at baseline, dosing session 1 and 4, and follow-up. LSD produced stimulatory effects as reflected by a reduction in resting state EEG delta, theta, and alpha power, and enhanced pre-attentive processing during the acute dosing sessions. LSD also blunted the induction of LTP on dosing session 4. Stimulatory effects of LSD were strongest in individuals with low arousal and attention at baseline, while inhibitory effects were strongest in high memory performers at baseline. Decrements in delta EEG power and enhanced pre-attentive processing in the LSD treatment condition were still present during the 1-week follow-up. The current study demonstrates across three cognitive domains, that acute responses to low doses of LSD depend on the baseline state and provides some support for LSD induced neuroadaptations that sustain beyond treatment.",
+  "doi": "10.1038/s41398-024-03013-8",
+  "url": "https://doi.org/10.1038/s41398-024-03013-8",
+  "pdf_url": "",
+  "venue": "Translational Psychiatry",
+  "citation_count": 15,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-26T10:43:55.912914+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-043.md",
+  "quality_details": {
+    "content_length": 59895,
+    "alpha_ratio": 0.755,
+    "sentence_count": 626,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

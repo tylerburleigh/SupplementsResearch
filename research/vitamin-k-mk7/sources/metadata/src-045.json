@@ -1,0 +1,31 @@
+{
+  "id": "src-045",
+  "title": "Treatment with vitamin D3 and/or vitamin K2 for postmenopausal osteoporosis",
+  "authors": [
+    "Iwamoto, Jun",
+    "Takeda, Tsuyoshi",
+    "Ichimura, Shoichi"
+  ],
+  "year": 2003,
+  "abstract": "",
+  "doi": "10.2302/kjm.52.147",
+  "url": "https://doi.org/10.2302/kjm.52.147",
+  "pdf_url": "",
+  "venue": "The Keio Journal of Medicine",
+  "citation_count": 19,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T10:55:38.186120+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-045.md",
+  "quality_details": {
+    "content_length": 21791,
+    "alpha_ratio": 0.778,
+    "sentence_count": 136,
+    "reasons": []
+  }
+}

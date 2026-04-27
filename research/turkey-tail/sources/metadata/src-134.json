@@ -1,0 +1,31 @@
+{
+  "id": "src-134",
+  "title": "In-vivo and in-vitro wound healing and tissue repair effect of Trametes versicolor polysaccharide extract",
+  "authors": [
+    "Teymoorian, Seyedeh Kiana",
+    "Nouri, Hoda",
+    "Moghimi, Hamid"
+  ],
+  "year": 2024,
+  "abstract": "AbstractRegarding different medical benefits of fungi, using the medical mushroom extracts as wound-healing agents is gaining popularity. This study, evaluated the wound healing characteristics of Trametes versicolor. Anti-oxidant activity addressed by employing the DPPH (2,2-diphenyl-1-picrylhydrazyl) assay resulting 53.7% inhibitory effect. Besides, for anti-microbial ability determination, the MIC (Minimum Inhibitory Concentration) of extract measured which Escherichia coli growth was inhibited at 1.1 mg/ml, and Staphylococcus aureus did not grow at 4.38 mg/ml of extract. The MTT (3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide) method indicated dose dependence of the extract with 63 ± 3% and 28 ± 3% viability at 1250 μg/ml and 156.25 μg/ml of extract, which higher concentration caused higher cell viability. The outcome of gene expression analysis determined that overall expression of FGF2 (Fibroblast Growth Factor 2), IL-1β (Interleukin-1β), and TGF-β1 (Transforming Growth Factor-β1) was 4 times higher at 48 h than at 24 h in treated cells, suggesting a stimulating effect on cell growth. An in-vivo animal model suggested enhanced wound healing process after treatment with 0.01 g of extract. Furthermore, the number of fibroblasts, epidermal thickness, and collagen fiber was respectively 2, 3, and threefold higher in treated mice when compared to untreated mice. The treated wounds of mice showed 100% and 60% of untreated mice of healing within 14 days. The results of this research show promise for the fungus-based wound healing treatments, which may help with tissue regeneration and the healing of cutaneous wounds.",
+  "doi": "10.1038/s41598-024-54565-0",
+  "url": "https://doi.org/10.1038/s41598-024-54565-0",
+  "pdf_url": "",
+  "venue": "Scientific Reports",
+  "citation_count": 15,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-23T19:00:56.961687+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-134.md",
+  "quality_details": {
+    "content_length": 45664,
+    "alpha_ratio": 0.73,
+    "sentence_count": 619,
+    "reasons": []
+  }
+}

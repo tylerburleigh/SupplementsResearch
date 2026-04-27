@@ -1,0 +1,16 @@
+10	2	Abstract
+191	2	Methods
+305	2	Statistical Analysis
+325	2	Results
+464	2	Analysis
+556	2	Discussion
+1140	2	Conclusions
+1196	2	References
+1290	2	2. Q uality Control Procedures for Avmacol Extra Strength Tablets by Nutramax
+1293	2	5. C hanges in Routinely Assessed Metabolic Lab Values During Sulforaphane Trial
+1294	2	Disclaimer
+1299	2	Supplementary Material
+1300	2	1. Antipsychotic Drug Treatment of Participants
+1318	2	3. Mediation Analysis
+1336	2	4. Additional Analysis of TESS Side-Effects Scale
+1419	2	5. Changes in Routinely Assessed Metabolic Lab Values During Sulforaphane Trial

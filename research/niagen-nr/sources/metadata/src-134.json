@@ -1,0 +1,29 @@
+{
+  "id": "src-134",
+  "title": "Quantitative Analysis of NAD Synthesis-Breakdown Fluxes.",
+  "authors": [
+    "Liu, Ling",
+    "Su, Xiaoyang",
+    "Quinn, William J",
+    "Hui, Sheng",
+    "Krukenberg, Kristin",
+    "Frederick, David W",
+    "Redpath, Philip",
+    "Zhan, Le",
+    "Chellappa, Karthikeyani",
+    "White, Eileen",
+    "Migaud, Marie",
+    "Mitchison, Timothy J",
+    "Baur, Joseph A",
+    "Rabinowitz, Joshua D"
+  ],
+  "doi": "10.1016/j.cmet.2018.03.018",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/29685734",
+  "provider": "pubmed",
+  "year": 2018,
+  "venue": "Cell metabolism",
+  "citation_count": 0,
+  "abstract": "The redox cofactor nicotinamide adenine dinucleotide (NAD) plays a central role in metabolism and is a substrate for signaling enzymes including poly-ADP-ribose-polymerases (PARPs) and sirtuins. NAD concentration falls during aging, which has triggered intense interest in strategies to boost NAD levels. A limitation in understanding NAD metabolism has been reliance on concentration measurements. Here, we present isotope-tracer methods for NAD flux quantitation. In cell lines, NAD was made from nicotinamide and consumed largely by PARPs and sirtuins. In vivo, NAD was made from tryptophan selectively in the liver, which then excreted nicotinamide. NAD fluxes varied widely across tissues, with high flux in the small intestine and spleen and low flux in the skeletal muscle. Intravenous administration of nicotinamide riboside or mononucleotide delivered intact molecules to multiple tissues, but the same agents given orally were metabolized to nicotinamide in the liver. Thus, flux analysis can reveal tissue-specific NAD metabolism.",
+  "type": "academic",
+  "pdf_url": ""
+}

@@ -1,0 +1,29 @@
+{
+  "id": "src-460",
+  "title": "[PDF] Resveratrol improves health and survival of mice on a high-calorie diet",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://www.iqb.es/monografia/fichas/pdfs/resveratrol%20y%20vejez.pdf",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "pdf",
+  "provider": "",
+  "fetched_at": "2026-04-19T16:08:31.353006+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-460.md",
+  "quality_details": {
+    "content_length": 41074,
+    "alpha_ratio": 0.725,
+    "sentence_count": 657,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

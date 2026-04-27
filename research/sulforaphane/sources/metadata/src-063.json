@@ -1,0 +1,20 @@
+{
+  "id": "src-063",
+  "title": "Broccoli Consumption and Risk of Cancer: An Updated Systematic Review and Meta-Analysis of Observational Studies.",
+  "authors": [
+    "Baladia, Eduard",
+    "Moñino, Manuel",
+    "Pleguezuelos, Eulogio",
+    "Russolillo, Giuseppe",
+    "Garnacho-Castaño, Manuel Vicente"
+  ],
+  "doi": "10.3390/nu16111583",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38892516",
+  "provider": "pubmed",
+  "year": 2024,
+  "venue": "Nutrients",
+  "citation_count": 0,
+  "abstract": "BACKGROUND: The scientific literature has reported an inverse association between broccoli consumption and the risk of suffering from several types of cancer; however, the results were not entirely consistent across studies. A systematic review and meta-analysis of observational studies were conducted to determine the association between broccoli consumption and cancer risk with the aim of clarifying the beneficial biological effects of broccoli consumption on cancer.\nMETHODS: PubMed/MEDLINE, Web of Science, Scopus, Cochrane Library (CENTRAL), and Epistemonikos databases were searched to identify all published papers that evaluate the impact of broccoli consumption on the risk of cancer. Citation chasing of included studies was conducted as a complementary search strategy. The risk of bias in individual studies was assessed using the Newcastle-Ottawa Scale. A random-effects model meta-analysis was employed to quantitatively synthesize results, with the I2 index used to assess heterogeneity.\nRESULTS: Twenty-three case-control studies (n = 12,929 cases and 18,363 controls; n = 31,292 individuals) and 12 cohort studies (n = 699,482 individuals) were included in the meta-analysis. The results suggest an inverse association between broccoli consumption and the risk of cancer both in case-control studies (OR: 0.64, 95% CI from 0.58 to 0.70, p < 0.001; Q = 35.97, p = 0.072, I2 = 30.49%-moderate heterogeneity; τ2 = 0.016) and cohort studies (RR: 0.89, 95% CI from 0.82 to 0.96, p = 0.003; Q = 13.51, p = 0.333, I2 = 11.21%-low heterogeneity; τ2 = 0.002). Subgroup analysis suggested a potential benefit of broccoli consumption in site-specific cancers only in case-control studies.\nCONCLUSIONS: In summary, the findings indicate that individuals suffering from some type of cancer consumed less broccoli, suggesting a protective biological effect of broccoli on cancer. More studies, especially cohort studies, are necessary to clarify the possible beneficial effect of broccoli on several types of cancer.",
+  "type": "academic",
+  "pdf_url": ""
+}

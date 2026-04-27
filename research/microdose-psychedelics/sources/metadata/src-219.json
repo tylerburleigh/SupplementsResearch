@@ -1,0 +1,31 @@
+{
+  "id": "src-219",
+  "title": "Contradictory mortality results in early 2-dose measles vaccine trials: Interactions with oral polio vaccine may explain differences.",
+  "authors": [
+    "Nielsen, Sebastian",
+    "Fisker, A.",
+    "Sié, Ali",
+    "Müller, Olaf",
+    "Nébié, E.",
+    "Becher, Heiko",
+    "Klis, Fiona R M van der",
+    "Biering-Sørensen, S.",
+    "Byberg, S.",
+    "Thysen, Sanne Marie",
+    "Silva, Isaquel da",
+    "Rodrigues, A.",
+    "Martins, C.",
+    "Whittle, Hilton C.",
+    "Aaby, P.",
+    "Benn, C. S."
+  ],
+  "doi": "10.1016/j.ijid.2024.107224",
+  "url": "https://www.semanticscholar.org/paper/c2d7d4c927737b29915d058e98ceb8050799611f",
+  "provider": "semantic_scholar",
+  "year": 2024,
+  "venue": "International Journal of Infectious Diseases",
+  "citation_count": 2,
+  "abstract": "OBJECTIVES\nBetween 2003-2019, three trials (RCTs) in Guinea-Bissau randomised infants to an early 2-dose measles vaccine (MV) schedule at 4 and 9 months vs. standard MV at 9 months. The RCTs produced contradictory mortality results; the effect being beneficial in the 2-dose group in the first but tending to have higher mortality in the last two RCTs. We hypothesised that increased frequency of campaigns with oral polio vaccine (C-OPV) explained the pattern.\n\nMETHODS\nWe performed per-protocol analysis of individual-level survival data from the three RCTs in Cox proportional hazards models yielding hazards ratios (HR) for the 2-dose vs. the 1-dose MV group. We examined whether timing of C-OPVs, and early administration of OPV0 (birth to day 14) affected the HRs for 2-dose/1-dose MV.\n\nRESULTS\nThe combined HR(2-dose/1-dose) was 0.79 (95% confidence interval: 0.62-1.00) for children receiving no C-OPV-before-enrolment, but 1.39 (0.97-1.99) for those receiving C-OPV-before-enrolment (homogeneity, p=0.01). C-OPV-before-enrolment had a beneficial effect in the 1-dose group, but tended to have a negative effect in the 2-dose group especially in females. These effects were amplified further by early administration of OPV0.\n\nCONCLUSIONS\nIn the absence of C-OPVs, an early 2-dose MV strategy had beneficial effects on mortality, but frequent C-OPVs may have benefitted the 1-dose group more than the 2-dose MV group, leading to varying results depending on the intensity of C-OPVs.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.1016/j.ijid.2024.107224"
+}

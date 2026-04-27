@@ -1,0 +1,24 @@
+{
+  "id": "src-361",
+  "title": "Network-based prediction and real-world patient data observation identify doxycycline as a repurposable drug in Alzheimer's disease",
+  "authors": [
+    "Bykova, Marina",
+    "Karavani, Ehud",
+    "Danziger, Michael M",
+    "Tonegawa-Kuji, Reina",
+    "Martin, William R.",
+    "Sha, Zhendong",
+    "Pieper, Andrew A.",
+    "Rosen-Zvi, Michal",
+    "Cheng, Feixiong"
+  ],
+  "doi": "10.1016/j.neurot.2026.e00836",
+  "url": "https://www.semanticscholar.org/paper/3759def3670bbd54ce9a72fbaebe98a3c22ee862",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "Neurotherapeutics",
+  "citation_count": 0,
+  "abstract": "Alzheimer's disease (AD), a leading global cause of dementia, disability, and mortality, represents a critical unmet need for effective therapeutic interventions. Drug repurposing offers an expedited pathway to address this challenge compared to traditional drug development. Here, we leveraged network-based prediction and real-world patient data validation, a comprehensive strategy to identify unanticipated therapeutic applications for existing medications. Traumatic brain injury (TBI), a major risk factor for earlier and more severe AD, exhibits heterogenous clinical outcomes influenced by genetic susceptibility, suggesting that TBI-diagnosed populations represent a cohort enriched for neurodegeneration vulnerability. Building on this premise, we integrated network-based multi-omics and endophenotypic disease modules from individuals with TBI and AD histories with large real-world patient data analysis from insurance claims to prioritize repurposable drugs. A network proximity algorithm applied to TBI- and AD-associated gene sets identified statistically ranked candidates, including doxycycline and irbesartan. We then assessed all candidates' AD risk reduction potential using a nationwide Medicare database encompassing nearly 9 million individuals. In a retrospective observational study of AD-free elderly individuals monitored for up to 3 years, propensity-score adjusted survival analyses demonstrated a significantly reduced cumulative incidence of AD in doxycycline and irbesartan-prescribed individuals, with risk ratios of 0.92 and 0.83, respectively, at a 95 % confidence interval. These findings nominate doxycycline and irbesartan as potential repurposable drugs for AD and demonstrate the translational potential of synergizing network-based prediction with real-world patient evidence in drug repurposing for neurodegenerative disease if broadly applied.",
+  "type": "academic",
+  "pdf_url": ""
+}

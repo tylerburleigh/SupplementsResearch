@@ -1,0 +1,29 @@
+{
+  "id": "src-009",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://gradeonenutrition.com/benefits-of-creatine-supplement",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-21T12:54:03.246490+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-009.md",
+  "quality_details": {
+    "content_length": 4974,
+    "alpha_ratio": 0.83,
+    "sentence_count": 28,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

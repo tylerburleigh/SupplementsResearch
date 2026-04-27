@@ -1,0 +1,34 @@
+{
+  "id": "src-159",
+  "title": "Antenatal taurine improves neuronal regeneration in fetal rats with intrauterine growth restriction by inhibiting the Rho-ROCK signal pathway",
+  "authors": [
+    "Liu, Jing",
+    "Wang, Hua-Wei",
+    "Liu, Fang",
+    "Wang, Xiao-Feng"
+  ],
+  "year": 2015,
+  "abstract": "",
+  "doi": "10.1007/s11011-014-9572-x",
+  "url": "https://doi.org/10.1007/s11011-014-9572-x",
+  "pdf_url": "",
+  "venue": "Metabolic Brain Disease",
+  "citation_count": 21,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-19T12:02:32.174751+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-159.md",
+  "quality_details": {
+    "content_length": 11953,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

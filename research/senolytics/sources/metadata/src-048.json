@@ -1,0 +1,28 @@
+{
+  "id": "src-048",
+  "title": "Senolytic therapy preserves blood-brain barrier integrity and promotes microglia homeostasis in a tauopathy model",
+  "authors": [
+    "Yao, Minmin",
+    "Wei, Zhiliang",
+    "Nielsen, J.",
+    "Ouyang, Yuxiao",
+    "Kakazu, Aaron",
+    "Wang, Haitong",
+    "Du, Lida",
+    "Li, Ruoxuan",
+    "Chu, Tiffany",
+    "Scafidi, Susanna",
+    "Lu, Han-bing",
+    "Aggarwal, Manisha",
+    "Duan, Wenzhen"
+  ],
+  "doi": "10.1016/j.nbd.2024.106711",
+  "url": "https://www.semanticscholar.org/paper/7e04d046196d9894dea6bfdaefdfb2571bc3d200",
+  "provider": "semantic_scholar",
+  "year": 2024,
+  "venue": "Neurobiology of Disease",
+  "citation_count": 22,
+  "abstract": "Cellular senescence, characterized by expressing the cell cycle inhibitory proteins, is evident in driving age-related diseases. Senescent cells play a crucial role in the initiation and progression of tau-mediated pathology, suggesting that targeting cell senescence offers a therapeutic potential for treating tauopathy associated diseases. This study focuses on identifying non-invasive biomarkers and validating their responses to a well-characterized senolytic therapy combining dasatinib and quercetin (D + Q), in a widely used tauopathy mouse model, PS19. We employed human-translatable MRI measures, including water extraction with phase-contrast arterial spin tagging (WEPCAST) MRI, T2 relaxation under spin tagging (TRUST), longitudinally assessed brain physiology and high-resolution structural MRI evaluated the brain regional volumes in PS19 mice. Our data reveal increased BBB permeability, decreased oxygen extraction fraction, and brain atrophy in 9-month-old PS19 mice compared to their littermate controls. (D + Q) treatment effectively preserves BBB integrity, rescues cerebral oxygen hypometabolism, attenuates brain atrophy, and alleviates tau hyperphosphorylation in PS19 mice. Mechanistically, D + Q treatment induces a shift of microglia from a disease-associated to a homeostatic state, reducing a senescence-like microglial phenotype marked by increased p16/Ink4a. D + Q-treated PS19 mice exhibit enhanced cue-associated cognitive performance in the tracing fear conditioning test compared to the vehicle-treated littermates, implying improved cognitive function by D + Q treatment. Our results pave the way for application of senolytic treatment as well as these noninvasive MRI biomarkers in clinical trials in tauopathy associated neurological disorders.",
+  "type": "academic",
+  "pdf_url": ""
+}

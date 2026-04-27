@@ -1,0 +1,21 @@
+{
+  "id": "src-247",
+  "title": "Causal effects of genetically determined circulating metabolites on endometriosis: A Mendelian randomization study",
+  "authors": [
+    "Liu, Lusha",
+    "Yin, Junping",
+    "Liu, Yakun",
+    "Li, Bin",
+    "Kang, Shan",
+    "Du, Naiyi"
+  ],
+  "doi": "10.1097/md.0000000000040690",
+  "url": "https://openalex.org/W4404706349",
+  "provider": "openalex",
+  "year": 2024,
+  "venue": "Medicine",
+  "citation_count": 1,
+  "abstract": "Endometriosis (EMs) is a common gynecological disease accompanied by metabolic disturbances. However, the causality between metabolites and the risk of EMs remains unclear. We conducted a 2-sample Mendelian randomization (MR) analysis using the publicly available genome-wide association study (GWAS) of 486 circulating metabolites and EMs. The inverse variance weighted (IVW) was mainly used for assessing causality. MR-Egger intercept, MR-PRESSO Global, leave-one-out, and Cochran Q test analyses were used for sensitivity analyses. A total of 25 causal metabolites related to EMs have been identified, including 13 known and 12 unknown ones. Among the known metabolites, caffeine (OR = 0.86, 95% CI: 0.76-0.98, P = .026), cortisol (OR = 0.64, 95% CI: 0.41-0.99, P = .047), glycocholate (OR = 0.67, 95% CI: 0.51-0.87, P = .003), adrenate 22:4n6 (OR = 0.52, 95% CI: 0.35-0.77, P = .001), and ergothioneine (OR = 0.62, 95% CI: 0.47-0.81, P = .000) were protective factors for EMs, while mannose (OR = 1.43, 95% CI: 1.01-2.03, P = .044), 4-acetamidobutanoate (OR = 1.92, 95% CI: 1.27-2.89, P = .002), 1-linoleoylglycerol (OR = 1.36, 95% CI: 1.10-1.68, P = .005), bilirubin (Z, Z) (OR = 1.15, 95% CI: 1.01-1.31, P = .032), threonate (OR = 1.42, 95% CI: 1.14-1.77, P = .002), bilirubin (E, E) (OR = 1.18, 95% CI: 1.01-1.38, P = .039), erythronate (OR = 1.59, 95% CI: 1.01-2.52, P = .047), and dimethylarginine (SDMA + ADMA) (OR = 2.07, 95% CI: 1.19-3.62, P = .010) were risk factors for EMs. Additionally, there was no evidence of heterogeneity or pleiotropy of the known metabolites. Leave-one-out analysis indicated that the MR findings were robust. Our findings provide valuable circulating biomarkers as well as therapeutic targets for the screening, prevention, and treatment of EMs.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.1097/md.0000000000040690"
+}

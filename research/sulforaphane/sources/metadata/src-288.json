@@ -1,0 +1,20 @@
+{
+  "id": "src-288",
+  "title": "The Role of Nrf2 in Cardiovascular Function and Disease",
+  "authors": [
+    "Satta, Sandro",
+    "Mahmoud, Ayman M.",
+    "Wilkinson, Fiona L.",
+    "Alexander, M. Yvonne",
+    "White, Stephen J."
+  ],
+  "doi": "10.1155/2017/9237263",
+  "url": "https://openalex.org/W2755606774",
+  "provider": "openalex",
+  "year": 2017,
+  "venue": "Oxidative Medicine and Cellular Longevity",
+  "citation_count": 280,
+  "abstract": "Free radicals, reactive oxygen/nitrogen species (ROS/RNS), hydrogen sulphide, and hydrogen peroxide play an important role in both intracellular and intercellular signaling; however, their production and quenching need to be closely regulated to prevent cellular damage. An imbalance, due to exogenous sources of free radicals and chronic upregulation of endogenous production, contributes to many pathological conditions including cardiovascular disease and also more general processes involved in aging. Nuclear factor erythroid 2-like 2 (NFE2L2; commonly known as Nrf2) is a transcription factor that plays a major role in the dynamic regulation of a network of antioxidant and cytoprotective genes, through binding to and activating expression of promoters containing the antioxidant response element (ARE). Nrf2 activity is regulated by many mechanisms, suggesting that tight control is necessary for normal cell function and both hypoactivation and hyperactivation of Nrf2 are indicated in playing a role in different aspects of cardiovascular disease. Targeted activation of Nrf2 or downstream genes may prove to be a useful avenue in developing therapeutics to reduce the impact of cardiovascular disease. We will review the current status of Nrf2 and related signaling in cardiovascular disease and its relevance to current and potential treatment strategies.",
+  "type": "academic",
+  "pdf_url": "http://downloads.hindawi.com/journals/omcl/2017/9237263.pdf"
+}

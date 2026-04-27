@@ -1,0 +1,30 @@
+{
+  "id": "src-148",
+  "title": "NAD\n            <sup>+</sup>\n            supplementation reduces neuroinflammation and cell senescence in a transgenic mouse model of Alzheimer’s disease via cGAS–STING",
+  "authors": [
+    "Hou, Yujun",
+    "Wei, Yong",
+    "Lautrup, Sofie",
+    "Yang, Beimeng",
+    "Wang, Yue",
+    "Cordonnier, Stephanie",
+    "Mattson, Mark P.",
+    "Croteau, Deborah L.",
+    "Bohr, Vilhelm A."
+  ],
+  "year": 2021,
+  "abstract": "Significance\n\nImpaired neuronal bioenergetics and neuroinflammation are thought to play key roles in the progression of Alzheimer's disease (AD), but their interplay is not clear. AD mouse brains showed lower nicotinamide adenine dinucleotide (NAD\n+\n) levels and alterations in inflammation. Treatment of AD mice with NR reduced neuroinflammation, attenuated DNA damage, and prevented cellular senescence. We present evidence that the beneficial effects of nicotinamide riboside (NR) are, in part, through a cyclic GMP-AMP synthase (cGAS)–stimulator of interferon genes (STING)-dependent pathway. DNA damage was increased in AD and attenuated by NR. Both cGAS–STING and NAD\n+\npathways are potential therapeutic targets for AD.",
+  "doi": "10.1073/pnas.2011226118",
+  "url": "https://doi.org/10.1073/pnas.2011226118",
+  "pdf_url": "",
+  "venue": "Proceedings of the National Academy of Sciences",
+  "citation_count": 448,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-23T11:32:39.113531+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok"
+}

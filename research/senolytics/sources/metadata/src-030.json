@@ -1,0 +1,38 @@
+{
+  "id": "src-030",
+  "title": "The Efficacy of Quercetin in Attenuating Oxidative Stress and Clinical Symptoms in Allergic Rhinitis: A Systematic Review",
+  "authors": [
+    "K, Niken Dyah Aryani",
+    "Kariosentono, Harijono",
+    "Purwanto, Bambang",
+    "Setiamika, Made",
+    "Poncorini, Eti",
+    "Dirgahayu, Paramasari",
+    "Cilmiaty, Risya",
+    "Madiadipoera, Teti"
+  ],
+  "year": 2025,
+  "abstract": "Background: Allergic rhinitis (AR) affects approximately 10% - 30% of the global population and represents a significant healthcare burden. The condition involves complex inflammatory pathways where oxidative stress plays a crucial role, with malondialdehyde serving as a key biomarker of cellular damage. Quercetin, a naturally occurring flavonoid, demonstrates promising antioxidant and anti-inflammatory properties that may benefit allergic rhinitis management.Methods: We conducted a systematic review following PRISMA 2020 guidelines. Four electronic databases (PubMed, Google Scholar, SagePub, and Semantic Scholar) were searched for studies published between 2000 and 2024. The PICO framework guided study selection, focusing on quercetin intervention in allergic rhinitis models. Both preclinical and clinical studies measuring malondialdehyde levels or clinical symptom improvement were included.Results: Eighteen studies met our inclusion criteria, comprising 14 animal studies and four human clinical trials. Preclinical evidence consistently demonstrated quercetin’s ability to reduce malondialdehyde levels across various tissues, including serum, lung, and liver samples. Human studies showed superior symptom improvement when quercetin-containing supplements were added to standard therapy compared to conventional treatment alone.The primary mechanism involves nuclear factor erythroid 2-related factor 2 pathway activation, enhancing endogenous antioxidant enzyme production.Conclusion: Current evidence supports quercetin’s effectiveness in reducing oxidative stress and improving clinical outcomes in allergic rhinitis through dual antioxidant and anti-inflammatory mechanisms. While most evidence derives from animal studies, quercetin Shows promise as safe adjuvant therapy. Large-scale human clinical trials using high- high-bioavailability formulations are needed to establish standardized clinical protocols.Key messages:• Quercetin consistently reduces oxidative stress markers in allergic rhinitis models.• Clinical symptoms improve significantly when quercetin supplements are added to standard therapy.• The therapeutic mechanism involves both direct antioxidant activity and endogenous defense system enhancement.• High-quality human clinical trials are needed to establish definitive treatment guidelines.",
+  "doi": "10.29328/journal.hor.1001032",
+  "url": "https://doi.org/10.29328/journal.hor.1001032",
+  "pdf_url": "",
+  "venue": "Heighpubs Otolaryngology and Rhinology",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-22T19:56:28.559471+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-030.md",
+  "quality_details": {
+    "content_length": 11122,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

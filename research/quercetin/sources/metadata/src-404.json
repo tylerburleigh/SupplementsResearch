@@ -1,0 +1,21 @@
+{
+  "id": "src-404",
+  "title": "Quercetin's Multifaceted Role in Alzheimer's Disease, Melanoma, and Tuberculosis: A Systematic Review with Preclinical Insights.",
+  "authors": [
+    "Swain, Mahendra Pratap",
+    "Mohanty, Satyajit",
+    "Gupta, Nayan",
+    "Mukherjee, Tuhin",
+    "Singh, Sandeep Kumar",
+    "Pattnaik, A."
+  ],
+  "doi": "10.2174/0113816128404554251209100242",
+  "url": "https://www.semanticscholar.org/paper/1714820251e27c1efa1f0b1f32e195831bbde17d",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "Current pharmaceutical design",
+  "citation_count": 0,
+  "abstract": "INTRODUCTION\nQuercetin, a polyphenolic flavonoid that is abundant in fruits and vegetables, demonstrates substantial antioxidant, anti-inflammatory, immunomodulatory, and anti-cancer properties. It has garnered attention for its therapeutic potential in tuberculosis (TB), melanoma cancer, and Alzheimer's disease (AD).\n\nMETHODS\nFollowing PRISMA 2020 guidelines, a systematic review was conducted using PubMed, Scopus, and Web of Science databases (2000-2024). The focus was on approaches to improve bioavailability, with an examination of preclinical models, pharmacological mechanisms, and therapeutic outcomes.\n\nRESULTS\nQuercetin reduced β-amyloid aggregation (45-60%), improved cognitive performance by up to 50%, and mitigated oxidative stress by nearly 50% in Alzheimer's models. In melanoma, it promoted apoptosis, inhibited angiogenesis (45% reduction), and decreased tumor volume by 40-60% in preclinical studies. In TB models, quercetin enhanced macrophage autophagy (30% increase), decreased bacterial burden by 40-60% and synergistically improved the efficacy of rifampicin by 35-40%. Addressing its bioavailability challenge (<1% in native form), nanotechnology-based delivery systems increased quercetin's absorption up to 10-fold, with certain systems achieving absolute bioavailability improvements of 30-35%.\n\nDISCUSSION\nPreclinical findings consistently highlight quercetin's multitargeted role in modulating oxidative stress, inflammation, apoptosis, and immune responses across diverse disease models. However, discrepancies between experimental efficacy and clinical applicability are primarily due to its low systemic availability. Nanocarrier-based strategies, including liposomes, nanoparticles, and phytosomes, provide encouraging solutions, yet require robust clinical validation.\n\nCONCLUSION\nQuercetin demonstrates multifaceted therapeutic potential across AD, melanoma, and TB. However, clinical translation remains limited by poor bioavailability and a lack of large-scale clinical validations. Future directions should emphasize advanced drug delivery systems, combination therapies, and robust clinical trials to establish quercetin's role as a potent therapeutic agent.",
+  "type": "academic",
+  "pdf_url": ""
+}

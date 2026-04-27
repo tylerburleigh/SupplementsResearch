@@ -1,0 +1,16 @@
+{
+  "id": "src-299",
+  "title": "Are Astrocytes the Predominant Cell Type for Activation of Nrf2 in Aging and Neurodegeneration?",
+  "authors": [
+    "Liddell, Jeffrey R."
+  ],
+  "doi": "10.3390/antiox6030065",
+  "url": "https://openalex.org/W2748930167",
+  "provider": "openalex",
+  "year": 2017,
+  "venue": "Antioxidants",
+  "citation_count": 170,
+  "abstract": "Nuclear factor erythroid 2-related factor 2 (Nrf2) is a transcription factor that regulates hundreds of antioxidant genes, and is activated in response to oxidative stress. Given that many neurodegenerative diseases including Alzheimer's disease, Parkinson's disease, amyotrophic lateral sclerosis, Huntington's disease and multiple sclerosis are characterised by oxidative stress, Nrf2 is commonly activated in these diseases. Evidence demonstrates that Nrf2 activity is repressed in neurons in vitro, and only cultured astrocytes respond strongly to Nrf2 inducers, leading to the interpretation that Nrf2 signalling is largely restricted to astrocytes. However, Nrf2 activity can be observed in neurons in post-mortem brain tissue and animal models of disease. Thus this interpretation may be false, and a detailed analysis of the cell type expression of Nrf2 in neurodegenerative diseases is required. This review describes the evidence for Nrf2 activation in each cell type in prominent neurodegenerative diseases and normal aging in human brain and animal models of neurodegeneration, the response to pharmacological and genetic modulation of Nrf2, and clinical trials involving Nrf2-modifying drugs.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2076-3921/6/3/65/pdf?version=1503046154"
+}

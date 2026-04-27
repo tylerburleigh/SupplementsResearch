@@ -1,0 +1,16 @@
+{
+  "id": "src-203",
+  "title": "Overcoming blinding confounds in psychedelic randomized controlled trials using biomarker driven causal mediation analysis",
+  "authors": [
+    "Muthukumaraswamy, S."
+  ],
+  "doi": "10.1080/17512433.2023.2279736",
+  "url": "https://www.semanticscholar.org/paper/2dc804c1bb35d382712d82833f14e7e1526948b4",
+  "provider": "semantic_scholar",
+  "year": 2023,
+  "venue": "Expert Review of Clinical Pharmacology",
+  "citation_count": 14,
+  "abstract": "ABSTRACT Introduction There is great interest in the use of psychedelic-assisted therapies to treat a range of mental health conditions and initial randomized controlled trials (RCTs) have generated positive results. However, the effect sizes reported in psychedelic RCTs are likely inflated due to expectancy effects due to the de-blinding of both participants and study personnel to treatment allocation caused by the distinctive psychoactive effects of psychedelic drugs. Areas covered An introduction to causal inference for RCTs, the underlying assumptions, and potential confounders along with graphical illustrations is provided. It is proposed that causal mediation analysis using objectively measured mediating biomarkers could be used to identify causal pathways between treatment and outcome in psychedelic RCTs, even with de-blinding of participants and give greater confidence as to the mechanistic basis and efficacy of psychedelic therapies. Expert Opinion It is argued that psychedelic therapies should not be approved as licensed medicines until causal pathways are clearly established between treatment and outcome. Potential downsides of doing so include, future indication expansion based on low quality clinical trial evidence, the approval of other therapies based on similarly low-quality evidence, and the potential for efficacy to change over time after approvals has been granted.",
+  "type": "academic",
+  "pdf_url": "https://psyarxiv.com/d52ay/download"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "src-301",
+  "title": "Mild dehydration impairs cognitive performance and mood of men",
+  "authors": [
+    "Ganio, Matthew S.",
+    "Armstrong, Lawrence E.",
+    "Casa, Douglas J.",
+    "McDermott, Brendon P.",
+    "Lee, Elaine C.",
+    "Yamamoto, Linda M.",
+    "Marzano, Stefania",
+    "Lopez, Rebecca M.",
+    "Jimenez, Liliana",
+    "Le Bellego, Laurent",
+    "Chevillotte, Emmanuel",
+    "Lieberman, Harris R."
+  ],
+  "year": 2011,
+  "abstract": "The present study assessed the effects of mild dehydration on cognitive performance and mood of young males. A total of twenty-six men (age 20·0 (sd0·3) years) participated in three randomised, single-blind, repeated-measures trials: exercise-induced dehydration plus a diuretic (DD; 40 mg furosemide); exercise-induced dehydration plus placebo containing no diuretic (DN); exercise while maintaining euhydration plus placebo (EU; control condition). Each trial included three 40 min treadmill walks at 5·6 km/h, 5 % grade in a 27·7°C environment. A comprehensive computerised six-task cognitive test battery, the profile of mood states questionnaire and the symptom questionnaire (headache, concentration and task difficulty) were administered during each trial. Pairedttests compared the DD and DN trials resulting in &gt;1 % body mass loss (mean 1·59 (sd0·42) %) with the volunteer's EU trial (0·01 (sd0·03) %). Dehydration degraded specific aspects of cognitive performance: errors increased on visual vigilance (P = 0·048) and visual working memory response latency slowed (P = 0·021). Fatigue and tension/anxiety increased due to dehydration at rest (P = 0·040 and 0·029) and fatigue during exercise (P = 0·026). Plasma osmolality increased due to dehydration (P &lt; 0·001) but resting gastrointestinal temperature was not altered (P = 0·238). In conclusion, mild dehydration without hyperthermia in men induced adverse changes in vigilance and working memory, and increased tension/anxiety and fatigue.",
+  "doi": "10.1017/s0007114511002005",
+  "url": "https://doi.org/10.1017/s0007114511002005",
+  "pdf_url": "",
+  "venue": "British Journal of Nutrition",
+  "citation_count": 229,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T14:16:40.716686+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-301.md",
+  "quality_details": {
+    "content_length": 51094,
+    "alpha_ratio": 0.747,
+    "sentence_count": 552,
+    "reasons": []
+  }
+}

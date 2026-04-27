@@ -1,0 +1,18 @@
+{
+  "id": "src-093",
+  "title": "Solid Lipid Nanoparticles for Drug Delivery: Pharmacological and Biopharmaceutical Aspects",
+  "authors": [
+    "Montoto, Sebastián Scioli",
+    "Muraca, Giuliana",
+    "Ruiz, María Esperanza"
+  ],
+  "doi": "10.3389/fmolb.2020.587997",
+  "url": "https://openalex.org/W3095652295",
+  "provider": "openalex",
+  "year": 2020,
+  "venue": "Frontiers in Molecular Biosciences",
+  "citation_count": 600,
+  "abstract": "In the golden age of pharmaceutical nanocarriers, we are witnessing a maturation stage of the original concepts and ideas. There is no doubt that nanoformulations are extremely valuable tools for drug delivery applications; the current challenge is how to optimize them to ensure that they are safe, effective and scalable, so that they can be manufactured at an industrial level and advance to clinical use. In this context, lipid nanoparticles have gained ground, since they are generally regarded as non-toxic, biocompatible and easy-to-produce formulations. Pharmaceutical applications of lipid nanocarriers are a burgeoning field for the transport and delivery of a diversity of therapeutic agents, from biotechnological products to small drug molecules. This review starts with a brief overview of the characteristics of solid lipid nanoparticles and discusses the relevancy of performing systematic preformulation studies. The main applications, as well as the advantages that this type of nanovehicles offers in certain therapeutic scenarios are discussed. Next, pharmacokinetic aspects are described, such as routes of administration, absorption after oral administration, distribution in the organism (including brain penetration) and elimination processes. Safety and toxicity issues are also addressed. Our work presents an original point of view, addressing the biopharmaceutical aspects of these nanovehicles by means of descriptive statistics of the state-of-the-art of solid lipid nanoparticles research. All the presented results, trends, graphs and discussions are based in a systematic (and reproducible) bibliographic search that considered only original papers in the subject, covering a 7 years range (2013-today), a period that accounts for more than 60% of the total number of publications in the topic in the main bibliographic databases and search engines. Focus was placed on the therapeutic fields of application, absorption and distribution processes and current efforts for the translation into the clinical practice of lipid-based nanoparticles. For this, the currently active clinical trials on lipid nanoparticles were reviewed, with a brief discussion on what achievements or milestones are still to be reached, as a way of understanding the reasons for the scarce number of solid lipid nanoparticles undergoing clinical trials.",
+  "type": "academic",
+  "pdf_url": "https://www.frontiersin.org/articles/10.3389/fmolb.2020.587997/pdf"
+}

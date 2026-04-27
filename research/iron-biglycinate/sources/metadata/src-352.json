@@ -1,0 +1,31 @@
+{
+  "id": "src-352",
+  "title": "Inhibition of Ferroptosis Delays Aging and Extends Healthspan Across Multiple Species",
+  "authors": [
+    "Fu, Haier",
+    "Zhou, Xing-Yue",
+    "Qin, Da-Lian",
+    "Qiao, Qan",
+    "Wang, QiaoZhi",
+    "Li, Shi-Ying",
+    "Zhu, Yun-Fei",
+    "Li, Ya-Ping",
+    "Zhou, Jiangning",
+    "Cai, H.",
+    "Huang, Fei-Hong",
+    "Yu, Lu",
+    "Wang, Long",
+    "Wu, Anguo",
+    "Wu, Jianming",
+    "Zhou, Xiaogang"
+  ],
+  "doi": "10.1002/advs.202416559",
+  "url": "https://www.semanticscholar.org/paper/9611ea3628311e4e51220b9c382469979ae8f31a",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "Advancement of science",
+  "citation_count": 13,
+  "abstract": "Ferroptosis, a form of iron‐dependent cell death, plays a pivotal role in age‐related diseases; yet, its impact on cellular senescence and healthspan in mammals remains largely unexplored. This study identifies ferroptosis as a key regulator of cellular senescence, showing that its inhibition can significantly delay aging and extend healthspan across multiple species. During cellular senescence, ferroptosis is progressively exacerbated, marked by increased lipid peroxidation, oxidative stress, and diminished glutathione peroxidase 4 (GPX4) levels. Ferroptosis inducers such as Erastin and RSL3 accelerate senescence; while, inhibitors such as liproxstatin‐1 (Lip‐1) and ferrostatin‐1 (Fer‐1) effectively mitigate both chemically and replicatively induced senescence. In vivo, Fer‐1 extends lifespan and healthspan in Caenorhabditis elegans, enhances motor function, preserves tissue integrity, and mitigates cognitive decline in both prematurely and naturally aged mice. These effects are attributed to Fer‐1's upregulation of GPX4 and inhibition of ferroptosis. Notably, long‐term Fer‐1 treatment (over 6 months) does not adversely affect body weight or induce aging‐related tissue damage but rejuvenates hematological parameters. These findings establish ferroptosis as a critical player in aging dynamics and highlight its inhibition as a promising strategy to extend healthspan and lifespan, providing valuable insights for translational approaches to combat aging and age‐related decline.",
+  "type": "academic",
+  "pdf_url": ""
+}

@@ -1,0 +1,33 @@
+{
+  "id": "src-209",
+  "title": "Blinding Integrity in Psychedelic Randomized Clinical Trials",
+  "authors": [
+    "Orsini, Diana K.",
+    "Wong, Sabrina",
+    "Luch, Sara Di",
+    "Chan, Brendan",
+    "Vasudeva, Shreya",
+    "Lovell, Gabrielle F M",
+    "Le, G.",
+    "Jones, Brett D. M.",
+    "Chisamore, Noah",
+    "Mollica, Adriano",
+    "Johnson, Danica E.",
+    "Kaczmarek, Erica S.",
+    "Goel, Akash",
+    "Burke, Matthew J",
+    "Mansur, Rodrigo B.",
+    "McIntyre, Roger S.",
+    "Husain, M. I.",
+    "Rosenblat, Joshua D"
+  ],
+  "doi": "10.1001/jamapsychiatry.2026.0255",
+  "url": "https://www.semanticscholar.org/paper/0343664f4cc89dc6ef272499661fdd678bb95fa8",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "JAMA psychiatry",
+  "citation_count": 0,
+  "abstract": "Psychedelic drugs possess acute psychoactive effects that can compromise blinding integrity in randomized clinical trials (RCTs). Functional unblinding, when participants or raters correctly identify treatment allocation based on subjective effects, may bias outcomes through expectancy effects, challenging the validity of efficacy estimates and regulatory acceptance.\n\nTo systematically quantify the prevalence of blinding integrity assessment and the extent of functional unblinding in psychedelic RCTs for psychiatric disorders.\n\nA systematic review was conducted in accordance with PRISMA guidelines across OVID, MEDLINE, Embase, and APA PsycINFO (January 1, 2020, to December 11, 2025), supplemented by manual searches of 3 prior reviews for studies prior to January 2020. Eligible studies included all RCTs investigating psychedelics as psychiatric interventions. Data extracted included blinding integrity assessment methods and results for participants and raters.\n\nOf 112 RCTs (11 psilocybin, 17 lysergic acid diethylamide [LSD], 78 ketamine, 11 3,4-methylenedioxymethamphetamine [MDMA], 2 ayahuasca, 2\nN\n,\nN\n-dimethyltryptamine [DMT], and 1 noribogaine), only 29.5% (n = 33) evaluated blinding integrity, yet 57.1% (n = 64) cited blinding as a limitation. Functional unblinding was substantial: psilocybin, LSD, and ayahuasca studies frequently reported blinding failure values of more than 90% among participants and raters, inert placebo-controlled MDMA trials exceeded 85%, and ketamine trials rarely assessed blinding (17.9%) but showed improved preservation with midazolam vs saline controls. No control strategy consistently achieved ideal blinding.\n\nThis first evaluation of blinding integrity in psychedelic RCTs indicates functional unblinding is pervasive among participants and raters raising concerns about the validity of efficacy findings. Few trials assess blinding or expectancy, highlighting the need for standardized, validated measures and innovative designs to separate true pharmacological effects from expectancy-driven responses.",
+  "type": "academic",
+  "pdf_url": ""
+}

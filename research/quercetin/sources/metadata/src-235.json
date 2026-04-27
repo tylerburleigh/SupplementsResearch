@@ -1,0 +1,27 @@
+{
+  "id": "src-235",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "",
+  "pdf_url": "https://core.ac.uk/download/619649499.pdf",
+  "venue": "",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "",
+  "fetched_at": "2026-04-22T18:11:32.380236+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-235.md",
+  "quality_details": {
+    "content_length": 110037,
+    "alpha_ratio": 0.732,
+    "sentence_count": 1519,
+    "reasons": []
+  }
+}

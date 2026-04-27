@@ -1,0 +1,31 @@
+{
+  "id": "src-144",
+  "title": "Creatine supplementation and exercise in aging: a narrative review of the muscle–brain axis and its impact on cognitive and physical health",
+  "authors": [
+    "Li, Nana"
+  ],
+  "year": 2026,
+  "abstract": "Background/Aim\nAging is associated with progressive declines in neuromuscular and cognitive functions, which negatively impact independence and quality of life. The muscle–brain axis has emerged as a key pathway linking skeletal muscle health to cognitive performance. This review aimed to evaluate the effects of creatine supplementation combined with exercise on physical and cognitive outcomes in older adults.\n\nMethods\nA narrative review was conducted summarizing evidence from clinical and preclinical studies, including randomized controlled trials and meta-analyses, on creatine supplementation and exercise interventions targeting aging populations.\n\nResults\nCreatine supplementation, particularly when combined with resistance training, significantly improves muscle strength, lean body mass, and functional capacity in older adults. Cognitive outcomes show modest improvements in memory, processing speed, and executive function, especially in individuals with lower baseline creatine levels. Mechanistically, creatine supports energy metabolism, mitochondrial stability, and antioxidant defenses, while exercise promotes neuroplasticity through myokines, collectively reinforcing the muscle–brain axis.\n\nConclusion\nThe combination of creatine supplementation and structured exercise appears to be a safe and promising strategy to counteract age-related declines in both physical and cognitive functions. However, further large-scale studies are required to establish long-term benefits and optimize dosing protocols.",
+  "doi": "10.3389/fnut.2025.1687719",
+  "url": "https://doi.org/10.3389/fnut.2025.1687719",
+  "pdf_url": "",
+  "venue": "Frontiers in Nutrition",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T13:59:19.004814+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-144.md",
+  "quality_details": {
+    "content_length": 88333,
+    "alpha_ratio": 0.8,
+    "sentence_count": 641,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

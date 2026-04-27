@@ -1,0 +1,25 @@
+{
+  "id": "src-233",
+  "title": "The Role of the NF-κB Signaling Pathway in Atherosclerotic Plaque Rupture and Targeted Therapeutic Strategies",
+  "authors": [
+    "Yin, Lihui",
+    "Wang, Xuehua",
+    "Xiong, Ni",
+    "Xiong, Jinjie",
+    "Liu, Qianyi",
+    "Li, Han",
+    "Huang, Yanling",
+    "Lv, Jiaxi",
+    "Wang, Yan",
+    "Wang, Zhaohui"
+  ],
+  "doi": "10.3390/biomedicines14010201",
+  "url": "https://www.semanticscholar.org/paper/f573dbe407823a99fb0c673b78c7c8b2909643c3",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "Biomedicines",
+  "citation_count": 1,
+  "abstract": "Atherosclerosis (AS) is a disease characterized by chronic vascular wall inflammation and lipid deposition. Although lipid-lowering drugs such as statins have significantly reduced cardiovascular event rates, “residual inflammatory risk” remains a key factor driving disease progression and plaque rupture. As a central regulator of the inflammatory response, the nuclear factor-κappaB (NF-κB) signaling network comprises both canonical pro-inflammatory pathways and functionally more complex non-canonical pathways. Increasing evidence in recent years indicates that abnormal and sustained activation of the non-canonical NF-κB signaling pathway plays a pivotal role in driving plaque rupture. This review first elaborates on the shift in AS strategies from “lipid-lowering” to “anti-inflammatory” approaches, followed by an in-depth analysis of the molecular activation mechanisms of the NF-κB signaling pathway and its distinctiveness in the AS pathological process, along with its epigenetic regulation. It emphasizes how this pathway drives pathological angiogenesis and regulates vascular smooth muscle cell (VSMC) phenotypic switching and macrophage function, thereby forming a vicious cycle that amplifies inflammation and structural damage, ultimately leading to acute cardiovascular events. Finally, we systematically summarize current progress and challenges in drug development targeting the NF-κB pathway (e.g., targeting key kinases like NIK and IKKα), aiming to provide theoretical foundations and future directions for novel therapeutic strategies to stabilize coronary plaques and prevent acute coronary syndromes.",
+  "type": "academic",
+  "pdf_url": ""
+}

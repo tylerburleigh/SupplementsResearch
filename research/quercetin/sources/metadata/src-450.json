@@ -1,0 +1,27 @@
+{
+  "id": "src-450",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "",
+  "pdf_url": "https://www.thehealthedgepodcast.com/wp-content/uploads/2025/12/oxim0304_0228.pdf",
+  "venue": "",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "",
+  "fetched_at": "2026-04-22T17:08:41.519437+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-450.md",
+  "quality_details": {
+    "content_length": 67934,
+    "alpha_ratio": 0.745,
+    "sentence_count": 640,
+    "reasons": []
+  }
+}

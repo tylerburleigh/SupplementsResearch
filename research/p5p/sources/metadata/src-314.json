@@ -1,0 +1,30 @@
+{
+  "id": "src-314",
+  "title": "Homocysteine Lowering by Folate-Rich Diet or Pharmacological Supplementations in Subjects with Moderate Hyperhomocysteinemia",
+  "authors": [
+    "Zappacosta, Bruno",
+    "Mastroiacovo, Pierpaolo",
+    "Persichilli, Silvia",
+    "Pounis, George",
+    "Ruggeri, Stefania",
+    "Minucci, Angelo",
+    "Carnovale, E.",
+    "Andria, Generoso",
+    "Ricci, Roberta",
+    "Scala, Iris",
+    "Genovese, Orazio",
+    "Turrini, Aida",
+    "Mistura, Lorenza",
+    "Giardina, Bruno",
+    "Iacoviello, Licia"
+  ],
+  "doi": "10.3390/nu5051531",
+  "url": "https://openalex.org/W1978953221",
+  "provider": "openalex",
+  "year": 2013,
+  "venue": "Nutrients",
+  "citation_count": 66,
+  "abstract": "Supplementation with natural folate-rich foods, folic acid and 5-MTHF reached a similar reduction in Hcy concentrations.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2072-6643/5/5/1531/pdf?version=1368003106"
+}

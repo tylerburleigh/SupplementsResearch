@@ -1,0 +1,20 @@
+{
+  "id": "src-506",
+  "title": "Epigenetic mechanisms in anti‐cancer actions of bioactive food components – the implications in cancer prevention",
+  "authors": [
+    "Stefañska, Barbara",
+    "Karlic, Heidrun",
+    "Varga, Franz",
+    "Fabianowska‐Majewska, Krystyna",
+    "Haslberger, Alexander G."
+  ],
+  "doi": "10.1111/j.1476-5381.2012.02002.x",
+  "url": "https://openalex.org/W1753288383",
+  "provider": "openalex",
+  "year": 2012,
+  "venue": "British Journal of Pharmacology",
+  "citation_count": 195,
+  "abstract": "The hallmarks of carcinogenesis are aberrations in gene expression and protein function caused by both genetic and epigenetic modifications. Epigenetics refers to the changes in gene expression programming that alter the phenotype in the absence of a change in DNA sequence. Epigenetic modifications, which include amongst others DNA methylation, covalent modifications of histone tails and regulation by non-coding RNAs, play a significant role in normal development and genome stability. The changes are dynamic and serve as an adaptation mechanism to a wide variety of environmental and social factors including diet. A number of studies have provided evidence that some natural bioactive compounds found in food and herbs can modulate gene expression by targeting different elements of the epigenetic machinery. Nutrients that are components of one-carbon metabolism, such as folate, riboflavin, pyridoxine, cobalamin, choline, betaine and methionine, affect DNA methylation by regulating the levels of S-adenosyl-L-methionine, a methyl group donor, and S-adenosyl-L-homocysteine, which is an inhibitor of enzymes catalyzing the DNA methylation reaction. Other natural compounds target histone modifications and levels of non-coding RNAs such as vitamin D, which recruits histone acetylases, or resveratrol, which activates the deacetylase sirtuin and regulates oncogenic and tumour suppressor micro-RNAs. As epigenetic abnormalities have been shown to be both causative and contributing factors in different health conditions including cancer, natural compounds that are direct or indirect regulators of the epigenome constitute an excellent approach in cancer prevention and potentially in anti-cancer therapy.",
+  "type": "academic",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1476-5381.2012.02002.x"
+}

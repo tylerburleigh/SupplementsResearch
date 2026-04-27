@@ -1,0 +1,35 @@
+{
+  "id": "src-194",
+  "title": "Comparative Effects of 12 Weeks of Center-Based versus Home-Based Exercise Training on hs-CRP and IL-6 Levels in Patients with Heart Failure Reduced Ejection Fraction",
+  "authors": [
+    "Susilo Lawrence, Daniel",
+    "Fajar Muzakkir, Akhtar",
+    "Patimang, Yulius",
+    "Amir, Muzakkir",
+    "Djafar, Zaenab",
+    "Warliani, Melda",
+    "Alfian Zainuddin, Andi"
+  ],
+  "year": 2025,
+  "abstract": "Introduction. Heart failure (HF) is a global health concern characterized by significant morbidity and mortality, often associated with chronic systemic inflammation. Exercise-based cardiac rehabilitation is a cornerstone of HF management; however, accessibility limitations often restrict participation. Home-based exercise programs offer a potentially viable alternative. This study aimed to evaluate the effects of 12 weeks of center-based versus home-based exercise training on inflammatory markers, specifically high-sensitivity C-reactive protein (hs-CRP) and interleukin-6 (IL-6), in patients with heart failure with reduced ejection fraction.\nAim. This study aimed to evaluate the effects of 12 weeks of center-based versus home-based exercise training on inflammatory markers, specifically high-sensitivity C-reactive protein (hs-CRP) and interleukin-6 (IL-6), in patients with heart failure reduced ejection fraction.\nMaterials and Methods. A quasi-experimental design was employed involving 31 patients diagnosed with heart failure with left ventricular ejection fraction below 40 %. Participants were allocated into two groups: center-based exercise (n=15) and home-based exercise (n=16). Both groups underwent a 12-week exercise rehabilitation program consisting of light-intensity sessions five times per week. Baseline and post-intervention blood samples were collected to measure serum levels of hs-CRP and IL-6. Clinical and demographic data were also recorded. Statistical analyses were performed using the Mann–Whitney and Wilcoxon signed-rank tests, with significance set at p&lt;0.05.\nResults and Discussion. Both exercise modalities resulted in significant reductions in IL-6 and hs-CRP levels after 12 weeks (p&lt;0.001). Median IL-6 decreased from 13.1 pg/mL to 4.8 pg/mL, while median hs-CRP declined from 4.3 mg/L to 2.5 mg/L across all participants. No statistically significant differences were observed between the center-based and home-based groups in the extent of reduction for either biomarker (IL-6, p=0.906; hs-CRP, p=0.200).\nConclusions. Twelve weeks of home-based exercise training is as effective as center-based training in reducing systemic inflammation, as measured by IL-6 and hs-CRP, in patients with heart failure with reduced ejection fraction. These findings support the use of home-based rehabilitation as a viable alternative to center-based programs for managing inflammation in this patient population.",
+  "doi": "10.63181/ujcvs.2025.33(4).184-191",
+  "url": "https://doi.org/10.63181/ujcvs.2025.33(4).184-191",
+  "pdf_url": "",
+  "venue": "Ukrainian Journal of Cardiovascular Surgery",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-24T01:21:02.009397+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-194.md",
+  "quality_details": {
+    "content_length": 39594,
+    "alpha_ratio": 0.726,
+    "sentence_count": 368,
+    "reasons": []
+  }
+}

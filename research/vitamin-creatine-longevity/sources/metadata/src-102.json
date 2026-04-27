@@ -1,0 +1,18 @@
+{
+  "id": "src-102",
+  "title": "Neuroprotective role of oleuropein in post-myocardial infarction rats: targeting antioxidant, anti-inflammatory, and anti-apoptotic mechanisms.",
+  "authors": [
+    "Pourtorabi, Seyed Mahdi",
+    "Kaeidi, A.",
+    "Hassanshahi, J."
+  ],
+  "doi": "10.1016/j.ejphar.2025.177936",
+  "url": "https://www.semanticscholar.org/paper/fa89dd29a6fab204d1449fc1eb5d0994ddcd0d28",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "European Journal of Pharmacology",
+  "citation_count": 2,
+  "abstract": "BACKGROUND\nMyocardial infarction (MI) can cause brain injury via inflammatory and oxidative mechanisms, yet effective neuroprotective strategies are lacking. Targeting distant organ damage, such as neuroinflammation and oxidative stress in brain, is crucial. Oleuropein (OLE), a natural antioxidant and anti-inflammatory compound, may offer potential protection, but its effects in this context remain unclear.\n\nOBJECTIVE\nThis study aimed to evaluate the neuroprotective effects of OLE in rats after isoproterenol-induced MI.\n\nSTUDY\nThirty-six male Wistar rats were divided into six groups. After inducing MI with isoproterenol (ISO, 85 mg/kg) over two days, animals received either vehicle or OLE (50/100/200 mg/kg) for three consecutive days. Cardiac function was evaluated through hemodynamic measurements, serum troponin, lactate dehydrogenase, and creatine kinase myocardial band (CK-MB). Histopathological analysis was done via hematoxylin and eosin staining methods. Oxidative stress parameters were quantified in heart and brain tissue. Western blotting assessed inflammatory mediators (tumor necrosis factor-alpha, nuclear factor-κB p65, interleukin-1β, interleukin-10) and apoptotic markers (Bax, Bcl-2, cleaved caspase-3) in the heart/brain tissue.\n\nRESULTS\nOLE mitigates ISO-induced cardiac/brain tissue damage, and hemodynamic parameters (P<0.05). OLE (200 mg/kg) ameliorates serum troponin, lactate dehydrogenase, and CK-MB in ISO-administered rats. OLE reduced malondialdehyde content, Bax, cleaved caspase-3, tumor necrosis factor-alpha, and nuclear factor-κB p65 protein expression, and also increased Bcl2 protein, total antioxidant capacity, superoxide dismutase, glutathione peroxidase, and catalase enzymes activity in the heart/brain tissues when compared to ISO group (P<0.05).\n\nCONCLUSION\nOLE reduced oxidative stress, neuroinflammation, and neuronal apoptosis in the brain after myocardial infarction, as shown by decreased malondialdehyde, pro-inflammatory cytokines, and pro-apoptotic markers, and increased antioxidant enzymes and Bcl-2 expression, supporting its neuroprotective potential and suggesting it could be a valuable treatment option.",
+  "type": "academic",
+  "pdf_url": ""
+}

@@ -1,0 +1,32 @@
+{
+  "id": "src-222",
+  "title": "Construction of an explainable machine learning model based on SHAP for predicting cardiovascular mortality risk among American cancer survivors",
+  "authors": [
+    "Shi, Xiaohe",
+    "Liu, Yinliang"
+  ],
+  "year": 2026,
+  "abstract": "",
+  "doi": "10.1007/s12672-026-04624-x",
+  "url": "https://doi.org/10.1007/s12672-026-04624-x",
+  "pdf_url": "",
+  "venue": "Discover Oncology",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-24T01:27:09.976602+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-222.md",
+  "quality_details": {
+    "content_length": 56027,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

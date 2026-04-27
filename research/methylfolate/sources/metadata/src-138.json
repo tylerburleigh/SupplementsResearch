@@ -1,0 +1,22 @@
+{
+  "id": "src-138",
+  "title": "Homocysteine, folate, and nonalcoholic fatty liver disease: a systematic review with meta-analysis and Mendelian randomization investigation.",
+  "authors": [
+    "Yuan, Shuai",
+    "Chen, Jie",
+    "Dan, Lintao",
+    "Xie, Ying",
+    "Sun, Yuhao",
+    "Li, Xue",
+    "Larsson, Susanna C"
+  ],
+  "doi": "10.1093/ajcn/nqac285",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36205540",
+  "provider": "pubmed",
+  "year": 2022,
+  "venue": "The American journal of clinical nutrition",
+  "citation_count": 0,
+  "abstract": "BACKGROUND: Circulating concentrations of homocysteine and folate are inconsistently associated with the risk of nonalcoholic fatty liver disease (NAFLD) in observational studies.\nOBJECTIVES: We conducted a meta-analysis and Mendelian randomization (MR) analyses to examine these associations.\nMETHODS: We performed a meta-analysis of observational studies identified from 3 databases to evaluate the associations of serum homocysteine and folate concentrations with NAFLD from inception to 7 April 2022. We conducted MR analyses to strengthen the causal inference in these associations. Independent single-nucleotide polymorphisms without linkage disequilibrium (r2 < 0.01) that were strongly associated (P < 5 × 10-8) with serum homocysteine (n = 13) and folate (n = 2) concentrations were selected as instrumental variables from 2 meta-analyses of genome-wide association studies (GWASs) of 44,147 and 37,645 individuals of European ancestry, respectively. Data on NAFLD were obtained from a GWAS of 8434 NAFLD cases and 770,180 controls of European ancestry. We further included 4 liver enzymes as secondary outcomes from a GWAS of 361,194 individuals with European descent.\nRESULTS: Twenty-two observational studies comprising 30,368 participants were included in the meta-analysis. There was a positive association between serum homocysteine and NAFLD risk (n = 20; OR: 1.96; 95% CI: 1.57, 2.45) and an inverse association between serum folate and NAFLD risk (n = 12; OR: 0.75; 95% CI: 0.58, 0.99). In MR analysis, the ORs of NAFLD were 1.17 (95% CI: 1.01, 1.36) and 0.75 (95% CI: 0.55, 1.02) per 1-SD increment of genetically predicted circulating concentrations of homocysteine and folate, respectively. Each 1-SD increase of genetically predicted circulating homocysteine and folate conferred a change in ALT concentrations of 0.62 U/L (95% CI: 0.20, 1.04) and -0.84 U/L (95% CI: -0.14, -1.54).\nCONCLUSIONS: This study suggests a potential role of circulating homocysteine and possibly folate in NAFLD, which calls for future clinical exploration of the possibility of lowering homocysteine concentrations to prevent NAFLD. This systematic review was registered at PROSPERO as CRD42021296434.",
+  "type": "academic",
+  "pdf_url": ""
+}

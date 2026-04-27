@@ -1,0 +1,17 @@
+{
+  "id": "src-375",
+  "title": "Gerosuppression by pan-mTOR inhibitors",
+  "authors": [
+    "Leontieva, Olga V.",
+    "Blagosklonny, Mikhail V."
+  ],
+  "doi": "10.18632/aging.101155",
+  "url": "https://openalex.org/W2564554668",
+  "provider": "openalex",
+  "year": 2016,
+  "venue": "Aging",
+  "citation_count": 65,
+  "abstract": "Rapamycin slows organismal aging and delays age-related diseases, extending lifespan in numerous species. In cells, rapamycin and other rapalogs such as everolimus suppress geroconversion from quiescence to senescence. Rapamycin inhibits some, but not all, activities of mTOR. Recently we and others demonstrated that pan-mTOR inhibitors, known also as dual mTORC1/C2 inhibitors, suppress senescent phenotype. As a continuation of these studies, here we investigated in detail a panel of pan-mTOR inhibitors, to determine their optimal gerosuppressive concentrations. During geroconversion, cells become hypertrophic and flat, accumulate lysosomes (SA-beta-Gal staining) and lipids (Oil Red staining) and lose their re-proliferative potential (RPP). We determined optimal gerosuppressive concentrations: Torin1 (30 nM), Torin 2 (30 nM), AZD8055 (100 nM), PP242 (300 nM), both KU-006379 and GSK1059615 (1000 nM). These agents decreased senescence-associated hypertrophy with IC50s: 20, 18, 15, 200 and 400 nM, respectively. Preservation of RPP by pan-mTOR inhibitors was associated with inhibition of the pS6K/pS6 axis. Inhibition of rapamycin-insensitive functions of mTOR further contributed to anti-hypertrophic and cytostatic effects. Torin 1 and PP242 were more \"rapamycin-like\" than Torin 2 and AZD8055. Pan-mTOR inhibitors were superior to rapamycin in suppressing hypertrophy, senescent morphology, Oil Red O staining and in increasing so-called \"chronological life span (CLS)\". We suggest that, at doses lower than anti-cancer concentrations, pan-mTOR inhibitors can be developed as anti-aging drugs.",
+  "type": "academic",
+  "pdf_url": "https://www.aging-us.com/article/101155/pdf"
+}

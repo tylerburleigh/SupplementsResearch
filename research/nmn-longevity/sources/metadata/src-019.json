@@ -1,0 +1,32 @@
+{
+  "id": "src-019",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://www.marketreportsworld.com/market-reports/beta-nicotinamide-mononucleotide-nmn-market-14723702",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-23T13:40:25.791106+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "empty",
+  "content_file": "sources/src-019.md",
+  "quality_details": {
+    "content_length": 1,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "content too short (1 chars < 500)",
+      "low alphabetic ratio (0.00 < 0.4)",
+      "few sentences detected (0 < 3)",
+      "high non-alphanumeric ratio (1.00 > 0.2)"
+    ]
+  }
+}

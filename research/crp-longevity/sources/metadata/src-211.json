@@ -1,0 +1,28 @@
+{
+  "id": "src-211",
+  "title": "Inflammatory Markers in Hemophagocytic Lymphohistiocytosis - a Single Centre Study",
+  "authors": [
+    "Spaner, Caroline",
+    "Goubran, Mariam",
+    "Stukas, Sophie",
+    "Shojania, Kamran",
+    "Li, Amanda M",
+    "Sekhon, M.",
+    "Wellington, Cheryl",
+    "Zoref-Lorenz, A.",
+    "Mattman, A.",
+    "Peterson, Erica A.",
+    "Jordan, Michael B.",
+    "Chen, Luke Y. C.",
+    "Setiadi, Audi"
+  ],
+  "doi": "10.1182/blood-2023-178867",
+  "url": "https://www.semanticscholar.org/paper/f4faca79b857204168f966c49d4c7e20aaca4da1",
+  "provider": "semantic_scholar",
+  "year": 2023,
+  "venue": "Blood",
+  "citation_count": 1,
+  "abstract": "BACKGROUND\nHemophagocytic lymphohistiocytosis (HLH) has significant clinical and biochemical overlap with other cytokine storm syndromes including Adult-Onset Still's disease (AOSD) and COVID-19 cytokine storm (CCS). Diagnosis of HLH is based largely on the HLH-2004 criteria which carry certain limitations. Many of the tests included in these criteria such as flow cytometry for NK cell cytotoxicity and soluble CD25 levels are only available in specialized centres. Moreover, they can take days to weeks to result, leading to delays in diagnosis. Biomarkers that are unique to HLH and more readily available are needed to ensure a timelier diagnosis of this life-threatening disease. C-reactive protein (CRP) is a sensitive marker of inflammation that is driven by IL-6 activity, a cytokine that is significantly elevated in AOSD and CCS but comparatively less so in HLH. Our study sought to determine whether lower levels of CRP, in conjunction with other patterns of inflammatory markers, could reliably distinguish HLH from AOSD and CCS.\nMETHODS\nThis was a single-centre, retrospective study examining adult ( n=45) and pediatric ( n=12) patients with HLH, and adult patients with AOSD ( n=11) and CCS ( n=13). Patients were enrolled from Vancouver General Hospital between January 1 st, 2000, to June 28 th, 2023. CRP and ferritin levels were collected for each patient if available, and values were included in analysis only if drawn prior to HLH-specific treatment. Ferritin levels were included to add to our understanding of different patterns of inflammation seen in similar cytokine storm syndromes.\nThe Kruskal-Wallis test was used to compare CRP and ferritin values in total HLH cases compared to AOSD and CCS. Diagnostic performance of CRP was analyzed by performing a receiver operating characteristic (ROC) curve for CRP in HLH patients using the Youden index to identify the optimal cut-off point for CRP values.\nRESULTS\nIn total, eighty-one patients were included in the study. Median CRP was significantly lower in HLH compared to AOSD (68.9 mg/L versus 168.0 mg/L, p < 0.001) and CCS (68.9 mg/L versus 121.0 mg/L, p = 0.024) (Figure 1). Median serum ferritin levels were significantly lower in CCS compared to HLH (1,386 ng/mL versus 16,722, p < 0.001) and AOSD (1,3860 ng/mL versus 12,480 ng/mL, p = 0.016). There was no significant difference in ferritin levels between HLH and AOSD.\nThe ROC curve was performed for CRP values in total HLH cases which demonstrated an Area Under the Curve (AUC) of 0.799, indicating a fair diagnostic performance in differentiating HLH, with a sensitivity of 66.1% and specificity of 87.5% for CRP values less than 94.5 mg/L, as calculated by Youden's index.\nCONCLUSION\nCRP is significantly lower in HLH compared to AOSD and CCS, suggesting that mild to moderate elevations in CRP reflect the comparatively lower IL-6 activity underlying HLH. When used in conjunction with other inflammatory markers, especially marked hyperferritinemia, a comparatively lower CRP value helps capture the unique cytokine pattern underlying HLH, and is a useful, easily accessible biomarker than can aid in the diagnosis of HLH.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.1182/blood-2023-178867"
+}

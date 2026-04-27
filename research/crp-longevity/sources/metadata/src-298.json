@@ -1,0 +1,23 @@
+{
+  "id": "src-298",
+  "title": "Association between serum vitamin D levels and cardiovascular disease risk in patients with hyperuricemia: A cross-sectional study",
+  "authors": [
+    "Lei, Huanqin",
+    "Wei, Biyue",
+    "Dong, Xiao",
+    "Jia, M.",
+    "Huang, Xiaoyu",
+    "Yan, Jingshu",
+    "Li, Furong",
+    "Liang, Meihua"
+  ],
+  "doi": "10.1371/journal.pone.0346141",
+  "url": "https://www.semanticscholar.org/paper/5b7bddd85ae55091cfc78eddcbdbbef1baf4afa3",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "PLoS ONE",
+  "citation_count": 0,
+  "abstract": "Hyperuricemia (HUA) is an independent risk factor for cardiovascular disease (CVD), and low serum vitamin D levels are associated with an increased risk of CVD. However, their combined effect in patients with HUA has not been well characterized. This study aimed to investigate the association between circulating vitamin D levels and CVD in patients with HUA, examine whether vitamin D deficiency (VDD) is associated with increased CVD prevalence, and determine the correlation between low vitamin D levels and CVD severity. The study employed a cross-sectional design and included clinical data of 483 patients with HUA admitted to the Second Affiliated Hospital of Harbin Medical University between 01/09/2023 and 01/11/2024. According to the criteria by the National Academy of Medical Sciences, participants were stratified into three groups based on serum 25-hydroxyvitamin D (25(OH)D) concentrations: VDD group (< 12 ng/mL, n = 150), vitamin D insufficiency group (12 ng/mL ≤ 25(OH)D < 20 ng/mL, n = 226), and vitamin D sufficiency group (≥ 20 ng/mL, n = 107). CVD prevalence was higher in the VDD group than in the vitamin D sufficiency group (p < 0.05), and the Gensini score—which reflects the degree of coronary stenosis—was higher in the VDD group than in the vitamin D sufficiency group (p < 0.05). Spearman’s rank correlation analysis showed that 25(OH)D was negatively correlated with glycated hemoglobin (r = −0.154, p = 0.004), total cholesterol (r = −0.181, p < 0.001), triacylglycerol (r = −0.202, p < 0.001), and Gensini score (r = −0.27, p = 0.002). Logistic regression identified vitamin D (odds ratio [OR] = 0.94, 95% confidence interval [CI] [0.90–0.97], p = 0.001) and age (OR = 1.06, 95% CI [1.03–1.09], p < 0.01) as influential factors for CVD. Among patients with HUA, those with VDD exhibited a higher CVD prevalence and greater coronary artery stenosis compared to those with sufficient vitamin D levels. Vitamin D status was independently associated with a reduced risk of CVD, while age with an increased risk of CVD, in patients with HUA.",
+  "type": "academic",
+  "pdf_url": ""
+}

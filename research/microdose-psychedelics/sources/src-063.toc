@@ -1,0 +1,21 @@
+3	2	Review Article Open
+21	2	Introduction
+563	2	Conclusions
+581	2	References
+586	2	3. Bogenschutz MP, Forcehimes AA, Pommy JA, Wilcox CE, Barbosa PC, Strassman
+622	2	13. Uthaug MV, van Oorsouw K, Kuypers KPC, van Boxtel M, Broers NJ, Mason NL,
+666	2	30. Desouza LA, Benekareddy M, Fanibunda SE, Mohammad F, Janakiraman B, Ghai
+713	2	44. Morales-Garcia JA, Calleja-Conde J, Lopez-Moreno JA, Alonso-Gil S, Sanz-
+761	2	58. McCulloch DE, Madsen MK, Stenbaek DS, Kristiansen S, Ozenne B, Jensen PS,
+765	2	59. Sampedro F, de la Fuente Revenga M, Valle M, Roberto N, Dominguez-Clave E,
+778	2	61. Rajji TK, Sun Y, Zomorrodi-Moghaddam R, Farzan F, Blumberger DM, Mulsant
+959	2	119. Carhart-Harris R, Giribaldi B, Watts R, Baker-Jones M, Murphy-Beiner A, Murphy
+968	2	122. Schimmel N, Breeksema JJ, Smith-Apeldoorn SY, Veraart J, van den Brink W,
+1016	2	139. Kanen JW, Luo Q, Kandroodi MR, Cardinal RN, Robbins TW, Carhart-Harris RL,
+1039	2	147. Bouso JC, Gonzalez D, Fondevila S, Cutchet M, Fernandez X, Ribeiro Barbosa PC,
+1085	2	161. Carbonaro TM, Bradstreet MP, Barrett FS, MacLean KA, Jesse R, Johnson MW,
+1100	2	Acknowledgements
+1102	2	Author Contributions
+1106	2	Funding
+1108	2	Competing Interests
+1110	2	Additional Information

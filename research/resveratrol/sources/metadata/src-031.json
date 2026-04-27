@@ -1,0 +1,21 @@
+{
+  "id": "src-031",
+  "title": "Efficacy and safety of dietary polyphenol supplements for COPD: a systematic review and meta-analysis.",
+  "authors": [
+    "Wu, Dongsheng",
+    "Dong, Yuang",
+    "Zhang, Dongyang",
+    "Wang, Tongtong",
+    "Ye, Haipeng",
+    "Zhang, Wei"
+  ],
+  "doi": "10.3389/fimmu.2025.1617694",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40771814",
+  "provider": "pubmed",
+  "year": 2025,
+  "venue": "Frontiers in immunology",
+  "citation_count": 0,
+  "abstract": "BACKGROUND: The therapeutic application of dietary polyphenols in chronic obstructive pulmonary disease (COPD) management represents an emerging therapeutic paradigm in pulmonary medicine. As bioactive compounds exhibiting dual antioxidant and anti-inflammatory properties, polyphenolic derivatives demonstrate significant therapeutic potential through multimodal mechanisms targeting COPD pathophysiology - particularly in modulating redox homeostasis (GSH/GSSG ratio elevation), attenuating NF-κB-mediated inflammatory cascades, and enhancing respiratory function parameters (FEV1 improvement ≥12% from baseline). However, current clinical evidence remains inconclusive, with meta-analyses revealing heterogeneity in intervention outcomes across randomized controlled trials. This systematic investigation employs a triple-blind, placebo-controlled design to rigorously evaluate the clinical efficacy of standardized oral polyphenol supplementation in COPD patients (GOLD stages II-III), incorporating advanced biomarkers including 8-isoprostane quantification and pulmonary function trajectory analysis.\nMETHODS: Literature on dietary polyphenols for the treatment of COPD published in PubMed, Cochrane, Medline, CNKI and other databases before December 26, 2024 (in Chinese and English) was searched. Manual screening, quality assessment and data extraction of search results were performed in strict accordance with the inclusion and exclusion criteria. Meta-analysis was performed using RevMan 5.3 software.\nRESULTS: The randomized controlled trials (RCTs) included in this review examined dietary supplementation with eight polyphenols-curcumin, resveratrol, anthocyanins, quercetin, salidroside, dietary beetroot juice, pomegranate juice, and adjunctive oral AKL1 treatment-across a total of 894 participants. This systematic review and meta-analysis revealed that, compared to a placebo; ① Curcumin significantly reduced systolic blood pressure (SBP) and improved FEV1(SMD=-0.82, 95%CI -1.53 to -0.11); ② Salidroside was effective in reducing thrombotic markers (TT, D-D), inflammatory factors (TNF-α) and symptom scores (CAT) (p<0.01); ③ Resveratrol significantly downregulates serum TNF-α and IL-8 levels (p=0.003); ④ Anthocyanins may accelerate lung function decline (decreased FEV1/FVC, which needs to be interpreted with caution); ⑤ Other polyphenols (quercetin, pomegranate juice, AKL1, etc.) did not show significant efficacy or insufficient evidence. It is worth noting that the overall meta-analysis of some indicators (such as FEV1/FVC) did not reach statistical significance, but subgroup analysis suggested the potential value of specific polyphenols.\nCONCLUSION: This systematic review confirms that the efficacy of dietary polyphenols is significantly composition-specific. Curcumin and salidroside can improve the course of COPD by regulating blood pressure, inflammation, and the coagulation pathway, supporting the hypothesis of \"polyphenol targeting of metabolic-inflammatory networks\". However, the possible negative effects of anthocyanins warn against ingredient heterogeneity. Clinical significance: Curcumin (200-500 mg/day) and tanshinone are recommended as adjuvant treatment options for COPD, but blind combination should be avoided; the safety of ingredients such as quercetin needs to be further verified. These results provide graded evidence for personalized nutritional interventions, promoting the transformation of polyphenol preparations from dietary supplements to precision adjuvant therapies.",
+  "type": "academic",
+  "pdf_url": ""
+}

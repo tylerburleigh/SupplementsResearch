@@ -1,0 +1,29 @@
+{
+  "id": "src-009",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://ethical-nutrition.com/blogs/supplements/iron-bisglycinate-explained-everything-you-need-to-know-about-chelated-iron",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-21T17:48:07.553001+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-009.md",
+  "quality_details": {
+    "content_length": 8847,
+    "alpha_ratio": 0.767,
+    "sentence_count": 112,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

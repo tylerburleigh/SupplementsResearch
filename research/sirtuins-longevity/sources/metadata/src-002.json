@@ -1,0 +1,30 @@
+{
+  "id": "src-002",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://www.explorationpub.com/Journals/eds/Article/100881",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-23T11:13:02.795053+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-002.md",
+  "quality_details": {
+    "content_length": 76,
+    "alpha_ratio": 0.855,
+    "sentence_count": 0,
+    "reasons": [
+      "content too short (76 chars < 500)",
+      "few sentences detected (0 < 3)"
+    ]
+  }
+}

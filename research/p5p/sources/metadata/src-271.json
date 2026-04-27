@@ -1,0 +1,17 @@
+{
+  "id": "src-271",
+  "title": "Sphingosine-1-phosphate in inflammatory bowel disease and colitis-associated colon cancer: the fat's in the fire.",
+  "authors": [
+    "Suh, Jung H.",
+    "Saba, Julie D."
+  ],
+  "doi": "10.3978/j.issn.2218-676x.2015.10.06",
+  "url": "https://openalex.org/W1778175015",
+  "provider": "openalex",
+  "year": 2015,
+  "venue": "PubMed",
+  "citation_count": 50,
+  "abstract": "Colitis-associated colon cancer (CAC) is a pathological condition defined by the development of colon cancer in patients afflicted by Crohn's disease (CD) or ulcerative colitis (UC), two idiopathic diseases of the gut which together comprise the disease group called inflammatory bowel disease (IBD). When IBD involves the colon, affected patients face an increased risk of developing colon cancer compared to the general population. The phenomenon of CAC represents one of the most convincing forms of evidence linking the processes of inflammation, oxidative stress and carcinogenesis. A greater understanding of the molecular events driving CAC could reveal new strategies to treat IBD and reduce the incidence of CAC. Sphingosine-1-phosphate (S1P) is a bioactive lipid produced through degradation of endogenous and dietary mammalian sphingolipids containing the long chain base sphingosine. S1P signals through a family of five G protein-coupled receptors. In addition, it activates nuclear factor kappa B (NF-κB) and signal transducer and activator of transcription 3 (STAT3), two transcriptional regulators that serve as master switches in inflammation and carcinogenesis. Through these and other mechanisms, a causal role for S1P in inflammatory conditions including colitis and CAC has been implicated. In contrast to S1P, dietary sphingolipids called sphingadienes derived from plant food sources cannot be converted to S1P and exhibit anti-inflammatory and chemopreventive activities, reducing colitis and CAC in mouse models. In this review, we summarize recent findings implicating S1P signaling and metabolism in the pathogenesis of IBD and CAC. The potential role of oxidative stress in modulating S1P is also discussed. Further, we propose the hypothesis that dietary sphingolipids may promote or prevent CAC depending on their ability to be converted to S1P.",
+  "type": "academic",
+  "pdf_url": ""
+}

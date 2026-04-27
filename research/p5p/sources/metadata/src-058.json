@@ -1,0 +1,33 @@
+{
+  "id": "src-058",
+  "title": "The Relationship Between Vitamin B6, Diabetes and Cancer",
+  "authors": [
+    "Merigliano, Chiara",
+    "Mascolo, Elisa",
+    "Burla, Romina",
+    "Saggio, Isabella",
+    "Vernì, Fiammetta"
+  ],
+  "year": 2018,
+  "abstract": "",
+  "doi": "10.3389/fgene.2018.00388",
+  "url": "https://doi.org/10.3389/fgene.2018.00388",
+  "pdf_url": "",
+  "venue": "Frontiers in Genetics",
+  "citation_count": 55,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-20T16:05:19.786173+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-058.md",
+  "quality_details": {
+    "content_length": 33366,
+    "alpha_ratio": 0.704,
+    "sentence_count": 690,
+    "reasons": []
+  }
+}

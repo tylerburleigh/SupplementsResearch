@@ -1,0 +1,27 @@
+{
+  "id": "src-037",
+  "title": "Urinary nicotine metabolites are associated with cognitive impairment among the elderly in southern China",
+  "authors": [
+    "Huang, Chao",
+    "Ren, Xiaohu",
+    "Xu, Benhong",
+    "Liu, Peiyi",
+    "Li, Tian",
+    "Zhu, Qinqin",
+    "Huang, Jia",
+    "Chen, Xiao",
+    "Wu, Desheng",
+    "Yang, Xifei",
+    "Zhu, Feiqi",
+    "Liu, Jian-jun"
+  ],
+  "doi": "10.18332/tid/170423",
+  "url": "https://www.semanticscholar.org/paper/97e648d6ea1d877bf706eebd6f06afee2133b8be",
+  "provider": "semantic_scholar",
+  "year": 2023,
+  "venue": "Tobacco Induced Diseases",
+  "citation_count": 2,
+  "abstract": "INTRODUCTION This study comprehensively assessed the association between eight metabolites of urinary nicotine and cognitive impairment. METHODS This cross-sectional study was based on the data of Shenzhen Aging Related Disorder Cohort (SADC), including 51 elderly community data variables such as demographic characteristics, neuropsychological assessment and environmental factors, from July 2017 to November 2018. Participant’s cognitive function was assessed by Mini-Mental State Examination (MMSE) scale and urinary nicotine metabolite [including cotinine N-β-D-glucuronide (CotGluc), rac 4-hydroxy-4-(3-pyridyl) butanoic acid dicyclohexylamine salt (HyPyBut), trans-3’-hydroxy cotinine O-β-D-glucuronide (OHCotGluc), and cotinine (Cot), etc.] concentrations were measured by high-performance liquid chromatography-tandem mass spectrometry (LC-MS/MS). Generalized linear models and restricted cubic spline models were used to explore the relationships between the urinary levels of nicotine metabolite and cognitive function. RESULTS A total of 296 individuals aged >60 years were included. Individuals in the third quartile of CotGluc had a 0.786 point (95% CI: -1.244 – -0.329) decrease or in the highest quartile of OHCotGluc had a 0.804 point (95% CI: -1.330 – -0.278) decreased in attention and calculation compared to those in the lowest quartile (all p for trend <0.05). Compared with those in the lowest quartile, individuals in the highest quartile of CotGluc, HyPyBut, OHCotGluc and Cot, respectively, corresponded to a 1.043 point (95% CI: -2.269–0.182), 1.101 points (95% CI: -2.391–0.188), 2.318 points (95% CI: -3.615 – -1.020), and 1.460 points (95% CI: -2.726 – -0.194) decreased in MMSE total score (all p for trend <0.05). A non-linear dose-response relationship between urinary levels of CotGluc, HyPyBut, OHCotGluc or Cot and cognitive function (all overall p<0.05, non-linear p<0.05). Subgroup analysis showed that urinary levels of CotGluc, OHCotGluc or Cot were significantly negatively associated with cognitive function (all p for trend <0.05) among females and non-smokers. CONCLUSIONS The findings highlight the public health implications of environmental tobacco smoke exposure, and effective interventions need to be performed for vulnerable populations.",
+  "type": "academic",
+  "pdf_url": "https://www.tobaccoinduceddiseases.org/pdf-170423-95031?filename=Urinary nicotine.pdf"
+}

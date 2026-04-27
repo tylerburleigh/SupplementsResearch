@@ -1,0 +1,33 @@
+53	2	Abstract
+97	2	Introduction
+120	2	Nad
+195	2	Methods
+201	2	Participants
+508	2	Results
+530	2	Nad
+783	2	Discussion
+895	2	Nad
+1064	2	References
+1081	2	7. Fletcher RS, Ratajczak J, Doig CL, Oakey LA, Callingham R, Da
+1096	2	10. Trammell SAJ, Weidemann BJ, Chadda A, Yorek MS, Holmes
+1100	2	11. Shi W, Hegeman MA, van Dartel DAM, Tang J, Suarez M, Swarts H,
+1105	2	12. Frederick DW, Loro E, Liu L, Davila A Jr, Chellappa K, Silverman
+1113	2	13. Trammell SA, Schmidt MS, Weidemann BJ, Redpath P, Jaksch F,
+1127	2	Nad
+1130	2	17. Dellinger RW, Santos SR, Morris M, Evans M, Alminana D, Guarente
+1136	2	18. Airhart SE, Shireman LM, Risler LJ, Anderson GD, Nagana Gowda
+1141	2	19. Martens CR, Denman BA, Mazzo MR, Armstrong ML, Reisdorph
+1145	2	20. DollerupOL,ChristensenB,SvartM,SchmidtMS,SulekK,Ringgaard
+1156	2	3. Hum Exp Toxicol
+1163	2	24. Elhassan YS, Kluckova K, Fletcher RS, Schmidt MS, Garten A,
+1166	2	Nad
+1187	2	30. HoeksJ,vanHerpenNA,MensinkM,Moonen-KornipsE,vanBeurden
+1191	2	31. Wefers J, van Moorsel D, Hansen J, Connell NJ, Havekes B, Hoeks
+1199	2	33. Lindeboom L, Nabuurs CI, Hesselink MK, Wildberger JE, Schrauwen
+1204	2	34. LindeboomL,BrulsYM,vanEwijkPA,HesselinkMK,WildbergerJE,
+1209	2	35. Lindeboom L, Nabuurs CI, Hoeks J, Brouwers B, Phielix E, Kooi ME,
+1249	2	45. Timmers S, Konings E, Bilet L, Houtkooper RH, van de Weijer T,
+1254	2	46. Timmers S, de Ligt M, Phielix E, van de Weijer T, Hansen J,
+1259	2	47. DiguetN,TrammellSAJ,TannousC,DelouxR,PiquereauJ,Mougenot
+1276	2	51. Watt MJ, Heigenhauser GJ, Stellingwerff T, Hargreaves M, Spriet
+1280	2	52. Salic K, Gart E, Seidel F, Verschuren L, Caspers M, van

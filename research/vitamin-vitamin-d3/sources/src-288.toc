@@ -1,0 +1,109 @@
+22	2	Abstract
+47	2	Background
+157	2	Statistical Analysis
+230	2	Results
+300	2	Participants
+315	2	Participants
+357	2	3 Months
+379	2	400 IU daily vs
+387	2	6 Months
+413	2	3 Months
+437	2	4 Months
+467	2	6 Months
+491	2	500 IU daily vs
+498	2	6 Months
+515	2	Participants
+530	2	Participants
+576	2	12 Months
+597	2	300 IU daily vs
+605	2	7 Weeks
+637	2	12 Months
+662	2	18 Months
+694	2	18 Months
+724	2	6 Months
+744	2	Participants
+759	2	Participants
+805	2	13 Months
+825	2	8 Weeks
+853	2	6 Months
+895	2	12 Months
+916	2	2 Months
+947	2	3 Months
+964	2	Participants
+979	2	Participants
+1027	2	12 Months
+1058	2	12 Months
+1094	2	12 Months
+1128	2	17 Weeks
+1147	2	Participants
+1162	2	Participants
+1208	2	7 Months
+1238	2	6 Months
+1296	3	81.4 USA, Aurora,
+1298	2	12 Months
+1325	2	400 IU daily vs
+1330	2	12 Months
+1350	2	Participants
+1365	2	Participants
+1411	2	24 Months
+1440	2	24 Months
+1462	2	400 IU daily vs
+1470	2	4 Months
+1499	2	3 Months
+1525	2	500 IU daily vs
+1532	2	6 Months
+1554	2	Participants
+1569	2	Participants
+1618	2	5 Months
+1645	2	8 Months
+1679	2	3 Years
+1705	2	000 IU vs placebo,
+1712	2	3 Years
+1732	2	Participants
+1747	2	Participants
+1792	2	3 Years
+1814	2	6 Months
+1837	2	2 Years
+1856	2	6 Months
+1877	2	5 Years
+1899	2	6 Months
+1918	2	Participants
+1933	2	Participants
+1968	2	4000 IU daily vs
+1976	2	45 Days
+2028	2	Discussion
+2510	2	Conclusions
+2550	2	Acknowledgements
+2584	2	Competing Interests
+2587	2	1 Department of Emergency Medicine, College of Medicine, National Taiwan
+2601	2	References
+2605	2	2. Global Health Estimates: Life expectancy and leading causes of death
+2633	2	11. Martineau AR, Jolliffe DA, Hooper RL, Greenberg L, Aloia JF, Bergman P ,
+2637	2	12. Jolliffe DA, Camargo CA, Sluyter JD, Aglipay M, Aloia JF, Ganmaa D,
+2651	2	16. Pilz S, Trummer C, Pandis M, Schwetz V, Aberer F, Gruebler M, Verheyen N,
+2658	2	18. Page MJ, McKenzie JE, Bossuyt PM, Boutron I, Hoffmann TC, Mulrow
+2699	2	32. Kumar GT, Sachdev HS, Chellani H, Rehman AM, Singh V, Arora H, Filteau
+2710	2	35. Camargo CA Jr, Ganmaa D, Frazier AL, Kirchberg FF, Stuart JJ, Kleinman
+2714	2	36. Lehouck A, Mathieu C, Carremans C, Baeke F, Verhaegen J, Van Eldere J,
+2722	2	38. Murdoch DR, Slow S, Chambers ST, Jennings LC, Stewart AW, Priest PC,
+2726	2	39. Marchisio P , Consonni D, Baggi E, Zampiero A, Bianchini S, Terranova L,
+2730	2	40. Rees JR, Hendricks K, Barry EL, Peacock JL, Mott LA, Sandler RS, Bresalier
+2734	2	41. Goodall EC, Granados AC, Luinstra K, Pullenayegum E, Coleman BL,
+2738	2	42. Grant CC, Kaur S, Waymouth E, Mitchell EA, Scragg R, Ekeroma A, Stewart
+2742	2	43. Tran B, Armstrong BK, Ebeling PR, English DR, Kimlin MG, van der Pols JC,
+2753	2	46. Martineau AR, MacLaughlin BD, Hooper RL, Barnes NC, Jolliffe DA, Greiller
+2757	2	47. Martineau AR, James WY, Hooper RL, Barnes NC, Jolliffe DA, Greiller CL,
+2764	2	48. Martineau AR, Hanifa Y, Witt KD, Barnes NC, Hooper RL, Patel M, Stevens N,
+2772	2	50. Denlinger LC, King TS, Cardet JC, Craig T, Holguin F, Jackson DJ, Kraft
+2776	2	51. Gupta P , Dewan P , Shah D, Sharma N, Bedi N, Kaur IR, Bansal AK, Madhu
+2780	2	52. Aglipay M, Birken CS, Parkin PC, Loeb MB, Thorpe K, Chen Y, Laupacis A,
+2784	2	53. Ginde AA, Blatchford P , Breese K, Zarrabi L, Linnebur SA, Wallace JI,
+2792	2	55. Lee MT, Kattan M, Fennoy I, Arpadi SM, Miller RL, Cremers S, McMahon DJ,
+2807	2	59. Arihiro S, Nakashima A, Matsuoka M, Suto S, Uchiyama K, Kato T, Mitobe
+2817	2	61. Loeb M, Dang AD, Thiem VD, Thanabalan V, Wang B, Nguyen NB, Tran
+2827	2	63. Camargo CA, Sluyter J, Stewart AW, Khaw KT, Lawes CMM, Toop L, Waayer
+2831	2	64. Ganmaa D, Uyanga B, Zhou X, Gantsetseg G, Delgerekh B, Enkhmaa
+2835	2	65. Mandlik R, Mughal Z, Khadilkar A, Chiplonkar S, Ekbote V, Kajale N,
+2840	2	66. Rake C, Gilham C, Bukasa L, Ostler R, Newton M, Peto Wild J, Aigret B, Hill
+2878	2	76. Institute of Medicine Committee to Review Dietary Reference Intakes for
+2891	2	80. Camargo CA Jr, Ingham T, Wickens K, Thadhani R, Silvers KM, Epton MJ,

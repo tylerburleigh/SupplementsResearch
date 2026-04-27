@@ -1,0 +1,16 @@
+{
+  "id": "src-302",
+  "title": "Interferon gamma blocks the growth of Toxoplasma gondii in human fibroblasts by inducing the host cells to degrade tryptophan.",
+  "authors": [
+    "Pfefferkorn, E. R."
+  ],
+  "doi": "10.1073/pnas.81.3.908",
+  "url": "https://openalex.org/W1974401900",
+  "provider": "openalex",
+  "year": 1984,
+  "venue": "Proceedings of the National Academy of Sciences",
+  "citation_count": 863,
+  "abstract": "Treatment of human fibroblasts with human recombinant gamma interferon blocked the growth of Toxoplasma gondii, an obligate intracellular protozoan parasite. Growth of the parasite was measured by a plaque assay 7 days after infection or by the incorporation of [3H]uracil 1 or 2 days after infection. The antitoxoplasma activity induced in the host cells by gamma interferon was strongly dependent upon the tryptophan concentration of the medium. Progressively higher minimal inhibitory concentrations of gamma interferon were observed as the tryptophan concentration in the culture medium was increased. Treatment with gamma interferon did not make the cells impermeable to tryptophan. The kinetics of [3H]tryptophan uptake into the acid-soluble pools of control and gamma interferon-treated cultures were identical during the first 48 sec. Thereafter uptake of [3H]tryptophan into the acid-soluble pool of control fibroblasts reached the expected plateau after 96 sec. In contrast, uptake of [3H]tryptophan continued for at least 12 min in the gamma interferon-treated cultures. At that time, the acid-soluble pool of the gamma interferon-treated cultures contained 8 times the radioactivity of the control cultures. This continued accumulation was the result of rapid intracellular degradation of [3H]tryptophan into kynurenine and N-formylkynurenine that leaked slowly from the cells. These two metabolites were also recovered from the medium of cultures treated for 1 or 2 days with gamma interferon. Human recombinant alpha and beta interferons, which have no antitoxoplasma activity, did not induce any detectable degradation of tryptophan. Several hypotheses are presented to explain how the intracellular degradation of tryptophan induced by gamma interferon could restrict the growth of an obligate intracellular parasite.",
+  "type": "academic",
+  "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/344948"
+}

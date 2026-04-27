@@ -1,0 +1,25 @@
+{
+  "id": "src-443",
+  "title": "Smoking-Relevant Nicotine Concentration Attenuates the Unfolded Protein Response in Dopaminergic Neurons",
+  "authors": [
+    "Srinivasan, R.",
+    "Henley, Beverley M",
+    "Henderson, Brandon J.",
+    "Indersmitten, T.",
+    "Cohen, B.",
+    "Kim, Charlene H.",
+    "Mckinney, S.",
+    "Deshpande, P.",
+    "Xiao, C.",
+    "Lester, H."
+  ],
+  "doi": "10.1523/jneurosci.2126-15.2016",
+  "url": "https://www.semanticscholar.org/paper/3eff4f4515ef075462791549e310611ac19ba909",
+  "provider": "semantic_scholar",
+  "year": 2016,
+  "venue": "Journal of Neuroscience",
+  "citation_count": 50,
+  "abstract": "Retrospective epidemiological studies show an inverse correlation between susceptibility to Parkinson's disease and a person's history of tobacco use. Animal model studies suggest nicotine as a neuroprotective agent and nicotinic acetylcholine (ACh) receptors (nAChRs) as targets for neuroprotection, but the underlying neuroprotective mechanism(s) are unknown. We cultured mouse ventral midbrain neurons for 3 weeks. Ten to 20% of neurons were dopaminergic (DA), revealed by tyrosine hydroxylase (TH) immunoreactivity. We evoked mild endoplasmic reticulum (ER) stress with tunicamycin (Tu), producing modest increases in the level of nuclear ATF6, phosphorylated eukaryotic initiation factor 2α, nuclear XBP1, and the downstream proapoptotic effector nuclear C/EBP homologous protein. We incubated cultures for 2 weeks with 200 nm nicotine, the approximate steady-state concentration between cigarette smoking or vaping, or during nicotine patch use. Nicotine incubation suppressed Tu-induced ER stress and the unfolded protein response (UPR). Study of mice with fluorescent nAChR subunits showed that the cultured TH+ neurons displayed α4, α6, and β3 nAChR subunit expression and ACh-evoked currents. Gene expression profile in cultures from TH-eGFP mice showed that the TH+ neurons also express several other genes associated with DA release. Nicotine also upregulated ACh-induced currents in DA neurons by ∼2.5-fold. Thus, nicotine, at a concentration too low to activate an appreciable fraction of plasma membrane nAChRs, induces two sequelae of pharmacological chaperoning in the ER: UPR suppression and nAChR upregulation. Therefore, one mechanism of neuroprotection by nicotine is pharmacological chaperoning, leading to UPR suppression. Measuring this pathway may help in assessing neuroprotection. SIGNIFICANCE STATEMENT Parkinson's disease (PD) cannot yet be cured or prevented. However, many retrospective epidemiological studies reveal that PD is diagnosed less frequently in tobacco users. Existing programs attempting to develop nicotinic drugs that might exert this apparent neuroprotective effect are asking whether agonists, antagonists, partial agonists, or channel blockers show the most promise. The underlying logic resembles the previous development of varenicline for smoking cessation. We studied whether, and how, nicotine produces neuroprotective effects in cultured dopaminergic neurons, an experimentally tractable, mechanistically revealing neuronal system. We show that nicotine, operating via nicotinic receptors, does protect these neurons against endoplasmic reticulum stress. However, the mechanism is probably “inside-out”: pharmacological chaperoning in the endoplasmic reticulum. This cellular-level insight could help to guide neuroprotective strategies.",
+  "type": "academic",
+  "pdf_url": "https://www.jneurosci.org/content/jneuro/36/1/65.full.pdf"
+}

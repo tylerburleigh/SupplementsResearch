@@ -1,0 +1,18 @@
+{
+  "id": "src-450",
+  "title": "Calcific Aortic Stenosis",
+  "authors": [
+    "Otto, Catherine M",
+    "Newby, David E.",
+    "Hillis, Graham S."
+  ],
+  "doi": "10.1001/jama.2024.16477",
+  "url": "https://openalex.org/W4404229343",
+  "provider": "openalex",
+  "year": 2024,
+  "venue": "JAMA",
+  "citation_count": 45,
+  "abstract": "Calcific AS is a common chronic progressive condition among older adults and is diagnosed via echocardiography. Symptomatic patients with severe AS have a mortality rate of up to 50% after 1 year, but treatment with SAVR or TAVI reduces mortality to that of age-matched control patients. The type and timing of valve replacement should be built on evidence-based guidelines, shared decision-making, and involvement of a multidisciplinary heart valve team.",
+  "type": "academic",
+  "pdf_url": ""
+}

@@ -1,0 +1,52 @@
+{
+  "id": "src-036",
+  "title": "Metformin improves healthspan and lifespan in mice",
+  "authors": [
+    "Martin-Montalvo, Alejandro",
+    "Mercken, Evi M.",
+    "Mitchell, Sarah J.",
+    "Palacios, Hector H.",
+    "Mote, Patricia L.",
+    "Scheibye-Knudsen, Morten",
+    "Gomes, Ana P.",
+    "Ward, Theresa M.",
+    "Minor, Robin K.",
+    "Blouin, Marie-José",
+    "Schwab, Matthias",
+    "Pollak, Michael",
+    "Zhang, Yongqing",
+    "Yu, Yinbing",
+    "Becker, Kevin G.",
+    "Bohr, Vilhelm A.",
+    "Ingram, Donald K.",
+    "Sinclair, David A.",
+    "Wolf, Norman S.",
+    "Spindler, Stephen R.",
+    "Bernier, Michel",
+    "de Cabo, Rafael"
+  ],
+  "year": 2013,
+  "abstract": "",
+  "doi": "10.1038/ncomms3192",
+  "url": "https://doi.org/10.1038/ncomms3192",
+  "pdf_url": "",
+  "venue": "Nature Communications",
+  "citation_count": 1283,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-26T22:39:29.078560+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-036.md",
+  "quality_details": {
+    "content_length": 55393,
+    "alpha_ratio": 0.726,
+    "sentence_count": 882,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

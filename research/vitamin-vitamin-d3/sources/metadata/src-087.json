@@ -1,0 +1,22 @@
+{
+  "id": "src-087",
+  "title": "Vitamin D and Calcium for the Prevention of Fracture",
+  "authors": [
+    "Yao, Pang",
+    "Bennett, Derrick",
+    "Mafham, Marion",
+    "Lin, Xu",
+    "Chen, Zhengming",
+    "Armitage, Jane",
+    "Clarke, Robert"
+  ],
+  "doi": "10.1001/jamanetworkopen.2019.17789",
+  "url": "https://openalex.org/W2990027149",
+  "provider": "openalex",
+  "year": 2019,
+  "venue": "JAMA Network Open",
+  "citation_count": 323,
+  "abstract": "In this systematic review and meta-analysis, neither intermittent nor daily dosing with standard doses of vitamin D alone was associated with reduced risk of fracture, but daily supplementation with both vitamin D and calcium was a more promising strategy.",
+  "type": "academic",
+  "pdf_url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2757873/yao_2019_oi_190672.pdf"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "src-430",
+  "title": "Novel Synthetic Strategies Enable the Efficient Development of Folate Conjugates for Cancer Radiotheranostics.",
+  "authors": [
+    "Deberle, Luisa M",
+    "Benešová, Martina",
+    "Becker, Anna E",
+    "Ratz, Magdalena",
+    "Guzik, Patrycja",
+    "Schibli, Roger",
+    "Müller, Cristina"
+  ],
+  "doi": "10.1021/acs.bioconjchem.1c00198",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34251183",
+  "provider": "pubmed",
+  "year": 2021,
+  "venue": "Bioconjugate chemistry",
+  "citation_count": 0,
+  "abstract": "The folate receptor (FR) is an interesting target for radiotheranostics due to its overexpression in several tumor types. The progress in developing novel folate radioconjugates is, however, slow due to the synthetic challenges that folate chemistry presents. The goal of this study was, thus, to establish versatile solid-phase synthetic strategies for a convenient preparation of novel folate conjugates. Two approaches were established based on an orthogonal fluorenylmethyloxycarbonyl (Fmoc)-protection strategy to enable a modular buildup of an albumin-binding DOTA conjugate (known as OxFol-1) using folic acid (oxidized folate version) as a targeting agent. The main difference between the two approaches was the sequence of conjugating the single structural units. The approach that introduced the folate entity as the last unit appeared particularly useful for the preparation of conjugates based on 6R- or 6S-5-methyltetrahydrofolic acid (5-MTHF; a reduced folate version) as targeting entity. Three types of folate conjugates were synthesized either with a p-iodophenyl-based albumin binder (OxFol-1, 6R-RedFol-1, and 6S-RedFol-1) or without an albumin-binding entity (OxFol-14, 6R-RedFol-14, and 6S-RedFol-14). All six conjugates were obtained with high chemical purity (>98%) after 9-13 synthesis steps and a single final HPLC purification. Radiolabeling with lutetium-177 was feasible at high molar activity, and the resulting radioconjugates were stable over at least 24 h. Biodistribution and SPECT/CT imaging studies confirmed the favorable effect of an albumin-binding entity to increase the tumor uptake and reduce kidney retention of folate radioconjugates. The increased tumor-to-kidney ratios obtained with [177Lu]Lu-6R-RedFol-1 and [177Lu]Lu-6S-RedFol-1 as compared to [177Lu]Lu-OxFol-1 indicated that 5-MTHF is the preferred FR-targeting agent for albumin-binding radioconjugates. This was, however, not the case for folate radioconjugates without an albumin binder. Thanks to the established synthesis strategy, the preparation of further folate radioconjugates will be facilitated, potentially enabling the optimization of the tissue distribution characteristics even more.",
+  "type": "academic",
+  "pdf_url": ""
+}

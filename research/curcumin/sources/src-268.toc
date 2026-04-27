@@ -1,0 +1,22 @@
+55	2	1. Introduction
+90	2	2. From the Kitchen to the Bench
+200	3	2.1. Ready-to-Go Strategies to Enhance Bioavailability
+224	4	2.1.1. The Early Factors Impacting Metabolism
+322	2	10 European males
+417	2	1 African-American
+639	4	2.1.2. Solubility Enhancement as a Strategy to Improve Curcumin Bioavailability
+772	4	2.1.3. How to Improve Absorption Affecting Intestinal Uptake
+858	2	Umin
+868	2	Nafld
+944	2	Isrctn
+946	2	Isrctn
+1301	2	3. Nanoformulations: What Is Known and What Is New
+1339	3	3.1. Nanotech in Bioavailability-Boosting Systems
+1677	3	3.2. Biopolymer-Based Nanoparticles
+1739	3	3.3. Naturally Derived Colloidal Particles
+1752	3	3.4. Nanotech in Targeted Delivery Systems
+1836	4	3.4.2. Inorganic Nanoparticles
+1925	3	3.5. Microbiota
+1947	3	3.6. A Brief Overview of Fabrication Issues
+2004	2	4. Conclusions
+2111	2	References

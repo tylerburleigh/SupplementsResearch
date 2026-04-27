@@ -1,0 +1,45 @@
+{
+  "id": "src-242",
+  "title": "IOM Committee Members Respond to Endocrine Society Vitamin D Guideline",
+  "authors": [
+    "Rosen, Clifford J.",
+    "Abrams, Steven A.",
+    "Aloia, John F.",
+    "Brannon, Patsy M.",
+    "Clinton, Steven K.",
+    "Durazo-Arvizu, Ramon A.",
+    "Gallagher, J. Christopher",
+    "Gallo, Richard L.",
+    "Jones, Glenville",
+    "Kovacs, Christopher S.",
+    "Manson, JoAnn E.",
+    "Mayne, Susan T.",
+    "Ross, A. Catharine",
+    "Shapses, Sue A.",
+    "Taylor, Christine L."
+  ],
+  "year": 2012,
+  "abstract": "",
+  "doi": "10.1097/01.ogx.0000418531.13405.69",
+  "url": "https://doi.org/10.1097/01.ogx.0000418531.13405.69",
+  "pdf_url": "",
+  "venue": "Obstetrical &amp; Gynecological Survey",
+  "citation_count": 4,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T20:58:16.453875+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-242.md",
+  "quality_details": {
+    "content_length": 4622,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

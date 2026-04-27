@@ -1,0 +1,21 @@
+{
+  "id": "src-278",
+  "title": "Gut Microbiome: Profound Implications for Diet and Disease",
+  "authors": [
+    "Hills, Ronald D.",
+    "Pontefract, Benjamin",
+    "Mishcon, Hillary R.",
+    "Black, Cody A.",
+    "Sutton, Steven C.",
+    "Theberge, Cory R."
+  ],
+  "doi": "10.3390/nu11071613",
+  "url": "https://openalex.org/W2957585395",
+  "provider": "openalex",
+  "year": 2019,
+  "venue": "Nutrients",
+  "citation_count": 1093,
+  "abstract": "The gut microbiome plays an important role in human health and influences the development of chronic diseases ranging from metabolic disease to gastrointestinal disorders and colorectal cancer. Of increasing prevalence in Western societies, these conditions carry a high burden of care. Dietary patterns and environmental factors have a profound effect on shaping gut microbiota in real time. Diverse populations of intestinal bacteria mediate their beneficial effects through the fermentation of dietary fiber to produce short-chain fatty acids, endogenous signals with important roles in lipid homeostasis and reducing inflammation. Recent progress shows that an individual's starting microbial profile is a key determinant in predicting their response to intervention with live probiotics. The gut microbiota is complex and challenging to characterize. Enterotypes have been proposed using metrics such as alpha species diversity, the ratio of Firmicutes to Bacteroidetes phyla, and the relative abundance of beneficial genera (e.g., <i>Bifidobacterium</i>, <i>Akkermansia</i>) versus facultative anaerobes (<i>E. coli</i>), pro-inflammatory <i>Ruminococcus</i>, or nonbacterial microbes. Microbiota composition and relative populations of bacterial species are linked to physiologic health along different axes. We review the role of diet quality, carbohydrate intake, fermentable FODMAPs, and prebiotic fiber in maintaining healthy gut flora. The implications are discussed for various conditions including obesity, diabetes, irritable bowel syndrome, inflammatory bowel disease, depression, and cardiovascular disease.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2072-6643/11/7/1613/pdf?version=1563766462"
+}

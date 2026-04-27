@@ -1,0 +1,19 @@
+{
+  "id": "src-120",
+  "title": "Mitochondrial dysfunction in neurodegenerative diseases and the potential countermeasure",
+  "authors": [
+    "Wang, Yan",
+    "Xu, Erin",
+    "Musich, Phillip R.",
+    "Lin, Fang"
+  ],
+  "doi": "10.1111/cns.13116",
+  "url": "https://openalex.org/W2922573905",
+  "provider": "openalex",
+  "year": 2019,
+  "venue": "CNS Neuroscience & Therapeutics",
+  "citation_count": 303,
+  "abstract": "Mitochondria not only supply the energy for cell function, but also take part in cell signaling. This review describes the dysfunctions of mitochondria in aging and neurodegenerative diseases, and the signaling pathways leading to mitochondrial biogenesis (including PGC-1 family proteins, SIRT1, AMPK) and mitophagy (parkin-Pink1 pathway). Understanding the regulation of these mitochondrial pathways may be beneficial in finding pharmacological approaches or lifestyle changes (caloric restrict or exercise) to modulate mitochondrial biogenesis and/or to activate mitophagy for the removal of damaged mitochondria, thus reducing the onset and/or severity of neurodegenerative diseases.",
+  "type": "academic",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/cns.13116"
+}

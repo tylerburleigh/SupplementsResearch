@@ -1,0 +1,41 @@
+{
+  "id": "src-110",
+  "title": "Effective treatment of mitochondrial myopathy by nicotinamide riboside, a vitamin\n                    <scp>B</scp>\n                    3",
+  "authors": [
+    "Khan, Nahid A",
+    "Auranen, Mari",
+    "Paetau, Ilse",
+    "Pirinen, Eija",
+    "Euro, Liliya",
+    "Forsström, Saara",
+    "Pasila, Lotta",
+    "Velagapudi, Vidya",
+    "Carroll, Christopher J",
+    "Auwerx, Johan",
+    "Suomalainen, Anu"
+  ],
+  "year": 2014,
+  "abstract": "Abstract\n\nNutrient availability is the major regulator of life and reproduction, and a complex cellular signaling network has evolved to adapt organisms to fasting. These sensor pathways monitor cellular energy metabolism, especially mitochondrial\nATP\nproduction and NAD\n+\n/\nNADH\nratio, as major signals for nutritional state. We hypothesized that these signals would be modified by mitochondrial respiratory chain disease, because of inefficient\nNADH\nutilization and\nATP\nproduction. Oral administration of nicotinamide riboside (\nNR\n), a vitamin B3 and NAD\n+\nprecursor, was previously shown to boost NAD\n+\nlevels in mice and to induce mitochondrial biogenesis. Here, we treated mitochondrial myopathy mice with\nNR\n. This vitamin effectively delayed early‐ and late‐stage disease progression, by robustly inducing mitochondrial biogenesis in skeletal muscle and brown adipose tissue, preventing mitochondrial ultrastructure abnormalities and mt\nDNA\ndeletion formation.\nNR\nfurther stimulated mitochondrial unfolded protein response, suggesting its protective role in mitochondrial disease. These results indicate that\nNR\nand strategies boosting NAD\n+\nlevels are a promising treatment strategy for mitochondrial myopathy.",
+  "doi": "10.1002/emmm.201403943",
+  "url": "https://doi.org/10.1002/emmm.201403943",
+  "pdf_url": "",
+  "venue": "EMBO Molecular Medicine",
+  "citation_count": 361,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-20T21:01:51.145937+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-110.md",
+  "quality_details": {
+    "content_length": 53199,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

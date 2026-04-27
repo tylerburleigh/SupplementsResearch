@@ -1,0 +1,23 @@
+{
+  "id": "src-291",
+  "title": "Lycopene enhances the sensitivity of castration-resistant prostate cancer to enzalutamide through the AKT/EZH2/ androgen receptor signaling pathway.",
+  "authors": [
+    "Chen, Xiong",
+    "Yang, Guo",
+    "Liu, Miao",
+    "Quan, Zhen",
+    "Wang, Leilei",
+    "Luo, Chunli",
+    "Wu, Xiaohou",
+    "Zheng, Yongbo"
+  ],
+  "doi": "10.1016/j.bbrc.2022.04.126",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35533600",
+  "provider": "pubmed",
+  "year": 2022,
+  "venue": "Biochemical and biophysical research communications",
+  "citation_count": 0,
+  "abstract": "Enzalutamide is an effective drug for the treatment of castration-resistant prostate cancer (CRPC), but acquired enzalutamide resistance is usually unavoidable within the short term in many patients. Lycopene, a safe and effective phytochemical, has been documented to have anticancer activity in a variety of tumors, especially for prostate cancer (PCa). The aim of this study was to provide data support for the combination of lycopene and enzalutamide in the treatment of CRPC. To this end, tissues from patients with primary prostate cancer (PPC) and CRPC were examined by immunohistochemical analysis and found that p-AKT and p-EZH2 were overexpressed in CRPC. Furthermore, Kaplan-Meier survival analysis showed that the high expression of p-AKT and p-EZH2 may be related to the poor prognosis of patients. In addition, the expression of p-AKT, p-EZH2 and androgen receptor (AR) were significantly down-regulated in 22RV1 and C4-2B cells and the proliferation and invasion of CRPC cells were inhibited after treatment with lycopene, while SC79 (an AKT agonist) markedly rescue this effect. Of note, a combination of lycopene and enzalutamide significantly inhibited the proliferation and invasion of CRPC cells in vitro, as well as tumor growth and bone metastasis in vivo. These results suggest that the enhanced antitumor effects of enzalutamide by lycopene may be related to the reduction of AR protein levels through lycopene-mediated inhibition of AKT/EZH2 pathway, which may provide a new approach to improve the efficacy of enzalutamide in CRPC.",
+  "type": "academic",
+  "pdf_url": ""
+}

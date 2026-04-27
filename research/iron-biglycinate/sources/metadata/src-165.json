@@ -1,0 +1,23 @@
+{
+  "id": "src-165",
+  "title": "Hemoglobin Concentration in Early Pregnancy and Severe Neonatal Morbidity and Mortality : Population-Based Cohort Study.",
+  "authors": [
+    "Shams, Ieta",
+    "Tang, Grace H.",
+    "Wang, Xuesong",
+    "Walker, Mark",
+    "Baxter, Nancy N.",
+    "Gomes, T.",
+    "Ray, J.",
+    "Sholzberg, M."
+  ],
+  "doi": "10.7326/annals-25-02586",
+  "url": "https://www.semanticscholar.org/paper/6e625966f2280376abf7c22fa993a80cd4f5ad97",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "Annals of Internal Medicine",
+  "citation_count": 0,
+  "abstract": "BACKGROUND\nAnemia affects up to 50% of pregnancies. The relation between early pregnancy maternal hemoglobin concentration and important perinatal outcomes in high-income countries is largely unknown.\n\nOBJECTIVE\nTo assess early pregnancy hemoglobin concentration and associated severe neonatal morbidity and mortality (SNM-M) in a high-income setting.\n\nDESIGN\nPopulation-based, retrospective cohort study.\n\nSETTING\nOntario, Canada, where health care is publicly funded.\n\nPARTICIPANTS\nWomen aged 18 to 50 years with a singleton birth between 2007 and 2023 and hemoglobin measurement at 2 to 12 weeks' gestation.\n\nMEASUREMENTS\nThe nonlinear relation between early pregnancy hemoglobin concentration and SNM-M was analyzed in 1-g/L increments using restricted cubic splines, with 125 g/L as the referent. The primary outcome was a validated composite measure of SNM-M (major neonatal conditions and critical interventions) up to 27 days after birth. Relative risks (RRs) were adjusted (aRR) for maternal demographic characteristics and chronic conditions.\n\nRESULTS\nA total of 1 100 341 births were included. A U-shaped relation was observed between early pregnancy hemoglobin concentration and SNM-M. For example, relative to a hemoglobin value of 125 g/L and a corresponding SNM-M rate of 6.7%, the aRR for SNM-M was 1.08 (95% CI, 1.04 to 1.11) at a hemoglobin concentration of 105 g/L and 1.17 (CI, 1.10 to 1.25) at 90 g/L. The aRR for SNM-M was 1.05 (CI, 1.03 to 1.07) at a hemoglobin concentration of 135 g/L and 1.20 (CI, 1.16 to 1.24) at 150 g/L.\n\nLIMITATION\nIron replacement status before and during pregnancy was unknown, and residual confounding may influence observed associations.\n\nCONCLUSION\nMaternal anemia and relative erythrocytosis were each associated with neonatal morbidity and mortality in a high-income setting. Randomized clinical trials should evaluate the effect of iron therapy on maternal and perinatal outcomes by degree of hemoglobin correction.\n\nPRIMARY FUNDING SOURCE\nUniversity of Toronto Alexandra Yeo Hematology Grant.",
+  "type": "academic",
+  "pdf_url": ""
+}

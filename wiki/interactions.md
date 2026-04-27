@@ -1,9 +1,8 @@
 ---
-type: concept
-concept_type: meta
+type: meta
 sources: []
 created: "2026-04-19"
-updated: "2026-04-19"
+updated: "2026-04-26"
 status: current
 tags:
   - meta
@@ -12,10 +11,12 @@ tags:
 > [!tldr]
 > Cross-reference of all known supplement-supplement and supplement-drug interactions across the wiki.
 
+See also: [[index]], [[ingest-checklist]], [[taxonomy]]
+
 ## Known Interactions
 
 <!-- This section is manually maintained. During ingest, add new interactions here. -->
-<!-- Format: - [[Supplement A]] + [[Supplement B]]: interaction description. [[source]] -->
+<!-- Format: - Supplement A + Supplement B: interaction description. source page -->
 
 *No interactions logged yet. Populated during ingest.*
 

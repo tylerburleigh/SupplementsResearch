@@ -1,0 +1,17 @@
+{
+  "id": "src-313",
+  "title": "Mechanisms of Action Involved in Ozone Therapy: Is healing induced via a mild oxidative stress?",
+  "authors": [
+    "Sagai, Masaru",
+    "Bocci, Velio"
+  ],
+  "doi": "10.1186/2045-9912-1-29",
+  "url": "https://openalex.org/W2169449233",
+  "provider": "openalex",
+  "year": 2011,
+  "venue": "Medical Gas Research",
+  "citation_count": 393,
+  "abstract": "The potential mechanisms of action of ozone therapy are reviewed in this paper. The therapeutic efficacy of ozone therapy may be partly due the controlled and moderate oxidative stress produced by the reactions of ozone with several biological components. The line between effectiveness and toxicity of ozone may be dependent on the strength of the oxidative stress. As with exercise, it is well known that moderate exercise is good for health, whereas excessive exercise is not.Severe oxidative stress activates nuclear transcriptional factor kappa B (NFκB), resulting in an inflammatory response and tissue injury via the production of COX2, PGE2, and cytokines. However, moderate oxidative stress activates another nuclear transcriptional factor, nuclear factor-erythroid 2-related factor 2 (Nrf2). Nrf2 then induces the transcription of antioxidant response elements (ARE). Transcription of ARE results in the production of numerous antioxidant enzymes, such as SOD, GPx, glutathione-s-transferase(GSTr), catalase (CAT), heme-oxygenase-1 (HO-1), NADPH-quinone-oxidoreductase (NQO-1), phase II enzymes of drug metabolism and heat shock proteins (HSP). Both free antioxidants and anti-oxidative enzymes not only protect cells from oxidation and inflammation but they may be able to reverse the chronic oxidative stress. Based on these observations, ozone therapy may also activate Nrf2 via moderate oxidative stress, and suppress NFκB and inflammatory responses. Furthermore, activation of Nrf2 results in protection against neurodegenerative diseases, such as Alzheimer's and Parkinson's diseases. Mild immune responses are induced via other nuclear transcriptional factors, such as nuclear factor of activated T-cells (NFAT) and activated protein-1 (AP-1).Additionally, the effectiveness of ozone therapy in vascular diseases may also be explained by the activation of another nuclear transcriptional factor, hypoxia inducible factor-1α (HIF-1a), which is also induced via moderate oxidative stress. Recently these concepts have become widely accepted. The versatility of ozone in treating vascular and degenerative diseases as well as skin lesions, hernial disc and primary root carious lesions in children is emphasized. Further researches able to elucidate whether the mechanisms of action of ozone therapy involve nuclear transcription factors, such as Nrf2, NFAT, AP-1, and HIF-1α are warranted.",
+  "type": "academic",
+  "pdf_url": "https://medicalgasresearch.biomedcentral.com/counter/pdf/10.1186/2045-9912-1-29"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "src-252",
+  "title": "Neuroprotection via nAChRs: the role of nAChRs in neurodegenerative disorders such as Alzheimer's and Parkinson's disease",
+  "authors": [
+    "Marina, R. Picciotto"
+  ],
+  "doi": "10.2741/2695",
+  "url": "https://openalex.org/W1884123732",
+  "provider": "openalex",
+  "year": 2007,
+  "venue": "Frontiers in bioscience",
+  "citation_count": 216,
+  "abstract": "Epidemiological studies have identified a negative correlation between smoking and the development of neurodegenerative disorders such as Parkinson's disease, and in some studies, Alzheimer's disease. These findings have been attributed to the ability of nicotine to act as a neuroprotective agent. A large number of studies demonstrate that nicotine can protect against neuronal death in vitro and in vivo, and the mechanisms underlying the ability of nicotine to protect against excitotoxicity and amyloid-? toxicity are beginning to be elucidated. Despite the compelling evidence that nicotine is neuroprotective, it is clear that nicotine can be toxic under some circumstances. The balance between nicotine neuroprotection and toxicity depends on dose, developmental stage and regimen of administration. Therefore, a full understanding of the molecular and cellular effects of nicotine on signaling pathways relevant to neuronal survival is critical for informed drug discovery of nicotinic compounds to combat human neurodegeneration. This review summarizes recent studies related to the mechanisms underlying nicotine-mediated neuroprotection, and addresses issues that are relevant to use of nicotine as a neuroprotective agent in vivo.",
+  "type": "academic",
+  "pdf_url": "https://article.imrpress.com/bri/Landmark/articles/pdf/Landmark2695.pdf"
+}

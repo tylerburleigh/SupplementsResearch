@@ -1,0 +1,42 @@
+45	2	Keywords
+48	2	Open Access
+49	2	Edited By
+52	2	Reviewed By
+63	2	Citation
+73	2	Copyright
+93	2	1. Introduction
+176	2	2. Materials and methods
+180	3	2.1. Subjects
+181	4	2.1.1. Sample size
+197	4	2.1.2. Inclusion and exclusion criteria
+220	4	2.1.3. Ethical concerns
+230	4	2.1.4. Intervention groups
+254	3	2.2. Procedures
+259	4	2.2.1. Clinical and dietary-nutritional anamnesis
+276	4	2.2.2. Anthropometric assessment
+306	4	2.2.3. Dietary plan
+332	5	2.2.3.1. Dietary plan based on the Mediterranean diet
+338	5	2.2.3.2. Mediterranean dietary plan supplemented with
+362	5	2.2.3.3. Nutritional supplementation with NR and PTER
+407	2	Dri
+425	4	2.2.4. ALSFRS-R test
+431	4	2.2.5. Monitoring
+443	3	2.3. Statistical analysis
+460	2	3. Results
+461	3	3.1. Demographic and clinical
+493	3	3.2. Effect of nutritional intervention on
+495	4	3.2.1. Analysis of weight, fat mass, and muscle
+513	2	Dri
+537	4	3.2.2. Anthropometric skinfold variation analysis
+555	4	3.2.3. Analysis of variation of body perimeters,
+578	2	4. Discussion
+812	2	Whi
+818	2	Whr
+835	2	5. Conclusion
+855	2	Author Contributions
+869	2	Acknowledgments
+885	2	References
+931	2	16. Carvalho JCT, Fernandes CP , Daleprane JB, Alves MS, Stien D, Dhammika
+1035	2	50. Romero-Corral A, Somers VK, Sierra-Johnson J, Thomas RJ, Collazo-Clavell ML,
+1040	2	52. Boghossian NS, Y eung EH, Mumford SL, Zhang C, Gaskins AJ, Wactawski-Wende
+1107	2	72. Jin-Yue L, Xiao-Han S, Zheng-Yi C, Dong-Chao S, Xun-Zhe Y , Ming-Sheng L,

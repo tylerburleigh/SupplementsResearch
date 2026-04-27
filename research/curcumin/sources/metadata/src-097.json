@@ -1,0 +1,21 @@
+{
+  "id": "src-097",
+  "title": "Current trends and challenges in cancer management and therapy using designer nanomaterials",
+  "authors": [
+    "Navya, P. N.",
+    "Kaphle, Anubhav",
+    "Srinivas, Sangly P.",
+    "Bhargava, Suresh K.",
+    "Rotello, Vincent M.",
+    "Daima, Hemant Kumar"
+  ],
+  "doi": "10.1186/s40580-019-0193-2",
+  "url": "https://openalex.org/W2957984348",
+  "provider": "openalex",
+  "year": 2019,
+  "venue": "Nano Convergence",
+  "citation_count": 662,
+  "abstract": "Nanotechnology has the potential to circumvent several drawbacks of conventional therapeutic formulations. In fact, significant strides have been made towards the application of engineered nanomaterials for the treatment of cancer with high specificity, sensitivity and efficacy. Tailor-made nanomaterials functionalized with specific ligands can target cancer cells in a predictable manner and deliver encapsulated payloads effectively. Moreover, nanomaterials can also be designed for increased drug loading, improved half-life in the body, controlled release, and selective distribution by modifying their composition, size, morphology, and surface chemistry. To date, polymeric nanomaterials, metallic nanoparticles, carbon-based materials, liposomes, and dendrimers have been developed as smart drug delivery systems for cancer treatment, demonstrating enhanced pharmacokinetic and pharmacodynamic profiles over conventional formulations due to their nanoscale size and unique physicochemical characteristics. The data present in the literature suggest that nanotechnology will provide next-generation platforms for cancer management and anticancer therapy. Therefore, in this critical review, we summarize a range of nanomaterials which are currently being employed for anticancer therapies and discuss the fundamental role of their physicochemical properties in cancer management. We further elaborate on the topical progress made to date toward nanomaterial engineering for cancer therapy, including current strategies for drug targeting and release for efficient cancer administration. We also discuss issues of nanotoxicity, which is an often-neglected feature of nanotechnology. Finally, we attempt to summarize the current challenges in nanotherapeutics and provide an outlook on the future of this important field.",
+  "type": "academic",
+  "pdf_url": "https://nanoconvergencejournal.springeropen.com/track/pdf/10.1186/s40580-019-0193-2"
+}

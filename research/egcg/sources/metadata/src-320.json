@@ -1,0 +1,22 @@
+{
+  "id": "src-320",
+  "title": "Fully synthetic, nature-inspired exosome-mimetics for melanoma therapy.",
+  "authors": [
+    "Ozturk, Nahide Zeren Arda",
+    "Majchrzak, Oliwia",
+    "Ulivi, Gianluca",
+    "Kırmızıbayrak, P. B.",
+    "Borchard, G.",
+    "Patrulea, Viorica",
+    "Ozer, O."
+  ],
+  "doi": "10.1016/j.ijpharm.2026.126715",
+  "url": "https://www.semanticscholar.org/paper/5ec1f01ca483c947f8e147273b1ca6f1326d912e",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "International journal of pharmaceutics",
+  "citation_count": 0,
+  "abstract": "Fully synthetic exosome-mimetics (FSEMs) represent a nature-inspired drug delivery system designed to replicate the key physicochemical and biological properties of natural exosomes, while offering the potential to address limitations in scalability and reproducibility associated with natural exosomes. In this study, we prepared FSEMs at the laboratory scale. We loaded them with (-)-epigallocatechin-3-gallate (EGCG) and microRNA-23a (miR-23a), aiming to co-deliver therapeutic small molecules and nucleic acids for the treatment of melanoma. FSEMs were fabricated using three methods: thin-film hydration, ethanol injection, and microfluidics. They were surface-functionalized with either CD9, a tetraspanin involved in membrane fusion, or TSP-1, an adhesion protein promoting cellular interactions. Through physicochemical characterization via dynamic light scattering, we found that FSEMs were ∼ 100 nm in size, of low polydispersity (∼0.2) and showed a negative zeta potential (∼-55 mV). Both EGCG and miR-23a were efficiently encapsulated. SDS-PAGE analysis confirmed successful protein incorporation and correct positioning. In vitro release studies showed minimal premature leakage, supporting their suitability for cellular uptake-mediated delivery. When tested on melanoma cells (MDA-MB-435) and progenitor human dermal fibroblasts (FE002-SK2), FSEMs selectively killed melanoma cells while sparing fibroblasts. Importantly, EGCG within FSEMs was more effective than the free compound. Compared to conventional DOTAP-based liposomes, FSEMs were more selective and induced less off-target cytotoxicity. This study presents a proof-of-concept for fully synthetic, protein-functionalized FSEMs as dual carriers for both chemical and gene-based agents, offering a safer and potentially more effective alternative to traditional cationic liposomes. These results lay the groundwork for future in vivo validation and translational cancer research.",
+  "type": "academic",
+  "pdf_url": ""
+}

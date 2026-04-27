@@ -1,0 +1,18 @@
+{
+  "id": "src-436",
+  "title": "Researching New Drug Combinations with Senolytic Activity Using Senescent Human Lung Fibroblasts MRC-5 Cell Line",
+  "authors": [
+    "Godoy, Maria Carolina Ximenes de",
+    "Macedo, Juliana Alves",
+    "Gambero, Alessandra"
+  ],
+  "doi": "10.3390/ph17010070",
+  "url": "https://openalex.org/W4390581986",
+  "provider": "openalex",
+  "year": 2024,
+  "venue": "Pharmaceuticals",
+  "citation_count": 12,
+  "abstract": "Therapeutically targeting senescent cells seems to be an interesting perspective in treating chronic lung diseases, which are often associated with human aging. The combination of the drug dasatinib and the polyphenol quercetin is used in clinical trials as a senolytic, and the first results point to the relief of physical dysfunction in patients with idiopathic pulmonary fibrosis. In this work, we tested new combinations of drugs and polyphenols, looking for senolytic activity using human lung fibroblasts (MRC-5 cell line) with induced senescence. We researched drugs, such as azithromycin, rapamycin, metformin, FK-506, aspirin, and dasatinib combined with nine natural polyphenols, namely caffeic acid, chlorogenic acid, ellagic acid, ferulic acid, gallic acid, epicatechin, hesperidin, quercetin, and resveratrol. We found new effective senolytic combinations with dasatinib and ellagic acid and dasatinib and resveratrol. Both drug combinations increased apoptosis, reduced BCL-2 expression, and increased caspase activity in senescent MRC-5 cells. Ellagic acid senolytic activity was more potent than quercetin, and resveratrol counteracted inflammatory cytokine release during senolysis in vitro. In conclusion, dasatinib and ellagic acid and dasatinib and resveratrol present in vitro senolytic potential like that observed for the combination in clinical trials of dasatinib and quercetin, and maybe they could be future alternatives in the senotherapeutic field.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/1424-8247/17/1/70/pdf?version=1704339003"
+}

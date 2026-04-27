@@ -1,0 +1,20 @@
+{
+  "id": "src-147",
+  "title": "Nicotinamide Mononucleotide: A Promising Molecule for Therapy of Diverse Diseases by Targeting NAD+ Metabolism",
+  "authors": [
+    "Hong, Weiqi",
+    "Mo, Fei",
+    "Zhang, Ziqi",
+    "Huang, Mengyuan",
+    "Wei, Xiawei"
+  ],
+  "doi": "10.3389/fcell.2020.00246",
+  "url": "https://openalex.org/W3023781577",
+  "provider": "openalex",
+  "year": 2020,
+  "venue": "Frontiers in Cell and Developmental Biology",
+  "citation_count": 172,
+  "abstract": "NAD+, a co-enzyme involved in a great deal of biochemical reactions, has been found to be a network node of diverse biological processes. In mammalian cells, NAD+ is synthetized, predominantly through NMN, to replenish the consumption by NADase participating in physiologic processes including DNA repair, metabolism, and cell death. Correspondingly, aberrant NAD+ metabolism is observed in many diseases. In this review, we discuss how the homeostasis of NAD+ is maintained in healthy condition and provide several age-related pathological examples related with NAD+ unbalance. The sirtuins family, whose functions are NAD-dependent, is also reviewed. Administration of NMN surprisingly demonstrated amelioration of the pathological conditions in some age-related disease mouse models. Further clinical trials have been launched to investigate the safety and benefits of NMN. The NAD+ production and consumption pathways including NMN are essential for more precise understanding and therapy of age-related pathological processes such as diabetes, ischemia-reperfusion injury, heart failure, Alzheimer's disease, and retinal degeneration.",
+  "type": "academic",
+  "pdf_url": "https://www.frontiersin.org/articles/10.3389/fcell.2020.00246/pdf"
+}

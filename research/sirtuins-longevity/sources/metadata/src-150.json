@@ -1,0 +1,18 @@
+{
+  "id": "src-150",
+  "title": "Safety and Metabolism of Long-term Administration of NIAGEN (Nicotinamide Riboside Chloride) in a Randomized, Double-Blind, Placebo-controlled Clinical Trial of Healthy Overweight Adults",
+  "authors": [
+    "Conze, Dietrich B.",
+    "Brenner, Charles",
+    "Kruger, Claire"
+  ],
+  "doi": "10.1038/s41598-019-46120-z",
+  "url": "https://openalex.org/W2954411572",
+  "provider": "openalex",
+  "year": 2019,
+  "venue": "Scientific Reports",
+  "citation_count": 206,
+  "abstract": "Nicotinamide riboside (NR) is a newly discovered nicotinamide adenine dinucleotide (NAD<sup>+</sup>) precursor vitamin. A crystal form of NR chloride termed NIAGEN is generally recognized as safe (GRAS) for use in foods and the subject of two New Dietary Ingredient Notifications for use in dietary supplements. To evaluate the kinetics and dose-dependency of NR oral availability and safety in overweight, but otherwise healthy men and women, an 8-week randomized, double-blind, placebo-controlled clinical trial was conducted. Consumption of 100, 300 and 1000 mg NR dose-dependently and significantly increased whole blood NAD<sup>+</sup> (i.e., 22%, 51% and 142%) and other NAD<sup>+</sup> metabolites within 2 weeks. The increases were maintained throughout the remainder of the study. There were no reports of flushing and no significant differences in adverse events between the NR and placebo-treated groups or between groups at different NR doses. NR also did not elevate low density lipoprotein cholesterol or dysregulate 1-carbon metabolism. Together these data support the development of a tolerable upper intake limit for NR based on human data.",
+  "type": "academic",
+  "pdf_url": "https://www.nature.com/articles/s41598-019-46120-z.pdf"
+}

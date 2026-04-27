@@ -1,0 +1,20 @@
+{
+  "id": "src-384",
+  "title": "Systematic and comprehensive insights into HIF-1 stabilization under normoxic conditions: implications for cellular adaptation and therapeutic strategies in cancer",
+  "authors": [
+    "Zhang, Jiayi",
+    "Yao, Mingxuan",
+    "Xia, Shiting",
+    "Zeng, Fancai",
+    "Liu, Qiuyu"
+  ],
+  "doi": "10.1186/s11658-024-00682-7",
+  "url": "https://openalex.org/W4406081101",
+  "provider": "openalex",
+  "year": 2025,
+  "venue": "Cellular & Molecular Biology Letters",
+  "citation_count": 80,
+  "abstract": "Hypoxia-inducible factors (HIFs) are essential transcription factors that orchestrate cellular responses to oxygen deprivation. HIF-1α, as an unstable subunit of HIF-1, is usually hydroxylated by prolyl hydroxylase domain enzymes under normoxic conditions, leading to ubiquitination and proteasomal degradation, thereby keeping low levels. Instead of hypoxia, sometimes even in normoxia, HIF-1α translocates into the nucleus, dimerizes with HIF-1β to generate HIF-1, and then activates genes involved in adaptive responses such as angiogenesis, metabolic reprogramming, and cellular survival, which presents new challenges and insights into its role in cellular processes. Thus, the review delves into the mechanisms by which HIF-1 maintains its stability under normoxia including but not limited to giving insights into transcriptional, translational, as well as posttranslational regulation to underscore the pivotal role of HIF-1 in cellular adaptation and malignancy. Moreover, HIF-1 is extensively involved in cancer and cardiovascular diseases and potentially serves as a bridge between them. An overview of HIF-1-related drugs that are approved or in clinical trials is summarized, highlighting their potential capacity for targeting HIF-1 in cancer and cardiovascular toxicity related to cancer treatment. The review provides a comprehensive insight into HIF-1's regulatory mechanism and paves the way for future research and therapeutic development.",
+  "type": "academic",
+  "pdf_url": "https://cmbl.biomedcentral.com/counter/pdf/10.1186/s11658-024-00682-7"
+}

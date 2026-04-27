@@ -1,0 +1,20 @@
+{
+  "id": "src-287",
+  "title": "Glucagon-Like Peptide-1 Analogs Associated with a Reduced Risk of Legal Blindness in Type 2 Diabetics with Cardiovascular Risks.",
+  "authors": [
+    "Jarrett, Ethan",
+    "Muayad, Jawad",
+    "Ryu, Byoung U",
+    "Lee, Andrew G",
+    "Gupta, Praveena K"
+  ],
+  "doi": "10.2147/opth.s581826",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41907810",
+  "provider": "pubmed",
+  "year": 2026,
+  "venue": "Clinical ophthalmology (Auckland, N.Z.)",
+  "citation_count": 0,
+  "abstract": "PURPOSE: To evaluate whether glucagon-like peptide-1 receptor agonist (GLP-1 RA) therapy influences the risk of legal blindness and ischemic optic neuropathy (ION) among patients with type 2 diabetes mellitus (T2DM) and cardiovascular risk factors (CVRF).\nDESIGN: A retrospective cohort study using de-identified electronic medical record (EMR) data from TriNetX, encompassing 72 healthcare organizations across the United States between January 2018 and January 2025.\nPARTICIPANTS: Adults (≥18 years) with T2DM (A1c <10%) and at least one CVRF (hyperlipidemia, essential hypertension, overweight/obesity, or chronic ischemic heart disease) who were prescribed or not prescribed a GLP-1 RA.\nMETHODS: Patients with type 1 diabetes, optic neuritis, giant cell arteritis, or phosphodiesterase-5 inhibitor use were excluded. GLP-1 RA users were required to have ≥2 prescription records. A 1:1 propensity score matching (PSM) was performed to balance demographics, comorbidities, laboratory values, and concurrent antidiabetic medications. Outcomes were assessed at 1-, 3-, and 5-year follow-ups. Hazard ratios (HR) with 95% confidence intervals (CI) were calculated using univariable survival analyses.\nMAIN OUTCOME MEASURES: Incidence of legal blindness and ischemic optic neuropathy.\nRESULTS: After PSM, each cohort included 350,536 patients (mean age 58.7 ± 12.6 years; 61.6% female). GLP-1 RA use was associated with a significantly reduced risk of legal blindness at 1 year (HR 0.589, 95% CI 0.476-0.728), 3 years (HR 0.677, 95% CI 0.583-0.788), and 5 years (HR 0.669, 95% CI 0.583-0.768). There was no significant difference in ION incidence between cohorts at 1 year (HR 0.872, 95% CI 0.627-1.212), 3 years (HR 1.002, 95% CI 0.792-1.268), or 5 years (HR 0.978, 95% CI 0.789-1.211).\nCONCLUSION: GLP-1 receptor agonist therapy was associated with a significantly lower risk of legal blindness and no difference in ION incidence. These findings indicate potential ocular benefits of GLP-1 RAs beyond glycemic and cardiovascular outcomes.",
+  "type": "academic",
+  "pdf_url": ""
+}

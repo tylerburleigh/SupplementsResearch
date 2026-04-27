@@ -1,0 +1,30 @@
+{
+  "id": "src-046",
+  "title": "Effects of Vitamin D3 and Marine Omega-3 Fatty Acids Supplementation on Indicated and Selective Prevention of Depression in Older Adults: Results From the Clinical Center Sub-Cohort of the VITamin D and OmegA-3 TriaL (VITAL).",
+  "authors": [
+    "Vyas, Chirag M.",
+    "Mischoulon, D.",
+    "Chang, Grace",
+    "Cook, N.",
+    "Weinberg, Alison",
+    "Copeland, T.",
+    "Kang, J. H.",
+    "Bubes, V.",
+    "Friedenberg, G.",
+    "LeBoff, M.",
+    "Lee, I.",
+    "Buring, J.",
+    "Manson, J.",
+    "Reynolds, C. F.",
+    "Okereke, O."
+  ],
+  "doi": "10.4088/jcp.22m14629",
+  "url": "https://www.semanticscholar.org/paper/e6d32d37ef5a10a51f834acff68c808ee73aee3c",
+  "provider": "semantic_scholar",
+  "year": 2023,
+  "venue": "Journal of Clinical Psychiatry",
+  "citation_count": 9,
+  "abstract": "Objective: To test vitamin D3 and omega-3 fatty acids (omega-3s) for late-life depression prevention under the National Academy of Medicine framework for indicated (targeting subthreshold depression) and selective (targeting presence of high-risk factors) prevention.\nMethods: The VITamin D and OmegA-3 TriaL (VITAL) is a 2 × 2 factorial trial of vitamin D3 (2,000 IU/d) and/or omega-3s (1 g/d) for cardiovascular and cancer prevention (enrollment: November 2011-March 2014; end date: December 31, 2017). In this targeted prevention study, we included 720 VITAL clinical sub-cohort participants who completed neurobehavioral assessments at baseline and 2 years (91.9% retention). High-risk factors were subthreshold or clinical anxiety, impaired activities of daily living, physical/functional limitation, medical comorbidity, cognitive impairment, caregiving burden, problem drinking, and low psychosocial support. Coprimary outcomes were incident major depressive disorder (MDD), adjudicated using DSM-IV (Diagnostic and Statistical Manual of Mental Disorders, Fourth Edition), and change in mood (Patient Health Questionnaire-9 [PHQ-9]). We used exact tests to determine treatment effects on MDD incidence and repeated-measures models to determine treatment effects on PHQ-9.\nResults: A total of 11.1% had subthreshold depression, 60.8% had ≥ 1 high-risk factor, MDD incidence was 4.7% (5.1% among completers), and mean PHQ-9 score change was 0.02 points. Among those with subthreshold depression, the MDD risk ratio (95% confidence interval) was 0.36 (0.06 to 1.28) for vitamin D3 and 0.85 (0.25 to 2.92) for omega-3s, compared to placebo; results were also null among those with ≥ 1 high-risk factor (vitamin D3 vs placebo: 0.63 [0.25 to 1.53]; omega-3s vs placebo: 1.08 [0.46 to 2.71]). There were no significant differences in PHQ-9 score change comparing either supplement with placebo.\nConclusions: Neither vitamin D3 nor omega-3s showed benefits for indicated and selective prevention of late-life depression; statistical power was limited.\nTrial Registration: ClinicalTrials.gov identifier: NCT01696435.",
+  "type": "academic",
+  "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10328718"
+}

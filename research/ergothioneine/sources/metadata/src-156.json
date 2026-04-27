@@ -1,0 +1,26 @@
+{
+  "id": "src-156",
+  "title": "Functional genetic variation in the basal promoter of the organic cation/carnitine transporters OCTN1 (SLC22A4) and OCTN2 (SLC22A5).",
+  "authors": [
+    "Tahara, Harunobu",
+    "Yee, Sook Wah",
+    "Urban, Thomas J",
+    "Hesselson, Stephanie",
+    "Castro, Richard A",
+    "Kawamoto, Michiko",
+    "Stryke, Doug",
+    "Johns, Susan J",
+    "Ferrin, Thomas E",
+    "Kwok, Pui-Yan",
+    "Giacomini, Kathleen M"
+  ],
+  "doi": "10.1124/jpet.108.146449",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/19141711",
+  "provider": "pubmed",
+  "year": 2009,
+  "venue": "The Journal of pharmacology and experimental therapeutics",
+  "citation_count": 0,
+  "abstract": "The organic cation/ergothioneine transporter OCTN1 (SLC22A4) and the high-affinity carnitine transporter OCTN2 (SLC22A5), play an important role in the disposition of xenobiotics and endogenous compounds. Here, we analyzed the sequence of the proximal promoter regions of OCTN1 and OCTN2 in four ethnic groups and determined the effects of the identified genetic variants on transcriptional activities and mRNA expression. Six variants were found in the proximal promoter of OCTN1, one of which showed high allele frequency ranging from 13 to 34% in samples from individuals with ancestries in Africa, Europe, China, and Mexico. OCTN1 haplotypes had similar activities as the reference in luciferase reporter assays. For OCTN2, three of the seven variants identified in the proximal promoter showed allele frequencies greater than 29.5% in all populations, with the exception of -207C>G (rs2631367) that was monomorphic in Asian Americans. OCTN2 haplotypes containing -207G, present in all populations, were associated with a gain of function in luciferase reporter assays. Consistent with reporter assays, OCTN2 mRNA expression levels in lymphoblastoid cell lines (LCLs) from gene expression analysis were greater in samples carrying a marker for -207G. This SNP seems to contribute to racial differences in OCTN2 mRNA expression levels in LCLs. Our study with healthy subjects (n = 16) homozygous for either -207C or -207G, showed no appreciable effect of this SNP on carnitine disposition. However, there were significant effects of gender on carnitine plasma levels (p < 0.01). Further in vivo studies of OCTN2 promoter variants on carnitine disposition and variation in drug response are warranted.",
+  "type": "academic",
+  "pdf_url": ""
+}

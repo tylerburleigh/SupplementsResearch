@@ -1,0 +1,27 @@
+{
+  "id": "src-214",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "",
+  "pdf_url": "https://www.house.mn.gov/comm/docs/pUpnUeWG5kOsyKUbthqV1g.pdf",
+  "venue": "",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "",
+  "fetched_at": "2026-04-26T10:52:11.765540+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-214.md",
+  "quality_details": {
+    "content_length": 212665,
+    "alpha_ratio": 0.761,
+    "sentence_count": 2537,
+    "reasons": []
+  }
+}

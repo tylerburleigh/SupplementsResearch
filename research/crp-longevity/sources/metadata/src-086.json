@@ -1,0 +1,42 @@
+{
+  "id": "src-086",
+  "title": "A framework for selection of blood-based biomarkers for geroscience-guided clinical trials: report from the TAME Biomarkers Workgroup",
+  "authors": [
+    "Justice, Jamie N.",
+    "Ferrucci, Luigi",
+    "Newman, Anne B.",
+    "Aroda, Vanita R.",
+    "Bahnson, Judy L.",
+    "Divers, Jasmin",
+    "Espeland, Mark A.",
+    "Marcovina, Santica",
+    "Pollak, Michael N.",
+    "Kritchevsky, Stephen B.",
+    "Barzilai, Nir",
+    "Kuchel, George A."
+  ],
+  "year": 2018,
+  "abstract": "",
+  "doi": "10.1007/s11357-018-0042-y",
+  "url": "https://doi.org/10.1007/s11357-018-0042-y",
+  "pdf_url": "",
+  "venue": "GeroScience",
+  "citation_count": 294,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-24T01:08:54.304048+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-086.md",
+  "quality_details": {
+    "content_length": 50504,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

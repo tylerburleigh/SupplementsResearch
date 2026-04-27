@@ -1,0 +1,19 @@
+54	2	1. Vascular Smooth Muscle Cells
+159	2	2. Cardiovascular Diseases Associated with VSMCs Phenotypic Switching
+160	3	2.1. Atherosclerosis
+232	2	Smmhc
+238	2	Smmhc
+248	2	Smmhc
+298	3	2.2. Intimal Hyperplasia and Restenosis
+399	2	Smmhc
+408	2	Smmhc
+423	2	Smmhc
+451	3	2.3. Aortic Aneurysms
+500	2	Smmhc
+529	2	Aaa
+542	2	Smmhc
+575	2	Smmhc
+588	2	Smmhc
+695	2	Alp
+722	2	3. Conclusions and Perspectives
+750	2	References

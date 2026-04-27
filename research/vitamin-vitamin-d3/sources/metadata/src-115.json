@@ -1,0 +1,16 @@
+{
+  "id": "src-115",
+  "title": "Dietary reference values for vitamin D",
+  "authors": [
+    "EFSA Panel on Dietetic Products, Nutrition and Allergies (NDA)"
+  ],
+  "doi": "10.2903/j.efsa.2016.4547",
+  "url": "https://openalex.org/W4211159365",
+  "provider": "openalex",
+  "year": 2016,
+  "venue": "EFSA Journal",
+  "citation_count": 296,
+  "abstract": "Following a request from the European Commission, the EFSA Panel on Dietetic Products, Nutrition and Allergies (NDA) derived dietary reference values (DRVs) for vitamin D. The Panel considers that serum 25(OH)D concentration, which reflects the amount of vitamin D attained from both cutaneous synthesis and dietary sources, can be used as a biomarker of vitamin D status in adult and children populations. The Panel notes that the evidence on the relationship between serum 25(OH)D concentration and musculoskeletal health outcomes in adults, infants and children, and adverse pregnancy-related health outcomes, is widely variable. The Panel considers that Average Requirements and Population Reference Intakes for vitamin D cannot be derived, and therefore defines adequate intakes (AIs), for all population groups. Taking into account the overall evidence and uncertainties, the Panel considers that a serum 25(OH)D concentration of 50 nmol/L is a suitable target value for all population groups, in view of setting the AIs. For adults, an AI for vitamin D is set at 15 μg/day, based on a meta-regression analysis and considering that, at this intake, the majority of the population will achieve a serum 25(OH)D concentration near or above the target of 50 nmol/L. For children aged 1–17 years, an AI for vitamin D is set at 15 μg/day, based on the meta-regression analysis. For infants aged 7–11 months, an AI for vitamin D is set at 10 μg/day, based on trials in infants. For pregnant and lactating women, the Panel sets the same AI as for non-pregnant non-lactating women, i.e. 15 μg/day. The Panel underlines that the meta-regression was done on data collected under conditions of assumed minimal cutaneous vitamin D synthesis. In the presence of cutaneous vitamin D synthesis, the requirement for dietary vitamin D is lower or may even be zero.",
+  "type": "academic",
+  "pdf_url": "https://efsa.onlinelibrary.wiley.com/doi/pdfdirect/10.2903/j.efsa.2016.4547"
+}

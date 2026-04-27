@@ -1,0 +1,23 @@
+{
+  "id": "src-287",
+  "title": "T‐CLASS: An Online Tool for the Identification and Classification of Aging and Senescence Using Transcriptome Data",
+  "authors": [
+    "Lee, Seung-Chul J",
+    "Lee, Gee-Yoon",
+    "Kim, Sieun S",
+    "Bae, Yunkyu",
+    "Ham, Seokjin",
+    "Sohn, Jooyeon",
+    "Han, S.",
+    "Lee, Seung-Jae V."
+  ],
+  "doi": "10.1111/acel.70193",
+  "url": "https://www.semanticscholar.org/paper/2468b2926f7e57e29a32156c31c37d2c4858bdaf",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "Aging Cell",
+  "citation_count": 1,
+  "abstract": "Transcriptome analysis has become increasingly utilized in aging research. However, the identification of the key molecular changes underlying aging processes and longevity‐promoting regimens from transcriptome data remains challenging. Here, we present Transcriptomic CLassification via Adaptive learning of Signature States (T‐CLASS), an online tool that identifies, from transcriptome data, gene sets of several hundred genes that provide an optimal representation of longevity and aging paradigms. We systematically evaluated the effectiveness of T‐CLASS with diverse datasets, including longevity‐promoting regimens in Caenorhabditis elegans, cellular senescence by different means in both cultured mouse primary cells and cultured human cells, and human sarcopenia. We found that T‐CLASS exhibited robust and high classification performance across datasets compared to preexisting machine/deep learning‐based gene selection tools. By focusing our further analysis on longevity‐promoting regimens in C. elegans, we showed that T‐CLASS successfully classified transcriptomic changes caused by ten lifespan‐extending small molecules, among which we experimentally validated the effect of rifampicin and atracurium as a proof of principle. Overall, T‐CLASS is an effective and practical tool for uncovering and classifying physiological changes caused by genetic and pharmacological interventions that affect aging.",
+  "type": "academic",
+  "pdf_url": ""
+}

@@ -1,0 +1,17 @@
+{
+  "id": "src-162",
+  "title": "RNA and Oxidative Stress in Alzheimer’s Disease: Focus on microRNAs",
+  "authors": [
+    "Nunomura, Akihiko",
+    "Perry, George"
+  ],
+  "doi": "10.1155/2020/2638130",
+  "url": "https://openalex.org/W3107393058",
+  "provider": "openalex",
+  "year": 2020,
+  "venue": "Oxidative Medicine and Cellular Longevity",
+  "citation_count": 106,
+  "abstract": "Oxidative stress (OS) is one of the major pathomechanisms of Alzheimer's disease (AD), which is closely associated with other key events in neurodegeneration such as mitochondrial dysfunction, inflammation, metal dysregulation, and protein misfolding. Oxidized RNAs are identified in brains of AD patients at the prodromal stage. Indeed, oxidized mRNA, rRNA, and tRNA lead to retarded or aberrant protein synthesis. OS interferes with not only these translational machineries but also regulatory mechanisms of noncoding RNAs, especially microRNAs (miRNAs). MiRNAs can be oxidized, which causes misrecognizing target mRNAs. Moreover, OS affects the expression of multiple miRNAs, and conversely, miRNAs regulate many genes involved in the OS response. Intriguingly, several miRNAs embedded in upstream regulators or downstream targets of OS are involved also in neurodegenerative pathways in AD. Specifically, seven upregulated miRNAs (miR-125b, miR-146a, miR-200c, miR-26b, miR-30e, miR-34a, miR-34c) and three downregulated miRNAs (miR-107, miR-210, miR-485), all of which are associated with OS, are found in vulnerable brain regions of AD at the prodromal stage. Growing evidence suggests that altered miRNAs may serve as targets for developing diagnostic or therapeutic tools for early-stage AD. Focusing on a neuroprotective transcriptional repressor, REST, and the concept of hormesis that are relevant to the OS response may provide clues to help us understand the role of the miRNA system in cellular and organismal adaptive mechanisms to OS.",
+  "type": "academic",
+  "pdf_url": "https://downloads.hindawi.com/journals/omcl/2020/2638130.pdf"
+}

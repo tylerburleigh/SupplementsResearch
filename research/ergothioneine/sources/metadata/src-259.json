@@ -1,0 +1,27 @@
+{
+  "id": "src-259",
+  "title": "Involvement of carnitine/organic cation transporter OCTN1/SLC22A4 in gastrointestinal absorption of metformin.",
+  "authors": [
+    "Nakamichi, Noritaka",
+    "Shima, Hiroyo",
+    "Asano, Satoshi",
+    "Ishimoto, Takahiro",
+    "Sugiura, Tomoko",
+    "Matsubara, Kazuki",
+    "Kusuhara, Hiroyuki",
+    "Sugiyama, Yuichi",
+    "Sai, Yoshimichi",
+    "Miyamoto, Ken-Ichi",
+    "Tsuji, Akira",
+    "Kato, Yukio"
+  ],
+  "doi": "10.1002/jps.23595",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/23666872",
+  "provider": "pubmed",
+  "year": 2013,
+  "venue": "Journal of pharmaceutical sciences",
+  "citation_count": 0,
+  "abstract": "Metformin is a widely used oral anti-diabetic, but the molecular mechanism(s) of its gastrointestinal membrane permeation remains unclear. Here, we examined the role of carnitine/organic cation transporter OCTN1/SLC22A4, which is localized on apical membranes of small intestine in mice and humans, in metformin absorption. The maximum plasma concentration (Cmax ) after oral administration of metformin (50 mg/kg) in octn1 gene knockout mice (octn1 (-/-) ) was higher than that in wild-type mice, with only a minimal difference in terminal half-life, but Cmax in octn1(-/-) mice given a higher dose (175 mg/kg) was lower than that in wild-type mice. Systemic elimination of metformin after intravenous administration was similar in the two strains, suggesting the possible involvement of OCTN1 in the gastrointestinal absorption. OCTN1-mediated uptake of metformin was observed in human embryonic kidney 293 cells transfected with mouse OCTN1 gene, but much lower than the uptake of the typical substrate [(3) H]ergothioneine (ERGO). In particular, the distribution volume for OCTN1-mediated uptake increased markedly and then tended to decrease as the metformin concentration was increased. Efflux of metformin preloaded in intestinal epithelial cell line Caco-2 was inhibited by ERGO. Overall, the present findings suggest that OCTN1 transports metformin and may be involved in its oral absorption in small intestine.",
+  "type": "academic",
+  "pdf_url": ""
+}

@@ -1,0 +1,33 @@
+{
+  "id": "src-131",
+  "title": "Vitamin D and cardiovascular disease prevention",
+  "authors": [
+    "Pilz, Stefan",
+    "Verheyen, Nicolas",
+    "Grübler, Martin R.",
+    "Tomaschitz, Andreas",
+    "März, Winfried"
+  ],
+  "year": 2016,
+  "abstract": "",
+  "doi": "10.1038/nrcardio.2016.73",
+  "url": "https://doi.org/10.1038/nrcardio.2016.73",
+  "pdf_url": "",
+  "venue": "Nature Reviews Cardiology",
+  "citation_count": 277,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T21:23:00.455462+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-131.md",
+  "quality_details": {
+    "content_length": 100513,
+    "alpha_ratio": 0.71,
+    "sentence_count": 1724,
+    "reasons": []
+  }
+}

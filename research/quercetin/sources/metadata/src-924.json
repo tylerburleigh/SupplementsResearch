@@ -1,0 +1,20 @@
+{
+  "id": "src-924",
+  "title": "Combination of High-Dose Parenteral Ascorbate (Vitamin C) and Alpha-Lipoic Acid Failed to Enhance Tumor-Inhibitory Effect But Increased Toxicity in Preclinical Cancer Models",
+  "authors": [
+    "Chen, Ping",
+    "Lamson, Davis",
+    "Anderson, Paul",
+    "Drisko, J.",
+    "Chen, Qi"
+  ],
+  "doi": "10.1177/11795549241283421",
+  "url": "https://www.semanticscholar.org/paper/612c8b403ebe4d718b2e8aa79519b1c5bf96098f",
+  "provider": "semantic_scholar",
+  "year": 2024,
+  "venue": "Clinical Medicine Insights: Oncology",
+  "citation_count": 2,
+  "abstract": "Background: Intravenous vitamin C (IVC, ascorbate [Asc]) and alpha-lipoic acid (ALA) are frequently coadministered in integrative oncology clinics, with limited understanding of combination effects or drug-drug interactions. As high-dose IVC has anticancer activity through peroxide (H2O2), it is hypothesized that IV ALA, a thiol antioxidant, might have untoward effects when combined with IVC. Methods: In vitro combination index (CI) was investigated in 6 types of human cancer cells, using clinically relevant concentrations of Asc (0.625-20 mM) and ALA (0.25, 0.5, and 1 mM) evaluated by nonconstant ratio metrics. Cellular H2O2 was measured using HeLa cells expressing a fluorescent probe HyPer. Mouse xenografts of the metastatic breast cancer MDA-MB-231 were treated with intraperitoneal injections of ALA (10, 20, and 50 mg/kg) and Asc (0.2, 0.5, and 4 g/kg) at various dose levels. Results: Cancer cell lines were sensitive to Asc treatment but not to ALA. There is no evidence ALA becomes a prooxidant at higher doses. The CIs showed a mixture of synergistic and antagonistic effects with different ALA and Asc combination ratios, with a “U” shape response to Asc concentrations. The ALA concentrations did not influence the CIs or cellular H2O2 formation. Adding ALA to Asc dampened the increase of H2O2. Toxicity was observed in mice receiving prolonged treatment of ALA at all doses. The Asc at all doses was nontoxic. The combination of ALA and Asc increased toxicity. The ALA at all doses did not inhibit tumor growth. The Asc at 4 g/kg inhibited tumor growth. Adding ALA 50 mg/kg to Asc 4 g/kg did not enhance the effect, but lower doses of ALA (10 or 20 mg/kg) dampened the inhibitory effect of Asc. Conclusions: These data do not support the concurrent or relative concurrent use of high-dose intravenous ALA with prooxidative high-dose IVC in clinical oncology care with potentially increased toxicity.",
+  "type": "academic",
+  "pdf_url": ""
+}

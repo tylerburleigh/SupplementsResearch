@@ -1,0 +1,21 @@
+{
+  "id": "src-195",
+  "title": "Experimental granulomatous colitis in mice is abrogated by induction of TGF-beta-mediated oral tolerance.",
+  "authors": [
+    "Neurath, Markus F.",
+    "Fuss, Ivan J.",
+    "Kelsall, Brian L.",
+    "Presky, David H.",
+    "Waegell, Wendy",
+    "Strober, Warren"
+  ],
+  "doi": "10.1084/jem.183.6.2605",
+  "url": "https://openalex.org/W2165885428",
+  "provider": "openalex",
+  "year": 1996,
+  "venue": "The Journal of Experimental Medicine",
+  "citation_count": 434,
+  "abstract": "In previous studies we showed that a chronic colitis associated with a Th1 T cell response can be induced by the rectal administration of the haptenizing reagent 2,4,6-trinitrobenzene sulfonic acid (TNBS). We report here that oral administration of haptenized colonic proteins (HCP) before rectal administration of TNBS effectively suppresses the ability of the latter to induce colitis. This suppression (oral tolerance) appears to be due to the generation of mucosal T cells producing TGF-beta and Th2-type cytokines after oral HCP administration. Peyer's patch and lamina propria CD4+ T cells from HCP-fed animals stimulated with anti-CD3/anti-CD28 had a 5-10-fold increase in their production of TGF-beta and secreted increased amounts of IL-4 and IL-10 but lower levels of IFN-gamma in comparison to T cells from ovalbumin-fed control animals. In addition, the colons of HCP-fed mice showed strikingly increased TGF-beta but decreased IL-12 expression by immunohistochemical studies and isolated mononuclear cells from HCP-fed animals secreted less IL-12 heterodimer. Finally, and most importantly, the suppressive effect of orally administered HCP was abrogated by the concomitant systemic administration of anti-TGF-beta or rIL-12 suggesting a reciprocal relationship between IL-12 and TGF-beta on tolerance induction in TNBS-induced colitis. In parallel studies we demonstrated that TNBS-induced colitis can be transferred to naive recipient animals with purified CD4+ T cells from the colon of TNBS-treated animals and that such animals develop lethal pancolitis when exposed to very low doses of TNBS. Feeding of HCP suppressed this sensitivity to TNBS, indicating that oral feeding can suppress the response of pre-committed T cells in vivo. These studies suggest for the first time that TGF-beta production can abrogate experimental granulomatous colitis even after such colitis is established, and thus, that regulation of TGF-beta levels may have relevance to the treatment of human inflammatory bowel disease.",
+  "type": "academic",
+  "pdf_url": "https://rupress.org/jem/article-pdf/183/6/2605/1108186/2605.pdf"
+}

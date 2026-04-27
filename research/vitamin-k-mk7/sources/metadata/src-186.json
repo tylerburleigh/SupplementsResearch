@@ -1,0 +1,20 @@
+{
+  "id": "src-186",
+  "title": "An investigation into the impact and implications of published papers from retracted research: systematic search of affected literature",
+  "authors": [
+    "Avenell, Alison",
+    "Stewart, Fiona",
+    "Grey, Andrew",
+    "Gamble, Greg",
+    "Bolland, Mark J"
+  ],
+  "doi": "10.1136/bmjopen-2019-031909",
+  "url": "https://openalex.org/W2982331676",
+  "provider": "openalex",
+  "year": 2019,
+  "venue": "BMJ Open",
+  "citation_count": 62,
+  "abstract": "We found evidence that this group of affected trial reports distorted the evidence base. Correction of these distortions is slow, uncoordinated and inconsistent. Unless there is a rapid, systematic, coordinated approach by bibliographic databases, authors, journals and publishers to mitigate the impact of known cases of research misconduct, patients, other researchers and their funders may continue to be adversely affected.",
+  "type": "academic",
+  "pdf_url": "https://bmjopen.bmj.com/content/bmjopen/9/10/e031909.full.pdf"
+}

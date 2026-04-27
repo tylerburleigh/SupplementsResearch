@@ -1,0 +1,21 @@
+{
+  "id": "src-181",
+  "title": "Suppression of SIRT1/FXR signaling pathway contributes to oleanolic acid-induced liver injury.",
+  "authors": [
+    "Liao, Songjie",
+    "Fu, Xiaolong",
+    "Huang, Jianxiang",
+    "Wang, Yi",
+    "Lu, Yuanfu",
+    "Zhou, Shaoyu"
+  ],
+  "doi": "10.1016/j.taap.2023.116509",
+  "url": "https://www.semanticscholar.org/paper/c1a1cf5f237c80d3568376a4f13c99fa154d027e",
+  "provider": "semantic_scholar",
+  "year": 2023,
+  "venue": "Toxicology and Applied Pharmacology",
+  "citation_count": 12,
+  "abstract": "Oleanolic acid (OA) is a pentacyclic triterpenoid compound used clinically for acute and chronic hepatitis. However, high dose or long-term use of OA causes hepatotoxicity, which limits its clinical application. Hepatic Sirtuin (SIRT1) participates in the regulation of FXR signaling and maintains hepatic metabolic homeostasis. This study was designed to determine whether SIRT1/FXR signaling pathway contributes to the hepatotoxicity caused by OA. C57BL/6J mice were administered with OA for 4 consecutive days to induce hepatotoxicity. The results showed that OA suppressed the expression of FXR and its downstream targets CYP7A1, CYP8B1, BSEP and MRP2 at both mRNA and protein levels, breaking the homeostasis of bile acid leading to hepatotoxicity. However, treatment with FXR agonist GW4064 noticeably attenuated hepatotoxicity caused by OA. Furthermore, it was found that OA inhibited protein expression of SIRT1. Activation of SIRT1 by its agonist SRT1720 significantly improved OA-induced hepatotoxicity. Meanwhile, SRT1720 significantly reduced the inhibition of protein expression of FXR and FXR-downstream proteins. These results suggested that OA may cause hepatotoxicity through SIRT1 dependent suppression of FXR signaling pathway. In vitro experiments confirmed that OA suppressed protein expressions of FXR and its targets through inhibition of SIRT1. It was further revealed that silencing of HNF1α with siRNA significantly weakened regulatory effects of SIRT1 on the expression of FXR as well as its target genes. In conclusion, our study reveals that SIRT1/FXR pathway is crucial in OA-induced hepatotoxicity. Activation of SIRT1/HNF1α/FXR axis may represent a novel therapeutic target for ameliorating OA and other herb-induced hepatotoxicity.",
+  "type": "academic",
+  "pdf_url": ""
+}

@@ -1,0 +1,16 @@
+{
+  "id": "src-289",
+  "title": "Scientific Opinion on Dietary Reference Values for water",
+  "authors": [
+    "EFSA Panel on Dietetic Products, Nutrition, and Allergies (NDA)"
+  ],
+  "doi": "10.2903/j.efsa.2010.1459",
+  "url": "https://openalex.org/W2549245522",
+  "provider": "openalex",
+  "year": 2010,
+  "venue": "EFSA Journal",
+  "citation_count": 648,
+  "abstract": "This Opinion of the EFSA Panel on Dietetic Products, Nutrition, and Allergies (NDA) deals with the setting of dietary reference values for water for specific age groups. Adequate Intakes (AI) have been defined derived from a combination of observed intakes in population groups with desirable osmolarity values of urine and desirable water volumes per energy unit consumed. The reference values for total water intake include water from drinking water, beverages of all kind, and from food moisture and only apply to conditions of moderate environmental temperature and moderate physical activity levels (PAL 1.6). AIs for infants in the first half of the first year of life are estimated to be 100–190 mL/kg per day. For infants 6–12 months of age a total water intake of 800 1000 mL/day is considered adequate. For the second year of life an adequate total water intake of 1100 1200 mL/day is defined by interpolation, as intake data are not available. AIs of water for children are estimated to be 1300 mL/day for boys and girls 2–3 years of age; 1600 mL/day for boys and girls 4–8 years of age; 2100 mL/day for boys 9–13 years of age; 1900 mL/day for girls 9–13 years of age. Adolescents of 14 years and older are considered as adults with respect to adequate water intake. Available data for adults permit the definition of AIs as 2.0 L/day (P 95 3.1 L) for females and 2.5 L/day (P95 4.0 L) for males. The same AIs as for adults are defined for the elderly. For pregnant women the same water intake as in non-pregnant women plus an increase in proportion to the increase in energy intake (300 mL/day) is proposed. For lactating women adequate water intakes of about 700 mL/day above the AIs of non-lactating women of the same age are derived.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.2903/j.efsa.2010.1459"
+}

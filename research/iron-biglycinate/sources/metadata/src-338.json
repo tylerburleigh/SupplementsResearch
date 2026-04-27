@@ -1,0 +1,27 @@
+{
+  "id": "src-338",
+  "title": "Macrophage iron dyshomeostasis promotes aging‐related renal fibrosis",
+  "authors": [
+    "Wu, Lingzhi",
+    "Lin, Hongchun",
+    "Li, Shaomin",
+    "Huang, Yuebo",
+    "Sun, Yuxiang",
+    "Shu, Shuangshuang",
+    "Luo, Ting",
+    "Liang, Tiantian",
+    "Lai, W.",
+    "Rao, Jialing",
+    "Hu, Zhaoyong",
+    "Peng, Hui"
+  ],
+  "doi": "10.1111/acel.14275",
+  "url": "https://www.semanticscholar.org/paper/96eb2a088511f684870d21a2c1fef7ac330a0761",
+  "provider": "semantic_scholar",
+  "year": 2024,
+  "venue": "Aging Cell",
+  "citation_count": 38,
+  "abstract": "Renal aging, marked by the accumulation of senescent cells and chronic low‐grade inflammation, leads to renal interstitial fibrosis and impaired function. In this study, we investigate the role of macrophages, a key regulator of inflammation, in renal aging by analyzing kidney single‐cell RNA sequencing data of C57BL/6J mice from 8 weeks to 24 months. Our findings elucidate the dynamic changes in the proportion of kidney cell types during renal aging and reveal that increased macrophage infiltration contributes to chronic low‐grade inflammation, with these macrophages exhibiting senescence and activation of ferroptosis signaling. CellChat analysis indicates enhanced communications between macrophages and tubular cells during aging. Suppressing ferroptosis alleviates macrophage‐mediated tubular partial epithelial‐mesenchymal transition in vitro, thereby mitigating the expression of fibrosis‐related genes. Using SCENIC analysis, we infer Stat1 as a key age‐related transcription factor promoting iron dyshomeostasis and ferroptosis in macrophages by regulating the expression of Pcbp1, an iron chaperone protein that inhibits ferroptosis. Furthermore, through virtual screening and molecular docking from a library of anti‐aging compounds, we construct a docking model targeting Pcbp1, which indicates that the natural small molecule compound Rutin can suppress macrophage senescence and ferroptosis by preserving Pcbp1. In summary, our study underscores the crucial role of macrophage iron dyshomeostasis and ferroptosis in renal aging. Our results also suggest Pcbp1 as an intervention target in aging‐related renal fibrosis and highlight Rutin as a potential therapeutic agent in mitigating age‐related renal chronic low‐grade inflammation and fibrosis.",
+  "type": "academic",
+  "pdf_url": ""
+}

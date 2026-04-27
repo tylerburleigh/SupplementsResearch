@@ -1,0 +1,21 @@
+{
+  "id": "src-181",
+  "title": "Gut Microbiota-Derived TMAO: A Causal Factor Promoting Atherosclerotic Cardiovascular Disease?",
+  "authors": [
+    "Canyelles, Marina",
+    "Borràs, Carla",
+    "Rotllán, Noemí",
+    "Tondo, Mireia",
+    "Escolà‐Gil, Joan Carles",
+    "Blanco‐Vaca, Francisco"
+  ],
+  "doi": "10.3390/ijms24031940",
+  "url": "https://openalex.org/W4317423631",
+  "provider": "openalex",
+  "year": 2023,
+  "venue": "International Journal of Molecular Sciences",
+  "citation_count": 151,
+  "abstract": "Trimethylamine-N-oxide (TMAO) is the main diet-induced metabolite produced by the gut microbiota, and it is mainly eliminated through renal excretion. TMAO has been correlated with an increased risk of atherosclerotic cardiovascular disease (ASCVD) and related complications, such as cardiovascular mortality or major adverse cardiovascular events (MACE). Meta-analyses have postulated that high circulating TMAO levels are associated with an increased risk of cardiovascular events and all-cause mortality, but the link between TMAO and CVD remains not fully consistent. The results of prospective studies vary depending on the target population and the outcome studied, and the adjustment for renal function tends to decrease or reverse the significant association between TMAO and the outcome studied, strongly suggesting that the association is substantially mediated by renal function. Importantly, one Mendelian randomization study did not find a significant association between genetically predicted higher TMAO levels and cardiometabolic disease, but another found a positive causal relationship between TMAO levels and systolic blood pressure, which-at least in part-could explain the link with renal function. The mechanisms by which TMAO can increase this risk are not clearly elucidated, but current evidence indicates that TMAO induces cholesterol metabolism alterations, inflammation, endothelial dysfunction, and platelet activation. Overall, there is no fully conclusive evidence that TMAO is a causal factor of ASCVD, and, especially, whether TMAO induces or just is a marker of hypertension and renal dysfunction requires further study.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/1422-0067/24/3/1940/pdf?version=1675924599"
+}

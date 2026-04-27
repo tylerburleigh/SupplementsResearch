@@ -1,0 +1,20 @@
+{
+  "id": "src-244",
+  "title": "Protection of Alzheimer’s disease progression by a human-origin probiotics cocktail",
+  "authors": [
+    "Prajapati, Santosh Kumar",
+    "Wang, Shaohua",
+    "Mishra, Sidharth P.",
+    "Jain, Shalini",
+    "Yadav, Hariom"
+  ],
+  "doi": "10.1038/s41598-024-84780-8",
+  "url": "https://openalex.org/W4406232750",
+  "provider": "openalex",
+  "year": 2025,
+  "venue": "Scientific Reports",
+  "citation_count": 47,
+  "abstract": "Microbiome abnormalities (dysbiosis) significantly contribute to the progression of Alzheimer's disease (AD). However, the therapeutic efficacy of microbiome modulators in protecting against these ailments remains poorly studied. Herein, we tested a cocktail of unique probiotics, including 5 Lactobacillus and 5 Enterococcus strains isolated from infant gut with proven microbiome modulating capabilities. We aimed to determine the probiotics cocktail's efficacy in ameliorating AD pathology in a humanized AD mouse model of APP/PS1 strains. Remarkably, feeding mice with 1 × 10<sup>11</sup> CFU per day in drinking water for 16 weeks significantly reduced cognitive decline (measured by the Morris Water Maze test) and AD pathology markers, such as Aβ aggregation, microglia activation, neuroinflammation, and preserved blood-brain barrier (BBB) tight junctions. The beneficial effects were linked to a reduced inflammatory microbiome, leading to decreased gut permeability and inflammation in both systemic circulation and the brain. Although both male and female mice showed overall improvements in cognition and biological markers, females did not exhibit improvements in specific markers related to inflammation and barrier permeability, suggesting that the underlying mechanisms may differ depending on sex. In conclusion, our results suggest that this unique probiotics cocktail could serve as a prophylactic agent to reduce the progression of cognitive decline and AD pathology. This is achieved by beneficially modulating the microbiome, improving intestinal tight junction proteins, reducing permeability in both gut and BBB, and decreasing inflammation in the gut, blood circulation, and brain, ultimately mitigating AD pathology and cognitive decline.",
+  "type": "academic",
+  "pdf_url": "https://www.nature.com/articles/s41598-024-84780-8.pdf"
+}

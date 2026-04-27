@@ -1,0 +1,32 @@
+{
+  "id": "src-073",
+  "title": "Drug Insight: lycopene in the prevention and treatment of prostate cancer",
+  "authors": [
+    "Guns, Emma S",
+    "Cowell, Simon P"
+  ],
+  "year": 2005,
+  "abstract": "",
+  "doi": "10.1038/ncpuro0073",
+  "url": "https://doi.org/10.1038/ncpuro0073",
+  "pdf_url": "",
+  "venue": "Nature Clinical Practice Urology",
+  "citation_count": 19,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-19T18:37:33.197832+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-073.md",
+  "quality_details": {
+    "content_length": 12669,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

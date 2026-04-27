@@ -1,6 +1,5 @@
 ---
-type: concept
-concept_type: meta
+type: meta
 sources: []
 created: "2026-04-19"
 updated: "2026-04-19"

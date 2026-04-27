@@ -1,0 +1,23 @@
+{
+  "id": "src-253",
+  "title": "Increased serum IL-6 is predictive of long-term cardiovascular events in high-risk patients submitted to coronary angiography: an observational study",
+  "authors": [
+    "Mossmann, Márcio",
+    "Wainstein, Marco Vugman",
+    "Mariani, Stéfani",
+    "Machado, Guilherme Pinheiro",
+    "Araújo, Gustavo Neves de",
+    "Andrades, Michael Éverton",
+    "Gonçalves, Sandro Cadaval",
+    "Bertoluci, Marcello Casaccia"
+  ],
+  "doi": "10.1186/s13098-022-00891-0",
+  "url": "https://openalex.org/W4293428629",
+  "provider": "openalex",
+  "year": 2022,
+  "venue": "Diabetology & Metabolic Syndrome",
+  "citation_count": 34,
+  "abstract": "In conclusion, an interleukin-6 level higher than 0.44 pg/mL, obtained just before elective coronary angiography, was associated with a poorer prognosis after a mean of 5,7-year. A pre-procedure IL-6 below 0.44 pg/mL, on the other hand, has a very good negative predictive value, suggesting a good prognosis, and may be useful to better indicate coronary angiography in high-risk patients. .",
+  "type": "academic",
+  "pdf_url": "https://dmsjournal.biomedcentral.com/counter/pdf/10.1186/s13098-022-00891-0"
+}

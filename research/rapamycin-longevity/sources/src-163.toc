@@ -1,0 +1,57 @@
+9	2	Fasa
+29	2	1 Department of Pharmacology and Toxicology, Faculty of Pharmacy, Birjand
+31	2	2 Experimental and Animal Study Center, Birjand University of Medical Sciences,
+33	2	3 Natural Products and Medicinal Plants Research Center, North Khorasan University
+35	2	4 Department of Physiology and Pharmacology, Faculty of Medicine, North Khorasan
+37	2	5 Department of Neuroscience and Addiction Studies, School of Advanced
+39	2	6 Department of Preventive Cardiology and Lipidology, Medical University of Lodz
+43	2	8 Center for Global Health Research, Saveetha Medical College and Hospitals,
+46	2	9 Biotechnology Research Center, Pharmaceutical Technology Institute, Mashhad
+48	2	10 Applied Biomedical Research Center, Mashhad University of Medical Sciences,
+58	2	Abstract
+76	2	Introduction
+81	2	2 Arch Med Sci
+317	2	4 Arch Med Sci
+361	2	Tfeb
+366	2	Mek
+367	2	Erk Tnf
+373	2	Amp
+477	2	Irs
+480	2	Pten
+488	2	Nadk
+493	2	6 Arch Med Sci
+655	2	8 Arch Med Sci
+870	2	10 Arch Med Sci
+1043	2	Nad
+1110	2	12 Arch Med Sci
+1354	2	14 Arch Med Sci
+1593	2	16 Arch Med Sci
+1734	2	2023 Not yet
+1741	2	2022 Active, not
+1752	2	2022 Active, not
+1758	2	2022 Active, not
+1795	2	18 Arch Med Sci
+1802	2	Conclusions
+1823	2	Acknowledgments
+1832	2	References
+1863	2	11. Amorim JA, Coppotelli G, Rolo AP , Palmeira CM,
+1901	2	22. Saxton RA, Chantranupong L, Knockenhauer KE,
+1924	2	28. Ma L, Chen Z, Erdjument-Bromage H, Tempst P , Pan-
+1934	2	30. Jastrzebski K, Hannan KM, Tchoubrieva EB, Hannan RD,
+1953	2	35. Ding B, Parmigiani A, Divakaruni AS, Archer K, Mur-
+1960	2	37. Dorrello NV , Peschiaroli A, Guardavaccaro D, Col-
+1986	2	44. Ben-Sahra I, Hoxhaj G, Ricoult SJ, Asara JM, Mann-
+2053	2	20 Arch Med Sci
+2071	2	69. Maurer U, Preiss F , Brauns-Schubert P , Schlicher L, Char-
+2123	2	85. Ozkurede U, Kala R, Johnson C, Shen Z, Miller RA, Gar-
+2176	2	101. Hansen M, Chandra A, Mitic LL, Onken B, Driscoll M,
+2234	2	117. Singh AK, Singh S, Tripathi VK, Bissoyi A, Garg G, Riz-
+2290	2	130. Pupyshev AB, Tikhonova MA, Akopyan AA, Tendi-
+2327	2	22 Arch Med Sci
+2473	2	177. Ghadimi M, Mohammadpour Z, Dashti-Khavidaki S,
+2478	2	178. Dominguez J, Mahalati K, Kiberd B, McAlister VC, Mac-
+2492	2	182. Jagannath C, Lindsey DR, Dhandayuthapani S, Xu Y,
+2601	2	24 Arch Med Sci
+2670	2	227. Lind MI, Zwoinska MK, Meurling S, Carlsson H, Makla-
+2701	2	236. Nadal M, Giraudeau B, Tavernier E, Jonville-Bera AP , Lo-
+2723	2	241. Zahedi M, Salmani Izadi H, Arghidash F , Gumpricht E,

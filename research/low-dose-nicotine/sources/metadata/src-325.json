@@ -1,0 +1,20 @@
+{
+  "id": "src-325",
+  "title": "Nicotine increases sleep spindle activity",
+  "authors": [
+    "O’Reilly, C.",
+    "Chapotot, F.",
+    "Pittau, F.",
+    "Mella, Nathalie",
+    "Picard, F."
+  ],
+  "doi": "10.1111/jsr.12800",
+  "url": "https://www.semanticscholar.org/paper/3f5ab9e7200af8e4b3e931fb115fb3d557b87108",
+  "provider": "semantic_scholar",
+  "year": 2019,
+  "venue": "Journal of Sleep Research",
+  "citation_count": 7,
+  "abstract": "Studies have shown that both nicotine and sleep spindles are associated with enhanced memorisation. Further, a few recent studies have shown how cholinergic input through nicotinic and muscarinic receptors can trigger or modulate sleep processes in general, and sleep spindles in particular. To better understand the interaction between nicotine and sleep spindles, we compared in a single blind randomised study the characteristics of sleep spindles in 10 healthy participants recorded for 2 nights, one with a nicotine patch and one with a sham patch. We investigated differences in sleep spindle duration, amplitude, intra‐spindle oscillation frequency and density (i.e. spindles per min). We found that under nicotine, spindles are more numerous (average increase: 0.057 spindles per min; 95% confidence interval: [0.025–0.089]; p = .0004), have higher amplitude (average amplification: 0.260 μV; confidence interval: [0.119–0.402]; p = .0032) and last longer (average lengthening: 0.025 s; confidence interval: [0.017–0.032]; p = 2.7e‐11). These results suggest that nicotine can increase spindle activity by acting on nicotinic acetylcholine receptors, and offer an attractive hypothesis for common mechanisms that may support memorisation improvements previously reported to be associated with nicotine and sleep spindles.",
+  "type": "academic",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/jsr.12800"
+}

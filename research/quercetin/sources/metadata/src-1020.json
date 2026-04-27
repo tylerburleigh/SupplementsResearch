@@ -1,0 +1,21 @@
+{
+  "id": "src-1020",
+  "title": "Clinical trials of resveratrol",
+  "authors": [
+    "Patel, Ketan",
+    "Scott, Edwina N.",
+    "Brown, Victoria",
+    "Gescher, Andreas J.",
+    "Steward, William P.",
+    "Brown, Karen"
+  ],
+  "doi": "10.1111/j.1749-6632.2010.05853.x",
+  "url": "https://openalex.org/W1481670920",
+  "provider": "openalex",
+  "year": 2011,
+  "venue": "Annals of the New York Academy of Sciences",
+  "citation_count": 517,
+  "abstract": "An expanding body of preclinical evidence suggests resveratrol has the potential to impact a variety of human diseases. To translate encouraging experimental findings into human benefits, information is first needed on the safety, pharmacokinetics, pharmacodynamics, and, ultimately, clinical efficacy of resveratrol. Published clinical trials have largely focused on characterizing the pharmacokinetics and metabolism of resveratrol. Recent studies have also evaluated safety and potential mechanisms of activity following multiple dosing, and have found resveratrol to be safe and reasonably well-tolerated at doses of up to 5 g/day. However, the occurrence of mild to moderate side effects is likely to limit the doses employed in future trials to significantly less than this amount. This review describes the available clinical data, outlines how it supports the continuing development of resveratrol, and suggests what additional information is needed to increase the chances of success in future clinical trials.",
+  "type": "academic",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1749-6632.2010.05853.x"
+}

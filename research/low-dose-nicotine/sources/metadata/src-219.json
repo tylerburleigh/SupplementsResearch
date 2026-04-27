@@ -1,0 +1,29 @@
+{
+  "id": "src-219",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "",
+  "pdf_url": "https://pure.amsterdamumc.nl/ws/portalfiles/portal/150714078/Vascular-contributions-to-cognitive-impairment-and-dementia-vcid-a-report-from-the-2018-national-heart-lung-and-blo.pdf",
+  "venue": "",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "",
+  "fetched_at": "2026-04-23T21:33:06.478661+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-219.md",
+  "quality_details": {
+    "content_length": 129618,
+    "alpha_ratio": 0.77,
+    "sentence_count": 1189,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

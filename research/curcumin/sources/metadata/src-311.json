@@ -1,0 +1,18 @@
+{
+  "id": "src-311",
+  "title": "Beyond cytotoxicity: molecular mechanisms of natural products as multi-targeting modulators and chemo-sensitizers in oncology",
+  "authors": [
+    "Ma, Jinshuo",
+    "Wang, Xue",
+    "Sun, Qian"
+  ],
+  "doi": "10.3389/fphar.2026.1782874",
+  "url": "https://www.semanticscholar.org/paper/0d6ec6d12f9462dfb1afc5af40cabfe23247e94d",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "Frontiers in Pharmacology",
+  "citation_count": 0,
+  "abstract": "Natural products have historically anchored anticancer drug discovery, providing scaffold structures for essential agents like taxanes and vinca alkaloids. While these compounds are traditionally valued for their direct cytotoxicity, this reductionist perspective overlooks their capacity to modulate the intricate, redundant signaling networks that drive malignancy. Conventional chemotherapy is increasingly constrained by dose-limiting toxicities and the emergence of multidrug resistance (MDR), often driven by transporter-mediated efflux and apoptosis evasion. This mini-review advances a multi-targeting perspective, re-positioning natural products not merely as cell-killing agents, but as broad-spectrum agents and synergistic chemo-sensitizers. We critically examine evidence demonstrating how specific flavonoids, terpenoids, and alkaloids simultaneously disrupt multiple cancer hallmarks—including aberrant PI3K/Akt/mTOR signaling, cell cycle progression, and the pro-tumorigenic microenvironment—thereby preventing compensatory pathway activation. Furthermore, we elucidate their translational utility as chemo-sensitizers. Mechanistically, these agents can inhibit ATP-binding cassette (ABC) transporters, lower the apoptotic threshold by neutralizing survivin, and mitigate chemotherapy-induced organ damage. By integrating natural products into rational, evidence-based combination regimens, it may be possible to enhance the therapeutic index of standard-of-care drugs in specific preclinical models. This review argues that overcoming pharmacokinetic barriers and standardization issues will allow these pleiotropic agents to transition from complementary additives to integral components of precision oncology.",
+  "type": "academic",
+  "pdf_url": ""
+}

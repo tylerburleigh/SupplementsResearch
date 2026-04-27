@@ -1,0 +1,27 @@
+{
+  "id": "src-042",
+  "title": "Host–microbiome interactions in nicotinamide mononucleotide (NMN) deamidation",
+  "authors": [
+    "Kim, Lynn-Jee",
+    "Chalmers, Timothy J.",
+    "Madawala, Romanthi",
+    "Smith, Greg C.",
+    "Li, Catherine",
+    "Das, Abhirup",
+    "Poon, Eric Wing Keung",
+    "Wang, Jun",
+    "Tucker, S.",
+    "Sinclair, D.",
+    "Quek, L.",
+    "Wu, Lindsay E."
+  ],
+  "doi": "10.1002/1873-3468.14698",
+  "url": "https://www.semanticscholar.org/paper/ec93786b7d91560470b469520871aa4f168f8a98",
+  "provider": "semantic_scholar",
+  "year": 2023,
+  "venue": "FEBS Letters",
+  "citation_count": 21,
+  "abstract": "The nicotinamide adenine dinucleotide (NAD+) precursor nicotinamide mononucleotide (NMN) is a proposed therapy for age‐related disease, whereby it is assumed that NMN is incorporated into NAD+ through the canonical recycling pathway. During oral delivery, NMN is exposed to the gut microbiome, which could modify the NAD+ metabolome through enzyme activities not present in the mammalian host. We show that orally delivered NMN can undergo deamidation and incorporation in mammalian tissue via the de novo pathway, which is reduced in animals treated with antibiotics to ablate the gut microbiome. Antibiotics increased the availability of NAD+ metabolites, suggesting the microbiome could be in competition with the host for dietary NAD+ precursors. These findings highlight new interactions between NMN and the gut microbiome.",
+  "type": "academic",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/1873-3468.14698"
+}

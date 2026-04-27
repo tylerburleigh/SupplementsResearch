@@ -1,0 +1,24 @@
+{
+  "id": "src-317",
+  "title": "A Phase 1 Study of ABI-009 (Nab-sirolimus) in Combination With Temozolomide and Irinotecan in Pediatric Patients With Recurrent or Refractory Solid Tumors, Including CNS Tumors-A Children's Oncology Group Pediatric Early Phase Clinical Trial Network Study ADVL1514.",
+  "authors": [
+    "Cramer, Stuart L",
+    "Reddy, Alyssa Terry",
+    "Minard, Charles Gene",
+    "Voss, Stephan",
+    "Fox, Elizabeth",
+    "Liu, Xiaowei",
+    "Denic, Kristina",
+    "Reid, Joel M",
+    "Weigel, Brenda J"
+  ],
+  "doi": "10.1002/cam4.70376",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39487711",
+  "provider": "pubmed",
+  "year": 2024,
+  "venue": "Cancer medicine",
+  "citation_count": 0,
+  "abstract": "BACKGROUND: Nab-sirolimus (ABI-009, nab-rapamycin; Aadi Bioscience Inc. [Aadi]) is a human albumin-bound form of sirolimus nanoparticles, a potent mTOR inhibitor. This phase I trial was conducted to define dose-limiting toxicities (DLT), maximum tolerated or recommended phase II dose (MTD/RP2D), and pharmacokinetics of Nab-sirolimus in combination with temozolomide and irinotecan.\nMETHODS: Using a rolling 6 design, Nab-sirolimus was administered intravenously (IV) on days (D) 1 and 8 of cycle (C) 1. In subsequent cycles, Nab-sirolimus was administered D1 and D8 in combination with temozolomide (125 mg/m2/dose, maximum 250 mg/dose) and irinotecan (90 mg/m2/dose) orally, daily on D1-5. Cycle duration was 21 days. Three dose levels (DL) of Nab-sirolimus were investigated (DL1: 35 mg/m2/dose, DL-1: 20 mg/m2/dose, and DL-2: 15 mg/m2/dose). The observation period for estimating the MTD/RP2D was defined by cycles 1 and 2.\nRESULTS: Thirty-three patients were enrolled, 32 were eligible. Dose determination included 17 evaluable patients, median (range) age 12 (2-20) years and six additional patients were enrolled (four evaluable for toxicity) on a pharmacokinetic cohort. C1 or C2 DLTs were primarily thrombocytopenia including 2/5 patients at DL1, 2/6 patients at DL-1, and 1/6 patients at DL-2. One patient (DL1) with Ewing Sarcoma had a partial response and remained on study for 35 cycles. Rapamycin clearance was dose dependent. Irinotecan clearance and its active metabolite SN-38 exposure were not affected by coadministration with Nab-sirolimus.\nCONCLUSION: The MTD for Nab-sirolimus was 15 mg/m2/dose IV on D1 and D8 in combination with temozolomide 125 mg/m2/dose and oral irinotecan 90 mg/m2/dose daily for 5 days during 21D cycles.\nTRIAL REGISTRATION: ClinicalTrials.gov identifier NCT02975882.",
+  "type": "academic",
+  "pdf_url": ""
+}

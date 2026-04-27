@@ -1,0 +1,20 @@
+{
+  "id": "src-189",
+  "title": "Metabolomics Profiling of Vitamin D Status in Relation to Dyslipidemia",
+  "authors": [
+    "Mousa, Hanaa",
+    "Elrayess, Mohamed A.",
+    "Diboun, Ilhame",
+    "Jackson, Simon K.",
+    "Zughaier, Susu M."
+  ],
+  "doi": "10.3390/metabo12080771",
+  "url": "https://openalex.org/W4292582475",
+  "provider": "openalex",
+  "year": 2022,
+  "venue": "Metabolites",
+  "citation_count": 14,
+  "abstract": "Vitamin D deficiency is a global disorder associated with several chronic illnesses including dyslipidemia and metabolic syndrome. The impact of this association with both dyslipidemia and vitamin D deficiency on metabolomics profile is not yet fully understood. This study analyses the metabolomics and lipidomic signatures in relation to vitamin D status and dyslipidemia. Metabolomics data were collected from Qatar Biobank database and categorized into four groups based on vitamin D and dyslipidemia status. Metabolomics multivariate analysis was performed using the orthogonal partial least square discriminate analysis (OPLS-DA) whilst linear models were used to assess the per-metabolite association with each of the four dyslipidemia/vitamin D combination groups. Our results indicate a high prevalence of vitamin D deficiency among the younger age group, while dyslipidemia was more prominent in the older group. A significant alteration of metabolomics profile was observed among the dyslipidemic and vitamin D deficient individuals in comparison with control groups. These modifications reflected changes in some key pathways including ceramides, diacylglycerols, hemosylceramides, lysophospholipids, phosphatidylcholines, phosphatidylethanol amines, and sphingomyelins. Vitamin D deficiency and dyslipidemia have a deep impact on sphingomyelins profile. The modifications were noted at the level of ceramides and are likely to propagate through downstream pathways.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2218-1989/12/8/771/pdf?version=1661332701"
+}

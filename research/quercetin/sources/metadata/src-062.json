@@ -1,0 +1,23 @@
+{
+  "id": "src-062",
+  "title": "Effects of high-protein supplementation during cancer therapy: a systematic review and meta-analysis",
+  "authors": [
+    "Orsso, C.",
+    "Caretero, A.",
+    "Poltronieri, T. S.",
+    "Arends, J.",
+    "Schueren, M. A. de van der",
+    "Kiss, N.",
+    "Laviano, A.",
+    "Prado, C. M."
+  ],
+  "doi": "10.1016/j.ajcnut.2024.08.016",
+  "url": "https://www.semanticscholar.org/paper/6db406eca39fd002f38aefe9fa28e44b714a3243",
+  "provider": "semantic_scholar",
+  "year": 2024,
+  "venue": "American Journal of Clinical Nutrition",
+  "citation_count": 23,
+  "abstract": "Background Establishing the effectiveness of high-protein supplementation in reducing cancer-related side effects is crucial. Objective The study aimed to assess the effectiveness and safety of high-protein supplementation on clinical outcomes of patients undergoing cancer therapy. Methods Systematic searches were conducted on Medline, Cumulative Index to Nursing and Allied Health Literature (CINAHL), Embase, Cochrane Central Register of Controlled Trials, and Scopus from inception until July 2023. Randomized controlled trials administering supplements with ≥10 g protein/serving, given to 20+ adult patients undergoing cancer therapy were included. Random-effects meta-analyses were used to estimate the effects of high-protein supplementation on the primary outcomes of body weight and health-related quality of life (HRQoL). We employed a vote-counting approach based on effect direction for secondary outcomes (that is, body composition, muscle function, hospitalization, response to cancer therapy/toxicity, survival, and systemic inflammation). Risk-of-bias (ROB) was assessed. Results Thirty-five studies involving 3701 patients with diverse cancer types were included. Patients who received high-protein supplementation lost less body weight than controls (mean difference = 1.45 kg; 95% CI: 0.42, 2.48 kg; P = 0.006; I2 = 80%). No differences in HRQoL were observed; all studies assessing HRQoL were rated as high ROB. A beneficial effect on muscle mass was found in 11 of 13 studies, although most had a high ROB due to assessment techniques. When considering higher quality studies, evidence of a beneficial effect was found in 5 of 5 studies for muscle strength, and 3 of 4 for hospitalization rate. Effects on other secondary outcomes were inconsistent or limited. No serious adverse effects were reported. Conclusions High-protein supplementation mitigates weight loss, improves muscle strength, and lowers hospitalization rates in patients undergoing cancer therapy. These positive clinical outcomes, along with a favorable safety profile, suggest that high-protein supplementation may be a valuable addition to medical practice. However, given the need for more robust trials and the high ROB observed in the existing studies, these conclusions should be interpreted with caution. This review was prospectively registered with PROSPERO under the registration number CRD42021237372.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.1016/j.ajcnut.2024.08.016"
+}

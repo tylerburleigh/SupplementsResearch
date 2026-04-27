@@ -1,0 +1,16 @@
+{
+  "id": "src-340",
+  "title": "AMP-activated protein kinase—an energy sensor that regulates all aspects of cell function",
+  "authors": [
+    "Hardie, D. Grahame"
+  ],
+  "doi": "10.1101/gad.17420111",
+  "url": "https://openalex.org/W2160615487",
+  "provider": "openalex",
+  "year": 2011,
+  "venue": "Genes & Development",
+  "citation_count": 1613,
+  "abstract": "AMP-activated protein kinase (AMPK) is a sensor of energy status that maintains cellular energy homeostasis. It arose very early during eukaryotic evolution, and its ancestral role may have been in the response to starvation. Recent work shows that the kinase is activated by increases not only in AMP, but also in ADP. Although best known for its effects on metabolism, AMPK has many other functions, including regulation of mitochondrial biogenesis and disposal, autophagy, cell polarity, and cell growth and proliferation. Both tumor cells and viruses establish mechanisms to down-regulate AMPK, allowing them to escape its restraining influences on growth.",
+  "type": "academic",
+  "pdf_url": "http://genesdev.cshlp.org/content/25/18/1895.full.pdf"
+}

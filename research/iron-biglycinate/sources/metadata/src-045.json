@@ -1,0 +1,41 @@
+{
+  "id": "src-045",
+  "title": "Impact of iron deficiency on attention among school-aged adolescents in Hong Kong",
+  "authors": [
+    "Cheung, YT",
+    "Chan, Dorothy FY",
+    "Lee, CK",
+    "Tsoi, WC",
+    "Lau, CW",
+    "Leung, Jennifer NS",
+    "So, Jason CC",
+    "Tsang, Stella TY",
+    "Wong, Chris LP",
+    "Chu, Yvonne YL",
+    "Li, CK"
+  ],
+  "year": 2025,
+  "abstract": "",
+  "doi": "10.12809/hkmj2310950",
+  "url": "https://doi.org/10.12809/hkmj2310950",
+  "pdf_url": "",
+  "venue": "Hong Kong Medical Journal",
+  "citation_count": 1,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T18:02:37.291840+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-045.md",
+  "quality_details": {
+    "content_length": 32695,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

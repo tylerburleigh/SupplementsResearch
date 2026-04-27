@@ -1,0 +1,29 @@
+{
+  "id": "src-219",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "",
+  "pdf_url": "http://aapec.org/images/jc.2019-00221.pdf",
+  "venue": "",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "",
+  "fetched_at": "2026-04-21T11:02:45.715237+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-219.md",
+  "quality_details": {
+    "content_length": 152962,
+    "alpha_ratio": 0.754,
+    "sentence_count": 1228,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

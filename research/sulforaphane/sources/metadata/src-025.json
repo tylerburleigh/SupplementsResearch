@@ -1,0 +1,33 @@
+{
+  "id": "src-025",
+  "title": "Pharmacological and dietary-supplement treatments for autism spectrum disorder: a systematic review and network meta-analysis.",
+  "authors": [
+    "Siafis, Spyridon",
+    "Çıray, Oğulcan",
+    "Wu, Hui",
+    "Schneider-Thoma, Johannes",
+    "Bighelli, Irene",
+    "Krause, Marc",
+    "Rodolico, Alessandro",
+    "Ceraso, Anna",
+    "Deste, Giacomo",
+    "Huhn, Maximilian",
+    "Fraguas, David",
+    "San José Cáceres, Antonia",
+    "Mavridis, Dimitris",
+    "Charman, Tony",
+    "Murphy, Declan G",
+    "Parellada, Mara",
+    "Arango, Celso",
+    "Leucht, Stefan"
+  ],
+  "doi": "10.1186/s13229-022-00488-4",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35246237",
+  "provider": "pubmed",
+  "year": 2022,
+  "venue": "Molecular autism",
+  "citation_count": 0,
+  "abstract": "BACKGROUND: There is still no approved medication for the core symptoms of autism spectrum disorder (ASD). This network meta-analysis investigated pharmacological and dietary-supplement treatments for ASD.\nMETHODS: We searched for randomized-controlled-trials (RCTs) with a minimum duration of seven days in ClinicalTrials.gov, EMBASE, MEDLINE, PsycINFO, WHO-ICTRP (from inception up to July 8, 2018), CENTRAL and PubMed (up to November 3, 2021). The co-primary outcomes were core symptoms (social-communication difficulties-SCD, repetitive behaviors-RB, overall core symptoms-OCS) measured by validated scales and standardized-mean-differences (SMDs). Associated symptoms, e.g., irritability/aggression and attention-deficit/hyperactivity disorder (ADHD) symptoms, dropouts and important side-effects, were investigated as secondary outcomes. Studies in children/adolescents and adults were analyzed separately in random-effects pairwise and network meta-analyses.\nRESULTS: We analyzed data for 41 drugs and 17 dietary-supplements, from 125 RCTs (n = 7450 participants) in children/adolescents and 18 RCTs (n = 1104) in adults. The following medications could improve at least one core symptom domain in comparison with placebo: aripiprazole (k = 6 studies in analysis, SCD: SMD = 0.27 95% CI [0.09, 0.44], RB: 0.48 [0.26, 0.70]), atomoxetine (k = 3, RB:0.49 [0.18, 0.80]), bumetanide (k = 4, RB: 0.35 [0.09, 0.62], OCS: 0.61 [0.31, 0.91]), and risperidone (k = 4, SCM: 0.31 [0.06, 0.55], RB: 0.60 [0.29, 0.90]; k = 3, OCS: 1.18 [0.75, 1.61]) in children/adolescents; fluoxetine (k = 1, RB: 1.20 [0.45, 1.96]), fluvoxamine (k = 1, RB: 1.04 [0.27, 1.81]), oxytocin (k = 6, RB:0.41 [0.16, 0.66]) and risperidone (k = 1, RB: 0.97 [0.21,1.74]) in adults. There were some indications of improvement by carnosine, haloperidol, folinic acid, guanfacine, omega-3-fatty-acids, probiotics, sulforaphane, tideglusib and valproate, yet imprecise and not robust. Confidence in these estimates was very low or low, except moderate for oxytocin. Medications differed substantially in improving associated symptoms, and in their side-effect profiles.\nLIMITATIONS: Most of the studies were inadequately powered (sample sizes of 20-80 participants), with short duration (8-13 weeks), and about a third focused on associated symptoms. Networks were mainly star-shaped, and there were indications of reporting bias. There was no optimal rating scale measuring change in core symptoms.\nCONCLUSIONS: Some medications could improve core symptoms, although this could be likely secondary to the improvement of associated symptoms. Evidence on their efficacy and safety is preliminary; therefore, routine prescription of medications for the core symptoms cannot be recommended. Trial registration PROSPERO-ID CRD42019125317.",
+  "type": "academic",
+  "pdf_url": ""
+}

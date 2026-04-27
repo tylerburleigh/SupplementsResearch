@@ -1,0 +1,6 @@
+3	2	Articles
+430	2	Ampk
+434	2	Osmd
+559	2	Discussion
+582	2	Methods
+727	2	Hcr

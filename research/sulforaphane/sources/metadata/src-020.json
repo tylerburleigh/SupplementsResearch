@@ -1,0 +1,29 @@
+{
+  "id": "src-020",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://nutrisearch.ca/appendixII/sufhoraphane.html",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-18T23:18:47.760164+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-020.md",
+  "quality_details": {
+    "content_length": 3373,
+    "alpha_ratio": 0.814,
+    "sentence_count": 20,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

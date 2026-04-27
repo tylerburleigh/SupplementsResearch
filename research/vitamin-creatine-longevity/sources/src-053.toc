@@ -1,0 +1,7 @@
+48	2	Ind
+60	2	Abstract
+189	2	Figure
+218	2	Figure
+700	2	Conclusions
+713	2	Author Contributions
+756	2	References

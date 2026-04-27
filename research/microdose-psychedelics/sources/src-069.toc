@@ -1,0 +1,8 @@
+15	2	3  University of Cincinnati, College of Medicine, Center for Addiction Research
+62	2	Introduction
+584	2	Limitations
+615	2	Conclusion
+631	2	Acknowledgments
+640	2	References
+1262	2	116 Single or
+1403	2	116 Single or

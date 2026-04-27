@@ -1,0 +1,15 @@
+{
+  "id": "src-100",
+  "title": "Methyl deficient diet promotes colitis through SIRT1-mediated endoplasmic reticulum stress",
+  "authors": [
+    "Melhem, Hassan"
+  ],
+  "url": "https://openalex.org/W4392259483",
+  "provider": "openalex",
+  "year": 2014,
+  "venue": "theses.fr (ABES)",
+  "citation_count": 0,
+  "abstract": "Une carence en donneurs de méthyle (CDM) est fréquente dans les maladies inflammatoires chroniques intestinales (MICI) et induit un stress du réticulum endoplasmique (RE). La désacétylase SIRT1 (Sirtuine 1) régule la réponse cellulaire suite à un stress nutritionnel par le biais d’un stress du RE. Nous avons étudié pour la première fois l’impact d’une CDM sur le stress du RE et les effets de l'activation de SIRT1 dans un modèle expérimental de colite chez le rat. Pour restaurer l’homéostasie du réticulum endoplasmique, la cellule met en place la réponse UPR « Unfolded Protein Response ».Les quantités de formes actives des acteurs de l’UPR (effecteurs et régulateurs), ainsi que du facteur de transcription (HSF1) et SIRT1 ont été étudiés par western blot, immunoprécipitation et RT-qPCR sur des tissus coliques (rats et humains) et sur des lysats cellulaires. Les effets de l'activation de SIRT1 ont été étudiés in vitro et in vivo. Une CDM aggrave la colite induite par le DSS cliniquement, endoscopiquement et histologiquement. Une CDM induit un stress du RE en augmentant le niveau d’expression des formes active des acteurs de l’UPR : p-PERK, p-eIF-2a, p-IRE-1a, ATF6, XBP1-S et l’ARNm d’ATF4. Ceci est accompagné d’une diminution dramatique du niveau d’expression des protéines chaperonnes, d’une réduction du niveau d'expression de SIRT1 et d’une hyperacétylation de HSF1. L’ajout de la vitamine B12, de la S-Adénosine Methionine (SAM), ou un activateur de SIRT1 (SRT1720) réduit l'UPR in vitro. L’immunohistochimie a montré une diminution de l’expression de SIRT1 dans l'épithélium du côlon de patients atteints de MICI. Chez le rat, l’activation de SIRT1 prévient la colite en réduisant le niveau acétylé de HSF1 et en augmentant le niveau d’expression des molécules chaperonnes. L'activation de SIRT1 prévient la colite en réduisant le stress du RE causé par la CDM. Ces résultats suggèrent que SIRT1 pourrait être une cible thérapeutique dans les MICI où les CDM sont fréquentes",
+  "type": "academic",
+  "pdf_url": "http://www.theses.fr/2014LORR0061/document"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "src-121",
+  "title": "Cardiovascular disease mortality and serum carotenoid levels: a Japanese population-based follow-up study.",
+  "authors": [
+    "Ito, Yoshinori",
+    "Kurata, Mio",
+    "Suzuki, Koji",
+    "Hamajima, Nobuyuki",
+    "Hishida, Hitoshi",
+    "Aoki, Kunio"
+  ],
+  "doi": "10.2188/jea.16.154",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/16837766",
+  "provider": "pubmed",
+  "year": 2006,
+  "venue": "Journal of epidemiology",
+  "citation_count": 0,
+  "abstract": "BACKGROUND: Some observational epidemiologic studies suggest that dietary and serum carotenoids are associated with reduced cardiovascular disease mortality.\nMETHODS: Three thousand and sixty-one subjects (1,190 males and 1,871 females), aged 39 to 80 years, were recruited from residents of Hokkaido, Japan who had attended comprehensive health check-up programs from 1988 through 1995. Serum levels of alpha-carotene, beta-carotene, and lycopene were separately determined by high-performance liquid chromatography. Serum levels of total carotene consisted of the sum of alpha-carotene, beta-carotene, and lycopene levels. Each serum level of alpha-carotene, beta-carotene, lycopene, total carotene, triglyceride, and alanine transaminase (ALT) activity was transformed logarithmically. The hazard ratios of serum alpha- and beta-carotenes, lycopene, and total carotene values were estimated by the Cox proportional hazard model after adjusting for sex, age, and other potential confounding factors.\nRESULTS: During the 11.9-year follow-up period, 80 deaths (49 males and 31 females) from cardiovascular disease, 40 deaths from heart disease, and 37 deaths from stroke were identified among the cohort subjects. High serum values of carotenoids such as alpha- and beta-carotenes, and lycopene were found to be significantly associated with low hazard ratios for cardiovascular disease mortality. However, a significant inverse association between high serum lycopene value and the risk for stroke mortality was not always observed.\nCONCLUSIONS: High serum levels of total carotene, comprising alpha- and beta-carotenes and lycopene, may reduce the risk for cardiovascular disease mortality among the Japanese population.",
+  "type": "academic",
+  "pdf_url": ""
+}

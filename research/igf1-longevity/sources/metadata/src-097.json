@@ -1,0 +1,17 @@
+{
+  "id": "src-097",
+  "title": "Obesity as a Major Risk Factor for Cancer",
+  "authors": [
+    "Pergola, Giovanni De",
+    "Silvestris, Franco"
+  ],
+  "doi": "10.1155/2013/291546",
+  "url": "https://openalex.org/W2059273277",
+  "provider": "openalex",
+  "year": 2013,
+  "venue": "Journal of Obesity",
+  "citation_count": 948,
+  "abstract": "The number of cancer cases caused by being obese is estimated to be 20% with the increased risk of malignancies being influenced by diet, weight change, and body fat distribution together with physical activity. Reports from the International Agency for Research into Cancer and the World Cancer Research Fund (WCRF) have shown that the strongest evidence exists for an association of obesity with the following cancer types: endometrial, esophageal adenocarcinoma, colorectal, postmenopausal breast, prostate, and renal, whereas the less common malignancies are leukemia, non-Hodgkin's lymphoma, multiple myeloma, malignant melanoma, and thyroid tumours. To be able to develop novel methods in prevention and treatment, we first must understand the underlying processes which link cancer to obesity. Four main systems have been identified as potential producers of cancer in obesity: insulin, insulin-like growth factor-I, sex steroids, and adipokines. Various novel candidate mechanisms have been proposed: chronic inflammation, oxidative stress, crosstalk between tumour cells and surrounding adipocytes, migrating adipose stromal cells, obesity-induced hypoxia, shared genetic susceptibility, and the functional defeat of immune function. Herein, we review the major pathogenic links between obesity and susceptibility to cancer.",
+  "type": "academic",
+  "pdf_url": "https://downloads.hindawi.com/journals/jobe/2013/291546.pdf"
+}

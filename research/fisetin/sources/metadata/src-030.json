@@ -1,0 +1,19 @@
+{
+  "id": "src-030",
+  "title": "The Role and Molecular Pathways of SIRT6 in Senescence and Age-related Diseases.",
+  "authors": [
+    "Lu, Yi",
+    "Yang, Junye",
+    "Wu, Qiuju",
+    "Wang, Xiaobo"
+  ],
+  "doi": "10.1002/adbi.202400469",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39913122",
+  "provider": "pubmed",
+  "year": 2025,
+  "venue": "Advanced biology",
+  "citation_count": 0,
+  "abstract": "SIRT6 is a NAD+-dependent histone deacetylase with crucial roles in controlling DNA damage repair, telomere homeostasis, oxidative stress, autophagy, and other cellular processes, and it has long been recognized as a longevity-associated protein. This review details its anti-aging-related mechanisms. First, SIRT6 facilitates DNA repair pathways and maintains genome stability by deacetylating histone H3 at K56, K9, and K18 residues, in addition to participating in DNA damage repair through mono-ADP-ribosylation and other mechanisms. Second, SIRT6 preserves telomere integrity and mitigates cellular senescence by reducing oxidative stress-induced damage through the regulation of reactive oxygen species (ROS), inhibition of inflammation, and other pathways. Furthermore, SIRT6 promotes autophagy, slowing cellular senescence via the modulation of various signaling pathways, including AMPK, IGF-Akt-mTOR, H133Y, IL-1β, and mitochondrial autophagy-related proteins. Finally, SIRT6 regulates multiple signaling pathways, such asNF-κB, FOXO, and AMPK, to counteract the aging process. This review particularly delves into the interplay between SIRT6 and various diseases, including tumors, cardiovascular diseases (e.g., atherosclerosis, heart failure), metabolic diseases (e.g., type 2 diabetes, dyslipidemia, gluconeogenesis, osteoporosis), and neurodegenerative diseases (e.g., Alzheimer's disease). Moreover, recent advancements in SIRT6-regulated compounds (e.g., C3G, BZBS, Fisetin, FNDC5, Lycorine hydrochloride, and Ergothioneine) are discussed as potential therapeutic agents for these mediated diseases.",
+  "type": "academic",
+  "pdf_url": ""
+}

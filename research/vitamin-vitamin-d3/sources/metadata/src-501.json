@@ -1,0 +1,31 @@
+{
+  "id": "src-501",
+  "title": "Relevance of vitamin D in fall prevention",
+  "authors": [
+    "Bischoff-Ferrari, Heike A."
+  ],
+  "year": 2017,
+  "abstract": "",
+  "doi": "10.1684/pnv.2017.0650",
+  "url": "https://doi.org/10.1684/pnv.2017.0650",
+  "pdf_url": "",
+  "venue": "Gériatrie et Psychologie Neuropsychiatrie du Viellissement",
+  "citation_count": 3,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T21:36:41.373594+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-501.md",
+  "quality_details": {
+    "content_length": 5521,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

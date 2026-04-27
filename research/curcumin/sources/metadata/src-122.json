@@ -1,0 +1,16 @@
+{
+  "id": "src-122",
+  "title": "Liposomes for Enhanced Bioavailability of Water-Insoluble Drugs: In Vivo Evidence and Recent Approaches",
+  "authors": [
+    "Lee, Mi-Kyung"
+  ],
+  "doi": "10.3390/pharmaceutics12030264",
+  "url": "https://openalex.org/W3011439989",
+  "provider": "openalex",
+  "year": 2020,
+  "venue": "Pharmaceutics",
+  "citation_count": 315,
+  "abstract": "It has been known that a considerable number of drugs in clinical use or under development are water-insoluble drugs with poor bioavailability (BA). The liposomal delivery system has drawn attention as one of the noteworthy approaches to increase dissolution and subsequently absorption in the gastrointestinal (GI) tract because of its biocompatibility and ability to encapsulate hydrophobic molecules in the lipid domain. However, there have been several drawbacks, such as structural instability in the GI tract and poor permeability across intestinal epithelia because of its relatively large size. In addition, there have been no liposomal formulations approved for oral use to date, despite the success of parenteral liposomes. Nevertheless, liposomal oral delivery has resurged with the rapid increase of published studies in the last decade. However, it is discouraging that most of this research has been in vitro studies only and there have not been many water-insoluble drugs with in vivo data. The present review focused on the in vivo evidence for the improved BA of water-insoluble drugs using liposomes to resolve doubts raised concerning liposomal oral delivery and attempted to provide insight by highlighting the approaches used for in vivo achievements.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/1999-4923/12/3/264/pdf?version=1585299009"
+}

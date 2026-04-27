@@ -1,0 +1,85 @@
+6	2	Systematic Review
+13	2	Abstract
+51	2	1 Introduction
+146	2	2  Methods
+160	3	2.1  Eligibility Criteria
+173	3	2.2  Data Sources and Search Strategies
+204	3	2.3  Study Selection and Data Extraction
+239	3	2.4  Assessment of Risk of Bias in Included Studies
+272	3	2.5  Outcomes of Interest
+285	3	2.6  Data Analysis
+341	3	2.7  Additional Analysis
+362	2	3  Results
+363	3	3.1  Initial Study Selection and Characteristics
+508	3	3.3  Glucosamine Sulfate
+523	3	3.4  Chondroitin Sulfate
+724	2	Tid
+842	2	Tid
+1034	3	3.5  Avocado Soybean Unsaponifiables
+1045	3	3.6  Diacerein
+1543	2	Bid
+1888	3	3.7  Assessment of Publication Bias
+1899	3	3.8  GRADE Assessment of Findings
+2010	2	4  Discussion
+2594	3	4.1  Strengths
+2605	3	4.2  Limitations
+2749	2	5  Conclusions
+3361	2	References
+3366	2	2. Pereira D, Peleteiro B, Araujo J, Branco J, Santos RA, Ramos
+3371	2	3. Vos T, Flaxman AD, Naghavi M, Lozano R, Michaud C,
+3377	2	4. Bruyere O, Cooper C, Pelletier JP, Branco J, Brandi ML, Guil-
+3384	2	5. Bartels EM, Bliddal H, Schondorff PK, Altman RD, Zhang W,
+3389	2	6. Towheed TE, Maxwell L, Anastassiades TP, Shea B, Houpt J,
+3400	2	9. Eriksen P, Bartels EM, Altman RD, Bliddal H, Juhl C, Chris-
+3411	2	11. McAlindon TE, Bannuru RR, Sullivan MC, Arden NK, Ber -
+3416	2	12. Hochberg MC, Altman RD, April KT, Benkhalti M, Guyatt G,
+3422	2	13. Jordan KM, Arden NK, Doherty M, Bannwarth B, Bijlsma JWJ,
+3429	2	14. Reginster JY, Cooper C, Hochberg M, Pelletier JP, Rizzoli R,
+3434	2	15. Bruyere O, Cooper C, Al-Daghri NM, Dennison EM, Rizzoli R,
+3449	2	18. Wilson N, Sanchez-Riera L, Morros R, Diez-Perez A, Javaid
+3453	2	19. Pavelka K, Bruyere O, Cooper C, Kanis JA, Leeb BF, Maheu
+3458	2	20. Fidelix TS, Macedo CR, Maxwell LJ, Fernandes Moca Tre-
+3462	2	21. Wandel S, Juni P, Tendal B, Nuesch E, Villiger PM, Welton NJ,
+3501	2	32. Sterne JA, Sutton AJ, Ioannidis JP, Terrin N, Jones DR, Lau J,
+3508	2	34. Guyatt G, Oxman AD, Akl EA, Kunz R, Vist G, Brozek
+3513	2	35. GRADEpro GDT: GRADEpro Guideline Development Tool
+3516	2	36. Benito-Ruiz P, Camacho-Zambrano MM, Carrillo-Arcentales
+3530	2	39. Chopra A, Saluja M, Tillu G, Venugopalan A, Sarmukaddam S,
+3539	2	41. Esfandiari H, Pakravan M, Zakeri Z, Ziaie S, Pakravan P, Ownagh
+3546	2	43. Gabay C, Medinger-Sadowski C, Gascon D, Kolo F, Finckh
+3560	2	46. Kwoh CK, Roemer FW, Hannon MJ, Moore CE, Jakicic JM,
+3576	2	50. Pavelka K, Gatterova J, Olejarova M, Machacek S, Giacovelli
+3580	2	51. Pavelka K, Trc T, Karpas K, Vitek P, Sedlackova M, Vlasakova
+3586	2	52. Pelletier JP, Yaron M, Haraoui B, Cohen P, Nahir MA, Choquette
+3597	2	55. Roman-Blas JA, Castaneda S, Sanchez-Pernaute O, Largo R,
+3617	2	58. Uebelhart D, Malaise M, Marcolongo R, de Vathaire F, Piperno
+3632	2	61. Appelboom T, Schuermans J, Verbruggen G, Henrotin Y,
+3642	2	63. Bourgeois P, Chales G, Dehais J, Delcambre B, Kuntz JL, Rozen-
+3646	2	64. Cibere J, Kopec JA, Thorne A, Singer J, Canvin J, Robinson
+3655	2	66. Dougados M, Nguyen M, Berdah L, Mazieres B, Vignon E,
+3664	2	68. Fransen M, Agaliotis M, Nairn L, Votrubec M, Bridgett L, Su
+3670	2	69. Giordano N, Fioravanti A, Papakostas P, Montella A, Giorgi G,
+3675	2	70. Herrero-Beaumont G, Ivorra JA, Del Carmen Trabado M, Blanco
+3685	2	72. Kahan A, Uebelhart D, De Vathaire F, Delmas PD, Reginster
+3691	2	73. Kumar S, Sugihara F, Suzuki K, Inoue N, Venkateswarathiruku-
+3701	2	76. Maheu E, Mazieres B, Valat JP, Loyau G, Le Loet X, Bour -
+3718	2	79. Mazieres B, Loyau G, Menkes CJ, Valat JP, Dreiser RL, Charlot
+3732	2	82. McAlindon TE, Nuite M, Krishnan N, Ruthazer R, Price
+3738	2	83. Michel BA, Stucki G, Frey D, De Vathaire F, Vignon E, Brue -
+3742	2	84. Nakagawa Y, Mukai S, Yamada S, Matsuoka M, Tarumi E,
+3752	2	86. Panahi Y, Rahimnia A-R, Sharafi M, Alishiri G, Saburi A, Saheb-
+3756	2	87. Pham T, Le Henanff A, Ravaud P, Dieppe P, Paolozzi L, Dou-
+3767	2	89. Reginster JY, Deroisy R, Rovati LC, Lee RL, Lejeune E, Bruyere
+3775	2	91. Rozendaal RM, Koes BW, van Osch GJVM, Uitterlinden EJ,
+3779	2	92. Shin K, Kim JW, Moon KW, Yang JA, Lee EY, Song YW,
+3795	2	96. Wildi LM, Raynauld JP, Martel-Pelletier J, Beaulieu A, Bessette
+3818	2	101. Olivier P, Montastruc JL, Reseau francais des centres regio-
+3825	2	103. Renan X, Lepage M, Connan D, Carlhant D, Riche C, Verger
+3839	2	107. Cardoso CRL, Leite NC, Carlos FO, Loureiro AA, Viegas BB,
+3844	2	108. Piovesan F, Tres GS, Moreira LB, Andrades ME, Lisboa HK,
+3880	2	1 Department of Public Health, Epidemiology and Health
+3882	2	2 WHO Collaborating Centre for Public Heath Aspects
+3884	2	3 Chair for Biomarkers of Chronic Diseases, Biochemistry
+3887	2	4 Rheumatology Department, IBN ROCHD University
+3889	2	5 Division of Bone Diseases, Geneva University Hospitals
+3891	2	6 MRC Lifecourse Epidemiology Unit, University

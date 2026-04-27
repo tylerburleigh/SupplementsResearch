@@ -1,0 +1,21 @@
+{
+  "id": "src-108",
+  "title": "Breast Cancer—Epidemiology, Risk Factors, Classification, Prognostic Markers, and Current Treatment Strategies—An Updated Review",
+  "authors": [
+    "Łukasiewicz, Sergiusz",
+    "Czeczelewski, Marcin",
+    "Forma, Alicja",
+    "Baj, Jacek",
+    "Sitarz, Robert",
+    "Stanisławek, Andrzej"
+  ],
+  "doi": "10.3390/cancers13174287",
+  "url": "https://openalex.org/W3193347331",
+  "provider": "openalex",
+  "year": 2021,
+  "venue": "Cancers",
+  "citation_count": 1751,
+  "abstract": "Breast cancer (BC) is the most frequently diagnosed cancer in women worldwide with more than 2 million new cases in 2020. Its incidence and death rates have increased over the last three decades due to the change in risk factor profiles, better cancer registration, and cancer detection. The number of risk factors of BC is significant and includes both the modifiable factors and non-modifiable factors. Currently, about 80% of patients with BC are individuals aged >50. Survival depends on both stage and molecular subtype. Invasive BCs comprise wide spectrum tumors that show a variation concerning their clinical presentation, behavior, and morphology. Based on mRNA gene expression levels, BC can be divided into molecular subtypes (Luminal A, Luminal B, HER2-enriched, and basal-like). The molecular subtypes provide insights into new treatment strategies and patient stratifications that impact the management of BC patients. The eighth edition of TNM classification outlines a new staging system for BC that, in addition to anatomical features, acknowledges biological factors. Treatment of breast cancer is complex and involves a combination of different modalities including surgery, radiotherapy, chemotherapy, hormonal therapy, or biological therapies delivered in diverse sequences.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2072-6694/13/17/4287/pdf"
+}

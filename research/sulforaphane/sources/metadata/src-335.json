@@ -1,0 +1,17 @@
+{
+  "id": "src-335",
+  "title": "The Redox Code",
+  "authors": [
+    "Jones, Dean P.",
+    "Sies, Helmut"
+  ],
+  "doi": "10.1089/ars.2015.6247",
+  "url": "https://openalex.org/W2033007699",
+  "provider": "openalex",
+  "year": 2015,
+  "venue": "Antioxidants and Redox Signaling",
+  "citation_count": 635,
+  "abstract": "Detailed knowledge of the molecular patterns generated from the principles of the redox code under defined physiological or pathological conditions in cells and organs will contribute to understanding the redox component in health and disease. Ultimately, there will be a scientific basis to a modern redox medicine.",
+  "type": "academic",
+  "pdf_url": "https://www.liebertpub.com/doi/pdf/10.1089/ars.2015.6247"
+}

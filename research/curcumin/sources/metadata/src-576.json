@@ -1,0 +1,28 @@
+{
+  "id": "src-576",
+  "title": "Phase I Clinical Trial of Oral Curcumin",
+  "authors": [
+    "Sharma, Ricky A.",
+    "Euden, Stephanie A.",
+    "Platton, Sharon L.",
+    "Cooke, Darren N.",
+    "Shafayat, Aisha",
+    "Hewitt, Heather R.",
+    "Marczylo, Timothy H.",
+    "Morgan, Bruno",
+    "Hemingway, David",
+    "Plummer, Simon",
+    "Pirmohamed, Munir",
+    "Gescher, Andreas J.",
+    "Steward, William P."
+  ],
+  "doi": "10.1158/1078-0432.ccr-04-0744",
+  "url": "https://openalex.org/W2138508372",
+  "provider": "openalex",
+  "year": 2004,
+  "venue": "Clinical Cancer Research",
+  "citation_count": 1235,
+  "abstract": "Curcumin, a polyphenolic antioxidant derived from a dietary spice, exhibits anticancer activity in rodents and in humans. Its efficacy appears to be related to induction of glutathione S-transferase enzymes, inhibition of prostaglandin E(2) (PGE(2)) production, or suppression of oxidative DNA adduct (M(1)G) formation. We designed a dose-escalation study to explore the pharmacology of curcumin in humans. Fifteen patients with advanced colorectal cancer refractory to standard chemotherapies consumed capsules compatible with curcumin doses between 0.45 and 3.6 g daily for up to 4 months. Levels of curcumin and its metabolites in plasma, urine, and feces were analyzed by high-pressure liquid chromatography and mass spectrometry. Three biomarkers of the potential activity of curcumin were translated from preclinical models and measured in patient blood leukocytes: glutathione S-transferase activity, levels of M(1)G, and PGE(2) production induced ex vivo. Dose-limiting toxicity was not observed. Curcumin and its glucuronide and sulfate metabolites were detected in plasma in the 10 nmol/L range and in urine. A daily dose of 3.6 g curcumin engendered 62% and 57% decreases in inducible PGE(2) production in blood samples taken 1 hour after dose on days 1 and 29, respectively, of treatment compared with levels observed immediately predose (P < 0.05). A daily oral dose of 3.6 g of curcumin is advocated for Phase II evaluation in the prevention or treatment of cancers outside the gastrointestinal tract. PGE(2) production in blood and target tissue may indicate biological activity. Levels of curcumin and its metabolites in the urine can be used to assess general compliance.",
+  "type": "academic",
+  "pdf_url": "https://aacrjournals.org/clincancerres/article-pdf/10/20/6847/1919081/zdf02004006847.pdf"
+}

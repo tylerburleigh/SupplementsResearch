@@ -1,0 +1,35 @@
+6	2	Research
+14	2	Abstract
+34	2	1 Facultad de Estudios Superiores Iztacala, Unidad de
+58	2	Introduction
+247	1	900-K50, IL-2 # 900-K108, and IL-4 # 900-K49, Pepro-
+267	2	Data Analysis
+305	2	Results
+456	2	Discussion
+654	2	2 T-helper cytokine that supports the pro-regenerative Type
+744	2	References
+748	2	2. Cunnane SC, Trushina E, Morland C, Prigione A, Casadesus G,
+772	2	8. Naveed M, Hejazi V, Abbas M, Kamboh AA, Khan GJ, Shumzaid
+778	2	9. Metwally DM, Alajmi RA, El-Khadragy MF, Yehia HM, AL-
+805	2	15. Browne SE, Bowling AC, MacGarvey U, Baik MJ, Berger SC,
+826	2	21. Shen W, Qi R, Zhang J, Wang Z, Wang H, Hu C, Zhao Y, Bie M,
+840	2	24. Aziz NA, van der Marck MA, Pijl H, Olde Rikkert MG,
+851	2	26. Gao W, Wang C, Yu L, Sheng T, Wu Z, Wang X, Zhang D, Lin
+871	2	31. Nishimura M, Okimura Y, Fujita H, Yano H, Lee J, Suzaki E,
+882	2	34. Zang LY, Cosma G, Gardner H, Castranova V, Vallyathan V
+890	2	36. Alshehri S, Al-Abbasi FA, Ghoneim MM, Imam SS, Afzal M,
+911	2	41. Epstein MM, Breen EC, Magpantay L, Detels R, Lepone L,
+921	2	43. Marchetti L, Klein M, Schlett K, Pfizenmaier K, Eisel UL
+932	2	45. McCoy MK, Ruhn KA, Martinez TN, McAlpine FE, Blesch A,
+953	2	50. Singh SS, Rai SN, Birla H, Zahra W, Kumar G, Gedda MR,
+958	2	51. Sterling JK, Kam TI, Guttha S, Park H, Baumann B, Mehrab-
+987	2	58. Soltani Khaboushan A, Moeinafshar A, Ersi MH, Teixeira AL,
+992	2	59. Marchi S, Guilbaud E, Tait SWG, Yamazaki T, Galluzzi L
+1000	2	61. Singh SS, Rai SN, Birla H, Zahra W, Rathore AS, Dilnashin H,
+1018	2	65. Kim C, Ho DH, Suk JE, You S, Michael S, Kang J, Joong Lee
+1023	2	66. Awatsuji H, Furukawa Y, Nakajima M, Furukawa S, Hayashi
+1028	2	67. Lee TK, Kang IJ, Kim B, Sim HJ, Kim DW, Ahn JH, Lee JC,
+1042	2	70. Alves S, Churlaud G, Audrain M, Michaelsen-Preusse K, Fol R,
+1047	2	71. Faridar A, Eid AM, Thome AD, Zhao W, Beers DR, Pascual MB,
+1088	2	81. Lopez-Sanchez C, Garcia-Martinez V, Poejo J, Garcia-Lopez V,
+1092	2	82. Sato Y, Itagaki S, Kurokawa T, Ogura J, Kobayashi M, Hirano

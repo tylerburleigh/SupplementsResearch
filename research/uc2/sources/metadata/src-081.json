@@ -1,0 +1,38 @@
+{
+  "id": "src-081",
+  "title": "Safety of Symptomatic Slow-Acting Drugs for Osteoarthritis: Outcomes of a Systematic Review and Meta-Analysis",
+  "authors": [
+    "Honvo, Germain",
+    "Reginster, Jean-Yves",
+    "Rabenda, Véronique",
+    "Geerinck, Anton",
+    "Mkinsi, Ouafa",
+    "Charles, Alexia",
+    "Rizzoli, Rene",
+    "Cooper, Cyrus",
+    "Avouac, Bernard",
+    "Bruyère, Olivier"
+  ],
+  "year": 2019,
+  "abstract": "",
+  "doi": "10.1007/s40266-019-00662-z",
+  "url": "https://doi.org/10.1007/s40266-019-00662-z",
+  "pdf_url": "",
+  "venue": "Drugs &amp; Aging",
+  "citation_count": 85,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-19T13:48:21.725805+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-081.md",
+  "quality_details": {
+    "content_length": 126245,
+    "alpha_ratio": 0.699,
+    "sentence_count": 1172,
+    "reasons": []
+  }
+}

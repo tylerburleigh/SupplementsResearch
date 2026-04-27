@@ -1,0 +1,29 @@
+{
+  "id": "src-010",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://clarityxdna.com/blog/methylfolate-vs-folic-acid-which-is-better-for-you",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-20T12:20:14.561481+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-010.md",
+  "quality_details": {
+    "content_length": 19845,
+    "alpha_ratio": 0.823,
+    "sentence_count": 160,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

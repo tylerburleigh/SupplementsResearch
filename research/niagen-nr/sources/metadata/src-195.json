@@ -1,0 +1,19 @@
+{
+  "id": "src-195",
+  "title": "Effects of nicotinamide adenine dinucleotide precursors on measures of physical performance and physical frailty: A systematic review",
+  "authors": [
+    "Barker, Fred J.",
+    "Hart, Ashley",
+    "Sayer, Avan Aihie",
+    "Witham, Miles D."
+  ],
+  "doi": "10.1002/crt2.56",
+  "url": "https://openalex.org/W4297538834",
+  "provider": "openalex",
+  "year": 2022,
+  "venue": "JCSM Clinical Reports",
+  "citation_count": 8,
+  "abstract": "Abstract Background Nicotinamide adenine dinucleotide (NAD) is a key molecule in muscle metabolism and energy production; skeletal muscle concentrations are low in older people with sarcopenia. Although preclinical data suggest beneficial effects of NAD precursor supplementation, the effects on skeletal muscle function and physical frailty in humans are unclear. This systematic review evaluated the effects of NAD precursor supplementation on measures of physical performance and physical frailty in humans. Methods We included randomized controlled trials assessing outcomes relevant to either physical performance or any of Fried's frailty phenotype domains: slowness, weakness, exhaustion, low physical activity and weight loss. All review stages were conducted independently by two separate authors. A systematic search strategy was used searching multiple databases (MEDLINE, EMBASE, CINAHL, CENTRAL, ISRCTN, ClinicalTrials.gov, NHS e‐Library, and Google Scholar) to find appropriate trials. Risk of bias was assessed using the Cochrane Risk‐of‐Bias 2 tool. Results were grouped by intervention and phenotypic domain and were described through narrative synthesis. Sensitivity analyses were conducted for trials with a mean age &gt;60 years and trials with low risk of bias. Results Twenty‐six trial populations across 23 studies met inclusion criteria; size ranged from 2 to 77 participants. No trials assessed frailty as a composite outcome, though at least one Fried frailty domain was assessed in almost all included trials. A range of interventions were investigated; niacin ( n = 8) and nicotinamide riboside ( n = 7) were the most commonly assessed. Most trials examined short‐term interventions of up to 6 months duration, with 13 out of 26 trials lasting 1 week or less. A total of 96 primary outcomes were assessed across trials, 10 of which were in favour of an NAD precursor whereas 1 was in favour of placebo; the remainder were not statistically significant in any clear direction. Methodological heterogeneity across trials precluded meta‐analysis for any outcome. Trial populations were heterogeneous and only four trials enrolled participants with a mean age ≥60 years. Risk of bias analysis found unclear or high risk of bias in all but one trial. There was no clear pattern as to whether NAD precursors improved any measure of physical performance or any domain of the frailty phenotype; the majority of trials reported neutral findings for most outcomes. Conclusions There is insufficient evidence to ascertain whether NAD precursor supplementation can improve physical performance or physical frailty measures in humans. Future trials need to be longer, larger, and target older people with skeletal muscle dysfunction.",
+  "type": "academic",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/crt2.56"
+}

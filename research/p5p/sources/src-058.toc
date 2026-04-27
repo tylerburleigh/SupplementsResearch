@@ -1,0 +1,11 @@
+4	2	Mini Review
+138	2	Plp Safeguards Genome Integrity
+170	2	Dna Damage Is Caused By High
+171	2	Glucose Levels In Plp Deficient
+172	2	Cells
+257	2	Plp Depletion As New Cancer Risk
+258	2	Factor In Diabetic Cells
+310	2	Conclusion
+323	2	Author Contributions
+328	2	Funding
+331	2	References

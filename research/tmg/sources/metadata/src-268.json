@@ -1,0 +1,22 @@
+{
+  "id": "src-268",
+  "title": "Normal and Pathologic Concentrations of Uremic Toxins",
+  "authors": [
+    "Duranton, Flore",
+    "Cohen, Gerald",
+    "Smet, Rita De",
+    "Rodríguez, Mariano",
+    "Jankowski, Joachim",
+    "Vanholder, Raymond",
+    "Argilés, Àngel"
+  ],
+  "doi": "10.1681/asn.2011121175",
+  "url": "https://openalex.org/W2145073188",
+  "provider": "openalex",
+  "year": 2012,
+  "venue": "Journal of the American Society of Nephrology",
+  "citation_count": 936,
+  "abstract": "An updated review of the existing knowledge regarding uremic toxins facilitates the design of experimental studies. We performed a literature search and found 621 articles about uremic toxicity published after a 2003 review of this topic. Eighty-seven records provided serum or blood measurements of one or more solutes in patients with CKD. These records described 32 previously known uremic toxins and 56 newly reported solutes. The articles most frequently reported concentrations of β2-microglobulin, indoxyl sulfate, homocysteine, uric acid, and parathyroid hormone. We found most solutes (59%) in only one report. Compared with previous results, more recent articles reported higher uremic concentrations of many solutes, including carboxymethyllysine, cystatin C, and parathyroid hormone. However, five solutes had uremic concentrations less than 10% of the originally reported values. Furthermore, the uremic concentrations of four solutes did not exceed their respective normal concentrations, although they had been previously described as uremic retention solutes. In summary, this review extends the classification of uremic retention solutes and their normal and uremic concentrations, and it should aid the design of experiments to study the biologic effects of these solutes in CKD.",
+  "type": "academic",
+  "pdf_url": "https://jasn.asnjournals.org/content/jnephrol/23/7/1258.full.pdf"
+}

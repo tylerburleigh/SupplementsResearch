@@ -1,0 +1,25 @@
+{
+  "id": "src-120",
+  "title": "Disparate Central and Peripheral Effects of Circulating IGF-1 Deficiency on Tissue Mitochondrial Function",
+  "authors": [
+    "Pharaoh, Gavin",
+    "Owen, Daniel B.",
+    "Yeganeh, Alexander",
+    "Premkumar, Pavithra",
+    "Farley, Julie A.",
+    "Bhaskaran, Shylesh",
+    "Ashpole, Nicole M.",
+    "Kinter, Michael",
+    "Remmen, Holly Van",
+    "Logan, Sreemathi"
+  ],
+  "doi": "10.1007/s12035-019-01821-4",
+  "url": "https://openalex.org/W2983311534",
+  "provider": "openalex",
+  "year": 2019,
+  "venue": "Molecular Neurobiology",
+  "citation_count": 40,
+  "abstract": "Age-related decline in circulating levels of insulin-like growth factor (IGF)-1 is associated with reduced cognitive function, neuronal aging, and neurodegeneration. Decreased mitochondrial function along with increased reactive oxygen species (ROS) and accumulation of damaged macromolecules are hallmarks of cellular aging. Based on numerous studies indicating pleiotropic effects of IGF-1 during aging, we compared the central and peripheral effects of circulating IGF-1 deficiency on tissue mitochondrial function using an inducible liver IGF-1 knockout (LID). Circulating levels of IGF-1 (~ 75%) were depleted in adult male Igf1<sup>f/f</sup> mice via AAV-mediated knockdown of hepatic IGF-1 at 5 months of age. Cognitive function was evaluated at 18 months using the radial arm water maze and glucose and insulin tolerance assessed. Mitochondrial function was analyzed in hippocampus, muscle, and visceral fat tissues using high-resolution respirometry O2K as well as redox status and oxidative stress in the cortex. Peripherally, IGF-1 deficiency did not significantly impact muscle mass or mitochondrial function. Aged LID mice were insulin resistant and exhibited ~ 60% less adipose tissue but increased fat mitochondrial respiration (20%). The effects on fat metabolism were attributed to increases in growth hormone. Centrally, IGF-1 deficiency impaired hippocampal-dependent spatial acquisition as well as reversal learning in male mice. Hippocampal mitochondrial OXPHOS coupling efficiency and cortex ATP levels (~ 50%) were decreased and hippocampal oxidative stress (protein carbonylation and F<sub>2</sub>-isoprostanes) was increased. These data suggest that IGF-1 is critical for regulating mitochondrial function, redox status, and spatial learning in the central nervous system but has limited impact on peripheral (liver and muscle) metabolism with age. Therefore, IGF-1 deficiency with age may increase sensitivity to damage in the brain and propensity for cognitive deficits. Targeting mitochondrial function in the brain may be an avenue for therapy of age-related impairment of cognitive function. Regulation of mitochondrial function and redox status by IGF-1 is essential to maintain brain function and coordinate hippocampal-dependent spatial learning. While a decline in IGF-1 in the periphery may be beneficial to avert cancer progression, diminished central IGF-1 signaling may mediate, in part, age-related cognitive dysfunction and cognitive pathologies potentially by decreasing mitochondrial function.",
+  "type": "academic",
+  "pdf_url": "https://link.springer.com/content/pdf/10.1007/s12035-019-01821-4.pdf"
+}

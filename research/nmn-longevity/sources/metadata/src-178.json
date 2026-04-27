@@ -1,0 +1,29 @@
+{
+  "id": "src-178",
+  "title": "Purine nucleoside phosphorylase controls nicotinamide riboside metabolism in mammalian cells",
+  "authors": [
+    "Antipova, Maria",
+    "Gambaryan, Stepan",
+    "Khodorkovskiy, Mikhail",
+    "Kropotov, Andrey",
+    "Kulikova, Veronika",
+    "Migaud, Marie E.",
+    "Nerinovski, Kirill",
+    "Nikiforov, Andrey",
+    "Plusnina, Alena",
+    "Solovjeva, Ljudmila",
+    "Sudnitsyna, Julia",
+    "Svetlova, Maria",
+    "Yakimov, Alexander",
+    "Ziegler, Mathias"
+  ],
+  "doi": "10.1016/j.jbc.2022.102615",
+  "url": "https://doi.org/10.1016/j.jbc.2022.102615",
+  "provider": "core",
+  "year": 2022,
+  "venue": "Journal of Biological Chemistry",
+  "citation_count": 0,
+  "abstract": "Nicotinamide riboside (NR) is an effective precursor of nicotinamide adenine dinucleotide (NAD) in human and animal cells. NR supplementation can increase the level of NAD in various tissues and thereby improve physiological functions that are weakened or lost in experimental models of aging or various human pathologies. However, there are also reports questioning the efficacy of NR supplementation. Indeed, the mechanisms of its utilization by cells are not fully understood. Herein, we investigated the role of purine nucleoside phosphorylase (PNP) in NR metabolism in mammalian cells. Using both PNP overexpression and genetic knockout, we show that after being imported into cells by members of the equilibrative nucleoside transporter family, NR is predominantly metabolized by PNP, resulting in nicotinamide (Nam) accumulation. Intracellular cleavage of NR to Nam is prevented by the potent PNP inhibitor Immucillin H in various types of mammalian cells. In turn, suppression of PNP activity potentiates NAD synthesis from NR. Combining pharmacological inhibition of PNP with NR supplementation in mice, we demonstrate that the cleavage of the riboside to Nam is strongly diminished, maintaining high levels of NR in blood, kidney, and liver. Moreover, we show that PNP inhibition stimulates Nam mononucleotide and NAD+ synthesis from NR in vivo, in particular, in the kidney. Thus, we establish PNP as a major regulator of NR metabolism in mammals and provide evidence that the health benefits of NR supplementation could be greatly enhanced by concomitant downregulation of PNP activity.publishedVersio",
+  "type": "academic",
+  "pdf_url": "https://core.ac.uk/download/561054307.pdf"
+}

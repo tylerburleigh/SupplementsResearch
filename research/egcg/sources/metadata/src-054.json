@@ -1,0 +1,19 @@
+{
+  "id": "src-054",
+  "title": "Complementing a Clinical Trial With Human-Computer Interaction: Patients’ User Experience With Telehealth",
+  "authors": [
+    "Jalil, Sakib",
+    "Myers, Trina S.",
+    "Atkinson, Ian M.",
+    "Soden, Muriel"
+  ],
+  "doi": "10.2196/humanfactors.9481",
+  "url": "https://www.semanticscholar.org/paper/2ba141be5179d69f5f279d51831e7c5740502838",
+  "provider": "semantic_scholar",
+  "year": 2017,
+  "venue": "JMIR Human Factors",
+  "citation_count": 17,
+  "abstract": "Background The use of telehealth to monitor patients from home is on the rise. Telehealth technology is evaluated in a clinical trial with measures of health outcomes and cost-effectiveness. However, what happens between a technology and the patients is not investigated during a clinical trial—the telehealth technology remains as a “black box.” Meanwhile, three decades of research in the discipline of human-computer interaction (HCI) presents design, implementation, and evaluation of technologies with a primary emphasis on users. HCI research has exposed the importance of user experience (UX) as an essential part of technology development and evaluation. Objective This research investigates the UX of patients with type 2 diabetes mellitus (T2D) with a telehealth in-home monitoring device to manage T2D from home. We investigate how the UX during a clinical trial can be researched and what a clinical trial can learn from HCI research. Methods We adopted an ethnographic philosophy and conducted a contextual inquiry due to time limitations followed by semistructured interviews of 9 T2D patients. We defined the method as Clinical User-experience Evaluation (CUE). The patients were enrolled in a telehealth clinical trial of T2D; however, this research was an independent study conducted by information technologists and health researchers for a user-centered evaluation of telehealth. Results Key analytical findings were that patients valued the benefits of in-home monitoring, but the current device did not possess all functionalities that patients wanted. The results include patients’ experiences and emotions while using the device, patients’ perceived benefits of the device, and how patients domesticated the device. Further analysis showed the influence of the device on patients’ awareness, family involvement, and design implications for telehealth for T2D. Conclusions HCI could complement telehealth clinical trials and uncover knowledge about T2D patients’ UX and future design implications. Through HCI we can look into the “black box” phenomenon of clinical trials and create patient-centered telehealth solutions.",
+  "type": "academic",
+  "pdf_url": "https://humanfactors.jmir.org/2019/2/e9481/PDF"
+}

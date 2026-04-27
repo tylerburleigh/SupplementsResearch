@@ -1,0 +1,23 @@
+{
+  "id": "src-255",
+  "title": "Antiplatelet therapy through inhibition of P2Y12 and phosphodiesterase receptors by novel synthesis 1,3-dicyclohexylpyrimidine-2,4(1H,3H)-dione derivatives with computational evaluation.",
+  "authors": [
+    "Elsayed, Doaa A.",
+    "Soltan, M. K.",
+    "Abd‐El‐Maksoud, M.",
+    "Tantawy, E. S.",
+    "El-Sayed, A.",
+    "Shehab, Wesam S.",
+    "Saeed, Aamer",
+    "Farag, B."
+  ],
+  "doi": "10.1016/j.bioorg.2025.109009",
+  "url": "https://www.semanticscholar.org/paper/c11b55117193cb2c8ec111fd3ae75872d803dd5a",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "Bioorganic chemistry (Print)",
+  "citation_count": 2,
+  "abstract": "In this study, we report the synthesis of a new class of 1,3-dicyclohexylpyrimidine-2,4-dione derivatives with potential antiplatelet activity. The novelty of this work lies in the development of unprecedented pyrimidine-based scaffolds, prepared through simple synthetic routes, and their evaluation as dual inhibitors of P2Y12 and phosphodiesterase 5 receptors. Biological assays demonstrated that compound 10 was the most active P2Y12 inhibitor (IC50 = 0.271 ± 0.009 μg/ml), surpassing reference drug clopidogrel (IC50 = 0.327 ± 0.011 μg/ml). Compound 10 also exhibited potent PDE5 inhibition, using sildenafil as a reference drug. Whereas compound 5 showed the least activity in both of these biological assays. Frontier molecular orbital analyses demonstrated compound 15 showed the smallest energy gap, suggesting easier electron transfer, and had the highest EA, strengthening adherence to nucleophilic residues among the tested compounds. Molecular docking studies revealed strong binding affinities of synthesized compounds toward both P2Y12 and PDE5, supporting the biological findings. ADMET profiling confirmed that compound 10 complies with Lipinski's rule of five and possesses favorable bioavailability, drug-likeness, and low predicted toxicity. Molecular dynamics simulations further validated its stability, showing consistent RMSD, RMSF, Rg, and SASA values, indicative of robust receptor-ligand interactions toward both P2Y12 and PDE5. Overall, this work introduces a novel pyrimidine-based scaffold with dual inhibitory activity, combining experimental and computational validation. These findings not only highlight the role of pyrimidine derivatives in advancing antiplatelet therapy but also provide a strong basis for further development of compound 10 as a potential lead for cardiovascular disease management.",
+  "type": "academic",
+  "pdf_url": ""
+}

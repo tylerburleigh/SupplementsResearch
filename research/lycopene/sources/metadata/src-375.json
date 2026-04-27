@@ -1,0 +1,27 @@
+{
+  "id": "src-375",
+  "title": "Effects of a Combination of Beta Carotene and Vitamin A on Lung Cancer and Cardiovascular Disease",
+  "authors": [
+    "Omenn, Gilbert S.",
+    "Goodman, Gary E.",
+    "Thornquist, Mark",
+    "Balmes, John R.",
+    "Cullen, Mark R.",
+    "Glass, Andrew G.",
+    "Keogh, James P.",
+    "Meyskens, Frank L.",
+    "Valanis, Barbara",
+    "Williams, James H.",
+    "Barnhart, Scott",
+    "Hammar, Samuel P."
+  ],
+  "doi": "10.1056/nejm199605023341802",
+  "url": "https://openalex.org/W2317242858",
+  "provider": "openalex",
+  "year": 1996,
+  "venue": "New England Journal of Medicine",
+  "citation_count": 3626,
+  "abstract": "After an average of four years of supplementation, the combination of beta carotene and vitamin A had no benefit and may have had an adverse effect on the incidence of lung cancer and on the risk of death from lung cancer, cardiovascular disease, and any cause in smokers and workers exposed to asbestos.",
+  "type": "academic",
+  "pdf_url": "https://www.nejm.org/doi/pdf/10.1056/NEJM199605023341802?articleTools=true"
+}

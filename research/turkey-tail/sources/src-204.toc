@@ -1,0 +1,27 @@
+22	2	Abstract
+73	2	1. Introduction
+129	2	2. Sources and biological activities of bioactive
+202	3	2.2. Bioactive polysaccharides in herbs
+232	3	2.3. Bioactive polysaccharides in algae and lichens
+652	3	2.4. Bioactive polysaccharides in wood
+674	3	2.5. Bioactive polysaccharides from other sources
+806	2	3. Isolation of bioactive polysaccharides
+865	2	4. Functionalization of polysaccharides
+1175	3	4.1. Cellulose
+1318	3	4.2. Hemicelluloses
+1343	4	4.2.1. Xylans
+1389	4	4.2.2. Galactomannans, glucomannans, and
+1447	4	4.2.3. Xyloglucans
+1490	3	4.3. Pectins
+1539	3	4.4. Starch
+1610	3	4.5. Chitin and chitosan
+1746	3	4.6. Alginate
+1880	3	4.7. Hyaluronic acid
+1938	2	5. Structural analysis
+2025	2	6. Biomedical applications
+2048	3	6.1. Tissue engineering
+2088	3	6.2. Wound healing and wound dressing
+2155	3	6.3. Drug delivery and controlled release
+2283	2	7. Concluding remarks and outlook
+2332	2	Acknowledgements
+2338	2	References

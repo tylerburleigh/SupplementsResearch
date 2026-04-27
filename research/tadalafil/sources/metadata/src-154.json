@@ -1,0 +1,26 @@
+{
+  "id": "src-154",
+  "title": "Phosphodiesterase type 5 inhibitors combined with traditional Chinese medicine for diabetes mellitus-induced erectile dysfunction: A systematic review and meta-analysis",
+  "authors": [
+    "Xiang, Lei",
+    "Liu, Aiqun",
+    "Tang, Wenyi",
+    "Sun, Bin",
+    "Yang, Yang",
+    "Li, Yilin",
+    "Chen, Siyu",
+    "Zhao, Juyun",
+    "Zhang, Weizheng",
+    "Cai, Xiangsheng",
+    "Tang, Xiang-jiang"
+  ],
+  "doi": "10.1097/md.0000000000043243",
+  "url": "https://www.semanticscholar.org/paper/ecf1648f37de778e3c1b35f8e18c843c95c06996",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "Medicine",
+  "citation_count": 0,
+  "abstract": "Background: Diabetes mellitus-induced erectile dysfunction (DMED) involves complex pathophysiology, leading to suboptimal outcomes with phosphodiesterase type 5 inhibitors (PDE5I) alone. Combining PDE5I with traditional Chinese medicine (TCM) may enhance therapeutic efficacy, but evidence synthesis is lacking. Therefore, this systematic review and meta-analysis aims to compare the efficacy and safety of PDE5I combined with TCM versus PDE5I monotherapy in DMED management. Methods: We conducted a systematic review and meta-analysis following Preferred Reporting Items for Systematic Reviews and Meta-Analyses 2020 guidelines (PROSPERO: CRD42021240608). Six databases (PubMed, Cochrane Library, Web of Science, China National Knowledge Infrastructure Database, Wanfang, and VIP Science Technology Periodical Database) were searched up to May 10, 2024. Randomized controlled trials (RCTs) evaluating PDE5I + TCM versus PDE5I alone in DMED patients with International Index of Erectile Function-5 (IIEF-5) ≤ 21 were included. Data extraction, risk of bias assessment (Cochrane tool), and meta-analysis (RevMan 5.3) were performed using fixed/random-effects models. Outcomes included clinical efficacy, IIEF-5 scores, TCM syndrome scores, and adverse events. Results: Twelve RCTs (1070 participants) were included. PDE5I + TCM significantly improved clinical efficacy (relative risk = 2.86, 95% confidence interval [CI] [2.13, 3.84], P < .001) compared to PDE5I alone. Subgroup analysis showed higher IIEF-5 scores for tadalafil + TCM (standardized mean difference [SMD] = 1.07, 95% CI [0.85, 1.30], P < .001) and sildenafil + TCM (SMD = 1.38, 95% CI [1.11, 1.65], P < .001). TCM syndrome scores decreased significantly with combination therapy (tadalafil + TCM: SMD = -3.43, 95% CI [-3.93, -2.94]; sildenafil + TCM: SMD = -1.40, 95% CI [-1.77, -1.03]). Adverse event rates (dizziness, gastrointestinal effects, flushing) did not differ between groups (all P > .05). Conclusion: This study demonstrates that PDE5I combined with TCM demonstrates superior efficacy in improving erectile function and TCM symptom profiles in DMED patients, without increasing adverse events. However, limitations such as variability in TCM formulations and treatment durations across studies, as well as unclear blinding protocols in some trials, may introduce heterogeneity and affect the generalizability of these findings. Further high-quality RCTs are needed to validate optimal regimens and long-term outcomes.",
+  "type": "academic",
+  "pdf_url": ""
+}

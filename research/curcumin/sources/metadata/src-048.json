@@ -1,0 +1,20 @@
+{
+  "id": "src-048",
+  "title": "Curcumin enhances the oral bioavailability of testosterone by inhibiting its intestinal metabolism.",
+  "authors": [
+    "Bachhav, Namrata",
+    "Singh, Dilip Kumar",
+    "Shaffer, Griffin",
+    "Amory, John K",
+    "Prasad, Bhagwat"
+  ],
+  "doi": "10.1016/j.dmd.2025.100144",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40911949",
+  "provider": "pubmed",
+  "year": 2025,
+  "venue": "Drug metabolism and disposition: the biological fate of chemicals",
+  "citation_count": 0,
+  "abstract": "Hypogonadism, characterized by low testosterone blood levels, affects 3%-5% of males worldwide. Oral testosterone undecanoate (TU) is emerging as a key route of administration due to its better ease of administration; however, it suffers from variable pharmacokinetics and pharmacodynamics. The variability is majorly attributed to intestinal glucuronidation of testosterone to its hydrophilic metabolite, testosterone glucuronide (TG), formed by the polymorphic uridine 5'-diphospho-glucuronosyltransferase 2B17 (UGT2B17). This study investigated the potential of curcumin, as a UGT2B17 inhibitor, to enhance TU bioavailability using a series of in vitro and in vivo studies. In human intestinal microsomes, curcumin inhibited UGT2B17 with an IC50 of 58 μM. In LS180 cells, a human intestinal cell line, curcumin reduced TG formation dose-dependently at 10, 25, and 100 μM, and also inhibited the formation of androstenedione at 100 μM. In primary human enterocytes, curcumin (100 μM) significantly reduced TG and androstenedione formation by ∼50%. A pilot crossover clinical study compared testosterone pharmacokinetics when TU was coadministered with curcumin in men with experimental hypogonadism. The plasma concentration-time area under the curve (AUC1-6h) and the peak plasma concentration (Cmax) for testosterone, representing the absorption phase, significantly increased by 50% and 80%, respectively, when TU was administered with curcumin. These findings suggest that curcumin, a UGT2B17 inhibitor, has the potential to enhance the bioavailability of oral TU. Further clinical investigations with higher doses of curcumin and with other UGT2B17 inhibitors in diverse populations are warranted to validate the UGT2B17 inhibition approach for enhancing oral testosterone replacement therapy. SIGNIFICANCE STATEMENT: Hypogonadism affects a significant portion of the male population. Oral testosterone undecanoate is recommended to treat hypogonadism, but shows variable pharmacokinetics and pharmacodynamics. This study evaluated curcumin as a potential enhancer of testosterone undecanoate bioavailability by inhibiting intestinal UGT2B17, the key enzyme mediating testosterone glucuronidation. In vitro and pilot clinical studies showed that curcumin can inhibit testosterone metabolism and enhance its systemic levels. These findings suggest that UGT2B17 inhibition by curcumin or other UGT2B17 inhibitors could be a promising approach to improve oral testosterone bioavailability.",
+  "type": "academic",
+  "pdf_url": ""
+}

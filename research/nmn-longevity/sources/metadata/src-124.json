@@ -1,0 +1,25 @@
+{
+  "id": "src-124",
+  "title": "Nicotinamide riboside is uniquely and orally bioavailable in mice and humans",
+  "authors": [
+    "Trammell, Samuel A.J.",
+    "Schmidt, Mark S.",
+    "Weidemann, Benjamin J.",
+    "Redpath, Philip",
+    "Jaksch, Frank",
+    "Dellinger, Ryan W.",
+    "Li, Zhonggang",
+    "Abel, E. Dale",
+    "Migaud, Marie E.",
+    "Brenner, Charles"
+  ],
+  "doi": "10.1038/ncomms12948",
+  "url": "https://openalex.org/W2530388030",
+  "provider": "openalex",
+  "year": 2016,
+  "venue": "Nature Communications",
+  "citation_count": 686,
+  "abstract": "Nicotinamide riboside (NR) is in wide use as an NAD<sup>+</sup> precursor vitamin. Here we determine the time and dose-dependent effects of NR on blood NAD<sup>+</sup> metabolism in humans. We report that human blood NAD<sup>+</sup> can rise as much as 2.7-fold with a single oral dose of NR in a pilot study of one individual, and that oral NR elevates mouse hepatic NAD<sup>+</sup> with distinct and superior pharmacokinetics to those of nicotinic acid and nicotinamide. We further show that single doses of 100, 300 and 1,000 mg of NR produce dose-dependent increases in the blood NAD<sup>+</sup> metabolome in the first clinical trial of NR pharmacokinetics in humans. We also report that nicotinic acid adenine dinucleotide (NAAD), which was not thought to be en route for the conversion of NR to NAD<sup>+</sup>, is formed from NR and discover that the rise in NAAD is a highly sensitive biomarker of effective NAD<sup>+</sup> repletion.",
+  "type": "academic",
+  "pdf_url": "https://www.nature.com/articles/ncomms12948.pdf"
+}

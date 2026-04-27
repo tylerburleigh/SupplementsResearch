@@ -1,0 +1,17 @@
+{
+  "id": "src-249",
+  "title": "Characterization of Two Distinct Structural Classes of Selective Aldehyde Dehydrogenase 1A1 Inhibitors",
+  "authors": [
+    "Morgan, Cynthia A.",
+    "Hurley, Thomas D."
+  ],
+  "doi": "10.1021/jm501900s",
+  "url": "https://openalex.org/W2115540454",
+  "provider": "openalex",
+  "year": 2015,
+  "venue": "Journal of Medicinal Chemistry",
+  "citation_count": 93,
+  "abstract": "Aldehyde dehydrogenases (ALDH) catalyze the irreversible oxidation of aldehydes to their corresponding carboxylic acid. Alterations in ALDH1A1 activity are associated with such diverse diseases as cancer, Parkinson's disease, obesity, and cataracts. Inhibitors of ALDH1A1 could aid in illuminating the role of this enzyme in disease processes. However, there are no commercially available selective inhibitors for ALDH1A1. Here we characterize two distinct chemical classes of inhibitors that are selective for human ALDH1A1 compared to eight other ALDH isoenzymes. The prototypical members of each structural class, CM026 and CM037, exhibit submicromolar inhibition constants but have different mechanisms of inhibition. The crystal structures of these compounds bound to ALDH1A1 demonstrate that they bind within the aldehyde binding pocket of ALDH1A1 and exploit the presence of a unique glycine residue to achieve their selectivity. These two novel and selective ALDH1A1 inhibitors may serve as chemical tools to better understand the contributions of ALDH1A1 to normal biology and to disease states.",
+  "type": "academic",
+  "pdf_url": "https://www.osti.gov/servlets/purl/1173012"
+}

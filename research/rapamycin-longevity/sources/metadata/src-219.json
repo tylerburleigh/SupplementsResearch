@@ -1,0 +1,27 @@
+{
+  "id": "src-219",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "",
+  "pdf_url": "https://tavernarakislab.gr/documents/IFE.pdf",
+  "venue": "",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "",
+  "fetched_at": "2026-04-26T22:56:09.581856+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-219.md",
+  "quality_details": {
+    "content_length": 29907,
+    "alpha_ratio": 0.737,
+    "sentence_count": 411,
+    "reasons": []
+  }
+}

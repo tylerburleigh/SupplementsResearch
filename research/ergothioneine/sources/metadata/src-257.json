@@ -1,0 +1,33 @@
+{
+  "id": "src-257",
+  "title": "Gene knockout and metabolome analysis of carnitine/organic cation transporter OCTN1.",
+  "authors": [
+    "Kato, Yukio",
+    "Kubo, Yoshiyuki",
+    "Iwata, Daisuke",
+    "Kato, Sayaka",
+    "Sudo, Tomohisa",
+    "Sugiura, Tomoko",
+    "Kagaya, Takashi",
+    "Wakayama, Tomohiko",
+    "Hirayama, Akiyoshi",
+    "Sugimoto, Masahiro",
+    "Sugihara, Kazushi",
+    "Kaneko, Shuichi",
+    "Soga, Tomoyoshi",
+    "Asano, Masahide",
+    "Tomita, Masaru",
+    "Matsui, Toshiyuki",
+    "Wada, Morimasa",
+    "Tsuji, Akira"
+  ],
+  "doi": "10.1007/s11095-010-0076-z",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/20224991",
+  "provider": "pubmed",
+  "year": 2010,
+  "venue": "Pharmaceutical research",
+  "citation_count": 0,
+  "abstract": "PURPOSE: Solute carrier OCTN1 (SLC22A4) is an orphan transporter, the physiologically important substrate of which is still unidentified. The aim of the present study was to examine physiological roles of OCTN1.\nMETHODS: We first constructed octn1 gene knockout (octn1 ( -/- )) mice. Metabolome analysis was then performed to identify substrates in vivo. The possible association of the substrate identified with diseased conditions was further examined.\nRESULTS: The metabolome analysis of blood and several organs indicated complete deficiency of a naturally occurring potent antioxidant ergothioneine in octn1 ( -/- ) mice among 112 metabolites examined. Pharmacokinetic analyses after oral administration revealed the highest distribution to small intestines and extensive renal reabsorption of [(3)H]ergothioneine, both of which were much reduced in octn1 ( -/- ) mice. The octn1 ( -/- ) mice exhibited greater susceptibility to intestinal inflammation under the ischemia and reperfusion model. The blood ergothioneine concentration was also much reduced in Japanese patients with Crohn's disease, compared with healthy volunteers and patients with another inflammatory bowel disease, ulcerative colitis.\nCONCLUSIONS: These results indicate that OCTN1 plays a pivotal role for maintenance of systemic and intestinal exposure of ergothioneine, which could be important for protective effects against intestinal tissue injuries, providing a possible diagnostic tool to distinguish the inflammatory bowel diseases.",
+  "type": "academic",
+  "pdf_url": ""
+}

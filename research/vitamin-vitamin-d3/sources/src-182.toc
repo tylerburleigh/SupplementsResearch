@@ -1,0 +1,11 @@
+12	2	Abstract
+47	2	Background
+282	2	Icu
+353	2	Discussion
+391	2	Conclusion
+413	2	Acknowledgements
+444	2	Competing Interests
+456	2	References
+457	2	1. Holick MF, Binkley NC, Bischoff-Ferrari HA, Gordon CM, Hanley DA, Heaney
+496	2	14. Quraishi SA, De Pascale G, Needleman JS, Nakazawa H, Kaneki M, Bajwa EK,
+503	2	16. Jamall OA, Feeney C, Zaw-Linn J, Malik A, Niemi ME, Tenorio-Jimenez C,

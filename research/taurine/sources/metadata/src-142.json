@@ -1,0 +1,32 @@
+{
+  "id": "src-142",
+  "title": "Chemoprotective Effect of Taurine on Potassium Bromate-Induced DNA Damage, DNA-Protein Cross-Linking and Oxidative Stress in Rat Intestine",
+  "authors": [
+    "Ahmad, Mir Kaisar",
+    "Khan, Aijaz Ahmed",
+    "Ali, Shaikh Nisar",
+    "Mahmood, Riaz"
+  ],
+  "year": 2015,
+  "abstract": "",
+  "doi": "10.1371/journal.pone.0119137",
+  "url": "https://doi.org/10.1371/journal.pone.0119137",
+  "pdf_url": "",
+  "venue": "PLOS ONE",
+  "citation_count": 43,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-19T12:00:35.763422+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-142.md",
+  "quality_details": {
+    "content_length": 54690,
+    "alpha_ratio": 0.729,
+    "sentence_count": 642,
+    "reasons": []
+  }
+}

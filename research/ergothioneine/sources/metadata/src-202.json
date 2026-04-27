@@ -1,0 +1,20 @@
+{
+  "id": "src-202",
+  "title": "Relationship between the concentration of ergothioneine in plasma and the likelihood of developing pre-eclampsia",
+  "authors": [
+    "Kenny, Louise C.",
+    "Brown, Leslie W.",
+    "Ortea, Paloma",
+    "Tuytten, Robin",
+    "Kell, Douglas B."
+  ],
+  "doi": "10.1042/bsr20230160",
+  "url": "https://openalex.org/W4379508867",
+  "provider": "openalex",
+  "year": 2023,
+  "venue": "Bioscience Reports",
+  "citation_count": 12,
+  "abstract": "Ergothioneine, an antioxidant nutraceutical mainly at present derived from the dietary intake of mushrooms, has been suggested as a preventive for pre-eclampsia (PE). We analysed early pregnancy samples from a cohort of 432 first time mothers as part of the Screening for Endpoints in Pregnancy (SCOPE, European branch) project to determine the concentration of ergothioneine in their plasma. There was a weak association between the ergothioneine levels and maternal age but none for BMI. Of these 432 women, 97 went on to develop pre-term (23) or term (74) PE. If a threshold was set at the 90th percentile of the reference range in the control population (≥462 ng/ml), only one of these 97 women (1%) developed PE, versus 96/397 (24.2%) whose ergothioneine level was below this threshold. One possible interpretation of these findings, consistent with previous experiments in a reduced uterine perfusion model in rats, is that ergothioneine may indeed prove protective against PE in humans. An intervention study of some kind now seems warranted.",
+  "type": "academic",
+  "pdf_url": "https://portlandpress.com/bioscirep/article-pdf/doi/10.1042/BSR20230160/947587/bsr-2023-0160-t.pdf"
+}

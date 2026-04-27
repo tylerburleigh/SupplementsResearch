@@ -1,0 +1,16 @@
+{
+  "id": "src-203",
+  "title": "AMPK: A Target for Drugs and Natural Products With Effects on Both Diabetes and Cancer",
+  "authors": [
+    "Hardie, D. Grahame"
+  ],
+  "doi": "10.2337/db13-0368",
+  "url": "https://openalex.org/W2125344123",
+  "provider": "openalex",
+  "year": 2013,
+  "venue": "Diabetes",
+  "citation_count": 445,
+  "abstract": "The AMP-activated protein kinase (AMPK) is a highly conserved sensor of cellular energy that appears to have arisen at an early stage during eukaryotic evolution. In 2001 it was shown to be activated by metformin, currently the major drug for treatment for type 2 diabetes. Although the known metabolic effects of AMPK activation are consistent with the idea that it mediates some of the therapeutic benefits of metformin, as discussed below it now appears unlikely that AMPK is the sole target of the drug. AMPK is also activated by several natural plant products derived from traditional medicines, and the mechanisms by which they activate AMPK are discussed. One of these is salicylate, probably the oldest medicinal agent known to humankind. The salicylate prodrug salsalate has been shown to improve metabolic parameters in subjects with insulin resistance and prediabetes, and whether this might be mediated in part by AMPK is discussed. Interestingly, there is evidence that both metformin and aspirin provide some protection against development of cancer in humans, and whether AMPK might be involved in these effects is also discussed.",
+  "type": "academic",
+  "pdf_url": "https://discovery.dundee.ac.uk/ws/files/19341716/2164.full.pdf"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "src-209",
+  "title": "Nicotinamide mononucleotide induces lipolysis by regulating ATGL expression via the SIRT1-AMPK axis in adipocytes",
+  "authors": [
+    "Imi, Yukiko",
+    "Amano, Reina",
+    "Kasahara, Nanaho",
+    "Obana, Yuichiro",
+    "Hosooka, T."
+  ],
+  "doi": "10.1016/j.bbrep.2023.101476",
+  "url": "https://www.semanticscholar.org/paper/bfa22c70b6cf827dd167e74658294f83c45c2b9f",
+  "provider": "semantic_scholar",
+  "year": 2023,
+  "venue": "Biochemistry and Biophysics Reports",
+  "citation_count": 10,
+  "abstract": "Nicotinamide adenine dinucleotide (NAD+) -dependent protein deacetylase SIRT1 plays an important role in the regulation of metabolism. Although the administration of nicotinamide mononucleotide (NMN), a key NAD+ intermediate, has been shown to ameliorate metabolic disorders, such as insulin resistance and glucose intolerance, the direct effect of NMN on the regulation of lipid metabolism in adipocytes remains unclear. We here investigated the effect of NMN on lipid storage in 3T3-L1 differentiated adipocytes. Oil-red O staining showed that NMN treatment reduced lipid accumulation in these cells. NMN was found to enhance lipolysis in adipocytes since the concentration of glycerol in the media was increased by NMN treatment. Western blotting and real-time RT-PCR analysis revealed that adipose triglyceride lipase (ATGL) expression at both protein and mRNA level was increased with NMN treatment in 3T3-L1 adipocytes. Whereas NMN increased SIRT1 expression and AMPK activation, an AMPK inhibitor compound C restored the NMN-dependent upregulation of ATGL expression in these cells, suggesting that NMN upregulates ATGL expression through the SIRT1-AMPK axis. NMN administration significantly decreased subcutaneous fat mass in mice on a high-fat diet. We also found that adipocyte size in subcutaneous fat was decreased with NMN treatment. Consistent with the alteration of fat mass and adipocyte size, the ATGL expression in subcutaneous fat was slightly, albeit significantly, increased with NMN treatment. These results indicate that NMN suppresses subcutaneous fat mass in diet-induced obese mice, potentially in part via the upregulation of ATGL. Unexpectedly, the reduction in fat mass as well as ATGL upregulation with NMN treatment were not observed in epididymal fat, implying that the effects of NMN are site-specific in adipose tissue. Thus, these findings provide important insights into the mechanism of NMN/NAD+ in the regulation of metabolism.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.1016/j.bbrep.2023.101476"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "src-136",
+  "title": "Fisetin ameliorates methotrexate induced liver fibrosis.",
+  "authors": [
+    "Kayalı, A",
+    "Bora, E S",
+    "Acar, H",
+    "Yılmaz, G",
+    "Erbaş, O"
+  ],
+  "doi": "10.26355/eurrev_202404_36027",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38708470",
+  "provider": "pubmed",
+  "year": 2024,
+  "venue": "European review for medical and pharmacological sciences",
+  "citation_count": 0,
+  "abstract": "OBJECTIVE: Methotrexate (MTX), a widely used chemotherapeutic and immunosuppressive agent, is associated with hepatotoxicity, leading to liver fibrosis and cirrhosis. This study explores the regenerative and reparative effects of fisetin, a flavonoid with known antioxidant and anti-inflammatory properties, on MTX-induced liver fibrosis in a rat model.\nMATERIALS AND METHODS: Thirty-six male Wistar albino rats were divided into normal, MTX and saline, and MTX and fisetin. Liver injury was induced in the latter two groups using a single intraperitoneal dose of MTX (20 mg/kg). Fisetin (50 mg/kg/day) or saline was administered intraperitoneally for ten days. After sacrifice, liver tissues were subjected to histopathological evaluation and biochemical analyses, including Transforming Growth Factor-β1 (TGF-beta), sirtuins-1 (SIRT-1), malondialdehyde (MDA), cytokeratin 18, thrombospondin 1, and alanine transaminase (ALT) levels.\nRESULTS: MTX administration significantly increased liver injury markers, including TGF-beta, MDA, cytokeratin 18, thrombospondin 1, and ALT, while reducing SIRT-1 levels. Fisetin treatment attenuated these effects, demonstrating its potential therapeutic impact. Histopathological analysis confirmed that fisetin mitigated MTX-induced hepatocyte necrosis, fibrosis, and cellular infiltration.\nCONCLUSIONS: This study proves that fisetin administration can alleviate MTX-induced liver damage in rats. The reduction in oxidative stress, inflammation, and apoptosis, along with the histological improvements, suggests fisetin's potential as a therapeutic agent against MTX-induced hepatotoxicity. Further investigations and clinical studies are warranted to validate these findings and assess fisetin's translational potential in human cases of MTX-induced liver damage.",
+  "type": "academic",
+  "pdf_url": ""
+}

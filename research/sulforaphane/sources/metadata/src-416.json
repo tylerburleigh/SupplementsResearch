@@ -1,0 +1,27 @@
+{
+  "id": "src-416",
+  "title": "Cabbage and fermented vegetables: From death rate heterogeneity in countries to candidates for mitigation strategies of severe COVID‐19",
+  "authors": [
+    "Bousquet, Jean",
+    "Anto, Josep M.",
+    "Czarlewski, Wienczyslawa",
+    "Haahtela, Tari",
+    "Fonseca, Susana",
+    "Iaccarino, Guido",
+    "Blain, Hubert",
+    "Vidal, Alain",
+    "Sheikh, Aziz",
+    "Akdiş, Cezmi A.",
+    "Zuberbier, Torsten",
+    "group, ARIA"
+  ],
+  "doi": "10.1111/all.14549",
+  "url": "https://openalex.org/W3047304126",
+  "provider": "openalex",
+  "year": 2020,
+  "venue": "Allergy",
+  "citation_count": 117,
+  "abstract": "Abstract Large differences in COVID‐19 death rates exist between countries and between regions of the same country. Some very low death rate countries such as Eastern Asia, Central Europe, or the Balkans have a common feature of eating large quantities of fermented foods. Although biases exist when examining ecological studies, fermented vegetables or cabbage have been associated with low death rates in European countries. SARS‐CoV‐2 binds to its receptor, the angiotensin‐converting enzyme 2 (ACE2). As a result of SARS‐CoV‐2 binding, ACE2 downregulation enhances the angiotensin II receptor type 1 (AT 1 R) axis associated with oxidative stress. This leads to insulin resistance as well as lung and endothelial damage, two severe outcomes of COVID‐19. The nuclear factor (erythroid‐derived 2)‐like 2 (Nrf2) is the most potent antioxidant in humans and can block in particular the AT 1 R axis. Cabbage contains precursors of sulforaphane, the most active natural activator of Nrf2. Fermented vegetables contain many lactobacilli, which are also potent Nrf2 activators. Three examples are: kimchi in Korea, westernized foods, and the slum paradox. It is proposed that fermented cabbage is a proof‐of‐concept of dietary manipulations that may enhance Nrf2‐associated antioxidant effects, helpful in mitigating COVID‐19 severity.",
+  "type": "academic",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/all.14549"
+}

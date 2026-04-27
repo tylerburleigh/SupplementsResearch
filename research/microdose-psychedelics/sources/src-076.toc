@@ -1,0 +1,8 @@
+44	2	Open
+124	2	Methods
+257	2	Results
+360	2	Discussion
+431	2	References
+525	2	Acknowledgements
+532	2	Author Contributions
+546	2	Competing Interests

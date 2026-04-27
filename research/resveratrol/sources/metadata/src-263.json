@@ -1,0 +1,17 @@
+{
+  "id": "src-263",
+  "title": "Sirtuins in mammals: insights into their biological function",
+  "authors": [
+    "Michán, Shaday",
+    "Sinclair, David"
+  ],
+  "doi": "10.1042/bj20070140",
+  "url": "https://openalex.org/W2005789183",
+  "provider": "openalex",
+  "year": 2007,
+  "venue": "Biochemical Journal",
+  "citation_count": 1692,
+  "abstract": "Sirtuins are a conserved family of proteins found in all domains of life. The first known sirtuin, Sir2 (silent information regulator 2) of Saccharomyces cerevisiae, from which the family derives its name, regulates ribosomal DNA recombination, gene silencing, DNA repair, chromosomal stability and longevity. Sir2 homologues also modulate lifespan in worms and flies, and may underlie the beneficial effects of caloric restriction, the only regimen that slows aging and extends lifespan of most classes of organism, including mammals. Sirtuins have gained considerable attention for their impact on mammalian physiology, since they may provide novel targets for treating diseases associated with aging and perhaps extend human lifespan. In this review we describe our current understanding of the biological function of the seven mammalian sirtuins, SIRT1-7, and we will also discuss their potential as mediators of caloric restriction and as pharmacological targets to delay and treat human age-related diseases.",
+  "type": "academic",
+  "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/2753453"
+}

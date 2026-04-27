@@ -1,0 +1,17 @@
+{
+  "id": "src-338",
+  "title": "Homocysteine-Induced Endothelial Dysfunction",
+  "authors": [
+    "Lai, Christopher",
+    "Kan, Ming Yin"
+  ],
+  "doi": "10.1159/000437098",
+  "url": "https://openalex.org/W1951825856",
+  "provider": "openalex",
+  "year": 2015,
+  "venue": "Annals of Nutrition and Metabolism",
+  "citation_count": 348,
+  "abstract": "This review discussed and in particular emphasis the potential cellular pathways and the biological processes involved that lead to homocysteine-induced endothelial dysfunction, in particular in the impaired endothelial dependent dilatation aspect. Hyperhomocysteinemia is an independent cardiovascular risk factor that has been associated with atherosclerotic vascular diseases and ischemic heart attacks. The potential mechanisms by which elevated plasma homocysteine level leads to reduction in nitric oxide bioavailability include the disruptive uncoupling of nitric oxide synthase activity and quenching of nitric oxide by oxidative stress, the enzymatic inhibition by asymmetric dimethylarginine, endoplasmic reticulum stress with eventual endothelial cell apoptosis, and chronic inflammation/prothrombotic conditions. Homocysteine-induced endothelial dysfunction presumably affecting the bioavailability of the potent vasodilator 'nitric oxide', and such dysfunction can easily be monitor by flow-mediated dilation method using ultrasound. Understanding the mechanisms by which plasma homocysteine alter endothelial nitric oxide production is therefore essential in the comprehension of homocysteine-induced impairment of endothelial dependent dilatation, and its association of cardiovascular risk and its pathophysiology.",
+  "type": "academic",
+  "pdf_url": "https://karger.com/anm/article-pdf/67/1/1/2228653/000437098.pdf"
+}

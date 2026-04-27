@@ -1,0 +1,20 @@
+{
+  "id": "src-144",
+  "title": "Plasma homocysteine in women on oral oestrogen-containing contraceptives and in men with oestrogen-treated prostatic carcinoma",
+  "authors": [
+    "Brattström, Lars",
+    "Israelsson, Bo",
+    "Olsson, Ann",
+    "Andersson, Anders",
+    "Hultberg, Björn"
+  ],
+  "doi": "10.1080/00365519209088360",
+  "url": "https://openalex.org/W2023524643",
+  "provider": "openalex",
+  "year": 1992,
+  "venue": "Scandinavian Journal of Clinical and Laboratory Investigation",
+  "citation_count": 55,
+  "abstract": "The mechanism by which oral oestrogen-containing contraceptives in women and oestrogen treatment of prostatic carcinoma in men increases the risk of vascular disease is unclear. These agents decrease serum concentrations of vitamin B12, pyridoxal 5-phosphate, and folate, all of which are essential for the metabolism of the atherogenic amino acid homocysteine. We found serum vitamin B12 concentrations to be lower in 17 women using oral contraceptives (219 +/- 84 pmol l-1) than in 13 age-matched female controls (385 +/- 129, p less than 0.001), but similar values were obtained in the two groups both for fasting plasma homocysteine concentrations (9.1 +/- 2.4 vs 9.2 +/- 3.6 mumol l-1) and for the increase in these concentrations after methionine loading (19.2 +/- 7.5 vs 17.8 +/- 5.2 mumol l-1). In five men with prostatic carcinoma, high-dose oestrogen treatment decreased serum vitamin B12 concentrations by a mean of 30% (p less than 0.05) within 4 weeks, during which fasting plasma homocysteine concentrations decreased (13.8 +/- 4.5 vs 10.5 +/- 2.8 mumol l-1) and response to methionine loading increased (12.4 +/- 3.4 vs 17.3 +/- 5.1 mumol l-1), though the latter changes were non-significant. Our findings do not support the hypothesis that hyperhomocysteinemia explains cardiovascular risk in women using oral oestrogen-containing contraceptives, or in oestrogen-treated men with prostatic carcinoma.",
+  "type": "academic",
+  "pdf_url": ""
+}

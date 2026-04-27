@@ -1,0 +1,19 @@
+{
+  "id": "src-251",
+  "title": "Vitamin D and Atherosclerotic Cardiovascular Disease",
+  "authors": [
+    "Hiemstra, Thomas F.",
+    "Lim, Kenneth",
+    "Thadhani, Ravi",
+    "Manson, JoAnn E."
+  ],
+  "doi": "10.1210/jc.2019-00194",
+  "url": "https://openalex.org/W2928297576",
+  "provider": "openalex",
+  "year": 2019,
+  "venue": "The Journal of Clinical Endocrinology & Metabolism",
+  "citation_count": 70,
+  "abstract": "Current randomized trials of vitamin D supplementation do not support benefits for cardiovascular health, but the evidence remains inconclusive. Additional randomized trials assessing larger numbers of participants with low baseline vitamin D levels, having longer follow-up periods, and testing higher vitamin D dosages are needed to guide clinical practice.",
+  "type": "academic",
+  "pdf_url": "https://academic.oup.com/jcem/article-pdf/104/9/4033/29092058/jc.2019-00194.pdf"
+}

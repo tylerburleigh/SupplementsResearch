@@ -1,0 +1,29 @@
+{
+  "id": "src-142",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "",
+  "pdf_url": "http://alternative-therapies.com/oa/pdf/11358.pdf",
+  "venue": "",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "",
+  "fetched_at": "2026-04-24T13:02:06.859305+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-142.md",
+  "quality_details": {
+    "content_length": 27190,
+    "alpha_ratio": 0.722,
+    "sentence_count": 310,
+    "reasons": [
+      "paywall_page (subscribe)"
+    ]
+  }
+}

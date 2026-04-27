@@ -1,0 +1,19 @@
+{
+  "id": "src-091",
+  "title": "Curcumin: A review of anti-cancer properties and therapeutic activity in head and neck squamous cell carcinoma",
+  "authors": [
+    "Wilken, Reason",
+    "Veena, Mysore S.",
+    "Wang, Marilene B.",
+    "Srivatsan, Eri S."
+  ],
+  "doi": "10.1186/1476-4598-10-12",
+  "url": "https://openalex.org/W2151300092",
+  "provider": "openalex",
+  "year": 2011,
+  "venue": "Molecular Cancer",
+  "citation_count": 1052,
+  "abstract": "Curcumin (diferuloylmethane) is a polyphenol derived from the Curcuma longa plant, commonly known as turmeric. Curcumin has been used extensively in Ayurvedic medicine for centuries, as it is nontoxic and has a variety of therapeutic properties including anti-oxidant, analgesic, anti-inflammatory and antiseptic activity. More recently curcumin has been found to possess anti-cancer activities via its effect on a variety of biological pathways involved in mutagenesis, oncogene expression, cell cycle regulation, apoptosis, tumorigenesis and metastasis. Curcumin has shown anti-proliferative effect in multiple cancers, and is an inhibitor of the transcription factor NF-κB and downstream gene products (including c-myc, Bcl-2, COX-2, NOS, Cyclin D1, TNF-α, interleukins and MMP-9). In addition, curcumin affects a variety of growth factor receptors and cell adhesion molecules involved in tumor growth, angiogenesis and metastasis. Head and neck squamous cell carcinoma (HNSCC) is the sixth most common cancer worldwide and treatment protocols include disfiguring surgery, platinum-based chemotherapy and radiation, all of which may result in tremendous patient morbidity. As a result, there is significant interest in developing adjuvant chemotherapies to augment currently available treatment protocols, which may allow decreased side effects and toxicity without compromising therapeutic efficacy. Curcumin is one such potential candidate, and this review presents an overview of the current in vitro and in vivo data supporting its therapeutic activity in head and neck cancer as well as some of the challenges concerning its development as an adjuvant chemotherapeutic agent.",
+  "type": "academic",
+  "pdf_url": "https://molecular-cancer.biomedcentral.com/counter/pdf/10.1186/1476-4598-10-12"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "src-032",
+  "title": "Biomarkers of Nutrition for Development (BOND)—Iron Review",
+  "authors": [
+    "Lynch, Sean",
+    "Pfeiffer, Christine M",
+    "Georgieff, Michael K",
+    "Brittenham, Gary",
+    "Fairweather-Tait, Susan",
+    "Hurrell, Richard F",
+    "McArdle, Harry J",
+    "Raiten, Daniel J"
+  ],
+  "year": 2018,
+  "abstract": "",
+  "doi": "10.1093/jn/nxx036",
+  "url": "https://doi.org/10.1093/jn/nxx036",
+  "pdf_url": "",
+  "venue": "The Journal of Nutrition",
+  "citation_count": 274,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T17:57:45.849361+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-032.md",
+  "quality_details": {
+    "content_length": 441707,
+    "alpha_ratio": 0.746,
+    "sentence_count": 3963,
+    "reasons": []
+  }
+}

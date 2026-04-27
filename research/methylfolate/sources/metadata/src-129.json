@@ -1,0 +1,20 @@
+{
+  "id": "src-129",
+  "title": "Homocysteine, B vitamins, and cardiovascular disease: a Mendelian randomization study.",
+  "authors": [
+    "Yuan, Shuai",
+    "Mason, Amy M",
+    "Carter, Paul",
+    "Burgess, Stephen",
+    "Larsson, Susanna C"
+  ],
+  "doi": "10.1186/s12916-021-01977-8",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/33888102",
+  "provider": "pubmed",
+  "year": 2021,
+  "venue": "BMC medicine",
+  "citation_count": 0,
+  "abstract": "BACKGROUND: Whether a modestly elevated homocysteine level is causally associated with an increased risk of cardiovascular disease remains unestablished. We conducted a Mendelian randomization study to assess the associations of circulating total homocysteine (tHcy) and B vitamin levels with cardiovascular diseases in the general population.\nMETHODS: Independent single nucleotide polymorphisms associated with tHcy (n = 14), folate (n = 2), vitamin B6 (n = 1), and vitamin B12 (n = 14) at the genome-wide significance level were selected as instrumental variables. Summary-level data for 12 cardiovascular endpoints were obtained from genetic consortia, the UK Biobank study, and the FinnGen consortium.\nRESULTS: Higher genetically predicted circulating tHcy levels were associated with an increased risk of stroke. For each one standard deviation (SD) increase in genetically predicted tHcy levels, the odds ratio (OR) was 1.11 (95% confidence interval (CI), 1.03, 1.21; p = 0.008) for any stroke, 1.26 (95% CI, 1.05, 1.51; p = 0.013) for subarachnoid hemorrhage, and 1.11 (95% CI, 1.03, 1.21; p = 0.011) for ischemic stroke. Higher genetically predicted folate levels were associated with decreased risk of coronary artery disease (ORSD, 0.88; 95% CI, 0.78, 1.00, p = 0.049) and any stroke (ORSD, 0.86; 95% CI, 0.76, 0.97, p = 0.012). Genetically predicted increased vitamin B6 levels were associated with a reduced risk of ischemic stroke (ORSD, 0.88; 95% CI, 0.81, 0.97, p = 0.009). None of these associations persisted after multiple testing correction. There was no association between genetically predicted vitamin B12 and cardiovascular disease.\nCONCLUSIONS: This study reveals suggestive evidence that B vitamin therapy and lowering of tHcy may reduce the risk of stroke, particularly subarachnoid hemorrhage and ischemic stroke.",
+  "type": "academic",
+  "pdf_url": ""
+}

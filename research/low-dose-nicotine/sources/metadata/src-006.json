@@ -1,0 +1,29 @@
+{
+  "id": "src-006",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://theconversation.com/some-people-are-turning-to-nicotine-gum-and-patches-to-treat-long-covid-brain-fog-259093",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-23T21:30:49.519381+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-006.md",
+  "quality_details": {
+    "content_length": 5824,
+    "alpha_ratio": 0.811,
+    "sentence_count": 53,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

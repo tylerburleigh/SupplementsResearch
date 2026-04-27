@@ -1,0 +1,36 @@
+{
+  "id": "src-127",
+  "title": "Significance of taurine transporter (TauT) in homeostasis and its layers of regulation (Review)",
+  "authors": [
+    "Baliou, Stella",
+    "Kyriakopoulos, Anthony",
+    "Goulielmaki, Maria",
+    "Panayiotidis, Michalis",
+    "Spandidos, Demetrios",
+    "Zoumpourlis, Vassilios"
+  ],
+  "year": 2020,
+  "abstract": "",
+  "doi": "10.3892/mmr.2020.11321",
+  "url": "https://doi.org/10.3892/mmr.2020.11321",
+  "pdf_url": "",
+  "venue": "Molecular Medicine Reports",
+  "citation_count": 75,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-19T11:57:56.874390+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-127.md",
+  "quality_details": {
+    "content_length": 77163,
+    "alpha_ratio": 0.751,
+    "sentence_count": 495,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

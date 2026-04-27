@@ -1,0 +1,26 @@
+{
+  "id": "src-284",
+  "title": "P0962 Relationship between Total Corticosteroid Dose Prior to Advanced Therapy Induction and Primary Non-Response",
+  "authors": [
+    "Yokoo, T.",
+    "Yoshikawa, S.",
+    "Masuda, T.",
+    "Terauchi, S.",
+    "Uchida, H.",
+    "Nakao, T.",
+    "Inagaki, M.",
+    "Tani, T.",
+    "Okamoto, K.",
+    "Shibata, Y.",
+    "Inatsugi, N."
+  ],
+  "doi": "10.1093/ecco-jcc/jjae190.1136",
+  "url": "https://www.semanticscholar.org/paper/7752d2020903ade04ee53ae080bcdb641db30b2f",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "Journal of Crohn's & Colitis",
+  "citation_count": 0,
+  "abstract": "The PROFILE study1) highlighted the importance of top-down treatment with Advanced Therapy (AT) in Crohn’s disease. In ulcerative colitis (UC), the corticosteroid (CS) treatment cascade remains crucial for selecting AT candidates. CS treatment efficacy decreases with repeated use, affecting therapeutic outcomes of GMA and carotegrast. We hypothesized that total CS dose impacts subsequent AT efficacy and examined this relationship to optimize AT induction timing.\n\nWe retrospectively reviewed medical records of UC patients diagnosed after January 2010, analyzing the correlation between total CS dose prior to initial AT administration and AT response. Patients using steroids for other diseases or with incomplete CS dose information were excluded. Variables assessed included onset age, sex, disease extent, activity (PRO2), treatment details, and treatment failure rates. Nominal variables were analyzed using Fisher’s exact test and logistic regression analysis.\n\nData from 92 UC patients (44 males) were analyzed. Median onset age was 41.5 years, with median AT induction age of 46.5 years. Disease extent: total colitis/left-sided/rectum = 57/33/2. Mean total CS dose before AT initiation was 1,743.2 mg, with a mean 479.1 days between CS initiation and AT start. AT breakdown: IFX/ADA/GLM/VDZ/UST/UPA/TOF/FIL = 37/19/13/13/6/2/1/1. Median PRO2 at AT initiation was 4. (TABLE 1)\nPrimary non-response (PNR) occurred in 23 cases (24.0%), and loss of response (LOR) in 18 cases (18.8%). Multivariate analysis identified total CS dose ≥3,000 mg as a significant risk factor for PNR (OR 4.21, 95%CI 1.32-13.5, p=0.02). (TABLE 2) No risk factors were identified for LOR.\n\nAs previously reported, elderly-onset UC requires careful management due to potentially poor treatment response. The total CS dose appears to significantly impact primary non-response, suggesting that early transition to Advanced Therapy may be crucial for optimal patient outcomes.\n\n1)Nurulamin MN. A biomarker-stratified comparison of top-down versus accelerated step-up treatment strategies for patients with newly diagnosed Crohn’s disease (PROFILE). Lancet Gastroenterol Hepatol. 2024;9(5):415-427 doi:10.1016/S2468-1253(24)00034-7",
+  "type": "academic",
+  "pdf_url": ""
+}

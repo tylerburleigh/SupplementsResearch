@@ -1,0 +1,16 @@
+{
+  "id": "src-169",
+  "title": "Assessing Intrauterine Influences on Offspring Health Outcomes: Can Epidemiological Studies Yield Robust Findings?",
+  "authors": [
+    "Smith, George Davey"
+  ],
+  "doi": "10.1111/j.1742-7843.2007.00191.x",
+  "url": "https://openalex.org/W1564669788",
+  "provider": "openalex",
+  "year": 2008,
+  "venue": "Basic & Clinical Pharmacology & Toxicology",
+  "citation_count": 272,
+  "abstract": "The influence of factors acting during the intrauterine period on health outcomes of offspring is of considerable research and public health interest. There are, however, methodological challenges in establishing robust causal links, because exposures often act many decades before outcomes of interest, may act before it is evident that women are pregnant and would enter pregnancy birth cohorts, and may also be strongly related to other factors, generating considerable degrees of potential confounding. The degree of confounding can sometimes be estimated by comparing the association between exposures experienced by the mother during pregnancy and outcomes among the offspring with the association of exposures experienced by the father during the pregnancy period and offspring outcomes. If the effects are due to an intrauterine exposure, then maternal exposure during pregnancy should have a clearly greater influence than paternal exposure. A different approach is that of Mendelian randomization, which utilizes genetic variants of known functional effect that can proxy for modifiable exposures. If carried by the mother, these variants would influence the intrauterine environment experienced by her offspring. These genetic variants are stable over time and can be assessed after pregnancy is complete or even after outcomes in the offspring have been observed. The variants would also not generally be related to potential confounding factors. Other epidemiological strategies are briefly reviewed. It is concluded that the naïve acceptance of findings utilizing conventional epidemiological methods in this setting is misplaced.",
+  "type": "academic",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1742-7843.2007.00191.x"
+}

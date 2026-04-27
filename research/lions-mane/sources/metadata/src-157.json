@@ -1,0 +1,19 @@
+{
+  "id": "src-157",
+  "title": "Simultaneous UHPLC-UV Determination of Hericenones, Hericenes, Erinacines and Ergosterol in Hericium erinaceus Raw Materials or Products",
+  "authors": [
+    "Tang, Yijin",
+    "Kahraman, Ozan",
+    "Goos, Anthony J.",
+    "Fields, Christine"
+  ],
+  "doi": "10.3390/molecules31030569",
+  "url": "https://www.semanticscholar.org/paper/fb39111d603a55ebedfdf9e7e540ce096e91a113",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "Molecules",
+  "citation_count": 0,
+  "abstract": "This study describes a single-laboratory validation of an ultra-high-performance liquid chromatographic (UHPLC) method for the determination of key compounds like hericenones, hericenes, erinacines, and ergosterol in Hericium erinaceus (H. erinaceus, Lion’s Mane) raw materials and finished products. The expanding market for Hericium erinaceus (Lion’s Mane) has increased the need for practical, routine-ready analytical methods that can quantify characteristic marker compounds and strengthen quality control across both raw materials and finished products. In this study, an ultra-high-performance liquid chromatographic (UHPLC) separation method was developed for the determination of hericenones, hericenes, erinacines, and ergosterol in Hericium erinaceus raw materials and finished products. Under the optimized conditions, the major target analytes—hericenones, hericenes, erinacine A, and ergosterol—were fully resolved (Rs > 1.5) within 38 min using an HSS T3 column at 30 °C. All the peaks in the LC chromatogram of Hericium erinaceus samples and standard solutions were structurally confirmed by LC–UV-MS/MS based on the possible mass spectra. The quantitative calibration curves were linear, covering a range of 10–300 μg/mL for hericenone C, D and E, and hericene A, D and C; 3–100 μg/mL for deacylhericenone and deacylhericene; 1–50 μg/mL for erinacine A, and 5–200 μg/mL for ergosterol. Limits of quantification (LOQs) for hericenone C, D, and E and for hericene A, D, and C were approximately 9.263, 4.545, 4.650, 1.854, 10.72, and 11.18 µg/mL, respectively, while LOQs for deacylhericenone and deacylhericene were 1.083 and 2.109 µg/mL. Erinacine A and ergosterol showed LOQs of 0.642 and 8.352 µg/mL, respectively. The recovery of ergosterol was evaluated for the method at two different levels: 91.6~93.9% for 0.2% spiking and 93.0~102.6% for 0.08% spiking. The method was successfully validated, demonstrating inter-day Relative Standard Deviation (RSD) values between 1.1% and 5.7% for detected analytes across diverse matrices. This validated method provides a consistent quantification of hericenones, hericenes, erinacine A, and ergosterol across a range of commercial products and raw Hericium erinaceus materials, providing a sensitive and reliable tool for product characterization and quality control. This method provides QC laboratories with a robust, UV-based tool for standardized product characterization without requiring mass spectrometry.",
+  "type": "academic",
+  "pdf_url": ""
+}

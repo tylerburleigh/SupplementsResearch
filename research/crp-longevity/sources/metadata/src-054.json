@@ -1,0 +1,40 @@
+{
+  "id": "src-054",
+  "title": "Global assessment of C-reactive protein and health-related outcomes: an umbrella review of evidence from observational studies and Mendelian randomization studies",
+  "authors": [
+    "Markozannes, Georgios",
+    "Koutsioumpa, Charalampia",
+    "Cividini, Sofia",
+    "Monori, Grace",
+    "Tsilidis, Konstantinos K.",
+    "Kretsavos, Nikolaos",
+    "Theodoratou, Evropi",
+    "Gill, Dipender",
+    "Ioannidis, John PA",
+    "Tzoulaki, Ioanna"
+  ],
+  "year": 2021,
+  "abstract": "AbstractC-reactive protein (CRP) has been studied extensively for association with a large number of non-infectious diseases and outcomes. We aimed to evaluate the breadth and validity of associations between CRP and non-infectious, chronic health outcomes and biomarkers. We conducted an umbrella review of systematic reviews and meta-analyses and a systematic review of Mendelian randomization (MR) studies. PubMed, Scopus, and Cochrane Database of Systematic Reviews were systematically searched from inception up to March 2019. Meta-analyses of observational studies and MR studies examining associations between CRP and health outcomes were identified, excluding studies on the diagnostic value of CRP for infections. We found 113 meta-analytic comparisons of observational studies and 196 MR analyses, covering a wide range of outcomes. The overwhelming majority of the meta-analyses of observational studies reported a nominally statistically significant result (95/113, 84.1%); however, the majority of the meta-analyses displayed substantial heterogeneity (47.8%), small study effects (39.8%) or excess significance (41.6%). Only two outcomes, cardiovascular mortality and venous thromboembolism, showed convincing evidence of association with CRP levels. When examining the MR literature, we found MR studies for 53/113 outcomes examined in the observational study meta-analyses but substantial support for a causal association with CRP was not observed for any phenotype. Despite the striking amount of research on CRP, convincing evidence for associations and causal effects is remarkably limited.",
+  "doi": "10.1007/s10654-020-00681-w",
+  "url": "https://doi.org/10.1007/s10654-020-00681-w",
+  "pdf_url": "",
+  "venue": "European Journal of Epidemiology",
+  "citation_count": 46,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-24T01:07:24.141351+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-054.md",
+  "quality_details": {
+    "content_length": 104588,
+    "alpha_ratio": 0.613,
+    "sentence_count": 1060,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

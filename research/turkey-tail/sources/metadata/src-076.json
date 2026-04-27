@@ -1,0 +1,27 @@
+{
+  "id": "src-076",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "",
+  "pdf_url": "https://www.tcm.ac/wp-content/uploads/2023/10/001-SYM2-Medicinal-Mushroom-Supplements-in-Cancer_-A-Systematic-Review-of-Clinical-Studies.pdf",
+  "venue": "",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "",
+  "fetched_at": "2026-04-23T18:44:17.852156+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-076.md",
+  "quality_details": {
+    "content_length": 75019,
+    "alpha_ratio": 0.743,
+    "sentence_count": 622,
+    "reasons": []
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "src-308",
+  "title": "Nutritional Aspects of Depression",
+  "authors": [
+    "Lang, Undine E.",
+    "Beglinger, Christoph",
+    "Schweinfurth, Nina",
+    "Walter, Marc",
+    "Borgwardt, Stefan"
+  ],
+  "doi": "10.1159/000430229",
+  "url": "https://openalex.org/W1774706107",
+  "provider": "openalex",
+  "year": 2015,
+  "venue": "Cellular Physiology and Biochemistry",
+  "citation_count": 237,
+  "abstract": "Several nutrition, food and dietary compounds have been suggested to be involved in the onset and maintenance of depressive disorders and in the severity of depressive symptoms. Nutritional compounds might modulate depression associated biomarkers and parallel the development of depression, obesity and diabetes. In this context, recent studies revealed new mediators of both energy homeostasis and mood changes (i.e. IGF-1, NPY, BDNF, ghrelin, leptin, CCK, GLP-1, AGE, glucose metabolism and microbiota) acting in gut brain circuits. In this context several healthy foods such as olive oil, fish, fruits, vegetables, nuts, legumes, poultry, dairy and unprocessed meat have been inversely associated with depression risk and even have been postulated to improve depressive symptoms. In contrast, unhealthy western dietary patterns including the consumption of sweetened beverage, refined food, fried food, processed meat, refined grain, and high fat diary, biscuits, snacking and pastries have been shown to be associated with an increased risk of depression in longitudinal studies. However, it is always difficult to conclude a real prospective causal relationship from these mostly retrospective studies as depressed individuals might also change their eating habits secondarily to their depression. Additionally specific selected nutritional compounds, e.g. calcium, chromium, folate, PUFAs, vitamin D, B12, zinc, magnesium and D-serine have been postulated to be used as ad-on strategies in antidepressant treatment. In this context, dietary and lifestyle interventions may be a desirable, effective, pragmatical and non-stigmatizing prevention and treatment strategy for depression. At last, several medications (pioglitazone, metformin, exenatide, atorvastatin, gram-negative antibiotics), which have traditionally been used to treat metabolic disorders showed a certain potential to treat depression in first randomized controlled clinical trials.",
+  "type": "academic",
+  "pdf_url": "https://www.karger.com/Article/Pdf/430229"
+}

@@ -1,0 +1,20 @@
+34	2	Keywords
+36	2	1 Introduction
+48	2	Open Access
+49	2	Edited By
+52	2	Reviewed By
+61	2	Citation
+69	2	Copyright
+113	2	2 Creatine supplementation: from
+152	2	3 Muscle as an endocrine organ: the
+189	2	4 Creatine and myokines: a new
+205	3	4.1 Increased muscle energy
+234	3	4.2 Muscle hypertrophy and inflammatory
+275	3	4.3 Effects on insulin metabolism
+293	2	5 BDNF and creatine supplementation
+393	2	6 Future directions and conclusion
+430	2	Author Contributions
+445	2	Acknowledgments
+476	2	References
+569	2	33. Bogdanis GC, Nevill ME, Aphamis G, Stavrinou PS, Jenkins DG, Giannaki CD,
+592	2	40. Burke DG, Candow DG, Chilibeck PD, MacNeil LG, Roy BD, Tarnopolsky MA,

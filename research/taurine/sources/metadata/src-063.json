@@ -1,0 +1,38 @@
+{
+  "id": "src-063",
+  "title": "Effects of taurine supplementation on VDT work induced visual stress",
+  "authors": [
+    "Zhang, M.",
+    "Bi, L. F.",
+    "Ai, Y. D.",
+    "Yang, L. P.",
+    "Wang, H. B.",
+    "Liu, Z. Y.",
+    "Sekine, M.",
+    "Kagamimori, S."
+  ],
+  "year": 2004,
+  "abstract": "",
+  "doi": "10.1007/s00726-003-0032-x",
+  "url": "https://doi.org/10.1007/s00726-003-0032-x",
+  "pdf_url": "",
+  "venue": "Amino Acids",
+  "citation_count": 14,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-19T11:33:07.329022+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-063.md",
+  "quality_details": {
+    "content_length": 4138,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

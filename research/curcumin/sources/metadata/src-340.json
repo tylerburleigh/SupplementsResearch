@@ -1,0 +1,19 @@
+{
+  "id": "src-340",
+  "title": "Molecular docking of curcumin and curcuminoids as human Zn+ dependent histone deacetylase (HDAC) enzyme inhibitors.",
+  "authors": [
+    "Anandaradje, Annuja",
+    "Kalita, Bikashita",
+    "Coumar, Mohane S",
+    "Selvarajan, Sandhiya"
+  ],
+  "doi": "10.1007/s40203-024-00221-4",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38817777",
+  "provider": "pubmed",
+  "year": 2024,
+  "venue": "In silico pharmacology",
+  "citation_count": 0,
+  "abstract": "UNLABELLED: Chemotherapy is one of the most well-established and effective cancer treatments available. However, non-tumor-associated damage restrict the treatment's effectiveness and safety. Our growing understanding of cancer epigenetics has resulted in new therapeutic options and the potential of better patient outcomes in recent decades. In cancer, epigenetic changes are widespread, particularly increased expression and activity of histone deacetylases (HDACs). Epi-drugs are chemical agents that modify the structure of DNA and chromatin facilitating disruption of transcriptional and post-transcriptional changes. First generation epi-drugs include HDAC inhibitors (HDACi) (approved to treat hematological malignancies) harbor various adverse effects demanding the discovery and development of potential natural HDACi that might benefit cancer treatment especially in hematological malignancies. Curcumin (diferuloylmethane), a polyphenolic, component of Curcuma longa, is a well-known anti-inflammatory, anti-oxidative, and anti-lipidemic agent and has recently been shown to be a pan HDACi. Yet the potential of other curcuminoids in Curcuma longa as pan HDACi remains unexplored. (i) To virtually screen curcumin and curcuminoids (Desmethoxycurcumin [DMC] & Bisdemethoxycurcumin [BDMC]) against human Histone deacetylase (HDAC) class I, II and IV enzymes in comparison to their pan HDAC inhibition activity with FDA approved human HDACis available in market and also (ii) to predict the drug likeness property and ADME/ toxicity of curcumin, curcuminoids and approved HDACis via computational approach. Homology modelling followed by docking was performed for human HDAC class I, II and IV enzymes with curcumin, Desmethoxycurcumin, Bisdemethoxycurcumin and with 5 reference HDACi compounds Vorinostat (SAHA), Trichostatin A (TSA), Chidamide, Romidepsin, and Panobinostat to understand the protein -ligand interactions and binding efficiencies. Further, the study ligands with low binding energy were predicted for pharmacokinetic properties and Lipinski's rule of 5. Our study revealed that BDMC followed by DMC and curcumin had high inhibitory effect by interacting at the active site of Zn+ HDACs similar to that of the standard HDACi (curcumin, DMC, BDMC, Belinostat, Chidamide, Romidepsin, Panobinostat, Trichostatin A and Vorinostat). Likewise, all of the chosen ligand molecules, with the exception of Romidepsin (refractive index > 130 m3mol-1), adhered to Lipinski's rule of five and none of the natural compounds (curcumin, DMC, BDMC) did report any toxicity and mutagenic property also, the lethal doses (LD50) of all the natural compounds were higher when compared to chemical drugs. BDMC could be a potential pan HDACi than curcumin and DMC owing to high binding affinity among human Zn+ HDACs. The results of our present study can be useful for the design and development of novel compounds having better HDAC inhibitory activity against several types of cancers. Moreover, these findings could be validated with invitro investigations and by clinical trials to evaluate the survival outcomes in cancer patients when treated with the natural HDACi along with standard chemo regimen.\nSUPPLEMENTARY INFORMATION: The online version contains supplementary material available at 10.1007/s40203-024-00221-4.",
+  "type": "academic",
+  "pdf_url": ""
+}

@@ -1,0 +1,25 @@
+{
+  "id": "src-325",
+  "title": "Epigenetic regulation in metabolic diseases: mechanisms and advances in clinical study",
+  "authors": [
+    "Wu, Yanlin",
+    "Lin, Zhengjun",
+    "Li, Changchun",
+    "Lin, Xiao",
+    "Shan, Su‐Kang",
+    "Guo, Bei",
+    "Zheng, Ming-Hui",
+    "Li, Fu‐Xing‐Zi",
+    "Yuan, Ling‐Qing",
+    "Li, Zhihong"
+  ],
+  "doi": "10.1038/s41392-023-01333-7",
+  "url": "https://openalex.org/W4322770791",
+  "provider": "openalex",
+  "year": 2023,
+  "venue": "Signal Transduction and Targeted Therapy",
+  "citation_count": 406,
+  "abstract": "Epigenetics regulates gene expression and has been confirmed to play a critical role in a variety of metabolic diseases, such as diabetes, obesity, non-alcoholic fatty liver disease (NAFLD), osteoporosis, gout, hyperthyroidism, hypothyroidism and others. The term 'epigenetics' was firstly proposed in 1942 and with the development of technologies, the exploration of epigenetics has made great progresses. There are four main epigenetic mechanisms, including DNA methylation, histone modification, chromatin remodelling, and noncoding RNA (ncRNA), which exert different effects on metabolic diseases. Genetic and non-genetic factors, including ageing, diet, and exercise, interact with epigenetics and jointly affect the formation of a phenotype. Understanding epigenetics could be applied to diagnosing and treating metabolic diseases in the clinic, including epigenetic biomarkers, epigenetic drugs, and epigenetic editing. In this review, we introduce the brief history of epigenetics as well as the milestone events since the proposal of the term 'epigenetics'. Moreover, we summarise the research methods of epigenetics and introduce four main general mechanisms of epigenetic modulation. Furthermore, we summarise epigenetic mechanisms in metabolic diseases and introduce the interaction between epigenetics and genetic or non-genetic factors. Finally, we introduce the clinical trials and applications of epigenetics in metabolic diseases.",
+  "type": "academic",
+  "pdf_url": "https://www.nature.com/articles/s41392-023-01333-7.pdf"
+}

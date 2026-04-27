@@ -1,0 +1,17 @@
+{
+  "id": "src-104",
+  "title": "The Mitochondrial Permeability Transition: Nexus of Aging, Disease and Longevity",
+  "authors": [
+    "Rottenberg, H.",
+    "Hoek, J."
+  ],
+  "doi": "10.3390/cells10010079",
+  "url": "https://www.semanticscholar.org/paper/2003de76ddb1a15f86aaf8b6118049a15dbdccc9",
+  "provider": "semantic_scholar",
+  "year": 2020,
+  "venue": "Cells",
+  "citation_count": 76,
+  "abstract": "The activity of the mitochondrial permeability transition pore, mPTP, a highly regulated multi-component mega-channel, is enhanced in aging and in aging-driven degenerative diseases. mPTP activity accelerates aging by releasing large amounts of cell-damaging reactive oxygen species, Ca2+ and NAD+. The various pathways that control the channel activity, directly or indirectly, can therefore either inhibit or accelerate aging or retard or enhance the progression of aging-driven degenerative diseases and determine lifespan and healthspan. Autophagy, a catabolic process that removes and digests damaged proteins and organelles, protects the cell against aging and disease. However, the protective effect of autophagy depends on mTORC2/SKG1 inhibition of mPTP. Autophagy is inhibited in aging cells. Mitophagy, a specialized form of autophagy, which retards aging by removing mitochondrial fragments with activated mPTP, is also inhibited in aging cells, and this inhibition leads to increased mPTP activation, which is a major contributor to neurodegenerative diseases, such as Alzheimer’s and Parkinson’s diseases. The increased activity of mPTP in aging turns autophagy/mitophagy into a destructive process leading to cell aging and death. Several drugs and lifestyle modifications that enhance healthspan and lifespan enhance autophagy and inhibit the activation of mPTP. Therefore, elucidating the intricate connections between pathways that activate and inhibit mPTP, in the context of aging and degenerative diseases, could enhance the discovery of new drugs and lifestyle modifications that slow aging and degenerative disease.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2073-4409/10/1/79/pdf?version=1609917341"
+}

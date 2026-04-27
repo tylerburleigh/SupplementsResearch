@@ -1,0 +1,19 @@
+{
+  "id": "src-169",
+  "title": "Disorders affecting vitamin B<sub>6</sub> metabolism",
+  "authors": [
+    "Wilson, Matthew P.",
+    "Plecko, Barbara",
+    "Mills, Philippa B.",
+    "Clayton, Peter T."
+  ],
+  "doi": "10.1002/jimd.12060",
+  "url": "https://openalex.org/W2912214881",
+  "provider": "openalex",
+  "year": 2019,
+  "venue": "Journal of Inherited Metabolic Disease",
+  "citation_count": 249,
+  "abstract": "Vitamin B<sub>6</sub> is present in our diet in many forms, however, only pyridoxal 5'-phosphate (PLP) can function as a cofactor for enzymes. The intestine absorbs nonphosphorylated B<sub>6</sub> vitamers, which are converted by specific enzymes to the active PLP form. The role of PLP is enabled by its reactive aldehyde group. Pathways reliant on PLP include amino acid and neurotransmitter metabolism, folate and 1-carbon metabolism, protein and polyamine synthesis, carbohydrate and lipid metabolism, mitochondrial function and erythropoiesis. Besides the role of PLP as a cofactor B<sub>6</sub> vitamers also play other cellular roles, for example, as antioxidants, modifying expression and action of steroid hormone receptors, affecting immune function, as chaperones and as an antagonist of Adenosine-5'-triphosphate (ATP) at P2 purinoceptors. Because of the vital role of PLP in neurotransmitter metabolism, particularly synthesis of the inhibitory transmitter γ-aminobutyric acid, it is not surprising that various inborn errors leading to PLP deficiency manifest as B<sub>6</sub> -responsive epilepsy, usually of early onset. This includes pyridox(am)ine phosphate oxidase deficiency (a disorder affecting PLP synthesis and recycling), disorders affecting PLP import into the brain (hypophosphatasia and glycosylphosphatidylinositol anchor synthesis defects), a disorder of an intracellular PLP-binding protein (PLPBP, previously named PROSC) and disorders where metabolites accumulate that inactivate PLP, for example, ALDH7A1 deficiency and hyperprolinaemia type II. Patients with these disorders can show rapid control of seizures in response to either pyridoxine and/or PLP with a lifelong dependency on supraphysiological vitamin B<sub>6</sub> supply. The clinical and biochemical features of disorders leading to B<sub>6</sub> -responsive seizures and the treatment of these disorders are described in this review.",
+  "type": "academic",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/jimd.12060"
+}

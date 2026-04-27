@@ -1,0 +1,24 @@
+{
+  "id": "src-069",
+  "title": "Measuring biological aging in humans: A quest",
+  "authors": [
+    "Ferrucci, Luigi",
+    "González‐Freire, Marta",
+    "Fabbri, Elisa",
+    "Simonsick, Eleanor M.",
+    "Tanaka, Toshiko",
+    "Moore, Zenobia",
+    "Salimi, Shabnam",
+    "Sierra, Felipe",
+    "Cabo, Rafael de"
+  ],
+  "doi": "10.1111/acel.13080",
+  "url": "https://openalex.org/W2995774252",
+  "provider": "openalex",
+  "year": 2019,
+  "venue": "Aging Cell",
+  "citation_count": 752,
+  "abstract": "The global population of individuals over the age of 65 is growing at an unprecedented rate and is expected to reach 1.6 billion by 2050. Most older individuals are affected by multiple chronic diseases, leading to complex drug treatments and increased risk of physical and cognitive disability. Improving or preserving the health and quality of life of these individuals is challenging due to a lack of well-established clinical guidelines. Physicians are often forced to engage in cycles of \"trial and error\" that are centered on palliative treatment of symptoms rather than the root cause, often resulting in dubious outcomes. Recently, geroscience challenged this view, proposing that the underlying biological mechanisms of aging are central to the global increase in susceptibility to disease and disability that occurs with aging. In fact, strong correlations have recently been revealed between health dimensions and phenotypes that are typical of aging, especially with autophagy, mitochondrial function, cellular senescence, and DNA methylation. Current research focuses on measuring the pace of aging to identify individuals who are \"aging faster\" to test and develop interventions that could prevent or delay the progression of multimorbidity and disability with aging. Understanding how the underlying biological mechanisms of aging connect to and impact longitudinal changes in health trajectories offers a unique opportunity to identify resilience mechanisms, their dynamic changes, and their impact on stress responses. Harnessing how to evoke and control resilience mechanisms in individuals with successful aging could lead to writing a new chapter in human medicine.",
+  "type": "academic",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/acel.13080"
+}

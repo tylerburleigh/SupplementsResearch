@@ -1,0 +1,36 @@
+{
+  "id": "src-083",
+  "title": "Benefit–risk assessment of vitamin D supplementation",
+  "authors": [
+    "Bischoff-Ferrari, H. A.",
+    "Shao, A.",
+    "Dawson-Hughes, B.",
+    "Hathcock, J.",
+    "Giovannucci, E.",
+    "Willett, W. C."
+  ],
+  "year": 2010,
+  "abstract": "",
+  "doi": "10.1007/s00198-009-1119-3",
+  "url": "https://doi.org/10.1007/s00198-009-1119-3",
+  "pdf_url": "",
+  "venue": "Osteoporosis International",
+  "citation_count": 246,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T21:12:47.056983+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-083.md",
+  "quality_details": {
+    "content_length": 30741,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

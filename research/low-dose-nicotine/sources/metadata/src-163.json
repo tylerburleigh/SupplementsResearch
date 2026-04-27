@@ -1,0 +1,21 @@
+{
+  "id": "src-163",
+  "title": "Direct Transcriptional Effects of Apolipoprotein E",
+  "authors": [
+    "Theendakara, Veena",
+    "Peters‐Libeu, Clare",
+    "Spilman, Patricia",
+    "Poksay, Karen S.",
+    "Bredesen, Dale E.",
+    "Rao, Rammohan V."
+  ],
+  "doi": "10.1523/jneurosci.3562-15.2016",
+  "url": "https://openalex.org/W2318325474",
+  "provider": "openalex",
+  "year": 2016,
+  "venue": "Journal of Neuroscience",
+  "citation_count": 150,
+  "abstract": "A major unanswered question in biology and medicine is the mechanism by which the product of the apolipoprotein E ε4 allele, the lipid-binding protein apolipoprotein E4 (ApoE4), plays a pivotal role in processes as disparate as Alzheimer's disease (AD; in which it is the single most important genetic risk factor), atherosclerotic cardiovascular disease, Lewy body dementia, hominid evolution, and inflammation. Using a combination of neural cell lines, skin fibroblasts from AD patients, and ApoE targeted replacement mouse brains, we show in the present report that ApoE4 undergoes nuclear translocation, binds double-stranded DNA with high affinity (low nanomolar), and functions as a transcription factor. Using chromatin immunoprecipitation and high-throughput DNA sequencing, our results indicate that the ApoE4 DNA binding sites include ∼1700 gene promoter regions. The genes associated with these promoters provide new insight into the mechanism by which AD risk is conferred by ApoE4, because they include genes associated with trophic support, programmed cell death, microtubule disassembly, synaptic function, aging, and insulin resistance, all processes that have been implicated in AD pathogenesis. Significance statement: This study shows for the first time that apolipoprotein E4 binds DNA with high affinity and that its binding sites include 1700 promoter regions that include genes associated with neurotrophins, programmed cell death, synaptic function, sirtuins and aging, and insulin resistance, all processes that have been implicated in Alzheimer's disease pathogenesis.",
+  "type": "academic",
+  "pdf_url": "https://www.jneurosci.org/content/jneuro/36/3/685.full.pdf"
+}

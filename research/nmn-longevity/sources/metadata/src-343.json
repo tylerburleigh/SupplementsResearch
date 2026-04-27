@@ -1,0 +1,24 @@
+{
+  "id": "src-343",
+  "title": "FOXO1-NMNAT3 axis dysregulation promotes doxorubicin cardiotoxicity: NAD+ replenishment as a redox-targeted antioxidant therapy.",
+  "authors": [
+    "Cheng, Fang",
+    "Zhao, Minzhu",
+    "Wang, Qi",
+    "Xiong, Hongli",
+    "Yu, Kai",
+    "Chen, Chong",
+    "Zhu, Ying",
+    "Chen, Yemiao",
+    "Li, Jianbo"
+  ],
+  "doi": "10.1080/13510002.2025.2565033",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41021886",
+  "provider": "pubmed",
+  "year": 2025,
+  "venue": "Redox report : communications in free radical research",
+  "citation_count": 0,
+  "abstract": "OBJECTIVES: Doxorubicin (DOX) induces dose-dependent cardiotoxicity, primarily through oxidative stress and metabolic dysregulation. Although NAD+ deficiency has been implicated in cardiovascular pathology, its role in DOX-induced cardiotoxicity (DIC) remains poorly understood. This study investigated NAD+ metabolism dysregulation as a redox-sensitive mechanism in DIC pathogenesis.\nMETHODS: Human cardiomyocytes (AC16), mouse atrial myocytes (HL-1), and C57BL/6 mice were used to establish the DIC model. The role and mechanism of NAD+ in DIC were investigated using a range of methods.\nRESULTS: Using integrated in vitro and in vivo models, we demonstrated that DOX induces myocardial oxidative damage accompanied by NAD+ depletion. Exogenous NAD+ supplementation mitigated the DOX-induced cardiomyocyte death and redox imbalance. Mechanistically, pharmacological CD38 inhibition with 78C or genetic silencing failed to restore the NAD+ pool, whereas nicotinamide mononucleotide adenylyltransferase 3 (NMNAT3) overexpression, combined with nicotinamide mononucleotide (NMN) administration, effectively rescued NAD+ levels and attenuated oxidative stress. Computational and functional analyses identified FOXO1 as a transcriptional repressor of NMNAT3 following DOX exposure.\nCONCLUSION: This study establishes the dysregulation of the FOXO1-NMNAT3 axis as a key mechanism underlying NAD+ depletion in DIC. Targeting this axis through NAD+ replenishment, particularly by activating NMNAT3, offers a novel redox-based therapeutic strategy against DIC.",
+  "type": "academic",
+  "pdf_url": ""
+}

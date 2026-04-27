@@ -1,0 +1,22 @@
+{
+  "id": "src-299",
+  "title": "Molecular Basis for Adaptation of Oysters to Stressful Marine Intertidal Environments",
+  "authors": [
+    "Zhang, Guofan",
+    "Li, Li",
+    "Meng, Jie",
+    "Qi, Haigang",
+    "Qu, Tao",
+    "Xu, Fei",
+    "Zhang, Linlin"
+  ],
+  "doi": "10.1146/annurev-animal-022114-110903",
+  "url": "https://openalex.org/W1888174374",
+  "provider": "openalex",
+  "year": 2015,
+  "venue": "Annual Review of Animal Biosciences",
+  "citation_count": 159,
+  "abstract": "Oysters that occupy estuarine and intertidal habitats have well-developed stress tolerance mechanisms to tolerate harsh and dynamically changing environments. In this review, we summarize common pathways and genomic features in oyster that are responsive to environmental stressors such as temperature, salinity, hypoxia, air exposure, pathogens, and anthropogenic pollutions. We first introduce the key genes involved in several pathways, which constitute the molecular basis for adaptation to stress. We use genome analysis to highlight the strong cellular homeostasis system, a unique adaptive characteristic of oysters. Next, we provide a global view of features of the oyster genome that contribute to stress adaptation, including oyster-specific gene expansion, highly inducible expression, and functional divergence. Finally, we review the consequences of interactions between oysters and the environment from ecological and evolutionary perspectives by discussing mass mortality and adaptive divergence among populations and related species of the genus Crassostrea. We conclude with prospects for future study.",
+  "type": "academic",
+  "pdf_url": "https://www.annualreviews.org/doi/pdf/10.1146/annurev-animal-022114-110903"
+}

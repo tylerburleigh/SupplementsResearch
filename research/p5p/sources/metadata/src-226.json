@@ -1,0 +1,21 @@
+{
+  "id": "src-226",
+  "title": "Aspirin decreases the risk of depression in older men with high plasma homocysteine",
+  "authors": [
+    "Almeida, Osvaldo P.",
+    "Flicker, Leon",
+    "Yeap, Bu B.",
+    "Alfonso, Helman",
+    "McCaul, Kieran",
+    "Hankey, Graeme J."
+  ],
+  "doi": "10.1038/tp.2012.79",
+  "url": "https://openalex.org/W2035600103",
+  "provider": "openalex",
+  "year": 2012,
+  "venue": "Translational Psychiatry",
+  "citation_count": 62,
+  "abstract": "High total plasma homocysteine (tHcy) is associated with increased risk of cardiovascular events and depression. Consumption of B-vitamins (B6, B9 and B12) reduces tHcy by about 15%, but has equivocal effects on these health outcomes, suggesting that this relationship is either not causal or is confounded by other factors. The results of recent randomized trials suggest that antiplatelet therapy may confound these associations. This cross-sectional study assessed 3687 men aged 69-87 years for history of clinically significant depression (Geriatric Depression Scale 15 items 7) or a recorded diagnosis of depression in the Western Australian Data Linkage System, and collected information on the use of aspirin, B-vitamins and antidepressant medication, along with age, education, living arrangements, smoking history and medical comorbidity as assessed by the Charlson index. Participants donated a blood sample for the measurement of tHcy, and concentrations15 μmol l(-1) were considered high. Five hundred and thirteen (13.9%) men showed evidence of depression, and of those 31.4% had high tHcy, 41.5% were using aspirin, 6.8% were consuming B-vitamins. Multivariate logistic regression showed that high tHcy was associated with increased odds of depression (odds ratio (OR)=1.60, 95% confidence interval (CI)=1.20-2.14), as was the use of B-vitamins (OR=1.95, 95% CI=1.21-3.13). There was a significant interaction between high tHcy and aspirin use (OR=0.57, 95% CI=0.36-0.91), but not between high tHcy and B-vitamin use (OR=0.80, 95% CI=0.26-2.46). The analyses were adjusted for smoking status, Charlson index and use of antidepressants. The results of this study indicate that older men with high tHcy who use aspirin have lower risk of depression, and suggest that antiplatelet therapy may be an effective preventive or management strategy for these cases. Randomized trials are required to confirm the antidepressant effect of aspirin in people with high tHcy.",
+  "type": "academic",
+  "pdf_url": "https://www.nature.com/articles/tp201279.pdf"
+}

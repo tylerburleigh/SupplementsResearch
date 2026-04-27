@@ -1,0 +1,16 @@
+{
+  "id": "src-141",
+  "title": "Targeting molecules to medicine with mTOR, autophagy and neurodegenerative disorders",
+  "authors": [
+    "Maiese, Kenneth"
+  ],
+  "doi": "10.1111/bcp.12804",
+  "url": "https://openalex.org/W1944215271",
+  "provider": "openalex",
+  "year": 2015,
+  "venue": "British Journal of Clinical Pharmacology",
+  "citation_count": 194,
+  "abstract": "Neurodegenerative disorders are significantly increasing in incidence as the age of the global population continues to climb with improved life expectancy. At present, more than 30 million individuals throughout the world are impacted by acute and chronic neurodegenerative disorders with limited treatment strategies. The mechanistic target of rapamycin (mTOR), also known as the mammalian target of rapamycin, is a 289 kDa serine/threonine protein kinase that offers exciting possibilities for novel treatment strategies for a host of neurodegenerative diseases that include Alzheimer's disease, Parkinson's disease, Huntington's disease, epilepsy, stroke and trauma. mTOR governs the programmed cell death pathways of apoptosis and autophagy that can determine neuronal stem cell development, precursor cell differentiation, cell senescence, cell survival and ultimate cell fate. Coupled to the cellular biology of mTOR are a number of considerations for the development of novel treatments involving the fine control of mTOR signalling, tumourigenesis, complexity of the apoptosis and autophagy relationship, functional outcome in the nervous system, and the intimately linked pathways of growth factors, phosphoinositide 3-kinase (PI 3-K), protein kinase B (Akt), AMP activated protein kinase (AMPK), silent mating type information regulation two homologue one (Saccharomyces cerevisiae) (SIRT1) and others. Effective clinical translation of the cellular signalling mechanisms of mTOR offers provocative avenues for new drug development in the nervous system tempered only by the need to elucidate further the intricacies of the mTOR pathway.",
+  "type": "academic",
+  "pdf_url": "https://bpspubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1111/bcp.12804"
+}

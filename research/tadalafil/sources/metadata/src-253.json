@@ -1,0 +1,22 @@
+{
+  "id": "src-253",
+  "title": "Endothelial Vasoactive Pathways and Renal Outcomes: A Drug-Target Mendelian Randomization and Transcriptome-Wide Association Study",
+  "authors": [
+    "Ma, Yixin",
+    "Xu, Lubin",
+    "Lin, Yitao",
+    "Zhu, Jiahao",
+    "Liu, Jin",
+    "Wang, Li",
+    "Chen, Limeng"
+  ],
+  "doi": "10.1159/000548430",
+  "url": "https://www.semanticscholar.org/paper/b7a529791ab452e310e24aef5f0a5a1e53db8785",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "Kidney Diseases",
+  "citation_count": 1,
+  "abstract": "Abstract Introduction: Endothelium-mediated regulation of vascular tone plays a crucial role in modulating vascular functions, especially in the kidney, a highly vascularized organ. Therapeutic interventions targeting this process, such as endothelin axis blockage, have demonstrated positive results across various kidney diseases. However, the long-term effects remain poorly explored. Mendelian randomization (MR) and Transcriptome-Wide Association Study (TWAS) provide an approach to investigate the lifelong effects of genetically determined variations in endothelial vasoactive pathways on renal outcomes, mimicking a naturally occurring randomized controlled trial. Method: The primary outcome is the estimated glomerular filtration rate (eGFR), and secondary outcomes include urine albumin-to-creatinine ratio (UACR), rapid kidney function decline, chronic kidney disease (CKD), and various cardiovascular events. From published Genome-Wide Association Studies (GWASs), we extracted summary statistics, employed the inverse variance weighted method for the main MR analysis, complemented by various sensitivity analyses, and utilized the S-PrediXcan for Transcriptome-Wide Association Study (TWAS) analysis. Result: Genetically predicted eNOS pathway activation correlated with higher eGFR (0.03, 95% CI: 0.01–0.05, p = 6.2e−4), reduced risk of CKD (odds ratio 0.47, 95% CI: 0.34–0.64), and rapid kidney function decline (odds ratio 0.47, 95% CI: 0.31–0.72). Transcriptome association studies further confirmed a positive association between gene expression in the eNOS pathway and eGFR. Additionally, the overall endothelial vasoactive effect, represented by the genetically predicted modulation of eNOS, EDNRA, and PDE5A pathways, was significantly associated with higher eGFR (0.03, 95% CI: 0.01–0.04, p = 5.4e−5). Conclusion: Our results shed light on a significant effect of endothelial vasoactive pathways in kidney-related outcomes, which hold promise for alternative targeted therapies in CKDs.",
+  "type": "academic",
+  "pdf_url": ""
+}

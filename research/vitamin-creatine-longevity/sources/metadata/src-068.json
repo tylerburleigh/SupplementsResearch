@@ -1,0 +1,31 @@
+{
+  "id": "src-068",
+  "title": "Creatine: Clinical Implications for Orthopedic Surgeons",
+  "authors": [
+    "Al-Humadi, Samer",
+    "Kohut, Kevin",
+    "Denard, Patrick J"
+  ],
+  "year": 2026,
+  "abstract": "",
+  "doi": "10.7759/cureus.103937",
+  "url": "https://doi.org/10.7759/cureus.103937",
+  "pdf_url": "",
+  "venue": "Cureus",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T13:41:16.662175+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-068.md",
+  "quality_details": {
+    "content_length": 35568,
+    "alpha_ratio": 0.735,
+    "sentence_count": 341,
+    "reasons": []
+  }
+}

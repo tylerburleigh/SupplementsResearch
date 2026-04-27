@@ -1,0 +1,37 @@
+{
+  "id": "src-185",
+  "title": "Effects of dietary polyphenol curcumin supplementation on metabolic, inflammatory, and oxidative stress indices in patients with metabolic syndrome: a systematic review and meta-analysis of randomized controlled trials",
+  "authors": [
+    "Qiu, Linjie",
+    "Gao, Chunyang",
+    "Wang, Haonan",
+    "Ren, Yan",
+    "Li, Jixin",
+    "Li, Meijie",
+    "Du, Xinlei",
+    "Li, Wenjie",
+    "Zhang, Jin"
+  ],
+  "year": 2023,
+  "abstract": "ObjectiveThe aim was to conduct a systematic review and meta-analysis for assessing the effectiveness and safety of dietary polyphenol curcumin supplement on metabolic, inflammatory, and oxidative stress indices in patients with metabolic syndrome (MetS).MethodsA comprehensive search for clinical trials was conducted in the following scientific databases: PubMed, SCOPUS, Cochrane Library, EMBASE, Web of Science, and China Biological Medicine. Randomized controlled trials (RCTs) evaluating the efficacy and safety of curcumin supplement for MetS were identified. A random-effects meta-analysis was performed using inverse variance, and efficacy was expressed as mean difference (MD) with 95% confidence interval (CI). The metabolic syndrome markers that were evaluated in the present study included waist circumference (WC), fasting blood sugar (FBS), systolic blood pressure (SBP), diastolic blood pressure (DBP), triglycerides (TG), high-density lipoprotein cholesterol (HDL-C), tumor necrosis factor-a (TNF-a), interleukin 6 (IL-6), C-reactive protein (CRP), ultrasensitive c-reactive protein (hsCRP), and malondialdehyde (MDA). By employing the Cochrane tool, RCTs were assessed for bias risk.ResultsA total of 785 participants from 13 RCTs were included, with intervention durations ranging from 4 to 12 weeks. Compared with the control group, the curcumin group had positive effects on WC (MD = -2.16, 95% CI: -3.78 to -0.54, p = 0.009, seven studies), FBS (MD = -8.6, 95% CI: -15.45 to -1.75, p = 0.01, nine studies), DBP (MD = -2.8, 95% CI: -4.53 to - 1.06, p = 0.002, five studies), HDL-C (MD = 4.98, 95% CI: 2.58 to 7.38, p &amp;lt; 0.0001, eight studies), TNF-a (MD = -12.97, 95% CI: -18.37 to -7.57, p &amp;lt; 0.00001, two studies), CRP (MD = - 1.24, 95% CI: -1.71 to -0.77, p &amp;lt; 0.00001, two studies), and MDA (MD = -2.35, 95% CI: -4.47 to -0.24, p = 0.03, three studies). These improvements were statistically significant. Meanwhile, there was no significant improvement in SBP (MD = -4.82, 95% CI: -9.98 to 0.35, p = 0.07, six studies), TG (MD = 1.28, 95% CI: -3.75 to 6.30, p = 0.62, eight studies), IL-6 (MD = -1.5, 95% CI: -3.97 to 0.97, p = 0.23, two studies), or hsCRP (MD = -1.10, 95% CI: -4.35 to 2.16, p &amp;lt; 0.51, two studies). FBS, SBP, HDL-C, IL-6, CRP, hsCRP, and MDA had a relatively high heterogeneity.ConclusionCurcumin exhibited promising potential in enhancing markers associated with metabolic syndrome, including inflammation. However, additional studies are required to confirm such findings since the included evidence is limited and has a relatively high heterogeneity.Systematic review registrationhttps://www.crd.york.ac.uk/prospero, identifier CRD42022362553.",
+  "doi": "10.3389/fendo.2023.1216708",
+  "url": "https://doi.org/10.3389/fendo.2023.1216708",
+  "pdf_url": "",
+  "venue": "Frontiers in Endocrinology",
+  "citation_count": 59,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-22T14:39:16.251671+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-185.md",
+  "quality_details": {
+    "content_length": 53227,
+    "alpha_ratio": 0.715,
+    "sentence_count": 514,
+    "reasons": []
+  }
+}

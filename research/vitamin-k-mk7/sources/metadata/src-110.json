@@ -1,0 +1,24 @@
+{
+  "id": "src-110",
+  "title": "Gut Microbiota and Cardiovascular Disease: Evidence on the Metabolic and Inflammatory Background of a Complex Relationship",
+  "authors": [
+    "Nesci, Antonio",
+    "Carnuccio, Claudia",
+    "Ruggieri, Vittorio",
+    "D’Alessandro, Alessia",
+    "Giorgio, Angela Di",
+    "Santoro, L.",
+    "Gasbarrini, Antonio",
+    "Santoliquido, Angelo",
+    "Ponziani, Francesca Romana"
+  ],
+  "doi": "10.3390/ijms24109087",
+  "url": "https://openalex.org/W4378087480",
+  "provider": "openalex",
+  "year": 2023,
+  "venue": "International Journal of Molecular Sciences",
+  "citation_count": 170,
+  "abstract": "Several studies in recent years have demonstrated that gut microbiota-host interactions play an important role in human health and disease, including inflammatory and cardiovascular diseases. Dysbiosis has been linked to not only well-known inflammatory diseases, such as inflammatory bowel diseases, rheumatoid arthritis, and systemic lupus erythematous, but also to cardiovascular risk factors, such as atherosclerosis, hypertension, heart failure, chronic kidney disease, obesity, and type 2 diabetes mellitus. The ways the microbiota is involved in modulating cardiovascular risk are multiple and not only related to inflammatory mechanisms. Indeed, human and the gut microbiome cooperate as a metabolically active superorganism, and this affects host physiology through metabolic pathways. In turn, congestion of the splanchnic circulation associated with heart failure, edema of the intestinal wall, and altered function and permeability of the intestinal barrier result in the translocation of bacteria and their products into the systemic circulation, further enhancing the pro-inflammatory conditions underlying cardiovascular disorders. The aim of the present review is to describe the complex interplay between gut microbiota, its metabolites, and the development and evolution of cardiovascular diseases. We also discuss the possible interventions intended to modulate the gut microbiota to reduce cardiovascular risk.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/1422-0067/24/10/9087/pdf?version=1684812807"
+}

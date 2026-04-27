@@ -1,0 +1,29 @@
+{
+  "id": "src-492",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2862792/",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-23T01:44:10.944348+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-492.md",
+  "quality_details": {
+    "content_length": 81554,
+    "alpha_ratio": 0.754,
+    "sentence_count": 592,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

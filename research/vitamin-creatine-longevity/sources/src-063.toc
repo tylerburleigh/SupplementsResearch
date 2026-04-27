@@ -1,0 +1,12 @@
+10	2	2 Faculty of Kinesiology and Health Studies, University of Regina, Regina,
+13	2	Abstract
+39	2	Introduction
+330	2	Conclusions
+348	2	Ethical Statement
+355	2	Data Availability
+357	2	Author Contributions
+361	2	Conflicts Of Interest
+370	2	References
+380	2	5. Forbes SC, Cordingley DM, Cornish SM, Gualano B, Roschel H, Ostojic SM, et
+383	2	6. Snow WM, Cadonic C, Cortes -Perez C, Roy Chowdhury SK, Djordjevic J,
+481	2	37. Kurosawa Y, Degrauw TJ, Lindquist DM, Blanco VM, Pyne -Geithman GJ,

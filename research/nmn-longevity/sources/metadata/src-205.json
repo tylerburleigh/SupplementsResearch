@@ -1,0 +1,23 @@
+{
+  "id": "src-205",
+  "title": "Identification of evolutionary and kinetic drivers of NAD-dependent signaling",
+  "authors": [
+    "Bockwoldt, M.",
+    "Gossmann, T.I.",
+    "Heiland, I.",
+    "Houry, D.",
+    "Niere, M.",
+    "Reinartz, I.",
+    "Schug, A.",
+    "Ziegler, M."
+  ],
+  "doi": "10.1073/pnas.1902346116",
+  "url": "https://doi.org/10.1073/pnas.1902346116",
+  "provider": "core",
+  "year": 2019,
+  "venue": "Proceedings of the National Academy of Sciences",
+  "citation_count": 0,
+  "abstract": "Nicotinamide adenine dinucleotide (NAD) provides an important link between metabolism and signal transduction and has emerged as central hub between bioenergetics and all major cellular events. NAD-dependent signaling (e.g., by sirtuins and poly-adenosine diphosphate [ADP] ribose polymerases [PARPs]) consumes considerable amounts of NAD. To maintain physiological functions, NAD consumption and biosynthesis need to be carefully balanced. Using extensive phylogenetic analyses, mathematical modeling of NAD metabolism, and experimental verification, we show that the diversification of NAD-dependent signaling in vertebrates depended on 3 critical evolutionary events: 1) the transition of NAD biosynthesis to exclusive usage of nicotinamide phosphoribosyltransferase (NamPT); 2) the occurrence of nicotinamide N-methyltransferase (NNMT), which diverts nicotinamide (Nam) from recycling into NAD, preventing Nam accumulation and inhibition of NAD-dependent signaling reactions; and 3) structural adaptation of NamPT, providing an unusually high affinity toward Nam, necessary to maintain NAD levels. Our results reveal an unexpected coevolution and kinetic interplay between NNMT and NamPT that enables extensive NAD signaling. This has implications for therapeutic strategies of NAD supplementation and the use of NNMT or NamPT inhibitors in disease treatment",
+  "type": "academic",
+  "pdf_url": "https://core.ac.uk/download/223214604.pdf"
+}

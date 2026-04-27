@@ -1,0 +1,18 @@
+{
+  "id": "src-151",
+  "title": "Considering Caenorhabditis elegans Aging on a Temporal and Tissue Scale: The Case of Insulin/IGF-1 Signaling",
+  "authors": [
+    "Fabrizio, P.",
+    "Alcolei, Allan",
+    "Solari, Florence"
+  ],
+  "doi": "10.3390/cells13030288",
+  "url": "https://www.semanticscholar.org/paper/5322c09dcfd436f4cc442ddaab18deefb3d8e27e",
+  "provider": "semantic_scholar",
+  "year": 2024,
+  "venue": "Cells",
+  "citation_count": 6,
+  "abstract": "The aging process is inherently complex, involving multiple mechanisms that interact at different biological scales. The nematode Caenorhabditis elegans is a simple model organism that has played a pivotal role in aging research following the discovery of mutations extending lifespan. Longevity pathways identified in C. elegans were subsequently found to be conserved and regulate lifespan in multiple species. These pathways intersect with fundamental hallmarks of aging that include nutrient sensing, epigenetic alterations, proteostasis loss, and mitochondrial dysfunction. Here we summarize recent data obtained in C. elegans highlighting the importance of studying aging at both the tissue and temporal scale. We then focus on the neuromuscular system to illustrate the kinetics of changes that take place with age. We describe recently developed tools that enabled the dissection of the contribution of the insulin/IGF-1 receptor ortholog DAF-2 to the regulation of worm mobility in specific tissues and at different ages. We also discuss guidelines and potential pitfalls in the use of these new tools. We further highlight the opportunities that they present, especially when combined with recent transcriptomic data, to address and resolve the inherent complexity of aging. Understanding how different aging processes interact within and between tissues at different life stages could ultimately suggest potential intervention points for age-related diseases.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2073-4409/13/3/288/pdf?version=1707138666"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "src-051",
+  "title": "NAD+-Increasing Strategies to Improve Cardiometabolic Health?",
+  "authors": [
+    "Blanco-Vaca, Francisco",
+    "Rotllan, Noemi",
+    "Canyelles, Marina",
+    "Mauricio, Didac",
+    "Escolà-Gil, Joan Carles",
+    "Julve, Josep"
+  ],
+  "year": 2022,
+  "abstract": "Depleted nicotinamide adenine dinucleotide (NAD+) is a common hallmark of metabolic disorders. Therefore, NAD+-increasing strategies have evolved as a potential therapeutic venue to combat cardiometabolic diseases. Several forms of vitamin B3, i.e., nicotinamide and nicotinamide mononucleotide, and especially nicotinamide riboside, have attracted most interest as potentially safe and efficacious candidates for NAD+ restoration. Herein, we dissected the characteristics of the latest clinical trials testing the therapeutic potential of different vitamin B3 molecules to improve cardiometabolic health, with a special focus on randomized, placebo-controlled clinical trials performed in the context of obesity or other pathologies, mainly linked to cardiovascular system and skeletal muscle functionality. The favorable outcomes via NAD+-increasing strategies found in the different studies were quite heterogeneous. NAD+-increasing interventions improved capacity to exercise, decreased blood pressure, increased the anti-inflammatory profile and insulin-stimulated glucose disposal, and reduced the fat-free mass. Except for the decreased blood pressure, the significant results did not include many hard clinical end points, such as decreases in weight, BMI, fasting glucose, or HbA1c percentage. However, the analyzed trials were short-term interventions. Overall, the accumulated clinical data can be interpreted as moderately promising. Additional and long-term studies will be needed to directly compare the doses and duration of treatments among different vitamin B3 regimes, as well as to define the type of patients, if any, that could benefit from these treatments. In this context, a major point of advancement in delineating future clinical trials would be to identify subjects with a recognized NAD+ deficiency using novel, appropriate biomarkers. Also, confirmation of gender-specific effect of NAD+-increasing treatments would be needed.",
+  "doi": "10.3389/fendo.2021.815565",
+  "url": "https://doi.org/10.3389/fendo.2021.815565",
+  "pdf_url": "",
+  "venue": "Frontiers in Endocrinology",
+  "citation_count": 8,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-20T20:25:34.387077+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-051.md",
+  "quality_details": {
+    "content_length": 44427,
+    "alpha_ratio": 0.747,
+    "sentence_count": 369,
+    "reasons": []
+  }
+}

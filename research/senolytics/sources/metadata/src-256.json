@@ -1,0 +1,19 @@
+{
+  "id": "src-256",
+  "title": "Precision oncology in gynecologic cancers: molecular taxonomy, biomarker-guided therapeutics, and the challenge of therapeutic resistance",
+  "authors": [
+    "Waseem, Shanza",
+    "Zhan, Jun",
+    "Xiao, Xue",
+    "Bai, Peng"
+  ],
+  "doi": "10.3389/fonc.2026.1785469",
+  "url": "https://www.semanticscholar.org/paper/d3e3668a32805e22e0ea5db8681daac51d561d57",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "Frontiers in Oncology",
+  "citation_count": 0,
+  "abstract": "The clinical management of gynecologic malignancies endometrial (EC), ovarian (OC), and cervical (CC) carcinomas has been historically guided by histomorphology and staging. This paradigm fails to capture profound molecular heterogeneity, resulting in suboptimal outcomes. Precision oncology, through molecular taxonomy and biomarker-guided therapy, aims to address this gap.\n\nThis review synthesizes the current landscape of precision oncology in gynecologic cancers by analyzing established molecular classifications, the evidence for biomarker-guided therapies, mechanisms of therapeutic resistance, and emerging diagnostic and trial paradigms. The analysis is based on a critical evaluation of key literature and clinical trial data.\n\nMolecular reclassification, exemplified by The Cancer Genome Atlas (TCGA) for EC and OC, has identified prognostically and therapeutically relevant subtypes. This has enabled successful clinical translation of targeted agents: PARP inhibitors for homologous recombination deficient (HRD) ovarian cancer, immune checkpoint inhibitors for mismatch repair deficient/microsatellite instability-high (dMMR/MSI-H) endometrial and cervical cancers, and antibody-drug conjugates (ADCs) like mirvetuximab soravtansine and tisotumab vedotin. However, acquired resistance to these therapies, driven by tumor evolution and heterogeneity, remains a pivotal barrier.\n\nThe convergence of deep molecular phenotyping with targeted therapy is a cornerstone of modern care. Future directions require overcoming resistance through novel diagnostics like liquid biopsy, next-generation therapeutics, and innovative adaptive clinical trials. Equitable access to these advances is imperative to prevent widening health disparities. The field is evolving towards a model of continuous molecular monitoring and adaptive therapy to improve outcomes.",
+  "type": "academic",
+  "pdf_url": ""
+}

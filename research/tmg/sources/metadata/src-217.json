@@ -1,0 +1,21 @@
+{
+  "id": "src-217",
+  "title": "Assessing Publication Bias in Meta-Analyses in the Presence of Between-Study Heterogeneity",
+  "authors": [
+    "Peters, Jaime",
+    "Sutton, Alex J.",
+    "Jones, David R.",
+    "Abrams, Keith R.",
+    "Rushton, Lesley",
+    "Moreno, Santiago G."
+  ],
+  "doi": "10.1111/j.1467-985x.2009.00629.x",
+  "url": "https://openalex.org/W2109204419",
+  "provider": "openalex",
+  "year": 2010,
+  "venue": "Journal of the Royal Statistical Society Series A (Statistics in Society)",
+  "citation_count": 173,
+  "abstract": "Summary Between-study heterogeneity and publication bias are common features of a meta-analysis that can be present simultaneously. When both are suspected, consideration must be made of each in the assessment of the other. We consider extended funnel plot tests for detecting publication bias, and selection modelling and trim-and-fill methods to adjust for publication bias in the presence of between-study heterogeneity. These methods are applied to two example data sets. Results indicate that ignoring between-study heterogeneity when assessing publication bias can be misleading, but that methods to test or adjust for publication bias in the presence of heterogeneity may not be powerful when the meta-analysis is not large. It is therefore unrealistic to expect to disentangle the effects of publication bias and heterogeneity reliably in all except the largest meta-analyses.",
+  "type": "academic",
+  "pdf_url": "https://academic.oup.com/jrsssa/article-pdf/173/3/575/49525530/jrsssa_173_3_575.pdf"
+}

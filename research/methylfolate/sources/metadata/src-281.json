@@ -1,0 +1,25 @@
+{
+  "id": "src-281",
+  "title": "Species difference in the inhibitory effect of nonsteroidal anti-inflammatory drugs on the uptake of methotrexate by human kidney slices.",
+  "authors": [
+    "Nozaki, Yoshitane",
+    "Kusuhara, Hiroyuki",
+    "Kondo, Tsunenori",
+    "Iwaki, Masahiro",
+    "Shiroyanagi, Yoshiyuki",
+    "Nakayama, Hideki",
+    "Horita, Shigeru",
+    "Nakazawa, Hayakazu",
+    "Okano, Teruo",
+    "Sugiyama, Yuichi"
+  ],
+  "doi": "10.1124/jpet.107.121491",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/17578901",
+  "provider": "pubmed",
+  "year": 2007,
+  "venue": "The Journal of pharmacology and experimental therapeutics",
+  "citation_count": 0,
+  "abstract": "Simultaneous use of nonsteroidal anti-inflammatory drugs (NSAIDs), probenecid, and other drugs has been reported to delay the plasma elimination of methotrexate in patients. Previously, we have reported that inhibition of the uptake process cannot explain such drug-drug interactions using rats. The present study quantitatively evaluated the possible role of the transporters in such drug-drug interactions using human kidney slices and membrane vesicles expressing human ATP-binding cassette (ABC) transporters. The uptake of methotrexate by human kidney slices was saturable with a K(m) of 45 to 49 microM. Saturable uptake of methotrexate by human kidney slices was markedly inhibited by p-aminohippurate and benzylpenicillin, but only weakly by 5-methyltetrahydrofolate. These transport characteristics are similar to those of a basolateral organic anion transporter (OAT) 3/SLC22A8. NSAIDs and probenecid inhibited the uptake of methotrexate by human kidney slices, and, in particular, salicylate, indomethacin, phenylbutazone, and probenecid were predicted to exhibit significant inhibition at clinically observed plasma concentrations. Among ABC transporters, such as BCRP/ABCG2, multidrug resistance-associated protein (MRP) 2/ABCC2, and MRP4/ABCC4, which are candidates for the luminal efflux of methotrexate, ATP-dependent uptake of methotrexate by MRP4-expressing membrane vesicles was most potently inhibited by NSAIDs. Salicylate and indomethacin were predicted to inhibit MRP4 at clinical plasma concentrations. Diclofenac-glucuronide significantly inhibited MRP2-mediated transport of methotrexate in a concentration-dependent manner, whereas naproxen-glucuronide had no effect. Inhibition of renal uptake (via OAT3) and efflux processes (via MRP2 and MRP4) explains the possible sites of drug-drug interaction for methotrexate with probenecid and some NSAIDs, including their glucuronides.",
+  "type": "academic",
+  "pdf_url": ""
+}

@@ -1,0 +1,195 @@
+3	2	Review Article Open
+21	2	Introduction
+31	2	2 Recently,
+74	2	24 In detail, X-ray crystalline diffraction reveals that
+137	2	17 However, the functional range of enzymatic activities
+167	2	47 It comes at the cost of a transient decline in tissue
+171	2	48 The molecular process of
+201	2	50 Moreover, results from
+284	2	63 Several studies have also shown
+317	2	68 It is also worth noting that the effects
+333	2	69 It is mainly involved
+348	2	74 In the absence of
+396	2	86 However, several studies have also
+464	2	64 However, little information is
+551	2	121 Additionally,
+655	2	139 Conver-
+684	2	143 Oxidative
+707	2	147 Additionally,
+740	2	153 Notably, SIRTs
+758	2	160 Therefore, SIRTs can
+814	2	176 In contrast,
+869	2	183 SIRTs inhibited transcription by deacetylating
+890	2	188 Meanwhile, SIRTs target many
+932	2	194 As a type of
+964	2	199 These studies have demonstrated the
+1042	2	216 Additionally,
+1076	2	224 Deacetylation
+1104	2	232 Upregulation of miR-
+1149	2	248 As JNK is a well-known
+1166	2	248 The
+1207	2	255 However,
+1220	2	257 Meanwhile, non-coding RNAs act as
+1227	3	421.259 Studies of the upstream and downstream regulatory
+1274	2	267 Recent studies have illustrated the important roles
+1311	2	276 For example,
+1348	2	283 Autophagy impairment is mediated by
+1364	2	286 Therefore,
+1428	2	300 Although the precise mechanism is
+1450	2	305 A related study
+1500	2	310 Succinyl-proteomics
+1509	2	302 At present, the mechanism of
+1517	2	312 Autophagy controls cellular senescence by eliminating
+1530	2	315 However, the mechan-
+1749	2	364 Integrin adhesion activates pathways including
+1785	2	371 In non-small cell LC
+1819	2	379 It has been reported that isocitrate
+1832	2	382 Sun
+1908	2	3 The functions of SIRTs in the tumor process are
+1942	2	403 In addition to its tumor suppressive roles
+1947	2	404 The plausible explanation of the contradictory functions of
+1958	2	405 DNA
+1964	2	406 Activation
+1975	2	407 Additionally, in cancer biology, Slug, an EMT
+1997	2	412 Subsequently,
+2023	2	416 SIRTs
+2069	2	424 In contrast,
+2106	2	394 Several bioinformatics studies have reinforced
+2133	2	439 The possible explanation for the
+2138	2	3 In addition to mitochondrial SIRTs, the
+2146	2	441 SIRTs can also play roles in modulation
+2166	2	252 Aside from mitochondrially directed deacetylase
+2198	2	450 The dose-
+2212	2	449 SIRTs exert their
+2263	2	454 Thus, SIRTs could act as novel
+2305	2	461 However,
+2311	2	463 Regarding OC
+2337	2	468 Che-
+2353	2	471 For mechanistic studies,
+2393	2	480 Besides,
+2407	2	475 In addition,
+2411	2	481 Therefore, SIRTs are potential biomarkers for the prog-
+2444	2	487 Accordingly,
+2472	2	488 CVDs are the major cause of mortality world-
+2483	2	492 Therefore, SIRT protein family has received much
+2486	2	488 In addition to HDAC function, SIRTs also
+2512	2	495 How-
+2529	2	4 Some in vivo studies have
+2537	2	500 However, some studies have shown
+2554	2	503 Therefore, more studies
+2567	2	506 However, the protective effects
+2605	2	513 In contrast,
+2621	2	517 However, further studies are needed
+2653	2	517 Similarly,
+2685	2	526 However, the underlying
+2698	2	531 For example, levels of MnSOD, thiore-
+2709	2	532 Further-
+2717	2	533 Overall, the above evidence
+2723	2	534 Myocardial
+2727	2	534 As a
+2778	2	546 On VSMC level,
+2782	2	544 Moreover, macrophage foam cell formation is a
+2786	2	548 In contrast,
+2869	2	568 With the
+2904	2	577 Both in vitro and
+2911	2	578 Similarly, a prior in vivo study has demonstrated that
+2976	2	590 Common
+3065	2	609 However, the opposite results have been reported for
+3074	2	611 As the expression of
+3131	2	607 Overall, they
+3135	2	607 In summary,
+3140	2	621 It is
+3175	2	631 Allergic asthma
+3199	2	636 It is a clinical syndrome associated with
+3240	2	645 Paraquat,
+3380	2	224 Although hepatocyte
+3414	2	678 Thus, it is logical to
+3418	2	675 Moreover, in
+3437	2	680 Current studies
+3448	2	280 More-
+3475	2	686 Notably, current
+3541	2	700 Meanwhile, evidence also
+3573	2	704 Moreover, over-
+3586	2	706 However, the evi-
+3611	2	710 Currently, few studies
+3615	2	711 Resveratrol protects against acute necrotizing
+3631	2	714 Most
+3642	2	715 Limited research has shown
+3660	2	723 Compared
+3672	2	724 These conclusions suggest that the
+3694	2	727 Moreover,
+3698	2	726 There have
+3812	2	751 Collectively, these studies suggest
+3858	2	755 Intermittent food
+3862	2	756 Pituitary adenylate
+3876	2	760 The SIRT protein family
+3894	2	761 Therefore, the SIRT family is involved in the pathology of
+3909	2	764 Mitochondrial dysfunction is the main cause of
+3956	2	770 The
+4027	2	784 In human postmortem
+4079	2	796 The natural bisphenol compound
+4084	2	797 To date, few studies have
+4099	2	799 After the trauma, spinal cord neurons were
+4108	2	800 In terms of mechanism, multiple miRNAs
+4125	2	804 Overexpression of
+4132	2	88 Another study suggested
+4142	2	808 LPS induces oxidative stress
+4281	2	840 Devastating macrovascular complications CVD and
+4286	2	841 SIRTs
+4295	2	844 During the past two decades, the morbidity
+4340	2	843 Moreover, the upre-
+4367	2	853 Current studies
+4387	2	856 The activa-
+4411	2	858 Elevated body mass index values were responsible for
+4418	2	861 SIRTs act as deacetylases
+4431	2	863 Moreover, high expres-
+4435	2	865 The
+4529	2	877 Therefore, in this
+4562	2	254 A previous
+4569	2	151 Moreover, the overex-
+4597	2	889 Moreover, the protection of
+4610	2	891 In addition,
+4705	2	906 With regard to
+4774	2	914 A previous study found that
+4799	2	917 A previous study also indicated that
+4843	2	926 Another two studies demonstrated that resver-
+4867	2	928 SIRTs are considered
+4872	2	929 There-
+4933	2	941 Bone exhibits continuous self-renewal,
+4938	2	942 In dynamic bone reconstruction,
+4951	2	945 For instance,
+4962	2	947 In postmenopausal osteoporosis,
+4965	2	948 Moreover, SIRTs
+4989	2	951 SIRTs can inhibit the pathological process of IDD by
+4995	2	952 This suggests
+5038	2	961 The incidence of skeletal
+5058	2	963 Extensive studies have clearly revealed that SIRTs are
+5074	2	201 Additionally, SIRTs could exert regulatory effects
+5086	2	968 Moreover,
+5091	2	35 In addition to genomic stability, nutrient sensing is
+5112	2	975 From this
+5147	2	978 Several other polyphenols, structurally related to
+5158	2	980 Although piceatannol and
+5186	2	983 Due to these promising
+5226	2	996 And the production of NMN is the key rate-limiting factor in
+5242	2	1002 Furthermore,
+5259	2	1006 In addition, evidence showed that splitomicin could
+5317	2	1023 Also, inauhzin
+5322	2	1024 SIRTs use NAD as a co-
+5545	2	Participants
+5995	2	Participants
+6127	2	25 Maximal tolerated dose and
+6398	2	1042 With regard to exercise intervention, three RCTs in
+6404	2	1046 As for medical treatment, three RCTs demonstrated that
+6423	2	1055 However, some intervention studies reported that
+6429	2	1056 A few studies suggested that
+6439	2	1064 In addition, a clinical study evaluating
+6455	2	Conclusion
+6518	2	1. To further clarify the biological regulation mechanism of
+6522	2	2. To validate SIRTs as potential diagnostic and prognostic
+6530	2	5. Studies incorporating a multidisciplinary perspective provide
+6532	2	Author Contributions
+6542	2	Funding
+6551	2	Additional Information
+6555	2	References
+9101	2	941. Consensus development conference: diagnosis, prophylaxis, and treatment of

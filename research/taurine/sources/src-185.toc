@@ -1,0 +1,12 @@
+3	2	Review
+15	2	Abstract
+43	2	Introduction
+99	2	The Relevance Between The Gut
+100	2	Microbiome And Metabolic Diseases
+203	2	Microbiome
+810	2	Conclusions And Future Perspectives
+858	2	Abbreviations
+884	2	Acknowledgments
+889	2	Compliance With Ethics Guidelines
+894	2	Open Access
+908	2	References

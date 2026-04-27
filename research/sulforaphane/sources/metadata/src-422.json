@@ -1,0 +1,26 @@
+{
+  "id": "src-422",
+  "title": "The Anticancer Potential of Plant-Derived Nutraceuticals via the Modulation of Gene Expression",
+  "authors": [
+    "Vrânceanu, Maria",
+    "Galimberti, Damiano",
+    "Banc, Roxana",
+    "Dragoş, Ovidiu",
+    "Cozma-Petruț, Anamaria",
+    "Hegheş, Simona Codruţa",
+    "Voștinaru, Oliviu",
+    "Cuciureanu, Magdalena",
+    "Stroia, Carmina Mariana",
+    "Miere, Doina",
+    "Filip, Lorena"
+  ],
+  "doi": "10.3390/plants11192524",
+  "url": "https://openalex.org/W4297547895",
+  "provider": "openalex",
+  "year": 2022,
+  "venue": "Plants",
+  "citation_count": 43,
+  "abstract": "Current studies show that approximately one-third of all cancer-related deaths are linked to diet and several cancer forms are preventable with balanced nutrition, due to dietary compounds being able to reverse epigenetic abnormalities. An appropriate diet in cancer patients can lead to changes in gene expression and enhance the efficacy of therapy. It has been demonstrated that nutraceuticals can act as powerful antioxidants at the cellular level as well as anticarcinogenic agents. This review is focused on the best studies on worldwide-available plant-derived nutraceuticals: curcumin, resveratrol, sulforaphane, indole-3-carbinol, quercetin, astaxanthin, epigallocatechin-3-gallate, and lycopene. These compounds have an enhanced effect on epigenetic changes such as histone modification via HDAC (histone deacetylase), HAT (histone acetyltransferase) inhibition, DNMT (DNA methyltransferase) inhibition, and non-coding RNA expression. All of these nutraceuticals are reported to positively modulate the epigenome, reducing cancer incidence. Furthermore, the current review addresses the issue of the low bioavailability of nutraceuticals and how to overcome the drawbacks related to their oral administration. Understanding the mechanisms by which nutraceuticals influence gene expression will allow their incorporation into an \"epigenetic diet\" that could be further capitalized on in the therapy of cancer.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2223-7747/11/19/2524/pdf?version=1664204102"
+}

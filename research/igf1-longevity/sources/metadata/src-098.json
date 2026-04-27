@@ -1,0 +1,28 @@
+{
+  "id": "src-098",
+  "title": "Physical illness in patients with severe mental disorders. I. Prevalence, impact of medications and disparities in health care",
+  "authors": [
+    "Binder, Marc D.",
+    "Correll, Christoph U.",
+    "Bobes, Julio",
+    "Cetkovich, Marcelo",
+    "Cohen, Dan",
+    "Asai, Itsuo",
+    "Detraux, Johan",
+    "Gautam, Shiv",
+    "Möller, Hans‐Jürgen",
+    "Ndetei, David M.",
+    "Newcomer, John W.",
+    "Uwakwe, Richard",
+    "Leucht, Stefan"
+  ],
+  "doi": "10.1002/j.2051-5545.2011.tb00014.x",
+  "url": "https://openalex.org/W2116251861",
+  "provider": "openalex",
+  "year": 2011,
+  "venue": "World Psychiatry",
+  "citation_count": 2465,
+  "abstract": "The lifespan of people with severe mental illness (SMI) is shorter compared to the general population. This excess mortality is mainly due to physical illness. We report prevalence rates of different physical illnesses as well as important individual lifestyle choices, side effects of psychotropic treatment and disparities in health care access, utilization and provision that contribute to these poor physical health outcomes. We searched MEDLINE (1966 - August 2010) combining the MeSH terms of schizophrenia, bipolar disorder and major depressive disorder with the different MeSH terms of general physical disease categories to select pertinent reviews and additional relevant studies through cross-referencing to identify prevalence figures and factors contributing to the excess morbidity and mortality rates. Nutritional and metabolic diseases, cardiovascular diseases, viral diseases, respiratory tract diseases, musculoskeletal diseases, sexual dysfunction, pregnancy complications, stomatognathic diseases, and possibly obesity-related cancers are, compared to the general population, more prevalent among people with SMI. It seems that lifestyle as well as treatment specific factors account for much of the increased risk for most of these physical diseases. Moreover, there is sufficient evidence that people with SMI are less likely to receive standard levels of care for most of these diseases. Lifestyle factors, relatively easy to measure, are barely considered for screening; baseline testing of numerous important physical parameters is insufficiently performed. Besides modifiable lifestyle factors and side effects of psychotropic medications, access to and quality of health care remains to be improved for individuals with SMI.",
+  "type": "academic",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/j.2051-5545.2011.tb00014.x"
+}

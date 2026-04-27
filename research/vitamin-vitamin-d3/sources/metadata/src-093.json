@@ -1,0 +1,18 @@
+{
+  "id": "src-093",
+  "title": "Vitamin D in Chronic Kidney Disease and Dialysis Patients",
+  "authors": [
+    "Jean, Guillaume",
+    "Souberbielle, Jean",
+    "Chazot, Charles"
+  ],
+  "doi": "10.3390/nu9040328",
+  "url": "https://openalex.org/W2603618718",
+  "provider": "openalex",
+  "year": 2017,
+  "venue": "Nutrients",
+  "citation_count": 350,
+  "abstract": "Vitamin D deficiency (<20 ng/mL) and insufficiency (20-29 ng/mL) are common among patients with chronic kidney disease (CKD) or undergoing dialysis. In addition to nutritional and sunlight exposure deficits, factors that affect vitamin D deficiency include race, sex, age, obesity and impaired vitamin D synthesis and metabolism. Serum 1,25(OH)₂D levels also decrease progressively because of 25(OH)D deficiency, together with impaired availability of 25(OH)D by renal proximal tubular cells, high fibroblast growth factor (FGF)-23 and decreased functional renal tissue. As in the general population, this condition is associated with increased morbidity and poor outcomes. Together with the progressive decline of serum calcitriol, vitamin D deficiency leads to secondary hyperparathyroidism (SHPT) and its complications, tertiary hyperparathyroidism and hypercalcemia, which require surgical parathyroidectomy or calcimimetics. Kidney Disease Outcomes Quality Initiative (KDOQI) and Kidney Disease Improving Global Outcomes (KDIGO) experts have recognized that vitamin D insufficiency and deficiency should be avoided in CKD and dialysis patients by using supplementation to prevent SHPT. Many vitamin D supplementation regimens using either ergocalciferol or cholecalciferol daily, weekly or monthly have been reported. The benefit of native vitamin D supplementation remains debatable because observational studies suggest that vitamin D receptor activator (VDRA) use is associated with better outcomes and it is more efficient for decreasing the serum parathormone (PTH) levels. Vitamin D has pleiotropic effects on the immune, cardiovascular and neurological systems and on antineoplastic activity. Extra-renal organs possess the enzymatic capacity to convert 25(OH)D to 1,25(OH)₂D. Despite many unanswered questions, much data support vitamin D use in renal patients. This article emphasizes the role of native vitamin D replacement during all-phases of CKD together with VDRA when SHPT persists.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2072-6643/9/4/328/pdf?version=1490436529"
+}

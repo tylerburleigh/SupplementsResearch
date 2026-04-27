@@ -1,0 +1,22 @@
+{
+  "id": "src-099",
+  "title": "Role of hepatocellular senescence in the development of hepatocellular carcinoma and the potential for therapeutic manipulation.",
+  "authors": [
+    "Wijayasiri, Pramudi",
+    "Astbury, Stuart",
+    "Needham, Grace",
+    "Kaye, Philip",
+    "Bhat, Mamatha",
+    "Piccinini, Anna M",
+    "Aravinthan, Aloysious D"
+  ],
+  "doi": "10.1007/s13577-025-01201-2",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40100482",
+  "provider": "pubmed",
+  "year": 2025,
+  "venue": "Human cell",
+  "citation_count": 0,
+  "abstract": "Accumulation of senescent hepatocytes is universal in chronic liver disease (CLD). This study investigates an association between hepatocyte senescence and hepatocellular carcinoma (HCC) and explores the therapeutic role of sirolimus. Background liver biopsies from 15 patients with cirrhosis and HCC and 45 patients with cirrhosis were stained for p16, a marker of cell senescence. STAM™ mice were randomized into 3 groups of 5 at 4 weeks of age and administered vehicle ± sirolimus intraperitoneally, thrice weekly, from 4 to 18 weeks of age. Placebo group was an administered vehicle, early sirolimus group was an administered vehicle with sirolimus, late sirolimus group was an administered vehicle from 4 to 12 weeks then vehicle with sirolimus from 12 to 18 weeks. The primary outcome was HCC nodule development. Senescent hepatocyte burden and senescence-associated secretory phenotype (SASP) factors were assessed in mice livers. In the human study, age (OR 1.282, 95% CI 1.086-1.513, p = 0.003) and p16 (OR 1.429, 95% CI 1.112-1.838, p = 0.005) were independently associated with HCC. In the animal study, all three groups exhibited similar MASLD activity scores (p = 0.39) and fibrosis area (p = 0.92). The number and the maximum diameter of HCC nodules were significantly lower in the early sirolimus group compared to placebo and late sirolimus group. The gene expression of SASP factors was similar in all groups. Protein levels of some SASP factors (TNFα, IL1β, IL-2, CXCL15) were significantly lower in sirolimus administered groups compared to placebo group. The study demonstrates an independent association between senescent hepatocyte burden and HCC. It indicates a potential chemoprophylactic role for sirolimus through SASP factor inhibition. These early results could inform a future human clinical trial.",
+  "type": "academic",
+  "pdf_url": ""
+}

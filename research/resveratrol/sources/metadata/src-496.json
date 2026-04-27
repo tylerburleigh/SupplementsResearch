@@ -1,0 +1,23 @@
+{
+  "id": "src-496",
+  "title": "Sarcopenia: Aging-Related Loss of Muscle Mass and Function",
+  "authors": [
+    "Larsson, Lars",
+    "Degens, Hans",
+    "Li, Meishan",
+    "Salviati, Leonardo",
+    "Lee, Young Il",
+    "Thompson, Wesley J.",
+    "Kirkland, James L.",
+    "Sandri, Marco"
+  ],
+  "doi": "10.1152/physrev.00061.2017",
+  "url": "https://openalex.org/W2897430333",
+  "provider": "openalex",
+  "year": 2018,
+  "venue": "Physiological Reviews",
+  "citation_count": 1648,
+  "abstract": "Sarcopenia is a loss of muscle mass and function in the elderly that reduces mobility, diminishes quality of life, and can lead to fall-related injuries, which require costly hospitalization and extended rehabilitation. This review focuses on the aging-related structural changes and mechanisms at cellular and subcellular levels underlying changes in the individual motor unit: specifically, the perikaryon of the α-motoneuron, its neuromuscular junction(s), and the muscle fibers that it innervates. Loss of muscle mass with aging, which is largely due to the progressive loss of motoneurons, is associated with reduced muscle fiber number and size. Muscle function progressively declines because motoneuron loss is not adequately compensated by reinnervation of muscle fibers by the remaining motoneurons. At the intracellular level, key factors are qualitative changes in posttranslational modifications of muscle proteins and the loss of coordinated control between contractile, mitochondrial, and sarcoplasmic reticulum protein expression. Quantitative and qualitative changes in skeletal muscle during the process of aging also have been implicated in the pathogenesis of acquired and hereditary neuromuscular disorders. In experimental models, specific intervention strategies have shown encouraging results on limiting deterioration of motor unit structure and function under conditions of impaired innervation. Translated to the clinic, if these or similar interventions, by saving muscle and improving mobility, could help alleviate sarcopenia in the elderly, there would be both great humanitarian benefits and large cost savings for health care systems.",
+  "type": "academic",
+  "pdf_url": "https://journals.physiology.org/doi/pdf/10.1152/physrev.00061.2017"
+}

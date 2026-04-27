@@ -1,0 +1,30 @@
+{
+  "id": "src-339",
+  "title": "Gss deficiency causes age-related fertility impairment via ROS-triggered ferroptosis in the testes of mice",
+  "authors": [
+    "Zhu, Haixia",
+    "Cheng, Yin",
+    "Wang, Xianmei",
+    "Yang, Xing",
+    "Liu, Min",
+    "Liu, Jun",
+    "Liu, Shuqiao",
+    "Wang, Hongxiang",
+    "Zhang, Aizhen",
+    "Li, Runze",
+    "Ye, Chao",
+    "Zhang, Jian",
+    "Gao, Jiangang",
+    "Fu, Xiaolong",
+    "Wu, Bin"
+  ],
+  "doi": "10.1038/s41419-023-06359-x",
+  "url": "https://www.semanticscholar.org/paper/25dfa3880484b764d083b32f0b9e0109427d31b1",
+  "provider": "semantic_scholar",
+  "year": 2023,
+  "venue": "Cell Death and Disease",
+  "citation_count": 41,
+  "abstract": "Glutathione synthetase (GSS) catalyzes the final step in the synthesis of glutathione (GSH), a well-established antioxidant. Research on the specific roles of the Gss gene during spermatogenesis remains limited due to the intricate structure of testis. In this study, we identified pachytene spermatocytes as the primary site of GSS expression and generated a mouse model with postnatal deletion of Gss using Stra8-Cre (S8) to investigate the role of GSS in germ cells. The impact of Gss knockout on reducing male fertility is age-dependent and caused by ferroptosis in the testis. The 2-month-old S8/Gss−/− male mice exhibited normal fertility, due to a compensatory increase in GPX4, which prevented the accumulation of ROS. With aging, there was a decline in GPX4 and an increase in ALOX15 levels observed in 8-month-old S8/Gss−/− mice, resulting in the accumulation of ROS, lipid peroxidation, and ultimately testicular ferroptosis. We found that testicular ferroptosis did not affect spermatogonia, but caused meiosis disruption and acrosome heterotopia. Then the resulting aberrant sperm showed lower concentration and abnormal morphology, leading to reduced fertility. Furthermore, these injuries could be functionally rescued by inhibiting ferroptosis through intraperitoneal injection of GSH or Fer-1. In summary, Gss in germ cells play a crucial role in the resistance to oxidative stress injury in aged mice. Our findings deepen the understanding of ferroptosis during spermatogenesis and suggest that inhibiting ferroptosis may be a potential strategy for the treatment of male infertility.",
+  "type": "academic",
+  "pdf_url": "https://www.nature.com/articles/s41419-023-06359-x.pdf"
+}

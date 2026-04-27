@@ -1,0 +1,18 @@
+{
+  "id": "src-031",
+  "title": "Evaluation framework for systems models.",
+  "authors": [
+    "Braakman, Sietse",
+    "Pathmanathan, Pras",
+    "Moore, Helen"
+  ],
+  "doi": "10.1002/psp4.12755",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34921743",
+  "provider": "pubmed",
+  "year": 2022,
+  "venue": "CPT: pharmacometrics & systems pharmacology",
+  "citation_count": 0,
+  "abstract": "As decisions in drug development increasingly rely on predictions from mechanistic systems models, assessing the predictive capability of such models is becoming more important. Several frameworks for the development of quantitative systems pharmacology (QSP) models have been proposed. In this paper, we add to this body of work with a framework that focuses on the appropriate use of qualitative and quantitative model evaluation methods. We provide details and references for those wishing to apply these methods, which include sensitivity and identifiability analyses, as well as concepts such as validation and uncertainty quantification. Many of these methods have been used successfully in other fields, but are not as common in QSP modeling. We illustrate how to apply these methods to evaluate QSP models, and propose methods to use in two case studies. We also share examples of misleading results when inappropriate analyses are used.",
+  "type": "academic",
+  "pdf_url": ""
+}

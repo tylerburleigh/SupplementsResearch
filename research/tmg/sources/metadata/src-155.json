@@ -1,0 +1,19 @@
+{
+  "id": "src-155",
+  "title": "Mendel’s laws, Mendelian randomization and causal inference in observational data: substantive and nomenclatural issues",
+  "authors": [
+    "Smith, George Davey",
+    "Holmes, Michael V.",
+    "Davies, Neil M",
+    "Ebrahim, Shah"
+  ],
+  "doi": "10.1007/s10654-020-00622-7",
+  "url": "https://openalex.org/W3012912937",
+  "provider": "openalex",
+  "year": 2020,
+  "venue": "European Journal of Epidemiology",
+  "citation_count": 329,
+  "abstract": "We respond to criticisms of Mendelian randomization (MR) by Mukamal, Stampfer and Rimm (MSR). MSR consider that MR is receiving too much attention and should be renamed. We explain how MR links to Mendel's laws, the origin of the name and our lack of concern regarding nomenclature. We address MSR's substantive points regarding MR of alcohol and cardiovascular disease, an issue on which they dispute the MR findings. We demonstrate that their strictures with respect to population stratification, confounding, weak instrument bias, pleiotropy and confounding have been addressed, and summarise how the field has advanced in relation to the issues they raise. We agree with MSR that \"the hard problem of conducting high-quality, reproducible epidemiology\" should be addressed by epidemiologists. However we see more evidence of confrontation of this issue within MR, as opposed to conventional observational epidemiology, within which the same methods that have demonstrably failed in the past are simply rolled out into new areas, leaving their previous failures unexamined.",
+  "type": "academic",
+  "pdf_url": "https://link.springer.com/content/pdf/10.1007/s10654-020-00622-7.pdf"
+}

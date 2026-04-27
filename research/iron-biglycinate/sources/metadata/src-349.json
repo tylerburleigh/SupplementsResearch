@@ -1,0 +1,22 @@
+{
+  "id": "src-349",
+  "title": "Folic Acid Ameliorates Neuronal Ferroptosis in Aging by Up-Regulating SLC7A11-GSH-GPX4 Antioxidant Pathway and Increasing Cystine Levels",
+  "authors": [
+    "Wang, Yue",
+    "Zhang, Jingwen",
+    "Wang, Zehao",
+    "Ren, Qinghan",
+    "Li, Zhenshu",
+    "Huang, Guowei",
+    "Li, Wen"
+  ],
+  "doi": "10.3390/ijms26146669",
+  "url": "https://www.semanticscholar.org/paper/616a8bb7b2b851870bdb775ebc25ee20e86d17bd",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "International Journal of Molecular Sciences",
+  "citation_count": 5,
+  "abstract": "Age-related neurodegeneration is characterized by oxidative stress and iron-dependent cell death, yet the neuroprotective mechanisms of folic acid in modulating ferroptosis remain unclear. This study systematically investigated the role of folic acid in inhibiting ferroptosis and attenuating neuronal damage in aging, with a focus on the solute carrier family 7 member 11 (SLC7A11)-glutathione (GSH)-glutathione peroxidase 4 (GPX4) antioxidant pathway, using aged rats supplemented with folic acid (<0.1, 2.0, and 4.0 mg/kg·diet) for 22 months, with young adult rats as controls. Brain iron accumulation and ferroptosis-related proteins (SLC7A11, GPX4, Ferritin heavy chain 1 (FTH1)) were evaluated. In vitro, HT-22 hippocampal neuronal cells were pre-treated with folic acid (0, 10, 20 μmol/L) for 72 h before combining with Erastin (10 μmol/L)-induced ferroptosis for an additional 24 h. Intracellular Fe2+, lipid peroxidation (LPO), malondialdehyde (MDA), reactive oxygen species (ROS), along with cystine, GSH, and ferroptosis-related protein levels were quantified. Stable sh-SLC7A11 knockdown and control (sh-NC) cell lines were used to validate the dependency of folic acid’s protective effects on SLC7A11 expression. Folic acid supplementation in aged rats dose-dependently reduced aging-related brain iron accumulation and enhanced the expression of SLC7A11, GPX4, and FTH1. In Erastin-induced HT-22 cells, folic acid significantly mitigated ferroptosis hallmarks. Mechanistically, folic acid increased extracellular cystine uptake and intracellular GSH synthesis, thereby activating the SLC7A11-GSH-GPX4 antioxidant pathway. Notably, molecular docking technique suggested that compared to GPX4, folic acid stabilized SLC7A11’s active conformation. sh-SLC7A11 knockdown completely abolished folic acid-mediated protection against ferroptosis, as evidenced by restored loss of cystine, GSH and GPX4 production. This study innovatively emphasized the critical role of folic acid supplementation in inhibiting ferroptosis by up-regulating the SLC7A11-GSH-GPX4 antioxidant pathway, primarily through enhancing cystine availability and SLC7A11 expression. These findings established folic acid as a potential dietary intervention for aging-related neurodegenerative diseases characterized by neuronal ferroptosis, providing preclinical evidence for folic acid based neuroprotection.",
+  "type": "academic",
+  "pdf_url": ""
+}

@@ -1,0 +1,16 @@
+3	2	Article Open
+29	2	Introduction
+76	2	Materials And Methods
+178	2	Results
+455	2	Discussion
+669	2	Conclusion
+687	2	Data Availability
+690	2	References
+793	2	35. Schwarzer R, Kivaranovic D, Mandorfer M, Paternostro R, Wolrab D, Heinisch B,
+802	2	38. Van Hove JLK, Freehauf CL, Ficicioglu C, Pena LDM, Moreau KL, Henthorn TK,
+813	2	41. Camargo RL, Branco RC, de Rezende LF, Vettorazzi JF, Borck PC, Boschero AC,
+838	2	50. GRAS Exemption Claim for Taurine for Use in Enhanced Water Beverages GRAS
+850	2	Author Contributions
+857	2	Funding
+866	2	Competing Interests
+868	2	Additional Information

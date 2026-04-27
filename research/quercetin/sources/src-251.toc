@@ -1,0 +1,43 @@
+492	2	Acknowledgements
+498	2	References
+500	2	2 Berger SL, Kouzarides T, Shiekhattar R and Shilatifard A: An
+507	2	5 Reik W: Stability and flexibility of epigenetic gene regulation in
+509	2	6 Schermelleh L, Spada F, Easwaran HP, Zolghadr K, Margot JB,
+513	2	7 Suzuki MM and Bird A: DNA methylation landscapes: Provocative
+520	2	10 Gros C, Fahy J, Halby L, Dufau I, Erdmann A, Gregoire JM,
+527	2	12 Prendergast GC and Ziff EB: Methylation-sensitive sequence-
+532	2	14 Brueckner B and Lyko F: DNA methyltransferase inhibitors: Old
+535	2	15 Herman JG and Baylin SB: Gene silencing in cancer in
+538	2	16 Chik F, Szyf M and Rabbani SA: Role of epigenetics in cancer
+541	2	17 Cowan LA, Talwar S and Yang AS: Will DNA methylation
+548	2	19 Yang X, Lay F, Han H and Jones PA: Targeting DNA
+551	2	20 Santi DV , Norment A and Garrett CE: Covalent bond formation
+554	2	21 Stresemann C and Lyko F: Modes of action of the DNA
+557	2	22 Ben-Kasus T, Ben-Zvi Z, Marquez VE, Kelley JA and Agbaria
+561	2	23 Billam M, Sobolewski MD and Davidson NE: Effects of a novel
+568	2	25 Kaminskas E, Farrell A, Abraham S, Baird A, Hsieh LS, Lee SL,
+575	2	27 Yoo CB, Cheng JC and Jones PA: Zebularine: A new drug for
+577	2	28 Holleran JL, Parise RA, Joseph E, Eiseman JL, C ovey JM, Glaze
+582	2	29 Stresemann C, Brueckner B, Musch T, Stopper H and Lyko F:
+585	2	30 Qin T, Jelinek J, Si J, Shu J and Issa JP: Mechanisms of
+588	2	31 Yang X, Lay F, Han H and Jones PA: Targeting DNA
+593	2	33 Jones PA and Taylor SM: Cellular differentiation, cytidine
+595	2	34 Hollenbach PW, Nguyen AN, Brady H, Williams M, Ning Y ,
+599	2	35 Li LH, Olin EJ, Buskirk HH and Reineke LM: Cytotoxicity and
+606	2	37 Schneider-Stock R, Diab-Assef M, Rohrbeck A, Foltzer-
+612	2	38 Palii SS, Van Emburgh BO, Sankpal UT, Brown KD and
+620	2	39 Zhou L, Cheng X, Connolly BA, Dickman MJ, Hurd PJ and
+624	2	40 Marquez VE, Eritja R, Kelley JA, Vanbemmel D and Christman
+628	2	41 Cheng JC, Matsen CB, Gonzales FA, Ye W, Greer S, Marquez
+632	2	42 Lemaire M, Momparler LF, Bernstein ML, Marquez VE and
+636	2	43 Scott SA, Lakshimikuttysamma A, Sheridan DP, Sanche SE,
+642	2	44 Balch C, Yan P, Craft T, Young S, Skalnik DG, Huang TH and
+646	2	45 Cheng JC, Weisenberger DJ, Gonzales FA, Liang G, Xu GL, Hu
+654	2	47 Hurd PJ, Whitmarsh AJ, Baldwin GS, Kelly SM, Waltho JP,
+658	2	48 Schwartsmann G, Schunemann H, Gorini CN, Filho AF, Garbino
+664	2	49 Pohlmann P, DiLeone LP, Cancella AI, Caldas AP, Dal Lago L,
+673	2	51 Vijayaraghavalu S, Dermawan JK, Cheriyath V and Labhasetwar
+680	2	52 Appleton K, Mackay HJ, Judson I, Plumb JA, McCormick C,
+691	2	54 Ren J, Singh BN, Huang Q, Li Z, Gao Y , Mishra P, Hwa YL, Li
+694	2	55 Jung Y , Park J, Kim TY , Park JH, Jong HS, Im SA, Robertson
+698	2	56 Foulks JM, Parnell KM, Nix RN, Chau S, Swierczek K,

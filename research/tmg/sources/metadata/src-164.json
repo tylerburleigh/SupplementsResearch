@@ -1,0 +1,24 @@
+{
+  "id": "src-164",
+  "title": "Assessment of the genetic and clinical determinants of fracture risk: genome wide association and mendelian randomisation study",
+  "authors": [
+    "Trajanoska, Katerina",
+    "Morris, John A.",
+    "Oei, Ling",
+    "Zheng, Hou-Feng",
+    "Evans, David M.",
+    "Kiel, Douglas P.",
+    "Ohlsson, Claes",
+    "Richards, J. Brent",
+    "Rivadeneira, Fernando"
+  ],
+  "doi": "10.1136/bmj.k3225",
+  "url": "https://openalex.org/W2888894134",
+  "provider": "openalex",
+  "year": 2018,
+  "venue": "BMJ",
+  "citation_count": 281,
+  "abstract": "This large scale GWAS meta-analysis for fracture identified 15 genetic determinants of fracture, all of which also influenced bone mineral density. Among the clinical risk factors for fracture assessed, only bone mineral density showed a major causal effect on fracture. Genetic predisposition to lower levels of vitamin D and estimated calcium intake from dairy sources were not associated with fracture risk.",
+  "type": "academic",
+  "pdf_url": "https://www.bmj.com/content/bmj/362/bmj.k3225.full.pdf"
+}

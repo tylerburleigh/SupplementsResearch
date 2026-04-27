@@ -1,0 +1,34 @@
+{
+  "id": "src-038",
+  "title": "The difference between ‘placebo group’ and ‘placebo control’: a case study in psychedelic microdosing",
+  "authors": [
+    "Szigeti, Balázs",
+    "Nutt, David",
+    "Carhart-Harris, Robin",
+    "Erritzoe, David"
+  ],
+  "year": 2023,
+  "abstract": "AbstractIn medical trials, ‘blinding’ ensures the equal distribution of expectancy effects between treatment arms in theory; however, blinding often fails in practice. We use computational modelling to show how weak blinding, combined with positive treatment expectancy, can lead to an uneven distribution of expectancy effects. We call this ‘activated expectancy bias’ (AEB) and show that AEB can inflate estimates of treatment effects and create false positive findings. To counteract AEB, we introduce theCorrect Guess Rate Curve (CGRC), a statistical tool that can estimate the outcome of a perfectly blinded trial based on data from an imperfectly blinded trial. To demonstrate the impact of AEB and the utility of the CGRC on empirical data, we re-analyzed the ‘self-blinding psychedelic microdose trial’ dataset. Results suggest that observed placebo-microdose differences are susceptible to AEB and are at risk of being false positive findings, hence, we argue that microdosing can be understood as active placebo. These results highlight the important difference between ‘trials with a placebo-control group’, i.e., when a placebo control group is formally present, and ‘placebo-controlled trials’, where patients are genuinely blind. We also present a new blinding integrity assessment tool that is compatible with CGRC and recommend its adoption.",
+  "doi": "10.1038/s41598-023-34938-7",
+  "url": "https://doi.org/10.1038/s41598-023-34938-7",
+  "pdf_url": "",
+  "venue": "Scientific Reports",
+  "citation_count": 27,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-26T10:43:03.600198+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-038.md",
+  "quality_details": {
+    "content_length": 49219,
+    "alpha_ratio": 0.727,
+    "sentence_count": 592,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

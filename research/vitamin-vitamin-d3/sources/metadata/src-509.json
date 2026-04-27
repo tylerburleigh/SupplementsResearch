@@ -1,0 +1,33 @@
+{
+  "id": "src-509",
+  "title": "Vitamin D Deficiency Increases Mortality Risk in the UK Biobank",
+  "authors": [
+    "Sutherland, Joshua P.",
+    "Zhou, Ang",
+    "Hyppönen, Elina"
+  ],
+  "year": 2022,
+  "abstract": "",
+  "doi": "10.7326/m21-3324",
+  "url": "https://doi.org/10.7326/m21-3324",
+  "pdf_url": "",
+  "venue": "Annals of Internal Medicine",
+  "citation_count": 114,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T21:01:14.198552+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-509.md",
+  "quality_details": {
+    "content_length": 51487,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

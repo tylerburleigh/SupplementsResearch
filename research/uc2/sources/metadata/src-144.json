@@ -1,0 +1,18 @@
+{
+  "id": "src-144",
+  "title": "Modulation of TGF-beta signaling by proinflammatory cytokines in articular chondrocytes.",
+  "authors": [
+    "Roman‐Blas, Jorge A.",
+    "Stokes, David G.",
+    "Jiménez, Sergio A."
+  ],
+  "doi": "10.1016/j.joca.2007.04.011",
+  "url": "https://openalex.org/W2051762584",
+  "provider": "openalex",
+  "year": 2007,
+  "venue": "PubMed",
+  "citation_count": 137,
+  "abstract": "IL-1beta or TNF-alpha exerted a suppressive effect on Smad3/4 DNA-binding activity in human articular chondrocytes, as well as on TGF-beta-induced stimulation of Smad3/4 DNA-binding activity and Smad2/3 phosphorylation in human OA and bovine articular chondrocytes. IL-1beta partially reversed the increase in TGF-beta-stimulated Smad7 mRNA or protein levels suggesting that Smad7 may not be involved in the suppression of TGF-beta signaling induced by IL-1beta or TNF-alpha in articular chondrocytes. The balance between the IL-1beta or TNF-alpha and the TGF-beta signaling pathways is crucial for maintenance of articular cartilage homeostasis and its disruption likely plays a substantial role in the pathogenesis of OA.",
+  "type": "academic",
+  "pdf_url": ""
+}

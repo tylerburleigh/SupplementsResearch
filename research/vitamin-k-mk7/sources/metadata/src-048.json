@@ -1,0 +1,33 @@
+{
+  "id": "src-048",
+  "title": "Production and application of menaquinone-7 (vitamin K2): a new perspective",
+  "authors": [
+    "Mahdinia, Ehsan",
+    "Demirci, Ali",
+    "Berenjian, Aydin"
+  ],
+  "year": 2017,
+  "abstract": "",
+  "doi": "10.1007/s11274-016-2169-2",
+  "url": "https://doi.org/10.1007/s11274-016-2169-2",
+  "pdf_url": "",
+  "venue": "World Journal of Microbiology and Biotechnology",
+  "citation_count": 63,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T10:55:38.033073+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-048.md",
+  "quality_details": {
+    "content_length": 14142,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

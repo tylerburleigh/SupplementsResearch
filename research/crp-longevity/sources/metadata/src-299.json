@@ -1,0 +1,22 @@
+{
+  "id": "src-299",
+  "title": "Colchicine for the Prevention of Major Adverse Cardiovascular Events After Acute Coronary Syndromes: A Systematic Review and Meta-Analysis of Large, Long-Term, Placebo-Controlled Randomized Trials",
+  "authors": [
+    "Popescu, Roxana-Mihaela",
+    "Galrinho, Ruxandra Dragoi",
+    "Pareek, Manan",
+    "Karthikesan, D.",
+    "Dumitrescu, George",
+    "Balanescu, Ș.",
+    "Vinereanu, D."
+  ],
+  "doi": "10.3390/jcm15072695",
+  "url": "https://www.semanticscholar.org/paper/eedc1c712448281c686b896c2c4af8cd468df4ed",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "Journal of Clinical Medicine",
+  "citation_count": 0,
+  "abstract": "Background: Despite major advancements in the treatment of post-acute coronary syndrome (ACS), the prevalence of early and late major adverse cardiovascular events (MACEs) remains high. Inflammation, a key feature of atherosclerosis, plays an important role in the healing process following ACS. This suggests that anti-inflammatory agents might improve both atherosclerotic progression and cardiovascular outcomes. Colchicine has potent anti-inflammatory effects and may, therefore, be a suitable agent for mitigating this response. Methods: We conducted a systematic search up to September 2025 across Embase, MEDLINE, the Cochrane databases, and the Clinical Trials.gov registry to assess whether colchicine administration after ACS reduces the risk of a MACE (a composite of cardiovascular death, ACS, stroke, and urgent revascularization). We selected placebo-controlled randomized trials enrolling more than 500 participants, in which colchicine was administered as a long-term intervention, defined as treatment and/or follow-up of at least 12 months, and in which MACEs were assessed as the primary endpoint. Results: We included three large, long-term, placebo-controlled randomized trials (n = 12,602 participants). Primary events occurred in 485 participants in the colchicine group and 551 in the control group, with a calculated odds ratio (OR) of 0.87 (95% CI 0.77–0.99, p = 0.03), with high heterogeneity between studies (I2 ≈ 71%): p for heterogeneity ≈ 0.03. Subgroup analysis of diabetic patients (OR 0.81, 95% CI 0.63–1.04), as well as of individual components of the primary outcome, showed non-significant effects: OR= 0.92 (95% CI 0.76–1.11, p = 0.38) for myocardial infarction, OR = 0.88 (95% CI 0.72–1.07, p = 0.15) for revascularization, OR = 1.09 (95% CI 0.86–1.38, p = 0.29) for cardiovascular death, and OR = 0.89 (95% CI 0.63–1.27, p = 0.47) for stroke. Conclusions: In this meta-analysis of large, long-term, placebo-controlled randomized trials, colchicine administration after ACS was associated with a modest reduction in MACEs. However, the proximity of the confidence interval to unity reflects a statistical equilibrium between opposing trial-level effects rather than a robust treatment signal. Further investigation is warranted, given the small number of existing large trials and their heterogeneity.",
+  "type": "academic",
+  "pdf_url": ""
+}

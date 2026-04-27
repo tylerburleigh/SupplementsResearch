@@ -1,0 +1,16 @@
+{
+  "id": "src-051",
+  "title": "Advancing Alzheimer's disease treatment: A literature review on senolytic intervention",
+  "authors": [
+    "Onuh, Victor C"
+  ],
+  "doi": "10.1177/13872877251376540",
+  "url": "https://www.semanticscholar.org/paper/b78459b8ab8fa1a54b25713e019da05072db1c87",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "Journal of Alzheimer's Disease",
+  "citation_count": 0,
+  "abstract": "Alzheimer's disease (AD) is a leading cause of dementia, currently affecting over 50 million people globally. Despite decades of research, therapeutic development has continued to face high failure rates due to an incomplete understanding of the underlying disease mechanisms. Current drugs like rivastigmine focus on managing cognitive symptoms since there is no known cure to halt the disease's progression. However, recent research has suggested that advanced biological age, particularly the accumulation of senescent cells, is the most significant risk factor for AD pathology, and targeting these aging mechanisms may prove more effective in altering the disease progression. Senescent cells accumulate with age, contributing to inflammatory states and neurodegenerative diseases such as AD. Senolytic drugs, such as dasatinib and quercetin (D + Q), have shown promise in animal models by clearing senescent cells, delaying aging-related decline, and improving AD-related outcomes. This literature review aims to provide a comprehensive overview of the therapeutic potential of senolytic interventions for AD by examining the mechanisms of cellular senescence based on evidence of its accumulation in the human brain, critically analyzing the preclinical and clinical trials involving senolytic compounds, and discussing the implications and limitations of this approach. The findings from recent studies indicate that senolytics may pave the way for effective AD treatments, though further clinical validation is needed.",
+  "type": "academic",
+  "pdf_url": ""
+}

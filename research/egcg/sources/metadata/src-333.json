@@ -1,0 +1,25 @@
+{
+  "id": "src-333",
+  "title": "Thymoquinone mitigates cardiac hypertrophy by activating adaptive autophagy via the PPAR-γ/14-3-3γ pathway",
+  "authors": [
+    "Qiu, Rong-Bin",
+    "Zhao, Shi-Tao",
+    "Xu, Zhi-qiang",
+    "Hu, Li-Juan",
+    "Zeng, Rui-Yuan",
+    "Qiu, Zhi-Cong",
+    "Peng, Han-Zhi",
+    "Zhou, Lian-Fen",
+    "Cao, Yuan-Ping",
+    "Wan, Li"
+  ],
+  "doi": "10.3892/ijmm.2025.5500",
+  "url": "https://www.semanticscholar.org/paper/b955b7607b1fe69584c6ff73b32ec9226686db82",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "International Journal of Molecular Medicine",
+  "citation_count": 7,
+  "abstract": "Thymoquinone (TQ), the principal active compound derived from the black seed plant, has been extensively utilized in traditional medicine for treating various ailments. Despite its wide-spread use, its therapeutic mechanisms in the context of cardiac hypertrophy remain insufficiently understood. The present study focused on assessing the efficacy of TQ in mitigating cardiac hypertrophy while identifying its specific protective pathways. Through a combination of in vivo experiments utilizing a mouse model of transverse aortic constriction (TAC) and in vitro studies utilizing an angiotensin II (AngII)-induced hypertrophy model in H9C2 cells, the protective actions of TQ were comprehensively evaluated. The results revealed that TQ significantly attenuated TAC-induced cardiac hypertrophy and improved overall cardiac function. In AngII-induced H9C2 cells, pretreatment with TQ significantly reduced both cell hypertrophy and reactive oxygen species levels, while simultaneously promoting autophagy and limiting fibrosis. TQ was also found to increase the transcriptional activity of peroxisome proliferator-activated receptor-γ (PPAR-γ), which interacted with 14-3-3γ protein, leading to autophagy activation and subsequent cellular protection. However, the protective autophagic effects were attenuated when PPAR-γ activity was inhibited alongside pAD/14-3-3γ-short hairpin RNA administration. The present findings demonstrate that TQ mitigates cardiac hypertrophy by modulating autophagy via the PPAR-γ/14-3-3γ signaling axis, highlighting its therapeutic potential for cardiac hypertrophy treatment.",
+  "type": "academic",
+  "pdf_url": ""
+}

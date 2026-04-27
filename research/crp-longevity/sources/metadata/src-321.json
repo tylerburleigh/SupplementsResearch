@@ -1,0 +1,25 @@
+{
+  "id": "src-321",
+  "title": "Protective role of the novel cytokine Metrnl/ interleukin-41 in host immunity defense during sepsis by promoting macrophage recruitment and modulating Treg/Th17 immune cell balance.",
+  "authors": [
+    "Chen, Xi",
+    "Chen, Xia",
+    "Yang, Y.",
+    "Luo, Na",
+    "Yang, Jian",
+    "Zhong, Li",
+    "Guo, Tinting",
+    "Yuan, Zhongzhen",
+    "Wei, Qiang",
+    "Wang, Chuanjiang"
+  ],
+  "doi": "10.1016/j.clim.2023.109690",
+  "url": "https://www.semanticscholar.org/paper/de407268043a833e1735bfbe82db8462c82684c2",
+  "provider": "semantic_scholar",
+  "year": 2023,
+  "venue": "Clinical Immunology",
+  "citation_count": 34,
+  "abstract": "BACKGROUND\nMetrnl play an immunocytokine-like role in several diseases, which is also known as meteorin-like because it is homologous to the neurotrophic factor meteorin (Metrn). Although the expression and function of Metrnl, including neurotrophic, immunomodulatory, and insulin resistance functions in different tissues have been extensively studied, its role in sepsis has remained largely limited.\n\nMETHODS\nThe present work analyzed the levels of Metrnl and cytokines in the circulation, such as tumor necrosis factor (TNF-α), interleukin (IL-1)β, IL-6, IL-8, together with IL-10 among septic adult patients. Clinical information was obtained from such patients, including sofa score, procalcitonin(PCT)count, and C-reactive count (CRP) within 24 h when entering the intensive care unit (ICU). We constructed a sepsis model in Metrnl-deficient or normal wild-type mice using cecal ligation and perforation to study its functions in bacterial burden, survival, cytokine/chemokine generation, peritoneal lavage fluid neutrophils, macrophage and lymphocyte recruitment, and Treg/Th17 immune cell balance after CLP-induced sepsis.\n\nRESULTS\nThe expression of Metrnl was remarkably elevated in the early phase of sepsis clinically. Its serum content in patients dying of sepsis slightly decreased relative to that in survivors. Furthermore, the concentration of Metrnl in septic cases when entering the ICU independently predicted the 28-day mortality. For septic patients who had low serum Metrnl content (≤ 274.40 pg/mL), the death risk increased by 2.3 folds relative to those who had a high serum content. It is reported that Metrnl is probably insufficient among patients dying of sepsis. Additionally, the content of Metrnl in the serum of septic patients when entering the ICU is markedly and negatively related to the levels of TNF-α, IL-1β, IL-6, IL-8, IL-17, PCT, and Sofa score. Collectively, Metrnl could be a potential therapeutic target for sepsis. A low-lethality non-severe sepsis (NSS) model was constructed, which suggested that Metrnl insufficiency elevated the death rate and reduced bacterial clearance during sepsis. For Metrnl-deficient mice, impaired sepsis immunity defense might be related to decreased macrophage recruitment and Treg/Th17 lymphocyte imbalance. Recombinant Metrnl administered to Metrnl-deficient mice abolished the immunity defense impairment following NSS while protecting the high-lethality severe sepsis (SS) model in wild-type (WT) mice. In addition, Metrnl-induced sepsis prevention was intricately associated with the increased recruitment of peritoneal macrophages and modulation of the Treg/TH17 immune cell balance. Furthermore, CCL3 exposure in Metrnl-deficient mice reduced peritoneal bacterial loads while improving survival during sepsis partially by promoting the recruitment of peritoneal macrophages. Furthermore, Metrnl regulated the polarization of M1 macrophages through the ROS signaling pathway and promoted macrophage phagocytosis, thereby killing Escherichia coli.\n\nCONCLUSIONS\nThe present proof-of-concept work suggests that Metrnl-mediated recruitment of macrophages significantly affects sepsis defense in the host and modulates the Treg/Th17 immune cell balance. Findings in this work shed more light on the development of host-directed treatments that can be used to manipulate host immunity to treat sepsis.",
+  "type": "academic",
+  "pdf_url": ""
+}

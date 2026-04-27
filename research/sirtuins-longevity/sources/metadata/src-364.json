@@ -1,0 +1,30 @@
+{
+  "id": "src-364",
+  "title": "Nicotinamide riboside and nicotinamide mononucleotide facilitate NAD+ synthesis via enterohepatic circulation",
+  "authors": [
+    "Yaku, Keisuke",
+    "Palikhe, Sailesh",
+    "Iqbal, Tooba",
+    "Hayat, Faisal",
+    "Watanabe, Yoshiyuki",
+    "Fujisaka, S.",
+    "Izumi, Hironori",
+    "Yoshida, Tomoyuki",
+    "Karim, Mariam",
+    "Uchida, Hitoshi",
+    "Nawaz, Allah",
+    "Tobe, Kazuyuki",
+    "Mori, Hisashi",
+    "Migaud, Marie E.",
+    "Nakagawa, Takashi"
+  ],
+  "doi": "10.1126/sciadv.adr1538",
+  "url": "https://www.semanticscholar.org/paper/c3f09eb73fa51f0b1409d310ab390d2b671e9bd4",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "Science Advances",
+  "citation_count": 24,
+  "abstract": "Decreased nicotinamide adenine dinucleotide (oxidized form) (NAD+) levels are reportedly associated with several aging-related disorders. Thus, supplementation with NAD+ precursors, such as nicotinamide mononucleotide (NMN) and nicotinamide riboside (NR), exhibits beneficial effects against these disorders. However, the in vivo metabolic pathways of NMN and NR remain to be elucidated. In this study, we comprehensively analyzed the fate of orally and intravenously administered NMN and NR in mice using NAD+ metabolomics. We found that only a small portion of orally administered NMN and NR was directly absorbed from the small intestine and that most of them underwent gut microbiota–mediated deamidation and conversion to nicotinic acid (NA). Moreover, intravenously administered NMN and NR were rapidly degraded into nicotinamide and secreted to bile followed by deamidation to NA by gut microbiota. Thus, enterohepatic circulated NA is preferentially used in the liver. These findings showed that NMN and NR are indirectly converted to NAD+ via unexpected metabolic pathways.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.1126/sciadv.adr1538"
+}

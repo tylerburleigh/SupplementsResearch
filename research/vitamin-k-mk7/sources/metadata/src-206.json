@@ -1,0 +1,18 @@
+{
+  "id": "src-206",
+  "title": "Structural Modeling Insights into Human VKORC1 Phenotypes.",
+  "authors": [
+    "Czogalla, Katrin J",
+    "Watzka, Matthias",
+    "Oldenburg, Johannes"
+  ],
+  "doi": "10.3390/nu7085313",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/26287237",
+  "provider": "pubmed",
+  "year": 2015,
+  "venue": "Nutrients",
+  "citation_count": 0,
+  "abstract": "Vitamin K 2,3-epoxide reductase complex subunit 1 (VKORC1) catalyses the reduction of vitamin K and its 2,3-epoxide essential to sustain γ-carboxylation of vitamin K-dependent proteins. Two different phenotypes are associated with mutations in human VKORC1. The majority of mutations cause resistance to 4-hydroxycoumarin- and indandione-based vitamin K antagonists (VKA) used in the prevention and therapy of thromboembolism. Patients with these mutations require greater doses of VKA for stable anticoagulation than patients without mutations. The second phenotype, a very rare autosomal-recessive bleeding disorder caused by combined deficiency of vitamin K dependent clotting factors type 2 (VKCFD2) arises from a homozygous Arg98Trp mutation. The bleeding phenotype can be corrected by vitamin K administration. Here, we summarize published experimental data and in silico modeling results in order to rationalize the mechanisms of VKA resistance and VKCFD2.",
+  "type": "academic",
+  "pdf_url": ""
+}

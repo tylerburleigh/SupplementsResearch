@@ -1,0 +1,21 @@
+6	2	Open Access
+7	2	Edited By
+10	2	Reviewed By
+23	2	Citation
+29	2	Copyright
+71	2	Keywords
+73	2	Introduction
+666	2	Hiit
+1250	2	Conclusions
+1279	2	Author Contributions
+1305	2	References
+1352	2	17. Kreider RB, Kalman DS, Antonio J, Ziegenfuss TN, Wildman R, Collins R,
+1394	2	31. Lourenco MV, Frozza RL, de Freitas GB, Zhang H, Kincheski GC, Ribeiro FC,
+1419	2	39. Prokopidis K, Giannos P, Triantafyllidis KK, Kechagias KS, Forbes SC, Candow
+1429	2	42. Candow DG, Ostojic SM, Chilibeck PD, Longobardi I, Gualano
+1471	2	54. Singh NA, Quine S, Clemson LM, Williams EJ, Williamson DA, Stavrinos
+1503	2	63. Kreider RB, Melton C, Rasmussen CJ, Greenwood M, Lancaster S,
+1549	2	75. Nilsson MI, Mikhail A, Lan L, Di Carlo A, Hamilton B, Barnard K,
+1553	2	76. Bernat P, Candow DG, Gryzb K, Butchart S, Schoenfeld BJ, Bruno
+1570	2	81. Rogers ME, Bohlken RM, Beets MW, Hammer SB, Ziegenfuss TN, Sarabon
+1574	2	82. Candow DG, Chilibeck PD, Chad KE, Chrusch MJ, Davison KS, Burke

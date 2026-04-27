@@ -1,0 +1,19 @@
+{
+  "id": "src-047",
+  "title": "Small Molecules as SIRT Modulators.",
+  "authors": [
+    "Bai, Xinfa",
+    "Yao, Lei",
+    "Ma, Xuan",
+    "Xu, Xiangming"
+  ],
+  "doi": "10.2174/1389557516666160620095103",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/27334466",
+  "provider": "pubmed",
+  "year": 2018,
+  "venue": "Mini reviews in medicinal chemistry",
+  "citation_count": 0,
+  "abstract": "Sirtuins are a family of NAD+-dependent deacetylases (class III histone deacetylases). Seven mammalian sirtuins, SIRT1-7, are identified, as the functions and locations differ greatly. SIRT1 and SIRT2 locate in nucleus and cytoplasm, while SIRT3-5 in mitochondria. Sirtuins are not only involved in many important biological processes such as apoptosis, cellular senescence, endocrine signaling, glucose homeostasis, aging, and longevity, it can also control circadian clocks and mitochondrial biogenesis. Small molecules that can modulate the sirtuins activity have been shown to have potentials for treating many human diseases such as type II diabetes, cancer, rheumatoid arthritis, cardiovascular and other age-relating diseases. Some polyphenolic natural products such as Resveratrol, Fisetin, and Quercetin have demonstrated health benefits due to their SIRT1 activation effects. Some structurally diverse synthetic compounds, such as SRT1720, SRT1460, Selisistat (EX 527), and AGK2 were used as small molecular SIRT modulators (IC50 = 0.04-100 μM) to treat ischemic stroke, myocardial infarction, neurodegenerative diseases, cancer, aging, and obesity. In order to get better understanding of how the small molecules interact with the sirtuin, the small molecules that having SIRT inhibitory or activation effect, found by HTS or other modern medicinal chemistry techniques, are reviewed in this article.",
+  "type": "academic",
+  "pdf_url": ""
+}

@@ -1,0 +1,24 @@
+{
+  "id": "src-986",
+  "title": "Protective effects and mechanisms of quercetin in animal models of hyperuricemia: A systematic review and meta-analysis.",
+  "authors": [
+    "Bian, Xueren",
+    "Ge, Zhihao",
+    "Chen, Xuannan",
+    "Zhong, Shutian",
+    "Li, Lu",
+    "Xu, Wanfeng",
+    "Li, Bo",
+    "Chen, Suhong",
+    "Lv, Guiyuan"
+  ],
+  "doi": "10.1016/j.phrs.2025.107665",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39986664",
+  "provider": "pubmed",
+  "year": 2025,
+  "venue": "Pharmacological research",
+  "citation_count": 0,
+  "abstract": "Quercetin, a prevalent natural flavonoid found in various medicinal plants, including Dendrobium officinale Kimura & Migo, has garnered attention for its potential health benefits. However, foundational animal studies investigating the effects of quercetin on lowering uric acid levels remain insufficiently established, and the number of related clinical studies is limited. This scarcity hinders the practical application of quercetin in managing hyperuricemia. We systematically searched for preclinical studies published by December 2024 in nine databases, such as PubMed, Web of Science, and Embase. The results of our meta-analysis showed that, compared with the model group, quercetin not only effectively alleviated the pathological injury of the kidney and liver and improved the renal function indexes in the animal model of hyperuricemia but also played a role in lowering uric acid by modulating multiple signaling pathways such as oxidative stress, lipid metabolism, and transporter proteins. Quercetin showed a more substantial effect in decreasing serum creatinine levels (SMD = -4.29, 95 % CI [-6.48, -2.10], P = 0.0001), blood urea nitrogen levels (SMD = -3.08, 95 % CI [-4.80, -1.35], P = 0.0005), and Up-regulate organic anion transporter 1 mRNA expression levels (SMD = 2.72, 95 %CI [0.45, 4.99], P = 0.02) compared to the positive control group. Sensitivity analyses confirmed the stability of the results, while the subgroup analysis indicates that the treatment course may be the main source of heterogeneity. The results of the Dose-efficacy analysis suggested that quercetin had a more substantial protective effect against hyperuricemia at a gavage dose of 100-200 mg/kg. However, to more accurately assess the effects of quercetin on hyperuricemia, it is essential to conduct additional high-quality, large-scale animal trials to validate our findings.",
+  "type": "academic",
+  "pdf_url": ""
+}

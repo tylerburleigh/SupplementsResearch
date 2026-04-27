@@ -1,0 +1,14 @@
+50	2	1. Introduction
+148	2	2. Materials and Methods
+166	2	2 Journal of Pregnancy
+219	2	3. Results
+220	3	3.1. GI Complaints at Inclusion in the Gentofte and Naestved
+343	2	4. Discussion
+372	2	4 Journal of Pregnancy
+475	2	6 Journal of Pregnancy
+685	2	8 Journal of Pregnancy
+718	2	5. Conclusions
+741	2	Author Contributions
+756	2	Acknowledgments
+760	2	References
+811	2	10 Journal of Pregnancy

@@ -1,0 +1,28 @@
+{
+  "id": "src-180",
+  "title": "Effect of sleep deprivation on the human metabolome",
+  "authors": [
+    "Davies, Sarah K.",
+    "Ang, Joo Ern",
+    "Revell, Victoria L.",
+    "Holmes, Ben",
+    "Mann, Anúska",
+    "Robertson, F",
+    "Cui, Nanyi",
+    "Middleton, Benita",
+    "Ackermann, Katrin",
+    "Kayser, Manfred",
+    "Thumser, Alfred E.",
+    "Raynaud, Florence I.",
+    "Skene, Debra J."
+  ],
+  "doi": "10.1073/pnas.1402663111",
+  "url": "https://openalex.org/W2027141772",
+  "provider": "openalex",
+  "year": 2014,
+  "venue": "Proceedings of the National Academy of Sciences",
+  "citation_count": 532,
+  "abstract": "Sleep restriction and circadian clock disruption are associated with metabolic disorders such as obesity, insulin resistance, and diabetes. The metabolic pathways involved in human sleep, however, have yet to be investigated with the use of a metabolomics approach. Here we have used untargeted and targeted liquid chromatography (LC)/MS metabolomics to examine the effect of acute sleep deprivation on plasma metabolite rhythms. Twelve healthy young male subjects remained in controlled laboratory conditions with respect to environmental light, sleep, meals, and posture during a 24-h wake/sleep cycle, followed by 24 h of wakefulness. Two-hourly plasma samples collected over the 48 h period were analyzed by LC/MS. Principal component analysis revealed a clear time of day variation with a significant cosine fit during the wake/sleep cycle and during 24 h of wakefulness in untargeted and targeted analysis. Of 171 metabolites quantified, daily rhythms were observed in the majority (n = 109), with 78 of these maintaining their rhythmicity during 24 h of wakefulness, most with reduced amplitude (n = 66). During sleep deprivation, 27 metabolites (tryptophan, serotonin, taurine, 8 acylcarnitines, 13 glycerophospholipids, and 3 sphingolipids) exhibited significantly increased levels compared with during sleep. The increased levels of serotonin, tryptophan, and taurine may explain the antidepressive effect of acute sleep deprivation and deserve further study. This report, to our knowledge the first of metabolic profiling during sleep and sleep deprivation and characterization of 24 h rhythms under these conditions, offers a novel view of human sleep/wake regulation.",
+  "type": "academic",
+  "pdf_url": "https://www.pnas.org/content/pnas/111/29/10761.full.pdf"
+}

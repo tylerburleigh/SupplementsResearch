@@ -1,0 +1,17 @@
+{
+  "id": "src-326",
+  "title": "Perspectives for New and More Efficient Multifunctional Ligands for Alzheimer′s Disease Therapy",
+  "authors": [
+    "Zagórska, Agnieszka",
+    "Jaromin, Anna"
+  ],
+  "doi": "10.3390/molecules25153337",
+  "url": "https://openalex.org/W3044136434",
+  "provider": "openalex",
+  "year": 2020,
+  "venue": "Molecules",
+  "citation_count": 47,
+  "abstract": "Despite tremendous research efforts at every level, globally, there is still a lack of effective drugs for the treatment of Alzheimer's disease (AD). The biochemical mechanisms of this devastating neurodegenerative disease are not yet clearly understood. This review analyses the relevance of multiple ligands in drug discovery for AD as a versatile toolbox for a polypharmacological approach to AD. Herein, we highlight major targets associated with AD, ranging from acetylcholine esterase (AChE), beta-site amyloid precursor protein cleaving enzyme 1 (BACE-1), glycogen synthase kinase 3 beta (GSK-3β), <i>N</i>-methyl-d-aspartate (NMDA) receptor, monoamine oxidases (MAOs), metal ions in the brain, 5-hydroxytryptamine (5-HT) receptors, the third subtype of histamine receptor (H<sub>3</sub> receptor), to phosphodiesterases (PDEs), along with a summary of their respective relationship to the disease network. In addition, a multitarget strategy for AD is presented, based on reported milestones in this area and the recent progress that has been achieved with multitargeted-directed ligands (MTDLs). Finally, the latest publications referencing the enlarged panel of new biological targets for AD related to the microglia are highlighted. However, the question of how to find meaningful combinations of targets for an MTDLs approach remains unanswered.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/1420-3049/25/15/3337/pdf?version=1595485277"
+}

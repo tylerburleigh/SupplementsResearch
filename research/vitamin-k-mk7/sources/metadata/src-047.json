@@ -1,0 +1,29 @@
+{
+  "id": "src-047",
+  "title": "Multiple functions of autophagy in vascular calcification.",
+  "authors": [
+    "Zhou, Xin",
+    "Xu, Sui-Ning",
+    "Yuan, Shu-Tong",
+    "Lei, Xinjuan",
+    "Sun, Xiaoying",
+    "Xing, Lu",
+    "Li, Hui-Jin",
+    "He, Chun-Xia",
+    "Qin, Wei",
+    "Zhao, Dong",
+    "Li, Peng-Quan",
+    "Moharomd, Edward",
+    "Xu, Xuehong",
+    "Cao, Hui-Ling"
+  ],
+  "doi": "10.1186/s13578-021-00639-9",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34399835",
+  "provider": "pubmed",
+  "year": 2021,
+  "venue": "Cell & bioscience",
+  "citation_count": 0,
+  "abstract": "BACKGROUND: Vascular calcification is a closely linked to cardiovascular diseases, such as atherosclerosis, chronic kidney disease, diabetes, hypertension and aging. The extent of vascular calcification is closely correlate with adverse clinical events and cardiovascular all-cause mortality. The role of autophagy in vascular calcification is complex with many mechanistic unknowns.\nMETHODS: In this review, we analyze the current known mechanisms of autophagy in vascular calcification and discuss the theoretical advantages of targeting autophagy as an intervention against vascular calcification.\nRESULTS: Here we summarize the functional link between vascular calcification and autophagy in both animal models of and human cardiovascular disease. Firstly, autophagy can reduce calcification by inhibiting the osteogenic differentiation of VSMCs related to ANCR, ERα, β-catenin, HIF-1a/PDK4, p62, miR-30b, BECN1, mTOR, SOX9, GHSR/ERK, and AMPK signaling. Conversely, autophagy can induce osteoblast differentiation and calcification as mediated by CREB, degradation of elastin, and lncRNA H19 and DUSP5 mediated ERK signaling. Secondly, autophagy also links apoptosis and vascular calcification through AMPK/mTOR/ULK1, Wnt/β-catenin and GAS6/AXL synthesis, as apoptotic cells become the nidus for calcium-phosphate crystal deposition. The failure of mitophagy can activate Drp1, BNIP3, and NR4A1/DNA‑PKcs/p53 mediated intrinsic apoptotic pathways, which have been closely linked to the formation of vascular calcification. Additionally, autophagy also plays a role in osteogenesis by regulating vascular calcification, which in turn regulates expression of proteins related to bone development, such as osteocalcin, osteonectin, etc. and regulated by mTOR, EphrinB2 and RhoA. Furthermore, autophagy also promotes vitamin K2-induced MC3T3 E1 osteoblast differentiation and FGFR4/FGF18- and JNK/complex VPS34-beclin-1-related bone mineralization via vascular calcification.\nCONCLUSION: The interaction between autophagy and vascular calcification are complicated, with their interaction affected by the disease process, anatomical location, and the surrounding microenvironment. Autophagy activation in existent cellular damage is considered protective, while defective autophagy in normal cells result in apoptotic activation. Identifying and maintaining cells at the delicate line between these two states may hold the key to reducing vascular calcification, in which autophagy associated clinical strategy could be developed.",
+  "type": "academic",
+  "pdf_url": ""
+}

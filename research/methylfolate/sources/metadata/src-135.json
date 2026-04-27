@@ -1,0 +1,21 @@
+{
+  "id": "src-135",
+  "title": "Homocysteine and Multiple Health Outcomes: An Outcome-Wide Umbrella Review of Meta-analyses and Mendelian Randomization Studies.",
+  "authors": [
+    "Zhou, Futao",
+    "He, Yue",
+    "Xie, Xinhua",
+    "Guo, Ning",
+    "Chen, Wanjiao",
+    "Zhao, Yushi"
+  ],
+  "doi": "10.1016/j.advnut.2025.100434",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40288491",
+  "provider": "pubmed",
+  "year": 2025,
+  "venue": "Advances in nutrition (Bethesda, Md.)",
+  "citation_count": 0,
+  "abstract": "Elevated levels of homocysteine (Hcy) are associated with various health outcomes. We aimed to systematically assess the credibility and certainty of evidence of associations of Hcy and Hcy-lowering therapies with various health outcomes. We retrieved observational meta-analyses examining the associations between Hcy and health outcomes, interventional meta-analyses investigating health outcomes related to Hcy-lowering treatments, and Mendelian randomization (MR) studies exploring the causal associations of Hcy with health outcomes to perform an umbrella review. A total of 135 observational meta-analyses, 106 MR studies, and 26 interventional meta-analyses were included. Among observational studies, 10 associations of diseases/outcomes were classified as highly suggestive; only 1 outcome (digestive tract cancer) was supported by convincing evidence (class I; odd ratio = 1.27, 95% confidence interval = 1.16, 1.40; P = 6.79 × 10-7; I2 = 0, 95% prediction interval excluding null, >1000 cases; P > 0.1 for tests of both small-study effects and excess significance bias). In MR studies, 5 outcomes associated with Hcy presented robust evidence (P < 0.01, power >80%). Among 25 outcomes explored by both observational meta-analyses and MR studies, 7 had consistent results, indicating that elevated Hcy is causally associated with an increased risk of these outcomes. The 3 types of studies collectively suggested that the association of stroke with Hcy was supported by observational studies, causally by MR studies, and further validated by intervention meta-analyses showing that Hcy-lowering with folic acid significantly reduced risk of stroke. For dementia and colorectal cancer, Hcy was significantly associated in meta-analyses of observational studies and folic acid decreased disease risks in interventional meta-analyses. The current umbrella review indicates that convincing evidence for a definitive role of Hcy exposure solely exists in the context of digestive tract cancer excluding bias; however, Hcy may not be causal for this disease. All the 3 types of studies collectively support that Hcy is a key causal risk factor, and Hcy-lowering (specifically with folic acid) may serve as an effective intervention for stroke. This trial was registered at PROSPERO as CRD42024541335.",
+  "type": "academic",
+  "pdf_url": ""
+}

@@ -1,0 +1,33 @@
+{
+  "id": "src-086",
+  "title": "Global prevalence and disease burden of vitamin D deficiency: a roadmap for action in low‐ and middle‐income countries",
+  "authors": [
+    "Roth, Daniel",
+    "Abrams, Steven A.",
+    "Aloia, John F.",
+    "Bergeron, Gilles",
+    "Bourassa, Megan W.",
+    "Brown, Kenneth H.",
+    "Calvo, Mona S.",
+    "Cashman, Kevin D.",
+    "Combs, Gerald F.",
+    "De‐Regil, Luz María",
+    "Jefferds, Maria Elena",
+    "Jones, Kerry S.",
+    "Kapner, Hallie",
+    "Martineau, Adrian R.",
+    "Neufeld, Lynnette M.",
+    "Schleicher, Rosemary L.",
+    "Thacher, Tom D.",
+    "Whiting, Susan J."
+  ],
+  "doi": "10.1111/nyas.13968",
+  "url": "https://openalex.org/W2891732635",
+  "provider": "openalex",
+  "year": 2018,
+  "venue": "Annals of the New York Academy of Sciences",
+  "citation_count": 509,
+  "abstract": "Vitamin D is an essential nutrient for bone health and may influence the risks of respiratory illness, adverse pregnancy outcomes, and chronic diseases of adulthood. Because many countries have a relatively low supply of foods rich in vitamin D and inadequate exposure to natural ultraviolet B (UVB) radiation from sunlight, an important proportion of the global population is at risk of vitamin D deficiency. There is general agreement that the minimum serum/plasma 25-hydroxyvitamin D concentration (25(OH)D) that protects against vitamin D deficiency-related bone disease is approximately 30 nmol/L; therefore, this threshold is suitable to define vitamin D deficiency in population surveys. However, efforts to assess the vitamin D status of populations in low- and middle-income countries have been hampered by limited availability of population-representative 25(OH)D data, particularly among population subgroups most vulnerable to the skeletal and potential extraskeletal consequences of low vitamin D status, namely exclusively breastfed infants, children, adolescents, pregnant and lactating women, and the elderly. In the absence of 25(OH)D data, identification of communities that would benefit from public health interventions to improve vitamin D status may require proxy indicators of the population risk of vitamin D deficiency, such as the prevalence of rickets or metrics of usual UVB exposure. If a high prevalence of vitamin D deficiency is identified (>20% prevalence of 25(OH)D < 30 nmol/L) or the risk for vitamin D deficiency is determined to be high based on proxy indicators (e.g., prevalence of rickets >1%), food fortification and/or targeted vitamin D supplementation policies can be implemented to reduce the burden of vitamin D deficiency-related conditions in vulnerable populations.",
+  "type": "academic",
+  "pdf_url": "https://nyaspubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1111/nyas.13968"
+}

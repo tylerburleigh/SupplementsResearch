@@ -1,0 +1,29 @@
+{
+  "id": "src-018",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://www.naturalplant-extract.com/sale-23362038-longevity-600mg-pure-nmn-supplement-capsule-energy-increasing.html",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-23T13:38:33.336442+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-018.md",
+  "quality_details": {
+    "content_length": 130,
+    "alpha_ratio": 0.723,
+    "sentence_count": 3,
+    "reasons": [
+      "content too short (130 chars < 500)"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "src-142",
+  "title": "Ergothioneine attenuates psoriasis symptoms through modulation of M1/M2 macrophage polarisation via the NF-κB/JAK-STAT3 pathway.",
+  "authors": [
+    "Li, Ang",
+    "Liu, Yanjie",
+    "Yu, Peiling",
+    "Zhang, Zhiyuan",
+    "Huang, Tengxiao",
+    "Li, Hang",
+    "Wu, Songzhi",
+    "Rong, Xiaoyu",
+    "Liao, Wensheng",
+    "Wang, Hongqiang",
+    "Gao, Yanzheng"
+  ],
+  "doi": "10.3389/fphar.2025.1521743",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40046751",
+  "provider": "pubmed",
+  "year": 2025,
+  "venue": "Frontiers in pharmacology",
+  "citation_count": 0,
+  "abstract": "INTRODUCTION: The underlying cause of psoriasis, a chronic inflammatory skin condition driven by an immune response, remains a topic of active investigation and is not yet fully elucidated. Recent studies have revealed that ergothioneine, a small molecule sulfur-containing histidine derivative that can be ingested from the daily diet and accumulated in the body, exhibits antioxidant capacity that is comparable to that of glutathione. Nevertheless, there is a paucity of empirical data concerning the precise impact of ergothioneine in the context of anti-inflammatory processes, particularly in the context of psoriasis. In the light of the aforementioned considerations, the present study was undertaken with the objective of conducting a comprehensive evaluation of the anti-inflammatory potential of ergothioneine (EGT) and to investigate its potential impact on the pathogenesis of psoriasis.\nMETHODS: The efficacy of EGT in reducing the extent of dorsal skin lesions in psoriasis model mice was confirmed through in vivo experimental observation. Furthermore, the inhibitory effect of EGT on inflammatory responses at the cellular level was investigated, specifically in LPS-induced mouse macrophage (RAW264.7) and human keratinocyte-forming cell (HaCaT) models.\nRESULTS: The results demonstrated that the introduction of different concentrations of EGT into the LPS-induced inflammatory cell model resulted in notable anti-inflammatory effects, as evidenced by a reduction in inflammatory responses and a dose dependent decline in the concentrations of key inflammatory cytokines, including interleukin-1β (IL-1β), cyclooxygenase-2 (COX-2) and tumour necrosis factor-α (TNF-α). Furthermore, EGT was observed to reverse the LPS induced increase in the ratio of M1 to M2 macrophages. EGT was also observed to markedly suppress the LPS-induced phosphorylation of JAK/STAT3 and NF-κB, offering a novel insight into the anti-inflammatory mechanism of EGT.\nDISCUSSION: In conclusion, the findings of the present study consistently demonstrated that ergothioneine had a significant ameliorative effect on the imiquimod-induced psoriasis model by modulating the NF-κB/JAK-STAT3 signalling pathway. This provides a strong experimental rationale for its potential application in psoriasis treatment.",
+  "type": "academic",
+  "pdf_url": ""
+}

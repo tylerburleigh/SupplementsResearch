@@ -1,0 +1,21 @@
+{
+  "id": "src-206",
+  "title": "Deciphering the timing and impact of life-extending interventions: temporal efficacy profiler distinguishes early, midlife, and senescence phase efficacies",
+  "authors": [
+    "Jiang, Nisi",
+    "Cheng, Catherine J.",
+    "Liu, Qianqian",
+    "Strong, Randy",
+    "Gelfond, Jonathan",
+    "Nelson, James F."
+  ],
+  "doi": "10.1038/s41467-025-65158-4",
+  "url": "https://www.semanticscholar.org/paper/6d819836a3243142136895037203596100e09918",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "Nature Communications",
+  "citation_count": 2,
+  "abstract": "A growing number of compounds are reported to extend lifespan, but it remains unclear whether they reduce mortality across the entire life course or only at specific ages. This uncertainty persists because the commonly used log-rank test cannot detect age-specific effects. Here, we introduce a new analytical method that addresses this limitation by revealing when, how long, and to what extent interventions alter mortality risk. Applied to survival data from 42 compounds tested in mice by the National Institute on Aging Interventions Testing Program, it identified 22 that reduced mortality at certain ages, more than detected by the log-rank test, while 15 increased mortality at certain ages. Most compounds were effective only within restricted age ranges; just 8 reduced mortality late in life, when burdens of aging are greatest. Compared to conventional methods, this approach uncovers more beneficial and harmful effects, offers deeper insight into timing and mechanism, and can guide development of future anti-aging therapies. A growing number of compounds are reported to extend lifespan, but it remains unclear whether they reduce mortality across the entire life course or only at specific ages. Here the authors introduce an analytic tool that pinpoints when, for how long, and to what extent presumptive anti-aging treatments alter mortality risk.",
+  "type": "academic",
+  "pdf_url": ""
+}

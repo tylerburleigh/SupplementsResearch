@@ -1,0 +1,19 @@
+{
+  "id": "src-343",
+  "title": "Curcumin Protects Human Dermal Fibroblasts Exposed to Hydrogen Peroxide by Regulating Autophagy Level and Reactive Oxygen Species Generation.",
+  "authors": [
+    "Pan, Tianyun",
+    "Zhang, Shuxian",
+    "Fei, Huanhuan",
+    "Hu, Yun"
+  ],
+  "doi": "10.1093/jbcr/irad026",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36857137",
+  "provider": "pubmed",
+  "year": 2023,
+  "venue": "Journal of burn care & research : official publication of the American Burn Association",
+  "citation_count": 0,
+  "abstract": "Curcumin is getting more and more attention in wound healing and scar prevention because of its wide range of pharmacological effects, such as anti-inflammation, antioxidant, and anti-fibrosis. The activity of fibroblasts suffering from oxidative stress is reduced, affecting wound repair. In this study, we investigated whether curcumin treatment (10 μM, 24 hours) had protective effects on human dermal fibroblasts (HDFs) exposed to hydrogen peroxide (H2O2, 300 μM, 12 hours). We found that curcumin alleviated H2O2-induced accumulation of reactive oxygen species (ROS, the fold change relative to the untreated control was 1.75 [SD ± 0.21] vs 5.23 [SD ± 0.51], P < .001) and improved the expression and activities of antioxidant enzymes superoxide dismutase 1 (66.61 U [SD ± 7.47] vs 46.39 U [SD ± 6.82]/106 cells, P < .05) and catalase (9.77 U [SD ± 1.82] vs 4.61 U [SD ± 0.94]/106 cells, P < .01), accompanied with increased cell proliferation and migration but decreased senescence. In addition, we found that curcumin reduced the inhibition of autophagy by H2O2, as manifested in the increased autophagic vacuoles (P < .05) and higher expression of autophagy-related proteins including phosphoinositide-3-kinase class III (P < .001), light chain 3 form II (P < .001), and Beclin1 (P < .01). However, intracellular redox status deteriorated again and curcumin's protection effects were partially canceled after autophagy was inhibited by 3-methyladenine pretreatment. These data suggest that rescue of HDFs from oxidative damage by curcumin may related to the regulation of autophagy levels and ROS generation.",
+  "type": "academic",
+  "pdf_url": ""
+}

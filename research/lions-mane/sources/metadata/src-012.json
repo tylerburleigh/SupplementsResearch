@@ -1,0 +1,29 @@
+{
+  "id": "src-012",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://musheez.eu/lions-mane-natural-nootropic",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-23T15:30:36.137999+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-012.md",
+  "quality_details": {
+    "content_length": 6825,
+    "alpha_ratio": 0.814,
+    "sentence_count": 50,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

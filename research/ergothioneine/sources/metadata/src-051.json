@@ -1,0 +1,16 @@
+{
+  "id": "src-051",
+  "title": "Discovery of the strong antioxidant selenoneine in tuna and selenium redox metabolism",
+  "authors": [
+    "Yamashita, Yumiko"
+  ],
+  "doi": "10.4331/wjbc.v1.i5.144",
+  "url": "https://openalex.org/W2023521984",
+  "provider": "openalex",
+  "year": 2010,
+  "venue": "World Journal of Biological Chemistry",
+  "citation_count": 117,
+  "abstract": "A novel selenium-containing compound, selenoneine, has been isolated as the major form of organic selenium in the blood and tissues of tuna. Selenoneine harbors a selenium atom in the imidazole ring, 2-selenyl-N(α), N(α), N(α)-trimethyl-L-histidine, and is a selenium analog of ergothioneine. This selenium compound has strong antioxidant capacity and binds to heme proteins, such as hemoglobin and myoglobin, to protect them from iron auto-oxidation, and it reacts with radicals and methylmercury (MeHg). The organic cations/carnitine transporter OCTN1 transports selenoneine and MeHg, regulates Se-enhanced antioxidant activity, and decreases MeHg toxicity. Thus, the dietary intake of selenoneine, by consuming fish, might decrease the formation of reactive oxygen radicals that could oxidize nucleotides in DNA, and thereby inhibit carcinogenesis, chronic diseases, and aging.",
+  "type": "academic",
+  "pdf_url": "https://www.wjgnet.com/1949-8454/full/v1/i5/144.htm"
+}

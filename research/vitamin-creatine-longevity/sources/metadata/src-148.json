@@ -1,0 +1,34 @@
+{
+  "id": "src-148",
+  "title": "Effects of creatine supplementation on brain in the healthy population",
+  "authors": [
+    "Swatko, Tomasz",
+    "Blicharz, Monika",
+    "Czubala, Marta",
+    "Bartosik-Zielińska, Diana",
+    "Blicharz, Agnieszka",
+    "Bartosik, Magdalena"
+  ],
+  "year": 2023,
+  "abstract": "Introduction and purpose:  Creatine supplementation is playing an increasingly important role not only in sports, but is beneficial in the context of brain health (e.g., cognitive processing, brain function and recovery from injury). This is a growing field of research, and the purpose of this brief review is to provide an update on the effects of creatine supplementation on brain health in healthy people.\nDescription of the state of knowledge: Creatine, is an organic compound produced mainly by the liver and kidneys. From the liver, kidneys and gastrointestinal tract, creatine enters through the bloodstream into skeletal muscle, where a total of about 95% of the body's total creatine is stored. It is stored in the muscles, heart and brain.\nSummary: There is potential for creatine supplementation to improve cognitive processing, especially in conditions characterized by creatine deficits in the brain, which can be triggered by acute stress factors (e.g., exercise, lack of sleep) or chronic, pathological conditions (e.g., creatine synthesis enzyme deficiencies, mild traumatic brain injury, aging, Alzheimer's disease). People with depression, the elderly, people with diseases associated with certain genetic defects (where creatine production and storage in the brain is impaired) are just some of the groups of people in whom creatine supplementation may be helpful. More research is needed to determine the clinical impact of long-term creatine supplementation dosing strategies on brain function and health.",
+  "doi": "10.12775/jehs.2023.13.04.017",
+  "url": "https://doi.org/10.12775/jehs.2023.13.04.017",
+  "pdf_url": "",
+  "venue": "Journal of Education, Health and Sport",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T14:01:51.302024+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-148.md",
+  "quality_details": {
+    "content_length": 19084,
+    "alpha_ratio": 0.77,
+    "sentence_count": 374,
+    "reasons": []
+  }
+}

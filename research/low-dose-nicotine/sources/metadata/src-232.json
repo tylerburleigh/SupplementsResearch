@@ -1,0 +1,16 @@
+{
+  "id": "src-232",
+  "title": "Basic mechanisms of neurodegeneration: a critical update",
+  "authors": [
+    "Jellinger, K. A."
+  ],
+  "doi": "10.1111/j.1582-4934.2010.01010.x",
+  "url": "https://openalex.org/W2028827022",
+  "provider": "openalex",
+  "year": 2010,
+  "venue": "Journal of Cellular and Molecular Medicine",
+  "citation_count": 580,
+  "abstract": "Neurodegenerative diseases are characterized by progressive dysfunction of specific populations of neurons, determining clinical presentation. Neuronal loss is associated with extra and intracellular accumulation of misfolded proteins, the hallmarks of many neurodegenerative proteinopathies. Major basic processes include abnormal protein dynamics due to deficiency of the ubiquitin-proteosome-autophagy system, oxidative stress and free radical formation, mitochondrial dysfunction, impaired bioenergetics, dysfunction of neurotrophins, 'neuroinflammatory' processes and (secondary) disruptions of neuronal Golgi apparatus and axonal transport. These interrelated mechanisms lead to programmed cell death is a long run over many years. Neurodegenerative disorders are classified according to known genetic mechanisms or to major components of protein deposits, but recent studies showed both overlap and intraindividual diversities between different phenotypes. Synergistic mechanisms between pathological proteins suggest common pathogenic mechanisms. Animal models and other studies have provided insight into the basic neurodegeneration and cell death programs, offering new ways for future prevention/treatment strategies.",
+  "type": "academic",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1582-4934.2010.01010.x"
+}

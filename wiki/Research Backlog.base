@@ -1,27 +1,55 @@
 filters:
   and:
-    - file.hasTag("open-question")
+    - file.hasTag("#open-question")
     - file.inFolder("wiki")
 properties:
   type:
     displayName: Page Type
+  practical_status:
+    displayName: Practical Status
+  evidence_level:
+    displayName: Evidence
+  mechanistic_evidence:
+    displayName: Mechanistic
+  animal_evidence:
+    displayName: Animal
+  human_evidence:
+    displayName: Human
+  translational_status:
+    displayName: Translational Status
+  effect_direction:
+    displayName: Effect Direction
   updated:
     displayName: Updated
 views:
   - type: table
     name: Open Questions
-    order:
-      - file.name
-      - type
-      - updated
     groupBy:
       property: type
       direction: ASC
+    order:
+      - file.name
+      - type
+      - practical_status
+      - evidence_level
+      - translational_status
+      - mechanistic_evidence
+      - animal_evidence
+      - human_evidence
+      - effect_direction
+      - updated
   - type: table
     name: By Age
     order:
       - file.name
       - type
+      - practical_status
+      - evidence_level
+      - translational_status
+      - mechanistic_evidence
+      - animal_evidence
+      - human_evidence
+      - effect_direction
       - updated
     sort:
       - property: updated

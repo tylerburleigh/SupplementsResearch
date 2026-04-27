@@ -1,0 +1,31 @@
+{
+  "id": "src-337",
+  "title": "Targeting senescence improves angiogenic potential of adipose-derived mesenchymal stem cells in patients with preeclampsia",
+  "authors": [
+    "Šuvakov, S.",
+    "Čubro, H.",
+    "White, W.",
+    "Tobah, Y. B. Butler",
+    "Weissgerber, T.",
+    "Jordan, Kyra L.",
+    "Zhu, Xiang-Yang",
+    "Woollard, J.",
+    "Chebib, F.",
+    "Milic, N.",
+    "Grande, J.",
+    "Xu, Ming",
+    "Tchkonia, T.",
+    "Kirkland, J.",
+    "Lerman, L.",
+    "Garovic, V."
+  ],
+  "doi": "10.1186/s13293-019-0263-5",
+  "url": "https://www.semanticscholar.org/paper/7665bf4c5d3c0dcbe3c123db4320ac81648d384b",
+  "provider": "semantic_scholar",
+  "year": 2019,
+  "venue": "Biology of Sex Differences",
+  "citation_count": 64,
+  "abstract": "Preeclampsia is a pregnancy-specific hypertensive disorder characterized by impaired angiogenesis. We postulate that senescence of mesenchymal stem cells (MSC), multipotent cells with pro-angiogenic activities, is one of the mechanisms by which systemic inflammation exerts inhibitory effects on angiogenesis in preeclampsia. MSC were isolated from abdominal fat tissue explants removed during medically indicated C-sections from women with preeclampsia (PE-MSC, n = 10) and those with normotensive pregnancies (NP-MSC, n = 12). Sections of the frozen subcutaneous adipose tissue were assessed for inflammation by staining for tumor necrosis factor (TNF)-alpha and monocyte chemoattractant protein (MCP)-1. Viability, proliferation, and migration were compared between PE-MSC vs. NP-MSC. Apoptosis and angiogenesis were assayed before and after treatment with a senolytic agent (1 μM dasatinib) using the IncuCyte S3 Live-Cell Analysis System. Similarly, staining for senescence-associated beta galactosidase (SABG) and qPCR for gene expression of senescence markers, p16 and p21, as well as senescence-associated secretory phenotype (SASP) components, IL-6, IL-8, MCP-1, and PAI-1, were studied before and after treatment with dasatinib and compared between PE and NP. After in vitro exposure to TNF-alpha, MSC demonstrated upregulation of SASP components, including interleukins-6 and -8 and MCP-1. Staining of the subcutaneous adipose tissue sections revealed a greater inflammatory response in preeclampsia, based on the higher levels of both TNF-alpha and MCP-1 compared to normotensive pregnancies (p < 0.001 and 0.024, respectively). MSC isolated from PE demonstrated a lower percentage of live MSC cells (p = 0.012), lower proliferation (p = 0.005), and higher migration (p = 0.023). At baseline, PE-MSC demonstrated a senescent phenotype, reflected by more abundant staining for SABG (p < 0.001), upregulation of senescence markers and SASP components, as well as lower angiogenic potential (p < 0.001), compared to NP-MSC. Treatment with dasatinib increased significantly the number of apoptotic PE-MSC compared to NP-MSC (0.011 vs. 0.093) and decreased the gene expression of p16 and six SASP components. The mechanistic link between senescence and impaired angiogenesis in PE was confirmed by improved angiogenic potential of PE-MSC (p < 0.001) after dasatinib treatment. Our data suggest that MSC senescence exerts inhibitory effects on angiogenesis in preeclampsia. Senolytic agents may offer the opportunity for mechanism-based therapies.",
+  "type": "academic",
+  "pdf_url": "https://bsd.biomedcentral.com/track/pdf/10.1186/s13293-019-0263-5"
+}

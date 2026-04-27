@@ -1,0 +1,28 @@
+{
+  "id": "src-117",
+  "title": "Formulation of Phytosomes with Extracts of Ginger Rhizomes and Rosehips with Improved Bioavailability, Antioxidant and Anti-Inflammatory Effects In Vivo",
+  "authors": [
+    "Deleanu, Mariana",
+    "Toma, Laura",
+    "Sanda, Gabriela M.",
+    "Barbălată, Teodora",
+    "Niculescu, Loredan S.",
+    "Sima, Anca V.",
+    "Deleanu, Călin",
+    "Săcărescu, Liviu",
+    "Suciu, Alexandru",
+    "Alexandru, Georgeta",
+    "Crişan, Iuliana",
+    "Popescu, Mariana",
+    "Stancu, Camelia S."
+  ],
+  "doi": "10.3390/pharmaceutics15041066",
+  "url": "https://openalex.org/W4361011162",
+  "provider": "openalex",
+  "year": 2023,
+  "venue": "Pharmaceutics",
+  "citation_count": 47,
+  "abstract": "The poor water solubility of natural antioxidants restricts their bioavailability and therapeutic use. We aimed to develop a new phytosome formulation with active compounds from extracts of ginger (GINex) and rosehips (ROSAex) designed to increase their bioavailability, antioxidant and anti-inflammatory properties. The phytosomes (PHYTOGINROSA-PGR) were prepared from freeze-dried GINex, ROSAex and phosphatidylcholine (PC) in different mass ratios using the thin-layer hydration method. PGR was characterized for structure, size, zeta potential, and encapsulation efficiency. Results showed that PGR comprises several different populations of particles, their size increasing with ROSAex concentration, having a zeta potential of ~-21mV. The encapsulation efficiency of 6-gingerol and β-carotene was >80%. <sup>31</sup>P NMR spectra showed that the shielding effect of the phosphorus atom in PC is proportional to the amount of ROSAex in PGR. PGR with a mass ratio GINex:ROSAex:PC-0.5:0.5:1 had the most effective antioxidant and anti-inflammatory effects in cultured human enterocytes. PGR-0.5:0.5:1 bioavailability and biodistribution were assessed in C57Bl/6J mice, and their antioxidant and anti-inflammatory effects were evaluated after administration by gavage to C57Bl/6J mice prior to LPS-induced systemic inflammation. Compared to extracts, PGR induced a 2.6-fold increase in 6-gingerol levels in plasma and over 40% in the liver and kidneys, in parallel with a 65% decrease in the stomach. PGR treatment of mice with systemic inflammation increased the sera antioxidant enzymes paraoxonase-1 and superoxide dismutase-2 and decreased the proinflammatory TNFα and IL-1β levels in the liver and small intestine. No toxicity was induced by PGR either in vitro or in vivo. In conclusion, the phytosome formulation of GINex and ROSAex we developed resulted in stable complexes for oral administration with increased bioavailability, antioxidant and anti-inflammatory potential of their active compounds.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/1999-4923/15/4/1066/pdf?version=1679743570"
+}

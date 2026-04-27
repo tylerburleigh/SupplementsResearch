@@ -1,0 +1,16 @@
+{
+  "id": "src-421",
+  "title": "Silymarin as a Natural Antioxidant: An Overview of the Current Evidence and Perspectives",
+  "authors": [
+    "Surai, Peter"
+  ],
+  "doi": "10.3390/antiox4010204",
+  "url": "https://openalex.org/W2142110193",
+  "provider": "openalex",
+  "year": 2015,
+  "venue": "Antioxidants",
+  "citation_count": 703,
+  "abstract": "Silymarin (SM), an extract from the Silybum marianum (milk thistle) plant containing various flavonolignans (with silybin being the major one), has received a tremendous amount of attention over the last decade as a herbal remedy for liver treatment. In many cases, the antioxidant properties of SM are considered to be responsible for its protective actions. Possible antioxidant mechanisms of SM are evaluated in this review. (1) Direct scavenging free radicals and chelating free Fe and Cu are mainly effective in the gut. (2) Preventing free radical formation by inhibiting specific ROS-producing enzymes, or improving an integrity of mitochondria in stress conditions, are of great importance. (3) Maintaining an optimal redox balance in the cell by activating a range of antioxidant enzymes and non-enzymatic antioxidants, mainly via Nrf2 activation is probably the main driving force of antioxidant (AO) action of SM. (4) Decreasing inflammatory responses by inhibiting NF-κB pathways is an emerging mechanism of SM protective effects in liver toxicity and various liver diseases. (5) Activating vitagenes, responsible for synthesis of protective molecules, including heat shock proteins (HSPs), thioredoxin and sirtuins and providing additional protection in stress conditions deserves more attention. (6) Affecting the microenvironment of the gut, including SM-bacteria interactions, awaits future investigations. (7) In animal nutrition and disease prevention strategy, SM alone, or in combination with other hepatho-active compounds (carnitine, betaine, vitamin B12, etc.), might have similar hepatoprotective effects as described in human nutrition.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2076-3921/4/1/204/pdf?version=1426849714"
+}

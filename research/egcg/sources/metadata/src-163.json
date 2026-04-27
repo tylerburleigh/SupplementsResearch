@@ -1,0 +1,29 @@
+{
+  "id": "src-163",
+  "title": "Role of Phenolic Compounds in Human Disease: Current Knowledge and Future Prospects",
+  "authors": [
+    "Rahman, Md. Mominur",
+    "Rahaman, Md. Saidur",
+    "Islam, Md. Rezaul",
+    "Rahman, Firoza",
+    "Mithi, Faria Mannan",
+    "Alqahtani, Taha",
+    "Almikhlafi, Mohannad A.",
+    "Alghamdi, Samia Q.",
+    "Alruwaili, Abdullah S.",
+    "Hossain, Md. Sohel",
+    "Ahmed, Muniruddin",
+    "Das, Rajib",
+    "Emran, Talha Bin",
+    "Uddin, Md. Sahab"
+  ],
+  "doi": "10.3390/molecules27010233",
+  "url": "https://openalex.org/W4205748791",
+  "provider": "openalex",
+  "year": 2021,
+  "venue": "Molecules",
+  "citation_count": 775,
+  "abstract": "Inflammation is a natural protective mechanism that occurs when the body's tissue homeostatic mechanisms are disrupted by biotic, physical, or chemical agents. The immune response generates pro-inflammatory mediators, but excessive output, such as chronic inflammation, contributes to many persistent diseases. Some phenolic compounds work in tandem with nonsteroidal anti-inflammatory drugs (NSAIDs) to inhibit pro-inflammatory mediators' activity or gene expression, including cyclooxygenase (COX). Various phenolic compounds can also act on transcription factors, such as nuclear factor-κB (NF-κB) or nuclear factor-erythroid factor 2-related factor 2 (Nrf-2), to up-or downregulate elements within the antioxidant response pathways. Phenolic compounds can inhibit enzymes associated with the development of human diseases and have been used to treat various common human ailments, including hypertension, metabolic problems, incendiary infections, and neurodegenerative diseases. The inhibition of the angiotensin-converting enzyme (ACE) by phenolic compounds has been used to treat hypertension. The inhibition of carbohydrate hydrolyzing enzyme represents a type 2 diabetes mellitus therapy, and cholinesterase inhibition has been applied to treat Alzheimer's disease (AD). Phenolic compounds have also demonstrated anti-inflammatory properties to treat skin diseases, rheumatoid arthritis, and inflammatory bowel disease. Plant extracts and phenolic compounds exert protective effects against oxidative stress and inflammation caused by airborne particulate matter, in addition to a range of anti-inflammatory, anticancer, anti-aging, antibacterial, and antiviral activities. Dietary polyphenols have been used to prevent and treat allergy-related diseases. The chemical and biological contributions of phenolic compounds to cardiovascular disease have also been described. This review summarizes the recent progress delineating the multifunctional roles of phenolic compounds, including their anti-inflammatory properties and the molecular pathways through which they exert anti-inflammatory effects on metabolic disorders. This study also discusses current issues and potential prospects for the therapeutic application of phenolic compounds to various human diseases.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/1420-3049/27/1/233/pdf?version=1640878990"
+}

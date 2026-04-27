@@ -1,0 +1,21 @@
+{
+  "id": "src-390",
+  "title": "THE RELATION OF DIET, CIGARETTE SMOKING, AND ALCOHOL CONSUMPTION TO PLASMA BETA-CAROTENE AND ALPHA-TOCOPHEROL LEVELS",
+  "authors": [
+    "STRYKER, W. SCOTT",
+    "Kaplan, Lawrence A.",
+    "Stein, Evan A.",
+    "Stampfer, Meir J.",
+    "Sober, Arthur J.",
+    "Willett, Walter C."
+  ],
+  "doi": "10.1093/oxfordjournals.aje.a114804",
+  "url": "https://openalex.org/W1919546919",
+  "provider": "openalex",
+  "year": 1988,
+  "venue": "American Journal of Epidemiology",
+  "citation_count": 520,
+  "abstract": "The relation of diet and nutritional supplements, cigarette use, alcohol consumption, and blood lipids to plasma levels of beta-carotene and alpha-tocopherol was studied among 330 men and women aged 18-79 years. Dietary carotene, preformed vitamin A, and vitamin E intake were estimated by a self-administered semiquantitative food frequency questionnaire. The correlation of dietary carotene with plasma beta-carotene was reduced in smokers compared with nonsmokers (r = 0.02 vs. 0.44 among men; r = 0.19 vs. 0.45 among women). Smokers had much lower plasma levels of beta-carotene than did nonsmokers (geometric mean 8.5 vs. 15.3 micrograms/dl for men; 17.3 vs. 26.3 micrograms/dl for women) despite only slightly lower intakes of carotenoids. In multiple regression analyses, men who smoked one pack per day had 72% (95% confidence interval (CI) 58-89) of the plasma beta-carotene levels of nonsmokers after accounting for dietary carotene and other variables; for women, the corresponding percentage was 79% (CI 64-99). In similar models, men drinking 20 g of alcohol per day had 76% (CI 65-88) of the beta-carotene levels of nondrinkers; women had 89% (CI 73-108) of the levels of nondrinkers. An interaction term for carotene intake and smoking was statistically significant in a model combining both sexes. These results suggest that plasma levels of beta-carotene among smokers and, perhaps, heavy consumers of alcohol may be reduced substantially below levels due to differences in diet. The correlation of calorie-adjusted intake of vitamin E with lipid-adjusted plasma levels of vitamin alpha-tocopherol was 0.53 for men (n = 137) and 0.51 for women (n = 193) and did not differ by alcohol consumption and cigarette use; these correlations were largely accounted for by use of vitamin supplements. In linear regression models, vitamin E intake and plasma lipids were significant predictors of plasma alpha-tocopherol levels.",
+  "type": "academic",
+  "pdf_url": ""
+}

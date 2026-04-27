@@ -1,0 +1,20 @@
+{
+  "id": "src-331",
+  "title": "Synergistic Autophagy-Related Mechanisms of Protection Against Brain Aging and AD: Cellular Pathways and Therapeutic Strategies",
+  "authors": [
+    "Cordoș, Bogdan",
+    "Tero-Vescan, Amelia",
+    "Hampson, Ian",
+    "Oliver, Anthony W.",
+    "Slevin, Mark"
+  ],
+  "doi": "10.3390/ph18060829",
+  "url": "https://openalex.org/W4410952662",
+  "provider": "openalex",
+  "year": 2025,
+  "venue": "Pharmaceuticals",
+  "citation_count": 9,
+  "abstract": "Brain aging is driven by interconnected processes, including impaired autophagy, chronic inflammation, mitochondrial dysfunction, and cellular senescence, all of which contribute to neurovascular decline and neurodegenerative diseases such as Alzheimer's disease (AD). Targeting these mechanisms simultaneously offers a promising therapeutic approach. This review explores the rationale for combining metformin, benzimidazole derivatives, phosphodiesterase-5 (PDE5), and acetylsalicylic acid (ASA) as a multi-targeted strategy to restore proteostasis, reduce senescence-associated secretory phenotype (SASP) factors, and enhance mitochondrial and lysosomal function. Metformin activates AMP-activated protein kinase (AMPK) and promotes autophagy initiation and chaperone-mediated autophagy, whilst benzimidazole derivatives enhance lysosomal fusion through JIP4-TRPML1 pathways independently of mTOR signaling; and ASA augments autophagic flux while suppressing NF-κB-driven inflammation and promoting specialized pro-resolving mediator pathways. This combinatorial approach targets both upstream autophagy initiation and downstream autophagosome-lysosome fusion, while concurrently attenuating inflammation and cellular senescence. Patient stratification based on the biomarkers of autophagy impairment, inflammation, and metabolic dysfunction could optimize therapeutic responses. While this strategy shows strong preclinical promise, careful attention to timing, dosing, and cell-specific responses is crucial to maximize benefits and avoid adverse effects. Future studies integrating biomarker-guided precision medicine frameworks are essential to validate the potential of this therapeutic combination in preventing or slowing cognitive decline and promoting healthy brain aging.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/1424-8247/18/6/829/pdf?version=1748767238"
+}

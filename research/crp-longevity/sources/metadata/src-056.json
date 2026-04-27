@@ -1,0 +1,24 @@
+{
+  "id": "src-056",
+  "title": "A controlled comparative study of the effects of methotrexate and pharmacogenetic factors on arterial blood pressure and arterial stiffness in patients with rheumatoid arthritis.",
+  "authors": [
+    "Mangoni, Arduino A",
+    "Wiese, Michael D",
+    "Woodman, Richard J",
+    "Sotgia, Salvatore",
+    "Zinellu, Angelo",
+    "Carru, Ciriaco",
+    "Hulin, Julie-Ann",
+    "Shanahan, E Michael",
+    "Tommasi, Sara"
+  ],
+  "doi": "10.1080/07853890.2025.2539311",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40742006",
+  "provider": "pubmed",
+  "year": 2025,
+  "venue": "Annals of medicine",
+  "citation_count": 0,
+  "abstract": "INTRODUCTION: Observational studies have shown that methotrexate, a conventional synthetic disease-modifying antirheumatic drug (csDMARD), is associated with lower arterial blood pressure (BP) and may reduce cardiovascular risk in rheumatoid arthritis (RA). However, it remains unclear whether a cause-and-effect relationship exists between the use of methotrexate and blood pressure reduction.\nPATIENTS AND METHODS: We conducted a controlled comparative study of treatment-naïve newly diagnosed RA patients commenced on subcutaneous methotrexate (Group 1, n = 31, age 57 ± 15 years, 65% females, Disease Activity Score-28 - C-reactive protein, DAS28-CRP = 4.7 ± 1.2) or the DMARD comparator sulfasalazine (Group 2, n = 31, 54 ± 17 years, 61% females, DAS28-CRP = 5.0 ± 0.8). Clinic systolic (SBP, primary study endpoint) and diastolic BP (DBP) and augmentation index (AIx, a marker of arterial stiffness) were measured at baseline and after one and six months of treatment (ClinicalTrials.gov: NCT03254589).\nRESULTS: After six months, compared to Group 2, Group 1 patients had significantly lower SBP (-7.4 mmHg, 95% CI -14.0 to -0.8, p = 0.03). By contrast, there were no significant between-group differences in DBP (p = 0.18), AIx (p = 0.85), or DAS28-CRP (p = 0.16). A significant effect of single nucleotide polymorphisms (SNPs) rs1801133 (methyl tetrahydrofolate reductase) and rs2231142 (ATP-binding cassette subfamily G member 2) on BP changes during methotrexate treatment was observed.\nCONCLUSIONS: This is the first comparative study showing that methotrexate significantly reduces SBP in RA. This effect did not coincide with significant changes in arterial stiffness or disease activity. Further research is warranted to investigate the mechanisms underpinning the SBP-lowering effects of methotrexate, the role of specific SNPs, and whether such effects may account for reduced cardiovascular risk in patients with RA.",
+  "type": "academic",
+  "pdf_url": ""
+}

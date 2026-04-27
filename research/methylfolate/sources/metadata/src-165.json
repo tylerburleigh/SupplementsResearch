@@ -1,0 +1,16 @@
+{
+  "id": "src-165",
+  "title": "Folate and B12 in prostate cancer.",
+  "authors": [
+    "Collin, Simon M"
+  ],
+  "doi": "10.1016/b978-0-12-407681-5.00001-5",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/23724740",
+  "provider": "pubmed",
+  "year": 2013,
+  "venue": "Advances in clinical chemistry",
+  "citation_count": 0,
+  "abstract": "Mechanisms postulated to link folate and B12 metabolism with cancer, including genome-wide hypomethylation, gene-specific promoter hypermethylation, and DNA uracil misincorporation, have been observed in prostate tumor cells. However, epidemiological studies of prostate cancer risk, based on dietary intakes and blood levels of folate and vitamin B12 and on folate-pathway gene variants, have generated contradictory findings. In a meta-analysis, circulating concentrations of B12 (seven studies, OR = 1.10; 95% CI 1.01, 1.19; P = 0.002) and (in cohort studies) folate (five studies, OR = 1.18; 95% CI 1.00, 1.40; P = 0.02) were positively associated with an increased risk of prostate cancer. Homocysteine was not associated with risk of prostate cancer (four studies, OR = 0.91; 95% CI 0.69, 1.19; P = 0.5). In a meta-analysis of folate-pathway polymorphisms, MTR 2756A > G (eight studies, OR = 1.06; 95% CI 1.00, 1.12; P = 0.06) and SHMT1 1420C > T (two studies, OR = 1.11; 95% CI 1.00, 1.22; P = 0.05) were positively associated with prostate cancer risk. There were no effects due to any other polymorphisms, including MTHFR 677C > T (12 studies, OR = 1.04; 95% CI 0.97, 1.12; P = 0.3). The positive association of circulating B12 with an increased risk of prostate cancer could be explained by reverse causality. However, given current controversies over mandatory B12 fortification, further research to eliminate a causal role of B12 in prostate cancer initiation and/or progression is required. Meta-analysis does not entirely rule out a positive association of circulating folate with increased prostate cancer risk. As with B12, even a weak positive association would be a significant public health issue, given the high prevalence of prostate cancer and concerns about the potential harms versus benefits of mandatory folic acid fortification.",
+  "type": "academic",
+  "pdf_url": ""
+}

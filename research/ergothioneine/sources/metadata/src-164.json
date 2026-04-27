@@ -1,0 +1,29 @@
+{
+  "id": "src-164",
+  "title": "Direct or indirect association in a complex disease: the role of SLC22A4 and SLC22A5 functional variants in Crohn disease.",
+  "authors": [
+    "Fisher, Sheila A",
+    "Hampe, Jochen",
+    "Onnie, Clive M",
+    "Daly, Mark J",
+    "Curley, Christine",
+    "Purcell, Shaun",
+    "Sanderson, Jeremy",
+    "Mansfield, John",
+    "Annese, Vito",
+    "Forbes, Alastair",
+    "Lewis, Cathryn M",
+    "Schreiber, Stefan",
+    "Rioux, John D",
+    "Mathew, Christopher G"
+  ],
+  "doi": "10.1002/humu.20358",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/16835882",
+  "provider": "pubmed",
+  "year": 2006,
+  "venue": "Human mutation",
+  "citation_count": 0,
+  "abstract": "A common haplotype spanning 250 kb on chromosome 5q31 is strongly associated with Crohn disease (CD). Recently, two functional variants within the SLC22A4 and SLC22A5 genes at this locus (IBD5), L503F (c.1507C > T) and G-207C (c.-207G > C), have been proposed to contribute directly to susceptibility to CD. However, extensive linkage disequilibrium at the IBD5 locus has complicated efforts to distinguish causal variants from association of the general risk haplotype. We genotyped the SLC22A4 and SLC22A5 variants and other polymorphisms across the risk haplotype in four populations of European origin, and applied regression-based haplotype analysis to over 1,200 fully genotyped case-control pairs, modeling case/control status on the presence of one or more SNPs to test for conditional association and to identify risk haplotypes. We found highly significant association of SNPs at the IBD5 locus with Crohn disease in all populations tested. However, the frequencies of L503F and G-207C in individuals who did not carry the general IBD5 risk haplotype were not significantly different in cases and controls, with associated disease odds ratios (ORs) of 0.90 (95% CI, 0.57-1.40) and 0.90 (95% CI, 0.65-1.23), respectively. Haplotype analysis showed that addition of the SLC22A4 and SLC22A5 variants to a null model that included the background risk haplotype did not significantly improve the model fit. In addition to the common risk haplotype, several rare haplotypes had an increased frequency in cases compared to controls. This study suggests that the molecular basis for Crohn disease susceptibility at the IBD5 locus remains to be defined, and highlights the challenge of the identification of causal variants in a complex disease in regions of extensive linkage disequilibrium.",
+  "type": "academic",
+  "pdf_url": ""
+}

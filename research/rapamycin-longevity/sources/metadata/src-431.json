@@ -1,0 +1,24 @@
+{
+  "id": "src-431",
+  "title": "Combining mTor inhibitors with rapamycin-resistant T cells: a two-pronged approach to tumor elimination.",
+  "authors": [
+    "Huye, Leslie E",
+    "Nakazawa, Yozo",
+    "Patel, Mayuri P",
+    "Yvon, Eric",
+    "Sun, Jiali",
+    "Savoldo, Barbara",
+    "Wilson, Matthew H",
+    "Dotti, Gianpietro",
+    "Rooney, Cliona M"
+  ],
+  "doi": "10.1038/mt.2011.179",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/21878902",
+  "provider": "pubmed",
+  "year": 2011,
+  "venue": "Molecular therapy : the journal of the American Society of Gene Therapy",
+  "citation_count": 0,
+  "abstract": "Despite activity as single agent cancer therapies, Rapamycin (rapa) and its rapalogs may have their greatest effects when combined with other therapeutic modalities. In addition to direct antitumor activity, rapalogs reverse multiple tumor-intrinsic immune evasion mechanisms. These should facilitate tumor-specific T cell activity, but since rapa directly inhibits effector T cells, this potential immune enhancement is lost. We hypothesized that if T cells were rendered resistant to rapa they could capitalize on its downregulation of tumor immune evasion. We therefore modified T cells with a rapa-resistant mutant of mTor, mTorRR, and directed them to B lymphomas by coexpressing a chimeric antigen receptor (CAR) for CD19 (CAR.CD19-28ζ). T cells expressing transgenic mTorRR from a piggyBac transposon maintain mTor signaling, proliferate in the presence of rapa and retain their cytotoxic function and ability to secrete interferon-γ (IFNγ) after stimulation, effector functions that were inhibited by rapa in control T cells. In combination, rapa and rapa-resistant-CAR.CD19-28ζ-expressing T cells produced greater antitumor activity against Burkitt's lymphoma and pre-B ALL cell lines in vitro than CAR.CD19-28ζ T cells or rapa alone. In conclusion, the combination of rapa and rapa-resistant, CAR.CD19-28ζ-expressing T cells may provide a novel therapy for the treatment of B cell malignancies and other cancers.",
+  "type": "academic",
+  "pdf_url": ""
+}

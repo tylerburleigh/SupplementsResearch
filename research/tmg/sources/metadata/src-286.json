@@ -1,0 +1,21 @@
+{
+  "id": "src-286",
+  "title": "Dietary Choline Intake: Current State of Knowledge Across the Life Cycle",
+  "authors": [
+    "Wiedeman, Alejandra M.",
+    "Barr, Susan I.",
+    "Green, Tim",
+    "Xu, Zhaoming",
+    "Innis, Sheila M.",
+    "Kitts, David D."
+  ],
+  "doi": "10.3390/nu10101513",
+  "url": "https://openalex.org/W2896011713",
+  "provider": "openalex",
+  "year": 2018,
+  "venue": "Nutrients",
+  "citation_count": 304,
+  "abstract": "Choline, an essential dietary nutrient for humans, is required for the synthesis of the neurotransmitter, acetylcholine, the methyl group donor, betaine, and phospholipids; and therefore, choline is involved in a broad range of critical physiological functions across all stages of the life cycle. The current dietary recommendations for choline have been established as Adequate Intakes (AIs) for total choline; however, dietary choline is present in multiple different forms that are both water-soluble (e.g., free choline, phosphocholine, and glycerophosphocholine) and lipid-soluble (e.g., phosphatidylcholine and sphingomyelin). Interestingly, the different dietary choline forms consumed during infancy differ from those in adulthood. This can be explained by the primary food source, where the majority of choline present in human milk is in the water-soluble form, versus lipid-soluble forms for foods consumed later on. This review summarizes the current knowledge on dietary recommendations and assessment methods, and dietary choline intake from food sources across the life cycle.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2072-6643/10/10/1513/pdf?version=1539669053"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "src-225",
+  "title": "Inhibitory effect of calcium on non-heme iron absorption may be related to translocation of DMT-1 at the apical membrane of enterocytes.",
+  "authors": [
+    "Thompson, Ben A V",
+    "Sharp, Paul A",
+    "Elliott, Ruan",
+    "Fairweather-Tait, Susan J"
+  ],
+  "doi": "10.1021/jf101388z",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/20597505",
+  "provider": "pubmed",
+  "year": 2010,
+  "venue": "Journal of agricultural and food chemistry",
+  "citation_count": 0,
+  "abstract": "Many studies show that calcium reduces iron absorption from single meals, but the underlying mechanism is not known. We tested the hypothesis that calcium alters the expression and/or functionality of iron transport proteins. Differentiated Caco-2 cells were treated with ferric ammonium citrate and calcium chloride, and ferritin, DMT-1, and ferroportin were quantified in whole-cell lysate and cell-membrane fractions. Calcium attenuated the iron-induced increase in cell ferritin levels in a dose-dependent manner; a significant decrease was seen at calcium concentrations of 1.25 and 2.5 mM but was only evident after a 16-24 h incubation period. Calcium and iron treatments decreased DMT-1 protein in Caco-2 cell membranes, although total DMT-1 in whole cell lysates was unchanged by either iron or calcium. No change was seen in ferroportin expression. Our data suggest that calcium reduces iron bioavailability by decreasing DMT-1 expression at the apical cell membrane, thereby downregulating iron transport into the cell.",
+  "type": "academic",
+  "pdf_url": ""
+}

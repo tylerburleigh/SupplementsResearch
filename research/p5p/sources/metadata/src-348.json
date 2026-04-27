@@ -1,0 +1,18 @@
+{
+  "id": "src-348",
+  "title": "Physiological Associations between Vitamin B Deficiency and Diabetic Kidney Disease",
+  "authors": [
+    "Wu, Henry H. L.",
+    "McDonnell, Thomas",
+    "Chinnadurai, Rajkumar"
+  ],
+  "doi": "10.3390/biomedicines11041153",
+  "url": "https://openalex.org/W4365142047",
+  "provider": "openalex",
+  "year": 2023,
+  "venue": "Biomedicines",
+  "citation_count": 28,
+  "abstract": "The number of people living with chronic kidney disease (CKD) is growing as our global population continues to expand. With aging, diabetes, and cardiovascular disease being major harbingers of kidney disease, the number of people diagnosed with diabetic kidney disease (DKD) has grown concurrently. Poor clinical outcomes in DKD could be influenced by an array of factors-inadequate glycemic control, obesity, metabolic acidosis, anemia, cellular senescence, infection and inflammation, cognitive impairment, reduced physical exercise threshold, and, importantly, malnutrition contributing to protein-energy wasting, sarcopenia, and frailty. Amongst the various causes of malnutrition in DKD, the metabolic mechanisms of vitamin B (B1 (Thiamine), B2 (Riboflavin), B3 (Niacin/Nicotinamide), B5 (Pantothenic Acid), B6 (Pyridoxine), B8 (Biotin), B9 (Folate), and B12 (Cobalamin)) deficiency and its clinical impact has garnered greater scientific interest over the past decade. There remains extensive debate on the biochemical intricacies of vitamin B metabolic pathways and how their deficiencies may affect the development of CKD, diabetes, and subsequently DKD, and vice-versa. Our article provides a review of updated evidence on the biochemical and physiological properties of the vitamin B sub-forms in normal states, and how vitamin B deficiency and defects in their metabolic pathways may influence CKD/DKD pathophysiology, and in reverse how CKD/DKD progression may affect vitamin B metabolism. We hope our article increases awareness of vitamin B deficiency in DKD and the complex physiological associations that exist between vitamin B deficiency, diabetes, and CKD. Further research efforts are needed going forward to address the knowledge gaps on this topic.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2227-9059/11/4/1153/pdf?version=1681224228"
+}

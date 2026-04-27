@@ -1,0 +1,17 @@
+{
+  "id": "src-102",
+  "title": "Nrf2: friend or foe for chemoprevention?",
+  "authors": [
+    "Kensler, Thomas W.",
+    "Wakabayashi, Nobunao"
+  ],
+  "doi": "10.1093/carcin/bgp231",
+  "url": "https://openalex.org/W2122116064",
+  "provider": "openalex",
+  "year": 2009,
+  "venue": "Carcinogenesis",
+  "citation_count": 488,
+  "abstract": "Health reflects the ability of an organism to adapt to stress. Stresses--metabolic, proteotoxic, mitotic, oxidative and DNA-damage stresses--not only contribute to the etiology of cancer and other chronic degenerative diseases but are also hallmarks of the cancer phenotype. Activation of the Kelch-like ECH-associated protein 1 (KEAP1)-NF-E2-related factor 2 (NRF2)-signaling pathway is an adaptive response to environmental and endogenous stresses and serves to render animals resistant to chemical carcinogenesis and other forms of toxicity, whilst disruption of the pathway exacerbates these outcomes. This pathway can be induced by thiol-reactive small molecules that demonstrate protective efficacy in preclinical chemoprevention models and in clinical trials. However, mutations and epigenetic modifications affecting the regulation and fate of NRF2 can lead to constitutive dominant hyperactivation of signaling that preserves rather than attenuates cancer phenotypes by providing selective resistance to stresses. This review provides a synopsis of KEAP1-NRF2 signaling, compares the impact of genetic versus pharmacologic activation and considers both the attributes and concerns of targeting the pathway in chemoprevention.",
+  "type": "academic",
+  "pdf_url": "https://academic.oup.com/carcin/article-pdf/31/1/90/7091660/bgp231.pdf"
+}

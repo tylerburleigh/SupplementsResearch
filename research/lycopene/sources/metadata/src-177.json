@@ -1,0 +1,25 @@
+{
+  "id": "src-177",
+  "title": "Fruit and Vegetable Intake and Risk of Major Chronic Disease",
+  "authors": [
+    "Hung, H.-C.",
+    "Joshipura, Kaumudi",
+    "Jiang, Rui",
+    "Hu, Frank B.",
+    "Hunter, David J.",
+    "Smith‐Warner, Stephanie A.",
+    "Colditz, Graham A.",
+    "Rosner, B.",
+    "Spiegelman, Donna",
+    "Willett, Walter C."
+  ],
+  "doi": "10.1093/jnci/djh296",
+  "url": "https://openalex.org/W2168775710",
+  "provider": "openalex",
+  "year": 2004,
+  "venue": "JNCI Journal of the National Cancer Institute",
+  "citation_count": 1324,
+  "abstract": "Increased fruit and vegetable consumption was associated with a modest although not statistically significant reduction in the development of major chronic disease. The benefits appeared to be primarily for cardiovascular disease and not for cancer.",
+  "type": "academic",
+  "pdf_url": "https://academic.oup.com/jnci/article-pdf/96/21/1577/7685832/djh296.pdf"
+}

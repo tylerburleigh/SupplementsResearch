@@ -1,0 +1,23 @@
+{
+  "id": "src-350",
+  "title": "Association between serum vitamin D levels and polycystic ovary syndrome: a cross-sectional study",
+  "authors": [
+    "Liu, Yuling",
+    "Fang, Jia",
+    "An, X-Q",
+    "Zheng, Mengyu",
+    "Liu, Huanhuan",
+    "Zhang, Yaoyao",
+    "Chen, Jiaojie",
+    "Jiang, Guilin"
+  ],
+  "doi": "10.3389/fnut.2026.1728823",
+  "url": "https://www.semanticscholar.org/paper/adb448e6108d18ab83112c0acdfac362d7dac9c6",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "Frontiers in Nutrition",
+  "citation_count": 0,
+  "abstract": "Objective Polycystic ovary syndrome (PCOS) is a common endocrine and metabolic disorder among women of reproductive age, significantly increasing the risk of obesity, insulin resistance, and reproductive dysfunction. Vitamin D (VD) plays an important role in metabolic regulation, immune modulation, and inflammatory responses, but its association with PCOS risk remains controversial. This study aimed to evaluate the association between serum VD levels and the risk of PCOS, and to explore potential modifying effects across different populations. Methods A total of 1,397 female participants were included. Multivariate logistic regression models were used to assess the association between serum VD levels and PCOS, while restricted cubic spline (RCS) regression was applied to examine the dose–response relationship. Subgroup analyses were further conducted to explore the potential modifying effects of age, BMI, and marital status on the association between VD and PCOS risk. Results Serum VD levels were significantly and inversely associated with PCOS risk (P < 0.001), and this association remained robust after adjustment for demographic, behavioral, and comorbid factors (OR = 0.58, 95% CI: 0.44–0.76). The RCS analysis revealed a linear dose–response relationship between serum VD levels and PCOS risk, with higher VD concentrations associated with a progressively lower risk of PCOS. Subgroup analyses indicated that this inverse association was more pronounced among women aged ≥ 40 years, those with BMI ≥ 30, and individuals who were divorced, separated, or widowed, while no significant interaction was observed in other subgroups. Conclusion Serum VD level is an independent protective factor against PCOS, and higher concentrations are associated with a lower risk of PCOS, particularly among older, obese, and certain marital status subgroups. This study provides epidemiological evidence supporting the potential value of VD in the prevention and intervention of PCOS, and suggests that future research should further explore its mechanistic pathways and individualized intervention strategies.",
+  "type": "academic",
+  "pdf_url": ""
+}

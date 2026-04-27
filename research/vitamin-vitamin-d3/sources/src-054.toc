@@ -1,0 +1,24 @@
+6	2	Original Article
+12	2	Abstract
+31	2	Introduction
+50	2	1 Department of Endocrinology, Post Graduate Institute
+53	2	2 Department of Endocrinology, Institute of Postgraduate
+56	2	4 Department of Medicine, Rabindranath Tagore Medical
+74	2	Methods
+94	2	1. Given the scarcity of literature, both observational
+107	2	4. The clinical outcomes should be reported as the rate
+111	2	5. In addition, studies reporting the adjusted odds ratio
+119	2	2. Clinical case series, study protocols, reviews, com-
+173	2	Statistical Analysis
+198	2	Results
+283	2	Participants
+404	2	Participants
+538	2	Participants
+637	2	Participants
+734	2	Usa
+760	2	Participants
+873	2	Participants
+1041	2	Discussion
+1228	2	References
+1271	2	11. Entrenas Castillo M, Entrenas Costa LM, Vaquero Barrios JM
+1355	2	32. Shah Alam M, Czajkowsky DM, Aminul Islam Md, Ataur Rah-

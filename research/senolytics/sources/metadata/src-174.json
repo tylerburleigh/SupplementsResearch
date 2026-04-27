@@ -1,0 +1,32 @@
+{
+  "id": "src-174",
+  "title": "At the Nexus Between Epigenetics and Senescence: The Effects of Senolytic (BI01) Administration on DNA Methylation Clock Age and the Methylome in Aged and Regenerated Skeletal Muscle",
+  "authors": [
+    "Chambers, Toby L.",
+    "Wells, Jaden M.",
+    "Koopmans, P.",
+    "Morena, Francielly",
+    "Malik, Zain B",
+    "Greene, Nicholas P.",
+    "Filareto, Antonio",
+    "Franti, Michael",
+    "Sini, Patrizia",
+    "Weinstabl, Harald",
+    "Brooke, R.",
+    "Milčiūtė, Milda",
+    "Gordevičius, Juozas",
+    "Horvath, Steve",
+    "Wen, Yuan",
+    "Dungan, C.",
+    "Murach, Kevin A."
+  ],
+  "doi": "10.1111/acel.70068",
+  "url": "https://www.semanticscholar.org/paper/62bbe0f71a19dda789e82bf553ce18f38eba973e",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "Aging Cell",
+  "citation_count": 9,
+  "abstract": "Senescent cells emerge with aging and injury. The contribution of senescent cells to DNA methylation age (DNAmAGE) in vivo is uncertain. Furthermore, stem cell therapy can mediate “rejuvenation”, but how tissue regeneration controlled by resident stem cells affects whole tissue DNAmAGE is unclear. We assessed DNAmAGE with or without senolytics (BI01) in aged male mice (24–25 months) 35 days following muscle healing (BaCl2‐induced regeneration versus non‐injured). Young injured mice (5–6 months) without senolytics were comparators. DNAmAGE was decelerated by up to 68% after injury in aged muscle. DNAmAGE was modestly but further significantly decelerated by injury recovery with senolytics. ~1/4 of measured CpGs were altered by injury then recovery regardless of senolytics in aged muscle. Specific methylation changes caused by senolytics included differential regulation of Col, Hdac, Hox, and Wnt genes, which likely contributed to improved regeneration. Altered extracellular matrix remodeling using histological analysis aligned with the methylomic findings with senolytics. Without senolytics, regeneration had a contrasting effect in young mice and tended not to influence or modestly accelerate DNAmAGE. Comparing young to old injury recovery without senolytics using methylome‐transcriptome integration, we found a more coordinated molecular profile in young and differential regulation of genes implicated in muscle stem cell performance: Axin2, Egr1, Fzd4, Meg3, and Spry1. Muscle injury and senescent cells affect DNAmAGE and aging influences the transcriptomic‐methylomic landscape after resident stem cell‐driven tissue reformation. Our data have implications for understanding muscle plasticity with aging and developing therapies aimed at collagen remodeling and senescence.",
+  "type": "academic",
+  "pdf_url": ""
+}

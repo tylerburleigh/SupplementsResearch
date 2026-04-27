@@ -1,0 +1,19 @@
+{
+  "id": "src-249",
+  "title": "The NLRP3 Inflammasome Pathway: A Review of Mechanisms and Inhibitors for the Treatment of Inflammatory Diseases",
+  "authors": [
+    "Blevins, Hallie",
+    "Xu, Yiming",
+    "Biby, Savannah",
+    "Zhang, Shijun"
+  ],
+  "doi": "10.3389/fnagi.2022.879021",
+  "url": "https://openalex.org/W4281676404",
+  "provider": "openalex",
+  "year": 2022,
+  "venue": "Frontiers in Aging Neuroscience",
+  "citation_count": 492,
+  "abstract": "The NLRP3 inflammasome is a multiprotein complex that plays a pivotal role in regulating the innate immune system and inflammatory signaling. Upon activation by PAMPs and DAMPs, NLRP3 oligomerizes and activates caspase-1 which initiates the processing and release of pro-inflammatory cytokines IL-1β and IL-18. NLRP3 is the most extensively studied inflammasome to date due to its array of activators and aberrant activation in several inflammatory diseases. Studies using small molecules and biologics targeting the NLRP3 inflammasome pathway have shown positive outcomes in treating various disease pathologies by blocking chronic inflammation. In this review, we discuss the recent advances in understanding the NLRP3 mechanism, its role in disease pathology, and provide a broad review of therapeutics discovered to target the NLRP3 pathway and their challenges.",
+  "type": "academic",
+  "pdf_url": "https://www.frontiersin.org/articles/10.3389/fnagi.2022.879021/pdf"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "src-099",
+  "title": "Rôle de SIRT1 dans la régulation du stress du réticulum endoplasmique induit par une carence en donneurs de méthyle au cours des maladies inflammatoires chroniques intestinales",
+  "authors": [
+    "Melhem, Hassan"
+  ],
+  "url": "https://openalex.org/W820854813",
+  "provider": "openalex",
+  "year": 2014,
+  "venue": "Publications Et Travaux Academiques de Lorraine (Universite de Lorraine)",
+  "citation_count": 0,
+  "abstract": "Methyl donor deficiency (MDD) aggravates experimental colitis in rats and decreases SIRT1 activity in cell models. Endoplasmic reticulum (ER) stress plays a key role in inflammatory bowel disease (IBD) pathogenesis. We investigated whether the influence of MDD on colitis resulted from an ER stress response triggered by decreased SIRT1 expression. The Unfolded protein response (UPR), chaperone proteins, heat-shock factor protein 1 (HSF1) and SIRT1 were examined in rats with MDD and dextran sulfate sodium (DSS)- induced colitis, in a Caco-2 cell model with stable expression of transcobalamin-oleosin chimera (TO), which impairs cellular availability of vitamin B12, and in human IBD. The effects of SIRT1 activation were studied both in vitro and in vivo. MDD aggravated DSS-induced colitis clinically, endoscopically and histologically. MDD activated ER stress pathways, with increased p-PERK, p-eiF-2a, p-IRE-1a, ATF6, XBP1-S protein and ATF4 mRNA expression levels in rats. This was accompanied by reduced SIRT1 expression level and greater acetylation of HSF1, in relation with a dramatic decrease of chaperons (BIP, HSP27 and HSP90). Adding either vitamin B12, Sadenosylmethionine, or a SIRT1 activator (SRT1720) reduced the UPR in vitro. In rats, SIRT1 activation by SRT1720 prevented colitis by reducing acetylation of HSF1 and increasing the expression of BIP, HSP27 and HSP90. Immunohistochemistry showed impaired expression of SIRT1 in the colonic epithelium of IBD patients. SIRT1 is a master regulator of ER stress and severity of experimental colitis in case of MDD. It could deserve further interest as a therapeutic target of IBD",
+  "type": "academic",
+  "pdf_url": "http://docnum.univ-lorraine.fr/public/DDOC_T_2014_0061_MELHEM.pdf"
+}

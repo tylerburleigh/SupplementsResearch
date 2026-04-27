@@ -1,0 +1,23 @@
+{
+  "id": "src-338",
+  "title": "Effects of Lycopene Attenuating Injuries in Ischemia and Reperfusion",
+  "authors": [
+    "Wu, Sijia",
+    "Guo, Xiajun",
+    "Shang, Jia",
+    "Li, Yuanyuan",
+    "Dong, Wanglin",
+    "Peng, Qianwen",
+    "Xie, Zhenxing",
+    "Chen, Chaoran"
+  ],
+  "doi": "10.1155/2022/9309327",
+  "url": "https://openalex.org/W4303453186",
+  "provider": "openalex",
+  "year": 2022,
+  "venue": "Oxidative Medicine and Cellular Longevity",
+  "citation_count": 14,
+  "abstract": "Tissue and organ ischemia can lead to cell trauma, tissue necrosis, irreversible damage, and death. While intended to reverse ischemia, reperfusion can further aggravate an ischemic injury (ischemia-reperfusion injury, I/R injury) through a range of pathologic processes. An I/R injury to one organ can also harm other organs, leading to systemic multiorgan failure. A type of carotenoid, lycopene, has been shown to treat and prevent many diseases (e.g., rheumatoid arthritis, cancer, diabetes, osteoporosis, male infertility, neurodegenerative diseases, and cardiovascular disease), making it a hot research topic in health care. Some recent researches have suggested that lycopene can evidently ameliorate ischemic and I/R injuries to many organs, but few clinical studies are available. Therefore, it is essential to review the effects of lycopene on ischemic and I/R injuries to different organs, which may help further research into its potential clinical applications.",
+  "type": "academic",
+  "pdf_url": "https://downloads.hindawi.com/journals/omcl/2022/9309327.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "src-372",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://www.aging-us.com/article/101202/text",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-24T13:07:16.172169+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-372.md",
+  "quality_details": {
+    "content_length": 34083,
+    "alpha_ratio": 0.724,
+    "sentence_count": 355,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

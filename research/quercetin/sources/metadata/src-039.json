@@ -1,0 +1,25 @@
+{
+  "id": "src-039",
+  "title": "Antiviral potential of spirulina in individuals with human immunodeficiency virus or Hepatis C virus infections: A systematic review and meta-analysis.",
+  "authors": [
+    "Mckinley, L.",
+    "Acen, Kelly",
+    "Alshannaq, Ahmad",
+    "Christensen, Leslie",
+    "Dolan, Katherine",
+    "Kates, Ashley E.",
+    "Keating, J.",
+    "Musuuza, Jackson S.",
+    "Osman, F.",
+    "Safdar, Nasia"
+  ],
+  "doi": "10.1016/j.clnesp.2024.06.049",
+  "url": "https://www.semanticscholar.org/paper/897af37d8cf1549c26889445820bd13064efd98f",
+  "provider": "semantic_scholar",
+  "year": 2024,
+  "venue": "Clinical Nutrition ESPEN",
+  "citation_count": 5,
+  "abstract": "BACKGROUND\nSpirulina, a cyanobacterium or blue-green algae that contains phycocyanin, nutritional supplementation has been evaluated in patients living with human immunodeficiency virus (HIV) and hepatitis C virus (HCV) due to its antiviral properties. This supplementation may be beneficial in low resource settings when awaiting antiretroviral therapy (ART) for HIV. This review aimed to evaluate the effectiveness of Spirulina supplement in antiviral-naïve HIV- and HCV-infected patients by assessing its immunological effect (Cluster of Differentiation 4 or CD-4 T-cell count) and disease progression (viral load).\n\nMETHODS\nWe searched PubMed, Cochrane Library, Scopus, and Web of Science from inception through January 23, 2024. Two authors independently performed the study selection, data extraction, and risk of bias assessment. We pooled data by using a random-effects model and evaluated publication bias by a funnel plot.\n\nRESULTS\nWe identified 5552 articles, 5509 excluded at the title and abstract stage with 44 studies making it to the full text review. Of these 6 studies met the eligibility for inclusion in the final analysis as follows: 4 randomized controlled trials (RCTs) and 2 non-RCTs. The pooled results of the Spirulina intervention found significant improvements in biomarkers of clinical outcomes, viral load (VL) and CD4 T-cell (CD4) counts, in participants of the treatment group compared to controls; the VL had an overall Cohen's d effect size decrease of -2.49 (-4.80, -0.18) and CD4 had an overall effect size increase of 4.09 (0.75, 7.43). [Cohen's d benchmark: 0.2 = small effect; 0.5 = medium effect; 0.8 = large effect].\n\nCONCLUSIONS\nFindings from this systematic review showed a potential beneficial effect of Spirulina supplementation in HIV- and HCV-infected patients by increasing CD4 counts and decreasing viral load. However, further research in larger controlled clinical trials is needed to fully investigate the effect of this nutritional supplement on clinically relevant outcomes, opportunities for intervention, optimal dose, and cost-benefit of Spirulina supplementation.",
+  "type": "academic",
+  "pdf_url": ""
+}

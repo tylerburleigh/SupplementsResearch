@@ -1,0 +1,17 @@
+{
+  "id": "src-120",
+  "title": "Predictors of serum cobalamin and its association with homocysteine in community-dwelling older adults.",
+  "authors": [
+    "Jungert, Alexandra",
+    "Neuhäuser-Berthold, Monika"
+  ],
+  "doi": "10.1038/s41430-018-0367-8",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/30514880",
+  "provider": "pubmed",
+  "year": 2019,
+  "venue": "European journal of clinical nutrition",
+  "citation_count": 0,
+  "abstract": "BACKGROUND/OBJECTIVES: This study investigates the predictors of serum cobalamin concentrations in community-dwelling older adults and the relationship between serum cobalamin and plasma homocysteine.\nSUBJECTS/METHODS: Serum cobalamin and plasma homocysteine were measured by SimulTRAC-SNB radio assay and HPLC, respectively. Linear multiple regression analyses were performed with cross-sectional data of 352 participants aged 60-90 years to examine (1) the predictors of serum cobalamin and (2) the association between cobalamin and homocysteine status. Age, sex, body composition, diet, supplement use, smoking, serum folate, serum pyridoxal 5´-phosphate, serum creatinine, and selected diseases were considered as potential predicting/confounding factors.\nRESULTS: Median values of serum cobalamin, plasma homocysteine, and dietary cobalamin intake were 256 pmol/L, 9.7 µmol/L, and 5.7 µg/day, respectively. In multiple regression analysis, cobalamin intake, sex, body composition, serum creatinine and smoking did not predict serum cobalamin (all P > 0.05). In contrast, age (β = 0.111, P = 0.031), serum folate (β = 0.410, P < 0.001) and diagnosis of chronic inflammatory bowel disease (IBD) (β = 0.101, P = 0.037) were positively and cancer diagnosis (β = -0.142, P = 0.003) was negatively associated with serum cobalamin. The model explained 23% of the variability of serum cobalamin. After exclusion of subjects with IBD/cancer diagnosis and/or vitamin B/multi-vitamin supplementation, only serum folate remained as positive predictor of serum cobalamin (β = 0.407, P < 0.001). Serum cobalamin was positively associated with inverse-transformed plasma homocysteine before (β = 0.298, P < 0.001) and after (β = 0.199, P < 0.001) multiple adjustments.\nCONCLUSIONS: Serum folate but not cobalamin intake or age proves to be a main predictor of cobalamin status. Nevertheless, independent of serum folate and other potential confounders, serum cobalamin is inversely associated with plasma homocysteine.",
+  "type": "academic",
+  "pdf_url": ""
+}

@@ -1,0 +1,17 @@
+{
+  "id": "src-095",
+  "title": "A Comprehensive Review of the Current Status of the Cellular Neurobiology of Psychedelics",
+  "authors": [
+    "Banushi, Blerida",
+    "Polito, Vince"
+  ],
+  "doi": "10.3390/biology12111380",
+  "url": "https://openalex.org/W4388097035",
+  "provider": "openalex",
+  "year": 2023,
+  "venue": "Biology",
+  "citation_count": 25,
+  "abstract": "Psychedelic substances have gained significant attention in recent years for their potential therapeutic effects on various psychiatric disorders. This review delves into the intricate cellular neurobiology of psychedelics, emphasizing their potential therapeutic applications in addressing the global burden of mental illness. It focuses on contemporary research into the pharmacological and molecular mechanisms underlying these substances, particularly the role of 5-HT2A receptor signaling and the promotion of plasticity through the TrkB-BDNF pathway. The review also discusses how psychedelics affect various receptors and pathways and explores their potential as anti-inflammatory agents. Overall, this research represents a significant development in biomedical sciences with the potential to transform mental health treatments.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2079-7737/12/11/1380/pdf?version=1698478331"
+}

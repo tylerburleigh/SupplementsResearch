@@ -1,0 +1,33 @@
+{
+  "id": "src-185",
+  "title": "The role of the gut microbiome and its metabolites in metabolic diseases",
+  "authors": [
+    "Wu, Jiayu",
+    "Wang, Kai",
+    "Wang, Xuemei",
+    "Pang, Yanli",
+    "Jiang, Changtao"
+  ],
+  "year": 2021,
+  "abstract": "AbstractIt is well known that an unhealthy lifestyle is a major risk factor for metabolic diseases, while in recent years, accumulating evidence has demonstrated that the gut microbiome and its metabolites also play a crucial role in the onset and development of many metabolic diseases, including obesity, type 2 diabetes, nonalcoholic fatty liver disease, cardiovascular disease and so on. Numerous microorganisms dwell in the gastrointestinal tract, which is a key interface for energy acquisition and can metabolize dietary nutrients into many bioactive substances, thus acting as a link between the gut microbiome and its host. The gut microbiome is shaped by host genetics, immune responses and dietary factors. The metabolic and immune potential of the gut microbiome determines its significance in host health and diseases. Therefore, targeting the gut microbiome and relevant metabolic pathways would be effective therapeutic treatments for many metabolic diseases in the near future. This review will summarize information about the role of the gut microbiome in organism metabolism and the relationship between gut microbiome-derived metabolites and the pathogenesis of many metabolic diseases. Furthermore, recent advances in improving metabolic diseases by regulating the gut microbiome will be discussed.",
+  "doi": "10.1007/s13238-020-00814-7",
+  "url": "https://doi.org/10.1007/s13238-020-00814-7",
+  "pdf_url": "",
+  "venue": "Protein &amp; Cell",
+  "citation_count": 468,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-19T12:03:49.854003+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-185.md",
+  "quality_details": {
+    "content_length": 74616,
+    "alpha_ratio": 0.769,
+    "sentence_count": 426,
+    "reasons": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "src-254",
+  "title": "Identification of 613 new loci associated with heel bone mineral density and a polygenic risk score for bone mineral density, osteoporosis and fracture",
+  "authors": [
+    "Kim, Stuart K."
+  ],
+  "doi": "10.1371/journal.pone.0200785",
+  "url": "https://www.semanticscholar.org/paper/99737aa59ed50356773bcbf0b4f1f650a99f7b0c",
+  "provider": "semantic_scholar",
+  "year": 2018,
+  "venue": "PLoS ONE",
+  "citation_count": 174,
+  "abstract": "Low bone mineral density (BMD) leads to osteoporosis, and is a risk factor for bone fractures, including stress fractures. Using data from UK Biobank, a genome-wide association study identified 1,362 independent SNPs that clustered into 899 loci of which 613 are new. These data were used to train a genetic algorithm using 22,886 SNPs as predictors and showing a correlation with heel bone mineral density of 0.415. Combining this genetic algorithm with height, weight, age and sex resulted in a correlation with heel bone mineral density of 0.496. Individuals with low scores (2.2% of total) showed a change in BMD of -1.16 T-score units, an increase in risk for osteoporosis of 17.4 fold and an increase in risk for fracture of 1.87 fold. Genetic predictors could assist in the identification of individuals at risk for osteoporosis or fractures.",
+  "type": "academic",
+  "pdf_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0200785&type=printable"
+}

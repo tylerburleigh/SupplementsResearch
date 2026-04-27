@@ -1,0 +1,25 @@
+{
+  "id": "src-243",
+  "title": "The PRISMA Statement for Reporting Systematic Reviews and Meta-Analyses of Studies That Evaluate Health Care Interventions: Explanation and Elaboration",
+  "authors": [
+    "Liberati, Alessandro",
+    "Altman, Douglas G.",
+    "Tetzlaff, Jennifer",
+    "Mulrow, Cynthia D.",
+    "Gøtzsche, Peter C",
+    "Ioannidis, John P. A.",
+    "Clarke, Mike",
+    "Devereaux, P.J.",
+    "Kleijnen, Jos",
+    "Moher, David"
+  ],
+  "doi": "10.1371/journal.pmed.1000100",
+  "url": "https://openalex.org/W3022903699",
+  "provider": "openalex",
+  "year": 2009,
+  "venue": "PLoS Medicine",
+  "citation_count": 27740,
+  "abstract": "Systematic reviews and meta-analyses are essential to summarize evidence relating to efficacy and safety of health care interventions accurately and reliably. The clarity and transparency of these reports, however, is not optimal. Poor reporting of systematic reviews diminishes their value to clinicians, policy makers, and other users.Since the development of the QUOROM (QUality Of Reporting Of Meta-analysis) Statement--a reporting guideline published in 1999--there have been several conceptual, methodological, and practical advances regarding the conduct and reporting of systematic reviews and meta-analyses. Also, reviews of published systematic reviews have found that key information about these studies is often poorly reported. Realizing these issues, an international group that included experienced authors and methodologists developed PRISMA (Preferred Reporting Items for Systematic reviews and Meta-Analyses) as an evolution of the original QUOROM guideline for systematic reviews and meta-analyses of evaluations of health care interventions.The PRISMA Statement consists of a 27-item checklist and a four-phase flow diagram. The checklist includes items deemed essential for transparent reporting of a systematic review. In this Explanation and Elaboration document, we explain the meaning and rationale for each checklist item. For each item, we include an example of good reporting and, where possible, references to relevant empirical studies and methodological literature. The PRISMA Statement, this document, and the associated Web site (http://www.prisma-statement.org/) should be helpful resources to improve reporting of systematic reviews and meta-analyses.",
+  "type": "academic",
+  "pdf_url": "https://journals.plos.org/plosmedicine/article/file?id=10.1371/journal.pmed.1000100&type=printable"
+}

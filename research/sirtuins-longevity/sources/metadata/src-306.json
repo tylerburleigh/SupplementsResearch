@@ -1,0 +1,21 @@
+{
+  "id": "src-306",
+  "title": "Aere perennius: how chromatin fidelity is maintained and lost in disease",
+  "authors": [
+    "Fetch, Dustin",
+    "Jumamyradova, Amina",
+    "Chapa, Cameron",
+    "Ge, Yong",
+    "Mohamadzadeh, Mansour",
+    "Soshnev, Alexey A."
+  ],
+  "doi": "10.1093/narmme/ugaf026",
+  "url": "https://www.semanticscholar.org/paper/70b3c6ccb1965f22efefabec61c021483fcae985",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "NAR molecular medicine",
+  "citation_count": 0,
+  "abstract": "Abstract Multicellular organisms arise from a single genome template in the zygote, necessitating the cells of the developing embryo to up- and downregulate specific genes to establish and maintain their identity. This template is maintained, propagated, and interpreted as chromatin, a polymer of nucleic acids and associated structural and regulatory proteins. Recent genome-wide surveys documented a wealth of disease-associated mutations in chromatin factors, indicating their fundamental significance and potential for therapeutic targeting. However, chromatin factors exist in a complex balance, with a single deficiency often leading to pleiotropic downstream effects. Here, we review the mechanisms of chromatin regulation and partitioning, highlighting examples of how these processes are altered in human diseases. We argue that loss of chromatin fidelity, both locally at specific genes and regulatory elements, and globally at the megabase-scale, contributes to many pathological states and may thus represent an intriguing target for corrective interventions.",
+  "type": "academic",
+  "pdf_url": ""
+}

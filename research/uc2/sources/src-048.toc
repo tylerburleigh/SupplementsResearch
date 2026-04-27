@@ -1,0 +1,10 @@
+46	2	Open
+81	2	Materials And Methods
+192	2	Results
+340	2	Discussion
+437	2	Conclusion
+445	2	Data Availability
+448	2	References
+598	2	Acknowledgements
+601	2	Author Contributions
+610	2	Competing Interests

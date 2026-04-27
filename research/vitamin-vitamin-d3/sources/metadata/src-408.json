@@ -1,0 +1,30 @@
+{
+  "id": "src-408",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://lifespan.io/news/impact-of-vitamin-d-supplements-on-mortality-risk",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-21T21:35:36.068977+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-408.md",
+  "quality_details": {
+    "content_length": 62,
+    "alpha_ratio": 0.823,
+    "sentence_count": 0,
+    "reasons": [
+      "content too short (62 chars < 500)",
+      "few sentences detected (0 < 3)"
+    ]
+  }
+}

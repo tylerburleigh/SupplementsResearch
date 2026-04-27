@@ -1,0 +1,30 @@
+{
+  "id": "src-351",
+  "title": "Single-Cell Transcriptomics Reveals Riluzole as an Osteoarthritis Candidate Drug via OB-NE Signaling Modulation and CTSS/NOS1 Inhibition",
+  "authors": [
+    "Liu, Kun",
+    "Li, Jia-li",
+    "Chen, Yan",
+    "Li, Yu-xin",
+    "Deng, J.",
+    "Gong, Yun",
+    "Cao, C.",
+    "Zeng, Q.",
+    "Xiao, Zhengwu",
+    "Wen, Kai-Zhi",
+    "Qu, Xiaochao",
+    "Chen, Xiang",
+    "Deng, Yun",
+    "Deng, Hong",
+    "Tan, Li"
+  ],
+  "doi": "10.2147/dddt.s544803",
+  "url": "https://www.semanticscholar.org/paper/fcab16dc01a00b531463fa01322346a2e3e51435",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "Drug Design, Development and Therapy",
+  "citation_count": 0,
+  "abstract": "sequencing of human femoral head tissue was employed in this study, followed by integrated analysis using bioinformatics tools such as differential expression analysis, enrichment analysis and cell communication analysis. A network proximity-based drug repositioning approach was employed to identify potential drug candidates. Mendelian randomization (MR) analysis was used to explore the causal relationship between drug targets and OA. In vivo, a triclocarban (TCC)-induced zebrafish OA model was treated with selected drugs, and transcriptomic sequencing, network pharmacology and molecular docking were performed to identify potential drug targets. Results: We found OB populations as key OA-associated cells, differentially expressed genes in OBs were enriched in neutrophil (NE)-mediated immune pathways. Cell communication analysis revealed enhanced bidirectional OB-NE signaling in OA, primarily mediated through the CXCL12-CXCR4 and RETN-CAP1 pathways. Riluzole was identified as a therapeutic candidate through drug repositioning analysis. MR showed an inverse association between the expression of its target SLC7A11 and OA risk (OR=0.84, 95% CI=0.72–0.98, P =0.027). In zebrafish OA models, riluzole treatment significantly reduced joint degeneration and downregulated CTSS, NOS1 and key components of the MAPK/ERK pathway. Molecular docking studies demonstrated strong binding affinity of riluzole to CTSS and NOS1, suggesting that inhibition of these targets may underlie its therapeutic action via suppression of MAPK/ ERK suppression. Conclusion: This study highlights riluzole as a promising repositioned drug for OA. Limitations of this study include the relatively small sample size and the need for further translational validation in clinical settings.",
+  "type": "academic",
+  "pdf_url": ""
+}

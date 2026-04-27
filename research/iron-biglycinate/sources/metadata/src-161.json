@@ -1,0 +1,21 @@
+{
+  "id": "src-161",
+  "title": "Nonlinear association between wet-bulb globe temperature and maternal hypertensive disorders burden: a global analysis from 1990 to 2021",
+  "authors": [
+    "Zhao, Boya",
+    "Zhao, Yonghui",
+    "Hu, Zhan",
+    "Duan, Xin",
+    "Dou, J.",
+    "Shi, Senlin"
+  ],
+  "doi": "10.3389/fpubh.2025.1678469",
+  "url": "https://www.semanticscholar.org/paper/57e4f6b2c2c58b8009041d48ac70f2318a4bf213",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "Frontiers in Public Health",
+  "citation_count": 1,
+  "abstract": "Background Maternal hypertensive disorders (MHD) are major causes of maternal mortality and perinatal complications worldwide, and their disability burden has risen with pronounced geographic disparities. Under global warming, heat stress is increasingly implicated in dysregulated blood pressure during pregnancy, yet robust global-scale evidence remains limited. Methods We combined age-standardized years lived with disability (AS-YLDs) from MHD for 204 countries (1990–2021) with wet-bulb globe temperature (WBGT). Restricted cubic splines were used to characterize nonlinear WBGT–AS-YLDs associations. Analyses were stratified by five Sociodemographic Index (SDI) levels and adjusted for environmental and behavioral covariates (body-mass index, air pollution, tobacco use, alcohol consumption, iron deficiency) plus calendar-year fixed effects. Sensitivity analyses further stratified by climate zones. Results Globally, WBGT showed a significant nonlinear association with MHD AS-YLDs, approximating a U-shaped curve. The lowest burden occurred near 11.7 °C, followed by increases beyond this point, a brief dip around 23.5 °C, and renewed rise above 27 °C. Similar J-/U-shaped patterns appeared in low–median, median, and high–median SDI strata, with modest shifts in inflection temperatures; low-SDI countries showed a pronounced J-shape, whereas high-SDI countries exhibited no clear nonlinearity. WBGT and SDI displayed stronger associations with MHD burden than other covariates. Year fixed effects were generally small and often non-significant. Results were consistent across climate-zone strata. Conclusion This study quantifies a global, nonlinear relationship between WBGT and the MHD disability burden, with heterogeneous effects across development levels. The findings highlight heat exposure as a potential threat to maternal health under climate change and support targeted mitigation and adaptation—especially in low- and median-SDI settings.",
+  "type": "academic",
+  "pdf_url": ""
+}

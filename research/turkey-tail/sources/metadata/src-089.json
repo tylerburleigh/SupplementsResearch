@@ -1,0 +1,19 @@
+{
+  "id": "src-089",
+  "title": "Anticancer Activities of Mushrooms: A Neglected Source for Drug Discovery",
+  "authors": [
+    "Panda, Sujogya Kumar",
+    "Sahoo, Gunanidhi",
+    "Swain, Shasank S.",
+    "Luyten, Walter"
+  ],
+  "doi": "10.3390/ph15020176",
+  "url": "https://openalex.org/W4210670306",
+  "provider": "openalex",
+  "year": 2022,
+  "venue": "Pharmaceuticals",
+  "citation_count": 94,
+  "abstract": "Approximately 270 species of mushrooms have been reported as potentially useful for human health. However, few mushrooms have been studied for bioactive compounds that can be helpful in treating various diseases. Like other natural regimens, the mushroom treatment appears safe, as could be expected from their long culinary and medicinal use. This review aims to provide a critical discussion on clinical trial evidence for mushrooms to treat patients with diverse types of cancer. In addition, the review also highlights the identified bioactive compounds and corresponding mechanisms of action among the explored mushrooms. Furthermore, it also discusses mushrooms with anticancer properties, demonstrated either in vitro and/or in vivo models, which have never been tested in clinical studies. Several mushrooms have been tested in phase I or II clinical trials, mostly for treating breast cancer (18.6%), followed by colorectal (14%) and prostate cancer (11.6%). The majority of clinical studies were carried out with just 3 species: <i>Lentinula edodes</i> (22.2%), <i>Coriolus versicolor</i>, and <i>Ganoderma lucidum</i> (both 13.9%); followed by two other species: <i>Agaricus bisporus</i> and <i>Grifola frondosa</i> (both 11.1%). Most in vitro cell studies use breast cancer cell lines (43.9%), followed by lung (14%) and colorectal cancer cell lines (13.1%), while most in vivo animal studies are performed in mice tumor models (58.7%). Although 32 species of mushrooms at least show some promise for the treatment of cancer, only 11 species have been tested clinically thus far. Moreover, most clinical studies have investigated fewer numbers of patients, and have been limited to phase III or IV. Therefore, despite the promising preclinical and clinical data publication, more solid scientific efforts are required to clarify the therapeutic value of mushrooms in oncology.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/1424-8247/15/2/176/pdf?version=1644372009"
+}

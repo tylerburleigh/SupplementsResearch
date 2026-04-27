@@ -1,0 +1,24 @@
+{
+  "id": "src-176",
+  "title": "Pharmahuasca and DMT Rescue ROS Production and Differentially Expressed Genes Observed after Predator and Psychosocial Stress: Relevance to Human PTSD.",
+  "authors": [
+    "Kelley, D.",
+    "Venable, Katy",
+    "Destouni, Aspasia",
+    "Billac, Gerald B.",
+    "Ebenezer, Philip Jesudason",
+    "Stadler, Krisztian",
+    "Nichols, Charles D.",
+    "Barker, Steven",
+    "Francis, Joseph"
+  ],
+  "doi": "10.1021/acschemneuro.1c00660",
+  "url": "https://www.semanticscholar.org/paper/a08115803de59468d48d0a0856d423f357a39319",
+  "provider": "semantic_scholar",
+  "year": 2022,
+  "venue": "ACS Chemical Neuroscience",
+  "citation_count": 33,
+  "abstract": "Post-traumatic stress disorder (PTSD) is associated with cognitive deficits, oxidative stress, and inflammation. Animal models have recapitulated features of PTSD, but no comparative RNA sequencing analysis of differentially expressed genes (DEGs) in the brain between PTSD and animal models of traumatic stress has been carried out. We compared DEGs from the prefrontal cortex (PFC) of an established stress model to DEGs from the dorsolateral PFC (dlPFC) of humans. We observed a significant enrichment of rat DEGs in human PTSD and identified 20 overlapping DEGs, of which 17 (85%) are directionally concordant. N,N-dimethyltryptamine (DMT) is a known indirect antioxidant, anti-inflammatory, and neuroprotective compound with antidepressant and plasticity-facilitating effects. We tested the capacity of DMT, the monoamine oxidase inhibitor (MAOI) harmaline, and \"pharmahuasca\" (DMT + harmaline) to reduce reactive oxygen species (ROS) production and inflammatory gene expression and to modulate neuroplasticity-related gene expression in the model. We administered DMT (2 mg/kg IP), harmaline (1.5 mg/kg IP), pharmahuasca, or vehicle every other day for 5 days, following a 30 day stress regiment. We measured ROS production in the PFC and hippocampus (HC) by electron paramagnetic resonance spectroscopy and sequenced total mRNA in the PFC. We also performed in vitro assays to measure the affinity and efficacy of DMT and harmaline at 5HT2AR compared to 5-HT. DMT and pharmahuasca reduced ROS production in the PFC and HC, while harmaline had mixed effects. Treatments normalized 9, 12, and 14 overlapping DEGs, and pathway analysis implicated that genes were involved in ROS production, inflammation, growth factor signaling, neurotransmission, and neuroplasticity.",
+  "type": "academic",
+  "pdf_url": "https://pubs.acs.org/doi/pdf/10.1021/acschemneuro.1c00660"
+}

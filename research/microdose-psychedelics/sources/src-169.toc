@@ -1,0 +1,14 @@
+14	2	Doi
+26	2	Usa
+30	2	Usa
+31	2	Abstract
+45	2	Introduction
+51	2	Disclosure
+83	2	The Pharmacology Of Pyschedelics
+227	2	Effects Of Psychedelics On Structural Neuroplasticity
+304	2	Neurogenesis
+352	2	Effects Of Psychedelics On Neuronal Activity
+405	2	Neuromodulator Release
+485	2	Conclusion And Unanswered Questions
+505	2	Acknowledgements
+512	2	References

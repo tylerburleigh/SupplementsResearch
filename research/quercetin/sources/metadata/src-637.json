@@ -1,0 +1,29 @@
+{
+  "id": "src-637",
+  "title": "Neuropharmacological Effects of Quercetin: A Literature-Based ...",
+  "authors": [],
+  "year": 2021,
+  "abstract": "",
+  "doi": "",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8248808",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-22T18:18:12.598071+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-637.md",
+  "quality_details": {
+    "content_length": 109697,
+    "alpha_ratio": 0.687,
+    "sentence_count": 2259,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

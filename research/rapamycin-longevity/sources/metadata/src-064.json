@@ -1,0 +1,29 @@
+{
+  "id": "src-064",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "",
+  "pdf_url": "https://rcastoragev2.blob.core.windows.net/4aac0323db0edaa1bcfa5213449dacfb/PMC3184498.pdf",
+  "venue": "",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "",
+  "fetched_at": "2026-04-26T22:56:23.317971+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-064.md",
+  "quality_details": {
+    "content_length": 84460,
+    "alpha_ratio": 0.705,
+    "sentence_count": 1563,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

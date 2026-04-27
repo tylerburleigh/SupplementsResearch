@@ -1,0 +1,17 @@
+{
+  "id": "src-292",
+  "title": "NAD augmentation as a disease-modifying strategy for neurodegeneration",
+  "authors": [
+    "Dölle, Christian",
+    "Tzoulis, Charalampos"
+  ],
+  "doi": "10.1016/j.tem.2025.03.013",
+  "url": "https://openalex.org/W4409807720",
+  "provider": "openalex",
+  "year": 2025,
+  "venue": "Trends in Endocrinology and Metabolism",
+  "citation_count": 11,
+  "abstract": "Neurodegenerative diseases (NDDs) pose a significant and rapidly growing global health challenge, but there are no effective therapies to delay or halt progression. In recent years augmentation of nicotinamide adenine dinucleotide (NAD) has emerged as a promising disease-modifying strategy that targets multiple key disease pathways across multiple NDDs, such as mitochondrial dysfunction, energy deficits, proteostasis, and neuroinflammation. Several early clinical trials of NAD augmentation have been completed, and many more are currently underway, reflecting the growing optimism and urgency within the field. We discuss the rationale and evolving therapeutic landscape of NAD augmentation. We argue that, to fully realize its therapeutic potential, it is essential to determine the specific contexts in which NAD supplementation is most effective and to address crucial knowledge gaps.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.1016/j.tem.2025.03.013"
+}

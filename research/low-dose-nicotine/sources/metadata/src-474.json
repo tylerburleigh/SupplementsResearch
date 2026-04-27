@@ -1,0 +1,21 @@
+{
+  "id": "src-474",
+  "title": "Internet-based interventions for smoking cessation",
+  "authors": [
+    "Taylor, Gemma",
+    "Dalili, Michael N",
+    "Semwal, Monika",
+    "Čivljak, Marta",
+    "Sheikh, Aziz",
+    "Car, Josip"
+  ],
+  "doi": "10.1002/14651858.cd007078.pub5",
+  "url": "https://openalex.org/W1483352882",
+  "provider": "openalex",
+  "year": 2017,
+  "venue": "Cochrane Database of Systematic Reviews",
+  "citation_count": 707,
+  "abstract": "The evidence from trials in adults suggests that interactive and tailored Internet-based interventions with or without additional behavioural support are moderately more effective than non-active controls at six months or longer, but there was no evidence that these interventions were better than other active smoking treatments. However some of the studies were at high risk of bias, and there was evidence of substantial statistical heterogeneity. Treatment effectiveness in younger people is unknown.",
+  "type": "academic",
+  "pdf_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD007078.pub5/pdf/full"
+}

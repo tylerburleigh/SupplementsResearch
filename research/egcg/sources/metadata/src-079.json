@@ -1,0 +1,23 @@
+{
+  "id": "src-079",
+  "title": "Epigallocatechin gallate alleviates non-alcoholic fatty liver disease through the inhibition of the expression and activity of Dipeptide kinase 4.",
+  "authors": [
+    "Yang, Mingfeng",
+    "Yan, Ruike",
+    "Sha, Ruohe",
+    "Wang, Xinxin",
+    "Zhou, Shiting",
+    "Li, Baifeng",
+    "Zheng, Qianqian",
+    "Cao, Yanli"
+  ],
+  "doi": "10.1016/j.clnu.2024.06.018",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38936303",
+  "provider": "pubmed",
+  "year": 2024,
+  "venue": "Clinical nutrition (Edinburgh, Scotland)",
+  "citation_count": 0,
+  "abstract": "BACKGROUND: Non-alcoholic fatty liver disease (NAFLD) has emerged as the most prevalent glocal cause of chronic hepatic disease, with incidence rates that continue to rise steadily. Treatment options for affected patients are currently limited to dietary changes and exercise interventions, with no drugs having been licensed for the treatment of this disease. There is thus a pressing need for the development of novel therapeutic strategies. Work from our group suggests that the primary bioactive ingredient in green tea, epigallocatechin gallate (EGCG), may help reduce liver fat content and protect against hepatic injury through the inhibition of dipeptidyl peptidase 4 (DPP4) expression and activity. The study investigated the potential pathways by which EGCG may improve NAFLD, identified the sites of interaction between EGCG and DPP4, and proposed novel clinical treatment strategies.\nMETHODS: A clinical randomized controlled trial was conducted to investigate the potential efficacy of EGCG in NAFLD patients. The study compared relevant indices before and after EGCG administration. Animal models of NAFLD were constructed using male C57BL/6J mice fed a high-fat diet to observe the ameliorative effects of EGCG on the livers of the model mice and to investigate the potential pathways by which EGCG alleviates NAFLD. The interaction mechanism between EGCG and DPP4 was investigated using oleic acid and palmitic acid-treated HepG2 cell lines. Plasmids in which different sites had been disrupted were used to identify the effective interaction sites.\nRESULTS: ECGC was found to suppress the accumulation of lipids, inhibit inflammation, remediate dysregulated lipid metabolism, and improve the pathogenesis of NAFLD via the inhibition of the expression and activity of DPP4.\nCONCLUSIONS: The study results indicate that EGCG has a positive impact on improving NAFLD. These results highlight promising new opportunities to safely and effectively treat NAFLD in the clinic.\nSTUDY ID NUMBER: ChiCTR2300076741; https://www.chictr.org.cn/.",
+  "type": "academic",
+  "pdf_url": ""
+}

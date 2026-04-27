@@ -1,0 +1,23 @@
+{
+  "id": "src-173",
+  "title": "Functional Foods and Lifestyle Approaches for Diabetes Prevention and Management",
+  "authors": [
+    "Alkhatib, Ahmad",
+    "Tsang, Catherine",
+    "Tiss, Ali",
+    "Bahorun, Theeshan",
+    "Arefanian, Hossein",
+    "Baraké, Roula",
+    "Khadir, Abdelkrim",
+    "Tuomilehto, Jaakko"
+  ],
+  "doi": "10.3390/nu9121310",
+  "url": "https://openalex.org/W2772650360",
+  "provider": "openalex",
+  "year": 2017,
+  "venue": "Nutrients",
+  "citation_count": 361,
+  "abstract": "Functional foods contain biologically active ingredients associated with physiological health benefits for preventing and managing chronic diseases, such as type 2 diabetes mellitus (T2DM). A regular consumption of functional foods may be associated with enhanced anti-oxidant, anti-inflammatory, insulin sensitivity, and anti-cholesterol functions, which are considered integral to prevent and manage T2DM. Components of the Mediterranean diet (MD)-such as fruits, vegetables, oily fish, olive oil, and tree nuts-serve as a model for functional foods based on their natural contents of nutraceuticals, including polyphenols, terpenoids, flavonoids, alkaloids, sterols, pigments, and unsaturated fatty acids. Polyphenols within MD and polyphenol-rich herbs-such as coffee, green tea, black tea, and yerba maté-have shown clinically-meaningful benefits on metabolic and microvascular activities, cholesterol and fasting glucose lowering, and anti-inflammation and anti-oxidation in high-risk and T2DM patients. However, combining exercise with functional food consumption can trigger and augment several metabolic and cardiovascular protective benefits, but it is under-investigated in people with T2DM and bariatric surgery patients. Detecting functional food benefits can now rely on an \"omics\" biological profiling of individuals' molecular, genetics, transcriptomics, proteomics, and metabolomics, but is under-investigated in multi-component interventions. A personalized approach for preventing and managing T2DM should consider biological and behavioral models, and embed nutrition education as part of lifestyle diabetes prevention studies. Functional foods may provide additional benefits in such an approach.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2072-6643/9/12/1310/pdf?version=1512143059"
+}

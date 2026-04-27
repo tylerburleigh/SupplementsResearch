@@ -1,0 +1,17 @@
+41	2	Abstract
+60	2	Introduction
+129	2	Materials And Methods
+212	2	Data Analysis
+225	2	Results
+314	2	Table
+341	2	Table
+383	2	Table
+412	2	Table
+435	2	Table
+459	2	Figure
+463	2	Figure
+467	2	Discussion
+472	2	Hto
+597	2	Conclusions
+613	2	Author Contributions
+671	2	References

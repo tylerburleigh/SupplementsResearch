@@ -1,0 +1,17 @@
+{
+  "id": "src-499",
+  "title": "PGC-1α, SIRT1 and AMPK, an energy sensing network that controls energy expenditure",
+  "authors": [
+    "Cantó, Carles",
+    "Auwerx, Johan"
+  ],
+  "doi": "10.1097/mol.0b013e328328d0a4",
+  "url": "https://openalex.org/W2133444149",
+  "provider": "openalex",
+  "year": 2009,
+  "venue": "Current Opinion in Lipidology",
+  "citation_count": 1553,
+  "abstract": "Metabolic sensors such as AMPK and SIRT1, gatekeepers of the activity of the master regulator of mitochondria, PGC-1alpha, are vital links in a regulatory network for metabolic homeostasis. Together, these players explain many of the beneficial effects of physical activity and dietary interventions in our battle against type 2 diabetes and related metabolic disorders. Hence, understanding the mechanisms by which they act could guide us to identify and improve preventive and therapeutic strategies for metabolic diseases.",
+  "type": "academic",
+  "pdf_url": "http://infoscience.epfl.ch/record/135475"
+}

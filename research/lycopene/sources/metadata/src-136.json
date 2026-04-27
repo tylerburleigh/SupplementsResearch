@@ -1,0 +1,20 @@
+{
+  "id": "src-136",
+  "title": "Associations between serum micronutrients and all-cause, cancer, and cardiovascular mortality in a national representative population: Mediated by inflammatory biomarkers.",
+  "authors": [
+    "Liu, Chunliang",
+    "Wongsonegoro, Harrison",
+    "Sheng, Tianchen",
+    "Fan, Hao",
+    "Zhang, Jianjun"
+  ],
+  "doi": "10.1016/j.redox.2025.103573",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40023976",
+  "provider": "pubmed",
+  "year": 2025,
+  "venue": "Redox biology",
+  "citation_count": 0,
+  "abstract": "BACKGROUND: Micronutrient intake was inversely associated with cancer and cardiovascular risk in previous studies, but obtained results were inconsistent and the biological mechanisms for this potential protective effect remain elusive. Therefore, we investigated the associations of serum vitamin C, 25(OH)D, α-tocopherol, β-carotene, lycopene, folate, and iron with all-cause, cancer, and cardiovascular mortality. We further evaluated whether these associations were mediated through altered inflammatory responses.\nMETHODS: Data were obtained from 11,539 participants aged ≥40 years in the National Health and Nutrition Examination Survey (NHANES) in 2001-2006 and 2017-2018. Mortality status of the participants with an average follow-up of 10.5 years was ascertained from the linked mortality files of the National Death Index. Cox proportional hazards regression was performed to evaluate mortality risk in relation to serum micronutrients, while mediation analysis was used to assess the mediating effects of serum C-reactive protein and white blood cell count on the associations of interest.\nRESULTS: After adjustment for confounders, serum levels of vitamin C, 25(OH)D, β-carotene, and lycopene were associated with a reduced risk of death from all causes, cancer, and cardiovascular disease. For example, HRs (95 % CIs) for quartiles 2, 3, and 4 vs. quartile 1 of 25(OH)D were, respectively, 0.72 (0.62, 0.83), 0.70 (0.62, 0.79), and 0.66 (0.56, 0.78) (p-trend: <0.0001) for all-cause mortality, 0.68 (0.52, 0.91), 0.54 (0.39, 0.73), and 0.48 (0.32, 0.71) (p-trend: 0.0001) for cancer mortality, and 0.64 (0.50, 0.83), 0.66 (0.53, 0.83), and 0.59 (0.42, 0.82) (p-trend: 0.0012) for cardiovascular mortality. Additionally, serum C-reactive protein significantly mediated 5.3%-20.4 %, 4.5%-18.1 %, and 3.3%-15.7 % of the associations of vitamin C, 25(OH)D, β-carotene, and lycopene with all-cause, cancer, and cardiovascular mortality, respectively.\nCONCLUSION: This study suggested that serum levels of several antioxidants and vitamin D were inversely associated with all-cause, cancer, and cardiovascular mortality, mediated in part by mitigated inflammatory responses.",
+  "type": "academic",
+  "pdf_url": ""
+}

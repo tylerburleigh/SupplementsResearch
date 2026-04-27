@@ -1,0 +1,76 @@
+5	2	Review
+10	2	Abstract
+35	2	Introduction
+128	2	Nadh
+131	2	Fad
+182	2	Nad
+243	2	Naad Nad
+244	2	Nmn
+247	2	Qprt
+248	2	Nmnat
+249	2	Nads
+250	2	Napt
+251	2	Nampt
+252	2	Nrk
+254	2	Nam
+258	2	Nmnat
+324	2	Nad
+440	2	Nad
+523	2	Nad
+544	2	Nad
+553	2	Nad
+755	2	Acknowledgements
+757	2	Competing Interests
+762	2	References
+773	2	4. Asher G, Reinke H, Altmeyer M, Gutierrez-Arcelus M, Hottiger MO,
+777	2	5. Bai P , Canto C, Brunyanszki A, Huber A, Szanto M, Cen Y, Yamamoto H,
+781	2	6. Bai P , Canto C, Oudart H, Brunyanszki A, Cen Y, Thomas C, Yamamoto H,
+785	2	7. Banks AS, Kon N, Knight C, Matsumoto M, Gutierrez-Juarez R, Rossetti L,
+789	2	8. Barbosa MT, Soares SM, Novak CM, Sinclair D, Levine JA, Aksoy P ,
+797	2	10. Baur JA, Pearson KJ, Price NL, Jamieson HA, Lerin C, Kalra A, Prabhu
+818	2	16. Bordone L, Cohen D, Robinson A, Motta MC, van Veen E, Czopik A,
+822	2	17. Braidy N, Guillemin GJ, Mansour H, Chan-Ling T, Poljak A, Grant R
+827	2	18. Brown KD, Maqsood S, Huang JY, Pan Y, Harkcom W, Li W, Sauve
+841	2	22. Canto C, Gerhart-Hines Z, Feige JN, Lagouge M, Noriega L, Milne JC,
+846	2	23. Canto C, Houtkooper RH, Pirinen E, Youn DY, Oosterveer MH, Cen Y,
+851	2	24. Canto C, Jiang LQ, Deshmukh AS, Mataki C, Coste A, Lagouge M, Zierath
+858	2	26. Cerutti R, Pirinen E, Lamperti C, Marchet S, Sauve AA, Li W, Leoni V,
+871	2	30. Costford SR, Bajpeyi S, Pasarica M, Albarado DC, Thomas SC, Xie H,
+876	2	31. Cote CD, Rasmussen BA, Duca FA, Zadeh-Tahmasebi M, Baur JA, Daljeet
+892	2	37. Du J, Zhou Y, Su X, Yu JJ, Khan S, Jiang H, Kim J, Woo J, Kim JH, Choi
+898	2	39. Fang EF, Scheibye-Knudsen M, Brace LE, Kassahun H, SenGupta T,
+910	2	Nad
+914	2	42. Fulco M, Cen Y, Zhao P , Hoffman EP , McBurney MW, Sauve AA, Sartorelli
+923	2	45. Gomes AP , Price NL, Ling AJ, Moslehi JJ, Montgomery MK, Rajman L,
+928	2	46. Gong B, Pan Y, Vempati P , Zhao W, Knable L, Ho L, Wang J, Sastre M,
+938	2	48. Haigis MC, Mostoslavsky R, Haigis KM, Fahie K, Christodoulou DC,
+954	2	Nad
+960	2	55. Houtkooper RH, Mouchiroud L, Ryu D, Moullan N, Katsyuba E, Knott
+967	2	57. Jeong SM, Xiao C, Finley LW, Lahusen T, Souza AL, Pierce K, Li YH, Wang
+972	2	58. Julien C, Tremblay C, Emond V, Lebbadi M, Salem N Jr, Bennett DA,
+976	2	59. Kang-Lee YA, McKee RW, Wright SM, Swendseid ME, Jenden DJ, Jope RS
+979	2	60. Khan NA, Auranen M, Paetau I, Pirinen E, Euro L, Forsstrom S, Pasila L,
+985	2	62. Lagouge M, Argmann C, Gerhart-Hines Z, Meziane H, Lerin C, Daussin
+1002	2	67. Massudi H, Grant R, Braidy N, Guest J, Farnsworth B, Guillemin GJ
+1009	2	69. Miyo M, Yamamoto H, Konno M, Colvin H, Nishida N, Koseki J,
+1013	2	70. Morava E, van den Heuvel L, Hol F, de Vries MC, Hogeveen M, Roden-
+1020	2	72. Mouchiroud L, Houtkooper RH, Moullan N, Katsyuba E, Ryu D, Canto C,
+1038	2	77. Pirinen E, Canto C, Jo YS, Morato L, Zhang H, Menzies KJ, Williams
+1043	2	78. Pittelli M, Felici R, Pitozzi V, Giovannelli L, Bigagli E, Cialdai F, Romano
+1047	2	79. Pittelli M, Formentini L, Faraco G, Lapucci A, Rapizzi E, Cialdai F, Romano
+1057	2	81. Qin W, Yang T, Ho L, Zhao Z, Wang J, Chen L, Zhao W, Thiyagarajan M,
+1066	2	83. Ramsey KM, Yoshino J, Brace CS, Abrassart D, Kobayashi Y, Marcheva
+1074	2	85. Revollo JR, Korner A, Mills KF, Satoh A, Wang T, Garten A, Dasgupta B,
+1087	2	89. Santidrian AF, Matsuno-Yagi A, Ritland M, Seo BB, LeBoeuf SE, Gay LJ,
+1115	2	98. Skidmore CJ, Davies MI, Goodwin PM, Halldorsson H, Lewis PJ, Shall S,
+1119	2	99. Someya S, Yu W, Hallows WC, Xu J, Vann JM, Leeuwenburgh C, Tanokura
+1127	2	101. Srivastava S, Diaz F, Iommarini L, Aure K, Lombes A, Moraes CT
+1135	2	103. Tateishi K, Wakimoto H, Iafrate AJ, Tanaka S, Loebel F, Lelic N, Wieder-
+1140	2	104. Teng YB, Jing H, Aramsangtienchai P , He B, Khan S, Hu J, Lin H, Hao Q
+1165	2	111. Viscomi C, Bottani E, Civiletto G, Cerutti R, Moggio M, Fagiolari G, Schon
+1173	2	113. Wang RH, Sengupta K, Li C, Kim HS, Cao L, Xiao C, Kim S, Xu X, Zheng
+1179	2	115. Yang H, Yang T, Baur JA, Perez E, Matsui T, Carmona JJ, Lamming DW,
+1184	2	116. Yang L, Zhang J, Xing W, Zhang X, Xu J, Zhang H, Chen L, Ning X,
+1189	2	117. Yang W, Zou Y, Zhang M, Zhao N, Tian Q, Gu M, Liu W, Shi R, Lu Y, Yu W
+1197	2	119. Yu W, Denu RA, Krautkramer KA, Grindle KM, Yang DT, Asimakopoulos
+1214	2	122. Zhang T, Berrocal JG, Frizzell KM, Gamble MJ, DuMond ME, Krishnaku-

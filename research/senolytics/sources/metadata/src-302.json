@@ -1,0 +1,29 @@
+{
+  "id": "src-302",
+  "title": "Novel lung imaging biomarkers and skin gene expression subsetting in dasatinib treatment of systemic sclerosis-associated interstitial lung disease",
+  "authors": [
+    "Martyanov, V.",
+    "Kim, G.",
+    "Hayes, W.",
+    "Du, S.",
+    "Ganguly, B.",
+    "Sy, O.",
+    "Lee, Sun Ku",
+    "Bogatkevich, G.",
+    "Schieven, G.",
+    "Schiopu, E.",
+    "Marangoni, R.",
+    "Goldin, J.",
+    "Whitfield, M.",
+    "Varga, J."
+  ],
+  "doi": "10.1371/journal.pone.0187580",
+  "url": "https://www.semanticscholar.org/paper/bfa1d94362f618289897f4bec86bf972703f3b4e",
+  "provider": "semantic_scholar",
+  "year": 2017,
+  "venue": "PLoS ONE",
+  "citation_count": 70,
+  "abstract": "BACKGROUND\nThere are no effective treatments or validated clinical response markers in systemic sclerosis (SSc). We assessed imaging biomarkers and performed gene expression profiling in a single-arm open-label clinical trial of tyrosine kinase inhibitor dasatinib in patients with SSc-associated interstitial lung disease (SSc-ILD).\n\nMETHODS\nPrimary objectives were safety and pharmacokinetics. Secondary outcomes included clinical assessments, quantitative high-resolution computed tomography (HRCT) of the chest, serum biomarker assays and skin biopsy-based gene expression subset assignments. Clinical response was defined as decrease of >5 or >20% from baseline in the modified Rodnan Skin Score (MRSS). Pulmonary function was assessed at baseline and day 169.\n\nRESULTS\nDasatinib was well-tolerated in 31 patients receiving drug for a median of nine months. No significant changes in clinical assessments or serum biomarkers were seen at six months. By quantitative HRCT, 65% of patients showed no progression of lung fibrosis, and 39% showed no progression of total ILD. Among 12 subjects with available baseline and post-treatment skin biopsies, three were improvers and nine were non-improvers. Improvers mapped to the fibroproliferative or normal-like subsets, while seven out of nine non-improvers were in the inflammatory subset (p = 0.0455). Improvers showed stability in forced vital capacity (FVC) and diffusing capacity for carbon monoxide (DLCO), while both measures showed a decline in non-improvers (p = 0.1289 and p = 0.0195, respectively). Inflammatory gene expression subset was associated with higher baseline HRCT score (p = 0.0556). Non-improvers showed significant increase in lung fibrosis (p = 0.0313).\n\nCONCLUSIONS\nIn patients with SSc-ILD dasatinib treatment was associated with acceptable safety profile but no significant clinical efficacy. Patients in the inflammatory gene expression subset showed increase in skin fibrosis, decreasing pulmonary function and worsening lung fibrosis during the study. These findings suggest that target tissue-specific gene expression analyses can help match patients and therapeutic interventions in heterogeneous diseases such as SSc, and quantitative HRCT is useful for assessing clinical outcomes.\n\nTRIAL REGISTRATION\nClinicaltrials.gov NCT00764309.",
+  "type": "academic",
+  "pdf_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0187580&type=printable"
+}

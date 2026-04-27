@@ -1,0 +1,17 @@
+{
+  "id": "src-050",
+  "title": "Role of Oxidants in Lung Injury During Sepsis",
+  "authors": [
+    "Guo, Ren-Feng",
+    "Ward, Peter A."
+  ],
+  "doi": "10.1089/ars.2007.1785",
+  "url": "https://openalex.org/W2039930671",
+  "provider": "openalex",
+  "year": 2007,
+  "venue": "Antioxidants and Redox Signaling",
+  "citation_count": 250,
+  "abstract": "The role of oxidative stress has been well appreciated in the development of sepsis-induced acute lung injury (ALI). Oxidative stress in sepsis-induced ALI is believed to be initiated by products of activated lung macrophages and infiltrated neutrophils, promptly propagating to lung epithelial and endothelial cells. This leads to tissue damage and organ dysfunction. On stimulation, neutrophils (PMNs) enable their migration machinery. The lung undergoes changes favoring adhesion and transmigration of PMNs, resulting in PMN accumulation in lung, which is a characteristic of sepsis-induced ALI. Oxidative stress turns on the redox-sensitive transcription factors (NF-kappaB, AP-1), resulting in a large output of proinflammatory cytokines and chemokines, which further aggravate inflammation and oxidative stress. During the process, transcription factor nuclear factor-erythroid 2-p45-related factor 2 (Nrf2) and heme oxygenase (HO) appear to play the counterbalancing roles to limit the propagation of oxidative stress and inflammatory responses in lung. Many antioxidants have been tested to treat sepsis-induced ALI in animal models and in patients with sepsis. However, the results are inconclusive. In this article, we focus on the current understanding of the pathogenesis of sepsis-induced ALI and novel antioxidant strategies for therapeutic purposes.",
+  "type": "academic",
+  "pdf_url": "https://hdl.handle.net/2027.42/63316"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "src-378",
+  "title": "Iron intake, body iron status, and risk of breast cancer: a systematic review and meta-analysis.",
+  "authors": [
+    "Chang, Vicky C",
+    "Cotterchio, Michelle",
+    "Khoo, Edwin"
+  ],
+  "doi": "10.1186/s12885-019-5642-0",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/31170936",
+  "provider": "pubmed",
+  "year": 2019,
+  "venue": "BMC cancer",
+  "citation_count": 0,
+  "abstract": "BACKGROUND: Iron has been shown to promote breast carcinogenesis in animal models through generation of oxidative stress and interaction with estrogen. Heme iron, which is found exclusively in animal-sourced foods, is suggested to have a more detrimental effect. Epidemiological evidence of the association between iron and breast cancer risk remains inconclusive and has not been comprehensively summarized. This systematic review and meta-analysis evaluated associations between both iron intake and body iron status and breast cancer risk.\nMETHODS: Four electronic databases (MEDLINE, EMBASE, CINAHL, and Scopus) were searched up to December 2018 for studies assessing iron intake and/or biomarkers of iron status in relation to breast cancer risk. Using random-effects meta-analyses, pooled relative risks (RRs) and 95% confidence intervals (CIs) were calculated comparing the highest vs. lowest category of each iron measure. Dose-response meta-analyses were also performed to investigate linear and nonlinear associations.\nRESULTS: A total of 27 studies were included in the review, of which 23 were eligible for meta-analysis of one or more iron intake/status measures. Comparing the highest vs. lowest category, heme iron intake was significantly associated with increased breast cancer risk, with a pooled RR of 1.12 (95% CI: 1.04-1.22), whereas no associations were found for dietary (1.01, 95% CI: 0.89-1.15), supplemental (1.02, 95% CI: 0.91-1.13), or total (0.97, 95% CI: 0.82-1.14) iron intake. Associations of iron status indicators with breast cancer risk were generally in the positive direction; however, a significant pooled RR was found only for serum/plasma levels (highest vs. lowest) of iron (1.22, 95% CI: 1.01-1.47), but not for ferritin (1.13, 95% CI: 0.78-1.62), transferrin saturation (1.16, 95% CI: 0.91-1.47), or total iron-binding capacity (1.10, 95% CI: 0.97-1.25). In addition, a nonlinear dose-response was observed for heme iron intake and serum iron (both Pnonlinearity < 0.05).\nCONCLUSIONS: Heme iron intake and serum iron levels may be positively associated with breast cancer risk. Although associations were modest, these findings may have public health implications given the widespread consumption of (heme) iron-rich foods. In light of methodological and research gaps identified, further research is warranted to better elucidate the relationship between iron and breast cancer risk.",
+  "type": "academic",
+  "pdf_url": ""
+}

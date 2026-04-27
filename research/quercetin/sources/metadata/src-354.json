@@ -1,0 +1,20 @@
+{
+  "id": "src-354",
+  "title": "Therapeutic targeting of senescent cells in the CNS.",
+  "authors": [
+    "Riessland, Markus",
+    "Ximerakis, Methodios",
+    "Jarjour, Andrew A",
+    "Zhang, Bin",
+    "Orr, Miranda E"
+  ],
+  "doi": "10.1038/s41573-024-01033-z",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39349637",
+  "provider": "pubmed",
+  "year": 2024,
+  "venue": "Nature reviews. Drug discovery",
+  "citation_count": 0,
+  "abstract": "Senescent cells accumulate throughout the body with advanced age, diseases and chronic conditions. They negatively impact health and function of multiple systems, including the central nervous system (CNS). Therapies that target senescent cells, broadly referred to as senotherapeutics, recently emerged as potentially important treatment strategies for the CNS. Promising therapeutic approaches involve clearing senescent cells by disarming their pro-survival pathways with 'senolytics'; or dampening their toxic senescence-associated secretory phenotype (SASP) using 'senomorphics'. Following the pioneering discovery of first-generation senolytics dasatinib and quercetin, dozens of additional therapies have been identified, and several promising targets are under investigation. Although potentially transformative, senotherapies are still in early stages and require thorough testing to ensure reliable target engagement, specificity, safety and efficacy. The limited brain penetrance and potential toxic side effects of CNS-acting senotherapeutics pose challenges for drug development and translation to the clinic. This Review assesses the potential impact of senotherapeutics for neurological conditions by summarizing preclinical evidence, innovative methods for target and biomarker identification, academic and industry drug development pipelines and progress in clinical trials.",
+  "type": "academic",
+  "pdf_url": ""
+}

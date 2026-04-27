@@ -1,0 +1,19 @@
+{
+  "id": "src-162",
+  "title": "Combining 26s rDNA and the Cre-loxP System for Iterative Gene Integration and Efficient Marker Curation in Yarrowia lipolytica.",
+  "authors": [
+    "Lv, Yongkun",
+    "Edwards, Harley",
+    "Zhou, Jingwen",
+    "Xu, Peng"
+  ],
+  "doi": "10.1021/acssynbio.8b00535",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/30695641",
+  "provider": "pubmed",
+  "year": 2019,
+  "venue": "ACS synthetic biology",
+  "citation_count": 0,
+  "abstract": "Conventional plasmid-based gene expression tends to introduce genetic instability and gene copy number variations that lead to degenerated production. The limited number of auxotrophic markers in Yarrowia lipolytica also restricts our ability to perform iterative genetic modifications and manipulate long gene clusters. To overcome these limitations, we combined the high recombination efficiency of the Cre-loxP system and the high integration rate of 26s rDNA, and developed a versatile framework to iteratively integrate multicopy metabolic pathways in Y. lipolytica. We demonstrated the efficient genome integration of a plant-derived flavonoid pathway at random sites with multiple copies. Transient expression of Cre recombinase enabled efficient marker removal and allowed for the next round of genome integration. Investigating the recombination events demonstrated that the iterative integration is happening at sufficiently high rates (more than 80%) without disrupting the previous integration. Both the flavonoid precursor pathway and the plant-derived cytochrome c P450 enzymes were functionally integrated to improve flavonoid and hydroxylated flavonoid production. The engineered strains produced 71.2 mg/L naringenin, 54.2 mg/L eriodyctiol, and 48.1 mg/L taxifolin. The reported work provides a versatile platform to iteratively integrate functional gene clusters at high copy numbers. This work may streamline and expand our capability to build efficient microbial cell factories for high-value natural products and commodity chemical production in Y. lipolytica.",
+  "type": "academic",
+  "pdf_url": ""
+}

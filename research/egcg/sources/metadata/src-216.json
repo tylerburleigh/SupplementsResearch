@@ -1,0 +1,25 @@
+{
+  "id": "src-216",
+  "title": "The influence of green tea extract on nintedanib's bioavailability in patients with pulmonary fibrosis.",
+  "authors": [
+    "Veerman, G D Marijn",
+    "van der Werff, Sanne C",
+    "Koolen, Stijn L W",
+    "Miedema, Jelle R",
+    "Oomen-de Hoop, Esther",
+    "van der Mark, Sophie C",
+    "Chandoesing, Prewesh P",
+    "de Bruijn, Peter",
+    "Wijsenbeek, Marlies S",
+    "Mathijssen, Ron H J"
+  ],
+  "doi": "10.1016/j.biopha.2022.113101",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35594703",
+  "provider": "pubmed",
+  "year": 2022,
+  "venue": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+  "citation_count": 0,
+  "abstract": "Nintedanib is an oral small-molecule kinase inhibitor and first-line treatment for idiopathic pulmonary fibrosis. Nintedanib is a substrate of the drug efflux transporter ABCB1. Green tea flavonoids --especially epigallocatechin gallate (EGCG)-- are potent ABCB1 modulators. We investigated if concomitant administration of green tea extract (GTE) could result in a clinically relevant herb-drug interaction. Patients were randomized between A-B and B-A, with A being nintedanib alone and B nintedanib with GTE. Both periods lasted 7 days, in which nintedanib was administered twice daily directly after a meal. In period B, patients additionally received capsules with GTE (500 mg BID, >60% EGCG). Pharmacokinetic sampling for 12 h was performed at day 7 of each period. Primary endpoint was change in geometric mean for the area under the curve (AUC0-12 h). A linear mixed model was used to analyse AUCs and maximal concentration (Cmax). In 26 included patients, the nintedanib AUC0-12 h was 21% lower (95% CI -29% to -12%; P < 0.001) in period B (with GTE) compared to period A. Cmax did not differ significantly between periods; - 14% (95% CI -29% to +4%; P = 0.12). The detrimental effect was predominant in patients with the ABCB1 3435 C>T wild type variant. No differences in toxicities were observed. Exposure to nintedanib decreased with 21% when administered 60 min after GTC for only 7 days. This is a statistically significant interaction which could potentially impair treatment efficacy. Before patients and physicians should definitely be warned to avoid this combination, prospective clinical validation of an exposure-response relationship is necessary.",
+  "type": "academic",
+  "pdf_url": ""
+}

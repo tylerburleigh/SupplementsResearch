@@ -1,0 +1,21 @@
+{
+  "id": "src-294",
+  "title": "Effects of lycopene on protein expression in human primary prostatic epithelial cells.",
+  "authors": [
+    "Qiu, Xi",
+    "Yuan, Yang",
+    "Vaishnav, Avani",
+    "Tessel, Michael A",
+    "Nonn, Larisa",
+    "van Breemen, Richard B"
+  ],
+  "doi": "10.1158/1940-6207.capr-12-0364",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/23483004",
+  "provider": "pubmed",
+  "year": 2013,
+  "venue": "Cancer prevention research (Philadelphia, Pa.)",
+  "citation_count": 0,
+  "abstract": "Clinical trials and animal studies have suggested that lycopene, the red carotenoid found in tomatoes, might be useful for the prevention of prostate cancer in the diet or as a dietary supplement through a variety of chemoprevention mechanisms. As most mechanism of action studies have used prostate cancer cells or males with existing prostate cancer, we investigated the effects of lycopene on protein expression in human primary prostatic epithelial cells. After treatment with lycopene at a physiologically relevant concentration (2 μmol/L) or placebo for 48 hours, the primary prostatic epithelial cells were lysed and fractionated using centrifugation into cytosolic/membrane and nuclear fractions. Proteins from lycopene-treated and placebo-treated cells were trypsinized and derivatized for quantitative proteomics using isobaric tags for relative and absolute quantitation (iTRAQ) reagent. Peptides were analyzed using two-dimensional microcapillary high-performance liquid chromatography-tandem mass spectrometry to identify proteins that were significantly upregulated or downregulated following lycopene exposure. Proteins that were most affected by lycopene were those involved in antioxidant responses, cytoprotection, apoptosis, growth inhibition, androgen receptor signaling, and the Akt/mTOR cascade. These data are consistent with previous studies suggesting that lycopene can prevent cancer in human prostatic epithelial cells at the stages of cancer initiation, promotion, and/or progression.",
+  "type": "academic",
+  "pdf_url": ""
+}

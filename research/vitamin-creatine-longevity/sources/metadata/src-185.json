@@ -1,0 +1,37 @@
+{
+  "id": "src-185",
+  "title": "From strength to cognition: The expanding role of creatine supplementation in health and disease",
+  "authors": [
+    "Tomczyk, Aleksandra",
+    "Kożuchowska, Klaudia",
+    "Pilarz, Dawid",
+    "Kwiatkowski, Filip",
+    "Olkowski, Michał",
+    "Jarosz, Kinga",
+    "Wydrych, Andrzej"
+  ],
+  "year": 2025,
+  "abstract": "Introduction and aim. Creatine monohydrate is one of the most extensively studied and widely used nutritional supplements, primarily recognized for its role in the improvement of skeletal muscle energetics and physical performance. However, mounting amount of evidence now supports its broader physiological impact beyond exercise, particularly in domains such as neuromuscular aging, cognitive function, and post-viral fatigue syndromes. The purpose of this narrative review is to comprehensively evaluate the effects of creatine supplementation across various domains of human health, including sports performance, cognitive function, aging-related outcomes, and post-viral fatigue syndromes such as long COVID. Particular attention is given to the impact of creatine on muscle strength, power output, recovery from exercise-induced muscle damage, neuroprotective mechanisms, and quality of life in different populations. By synthesis of findings from randomised controlled trials and recent clinical studies, this review seeks to clarify both the efficacy and safety profile of creatine, as well as its potential role as an adjunctive therapeutic strategy beyond traditional athletic contexts.\n\nDescription of the state of knowledge. Creatine augments intramuscular phosphocreatine stores, thereby optimising ATP resynthesis during high-intensity exercise and promoting anabolic adaptations. Neuroprotective mechanisms involve mitochondrial stabilisation, antioxidant activity, and modulation of neurotransmitter systems. These effects are mediated by systemic and cellular alterations in energy metabolism, hormone profiles, and inflammatory pathways.\n\nMaterial and methods. This review was conducted following a narrative approach. Scientific publications were identified through a structured search of electronic databases including PubMed, Scopus, and Google Scholar, focusing on studies published between 2000 and 2025. Search terms included “creatine supplementation”, “exercise performance”, “cognition”, “aging”, “long COVID”, “muscle recovery”, and related keywords. Only peer-reviewed articles written in the English language were considered. The selection included randomised controlled trials, meta-analyses, and clinically relevant pilot studies. Additionally, to provide a comprehensive context for creatine use, related review articles, official regulatory documents, market reports, and position statements from authoritative organisations were also included.\n\nConclusions. Clinical trials demonstrate significant improvements in muscular performance parameters, cognitive processing speed, depressive symptomatology, and markers of muscle damage andregenerative capacity. . The collective evidence supports creatine as a pleiotropic agent with potential applications extending beyond traditional sports nutrition into therapeutic domains addressing neurodegeneration, mood disorders, and post-viral fatigue syndromes. Given its broad applicability and favorable safety profile, creatine may hold value as a low-cost, scalable intervention in public health strategies aimed at promoting healthy aging, physical resilience, and cognitive well-being.",
+  "doi": "10.12923/2083-4829/2025-0008",
+  "url": "https://doi.org/10.12923/2083-4829/2025-0008",
+  "pdf_url": "",
+  "venue": "Polish Journal of Public Health",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T14:04:43.052920+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-185.md",
+  "quality_details": {
+    "content_length": 46840,
+    "alpha_ratio": 0.789,
+    "sentence_count": 332,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

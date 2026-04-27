@@ -1,0 +1,18 @@
+{
+  "id": "src-336",
+  "title": "Post-marketing safety of tralokinumab: a real-world pharmacovigilance study based on the FDA adverse event reporting system",
+  "authors": [
+    "Yang, Zeping",
+    "Tang, Kejing",
+    "Chen, Jie"
+  ],
+  "doi": "10.1080/14740338.2024.2410434",
+  "url": "https://www.semanticscholar.org/paper/724c9b046569ed3debd7ee738b8ee4b329cc6b9f",
+  "provider": "semantic_scholar",
+  "year": 2024,
+  "venue": "Expert Opinion on Drug Safety",
+  "citation_count": 3,
+  "abstract": "ABSTRACT Background Tralokinumab is a fully human IgG4 monoclonal antibody targeting IL-13, used for treating atopic dermatitis. This study analyzed tralokinumab-related adverse drug events by mining the Food and Drug Administration Adverse Event Reporting System (FAERS) database to provide a safety reference for clinical application. Methods Adverse drug event reports from Q1 2022 to Q2 2024 were extracted from the FAERS database. After standardizing the data, various signal detection methods were used for analysis, including ROR, PRR, BCPNN, and MGPS. Results A total of 1,820 reports of adverse events (AEs) with tralokinumab as the primary suspected drug were identified. 70 preferred terms (PTs) met the criteria across four signal detection methods, involving 11 system organ classes (SOCs). These included known adverse reactions like conjunctivitis and injection site reactions, and signals not previously reported in clinical trials, such as eye pruritus, dry eye, eye swelling, pneumonia pneumococcal, and cutaneous T-cell lymphoma. Most AEs occurred within one month of initiating tralokinumab treatment. Conclusions Based on the FAERS database, this study comprehensively and systematically analyzed AE signals in tralokinumab treatment. The results enhance the understanding of tralokinumab’s safety and serve as valuable references for reducing the risk of adverse reactions during clinical use.",
+  "type": "academic",
+  "pdf_url": ""
+}

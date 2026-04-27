@@ -1,0 +1,25 @@
+{
+  "id": "src-310",
+  "title": "Regulating Mitochondrial Aging via Targeting the Gut-Bone Axis in BMSCs With Oral Hydrogel Microspheres to Inhibit Bone Loss.",
+  "authors": [
+    "Qu, Xiao",
+    "Xie, Zhou",
+    "Zhang, Jun",
+    "Huang, Yanran",
+    "Zhao, Runhan",
+    "Li, Ningdao",
+    "Wang, Juan",
+    "Chen, Liang",
+    "Cui, Wenguo",
+    "Luo, Xiaoji"
+  ],
+  "doi": "10.1002/smll.202409936",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39629509",
+  "provider": "pubmed",
+  "year": 2025,
+  "venue": "Small (Weinheim an der Bergstrasse, Germany)",
+  "citation_count": 0,
+  "abstract": "The gut-bone axis is a promising target for osteoporosis treatment, yet existing delivery systems lack precise targeting. Herein, an oral hydrogel microsphere system (E7-Lipo@Alg/Cs) is developed using gas microfluidic and ionic crosslinking technologies to deliver drugs to bone marrow mesenchymal stem cells (BMSCs) via the gut-bone axis, regulating mitochondrial aging. A BMSC-affine peptide is conjugated onto liposomes encapsulating Fisetin, followed by incorporation into alginate-calcium hydrogel microspheres. Chitosan is electrostatically adsorbed onto the microsphere surface, creating a core-shell structure that adheres to intestinal epithelial cells, withstands gastric acid, and facilitates targeted delivery to BMSCs through the intestinal-bone axis. In vitro, the system effectively enhances mitochondrial function and reverses BMSC aging, while in vivo studies demonstrate prolonged drug activity, restored osteogenic differentiation, and bone regeneration. RNA-seq indicates activation of the AMPK-SIRT1 pathway, reversing mitochondrial aging in BMSCs and promoting aged bone tissue regeneration. This oral hydrogel microsphere system provides a targeted and efficient strategy for regulating mitochondrial function and preventing bone loss, offering significant clinical potential for osteoporosis treatment.",
+  "type": "academic",
+  "pdf_url": ""
+}

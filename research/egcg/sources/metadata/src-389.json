@@ -1,0 +1,18 @@
+{
+  "id": "src-389",
+  "title": "Proline and ROS: A Unified Mechanism in Plant Development and Stress Response?",
+  "authors": [
+    "Renzetti, Marco",
+    "Funck, D.",
+    "Trovato, M."
+  ],
+  "doi": "10.3390/plants14010002",
+  "url": "https://www.semanticscholar.org/paper/a1864b49c0365fce2f4776ad2622931bdac7e10e",
+  "provider": "semantic_scholar",
+  "year": 2024,
+  "venue": "Plants",
+  "citation_count": 115,
+  "abstract": "The proteinogenic amino acid proline plays crucial roles in both plant development and stress responses, far exceeding its role in protein synthesis. However, the molecular mechanisms and the relative importance of these additional functions of proline remain under study. It is well documented that both stress responses and developmental processes are associated with proline accumulation. Under stress conditions, proline is believed to confer stress tolerance, while under physiological conditions, it assists in developmental processes, particularly during the reproductive phase. Due to proline’s properties as a compatible osmolyte and potential reactive oxygen species (ROS) scavenger, most of its beneficial effects have historically been attributed to the physicochemical consequences of its accumulation in plants. However, emerging evidence points to proline metabolism as the primary driver of these beneficial effects. Recent reports have shown that proline metabolism, in addition to supporting reproductive development, can modulate root meristem size by controlling ROS accumulation and distribution in the root meristem. The dynamic interplay between proline and ROS highlights a sophisticated regulatory network essential for plant resilience and survival. This fine-tuning mechanism, enabled by the pro-oxidant and antioxidant properties of compartmentalized proline metabolism, can modulate redox balance and ROS homeostasis, potentially explaining many of the multiple roles attributed to proline. This review uniquely integrates recent findings on the dual role of proline in both ROS scavenging and signaling, provides an updated overview of the most recent research published to date, and proposes a unified mechanism that could account for many of the multiple roles assigned to proline in plant development and stress defense. By focusing on the interplay between proline and ROS, we aim to provide a comprehensive understanding of this proposed mechanism and highlight the potential applications in improving crop resilience to environmental stress. Additionally, we address current gaps in understanding and suggest future research directions to further elucidate the complex roles of proline in plant biology.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.3390/plants14010002"
+}

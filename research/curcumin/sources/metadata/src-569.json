@@ -1,0 +1,17 @@
+{
+  "id": "src-569",
+  "title": "Anticancer potential of curcumin: preclinical and clinical studies.",
+  "authors": [
+    "Aggarwal, Bharat B.",
+    "Kumar, Anushree",
+    "Bharti, Alok C."
+  ],
+  "url": "https://openalex.org/W296450459",
+  "provider": "openalex",
+  "year": 2003,
+  "venue": "PubMed",
+  "citation_count": 2575,
+  "abstract": "Curcumin (diferuloylmethane) is a polyphenol derived from the plant Curcuma longa, commonly called turmeric. Extensive research over the last 50 years has indicated this polyphenol can both prevent and treat cancer. The anticancer potential of curcumin stems from its ability to suppress proliferation of a wide variety of tumor cells, down-regulate transcription factors NF-kappa B, AP-1 and Egr-1; down-regulate the expression of COX2, LOX, NOS, MMP-9, uPA, TNF, chemokines, cell surface adhesion molecules and cyclin D1; down-regulate growth factor receptors (such as EGFR and HER2); and inhibit the activity of c-Jun N-terminal kinase, protein tyrosine kinases and protein serine/threonine kinases. In several systems, curcumin has been described as a potent antioxidant and anti-inflammatory agent. Evidence has also been presented to suggest that curcumin can suppress tumor initiation, promotion and metastasis. Pharmacologically, curcumin has been found to be safe. Human clinical trials indicated no dose-limiting toxicity when administered at doses up to 10 g/day. All of these studies suggest that curcumin has enormous potential in the prevention and therapy of cancer. The current review describes in detail the data supporting these studies.",
+  "type": "academic",
+  "pdf_url": ""
+}

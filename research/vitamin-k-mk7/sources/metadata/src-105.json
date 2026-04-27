@@ -1,0 +1,21 @@
+{
+  "id": "src-105",
+  "title": "Phosphate binders affect vitamin K concentration by undesired binding, an in vitro study",
+  "authors": [
+    "Neradová, Aegida",
+    "Schumacher, Stefan",
+    "Hubeek, Isabelle",
+    "Lux, Petra",
+    "Schurgers, Leon J.",
+    "Vervloet, Marc"
+  ],
+  "doi": "10.1186/s12882-017-0560-3",
+  "url": "https://openalex.org/W2610218469",
+  "provider": "openalex",
+  "year": 2017,
+  "venue": "BMC Nephrology",
+  "citation_count": 58,
+  "abstract": "Sucroferric-oxyhydroxide and sevelamer carbonate were the only binders of the five binders studied that did not bind vitamin K2 in vitro. The presence or absence of phosphate significantly interferes with vitamin K2 binding so phosphate binders could potentially limit bioavailability vitamin K2.",
+  "type": "academic",
+  "pdf_url": "https://bmcnephrol.biomedcentral.com/counter/pdf/10.1186/s12882-017-0560-3"
+}

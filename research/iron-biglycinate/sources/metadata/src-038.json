@@ -1,0 +1,33 @@
+{
+  "id": "src-038",
+  "title": "How to diagnose iron deficiency in chronic disease: A review of current methods and potential marker for the outcome",
+  "authors": [
+    "Rohr, Martina",
+    "Brandenburg, Vincent",
+    "Brunner-La Rocca, Hans-Peter"
+  ],
+  "year": 2023,
+  "abstract": "AbstractIron deficiency (ID) is the most common nutritional disorder worldwide. It is often observed in patients with chronic diseases, such as heart failure (HF), chronic kidney disease (CKD), inflammatory bowel disease (IBD) and cancer. ID is associated with poor clinical outcome, including poor performance, reduced quality of life, as well as increased hospitalization and mortality. The aim of this review is to provide an overview about the role of ID in chronic diseases (HF, CKD, IBD, cancer) regarding their current definitions and clinical relevance; diagnostic accuracy of iron parameters in chronic inflammatory conditions and its potential as prognostic markers. Due to different definitions and guideline recommendations of ID, various laboratory parameters for ID diagnostic exist and there is no general consensus about the definition of ID and its treatment. Still, a general trend can be observed across all investigated indications of this review (HF, CKD, IBD, cancer) that serum ferritin and transferrin saturation (TSAT) are the two parameters mentioned most often and emphasized in all guidelines to define ID and guide treatment. The most commonly used threshold values for the diagnosis of ID are TSAT of &lt; 20% and serum ferritin of &lt; 100–300 µg/L. Noteworthy, both TSAT and particularly ferritin are frequently applied, but both may vary due to inflammatory conditions. Studies showed that TSAT is less affected by inflammatory processes and may therefore be more accurate and reliable than serum ferritin, particularly in conditions with elevated inflammatory state. A low iron status and particularly a low TSAT value was associated with a poor outcome in all investigated indications, with the strongest evidence in HF patients. Routine surveillance of iron status in these groups of patients with chronic conditions is advisable to detect ID early. Depending on the inflammatory state, TSAT &lt; 20% may be the more accurate diagnostic marker of ID than ferritin. Moreover, TSAT may also be the more reliable estimate for the prognosis, particularly in HF.",
+  "doi": "10.1186/s40001-022-00922-6",
+  "url": "https://doi.org/10.1186/s40001-022-00922-6",
+  "pdf_url": "",
+  "venue": "European Journal of Medical Research",
+  "citation_count": 59,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T18:00:05.394506+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-038.md",
+  "quality_details": {
+    "content_length": 65947,
+    "alpha_ratio": 0.699,
+    "sentence_count": 587,
+    "reasons": [
+      "paywall_page (access this article)"
+    ]
+  }
+}

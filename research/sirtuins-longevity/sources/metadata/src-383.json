@@ -1,0 +1,29 @@
+{
+  "id": "src-383",
+  "title": "Microbiome-based therapeutics towards healthier aging and longevity",
+  "authors": [
+    "Kadyan, Saurabh",
+    "Park, Gwoncheol",
+    "Singh, Tejinder Pal",
+    "Patoine, Cole",
+    "Singar, Saiful",
+    "Heise, Teresa",
+    "Domeier, Christin",
+    "Ray, Chester A.",
+    "Kumar, Manoj",
+    "Behare, Pradip V.",
+    "Chakrabarty, Paramita",
+    "Efron, Philip A.",
+    "Sheffler, Julia",
+    "Nagpal, Ravinder"
+  ],
+  "doi": "10.1186/s13073-025-01493-x",
+  "url": "https://openalex.org/W4411857770",
+  "provider": "openalex",
+  "year": 2025,
+  "venue": "Genome Medicine",
+  "citation_count": 30,
+  "abstract": "The gut microbiome is our lifetime companion, regulating our health from birth throughout the lifespan. The gut microbiome composition changes continually with age, influencing both physiological and immunological development. Emerging evidence highlights the close association, and thus implication, of the microbiome with healthy disease-free aging and longevity. Accordingly, targeting the gut microbiome is emerging as a promising avenue to prevent, alleviate, and ameliorate aging-related disorders. Herein, we provide a prospective and inclusive framework of the close connection of the gut microbiome with human aging, while contemplating how this association is intertwined with age-related diseases. We delve into recently emerging and potential microbiome-based therapeutics that are projected to aid in alleviating myriad aging-related diseases, thereby enhancing the health and well-being of the aging population. Finally, we present a foundation and perspective underlining the prospects of microbiome-based therapeutics developed and tailored precisely for the elderly, with the overarching goal of promoting health and longevity.",
+  "type": "academic",
+  "pdf_url": "https://genomemedicine.biomedcentral.com/counter/pdf/10.1186/s13073-025-01493-x"
+}

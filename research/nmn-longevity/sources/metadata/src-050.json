@@ -1,0 +1,44 @@
+{
+  "id": "src-050",
+  "title": "Nicotinamide mononucleotide (NMN) supplementation promotes anti-aging miRNA expression profile in the aorta of aged mice, predicting epigenetic rejuvenation and anti-atherogenic effects",
+  "authors": [
+    "Kiss, Tamas",
+    "Giles, Cory B.",
+    "Tarantini, Stefano",
+    "Yabluchanskiy, Andriy",
+    "Balasubramanian, Priya",
+    "Gautam, Tripti",
+    "Csipo, Tamas",
+    "Nyúl-Tóth, Ádám",
+    "Lipecz, Agnes",
+    "Szabo, Csaba",
+    "Farkas, Eszter",
+    "Wren, Jonathan D.",
+    "Csiszar, Anna",
+    "Ungvari, Zoltan"
+  ],
+  "year": 2019,
+  "abstract": "",
+  "doi": "10.1007/s11357-019-00095-x",
+  "url": "https://doi.org/10.1007/s11357-019-00095-x",
+  "pdf_url": "",
+  "venue": "GeroScience",
+  "citation_count": 101,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-23T13:47:51.595723+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-050.md",
+  "quality_details": {
+    "content_length": 55944,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

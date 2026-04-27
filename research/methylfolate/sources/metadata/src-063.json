@@ -1,0 +1,21 @@
+{
+  "id": "src-063",
+  "title": "Disturbed homocysteine metabolism is associated with cancer",
+  "authors": [
+    "Hasan, Tauheed",
+    "Arora, Reetika",
+    "Bansal, Aniket Kumar",
+    "Bhattacharya, Reshmee",
+    "Sharma, Gurumayum Suraj",
+    "Singh, Laishram Rajendrakumar"
+  ],
+  "doi": "10.1038/s12276-019-0216-4",
+  "url": "https://openalex.org/W2916301602",
+  "provider": "openalex",
+  "year": 2019,
+  "venue": "Experimental & Molecular Medicine",
+  "citation_count": 225,
+  "abstract": "Hyperhomocysteinemia/Homocysteinuria is characterized by an increased level of toxic homocysteine in the plasma. The plasma concentration of homocysteine is 5-15 μmol/L in healthy individuals, while in hyperhomocysteinemic patients, it can be as high as 500 μmol/L. While increased homocysteine levels can cause symptoms such as osteoporosis and eye lens dislocation, high homocysteine levels are most closely associated with cardiovascular complications. Recent advances have shown that increased plasma Hcy is also a fundamental cause of neurodegenerative diseases (including Alzheimer's disease, Parkinson's disease, and dementia), diabetes, Down syndrome, and megaloblastic anemia, among others. In recent years, increased plasma homocysteine has also been shown to be closely related to cancer. In this review, we discuss the relation between elevated plasma Hcy levels and cancer, and we conclude that disturbed homocysteine metabolism is associated with cancer. Future clinical perspectives are also discussed.",
+  "type": "academic",
+  "pdf_url": "https://www.nature.com/articles/s12276-019-0216-4.pdf"
+}

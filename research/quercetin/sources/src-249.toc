@@ -1,0 +1,22 @@
+45	2	1. Introduction
+280	2	2. Reactive Oxygen Species in Cancer
+281	2	2. Reactive Oxygen Species in Cancer
+489	2	Roo
+585	2	3. Antioxidant-Loaded Delivery Systems as Emerging Therapeutic Strategies against
+685	2	4. Enhanced
+818	2	5. They             from the
+1283	2	8. Cavacurmin                curcumin,
+1813	2	4. Controlled Drug Delivery Systems
+1842	2	Msc
+1845	2	Mec
+1918	3	4.1. Development of Controlled Drug Delivery Systems
+2030	3	4.2. Polymers for Controlled Drug Delivery
+2042	3	4.2. Polymers for Controlled Drug Delivery
+2095	3	4.3. Mechanisms of Drug Release from CDDS
+2266	3	4.4. Thermosensitive Smart Liposomes for Cancer Chemotherapy
+2290	4	4.4.1. Hyperthermia and Cancer
+2310	4	4.4.2. Thermosensitive  Smartgains importance
+2315	4	4.4.2. Thermosensitive Smart Liposomes as Drug Carriers
+2572	2	5. Case Study: Delivery Systems for Oral Cancer and Associated Diseases
+2948	2	6. Conclusions and Final Remarks
+3021	2	References

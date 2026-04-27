@@ -1,0 +1,22 @@
+{
+  "id": "src-234",
+  "title": "Targeted Sensitization of Leukemic T-cells to Anticancer Drugs by SIRT1 Agonist SRT-1720",
+  "authors": [
+    "Ivanova, D.",
+    "Lazarova, D.",
+    "Zhelev, Z.",
+    "Nikolova, B.",
+    "Hadjidekov, Vasil",
+    "Getsov, P.",
+    "Bakalova, R."
+  ],
+  "doi": "10.21873/anticanres.17981",
+  "url": "https://www.semanticscholar.org/paper/66f63adc4e298c179200253477af5af7196dd13c",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "Anticancer Research",
+  "citation_count": 0,
+  "abstract": "Background/Aim: Leukemia therapy targets multiple molecular pathways, including non-oncogenic but clinically relevant factors such as Silent Information Regulator 1 (SIRT1), which acts either as a tumor suppressor or tumor promoter depending on its downstream targets, cancer type, and disease stage. Although small-molecule SIRT1 activators such as SRT-1720 have shown anticancer potential, their molecular mechanisms in leukemia remain insufficiently understood. This study aimed to elucidate the effects of SRT-1720 on the redox state and viability of leukemic lymphocytes and normal lymphocytes, as well as its ability to sensitize leukemic cells to anticancer drugs. Materials and Methods: The synergistic, additive or antagonistic antiproliferative effects of SRT-1720 and anticancer drugs were examined. The following parameters were analyzed: cell viability and proliferation – by trypan blue staining; apoptosis – by phosphatidylserine expression on the cell surface; and oxidative stress – by detecting intracellular levels of reactive oxygen species (ROS) and protein carbonyl products. Results: SRT-1720 potentiated the effects of most anticancer drugs in leukemic lymphocytes. Synergism was found in combination with: barasertib, bortezomib, cisplatin, MG-132, bleomycin, ABT-737, lonafarnib, everolimus, and palbociclib. SRT-1720 increased the tolerance of normal lymphocytes to anticancer drugs, as demonstrated for everolimus, barasertib, and doxorubicin. The synergistic cytotoxicity of SRT-1720 in combination with everolimus and barasertib was accompanied by overproduction of ROS and increased induction of apoptosis in leukemic lymphocytes, but not in normal lymphocytes. SRT-1720 favorably affected the viability of normal lymphocytes, reducing oxidative stress and cytotoxicity induced by doxorubicin at the concentrations used in our study. Conclusion: SRT-1720 induces oxidative stress and apoptosis in leukemic lymphocytes through SIRT1-independent pathway(s). In contrast, it enhances antioxidant defense in normal lymphocytes through a SIRT1-dependent pathway. These findings highlight the potential of SRT-1720 as an adjuvant to chemotherapy in T-ALL, particularly in drug combinations demonstrating strong synergism, which may allow dose reduction and decreased toxicity.",
+  "type": "academic",
+  "pdf_url": ""
+}

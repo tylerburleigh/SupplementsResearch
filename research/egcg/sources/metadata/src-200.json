@@ -1,0 +1,17 @@
+{
+  "id": "src-200",
+  "title": "Frailty, Cognitive Decline, Neurodegenerative Diseases and Nutrition Interventions",
+  "authors": [
+    "Gómez-Gómez, María Elena",
+    "Zapico, Sara C."
+  ],
+  "doi": "10.3390/ijms20112842",
+  "url": "https://openalex.org/W2952015290",
+  "provider": "openalex",
+  "year": 2019,
+  "venue": "International Journal of Molecular Sciences",
+  "citation_count": 179,
+  "abstract": "Currently the human population is aging faster. This leads to higher dependency rates and the transformation of health and social care to adapt to this aged population. Among the changes developed by this population is frailty. It is defined as a clinically detectable syndrome, related to the aging of multiple physiological systems, which prompts a situation of vulnerability. The etiology of frailty seems to be multifactorial and its pathophysiology is influenced by the interaction of numerous factors. Morley et al. propose four main mechanisms triggering the frailty: atherosclerosis, sarcopenia, cognitive deterioration and malnutrition, with their respective metabolic alterations. Malnutrition is associated with cognitive impairment or functional loss, but it is also known that an inadequate nutritional status predisposes to cognitive frailty. Additionally, nutritional factors that may influence vascular risk factors will potentially have an effect on dementia decline among patients with cognitive frailty. This review aims to describe the nutritional factors that have been researched so far which may lead to the development of frailty, and especially cognitive decline.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/1422-0067/20/11/2842/pdf?version=1560247910"
+}

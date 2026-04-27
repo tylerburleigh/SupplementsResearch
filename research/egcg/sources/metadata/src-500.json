@@ -1,0 +1,21 @@
+{
+  "id": "src-500",
+  "title": "Association of caffeine, green tea and coffee consumption with mortality and disability among older adults.",
+  "authors": [
+    "Watanabe, Daiki",
+    "Yoshida, Tsukasa",
+    "Nanri, Hinako",
+    "Watanabe, Yuya",
+    "Yamada, Yosuke",
+    "Kimura, Misaka"
+  ],
+  "doi": "10.1017/s0007114525105278",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40999690",
+  "provider": "pubmed",
+  "year": 2025,
+  "venue": "The British journal of nutrition",
+  "citation_count": 0,
+  "abstract": "Several epidemiological studies have shown that consumption of coffee and green tea is inversely associated with risks of death and disability; however, the relationship between caffeine consumption and these outcomes remains unclear. We examined these associations in Japanese older adults. This was a prospective study of 7708 adults (aged ≥ 65 years) recruited from the Kyoto-Kameoka study. Dietary intake was estimated using a validated FFQ. Caffeine consumption was classified into four categories. Disability and mortality data were collected between 15 February 2012 and 30 November 2016. Hazard ratios (HR) and 95 % CI of outcomes were calculated using multivariable Cox proportional hazard models. During the median 4·75-year follow-up period, a total of 593 deaths and 1379 disability incidents were recorded. After adjusting for confounders, caffeine consumption was inversely associated with the incidence of disability (< 100 mg/d: reference; 100-149 mg/d: HR, 0·91 (95 % CI 0·80, 1·04); 150-199 mg/d: HR, 0·84 (95 % CI 0·72, 0·99); ≥ 200 mg/d: HR, 0·75 (95 % CI 0·63, 0·89), Pfor trend = 0·001) but not all-cause mortality. High coffee consumption was inversely associated with mortality (≥ 3 cups/d: HR, 0·62 (95 % CI 0·43, 0·88)) and disability (≥ 3 cups/d: HR, 0·81 (95 % CI 0·65, 0·99)) compared with non-consumption. However, green tea consumption was not associated with mortality or disability. Caffeine and coffee consumption was inversely associated with disability and/or mortality. Further research is needed to clarify whether high caffeine intake is safe and effective for older adults.",
+  "type": "academic",
+  "pdf_url": ""
+}

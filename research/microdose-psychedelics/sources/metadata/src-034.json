@@ -1,0 +1,41 @@
+{
+  "id": "src-034",
+  "title": "MDLSD: study protocol for a randomised, double-masked, placebo-controlled trial of repeated microdoses of LSD in healthy volunteers",
+  "authors": [
+    "Murphy, Robin J.",
+    "Sumner, Rachael L.",
+    "Evans, William",
+    "Menkes, David",
+    "Lambrecht, Ingo",
+    "Ponton, Rhys",
+    "Sundram, Frederick",
+    "Hoeh, Nicholas",
+    "Ram, Sanya",
+    "Reynolds, Lisa",
+    "Muthukumaraswamy, Suresh"
+  ],
+  "year": 2021,
+  "abstract": "Abstract\n\nBackground\nRegular ingestion of sub-hallucinogenic doses of psychedelics, referred to as “microdosing”, has gained increasing popularity and attention in the press and in online forums, with reported benefits across multiple cognitive and emotional domains. Rigorously controlled studies to date, however, have been limited in scope and have failed to produce results comparable to those reported in the grey literature.\n\nMethods\nEighty healthy male participants will receive 14 doses of placebo or 10 μg lysergic acid diethylamide orally every 3rd day over a 6-week treatment protocol. A battery of personality, creativity, mood, cognition, and EEG plasticity measures, as well as resting-state fMRI imaging, will be administered at baseline and at the end of the protocol. Creativity, mood, and plasticity measures will additionally be assessed in the acute phase of the first dose. Daily functioning will be monitored with questionnaires and a wearable sleep and activity tracker.\n\nDiscussion\nThis study will rigorously examine the claims presented in the microdosing grey literature by pairing a comparable dosing protocol with objective measures. Potential therapeutic implications include future clinical trials to investigate microdosed psychedelics as a standalone treatment or as an augmentation of psychotherapy in the treatment of depression, addiction, eating disorders, obsessive-compulsive disorders, and palliative care.\n\nTrial registration\n\nACTRN12621000436875\n. Registered on 19 February 2021",
+  "doi": "10.1186/s13063-021-05243-3",
+  "url": "https://doi.org/10.1186/s13063-021-05243-3",
+  "pdf_url": "",
+  "venue": "Trials",
+  "citation_count": 16,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-26T10:42:36.322577+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-034.md",
+  "quality_details": {
+    "content_length": 76870,
+    "alpha_ratio": 0.763,
+    "sentence_count": 563,
+    "reasons": [
+      "paywall_page (access this article)"
+    ]
+  }
+}

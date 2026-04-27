@@ -1,0 +1,37 @@
+21	2	Abstract
+122	2	Background
+291	2	1. What are the benefits and harms of interventions
+302	2	3. What are the preferences of community-dwelling
+306	2	Methods
+1409	2	Results
+1909	2	Findings
+1973	2	Tto
+2016	2	Tto
+2023	2	Tto
+2158	2	Findings
+2228	2	Discussion
+2629	2	Conclusions
+2708	2	Acknowledgements
+2744	2	Data Availability
+2754	2	Competing Interests
+2757	2	1 Alberta Research Centre for Health Evidence, Faculty of Medicine and Den-
+2761	2	References
+2814	2	18.  Hopewell S, Adedire O, Copsey BJ, Boniface GJ, Sherrington C, Clemson L,
+2818	2	19.  Sherrington C, Fairhall NJ, Wallbank GK, Tiedemann A, Michaleff ZA,
+2830	2	22.  Schunemann HJ, Wiercioch W, Etxeandia I, Falavigna M, Santesso N,
+2834	2	23.  Zhang Y, Coello PA, Brozek J, Wiercioch W, Etxeandia-Ikobaltzeta I, Akl
+2879	2	36.  Zhang Y, Alonso-Coello P , Guyatt GH, Yepes-Nunez JJ, Akl EA, Hazlewood
+2883	2	37.  Zhang Y, Coello PA, Guyatt GH, Yepes-Nunez JJ, Akl EA, Hazlewood G,
+2894	2	40.  Hutton B, Salanti G, Caldwell DM, Chaimani A, Schmid CH, Cameron C,
+2917	2	47.  Chou R, Aronson N, Atkins D, Ismaila AS, Santaguida P , Smith DH, Assess-
+2941	2	54.  Huhn M, Nikolakopoulou A, Schneider-Thoma J, Krause M, Samara
+2961	2	60.  Nikolakopoulou A, Higgins JPT, Papakonstantinou T, Chaimani A, Del
+2964	2	61.  Elliott SA, Gaudet LA, Fernandes RM, Vandermeer B, Freedman SB, John-
+2990	2	69.  Tan PJ, Khoo EM, Chinna K, Saedon NI, Zakaria MI, Ahmad Zahedi AZ,
+2997	2	71.  Keall MD, Pierse N, Howden-Chapman P , Cunningham C, Cunningham
+3006	2	73.  Svedbom A, Borgstom F, Hernlund E, Strom O, Alekna V, Bianchi ML,
+3019	2	76.  Abimanyi-Ochom J, Watts JJ, Borgstrom F, Nicholson GC, Shore-
+3052	2	84.  Sibley KM, Thomas SM, Veroniki AA, Rodrigues M, Hamid JS, Lachance CC,
+3056	2	85.  Dautzenberg L, Beglinger S, Tsokani S, Zevgiti S, Raijmann R, Rodondi
+3060	2	86.  Montero-Odasso M, van der Velde N, Martin FC, Petrovic M, Tan MP , Ryg
+3063	2	87.  Nicholson WK, Silverstein M, Wong JB, Barry MJ, Chelmow D, Coker TR,

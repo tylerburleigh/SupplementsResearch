@@ -1,0 +1,17 @@
+{
+  "id": "src-238",
+  "title": "Caffeine and Adenosine",
+  "authors": [
+    "Ribeiro, Joaquim A.",
+    "Sebastião, Ana M."
+  ],
+  "doi": "10.3233/jad-2010-1379",
+  "url": "https://openalex.org/W2097533515",
+  "provider": "openalex",
+  "year": 2010,
+  "venue": "Journal of Alzheimer s Disease",
+  "citation_count": 562,
+  "abstract": "Caffeine causes most of its biological effects via antagonizing all types of adenosine receptors (ARs): A1, A2A, A3, and A2B and, as does adenosine, exerts effects on neurons and glial cells of all brain areas. In consequence, caffeine, when acting as an AR antagonist, is doing the opposite of activation of adenosine receptors due to removal of endogenous adenosinergic tonus. Besides AR antagonism, xanthines, including caffeine, have other biological actions: they inhibit phosphodiesterases (PDEs) (e.g., PDE1, PDE4, PDE5), promote calcium release from intracellular stores, and interfere with GABA-A receptors. Caffeine, through antagonism of ARs, affects brain functions such as sleep, cognition, learning, and memory, and modifies brain dysfunctions and diseases: Alzheimer's disease, Parkinson's disease, Huntington's disease, Epilepsy, Pain/Migraine, Depression, Schizophrenia. In conclusion, targeting approaches that involve ARs will enhance the possibilities to correct brain dysfunctions, via the universally consumed substance that is caffeine.",
+  "type": "academic",
+  "pdf_url": "https://content.iospress.com:443/download/journal-of-alzheimers-disease/jad01379?id=journal-of-alzheimers-disease%2Fjad01379"
+}

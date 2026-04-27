@@ -1,0 +1,25 @@
+filters:
+  and:
+    - file.inFolder("wiki")
+    - or:
+      - contains(file.tags, "#pathway")
+      - contains(file.tags, "#process")
+properties:
+  concept_type:
+    displayName: Concept Type
+  domain:
+    displayName: Domain
+  updated:
+    displayName: Updated
+views:
+  - type: table
+    name: Pathways Processes
+    order:
+      - file.name
+      - concept_type
+      - domain
+      - file.tags
+      - updated
+    groupBy:
+      property: concept_type
+      direction: ASC

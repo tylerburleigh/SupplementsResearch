@@ -1,0 +1,25 @@
+{
+  "id": "src-331",
+  "title": "Role of pyridoxal 5'-phosphate in the structural stabilization of O-acetylserine sulfhydrylase.",
+  "authors": [
+    "Bettati, S",
+    "Benci, S",
+    "Campanini, B",
+    "Raboni, S",
+    "Chirico, G",
+    "Beretta, S",
+    "Schnackerz, K D",
+    "Hazlett, T L",
+    "Gratton, E",
+    "Mozzarelli, A"
+  ],
+  "doi": "10.1074/jbc.m007015200",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/10995767",
+  "provider": "pubmed",
+  "year": 2000,
+  "venue": "The Journal of biological chemistry",
+  "citation_count": 0,
+  "abstract": "Proteins belonging to the superfamily of pyridoxal 5'-phosphate-dependent enzymes are currently classified into three functional groups and five distinct structural fold types. The variation within this enzyme group creates an ideal system to investigate the relationships among amino acid sequences, folding pathways, and enzymatic functions. The number of known three-dimensional structures of pyridoxal 5'-phosphate-dependent enzymes is rapidly increasing, but only for relatively few have the folding mechanisms been characterized in detail. The dimeric O-acetylserine sulfhydrylase from Salmonella typhimurium belongs to the beta-family and fold type II group. Here we report the guanidine hydrochloride-induced unfolding of the apo- and holoprotein, investigated using a variety of spectroscopic techniques. Data from absorption, fluorescence, circular dichroism, (31)P nuclear magnetic resonance, time-resolved fluorescence anisotropy, and photon correlation spectroscopy indicate that the O-acetylserine sulfhydrylase undergoes extensive disruption of native secondary and tertiary structure before monomerization. Also, we have observed that the holo-O-acetylserine sulfhydrylase exhibits a greater conformational stability than the apoenzyme form. The data are discussed in light of the fact that the role of the coenzyme in structural stabilization varies among the pyridoxal 5'-phosphate-dependent enzymes and does not seem to be linked to the particular enzyme fold type.",
+  "type": "academic",
+  "pdf_url": ""
+}

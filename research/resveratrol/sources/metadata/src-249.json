@@ -1,0 +1,19 @@
+{
+  "id": "src-249",
+  "title": "Resveratrol, a polyphenolic compound found in grapes and wine, is an agonist for the estrogen receptor",
+  "authors": [
+    "Gehm, Barry D.",
+    "McAndrews, Joanne M.",
+    "Chien, Pei-Yu",
+    "Jameson, J. Larry"
+  ],
+  "doi": "10.1073/pnas.94.25.14138",
+  "url": "https://openalex.org/W2060760516",
+  "provider": "openalex",
+  "year": 1997,
+  "venue": "Proceedings of the National Academy of Sciences",
+  "citation_count": 1062,
+  "abstract": "The phytochemical resveratrol, which is found in grapes and wine, has been reported to have a variety of anti-inflammatory, anti-platelet, and anti-carcinogenic effects. Based on its structural similarity to diethylstilbestrol, a synthetic estrogen, we examined whether resveratrol might be a phytoestrogen. At concentrations (approximately 3-10 microM) comparable to those required for its other biological effects, resveratrol inhibited the binding of labeled estradiol to the estrogen receptor and it activated transcription of estrogen-responsive reporter genes transfected into human breast cancer cells. This transcriptional activation was estrogen receptor-dependent, required an estrogen response element in the reporter gene, and was inhibited by specific estrogen antagonists. In some cell types (e.g., MCF-7 cells), resveratrol functioned as a superagonist (i.e., produced a greater maximal transcriptional response than estradiol) whereas in others it produced activation equal to or less than that of estradiol. Resveratrol also increased the expression of native estrogen-regulated genes, and it stimulated the proliferation of estrogen-dependent T47D breast cancer cells. We conclude that resveratrol is a phytoestrogen and that it exhibits variable degrees of estrogen receptor agonism in different test systems. The estrogenic actions of resveratrol broaden the spectrum of its biological actions and may be relevant to the reported cardiovascular benefits of drinking wine.",
+  "type": "academic",
+  "pdf_url": ""
+}

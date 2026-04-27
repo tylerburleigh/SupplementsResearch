@@ -1,0 +1,26 @@
+{
+  "id": "src-092",
+  "title": "Sulforaphane, a Dietary Component of Broccoli/Broccoli Sprouts, Inhibits Breast Cancer Stem Cells",
+  "authors": [
+    "Li, Yanyan",
+    "Zhang, Tao",
+    "Körkaya, Hasan",
+    "Liu, Suling",
+    "Lee, Hsiu-Fang",
+    "Newman, Bryan",
+    "Yu, Yanke",
+    "Clouthier, Shawn G.",
+    "Schwartz, Steven J.",
+    "Wicha, Max S.",
+    "Sun, Duxin"
+  ],
+  "doi": "10.1158/1078-0432.ccr-09-2937",
+  "url": "https://openalex.org/W2147631083",
+  "provider": "openalex",
+  "year": 2010,
+  "venue": "Clinical Cancer Research",
+  "citation_count": 562,
+  "abstract": "Sulforaphane inhibits breast CSCs and downregulates the Wnt/beta-catenin self-renewal pathway. These findings support the use of sulforaphane for the chemoprevention of breast cancer stem cells and warrant further clinical evaluation.",
+  "type": "academic",
+  "pdf_url": "https://aacrjournals.org/clincancerres/article-pdf/16/9/2580/1995242/2580.pdf"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "src-086",
+  "title": "Effect of caloric restriction on depression",
+  "authors": [
+    "Manchishi, Stephen M.",
+    "Cui, Ran Ji",
+    "Zou, Xiao Han",
+    "Cheng, Zi Qian",
+    "Li, Bing Jin"
+  ],
+  "doi": "10.1111/jcmm.13418",
+  "url": "https://openalex.org/W2794169168",
+  "provider": "openalex",
+  "year": 2018,
+  "venue": "Journal of Cellular and Molecular Medicine",
+  "citation_count": 68,
+  "abstract": "Recently, most of evidence shows that caloric restriction could induce antidepressant-like effects in animal model of depression. Based on studies of the brain-gut axis, some signal pathways were common between the control of caloric restriction and depression. However, the specific mechanism of the antidepressant-like effects induced by caloric restriction remains unclear. Therefore, in this article, we summarized clinical and experimental studies of caloric restriction on depression. This review may provide a new therapeutic strategy for depression.",
+  "type": "academic",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/jcmm.13418"
+}

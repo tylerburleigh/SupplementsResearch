@@ -1,0 +1,31 @@
+{
+  "id": "src-073",
+  "title": "Co-supplementation of Vitamin K2 and Selenium Synergistically Improves Metabolic Status and Reduces Cardiovascular Risk Markers in Dyslipidemic Rabbits",
+  "authors": [
+    "Atteia, Hebatallah Husseini"
+  ],
+  "year": 2023,
+  "abstract": "",
+  "doi": "10.1007/s12011-023-03569-4",
+  "url": "https://doi.org/10.1007/s12011-023-03569-4",
+  "pdf_url": "",
+  "venue": "Biological Trace Element Research",
+  "citation_count": 3,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T10:57:37.192107+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-073.md",
+  "quality_details": {
+    "content_length": 25814,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

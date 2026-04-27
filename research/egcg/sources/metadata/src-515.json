@@ -1,0 +1,23 @@
+{
+  "id": "src-515",
+  "title": "The therapeutic role and potential mechanism of EGCG in obesity-related precocious puberty as determined by integrated metabolomics and network pharmacology.",
+  "authors": [
+    "Gu, Qiuyun",
+    "Xia, Lina",
+    "Du, Qiuju",
+    "Shao, Ying",
+    "He, Jieyi",
+    "Wu, Peiying",
+    "Liang, Lingwei",
+    "Shen, Xiuhua"
+  ],
+  "doi": "10.3389/fendo.2023.1159657",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37334310",
+  "provider": "pubmed",
+  "year": 2023,
+  "venue": "Frontiers in endocrinology",
+  "citation_count": 0,
+  "abstract": "OBJECTIVE: (-)-Epigallocatechin-3-gallate (EGCG) has preventive effects on obesity-related precocious puberty, but its underlying mechanism remains unclear. The aim of this study was to integrate metabolomics and network pharmacology to reveal the mechanism of EGCG in the prevention of obesity-related precocious puberty.\nMATERIALS AND METHODS: A high-performance liquid chromatography-electrospray ionization ion-trap tandem mass spectrometry (LC-ESI-MS/MS) was used to analyze the impact of EGCG on serum metabolomics and associated metabolic pathways in a randomized controlled trial. Twelve weeks of EGCG capsules were given to obese girls in this trail. Additionally, the targets and pathways of EGCG in preventing obesity-related precocious puberty network pharmacology were predicted using network pharmacology. Finally, the mechanism of EGCG prevention of obesity-related precocious puberty was elucidated through integrated metabolomics and network pharmacology.\nRESULTS: Serum metabolomics screened 234 endogenous differential metabolites, and network pharmacology identified a total of 153 common targets. These metabolites and targets mainly enrichment pathways involving endocrine-related pathways (estrogen signaling pathway, insulin resistance, and insulin secretion), and signal transduction (PI3K-Akt, MAPK, and Jak-STAT signaling pathways). The integrated metabolomics and network pharmacology indicated that AKT1, EGFR, ESR1, STAT3, IGF1, and MAPK1 may be key targets for EGCG in preventing obesity-related precocious puberty.\nCONCLUSION: EGCG may contribute to preventing obesity-related precocious puberty through targets such as AKT1, EGFR, ESR1, STAT3, IGF1, and MAPK1 and multiple signaling pathways, including the estrogen, PI3K-Akt, MAPK, and Jak-STAT pathways. This study provided a theoretical foundation for future research.",
+  "type": "academic",
+  "pdf_url": ""
+}

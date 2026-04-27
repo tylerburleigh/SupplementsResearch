@@ -1,0 +1,45 @@
+{
+  "id": "src-049",
+  "title": "A randomized placebo-controlled trial of nicotinamide riboside and pterostilbene supplementation in experimental muscle injury in elderly individuals",
+  "authors": [
+    "Jensen, Jonas Brorson",
+    "Dollerup, Ole L.",
+    "Møller, Andreas B.",
+    "Billeskov, Tine B.",
+    "Dalbram, Emilie",
+    "Chubanava, Sabina",
+    "Damgaard, Mads V.",
+    "Dellinger, Ryan W.",
+    "Trošt, Kajetan",
+    "Moritz, Thomas",
+    "Ringgaard, Steffen",
+    "Møller, Niels",
+    "Treebak, Jonas T.",
+    "Farup, Jean",
+    "Jessen, Niels"
+  ],
+  "year": 2022,
+  "abstract": "",
+  "doi": "10.1172/jci.insight.158314",
+  "url": "https://doi.org/10.1172/jci.insight.158314",
+  "pdf_url": "",
+  "venue": "JCI Insight",
+  "citation_count": 31,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-20T20:25:29.953423+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-049.md",
+  "quality_details": {
+    "content_length": 70640,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

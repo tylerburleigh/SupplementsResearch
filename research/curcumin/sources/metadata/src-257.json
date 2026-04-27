@@ -1,0 +1,23 @@
+{
+  "id": "src-257",
+  "title": "TRIM47 Promotes Atherosclerosis by Activating NF‐κB Signaling via IκBα Ubiquitination",
+  "authors": [
+    "Qin, X.",
+    "Luo, Jiachen",
+    "Yuan, Yiqian",
+    "Liu, Baoxin",
+    "Zhang, Xingxu",
+    "Zhang, Yiwei",
+    "Fang, Yuang",
+    "Wei, Yidong"
+  ],
+  "doi": "10.1002/ddr.70264",
+  "url": "https://www.semanticscholar.org/paper/a1a27b01efd252283673e3250fc48118e256197e",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "Drug development research (Print)",
+  "citation_count": 0,
+  "abstract": "Atherosclerosis, a major contributor to cardiovascular diseases, is characterized by chronic inflammation in arterial walls. The role of NF‐κB signaling in this process is well‐established, but the upstream regulators remain incompletely understood. This study explored the role of TRIM47, an E3 ubiquitin ligase, in promoting atherosclerosis through NF‐κB activation. In vitro studies used human umbilical vein endothelial cells (EC) treated with oxidized low‐density lipoprotein (ox‐LDL). TRIM47 expression was modulated using siRNA knockdown and overexpression plasmids. Inflammation markers, cell viability, and NF‐κB activation were assessed. In vivo studies utilized ApoE‐/‐ mice fed a high‐fat diet and treated with adenovirus‐mediated TRIM47 knockdown. ox‐LDL treatment increased TRIM47 expression in EC, alongside elevated inflammatory markers, and reduced cell viability. TRIM47 overexpression exacerbated ox‐LDL‐induced inflammation, while knockdown attenuated these effects. Mechanistically, TRIM47 directly interacted with IκBα, promoting its ubiquitination and degradation, leading to enhanced NF‐κB activation. In ApoE‐/‐ mice, TRIM47 knockdown significantly reduced atherosclerotic plaque formation and lesion size. This study identified TRIM47 as a novel regulator of atherosclerosis progression through IκBα ubiquitination and NF‐κB activation. TRIM47 knockdown attenuated vascular inflammation and atherosclerotic plaque formation. The findings suggested that TRIM47 might be a potential therapeutic target for the treatment of atherosclerosis and related cardiovascular diseases.",
+  "type": "academic",
+  "pdf_url": ""
+}

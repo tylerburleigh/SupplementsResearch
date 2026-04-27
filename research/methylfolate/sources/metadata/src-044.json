@@ -1,0 +1,33 @@
+{
+  "id": "src-044",
+  "title": "Meta-analysis of MTHFR 677C→ T polymorphism and coronary heart disease: does totality of evidence support causal role for homocysteine and preventive potential of folate?",
+  "authors": [
+    "Lewis, Sarah J",
+    "Ebrahim, Shah",
+    "Smith, George Davey"
+  ],
+  "year": 2005,
+  "abstract": "",
+  "doi": "10.1136/bmj.38611.658947.55",
+  "url": "https://doi.org/10.1136/bmj.38611.658947.55",
+  "pdf_url": "",
+  "venue": "BMJ",
+  "citation_count": 214,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-20T13:30:34.090160+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-044.md",
+  "quality_details": {
+    "content_length": 34735,
+    "alpha_ratio": 0.693,
+    "sentence_count": 274,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

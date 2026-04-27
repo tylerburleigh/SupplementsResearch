@@ -1,0 +1,34 @@
+{
+  "id": "src-107",
+  "title": "Baicalin confers neuroprotection in animal models of stroke through its antioxidant and anti-apoptotic effects",
+  "authors": [
+    "Son, Hyun-Kyoung",
+    "Park, Dong-Ju",
+    "Kang, Ju-Bin",
+    "Koh, Phil-Ok"
+  ],
+  "year": 2025,
+  "abstract": "",
+  "doi": "10.4142/jvs.25055",
+  "url": "https://doi.org/10.4142/jvs.25055",
+  "pdf_url": "",
+  "venue": "Journal of Veterinary Science",
+  "citation_count": 3,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T13:50:32.861419+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-107.md",
+  "quality_details": {
+    "content_length": 47480,
+    "alpha_ratio": 0.748,
+    "sentence_count": 536,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

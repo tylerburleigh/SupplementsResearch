@@ -1,0 +1,31 @@
+{
+  "id": "src-023",
+  "title": "The efficacy and safety of β-nicotinamide mononucleotide (NMN) supplementation in healthy middle-aged adults: a randomized, multicenter, double-blind, placebo-controlled, parallel-group, dose-dependent clinical trial",
+  "authors": [
+    "Yi, Lin",
+    "Maier, Andrea B.",
+    "Tao, Rongsheng",
+    "Lin, Zhigang",
+    "Vaidya, Aditi",
+    "Pendse, Sohal",
+    "Thasma, Sornaraja",
+    "Andhalkar, Niranjan",
+    "Avhad, Ganesh",
+    "Kumbhar, Vidyadhar"
+  ],
+  "year": 2023,
+  "abstract": "Abstract\nIn animal studies, β-nicotinamide mononucleotide (NMN) supplementation increases nicotinamide adenine dinucleotide (NAD) concentrations and improves healthspan and lifespan with great safety. However, it is unclear if these effects can be transferred to humans. This randomized, multicenter, double-blind, placebo-controlled, parallel-group, dose-dependent clinical trial included 80 middle-aged healthy adults being randomized for a 60-day clinical trial with once daily oral dosing of placebo, 300 mg, 600 mg, or 900 mg NMN. The primary objective was to evaluate blood NAD concentration with dose-dependent regimens. The secondary objectives were to assess the safety and tolerability of NMN supplementation, next to the evaluation of clinical efficacy by measuring physical performance (six-minute walking test), blood biological age (Aging.Ai 3.0 calculator), Homeostatic Model Assessment for Insulin Resistance (HOMA-IR), and subjective general health assessment [36-Item Short Form Survey Instrument (SF-36)]. Statistical analysis was performed using the Per Protocol analysis with significant level set at p = 0.05. All 80 participants completed the trial without trial protocol violation. Blood NAD concentrations were statistically significantly increased among all NMN-treated groups at day 30 and day 60 when compared to both placebo and baseline (all p ≤ 0.001). Blood NAD concentrations were highest in the groups taking 600 mg and 900 mg NMN. No safety issues, based on monitoring adverse events (AEs), laboratory and clinical measures, were found, and NMN supplementation was well tolerated. Walking distance increase during the six-minute walking test was statistically significantly higher in the 300 mg, 600 mg, and 900 mg groups compared to placebo at both days 30 and 60 (all p &lt; 0.01), with longest walking distances measured in the 600 mg and 900 mg groups. The blood biological age increased significantly in the placebo group and stayed unchanged in all NMN-treated groups at day 60, which resulted in a significant difference between the treated groups and placebo (all p &lt; 0.05). The HOMA-IR showed no statistically significant differences for all NMN-treated groups as compared to placebo at day 60. The change of SF-36 scores at day 30 and day 60 indicated statistically significantly better health of all three treated groups when compared to the placebo group (p &lt; 0.05), except for the SF-36 score change in the 300 mg group at day 30. NMN supplementation increases blood NAD concentrations and is safe and well tolerated with oral dosing up to 900 mg NMN daily. Clinical efficacy expressed by blood NAD concentration and physical performance reaches highest at a dose of 600 mg daily oral intake. This trial was registered with ClinicalTrials.gov, NCT04823260, and Clinical Trial Registry - India, CTRI/2021/03/032421.",
+  "doi": "10.1007/s11357-022-00705-1",
+  "url": "https://doi.org/10.1007/s11357-022-00705-1",
+  "pdf_url": "",
+  "venue": "GeroScience",
+  "citation_count": 131,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-23T13:46:14.052115+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok"
+}

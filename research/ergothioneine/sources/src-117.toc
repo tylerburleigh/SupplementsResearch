@@ -1,0 +1,65 @@
+7	2	Original Article
+52	2	Introduction
+131	2	Methods
+288	2	Elisa
+414	2	Statistical Analysis
+442	2	Results
+486	2	Ergo
+702	2	Ergo
+825	2	Ergo
+856	2	Discussion
+1225	2	References
+1226	2	1. Sayed N, HuangY, Nguyen K, Krejciova-Rajaniemi Z, Grawe
+1242	2	4. Heneka MT, Carson MJ, Khoury JEL Landreth GE,
+1250	2	5. Ritzel RM, Doran SJ, Glaser EP, Meadows VE, Faden
+1265	2	8. Sugiura T, Kato S, Shimizu T, Wakayama T, Nakamichi
+1275	2	10. Smith E, Ottosson F, Hellstrand S, Ericson U, Orho-
+1280	2	11. Wu L-Y, Cheah IK, Chong JR, Chai YL, Tan JY, Hilal S,
+1286	2	12. Wu L-Y, Kan CN, Cheah IK, Chong JR, Xu X, Vrooman
+1311	2	16. Pan H-Y, Ye Z-W, Zheng Q-W, Yun F, Tu M-Z, Hong
+1317	2	17. Roda E, Ratto D, De Luca F, Desiderio A, Ramieri M,
+1324	2	18. Nakamichi N, Nakao S, Nishiyama M, Takeda Y, Ishi-
+1330	2	19. Watanabe N, Matsumoto S, Suzuki M, Fukaya T, Kato Y,
+1336	2	20. Nakamichi N, Nakayama K, Ishimoto T, Masuo Y,
+1342	2	21. Ishimoto T, Nakamichi N, Hosotani H, Masuo Y, Sugiura
+1348	2	22. Nakano Y, Moriuchi M, Fukushima Y, Hayashi K, Suico
+1361	2	25. Li X, Liu L, Li T, Liu M, Wang Y, Ma H, Nan Mu, Wang
+1371	2	27. Scarfe L, Rak-Raszewska A, Geraci S, Darssan D, Shar -
+1379	2	28. Ferreira P, Vaja R, Lopes-Pires M, Crescente M, He Yu,
+1387	2	29. Coyne MJ, Eric Schultze A, McCrann III DJ, Murphy
+1402	2	32. Nixon JP, Zhang M, Wang C, Kuskowski MA, Novak
+1407	2	33. Ohashi Y, Hirayama A, Ishikawa T, Nakamura S, Shimizu
+1412	2	34. Ooga T, Sato H, Nagashima A, Sasaki K, Tomita M, Soga
+1421	2	36. Hashimoto N, Nakamichi N, Nanmo H, Kimura K-I,
+1432	2	37. Ishimoto T, Nakamichi N, Nishijima H, Masuo Y, Kato
+1453	2	42. Katsube M, Watanabe H, Suzuki K, Ishimoto T, Tate-
+1458	2	43. Iida T, Yoshikawa T, Matsuzawa T, Naganuma F, Naka-
+1466	2	45. Fried LP, Tangen CM, Walston J, Newman AB, Hirsch
+1501	2	52. Tchkonia T, Zhu Y, van Deursen J, Campisi J, Kirk -
+1505	2	53. Wiley CD, Velarde MC, Lecot P, Liu S, Sarnoski EA, Fre-
+1516	2	55. Orsatti L, Stiehl T, Dischinger K, Speziale R, Di Pasquale
+1529	2	58. Zhang N, Li Z, Mu W, Li L, Liang Y, Lu M, Wang Z, Qiu
+1534	2	59. Kanfi Y, Naiman S, Amir G, Peshti V, Zinman G, Nahum
+1538	2	60. Roichman A, Elhanati S, Aon MA, Abramovich I, Di
+1561	2	63. Boldrini M, Fulmore CA, Tartt AN, Simeon LR, Pavlova
+1566	2	64. Sorrells SF, Paredes MF, Cebrian-Silla A, Sandoval K,
+1578	2	66. Chen Y-N, Sha H-H, Wang Y-W, Zhou Q, Bhuiyan P,
+1589	2	68. Thammisetty SS, Pedragosa J, Weng YC, Calon F, Planas
+1594	2	69. Nelson PT, Dickson DW, Trojanowski JQ, Jack CR, Boyle
+1603	2	70. Zhao W, Beers DR, Bell S, Wang J, Wen S, Baloh RH,
+1607	2	71. Zuo X, Zhou J, Li Y, Wu K, Chen Z, Luo Z, Zhang
+1621	2	73. Xie M, Liu YU, Zhao S, Zhang L, Bosco DB, Pang Y-P,
+1628	2	74. Svahn AJ, Don EK, Badrock AP, Cole NJ, Grae-
+1641	2	76. EFSA Panel on Dietetic Products Nutrition and Allergies
+1647	2	77. Kato Y, Kubo Y, Iwata D, Kato S, Sudo T, Sugiura T,
+1654	2	78. Nakamichi N, Taguchi T, Hosotani H, Wakayama T,
+1671	2	81. Shinozaki Y, Furuichi K, Toyama T, Kitajima S, Hara A,
+1678	2	82. Harrison DE, Strong R, Allison DB, Ames BN, Astle
+1689	2	83. Strong R, Miller RA, Astle CM, Floyd RA, Flurkey K,
+1696	2	84. Miller RA, Harrison DE, Allison DB, Bogue M,
+1704	2	85. Strong R, Miller RA, Cheng CJ, Nelson JF, Gelfond J,
+1712	2	86. Miller RA, Harrison DE, Astle CM, Bogue MA, Brind
+1719	2	87. Strong R, Miller RA, Antebi A, Astle CM, Bogue M, Den-
+1727	2	88. Harrison DE, Strong R, Sharp ZD, Nelson JF, Astle CM,
+1733	2	89. Miller RA, Harrison DE, Astle CM, Baur JA, Boyd AR,
+1741	2	90. Miller RA, Harrison DE, Astle CM, Fernandez E, Flur -

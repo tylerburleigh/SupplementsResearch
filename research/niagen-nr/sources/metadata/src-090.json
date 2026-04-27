@@ -1,0 +1,39 @@
+{
+  "id": "src-090",
+  "title": "NAD+ metabolism: pathophysiologic mechanisms and therapeutic potential",
+  "authors": [
+    "Xie, Na",
+    "Zhang, Lu",
+    "Gao, Wei",
+    "Huang, Canhua",
+    "Huber, Peter Ernst",
+    "Zhou, Xiaobo",
+    "Li, Changlong",
+    "Shen, Guobo",
+    "Zou, Bingwen"
+  ],
+  "year": 2020,
+  "abstract": "AbstractNicotinamide adenine dinucleotide (NAD+) and its metabolites function as critical regulators to maintain physiologic processes, enabling the plastic cells to adapt to environmental changes including nutrient perturbation, genotoxic factors, circadian disorder, infection, inflammation and xenobiotics. These effects are mainly achieved by the driving effect of NAD+ on metabolic pathways as enzyme cofactors transferring hydrogen in oxidation-reduction reactions. Besides, multiple NAD+-dependent enzymes are involved in physiology either by post-synthesis chemical modification of DNA, RNA and proteins, or releasing second messenger cyclic ADP-ribose (cADPR) and NAADP+. Prolonged disequilibrium of NAD+ metabolism disturbs the physiological functions, resulting in diseases including metabolic diseases, cancer, aging and neurodegeneration disorder. In this review, we summarize recent advances in our understanding of the molecular mechanisms of NAD+-regulated physiological responses to stresses, the contribution of NAD+ deficiency to various diseases via manipulating cellular communication networks and the potential new avenues for therapeutic intervention.",
+  "doi": "10.1038/s41392-020-00311-7",
+  "url": "https://doi.org/10.1038/s41392-020-00311-7",
+  "pdf_url": "",
+  "venue": "Signal Transduction and Targeted Therapy",
+  "citation_count": 855,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-20T20:50:04.849471+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-090.md",
+  "quality_details": {
+    "content_length": 281821,
+    "alpha_ratio": 0.73,
+    "sentence_count": 5032,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "src-386",
+  "title": "Causes, Consequences and Public Health Implications of Low B-Vitamin Status in Ageing",
+  "authors": [
+    "Porter, K.",
+    "Hoey, Leane",
+    "Hughes, Catherine",
+    "Ward, Mary",
+    "McNulty, Helene"
+  ],
+  "doi": "10.3390/nu8110725",
+  "url": "https://openalex.org/W2549839667",
+  "provider": "openalex",
+  "year": 2016,
+  "venue": "Nutrients",
+  "citation_count": 147,
+  "abstract": "The potential protective roles of folate and the metabolically related B-vitamins (vitamins B12, B6 and riboflavin) in diseases of ageing are of increasing research interest. The most common cause of folate and riboflavin deficiencies in older people is low dietary intake, whereas low B12 status is primarily associated with food-bound malabsorption, while sub-optimal vitamin B6 status is attributed to increased requirements in ageing. Observational evidence links low status of folate and the related B-vitamins (and/or elevated concentrations of homocysteine) with a higher risk of degenerative diseases including cardiovascular disease (CVD), cognitive dysfunction and osteoporosis. Deficient or low status of these B-vitamins alone or in combination with genetic polymorphisms, including the common <i>MTHFR</i> 677 C → T polymorphism, could contribute to greater disease risk in ageing by causing perturbations in one carbon metabolism. Moreover, interventions with the relevant B-vitamins to optimise status may have beneficial effects in preventing degenerative diseases. The precise mechanisms are unknown but many have been proposed involving the role of folate and the related B-vitamins as co-factors for one-carbon transfer reactions, which are fundamental for DNA and RNA biosynthesis and the maintenance of methylation reactions. This review will examine the evidence linking folate and related B-vitamins with health and disease in ageing, associated mechanisms and public health implications.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2072-6643/8/11/725/pdf?version=1479269463"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "src-205",
+  "title": "The effect of expectancy versus actual gluten intake on gastrointestinal and extra-intestinal symptoms in non-coeliac gluten sensitivity: a randomised, double-blind, placebo-controlled, international, multicentre study.",
+  "authors": [
+    "Graaf, Marlijne C G de",
+    "Lawton, Clare L.",
+    "Croden, Fiona",
+    "Smolińska, Agnieszka",
+    "Winkens, B.",
+    "Hesselink, M.",
+    "Rooy, Gonny van",
+    "Weegels, Peter L",
+    "Shewry, Peter R.",
+    "Houghton, Lesley A.",
+    "Witteman, Ben J M",
+    "Keszthelyi, D.",
+    "Brouns, Fred",
+    "Dye, Louise",
+    "Jonkers, D."
+  ],
+  "doi": "10.1016/s2468-1253(23)00317-5",
+  "url": "https://www.semanticscholar.org/paper/2be203519b0f019393e983b51abc368c3057da29",
+  "provider": "semantic_scholar",
+  "year": 2023,
+  "venue": "The Lancet Gastroenterology and Hepatology",
+  "citation_count": 31,
+  "abstract": "BACKGROUND\nMany individuals without coeliac disease or wheat allergy reduce their gluten intake because they believe that gluten causes their gastrointestinal symptoms. Symptoms could be affected by negative expectancy. Therefore, we aimed to investigate the effects of expectancy versus actual gluten intake on symptoms in people with non-coeliac gluten sensitivity (NCGS).\n\nMETHODS\nThis randomised, double-blind, placebo-controlled, international, multicentre study was done at the University of Leeds (Leeds, UK), Maastricht University (Maastricht, the Netherlands), and Wageningen University and Research (Wageningen, the Netherlands). People aged 18-70 years with self-reported NCGS (ie, gastrointestinal symptoms within 8 h of gluten consumption) without coeliac disease and wheat allergy were recruited. Participants had to follow a gluten-free or gluten-restricted diet for at least 1 week before (and throughout) study participation and had to be asymptomatic or mildly symptomatic (overall gastrointestinal symptom score ≤30 mm on the Visual Analogue Scale [VAS]) while on the diet. Participants were randomly assigned (1:1:1:1; blocks of eight; stratified by site and gender) to one of four groups based on the expectation to consume gluten-containing (E+) or gluten-free (E-) oat bread for breakfast and lunch (two slices each) and actual intake of gluten-containing (G+) or gluten-free (G-) oat bread. Participants, investigators, and those assessing outcomes were masked to the actual gluten assignment, and participants were also masked to the expectancy part of the study. The primary outcome was overall gastrointestinal symptom score on the VAS, which was measured at and corrected for baseline (before breakfast) and hourly for 8 h, with lunch served after 4 h, and analysed per-protocol. Safety analysis included all participants incorporated in the per-protocol analysis. The study is registered at ClinicalTrials.gov, NCT05779358, and has ended.\n\nFINDINGS\nBetween Oct 19, 2018, and Feb 14, 2022, 165 people were screened and 84 were randomly assigned to E+G+ (n=21), E+G- (n=21), E-G+ (n=20), or E-G- (n=22). One person in the E+G+ group was excluded due to not following test day instructions, leaving 83 participants in the per-protocol analysis. Median age was 27·0 years (IQR 21·0-45·0), 71 (86%) of 83 people were women, and 12 (14%) were men. Mean overall gastrointestinal symptom score was significantly higher for E+G+ (16·6 mm [95% CI 13·1 to 20·0]) than for E-G+ (6·9 mm [3·5 to 10·4]; difference 9·6 mm [95% CI 3·0 to 16·2], p=0·0010) and E-G- (7·4 mm [4·2 to 10·7]; difference 9·1 mm [2·7 to 15·6], p=0·0016), but not for E+G- (11·7 mm [8·3 to 15·1]; difference 4·9 mm [-1·7 to 11·5], p=0·28). There was no difference between E+G- and E-G+ (difference 4·7 mm [-1·8 to 11·3], p=0·33), E+G- and E-G- (difference 4·2 mm [-2·2 to 10·7], p=0·47), and E-G+ and E-G- (difference -0·5 mm [-7·0 to 5·9], p=1·0). Adverse events were reported by two participants in the E+G- group (itching jaw [n=1]; feeling lightheaded and stomach rumbling [n=1]) and one participant in the E-G+ group (vomiting).\n\nINTERPRETATION\nThe combination of expectancy and actual gluten intake had the largest effect on gastrointestinal symptoms, reflecting a nocebo effect, although an additional effect of gluten cannot be ruled out. Our results necessitate further research into the possible involvement of the gut-brain interaction in NCGS.\n\nFUNDING\nGovernment of the Netherlands Topsector Agri & Food Top Consortium for Knowledge and Innovation, AB Mauri Global Bakery Ingredients, Baking Industry Research Trust, Borgesius-Albert Heijn, CSM Innovation Centre, the International Maize and Wheat Improvement Center (CIMMYT), DSM Food Specialties, Fazer, Healthgrain Forum, the International Association for Cereal Science and Technology, the International Wheat Gluten Association, Lantmännen, Mondelez International, Nederlands Bakkerij Centrum, Nutrition & Santé, Puratos, Rademaker, Sonneveld Group, and Zeelandia HJ Doeleman.",
+  "type": "academic",
+  "pdf_url": "https://cris.maastrichtuniversity.nl/files/182322050/Degraaf-2023-The-effect-of-expectancy-versus.pdf"
+}

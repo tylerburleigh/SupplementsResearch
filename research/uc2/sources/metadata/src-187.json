@@ -1,0 +1,17 @@
+{
+  "id": "src-187",
+  "title": "Oral tolerance",
+  "authors": [
+    "Faria, Ana Maria Caetano",
+    "Weiner, Howard L."
+  ],
+  "doi": "10.1111/j.0105-2896.2005.00280.x",
+  "url": "https://openalex.org/W4211164442",
+  "provider": "openalex",
+  "year": 2005,
+  "venue": "Immunological Reviews",
+  "citation_count": 592,
+  "abstract": "Multiple mechanisms of tolerance are induced by oral antigen. Low doses favor active suppression, whereas higher doses favor clonal anergy/deletion. Oral antigen induces T-helper 2 [interleukin (IL)-4/IL-10] and Th3 [transforming growth factor (TGF)-beta] T cells plus CD4+CD25+ regulatory cells and latency-associated peptide+ T cells. Induction of oral tolerance is enhanced by IL-4, IL-10, anti-IL-12, TGF-beta, cholera toxin B subunit, Flt-3 ligand, and anti-CD40 ligand. Oral (and nasal) antigen administration suppresses animal models of autoimmune diseases including experimental autoimmune encephalitis, uveitis, thyroiditis, myasthenia, arthritis, and diabetes in the non-obese diabetic (NOD) mouse, plus non-autoimmune diseases such as asthma, atherosclerosis, graft rejection, allergy, colitis, stroke, and models of Alzheimer's disease. Oral tolerance has been tested in human autoimmune diseases including multiple sclerosis (MS), arthritis, uveitis, and diabetes and in allergy, contact sensitivity to dinitrochlorobenzene (DNCB), and nickel allergy. Although positive results have been observed in phase II trials, no effect was observed in phase III trials of CII in rheumatoid arthritis or oral myelin and glatiramer acetate (GA) in MS. Large placebo effects were observed, and new trials of oral GA are underway. Oral insulin has recently been shown to delay onset of diabetes in at-risk populations, and confirmatory trials of oral insulin are being planned. Mucosal tolerance is an attractive approach for treatment of autoimmune and inflammatory diseases because of lack of toxicity, ease of administration over time, and antigen-specific mechanisms of action. The successful application of oral tolerance for the treatment of human diseases will depend on dose, developing immune markers to assess immunologic effects, route (nasal versus oral), formulation, mucosal adjuvants, combination therapy, and early therapy.",
+  "type": "academic",
+  "pdf_url": ""
+}

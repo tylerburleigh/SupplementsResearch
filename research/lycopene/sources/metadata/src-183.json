@@ -1,0 +1,22 @@
+{
+  "id": "src-183",
+  "title": "Role of ROS and Nutritional Antioxidants in Human Diseases",
+  "authors": [
+    "Liu, Zewen",
+    "Ren, Zhangpin",
+    "Zhang, Jun",
+    "Chuang, Chia‐Chen",
+    "Kandaswamy, Eswar",
+    "Zhou, Tingyang",
+    "Zuo, Li"
+  ],
+  "doi": "10.3389/fphys.2018.00477",
+  "url": "https://openalex.org/W2800951902",
+  "provider": "openalex",
+  "year": 2018,
+  "venue": "Frontiers in Physiology",
+  "citation_count": 831,
+  "abstract": "The overproduction of reactive oxygen species (ROS) has been implicated in the development of various chronic and degenerative diseases such as cancer, respiratory, neurodegenerative, and digestive diseases. Under physiological conditions, the concentrations of ROS are subtlety regulated by antioxidants, which can be either generated endogenously or externally supplemented. A combination of antioxidant-deficiency and malnutrition may render individuals more vulnerable to oxidative stress, thereby increasing the risk of cancer occurrence. In addition, antioxidant defense can be overwhelmed during sustained inflammation such as in chronic obstructive pulmonary diseases, inflammatory bowel disease, and neurodegenerative disorders, cardiovascular diseases, and aging. Certain antioxidant vitamins, such as vitamin D, are essential in regulating biochemical pathways that lead to the proper functioning of the organs. Antioxidant supplementation has been shown to attenuate endogenous antioxidant depletion thus alleviating associated oxidative damage in some clinical research. However, some results indicate that antioxidants exert no favorable effects on disease control. Thus, more studies are warranted to investigate the complicated interactions between ROS and different types of antioxidants for restoration of the redox balance under pathologic conditions. This review highlights the potential roles of ROS and nutritional antioxidants in the pathogenesis of several redox imbalance-related diseases and the attenuation of oxidative stress-induced damages.",
+  "type": "academic",
+  "pdf_url": "https://www.frontiersin.org/articles/10.3389/fphys.2018.00477/pdf"
+}

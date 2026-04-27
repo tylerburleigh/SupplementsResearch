@@ -1,0 +1,25 @@
+{
+  "id": "src-162",
+  "title": "Usnic Acid extends healthspan and improves the neurodegeneration diseases via mTOR/PHA-4 signaling pathway in Caenorhabditis elegans",
+  "authors": [
+    "Xiao, Yi",
+    "Zhang, Huiling",
+    "Sheng, Yixiao",
+    "Liu, Fang",
+    "Gao, Jiajun",
+    "Liu, Guosheng",
+    "Li, Sanhua",
+    "Jiang, Nian",
+    "Yu, Changyan",
+    "Liu, Yun"
+  ],
+  "doi": "10.1016/j.isci.2022.105539",
+  "url": "https://www.semanticscholar.org/paper/47feaebd1452a3268159ab73e1b3657c9796ad60",
+  "provider": "semantic_scholar",
+  "year": 2022,
+  "venue": "iScience",
+  "citation_count": 25,
+  "abstract": "Summary The Mammalian/mechanistic target of rapamycin (mTOR) played a central role in cellular survival and aging. Inhibition of mTOR had been proposed as a reasonable strategy to promote lifespan and delay age-related diseases in evolutionarily diverse organisms. The study showed that lifespan extension and age-related diseases improvement could be achieved by targeting evolutionarily conserved mTOR pathways and mechanisms using pharmacological interventions. Using this approach in Caenorhabditis elegans, We found that 2 μM Usnic Acid significantly extended the healthy lifespan in wild-type animals. Furthermore, via genetic screen, we showed that Usnic Acid acted on mTOR, which was followed by the activation of PHA-4/Foxa to extend the healthy lifespan. Intriguingly, Usnic Acid also delayed neurodegeneration diseases such as Alzheimer’s and polyglutamine disease through mTOR-dependent manner. Our work suggested that Usnic Acid might be a viable candidate for the prevention and treatment of aging and age-related diseases.",
+  "type": "academic",
+  "pdf_url": "http://www.cell.com/article/S2589004222018119/pdf"
+}

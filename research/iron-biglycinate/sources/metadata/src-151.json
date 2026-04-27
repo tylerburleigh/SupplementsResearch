@@ -1,0 +1,23 @@
+{
+  "id": "src-151",
+  "title": "Correlation between the systemic immune-inflammation indicator (SII) and serum ferritin in US adults: a cross-sectional study based on NHANES 2015-2018",
+  "authors": [
+    "Zhang, Yang",
+    "Meng, Yang",
+    "Chen, Mingcong",
+    "Baral, Krishna",
+    "Fu, Yicheng",
+    "Yang, Yang",
+    "Cao, Lin",
+    "Zhao, Mingyi"
+  ],
+  "doi": "10.1080/07853890.2023.2275148",
+  "url": "https://www.semanticscholar.org/paper/08f0729558672208eb8823f8b8cef1e88e6cb2af",
+  "provider": "semantic_scholar",
+  "year": 2023,
+  "venue": "Annals medicus",
+  "citation_count": 24,
+  "abstract": "Abstract Background & Objective The systemic immune-inflammation indicator (SII) has been extensively employed in various diseases for course change, treatment efficacy, or prediction, whereas whether it applies to iron overload or iron deficiency remains unclear. This study aimed at investigating the correlation between SII and serum ferritin in people aged over 20 in the US. Methods The measurements of the systemic immune-inflammation indicator (SII = platelet count × neutrophil-to-lymphocyte ratio) and serum ferritin of 5491 participants in the NHANES database served as the independent and dependent variables for the present cross-sectional study, respectively. Moreover, the correlation was investigated through and used multiple linear regression, smooth curve fitting, and threshold effect. Results After rigorous inclusion and exclusion of 19,225 participants, a grand total of 5,491 participants conforming to the requirements were covered for relevant analysis. SII showed a significant negative correlation with serum ferritin in unregulated ([β=-0.05,p < 0.0001], micro-regulated [β=-0.02,p = 0.0010], and fully regulated models[β=-0.03,p < 0.0001]). In all participants, the negative correlation between SII and serum ferritin served as a non-linear relationship, as indicated by a smooth curve. Subsequently, in the subgroup analysis (stratified by age, sex, and race) fitted by the smooth curve, the above-mentioned negative correlation turned out to be nonlinear in the subgroups aged ≥40 years, Non-Hispanic Black and female, with U-shaped inflection points reaching 874.59, 930.22, and 615 for SII in the above-described subgroups, respectively. The correlation between SII and serum ferritin in Mexican American, Other Hispanic, Non-Hispanic White, and those aged less than 40 developed a linear negative correlation. Conclusions To the best of our knowledge, this study examined the correlation between SII and serum ferritin for the first time. The correlation between SII and serum ferritin was varied with sex, age and race in people aged 20 and older. Therefore, higher or lower SII may be relevant for identifying iron overload and iron deficiency.",
+  "type": "academic",
+  "pdf_url": "https://www.tandfonline.com/doi/pdf/10.1080/07853890.2023.2275148?needAccess=true"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "src-198",
+  "title": "Biology of Ageing and Role of Dietary Antioxidants",
+  "authors": [
+    "Peng, Cheng",
+    "Wang, Xiaobo",
+    "Chen, Jingnan",
+    "Jiao, Rui",
+    "Wang, Lijun",
+    "Li, Yuk Man",
+    "Zuo, Yuanyuan",
+    "Liu, Yuwei",
+    "Lei, Lin",
+    "Ying, Ka",
+    "Huang, Yü",
+    "Chen, Zhen‐Yu"
+  ],
+  "doi": "10.1155/2014/831841",
+  "url": "https://openalex.org/W2135704086",
+  "provider": "openalex",
+  "year": 2014,
+  "venue": "BioMed Research International",
+  "citation_count": 211,
+  "abstract": "Interest in relationship between diet and ageing is growing. Research has shown that dietary calorie restriction and some antioxidants extend lifespan in various ageing models. On the one hand, oxygen is essential to aerobic organisms because it is a final electron acceptor in mitochondria. On the other hand, oxygen is harmful because it can continuously generate reactive oxygen species (ROS), which are believed to be the factors causing ageing of an organism. To remove these ROS in cells, aerobic organisms possess an antioxidant defense system which consists of a series of enzymes, namely, superoxide dismutase (SOD), catalase (CAT), glutathione peroxidase (GPx), and glutathione reductase (GR). In addition, dietary antioxidants including ascorbic acid, vitamin A, vitamin C, α-tocopherol, and plant flavonoids are also able to scavenge ROS in cells and therefore theoretically can extend the lifespan of organisms. In this connection, various antioxidants including tea catechins, theaflavins, apple polyphenols, black rice anthocyanins, and blueberry polyphenols have been shown to be capable of extending the lifespan of fruit flies. The purpose of this review is to brief the literature on modern biological theories of ageing and role of dietary antioxidants in ageing as well as underlying mechanisms by which antioxidants can prolong the lifespan with focus on fruit flies as an model.",
+  "type": "academic",
+  "pdf_url": "https://downloads.hindawi.com/journals/bmri/2014/831841.pdf"
+}

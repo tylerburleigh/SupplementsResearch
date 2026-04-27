@@ -1,0 +1,29 @@
+{
+  "id": "src-022",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://www.gsh-world.com/news/nicotinamide-riboside-a-new-boost-for-health.html",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-20T20:23:31.547845+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-022.md",
+  "quality_details": {
+    "content_length": 3196,
+    "alpha_ratio": 0.824,
+    "sentence_count": 22,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

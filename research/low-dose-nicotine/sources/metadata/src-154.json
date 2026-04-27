@@ -1,0 +1,25 @@
+{
+  "id": "src-154",
+  "title": "Molecular Mechanisms of Neuroprotection by Ketone Bodies and Ketogenic Diet in Cerebral Ischemia and Neurodegenerative Diseases",
+  "authors": [
+    "Jang, Jiwon",
+    "Kim, Su Rim",
+    "Lee, Jo Eun",
+    "Lee, Seo-Yeon",
+    "Son, Hyeong Jig",
+    "Choe, Wonchae",
+    "Yoon, Kyung‐Sik",
+    "Kim, Sung Soo",
+    "Yeo, Eui‐Ju",
+    "Kang, Insug"
+  ],
+  "doi": "10.3390/ijms25010124",
+  "url": "https://openalex.org/W4390053591",
+  "provider": "openalex",
+  "year": 2023,
+  "venue": "International Journal of Molecular Sciences",
+  "citation_count": 86,
+  "abstract": "Ketone bodies (KBs), such as acetoacetate and β-hydroxybutyrate, serve as crucial alternative energy sources during glucose deficiency. KBs, generated through ketogenesis in the liver, are metabolized into acetyl-CoA in extrahepatic tissues, entering the tricarboxylic acid cycle and electron transport chain for ATP production. Reduced glucose metabolism and mitochondrial dysfunction correlate with increased neuronal death and brain damage during cerebral ischemia and neurodegeneration. Both KBs and the ketogenic diet (KD) demonstrate neuroprotective effects by orchestrating various cellular processes through metabolic and signaling functions. They enhance mitochondrial function, mitigate oxidative stress and apoptosis, and regulate epigenetic and post-translational modifications of histones and non-histone proteins. Additionally, KBs and KD contribute to reducing neuroinflammation and modulating autophagy, neurotransmission systems, and gut microbiome. This review aims to explore the current understanding of the molecular mechanisms underpinning the neuroprotective effects of KBs and KD against brain damage in cerebral ischemia and neurodegenerative diseases, including Alzheimer's disease and Parkinson's disease.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/1422-0067/25/1/124/pdf?version=1703144968"
+}

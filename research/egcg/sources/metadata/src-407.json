@@ -1,0 +1,19 @@
+{
+  "id": "src-407",
+  "title": "Anti‐infective properties of epigallocatechin‐3‐gallate (<scp>EGCG</scp>), a component of green tea",
+  "authors": [
+    "Steinmann, Jörg",
+    "Buer, Jan",
+    "Pietschmann, Thomas",
+    "Steinmann, Eike"
+  ],
+  "doi": "10.1111/bph.12009",
+  "url": "https://openalex.org/W1686797737",
+  "provider": "openalex",
+  "year": 2012,
+  "venue": "British Journal of Pharmacology",
+  "citation_count": 566,
+  "abstract": "The consumption of green tea ( C amellia sinensis ) has been shown to have many physiological and pharmacological health benefits. In the past two decades several studies have reported that epigallocatechin‐3‐gallate ( EGCG ), the main constituent of green tea, has anti‐infective properties. Antiviral activities of EGCG with different modes of action have been demonstrated on diverse families of viruses, such as R etroviridae , O rthomyxoviridae and F laviviridae and include important human pathogens like human immunodeficiency virus, influenza A virus and the hepatitis C virus. Furthermore, the molecule interferes with the replication cycle of DNA viruses like hepatitis B virus, herpes simplex virus and adenovirus. Most of these studies demonstrated antiviral properties within physiological concentrations of EGCG in vitro . In contrast, the minimum inhibitory concentrations against bacteria were 10–100‐fold higher. Nevertheless, the antibacterial effects of EGCG alone and in combination with different antibiotics have been intensively analysed against a number of bacteria including multidrug‐resistant strains such as methicillin‐resistant S taphylococcus aureus or S tenotrophomonas maltophilia . Furthermore, the catechin EGCG has antifungal activity against human‐pathogenic yeasts like C andida albicans . Although the mechanistic effects of EGCG are not fully understood, there are results indicating that EGCG binds to lipid membranes and affects the folic acid metabolism of bacteria and fungi by inhibiting the cytoplasmic enzyme dihydrofolate reductase. This review summarizes the current knowledge and future perspectives on the antibacterial, antifungal and antiviral effects of the green tea constituent EGCG .",
+  "type": "academic",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/bph.12009"
+}

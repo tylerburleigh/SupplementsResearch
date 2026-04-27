@@ -1,0 +1,26 @@
+{
+  "id": "src-147",
+  "title": "Neuroprotective Terpenoids Derived from Hericium erinaceus Fruiting Bodies: Isolation, Structural Elucidation, and Mechanistic Insights.",
+  "authors": [
+    "Cao, Ying",
+    "Wang, Qiaona",
+    "Li, Lu",
+    "Jiang, Haitao",
+    "Zhang, Bianjiang",
+    "Wu, Yulong",
+    "Zhou, Feng",
+    "Hua, Chun",
+    "Huo, Guangming",
+    "Li, Shengjie",
+    "Li, Jianmei"
+  ],
+  "doi": "10.3390/ijms26146606",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40724855",
+  "provider": "pubmed",
+  "year": 2025,
+  "venue": "International journal of molecular sciences",
+  "citation_count": 0,
+  "abstract": "Hericium erinaceus, a medicinal macrofungus, is renowned for its potential neuroprotective benefits. Here, we isolated and characterized secondary metabolites from H. erinaceus fruiting bodies and explored their neuroprotective effects and primary mechanisms of action. A novel terpenoid (4) and four known compounds (1, 2, 3, and 5) were identified. Their chemical structures were determined using nuclear magnetic resonance (NMR), high-resolution mass spectrometry (HRMS), and x-ray diffraction (XRD). Bioactivity screening using PC12 cells indicated that (3R,4R)-4-acetyl-3,4-dihydro-6,8-dihydroxy-3-methoxy-5-methyl-1H-2-benzopyran (3) and the terpenoid, (1R,4S,8aS)-1,4-dihydroxy-2,5,5,8a-tetramethyl-1,4,4a,5,6,7,8,8a-octahydronaphthalene-1-carbaldehyde (4), demonstrated protective properties against hydrogen peroxide (H2O2)-induced damage. Transcriptomics, network pharmacology, and molecular docking showed that compound 4 counteracted H2O2-induced oxidative stress and inflammation by substantially attenuating pro-inflammatory cytokine (IL-1β, IL-6) expression, downregulating pro-oxidant factors (Aoc3, Dusp3), and decreasing reactive oxygen species levels, while boosting superoxide dismutase activity. Compound 4 exerted neuroprotective effects via the NF-κB pathway. H. erinaceus represents a valuable natural reservoir of bioactive compounds for treating and preventing neurodegenerative diseases.",
+  "type": "academic",
+  "pdf_url": ""
+}

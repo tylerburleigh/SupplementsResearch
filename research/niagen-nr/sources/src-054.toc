@@ -1,0 +1,11 @@
+11	2	Abstract
+100	2	Introduction
+596	2	Discussion
+641	2	Acknowledgements
+682	2	References
+683	2	1. Flaxman SR, Bourne RRA, Resnikoff S, Ackland P, Braithwaite T, Cicinelli MV,
+691	2	3. Garway-Heath DF, Crabb DP, Bunce C, Lascaratos G, Amalfitano F, Anand N,
+695	2	4. Krupin T, Liebmann JM, Greenfield DS, Ritch R, Gardiner S, Low-Pressure
+718	2	11. Williams PA, Harder JM, Foxworth NE, Cochran KE, Philip VM, Porciatti V,
+725	2	13. Martens CR, Denman BA, Mazzo MR, Armstrong ML, Reisdorph N, McQueen
+784	2	29. Weinreb RN, Liebmann JM, Cioffi GA, Goldberg I, Brandt JD, Johnson CA,

@@ -1,0 +1,30 @@
+{
+  "id": "src-011",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://westlarecovery.com/microdosing-psychedelics-a-trend-or-a-treatment-for-addiction-recovery",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-26T10:38:49.103970+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-011.md",
+  "quality_details": {
+    "content_length": 154,
+    "alpha_ratio": 0.753,
+    "sentence_count": 1,
+    "reasons": [
+      "content too short (154 chars < 500)",
+      "few sentences detected (1 < 3)"
+    ]
+  }
+}

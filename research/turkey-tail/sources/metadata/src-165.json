@@ -1,0 +1,35 @@
+{
+  "id": "src-165",
+  "title": "Purification and Characterization Laccase from Trametes versicolor (L.) Lloyd in Submerged Fermentation",
+  "authors": [
+    "Yuliana, T.",
+    "Putri, R.",
+    "Hanidah, I.",
+    "Mardawati, E.",
+    "Tjaturina, H."
+  ],
+  "year": 2022,
+  "abstract": "",
+  "doi": "10.3923/pjbs.2022.1077.1084",
+  "url": "https://doi.org/10.3923/pjbs.2022.1077.1084",
+  "pdf_url": "",
+  "venue": "Pakistan Journal of Biological Sciences",
+  "citation_count": 6,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-23T19:05:59.269230+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-165.md",
+  "quality_details": {
+    "content_length": 11307,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "src-035",
+  "title": "Three-year low-dose menaquinone-7 supplementation helps decrease bone loss in healthy postmenopausal women",
+  "authors": [
+    "Knapen, M. H. J.",
+    "Drummen, N. E.",
+    "Smit, E.",
+    "Vermeer, C.",
+    "Theuwissen, E."
+  ],
+  "year": 2013,
+  "abstract": "",
+  "doi": "10.1007/s00198-013-2325-6",
+  "url": "https://doi.org/10.1007/s00198-013-2325-6",
+  "pdf_url": "",
+  "venue": "Osteoporosis International",
+  "citation_count": 146,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T10:53:54.368680+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-035.md",
+  "quality_details": {
+    "content_length": 13919,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

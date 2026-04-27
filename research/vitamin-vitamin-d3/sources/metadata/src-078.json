@@ -1,0 +1,31 @@
+{
+  "id": "src-078",
+  "title": "Vitamin D for the Prevention of Disease: An Endocrine Society Clinical Practice Guideline",
+  "authors": [
+    "Demay, Marie B.",
+    "Pittas, Anastassios G.",
+    "Bikle, Daniel D.",
+    "Diab, Dima L.",
+    "Kiely, Máiréad",
+    "Lazaretti‐Castro, Marise",
+    "Lips, Paul",
+    "Mitchell, Deborah M.",
+    "Murad, M. Hassan",
+    "Powers, Shelley",
+    "Rao, Sudhaker D.",
+    "Scragg, Robert",
+    "Tayek, John A.",
+    "Valent, Amy M.",
+    "Walsh, Judith M. E.",
+    "McCartney, Christopher R."
+  ],
+  "doi": "10.1210/clinem/dgae290",
+  "url": "https://openalex.org/W4399301840",
+  "provider": "openalex",
+  "year": 2024,
+  "venue": "The Journal of Clinical Endocrinology & Metabolism",
+  "citation_count": 400,
+  "abstract": "The panel suggests empiric vitamin D for those aged 1 to 18 years and adults over 75 years of age, those who are pregnant, and those with high-risk prediabetes. Due to the scarcity of natural food sources rich in vitamin D, empiric supplementation can be achieved through a combination of fortified foods and supplements that contain vitamin D. Based on the absence of supportive clinical trial evidence, the panel suggests against routine 25(OH)D testing in the absence of established indications. These recommendations are not meant to replace the current DRIs for vitamin D, nor do they apply to people with established indications for vitamin D treatment or 25(OH)D testing. Further research is needed to determine optimal 25(OH)D levels for specific health benefits.",
+  "type": "academic",
+  "pdf_url": "https://academic.oup.com/jcem/advance-article-pdf/doi/10.1210/clinem/dgae290/58009364/dgae290.pdf"
+}

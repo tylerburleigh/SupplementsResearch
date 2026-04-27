@@ -1,0 +1,27 @@
+{
+  "id": "src-898",
+  "title": "The pharmacological actions of Danzhi-xiaoyao-San on depression involve lysophosphatidic acid and microbiota-gut-brain axis: novel insights from a systems pharmacology analysis of a double-blind, randomized, placebo-controlled clinical trial.",
+  "authors": [
+    "Zhu, Xiuqing",
+    "Wu, Shengwei",
+    "Zhou, Yufang",
+    "Xiao, Tao",
+    "Xia, Liang",
+    "Wang, Youtian",
+    "Xiao, Aixiang",
+    "Guo, Jianxiong",
+    "Zhang, Ming",
+    "Wen, Yuguan",
+    "Shang, Dewei",
+    "Yu, Lin"
+  ],
+  "doi": "10.1080/07391102.2023.2251067",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37632305",
+  "provider": "pubmed",
+  "year": 2024,
+  "venue": "Journal of biomolecular structure & dynamics",
+  "citation_count": 0,
+  "abstract": "Danzhi-xiaoyao-San (DZXYS), a Traditional Chinese Medicine, plays an essential role in the clinical treatment of depression, but its mechanisms in humans remain unclear. To investigate its pharmacological effects and mechanisms as an add-on therapy for depression, we conducted a double-blind, placebo-controlled trial with depressed patients receiving selective serotonin reuptake inhibitors (SSRIs). Serum and fecal samples were collected for metabolomic and microbiome analysis using UHPLC-QTRAP-MS/MS and 16S rRNA gene sequencing technologies, respectively. Depression symptoms were assessed using the 24-item Hamilton Depression Scale. We employed network pharmacology, metabolomics, and molecular docking to identify potential targets associated with DZXYS. We also examined the correlation between gut microbes and metabolites to understand how DZXYS affects the microbiota-gut-brain axis. The results showed that DZXYS combined with SSRIs was more effective than SSRIs alone in improving depression. We identified 39 differential metabolites associated with DZXYS treatment and found seven upregulated metabolic pathways. The active ingredients quercetin and luteolin were docked to targets (AVPR2, EGFR, F2, and CDK6) associated with the enriched pathways 'pancreatic cancer' and 'phospholipase D signaling pathway', which included the metabolite lysophosphatidic acid [LPA(0:0/16:0)]. Additionally, we identified 32 differential gut microbiota species related to DZXYS treatment, with Bacteroides coprophilus and Ruminococcus gnavus showing negative correlations with specific metabolites such as L-2-aminobutyric acid and LPA(0:0/16:0). Our findings indicate that DZXYS's antidepressant mechanisms involve multiple targets, pathways, and the regulation of LPA and the microbiota-gut-brain axis. These insights from our systems pharmacology analysis contribute to a better understanding of DZXYS's potential pharmacological mechanisms in depression treatment.Communicated by Ramaswamy H. Sarma.",
+  "type": "academic",
+  "pdf_url": ""
+}

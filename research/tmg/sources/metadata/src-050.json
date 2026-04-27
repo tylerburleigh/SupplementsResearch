@@ -1,0 +1,35 @@
+{
+  "id": "src-050",
+  "title": "Prospective study on dietary intakes of folate, betaine, and choline and cardiovascular disease risk in women",
+  "authors": [
+    "Dalmeijer, G W",
+    "Olthof, M R",
+    "Verhoef, P",
+    "Bots, M L",
+    "van der Schouw, Y T"
+  ],
+  "year": 2008,
+  "abstract": "",
+  "doi": "10.1038/sj.ejcn.1602725",
+  "url": "https://doi.org/10.1038/sj.ejcn.1602725",
+  "pdf_url": "",
+  "venue": "European Journal of Clinical Nutrition",
+  "citation_count": 110,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-20T18:28:41.988308+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-050.md",
+  "quality_details": {
+    "content_length": 14556,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "src-217",
+  "title": "Curcumin for the clinical treatment of inflammatory bowel diseases: a systematic review and meta-analysis of placebo-controlled randomized clinical trials",
+  "authors": [
+    "Mohseni, Saeid",
+    "Tavakoli, Ali",
+    "Ghazipoor, Hamid",
+    "Pouralimohamadi, Neda",
+    "Zare, Roghayeh",
+    "Rampp, Thomas",
+    "Shayesteh, Maryam",
+    "Pasalar, Mehdi"
+  ],
+  "year": 2025,
+  "abstract": "IntroductionInflammatory Bowel Disease (IBD), encompassing Crohn disease (CD) and ulcerative colitis (UC), presents complex challenges in management due to dysregulated immune responses and genetic predispositions. This study explored the potential of curcumin as an adjunctive therapy in IBD, assessing its efficacy and safety through a systematic review of clinical trials to enhance treatment strategies and outcomes.MethodsTo identify placebo-controlled randomized clinical trials on curcumin treatment in IBD, databases such as Medline/PubMed, Scopus, Embase, Web of Knowledge, and Google Scholar were searched till May 2024. Inclusion criteria focused on RCTs comparing curcumin with placebo in IBD patients, with data extraction and analysis conducted using established methodologies and tools for comprehensive synthesis and assessment of study findings.ResultsIn this meta-analysis, 13 placebo-controlled RCTs on curcumin treatment in IBD were included after screening 362 records and conducting a full-text review. Most trials focused on UC patients and were published post-2010, utilizing oral curcumin with varying dosages and durations. The analysis showed curcumin’s significant efficacy in achieving clinical remission and response in UC patients, with heterogeneity observed. Adverse events and withdrawal rates did not significantly differ between curcumin and placebo groups. In CD patients, curcumin did not show superiority over placebo for clinical and endoscopic remission.ConclusionThe findings highlight curcumin’s potential as a treatment for UC but indicate inconclusive results for CD, emphasizing the need for further research. The multifaceted mechanisms of curcumin’s efficacy in IBD involve anti-inflammatory, antioxidant, microbiota modulatory, and immune-regulating properties. Further research is warranted to enhance understanding and treatment efficacy.Systematic review registrationhttps://www.crd.york.ac.uk/PROSPERO/view/CRD42024567247.",
+  "doi": "10.3389/fnut.2025.1494351",
+  "url": "https://doi.org/10.3389/fnut.2025.1494351",
+  "pdf_url": "",
+  "venue": "Frontiers in Nutrition",
+  "citation_count": 10,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-22T14:48:58.154964+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-217.md",
+  "quality_details": {
+    "content_length": 45741,
+    "alpha_ratio": 0.718,
+    "sentence_count": 425,
+    "reasons": []
+  }
+}

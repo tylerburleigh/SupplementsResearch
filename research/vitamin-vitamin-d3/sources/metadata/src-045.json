@@ -1,0 +1,32 @@
+{
+  "id": "src-045",
+  "title": "Vitamin D supplementation in critically ill patients: a meta-analysis",
+  "authors": [
+    "Zheng, Wen-He",
+    "Shi, Jia-Heng",
+    "Yu, Da-Xing",
+    "Huang, Hui-Bin"
+  ],
+  "year": 2025,
+  "abstract": "BackgroundVitamin D is commonly used in clinical practice, while its clinical significance in critically ill patients remains controversial. Therefore, we aimed to perform a systemic review and meta-analysis to investigate the effect of vitamin D on this patient population.MethodsWe searched for randomized controlled trials (RCTs) in PubMed, Embase, and the Cochrane Library databases from inception until August 15, 2024. Studies evaluating critically ill adult patients who received vitamin D compared to controls were included. The primary outcome was short-term mortality. We used the Cochrane risk of bias tool and GRADE system to evaluate the study quality and evidence. Secondary outcomes were changes in serum 25-hydroxyvitamin D levels, mechanical ventilation (MV) duration, and length of stay (LOS) in the ICU or hospital. We also conducted meta-regression, subgroup analyses, and trial sequential analysis (TSA) to explore the potential heterogeneity among the included trials.ResultsNineteen RCTs with 2,754 patients were eligible. Overall, vitamin D significantly increased serum 25-hydroxyvitamin D levels and significantly reduced the short-term mortality (risk ratio [RR] = 0.83; 95%CI, 0.70–0.98; p = 0.03, I2 = 13%), duration of MV (MD = −2.96 days; 95% CI, −5.39 to −0.52; I2 = 77%; p = 0.02) and ICU LOS (MD = −2.66 days; 95% CI, −4.04 to −1.29, I2 = 70%; p = 0.0001) but not hospital LOS (MD = −0.48 days; 95% CI, −2.37 to 1.40; I2 = 31%; p = 0.61). The meta-regression analysis revealed that the proportion of MV (MV%) accounted for the source of heterogeneity, and the subgroup analyses based on MV% suggested that the MV group was more likely to benefit from vitamin D applications than the partly MV group in all the predefined outcomes (all p values&amp;lt;0.05). TSA for short-term mortality suggested that more data is required to confirm our main conclusion.ConclusionVitamin D supplementation increased serum 25-hydroxyvitamin D levels and significantly benefited critically ill patients, especially those with MV.Systematic review registrationhttps://inplasy.com/inplasy-2022-10-0074/, INPLASY2022100074.",
+  "doi": "10.3389/fnut.2025.1505616",
+  "url": "https://doi.org/10.3389/fnut.2025.1505616",
+  "pdf_url": "",
+  "venue": "Frontiers in Nutrition",
+  "citation_count": 1,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T21:12:04.794726+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-045.md",
+  "quality_details": {
+    "content_length": 50052,
+    "alpha_ratio": 0.701,
+    "sentence_count": 490,
+    "reasons": []
+  }
+}

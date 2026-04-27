@@ -1,0 +1,17 @@
+{
+  "id": "src-223",
+  "title": "Gut microbiota derived metabolites in cardiovascular health and disease",
+  "authors": [
+    "Wang, Zeneng",
+    "Zhao, Yongzhong"
+  ],
+  "doi": "10.1007/s13238-018-0549-0",
+  "url": "https://openalex.org/W2801388770",
+  "provider": "openalex",
+  "year": 2018,
+  "venue": "Protein & Cell",
+  "citation_count": 465,
+  "abstract": "Trillions of microbes inhabit the human gut, not only providing nutrients and energy to the host from the ingested food, but also producing metabolic bioactive signaling molecules to maintain health and elicit disease, such as cardiovascular disease (CVD). CVD is the leading cause of mortality worldwide. In this review, we presented gut microbiota derived metabolites involved in cardiovascular health and disease, including trimethylamine-N-oxide (TMAO), uremic toxins, short chain fatty acids (SCFAs), phytoestrogens, anthocyanins, bile acids and lipopolysaccharide. These gut microbiota derived metabolites play critical roles in maintaining a healthy cardiovascular function, and if dysregulated, potentially causally linked to CVD. A better understanding of the function and dynamics of gut microbiota derived metabolites holds great promise toward mechanistic predicative CVD biomarker discoveries and precise interventions.",
+  "type": "academic",
+  "pdf_url": "https://link.springer.com/content/pdf/10.1007/s13238-018-0549-0.pdf"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "src-151",
+  "title": "Why the CANTOS Is a Game Changer in Cardiovascular Medicine",
+  "authors": [
+    "Abbate, Antonio"
+  ],
+  "year": 2017,
+  "abstract": "",
+  "doi": "10.1097/fjc.0000000000000546",
+  "url": "https://doi.org/10.1097/fjc.0000000000000546",
+  "pdf_url": "",
+  "venue": "Journal of Cardiovascular Pharmacology",
+  "citation_count": 13,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-24T01:13:43.860789+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-151.md",
+  "quality_details": {
+    "content_length": 11658,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "src-105",
+  "title": "GSDME-dependent pyroptosis drives abdominal aortic aneurysm via promoting vascular senescence.",
+  "authors": [
+    "Sun, Si-Jia",
+    "Zhang, Zhen",
+    "Zhang, Guo-Yan",
+    "Wu, Jian-Jin",
+    "Zhang, Yi-Xin",
+    "Wu, Wen-Bin",
+    "Zhang, Yan",
+    "Yin, Hang",
+    "Zhang, Jian-Bin",
+    "Cao, Qi",
+    "Wu, Jing-Wen",
+    "Shen, Fu-Ming",
+    "Zhou, Jian",
+    "Li, Dong-Jie",
+    "Wang, Pei"
+  ],
+  "doi": "10.1038/s41467-025-66103-1",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41407670",
+  "provider": "pubmed",
+  "year": 2025,
+  "venue": "Nature communications",
+  "citation_count": 0,
+  "abstract": "Senescence contributes to the pathology of abdominal aortic aneurysm (AAA); however, the regulation of senescence in AAA remains unclear. Here, we sought to determine the role of gasdermin-E (GSDME)-dependent non-canonical pyroptosis in AAA. GSDME-dependent non-canonical pyroptosis is activated in the lesioned vascular walls of mouse models and patients with AAA. GSDME deficiency inhibits vascular senescence and AAA progression. Combined analyses of single-cell RNA sequencing (scRNA-seq), bulk RNA-seq, and multiplex flow cytometry demonstrate that GSDME is essential for the reprogramming of vascular smooth muscle cells (VSMCs) and the shift in immune statuses of macrophages, monocytes, and neutrophils in AAA. Reintroduction of GSDME in VSMCs, but not in myeloid cells, in mice with a GSDME deletion background, recapitulates the induced vascular senescence and AAA, which is abolished by senolytic therapy with dasatinib plus quercetin. These results indicate that GSDME-dependent non-canonical pyroptosis in VSMCs may be a 'master switch' in AAA and a potential therapeutic target for managing AAA.",
+  "type": "academic",
+  "pdf_url": ""
+}

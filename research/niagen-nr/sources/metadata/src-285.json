@@ -1,0 +1,20 @@
+{
+  "id": "src-285",
+  "title": "Electrochemical detection of glutathione based on accelerated CRISPR/Cas12a <i>trans</i>-cleavage with MnO<sub>2</sub> nanosheets",
+  "authors": [
+    "Xia, Renpeng",
+    "Ouyang, Nan",
+    "Wang, Tingting",
+    "Zhuang, Yuan",
+    "Miao, Peng"
+  ],
+  "doi": "10.1039/d3cc06186h",
+  "url": "https://openalex.org/W4390946052",
+  "provider": "openalex",
+  "year": 2024,
+  "venue": "Chemical Communications",
+  "citation_count": 21,
+  "abstract": "The CRISPR/Cas12a system is accelerated by glutathione-mediated reduction of MnO<sub>2</sub> nanosheets. By monitoring the <i>trans</i>-cleavage of the DNA probe, an electrochemical method for glutathione assay is fabricated, with the detection limit of 3.5 pM. It provides a promising tool for plasma analysis with satisfactory performance, indicating the broad application prospects of this glutathione assay.",
+  "type": "academic",
+  "pdf_url": ""
+}

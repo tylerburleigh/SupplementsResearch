@@ -1,0 +1,37 @@
+{
+  "id": "src-123",
+  "title": "Effect of collagen supplementation on osteoarthritis symptoms: a meta-analysis of randomized placebo-controlled trials",
+  "authors": [
+    "García-Coronado, Juan Mario",
+    "Martínez-Olvera, Lorena",
+    "Elizondo-Omaña, Rodrigo E.",
+    "Acosta-Olivo, Carlos Alberto",
+    "Vilchez-Cavazos, Félix",
+    "Simental-Mendía, Luis Ernesto",
+    "Simental-Mendía, Mario"
+  ],
+  "year": 2019,
+  "abstract": "",
+  "doi": "10.1007/s00264-018-4211-5",
+  "url": "https://doi.org/10.1007/s00264-018-4211-5",
+  "pdf_url": "",
+  "venue": "International Orthopaedics",
+  "citation_count": 81,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-19T13:57:16.574478+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-123.md",
+  "quality_details": {
+    "content_length": 15353,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

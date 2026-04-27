@@ -1,0 +1,30 @@
+{
+  "id": "src-023",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://www.thorne.com/take-5-daily/article/a-mayo-clinic-doctor-answers-your-questions-about-nr",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-20T20:23:31.548003+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "empty",
+  "content_file": "sources/src-023.md",
+  "quality_details": {
+    "content_length": 36,
+    "alpha_ratio": 0.889,
+    "sentence_count": 0,
+    "reasons": [
+      "content too short (36 chars < 500)",
+      "few sentences detected (0 < 3)"
+    ]
+  }
+}

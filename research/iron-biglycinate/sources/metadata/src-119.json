@@ -1,0 +1,21 @@
+{
+  "id": "src-119",
+  "title": "Haem iron versus ferrous iron salts to treat iron deficiency anaemia in Gambian children: protocol for randomised controlled trial {1}",
+  "authors": [
+    "Bah, Mamadou",
+    "Verhoef, H.",
+    "Okoh, Emmanuel",
+    "Bah, Abdoulie",
+    "Prentice, A. M.",
+    "Cerami, C."
+  ],
+  "doi": "10.1186/s13063-024-08101-0",
+  "url": "https://www.semanticscholar.org/paper/4b759411d693cc64830ab89b12bbe9e7b1140542",
+  "provider": "semantic_scholar",
+  "year": 2024,
+  "venue": "Trials",
+  "citation_count": 4,
+  "abstract": "Background The World Health Organization recommends universal iron supplementation for children aged 6–23 months in countries where anaemia is seen in over 40% of the population. Conventional ferrous salts have low efficacy due to low oral absorption in children with inflammation. Haem iron is more bioavailable, and its absorption may not be decreased by inflammation. This study aims to compare daily supplementation with haem iron versus ferrous sulphate on haemoglobin concentration and serum ferritin concentration after 12 weeks of supplementation. Methods This will be a two-arm, randomised controlled trial. Gambian children aged 6–12 months with anaemia will be recruited within a predefined geographical area and recruited by trained field workers. Eligible participants will be individually randomised using a 1:1 ratio within permuted blocks to daily supplementation for 12 weeks with either 10.0 mg of elemental iron as haem or ferrous sulphate. Safety outcomes such as diarrhoea and infection-related adverse events will be assessed daily by the clinical team (see Bah et al. Additional file 4_Adverse event eCRF). Linear regression will be used to analyse continuous outcomes, with log transformation to normalise residuals as needed. Binary outcomes will be analysed by binomial regression or logistic regression, Primary analysis will be by modified intention-to-treat (i.e., those randomised and who ingested at least one supplement dose of iron), with multiple imputations to replace missing data. Effect estimates will be adjusted for baseline covariates (C-reactive protein, alpha-1-acid glycoprotein, haemoglobin, ferritin, soluble transferrin receptor). Discussion This study will determine if therapeutic supplementation with haem iron is more efficacious than with conventional ferrous sulphate in enhancing haemoglobin and ferritin concentrations in anaemic children aged 6–12 months. Trial registration Pan African Clinical Trial Registry PACTR202210523178727",
+  "type": "academic",
+  "pdf_url": "https://trialsjournal.biomedcentral.com/counter/pdf/10.1186/s13063-024-08101-0"
+}

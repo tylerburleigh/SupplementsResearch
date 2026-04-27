@@ -1,0 +1,23 @@
+{
+  "id": "src-135",
+  "title": "Plasma Total Homocysteine, B Vitamins, and Risk of Coronary Atherosclerosis",
+  "authors": [
+    "Verhoef, Petra",
+    "Kok, Frans J.",
+    "Kruyssen, Dick A.C.M.",
+    "Schouten, Evert G.",
+    "Witteman, Jacqueline C.M.",
+    "Grobbee, Diederick E.",
+    "Ueland, Per Magne",
+    "Refsum, Helga"
+  ],
+  "doi": "10.1161/01.atv.17.5.989",
+  "url": "https://openalex.org/W2168267865",
+  "provider": "openalex",
+  "year": 1997,
+  "venue": "Arteriosclerosis Thrombosis and Vascular Biology",
+  "citation_count": 242,
+  "abstract": "Epidemiological research has shown that elevated plasma total homocysteine (tHcy) is a risk factor for atherosclerotic disease. In the present case-control study, we investigated whether fasting or postmethionine-loading tHcy was a stronger predictor of risk of severe coronary atherosclerosis. Furthermore, we studied levels of B vitamins, which are involved in homocysteine metabolism. Subjects were recruited from men and women, aged 25 to 65 years, who underwent coronary angiography between June 1992 and June 1994 in a hospital in Rotterdam, The Netherlands. Cases (n=131) were defined as those with > or =90% occlusion in one and > or =40% occlusion in a second coronary artery, while control subjects (n=88) had <50% occlusion in only one coronary vessel. In addition, a population-based control group free from clinical cardiovascular disease (n=101) was studied. Coronary patients were studied at least 2.5 months after angiography or other acute illness, such as myocardial infarction. After adjusting for age and sex differences between the groups, cases had 9% (P=.01) higher geometric mean fasting and 7% (P=.04) higher geometric mean postload tHcy than the combined control groups. Despite higher levels of tHcy for cases, their geometric mean levels of red cell folate and pyridoxal 5'-phosphate were higher than for control subjects, whereas plasma vitamin B12 was only slightly lower in cases. The frequency distribution of tHcy values in cases was slightly shifted toward the right, across the entire range, compared with the distribution in the combined control group. This was somewhat more obvious for fasting than postload tHcy levels. The odds ratio (OR) for severe coronary atherosclerosis (case status) for each 1 SD increase in fasting tHcy (5 micromol/L) was 1.3 (95% confidence interval [CI], 1.0-1.6), similar to the OR for each 1 SD increase (12 micromol/L) in postmethionine-loading tHcy (1.3 [95 CI, 1.0-1.7]), after adjustment for sex, age, and other potential confounders. Furthermore, there was a significant linear trend of increasing fasting tHcy with increasing number of occluded arteries (P=.01), correcting for sex, age, and other potential confounders. Our data show a positive association between plasma tHcy and risk of severe coronary atherosclerosis, of similar strength for fasting and postload tHcy levels. The data suggest that the association exists over a wide range of tHcy levels, without a clear cutoff point below which there is no increased risk.",
+  "type": "academic",
+  "pdf_url": "https://research.wur.nl/en/publications/plasma-total-homocysteine-b-vitamins-and-risk-of-coronary-atheros"
+}

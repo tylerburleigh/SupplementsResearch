@@ -1,0 +1,38 @@
+{
+  "id": "src-024",
+  "title": "Therapeutic Potential and Clinical Effectiveness of Quercetin: A Dietary\nSupplement",
+  "authors": [
+    "Devi, Vishakha",
+    "Deswal, Geeta",
+    "Dass, Rameshwar",
+    "Chopra, Bhawna",
+    "Kriplani, Priyanka",
+    "Grewal, Ajmer Singh",
+    "Guarve, Kumar",
+    "Dhingra, Ashwani K."
+  ],
+  "year": 2024,
+  "abstract": "Abstract:\nFruits and vegetables (like apples, citrus, grapes, onions, parsley, etc.) are the\nprimary dietary sources of quercetin. In addition, isolated quercetin is also available on the\nmarket as a dietary supplement with a daily dose of up to 1000 mg/d. The objective of the\npresent study is to explore the therapeutic potential and clinical efficacy of quercetin as a dietary\nsupplement. The present paper highlights the safety parameters and clinical trial studies\nwith several targets reviewed from the data available on PubMed, Science Direct, ClinicalTrails.\ngov, and from many reputed foundations. The results of the studies prove the\nunique position of quercetin in the treatment of various disorders and the possibility of using\nphytochemicals such as quercetin for an efficient cure. As evidenced by the numerous published\nreports on human interventions, it has been concluded that quercetin intake significantly\nimproves disease conditions with minimal adverse effects.",
+  "doi": "10.2174/012772574x269376231107095831",
+  "url": "https://doi.org/10.2174/012772574x269376231107095831",
+  "pdf_url": "",
+  "venue": "Recent Advances in Food, Nutrition &amp; Agriculture",
+  "citation_count": 10,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-22T19:48:09.645927+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-024.md",
+  "quality_details": {
+    "content_length": 49630,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

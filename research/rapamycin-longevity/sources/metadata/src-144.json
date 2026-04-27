@@ -1,0 +1,17 @@
+{
+  "id": "src-144",
+  "title": "Evaluating the life-extending potential and safety profile of rapamycin: a Mendelian Randomization study of the mTOR pathway",
+  "authors": [
+    "Sobczyk, Maria K",
+    "Gaunt, T."
+  ],
+  "doi": "10.1101/2023.10.02.23296427",
+  "url": "https://www.semanticscholar.org/paper/f72a503581aa3be1f80d0045e495aa06fa093509",
+  "provider": "semantic_scholar",
+  "year": 2023,
+  "venue": "medRxiv",
+  "citation_count": 1,
+  "abstract": "Objective: The mechanistic target of rapamycin (mTOR) pathway plays an integral role in cellular metabolism, growth, and aging. While rapamycin and its analogs inhibit the mTOR pathway, extending lifespan in various organisms, the long-term safety and efficacy of these compounds in humans remain understudied. Methods: Utilizing two mTOR expression QTL instruments derived from the eQTLgen and MetaBrain studies, we sought to explore the potential causal relationship between mTOR expression inhibition in blood and brain cortex (mimicking chronic rapamycin use), and its effects on longevity, cardiometabolic disease, prostate cancer and anthropometric risk factors. Subsequently, we extended the selection of instruments to 47 other members of the mTOR pathway. To complement this Mendelian randomization (MR) evidence, we conducted genetic colocalisation and sampling-based enrichment testing. Results: Our findings suggest that genetically proxied mTOR inhibition may increase the odds of attaining top 1% longest lifespan in the population (OR=1.24, OR 95%CI=1-1.53, p-value=0.048). Moreover, mTOR inhibition significantly reduced body mass index (BMI), basal metabolic rate (BMR), height, and age at menopause, while increasing bone mineral density. Interestingly, there was generally little evidence linking mTOR inhibition to cardiovascular disease incidence, with the exception of weak evidence for a protective effect against heart failure (OR=0.94, OR 95%CI=0.89-0.99, p-value=0.039). Chronic mTOR inhibition did not causally affect prostate cancer incidence but increased the risk of developing type 2 diabetes. A higher-than-expected (p-value = 0.05) number of genes in the mTOR pathway were causally associated with BMR. Conclusions: This study highlights the potential lifespan-extending effects of mTOR inhibition and its significant influence on metabolic risk factors and disease. Members of the mTOR complex, especially mTORC1, play a disproportionate role in influencing BMR and BMI, which provides valuable insight for potential therapeutic target development.",
+  "type": "academic",
+  "pdf_url": "https://www.medrxiv.org/content/medrxiv/early/2023/10/02/2023.10.02.23296427.full.pdf"
+}

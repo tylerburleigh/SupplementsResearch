@@ -1,0 +1,18 @@
+{
+  "id": "src-316",
+  "title": "Enzyme-independent catabolism of cysteine with pyridoxal-5'-phosphate.",
+  "authors": [
+    "Mulay, Prajakatta",
+    "Chen, Cindy",
+    "Krishna, Vijay"
+  ],
+  "doi": "10.1038/s41598-022-26966-6",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36609609",
+  "provider": "pubmed",
+  "year": 2023,
+  "venue": "Scientific reports",
+  "citation_count": 0,
+  "abstract": "Pyridoxal-5'-phosphate (PLP) is a versatile cofactor that assists in different types of enzymatic reactions. PLP has also been reported to react with substrates and catalyze some of these reactions independent of enzymes. One such catalytic reaction is the breakdown of cysteine to produce hydrogen sulfide (H2S) in the presence of multivalent metal ions. However, the enzyme-independent catalytic activity of PLP in catabolizing cysteine in the absence of multivalent ions is unknown. In this study, we show that PLP reacts with cysteine to form a thiazolidine product, which is supported by quantum chemical calculations of the absorption spectrum. The reaction of PLP with cysteine is dependent on ionic strength and pH. The thiazolidine product slowly decomposes to produce H2S and the PLP regenerates to its active form with longer reaction times (> 24 h), suggesting that PLP can act as a catalyst. We propose an enzyme-independent plausible reaction mechanism for PLP catalyzed cysteine breakdown to produce H2S, which proceeds through the formation of thiazolidine ring intermediates that later hydrolyzes slowly to regenerate the PLP. This work demonstrates that PLP catalyzes cysteine breakdown in the absence of enzymes, base, and multivalent metal ions to produce H2S.",
+  "type": "academic",
+  "pdf_url": ""
+}

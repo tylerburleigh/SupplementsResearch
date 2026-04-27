@@ -1,0 +1,23 @@
+{
+  "id": "src-294",
+  "title": "Microbial-derived metabolites as a risk factor of age-related cognitive decline and dementia",
+  "authors": [
+    "Connell, Emily",
+    "Gall, Gwénaëlle Le",
+    "Pontifex, Matthew G.",
+    "Sami, Saber",
+    "Cryan, John F.",
+    "Clarke, Gerard",
+    "Müller, Michael",
+    "Vauzour, David"
+  ],
+  "doi": "10.1186/s13024-022-00548-6",
+  "url": "https://openalex.org/W4283020259",
+  "provider": "openalex",
+  "year": 2022,
+  "venue": "Molecular Neurodegeneration",
+  "citation_count": 199,
+  "abstract": "A consequence of our progressively ageing global population is the increasing prevalence of worldwide age-related cognitive decline and dementia. In the absence of effective therapeutic interventions, identifying risk factors associated with cognitive decline becomes increasingly vital. Novel perspectives suggest that a dynamic bidirectional communication system between the gut, its microbiome, and the central nervous system, commonly referred to as the microbiota-gut-brain axis, may be a contributing factor for cognitive health and disease. However, the exact mechanisms remain undefined. Microbial-derived metabolites produced in the gut can cross the intestinal epithelial barrier, enter systemic circulation and trigger physiological responses both directly and indirectly affecting the central nervous system and its functions. Dysregulation of this system (i.e., dysbiosis) can modulate cytotoxic metabolite production, promote neuroinflammation and negatively impact cognition. In this review, we explore critical connections between microbial-derived metabolites (secondary bile acids, trimethylamine-N-oxide (TMAO), tryptophan derivatives and others) and their influence upon cognitive function and neurodegenerative disorders, with a particular interest in their less-explored role as risk factors of cognitive decline.",
+  "type": "academic",
+  "pdf_url": "https://molecularneurodegeneration.biomedcentral.com/counter/pdf/10.1186/s13024-022-00548-6"
+}

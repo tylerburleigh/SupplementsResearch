@@ -1,0 +1,18 @@
+{
+  "id": "src-173",
+  "title": "Chemoprevention of Cancer",
+  "authors": [
+    "Tsao, Anne S.",
+    "Kim, E. S.",
+    "Hong, W. K."
+  ],
+  "doi": "10.3322/canjclin.54.3.150",
+  "url": "https://openalex.org/W2000879602",
+  "provider": "openalex",
+  "year": 2004,
+  "venue": "CA A Cancer Journal for Clinicians",
+  "citation_count": 334,
+  "abstract": "Cancer chemoprevention is defined as the use of natural, synthetic, or biologic chemical agents to reverse, suppress, or prevent carcinogenic progression to invasive cancer. The success of several recent clinical trials in preventing cancer in high-risk populations suggests that chemoprevention is a rational and appealing strategy. This review will highlight current clinical research in chemoprevention, the biologic effects of chemopreventive agents on epithelial carcinogenesis, and the usefulness of intermediate biomarkers as markers of premalignancy. Selected chemoprevention trials are discussed with a focus on strategies of trial design and clinical outcome. Future directions in the field of chemoprevention will be proposed that are based on recently acquired mechanistic insight into carcinogenesis.",
+  "type": "academic",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.3322/canjclin.54.3.150"
+}

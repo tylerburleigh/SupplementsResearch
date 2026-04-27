@@ -1,0 +1,35 @@
+{
+  "id": "src-063",
+  "title": "1H-NMR metabolomic profile of healthy and osteoarthritic canine synovial fluid before and after UC-II supplementation",
+  "authors": [
+    "Stabile, Marzia",
+    "Girelli, Chiara Roberta",
+    "Lacitignola, Luca",
+    "Samarelli, Rossella",
+    "Crovace, Antonio",
+    "Fanizzi, Francesco Paolo",
+    "Staffieri, Francesco"
+  ],
+  "year": 2022,
+  "abstract": "AbstractThe aim of the study was to compare the metabolomic synovial fluid (SF) profile of dogs affected by spontaneous osteoarthritis (OA) and supplemented with undenatured type II collagen (UC-II), with that of healthy control dogs. Client-owned dogs were enrolled in the study and randomized in two different groups, based on the presence/absence of OA (OA group and OA-free group). All dogs were clinically evaluated and underwent SF sampling for1H-Nuclear Magnetic Resonance spectroscopy (1H-NMR) analysis at time of presentation. All dogs included in OA group were supplemented with UC-II orally administered for 30 days. After this period, they were reassessed (OA-T30). The differences in the1H-NMR metabolic SFs profiles between groups (OA-free, OA-T0 and OA-T30) were studied. The multivariate statistical analysis performed on SFs under different conditions (OA-T0 vs OA-T30 SFs; OA-T0 vs OA-free SFs and OA-T30 vs OA-free SFs) gave models with excellent goodness of fit and predictive parameters, revealed by a marked separation between groups. β-Hydroxybutyrate was identified as a characteristic compound of osteoarthritic joints, showing the important role of fat metabolism during OA. The absence of β-hydroxybutyrate after UC-II supplementation suggests the supplement’s effectiveness in rebalancing the metabolism inside the joint. The unexpectedly high level of lactate in the OA-free group suggests that lactate could not be considered a good marker for OA. These results prove that1H-NMR-based metabolomic analysis is a valid tool to study and monitor OA and that UC-II improves clinical symptoms and the SF metabolic profile in OA dogs.",
+  "doi": "10.1038/s41598-022-23977-1",
+  "url": "https://doi.org/10.1038/s41598-022-23977-1",
+  "pdf_url": "",
+  "venue": "Scientific Reports",
+  "citation_count": 11,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-19T13:45:11.784522+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-063.md",
+  "quality_details": {
+    "content_length": 59182,
+    "alpha_ratio": 0.734,
+    "sentence_count": 898,
+    "reasons": []
+  }
+}

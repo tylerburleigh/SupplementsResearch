@@ -1,0 +1,18 @@
+{
+  "id": "src-240",
+  "title": "Genetically Proxied CRP (C-Reactive Protein) Levels and Lobar Intracerebral Hemorrhage Risk",
+  "authors": [
+    "Myserlis, E. P.",
+    "Anderson, C.",
+    "Georgakis, Marios K."
+  ],
+  "doi": "10.1161/strokeaha.122.041889",
+  "url": "https://www.semanticscholar.org/paper/253efcb44b1241d963a1f102d1b39f28ca07abc5",
+  "provider": "semantic_scholar",
+  "year": 2023,
+  "venue": "Stroke",
+  "citation_count": 7,
+  "abstract": "Background: Recent evidence suggests that higher CRP (C-reactive protein) levels are associated with lower risk of Alzheimer disease, speculating that CRP might be involved in Aβ clearance mechanisms. Testing this hypothesis, we explored whether genetically proxied CRP levels are also associated with lobar intracerebral hemorrhage (ICH), commonly caused by cerebral amyloid angiopathy. Methods: We used 4 genetic variants within the CRP gene that explain up to 64% of the variance of circulating CRP levels and explored in 2-sample Mendelian randomization analyses associations with risk of any, lobar, and deep ICH (1545 cases and 1481 controls). Results: Higher genetically proxied CRP levels were associated with lower odds of lobar ICH (odds ratio per SD increment in CRP, 0.45 [95% CI, 0.25–0.73]) but not deep ICH (odds ratio, 0.72 [95% CI, 0.45–1.14]). There was evidence of colocalization (posterior probability of association, 72.4%) in the signals for CRP and lobar ICH. Conclusions: Our results provide supportive evidence that high CRP levels may have a protective role in amyloid-related pathology.",
+  "type": "academic",
+  "pdf_url": "https://www.ahajournals.org/doi/pdf/10.1161/STROKEAHA.122.041889"
+}

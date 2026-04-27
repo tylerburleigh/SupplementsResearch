@@ -1,0 +1,30 @@
+{
+  "id": "src-152",
+  "title": "A p97/Valosin-Containing Protein Inhibitor Drug CB-5083 Has a Potent but Reversible Off-Target Effect on Phosphodiesterase-6",
+  "authors": [
+    "Leinonen, Henri",
+    "Cheng, Cheng",
+    "Pitkänen, Marja",
+    "Sander, C. L.",
+    "Zhang, Jianye",
+    "Saeid, Samadzadeh",
+    "Turunen, T.",
+    "Shmara, Alyaa",
+    "Weiss, Lan",
+    "Ta, Lac",
+    "Ton, Timothy",
+    "Koskelainen, A.",
+    "Vargas, Jesse D.",
+    "Kimonis, V.",
+    "Palczewski, K."
+  ],
+  "doi": "10.1124/jpet.120.000486",
+  "url": "https://www.semanticscholar.org/paper/9d57677a2d3ed225cb78c9ab02db734949ad2b78",
+  "provider": "semantic_scholar",
+  "year": 2021,
+  "venue": "Journal of Pharmacology and Experimental Therapeutics",
+  "citation_count": 41,
+  "abstract": "CB-5083 is an inhibitor of p97/valosin-containing protein (VCP), for which phase I trials for cancer were terminated because of adverse effects on vision, such as photophobia and dyschromatopsia. Lower dose CB-5083 could combat inclusion body myopathy with early-onset Paget disease and frontotemporal dementia or multisystem proteinopathy caused by gain-of-function mutations in VCP. We hypothesized that the visual impairment in the cancer trial was due to CB-5083’s inhibition of phosphodiesterase (PDE)-6, which mediates signal transduction in photoreceptors. To test our hypothesis, we used in vivo and ex vivo electroretinography (ERG) in mice and a PDE6 activity assay of bovine rod outer segment (ROS) extracts. Additionally, histology and optical coherence tomography were used to assess CB-5083’s long-term ocular toxicity. A single administration of CB-5083 led to robust ERG signal deterioration, specifically in photoresponse kinetics. Similar recordings with known PDE inhibitors sildenafil, tadalafil, vardenafil, and zaprinast showed that only vardenafil had as strong an effect on the ERG signal in vivo as did CB-5083. In the biochemical assay, CB-5083 inhibited PDE6 activity with a potency higher than sildenafil but lower than that of vardenafil. Ex vivo ERG revealed a PDE6 inhibition constant of 80 nM for CB-5083, which is 7-fold smaller than that for sildenafil. Finally, we showed that the inhibitory effect of CB-5083 on visual function is reversible, and its chronic administration does not cause permanent retinal anomalies in aged VCP-disease model mice. Our results warrant re-evaluation of CB-5083 as a clinical therapeutic agent. We recommend preclinical ERG recordings as a routine drug safety screen. SIGNIFICANCE STATEMENT This report supports the use of a valosin-containing protein (VCP) inhibitor drug, CB-5083, for the treatment of neuromuscular VCP disease despite CB-5083’s initial clinical failure for cancer treatment due to side effects on vision. The data show that CB-5083 displays a dose-dependent but reversible inhibitory action on phosphodiesterase-6, an essential enzyme in retinal photoreceptor function, but no long-term consequences on retinal function or structure.",
+  "type": "academic",
+  "pdf_url": "https://jpet.aspetjournals.org/content/jpet/378/1/31.full.pdf"
+}

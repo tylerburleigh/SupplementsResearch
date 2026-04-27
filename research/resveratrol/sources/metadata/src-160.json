@@ -1,0 +1,20 @@
+{
+  "id": "src-160",
+  "title": "Inhibitory effect of resveratrol on swimming motility and adhesion ability against Salmonella enterica serovar Typhimurium infection.",
+  "authors": [
+    "Lou, Fei",
+    "Wang, Kunli",
+    "Hou, Yunfeng",
+    "Shang, Xiaolei",
+    "Tang, Fayin"
+  ],
+  "doi": "10.1016/j.micpath.2023.106323",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37633505",
+  "provider": "pubmed",
+  "year": 2023,
+  "venue": "Microbial pathogenesis",
+  "citation_count": 0,
+  "abstract": "Salmonella enterica serovar Typhimurium (S. typhimurium) is a common Gram-negative foodborne pathogen that threatens public health and hinders the development of livestock industry. Resveratrol, an important component in grape fruits and seeds, has been shown to possess multiple biological activities, but its potential effects on S. typhimurium-mediated virulence have been rarely reported. In this study, we investigated the effect of resveratrol on S. typhimurium flagella -mediated virulence. The results showed that resveratrol significantly reduced the transcription of flagella genes and swimming motility of S. typhimurium, and also inhibited the transcription of T3SS-related virulence genes with varying degrees inhibiting bacterial growth. Simultaneously, resveratrol significantly reduced the adhesion of S. typhimurium to HeLa cells. Unfortunately, resveratrol does not improve the survival rate of S. typhimurium-infected mice, but it reduces the bacterial load in the liver and spleen of infected mice, and it also has a certain degree of anti-inflammatory activity. In summary, these results indicated that resveratrol has the potential to be developed as an alternative drug or antibacterial agent to prevent Salmonella infection.",
+  "type": "academic",
+  "pdf_url": ""
+}

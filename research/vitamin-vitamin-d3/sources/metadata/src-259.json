@@ -1,0 +1,36 @@
+{
+  "id": "src-259",
+  "title": "Effects of combined calcium and vitamin D supplementation on osteoporosis in postmenopausal women: a systematic review and meta-analysis of randomized controlled trials",
+  "authors": [
+    "Liu, Chunxiao",
+    "Kuang, Xiaotong",
+    "Li, Kelei",
+    "Guo, Xiaofei",
+    "Deng, Qingxue",
+    "Li, Duo"
+  ],
+  "year": 2020,
+  "abstract": "<p>The aim of the present study was to explore whether combined calcium and vitamin D supplementation is beneficial for osteoporosis in postmenopausal women.</p>",
+  "doi": "10.1039/d0fo00787k",
+  "url": "https://doi.org/10.1039/d0fo00787k",
+  "pdf_url": "",
+  "venue": "Food &amp; Function",
+  "citation_count": 143,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T20:55:20.965741+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-259.md",
+  "quality_details": {
+    "content_length": 4148,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

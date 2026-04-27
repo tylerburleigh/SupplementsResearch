@@ -1,0 +1,16 @@
+{
+  "id": "src-374",
+  "title": "The Effect of Vitamin E and Beta Carotene on the Incidence of Lung Cancer and Other Cancers in Male Smokers",
+  "authors": [
+    "Group, The Alpha-Tocopherol Beta Carotene Cancer Prevention Study"
+  ],
+  "doi": "10.1056/nejm199404143301501",
+  "url": "https://openalex.org/W1525444530",
+  "provider": "openalex",
+  "year": 1994,
+  "venue": "New England Journal of Medicine",
+  "citation_count": 4723,
+  "abstract": "We found no reduction in the incidence of lung cancer among male smokers after five to eight years of dietary supplementation with alpha-tocopherol or beta carotene. In fact, this trial raises the possibility that these supplements may actually have harmful as well as beneficial effects.",
+  "type": "academic",
+  "pdf_url": "https://www.nejm.org/doi/pdf/10.1056/NEJM199404143301501?articleTools=true"
+}

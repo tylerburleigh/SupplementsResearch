@@ -1,0 +1,29 @@
+{
+  "id": "src-010",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://www.shalusharma.com/2025/04/fisetin-supplement-benefits.html",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-24T12:44:08.668364+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-010.md",
+  "quality_details": {
+    "content_length": 14144,
+    "alpha_ratio": 0.798,
+    "sentence_count": 111,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

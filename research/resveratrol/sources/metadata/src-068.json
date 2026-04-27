@@ -1,0 +1,20 @@
+{
+  "id": "src-068",
+  "title": "Resveratrol Supplementation and its Potential Benefits in Obesity-related Non-communicable Diseases.",
+  "authors": [
+    "Shen, Chun-Yu",
+    "Li, Chen-Pi",
+    "Yu, Jui-Ting",
+    "Ho, Ying-Jui",
+    "Tsai, Ru-Yin"
+  ],
+  "doi": "10.21873/invivo.14235",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41760304",
+  "provider": "pubmed",
+  "year": 2026,
+  "venue": "In vivo (Athens, Greece)",
+  "citation_count": 0,
+  "abstract": "BACKGROUND/AIM: Resveratrol, a polyphenolic compound found in grapes, berries, and peanuts, has been linked to antioxidant, anti-inflammatory, and vasoprotective effects. Yet, evidence from randomized controlled trials (RCTs) remains inconsistent, and the quality, dosage, and cost of commercial resveratrol products vary considerably, raising uncertainty about their true efficacy. A comprehensive synthesis of its effects on obesity-related non-communicable diseases (NCDs) is therefore warranted. Given that obesity is a key driver of metabolic dysregulation underlying diabetes, cardiovascular disease, and fatty liver disease, clarifying resveratrol's potential in overweight and obese populations is of particular importance.\nMATERIALS AND METHODS: We systematically searched PubMed, Embase, the Cochrane Library, and Web of Science for RCTs published up to July 2025 that evaluated resveratrol supplementation in adults with obesity-related metabolic disorders or associated risk factors. Study selection and data extraction followed PRISMA 2020 guidelines. Pooled estimates were calculated using random-effects models, and heterogeneity was assessed with the I statistic.\nRESULTS: Forty RCTs involving 2551 participants were included. Resveratrol significantly reduced the homeostatic model assessment of insulin resistance (HOMA-IR), total cholesterol (TC), triglycerides (TG), low density lipoprotein (LDL) cholesterol, systolic blood pressure (SBP) and diastolic blood pressure (DBP), high-sensitivity C-reactive protein (hs-CRP), tumor necrosis factor-alpha (TNF-α), and interleukin-6 (IL-6). No consistent changes were observed for high-density lipoprotein (HDL) cholesterol, body weight (BW), body mass index (BMI), fat mass, hip circumference (BC), waist circumference (WC), aspartate aminotransferase (AST), alanine aminotransferase (ALT), gamma-glutamyl transferase (GGT), or liver fat. To our knowledge, this meta-analysis includes the largest number of RCTs to date and the most comprehensive coverage of obesity-related metabolic and inflammatory endpoints. Effect sizes varied by intervention dose and duration.\nCONCLUSION: Resveratrol supplementation shows modest benefits on selected metabolic and inflammatory parameters but does not exert broad effects across all obesity-related NCD risk factors. Its potential role may be most relevant in populations with metabolic disturbances. Large-scale, long-term RCTs are warranted to clarify optimal dosing strategies and establish its utility in the prevention and management of obesity-related non-communicable diseases.",
+  "type": "academic",
+  "pdf_url": ""
+}

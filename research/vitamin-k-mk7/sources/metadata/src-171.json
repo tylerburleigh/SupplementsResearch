@@ -1,0 +1,25 @@
+{
+  "id": "src-171",
+  "title": "Kallikrein–kinin system as a potential target for the treatment of intervertebral disc degeneration",
+  "authors": [
+    "Lu, Tongqing",
+    "Zhu, Wei",
+    "Yang, Fangjun",
+    "Zhu, Kai",
+    "Ren, Jie",
+    "Zhu, Huanping",
+    "Ye, Binglin",
+    "Sun, Fengze",
+    "Zhang, Wanqian",
+    "Qiu, Xiaoming"
+  ],
+  "doi": "10.1186/s40001-025-03341-5",
+  "url": "https://openalex.org/W4415994772",
+  "provider": "openalex",
+  "year": 2025,
+  "venue": "European journal of medical research",
+  "citation_count": 0,
+  "abstract": "Intervertebral disc degeneration (IVDD) is one of the main causes of chronic low back pain (LBP) and related spinal diseases, severely affecting patients' quality of life and imposing a considerable burden on healthcare systems. Current treatment strategies for IVDD primarily include conservative management and surgical intervention, but the therapeutic outcomes remain limited. Consequently, there is an urgent need to identify novel therapeutic targets. Recent research highlights the kallikrein-kinin system (KKS), a complex polypeptide network, as a key player in the pathological processes of IVDD. This review summarizes the multiple mechanisms by which KKS may contribute to IVDD, focusing on its involvement in mechanical stress, inflammatory responses, oxidative stress, cell proliferation and apoptosis, cellular senescence, extracellular matrix (ECM) degradation, angiogenesis, nerve ingrowth, nutrient supply, and genetic factors. Emerging evidence suggests that KKS exerts its functions largely through bradykinin 1 receptor (B1R) and bradykinin 2 receptor (B2R), regulating proinflammatory and oxidative processes, while also playing critical roles in apoptosis, senescence, and neovascularization. Furthermore, KKS is implicated in IVDD progression via modulation of calcium ion channels and key signaling pathways (e.g., NF-κB, MAPK, PI3K/Akt/mTOR). This review also discusses the role of KKS in IVDD-related pain mechanisms, highlighting its potential regulation of nerve growth factor (NGF) and subsequent modulation of pain perception. Collectively, these findings point to KKS as a promising therapeutic target for IVDD. Future studies should delve deeper into the local and systemic expression of KKS in intervertebral discs, develop targeted drugs against B1R and B2R, and evaluate their clinical efficacy and safety in IVDD treatment, thereby providing a theoretical foundation and novel strategies for more effective IVDD interventions.",
+  "type": "academic",
+  "pdf_url": "https://eurjmedres.biomedcentral.com/counter/pdf/10.1186/s40001-025-03341-5"
+}

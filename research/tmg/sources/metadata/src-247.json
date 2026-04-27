@@ -1,0 +1,19 @@
+{
+  "id": "src-247",
+  "title": "A Meta-Analysis of Randomized Trials for the Treatment of Nonalcoholic Fatty Liver Disease",
+  "authors": [
+    "Musso, Giovanni",
+    "Gambino, Roberto",
+    "Cassader, Maurizio",
+    "Pagano, Gianfranco"
+  ],
+  "doi": "10.1002/hep.23623",
+  "url": "https://openalex.org/W2025680761",
+  "provider": "openalex",
+  "year": 2010,
+  "venue": "Hepatology",
+  "citation_count": 565,
+  "abstract": "Well-designed RCTs of adequate size and duration, with histological endpoints, are needed to assess long-term safety and efficacy of proposed treatments on patient-oriented clinical outcomes.",
+  "type": "academic",
+  "pdf_url": "http://hdl.handle.net/2318/82806"
+}

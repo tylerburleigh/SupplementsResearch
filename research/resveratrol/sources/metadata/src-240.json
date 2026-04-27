@@ -1,0 +1,22 @@
+{
+  "id": "src-240",
+  "title": "Tumor suppressor p53 is a regulator of bcl-2 and bax gene expression in vitro and in vivo.",
+  "authors": [
+    "Miyashita, Toshiyuki",
+    "Krajewski, Stanisław",
+    "Krajewska, Maryla",
+    "Wang, Hong‐Gang",
+    "Lin, Hsueh‐Kung",
+    "Liebermann, Dan A.",
+    "Hoffman, Barbara",
+    "Reed, John C."
+  ],
+  "url": "https://openalex.org/W1498586399",
+  "provider": "openalex",
+  "year": 1994,
+  "venue": "PubMed",
+  "citation_count": 2165,
+  "abstract": "The p53 tumor suppressor gene product can induce apoptotic cell death through an unknown mechanism. Here we demonstrate that a temperature-sensitive p53 induces temperature-dependent decreases in the expression of the apoptosis-suppressing gene bcl-2 in the murine leukemia cell M1, while simultaneously stimulating increases in the expression of bax, a gene which encodes a dominant-inhibitor of the Bcl-2 protein. Mice deficient in p53 exhibit increases in Bcl-2 and decreases in Bax protein levels in several tissues as determined by immunohistochemical and immunoblot methods. The findings suggest a potential mechanism by which p53 regulates apoptosis, as well as responses to radiation and chemotherapeutic drugs in cancer.",
+  "type": "academic",
+  "pdf_url": ""
+}

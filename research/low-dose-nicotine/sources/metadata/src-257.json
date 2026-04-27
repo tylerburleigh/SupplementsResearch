@@ -1,0 +1,18 @@
+{
+  "id": "src-257",
+  "title": "The role of Nrf2 signaling in counteracting neurodegenerative diseases",
+  "authors": [
+    "Dinkova‐Kostova, Albena T.",
+    "Kostov, Rumen V.",
+    "Kazantsev, Aleksey"
+  ],
+  "doi": "10.1111/febs.14379",
+  "url": "https://openalex.org/W2783763012",
+  "provider": "openalex",
+  "year": 2018,
+  "venue": "FEBS Journal",
+  "citation_count": 333,
+  "abstract": "The transcription factor Nrf2 (nuclear factor-erythroid 2 p45-related factor 2) functions at the interface of cellular redox and intermediary metabolism. Nrf2 target genes encode antioxidant enzymes, and proteins involved in xenobiotic detoxification, repair and removal of damaged proteins and organelles, inflammation, and mitochondrial bioenergetics. The function of Nrf2 is altered in many neurodegenerative disorders, such as Huntington's disease, Alzheimer's disease, amyotrophic lateral sclerosis, and Friedreich's ataxia. Nrf2 activation mitigates multiple pathogenic processes involved in these neurodegenerative disorders through upregulation of antioxidant defenses, inhibition of inflammation, improvement of mitochondrial function, and maintenance of protein homeostasis. Small molecule pharmacological activators of Nrf2 have shown protective effects in numerous animal models of neurodegenerative diseases, and in cultures of human cells expressing mutant proteins. Targeting Nrf2 signaling may provide a therapeutic option to delay onset, slow progression, and ameliorate symptoms of neurodegenerative disorders.",
+  "type": "academic",
+  "pdf_url": "https://febs.onlinelibrary.wiley.com/doi/pdfdirect/10.1111/febs.14379"
+}

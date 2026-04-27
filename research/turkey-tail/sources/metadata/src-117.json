@@ -1,0 +1,17 @@
+{
+  "id": "src-117",
+  "title": "Fungal secondary metabolites in food and pharmaceuticals in the era of multi-omics",
+  "authors": [
+    "Shankar, Akshay",
+    "Sharma, Krishna Kant"
+  ],
+  "doi": "10.1007/s00253-022-11945-8",
+  "url": "https://openalex.org/W4280589653",
+  "provider": "openalex",
+  "year": 2022,
+  "venue": "Applied Microbiology and Biotechnology",
+  "citation_count": 81,
+  "abstract": "Fungi produce several bioactive metabolites, pigments, dyes, antioxidants, polysaccharides, and industrial enzymes. Fungal products are also the primary sources of functional food and nutrition, and their pharmacological products are used for healthy aging. Their molecular properties are validated through the use of recent high-throughput genomic, transcriptomic, and metabolomic tools and techniques. Together, these updated multi-omic tools have been used to study fungal metabolites structure and their mode of action on biological and cellular processes. Diverse groups of fungi produce different proteins and secondary metabolites, which possess tremendous biotechnological and pharmaceutical applications. Furthermore, its use and acceptability can be accelerated by adopting multi-omics, bioinformatics, and machine learning tools that generate a huge amount of molecular data. The integration of artificial intelligence and machine learning tools in the era of omics and big data has opened up a new outlook in both basic and applied researches in the area of nutraceuticals and functional food and nutrition. KEY POINTS: • Multi-omic tool helps in the identification of novel fungal metabolites • Intra-omic data from genomics to bioinformatics • Novel metabolites and application in human health.",
+  "type": "academic",
+  "pdf_url": "https://link.springer.com/content/pdf/10.1007/s00253-022-11945-8.pdf"
+}

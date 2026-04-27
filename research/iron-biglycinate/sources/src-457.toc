@@ -1,0 +1,5 @@
+35	2	1. Introduction
+148	2	4. Iron Absorption and Regulation Mechanisms
+159	2	4. Iron Absorption and Regulation Mechanisms
+624	2	6. Conclusions and Future Trends
+660	2	References

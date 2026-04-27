@@ -1,0 +1,21 @@
+{
+  "id": "src-107",
+  "title": "AMPK: A bridge between diabetes mellitus and Alzheimer's disease.",
+  "authors": [
+    "Chen, Meixiang",
+    "Huang, Nanqu",
+    "Liu, Ju",
+    "Huang, Juan",
+    "Shi, Jingshan",
+    "Jin, Feng"
+  ],
+  "doi": "10.1016/j.bbr.2020.113043",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/33307136",
+  "provider": "pubmed",
+  "year": 2021,
+  "venue": "Behavioural brain research",
+  "citation_count": 0,
+  "abstract": "The pathogenesis and etiology of diabetes mellitus (DM) and Alzheimer's disease (AD) share many common cellular and molecular themes. Recently, a growing body of research has shown that AMP-activated protein kinase (AMPK), a biomolecule that regulates energy balance and glucose and lipid metabolism, plays key roles in DM and AD. In this review, we summarize the relevant research on the roles of AMPK in DM and AD, including its functions in gluconeogenesis and insulin resistance (IR) and its relationships with amyloid β-protein (Aβ), Tau and AMPK activators. In DM, AMPK is involved in the regulation of glucose metabolism and IR. AMPK is closely related to gluconeogenesis, which can not only be activated by the upstream kinases liver kinase B1 (LKB1), transforming growth factor β-activated kinase 1 (TAK1), and Ca2+/calmodulin-dependent protein kinase kinase β (CaMKKβ) but also regulate the downstream kinases glucose-6-phosphatase (G-6-Pase) and phosphoenolpyruvate carboxy kinase (PEPCK), thereby affecting gluconeogenesis and ameliorating DM. Moreover, AMPK can regulate glucose transporter 4 (GLUT4) and free fatty acids to improve IR. In AD, AMPK can ameliorate abnormal brain energy metabolism, not only by reduces Aβ deposition through β-secretase but also reduces tau hyperphosphorylation through sirtuin 1 (SIRT1) and protein phosphatase 2A (PP2A). Therefore, AMPK is a bridge between DM and AD.",
+  "type": "academic",
+  "pdf_url": ""
+}

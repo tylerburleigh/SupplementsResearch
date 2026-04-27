@@ -1,0 +1,11 @@
+37	2	Authors
+111	2	Abstract
+133	2	Conclusions
+140	2	Key Words
+143	2	Introduction
+183	2	Description Of The State Of Knowledge
+185	2	Epidemiology
+353	2	Review
+417	2	Conclusions
+432	2	Disclosure
+468	2	References

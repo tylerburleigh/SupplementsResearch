@@ -1,0 +1,13 @@
+12	2	Abstract
+42	2	Introduction
+150	2	Methods
+161	2	Participants
+293	2	Statistical Analysis
+327	2	Discussion
+364	2	Acknowledgements
+381	2	Competing Interests
+390	2	References
+418	2	8. Gallego-Escuredo JM, Gomez-Ambrosi J, Catalan V, Domingo P, Giralt M,
+426	2	10. Toloza FJK, Mantilla-Rivas JO, Perez-Matos MC, Ricardo-Silgado ML, Morales-
+432	2	11. Escote X, Felix-Soriano E, Gayoso L, Huerta AE, Alvarado MA, Ansorena D,
+444	2	14. Tsuboyama-Kasaoka N, Shozawa C, Sano K, Kamei Y, Kasaoka S, Hosokawa Y,

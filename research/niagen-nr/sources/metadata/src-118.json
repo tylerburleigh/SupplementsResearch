@@ -1,0 +1,32 @@
+{
+  "id": "src-118",
+  "title": "Pathways and Subcellular Compartmentation of NAD Biosynthesis in Human Cells",
+  "authors": [
+    "Nikiforov, Andrey",
+    "Dölle, Christian",
+    "Niere, Marc",
+    "Ziegler, Mathias"
+  ],
+  "year": 2011,
+  "abstract": "",
+  "doi": "10.1074/jbc.m110.213298",
+  "url": "https://doi.org/10.1074/jbc.m110.213298",
+  "pdf_url": "",
+  "venue": "Journal of Biological Chemistry",
+  "citation_count": 297,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-20T21:04:53.782970+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-118.md",
+  "quality_details": {
+    "content_length": 59356,
+    "alpha_ratio": 0.737,
+    "sentence_count": 976,
+    "reasons": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "src-006",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://www.foundmyfitness.com/episodes/sulforaphane-supplements-vs-broccoli-sprouting-rhonda-patrick",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-18T23:18:24.083708+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-006.md",
+  "quality_details": {
+    "content_length": 4257,
+    "alpha_ratio": 0.805,
+    "sentence_count": 32,
+    "reasons": [
+      "paywall_page (subscribe)"
+    ]
+  }
+}

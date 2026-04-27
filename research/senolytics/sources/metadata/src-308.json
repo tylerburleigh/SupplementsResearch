@@ -1,0 +1,24 @@
+{
+  "id": "src-308",
+  "title": "Senescence and Cancer: A Review of Clinical Implications of Senescence and Senotherapies.",
+  "authors": [
+    "Wyld, Lynda",
+    "Bellantuono, Ilaria",
+    "Tchkonia, Tamara",
+    "Morgan, Jenna",
+    "Turner, Olivia",
+    "Foss, Fiona",
+    "George, Jayan",
+    "Danson, Sarah",
+    "Kirkland, James L"
+  ],
+  "doi": "10.3390/cancers12082134",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/32752135",
+  "provider": "pubmed",
+  "year": 2020,
+  "venue": "Cancers",
+  "citation_count": 0,
+  "abstract": "Cellular senescence is a key component of human aging that can be induced by a range of stimuli, including DNA damage, cellular stress, telomere shortening, and the activation of oncogenes. Senescence is generally regarded as a tumour suppressive process, both by preventing cancer cell proliferation and suppressing malignant progression from pre-malignant to malignant disease. It may also be a key effector mechanism of many types of anticancer therapies, such as chemotherapy, radiotherapy, and endocrine therapies, both directly and via bioactive molecules released by senescent cells that may stimulate an immune response. However, senescence may contribute to reduced patient resilience to cancer therapies and may provide a pathway for disease recurrence after cancer therapy. A new group of drugs, senotherapies, (drugs which interact with senescent cells to interfere with their pro-aging impacts by either selectively destroying senescent cells (senolytic drugs) or inhibiting their function (senostatic drugs)) are under active investigation to determine whether they can enhance the efficacy of cancer therapies and improve resilience to cancer treatments. Senolytic drugs include quercetin, navitoclax, and fisetin and preclinical and early phase clinical data are emerging of their potential role in cancer treatments, although none are yet in routine use clinically. This article provides a review of these issues.",
+  "type": "academic",
+  "pdf_url": ""
+}

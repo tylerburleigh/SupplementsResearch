@@ -1,0 +1,23 @@
+{
+  "id": "src-106",
+  "title": "Natural compounds-based nanomedicines for cancer treatment: Future directions and challenges",
+  "authors": [
+    "Andreani, Tatiana",
+    "Cheng, Ruoyu",
+    "Elbadri, Khalil",
+    "Ferro, Cláudio",
+    "Menezes, Thacilla Ingrid de",
+    "Santos, Mayara R Dos",
+    "Pereira, Carlos M.",
+    "Santos, Hélder A."
+  ],
+  "doi": "10.1007/s13346-024-01649-z",
+  "url": "https://openalex.org/W4400601512",
+  "provider": "openalex",
+  "year": 2024,
+  "venue": "Drug Delivery and Translational Research",
+  "citation_count": 72,
+  "abstract": "Several efforts have been extensively accomplished for the amelioration of the cancer treatments using different types of new drugs and less invasives therapies in comparison with the traditional therapeutic modalities, which are widely associated with numerous drawbacks, such as drug resistance, non-selectivity and high costs, restraining their clinical response. The application of natural compounds for the prevention and treatment of different cancer cells has attracted significant attention from the pharmaceuticals and scientific communities over the past decades. Although the use of nanotechnology in cancer therapy is still in the preliminary stages, the application of nanotherapeutics has demonstrated to decrease the various limitations related to the use of natural compounds, such as physical/chemical instability, poor aqueous solubility, and low bioavailability. Despite the nanotechnology has emerged as a promise to improve the bioavailability of the natural compounds, there are still limited clinical trials performed for their application with various challenges required for the pre-clinical and clinical trials, such as production at an industrial level, assurance of nanotherapeutics long-term stability, physiological barriers and safety and regulatory issues. This review highlights the most recent advances in the nanocarriers for natural compounds secreted from plants, bacteria, fungi, and marine organisms, as well as their role on cell signaling pathways for anticancer treatments. Additionally, the clinical status and the main challenges regarding the natural compounds loaded in nanocarriers for clinical applications were also discussed.",
+  "type": "academic",
+  "pdf_url": "https://link.springer.com/content/pdf/10.1007/s13346-024-01649-z.pdf"
+}

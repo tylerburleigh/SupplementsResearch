@@ -1,0 +1,30 @@
+{
+  "id": "src-109",
+  "title": "Conventional and Unconventional Therapeutic Strategies for Sialidosis Type I",
+  "authors": [
+    "Mosca, Rosario",
+    "Vlekkert, Diantha van de",
+    "Campos, Yvan",
+    "Fremuth, Leigh E.",
+    "Cadaoas, Jaclyn",
+    "Koppaka, Vish",
+    "Kakkis, Emil",
+    "Tifft, Cynthia J.",
+    "Toro, Camilo",
+    "Allievi, Simona",
+    "Gellera, Cinzia",
+    "Canafoglia, Laura",
+    "Visser, Gepke",
+    "Annunziata, Ida",
+    "d’Azzo, Alessandra"
+  ],
+  "doi": "10.3390/jcm9030695",
+  "url": "https://openalex.org/W3009788639",
+  "provider": "openalex",
+  "year": 2020,
+  "venue": "Journal of Clinical Medicine",
+  "citation_count": 27,
+  "abstract": "Congenital deficiency of the lysosomal sialidase neuraminidase 1 (NEU1) causes the lysosomal storage disease, sialidosis, characterized by impaired processing/degradation of sialo-glycoproteins and sialo-oligosaccharides, and accumulation of sialylated metabolites in tissues and body fluids. Sialidosis is considered an ultra-rare clinical condition and falls into the category of the so-called orphan diseases, for which no therapy is currently available. In this study we aimed to identify potential therapeutic modalities, targeting primarily patients affected by type I sialidosis, the attenuated form of the disease. We tested the beneficial effects of a recombinant protective protein/cathepsin A (PPCA), the natural chaperone of NEU1, as well as pharmacological and dietary compounds on the residual activity of mutant NEU1 in a cohort of patients' primary fibroblasts. We observed a small, but consistent increase in NEU1 activity, following administration of all therapeutic agents in most of the fibroblasts tested. Interestingly, dietary supplementation of betaine, a natural amino acid derivative, in mouse models with residual NEU1 activity mimicking type I sialidosis, increased the levels of mutant NEU1 and resolved the oligosacchariduria. Overall these findings suggest that carefully balanced, unconventional dietary compounds in combination with conventional therapeutic approaches may prove to be beneficial for the treatment of sialidosis type I.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2077-0383/9/3/695/pdf?version=1584885673"
+}

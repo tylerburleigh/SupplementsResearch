@@ -1,0 +1,20 @@
+{
+  "id": "src-210",
+  "title": "mTOR signaling: implications for cancer and anticancer therapy",
+  "authors": [
+    "Petroulakis, E.",
+    "Mamane, Y.",
+    "Bacquer, O.",
+    "Shahbazian, D.",
+    "Sonenberg, N."
+  ],
+  "doi": "10.1038/sj.bjc.6602902",
+  "url": "https://www.semanticscholar.org/paper/002dea70291555c99aa2d88b87db7e8d3ccad66a",
+  "provider": "semantic_scholar",
+  "year": 2005,
+  "venue": "British Journal of Cancer",
+  "citation_count": 222,
+  "abstract": "Mounting evidence links deregulated protein synthesis to tumorigenesis via the translation initiation factor complex eIF4F. Components of this complex are often overexpressed in a large number of cancers and promote malignant transformation in experimental systems. mTOR affects the activity of the eIF4F complex by phosphorylating repressors of the eIF4F complex, the eIF4E binding proteins. The immunosuppressant rapamycin specifically inhibits mTOR activity and retards cancer growth. Importantly, mutations in upstream negative regulators of mTOR cause hamartomas, haemangiomas, and cancers that are sensitive to rapamycin treatment. Such mutations lead to increased eIF4F formation and consequently to enhanced translation initiation and cell growth. Thus, inhibition of translation initiation through targeting the mTOR-signalling pathway is emerging as a promising therapeutic option.",
+  "type": "academic",
+  "pdf_url": "https://www.nature.com/articles/6602902.pdf"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "src-094",
+  "title": "Vitamin K in Chronic Kidney Disease",
+  "authors": [
+    "Cozzolino, Mario",
+    "Mangano, Michela",
+    "Galassi, Andrea",
+    "Ciceri, Paola",
+    "Messa, Piergiorgio",
+    "Nigwekar, Sagar U."
+  ],
+  "doi": "10.3390/nu11010168",
+  "url": "https://openalex.org/W2909064380",
+  "provider": "openalex",
+  "year": 2019,
+  "venue": "Nutrients",
+  "citation_count": 76,
+  "abstract": "Vitamin K is a composite term referring to a group of fat-soluble vitamins that function as a cofactor for the enzyme γ-glutamyl carboxylase (GGCX), which activates a number of vitamin K-dependent proteins (VKDPs) involved in haemostasis and vascular and bone health. Accumulating evidence demonstrates that chronic kidney disease (CKD) patients suffer from subclinical vitamin K deficiency, suggesting that this represents a population at risk for the biological consequences of poor vitamin K status. This deficiency might be caused by exhaustion of vitamin K due to its high requirements by vitamin K-dependent proteins to inhibit calcification.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2072-6643/11/1/168/pdf?version=1547627354"
+}

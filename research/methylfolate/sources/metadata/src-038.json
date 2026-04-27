@@ -1,0 +1,18 @@
+{
+  "id": "src-038",
+  "title": "Mendelian randomization studies: a review of the approaches used and the quality of reporting",
+  "authors": [
+    "Boef, Anna G. C.",
+    "Dekkers, Olaf M.",
+    "Cessie, Saskia le"
+  ],
+  "doi": "10.1093/ije/dyv071",
+  "url": "https://openalex.org/W2265865881",
+  "provider": "openalex",
+  "year": 2015,
+  "venue": "International Journal of Epidemiology",
+  "citation_count": 660,
+  "abstract": "Most MR studies either use the genotype as a proxy for exposure without further estimation or perform an IV analysis. The discussion of underlying assumptions and reporting of statistical methods for IV analysis are frequently insufficient. Studies using data from multiple study populations are further complicated by the combination of data or estimates. We provide a checklist for the reporting of MR studies.",
+  "type": "academic",
+  "pdf_url": "https://academic.oup.com/ije/article-pdf/44/2/496/2265156/dyv071.pdf"
+}

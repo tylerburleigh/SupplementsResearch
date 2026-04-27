@@ -1,0 +1,18 @@
+{
+  "id": "src-231",
+  "title": "Abrogation of Cellular Senescence Induced by Temozolomide in Glioblastoma Cells: Search for Senolytics",
+  "authors": [
+    "Beltzig, Lea",
+    "Christmann, M.",
+    "Kaina, B."
+  ],
+  "doi": "10.3390/cells11162588",
+  "url": "https://www.semanticscholar.org/paper/d63e8609ff5d3750c92274720e8caab795f8eb99",
+  "provider": "semantic_scholar",
+  "year": 2022,
+  "venue": "Cells",
+  "citation_count": 41,
+  "abstract": "A first-line therapeutic for high-grade glioma, notably glioblastoma (GBM), is the DNA methylating drug temozolomide (TMZ). Previously, we showed that TMZ induces not only apoptosis and autophagy, but also cellular senescence (CSEN). We presented the hypothesis that GBM cells may escape from CSEN, giving rise to recurrent tumors. Furthermore, the inflammatory phenotype associated with CSEN may attenuate chemotherapy and drive tumor progression. Therefore, treatments that specifically target senescent cells, i.e., senolytic drugs, may lead to a better outcome of GBM therapy by preventing recurrences and tumor inflammation. Here, we tested Bcl-2 targeting drugs including ABT-737, ABT-263 (navitoclax), several natural substances such as artesunate, fisetin and curcumin as well as lomustine (CCNU) and ionizing radiation (IR) for their senolytic capacity in GBM cells. Additionally, several proteins involved in the DNA damage response (DDR), ATM, ATR, Chk1/2, p53, p21, NF-kB, Rad51, PARP, IAPs and autophagy, a pathway involved in CSEN induction, were tested for their impact in maintaining CSEN. Treatment of GBM cells with a low dose of TMZ for 8–10 days resulted in >80% CSEN, confirming CSEN to be the major trait induced by TMZ. To identify senolytics, we treated the senescent population with the compounds of interest and found that ABT-737, navitoclax, chloroquine, ATMi, ATRi, BV-6, PX-866 and the natural compounds fisetin and artesunate exhibit senolytic activity, inducing death in senescent cells more efficiently than in proliferating cells. Curcumin showed the opposite effect. No specific effect on CSEN cells was observed by inhibition of Chk1/Chk2, p21, NF-kB, Rad51 and PARP. We conclude that these factors neither play a critical role in maintaining TMZ-induced CSEN nor can their inhibitors be considered as senolytics. Since IR and CCNU did not exhibit senolytic activity, radio- and chemotherapy with alkylating drugs is not designed to eliminate TMZ-induced senescent cancer cells.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2073-4409/11/16/2588/pdf?version=1661163081"
+}

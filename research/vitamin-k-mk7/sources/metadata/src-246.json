@@ -1,0 +1,24 @@
+{
+  "id": "src-246",
+  "title": "Critical Appraisal of Large Vitamin D Randomized Controlled Trials",
+  "authors": [
+    "Pilz, Stefan",
+    "Trummer, Christian",
+    "Theiler‐Schwetz, Verena",
+    "Grübler, Martin",
+    "Verheyen, Nicolas",
+    "Odler, Balazs",
+    "Karras, Spyridon Ν.",
+    "Zittermann, Armin",
+    "März, Winfried"
+  ],
+  "doi": "10.3390/nu14020303",
+  "url": "https://openalex.org/W4205290879",
+  "provider": "openalex",
+  "year": 2022,
+  "venue": "Nutrients",
+  "citation_count": 116,
+  "abstract": "As a consequence of epidemiological studies showing significant associations of vitamin D deficiency with a variety of adverse extra-skeletal clinical outcomes including cardiovascular diseases, cancer, and mortality, large vitamin D randomized controlled trials (RCTs) have been designed and conducted over the last few years. The vast majority of these trials did not restrict their study populations to individuals with vitamin D deficiency, and some even allowed moderate vitamin D supplementation in the placebo groups. In these RCTs, there were no significant effects on the primary outcomes, including cancer, cardiovascular events, and mortality, but explorative outcome analyses and meta-analyses revealed indications for potential benefits such as reductions in cancer mortality or acute respiratory infections. Importantly, data from RCTs with relatively high doses of vitamin D supplementation did, by the vast majority, not show significant safety issues, except for trials in critically or severely ill patients or in those using very high intermittent vitamin D doses. The recent large vitamin D RCTs did not challenge the beneficial effects of vitamin D regarding rickets and osteomalacia, that therefore continue to provide the scientific basis for nutritional vitamin D guidelines and recommendations. There remains a great need to evaluate the effects of vitamin D treatment in populations with vitamin D deficiency or certain characteristics suggesting a high sensitivity to treatment. Outcomes and limitations of recently published large vitamin D RCTs must inform the design of future vitamin D or nutrition trials that should use more personalized approaches.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2072-6643/14/2/303/pdf?version=1641982838"
+}

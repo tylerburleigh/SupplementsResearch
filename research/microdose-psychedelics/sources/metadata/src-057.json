@@ -1,0 +1,36 @@
+{
+  "id": "src-057",
+  "title": "Low doses of LSD reduce broadband oscillatory power and modulate event-related potentials in healthy adults",
+  "authors": [
+    "Murray, Conor H.",
+    "Tare, Ilaria",
+    "Perry, Claire M.",
+    "Malina, Michael",
+    "Lee, Royce",
+    "de Wit, Harriet"
+  ],
+  "year": 2022,
+  "abstract": "",
+  "doi": "10.1007/s00213-021-05991-9",
+  "url": "https://doi.org/10.1007/s00213-021-05991-9",
+  "pdf_url": "",
+  "venue": "Psychopharmacology",
+  "citation_count": 60,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-26T10:45:48.622277+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-057.md",
+  "quality_details": {
+    "content_length": 21241,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "src-374",
+  "title": "Astrocyte PERK and IRE1 Signaling Contributes to Morphine Tolerance and Hyperalgesia through Upregulation of Lipocalin-2 and NLRP3 Inflammasome in the Rodent Spinal Cord",
+  "authors": [
+    "Wang, Bing",
+    "Wang, Li-Na",
+    "Wu, Bin",
+    "Guo, Ran",
+    "Zhang, Li",
+    "Zhang, Jiang-Tao",
+    "Wang, Zhi-Hong",
+    "Wu, Feng",
+    "Feng, Yu",
+    "Liu, Hong",
+    "Jin, Xiao-Hong",
+    "Miao, Xiu-Hua",
+    "Liu, Tong"
+  ],
+  "doi": "10.1097/aln.0000000000004858",
+  "url": "https://www.semanticscholar.org/paper/a3e0bf39e3d7d0e85e1ce00771a8bb0d8aae622b",
+  "provider": "semantic_scholar",
+  "year": 2023,
+  "venue": "Anesthesiology",
+  "citation_count": 15,
+  "abstract": "Background: Endoplasmic reticulum stress plays a crucial role in the pathogenesis of neuroinflammation and chronic pain. This study hypothesized that PRKR-like endoplasmic reticulum kinase (PERK) and inositol-requiring enzyme type 1 (IRE1) regulate lipocalin-2 (LCN2) and Nod-like receptor family pyrin domain containing 3 (NLRP3) expression in astrocytes, thereby contributing to morphine tolerance and hyperalgesia. Methods: The study was performed in Sprague–Dawley rats and C57/Bl6 mice of both sexes. The expression of LCN2 and NLRP3 was assessed by Western blotting. The tail-flick, von Frey, and Hargreaves tests were used to evaluate nociceptive behaviors. Chromatin immunoprecipitation was conducted to analyze the binding of activating transcription factor 4 (ATF4) to the promoters of LCN2 and TXNIP. Whole-cell patch-clamp recordings were used to evaluate neuronal excitability. Results: Pharmacologic inhibition of PERK and IRE1 attenuated the development of morphine tolerance and hyperalgesia in male (tail latency on day 7, 8.0 ± 1.13 s in the morphine + GSK2656157 [10 μg] group vs. 5.8 ± 0.65 s in the morphine group; P = 0.04; n = 6 rats/group) and female (tail latency on day 7, 6.0 ± 0.84 s in the morphine + GSK2656157 [10 μg] group vs. 3.1 ± 1.09 s in the morphine group; P = 0.0005; n = 6 rats/group) rats. Activation of PERK and IRE1 upregulated expression of LCN2 and NLRP3 in vivo and in vitro. Chromatin immunoprecipitation analysis showed that ATF4 directly bound to the promoters of the LCN2 and TXNIP. Lipocalin-2 induced neuronal hyperexcitability in the spinal cord and dorsal root ganglia via melanocortin-4 receptor. Conclusions: Astrocyte endoplasmic reticulum stress sensors PERK and IRE1 facilitated morphine tolerance and hyperalgesia through upregulation of LCN2 and NLRP3 in the spinal cord. In this preclinical study, repeated intrathecal administration of morphine induced endoplasmic reticulum stress in astrocytes of the spinal cord and contributed to morphine tolerance alongside hyperalgesia in rats. Pharmacologic inhibition of the endoplasmic reticulum stress response potentiated morphine analgesia and attenuated morphine tolerance. Astrocyte endoplasmic reticulum stress upregulated lipocalin-2 and NLRP3 inflammasome signaling, which further led to neuronal hyperexcitablity in the spinal cord.",
+  "type": "academic",
+  "pdf_url": "https://pubs.asahq.org/anesthesiology/article-pdf/doi/10.1097/ALN.0000000000004858/698626/aln.0000000000004858.pdf"
+}

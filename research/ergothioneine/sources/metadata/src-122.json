@@ -1,0 +1,27 @@
+{
+  "id": "src-122",
+  "title": "The Role of Ergothioneine in Red Blood Cell Biology: A Review and Perspective",
+  "authors": [
+    "Thomas, Tiffany A.",
+    "Francis, Richard O.",
+    "Zimring, James C.",
+    "Kao, Joseph P.",
+    "Nemkov, Travis",
+    "Spitalnik, Steven L."
+  ],
+  "year": 2024,
+  "abstract": "Oxidative stress can damage tissues and cells, and their resilience or susceptibility depends on the robustness of their antioxidant mechanisms. The latter include small molecules, proteins, and enzymes, which are linked together in metabolic pathways. Red blood cells are particularly susceptible to oxidative stress due to their large number of hemoglobin molecules, which can undergo auto-oxidation. This yields reactive oxygen species that participate in Fenton chemistry, ultimately damaging their membranes and cytosolic constituents. Fortunately, red blood cells contain robust antioxidant systems to enable them to circulate and perform their physiological functions, particularly delivering oxygen and removing carbon dioxide. Nonetheless, if red blood cells have insufficient antioxidant reserves (e.g., due to genetics, diet, disease, or toxin exposure), this can induce hemolysis in vivo or enhance susceptibility to a “storage lesion” in vitro, when blood donations are refrigerator-stored for transfusion purposes. Ergothioneine, a small molecule not synthesized by mammals, is obtained only through the diet. It is absorbed from the gut and enters cells using a highly specific transporter (i.e., SLC22A4). Certain cells and tissues, particularly red blood cells, contain high ergothioneine levels. Although no deficiency-related disease has been identified, evidence suggests ergothioneine may be a beneficial “nutraceutical.” Given the requirements of red blood cells to resist oxidative stress and their high ergothioneine content, this review discusses ergothioneine’s potential importance in protecting these cells and identifies knowledge gaps regarding its relevance in enhancing red blood cell circulatory, storage, and transfusion quality.",
+  "doi": "10.3390/antiox13060717",
+  "url": "https://doi.org/10.3390/antiox13060717",
+  "pdf_url": "",
+  "venue": "Antioxidants",
+  "citation_count": 12,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-20T00:20:50.779725+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok"
+}

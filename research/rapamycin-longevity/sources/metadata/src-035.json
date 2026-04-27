@@ -1,0 +1,27 @@
+{
+  "id": "src-035",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "",
+  "pdf_url": "https://eprints.gla.ac.uk/209104/1/209104%20.pdf",
+  "venue": "",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "",
+  "fetched_at": "2026-04-26T22:56:14.102523+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-035.md",
+  "quality_details": {
+    "content_length": 49500,
+    "alpha_ratio": 0.722,
+    "sentence_count": 475,
+    "reasons": []
+  }
+}

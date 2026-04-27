@@ -1,0 +1,20 @@
+{
+  "id": "src-463",
+  "title": "Quercetin Alleviates All-Trans-Retinal-Induced Photoreceptor Apoptosis and Retinal Degeneration by Inhibiting the ER Stress-Related PERK Signaling.",
+  "authors": [
+    "Yang, Bo",
+    "Yang, Kunhuan",
+    "Xi, Ruitong",
+    "Chen, Jingmeng",
+    "Wu, Yalin"
+  ],
+  "doi": "10.3390/ijms252413624",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39769385",
+  "provider": "pubmed",
+  "year": 2024,
+  "venue": "International journal of molecular sciences",
+  "citation_count": 0,
+  "abstract": "All-trans-retinal (atRAL)-induced photoreceptor atrophy and retinal degeneration are hallmark features of dry age-related macular degeneration (AMD) and Stargardt disease type 1 (STGD1). The toxicity of atRAL is closely related to the generation of reactive oxygen species (ROS). Quercetin, a natural product, is known for its potent antioxidant properties; however, its effects in mitigating atRAL-mediated retinal damage remains unclear. This study investigated the protective effects of quercetin against atRAL-induced photoreceptor damage. Using atRAL-loaded 661W photoreceptor cells, we evaluated cell viability, ROS generation, and endoplasmic reticulum (ER) stress under quercetin treatment. Quercetin significantly restored the cell viability (to 70%) and reduced ROS generation in atRAL-treated 661W cells. Additionally, Western blot analysis demonstrated that quercetin mitigated protein kinase RNA-like ER kinase (PERK) signaling, preventing ER stress-induced apoptosis. Importantly, in Abca4 mice, an animal model of light-induced atRAL accumulation in the retina, quercetin treatment effectively alleviated light-exposed photoreceptor atrophy and retinal degeneration by attenuating PERK signaling. Thus, quercetin protected photoreceptor cells from atRAL-induced damage by inhibiting ROS generation and PERK signaling, which suggests its potential as a therapeutic agent for atRAL-related retinal degeneration.",
+  "type": "academic",
+  "pdf_url": ""
+}

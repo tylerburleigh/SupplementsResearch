@@ -1,0 +1,30 @@
+{
+  "id": "src-143",
+  "title": "Management of <i>Helicobacter pylori</i> infection: the Maastricht VI/Florence consensus report",
+  "authors": [
+    "Malfertheiner, Peter",
+    "Mégraud, Françis",
+    "Rokkas, Theodore",
+    "Gisbert, Javier P.",
+    "Liou, Jyh‐Ming",
+    "Schulz, Christian",
+    "Gasbarrini, Antonio",
+    "Hunt, Richard H.",
+    "Leja, Mārcis",
+    "O’Morain, Colm",
+    "Rugge, Massimo",
+    "Suerbaum, Sebastian",
+    "Tilg, Herbert",
+    "Sugano, Kentaro",
+    "El‐Omar, Emad"
+  ],
+  "doi": "10.1136/gutjnl-2022-327745",
+  "url": "https://openalex.org/W4291016468",
+  "provider": "openalex",
+  "year": 2022,
+  "venue": "Gut",
+  "citation_count": 1269,
+  "abstract": "<i>Helicobacter pylori</i>Infection is formally recognised as an infectious disease, an entity that is now included in the International Classification of Diseases 11th Revision. This in principle leads to the recommendation that all infected patients should receive treatment. In the context of the wide clinical spectrum associated with <i>Helicobacter pylori</i> gastritis, specific issues persist and require regular updates for optimised management.The identification of distinct clinical scenarios, proper testing and adoption of effective strategies for prevention of gastric cancer and other complications are addressed. <i>H. pylori</i> treatment is challenged by the continuously rising antibiotic resistance and demands for susceptibility testing with consideration of novel molecular technologies and careful selection of first line and rescue therapies. The role of <i>H. pylori</i> and antibiotic therapies and their impact on the gut microbiota are also considered.Progress made in the management of <i>H. pylori</i> infection is covered in the present sixth edition of the Maastricht/Florence 2021 Consensus Report, key aspects related to the clinical role of <i>H. pylori</i> infection were re-evaluated and updated. Forty-one experts from 29 countries representing a global community, examined the new data related to <i>H. pylori</i> infection in five working groups: (1) indications/associations, (2) diagnosis, (3) treatment, (4) prevention/gastric cancer and (5) <i>H. pylori</i> and the gut microbiota. The results of the individual working groups were presented for a final consensus voting that included all participants. Recommendations are provided on the basis of the best available evidence and relevance to the management of <i>H. pylori</i> infection in various clinical fields.",
+  "type": "academic",
+  "pdf_url": "https://gut.bmj.com/content/gutjnl/71/9/1724.full.pdf"
+}

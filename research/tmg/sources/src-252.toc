@@ -1,0 +1,12 @@
+54	2	Open
+173	2	Results
+217	2	Nafld
+287	2	Nafld
+321	2	Discussion
+354	2	Nafld
+394	2	8. A large number of studies have demon-
+401	2	10. In this
+450	2	Conclusions
+460	2	References
+545	2	Acknowledgements
+549	2	Author Contributions

@@ -1,0 +1,37 @@
+{
+  "id": "src-050",
+  "title": "Lithium biofortification of medicinal mushrooms Agrocybe cylindracea and Hericium erinaceus",
+  "authors": [
+    "Rzymski, Piotr",
+    "Niedzielski, Przemysław",
+    "Siwulski, Marek",
+    "Mleczek, Mirosław",
+    "Budzyńska, Sylwia",
+    "Gąsecka, Monika",
+    "Poniedziałek, Barbara"
+  ],
+  "year": 2017,
+  "abstract": "",
+  "doi": "10.1007/s13197-017-2679-4",
+  "url": "https://doi.org/10.1007/s13197-017-2679-4",
+  "pdf_url": "",
+  "venue": "Journal of Food Science and Technology",
+  "citation_count": 32,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-23T15:37:22.781738+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-050.md",
+  "quality_details": {
+    "content_length": 12860,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

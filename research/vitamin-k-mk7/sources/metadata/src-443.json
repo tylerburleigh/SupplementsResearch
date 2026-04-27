@@ -1,0 +1,27 @@
+{
+  "id": "src-443",
+  "title": "Comparison of nutritional composition between plant-based drinks and cow’s milk",
+  "authors": [
+    "Walther, Barbara",
+    "Guggisberg, Dominik",
+    "Badertscher, René",
+    "Egger, Lotti",
+    "Portmann, Reto",
+    "Dubois, Sébastien",
+    "Haldimann, Max",
+    "Kopf-Bolanz, Katrin A.",
+    "Rhyn, Peter",
+    "Zoller, Otmar",
+    "Veraguth, Rosmarie",
+    "Rezzi, Serge"
+  ],
+  "doi": "10.3389/fnut.2022.988707",
+  "url": "https://openalex.org/W4307706235",
+  "provider": "openalex",
+  "year": 2022,
+  "venue": "Frontiers in Nutrition",
+  "citation_count": 203,
+  "abstract": "The high decline in liquid milk consumption in Western countries has been compensated by the increased consumption of processed dairy products and the rapidly increasing number of new plant-based beverages constantly introduced in the market, advertised as milk substitutes and placed on shelves near milk products. To provide better understanding about the nutritional value of these drinks compared with cow's milk, 27 plant-based drinks of 8 different species and two milk samples were purchased from two big retailers in Switzerland, and their composition regarding protein, carbohydrate, fat, vitamin, and mineral contents and residue load [glyphosate, aminomethylphosphonic acid (AMPA), and arsenic] was analyzed quantitatively and qualitatively. Energy and nutrient intakes were calculated and compared with the dietary reference values for Germany, Austria and Switzerland (D-A-CH). In addition, the digestible indispensable amino acid score (DIAAS) was calculated to estimate the quality of the proteins. Milk contained more energy; fat; carbohydrate; vitamins C, B<sub>2</sub>, B<sub>12</sub>, and A; biotin; pantothenic acid; calcium; phosphorus; and iodine than most plant-based drinks. Soy drinks provided slightly more protein and markedly more vitamins B<sub>1</sub> and B<sub>6</sub>, folic acid, and vitamins E and D<sub>2</sub> (with supplemented vitamin D<sub>2</sub>) and K<sub>1</sub>, magnesium, manganese, iron, and copper than milk and the other plant-based drinks. However, with the exception of cow's milk and soy drinks, which had > 3% protein, most milk alternatives contained ≤ 1% protein; therefore, they cannot be considered good protein sources. In regard to protein quality, milk was outstanding compared with all plant-based drinks and exhibited higher calculated DIAASs. Our results show that the analyzed plant-based drinks are not real alternatives to milk in terms of nutrient composition, even if the actual fortification is taken into account. Improved fortification is still an issue and can be optimized using the most bioavailable and soluble derivatives. Complete replacement of milk with plant-based drinks without adjusting the overall diet can lead to deficiencies of certain important nutrients in the long term.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.3389/fnut.2022.988707"
+}

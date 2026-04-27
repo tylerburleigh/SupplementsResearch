@@ -1,0 +1,24 @@
+{
+  "id": "src-058",
+  "title": "Quercetin enhances decidualization through AKT-ERK-p53 signaling and supports a role for senescence in endometriosis",
+  "authors": [
+    "Delenko, Julia",
+    "Xue, Xiangying",
+    "Chatterjee, Prodyot K.",
+    "Hyman, Nathaniel",
+    "Shih, Andrew J",
+    "Adelson, Robert P.",
+    "Tepes, Polona Safaric",
+    "Gregersen, Peter K.",
+    "Metz, Christine N"
+  ],
+  "doi": "10.1186/s12958-024-01265-z",
+  "url": "https://www.semanticscholar.org/paper/0efc723dc5cc06d68d4ad3b5182b25665b8ebfe1",
+  "provider": "semantic_scholar",
+  "year": 2024,
+  "venue": "Reproductive Biology and Endocrinology",
+  "citation_count": 26,
+  "abstract": "Patients with endometriosis suffer with chronic pelvic pain and infertility, and from the lack of pharmacologic therapies that consistently halt disease progression. Differences in the endometrium of patients with endometriosis vs. unaffected controls are well-documented. Specifically, shed endometrial tissues (delivered to the pelvic cavity via retrograde menstruation) reveal that a subset of stromal cells exhibiting pro-inflammatory, pro-fibrotic, and pro-senescence-like phenotypes is enhanced in endometriosis patients compared to controls. Additionally, cultured biopsy-derived endometrial stromal cells from endometriosis patients exhibit impaired decidualization, a defined differentiation process required for human embryo implantation and pregnancy. Quercetin, a senolytic agent, shows therapeutic potential for pulmonary fibrosis, a disorder attributed to senescent pulmonary fibroblasts. In rodent models of endometriosis, quercetin shows promise, and quercetin improves decidualization in vitro. However, the exact mechanisms are not completely understood. Therefore, we investigated the effects of quercetin on menstrual effluent-derived endometrial stromal cells from endometriosis patients and unaffected controls to define the signaling pathways underlying quercetin’s effects on endometrial stromal cells. Menstrual effluent-derived endometrial stromal cells were collected and cultured from unaffected controls and endometriosis patients and then, low passage cells were treated with quercetin (25 µM) under basal or standard decidualization conditions. Decidualization responses were analyzed by measuring the production of IGFBP1 and PRL. Also, the effects of quercetin on intracellular cAMP levels and cellular oxidative stress responses were measured. Phosphokinase arrays, western blotting, and flow cytometry methods were performed to define the effects of quercetin on various signaling pathways and the potential mechanistic roles of quercetin. Quercetin significantly promotes decidualization of control- and endometriosis-endometrial stromal cells. Quercetin substantially reduces the phosphorylation of multiple signaling molecules in the AKT and ERK1/2 pathways, while enhancing the phosphorylation of p53 and total p53 levels. Furthermore, p53 inhibition blocks decidualization while p53 activation promotes decidualization. Finally, we provide evidence that quercetin increases apoptosis of endometrial stromal cells with a senescent-like phenotype. These data provide insight into the mechanisms of action of quercetin on endometrial stromal cells and warrant future clinical trials to test quercetin and other senolytics for treating endometriosis.",
+  "type": "academic",
+  "pdf_url": "https://rbej.biomedcentral.com/counter/pdf/10.1186/s12958-024-01265-z"
+}

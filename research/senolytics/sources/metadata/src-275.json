@@ -1,0 +1,19 @@
+{
+  "id": "src-275",
+  "title": "Azithromycin and Roxithromycin define a new family of “senolytic” drugs that target senescent human fibroblasts",
+  "authors": [
+    "Ozsvari, Bela",
+    "Nuttall, J.",
+    "Sotgia, F.",
+    "Lisanti, M."
+  ],
+  "doi": "10.18632/aging.101633",
+  "url": "https://www.semanticscholar.org/paper/558ea8d14abfc46d62225c7c0f070bc783a43414",
+  "provider": "semantic_scholar",
+  "year": 2018,
+  "venue": "Aging",
+  "citation_count": 118,
+  "abstract": "Here, we employed a “senolytic” assay system as a screening tool, with the goal of identifying and repurposing FDA-approved antibiotics, for the targeting of the senescent cell population. Briefly, we used two established human fibroblast cell lines (MRC-5 and/or BJ) as model systems to induce senescence, via chronic treatment with a DNA-damaging agent, namely BrdU (at a concentration of 100 μM for 8 days). Cell viability was then monitored by using the SRB assay, to measure protein content. As a consequence of this streamlined screening strategy, we identified Azithromycin and Roxithromycin as two novel clinically-approved senolytic drugs. However, Erythromycin – the very closely-related parent compound – did not show any senolytic activity, highlighting the dramatic specificity of these interactions. Interestingly, we also show that Azithromycin treatment of human fibroblasts was indeed sufficient to strongly induce both aerobic glycolysis and autophagy. However, the effects of Azithromycin on mitochondrial oxygen consumption rates (OCR) were bi-phasic, showing inhibitory activity at 50 μM and stimulatory activity at 100 μM. These autophagic/metabolic changes induced by Azithromycin could mechanistically explain its senolytic activity. We also independently validated our findings using the xCELLigence real-time assay system, which measures electrical impedance. Using this approach, we see that Azithromycin preferentially targets senescent cells, removing approximately 97% of them with great efficiency. This represents a near 25-fold reduction in senescent cells. Finally, we also discuss our current results in the context of previous clinical findings that specifically document the anti-inflammatory activity of Azithromycin in patients with cystic fibrosis – a genetic lung disorder that results in protein mis-folding mutations that cause protein aggregation.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.18632/aging.101633"
+}

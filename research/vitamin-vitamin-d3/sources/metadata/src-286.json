@@ -1,0 +1,36 @@
+{
+  "id": "src-286",
+  "title": "Association Between Vitamin D and Influenza: Meta-Analysis and Systematic Review of Randomized Controlled Trials",
+  "authors": [
+    "Zhu, Zhixin",
+    "Zhu, Xiaoxia",
+    "Gu, Lanfang",
+    "Zhan, Yancen",
+    "Chen, Liang",
+    "Li, Xiuyang"
+  ],
+  "year": 2022,
+  "abstract": "Background: Vitamin D supplementation improves the immune function of human body and can be a convenient way to prevent influenza. However, evidence on the protective effect of vitamin D supplementation on influenza from Randomized Controlled Trials (RCTs) is inconclusive.Methods: RCTs regarding the association between vitamin D supplementation and influenza were identified by searching PubMed, Cochrane library, Embase and Chinese Biomedical Database (CBM) from inception until present (last updated on 10 November 2021). Studies that reported dosages and durations of vitamin D supplementation and number of influenza infections could be included. Heterogeneity was assessed using Cochran's Q test and I2 statistics, the meta-analysis was conducted by using a random-effects model, the pooled effects were expressed with risk ratio (RR) with 95% confidence interval (95% CI).Results: 10 trials including 4859 individuals were ultimately eligible after scanning. There was no evidence of a significant heterogeneity among studies (I2 = 27%, P = 0.150). Meta-regression analysis finding indicated that country, latitude, average age, economic level, follow-up period and average daily vitamin D intake did not cause the statistical heterogeneity. The study finding indicates that substitution with vitamin D significantly reduces the risk of influenza infections (RR = 0.78, 95% CI:0.64–0.95). No evidence of publication bias was observed. Omission of any single trial had little impact on the pooled risk estimates.Conclusions: The meta-analysis produced a corroboration that vitamin D supplement has a preventive effect on influenza. Strategies for preventing influenza can be optimized by vitamin D supplementation.",
+  "doi": "10.3389/fnut.2021.799709",
+  "url": "https://doi.org/10.3389/fnut.2021.799709",
+  "pdf_url": "",
+  "venue": "Frontiers in Nutrition",
+  "citation_count": 30,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T20:59:54.236337+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-286.md",
+  "quality_details": {
+    "content_length": 40831,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

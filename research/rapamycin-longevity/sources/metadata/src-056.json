@@ -1,0 +1,29 @@
+{
+  "id": "src-056",
+  "title": "Caloric restriction and resveratrol promote longevity through the Sirtuin-1-dependent induction of autophagy",
+  "authors": [
+    "Morselli, Eugenia",
+    "Maiuri, Maria Chiara",
+    "Markaki, Maria",
+    "Megalou, Evgenia",
+    "Pasparaki, Angela",
+    "Palikaras, Konstantinos",
+    "Criollo, Alfredo",
+    "Galluzzi, Lorenzo",
+    "Malik, Shoaib Ahmad",
+    "Vitale, Ilio",
+    "Michaud, Mickaël",
+    "Madeo, Frank",
+    "Tavernarakis, N",
+    "Kroemer, Guido"
+  ],
+  "doi": "10.1038/cddis.2009.8",
+  "url": "https://openalex.org/W2077165816",
+  "provider": "openalex",
+  "year": 2010,
+  "venue": "Cell Death and Disease",
+  "citation_count": 597,
+  "abstract": "Caloric restriction and autophagy-inducing pharmacological agents can prolong lifespan in model organisms including mice, flies, and nematodes. In this study, we show that transgenic expression of Sirtuin-1 induces autophagy in human cells in vitro and in Caenorhabditis elegans in vivo. The knockdown or knockout of Sirtuin-1 prevented the induction of autophagy by resveratrol and by nutrient deprivation in human cells as well as by dietary restriction in C. elegans. Conversely, Sirtuin-1 was not required for the induction of autophagy by rapamycin or p53 inhibition, neither in human cells nor in C. elegans. The knockdown or pharmacological inhibition of Sirtuin-1 enhanced the vulnerability of human cells to metabolic stress, unless they were stimulated to undergo autophagy by treatment with rapamycin or p53 inhibition. Along similar lines, resveratrol and dietary restriction only prolonged the lifespan of autophagy-proficient nematodes, whereas these beneficial effects on longevity were abolished by the knockdown of the essential autophagic modulator Beclin-1. We conclude that autophagy is universally required for the lifespan-prolonging effects of caloric restriction and pharmacological Sirtuin-1 activators.",
+  "type": "academic",
+  "pdf_url": "https://www.nature.com/articles/cddis20098.pdf"
+}

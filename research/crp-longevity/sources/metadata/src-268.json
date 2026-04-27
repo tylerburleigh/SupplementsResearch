@@ -1,0 +1,17 @@
+{
+  "id": "src-268",
+  "title": "The association between systemic immune-inflammation index and periodontitis in adults with and without hyperlipidemia: a population-based study",
+  "authors": [
+    "Xie, Ying",
+    "Zhou, Shuang"
+  ],
+  "doi": "10.1038/s41405-026-00422-3",
+  "url": "https://www.semanticscholar.org/paper/2e0a2967e0b7df0933b85698fbdaa8c9d50c5226",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "BDJ Open",
+  "citation_count": 0,
+  "abstract": "Purpose To investigate the association between SII and periodontitis, and to determine whether this association differs by hyperlipidemia status in adults. Methods 21,283 U.S. adults aged ≥18 years were enrolled from NHANES 1999–2014. Multivariable logistic regression models were employed to assess the association between SII and periodontitis while controlling for potential confounding factors. We further explored non-linear dose-response relationships using two-piecewise regression model to identify any threshold effect of SII on periodontitis risk. Robustness of the findings was evaluated through sensitivity analyses. Results Periodontitis was prevalent in 6,758 individuals (31.75%). In stratified analyses, this pattern was evident among individuals with hyperlipidemia: we identified an inflection point at SII ≈ 522. Within the lower SII range, a 500-unit increment demonstrated an inverse association with periodontitis susceptibility, yielding a significant 18% risk reduction (OR = 0.82, 95% CI 0.68–0.99, P = 0.036). Conversely, in the upper SII spectrum, identical 500-unit increments corresponded to a substantial 15% heightened periodontitis risk (OR = 1.15, 95% CI 1.05–1.25, P = 0.002). A significant non-linear dose–response was found in hyperlipidemic individuals (P for threshold effect = 0.005). In contrast, among individuals without hyperlipidemia, no significant association between SII and periodontitis was detected. Sensitivity analyses, including the exclusion of participants with malignancies, stratification by sex and using alternative periodontitis definitions, yielded consistent results, reinforcing the robustness of our findings. Conclusions SII demonstrated a non-linear association with periodontitis that was restricted to individuals with hyperlipidemia. In hyperlipidemic adults, moderate increases in SII (within a lower range) were associated with reduced odds of periodontitis, whereas an SII beyond ~522 was significantly associated with higher disease prevalence.",
+  "type": "academic",
+  "pdf_url": ""
+}

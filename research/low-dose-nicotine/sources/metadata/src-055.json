@@ -1,0 +1,29 @@
+{
+  "id": "src-055",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://doi.org/10.1007/s00213-015-3880-7",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-23T21:36:59.221326+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-055.md",
+  "quality_details": {
+    "content_length": 16608,
+    "alpha_ratio": 0.755,
+    "sentence_count": 88,
+    "reasons": [
+      "paywall_page (buy article)"
+    ]
+  }
+}

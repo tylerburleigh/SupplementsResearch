@@ -1,0 +1,16 @@
+{
+  "id": "src-108",
+  "title": "Influence of Resveratrol on the Immune Response",
+  "authors": [
+    "Malaguarnera, Lucia"
+  ],
+  "doi": "10.3390/nu11050946",
+  "url": "https://openalex.org/W2941673930",
+  "provider": "openalex",
+  "year": 2019,
+  "venue": "Nutrients",
+  "citation_count": 513,
+  "abstract": "Resveratrol is the most well-known polyphenolic stilbenoid, present in grapes, mulberries, peanuts, rhubarb, and in several other plants. Resveratrol can play a beneficial role in the prevention and in the progression of chronic diseases related to inflammation such as diabetes, obesity, cardiovascular diseases, neurodegeneration, and cancers among other conditions. Moreover, resveratrol regulates immunity by interfering with immune cell regulation, proinflammatory cytokines' synthesis, and gene expression. At the molecular level, it targets sirtuin, adenosine monophosphate kinase, nuclear factor-κB, inflammatory cytokines, anti-oxidant enzymes along with cellular processes such as gluconeogenesis, lipid metabolism, mitochondrial biogenesis, angiogenesis, and apoptosis. Resveratrol can suppress the toll-like receptor (TLR) and pro-inflammatory genes' expression. The antioxidant activity of resveratrol and the ability to inhibit enzymes involved in the production of eicosanoids contribute to its anti-inflammation properties. The effects of this biologically active compound on the immune system are associated with widespread health benefits for different autoimmune and chronic inflammatory diseases. This review offers a systematic understanding of how resveratrol targets multiple inflammatory components and exerts immune-regulatory effects on immune cells.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2072-6643/11/5/946/pdf?version=1556679641"
+}

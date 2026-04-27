@@ -1,0 +1,22 @@
+{
+  "id": "src-220",
+  "title": "Gut Microbiota as a Trigger for Metabolic Inflammation in Obesity and Type 2 Diabetes",
+  "authors": [
+    "Scheithauer, Torsten P. M.",
+    "Rampanelli, Elena",
+    "Nieuwdorp, Max",
+    "Vallance, Bruce A.",
+    "Verchere, C. Bruce",
+    "Raalte, Daniël H. van",
+    "Herrema, Hilde"
+  ],
+  "doi": "10.3389/fimmu.2020.571731",
+  "url": "https://openalex.org/W3097882759",
+  "provider": "openalex",
+  "year": 2020,
+  "venue": "Frontiers in Immunology",
+  "citation_count": 630,
+  "abstract": "The gut microbiota has been linked to the development of obesity and type 2 diabetes (T2D). The underlying mechanisms as to how intestinal microbiota may contribute to T2D are only partly understood. It becomes progressively clear that T2D is characterized by a chronic state of low-grade inflammation, which has been linked to the development of insulin resistance. Here, we review the current evidence that intestinal microbiota, and the metabolites they produce, could drive the development of insulin resistance in obesity and T2D, possibly by initiating an inflammatory response. First, we will summarize major findings about immunological and gut microbial changes in these metabolic diseases. Next, we will give a detailed view on how gut microbial changes have been implicated in low-grade inflammation. Lastly, we will critically discuss clinical studies that focus on the interaction between gut microbiota and the immune system in metabolic disease. Overall, there is strong evidence that the tripartite interaction between gut microbiota, host immune system and metabolism is a critical partaker in the pathophysiology of obesity and T2D.",
+  "type": "academic",
+  "pdf_url": "https://www.frontiersin.org/articles/10.3389/fimmu.2020.571731/pdf"
+}

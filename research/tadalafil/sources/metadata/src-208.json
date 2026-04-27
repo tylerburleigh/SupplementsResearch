@@ -1,0 +1,20 @@
+{
+  "id": "src-208",
+  "title": "Endothelin receptor antagonists for pulmonary arterial hypertension",
+  "authors": [
+    "Liu, Chao",
+    "Chen, Junmin",
+    "Gao, Yanqiu",
+    "Deng, Bao",
+    "Liu, Kunshen"
+  ],
+  "doi": "10.1002/14651858.cd004434.pub5",
+  "url": "https://openalex.org/W2119263592",
+  "provider": "openalex",
+  "year": 2013,
+  "venue": "Cochrane Database of Systematic Reviews",
+  "citation_count": 181,
+  "abstract": "Endothelin receptor antagonists can increase exercise capacity, improve WHO/NYHA functional class, prevent WHO/NYHA functional class deterioration, reduce dyspnoea and improve cardiopulmonary haemodynamic variables in patients with pulmonary arterial hypertension with WHO/NYHA functional class II and III. However, there was only a trend towards endothelin receptor antagonists reducing mortality in patients with pulmonary arterial hypertension. Efficacy data are strongest in those with idiopathic pulmonary hypertension. The irreversible liver failure caused by sitaxsentan and its withdrawal from global markets emphasise the importance of hepatic monitoring in patients treated with endothelin receptor antagonists.",
+  "type": "academic",
+  "pdf_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004434.pub5/pdf/full"
+}

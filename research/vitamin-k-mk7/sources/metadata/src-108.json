@@ -1,0 +1,19 @@
+{
+  "id": "src-108",
+  "title": "Undercarboxylated Osteocalcin: Experimental and Human Evidence for a Role in Glucose Homeostasis and Muscle Regulation of Insulin Sensitivity",
+  "authors": [
+    "Lin, Xuzhu",
+    "Brennan‐Speranza, Tara C.",
+    "Levinger, Itamar",
+    "Yeap, Bu B."
+  ],
+  "doi": "10.3390/nu10070847",
+  "url": "https://openalex.org/W2810242484",
+  "provider": "openalex",
+  "year": 2018,
+  "venue": "Nutrients",
+  "citation_count": 85,
+  "abstract": "Recent advances have indicated that osteocalcin, and in particular its undercarboxylated form (ucOC), is not only a nutritional biomarker reflective of vitamin K status and an indicator of bone health but also an active hormone that mediates glucose metabolism in experimental studies. This work has been supported by the putative identification of G protein-coupled receptor, class C, group 6, member A (GPRC6A) as a cell surface receptor for ucOC. Of note, ucOC has been associated with diabetes and with cardiovascular risk in epidemiological studies, consistent with a pathophysiological role for ucOC in vivo. Limitations of existing knowledge include uncertainty regarding the underlying mechanisms by which ucOC interacts with GPRC6A to modulate metabolic and cardiovascular outcomes, technical issues with commonly used assays for ucOC in serum, and a paucity of clinical trials to prove causation and illuminate the scope for novel health interventions. A key emerging area of research is the role of ucOC in relation to expression of GPRC6A in muscle, and whether exercise interventions may modulate metabolic outcomes favorably in part via ucOC. Further research is warranted to clarify potential direct and indirect roles for ucOC in human health and cardiometabolic diseases.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2072-6643/10/7/847/pdf?version=1530260379"
+}

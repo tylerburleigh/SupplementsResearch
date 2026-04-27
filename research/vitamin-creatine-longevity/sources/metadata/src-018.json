@@ -1,0 +1,29 @@
+{
+  "id": "src-018",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://www.rxteach.com/creatine-uncovered",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-21T12:54:29.016973+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-018.md",
+  "quality_details": {
+    "content_length": 9848,
+    "alpha_ratio": 0.792,
+    "sentence_count": 85,
+    "reasons": [
+      "paywall_page (subscribe)"
+    ]
+  }
+}

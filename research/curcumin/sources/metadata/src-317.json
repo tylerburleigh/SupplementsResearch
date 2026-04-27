@@ -1,0 +1,20 @@
+{
+  "id": "src-317",
+  "title": "Pharmacological effects and mechanisms of curcumin in animal models of Parkinson’s disease: a systematic review and meta-analysis",
+  "authors": [
+    "Pang, B.",
+    "Fu, Qiang",
+    "He, Huihan",
+    "Guo, Xiangyu",
+    "Yang, Ge"
+  ],
+  "doi": "10.3389/fphar.2026.1779921",
+  "url": "https://www.semanticscholar.org/paper/4977b9265e316e126a53424b20354b28f3a6fea3",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "Frontiers in Pharmacology",
+  "citation_count": 0,
+  "abstract": "Background Curcumin has been demonstrated to possess promising neuroprotective potential in Parkinson’s disease; however, its overall effects remain inconclusive, and its multiple mechanisms of action have not been systematically summarized. Objective This systematic review and meta-analysis aimed to evaluate the pharmacological effects of curcumin in animal models of Parkinson’s disease and to investigate its potential mechanisms involving antioxidant, anti-inflammatory, and neuroprotective effects, thereby providing a theoretical basis for its potential clinical application in Parkinson’s disease. Methods A comprehensive search of four databases (EMBASE, PubMed, Web of Science, and the Cochrane Library) up to August 2025 identified 31 eligible studies involving a total of 552 animals. Methodological quality was assessed using the SYRCLE risk of bias tool. Standardized mean differences (SMDs) were calculated to evaluate the effects of curcumin on motor function, neurochemistry, inflammation, and oxidative stress in animal models of Parkinson’s disease. Results The results demonstrated that curcumin intervention improved motor function in animal models of Parkinson’s disease, as evidenced by increased locomotor distance in the open field test (SMD = 1.25) and elevated mean velocity (SMD = 1.42), prolonged latency to fall in the rotarod test (SMD = 2.49), shortened descent time in the pole test (SMD = −1.16), and reduced traversal time on the balance beam (SMD = −2.27). Curcumin exhibited neuroprotective effects through increasing the number of tyrosine hydroxylase-positive cells (SMD = 2.12), maintaining dopamine levels (SMD = 4.11), and elevating 3,4-dihydroxyphenylacetic acid concentrations (SMD = 3.15). Regarding anti-inflammatory effects, curcumin significantly reduced multiple inflammatory markers, including interleukin-6 (SMD = −4.73), interleukin-1β (SMD = −3.30), tumor necrosis factor-α (SMD = −3.19), and nitric oxide (SMD = −4.91). With respect to antioxidant activity, curcumin significantly reduced malondialdehyde levels (SMD = −4.69) while increasing the activities of superoxide dismutase (SMD = 3.90), glutathione (SMD = 2.08), and catalase (SMD = 2.00). Conclusion Curcumin demonstrates significant neuroprotective effects in Parkinson’s disease animal models, improving motor deficits and neuronal integrity likely through multi-target mechanisms involving anti-inflammatory and antioxidant pathways. Systematic Review Register https://www.crd.york.ac.uk/PROSPERO/view/CRD420251131257, identifier CRD420251131257",
+  "type": "academic",
+  "pdf_url": ""
+}

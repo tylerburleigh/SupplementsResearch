@@ -1,0 +1,30 @@
+{
+  "id": "src-222",
+  "title": "The Amyloid-β Pathway in Alzheimer’s Disease",
+  "authors": [
+    "Hampel, Harald",
+    "Hardy, John",
+    "Blennow, Kaj",
+    "Chen, Christopher",
+    "Perry, George",
+    "Kim, Seung Hyun",
+    "Villemagne, Victor L.",
+    "Aisen, Paul",
+    "Vendruscolo, Michele",
+    "Iwatsubo, Takeshi",
+    "Masters, Colin L.",
+    "Cho, Min",
+    "Lannfelt, Lars",
+    "Cummings, Jeffrey L.",
+    "Vergallo, Andrea"
+  ],
+  "doi": "10.1038/s41380-021-01249-0",
+  "url": "https://openalex.org/W3198052269",
+  "provider": "openalex",
+  "year": 2021,
+  "venue": "Molecular Psychiatry",
+  "citation_count": 1706,
+  "abstract": "Breakthroughs in molecular medicine have positioned the amyloid-β (Aβ) pathway at the center of Alzheimer's disease (AD) pathophysiology. While the detailed molecular mechanisms of the pathway and the spatial-temporal dynamics leading to synaptic failure, neurodegeneration, and clinical onset are still under intense investigation, the established biochemical alterations of the Aβ cycle remain the core biological hallmark of AD and are promising targets for the development of disease-modifying therapies. Here, we systematically review and update the vast state-of-the-art literature of Aβ science with evidence from basic research studies to human genetic and multi-modal biomarker investigations, which supports a crucial role of Aβ pathway dyshomeostasis in AD pathophysiological dynamics. We discuss the evidence highlighting a differentiated interaction of distinct Aβ species with other AD-related biological mechanisms, such as tau-mediated, neuroimmune and inflammatory changes, as well as a neurochemical imbalance. Through the lens of the latest development of multimodal in vivo biomarkers of AD, this cross-disciplinary review examines the compelling hypothesis- and data-driven rationale for Aβ-targeting therapeutic strategies in development for the early treatment of AD.",
+  "type": "academic",
+  "pdf_url": "https://www.nature.com/articles/s41380-021-01249-0.pdf"
+}

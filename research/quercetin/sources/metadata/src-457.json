@@ -1,0 +1,24 @@
+{
+  "id": "src-457",
+  "title": "An Overview of Oxidative Stress, Neuroinflammation, and Neurodegenerative Diseases",
+  "authors": [
+    "Teleanu, Daniel Mihai",
+    "Niculescu, Adelina-Gabriela",
+    "Lungu, Iulia Ioana",
+    "Radu, Crina Ioana",
+    "Vladâcenco, Oana Aurelia",
+    "Roza, Eugenia",
+    "Costăchescu, Bogdan",
+    "Grumezescu, Alexandru Mihai",
+    "Teleanu, Raluca Ioana"
+  ],
+  "doi": "10.3390/ijms23115938",
+  "url": "https://openalex.org/W4281569188",
+  "provider": "openalex",
+  "year": 2022,
+  "venue": "International Journal of Molecular Sciences",
+  "citation_count": 916,
+  "abstract": "Oxidative stress has been linked with a variety of diseases, being involved in the debut and/or progress of several neurodegenerative disorders. This review intends to summarize some of the findings that correlate the overproduction of reactive oxygen species with the pathophysiology of Alzheimer's disease, Parkinson's disease, Huntington's disease, and amyotrophic lateral sclerosis. Oxidative stress was also noted to modify the inflammatory response. Even though oxidative stress and neuroinflammation are two totally different pathological events, they are linked and affect one another. Nonetheless, there are still several mechanisms that need to be understood regarding the onset and the progress of neurodegenerative diseases in order to develop efficient therapies. As antioxidants are a means to alter oxidative stress and slow down the symptoms of these neurodegenerative diseases, the most common antioxidants, enzymatic as well as non-enzymatic, have been mentioned in this paper as therapeutic options for the discussed disorders.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/1422-0067/23/11/5938/pdf?version=1653820226"
+}

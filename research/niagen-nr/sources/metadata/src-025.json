@@ -1,0 +1,45 @@
+{
+  "id": "src-025",
+  "title": "Randomized crossover clinical trial of coenzyme Q10 and nicotinamide riboside in chronic kidney disease",
+  "authors": [
+    "Ahmadi, Armin",
+    "Begue, Gwenaelle",
+    "Valencia, Ana P.",
+    "Norman, Jennifer E.",
+    "Lidgard, Benjamin",
+    "Bennett, Brian J.",
+    "Van Doren, Matthew P.",
+    "Marcinek, David J.",
+    "Fan, Sili",
+    "Prince, David K.",
+    "Gamboa, Jorge",
+    "Himmelfarb, Jonathan",
+    "de Boer, Ian H.",
+    "Kestenbaum, Bryan R.",
+    "Roshanravan, Baback"
+  ],
+  "year": 2023,
+  "abstract": "",
+  "doi": "10.1172/jci.insight.167274",
+  "url": "https://doi.org/10.1172/jci.insight.167274",
+  "pdf_url": "",
+  "venue": "JCI Insight",
+  "citation_count": 30,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-20T20:23:31.831128+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-025.md",
+  "quality_details": {
+    "content_length": 63128,
+    "alpha_ratio": 0.737,
+    "sentence_count": 697,
+    "reasons": [
+      "paywall_page (USD)"
+    ]
+  }
+}

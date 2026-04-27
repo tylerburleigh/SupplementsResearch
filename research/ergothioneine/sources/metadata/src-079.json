@@ -1,0 +1,28 @@
+{
+  "id": "src-079",
+  "title": "Ergothioneine is associated with reduced mortality and decreased risk of cardiovascular disease",
+  "authors": [
+    "Smith, Einar",
+    "Ottosson, Filip",
+    "Hellstrand, Sophie",
+    "Ericson, Ulrika",
+    "Orho-Melander, Marju",
+    "Fernandez, Céline",
+    "Melander, Olle"
+  ],
+  "year": 2020,
+  "abstract": "Objectives\nWe recently identified a health conscious food pattern (HCFP) associated with reduced risk of cardiometabolic disease. However, the molecular events linking the healthy food pattern to reduced risk of cardiometabolic disease are unknown. Our aim was to identify plasma metabolites associated with the HCFP and test if such metabolites predict cardiometabolic disease and mortality.\n\nMethods\nUsing liquid-chromatography mass-spectrometry, 112 plasma metabolites were measured in 3236 participants without cardiovascular disease (CVD) and diabetes mellitus from the population-based Malmö Diet and Cancer study. Metabolites associated with the HCFP were identified using multivariable adjusted linear regressions followed by Bonferroni correction. The healthy dietary biomarkers were subsequently related to risk of cardiometabolic disease and mortality during long-term follow-up with multivariable adjusted Cox proportional hazards models.\n\nResults\nDuring a median follow-up time of 21.4 years, 603 participants developed CVD, 362 developed diabetes mellitus and 843 participants died. Five healthy dietary biomarkers were associated with the HCFP at baseline (p&lt;0.0004) and four predicted at least one of the studied end points (p&lt;0.05). Ergothioneine was the metabolite most strongly connected to the HCFP and was associated with a lower risk of coronary disease (HR per 1 SD increment of ergothioneine, HR=0.85, p=0.01), cardiovascular mortality (HR=0.79, p=0.002) and overall mortality (HR=0.86, p=4e-5).\n\nConclusions\nWe identified that higher ergothioneine was an independent marker of lower risk of cardiometabolic disease and mortality, which potentially can be induced by a specific healthy dietary intake.",
+  "doi": "10.1136/heartjnl-2019-315485",
+  "url": "https://doi.org/10.1136/heartjnl-2019-315485",
+  "pdf_url": "",
+  "venue": "Heart",
+  "citation_count": 140,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-20T00:14:53.361115+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok"
+}

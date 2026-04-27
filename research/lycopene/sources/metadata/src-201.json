@@ -1,0 +1,21 @@
+{
+  "id": "src-201",
+  "title": "Selenium for preventing cancer",
+  "authors": [
+    "Dennert, Gabriele",
+    "Zwahlen, Marcel",
+    "Brinkman, Maree",
+    "Vinceti, Marco",
+    "Zeegers, Maurice P.",
+    "Horneber, Markus"
+  ],
+  "doi": "10.1002/14651858.cd005195.pub2",
+  "url": "https://openalex.org/W3102616569",
+  "provider": "openalex",
+  "year": 2011,
+  "venue": "Cochrane Database of Systematic Reviews",
+  "citation_count": 79,
+  "abstract": "No reliable conclusions can be drawn regarding a causal relationship between low selenium exposure and an increased risk of cancer. Despite evidence for an inverse association between selenium exposure and the risk of some types of cancer, these results should be interpreted with care due to the potential limiting factors of heterogeneity and influences of unknown biases, confounding and effect modification.The effect of selenium supplementation from RCTs yielded inconsistent results. To date, there is no convincing evidence that selenium supplements can prevent cancer in men, women or children.",
+  "type": "academic",
+  "pdf_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD005195.pub2/pdf/full"
+}

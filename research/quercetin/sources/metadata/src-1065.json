@@ -1,0 +1,14 @@
+{
+  "id": "src-1065",
+  "title": "Guidelines for the use and interpretation of assays for monitoring autophagy (4th edition)1.",
+  "authors": [],
+  "doi": "10.17863/cam.66286",
+  "url": "https://doi.org/10.17863/cam.66286",
+  "provider": "core",
+  "year": 2021,
+  "venue": "Informa UK Limited",
+  "citation_count": 0,
+  "abstract": "In 2008, we published the first set of guidelines for standardizing research in autophagy. Since then, this topic has received increasing attention, and many scientists have entered the field. Our knowledge base and relevant new technologies have also been expanding. Thus, it is important to formulate on a regular basis updated guidelines for monitoring autophagy in different organisms. Despite numerous reviews, there continues to be confusion regarding acceptable methods to evaluate autophagy, especially in multicellular eukaryotes. Here, we present a set of guidelines for investigators to select and interpret methods to examine autophagy and related processes, and for reviewers to provide realistic and reasonable critiques of reports that are focused on these processes. These guidelines are not meant to be a dogmatic set of rules, because the appropriateness of any assay largely depends on the question being asked and the system being used. Moreover, no individual assay is perfect for every situation, calling for the use of multiple techniques to properly monitor autophagy in each experimental setting. Finally, several core components of the autophagy machinery have been implicated in distinct autophagic processes (canonical and noncanonical autophagy), implying that genetic approaches to block autophagy should rely on targeting two or more autophagy-related genes that ideally participate in distinct steps of the pathway. Along similar lines, because multiple proteins involved in autophagy also regulate other cellular pathways including apoptosis, not all of them can be used as a specific marker for bona fide autophagic responses. Here, we critically discuss current methods of assessing autophagy and the information they can, or cannot, provide. Our ultimate goal is to encourage intellectual and technical innovation in the field",
+  "type": "academic",
+  "pdf_url": "https://core.ac.uk/download/395372777.pdf"
+}

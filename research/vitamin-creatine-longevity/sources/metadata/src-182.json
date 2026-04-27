@@ -1,0 +1,25 @@
+{
+  "id": "src-182",
+  "title": "CEST MRI assessment of HIV-1-associated neurometabolic impairments in a humanized mouse model",
+  "authors": [
+    "Gauthier, Gabriel C.",
+    "Summerlin, Micah",
+    "Sajja, B.",
+    "Uberti, Mariano",
+    "Foster, Emma G",
+    "Kumar, Manjeet",
+    "Thiele, Matthew",
+    "Gorantla, S.",
+    "Bade, Aditya N.",
+    "Liu, Yutong"
+  ],
+  "doi": "10.1515/nipt-2025-0017",
+  "url": "https://www.semanticscholar.org/paper/909a9f04153639bfbf05bd9eecf72b47e25676dc",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "NeuroImmune Pharmacology and Therapeutics",
+  "citation_count": 0,
+  "abstract": "Abstract Objectives Human immunodeficiency virus 1 (HIV-1)-associated neurocognitive disorders (HAND) persist despite antiretroviral therapy (ART), driven by ongoing neuroinflammation and metabolic dysfunction. This study assesses whether chemical exchange saturation transfer (CEST) MRI can detect HIV-1–induced neurometabolic impairments and ART-mediated improvements in a humanized mouse model. Methods HIV-1–infected CD34-NSG mice underwent CEST MRI at baseline (Week 0), 6 weeks post-infection (6 WPI), and after 6 weeks of ART or vehicle treatment (12 WPI). CEST contrast was quantified at 2 ppm (creatine-related), 3 ppm (glutamate-related), and −3.5 ppm (nuclear Overhauser effect, NOE). Neuroinflammation and infection were evaluated using immunohistochemistry and qPCR. Results At 6 WPI, HIV-1 infection reduced 2-ppm CEST contrast in the cortex and hippocampus and increased NOE in the cortex. By 12 WPI, vehicle-treated mice showed decreased 3-ppm contrast in the cortex, hippocampus, and piriform cortex, whereas ART restored contrast in the cortex and hippocampus. Vehicle-treated mice also showed reduced 2-ppm contrast in the cortex, hippocampus, piriform cortex, and thalamus; ART restored this in the hippocampus, piriform cortex, and thalamus. Increased NOE at −3.5 ppm was observed but did not show measurable improvement following ART. CEST alterations corresponded with decreased HIV-1 p24+ cells and reduced neuroinflammatory markers in ART-treated brains. Conclusions CEST MRI detects region-specific metabolic abnormalities during HIV-1 infection and region-specific metabolic recovery with ART, consistent with reduced viral burden and neuroinflammation. These findings support CEST MRI as a promising non-invasive biomarker for monitoring treatment response and disease progression in neuroHIV.",
+  "type": "academic",
+  "pdf_url": ""
+}

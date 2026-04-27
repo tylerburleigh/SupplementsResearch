@@ -1,0 +1,17 @@
+{
+  "id": "src-203",
+  "title": "Mammalian Sirt1: insights on its biological functions",
+  "authors": [
+    "Rahman, Shahedur",
+    "Islam, Rezuanul"
+  ],
+  "doi": "10.1186/1478-811x-9-11",
+  "url": "https://openalex.org/W2101720365",
+  "provider": "openalex",
+  "year": 2011,
+  "venue": "Cell Communication and Signaling",
+  "citation_count": 354,
+  "abstract": "Sirt1 (member of the sirtuin family) is a nicotinamide adenosine dinucleotide (NAD)-dependent deacetylase that removes acetyl groups from various proteins. Sirt1 performs a wide variety of functions in biological systems. The current review focuses on the biological functions of Sirt1 in obesity-associated metabolic diseases, cancer, adipose tissue, aging, cellular senescence, cardiac aging and stress, prion-mediated neurodegeneration, inflammatory signaling in response to environmental stress, development and placental cell survival.",
+  "type": "academic",
+  "pdf_url": "https://biosignaling.biomedcentral.com/counter/pdf/10.1186/1478-811X-9-11"
+}

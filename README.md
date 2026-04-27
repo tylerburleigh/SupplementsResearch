@@ -6,13 +6,24 @@ An evidence-based wiki on supplementation for longevity and healthspan. Research
 
 ## Start Here
 
+Start with the task, not the folder structure. [`wiki/synthesis.md`](wiki/synthesis.md) is the front door; [`wiki/index.md`](wiki/index.md) is the full catalog once you know what you are looking for.
+
+| If you want to... | Start here | Then go deeper with... |
+|------|-----------|-----------|
+| Understand the current state of the wiki | [`wiki/synthesis.md`](wiki/synthesis.md) | [`wiki/Evidence Map.base`](wiki/Evidence%20Map.base), [`wiki/index.md`](wiki/index.md) |
+| Decide whether something is worth taking | [`wiki/synthesis.md`](wiki/synthesis.md) | Supplement entity pages, [`wiki/Quick Reference Dosing.md`](wiki/Quick%20Reference%20Dosing.md), [`wiki/interactions.md`](wiki/interactions.md) |
+| Ask a recurring practical question | [`wiki/queries/README.md`](wiki/queries/README.md) | Answered query pages, relevant supplement and concept pages |
+| Compare supplement options | [`wiki/comparisons/README.md`](wiki/comparisons/README.md) | Entity pages and source summaries |
+| Check dose, form, or timing | [`wiki/Quick Reference Dosing.md`](wiki/Quick%20Reference%20Dosing.md) | Dedicated dosing pages in `wiki/dosing/` |
+| Find safety concerns or conflicts | [`wiki/interactions.md`](wiki/interactions.md) | Supplement entity safety sections and source summaries |
+| Choose what to research next | [`wiki/research-backlog.md`](wiki/research-backlog.md) | [`research-priority.md`](research-priority.md), [`purpose.md`](purpose.md) |
+| Browse everything | [`wiki/index.md`](wiki/index.md) | Bases dashboards and directory README pages |
+
+Key context pages:
+
 | Page | What it is |
 |------|-----------|
 | [`purpose.md`](purpose.md) | Your research goals, current stack, and working thesis. Claude reads this on every task. |
-| [`wiki/synthesis.md`](wiki/synthesis.md) | The wiki's current best understanding — strongest evidence, active debates, best-guess stack, priority gaps. |
-| [`wiki/research-backlog.md`](wiki/research-backlog.md) | Open questions, thinly-sourced pages, and stale pages. What to research next. |
-| [`wiki/index.md`](wiki/index.md) | Full content catalog — supplements, pathways, outcomes, hypotheses, stacks, sources. Auto-updates from page frontmatter. |
-| [`wiki/debates.md`](wiki/debates.md) | Active disagreements between sources, and hypotheses with contested or nuanced status. |
 | [`wiki/decisions.md`](wiki/decisions.md) | Log of significant structural decisions Claude made and why. |
 
 ---
@@ -23,12 +34,14 @@ An evidence-based wiki on supplementation for longevity and healthspan. Research
 raw/              Drop sources here for ingestion (PDFs, articles, notes)
 research/         Deep-research reports (one subdirectory per supplement)
 wiki/             The compiled knowledge base
-  entities/       Supplement, compound, pathway, and biomarker pages
-  concepts/       Pathway and outcome concept pages
-  sources/        One summary page per ingested source
+  entities/       Supplement, compound, brand, and delivery-form pages
+  concepts/       Pathway, outcome, condition, biomarker, population, and basic-biology concept pages
+  sources/        Report summaries and selected decision-critical source anchors
   hypotheses/     Testable claims connecting supplements → pathways → outcomes
   comparisons/    Head-to-head supplement comparisons
   stacks/         Stack configurations with rationale
+  queries/        Durable answers to recurring practical questions
+  dosing/         Dedicated dosing pages when entity dosing sections grow large
 templates/        Page templates
 purpose.md        Your research direction (edit this directly)
 writing-style.md  Style guide for wiki pages
@@ -76,6 +89,9 @@ Edit `purpose.md` directly. Claude reads it on every task — keeping it current
 
 ## Maintaining the Wiki
 
+**Enable tracked Git hooks** (once per clone):
+Run `git config core.hooksPath .githooks` so commits use the tracked pre-commit lint hook.
+
 **Lint the wiki** (find orphans, broken links, missing frontmatter):
 Ask Claude: *"lint the wiki"*
 
@@ -96,3 +112,21 @@ Ask Claude: `/wiki-ingest raw/your-file.pdf` — Claude checks `raw_hash` to det
 | 4 | Clinical endpoint RCT | Human trial showing disease, mortality, or functional outcomes |
 
 A plausible mechanism (Level 1) is not clinical proof. The wiki distinguishes these explicitly.
+
+## Evidence Streams
+
+The wiki also tracks `mechanistic_evidence`, `animal_evidence`, and `human_evidence` separately. This lets a supplement be marked `mechanism-led` when mechanistic evidence is strong but human evidence is still weak or untested, as long as animal or human data are not clearly negative.
+
+Genetics evidence is handled through concept pages for genes, variants, genotypes, and pharmacogenomic markers, then linked into supplement hypotheses through `genetic_context`.
+
+## Practical Status
+
+Supplement entities also carry a `practical_status` field. This is separate from evidence level: a supplement can have plausible evidence but still be marked `deprioritize` because the effect is small, population-specific, unsafe in context, or impractical.
+
+| Status | Meaning |
+|--------|---------|
+| candidate | Worth considering for the stated goals, pending stack fit and safety review |
+| consider | Reasonable option when the target outcome/population matches the evidence |
+| deprioritize | Not a current priority because evidence is weak, effects are small, or relevance is low |
+| avoid | Do not use without a specific reason because risks or contraindications dominate |
+| research-only | Interesting mechanistically, but not ready for a practical supplement decision |

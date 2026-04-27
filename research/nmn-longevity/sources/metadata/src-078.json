@@ -1,0 +1,24 @@
+{
+  "id": "src-078",
+  "title": "Nicotinamide mononucleotide inhibits hepatic stellate cell activation to prevent liver fibrosis via promoting PGE2 degradation.",
+  "authors": [
+    "Zong, Zhaoyun",
+    "Liu, Jing",
+    "Wang, Ning",
+    "Yang, Changmei",
+    "Wang, Qingtao",
+    "Zhang, Wenhao",
+    "Chen, Yuling",
+    "Liu, Xiaohui",
+    "Deng, Haiteng"
+  ],
+  "doi": "10.1016/j.freeradbiomed.2020.11.014",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/33220424",
+  "provider": "pubmed",
+  "year": 2021,
+  "venue": "Free radical biology & medicine",
+  "citation_count": 0,
+  "abstract": "Liver fibrosis is a reversible wound-healing response to acute or chronic liver injury that can progress to cirrhosis and liver cancer. Finding new strategies for prevention and management of liver fibrosis is urgently needed. It is known that hepatic stellate cell (HSC) is the primary source of extracellular matrix that drives liver fibrosis progression. Herein, we carried out a comprehensive secretome profiling to identify NMN-induced changes in secretory proteins and found that NMN suppressed the secretion of profibrotic protein and oxidoreductase in activated HSC (LX-2) cells, while real-time quantitative PCR analysis revealed that NMN downregulated profibrotic gene expression, resulting in HSC inactivation. Next, we demonstrated that nicotinamide mononucleotide (NMN) reduced the accumulation of liver extracellular matrix in thioacetamide (TAA) and carbon tetrachloride (CCl4) induced mouse models for liver fibrosis. Furthermore, we determined that NMN inhibited oxidation-mediated 15-PGDH degradation to promote prostaglandin E2 degradation and suppress HSC activation. In summary, our results propose that NMN supplementation is a new therapeutic approach for liver fibrosis prevention.",
+  "type": "academic",
+  "pdf_url": ""
+}

@@ -1,0 +1,28 @@
+{
+  "id": "src-437",
+  "title": "Publications &#8211; Genflow Bioscience",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://genflowbio.com/publications",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-23T14:03:35.616511+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "mismatched",
+  "content_file": "sources/src-437.md",
+  "quality_details": {
+    "reasons": [
+      "content may be from wrong paper: composite match score 0.13 < 0.3, 1/4 title keywords, 0/0 authors, brief keyword rate 7%, title-to-title overlap 8%"
+    ],
+    "title_hits": 1,
+    "author_hits": 0
+  }
+}

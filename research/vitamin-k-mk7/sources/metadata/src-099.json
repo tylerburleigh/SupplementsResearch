@@ -1,0 +1,17 @@
+{
+  "id": "src-099",
+  "title": "Vitamin K and Bone Health: A Review on the Effects of Vitamin K Deficiency and Supplementation and the Effect of Non-Vitamin K Antagonist Oral Anticoagulants on Different Bone Parameters",
+  "authors": [
+    "Olleros, Celia Rodríguez",
+    "M, Díaz Curiel"
+  ],
+  "doi": "10.1155/2019/2069176",
+  "url": "https://openalex.org/W2996890676",
+  "provider": "openalex",
+  "year": 2019,
+  "venue": "Journal of Osteoporosis",
+  "citation_count": 58,
+  "abstract": "Although known for its importance in the coagulation cascade, vitamin K has other functions. It is an essential vitamin for bone health, taking part in the carboxylation of many bone-related proteins, regulating genetic transcription of osteoblastic markers, and regulating bone reabsorption. Vitamin K deficiency is not uncommon, as deposits are scarce and dependent upon dietary supplementation and absorption. Vitamin K antagonist oral anticoagulants, which are prescribed to many patients, also induce vitamin K deficiency. Most studies find that low serum K1 concentrations, high levels of undercarboxylated osteocalcin (ucOC), and low dietary intake of both K1 and K2 are associated with a higher risk of fracture and lower BMD. Studies exploring the relationship between vitamin K supplementation and fracture risk also find that the risk of fracture is reduced with supplements, but high quality studies designed to evaluate fracture as its primary endpoint are needed. The reduction in risk of fracture with the use of non-vitamin K antagonist oral anticoagulants instead of warfarin is also of interest although once again, the available evidence offers disparate results. The scarce and limited evidence, including low quality studies reaching disparate conclusions, makes it impossible to extract solid conclusions on this topic, especially concerning the use of vitamin K supplements.",
+  "type": "academic",
+  "pdf_url": "https://downloads.hindawi.com/journals/jos/2019/2069176.pdf"
+}

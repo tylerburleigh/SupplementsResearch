@@ -1,0 +1,32 @@
+{
+  "id": "src-173",
+  "title": "NAD+ boosting increases atherosclerotic plaques and inflammation in Apoe knockout mice.",
+  "authors": [
+    "Wang, Yu-Jen",
+    "Gaul, Daniel S",
+    "Gorica, Era",
+    "Pahla, Jürgen",
+    "Wang, Zeneng",
+    "Mohammed, Shafeeq A",
+    "Dahlby, Tina",
+    "Dietrich, Elisa",
+    "Osto, Elena",
+    "Gariani, Karim",
+    "Costantino, Sarah",
+    "Winnik, Stephan",
+    "Stein, Sokrates",
+    "Hazen, Stanley L",
+    "Ruschitzka, Frank",
+    "Auwerx, Johan",
+    "Matter, Christian M"
+  ],
+  "doi": "10.1016/j.atherosclerosis.2025.119188",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40215896",
+  "provider": "pubmed",
+  "year": 2025,
+  "venue": "Atherosclerosis",
+  "citation_count": 0,
+  "abstract": "BACKGROUND AND AIMS: NAD+ (nicotinamide adenine dinucleotide) is a cosubstrate of the sirtuins (SIRT) that are activated upon caloric restriction. Supplementing NAD+ precursors such as nicotinamide riboside (NR) has been reported to extend life span and combat metabolic syndrome through pan-sirtuin activation in mice. Notably, sirtuins compete with poly (ADP-ribose) polymerase (PARP)1 and CD38 for NAD+. Supplementing NAD+ precursors did not improve cardiovascular outcome in the AIM-HIGH trial. Recently, the terminal NAD+ metabolite 4PY (N1-methyl-4-pyridone-3-carboxamide) was reported to increase inflammation and to be associated with cardiovascular risk. We aimed to investigate whether NR provides atheroprotection.\nMETHODS: 8-week-old male apolipoprotein E (Apoe) knockout mice were fed for 12 weeks a high-cholesterol diet supplemented with three NR doses: NR-, NR+, and NR++. RAW264.7 mouse macrophages and bone marrow macrophages were stimulated with oxLDL and NR.\nRESULTS: NR++ enhanced plaque lesions in aortic sinus sections and increased plasma levels of TNFα, IL-6, and LDL-cholesterol. Liver and plasma NAD+ concentrations remained unchanged, but the downstream metabolite 4PY increased. In liver lysates, SIRT1 and lipoprotein receptors were decreased and CD38 increased in NR++; cleaved PARP1 and total PARylation decreased upon NR supplementation. In oxLDL-treated macrophages, high NR levels increased CD38 and CD86 expression.\nCONCLUSIONS: High-dose NR supplementation in mice did not decrease but increase both aortic plaque lesions and systemic inflammation. These effects may be mediated by increased CD38 expression in macrophages, with NAD+ metabolism shifted from sirtuins towards CD38 and PARP1 pathways. Caution should be applied with presumed NAD+ boosters in patients with atherosclerosis.",
+  "type": "academic",
+  "pdf_url": ""
+}

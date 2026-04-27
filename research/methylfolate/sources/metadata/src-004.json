@@ -1,0 +1,29 @@
+{
+  "id": "src-004",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://naturopathicpediatrics.com/2016/01/26/folic-acid-folate-methylfolate-mthfr-everyone-talking",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-20T12:19:55.765266+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-004.md",
+  "quality_details": {
+    "content_length": 6232,
+    "alpha_ratio": 0.79,
+    "sentence_count": 69,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

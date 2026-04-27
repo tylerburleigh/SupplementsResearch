@@ -1,0 +1,29 @@
+{
+  "id": "src-230",
+  "title": "Human rotator cuff tears demonstrate an age-dependent increase in markers of cellular senescence and selective removal of senescent cells with dasatinib+quercetin increases genetic expression of COL1A1 in vitro.",
+  "authors": [
+    "Hawthorne, Benjamin C.",
+    "Wellington, I.",
+    "Sabitsky, Joshua T.",
+    "Murphy, Kyle V.",
+    "Karsmarski, Owen P",
+    "Thomas, Rohin O.",
+    "LeVasseur, Matthew R.",
+    "Mancini, Michael R.",
+    "Trudeau, M.",
+    "Gulati, S.",
+    "Mccarthy, M.",
+    "Cote, M.",
+    "Xu, Ming",
+    "Mazzocca, A."
+  ],
+  "doi": "10.1016/j.arthro.2023.05.036",
+  "url": "https://www.semanticscholar.org/paper/0d3d0f454cdbade30c9b33b08f9b0ba89adf6fde",
+  "provider": "semantic_scholar",
+  "year": 2023,
+  "venue": "Arthroscopy: The Journal of Arthroscopy And Related",
+  "citation_count": 14,
+  "abstract": "PURPOSE\nTo quantify cellular senescence in supraspinatus tendon and subacromial bursa of humans with rotator cuff tears and to investigate the in vitro efficacy of the senolytic dasatinib+quercetin (D+Q) to eliminate senescent cells and alter tenogenic differentiation.\n\nMETHODS\nTissue was harvested from 41 patients (mean age 62 years) undergoing arthroscopic rotator cuff repairs. In part 1 (n=35), senescence was quantified utilizing immunohistochemistry and gene expression for senescent cell markers (p16 & p21) and the senescence-associated secretory phenotype (SASP) (interleukin [IL]-6, IL-8, matrix metalloproteinase [MMP]-3, monocyte chemoattractant protein [MCP]-1). Senescence was compared between patients <60 and ≥60 years old. In part 2 (n=6) , an in vitro model of rotator cuff tears was treated with D+Q or control. D+Q, a chemotherapeutic and plant flavanol, respectively, kill senescent cells. Gene expression analysis assessed the ability of D+Q to kill senescent cells and alter markers of tenogenic differentiation.\n\nRESULTS\nPart 1 demonstrated an age-dependent significant increase in the relative expression of p21, IL-6, and IL-8 in tendon, and p21, p16, IL-6, IL-8, and MMP-3 in bursa (p<.05). A significant increase was seen in immunohistochemical staining of bursa p21 (p=.028). In Part 2, D+Q significantly decreased expression of p21, IL-6 and IL-8 in tendon, and p21 and IL-8 in bursa (p<.05). ELISA analysis demonstrated decreased release of the SASP (IL-6, MMP-3, MCP-1; p=.002, p=.024, p<.001, respectively). Tendon (p=.022) and bursa (p=.027) treated with D+Q increased the expression of COL1A1.\n\nCONCLUSIONS\nWhile there was an age-dependent increase in markers of cellular senescence, this relationship was not consistently seen across all markers and tissues. Dasatinib+quercetin demonstrated moderate efficacy in decreasing senescence in these tissues and increasing COL1A1 expression.",
+  "type": "academic",
+  "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10746834"
+}

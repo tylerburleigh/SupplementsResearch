@@ -1,0 +1,23 @@
+{
+  "id": "src-119",
+  "title": "A mathematical model gives insights into nutritional and genetic aspects of folate-mediated one-carbon metabolism.",
+  "authors": [
+    "Reed, Michael C",
+    "Nijhout, H Frederik",
+    "Neuhouser, Marian L",
+    "Gregory, Jesse F",
+    "Shane, Barry",
+    "James, S Jill",
+    "Boynton, Alanna",
+    "Ulrich, Cornelia M"
+  ],
+  "doi": "10.1093/jn/136.10.2653",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/16988141",
+  "provider": "pubmed",
+  "year": 2006,
+  "venue": "The Journal of nutrition",
+  "citation_count": 0,
+  "abstract": "Impaired folate-mediated 1-carbon metabolism has been linked to multiple disease outcomes. A better understanding of the nutritional and genetic influences on this complex biochemical pathway is needed to comprehend their impact on human health. To this end, we created a mathematical model of folate-mediated 1-carbon metabolism. The model uses published data on folate enzyme kinetics and regulatory mechanisms to simulate the impact of genetic and nutritional variation on critical aspects of the pathway. We found that the model predictions match experimental data, while providing novel insights into pathway kinetics. Our primary observations were as follows: 1) the inverse association between folate and homocysteine is strongest at very low folate concentrations, but there is no association at high folate concentrations; 2) the DNA methylation reaction rate is relatively insensitive to changes in folate pool size; and 3) as folate concentrations become very high, enzyme velocities decrease. With regard to polymorphisms in 5,10-methylenetetrahydrofolate reductase (MTHFR), the modeling predicts that decrease MTHFR activity reduces concentrations of S-adenosylmethionine and 5-methyltetrahydrofolate, as well as DNA methylation, while modestly increasing S-adenosylhomocysteine and homocysteine concentrations and thymidine or purine synthesis. Decreased folate together with a simulated vitamin B-12 deficiency results in decreases in DNA methylation and purine and thymidine synthesis. Decreased MTHFR activity superimposed on the B-12 deficiency appears to reverse the declines in purine and thymidine synthesis. These mathematical simulations of folate-mediated 1-carbon metabolism provide a cost-efficient approach to in silico experimentation that can complement and help guide laboratory studies.",
+  "type": "academic",
+  "pdf_url": ""
+}

@@ -1,0 +1,28 @@
+{
+  "id": "src-290",
+  "title": "Overview of epigenetic degraders based on PROTAC, molecular glue, and hydrophobic tagging technologies",
+  "authors": [
+    "Peng, Xiaopeng",
+    "Hu, Zhihao",
+    "Zeng, Limei",
+    "Zhang, Meizhu",
+    "Xu, Congcong",
+    "Lu, Benyan",
+    "Tao, Chengpeng",
+    "Chen, Wei‐Ming",
+    "Hou, Wen",
+    "Cheng, Kui",
+    "Bi, Huichang",
+    "Pan, Wanyi",
+    "Chen, Jianjun"
+  ],
+  "doi": "10.1016/j.apsb.2023.09.003",
+  "url": "https://openalex.org/W4386693242",
+  "provider": "openalex",
+  "year": 2023,
+  "venue": "Acta Pharmaceutica Sinica B",
+  "citation_count": 63,
+  "abstract": "Epigenetic pathways play a critical role in the initiation, progression, and metastasis of cancer. Over the past few decades, significant progress has been made in the development of targeted epigenetic modulators (<i>e.g.,</i> inhibitors). However, epigenetic inhibitors have faced multiple challenges, including limited clinical efficacy, toxicities, lack of subtype selectivity, and drug resistance. As a result, the design of new epigenetic modulators (<i>e.g.,</i> degraders) such as PROTACs, molecular glue, and hydrophobic tagging (HyT) degraders has garnered significant attention from both academia and pharmaceutical industry, and numerous epigenetic degraders have been discovered in the past decade. In this review, we aim to provide an in-depth illustration of new degrading strategies (2017-2023) targeting epigenetic proteins for cancer therapy, focusing on the rational design, pharmacodynamics, pharmacokinetics, clinical status, and crystal structure information of these degraders. Importantly, we also provide deep insights into the potential challenges and corresponding remedies of this approach to drug design and development. Overall, we hope this review will offer a better mechanistic understanding and serve as a useful guide for the development of emerging epigenetic-targeting degraders.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.1016/j.apsb.2023.09.003"
+}

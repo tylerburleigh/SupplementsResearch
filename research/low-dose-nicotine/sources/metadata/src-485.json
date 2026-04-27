@@ -1,0 +1,18 @@
+{
+  "id": "src-485",
+  "title": "The pharmacokinetics and the pharmacodynamics of cannabinoids",
+  "authors": [
+    "Lucas, Catherine",
+    "Galettis, Peter",
+    "Schneider, Jennifer"
+  ],
+  "doi": "10.1111/bcp.13710",
+  "url": "https://openalex.org/W2852302757",
+  "provider": "openalex",
+  "year": 2018,
+  "venue": "British Journal of Clinical Pharmacology",
+  "citation_count": 678,
+  "abstract": "There is increasing interest in the use of cannabinoids for disease and symptom management, but limited information available regarding their pharmacokinetics and pharmacodynamics to guide prescribers. Cannabis medicines contain a wide variety of chemical compounds, including the cannabinoids delta-9-tetrahydrocannabinol (THC), which is psychoactive, and the nonpsychoactive cannabidiol (CBD). Cannabis use is associated with both pathological and behavioural toxicity and, accordingly, is contraindicated in the context of significant psychiatric, cardiovascular, renal or hepatic illness. The pharmacokinetics of cannabinoids and the effects observed depend on the formulation and route of administration, which should be tailored to individual patient requirements. As both THC and CBD are hepatically metabolized, the potential exists for pharmacokinetic drug interactions via inhibition or induction of enzymes or transporters. An important example is the CBD-mediated inhibition of clobazam metabolism. Pharmacodynamic interactions may occur if cannabis is administered with other central nervous system depressant drugs, and cardiac toxicity may occur via additive hypertension and tachycardia with sympathomimetic agents. More vulnerable populations, such as older patients, may benefit from the potential symptomatic and palliative benefits of cannabinoids but are at increased risk of adverse effects. The limited availability of applicable pharmacokinetic and pharmacodynamic information highlights the need to initiate prescribing cannabis medicines using a 'start low and go slow' approach, carefully observing the patient for desired and adverse effects. Further clinical studies in the actual patient populations for whom prescribing may be considered are needed, to derive a better understanding of these drugs and enhance safe and optimal prescribing.",
+  "type": "academic",
+  "pdf_url": "https://bpspubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1111/bcp.13710"
+}

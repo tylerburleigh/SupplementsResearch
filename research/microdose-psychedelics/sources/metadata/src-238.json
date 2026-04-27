@@ -1,0 +1,25 @@
+{
+  "id": "src-238",
+  "title": "Psilocybin for dementia prevention? The potential role of psilocybin to alter mechanisms associated with major depression and neurodegenerative diseases",
+  "authors": [
+    "Haniff, Zarah R.",
+    "Bocharova, Mariia",
+    "Mantingh, Tim",
+    "Rucker, James",
+    "Velayudhan, Latha",
+    "Taylor, David",
+    "Young, Allan H.",
+    "Aarsland, Dag",
+    "Vernon, Anthony C.",
+    "Thuret, Sandrine"
+  ],
+  "doi": "10.1016/j.pharmthera.2024.108641",
+  "url": "https://openalex.org/W4394009974",
+  "provider": "openalex",
+  "year": 2024,
+  "venue": "Pharmacology & Therapeutics",
+  "citation_count": 14,
+  "abstract": "Major depression is an established risk factor for subsequent dementia, and depression in late life may also represent a prodromal state of dementia. Considering current challenges in the clinical development of disease modifying therapies for dementia, the focus of research is shifting towards prevention and modification of risk factors to alter the neurodegenerative disease trajectory. Understanding mechanistic commonalities underlying affective symptoms and cognitive decline may reveal biomarkers to aid early identification of those at risk of progressing to dementia during the preclinical phase of disease, thus allowing for timely intervention. Adult hippocampal neurogenesis (AHN) is a phenomenon that describes the birth of new neurons in the dentate gyrus throughout life and it is associated with spatial learning, memory and mood regulation. Microglia are innate immune system macrophages in the central nervous system that carefully regulate AHN via multiple mechanisms. Disruption in AHN is associated with both dementia and major depression and microgliosis is a hallmark of several neurodegenerative diseases. Emerging evidence suggests that psychedelics promote neuroplasticity, including neurogenesis, and may also be immunomodulatory. In this context, psilocybin, a serotonergic agonist with rapid-acting antidepressant properties has the potential to ameliorate intersecting pathophysiological processes relevant for both major depression and neurodegenerative diseases. In this narrative review, we focus on the evidence base for the effects of psilocybin on adult hippocampal neurogenesis and microglial form and function; which may suggest that psilocybin has the potential to modulate multiple mechanisms of action, and may have implications in altering the progression from major depression to dementia in those at risk.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.1016/j.pharmthera.2024.108641"
+}

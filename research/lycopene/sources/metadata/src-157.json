@@ -1,0 +1,19 @@
+{
+  "id": "src-157",
+  "title": "Association of serum lycopene concentrations with all-cause and cardiovascular mortality among individuals with chronic kidney disease: A cohort study.",
+  "authors": [
+    "Zhong, Qiang",
+    "Piao, YongYi",
+    "Yin, Shan",
+    "Zhang, KangYi"
+  ],
+  "doi": "10.3389/fnut.2022.1048884",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36545466",
+  "provider": "pubmed",
+  "year": 2022,
+  "venue": "Frontiers in nutrition",
+  "citation_count": 0,
+  "abstract": "BACKGROUND: Lycopene is one of the hydrocarbon carotenoids which is largely studied for its strong antioxidant and anti-inflammatory properties, as well as improvement of endothelial function and anti-arteriosclerosis effects. The use of lycopene has been shown to reduce mortality in the general population. However, few studies have examined the association between serum lycopene level and all-cause and cardiovascular mortality among participants with chronic kidney disease (CKD).\nMETHOD: This study included 7,683 adults with CKD from the Third National Health and Nutrition Examination Survey (NHANES III, 1988-1994) and NHANES 2001-2006. Mortality status and cause of death were ascertained by linkage to National Death Index records through 31 December 2018. Cox proportional hazards regression models were used to estimate hazard ratios (HR) and 95% CIs for mortality from all-cause and cardiovascular disease (CVD).\nRESULT: During a median follow-up time of 309 months, there were 5,226 total deaths. The median (interquartile range) serum lycopene concentration was 20.0 (12.0, 32.0) μg/dl. After fully adjusted, restricted cubic spline analyses reported that higher serum lycopene concentrations were significantly associated with decreased risk of all-cause and CVD mortality in participants with CKD (P < 0.001, P = 0.001). When extreme quartiles of serum lycopene concentrations were compared, the multivariable-adjusted HR (95% CI) was 0.778 (0.714-0.848) for all-cause mortality (P < 0.001), and 0.791 (0.692-0.905) for CVD mortality (P < 0.001). Specifically, higher serum lycopene decreased the risk of all-cause and CVD mortality at both CKD stage 1-2 and stage 3-5. Further subgroup analyses and sensitivity analyses supported the current results.\nCONCLUSION: Higher serum lycopene was independently associated with a decreased risk of all-cause and CVD mortality in patients with CKD. These findings suggested that maintain serum lycopene concentrations could lower mortality risk in CKD patients.",
+  "type": "academic",
+  "pdf_url": ""
+}

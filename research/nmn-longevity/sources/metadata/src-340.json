@@ -1,0 +1,28 @@
+{
+  "id": "src-340",
+  "title": "Reduced nicotinamide mononucleotide is a new and potent NAD+ precursor in mammalian cells and mice.",
+  "authors": [
+    "Zapata-Pérez, Rubén",
+    "Tammaro, Alessandra",
+    "Schomakers, Bauke V",
+    "Scantlebery, Angelique M L",
+    "Denis, Simone",
+    "Elfrink, Hyung L",
+    "Giroud-Gerbetant, Judith",
+    "Cantó, Carles",
+    "López-Leonardo, Carmen",
+    "McIntyre, Rebecca L",
+    "van Weeghel, Michel",
+    "Sánchez-Ferrer, Álvaro",
+    "Houtkooper, Riekelt H"
+  ],
+  "doi": "10.1096/fj.202001826r",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/33724555",
+  "provider": "pubmed",
+  "year": 2021,
+  "venue": "FASEB journal : official publication of the Federation of American Societies for Experimental Biology",
+  "citation_count": 0,
+  "abstract": "Nicotinamide adenine dinucleotide (NAD+ ) homeostasis is constantly compromised due to degradation by NAD+ -dependent enzymes. NAD+ replenishment by supplementation with the NAD+ precursors nicotinamide mononucleotide (NMN) and nicotinamide riboside (NR) can alleviate this imbalance. However, NMN and NR are limited by their mild effect on the cellular NAD+ pool and the need of high doses. Here, we report a synthesis method of a reduced form of NMN (NMNH), and identify this molecule as a new NAD+ precursor for the first time. We show that NMNH increases NAD+ levels to a much higher extent and faster than NMN or NR, and that it is metabolized through a different, NRK and NAMPT-independent, pathway. We also demonstrate that NMNH reduces damage and accelerates repair in renal tubular epithelial cells upon hypoxia/reoxygenation injury. Finally, we find that NMNH administration in mice causes a rapid and sustained NAD+ surge in whole blood, which is accompanied by increased NAD+ levels in liver, kidney, muscle, brain, brown adipose tissue, and heart, but not in white adipose tissue. Together, our data highlight NMNH as a new NAD+ precursor with therapeutic potential for acute kidney injury, confirm the existence of a novel pathway for the recycling of reduced NAD+ precursors and establish NMNH as a member of the new family of reduced NAD+ precursors.",
+  "type": "academic",
+  "pdf_url": ""
+}

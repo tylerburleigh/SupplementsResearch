@@ -1,0 +1,9 @@
+96	2	Abstract
+127	2	1. Introduction
+176	2	2. Research materials and methods
+185	2	3. Research results
+398	2	4. Discussion
+426	2	5. Conclusions
+443	2	Author Contributions
+469	2	Acknowledgements
+480	2	References

@@ -1,0 +1,17 @@
+{
+  "id": "src-146",
+  "title": "On PAR with PARP: cellular stress signaling through poly(ADP-ribose) and PARP-1",
+  "authors": [
+    "Luo, Xin",
+    "Kraus, W. Lee"
+  ],
+  "doi": "10.1101/gad.183509.111",
+  "url": "https://openalex.org/W2106059513",
+  "provider": "openalex",
+  "year": 2012,
+  "venue": "Genes & Development",
+  "citation_count": 714,
+  "abstract": "Cellular stress responses are mediated through a series of regulatory processes that occur at the genomic, transcriptional, post-transcriptional, translational, and post-translational levels. These responses require a complex network of sensors and effectors from multiple signaling pathways, including the abundant and ubiquitous nuclear enzyme poly(ADP-ribose) (PAR) polymerase-1 (PARP-1). PARP-1 functions at the center of cellular stress responses, where it processes diverse signals and, in response, directs cells to specific fates (e.g., DNA repair vs. cell death) based on the type and strength of the stress stimulus. Many of PARP-1's functions in stress response pathways are mediated by its regulated synthesis of PAR, a negatively charged polymer, using NAD + as a donor of ADP-ribose units. Thus, PARP-1's functions are intimately tied to nuclear NAD + metabolism and the broader metabolic profile of the cell. Recent studies in cell and animal models have highlighted the roles of PARP-1 and PAR in the response to a wide variety of extrinsic and intrinsic stress signals, including those initiated by oxidative, nitrosative, genotoxic, oncogenic, thermal, inflammatory, and metabolic stresses. These responses underlie pathological conditions, including cancer, inflammation-related diseases, and metabolic dysregulation. The development of PARP inhibitors is being pursued as a therapeutic approach to these conditions. In this review, we highlight the newest findings about PARP-1's role in stress responses in the context of the historical data.",
+  "type": "academic",
+  "pdf_url": "http://genesdev.cshlp.org/content/26/5/417.full.pdf"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "src-058",
+  "title": "Nicotinamide Riboside Supplementation for Treating Elevated Systolic Blood Pressure and Arterial Stiffness in Midlife and Older Adults",
+  "authors": [
+    "Freeberg, Kaitlin A.",
+    "Craighead, Daniel H.",
+    "Martens, Christopher R.",
+    "You, Zhiying",
+    "Chonchol, Michel",
+    "Seals, Douglas R."
+  ],
+  "year": 2022,
+  "abstract": "BackgroundAging is the primary risk factor for cardiovascular diseases, the leading cause of death worldwide. Age-related increases in systolic blood pressure (SBP) link advancing age to cardiovascular disease risk. A key mechanism mediating the increase in SBP with aging is stiffening of the large elastic arteries, which occurs due to increases in oxidative stress, inflammation, and vascular smooth muscle tone. Nicotinamide adenine dinucleotide (NAD+) is a key molecule in energy metabolism and cellular functioning which declines with advancing age and chronic disease. Dietary supplementation with NAD+ precursors, such as nicotinamide riboside, boosts NAD+ bioavailability and may improve cardiovascular health. Here, we present the protocol for a randomized, controlled trial investigating the efficacy of 3 months of oral supplementation with nicotinamide riboside for decreasing SBP and arterial stiffness in midlife and older adults with initial above-normal (120–159 mmHg) SBP (ClinicalTrials.gov Identifier: NCT03821623). The primary outcome is casual (resting) SBP and secondary outcomes include 24-h SBP and aortic stiffness. Other outcomes include assessment of safety; tolerability; adherence; diastolic BP; systemic NAD+ bioavailability; and circulating biomarkers of oxidative stress, inflammation, and sympathoadrenal activity.MethodsA randomized, double-blind, placebo-controlled, single-site parallel-group design clinical trial will be conducted in 94 (47/group) midlife and older (age ≥ 50 years) adults with initial above-normal SBP. Participants will complete baseline testing and then will be randomized to either nicotinamide riboside (500 mg, 2×/day, NIAGEN®; ChromaDex Inc.) or placebo supplementation. Outcome measures will be assessed again after 3 months of treatment.DiscussionThis study is designed to establish the safety and efficacy of the NAD+ boosting compound, nicotinamide riboside, for reducing casual and 24-h SBP and aortic stiffness in midlife and older adults with above-normal SBP at baseline, a population at increased risk of cardiovascular diseases.Clinical Trial Registration[www.ClinicalTrials.gov], identifier [NCT03821623].",
+  "doi": "10.3389/fcvm.2022.881703",
+  "url": "https://doi.org/10.3389/fcvm.2022.881703",
+  "pdf_url": "",
+  "venue": "Frontiers in Cardiovascular Medicine",
+  "citation_count": 17,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-20T20:26:33.367653+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-058.md",
+  "quality_details": {
+    "content_length": 50869,
+    "alpha_ratio": 0.763,
+    "sentence_count": 420,
+    "reasons": []
+  }
+}

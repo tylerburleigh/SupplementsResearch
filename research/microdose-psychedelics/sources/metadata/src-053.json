@@ -1,0 +1,35 @@
+{
+  "id": "src-053",
+  "title": "Multimodal creativity assessments following acute and sustained microdosing of lysergic acid diethylamide",
+  "authors": [
+    "Murphy, Robin J.",
+    "Sumner, Rachael L.",
+    "Godfrey, Kate",
+    "Mabidikama, Acima",
+    "Roberts, Reece P.",
+    "Sundram, Frederick",
+    "Muthukumaraswamy, Suresh"
+  ],
+  "year": 2025,
+  "abstract": "Abstract\n\nIntroduction\nEnhanced creativity is often cited as an effect of microdosing (taking repeated low doses of a psychedelic drug). There have been recent efforts to validate the reported effects of microdosing, however creativity remains a difficult construct to quantify.\n\nObjectives\nThe current study aimed to assess microdosing’s effects on creativity using a multimodal battery of tests as part of a randomised controlled trial of microdosing lysergic acid diethylamide (LSD).\n\nMethods\nEighty healthy adult males were given 10 µg doses of LSD or placebo every third day for six weeks (14 total doses). Creativity tasks were administered at a drug-free baseline session, at a first dosing session during the acute phase of the drug’s effects, and in a drug-free final session following the six-week microdosing regimen. Creativity tasks were the Alternate Uses Test (AUT), Remote Associates Task (RAT), Consensual Assessment Technique (CAT), and an Everyday Problem-Solving Questionnaire (EPSQ).\n\nResults\nNo effect of drug by time was found on the AUT, RAT, CAT, or EPSQ. Baseline vocabulary skill had a significant effect on AUT and RAT scores.\n\nConclusions\nDespite participants reporting feeling more creative on dose days, objective measurement found no acute or durable effects of the microdosing protocol on creativity. Possible explanations of these null findings are that laboratory testing conditions may negatively affect ability to detect naturalistic differences in creative performance, the tests available do not capture the facets of creativity that are anecdotally affected by microdosing, or that reported enhancements of creativity are placebo effects.",
+  "doi": "10.1007/s00213-024-06680-z",
+  "url": "https://doi.org/10.1007/s00213-024-06680-z",
+  "pdf_url": "",
+  "venue": "Psychopharmacology",
+  "citation_count": 7,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-26T10:45:19.705303+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-053.md",
+  "quality_details": {
+    "content_length": 68298,
+    "alpha_ratio": 0.739,
+    "sentence_count": 485,
+    "reasons": []
+  }
+}

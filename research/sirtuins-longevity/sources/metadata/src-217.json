@@ -1,0 +1,20 @@
+{
+  "id": "src-217",
+  "title": "Predicting Mouse Lifespan-Extending Chemical Compounds with Machine Learning",
+  "authors": [
+    "Belikov, Aleksey V.",
+    "Ribeiro, Caio",
+    "Farmer, Christopher K.",
+    "Magalhães, J. de",
+    "Freitas, A."
+  ],
+  "doi": "10.1101/2024.10.29.620854",
+  "url": "https://www.semanticscholar.org/paper/6f449cccd328d1c2423c0d06061d49c7681c3660",
+  "provider": "semantic_scholar",
+  "year": 2024,
+  "venue": "bioRxiv",
+  "citation_count": 1,
+  "abstract": "Pharmacological interventions targeting the biological processes of ageing hold significant potential to extend healthspan and promote longevity. In this study, we employed machine learning to predict how likely it is for a given chemical compound to extend lifespan. We used murine lifespan data from the DrugAge database for training the models. Our most successful Random Forest classifiers were trained on the annotations of direct protein targets of compounds, such as Gene Ontology, UniProt Keywords, pathways (KEGG, Reactome, Wiki) and protein domains (InterPro), whereas models trained on gene expression (LINCS) and chemical substructures (PubChem) underperformed. Models trained on male datasets performed better than those trained on mixed-sex and female datasets, with the latter suffering from severe class imbalance due to much fewer positive-class instances. Notably, features related to G-protein coupled receptors, especially receptors for neurotransmitters, metabolic hormones and sex hormones, were identified as strong predictors of lifespan extension. We used ensemble classifiers comprised of top models to screen compounds from DrugBank, highlighting novel candidates for longevity studies. Major clusters of compounds with the highest predicted longevity-promoting effects appear to target IGF1 and insulin receptors, beta adrenergic receptors, carbonic anhydrases, dopamine and serotonin receptors, voltage-gated potassium and calcium channels, sodium-dependent dopamine, serotonin and noradrenalin transporters, muscarinic acetylcholine receptors and adenosine receptors. Our study provides an important contribution not only to the longevity pharmacology field but also informs research on the fundamental mechanisms of ageing.",
+  "type": "academic",
+  "pdf_url": "https://www.biorxiv.org/content/biorxiv/early/2024/11/03/2024.10.29.620854.full.pdf"
+}

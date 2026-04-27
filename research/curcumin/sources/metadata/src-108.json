@@ -1,0 +1,20 @@
+{
+  "id": "src-108",
+  "title": "Advanced Drug Delivery Systems of Curcumin for Cancer Chemoprevention",
+  "authors": [
+    "Bansal, Shyam S.",
+    "Goel, Mehak",
+    "Aqil, Farrukh",
+    "Vadhanam, Manicka V.",
+    "Gupta, Ramesh C."
+  ],
+  "doi": "10.1158/1940-6207.capr-10-0006",
+  "url": "https://openalex.org/W2148663802",
+  "provider": "openalex",
+  "year": 2011,
+  "venue": "Cancer Prevention Research",
+  "citation_count": 351,
+  "abstract": "Since ancient times, chemopreventive agents have been used to treat/prevent several diseases including cancer. They are found to elicit a spectrum of potent responses including anti-inflammatory, antioxidant, antiproliferative, anticarcinogenic, and antiangiogenic activity in various cell cultures and some animal studies. Research over the past 4 decades has shown that chemopreventives affect a number of proteins involved in various molecular pathways that regulate inflammatory and carcinogenic responses in a cell. Various enzymes, transcription factors, receptors, and adhesion proteins are also affected by chemopreventives. Although, these natural compounds have shown significant efficacy in cell culture studies, they elicited limited efficacy in various clinical studies. Their introduction into the clinical setting is hindered largely by their poor solubility, rapid metabolism, or a combination of both, ultimately resulting in poor bioavailability upon oral administration. Therefore, to circumvent these limitations and to ease their transition to clinics, alternate strategies should be explored. Drug delivery systems such as nanoparticles, liposomes, microemulsions, and polymeric implantable devices are emerging as one of the viable alternatives that have been shown to deliver therapeutic concentrations of various potent chemopreventives such as curcumin, ellagic acid, green tea polyphenols, and resveratrol into the systemic circulation. In this review article, we have attempted to provide a comprehensive outlook for these delivery approaches, using curcumin as a model agent, and discussed future strategies to enable the introduction of these highly potent chemopreventives into a physician's armamentarium.",
+  "type": "academic",
+  "pdf_url": "https://aacrjournals.org/cancerpreventionresearch/article-pdf/4/8/1158/2251252/1158.pdf"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "src-497",
+  "title": "The Utilization and Costs of Grade D USPSTF Services in Medicare, 2007–2016",
+  "authors": [
+    "Oronce, Carlos Irwin A.",
+    "Fendrick, A. Mark",
+    "Ladapo, Joseph A.",
+    "Sarkisian, Catherine",
+    "Mafi, John N."
+  ],
+  "year": 2021,
+  "abstract": "",
+  "doi": "10.1007/s11606-021-06784-8",
+  "url": "https://doi.org/10.1007/s11606-021-06784-8",
+  "pdf_url": "",
+  "venue": "Journal of General Internal Medicine",
+  "citation_count": 10,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T21:35:58.488537+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-497.md",
+  "quality_details": {
+    "content_length": 20746,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "src-178",
+  "title": "Depletion of Rictor, an essential protein component of mTORC2, decreases male lifespan",
+  "authors": [
+    "Lamming, Dudley",
+    "Mihaylova, M.",
+    "Katajisto, P.",
+    "Baar, Emma L.",
+    "Yilmaz, Omer H.",
+    "Hutchins, Amanda",
+    "Gultekin, Yetis",
+    "Gaither, Rachel",
+    "Sabatini, D."
+  ],
+  "doi": "10.1111/acel.12256",
+  "url": "https://www.semanticscholar.org/paper/29e181af24947f3844fb9004a61f40b9ad403b1d",
+  "provider": "semantic_scholar",
+  "year": 2014,
+  "venue": "Aging Cell",
+  "citation_count": 103,
+  "abstract": "Rapamycin, an inhibitor of the mechanistic target of rapamycin (mTOR), robustly extends the lifespan of model organisms including mice. We recently found that chronic treatment with rapamycin not only inhibits mTOR complex 1 (mTORC1), the canonical target of rapamycin, but also inhibits mTOR complex 2 (mTORC2) in vivo. While genetic evidence strongly suggests that inhibition of mTORC1 is sufficient to promote longevity, the impact of mTORC2 inhibition on mammalian longevity has not been assessed. RICTOR is a protein component of mTORC2 that is essential for its activity. We examined three different mouse models of Rictor loss: mice heterozygous for Rictor, mice lacking hepatic Rictor, and mice in which Rictor was inducibly deleted throughout the body in adult animals. Surprisingly, we find that depletion of RICTOR significantly decreases male, but not female, lifespan. While the mechanism by which RICTOR loss impairs male survival remains obscure, we find that the effect of RICTOR depletion on lifespan is independent of the role of hepatic mTORC2 in promoting glucose tolerance. Our results suggest that inhibition of mTORC2 signaling is detrimental to males, which may explain in part why interventions that decrease mTOR signaling show greater efficacy in females.",
+  "type": "academic",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/acel.12256"
+}

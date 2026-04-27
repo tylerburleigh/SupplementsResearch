@@ -1,0 +1,19 @@
+{
+  "id": "src-244",
+  "title": "Ischemic heart disease‐associated ∆M1‐Q91 PDE5A2 mutant shows reduced efficacy for cGMP, but not sildenafil, binding‐induced conformational change",
+  "authors": [
+    "Ahmed, Wesam S.",
+    "Fatima, Asma",
+    "Geethakumari, Anupriya M.",
+    "Biswas, K."
+  ],
+  "doi": "10.1002/1873-3468.70292",
+  "url": "https://www.semanticscholar.org/paper/e1d89ae1495d85e22a4e5e4cf4e170023ab20389",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "FEBS Letters",
+  "citation_count": 0,
+  "abstract": "Phosphodiesterase 5 (PDE5) regulates several physiological processes, including cardiovascular function. A familial PDE5A variant resulting in an N‐terminal truncation (∆M1‐Q91) in PDE5A2 has been linked to premature ischemic heart disease, but its functional impact is unclear. Using computational analysis and BRET‐based biosensors, we show that ∆M1‐Q91 deletion alters structural dynamics and reduces the efficacy of cGMP‐induced conformational change in PDE5. Molecular dynamics simulations and normal mode analysis using structural models revealed altered dynamics and correlated motions in the mutant. BRET assays showed a higher EC50 for cGMP‐induced, but not sildenafil‐induced, conformational change in the ∆M1‐Q91 mutant PDE5A2. These findings suggest that M1‐Q91 deletion impairs cGMP‐mediated allosteric regulation in PDE5A2 without altering inhibitor sensitivity, offering insights into potential precision therapies targeting this variant.",
+  "type": "academic",
+  "pdf_url": ""
+}

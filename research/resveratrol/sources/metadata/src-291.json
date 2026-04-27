@@ -1,0 +1,16 @@
+{
+  "id": "src-291",
+  "title": "Sirt1 and the Mitochondria",
+  "authors": [
+    "Tang, Bor Luen"
+  ],
+  "doi": "10.14348/molcells.2016.2318",
+  "url": "https://openalex.org/W2280212630",
+  "provider": "openalex",
+  "year": 2016,
+  "venue": "Molecules and Cells",
+  "citation_count": 705,
+  "abstract": "Sirt1 is the most prominent and extensively studied member of sirtuins, the family of mammalian class III histone deacetylases heavily implicated in health span and longevity. Although primarily a nuclear protein, Sirt1's deacetylation of Peroxisome proliferator-activated receptor Gamma Coactivator-1α (PGC-1α) has been extensively implicated in metabolic control and mitochondrial biogenesis, which was proposed to partially underlie Sirt1's role in caloric restriction and impacts on longevity. The notion of Sirt1's regulation of PGC-1α activity and its role in mitochondrial biogenesis has, however, been controversial. Interestingly, Sirt1 also appears to be important for the turnover of defective mitochondria by mitophagy. I discuss here evidences for Sirt1's regulation of mitochondrial biogenesis and turnover, in relation to PGC-1α deacetylation and various aspects of cellular physiology and disease.",
+  "type": "academic",
+  "pdf_url": "http://www.molcells.org/journal/download_pdf.php?doi=10.14348/molcells.2016.2318"
+}

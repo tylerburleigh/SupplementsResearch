@@ -1,0 +1,32 @@
+{
+  "id": "src-092",
+  "title": "A century of research on psychedelics: A scientometric analysis on trends and knowledge maps of hallucinogens, entactogens, entheogens and dissociative drugs",
+  "authors": [
+    "Solmi, Marco",
+    "Chen, Chaomei",
+    "Daure, Charles",
+    "Buot, Anne",
+    "Ljuslin, Michael",
+    "Verroust, Vincent",
+    "Mallet, Luc",
+    "Khazaal, Yasser",
+    "Rothen, Stéphane",
+    "Thorens, Gabriel",
+    "Zullino, Daniele",
+    "Gobbi, Gabriella",
+    "Rosenblat, Joshua D.",
+    "Husain, Muhammad Ishrat",
+    "Gregorio, Danilo De",
+    "Castle, David",
+    "Sabé, Michel"
+  ],
+  "doi": "10.1016/j.euroneuro.2022.09.004",
+  "url": "https://openalex.org/W4298055464",
+  "provider": "openalex",
+  "year": 2022,
+  "venue": "European Neuropsychopharmacology",
+  "citation_count": 52,
+  "abstract": "A scientometric analysis was realized to outline clinical research on psychedelics over the last century. Web of Science Core Collection was searched up to March 18, 2022, for publications on psychedelics. Network analyses and bibliometrics were combined, to identify research themes and trends with Bibliometrix and CiteSpace. The primary aim was to measure research trends evolution over time, and the secondary aims were to identify bibliometric performance and influence networks of publications, authors, institutions, and countries. Sensitivity analyses were conducted for 2016-2022, and 2021 time periods. We included 31,687 documents (591,329 references), which aggregated into a well-structured network with credible clustering. Research productivity was split into an early less productive period mainly focusing on safety issues, and a \"psychedelic renaissance\" after the 1990s. Major trends were identified for hallucinogens/entheogens, entactogens, novel psychoactive substances (NPS), and on dissociative substances. There was a translational evolution from the bench to the bedside, with phase 2 and 3 trials and/or evidence synthesis in particular. The most recent trends concerned NPS, ketamine-associated brain changes, and ayahuasca-assisted psychotherapy. The USA and Canada were the most productive settings for the research overall, and more recently this geographical distribution became more prominent, reflecting legislative context/policy making. A translational evolution of psychedelics has been occurring, that has brought approval of esketamine for depression and will likely lead to approval of additional psychedelics across mental and physical conditions. Toxicology screening tools for NPS are urgently needed, which in turn might follow the same translational evolution of psychedelics in the future.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.1016/j.euroneuro.2022.09.004"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "src-131",
+  "title": "Methylation demand: a key determinant of homocysteine metabolism.",
+  "authors": [
+    "Brosnan, John T.",
+    "Jacobs, René L.",
+    "Stead, Lori M.",
+    "Brosnan, Margaret E."
+  ],
+  "doi": "10.18388/abp.2004_3580",
+  "url": "https://openalex.org/W2035063750",
+  "provider": "openalex",
+  "year": 2004,
+  "venue": "Acta Biochimica Polonica",
+  "citation_count": 143,
+  "abstract": "Elevated plasma homocysteine is a risk factor for cardiovascular disease and Alzheimer's disease. To understand the factors that determine the plasma homocysteine level it is necessary to appreciate the processes that produce homocysteine and those that remove it. Homocysteine is produced as a result of methylation reactions. Of the many methyltransferases, two are, normally, of the greatest quantitative importance. These are guanidinoacetate methyltransferase (that produces creatine) and phosphatidylethanolamine N-methyltransferase (that produces phosphatidylcholine). In addition, methylation of DOPA in patients with Parkinson's disease leads to increased homocysteine production. Homocysteine is removed either by its irreversible conversion to cysteine (transsulfuration) or by remethylation to methionine. There are two separate remethylation reactions, catalyzed by betaine:homocysteine methyltransferase and methionine synthase, respectively. The reactions that remove homocysteine are very sensitive to B vitamin status as both the transsulfuration enzymes contain pyridoxal phosphate, while methionine synthase contains cobalamin and receives its methyl group from the folic acid one-carbon pool. There are also important genetic influences on homocysteine metabolism.",
+  "type": "academic",
+  "pdf_url": "https://ojs.ptbioch.edu.pl/index.php/abp/article/download/3580/2638"
+}

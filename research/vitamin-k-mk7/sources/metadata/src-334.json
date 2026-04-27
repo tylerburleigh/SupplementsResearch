@@ -1,0 +1,22 @@
+{
+  "id": "src-334",
+  "title": "Fast and reliable voltammetric determination of menaquinone (vitamin K2) produced in-vitro by Bacillus subtilis cultures",
+  "authors": [
+    "Smajdor, Joanna",
+    "Porada, Radosław",
+    "Lipińska, Justyna",
+    "Więcek, Grażyna",
+    "Jedlińska, Katarzyna",
+    "Baś, Bogusław",
+    "Strus, Magdalena"
+  ],
+  "doi": "10.21203/rs.3.rs-2595016/v1",
+  "url": "https://doi.org/10.21203/rs.3.rs-2595016/v1",
+  "provider": "crossref",
+  "year": 2023,
+  "venue": "",
+  "citation_count": 0,
+  "abstract": "Abstract\nVitamin K2 (VK2) is one of two natural forms of vitamin K, necessary for the proper functioning of organisms. Currently, it is sourced from chemical synthesis, nonetheless, it is worth reaching out to its natural sources.\nThe aim of the study was to devise a voltammetric procedure for the determination of vitamin K2 (VK2) produced by bacteria in order to find the strain that exhibits the highest efficiency of VK2 production. Bacillus subtilis, isolated from traditional Japanese food (Nattō), was chosen as a model strain. Employment of the Controlled Growth Mercury Drop Electrode (CGMDE) was crucial, as it is the only electrode that allows performing the measurement on the surface specifically renewed directly before, thus minimizing the influence of interferents.\nThis new method was successfully applied for VK2 determination in supernatant samples. Developed procedure is robust and easily adjustable for the variety of biological matrixes. Strong differences in VK2 production depending on cultivation time were observed, but no direct correlation between the VK2 concentration in the breeding medium and the cultivation time was found.\nThe devised protocol will be used in further measurements with different bacteria species, that have the ability to produce VK2 and settle in the human intestine.",
+  "type": "academic",
+  "pdf_url": ""
+}

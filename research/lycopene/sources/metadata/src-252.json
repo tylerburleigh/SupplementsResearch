@@ -1,0 +1,21 @@
+{
+  "id": "src-252",
+  "title": "Metabolic and Vascular Effect of the Mediterranean Diet",
+  "authors": [
+    "Tuttolomondo, Antonino",
+    "Simonetta, Irene",
+    "Daidone, Mario",
+    "Mogavero, A.",
+    "Ortello, Antonella",
+    "Pinto, António"
+  ],
+  "doi": "10.3390/ijms20194716",
+  "url": "https://openalex.org/W2973963154",
+  "provider": "openalex",
+  "year": 2019,
+  "venue": "International Journal of Molecular Sciences",
+  "citation_count": 261,
+  "abstract": "Several studies indicated how dietary patterns that were obtained from nutritional cluster analysis can predict disease risk or mortality. Low-grade chronic inflammation represents a background pathogenetic mechanism linking metabolic risk factors to increased risk of chronic degenerative diseases. A Mediterranean diet (MeDi) style has been reported as associated with a lower degree of inflammation biomarkers and with a protective role on cardiovascular and cerebrovascular events. There is heterogeneity in defining the MedDiet, and it can, owing to its complexity, be considered as an exposome with thousands of nutrients and phytochemicals. Recently, it has been reported a novel positive association between baseline plasma ceramide concentrations and cardiovascular events and how adherence to a Mediterranean Diet-style may influence the potential negative relationship between elevated plasma ceramide concentrations and cardiovascular diseases (CVD). Several randomized controlled trials (RCTs) showed the positive effects of the MeDi diet style on several cardiovascular risk factors, such as body mass index, waist circumference, blood lipids, blood pressure, inflammatory markers and adhesion molecules, and diabetes and how these advantages of the MeDi are maintained in comparison of a low-fat diet. Some studies reported a positive effect of adherence to a Mediterranean Diet and heart failure incidence, whereas some recent studies, such as the PREDIMED study, showed that the incidence of major cardiovascular events was lower among those assigned to MeDi supplemented with extra-virgin olive oil or nuts than among those assigned to a reduced-fat diet. New studies are needed to better understand the molecular mechanisms, whereby the MedDiet may exercise its effects. Here, we present recent advances in understanding the molecular basis of MedDiet effects, mainly focusing on cardiovascular diseases, but also discussing other related diseases. We review MedDiet composition and assessment as well as the latest advances in the genomic, epigenomic (DNA methylation, histone modifications, microRNAs, and other emerging regulators), transcriptomic (selected genes and whole transcriptome), and metabolomic and metagenomic aspects of the MedDiet effects (as a whole and for its most typical food components). We also present a review of the clinical effects of this dietary style underlying the biochemical and molecular effects of the Mediterranean diet. Our purpose is to review the main features of the Mediterranean diet in particular its benefits on human health, underling the anti-inflammatory, anti-oxidant and anti-atherosclerotic effects to which new knowledge about epigenetic and gut-microbiota relationship is recently added.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/1422-0067/20/19/4716/pdf?version=1569239589"
+}

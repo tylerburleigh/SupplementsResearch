@@ -1,0 +1,21 @@
+{
+  "id": "src-161",
+  "title": "Resources and Biological Activities of Natural Polyphenols",
+  "authors": [
+    "Li, Anna",
+    "Li, Sha",
+    "Zhang, Yujie",
+    "Xu, Xiang‐Rong",
+    "Chen, Yu‐Ming",
+    "Li, Hua‐Bin"
+  ],
+  "doi": "10.3390/nu6126020",
+  "url": "https://openalex.org/W2062145190",
+  "provider": "openalex",
+  "year": 2014,
+  "venue": "Nutrients",
+  "citation_count": 881,
+  "abstract": "The oxidative stress imposed by reactive oxygen species (ROS) plays an important role in many chronic and degenerative diseases. As an important category of phytochemicals, phenolic compounds universally exist in plants, and have been considered to have high antioxidant ability and free radical scavenging capacity, with the mechanism of inhibiting the enzymes responsible for ROS production and reducing highly oxidized ROS. Therefore, phenolic compounds have attracted increasing attention as potential agents for preventing and treating many oxidative stress-related diseases, such as cardiovascular diseases, cancer, ageing, diabetes mellitus and neurodegenerative diseases. This review summarizes current knowledge of natural polyphenols, including resource, bioactivities, bioavailability and potential toxicity.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2072-6643/6/12/6020/pdf?version=1419241171"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "src-370",
+  "title": "Uncovering New Therapeutic Targets for Amyotrophic Lateral Sclerosis and Neurological Diseases Using Real‐World Data",
+  "authors": [
+    "Alidoost, Mohammadali",
+    "Huang, Jeremy Y.",
+    "Dermentzaki, Georgia",
+    "Blazier, Anna S",
+    "Gaglia, Giorgio",
+    "Hammond, Timothy R.",
+    "Frau, Francesca",
+    "McCorry, M.",
+    "Ofengeim, D.",
+    "Wilson, Jennifer L"
+  ],
+  "doi": "10.1002/cpt.3682",
+  "url": "https://www.semanticscholar.org/paper/24a900efd98c210d7df4f94b50140fd73959f589",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "Clinical pharmacology and therapy",
+  "citation_count": 0,
+  "abstract": "Although attractive for relevance to real‐world scenarios, real‐world data (RWD) is typically used for drug repurposing and not therapeutic target discovery. Repurposing studies have identified few effective options in neurological diseases such as the rare disease, amyotrophic lateral sclerosis (ALS), which has no disease‐modifying treatments available. We previously reclassified drugs by their simulated effects on proteins downstream of drug targets and observed class‐level effects in the EHR, implicating the downstream protein as the source of the effect. Here, we developed a novel ALS‐focused network medicine model using data from patient samples, the public domain, and consortia. With this model, we simulated drug effects on ALS and measured class effects on overall survival in retrospective EHR studies. We observed an increased but non‐significant risk of death for patients taking drugs with complement system proteins downstream of their targets and experimentally validated drug effects on complement activation. We repeated this for six protein classes, three of which, including multiple chemokine receptors, were associated with a significantly increased risk for death, suggesting that targeting proteins such as CXCR5, CXCR3, chemokine signaling generally, or neuropeptide Y (NPY) could be advantageous therapeutic targets for these patients. We expanded our analysis to the neuroinflammatory condition, myasthenia gravis, and neurodegenerative disease, Parkinson's, and recovered similar effect sizes. We demonstrated the utility of network medicine for testing novel therapeutic effects using RWD and believe this approach may accelerate target discovery in neurological diseases, addressing the critical need for new therapeutic options.",
+  "type": "academic",
+  "pdf_url": ""
+}

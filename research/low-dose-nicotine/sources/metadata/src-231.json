@@ -1,0 +1,21 @@
+{
+  "id": "src-231",
+  "title": "Recent advances in Alzheimer’s disease: mechanisms, clinical trials and new drug development strategies",
+  "authors": [
+    "Zhang, Jifa",
+    "Zhang, Yinglu",
+    "Wang, Jiaxing",
+    "Xia, Yilin",
+    "Zhang, Jiaxian",
+    "Chen, Lei"
+  ],
+  "doi": "10.1038/s41392-024-01911-3",
+  "url": "https://openalex.org/W4401806028",
+  "provider": "openalex",
+  "year": 2024,
+  "venue": "Signal Transduction and Targeted Therapy",
+  "citation_count": 812,
+  "abstract": "Alzheimer's disease (AD) stands as the predominant form of dementia, presenting significant and escalating global challenges. Its etiology is intricate and diverse, stemming from a combination of factors such as aging, genetics, and environment. Our current understanding of AD pathologies involves various hypotheses, such as the cholinergic, amyloid, tau protein, inflammatory, oxidative stress, metal ion, glutamate excitotoxicity, microbiota-gut-brain axis, and abnormal autophagy. Nonetheless, unraveling the interplay among these pathological aspects and pinpointing the primary initiators of AD require further elucidation and validation. In the past decades, most clinical drugs have been discontinued due to limited effectiveness or adverse effects. Presently, available drugs primarily offer symptomatic relief and often accompanied by undesirable side effects. However, recent approvals of aducanumab (1) and lecanemab (2) by the Food and Drug Administration (FDA) present the potential in disrease-modifying effects. Nevertheless, the long-term efficacy and safety of these drugs need further validation. Consequently, the quest for safer and more effective AD drugs persists as a formidable and pressing task. This review discusses the current understanding of AD pathogenesis, advances in diagnostic biomarkers, the latest updates of clinical trials, and emerging technologies for AD drug development. We highlight recent progress in the discovery of selective inhibitors, dual-target inhibitors, allosteric modulators, covalent inhibitors, proteolysis-targeting chimeras (PROTACs), and protein-protein interaction (PPI) modulators. Our goal is to provide insights into the prospective development and clinical application of novel AD drugs.",
+  "type": "academic",
+  "pdf_url": "https://www.nature.com/articles/s41392-024-01911-3.pdf"
+}

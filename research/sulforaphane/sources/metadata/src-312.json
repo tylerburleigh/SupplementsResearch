@@ -1,0 +1,24 @@
+{
+  "id": "src-312",
+  "title": "Isolation and <i>In vitro</i> Propagation of Tumorigenic Breast Cancer Cells with Stem/Progenitor Cell Properties",
+  "authors": [
+    "Ponti, Dario",
+    "Costa, Aurora",
+    "Zaffaroni, Nadia",
+    "Pratesi, Graziella",
+    "Petrangolini, Giovanna",
+    "Coradini, Danila",
+    "Pilotti, Silvana",
+    "Pierotti, Marco A.",
+    "Daidone, Maria Grazia"
+  ],
+  "doi": "10.1158/0008-5472.can-05-0626",
+  "url": "https://openalex.org/W2050300062",
+  "provider": "openalex",
+  "year": 2005,
+  "venue": "Cancer Research",
+  "citation_count": 1722,
+  "abstract": "Breast cancer-initiating cells have been recently identified in breast carcinoma as CD44+/CD24(-/low) cells, which exclusively retain tumorigenic activity and display stem cell-like properties. However, at present, direct evidence that breast cancer-initiating cells can be propagated in vitro is still lacking. We report here the isolation and in vitro propagation of breast cancer-initiating cells from three breast cancer lesions and from an established breast carcinoma cell line. Our breast carcinoma-derived cultures encompassed undifferentiated cells capable of self-renewal, extensive proliferation as clonal nonadherent spherical clusters, and differentiation along different mammary epithelial lineages (ductal and myoepithelial). Interestingly, cultured cells were CD44+/CD24- and Cx43-, overexpressed neoangiogenic and cytoprotective factors, expressed the putative stem cell marker Oct-4, and gave rise to new tumors when as few as 10(3) cells were injected into the mammary fat pad of SCID mice. Long-term cultures of breast tumorigenic cells with stem/progenitor cell properties represent a suitable in vitro model to study breast cancer-initiating cells and to develop therapeutic strategies aimed at eradicating the tumorigenic subpopulation within breast cancer.",
+  "type": "academic",
+  "pdf_url": "https://aacrjournals.org/cancerres/article-pdf/65/13/5506/2535985/5506-5511.pdf"
+}

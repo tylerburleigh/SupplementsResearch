@@ -1,0 +1,19 @@
+{
+  "id": "src-323",
+  "title": "Calcific aortic stenosis: omics-based target discovery and therapy development",
+  "authors": [
+    "Blaser, Mark C.",
+    "Bäck, Magnus",
+    "Lüscher, Thomas F.",
+    "Aïkawa, Elena"
+  ],
+  "doi": "10.1093/eurheartj/ehae829",
+  "url": "https://openalex.org/W4405230198",
+  "provider": "openalex",
+  "year": 2024,
+  "venue": "European Heart Journal",
+  "citation_count": 26,
+  "abstract": "Calcific aortic valve disease (CAVD) resulting in aortic stenosis (AS) is the most common form of valvular heart disease, affecting 2% of those over age 65. Those who develop symptomatic severe AS have an average further lifespan of <2 years without valve replacement, and three-quarters of these patients will develop heart failure, undergo valve replacement, or die within 5 years. There are no approved pharmaceutical therapies for AS, due primarily to a limited understanding of the molecular mechanisms that direct CAVD progression in the complex haemodynamic environment. Here, advances in efforts to understand the pathogenesis of CAVD and to identify putative drug targets derived from recent multi-omics studies [including (epi)genomics, transcriptomics, proteomics, and metabolomics] of blood and valvular tissues are reviewed. The recent explosion of single-cell omics-based studies in CAVD and the pathobiological and potential drug discovery insights gained from the application of omics to this disease area are a primary focus. Lastly, the translation of knowledge gained in valvular pathobiology into clinical therapies is addressed, with a particular emphasis on treatment regimens that consider sex-specific, renal, and lipid-mediated contributors to CAVD, and ongoing Phase I/II/III trials aimed at the prevention/treatment of AS are described.",
+  "type": "academic",
+  "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11825147/pdf/ehae829.pdf"
+}

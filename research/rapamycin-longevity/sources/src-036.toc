@@ -1,0 +1,17 @@
+3	2	Article
+95	2	Results
+201	2	Itt
+212	2	Ogtt
+232	2	Rer
+408	2	Met
+412	2	Met
+698	2	Ampk
+701	2	Acc
+716	2	Ampk
+719	2	Acc
+845	2	Discussion
+918	2	Jnk
+971	2	Methods
+1120	2	References
+1255	2	Acknowledgements
+1270	2	Author Contributions

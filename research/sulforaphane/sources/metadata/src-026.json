@@ -1,0 +1,43 @@
+{
+  "id": "src-026",
+  "title": "Randomized controlled trial of sulforaphane and metabolite discovery in children with Autism Spectrum Disorder",
+  "authors": [
+    "Zimmerman, Andrew W.",
+    "Singh, Kanwaljit",
+    "Connors, Susan L.",
+    "Liu, Hua",
+    "Panjwani, Anita A.",
+    "Lee, Li-Ching",
+    "Diggins, Eileen",
+    "Foley, Ann",
+    "Melnyk, Stepan",
+    "Singh, Indrapal N.",
+    "James, S. Jill",
+    "Frye, Richard E.",
+    "Fahey, Jed W."
+  ],
+  "year": 2021,
+  "abstract": "Abstract\nBackground\nSulforaphane (SF), an isothiocyanate in broccoli, has potential benefits relevant to autism spectrum disorder (ASD) through its effects on several metabolic and immunologic pathways. Previous clinical trials of oral SF demonstrated positive clinical effects on behavior in young men and changes in urinary metabolomics in children with ASD.\n\nMethods\nWe conducted a 15-week randomized parallel double-blind placebo-controlled clinical trial with 15-week open-label treatment and 6-week no-treatment extensions in 57 children, ages 3–12 years, with ASD over 36 weeks. Twenty-eight were assigned SF and 29 received placebo (PL). Clinical effects, safety and tolerability of SF were measured as were biomarkers to elucidate mechanisms of action of SF in ASD.\n\nResults\nData from 22 children taking SF and 23 on PL were analyzed. Treatment effects on the primary outcome measure, the Ohio Autism Clinical Impressions Scale (OACIS), in the general level of autism were not significant between SF and PL groups at 7 and 15 weeks. The effect sizes on the OACIS were non-statistically significant but positive, suggesting a possible trend toward greater improvement in those on treatment with SF (Cohen’s d 0.21; 95% CI − 0.46, 0.88 and 0.10; 95% CI − 0.52, 0.72, respectively). Both groups improved in all subscales when on SF during the open-label phase. Caregiver ratings on secondary outcome measures improved significantly on the Aberrant Behavior Checklist (ABC) at 15 weeks (Cohen’s d − 0.96; 95% CI − 1.73, − 0.15), but not on the Social Responsiveness Scale-2 (SRS-2). Ratings on the ABC and SRS-2 improved with a non-randomized analysis of the length of exposure to SF, compared to the pre-treatment baseline (p &lt; 0.001). There were significant changes with SF compared to PL in biomarkers of glutathione redox status, mitochondrial respiration, inflammatory markers and heat shock proteins. Clinical laboratory studies confirmed product safety. SF was very well tolerated and side effects of treatment, none serious, included rare insomnia, irritability and intolerance of the taste and smell.\n\nLimitations\nThe sample size was limited to 45 children with ASD and we did not impute missing data. We were unable to document significant changes in clinical assessments during clinical visits in those taking SF compared to PL. The clinical results were confounded by placebo effects during the open-label phase.\n\nConclusions\nSF led to small yet non-statistically significant changes in the total and all subscale scores of the primary outcome measure, while for secondary outcome measures, caregivers’ assessments of children taking SF showed statistically significant improvements compared to those taking PL on the ABC but not the SRS-2. Clinical effects of SF were less notable in children compared to our previous trial of a SF-rich preparation in young men with ASD. Several of the effects of SF on biomarkers correlated to clinical improvements. SF was very well tolerated and safe and effective based on our secondary clinical measures.\nTrial registration: This study was prospectively registered at clinicaltrials.gov (NCT02561481) on September 28, 2015. Funding was provided by the U.S. Department of Defense.",
+  "doi": "10.1186/s13229-021-00447-5",
+  "url": "https://doi.org/10.1186/s13229-021-00447-5",
+  "pdf_url": "",
+  "venue": "Molecular Autism",
+  "citation_count": 74,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-18T23:18:52.209889+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-026.md",
+  "quality_details": {
+    "content_length": 95804,
+    "alpha_ratio": 0.701,
+    "sentence_count": 876,
+    "reasons": [
+      "paywall_page (access this article)"
+    ]
+  }
+}

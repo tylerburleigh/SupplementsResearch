@@ -1,0 +1,27 @@
+{
+  "id": "src-316",
+  "title": "The differential impact of three different NAD+ boosters on circulatory NAD and microbial metabolism in humans.",
+  "authors": [
+    "Christen, Stefan",
+    "Redeuil, Karine",
+    "Goulet, Laurence",
+    "Giner, Maria-Pilar",
+    "Breton, Isabelle",
+    "Rota, Riccardo",
+    "Frézal, Adrien",
+    "Nazari, Atiye",
+    "Van den Abbeele, Pieter",
+    "Godin, Jean-Philippe",
+    "Nutten, Sophie",
+    "Cuenoud, Bernard"
+  ],
+  "doi": "10.1038/s42255-025-01421-8",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41540253",
+  "provider": "pubmed",
+  "year": 2026,
+  "venue": "Nature metabolism",
+  "citation_count": 0,
+  "abstract": "Nicotinamide adenine dinucleotide (NAD(H)) and its phosphorylated form NADP(H) are vitamin B3-derived redox cofactors essential for numerous metabolic reactions and protein modifications. Various health conditions are associated with disturbances in NAD+ homeostasis. To restore NAD+ levels, the main biosynthetic pathways have been targeted, with nicotinamide (Nam), nicotinamide riboside (NR) and nicotinamide mononucleotide (NMN) being the most prominent boosters. However, while many preclinical studies have examined the effects of these precursors, a direct comparison in humans is lacking, and recent rodent research suggests that the NAD+-boosting effects of NR and NMN may depend on their microbial conversion to nicotinic acid (NA), a mechanism not yet confirmed in humans. Here we show in a randomized, open-label, placebo-controlled study in 65 healthy participants that 14 days of supplementation with NR and NMN, but not Nam, comparably increases circulatory NAD+ concentrations in healthy adults. Unlike the chronic effect, only Nam acutely and transiently affects the whole-blood NAD+ metabolome. Using ex vivo fermentation with human microbiota, we identify that NR and NMN give rise to NA and specifically enhance microbial growth and metabolism. We further demonstrate ex vivo in whole blood that NA is a potent NAD+ booster, while NMN, NR and Nam are not. Ultimately, we propose a gut-dependent model for the modes of action of the three NAD+ precursors with NR and NMN elevating circulatory NAD+ via the Preiss-Handler pathway, while rapidly absorbed Nam acutely affects NAD+ levels via the salvage pathway. Overall, these results indicate a dual effect of NR and NMN and their microbially produced metabolite NA: a sustained increase in systemic NAD+ levels and a potent modulator of gut health. ClinicalTrials.gov identifier: NCT05517122 .",
+  "type": "academic",
+  "pdf_url": ""
+}

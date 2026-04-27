@@ -1,0 +1,18 @@
+{
+  "id": "src-279",
+  "title": "Unraveling the AMPK-SIRT1-FOXO Pathway: The In-Depth Analysis and Breakthrough Prospects of Oxidative Stress-Induced Diseases",
+  "authors": [
+    "Guan, Guangqi",
+    "Chen, Yaoxing",
+    "Dong, Yulan"
+  ],
+  "doi": "10.3390/antiox14010070",
+  "url": "https://openalex.org/W4406214994",
+  "provider": "openalex",
+  "year": 2025,
+  "venue": "Antioxidants",
+  "citation_count": 98,
+  "abstract": "Oxidative stress (OS) refers to the production of a substantial amount of reactive oxygen species (ROS), leading to cellular and organ damage. This imbalance between oxidant and antioxidant activity contributes to various diseases, including cancer, cardiovascular disease, diabetes, and neurodegenerative conditions. The body's antioxidant system, mediated by various signaling pathways, includes the AMPK-SIRT1-FOXO pathway. In oxidative stress conditions, AMPK, an energy sensor, activates SIRT1, which in turn stimulates the FOXO transcription factor. This cascade enhances mitochondrial function, reduces mitochondrial damage, and mitigates OS-induced cellular injury. This review provides a comprehensive analysis of the biological roles, regulatory mechanisms, and functions of the AMPK-SIRT1-FOXO pathway in diseases influenced by OS, offering new insights and methods for understanding OS pathogenesis and its therapeutic approaches.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2076-3921/14/1/70/pdf?version=1736429228"
+}

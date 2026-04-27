@@ -1,0 +1,18 @@
+{
+  "id": "src-239",
+  "title": "Cellular senescence in musculoskeletal homeostasis, diseases, and regeneration",
+  "authors": [
+    "Wan, Mei",
+    "Gray-Gaillard, Elise",
+    "Elisseeff, Jennifer H."
+  ],
+  "doi": "10.1038/s41413-021-00164-y",
+  "url": "https://openalex.org/W3197608214",
+  "provider": "openalex",
+  "year": 2021,
+  "venue": "Bone Research",
+  "citation_count": 134,
+  "abstract": "Emerging insights into cellular senescence highlight the relevance of senescence in musculoskeletal disorders, which represent the leading global cause of disability. Cellular senescence was initially described by Hayflick et al. in 1961 as an irreversible nondividing state in in vitro cell culture studies. We now know that cellular senescence can occur in vivo in response to various stressors as a heterogeneous and tissue-specific cell state with a secretome phenotype acquired after the initial growth arrest. In the past two decades, compelling evidence from preclinical models and human data show an accumulation of senescent cells in many components of the musculoskeletal system. Cellular senescence is therefore a defining feature of age-related musculoskeletal disorders, and targeted elimination of these cells has emerged recently as a promising therapeutic approach to ameliorate tissue damage and promote repair and regeneration of the skeleton and skeletal muscles. In this review, we summarize evidence of the role of senescent cells in the maintenance of bone homeostasis during childhood and their contribution to the pathogenesis of chronic musculoskeletal disorders, including osteoporosis, osteoarthritis, and sarcopenia. We highlight the diversity of the senescent cells in the microenvironment of bone, joint, and skeletal muscle tissue, as well as the mechanisms by which these senescent cells are involved in musculoskeletal diseases. In addition, we discuss how identifying and targeting senescent cells might positively affect pathologic progression and musculoskeletal system regeneration.",
+  "type": "academic",
+  "pdf_url": "https://www.nature.com/articles/s41413-021-00164-y.pdf"
+}

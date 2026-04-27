@@ -1,0 +1,19 @@
+{
+  "id": "src-187",
+  "title": "Cystathionine-β-synthase: Molecular Regulation and Pharmacological Inhibition",
+  "authors": [
+    "Zuhra, Karim",
+    "Augsburger, Fiona",
+    "Majtán, Tomáš",
+    "Szabó, Csaba"
+  ],
+  "doi": "10.3390/biom10050697",
+  "url": "https://openalex.org/W3023816032",
+  "provider": "openalex",
+  "year": 2020,
+  "venue": "Biomolecules",
+  "citation_count": 214,
+  "abstract": "Cystathionine-β-synthase (CBS), the first (and rate-limiting) enzyme in the transsulfuration pathway, is an important mammalian enzyme in health and disease. Its biochemical functions under physiological conditions include the metabolism of homocysteine (a cytotoxic molecule and cardiovascular risk factor) and the generation of hydrogen sulfide (H<sub>2</sub>S), a gaseous biological mediator with multiple regulatory roles in the vascular, nervous, and immune system. CBS is up-regulated in several diseases, including Down syndrome and many forms of cancer; in these conditions, the preclinical data indicate that inhibition or inactivation of CBS exerts beneficial effects. This article overviews the current information on the expression, tissue distribution, physiological roles, and biochemistry of CBS, followed by a comprehensive overview of direct and indirect approaches to inhibit the enzyme. Among the small-molecule CBS inhibitors, the review highlights the specificity and selectivity problems related to many of the commonly used \"CBS inhibitors\" (e.g., aminooxyacetic acid) and provides a comprehensive review of their pharmacological actions under physiological conditions and in various disease models.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2218-273X/10/5/697/pdf?version=1589979986"
+}

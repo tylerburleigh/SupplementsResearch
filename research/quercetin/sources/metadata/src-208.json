@@ -1,0 +1,19 @@
+{
+  "id": "src-208",
+  "title": "MOLECULAR DOCKING OF KAEMPFEROL, QUERCETIN, AND VITAMIN C FROM SHALLOT BULB AS ANTIOXIDANT AGENTS TARGETING PEROXIREDOXIN 5 FOR THE PROTECTION OF MITOCHONDRIAL DNA AGAINST OXIDATIVE STRESS",
+  "authors": [
+    "Azis, F.",
+    "Shofia, Vivi",
+    "Latifah, Luluk",
+    "Purnomo, Hari"
+  ],
+  "doi": "10.37874/ms.v11i1.1836",
+  "url": "https://www.semanticscholar.org/paper/885eb3c26b75252b753afc7cafaf837b3f85a9f9",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "Medical Sains : Jurnal Ilmiah Kefarmasian",
+  "citation_count": 0,
+  "abstract": "Method validation is critical for ensuring the reliability and reproducibility of molecular docking results. In this study, the docking protocol was validated by redocking the native ligand into the active site of Human Peroxiredoxin 5 (PRDX5), yielding a root mean square deviation (RMSD) value of 1.6104 Å. An RMSD value below 2.0 Å is widely accepted as an indicator of a valid and accurate docking protocol, confirming that the selected docking parameters and scoring functions can reliably reproduce the experimentally observed ligand–protein interactions. This validation step is crucial for minimizing false-positive predictions and ensuring that the calculated binding affinities of vitamin C, quercetin, and kaempferol reflect meaningful and biologically relevant interactions. Consequently, the validated docking approach strengthens the credibility of the comparative binding affinity results and supports the robustness of the in silico conclusions regarding the antioxidant potential of shallot-derived bioactive compounds targeting PRDX5.\nKeywords: in silico, molecular docking, peroxiredoxin 5, red onion, antioxidant.",
+  "type": "academic",
+  "pdf_url": ""
+}

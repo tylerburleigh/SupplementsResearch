@@ -1,0 +1,19 @@
+{
+  "id": "src-084",
+  "title": "Shared Risk Factors in Cardiovascular Disease and Cancer",
+  "authors": [
+    "Koene, Ryan J.",
+    "Prizment, Anna E.",
+    "Blaes, Anne",
+    "Konety, Suma"
+  ],
+  "doi": "10.1161/circulationaha.115.020406",
+  "url": "https://openalex.org/W2298991506",
+  "provider": "openalex",
+  "year": 2016,
+  "venue": "Circulation",
+  "citation_count": 1459,
+  "abstract": "Cardiovascular disease (CVD) and cancer are the 2 leading causes of death worldwide. Although commonly thought of as 2 separate disease entities, CVD and cancer possess various similarities and possible interactions, including a number of similar risk factors (eg, obesity, diabetes mellitus), suggesting a shared biology for which there is emerging evidence. Although chronic inflammation is an indispensable feature of the pathogenesis and progression of both CVD and cancer, additional mechanisms can be found at their intersection. Therapeutic advances, despite improving longevity, have increased the overlap between these diseases, with millions of cancer survivors now at risk of developing CVD. Cardiac risk factors have a major impact on subsequent treatment-related cardiotoxicity. In this review, we explore the risk factors common to both CVD and cancer, highlighting the major epidemiological studies and potential biological mechanisms that account for them.",
+  "type": "academic",
+  "pdf_url": "https://www.ahajournals.org/doi/pdf/10.1161/CIRCULATIONAHA.115.020406"
+}

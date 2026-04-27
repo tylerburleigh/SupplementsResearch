@@ -1,0 +1,21 @@
+{
+  "id": "src-216",
+  "title": "Diet, Obesity, and Depression: A Systematic Review",
+  "authors": [
+    "Patsalos, Olivia",
+    "Keeler, Johanna Louise",
+    "Schmidt, Ulrike",
+    "Penninx, Brenda W.J.H.",
+    "Young, Allan H.",
+    "Himmerich, Hubertus"
+  ],
+  "doi": "10.3390/jpm11030176",
+  "url": "https://openalex.org/W3133947116",
+  "provider": "openalex",
+  "year": 2021,
+  "venue": "Journal of Personalized Medicine",
+  "citation_count": 123,
+  "abstract": "People with obesity and depression appear to be a specific subgroup of depressed patients in which calorie-restricted diets might constitute a promising personalized treatment approach. The reduction of depressive symptoms may be related to immunoendocrine and psychosocial mechanisms.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2075-4426/11/3/176/pdf?version=1614775694"
+}

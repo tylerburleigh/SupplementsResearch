@@ -1,0 +1,22 @@
+{
+  "id": "src-106",
+  "title": "IGF-1 and survival in ESRD.",
+  "authors": [
+    "Jia, Ting",
+    "Gama Axelsson, Thiane",
+    "Heimbürger, Olof",
+    "Bárány, Peter",
+    "Lindholm, Bengt",
+    "Stenvinkel, Peter",
+    "Qureshi, Abdul Rashid"
+  ],
+  "doi": "10.2215/cjn.02470213",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/24178975",
+  "provider": "pubmed",
+  "year": 2014,
+  "venue": "Clinical journal of the American Society of Nephrology : CJASN",
+  "citation_count": 0,
+  "abstract": "BACKGROUND AND OBJECTIVES: IGF-1 deficiency links to malnutrition in CKD patients; however, it is not clear to what extent it associates with survival among these patients.\nDESIGN, SETTING, PARTICIPANTS, & MEASUREMENTS: Serum IGF-1 and other biochemical, clinical (subjective global assessment), and densitometric (dual energy x-ray absorptiometry) markers of nutritional status and mineral and bone metabolism were measured in a cohort of 365 Swedish clinically stable CKD stage 5 patients (median age of 53 years) initiating dialysis between 1994 and 2009; in 207 patients, measurements were also taken after 1 year of dialysis. Deaths were registered during a median follow-up of 5 years. Associations of mortality with baseline IGF-1 and changes of IGF-1 after 1 year of dialysis were evaluated by Cox models.\nRESULTS: At baseline, IGF-1 concentrations associated negatively with age, diabetes mellitus, cardiovascular disease, poor nutritional status, IL-6, and osteoprotegerin and positively with body fat mass, bone mineral density, serum phosphate, calcium, and fibroblast growth factor-23. At 1 year, IGF-1 had increased by 33%. In multivariate regression, low age, diabetes mellitus, and high serum phosphate and calcium associated with IGF-1 at baseline, and in a mixed model, these factors, together with high fat body mass, associated with changes of IGF-1 during the first 1 year of dialysis. Adjusting for calendar year of inclusion, age, sex, diabetes mellitus, cardiovascular disease, IL-6, and poor nutritional status, a 1 SD higher level of IGF-1 at baseline associated with lower mortality risk (hazard ratio, 0.57; 95% confidence interval, 0.32 to 0.98). Persistently low or decreasing IGF-1 levels during the first 1 year on dialysis predicted worse survival (adjusted hazard ratio, 2.19; 95% confidence interval, 1.06 to 4.50).\nCONCLUSION: In incident dialysis patients, low serum IGF-1 associates with body composition and markers of mineral and bone metabolism, and it predicts increased mortality risk.",
+  "type": "academic",
+  "pdf_url": ""
+}

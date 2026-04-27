@@ -1,0 +1,23 @@
+{
+  "id": "src-245",
+  "title": "Deacetylase SIRT1 modulates antiviral innate immunity and autoimmune diseases.",
+  "authors": [
+    "Yu, Shuang-Shuang",
+    "Yu, Hengxiang",
+    "Geng, Shijin",
+    "Tang, Rong-Chun",
+    "Zhang, Ao",
+    "Zhang, Yan",
+    "Sun, Xiu-Yuan",
+    "Zhang, Jun"
+  ],
+  "doi": "10.1016/j.ijbiomac.2025.147873",
+  "url": "https://www.semanticscholar.org/paper/224d6e8cfa206e01a57a83a36ba4d5c380f9a4d0",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "International Journal of Biological Macromolecules",
+  "citation_count": 2,
+  "abstract": "SIRT1, a central NAD+-dependent deacetylase of the sirtuin family, has been implicated in immune regulation, yet its role in antiviral signaling remains incompletely understood. Through bioinformatic analysis of GEO datasets, we identified an inverse correlation between SIRT1 expression and antiviral immune responses. Here, we demonstrate that SIRT1 negatively regulates virus-induced type I interferon (IFN-I) production. Overexpression of SIRT1 attenuated virus-induced IFNβ and ISRE activation, along with diminished IFN-I responses and enhanced viral replication in a deacetylase-dependent manner. Conversely, knockout of SIRT1 potentiates virus-induced IFN-I signaling. Mechanistically, SIRT1 physically interacts with IRF3 and IRF7, deacetylating IRF3 at lysine residues K39/K77 and IRF7 at K92. This post-translational modification impaired the dephosphorylation of IRF3 (S97) and IRF7 (S101/S112) by the phosphatase PTENα, thereby inhibiting their nuclear translocation. Pharmacological inhibition of SIRT1 with EX527 augmented virus-triggered IFN-I responses. Clinically, SIRT1 expression inversely correlated with IFN-I pathway activation in patients with autoimmune diseases (systemic lupus erythematosus, primary Sjögren's syndrome, and dermatomyositis). In Trex1-deficient mice, a model of autoimmune disease, SIRT1 activation via Resveratrol or SRT1720 ameliorated pathological phenotypes. Collectively, these findings position SIRT1 as a rheostat for innate immune homeostasis through direct deacetylation of IRF3/IRF7, highlighting its therapeutic potential in viral infections, interferonopathies and autoimmune disorders.",
+  "type": "academic",
+  "pdf_url": ""
+}

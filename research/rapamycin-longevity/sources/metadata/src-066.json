@@ -1,0 +1,20 @@
+{
+  "id": "src-066",
+  "title": "Reactive Oxygen Species in Metabolic and Inflammatory Signaling",
+  "authors": [
+    "Forrester, Steven J.",
+    "Kikuchi, Daniel S.",
+    "Hernandes, Marina S.",
+    "Xu, Qian",
+    "Griendling, Kathy K."
+  ],
+  "doi": "10.1161/circresaha.117.311401",
+  "url": "https://openalex.org/W2791564057",
+  "provider": "openalex",
+  "year": 2018,
+  "venue": "Circulation Research",
+  "citation_count": 1971,
+  "abstract": "Reactive oxygen species (ROS) are well known for their role in mediating both physiological and pathophysiological signal transduction. Enzymes and subcellular compartments that typically produce ROS are associated with metabolic regulation, and diseases associated with metabolic dysfunction may be influenced by changes in redox balance. In this review, we summarize the current literature surrounding ROS and their role in metabolic and inflammatory regulation, focusing on ROS signal transduction and its relationship to disease progression. In particular, we examine ROS production in compartments such as the cytoplasm, mitochondria, peroxisome, and endoplasmic reticulum and discuss how ROS influence metabolic processes such as proteasome function, autophagy, and general inflammatory signaling. We also summarize and highlight the role of ROS in the regulation metabolic/inflammatory diseases including atherosclerosis, diabetes mellitus, and stroke. In order to develop therapies that target oxidative signaling, it is vital to understand the balance ROS signaling plays in both physiology and pathophysiology, and how manipulation of this balance and the identity of the ROS may influence cellular and tissue homeostasis. An increased understanding of specific sources of ROS production and an appreciation for how ROS influence cellular metabolism may help guide us in the effort to treat cardiovascular diseases.",
+  "type": "academic",
+  "pdf_url": "https://www.ahajournals.org/doi/pdf/10.1161/CIRCRESAHA.117.311401"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "src-183",
+  "title": "Fungal Coculture of Herpotrichia sp. and Trametes versicolor Induces Production of Diverse Metabolites with Anti-Parkinson's Neuroprotective Activity.",
+  "authors": [
+    "Wang, Zi-Jue",
+    "Hong, Yi-Rui",
+    "Wang, Xin-Yu",
+    "Wang, Jing-Zhe",
+    "Zhai, Yi-Jie",
+    "Cui, Wei",
+    "Han, Wen-Bo"
+  ],
+  "doi": "10.1021/acs.jnatprod.4c00421",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39214601",
+  "provider": "pubmed",
+  "year": 2024,
+  "venue": "Journal of natural products",
+  "citation_count": 0,
+  "abstract": "Co-cultivation of isopod-associated fungi Herpotrichia sp. SF09 and Trametes versicolor SF09A led to the reciprocal induction of thirteen new compounds (1-7 and 9-13) with diverse architectures. Importantly, compounds 1 and 2 are rare fungal sesquiterpene-saccharide hybrids incorporating a xylopyranose moiety, compound (±)-3 represents the first example of a natural linear sesquiterpene racemate, and compound 7 is a rare α-pyrone derivative with a xylopyranose motif. Their structures were elucidated by analysis of NMR and mass spectrometry data, and their absolute configurations were determined by Mosher's method, microscale derivatization, and single-crystal X-ray diffraction, as well as ECD calculations. All the isolated compounds ameliorated MPP+-induced oxidative damage in PC12 cells in a dose-dependent fashion. Among them, compounds 5 and 15 showed significant protective action against neuronal injury by MPP+ at 5 μM. Meanwhile, transcriptome sequencing was performed to evaluate the molecular mechanism of the neuroprotective activity for compound 5. Results indicated that compound 5 might mitigate MPP+-induced neuronal injury through the regulation of multiple signaling pathways, including the PI3K-Akt and MAPK pathways. Our findings suggested that compound 5 could be a promising neuroprotective agent for the treatment of Parkinson's disease.",
+  "type": "academic",
+  "pdf_url": ""
+}

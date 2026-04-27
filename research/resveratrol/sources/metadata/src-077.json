@@ -1,0 +1,23 @@
+{
+  "id": "src-077",
+  "title": "Pharmacokinetic evaluation of two oral Resveratrol formulations in a randomized, open-label, crossover study in healthy fasting subjects",
+  "authors": [
+    "Wang, Jing",
+    "Liu, Tingting",
+    "Chen, Peiru",
+    "Yin, Dongli",
+    "Zhang, Haijun",
+    "Qiu, Xiang",
+    "Zou, Shengcan",
+    "Li, Weiyong"
+  ],
+  "doi": "10.1038/s41598-025-08665-0",
+  "url": "https://openalex.org/W4412151139",
+  "provider": "openalex",
+  "year": 2025,
+  "venue": "Scientific Reports",
+  "citation_count": 9,
+  "abstract": "Resveratrol is widely used in the fields of medicine and health supplements; however, its poor stability and low relative bioavailability limit its applications. This study aimed to compare the plasma drug concentrations and key pharmacokinetic parameters of two resveratrol solid formulations, T1 and T2. A single-center, randomized, open-label, two-formulation, single-dose, two-period, crossover trial was conducted involving 12 healthy subjects. Blood samples were collected after a single dose for pharmacokinetic (PK) analysis, including C<sub>max</sub>, AUC<sub>0 - t</sub>, AUC<sub>0-∞</sub>, T<sub>max</sub>, and T<sub>1/2</sub>. The concentrations of resveratrol and its metabolites in human plasma were determined using HPLC-MS/MS. The results showed for total resveratrol, the C<sub>max</sub> of T1 was 4.8 times higher than that of T2, while the AUC<sub>0 - t</sub> of T1 was 1.7 times that of T2. The T<sub>max</sub> of T1 was also markedly shorter, whereas the t<sub>1/2</sub> of T2 was slightly longer than that of T1. This suggests that T1 demonstrated superior absorption extent and rate, with overall pharmacokinetic performance surpassing that of T2. In addition, all drugs were well tolerated, no severe adverse reactions occurred. In conclusion, following single-dose oral administration of the two resveratrol formulations, T1 and T2, both formulations were demonstrating good safety profiles. Compared to T2, the modified formulation of T1 significantly enhanced the absorption rate, extent, and relative bioavailability of resveratrol. The test formulation T1 was overall superior to the test formulation T2.",
+  "type": "academic",
+  "pdf_url": "https://www.nature.com/articles/s41598-025-08665-0.pdf"
+}

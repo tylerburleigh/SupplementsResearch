@@ -1,0 +1,29 @@
+{
+  "id": "src-007",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://www.justsarms.com/blog/nicotinamide-mononucleotide-nmn-a-potential-key-to-longevity-and-cellular-health",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-23T13:36:39.961948+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-007.md",
+  "quality_details": {
+    "content_length": 4983,
+    "alpha_ratio": 0.828,
+    "sentence_count": 31,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

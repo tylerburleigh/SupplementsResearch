@@ -1,0 +1,28 @@
+{
+  "id": "src-044",
+  "title": "Targeting Cellular Senescence to Enhance Human Endometrial Stromal Cell Decidualization and Inhibit Their Migration",
+  "authors": [
+    "Delenko, Julia",
+    "Hyman, Nathaniel",
+    "Chatterjee, Prodyot K.",
+    "Tepes, Polona Safaric",
+    "Shih, Andrew J",
+    "Xue, Xiangying",
+    "Gurney, J.Megan",
+    "Baker, Andrew G.",
+    "Wei, Cheng",
+    "Espin, Daniel Munoz",
+    "Fruk, L.",
+    "Gregersen, Peter K.",
+    "Metz, Christine N."
+  ],
+  "doi": "10.3390/biom15060873",
+  "url": "https://www.semanticscholar.org/paper/bb5d24dc21a5da63e8e02a80b8782835ef299fa0",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "Biomolecules",
+  "citation_count": 4,
+  "abstract": "Cellular senescence leads to stable cell cycle arrest and an inflammatory senescence-associated secretory phenotype that varies with stressor and cell type. To mitigate these effects and improve health, senotherapeutics (e.g., senolytics and senomorphics) have been developed. Senescent-like endometrial stromal cells (eSCs) lining the uterus of patients with endometriosis and infertility are proposed to impair decidualization, a differentiation process required for uterine receptivity in humans. Quercetin, a natural flavonoid senolytic, dramatically improves decidualization and reduces endometriosis in rodent models. However, little is known about the comparative effects of various senotherapeutics on eSCs. Using menstrual effluent-derived eSCs, we evaluated the effects of flavonoid and non-flavonoid compounds on eSC functions associated with endometriosis, aiming to identify optimal senotherapeutics for future clinical trials. Among flavonoids tested, all senolytics (quercetin, fisetin, and luteolin) and kaempferol, a senomorphic, significantly improved decidualization without cytotoxicity. Although non-flavonoids exhibited notable cytotoxicity, dasatinib, but neither ABT-737 nor navitoclax, enhanced decidualization. Flavonoid senotherapeutics and dasatinib significantly inhibited eSC migration. Mechanistic studies revealed that all flavonoids and dasatinib suppressed AKT phosphorylation and upregulated p53 expression. Notably, only quercetin and fisetin reduced ERK1/2 phosphorylation. Furthermore, flavonoid-senolytics and dasatinib consistently eliminated senescent eSCs. These findings support future studies to assess the therapeutic potential of in vivo supplementation with flavonoid senolytics on eSC function using menstrual effluent.",
+  "type": "academic",
+  "pdf_url": ""
+}

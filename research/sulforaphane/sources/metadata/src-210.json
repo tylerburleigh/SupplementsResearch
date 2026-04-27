@@ -1,0 +1,22 @@
+{
+  "id": "src-210",
+  "title": "Pro- and anti-inflammatory effects of sulforaphane on placental cytokine production.",
+  "authors": [
+    "Arita, Yuko",
+    "Jeong Park, Hyeon",
+    "Cantillon, Aisling",
+    "Verma, Kavita",
+    "Menon, Ramkumar",
+    "Getahun, Darios",
+    "Peltier, Morgan R"
+  ],
+  "doi": "10.1016/j.jri.2018.12.003",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/30641297",
+  "provider": "pubmed",
+  "year": 2019,
+  "venue": "Journal of reproductive immunology",
+  "citation_count": 0,
+  "abstract": "Placental inflammation increases the risk of adverse pregnancy outcomes and possibly neurodevelopmental disorders in the offspring. Previous research suggests it may be possible to modulate the placental immune response to bacteria to favor an anti-inflammatory phenotype with dietary factors. Sulforaphane (SFN) is a dietary supplement with known anti-inflammatory activities, however, its effects on placental cytokine production are unclear. Therefore, we evaluated the effects of SFN on biomarkers of inflammation and neurodevelopment under basal conditions and a setting of mild infection. Placental explant cultures were established and treated with up to 10 μM SFN in the presence and absence of 107 CFU/ml heat-killed E. coli. Concentrations of IL-1β, TNF-α, IL-6, sgp130, HO-1 and BDNF in conditioned medium were quantified by immunoassay. SFN increased antioxidant HO-1 expression in the absence, but not the presence, of infection. SFN inhibited IL-1β and IL-10, but tended to promote, TNF-α production by bacteria-stimulated cultures. IL-6 and BDNF were inhibited by SFN irrespective of co-treatment with E.coli. A negative regulator of IL-6 signaling, sgp130, was increased by SFN under basal conditions, but not in E. coli-stimulated cultures. These results suggest that SFN has mixed effects on the placenta inhibiting both pro-inflammatory (IL-1β) and anti-inflammatory factors (IL-10) but promoting regulators of oxidative stress and inflammation (HO-1 and sgp130) in an infection-dependent manner.",
+  "type": "academic",
+  "pdf_url": ""
+}

@@ -1,0 +1,14 @@
+74	2	1. Introduction
+250	2	2. Materials and methods
+251	3	2.1. Study participants and senolytic administration
+273	3	2.2. Adipose tissue and skin sampling and plasma collection
+286	3	2.3. Immunohistochemistry, imaging of biopsies, and counting
+351	3	2.5. Blood SASP factor analyses
+356	3	2.6. Adipocyte progenitor replication assay
+377	3	2.7. Statistical methods
+387	2	3. Results
+494	2	4. Discussion
+792	2	Author Contributions
+814	2	Acknowledgements
+818	2	References
+1081	2	Supplementary Materials

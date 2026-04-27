@@ -1,0 +1,22 @@
+{
+  "id": "src-308",
+  "title": "In vitro propagation and transcriptional profiling of human mammary stem/progenitor cells",
+  "authors": [
+    "Dontu, Gabriela",
+    "Abdallah, Wissam",
+    "Foley, Jessica",
+    "Jackson, Kyle W.",
+    "Clarke, Michael F.",
+    "Kawamura, Mari",
+    "Wicha, Max S."
+  ],
+  "doi": "10.1101/gad.1061803",
+  "url": "https://openalex.org/W2127617517",
+  "provider": "openalex",
+  "year": 2003,
+  "venue": "Genes & Development",
+  "citation_count": 2396,
+  "abstract": "Although the existence of mammary stem cells has been suggested by serial transplantation studies in mice, their identification has been hindered by the lack of specific surface markers, and by the absence of suitable in vitro assays for testing stem cell properties: self-renewal and ability to generate differentiated progeny. We have developed an in vitro cultivation system that allows for propagation of human mammary epithelial cells (HMECs) in an undifferentiated state, based on their ability to proliferate in suspension, as nonadherent mammospheres. We demonstrate that nonadherent mammospheres are enriched in early progenitor/stem cells and able to differentiate along all three mammary epithelial lineages and to clonally generate complex functional structures in reconstituted 3D culture systems. Gene expression analysis of cells isolated from nonadherent mammospheres revealed overlapping genetic programs with other stem and progenitor cells and identified new markers that may be useful in the identification of mammary stem cells. The isolation and characterization of these stem cells should help elucidate the molecular pathways that govern normal mammary development and carcinogenesis.",
+  "type": "academic",
+  "pdf_url": "http://genesdev.cshlp.org/content/17/10/1253.full.pdf"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "src-137",
+  "title": "A review of the pathophysiological mechanisms of doxorubicin-induced cardiotoxicity and aging",
+  "authors": [
+    "Linders, Annet N.",
+    "Dias, Itamar Braga",
+    "López‐Fernández, Teresa",
+    "Tocchetti, Carlo G.",
+    "Bömer, Nils",
+    "Meer, Peter van der"
+  ],
+  "doi": "10.1038/s41514-024-00135-7",
+  "url": "https://openalex.org/W4391138568",
+  "provider": "openalex",
+  "year": 2024,
+  "venue": "npj Aging",
+  "citation_count": 178,
+  "abstract": "The population of cancer survivors is rapidly increasing due to improving healthcare. However, cancer therapies often have long-term side effects. One example is cancer therapy-related cardiac dysfunction (CTRCD) caused by doxorubicin: up to 9% of the cancer patients treated with this drug develop heart failure at a later stage. In recent years, doxorubicin-induced cardiotoxicity has been associated with an accelerated aging phenotype and cellular senescence in the heart. In this review we explain the evidence of an accelerated aging phenotype in the doxorubicin-treated heart by comparing it to healthy aged hearts, and shed light on treatment strategies that are proposed in pre-clinical settings. We will discuss the accelerated aging phenotype and the impact it could have in the clinic and future research.",
+  "type": "academic",
+  "pdf_url": "https://www.nature.com/articles/s41514-024-00135-7.pdf"
+}

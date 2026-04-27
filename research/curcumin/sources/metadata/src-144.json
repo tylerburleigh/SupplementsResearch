@@ -1,0 +1,35 @@
+{
+  "id": "src-144",
+  "title": "Effect and Safety of Phytosomal Curcumin Supplementation on Migraine Patients: A Randomized, Double-Blind and Placebo-Controlled Trial",
+  "authors": [
+    "Shojaei, Mehrnaz",
+    "Khorvash, Fariborz",
+    "Sahebkar, Amirhossein",
+    "Sathyapalan, Thozhukat",
+    "Bagherniya, Mohammad"
+  ],
+  "year": 2025,
+  "abstract": "",
+  "doi": "10.1007/s11655-025-3939-1",
+  "url": "https://doi.org/10.1007/s11655-025-3939-1",
+  "pdf_url": "",
+  "venue": "Chinese Journal of Integrative Medicine",
+  "citation_count": 2,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-22T14:36:26.499868+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-144.md",
+  "quality_details": {
+    "content_length": 14800,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

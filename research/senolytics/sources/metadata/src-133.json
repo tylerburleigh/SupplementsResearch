@@ -1,0 +1,19 @@
+{
+  "id": "src-133",
+  "title": "SIRT1 Activation by Natural Phytochemicals: An Overview",
+  "authors": [
+    "Iside, Concetta",
+    "Scafuro, Marika",
+    "Nebbioso, Angela",
+    "Altucci, Lucia"
+  ],
+  "doi": "10.3389/fphar.2020.01225",
+  "url": "https://openalex.org/W3047910909",
+  "provider": "openalex",
+  "year": 2020,
+  "venue": "Frontiers in Pharmacology",
+  "citation_count": 282,
+  "abstract": "Sirtuins are class III histone deacetylases, whose enzymatic activity is dependent on NAD<sup>+</sup> as a cofactor. Sirtuins are reported to modulate numerous activities by controlling gene expression, DNA repair, metabolism, oxidative stress response, mitochondrial function, and biogenesis. Deregulation of their expression and/or action may lead to tissue-specific degenerative events involved in the development of several human pathologies, including cancer, neurodegeneration, and cardiovascular disease. The most studied member of this class of enzymes is sirtuin 1 (SIRT1), whose expression is associated with increasing insulin sensitivity. SIRT1 has been implicated in both tumorigenic and anticancer processes, and is reported to regulate essential metabolic pathways, suggesting that its activation might be beneficial against disorders of the metabolism. <i>Via</i> regulation of p53 deacetylation and modulation of autophagy, SIRT1 is implicated in cellular response to caloric restriction and lifespan extension. In recent years, scientific interest focusing on the identification of SIRT1 modulators has led to the discovery of novel small molecules targeting SIRT1 activity. This review will examine compounds of natural origin recently found to upregulate SIRT1 activity, such as polyphenolic products in fruits, vegetables, and plants including resveratrol, fisetin, quercetin, and curcumin. We will also discuss the potential therapeutic effects of these natural compounds in the prevention and treatment of human disorders, with particular emphasis on their metabolic impact.",
+  "type": "academic",
+  "pdf_url": "https://www.frontiersin.org/articles/10.3389/fphar.2020.01225/pdf"
+}

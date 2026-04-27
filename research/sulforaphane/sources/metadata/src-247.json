@@ -1,0 +1,16 @@
+{
+  "id": "src-247",
+  "title": "Dietary polyphenols: Good, bad, or indifferent for your health?",
+  "authors": [
+    "Halliwell, Barry"
+  ],
+  "doi": "10.1016/j.cardiores.2006.10.004",
+  "url": "https://openalex.org/W2000967440",
+  "provider": "openalex",
+  "year": 2006,
+  "venue": "Cardiovascular Research",
+  "citation_count": 550,
+  "abstract": "Flavonoids and other polyphenolic compounds have powerful antioxidant effects in vitro in many test systems, but can act as pro-oxidants in some others. Whether pro-oxidant, antioxidant, or any of the many other biological effects potentially exerted by flavonoids account for or contribute to the health benefits of diets rich in plant-derived foods and beverages is uncertain. Phenolic compounds may help to protect the gastrointestinal tract against damage by reactive species present in foods or generated within the stomach and intestines. The overall health benefit of flavonoids is uncertain, and consumption of large quantities of them in fortified foods or supplements should not yet be encouraged.",
+  "type": "academic",
+  "pdf_url": "https://academic.oup.com/cardiovascres/article-pdf/73/2/341/1316960/73-2-341.pdf"
+}

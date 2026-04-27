@@ -1,0 +1,16 @@
+{
+  "id": "src-076",
+  "title": "Effects of quercetin supplementation on lipid profile: A systematic review and meta-analysis of randomized controlled trials.",
+  "authors": [
+    "Sahebkar, Amirhossein"
+  ],
+  "doi": "10.1080/10408398.2014.948609",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/25897620",
+  "provider": "pubmed",
+  "year": 2017,
+  "venue": "Critical reviews in food science and nutrition",
+  "citation_count": 0,
+  "abstract": "BACKGROUND: In spite of promising experimental findings, randomized controlled trials (RCTs) have yielded mixed results on the impact of quercetin supplementation on plasma lipid levels.\nAIM: The present study aimed to quantify the effects of quercetin on plasma lipids using a meta-analysis of RCTs.\nMETHODS: A systematic literature search of Medline was conducted for RCTs that investigated the efficacy of quercetin supplementation on plasma lipids comprising total cholesterol, low-density lipoprotein cholesterol (LDL-C), high-density lipoprotein cholesterol (HDL-C), and triglycerides. Weighted mean differences (WMDs) and 95% confidence intervals (CIs) were calculated for net changes in lipid concentrations using a random-effects model. Meta-regression analysis was conducted to assess the effect of quercetin dose and duration of supplementation as moderators on the calculated effect measures.\nRESULTS: Five RCTs totaling 442 subjects (221 in the quercetin and 221 in the control group) fulfilled the eligibility criteria and selected for analyses. Combined estimate of effect size for the impact of quercetin on plasma LDL-C (WMD: 1.43 mg/dL, 95% CI: -0.92-3.78, p = 0.23), HDL-C (WMD: 0.26 mg/dL, 95% CI: -0.74-1.25, p = 0.61) and triglycerides (WMD: -9.42 mg/dL, 95% CI: -27.80-8.96, p = 0.32) was not statistically significant. However, a borderline significant but clinically non-relevant increase in total cholesterol was observed (WMD: 3.13 mg/dL, 95% CI: -0.01-6.27, p = 0.05). When the analysis was confined to the subgroups of studies with quercetin doses ≥500 mg/day and follow-up of ≥ 4 weeks, a significant increase in total cholesterol (WMD: 3.57 mg/dL, 95% CI: 0.21-6.92, p = 0.04) and a decline in triglycerides (WMD: -24.54 mg/dL, 95% CI: -33.09 to -15.99, p < 0.00001) was observed, but LDL-C and HDL-C concentrations remained unchanged (p > 0.05). Changes in plasma triglycerides, but not other indices of lipid profile, were significantly associated with quercetin dose (slope: -0.057; 95% CI: -0.103 to -0.010; p = 0.02) and duration of supplementation (slope: -5.314; 95% CI: -9.482 to -1.147; p = 0.01).\nCONCLUSION: Available evidence from RCTs does not suggest any clinically relevant effect of quercetin supplementation on plasma lipids, apart from a significant reduction of triglycerides at doses above 50 mg/day.",
+  "type": "academic",
+  "pdf_url": ""
+}

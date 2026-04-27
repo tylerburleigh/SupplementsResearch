@@ -1,0 +1,36 @@
+{
+  "id": "src-172",
+  "title": "Vitamin D Supplementation Modulates Platelet-Mediated Inflammation in Subjects With Type 2 Diabetes: A Randomized, Double-Blind, Placebo-Controlled Trial",
+  "authors": [
+    "Johny, Ebin",
+    "Jala, Aishwarya",
+    "Nath, Bishamber",
+    "Alam, Md Jahangir",
+    "Kuladhipati, Indra",
+    "Das, Rupam",
+    "Borkar, Roshan M.",
+    "Adela, Ramu"
+  ],
+  "year": 2022,
+  "abstract": "BackgroundRecently, our group identified increased platelet-mediated inflammation in type 2 diabetes (T2DM) patients, and it is a well-established risk factor for diabetes complications, particularly for the development of cardiovascular diseases (CVD). Furthermore, vitamin D is reported to play an important role in the modulation of platelet hyperactivity and immune function, although the effect of vitamin D on platelet-mediated inflammation is not well studied. Hence, we aimed to investigate the effect of vitamin D supplementation on platelet-mediated inflammation in T2DM patients.MethodsAfter screening a total of 201 subjects, our randomized, double-blind, placebo-controlled trial included 59 vitamin-D-deficient T2DM subjects, and the participants were randomly assigned to placebo (n = 29) or vitamin D3 (n = 30) for 6 months. Serum vitamin D metabolite levels, immunome profiling, platelet activation, and platelet–immune cell aggregate formation were measured at baseline and at the end of the study. Similarly, the serum levels of inflammatory cytokines/chemokines were assessed by a multiplex assay.ResultsSix months of vitamin D supplementation increases the serum vitamin D3 and total 25(OH)D levels from the baseline (p &amp;lt; 0.05). Vitamin D supplementation does not improve glycemic control, and no significant difference was observed in immune cells. However, platelet activation and platelet immune cell aggregates were altered after the vitamin D intervention (p &amp;lt; 0.05). Moreover, vitamin D reduces the serum levels of IL-18, TNF-α, IFN-γ, CXCL-10, CXCL-12, CCL-2, CCL-5, CCL-11, and PF-4 levels compared to the baseline levels (p &amp;lt; 0.05). Our ex vivo experiment confirms that a sufficient circulating level of vitamin D reduces platelet activation and platelet intracellular reactive oxygen species.ConclusionOur study results provide evidence that vitamin D supportive therapy may help to reduce or prevent the disease progression and cardiovascular risk in T2DM patients by suppressing oxidative stress and platelet-mediated inflammation.Clinical Trial RegistrationClinical Trial Registry of India: CTRI/2019/01/016921.",
+  "doi": "10.3389/fimmu.2022.869591",
+  "url": "https://doi.org/10.3389/fimmu.2022.869591",
+  "pdf_url": "",
+  "venue": "Frontiers in Immunology",
+  "citation_count": 33,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T21:06:06.899899+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-172.md",
+  "quality_details": {
+    "content_length": 59428,
+    "alpha_ratio": 0.721,
+    "sentence_count": 515,
+    "reasons": []
+  }
+}

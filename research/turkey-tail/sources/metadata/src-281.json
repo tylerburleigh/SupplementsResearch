@@ -1,0 +1,25 @@
+{
+  "id": "src-281",
+  "title": "Microbial Therapy and Breast Cancer Management: Exploring Mechanisms, Clinical Efficacy, and Integration within the One Health Approach",
+  "authors": [
+    "Filippou, Charalampos",
+    "Themistocleous, Sophia",
+    "Marangos, Giorgos",
+    "Panayiotou, Yiannis",
+    "Fyrilla, Maria",
+    "Kousparou, Christina",
+    "Pana, Zoi‐Dorothea",
+    "Tsioutis, Constantinos",
+    "Johnson, Elizabeth O.",
+    "Yiallouris, Andreas"
+  ],
+  "doi": "10.3390/ijms25021110",
+  "url": "https://openalex.org/W4390906867",
+  "provider": "openalex",
+  "year": 2024,
+  "venue": "International Journal of Molecular Sciences",
+  "citation_count": 36,
+  "abstract": "This comprehensive review elucidates the profound relationship between the human microbiome and breast cancer management. Recent findings highlight the significance of microbial alterations in tissue, such as the gut and the breast, and their role in influencing the breast cancer risk, development, progression, and treatment outcomes. We delve into how the gut microbiome can modulate systemic inflammatory responses and estrogen levels, thereby impacting cancer initiation and therapeutic drug efficacy. Furthermore, we explore the unique microbial diversity within breast tissue, indicating potential imbalances brought about by cancer and highlighting specific microbes as promising therapeutic targets. Emphasizing a holistic One Health approach, this review underscores the importance of integrating insights from human, animal, and environmental health to gain a deeper understanding of the complex microbe-cancer interplay. As the field advances, the strategic manipulation of the microbiome and its metabolites presents innovative prospects for the enhancement of cancer diagnostics and therapeutics. However, rigorous clinical trials remain essential to confirm the potential of microbiota-based interventions in breast cancer management.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/1422-0067/25/2/1110/pdf?version=1705414088"
+}

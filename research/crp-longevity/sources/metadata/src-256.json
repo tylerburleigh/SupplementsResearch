@@ -1,0 +1,25 @@
+{
+  "id": "src-256",
+  "title": "Clonal hematopoiesis and cardiovascular disease: deciphering interconnections",
+  "authors": [
+    "Stein, Anna",
+    "Metzeler, Klaus H.",
+    "Kubasch, Anne Sophie",
+    "Rommel, Karl‐Philipp",
+    "Desch, Steffen",
+    "Buettner, Petra",
+    "Rosołowski, Maciej",
+    "Cross, Michael",
+    "Platzbecker, Uwe",
+    "Thiele, Hölger"
+  ],
+  "doi": "10.1007/s00395-022-00969-w",
+  "url": "https://openalex.org/W4308908619",
+  "provider": "openalex",
+  "year": 2022,
+  "venue": "Basic Research in Cardiology",
+  "citation_count": 32,
+  "abstract": "Cardiovascular and oncological diseases represent the global major causes of death. For both, a novel and far-reaching risk factor has been identified: clonal hematopoiesis (CH). CH is defined as clonal expansion of peripheral blood cells on the basis of somatic mutations, without overt hematological malignancy. The most commonly affected genes are TET2, DNMT3A, ASXL1 and JAK2. By the age of 70, at least 20-50% of all individuals carry a CH clone, conveying a striking clinical impact by increasing all-cause mortality by 40%. This is due predominantly to a nearly two-fold increase of cardiovascular risk, but also to an elevated risk of malignant transformation. Individuals with CH show not only increased risk for, but also worse outcomes after arteriosclerotic events, such as stroke or myocardial infarction, decompensated heart failure and cardiogenic shock. Elevated cytokine levels, dysfunctional macrophage activity and activation of the inflammasome suggest that a vicious cycle of chronic inflammation and clonal expansion represents the major functional link. Despite the apparently high impact of this entity, awareness, functional understanding and especially clinical implications still require further research. This review provides an overview of the current knowledge of CH and its relation to cardiovascular and hematological diseases. It focuses on the basic functional mechanisms in the interplay between atherosclerosis, inflammation and CH, identifies issues for further research and considers potential clinical implications.",
+  "type": "academic",
+  "pdf_url": "https://link.springer.com/content/pdf/10.1007/s00395-022-00969-w.pdf"
+}

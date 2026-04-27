@@ -1,0 +1,20 @@
+{
+  "id": "src-290",
+  "title": "Anti-Inflammatory Effect of Sulforaphane on LPS-Activated Microglia Potentially through JNK/AP-1/NF-κB Inhibition and Nrf2/HO-1 Activation",
+  "authors": [
+    "Subedi, Lalita",
+    "Lee, Jae",
+    "Yumnam, Silvia",
+    "Ji, Eunhee",
+    "Kim, Sun Yeou"
+  ],
+  "doi": "10.3390/cells8020194",
+  "url": "https://openalex.org/W2915298192",
+  "provider": "openalex",
+  "year": 2019,
+  "venue": "Cells",
+  "citation_count": 261,
+  "abstract": "Sulforaphane (SFN), a potent nuclear factor erythroid 2-related factor 2 (Nrf2) activator, is present in the species of the Brassicaceae, especially in broccoli sprouts. In this study, the effects of SFN against microglial activation and inflammation, and the potential mechanisms involved, were analyzed. As mitogen-activated protein kinase (MAPK) signaling plays a key role in microglial activation and inflammation, we focused on the role of SFN in regulating the MAPK signaling regulation of the inflammatory and anti-inflammatory cascades in lipopolysaccharide (LPS)-activated microglia. The anti-inflammatory and immunomodulatory effects of SFN were explored by evaluating the expression and secretion of inflammatory proteins, cytokines, nuclear factor kappa-light-chain-enhancer of activated B cells (NF-κB), and activator protein-1 (AP-1) under pre- and post-treatment conditions. Under the SFN pre- and post-treatment conditions, the MAPK phosphorylation levels were significantly reduced in both acutely and chronically activated microglial cells. SFN also reduced the c-Jun N-terminal kinase (JNK) phosphorylation levels, which subsequently reduced NF-κB and AP-1 signaling. As a result, the expression of the inflammatory mediators (iNOS, COX-2, NO, and PGE2) and proinflammatory cytokines (TNF-α, IL-6, and IL-1β) was decreased. At the same time, SFN increased the expression of Nrf2 and heme oxygenase-1 (HO-1) as well as the production of the anti-inflammatory cytokines IL-10 and IL-4. In conclusion, this study demonstrated that SFN exerts an anti-neuroinflammatory effect on microglia through JNK/AP-1/NF-κB pathway inhibition and Nrf2/HO-1 pathway activation.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2073-4409/8/2/194/pdf?version=1551073400"
+}

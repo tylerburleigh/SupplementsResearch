@@ -1,0 +1,22 @@
+{
+  "id": "src-138",
+  "title": "Abstract 279: Eligibility and Cost Estimates for Anti-inflammatory Therapy for Atherosclerotic Disease: Implications of the CANTOS Trial for the US Adult Population",
+  "authors": [
+    "Khera, Rohan",
+    "Saxena, A.",
+    "Hong, Jonathan C.",
+    "Arrieta, A.",
+    "Ross, J.",
+    "Krumholz, H.",
+    "Nasir, K."
+  ],
+  "doi": "10.1161/circoutcomes.11.suppl_1.279",
+  "url": "https://www.semanticscholar.org/paper/4c669c88157e94aa05809e5db7adb31775208cfd",
+  "provider": "semantic_scholar",
+  "year": 2018,
+  "venue": "Circulation: Cardiovascular Quality and Outcomes",
+  "citation_count": 0,
+  "abstract": "Background:\nThe CANTOS trial supports the use of canakinumab to target residual inflammatory risk for secondary cardiovascular prevention. To better understand the potential impact of these findings, we use nationally representative data to estimate the number of US adults who qualify for therapy with canakinumab and the projected cost burden on the US health system based on its current pricing.\n\nMethods:\nIn National Health and Nutrition Examination Survey (NHANES) 2005-10, we identified all adults with a prior MI and elevated hsCRP ≥2 mg/L, and fulfilling all eligibility criteria for CANTOS. Further, we also assessed the number of individuals not receiving statins who might be potentially eligible. Statin non-users were considered potentially eligible if they would have had hsCRP ≥2mg/L even after assuming a maximal hsCRP lowering of 50% with statin therapy in all patients. We used survey methods to obtain weighted estimates for the eligible adults in the US population. Annual costs were estimated at $60000/year for canakinumab therapy.\n\nResults:\nOf the 17689 adults sampled in NHANES during 2005-2010, 16608 (94%) had hsCRP testing. Of these, 684 (3.0%), representing an estimated 6.8 million (95% CI 5.7-7.8 million) US adults, had a history of MI (Figure 1). Among those with a prior MI, 42% did not report using a statin. Among statin-users, 44% had an hsCRP<2 mg/L (32% overall). After applying CANTOS inclusion and exclusion criteria, 21% (unweighted n=128) of adults with a prior MI on statin therapy, representing 1.4 million (95% CI 1.1-1.8 million) US adults, were canakinumab-eligible. A further 9% of AMI patients would be eligible after accounting for statin-associated hsCRP lowering in statin non-users (Figure 1). Cumulatively, 31% (unweighted n=207) of adults with a prior MI, representing 2.1 million (95% CI 1.6-2.5 million) US adults would potentially qualify for canakinumab therapy. The treatment of 5% to 100% of all CANTOS-eligible US adults would cost payers $6-$124 billion/year.\n\nConclusion:\nNearly 1 in 3 or 2.1 million US adults with a prior MI are potential treatment candidates. Assuming current canakinumab prices would incur an annual financial burden of up to 124 billion dollars in the United States. Further work is needed to define the population that achieves favorable value with treatment.",
+  "type": "academic",
+  "pdf_url": ""
+}

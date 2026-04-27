@@ -1,0 +1,13 @@
+6	2	Review
+22	2	Abstract
+41	2	Introduction
+58	2	81379 Munich, Germany
+534	1	no cut-off values indicated
+546	1	Iron status (median): iron(μg/dL), 94 men and 81 women; TSAT(%), 27.3 men and 23.4 women; ferritin(ng/mL) 177 men and 99 women; sTfR(mg/L), 1.28 men and
+640	1	Compared with the reference groups with TSAT 20–40% or TSAT > 40%
+705	2	Eskd
+768	2	Conclusion
+800	2	Acknowledgements
+804	2	Author Contributions
+820	2	Competing Interests
+824	2	References

@@ -1,0 +1,20 @@
+{
+  "id": "src-359",
+  "title": "Proof-of-concept study: APOE4 brain endothelial cells as a phenotypic compound screen",
+  "authors": [
+    "Valencia-Olvera, A.",
+    "Marottoli, Felecia M",
+    "Ratia, K.",
+    "Thatcher, Gregory R. J.",
+    "Tai, Leon"
+  ],
+  "doi": "10.1186/s13195-026-01960-6",
+  "url": "https://www.semanticscholar.org/paper/19a88dbed9739b6ced03fadb353002be3c44cf8e",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "Alzheimer's Research & Therapy",
+  "citation_count": 0,
+  "abstract": "Background Published data suggest that compared to APOE3, APOE4 could increase the risk of neurodegeneration via higher cerebrovascular permeability. We recently proposed the concept that brain endothelial cell APOE is protective for cerebrovascular function in a genotype specific manner, APOE3 > APOE4, and therefore APOE4 brain endothelial cells may be predisposed to dysfunction during aging and disease. In addition to mechanistic implications, our concepts and methods may have therapeutic applications; identifying compounds that protect APOE4 brain endothelial cells. The goal of this proof-of-concept study was to determine whether APOE4 brain endothelial cells can be used as a phenotypic compound screen. Methods Previously we found that APOE4 brain endothelial cells are particularly sensitive to lipopolysaccharide- (LPS) induced permeability disruption when measured by trans endothelial cell electrical resistance (TEER) in vitro. Here, we followed the NIH Assay guidance manual to convert our in vitro assay to a phenotypic screen. We scaled the isolation protocol, selected conditions for the min, mid and max signals, statistically validated the phenotypic assay, screened compounds, validated hits and tested the top hits in vivo. Results We scaled the isolation protocol and selected conditions for min (0.8 µg/ml LPS), mid (10 µM sildenafil/LPS) and max conditions (vehicle). Our final protocol met the reproducibility acceptance criteria for a statistically validated assay. We then screened a subset of ~ 900 molecules from the TargetMol Bioactive Library and identified two main groups compounds. The first group disrupted APOE4 brain endothelial cells as they were toxic or lowered TEER and many inhibited mTOR. The second group protected against LPS-induced TEER reduction. With relatively stringent criteria we identified 33 protective compounds that are grouped into those that inhibit growth factor receptor signaling and a range of intracellular signaling pathways. We compared the most active compounds and selected four to test in vivo. Tadalafil (PDE5 inhibitor), vorinostat (HDAC inhibitor), CCT196969 (raf inhibitor) and SGI-7079 (AXL inhibitor) mitigated acute LPS-induced cerebrovascular dysfunction in mice that express APOE4. Conclusions Overall, our data supports the potential of our in vitro screen to identify compounds that prevent LPS-induced dysfunction in APOE4 brain endothelial cells. Supplementary Information The online version contains supplementary material available at 10.1186/s13195-026-01960-6.",
+  "type": "academic",
+  "pdf_url": ""
+}

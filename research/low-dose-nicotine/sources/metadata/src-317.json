@@ -1,0 +1,18 @@
+{
+  "id": "src-317",
+  "title": "Xanomeline restores endogenous nicotinic acetylcholine receptor signaling in mouse prefrontal cortex",
+  "authors": [
+    "Power, S.",
+    "Venkatesan, Sridevi",
+    "Lambe, E."
+  ],
+  "doi": "10.1038/s41386-023-01531-5",
+  "url": "https://www.semanticscholar.org/paper/f49d8e9fb3dea7c3964d0594f9a82c92fbd2dd7e",
+  "provider": "semantic_scholar",
+  "year": 2022,
+  "venue": "bioRxiv",
+  "citation_count": 12,
+  "abstract": "Cholinergic synapses in prefrontal cortex are vital for attention, but this modulatory system undergoes substantial pre- and post-synaptic alterations during adulthood. To examine the integrated impact of these changes, we optophysiologically probe cholinergic synapses ex vivo, revealing a clear decline in neurotransmission in middle adulthood. Pharmacological dissection of synaptic components reveals a selective reduction in postsynaptic nicotinic receptor currents. Other components of cholinergic synapses appear stable, by contrast, including acetylcholine autoinhibition, metabolism, and excitation of postsynaptic muscarinic receptors. Pursuing strategies to strengthen cholinergic neurotransmission, we find that positive allosteric modulation of nicotinic receptors with NS9283 is effective in young adults but wanes with age. To boost nicotinic receptor availability, we harness the second messenger pathways of the preserved excitatory muscarinic receptors with xanomeline. This muscarinic agonist and cognitive-enhancer restores nicotinic signaling in older mice significantly, in a muscarinic- and PKC-dependent manner. The rescued nicotinic component regains youthful sensitivity to allosteric enhancement: treatment with xanomeline and NS9283 restores cholinergic synapses in older mice to the strength, speed, and receptor mechanism of young adults. Our results reveal a new and efficient strategy to rescue age-related nicotinic signaling deficits, demonstrating a novel pathway for xanomeline to restore cognitively-essential endogenous cholinergic neurotransmission.",
+  "type": "academic",
+  "pdf_url": "https://www.nature.com/articles/s41386-023-01531-5.pdf"
+}

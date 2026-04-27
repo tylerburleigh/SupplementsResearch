@@ -1,0 +1,37 @@
+{
+  "id": "src-125",
+  "title": "Influences of Taurine Pharmacodynamics and Sex on Active Avoidance Learning and Memory",
+  "authors": [
+    "Zhu, Wei",
+    "Cruz, George B.",
+    "Ayaz, Zaid",
+    "Joseph, Jewel N.",
+    "Boby, Akil",
+    "Cadet, Patrick",
+    "Neuwirth, Lorenz S."
+  ],
+  "year": 2022,
+  "abstract": "",
+  "doi": "10.1007/978-3-030-93337-1_36",
+  "url": "https://doi.org/10.1007/978-3-030-93337-1_36",
+  "pdf_url": "",
+  "venue": "Advances in Experimental Medicine and Biology",
+  "citation_count": 5,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-19T11:57:35.060643+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-125.md",
+  "quality_details": {
+    "content_length": 28013,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

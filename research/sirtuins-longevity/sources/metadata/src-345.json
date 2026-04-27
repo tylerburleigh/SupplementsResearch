@@ -1,0 +1,23 @@
+{
+  "id": "src-345",
+  "title": "The E-Cadherin and N-Cadherin Switch in Epithelial-to-Mesenchymal Transition: Signaling, Therapeutic Implications, and Challenges",
+  "authors": [
+    "Loh, Chin-Yap",
+    "Chai, Jian",
+    "Tang, Ting",
+    "Wong, Won Fen",
+    "Sethi, Gautam",
+    "Shanmugam, Muthu K.",
+    "Chong, Pei Pei",
+    "Looi, Chung Yeng"
+  ],
+  "doi": "10.3390/cells8101118",
+  "url": "https://openalex.org/W2974147039",
+  "provider": "openalex",
+  "year": 2019,
+  "venue": "Cells",
+  "citation_count": 1318,
+  "abstract": "Epithelial-to-Mesenchymal Transition (EMT) has been shown to be crucial in tumorigenesis where the EMT program enhances metastasis, chemoresistance and tumor stemness. Due to its emerging role as a pivotal driver of tumorigenesis, targeting EMT is of great therapeutic interest in counteracting metastasis and chemoresistance in cancer patients. The hallmark of EMT is the upregulation of N-cadherin followed by the downregulation of E-cadherin, and this process is regulated by a complex network of signaling pathways and transcription factors. In this review, we summarized the recent understanding of the roles of E- and N-cadherins in cancer invasion and metastasis as well as the crosstalk with other signaling pathways involved in EMT. We also highlighted a few natural compounds with potential anti-EMT property and outlined the future directions in the development of novel intervention in human cancer treatments. We have reviewed 287 published papers related to this topic and identified some of the challenges faced in translating the discovery work from bench to bedside.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2073-4409/8/10/1118/pdf?version=1569204497"
+}

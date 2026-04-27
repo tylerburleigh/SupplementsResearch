@@ -1,0 +1,43 @@
+28	2	Abstract
+99	2	1. INTRODUCTION
+100	3	1.1. Geroscience Hypothesis
+121	3	1.2. Cellular Senescence
+148	2	Sasp
+149	2	Events Driven By Senescence
+150	2	Events That Drive Senescence
+195	2	Ros
+196	2	Sasp
+299	3	1.3. Senotherapeutics
+391	2	2. MEASURING SENESCENCE
+409	2	Dna
+417	3	2.1. Multiple Markers of Senescence
+446	2	3. EVIDENCE THAT SENESCENCE DRIVES AGING
+448	3	3.1. Adipose Tissue
+501	3	3.2. Bone
+526	3	3.3. Skeletal Muscle
+582	3	3.4. Brain
+607	3	3.5. Cardiovascular System
+637	3	3.6. Liver
+652	2	4. APPROACHES TO IDENTIFY SENOLYTICS
+655	3	4.1. Hypothesis-Driven, Mechanism-Based Approach
+691	3	4.2. Drug Screening
+780	3	4.3. Further Development of Senolytics
+807	3	4.4. Senolytic Optimization
+829	2	5. MODELS FOR PRECLINICAL TESTING OF SENOLYTICS
+867	2	Sar
+871	2	Design
+914	3	5.1. Murine Models
+932	3	5.2. Rat Models
+951	3	5.3. Human Tissue Explants
+960	2	6. CLINICAL TRIALS
+995	2	Senolytics In Viral Infection
+1011	2	7. FUTURE DIRECTIONS
+1052	2	8. FUTURE WORK
+1092	2	Summary Points
+1125	2	Disclosure Statement
+1133	2	Acknowledgments
+1145	2	Literature Cited
+1148	2	1. Elaborates the
+1209	2	20. Establishes a
+1227	2	26. Discovers that
+1363	2	83. One of the first

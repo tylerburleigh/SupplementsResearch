@@ -1,0 +1,22 @@
+{
+  "id": "src-075",
+  "title": "Genotoxicity profile of erinacine A-enriched Hericium erinaceus mycelium",
+  "authors": [
+    "Li, I-Chen",
+    "Chen, Yen-Lien",
+    "Chen, Wan‐Ping",
+    "Lee, Li‐Ya",
+    "Tsai, Yueh‐Ting",
+    "Chen, Chin‐Chu",
+    "Chen, Chin‐Shuh"
+  ],
+  "doi": "10.1016/j.toxrep.2014.11.009",
+  "url": "https://openalex.org/W2091890344",
+  "provider": "openalex",
+  "year": 2014,
+  "venue": "Toxicology Reports",
+  "citation_count": 22,
+  "abstract": "<i>Hericium erinaceus</i> (<i>H. erinaceus</i>) has a long history of usage in traditional Chinese medicine for the treatment of gastric disorders. Recently, it has become a well-established candidate in causing positive brain and nerve health-related activities by inducing nerve growth factor (NGF) from its bioactive ingredient, erinacine A. This active compound, which exists only in fermented mycelium but not in its fruiting body, increases NGF levels in astroglial cells <i>in vitro</i> as well as catecholamine and NGF levels <i>in vivo</i>. With increasing recognition of erinacine A in <i>H. erinaceus</i> (EAHE) mycelium improving neurodegenerative diseases, numerous products are being marketed based on these functional claims. To our knowledge, there have been no reports on the mutagenicity of EAHE prior to this paper. Hence, the present study was undertaken to determine the mutagenicity and genotoxicity effects of EAHE mycelium conducted in three standard battery of tests (reverse mutation, chromosomal aberration, and micronuclei tests) according to the latest guidelines in order to meet all international regulatory requirements and provide information on the safety of this new and promising natural remedy. Our results have indicated that EAHE mycelium did not significantly increase the number of revertant colonies in the bacterial reverse mutation test nor induce higher frequency of aberrations in the chromosome aberration test. Moreover, no statistically significant EAHE mycelium-related increase was observed in the incidence of reticulocytes per 1000 red blood cells and micronucleated reticulocytes per 1000 reticulocytes. In conclusion, the three standard battery of tests suggested that EAHE mycelium was devoid of mutagenicity and genotoxicity in the tested doses and experimental conditions.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.1016/j.toxrep.2014.11.009"
+}

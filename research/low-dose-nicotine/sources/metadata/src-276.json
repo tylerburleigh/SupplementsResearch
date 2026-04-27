@@ -1,0 +1,25 @@
+{
+  "id": "src-276",
+  "title": "The Association Between Product Attributes and Oral Nicotine Pouch (ONP) Preference - Evidence from Online Stores.",
+  "authors": [
+    "Hardin, Andrew",
+    "Ahn, S.",
+    "Ma, Shaoying",
+    "Thai, Veronica",
+    "Berman, M.",
+    "Mays, Darren",
+    "Chen, Jian",
+    "Paskett, E.",
+    "Wagener, Theodore L",
+    "Shang, Ce"
+  ],
+  "doi": "10.1093/ntr/ntaf137",
+  "url": "https://www.semanticscholar.org/paper/3ffb8e3438da36977704ba796e34f8c50e6342be",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "Nicotine & Tobacco Research",
+  "citation_count": 7,
+  "abstract": "INTRODUCTION\nOral nicotine pouches (ONPs) have steadily gained popularity since first appearing in the U.S. market during 2014, but research on how their features are associated with consumer preference remains limited. We examined how ONP characteristics, including prices, flavors, pouches per can, nicotine concentration, and ingredient claims, are associated with online ratings (1-5 stars), which measured consumer preferences in our analysis.\n\nMETHODS\nData on 1689 unique ONPs from 19 brands that received reviews were scraped from 4 online stores that shipped to the US, and we used ordinary least squares regressions to estimate associations between product features and ratings.\n\nRESULTS\nOn average, products cost $0.20/pouch and contained 19 pouches/can. Nearly half (46%) had 5 to <10 mg nicotine/pouch. The most common flavors were \"fruit/sweet\" (33%), \"mint\" (25%) and \"wintergreen\" (13%), while 21% of products had \"ice/freeze\" mentions. The brand on! accounted for 15% of products. Nicotine claims included \"tobacco-free\" (21%), \"leaf-free\" (26%), \"synthetic\" (8%), and multiple claims (20%). Product size was associated with lower ratings while mint flavor was associated with higher ratings (p<.05). Product characteristics were highly correlated with brands, and the negative association between price per pouch and ratings became insignificant after adjusting for brands.\n\nCONCLUSIONS\nMore pouches per can are associated with lower ratings. Sales prices vary across ONP brands, which is related to how consumers rate more expensive products. Future research should investigate how restricting mint flavor, product size and certain brands may impact consumer preferences for ONPs and their subsequent use.\n\nIMPLICATIONS\nWe provide novel evidence on how oral nicotine pouch (ONP) features are associated with consumer preferences, measured by online ratings (ranging from 1-5 stars). Larger product size (more pouches per can) is associated with lower consumer ratings while mint flavor is associated with higher ratings. Brands are strongly correlated with ratings, impacting how consumers rate more expensive products. Restricting mint flavor, product size and certain brands may influence consumer preferences for ONPs and their subsequent use, which should be investigated in future research.",
+  "type": "academic",
+  "pdf_url": ""
+}

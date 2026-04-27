@@ -1,0 +1,29 @@
+{
+  "id": "src-073",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "",
+  "pdf_url": "https://dm5migu4zj3pb.cloudfront.net/manuscripts/67000/67674/JCI67674.v2.pdf",
+  "venue": "",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "",
+  "fetched_at": "2026-04-26T22:55:19.963225+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-073.md",
+  "quality_details": {
+    "content_length": 97344,
+    "alpha_ratio": 0.766,
+    "sentence_count": 792,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

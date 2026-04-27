@@ -1,0 +1,23 @@
+{
+  "id": "src-100",
+  "title": "Population nutrikinetics of green tea extract.",
+  "authors": [
+    "Scholl, Catharina",
+    "Lepper, Anna",
+    "Lehr, Thorsten",
+    "Hanke, Nina",
+    "Schneider, Katharina Luise",
+    "Brockmöller, Jürgen",
+    "Seufferlein, Thomas",
+    "Stingl, Julia Carolin"
+  ],
+  "doi": "10.1371/journal.pone.0193074",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/29466429",
+  "provider": "pubmed",
+  "year": 2018,
+  "venue": "PloS one",
+  "citation_count": 0,
+  "abstract": "UNLABELLED: Green tea polyphenols may contribute to the prevention of cancer and other diseases. To learn more about the pharmacokinetics and interindividual variation of green tea polyphenols after oral intake in humans we performed a population nutrikinetic study of standardized green tea extract. 84 healthy participants took green tea extract capsules standardized to 150 mg epigallocatechin-gallate (EGCG) twice a day for 5 days. On day 5 catechin plasma concentrations were analyzed using non-compartmental and population pharmacokinetic methods. A strong between-subject variability in catechin pharmacokinetics was found with maximum plasma concentrations varying more than 6-fold. The AUCs of EGCG, EGC and ECG were 877.9 (360.8-1576.5), 35.1 (8.0-87.4), and 183.6 (55.5-364.6) h*μg/L respectively, and the elimination half lives were 2.6 (1.8-3.8), 3.9 (0.9-10.7) and 1.8 (0.8-2.9) h, respectively. Genetic polymorphisms in genes of the drug transporters MRP2 and OATP1B1 could at least partly explain the high variability in pharmacokinetic parameters. The observed variability in catechin plasma levels might contribute to interindividual variation in benefical and adverse effects of green tea polyphenols. Our data could help to gain a better understanding of the causes of variability of green tea effects and to improve the design of studies on the effects of green tea polyphenols in different health conditions.\nTRIAL REGISTRATION: ClinicalTrials.gov: NCT01360320.",
+  "type": "academic",
+  "pdf_url": ""
+}

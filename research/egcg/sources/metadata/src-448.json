@@ -1,0 +1,19 @@
+{
+  "id": "src-448",
+  "title": "Caloric restriction mimetics: natural/physiological pharmacological autophagy inducers.",
+  "authors": [
+    "Mariño, Guillermo",
+    "Pietrocola, Federico",
+    "Madeo, Frank",
+    "Kroemer, Guido"
+  ],
+  "doi": "10.4161/auto.36413",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/25484097",
+  "provider": "pubmed",
+  "year": 2014,
+  "venue": "Autophagy",
+  "citation_count": 0,
+  "abstract": "Nutrient depletion, which is one of the physiological triggers of autophagy, results in the depletion of intracellular acetyl coenzyme A (AcCoA) coupled to the deacetylation of cellular proteins. We surmise that there are 3 possibilities to mimic these effects, namely (i) the depletion of cytosolic AcCoA by interfering with its biosynthesis, (ii) the inhibition of acetyltransferases, which are enzymes that transfer acetyl groups from AcCoA to other molecules, mostly leucine residues in cellular proteins, or (iii) the stimulation of deacetylases, which catalyze the removal of acetyl groups from leucine residues. There are several examples of rather nontoxic natural compounds that act as AcCoA depleting agents (e.g., hydroxycitrate), acetyltransferase inhibitors (e.g., anacardic acid, curcumin, epigallocatechin-3-gallate, garcinol, spermidine) or deacetylase activators (e.g., nicotinamide, resveratrol), and that are highly efficient inducers of autophagy in vitro and in vivo, in rodents. Another common characteristic of these agents is their capacity to reduce aging-associated diseases and to confer protective responses against ischemia-induced organ damage. Hence, we classify them as \"caloric restriction mimetics\" (CRM). Here, we speculate that CRM may mediate their broad health-improving effects by triggering the same molecular pathways that usually are elicited by long-term caloric restriction or short-term starvation and that imply the induction of autophagy as an obligatory event conferring organismal, organ- or cytoprotection.",
+  "type": "academic",
+  "pdf_url": ""
+}

@@ -1,0 +1,19 @@
+{
+  "id": "src-292",
+  "title": "Insights into bioremediation of pharmaceuticals from wastewater streams: A meta-analysis of build type and organism selection.",
+  "authors": [
+    "Pantha, Kalyan",
+    "Schultz, Nick",
+    "Barton, Andrew",
+    "Long, Benjamin"
+  ],
+  "doi": "10.1016/j.jenvman.2025.127482",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41045561",
+  "provider": "pubmed",
+  "year": 2025,
+  "venue": "Journal of environmental management",
+  "citation_count": 0,
+  "abstract": "Pharmaceuticals are widely used to manage health issues, but their release into the environment poses risks to human health and ecosystems, and most wastewater treatment plants are not designed to remove them. The suite of alternative treatments (e.g. ozonation, advanced oxidation) are expensive and intensive. Bioremediation techniques using plants, algae and fungi offer practical potential for pharmaceutical removal. This meta-analysis evaluates the effectiveness of plants, algae and fungi for removing pharmaceuticals from practical wastewater treatment systems-including constructed wetlands, hydroponics, batch and continuous reactors, and hybrid systems-with the aim of informing organism selection in such systems. Using the PRISMA guidelines, a database was compiled of findings from 203 published studies. This revealed that plant taxa such as Phragmites australis and Typha spp., fungi like Trametes versicolor, and algae like Chlorella spp., showed high removal efficiencies (>75 %) for multiple pharmaceuticals, particularly in constructed wetlands. Monocots generally showed higher mean removal efficiency than dicots. Continuous reactors, hybrid systems, and constructed wetlands emerged as the most effective bioremediation systems, particularly for removing antibiotics and analgesics. However, challenges persist in removing recalcitrant pharmaceuticals like antifungals, anxiolytics and antilipemics. The results underscore the potential of bioremediation technologies and identify research gaps in underexplored species that may enhance treatment effectiveness. By leveraging these findings, we can develop more effective and sustainable wastewater treatment solutions to mitigate the environmental and health risks associated with pharmaceutical pollution.",
+  "type": "academic",
+  "pdf_url": ""
+}

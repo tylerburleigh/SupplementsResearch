@@ -1,0 +1,24 @@
+{
+  "id": "src-358",
+  "title": "A genetics-guided integrative framework for drug repurposing: identifying antihypertensive drugs for type 2 diabetes",
+  "authors": [
+    "Zhong, Xue",
+    "Wei, Qiang",
+    "Tiwari, Anshul",
+    "Wang, Quan",
+    "Tan, Yuting",
+    "Chen, Rui",
+    "Yan, Yan",
+    "Cox, Nancy J.",
+    "Li, Bingshan"
+  ],
+  "doi": "10.1038/s44386-025-00032-3",
+  "url": "https://www.semanticscholar.org/paper/b7d24419806205abafa597ed1ddc92ca1874e251",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "npj Drug Discovery",
+  "citation_count": 0,
+  "abstract": "Genetics-informed drug repurposing holds promise in translating genetic findings into therapeutics. In this study, we developed a Genetics Informed Network-based Drug Repurposing via in silico Perturbation (GIN-DRIP) framework and applied the framework to repurpose drugs for type-2 diabetes (T2D). In GIN-DRIP for T2D, it integrates multi-level omics data to translate T2D Genome-Wide Association Study (GWAS) signals into a genetics-informed network that simultaneously encodes gene importance scores and a directional effect (up/down) of risk genes for T2D; it then bases on the GIN to perform signature matching with drug perturbation experiments to identify drugs that can counteract the effect of T2D risk alleles. We identified telmisartan that belongs to the Angiotensin Receptor Blockers (ARB) drug category as a candidate, and validated the ARB antihypertensive drugs’ potential therapeutic effects on T2D in Vanderbilt University Medical Center (VUMC)’s Electronic Health Records (EHR) data with over 3 million patients.",
+  "type": "academic",
+  "pdf_url": ""
+}

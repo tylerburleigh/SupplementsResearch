@@ -1,0 +1,21 @@
+{
+  "id": "src-293",
+  "title": "An Interaction between Kynurenine and the Aryl Hydrocarbon Receptor Can Generate Regulatory T Cells",
+  "authors": [
+    "Mezrich, Joshua D.",
+    "Fechner, John H.",
+    "Zhang, Xiaoji",
+    "Johnson, Brian P.",
+    "Burlingham, William J.",
+    "Bradfield, Christopher A."
+  ],
+  "doi": "10.4049/jimmunol.0903670",
+  "url": "https://openalex.org/W1603640418",
+  "provider": "openalex",
+  "year": 2010,
+  "venue": "The Journal of Immunology",
+  "citation_count": 1549,
+  "abstract": "The aryl hydrocarbon receptor (AHR) has been known to cause immunosuppression after binding dioxin. It has recently been discovered that the receptor may be central to T cell differentiation into FoxP3(+) regulatory T cells (Tregs) versus Th17 cells. In this paper, we demonstrate that kynurenine, the first breakdown product in the IDO-dependent tryptophan degradation pathway, activates the AHR. We furthermore show that this activation leads to AHR-dependent Treg generation. We additionally investigate the dependence of TGF-beta on the AHR for optimal Treg generation, which may be secondary to the upregulation of this receptor that is seen in T cells postexposure to TGF-beta. These results shed light on the relationship of IDO to the generation of Tregs, in addition to highlighting the central importance of the AHR in T cell differentiation. All tissues and cells were derived from mice.",
+  "type": "academic",
+  "pdf_url": "https://journals.aai.org/jimmunol/article-pdf/185/6/3190/1331310/0903670.pdf"
+}

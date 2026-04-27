@@ -1,0 +1,29 @@
+{
+  "id": "src-200",
+  "title": "Determining fragility and robustness to missing data in binary outcome meta-analyses, illustrated with conflicting associations between vitamin D and cancer mortality",
+  "authors": [
+    "Grimes, David Robert"
+  ],
+  "year": 2025,
+  "abstract": "Abstract\nMeta-analysis is a vital component in clinical decision making, but previous work found binary event meta-analytic results can be fragile, affected by only a small number of patients in specific trials. Meta-analyses can also miss literature, and a method for estimating how much additional unseen data would flip results would be a useful tool. This works establishes a complementary and generalisable definition of meta-analytic fragility, based on Ellipse of Insignificance (EOI) and Region of Attainable Redaction (ROAR) methods originally developed for dichotomous outcome trials. This method does not require trial-specific alterations to estimate fragility and yields a general method to estimate robustness of a meta-analysis to data redaction or addition of hypothetical trial outcomes. This method is applied to 3 meta-analyses with conflicting findings on the association of vitamin D supplementation and cancer mortality. A full meta-analysis of all trials cited in the 3 meta-analyses yielded no association between vitamin D supplementation and cancer mortality. Using the method outlined here, it was determined that meta-analytic fragility was high in all cases, with recoding of just 5 patients in the full cohort of 133,262 patients was enough to cross the significance threshold. Small amounts of redacted or non-included data also had substantial impact on each meta-analysis, with addition of just 3 hypothetical patients to an ostensibly significant meta-analyses (N = 38,538) enough to yield a null result. This method for analytical fragility is complementary to previous investigations that suggested meta-analyses are frequently fragile. It further shows that merely increasing the sample size is not an assurance against fragility. Caution should be advised when interpreting the results of meta-analyses and conflicting results may stem from inherent fragility and should be carefully employed.",
+  "doi": "10.1101/2025.08.15.25333793",
+  "url": "https://doi.org/10.1101/2025.08.15.25333793",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T20:58:16.819428+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-200.md",
+  "quality_details": {
+    "content_length": 31423,
+    "alpha_ratio": 0.743,
+    "sentence_count": 244,
+    "reasons": []
+  }
+}

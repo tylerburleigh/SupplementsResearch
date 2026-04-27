@@ -1,0 +1,27 @@
+{
+  "id": "src-346",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "",
+  "pdf_url": "https://sites.duke.edu/cicu/files/2019/11/PROVE-IT.pdf",
+  "venue": "",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "",
+  "fetched_at": "2026-04-24T01:42:26.051854+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-346.md",
+  "quality_details": {
+    "content_length": 38270,
+    "alpha_ratio": 0.733,
+    "sentence_count": 403,
+    "reasons": []
+  }
+}

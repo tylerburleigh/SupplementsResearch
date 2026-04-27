@@ -1,0 +1,31 @@
+{
+  "id": "src-106",
+  "title": "Prophylactic nicotinamide mononucleotide (NMN) mitigates CSDS-induced depressive-like behaviors in mice via preserving of ATP level in the mPFC.",
+  "authors": [
+    "Deng, Jialin",
+    "Tong, Xiaohan",
+    "Huang, Yanhua",
+    "Du, Zean",
+    "Sun, Ruizhe",
+    "Zheng, Yantao",
+    "Ma, Ruijia",
+    "Ding, Wanzhao",
+    "Zhang, Ying",
+    "Li, Junfeng",
+    "Sun, Ying",
+    "Chen, Chunxiao",
+    "Zhang, Ji-Chun",
+    "Song, Li",
+    "Liu, Bin",
+    "Lin, Song"
+  ],
+  "doi": "10.1016/j.biopha.2024.116850",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38834006",
+  "provider": "pubmed",
+  "year": 2024,
+  "venue": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+  "citation_count": 0,
+  "abstract": "Depression is a prevalent psychiatric disorder with accumulating evidence implicating dysregulation of extracellular adenosine triphosphate (ATP) levels in the medial prefrontal cortex (mPFC). It remains unclear whether facilitating endogenous ATP production and subsequently increasing extracellular ATP level in the mPFC can exert a prophylactic effect against chronic social defeat stress (CSDS)-induced depressive-like behaviors and enhance stress resilience. Here, we found that nicotinamide mononucleotide (NMN) treatment effectively elevated nicotinamide adenine dinucleotide (NAD+) biosynthesis and extracellular ATP levels in the mPFC. Moreover, both the 2-week intraperitoneal (i.p.) injection and 3-week oral gavage of NMN prior to exposure to CSDS effectively prevented the development of depressive-like behavior in mice. These protective effects were accompanied with the preservation of both NAD+ biosynthesis and extracellular ATP level in the mPFC. Furthermore, catalyzing ATP hydrolysis by mPFC injection of the ATPase apyrase negated the prophylactic effects of NMN on CSDS-induced depressive-like behaviors. Prophylactic NMN treatment also prevented the reduction in GABAergic inhibition and the increase in excitability in mPFC neurons projecting to the lateral habenula (LHb). Collectively, these findings demonstrate that the prophylactic effects of NMN on depressive-like behaviors are mediated by preventing extracellular ATP loss in the mPFC, which highlights the potential of NMN supplementation as a novel approach for protecting and preventing stress-induced depression in susceptible individuals.",
+  "type": "academic",
+  "pdf_url": ""
+}

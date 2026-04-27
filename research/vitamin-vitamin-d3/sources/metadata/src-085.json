@@ -1,0 +1,16 @@
+{
+  "id": "src-085",
+  "title": "Nutrition, immunity and COVID-19",
+  "authors": [
+    "Calder, Philip C."
+  ],
+  "doi": "10.1136/bmjnph-2020-000085",
+  "url": "https://openalex.org/W3028398368",
+  "provider": "openalex",
+  "year": 2020,
+  "venue": "BMJ Nutrition Prevention & Health",
+  "citation_count": 533,
+  "abstract": "The immune system protects the host from pathogenic organisms (bacteria, viruses, fungi, parasites). To deal with this array of threats, the immune system has evolved to include a myriad of specialised cell types, communicating molecules and functional responses. The immune system is always active, carrying out surveillance, but its activity is enhanced if an individual becomes infected. This heightened activity is accompanied by an increased rate of metabolism, requiring energy sources, substrates for biosynthesis and regulatory molecules, which are all ultimately derived from the diet. A number of vitamins (A, B<sub>6</sub>, B<sub>12</sub>, folate, C, D and E) and trace elements (zinc, copper, selenium, iron) have been demonstrated to have key roles in supporting the human immune system and reducing risk of infections. Other essential nutrients including other vitamins and trace elements, amino acids and fatty acids are also important. Each of the nutrients named above has roles in supporting antibacterial and antiviral defence, but zinc and selenium seem to be particularly important for the latter. It would seem prudent for individuals to consume sufficient amounts of essential nutrients to support their immune system to help them deal with pathogens should they become infected. The gut microbiota plays a role in educating and regulating the immune system. Gut dysbiosis is a feature of disease including many infectious diseases and has been described in COVID-19. Dietary approaches to achieve a healthy microbiota can also benefit the immune system. Severe infection of the respiratory epithelium can lead to acute respiratory distress syndrome (ARDS), characterised by excessive and damaging host inflammation, termed a cytokine storm. This is seen in cases of severe COVID-19. There is evidence from ARDS in other settings that the cytokine storm can be controlled by n-3 fatty acids, possibly through their metabolism to specialised pro-resolving mediators.",
+  "type": "academic",
+  "pdf_url": "https://nutrition.bmj.com/content/bmjnph/3/1/74.full.pdf"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "src-068",
+  "title": "Transferrin Saturation, Serum Iron, and Ferritin in Heart Failure: Prognostic Significance and Proteomic Associations.",
+  "authors": [
+    "Gan, Sushrima",
+    "Azzo, Joe David",
+    "Zhao, Lei",
+    "Pourmussa, Bianca",
+    "Dib, Marie Joe",
+    "Salman, Oday",
+    "Erten, Ozgun",
+    "Ebert, Christina",
+    "Richards, A Mark",
+    "Javaheri, Ali",
+    "Mann, Douglas L",
+    "Rietzschel, Ernst",
+    "Zamani, Payman",
+    "van Empel, Vanessa",
+    "Cappola, Thomas P",
+    "Chirinos, Julio A"
+  ],
+  "doi": "10.1161/circheartfailure.124.011728",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39831311",
+  "provider": "pubmed",
+  "year": 2025,
+  "venue": "Circulation. Heart failure",
+  "citation_count": 0,
+  "abstract": "BACKGROUND: Iron deficiency (ID) is currently defined as a serum ferritin level <100 or 100 to 299 ng/mL with transferrin saturation (TSAT) <20%. Serum ferritin and TSAT are currently used to define absolute and functional ID. However, individual markers of iron metabolism may be more informative than current arbitrary definitions of ID.\nMETHODS: We assessed prognostic associations of ferritin, serum iron, and TSAT among 2050 participants with heart failure (HF) with reduced/mid-range (n=1821) or preserved (n=229) left ventricular ejection fraction enrolled in the PHFS (Penn HF Study), a prospective cohort study. We measured 4928 plasma proteins using an aptamer-based assay (SOMAScanv4) and assessed prognostic and proteomic associations of markers of iron metabolism.\nRESULTS: Ferritin concentrations were not associated with outcomes, whereas low TSAT and serum iron were associated with the risk of all-cause death (TSAT: standardized hazard ratio, 0.84 [95% CI, 0.76-0.93]; P=0.001; serum iron: standardized hazard ratio, 0.87 [95% CI, 0.79-0.96]; P=0.007). Similarly, TSAT was associated with the risk of death or HF-related admission (standardized hazard ratio, 0.89 [95% CI, 0.83-0.95]; P=0.0006). Significant interactions between TSAT and HF with preserved ejection fraction status were found such that TSAT was more strongly associated with the risk of death and death or HF-related admission in HF with preserved ejection fraction. We identified 359 proteins associated with TSAT, including TFRC (transferrin receptor protein; β, -0.455; P<0.0001) and CRP (C-reactive protein; β, -0.355; P<0.0001). Pathway analyses demonstrated associations with lipid metabolism, complement activation, and inflammation. In contrast to the robust associations between TSAT and outcomes, ID and absolute ID defined by current criteria were not associated with death or death or HF-related admission. TSAT was associated with outcomes regardless of the presence of functional versus absolute ID.\nCONCLUSIONS: Low TSAT, but not ferritin concentrations, is significantly associated with adverse outcomes in HF. Low TSAT is more strongly associated with outcomes in HF with preserved ejection fraction. Pathways related to inflammation and lipid metabolism are associated with low TSAT in HF.",
+  "type": "academic",
+  "pdf_url": ""
+}

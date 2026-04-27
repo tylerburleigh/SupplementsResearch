@@ -1,0 +1,27 @@
+{
+  "id": "src-150",
+  "title": "Selecting instruments for Mendelian randomization in the wake of genome-wide association studies",
+  "authors": [
+    "Swerdlow, Daniel I.",
+    "Kuchenbaecker, Karoline",
+    "Shah, Sonia",
+    "Sofat, Reecha",
+    "Holmes, Michael V.",
+    "White, Jon",
+    "Mindell, Jennifer S.",
+    "Kivimäki, Mika",
+    "Brunner, Eric J.",
+    "Whittaker, John C.",
+    "Casas, Juan P.",
+    "Hingorani, Aroon D."
+  ],
+  "doi": "10.1093/ije/dyw088",
+  "url": "https://openalex.org/W2462634178",
+  "provider": "openalex",
+  "year": 2016,
+  "venue": "International Journal of Epidemiology",
+  "citation_count": 428,
+  "abstract": "Mendelian randomization (MR) studies typically assess the pathogenic relevance of environmental exposures or disease biomarkers, using genetic variants that instrument these exposures. The approach is gaining popularity-our systematic review reveals a greater than 10-fold increase in MR studies published between 2004 and 2015. When the MR paradigm was first proposed, few biomarker- or exposure-related genetic variants were known, most having been identified by candidate gene studies. However, genome-wide association studies (GWAS) are now providing a rich source of potential instruments for MR analysis. Many early reviews covering the concept, applications and analytical aspects of the MR technique preceded the surge in GWAS, and thus the question of how best to select instruments for MR studies from the now extensive pool of available variants has received insufficient attention. Here we focus on the most common category of MR studies-those concerning disease biomarkers. We consider how the selection of instruments for MR analysis from GWAS requires consideration of: the assumptions underlying the MR approach; the biology of the biomarker; the genome-wide distribution, frequency and effect size of biomarker-associated variants (the genetic architecture); and the specificity of the genetic associations. Based on this, we develop guidance that may help investigators to plan and readers interpret MR studies.",
+  "type": "academic",
+  "pdf_url": "https://academic.oup.com/ije/article-pdf/45/5/1600/24170562/dyw088.pdf"
+}

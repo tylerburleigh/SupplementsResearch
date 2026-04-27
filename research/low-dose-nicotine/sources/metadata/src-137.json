@@ -1,0 +1,22 @@
+{
+  "id": "src-137",
+  "title": "Modulation of Mitochondrial Membrane Potential and ROS Generation by Nicotinamide in a Manner Independent of SIRT1 and Mitophagy",
+  "authors": [
+    "Song, Seon Beom",
+    "Jang, Soyoung",
+    "Kang, Hyun Tae",
+    "Wei, Bie",
+    "Jeoun, Un‐woo",
+    "Yoon, Gye Soon",
+    "Hwang, Eun Seong"
+  ],
+  "doi": "10.14348/molcells.2017.0081",
+  "url": "https://openalex.org/W2763738314",
+  "provider": "openalex",
+  "year": 2017,
+  "venue": "Molecules and Cells",
+  "citation_count": 112,
+  "abstract": "Nicotinamide (NAM) plays essential roles in physiology through facilitating NAD<sup>+</sup> redox homeostasis. Importantly, at high doses, it protects cells under oxidative stresses, and has shown therapeutic effectiveness in a variety of disease conditions. In our previous studies, NAM lowered reactive oxygen species (ROS) levels and extended cellular life span in primary human cells. In the treated cells, levels of NAD<sup>+</sup>/NADH and SIRT1 activity increased, while mitochondrial content decreased through autophagy activation. The remaining mitochondria were marked with low superoxide levels and high membrane potentials (Δψ<sub>m</sub>); we posited that the treatment of NAM induced an activation of mitophagy that is selective for depolarized mitochondria, which produce high levels of ROS. However, evidence for the selective mitophagy that is mediated by SIRT1 has never been provided. This study sought to explain the mechanisms by which NAM lowers ROS levels and increases Δψ<sub>m</sub>. Our results showed that NAM and SIRT1 activation exert quite different effects on mitochondrial physiology. Furthermore, the changes in ROS and Δψ<sub>m</sub> were not found to be mediated through autophagy or SIRT activation. Rather, NAM suppressed superoxide generation via a direct reduction of electron transport, and increased Δψ<sub>m</sub> via suppression of mitochondrial permeability transition pore formation. Our results dissected the effects of cellular NAD<sup>+</sup> redox modulation, and emphasized the importance of the NAD<sup>+</sup>/NADH ratio in the mitochondria as well as the cytosol in maintaining mitochondrial quality.",
+  "type": "academic",
+  "pdf_url": "http://www.molcells.org/journal/download_pdf.php?doi=10.14348/molcells.2017.0081"
+}

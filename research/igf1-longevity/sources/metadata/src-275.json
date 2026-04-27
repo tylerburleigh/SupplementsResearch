@@ -1,0 +1,21 @@
+{
+  "id": "src-275",
+  "title": "Malnutrition and Frailty Are Associated with a Higher Risk of Prolonged Hospitalization and Mortality in Hospitalized Older Adults",
+  "authors": [
+    "Tseng, Hsiang-Kuang",
+    "Cheng, Yun-Ju",
+    "Yu, Hui-Kung",
+    "Chou, Kuan-Ting",
+    "Pang, C.",
+    "Hu, Gwo-Chi"
+  ],
+  "doi": "10.3390/nu17020221",
+  "url": "https://www.semanticscholar.org/paper/c23b2a6362b8e985999e1682a9766bb975ebf62d",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "Nutrients",
+  "citation_count": 18,
+  "abstract": "Background/Objectives: Malnutrition and frailty are independent risk factors of prolonged hospitalization and mortality, respectively. However, the combined association of these conditions with the risk of prolonged hospitalization and mortality in hospitalized elderly patients remains unclear. Our object was to investigate the combined association of malnutrition and frailty on the risk of prolonged hospitalization and mortality in hospitalized elderly patients. Methods: The current study was a retrospective analysis of 470 patients admitted to the geriatric care unit of a tertiary hospital in Taiwan between 1 August 2019 and 31 March 2023. The Mini Nutritional Assessment-short form and Clinical Frailty Scale were used as evaluation tools for nutritional and frailty status, respectively. Patients were divided into four groups based on nutritional and frailty status. The association between these conditions and the risk of prolonged hospitalization and mortality was investigated using multivariate logistic and Cox proportional hazard models and adjusting for potential confounders. Results: Among 470 patients, 144 (31%) exhibited no malnutrition risk or frailty, 146 (31%) exhibited malnutrition risk but no frailty, 46 (10%) exhibited frailty but no malnutrition risk, and 134 (28%) exhibited both malnutrition risk and frailty. Compared to patients with neither condition, those with both conditions had higher risks of prolonged hospitalization (odds ratio 3.23, 95% confidence interval [CI] 1.68–6.12) and mortality (hazard ratio 4.33; 95% CI 2.01–9.34). Conclusions: The co-occurrence of malnutrition and frailty has significant detrimental impacts on the risk of prolonged hospitalization and mortality in hospitalized older adults. The findings of this study emphasize the importance of early screening and intervention for malnutrition and frailty among hospitalized elderly patients.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.3390/nu17020221"
+}

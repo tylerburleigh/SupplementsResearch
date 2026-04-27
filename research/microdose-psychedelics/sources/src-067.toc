@@ -1,0 +1,95 @@
+3	2	Contributors
+4	2	Details
+18	2	Suggested Citation
+19	2	Buy This Book
+20	2	Find Related Titles
+89	2	2022. Exploring psychedelics and entactogens as treatments for psychiatric
+148	2	Exploring Psychedelics And Entactogens As
+184	2	Forum On Neuroscience And
+294	2	2 HISTORY AND CURRENT STATUS OF PSYCHEDELICS
+295	2	And Entactogens For The Treatment Of
+299	2	3 MECHANISMS OF ACTION AND KEY RESEARCH GAPS
+305	2	4 ADVANCING CLINICAL DEVELOPMENT: CHALLENGES
+314	2	5 ANTICIPATING IMPLEMENTATION TO GUIDE CLINICAL
+325	2	Appendixes
+417	2	2 EXPLORING PSYCHEDELICS AND ENTACTOGENS AS TREATMENTS
+445	2	The National Institutes Of Health Examines
+446	2	Research Opportunities And Gaps
+457	2	5  For information on the NIH Workshop on Psychedelics as Therapeutics: Gaps, Chal-
+494	2	4 EXPLORING PSYCHEDELICS AND ENTACTOGENS AS TREATMENTS
+530	2	Workshop Objectives
+585	2	6 EXPLORING PSYCHEDELICS AND ENTACTOGENS AS TREATMENTS
+587	2	Organization Of The Proceedings
+628	2	Highlights
+659	2	8 EXPLORING PSYCHEDELICS AND ENTACTOGENS AS TREATMENTS
+729	2	The Psychedelic Psychopharmacology Paradigm
+750	2	10 EXPLORING PSYCHEDELICS AND ENTACTOGENS AS TREATMENTS
+784	2	Personal Experiences Of Psychedelic Treatment
+842	2	12 EXPLORING PSYCHEDELICS AND ENTACTOGENS AS TREATMENTS
+933	2	Highlights
+964	2	16 EXPLORING PSYCHEDELICS AND ENTACTOGENS AS TREATMENTS
+1001	2	Molecular Mechanisms
+1055	2	18 EXPLORING PSYCHEDELICS AND ENTACTOGENS AS TREATMENTS
+1147	2	20 EXPLORING PSYCHEDELICS AND ENTACTOGENS AS TREATMENTS
+1220	2	22 EXPLORING PSYCHEDELICS AND ENTACTOGENS AS TREATMENTS
+1224	2	Psychosocial Contexts As
+1225	2	Essential Treatment Elements
+1288	2	24 EXPLORING PSYCHEDELICS AND ENTACTOGENS AS TREATMENTS
+1350	2	Research Gaps And Opportunities
+1380	2	26 EXPLORING PSYCHEDELICS AND ENTACTOGENS AS TREATMENTS
+1473	2	28 EXPLORING PSYCHEDELICS AND ENTACTOGENS AS TREATMENTS
+1567	2	30 EXPLORING PSYCHEDELICS AND ENTACTOGENS AS TREATMENTS
+1606	2	Highlights
+1636	2	32 EXPLORING PSYCHEDELICS AND ENTACTOGENS AS TREATMENTS
+1700	2	Confounders To Efficacy Assessments
+1716	2	34 EXPLORING PSYCHEDELICS AND ENTACTOGENS AS TREATMENTS
+1807	2	36 EXPLORING PSYCHEDELICS AND ENTACTOGENS AS TREATMENTS
+1899	2	38 EXPLORING PSYCHEDELICS AND ENTACTOGENS AS TREATMENTS
+1925	2	With Mdma And Psilocybin
+1990	2	40 EXPLORING PSYCHEDELICS AND ENTACTOGENS AS TREATMENTS
+2062	2	42 EXPLORING PSYCHEDELICS AND ENTACTOGENS AS TREATMENTS
+2153	2	44 EXPLORING PSYCHEDELICS AND ENTACTOGENS AS TREATMENTS
+2162	2	Highlights
+2192	2	46 EXPLORING PSYCHEDELICS AND ENTACTOGENS AS TREATMENTS
+2243	2	Frameworks For Accessible And
+2244	2	Equitable Implementation
+2281	2	48 EXPLORING PSYCHEDELICS AND ENTACTOGENS AS TREATMENTS
+2336	2	Building Trust With Marginalized Communities
+2374	2	50 EXPLORING PSYCHEDELICS AND ENTACTOGENS AS TREATMENTS
+2384	2	Ensuring Safe And Ethical Research
+2385	2	And Care Practices
+2468	2	52 EXPLORING PSYCHEDELICS AND ENTACTOGENS AS TREATMENTS
+2559	2	54 EXPLORING PSYCHEDELICS AND ENTACTOGENS AS TREATMENTS
+2606	2	Highlights
+2635	2	56 EXPLORING PSYCHEDELICS AND ENTACTOGENS AS TREATMENTS
+2672	2	Clinical Challenges For Psychedelic Therapy
+2724	2	58 EXPLORING PSYCHEDELICS AND ENTACTOGENS AS TREATMENTS
+2811	2	60 EXPLORING PSYCHEDELICS AND ENTACTOGENS AS TREATMENTS
+2905	2	62 EXPLORING PSYCHEDELICS AND ENTACTOGENS AS TREATMENTS
+2987	2	Concluding Remarks
+2993	2	64 EXPLORING PSYCHEDELICS AND ENTACTOGENS AS TREATMENTS
+3031	2	References
+3036	2	66 EXPLORING PSYCHEDELICS AND ENTACTOGENS AS TREATMENTS
+3148	2	68 EXPLORING PSYCHEDELICS AND ENTACTOGENS AS TREATMENTS
+3176	2	2019. Emotional breakthrough and psychedelics: Validation of the emotional break-
+3240	2	1. Review the current state of knowledge regarding the mechanisms of
+3243	2	2. Discuss the current evidence on the clinical efficacy of psychedelics
+3255	2	72 EXPLORING PSYCHEDELICS AND ENTACTOGENS AS TREATMENTS
+3257	2	3. Consider the role of biomarkers to target treatments, stratify
+3259	2	4. Explore appropriate clinical trial design, the need for standardiza-
+3264	2	6. Explore questions of biomedical ethics such as those regarding
+3268	2	7. Discuss open research questions, policy needs, and opportunities
+3284	2	2. Provide a high-level overview on the history of psychedelic medi-
+3286	2	3. Highlight testimonials from individuals who can speak to the sub-
+3309	2	1. Review the state of knowledge regarding the acute and enduring
+3330	2	74 EXPLORING PSYCHEDELICS AND ENTACTOGENS AS TREATMENTS
+3342	2	1. Explore critical research gaps that need to be addressed to advance
+3370	2	1. Provide an overview of the current evidence of clinical efficacy
+3386	2	1.  How should clinical trial designs evaluate the impact of the
+3390	2	2.  How can clinical trial design address challenges related
+3406	2	76 EXPLORING PSYCHEDELICS AND ENTACTOGENS AS TREATMENTS
+3419	2	1. Identify anticipated implementation issues for psychedelic medicines
+3423	2	2. How does the legal status of these agents shape the path to clinical
+3425	2	3. What are the implications of possible abuse, misuse, and off-label
+3428	2	4. What special bioethical and patient protection risks may arise
+3455	2	2. Discuss critical research gaps, next steps, and promising opportuni-

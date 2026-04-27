@@ -1,0 +1,26 @@
+{
+  "id": "src-256",
+  "title": "The role of autophagy in bone metabolism and clinical significance",
+  "authors": [
+    "Wang, Jing",
+    "Zhang, Yi",
+    "Cao, Jin",
+    "Wang, Yi",
+    "Anwar, Nadia",
+    "Zhang, Zihan",
+    "Zhang, Dingmei",
+    "Ma, Yaping",
+    "Xiao, Yin",
+    "Xiao, Lan",
+    "Wang, Xin"
+  ],
+  "doi": "10.1080/15548627.2023.2186112",
+  "url": "https://openalex.org/W4322753659",
+  "provider": "openalex",
+  "year": 2023,
+  "venue": "Autophagy",
+  "citation_count": 273,
+  "abstract": "The skeletal system is the basis of the vertebral body composition, which affords stabilization sites for muscle attachment, protects vital organs, stores mineral ions, supplies places to the hematopoietic system, and participates in complex endocrine and immune system. Not surprisingly, bones are constantly reabsorbed, formed, and remodeled under physiological conditions. Once bone metabolic homeostasis is interrupted (including inflammation, tumors, fractures, and bone metabolic diseases), the body rapidly initiates bone regeneration to maintain bone tissue structure and quality. Macroautophagy/autophagy is an essential metabolic process in eukaryotic cells, which maintains metabolic energy homeostasis and plays a vital role in bone regeneration by controlling molecular degradation and organelle renewal. One relatively new observation is that mesenchymal cells, osteoblasts, osteoclasts, osteocytes, chondrocytes, and vascularization process exhibit autophagy, and the molecular mechanisms and targets involved are being explored and updated. The role of autophagy is also emerging in degenerative diseases (intervertebral disc degeneration [IVDD], osteoarthritis [OA], etc.) and bone metabolic diseases (osteoporosis [OP], osteitis deformans, osteosclerosis). The use of autophagy regulators to modulate autophagy has benefited bone regeneration, including MTOR (mechanistic target of rapamycin kinase) inhibitors, AMPK activators, and emerging phytochemicals. The application of biomaterials (especially nanomaterials) to trigger autophagy is also an attractive research direction, which can exert superior therapeutic properties from the material-loaded molecules/drugs or the material's properties such as shape, roughness, surface chemistry, etc. All of these have essential clinical significance with the discovery of autophagy associated signals, pathways, mechanisms, and treatments in bone diseases in the future.<b>Abbreviations:</b> Δψm: mitochondrial transmembrane potential AMPK: AMP-activated protein kinase ARO: autosomal recessive osteosclerosis ATF4: activating transcription factor 4 ATG: autophagy-related β-ECD: β-ecdysone BMSC: bone marrow mesenchymal stem cell ER: endoplasmic reticulum FOXO: forkhead box O GC: glucocorticoid HIF1A/HIF-1α: hypoxia inducible factor 1 subunit alpha HSC: hematopoietic stem cell HSP: heat shock protein IGF1: insulin like growth factor 1 IL1B/IL-1β: interleukin 1 beta IVDD: intervertebral disc degradation LPS: lipopolysaccharide MAPK: mitogen-activated protein kinase MSC: mesenchymal stem cell MTOR: mechanistic target of rapamycin kinase NP: nucleus pulposus NPWT: negative pressure wound therapy OA: osteoarthritis OP: osteoporosis PTH: parathyroid hormone ROS: reactive oxygen species SIRT1: sirtuin 1 SIRT3: sirtuin 3 SQSTM1/p62: sequestosome 1 TNFRSF11B/OPG: TNF receptor superfamily member 11b TNFRSF11A/RANK: tumor necrosis factor receptor superfamily, member 11a TNFSF11/RANKL: tumor necrosis factor (ligand) superfamily, member 11 TSC1: tuberous sclerosis complex 1 ULK1: unc-51 like autophagy activating kinase 1.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.1080/15548627.2023.2186112"
+}

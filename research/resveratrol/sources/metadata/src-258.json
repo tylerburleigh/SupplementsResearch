@@ -1,0 +1,23 @@
+{
+  "id": "src-258",
+  "title": "Butyrate Improves Insulin Sensitivity and Increases Energy Expenditure in Mice",
+  "authors": [
+    "Gao, Zhan‐Guo",
+    "Yin, Jun",
+    "Zhang, Jin",
+    "Ward, Robert E.",
+    "Martin, Roy J.",
+    "Lefevre, Michael",
+    "Cefalu, William T.",
+    "Ye, Jianping"
+  ],
+  "doi": "10.2337/db08-1637",
+  "url": "https://openalex.org/W2101209169",
+  "provider": "openalex",
+  "year": 2009,
+  "venue": "Diabetes",
+  "citation_count": 2161,
+  "abstract": "OBJECTIVE We examined the role of butyric acid, a short-chain fatty acid formed by fermentation in the large intestine, in the regulation of insulin sensitivity in mice fed a high-fat diet. RESEARCH DESIGN AND METHODS In dietary-obese C57BL/6J mice, sodium butyrate was administrated through diet supplementation at 5% wt/wt in the high-fat diet. Insulin sensitivity was examined with insulin tolerance testing and homeostasis model assessment for insulin resistance. Energy metabolism was monitored in a metabolic chamber. Mitochondrial function was investigated in brown adipocytes and skeletal muscle in the mice. RESULTS On the high-fat diet, supplementation of butyrate prevented development of insulin resistance and obesity in C57BL/6 mice. Fasting blood glucose, fasting insulin, and insulin tolerance were all preserved in the treated mice. Body fat content was maintained at 10% without a reduction in food intake. Adaptive thermogenesis and fatty acid oxidation were enhanced. An increase in mitochondrial function and biogenesis was observed in skeletal muscle and brown fat. The type I fiber was enriched in skeletal muscle. Peroxisome proliferator–activated receptor-γ coactivator-1α expression was elevated at mRNA and protein levels. AMP kinase and p38 activities were elevated. In the obese mice, supplementation of butyrate led to an increase in insulin sensitivity and a reduction in adiposity. CONCLUSIONS Dietary supplementation of butyrate can prevent and treat diet-induced insulin resistance in mouse. The mechanism of butyrate action is related to promotion of energy expenditure and induction of mitochondria function.",
+  "type": "academic",
+  "pdf_url": "https://diabetes.diabetesjournals.org/content/diabetes/58/7/1509.full.pdf"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "src-137",
+  "title": "Suppression of type II collagen-induced arthritis by intragastric administration of soluble type II collagen.",
+  "authors": [
+    "Nagler‐Anderson, Cathryn",
+    "Bober, Loretta A.",
+    "Robinson, M. E.",
+    "Siskind, Gregory W.",
+    "Thorbecke, G. J."
+  ],
+  "doi": "10.1073/pnas.83.19.7443",
+  "url": "https://openalex.org/W1992790199",
+  "provider": "openalex",
+  "year": 1986,
+  "venue": "Proceedings of the National Academy of Sciences",
+  "citation_count": 353,
+  "abstract": "Although oral administration of protein antigens may lead to specific immunologic unresponsiveness, this method of immunoregulation has not been applied to models of autoimmune disease. Type II collagen-induced arthritis is an animal model of polyarthritis induced in susceptible mice and rats by immunization with type II collagen, a major component of cartilage. Intragastric administration of soluble type II collagen, prior to immunization with type II collagen in adjuvant, suppresses the incidence of collagen-induced arthritis. Administration of denatured type II collagen has no observable effect on the incidence or severity of the disease. The overall magnitude of the antibody response is not significantly reduced in collagen-fed mice as compared to controls. While the isotype distribution of the anti-collagen antibodies is similar in the two groups, there is a tendency toward reduced IgG2 responses in the collagen-fed mice.",
+  "type": "academic",
+  "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/386734"
+}

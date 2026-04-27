@@ -1,0 +1,25 @@
+{
+  "id": "src-232",
+  "title": "Cellular senescence in brain aging and cognitive decline",
+  "authors": [
+    "Shafqat, Areez",
+    "Khan, Saifullah",
+    "Omer, Mohamed H.",
+    "Niaz, Mahnoor",
+    "Albalkhi, Ibrahem",
+    "Alkattan, Khaled",
+    "Yaqinuddin, Ahmed",
+    "Tchkonia, Tamar",
+    "Kirkland, James L.",
+    "Hashmi, Shahrukh K."
+  ],
+  "doi": "10.3389/fnagi.2023.1281581",
+  "url": "https://openalex.org/W4388945505",
+  "provider": "openalex",
+  "year": 2023,
+  "venue": "Frontiers in Aging Neuroscience",
+  "citation_count": 61,
+  "abstract": "Cellular senescence is a biological aging hallmark that plays a key role in the development of neurodegenerative diseases. Clinical trials are currently underway to evaluate the effectiveness of senotherapies for these diseases. However, the impact of senescence on brain aging and cognitive decline in the absence of neurodegeneration remains uncertain. Moreover, patient populations like cancer survivors, traumatic brain injury survivors, obese individuals, obstructive sleep apnea patients, and chronic kidney disease patients can suffer age-related brain changes like cognitive decline prematurely, suggesting that they may suffer accelerated senescence in the brain. Understanding the role of senescence in neurocognitive deficits linked to these conditions is crucial, especially considering the rapidly evolving field of senotherapeutics. Such treatments could help alleviate early brain aging in these patients, significantly reducing patient morbidity and healthcare costs. This review provides a translational perspective on how cellular senescence plays a role in brain aging and age-related cognitive decline. We also discuss important caveats surrounding mainstream senotherapies like senolytics and senomorphics, and present emerging evidence of hyperbaric oxygen therapy and immune-directed therapies as viable modalities for reducing senescent cell burden.",
+  "type": "academic",
+  "pdf_url": "https://www.frontiersin.org/articles/10.3389/fnagi.2023.1281581/pdf?isPublishedV2=False"
+}

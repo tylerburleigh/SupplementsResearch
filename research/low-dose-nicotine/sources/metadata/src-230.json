@@ -1,0 +1,17 @@
+{
+  "id": "src-230",
+  "title": "Chronic Glutamate Toxicity in Neurodegenerative Diseases—What is the Evidence?",
+  "authors": [
+    "Lewerenz, Jan",
+    "Maher, Pamela"
+  ],
+  "doi": "10.3389/fnins.2015.00469",
+  "url": "https://openalex.org/W2212369426",
+  "provider": "openalex",
+  "year": 2015,
+  "venue": "Frontiers in Neuroscience",
+  "citation_count": 707,
+  "abstract": "Together with aspartate, glutamate is the major excitatory neurotransmitter in the brain. Glutamate binds and activates both ligand-gated ion channels (ionotropic glutamate receptors) and a class of G-protein coupled receptors (metabotropic glutamate receptors). Although the intracellular glutamate concentration in the brain is in the millimolar range, the extracellular glutamate concentration is kept in the low micromolar range by the action of excitatory amino acid transporters that import glutamate and aspartate into astrocytes and neurons. Excess extracellular glutamate may lead to excitotoxicity in vitro and in vivo in acute insults like ischemic stroke via the overactivation of ionotropic glutamate receptors. In addition, chronic excitotoxicity has been hypothesized to play a role in numerous neurodegenerative diseases including amyotrophic lateral sclerosis, Alzheimer's disease and Huntington's disease. Based on this hypothesis, a good deal of effort has been devoted to develop and test drugs that either inhibit glutamate receptors or decrease extracellular glutamate. In this review, we provide an overview of the different pathways that are thought to lead to an over-activation of the glutamatergic system and glutamate toxicity in neurodegeneration. In addition, we summarize the available experimental evidence for glutamate toxicity in animal models of neurodegenerative diseases.",
+  "type": "academic",
+  "pdf_url": "https://www.frontiersin.org/articles/10.3389/fnins.2015.00469/pdf"
+}

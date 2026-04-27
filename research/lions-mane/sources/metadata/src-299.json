@@ -1,0 +1,18 @@
+{
+  "id": "src-299",
+  "title": "Pulsed Electric Field Technology for Recovery of Proteins from Waste Plant Resources and Deformed Mushrooms: A Review",
+  "authors": [
+    "Ramaswamy, R.",
+    "Krishnan, Sivaneasan Bala",
+    "Leong, Susanna Su Jan"
+  ],
+  "doi": "10.3390/pr12020342",
+  "url": "https://openalex.org/W4391565834",
+  "provider": "openalex",
+  "year": 2024,
+  "venue": "Processes",
+  "citation_count": 31,
+  "abstract": "Proteins are complex molecules, which play a vital role in our body’s function, the building of tissues, and the regulation of metabolic activity. They are crucial to children’s growth and serve as a key component in the body’s process of distributing oxygen. Proteins fuel the body by supplying the required nutrition and energy. Currently, there is an increasing demand for proteins on large scales with no detrimental effects. The adverse health effects of animal proteins have resulted in a growing preference for plant-based proteins, which offer a healthier daily dosage. Valuable proteins can be extracted from various parts of the plant, including stems, leaves, seeds, fruits, vegetables, and roots. Notably, protein extraction from waste plant and mushroom parts minimizes the product wastage and improves the overall production to support economic sustainability. There are several protein extraction techniques available, where the replacement of non-thermal methods with thermal ones is promising nowadays due to the appreciable retainment of protein quality. Pulsed Electric Field (PEF) technology is one of the most efficient non-thermal tools used to assist with extracting these proteins at the minimum processing time and energy consumption when compared with thermal techniques. It relies on the application of a high-voltage pulse between two electrodes to treat samples inside the treatment chamber. While electrode shapes and treatment chamber designs primarily govern the electric field’s application, optimizing process parameters such as electric field strength, pulse width, number of pulses, and pulse waveshape assists in obtaining a desirable enhancement in the protein yield. The primary objective of this review is to explain the PEF-assisted protein extraction process applicable to waste plant parts and deformed mushrooms. While PEF is not a novel concept, utilizing it as a pre-extraction treatment to the aforementioned waste resources would aid in improving the production of value-added protein products economically. So far, PEF has shown immense promise in assisting with protein extraction studies, but requires further research in order to establish this area for large-scale industrial applications.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2227-9717/12/2/342/pdf?version=1707210470"
+}

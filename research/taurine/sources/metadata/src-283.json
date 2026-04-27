@@ -1,0 +1,23 @@
+{
+  "id": "src-283",
+  "title": "Taurine enhances growth performance by improving intestinal integrity and antioxidant capacity of weaned piglets",
+  "authors": [
+    "Chen, Jianjun",
+    "Zhang, Xiaofeng",
+    "Zhang, Yuhui",
+    "Jiang, Shouchuan",
+    "Han, Yu",
+    "Zhang, Lei",
+    "Zhang, Yuanyuan",
+    "Du, Huahua"
+  ],
+  "doi": "10.1093/jas/skae311",
+  "url": "https://openalex.org/W4403360815",
+  "provider": "openalex",
+  "year": 2024,
+  "venue": "Journal of Animal Science",
+  "citation_count": 6,
+  "abstract": "Taurine is an amino acid that has been considered by animal husbandry as a feed additive due to its abundant biological functions. However, the effective dose of taurine added to feed is unknown. The aim of the current study was to determine the optimal taurine supplementation level by investigating its effects on growth performance, diarrhea index, intestinal health, and antioxidant capacity of weaned piglets. A total of 160 crossbred piglets (Landrace × Yorkshire, initially 8.39 ± 0.11 kg) were assigned to 4 groups (10 pigs/pen and 4 replicates/group). Basal diets containing 0 (control, CON), 0.1%, 0.3%, and 0.5% taurine were respectively provided to the piglets for a duration of 28 d. Six piglets from each group were selected for euthanasia and subsequent sample collection on day 29. The results showed that dietary 0.3% or 0.5% taurine supplementation increased average daily gain (P < 0.05), feed-to-gain ratio (P < 0.01), and serum albumin (P < 0.05), and decreased diarrhea index (P < 0.01) and diamine oxidase (DAO) level in the serum (P < 0.05). The greater expression of tight junction-related genes, including ZO-1 (P < 0.05) and Claudin-1 (P < 0.01), were observed in the duodenum after supplementation with 0.5% taurine. The supplementation of 0.3% or 0.5% taurine resulted in a significant reduction of crypt depth (P < 0.01) and an increase of villus height-to-crypt depth ratio (P < 0.01) in the duodenum. A greater abundance of goblet cells was detected in the duodenum and jejunum of piglets fed 0.5% taurine (P < 0.05). In addition, serum superoxide dismutase (SOD) level, liver catalase (CAT) level, and liver total antioxidant capacity level were all significantly (P < 0.05) increased with 0.1%, 0.3% or 0.5% dietary taurine supplementation. On the whole, dietary supplementation with 0.3% or 0.5% taurine has the potential to significantly enhance the growth performance of piglets by improving the integrity of the intestinal barrier and boosting their antioxidant capacity.",
+  "type": "academic",
+  "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11604117/pdf/skae311.pdf"
+}

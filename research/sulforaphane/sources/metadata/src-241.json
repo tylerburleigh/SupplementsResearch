@@ -1,0 +1,19 @@
+{
+  "id": "src-241",
+  "title": "Activators and Inhibitors of NRF2: A Review of Their Potential for Clinical Development",
+  "authors": [
+    "Robledinos-Antón, Natalia",
+    "Fernández-Ginés, Raquel",
+    "Manda, Gina",
+    "Cuadrado, Antonio"
+  ],
+  "doi": "10.1155/2019/9372182",
+  "url": "https://openalex.org/W2957289901",
+  "provider": "openalex",
+  "year": 2019,
+  "venue": "Oxidative Medicine and Cellular Longevity",
+  "citation_count": 603,
+  "abstract": "The transcription factor NRF2 (nuclear factor erythroid 2-related factor 2) triggers the first line of homeostatic responses against a plethora of environmental or endogenous deviations in redox metabolism, proteostasis, inflammation, etc. Therefore, pharmacological activation of NRF2 is a promising therapeutic approach for several chronic diseases that are underlined by oxidative stress and inflammation, such as neurodegenerative, cardiovascular, and metabolic diseases. A particular case is cancer, where NRF2 confers a survival advantage to constituted tumors, and therefore, NRF2 inhibition is desired. This review describes the electrophilic and nonelectrophilic NRF2 activators with clinical projection in various chronic diseases. We also analyze the status of NRF2 inhibitors, which at this time provide proof of concept for blocking NRF2 activity in cancer therapy.",
+  "type": "academic",
+  "pdf_url": "https://downloads.hindawi.com/journals/omcl/2019/9372182.pdf"
+}

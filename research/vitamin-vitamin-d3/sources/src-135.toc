@@ -1,0 +1,29 @@
+7	2	Open Access
+31	2	Abstract
+69	2	Introduction
+87	2	Research
+128	2	Methods
+196	2	Statistical Analysis
+213	2	Research
+226	2	Results
+346	2	Research
+385	2	Discussion
+476	2	Research
+606	2	Research
+768	2	Research
+879	2	Research
+979	2	Research
+1001	2	Research
+1057	2	Research
+1116	2	Research
+1158	2	Research
+1191	2	Research
+1250	2	Research
+1266	2	Research
+1275	2	Research
+1283	2	Research
+1291	2	Research
+1299	2	Research
+1308	2	Research
+1318	2	Research
+1327	2	Research

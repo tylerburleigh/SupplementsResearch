@@ -1,0 +1,21 @@
+{
+  "id": "src-404",
+  "title": "Interventions for preventing high altitude illness: Part 1. Commonly-used classes of drugs",
+  "authors": [
+    "Estrada, Víctor Hugo Nieto",
+    "Molano-Franco, Daniel",
+    "Medina, Roger David",
+    "Garay, Alejandro G Gonzalez",
+    "Martí-Carvajal, Arturo J",
+    "Arévalo-Rodríguez, Ingrid"
+  ],
+  "doi": "10.1002/14651858.cd009761.pub2",
+  "url": "https://openalex.org/W2719845115",
+  "provider": "openalex",
+  "year": 2017,
+  "venue": "Cochrane Database of Systematic Reviews",
+  "citation_count": 65,
+  "abstract": "Our assessment of the most commonly-used pharmacological interventions suggests that acetazolamide is an effective pharmacological agent to prevent acute HAI in dosages of 250 to 750 mg/day. This information is based on evidence of moderate quality. Acetazolamide is associated with an increased risk of paraesthesia, although there are few reports about other adverse events from the available evidence. The clinical benefits and harms of other pharmacological interventions such as ibuprofen, budenoside and dexamethasone are unclear. Large multicentre studies are needed for most of the pharmacological agents evaluated in this review, to evaluate their effectiveness and safety.",
+  "type": "academic",
+  "pdf_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD009761.pub2/pdf/full"
+}

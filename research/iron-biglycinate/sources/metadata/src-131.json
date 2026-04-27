@@ -1,0 +1,19 @@
+{
+  "id": "src-131",
+  "title": "Correlation between iron accumulation and sarcopenia in middle-aged and elderly populations",
+  "authors": [
+    "Tounaoua, Mahamane Rahoufou",
+    "Chen, Honggu",
+    "Shaibu, Z.",
+    "Zhao, Guo-yang"
+  ],
+  "doi": "10.1186/s12891-025-08890-8",
+  "url": "https://www.semanticscholar.org/paper/c6cc2a996819b73954a52a41e012d071bac2c200",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "BMC Musculoskeletal Disorders",
+  "citation_count": 3,
+  "abstract": "The goal of this study was to investigate the relationship between iron accumulation and sarcopenia risk. We conducted a cross-sectional study based on data acquired during the year 2022–2023 from the affiliated hospital of Jiangsu University. Data on age, sex, body mass index (BMI), limb muscle mass, white blood cell (WBC) count, C-reactive protein (CRP) level, serum iron concentration, ferritin level, total iron- binding capacity (TIBC), and transferrin saturation (TSAT) were collected and analyzed. We used t-tests, chi-square tests, binary logistic regression models, and Generalized Additive Models (GAMs) for nonlinear analyses as statistical analyses. There were 110 participants, including 44 males and 66 females. Binary logistic regression analysis indicated that serum ferritin level was a risk factor for sarcopenia (OR = 1.005, 95% CI], 1.001, 1.009; P = 0.042. Furthermore, nonlinear analysis suggested a potential U-shaped relationship between ferritin levels and the risk of sarcopenia. Specifically, the risk appeared to decrease at ferritin levels below approximately 226.4 µg/L and increase at levels above approximately 241.2 µg/L. Both the overall nonlinear association (P = 0.033) and the nonlinear effect (P = 0.012) were statistically significant. Serum ferritin levels may be an independent risk factor for sarcopenia in the healthy elderly population. Additionally, a non-linear relationship between ferritin levels and the risk of sarcopenia was revealed. Nevertheless, further research is needed to elucidate the complex pathways connecting iron metabolism to muscle health, and to guide the development of targeted interventions for preventing and managing sarcopenia in this population.",
+  "type": "academic",
+  "pdf_url": ""
+}

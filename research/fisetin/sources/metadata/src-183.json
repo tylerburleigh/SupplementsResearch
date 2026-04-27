@@ -1,0 +1,33 @@
+{
+  "id": "src-183",
+  "title": "Targeting cellular senescence prevents age-related bone loss in mice",
+  "authors": [
+    "Farr, J.",
+    "Xu, Ming",
+    "Weivoda, Megan M.",
+    "Monroe, D.",
+    "Fraser, Daniel G.",
+    "Onken, Jennifer L",
+    "Negley, Brittany A",
+    "Sfeir, J.",
+    "Ogrodnik, M.",
+    "Hachfeld, Christine M.",
+    "LeBrasseur, N.",
+    "Drake, M.",
+    "Pignolo, R.",
+    "Pirtskhalava, T.",
+    "Tchkonia, T.",
+    "Oursler, M.",
+    "Kirkland, J.",
+    "Khosla, S."
+  ],
+  "doi": "10.1038/nm.4385",
+  "url": "https://www.semanticscholar.org/paper/981705f0befc92ed4927bfc23778e7f498594910",
+  "provider": "semantic_scholar",
+  "year": 2017,
+  "venue": "Nature Medicine",
+  "citation_count": 972,
+  "abstract": "Aging is associated with increased cellular senescence, which is hypothesized to drive the eventual development of multiple comorbidities. Here we investigate a role for senescent cells in age-related bone loss through multiple approaches. In particular, we used either genetic (i.e., the INK-ATTAC 'suicide' transgene encoding an inducible caspase 8 expressed specifically in senescent cells) or pharmacological (i.e., 'senolytic' compounds) means to eliminate senescent cells. We also inhibited the production of the proinflammatory secretome of senescent cells using a JAK inhibitor (JAKi). In aged (20- to 22-month-old) mice with established bone loss, activation of the INK-ATTAC caspase 8 in senescent cells or treatment with senolytics or the JAKi for 2–4 months resulted in higher bone mass and strength and better bone microarchitecture than in vehicle-treated mice. The beneficial effects of targeting senescent cells were due to lower bone resorption with either maintained (trabecular) or higher (cortical) bone formation as compared to vehicle-treated mice. In vitro studies demonstrated that senescent-cell conditioned medium impaired osteoblast mineralization and enhanced osteoclast-progenitor survival, leading to increased osteoclastogenesis. Collectively, these data establish a causal role for senescent cells in bone loss with aging, and demonstrate that targeting these cells has both anti-resorptive and anabolic effects on bone. Given that eliminating senescent cells and/or inhibiting their proinflammatory secretome also improves cardiovascular function, enhances insulin sensitivity, and reduces frailty, targeting this fundamental mechanism to prevent age-related bone loss suggests a novel treatment strategy not only for osteoporosis, but also for multiple age-related comorbidities.",
+  "type": "academic",
+  "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5657592"
+}

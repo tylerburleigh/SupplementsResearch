@@ -1,0 +1,26 @@
+{
+  "id": "src-429",
+  "title": "Human prostate cancer risk factors",
+  "authors": [
+    "Bostwick, David G.",
+    "Burke, Harry",
+    "Djakiew, Daniel",
+    "Euling, Susan Y.",
+    "Ho, Shuk‐Mei",
+    "Landolph, Joseph R.",
+    "Morrison, Howard",
+    "Sonawane, Babasaheb",
+    "Shifflett, Tiffany",
+    "Waters, David J.",
+    "Timms, Barry G."
+  ],
+  "doi": "10.1002/cncr.20408",
+  "url": "https://openalex.org/W2121518362",
+  "provider": "openalex",
+  "year": 2004,
+  "venue": "Cancer",
+  "citation_count": 648,
+  "abstract": "Prostate cancer has the highest prevalence of any nonskin cancer in the human body, with similar likelihood of neoplastic foci found within the prostates of men around the world regardless of diet, occupation, lifestyle, or other factors. Essentially all men with circulating androgens will develop microscopic prostate cancer if they live long enough. This review is a contemporary and comprehensive, literature-based analysis of the putative risk factors for human prostate cancer, and the results were presented at a multidisciplinary consensus conference held in Crystal City, Virginia, in the fall of 2002. The objectives were to evaluate known environmental factors and mechanisms of prostatic carcinogenesis and to identify existing data gaps and future research needs. The review is divided into four sections, including 1) epidemiology (endogenous factors [family history, hormones, race, aging and oxidative stress] and exogenous factors [diet, environmental agents, occupation and other factors, including lifestyle factors]); 2) animal and cell culture models for prediction of human risk (rodent models, transgenic models, mouse reconstitution models, severe combined immunodeficiency syndrome mouse models, canine models, xenograft models, and cell culture models); 3) biomarkers in prostate cancer, most of which have been tested only as predictive factors for patient outcome after treatment rather than as risk factors; and 4) genotoxic and nongenotoxic mechanisms of carcinogenesis. The authors conclude that most of the data regarding risk relies, of necessity, on epidemiologic studies, but animal and cell culture models offer promise in confirming some important findings. The current understanding of biomarkers of disease and risk factors is limited. An understanding of the risk factors for prostate cancer has practical importance for public health research and policy, genetic and nutritional education and chemoprevention, and prevention strategies.",
+  "type": "academic",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/cncr.20408"
+}

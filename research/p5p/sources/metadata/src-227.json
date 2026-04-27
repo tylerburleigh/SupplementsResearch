@@ -1,0 +1,29 @@
+{
+  "id": "src-227",
+  "title": "The 2011 Report on Dietary Reference Intakes for Calcium and Vitamin D from the Institute of Medicine: What Clinicians Need to Know",
+  "authors": [
+    "Ross, A. Catharine",
+    "Manson, JoAnn E.",
+    "Abrams, Steven A.",
+    "Aloia, John F.",
+    "Brannon, Patsy M.",
+    "Clinton, Steven K.",
+    "Durazo-Arvizú, Ramón",
+    "Gallagher, John C.",
+    "Gallo, Richard L.",
+    "Jones, Glenville",
+    "Kovács, Christopher S.",
+    "Mayne, Susan T.",
+    "Rosen, Clifford J.",
+    "Shapses, Sue A."
+  ],
+  "doi": "10.1210/jc.2010-2704",
+  "url": "https://openalex.org/W2131264460",
+  "provider": "openalex",
+  "year": 2010,
+  "venue": "The Journal of Clinical Endocrinology & Metabolism",
+  "citation_count": 4014,
+  "abstract": "This article summarizes the new 2011 report on dietary requirements for calcium and vitamin D from the Institute of Medicine (IOM). An IOM Committee charged with determining the population needs for these nutrients in North America conducted a comprehensive review of the evidence for both skeletal and extraskeletal outcomes. The Committee concluded that available scientific evidence supports a key role of calcium and vitamin D in skeletal health, consistent with a cause-and-effect relationship and providing a sound basis for determination of intake requirements. For extraskeletal outcomes, including cancer, cardiovascular disease, diabetes, and autoimmune disorders, the evidence was inconsistent, inconclusive as to causality, and insufficient to inform nutritional requirements. Randomized clinical trial evidence for extraskeletal outcomes was limited and generally uninformative. Based on bone health, Recommended Dietary Allowances (RDAs; covering requirements of ≥97.5% of the population) for calcium range from 700 to 1300 mg/d for life-stage groups at least 1 yr of age. For vitamin D, RDAs of 600 IU/d for ages 1-70 yr and 800 IU/d for ages 71 yr and older, corresponding to a serum 25-hydroxyvitamin D level of at least 20 ng/ml (50 nmol/liter), meet the requirements of at least 97.5% of the population. RDAs for vitamin D were derived based on conditions of minimal sun exposure due to wide variability in vitamin D synthesis from ultraviolet light and the risks of skin cancer. Higher values were not consistently associated with greater benefit, and for some outcomes U-shaped associations were observed, with risks at both low and high levels. The Committee concluded that the prevalence of vitamin D inadequacy in North America has been overestimated. Urgent research and clinical priorities were identified, including reassessment of laboratory ranges for 25-hydroxyvitamin D, to avoid problems of both undertreatment and overtreatment.",
+  "type": "academic",
+  "pdf_url": "https://academic.oup.com/jcem/article-pdf/96/1/53/10745151/jcem0053.pdf"
+}

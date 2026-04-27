@@ -1,0 +1,29 @@
+{
+  "id": "src-094",
+  "title": "The blood metabolome of cognitive function and brain health in middle-aged adults - influences of genes, gut microbiome, and exposome.",
+  "authors": [
+    "Ahmad, Shahzad",
+    "Wu, Tong",
+    "Arnold, Matthias",
+    "Hankemeier, Thomas",
+    "Ghanbari, Mohsen",
+    "Roshchupkin, Gennady",
+    "Uitterlinden, André G",
+    "Neitzel, Julia",
+    "Kraaij, Robert",
+    "Van Duijn, Cornelia M",
+    "Arfan Ikram, M",
+    "Kaddurah-Daouk, Rima",
+    "Kastenmüller, Gabi",
+    "Consortium, Alzheimer’s Disease Metabolomics"
+  ],
+  "doi": "10.1101/2024.12.16.24317793",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39763567",
+  "provider": "pubmed",
+  "year": 2024,
+  "venue": "medRxiv : the preprint server for health sciences",
+  "citation_count": 0,
+  "abstract": "Increasing evidence suggests the involvement of metabolic alterations in neurological disorders, including Alzheimer's disease (AD), and highlights the significance of the peripheral metabolome, influenced by genetic factors and modifiable environmental exposures, for brain health. In this study, we examined 1,387 metabolites in plasma samples from 1,082 dementia-free middle-aged participants of the population-based Rotterdam Study. We assessed the relation of metabolites with general cognition (G-factor) and magnetic resonance imaging (MRI) markers using linear regression and estimated the variance of these metabolites explained by genes, gut microbiome, lifestyle factors, common clinical comorbidities, and medication using gradient boosting decision tree analysis. Twenty-one metabolites and one metabolite were significantly associated with total brain volume and total white matter lesions, respectively. Fourteen metabolites showed significant associations with G-factor, with ergothioneine exhibiting the largest effect (adjusted mean difference = 0.122, P = 4.65×10-7). Associations for nine of the 14 metabolites were replicated in an independent, older cohort. The metabolite signature of incident AD in the replication cohort resembled that of cognition in the discovery cohort, emphasizing the potential relevance of the identified metabolites to disease pathogenesis. Lifestyle, clinical variables, and medication were most important in determining these metabolites' blood levels, with lifestyle, explaining up to 28.6% of the variance. Smoking was associated with ten metabolites linked to G-factor, while diabetes and antidiabetic medication were associated with 13 metabolites linked to MRI markers, including N-lactoyltyrosine. Antacid medication strongly affected ergothioneine levels. Mediation analysis revealed that lower ergothioneine levels may partially mediate negative effects of antacids on cognition (31.5%). Gut microbial factors were more important for the blood levels of metabolites that were more strongly associated with cognition and incident AD in the older replication cohort (beta-cryptoxanthin, imidazole propionate), suggesting they may be involved later in the disease process. The detailed results on how multiple modifiable factors affect blood levels of cognition- and brain imaging-related metabolites in dementia-free participants may help identify new AD prevention strategies.",
+  "type": "academic",
+  "pdf_url": ""
+}

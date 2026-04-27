@@ -1,0 +1,23 @@
+{
+  "id": "src-136",
+  "title": "Effect of Clonal Hematopoiesis Mutations and Canakinumab Treatment on Incidence of Solid Tumors in the CANTOS Randomized Clinical Trial.",
+  "authors": [
+    "Woo, Janghee",
+    "Zhai, Tingting",
+    "Yang, Fang",
+    "Xu, Huilei",
+    "Healey, Margaret",
+    "Yates, D.",
+    "Beste, Michael T",
+    "Steensma, D."
+  ],
+  "doi": "10.1158/1940-6207.capr-23-0342",
+  "url": "https://www.semanticscholar.org/paper/d12f5b31544412d08b6f0cae998192da833c6ce5",
+  "provider": "semantic_scholar",
+  "year": 2024,
+  "venue": "Cancer Prevention Research",
+  "citation_count": 9,
+  "abstract": "Clonal hematopoiesis (CH) is more common in older persons and has been associated with an increased risk of hematological cancers and cardiovascular diseases. The most common CH mutations occur in the DNMT3A and TET2 genes and result in increased pro-inflammatory signaling. The Canakinumab Anti-inflammatory Thrombosis Outcome Study (CANTOS, NCT01327846) evaluated the neutralizing anti-IL-1β antibody canakinumab in 10,061 randomized patients with a history of myocardial infarction and persistent inflammation; DNA samples were available from 3,923 patients for targeted genomic sequencing. We examined the incidence of non-hematological malignancy by treatment assignment and CH mutations and estimated the cumulative incidence of malignancy events during trial follow-up. Patients with TET2 mutations treated with canakinumab had the lowest incidence of non-hematological malignancy across cancer types. The cumulative incidence of at least one reported malignancy was lower for patients with TET2 mutations treated with canakinumab vs those treated with placebo. These findings support a potential role for canakinumab in cancer prevention and provide evidence of IL-1β blockade cooperating with CH mutations to modify the disease course.",
+  "type": "academic",
+  "pdf_url": ""
+}

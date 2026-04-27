@@ -1,0 +1,26 @@
+{
+  "id": "src-553",
+  "title": "Engineering Multi-Functional Enzyme-Mimetic Polyphenol-Catalase Complex for Reversing Hypoxia and Redox Homeostasis in Vascular and Muscular Regeneration.",
+  "authors": [
+    "Choi, Sumi",
+    "Heo, Jeong Hyun",
+    "Kim, Yeomyeong",
+    "Hong, Jinwoo",
+    "Lee, Sieun",
+    "Oh, Tae-Gyeong",
+    "Park, Suhyun",
+    "Gu, Minsu",
+    "Cho, Seung‐Woo",
+    "Jin, Yoonhee",
+    "Kim, Su-Hwan"
+  ],
+  "doi": "10.1021/acsnano.5c16943",
+  "url": "https://www.semanticscholar.org/paper/d4195ba6645898a0130333de101a71bbc7f6822b",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "ACS Nano",
+  "citation_count": 1,
+  "abstract": "Hypoxia contributes to a wide range of pathological conditions, including muscle atrophy and ischemic diseases, yet effective therapeutic strategies remain limited. In this study, we developed an epigallocatechin-3-gallate (EGCG)-catalase complex (EC) that simultaneously provides oxygenation and reactive oxygen species (ROS) clearance through multienzyme mimicry. EC exhibits superoxide dismutase (SOD)-like activity by converting superoxide anion (O2•-) into hydrogen peroxide (H2O2), followed by catalase-mediated decomposition of H2O2 into oxygen (O2) and water (H2O), thereby transforming harmful ROS into beneficial O2. In addition, EC employs peroxidase (POD)- and glutathione peroxidase (GPx)-like pathways to further eliminate residual H2O2, establishing a cascade antioxidative defense system. At the cellular level, EC modulated hypoxia-inducible factor-1 alpha (HIF-1α) expression, promoted angiogenesis, and enhanced myogenic differentiation. In vivo, EC improved muscle regeneration and functional recovery in a dexamethasone-induced atrophy model, while promoting angiogenesis and suppressing fibrosis in a diabetic hindlimb ischemia model. Collectively, these findings highlight EC as an integrated therapeutic platform that combines O2 supply with ROS regulation via multienzyme mimicry, offering promising potential for the treatment of hypoxia-associated diseases.",
+  "type": "academic",
+  "pdf_url": ""
+}

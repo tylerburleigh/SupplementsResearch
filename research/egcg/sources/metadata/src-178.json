@@ -1,0 +1,23 @@
+{
+  "id": "src-178",
+  "title": "Correlation between Oxidative Stress, Nutrition, and Cancer Initiation",
+  "authors": [
+    "Saha, Subbroto Kumar",
+    "Lee, Soo Bin",
+    "Won, Jihye",
+    "Choi, Hye Yeon",
+    "Kim, Kyeongseok",
+    "Yang, Gwang‐Mo",
+    "Dayem, Ahmed Abdal",
+    "Cho, Ssang‐Goo"
+  ],
+  "doi": "10.3390/ijms18071544",
+  "url": "https://openalex.org/W2736054471",
+  "provider": "openalex",
+  "year": 2017,
+  "venue": "International Journal of Molecular Sciences",
+  "citation_count": 394,
+  "abstract": "Inadequate or excessive nutrient consumption leads to oxidative stress, which may disrupt oxidative homeostasis, activate a cascade of molecular pathways, and alter the metabolic status of various tissues. Several foods and consumption patterns have been associated with various cancers and approximately 30-35% of the cancer cases are correlated with overnutrition or malnutrition. However, several contradictory studies are available regarding the association between diet and cancer risk, which remains to be elucidated. Concurrently, oxidative stress is a crucial factor for cancer progression and therapy. Nutritional oxidative stress may be induced by an imbalance between antioxidant defense and pro-oxidant load due to inadequate or excess nutrient supply. Oxidative stress is a physiological state where high levels of reactive oxygen species (ROS) and free radicals are generated. Several signaling pathways associated with carcinogenesis can additionally control ROS generation and regulate ROS downstream mechanisms, which could have potential implications in anticancer research. Cancer initiation may be modulated by the nutrition-mediated elevation in ROS levels, which can stimulate cancer initiation by triggering DNA mutations, damage, and pro-oncogenic signaling. Therefore, in this review, we have provided an overview of the relationship between nutrition, oxidative stress, and cancer initiation, and evaluated the impact of nutrient-mediated regulation of antioxidant capability against cancer therapy.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/1422-0067/18/7/1544/pdf?version=1500301771"
+}

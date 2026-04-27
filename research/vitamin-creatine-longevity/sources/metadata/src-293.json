@@ -1,0 +1,30 @@
+{
+  "id": "src-293",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://www.youtube.com/watch",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-21T14:16:38.470433+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-293.md",
+  "quality_details": {
+    "content_length": 159,
+    "alpha_ratio": 0.818,
+    "sentence_count": 0,
+    "reasons": [
+      "content too short (159 chars < 500)",
+      "few sentences detected (0 < 3)"
+    ]
+  }
+}

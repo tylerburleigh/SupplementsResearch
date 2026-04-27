@@ -1,0 +1,35 @@
+{
+  "id": "src-045",
+  "title": "A mechanistic overview of sulforaphane and its derivatives application in diabetes and its complications",
+  "authors": [
+    "Mohamadi, Neda",
+    "Baradaran Rahimi, Vafa",
+    "Fadaei, Mohammad Reza",
+    "Sharifi, Fatemeh",
+    "Askari, Vahid Reza"
+  ],
+  "year": 2023,
+  "abstract": "",
+  "doi": "10.1007/s10787-023-01373-z",
+  "url": "https://doi.org/10.1007/s10787-023-01373-z",
+  "pdf_url": "",
+  "venue": "Inflammopharmacology",
+  "citation_count": 22,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-18T23:20:17.622046+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-045.md",
+  "quality_details": {
+    "content_length": 23514,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

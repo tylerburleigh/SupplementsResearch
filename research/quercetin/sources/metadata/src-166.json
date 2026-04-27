@@ -1,0 +1,27 @@
+{
+  "id": "src-166",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "",
+  "pdf_url": "https://milkyeggs.com/wp-content/uploads/2023/07/s41591-022-01923-y.pdf",
+  "venue": "",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "",
+  "fetched_at": "2026-04-22T17:08:47.197256+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-166.md",
+  "quality_details": {
+    "content_length": 96485,
+    "alpha_ratio": 0.73,
+    "sentence_count": 1475,
+    "reasons": []
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "src-107",
+  "title": "Sirtuins and NAD <sup>+</sup> in the Development and Treatment of Metabolic and Cardiovascular Diseases",
+  "authors": [
+    "Kane, Alice E.",
+    "Sinclair, David"
+  ],
+  "doi": "10.1161/circresaha.118.312498",
+  "url": "https://openalex.org/W2891614594",
+  "provider": "openalex",
+  "year": 2018,
+  "venue": "Circulation Research",
+  "citation_count": 460,
+  "abstract": "The sirtuin family of nicotinamide adenine dinucleotide-dependent deacylases (SIRT1-7) are thought to be responsible, in large part, for the cardiometabolic benefits of lean diets and exercise and when upregulated can delay key aspects of aging. SIRT1, for example, protects against a decline in vascular endothelial function, metabolic syndrome, ischemia-reperfusion injury, obesity, and cardiomyopathy, and SIRT3 is protective against dyslipidemia and ischemia-reperfusion injury. With increasing age, however, nicotinamide adenine dinucleotide levels and sirtuin activity steadily decrease, and the decline is further exacerbated by obesity and sedentary lifestyles. Activation of sirtuins or nicotinamide adenine dinucleotide repletion induces angiogenesis, insulin sensitivity, and other health benefits in a wide range of age-related cardiovascular and metabolic disease models. Human clinical trials testing agents that activate SIRT1 or boost nicotinamide adenine dinucleotide levels are in progress and show promise in their ability to improve the health of cardiovascular and metabolic disease patients.",
+  "type": "academic",
+  "pdf_url": "https://www.ahajournals.org/doi/pdf/10.1161/CIRCRESAHA.118.312498"
+}

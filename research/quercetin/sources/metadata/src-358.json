@@ -1,0 +1,22 @@
+{
+  "id": "src-358",
+  "title": "Increased cellular senescence in doxorubicin-induced murine ovarian injury: effect of senolytics.",
+  "authors": [
+    "Gao, Yueyue",
+    "Wu, Tong",
+    "Tang, Xianan",
+    "Wen, Jingyi",
+    "Zhang, Yan",
+    "Zhang, Jinjin",
+    "Wang, Shixuan"
+  ],
+  "doi": "10.1007/s11357-023-00728-2",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36648735",
+  "provider": "pubmed",
+  "year": 2023,
+  "venue": "GeroScience",
+  "citation_count": 0,
+  "abstract": "Ovarian injury caused by chemotherapy can lead to early menopause, infertility, and even premature senility in female cancer patients, impairing the quality of life and overall health of the cancer survivors seriously. However, there is still a lack of effective protection strategies against such injury. Cellular senescence can be induced by chemotherapeutic agents in multiple organs and may corrode the structure and function of normal tissues. We hypothesized that the widely used first-line chemotherapy drug, doxorubicin, could increase senescent cell burden in normal ovarian tissue during the therapeutic process and that elimination of senescent cells with senolytics would ameliorate doxorubicin-induced ovarian injury. Here, we demonstrated an accumulation of cellular senescence in doxorubicin-treated ovaries through detecting p16 and p21 expression levels and senescence-associated β-galactosidase (SA-β-gal) activity as well as senescence-associated secretory phenotype (SASP) factors. Short-term intervention with the classic senolytic combination dasatinib and quercetin (DQ) or fisetin significantly reduced the load of senescent cells in ovaries after doxorubicin treatment. However, neither DQ nor fisetin alleviated doxorubicin-related ovarian dysfunction. Further experiments showed that ovarian apoptosis and fibrosis following doxorubicin exposure could not be improved by senolytics. Collectively, our study shows that senolytic treatment can eliminate accumulated senescent cells, but cannot reverse the massive follicle loss and ovarian stromal fibrosis caused by doxorubicin, suggesting that cellular senescence may not be one of the key mechanisms in doxorubicin-induced ovarian injury.",
+  "type": "academic",
+  "pdf_url": ""
+}

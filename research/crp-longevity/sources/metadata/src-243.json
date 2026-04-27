@@ -1,0 +1,24 @@
+{
+  "id": "src-243",
+  "title": "Vitamin D and C-Reactive Protein: A Mendelian Randomization Study",
+  "authors": [
+    "Liefaard, M.",
+    "Ligthart, Symen",
+    "Vitezova, A.",
+    "Hofman, A.",
+    "Uitterlinden, A.",
+    "Jong, J. K. Kiefte-de",
+    "Franco, Oscar H.",
+    "Zillikens, M.",
+    "Dehghan, A."
+  ],
+  "doi": "10.1371/journal.pone.0131740",
+  "url": "https://www.semanticscholar.org/paper/cfb1e62dc9c8604b89485ac411e08fc7fa809b0b",
+  "provider": "semantic_scholar",
+  "year": 2015,
+  "venue": "PLoS ONE",
+  "citation_count": 78,
+  "abstract": "Vitamin D deficiency is widely prevalent and has been associated with many diseases. It has been suggested that vitamin D has effects on the immune system and inhibits inflammation. The aim of our study was to investigate whether vitamin D has an inhibitory effect on systemic inflammation by assessing the association between serum levels of vitamin D and C-reactive protein. We studied the association between serum 25-hydroxyvitamin D and C-reactive protein through linear regression in 9,649 participants of the Rotterdam Study, an observational, prospective population-based cohort study. We used genetic variants related to vitamin D and CRP to compute a genetic risk score and perform bi-directional Mendelian randomization analysis. In linear regression adjusted for age, sex, cohort and other confounders, natural log-transformed CRP decreased with 0.06 (95% CI: -0.08, -0.03) unit per standard deviation increase in 25-hydroxyvitamin D. Bi-directional Mendelian randomization analyses showed no association between the vitamin D genetic risk score and lnCRP (Beta per SD = -0.018; p = 0.082) or the CRP genetic risk score and 25-hydroxyvitamin D (Beta per SD = 0.001; p = 0.998). In conclusion, higher levels of Vitamin D are associated with lower levels of C-reactive protein. In this study we did not find evidence for this to be the result of a causal relationship.",
+  "type": "academic",
+  "pdf_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0131740&type=printable"
+}

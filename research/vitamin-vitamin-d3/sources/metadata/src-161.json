@@ -1,0 +1,19 @@
+{
+  "id": "src-161",
+  "title": "Impact of vitamin D on infectious disease.",
+  "authors": [
+    "Kearns, Malcolm D",
+    "Alvarez, Jessica A",
+    "Seidel, Natan",
+    "Tangpricha, Vin"
+  ],
+  "doi": "10.1097/maj.0000000000000360",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/25334038",
+  "provider": "pubmed",
+  "year": 2015,
+  "venue": "The American journal of the medical sciences",
+  "citation_count": 0,
+  "abstract": "BACKGROUND: Observational studies have linked vitamin D status and infectious disease. This association is supported by the presence of the vitamin D receptor and CYP27B1 in immune cells. This review aims to consolidate data from clinical trials that used vitamin D for the treatment or prevention of infectious disease.\nMETHODS: The authors searched the term \"(vitamin D OR ergocalciferol OR cholecalciferol OR vitamin D2 OR vitamin D3 OR calcitriol) AND (infection OR tuberculosis OR sepsis OR pneumonia)\" with limits preset to manuscripts published in English and with human subjects. They identified controlled trials that measured infectious outcomes (eg, incidence and severity of disease, time to disease resolution or recurrence, measures of clinical improvement, mortality). Studies that used analog, topical or micronutrient formulations of vitamin D, assessed only vitamin D status or lacked a comparison group were excluded. The references from eligible manuscripts and from 2 recent reviews were scanned for additional manuscripts.\nRESULTS: One thousand two hundred eighty-four manuscripts were identified with our search terms, with 60 papers still eligible after review of the title and abstract. Full review of these papers, their references and 2 related reviews yielded 38 manuscripts.\nCONCLUSIONS: Although some prospective studies show positive results regarding vitamin D on infectious disease, several robust studies are negative. Factors such as high variability between studies, the difference in individual responsiveness to vitamin D and study designs that do not primarily investigate infectious outcomes may mask the effects of vitamin D on infections.",
+  "type": "academic",
+  "pdf_url": ""
+}

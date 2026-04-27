@@ -1,0 +1,20 @@
+{
+  "id": "src-971",
+  "title": "Evaluation of the inhibitory effect of quercetin on the pharmacokinetics of tucatinib in rats by a novel UPLC-MS/MS assay.",
+  "authors": [
+    "Zhang, Ying",
+    "Liu, Ya-Nan",
+    "Xie, Saili",
+    "Xu, Xuegu",
+    "Xu, Ren-Ai"
+  ],
+  "doi": "10.1080/13880209.2022.2048862",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35289238",
+  "provider": "pubmed",
+  "year": 2022,
+  "venue": "Pharmaceutical biology",
+  "citation_count": 0,
+  "abstract": "CONTEXT: Tucatinib (CYP2C8 substrate) and quercetin (CYP2C8 inhibitor) are two common drugs for the treatment of cancer. However, the effect of quercetin on the metabolism of tucatinib remains unknown.\nOBJECTIVE: We validated a sensitive method to quantify tucatinib levels in rat plasma based on ultra-performance liquid chromatography-tandem mass spectrometry (UPLC-MS/MS), which was successfully employed to explore the effect of quercetin on tucatinib pharmacokinetics in rats.\nMATERIALS AND METHODS: An Acquity UPLC BEH C18 column was applied to achieve the separation of tucatinib and internal standard (IS) talazoparib after protein precipitation with acetonitrile. Then, we used this assay to investigate the effect of different doses of quercetin (25, 50 and 100 mg/kg) on the exposure of orally administered tucatinib (30 mg/kg) in 24 Sprague-Dawley (SD) rats, which were randomly divided into three quercetin pre-treated groups and one control group (n = 6).\nRESULTS: Our developed assay was verified in all aspects of bioanalytical method validation, involving lower limit of quantification (LLOQ), selectivity, accuracy and precision, calibration curve, extraction recovery, matrix effect and stability. After pre-treatment with 100 mg/kg quercetin, AUC0→, AUC0→∞ and Cmax of tucatinib were remarkably increased by 75.4%, 75.8% and 59.1% (p < 0.05), respectively, while CLz/F was decreased significantly by 47.3% (p < 0.05) when compared with oral administration of 30 mg/kg tucatinib alone. This change is dose-dependent.\nCONCLUSIONS: This study will help better understand the pharmacokinetic properties of tucatinib with concurrent use with quercetin, and more clinical verifications were inspired to confirm whether this interaction has clinical significance in humans.",
+  "type": "academic",
+  "pdf_url": ""
+}

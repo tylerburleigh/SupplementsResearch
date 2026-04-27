@@ -1,0 +1,54 @@
+12	2	4 Department of Research, WellSpan Health, York, PA, United States
+51	2	Open Access
+52	2	Edited By
+55	2	Reviewed By
+72	2	Citation
+79	2	Copyright
+98	2	Keywords
+101	2	1 Introduction
+140	2	2 Materials and methods
+150	3	2.1 Search strategy
+157	3	2.2 Eligibility criteria
+166	3	2.3 Data extraction
+175	3	2.4 Data analysis
+183	3	2.5 Risk of bias assessment
+193	2	3 Results
+194	3	3.1 Study selection
+206	4	3.1.1 Randomized controlled trials
+272	2	4 HE cookies daily containing
+277	2	Ici
+316	2	Shs
+376	2	Iadl
+603	2	Analysis
+618	4	3.1.2 Pilot clinical studies
+639	4	3.1.3 Cohort studies
+654	4	3.1.4 Case report
+670	4	3.1.5 Lab studies
+686	4	3.1.6 Computer analysis
+706	3	3.2 Toxicology report
+715	2	4 Discussion
+930	2	Hpgfc
+987	2	Ngf
+1085	3	4.1 Neurotrophins and neurodegenerative
+1087	4	4.1.1 Role of HE in neurotrophin signaling and
+1129	4	4.1.2 Clinical and preclinical findings
+1147	3	4.2 Cancer and apoptosis
+1164	4	4.2.1 Molecular mechanisms of apoptosis
+1194	4	4.2.2 Clinical and preclinical evidence
+1274	3	4.3 Gut microbiota
+1275	4	4.3.1 Microbiota modulation
+1321	4	4.3.2 Clinical and preclinical findings
+1411	3	4.4 Mental health
+1412	4	4.4.1 Influence on mood and emotional health
+1433	4	4.4.2 Clinical and preclinical findings
+1481	3	4.5 Limitations
+1525	2	5 Conclusion
+1554	2	Author Contributions
+1571	2	Acknowledgments
+1598	2	Supplementary Material
+1605	2	References
+1648	2	16. Hooijmans CR, Rovers MM, de Vries RBM, Leenaars M, Ritskes-Hoitinga M,
+1672	2	23. Nakatsugawa M, Takahashi H, Takezawa C, Nakajima K, Harada K, Sugawara Y ,
+1687	2	27. Sutthibutpong T, Posansee K, Liangruksa M, Termsaithong T, Piyayotai S,
+1757	2	47. Rekha K, Venkidasamy B, Samynathan R, Nagella P , Rebezov M, Khayrullin M,
+1763	2	49. Hericium erinaceus Extract Exerts Beneficial Effects on Gut–Neuroinflammaging–

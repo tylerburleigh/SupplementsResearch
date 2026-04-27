@@ -1,0 +1,19 @@
+{
+  "id": "src-100",
+  "title": "Neurobiological research on N,N-dimethyltryptamine (DMT) and its potentiation by monoamine oxidase (MAO) inhibition: from ayahuasca to synthetic combinations of DMT and MAO inhibitors",
+  "authors": [
+    "Egger, Klemens",
+    "Aicher, Helena",
+    "Cumming, Paul",
+    "Scheidegger, Milan"
+  ],
+  "doi": "10.1007/s00018-024-05353-6",
+  "url": "https://openalex.org/W4402403273",
+  "provider": "openalex",
+  "year": 2024,
+  "venue": "Cellular and Molecular Life Sciences",
+  "citation_count": 25,
+  "abstract": "The potent hallucinogen N,N-dimethyltryptamine (DMT) has garnered significant interest in recent years due to its profound effects on consciousness and its therapeutic psychopotential. DMT is an integral (but not exclusive) psychoactive alkaloid in the Amazonian plant-based brew ayahuasca, in which admixture of several β-carboline monoamine oxidase A (MAO-A) inhibitors potentiate the activity of oral DMT, while possibly contributing in other respects to the complex psychopharmacology of ayahuasca. Irrespective of the route of administration, DMT alters perception, mood, and cognition, presumably through agonism at serotonin (5-HT) 1A/2A/2C receptors in brain, with additional actions at other receptor types possibly contributing to its overall psychoactive effects. Due to rapid first pass metabolism, DMT is nearly inactive orally, but co-administration with β-carbolines or synthetic MAO-A inhibitors (MAOIs) greatly increase its bioavailability and duration of action. The synergistic effects of DMT and MAOIs in ayahuasca or synthetic formulations may promote neuroplasticity, which presumably underlies their promising therapeutic efficacy in clinical trials for neuropsychiatric disorders, including depression, addiction, and post-traumatic stress disorder. Advances in neuroimaging techniques are elucidating the neural correlates of DMT-induced altered states of consciousness, revealing alterations in brain activity, functional connectivity, and network dynamics. In this comprehensive narrative review, we present a synthesis of current knowledge on the pharmacology and neuroscience of DMT, β-carbolines, and ayahuasca, which should inform future research aiming to harness their full therapeutic potential.",
+  "type": "academic",
+  "pdf_url": "https://link.springer.com/content/pdf/10.1007/s00018-024-05353-6.pdf"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "src-228",
+  "title": "Nanonutraceuticals: The New Frontier of Supplementary Food",
+  "authors": [
+    "Paolino, Donatella",
+    "Mancuso, Antonia",
+    "Cristiano, Maria Chiara",
+    "Froiio, Francesca",
+    "Lammari, Narimane",
+    "Celia, Christian",
+    "Fresta, Massimo"
+  ],
+  "doi": "10.3390/nano11030792",
+  "url": "https://openalex.org/W3139255216",
+  "provider": "openalex",
+  "year": 2021,
+  "venue": "Nanomaterials",
+  "citation_count": 69,
+  "abstract": "In the last few decades, the combination between nanotechnology and nutraceutics has gained the attention of several research groups. Nutraceuticals are considered as active compounds, abundant in natural products, showing beneficial effects on human health. Unfortunately, the uses, and consequently the health benefits, of many nutraceutical products are limited by their unsuitable chemico-physical features. For example, many nutraceuticals are characterized by low water solubility, low stability and high susceptibility to light and oxygen, poor absorption and potential chemical modifications after their administration. Based on the potential efficacy of nutraceuticals and on their limiting features, nanotechnology could be considered a revolutionary innovation in empowering the beneficial properties of nutraceuticals on human health, thus enhancing their efficacy in several diseases. For this reason, nanotechnology could represent a new frontier in supplementary food. In this review, the most recent nanotechnological approaches are discussed, focusing on their ability to improve the bioavailability of the most common nutraceuticals, providing an overview regarding both the advantages and the possible limitations of the use of several nanodelivery systems. In fact, although the efficacy of smart nanocarriers in improving health benefits deriving from nutraceuticals has been widely demonstrated, the conflicting opinions on the mechanism of action of some nanosystems still reduce their applicability in the therapeutic field.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2079-4991/11/3/792/pdf?version=1616392792"
+}

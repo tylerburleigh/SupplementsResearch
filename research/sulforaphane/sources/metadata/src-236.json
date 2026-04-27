@@ -1,0 +1,18 @@
+{
+  "id": "src-236",
+  "title": "Sulforaphane ameliorates lipid profile in rodents: an updated systematic review and meta-analysis",
+  "authors": [
+    "Du, Kaili",
+    "Fan, Yuxin",
+    "Li, Dan"
+  ],
+  "doi": "10.1038/s41598-021-87367-9",
+  "url": "https://openalex.org/W3150767400",
+  "provider": "openalex",
+  "year": 2021,
+  "venue": "Scientific Reports",
+  "citation_count": 23,
+  "abstract": "Sulforaphane (SFN), a naturally-occurring isothiocyanate enriched in cabbage and broccoli, has been provided as food supplements to improve weight management and reduce lipid levels. However, its effects on serum lipid profiles are contradictory. In this review, a meta-analysis and systematic review of SFN on lipid reduction and weight control is assessed with mice and rats fed on high-fat diet. The effects of SFN supplementation were evaluated by weighted mean difference (WMD) in body weight (BW), liver weight (LW) and also by its effect on serum lipids. A random-effects model was applied to estimate the overall summary effect. SFN reduced BW (WMD: - 2.76 g, 95% CI: - 4.19, - 1.34) and LW (WMD: - 0.93 g, 95% CI: - 1.63, - 0.23) significantly in our ten trials. Its effects on serum total cholesterol (TC) (WMD: - 15.62 mg/dL, 95% CI: - 24.07, - 7.18), low-density lipoprotein cholesterol (LDL-C) (WMD: - 8.35 mg/dL, 95% CI: - 15.47, - 1.24) and triglyceride (TG) (WMD: - 40.85 mg/dL, 95% CI: - 67.46, - 14.24) were significant except for high-density lipoprotein cholesterol (HDL-C) component (WMD: 1.05 mg/dL, 95% CI: - 3.44, 5.54). However, species, disease model, duration, SFN dosage as well as route of administration did not explain the heterogeneity among studies. In summary, these findings provide new insights concerning preclinical strategies for treating diseases including obesity, diabetes, hypertension, non-alcoholic fatty liver disease as well as cardiovascular disease with SFN supplements.",
+  "type": "academic",
+  "pdf_url": "https://www.nature.com/articles/s41598-021-87367-9.pdf"
+}

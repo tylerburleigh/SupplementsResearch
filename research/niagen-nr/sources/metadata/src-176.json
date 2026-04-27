@@ -1,0 +1,25 @@
+{
+  "id": "src-176",
+  "title": "SARS-CoV-2 infection dysregulates NAD metabolism.",
+  "authors": [
+    "Izadpanah, Amin",
+    "Mudd, Joseph C",
+    "Garcia, Joe G N",
+    "Srivastav, Sudesh",
+    "Abdel-Mohsen, Mohamed",
+    "Palmer, Clovis",
+    "Goldman, Aaron R",
+    "Kolls, Jay K",
+    "Qin, Xuebin",
+    "Rappaport, Jay"
+  ],
+  "doi": "10.3389/fimmu.2023.1158455",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37457744",
+  "provider": "pubmed",
+  "year": 2023,
+  "venue": "Frontiers in immunology",
+  "citation_count": 0,
+  "abstract": "INTRODUCTION: Severe COVID-19 results initially in pulmonary infection and inflammation. Symptoms can persist beyond the period of acute infection, and patients with Post-Acute Sequelae of COVID (PASC) often exhibit a variety of symptoms weeks or months following acute phase resolution including continued pulmonary dysfunction, fatigue, and neurocognitive abnormalities. We hypothesized that dysregulated NAD metabolism contributes to these abnormalities.\nMETHODS: RNAsequencing of lungs from transgenic mice expressing human ACE2 (K18-hACE2) challenged with SARS-CoV-2 revealed upregulation of NAD biosynthetic enzymes, including NAPRT1, NMNAT1, NAMPT, and IDO1 6 days post-infection.\nRESULTS: Our data also demonstrate increased gene expression of NAD consuming enzymes: PARP 9,10,14 and CD38. At the same time, SIRT1, a protein deacetylase (requiring NAD as a cofactor and involved in control of inflammation) is downregulated. We confirmed our findings by mining sequencing data from lungs of patients that died from SARS-CoV-2 infection. Our validated findings demonstrating increased NAD turnover in SARS-CoV-2 infection suggested that modulating NAD pathways may alter disease progression and may offer therapeutic benefits. Specifically, we hypothesized that treating K18-hACE2 mice with nicotinamide riboside (NR), a potent NAD precursor, may mitigate lethality and improve recovery from SARS-CoV-2 infection. We also tested the therapeutic potential of an anti- monomeric NAMPT antibody using the same infection model. Treatment with high dose anti-NAMPT antibody resulted in significantly decreased body weight compared to control, which was mitigated by combining HD anti-NAMPT antibody with NR. We observed a significant increase in lipid metabolites, including eicosadienoic acid, oleic acid, and palmitoyl carnitine in the low dose antibody + NR group. We also observed significantly increased nicotinamide related metabolites in NR treated animals.\nDISCUSSION: Our data suggest that infection perturbs NAD pathways, identify novel mechanisms that may explain some pathophysiology of CoVID-19 and suggest novel strategies for both treatment and prevention.",
+  "type": "academic",
+  "pdf_url": ""
+}

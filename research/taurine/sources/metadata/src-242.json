@@ -1,0 +1,24 @@
+{
+  "id": "src-242",
+  "title": "Multifunctional Hydrogel Microneedle Patches Modulating Oxi‐inflamm‐aging for Diabetic Wound Healing",
+  "authors": [
+    "Tian, Shen",
+    "Mei, Jiawei",
+    "Zhang, Lisha",
+    "Wang, Senyan",
+    "Yuan, Yuhui",
+    "Li, Jia",
+    "Liu, Hongjian",
+    "Zhu, Wanbo",
+    "Xu, Dongdong"
+  ],
+  "doi": "10.1002/smll.202407340",
+  "url": "https://openalex.org/W4403084161",
+  "provider": "openalex",
+  "year": 2024,
+  "venue": "Small",
+  "citation_count": 52,
+  "abstract": "Oxidative stress, chronic inflammation, and immune senescence are important pathologic factors in diabetic wound nonhealing. This study loads taurine (Tau) into cerium dioxide (CeO<sub>2</sub>) to develop CeO<sub>2</sub>@Tau nanoparticles with excellent antioxidant, anti-inflammatory, and anti-aging properties. To enhance the drug penetration efficiency in wounds, CeO<sub>2</sub>@Tau is encapsulated in gelatin methacryloyl (GelMA) hydrogel to prepare CeO<sub>2</sub>@Tau@Hydrogel@Microneedle (CTH@MN) patch system. Microneedle technology achieves precise and efficient delivery of CeO<sub>2</sub>@Tau, ensuring their deep penetration into the wound tissue for optimal efficacy. Rigorous in vitro and in vivo tests have confirmed the satisfactory therapeutic effect of CTH@MN patch on diabetic wound healing. Mechanistically, CTH@MN attenuates oxidative damage and inflammatory responses in macrophages by inhibiting the ROS/NF-κB signaling pathway. Meanwhile, CTH@MN activated autophagy-mediated anti-aging activity, creating a favorable immune microenvironment for tissue repair. Notably, in a diabetic mouse wound model, the multifunctional CTH@MN patch significantly promotes wound healing by systematically regulating the oxidation-inflammation-aging (oxi-inflamm-aging) pathological axis. In conclusion, the in-depth exploration of the CTH@MN system in this study provides new strategies and perspectives for treating diabetic non-healing wounds.",
+  "type": "academic",
+  "pdf_url": ""
+}

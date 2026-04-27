@@ -1,0 +1,30 @@
+{
+  "id": "src-173",
+  "title": "Effect of daily sunscreen application on vitamin D: findings from the open-label randomized controlled Sun-D Trial.",
+  "authors": [
+    "Tran, Vu",
+    "Duarte Romero, Briony L",
+    "Andersen, Hayley",
+    "Clarke, Michael",
+    "Collins, Louisa G",
+    "Dawson, Tamara",
+    "Hartel, Gunter",
+    "Lefevre, James G",
+    "Lucas, Robyn M",
+    "McLeod, Donald S A",
+    "Milne, Roger L",
+    "Sinclair, Craig",
+    "Whiteman, David C",
+    "Waterhouse, Mary",
+    "Neale, Rachel E"
+  ],
+  "doi": "10.1093/bjd/ljaf310",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40927943",
+  "provider": "pubmed",
+  "year": 2025,
+  "venue": "The British journal of dermatology",
+  "citation_count": 0,
+  "abstract": "BACKGROUND: Sunscreen reduces vitamin D production in experimental studies. It is uncertain whether this translates to real-world settings.\nOBJECTIVES: To determine if routinely applying high sun protection factor (SPF) sunscreen for a year reduces serum 25-hydroxyvitamin D [25(OH)D] concentration.\nMETHODS: We conducted a population-based open-label randomized controlled trial in Australian participants aged 18-70 years who were not routinely using sunscreen or taking vitamin D supplements. Participants were randomized (1 : 1) using stratified, computer-generated permuted block randomization to routine application of SPF 50+ sunscreen on days the ultraviolet (UV) index was forecast to reach ≥ 3 (intervention) or discretionary sunscreen use (control), for approximately 1 year. We measured 25(OH)D concentration at baseline (winter/spring 2022) and at the end of summer and winter 2023; participants with no postbaseline concentrations (n = 11) were excluded from analyses. The primary outcome was change in 25(OH)D concentration from baseline. Vitamin D deficiency [25(OH)D concentration < 50 nmol L-1] in the final sample was an exploratory outcome. We analysed data using mixed-effects models and Poisson regression. We stratified our analysis by baseline 25(OH)D concentration, residential UV radiation (UVR) zone, skin exposure (derived from time outdoors and clothing use) and personal UVR exposure (derived by combining UVR zone and skin exposure). Sample and data analysis were performed blind to randomization group. The trial was registered with the Australian New Zealand Clinical Trials Registry (ACTRN12621001752853).\nRESULTS: Between 30 June and 29 November 2022, we randomized 639 participants (intervention, n = 319; control, n = 320). In total, 628 participants were analysed [intervention, n = 312; control, n = 316; median age 52 years (interquartile range 40-64)]. Altogether, 415 (66.1%) identified as female, 210 (33.4%) as male and 3 (0.5%) used another term. Mean (SD) baseline 25(OH)D concentration was balanced [intervention 63.5 (21.9) nmol L-1; control 62.1 (22.8) nmol L-1]. Adjusted mean differences from baseline were 1.6 nmol L-1 (intervention) and 6.8 nmol L-1 (control) [between-group treatment effect -5.2 nmol L-1, 95% confidence interval (CI) -7.2 to -3.2]. Treatment effects were consistent across almost all subgroups. Vitamin D deficiency (final sample) was higher in the intervention (n = 139/304; 45.7%) than in the control group (n = 115/312; 36.9%) (prevalence ratio 1.33, 95% CI 1.14-1.55).\nCONCLUSIONS: Routinely applying high SPF sunscreen results in lower 25(OH)D concentrations than would be seen with discretionary sunscreen use. Regular sunscreen users may need vitamin D supplementation.",
+  "type": "academic",
+  "pdf_url": ""
+}

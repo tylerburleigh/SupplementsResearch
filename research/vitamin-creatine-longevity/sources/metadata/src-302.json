@@ -1,0 +1,21 @@
+{
+  "id": "src-302",
+  "title": "Redox Mechanism of Reactive Oxygen Species in Exercise",
+  "authors": [
+    "He, Feng J.",
+    "Li, Juan",
+    "Liu, Zewen",
+    "Chuang, Chia-Chen",
+    "Wen-ge, Yang",
+    "Zuo, Li"
+  ],
+  "doi": "10.3389/fphys.2016.00486",
+  "url": "https://openalex.org/W2548757381",
+  "provider": "openalex",
+  "year": 2016,
+  "venue": "Frontiers in Physiology",
+  "citation_count": 367,
+  "abstract": "It is well known that regular exercise can benefit health by enhancing antioxidant defenses in the body. However, unaccustomed and/or exhaustive exercise can generate excessive reactive oxygen species (ROS), leading to oxidative stress-related tissue damages and impaired muscle contractility. ROS are produced in both aerobic and anaerobic exercise. Mitochondria, NADPH oxidases and xanthine oxidases have all been identified as potential contributors to ROS production, yet the exact redox mechanisms underlying exercise-induced oxidative stress remain elusive. Interestingly, moderate exposure to ROS is necessary to induce body's adaptive responses such as the activation of antioxidant defense mechanisms. Dietary antioxidant manipulation can also reduce ROS levels and muscle fatigue, as well as enhance exercise recovery. To elucidate the complex role of ROS in exercise, this review updates on new findings of ROS origins within skeletal muscles associated with various types of exercises such as endurance, sprint and mountain climbing. In addition, we will examine the corresponding antioxidant defense systems as well as dietary manipulation against damages caused by ROS.",
+  "type": "academic",
+  "pdf_url": "https://www.frontiersin.org/articles/10.3389/fphys.2016.00486/pdf"
+}

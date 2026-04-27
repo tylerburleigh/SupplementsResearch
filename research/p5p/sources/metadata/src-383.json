@@ -1,0 +1,19 @@
+{
+  "id": "src-383",
+  "title": "B Vitamins and One-Carbon Metabolism: Implications in Human Health and Disease",
+  "authors": [
+    "Lyon, Peter D.",
+    "Strippoli, V.",
+    "Fang, Byron",
+    "Cimmino, Luisa"
+  ],
+  "doi": "10.3390/nu12092867",
+  "url": "https://openalex.org/W3087569384",
+  "provider": "openalex",
+  "year": 2020,
+  "venue": "Nutrients",
+  "citation_count": 375,
+  "abstract": "Vitamins B9 (folate) and B12 are essential water-soluble vitamins that play a crucial role in the maintenance of one-carbon metabolism: a set of interconnected biochemical pathways driven by folate and methionine to generate methyl groups for use in DNA synthesis, amino acid homeostasis, antioxidant generation, and epigenetic regulation. Dietary deficiencies in B9 and B12, or genetic polymorphisms that influence the activity of enzymes involved in the folate or methionine cycles, are known to cause developmental defects, impair cognitive function, or block normal blood production. Nutritional deficiencies have historically been treated with dietary supplementation or high-dose parenteral administration that can reverse symptoms in the majority of cases. Elevated levels of these vitamins have more recently been shown to correlate with immune dysfunction, cancer, and increased mortality. Therapies that specifically target one-carbon metabolism are therefore currently being explored for the treatment of immune disorders and cancer. In this review, we will highlight recent studies aimed at elucidating the role of folate, B12, and methionine in one-carbon metabolism during normal cellular processes and in the context of disease progression.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2072-6643/12/9/2867/pdf?version=1600505309"
+}

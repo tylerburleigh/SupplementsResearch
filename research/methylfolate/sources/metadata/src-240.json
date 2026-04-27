@@ -1,0 +1,23 @@
+{
+  "id": "src-240",
+  "title": "Causal effects of circulating vitamin levels on the risk of heart failure: a Mendelian randomization study",
+  "authors": [
+    "Guan, Bo",
+    "CHEN, Xiao-Qiang",
+    "Liu, Yan",
+    "Zhou, Hui",
+    "YANG, Ming-Yan",
+    "ZHENG, Hong-Wei",
+    "LI, Shi-Jun",
+    "Cao, Jian"
+  ],
+  "doi": "10.26599/1671-5411.2023.03.007",
+  "url": "https://openalex.org/W4366769444",
+  "provider": "openalex",
+  "year": 2023,
+  "venue": "Journal of Geriatric Cardiology",
+  "citation_count": 4,
+  "abstract": "Evidence from our study does not support the causal effects of circulating vitamin levels on HF. Therefore, there may be no direct beneficial effects of vitamin intake on the prevention of primary HF.",
+  "type": "academic",
+  "pdf_url": "https://file.sciopen.com/sciopen_public/1646804996021964801.pdf"
+}

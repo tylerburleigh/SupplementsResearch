@@ -1,0 +1,15 @@
+{
+  "id": "src-098",
+  "title": "Déterminants génétiques et nutritionnels de l'homocystéine au cours des maladies inflammatoires chroniques intestinales",
+  "authors": [
+    "Peyrin‐Biroulet, Laurent"
+  ],
+  "url": "https://openalex.org/W62332493",
+  "provider": "openalex",
+  "year": 2008,
+  "venue": "Publications Et Travaux Academiques de Lorraine (Universite de Lorraine)",
+  "citation_count": 0,
+  "abstract": "We investigated the association of genetic and nutritional determinants of homocysteine metabolism with inflammatory bowel diseases and the possible implication of hyperhomocysteinemia in the pathogenesis of Crohn's disease via an increased oxidative stress measured by superoxide dismutase activity. In multivariate analysis, vitamin B12 and MTHFR 677 TT carriers were the two significant independent factors of plasma homocysteine >15 µmol/L in CD patients (P = 0.0187 and 0.0048, respectively). Patients with a personal history of ileal resection, ileitis, or colectomy had significantly lower vitamin B12 levels.The significant association between homocysteine and vitamin B12 levels remained significant only in patients with the highest superoxide dismutase values (P < 0.0001). The MTRR AA genotype was a significant independent predictor of CD risk (odds ratio 3.7, 95% CI 1.218-11.649, P = 0.0213). The level of superoxide dismutase was significantly higher (P = 0.0143) and was correlated with Crohn's Disease Activity Index (CDAI) scores (P for trend = 0.0276) in patients carrying MTRR AA genotype. In The Chinese cohort, methionine synthase 2756G allele frequency was higher in ulcerative colitis than in controls (0.09 (95% C.I. 0.07 - 0.12) vs 0.15 (95% C.I. 0.11-0.19), P=0.0137) and predicted ulcerative colitis risk in multivariate logistic regression, with an Odds ratio at 1.8 (95 C.I. 1.09-2.99), P=0.0222. Methylenetetrahydrofolate reductase 677TT genotype was 2.7-fold more prevalent in individuals with pancolitis, with respective percentages of 27.3 (95% C.I.16.4-42.0) and 10.5 (95% C.I. 6.3-17.1) (P= 0.0123).",
+  "type": "academic",
+  "pdf_url": "http://docnum.univ-lorraine.fr/public/SCD_T_2008_0120_PEYRIN-BIROULET.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "src-019",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://insulinis.com/how-much-tmg-should-i-take-for-high-blood-pressure",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-20T18:23:34.401304+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-019.md",
+  "quality_details": {
+    "content_length": 19504,
+    "alpha_ratio": 0.833,
+    "sentence_count": 163,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

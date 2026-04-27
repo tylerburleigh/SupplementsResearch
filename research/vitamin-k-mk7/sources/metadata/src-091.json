@@ -1,0 +1,20 @@
+{
+  "id": "src-091",
+  "title": "Role of Vitamin K in Bone and Muscle Metabolism",
+  "authors": [
+    "Alonso, Nerea",
+    "Meinitzer, Andreas",
+    "Fritz-Petrin, Eva",
+    "Enko, Dietmar",
+    "Herrmann, Markus"
+  ],
+  "doi": "10.1007/s00223-022-00955-3",
+  "url": "https://openalex.org/W4211143702",
+  "provider": "openalex",
+  "year": 2022,
+  "venue": "Calcified Tissue International",
+  "citation_count": 75,
+  "abstract": "Vitamin K, a cofactor for the γ-glutamyl carboxylase enzyme, is required for the post-translational activation of osteocalcin and matrix Gla protein, which play a key role in bone and muscle homeostasis. In vivo and in vitro models for osteoporosis and sarcopenia suggest the vitamin K could exert a positive effect in both conditions. In bone, it increases osteoblastogenesis, whilst decreases osteoclast formation and function. In muscle, it is associated with increased satellite cell proliferation and migration and might play a role in energy metabolism. Observational trials suggest that high levels of vitamin K are associated with increased bone mineral density and reduced fracture risk. However, interventional studies for vitamin K supplementation yielded conflicting results. Clinical trials in sarcopenia suggest that vitamin K supplementation could improve muscle mass and function. One of the main limitations on the vitamin K studies are the technical challenges to measure its levels in serum. Thus, they are obtained from indirect sources like food questionnaires, or levels of undercarboxylated proteins, which can be affected by other environmental or biological processes. Although current research appoints to a beneficial effect of vitamin K in bone and muscle, further studies overcoming the current limitations are required in order to incorporate this supplementation in the clinical management of patients with osteosarcopenia.",
+  "type": "academic",
+  "pdf_url": "https://link.springer.com/content/pdf/10.1007/s00223-022-00955-3.pdf"
+}

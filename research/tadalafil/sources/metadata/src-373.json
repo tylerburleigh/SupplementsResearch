@@ -1,0 +1,19 @@
+{
+  "id": "src-373",
+  "title": "Effect of long and short half-life PDE5 inhibitors on HbA1c levels: a systematic review and meta-analysis",
+  "authors": [
+    "Kim, Joseph",
+    "Zhao, Rui",
+    "Kleinberg, L.",
+    "Kim, Kitai"
+  ],
+  "doi": "10.1016/j.eclinm.2024.103035",
+  "url": "https://www.semanticscholar.org/paper/f5cad6f60b7993b597247190fffd359766c325d2",
+  "provider": "semantic_scholar",
+  "year": 2024,
+  "venue": "EClinicalMedicine",
+  "citation_count": 4,
+  "abstract": "Summary Background Phosphodiesterase 5 (PDE5) inhibitors, owing to their mechanism of action, have been gaining recognition as a potential case of drug repurposing and combination therapy for diabetes treatment. We aimed to examine the effect of long and short half-life PDE5 inhibitors have on Haemoglobin A1c (HbA1c) levels. Methods A systematic review and meta-analysis was conducted of randomised controlled trials (RCTs) in people with elevated HbA1c (>6%) to assess mean difference in HbA1c levels from baseline versus controls after any PDE5 inhibitor intervention of ≥4 weeks, excluding multiple interventions. Cochrane CENTRAL, PMC Medline, ClinicalTrials.gov, and WHO ICTRP were searched without language restrictions up to September 30, 2024. Summary data from published data were extracted. PRISMA and Cochrane guidelines used to extract and assess data using a random-effects meta-analysis. This study is registered with the Research Registry, reviewregistry1733. Findings Among 1096 studies identified, in analysis of 13 studies with 1083 baseline patients, long half-life PDE5 inhibitors (tadalafil, PF-00489791) had decreases in HbA1c while short half-life PDE5 inhibitors (sildenafil, avanafil) had no change. Five (38.5%) studies had a low risk of bias, and eight (61.5%) had some concerns. Long half-life inhibitors had significant mean decrease of −0.40% ([−0.66, −0.14], p = 0.002, I2 = 82%, 7.70% baseline HbA1c). Short half-life inhibitors had insignificant mean difference of +0.08% ([−0.16, 0.33], p = 0.51, I2 = 40%, 7.73% baseline HbA1c). In ≥8-week trials with participants with type 2 diabetes (T2D) and mean HbA1c ≥ 6.5%, long half-life inhibitors had significant mean decrease of −0.50% ([−0.83, −0.17], I2 = 88%, p = 0.003); short half-life inhibitors had significant mean increase of +0.36% ([0.03, 0.68], I2 = 3%, p = 0.03). Interpretation At the well-controlled HbA1c of the participants, previous literature shows current diabetes treatments have similar HbA1c decreases, so the HbA1c mean difference of long half-life PDE5 inhibitors may indeed be clinically relevant. This suggests future investigation into PDE5 inhibitors as part of combination therapy or as therapy for high HbA1c individuals is needed, especially because of variable risk of biases, homogeneity, and sample sizes in our study. Funding None.",
+  "type": "academic",
+  "pdf_url": ""
+}

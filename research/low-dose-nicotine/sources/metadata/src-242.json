@@ -1,0 +1,20 @@
+{
+  "id": "src-242",
+  "title": "The Role of NMDA Receptors in Alzheimer’s Disease",
+  "authors": [
+    "Liu, Jinping",
+    "Chang, Lirong",
+    "Song, Yizhi",
+    "Li, Hui",
+    "Wu, Yan"
+  ],
+  "doi": "10.3389/fnins.2019.00043",
+  "url": "https://openalex.org/W2911747652",
+  "provider": "openalex",
+  "year": 2019,
+  "venue": "Frontiers in Neuroscience",
+  "citation_count": 505,
+  "abstract": "In Alzheimer's disease (AD), early synaptic dysfunction is associated with the increased oligomeric amyloid-beta peptide, which causes NMDAR-dependent synaptic depression and spine elimination. Memantine, low-affinity NMDAR channel blocker, has been used in the treatment of moderate to severe AD. However, clear evidence is still deficient in demonstrating the underlying mechanisms and a relationship between NMDARs dysfunction and AD. This review focuses on not only changes in expression of different NMDAR subunits, but also some unconventional modes of NMDAR action.",
+  "type": "academic",
+  "pdf_url": "https://www.frontiersin.org/articles/10.3389/fnins.2019.00043/pdf"
+}

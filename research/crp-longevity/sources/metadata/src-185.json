@@ -1,0 +1,24 @@
+{
+  "id": "src-185",
+  "title": "The effects of omega-3 fatty acid supplementation on inflammatory factors in HIV-infected patients: A systematic review and meta-analysis of randomized clinical trials.",
+  "authors": [
+    "Morvaridzadeh, Mojgan",
+    "Sepidarkish, M.",
+    "Yavari, M.",
+    "Tahvilian, N.",
+    "Heydarian, A.",
+    "Khazdouz, Maryam",
+    "Farsi, F.",
+    "Persad, E.",
+    "Heshmati, Javad"
+  ],
+  "doi": "10.1016/j.cyto.2020.155298",
+  "url": "https://www.semanticscholar.org/paper/25e94e134adf03b6737072f264528533a497c121",
+  "provider": "semantic_scholar",
+  "year": 2020,
+  "venue": "Cytokine",
+  "citation_count": 16,
+  "abstract": "High concentrations of C-reactive protein (CRP) and inflammatory markers are common in human immunodeficiency virus (HIV)-infected patients and are associated with non-HIV related comorbidity and mortality. Data on the benefits of omega-3 fatty acid (omega-3 FA) supplementation for improving inflammation status in HIV-infected patients are controversial. Thus, we conducted a systematic review and meta-analysis on the beneficial effects of omega-3 FAs on controlling inflammation in HIV-infected patients. We conducted a comprehensive search of the major biomedical databases, including PubMed, EMBASE, Scopus, Web of Science and Cochrane library, for all potentially relevant studies published without restriction from the beginning of time to June 2020. Overall, nine RCTs were included comprising a total of 427 participants. A random-effects model was used to calculate 95% confidence intervals (CI) and the effect was measured as standardized mean difference (SMD). Supplementation of omega-3 FAs showed a significant reduction of CRP (SMD: -0.27, 95% CI: -0.48 to -0.07, P = 0.007). There was no significant difference in levels of TNF-α (SMD: 0.03, 95% CI: -0.79 to 0.85, P = 0.94, I2 = 87%) and IL-6 (SMD: -0.13, 95% CI: -0.59 to 0.32, P = 0.57, I2 = 73%, Fig. 3). The results indicate that the supplementation of omega-3 FAs in HIV-infected patients significantly decreases serum CRP levels when compared to the control group, however has no significant effect on IL-6 and TNF-α levels.",
+  "type": "academic",
+  "pdf_url": ""
+}

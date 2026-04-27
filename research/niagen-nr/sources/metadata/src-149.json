@@ -1,0 +1,29 @@
+{
+  "id": "src-149",
+  "title": "Hierarchical tricarboxylic acid cycle regulation by hepatocyte arginase 2 links the urea cycle to oxidative metabolism.",
+  "authors": [
+    "Zhang, Yiming",
+    "Higgins, Cassandra B",
+    "Tica, Stefani",
+    "Adams, Joshua A",
+    "Sun, Jiameng",
+    "Kelly, Shannon C",
+    "Zong, Xiaoyu",
+    "Dietzen, Dennis J",
+    "Pietka, Terri",
+    "Ballentine, Samuel J",
+    "Shriver, Leah P",
+    "Patti, Gary J",
+    "Cao, Yin",
+    "DeBosch, Brian J"
+  ],
+  "doi": "10.1016/j.cmet.2024.07.007",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39116884",
+  "provider": "pubmed",
+  "year": 2024,
+  "venue": "Cell metabolism",
+  "citation_count": 0,
+  "abstract": "Urea cycle impairment and its relationship to obesity and inflammation remained elusive, partly due to the dramatic clinical presentation of classical urea cycle defects. We generated mice with hepatocyte-specific arginase 2 deletion (Arg2LKO) and revealed a mild compensated urea cycle defect. Stable isotope tracing and respirometry revealed hepatocyte urea and TCA cycle flux defects, impaired mitochondrial oxidative metabolism, and glutamine anaplerosis despite normal energy and glucose homeostasis during early adulthood. Yet during middle adulthood, chow- and diet-induced obese Arg2LKO mice develop exaggerated glucose and lipid derangements, which are reversible by replacing the TCA cycle oxidative substrate nicotinamide adenine dinucleotide. Moreover, serum-based hallmarks of urea, TCA cycle, and mitochondrial derangements predict incident fibroinflammatory liver disease in 106,606 patients nearly a decade in advance. The data reveal hierarchical urea-TCA cycle control via ARG2 to drive oxidative metabolism. Moreover, perturbations in this circuit may causally link urea cycle compromise to fibroinflammatory liver disease.",
+  "type": "academic",
+  "pdf_url": ""
+}

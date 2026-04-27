@@ -1,0 +1,25 @@
+{
+  "id": "src-218",
+  "title": "A non-inferiority randomized phase III trial of standard immunotherapy by checkpoint inhibitors vs. reduced dose intensity in responding patients with metastatic cancer: the MOIO protocol study",
+  "authors": [
+    "Gravis, G.",
+    "Marino, P.",
+    "Olive, Daniel",
+    "Penault-Llorca, F.",
+    "Delord, J.",
+    "Simon, C.",
+    "Lamrani-Ghaouti, A.",
+    "Sabatier, R.",
+    "Ciccolini, J.",
+    "Boher, J."
+  ],
+  "doi": "10.1186/s12885-023-10881-8",
+  "url": "https://www.semanticscholar.org/paper/4761ffe64cc7d03d79ba5d2848ef847662d2216d",
+  "provider": "semantic_scholar",
+  "year": 2023,
+  "venue": "BMC Cancer",
+  "citation_count": 14,
+  "abstract": "Background Immunotherapy (IO) has become a standard of care for treating various types of metastatic cancers and has significantly improved clinical outcome. With the exception of metastatic melanoma in complete response for which treatment can be stopped at 6 months, these treatments are currently administered until either disease progression for some IO, 2 years for others, or unacceptable toxicity. However, a growing number of studies are reporting maintenance of response despite discontinuation of therapy. There is currently no evidence of a dose effect of IO in pharmacokinetic studies. Maintaining efficacy despite a reduction in treatment intensity by decreasing the frequency of administration in patients with highly selected metastatic cancer, is the hypothesis evaluated in the MOIO study. Method/design This non-inferiority, randomized phase III study aims to compare the standard regimen to a 3 monthly regimen of variousIO drugs in adult patients with metastatic cancer in partial (PR) or complete response (CR) after 6 months of standard IO dosing (except melanoma in CR). This is a French national study conducted in 36 centers. The main objective is to demonstrate that the efficacy of a three-monthly administration is not unacceptably less efficacious than a standard administration. Secondary objectives are cost-effectiveness, quality of life (QOL), anxiety, fear of relapse, response rate, overall survival and toxicity. After 6 months of standard IO, patients with partial or complete response will be randomized 1:1 between standard IO or a reduced intensity dose of IO, administered every 3 months. The randomization will be stratified on therapy line,, tumor type, IO type and response status. The primary endpoint is the hazard ratio of progression-free survival. With a planned study duration of 6 years, including 36 months enrolment time, 646 patients are planned to demonstrate with a statistical level of evidence of 5% that the reduced IO regimen is non-inferior to the standard IO regimen, with a relative non-inferiority margin set at 1.3. Discussion Should the hypothesis of non-inferiority with an IO reduced dose intensity be validated, alternate scheduling could preserve efficacy while being cost-effective and allowing a reduction of the toxicity, with an increase in patient’s QOL. Trial registration NCT05078047.",
+  "type": "academic",
+  "pdf_url": "https://bmccancer.biomedcentral.com/counter/pdf/10.1186/s12885-023-10881-8"
+}

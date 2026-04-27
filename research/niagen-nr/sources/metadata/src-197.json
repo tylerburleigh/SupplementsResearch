@@ -1,0 +1,21 @@
+{
+  "id": "src-197",
+  "title": "Atrial fibrillation",
+  "authors": [
+    "Brundel, Bianca J.J.M.",
+    "Ai, Xun",
+    "Hills, Mellanie True",
+    "Kuipers, Myrthe F.",
+    "Lip, Gregory Y.H.",
+    "Groot, Natasja M.S. de"
+  ],
+  "doi": "10.1038/s41572-022-00347-9",
+  "url": "https://openalex.org/W4223534056",
+  "provider": "openalex",
+  "year": 2022,
+  "venue": "Nature Reviews Disease Primers",
+  "citation_count": 473,
+  "abstract": "Atrial fibrillation (AF) is the most common cardiac arrhythmia despite substantial efforts to understand the pathophysiology of the condition and develop improved treatments. Identifying the underlying causative mechanisms of AF in individual patients is difficult and the efficacy of current therapies is suboptimal. Consequently, the incidence of AF is steadily rising and there is a pressing need for novel therapies. Research has revealed that defects in specific molecular pathways underlie AF pathogenesis, resulting in electrical conduction disorders that drive AF. The severity of this so-called electropathology correlates with the stage of AF disease progression and determines the response to AF treatment. Therefore, unravelling the molecular mechanisms underlying electropathology is expected to fuel the development of innovative personalized diagnostic tools and mechanism-based therapies. Moreover, the co-creation of AF studies with patients to implement novel diagnostic tools and therapies is a prerequisite for successful personalized AF management. Currently, various treatment modalities targeting AF-related electropathology, including lifestyle changes, pharmaceutical and nutraceutical therapy, substrate-based ablative therapy, and neuromodulation, are available to maintain sinus rhythm and might offer a novel holistic strategy to treat AF.",
+  "type": "academic",
+  "pdf_url": "https://www.nature.com/articles/s41572-022-00347-9.pdf"
+}

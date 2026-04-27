@@ -1,0 +1,98 @@
+17	2	Abstract
+57	2	Background
+171	2	Methods
+324	2	Analysis
+367	2	Results
+621	2	Parp
+760	2	Discussion
+932	2	Erk
+1086	2	Conclusion
+1095	2	Competing Interests
+1110	2	Acknowledgements
+1116	2	References
+1117	2	1. Yang MM, Chen Z, Kwok JS: The anti-tumor effect of a small
+1120	2	2. Wasser SP, Weis AL: Therapeutic effects of substances occur-
+1123	2	3. Borchers AT, Stern JS, Hackman RM, Keen CL, Gershwin ME: Mush-
+1126	2	4. Kidd PM: The use of mushroom glucans and proteoglycans in
+1128	2	5. Hsieh TC, Wu JM: Cell growth and gene modulatory activities
+1132	2	6. Chu KK, Ho SS, Chow AH: Coriolus versicolor: a medicinal
+1135	2	7. Chang R: Bioactive polysaccharides from traditional Chinese
+1144	2	9. Zaidman BZ, Yassin M, Mahajna J, Wasser SP: Medicinal mush-
+1147	2	10. Fullerton SA, Samadi AA, Tortor elis DG, Choudhury MS, Mallouh C,
+1154	2	12. Harada T, Miura N, Adachi Y,  Nakajima M, Yadomae T, Ohn N:
+1158	2	13. Zhang M, Cheung PC, Zhang L: Evaluation of mushroom dietary
+1162	2	14. Ohno N, Furukawa M, Miura NN,  Adachi Y, Motoi M, Yadomae T:
+1165	2	15. Takaku T, Kimura Y, Okuda H: Isolation of an antitumor com-
+1168	2	16. Wang HX, Liu WK, Ng TB, Ooi VE, Chang ST: Immunomodula-
+1172	2	17. Wang H, Gao J, Ng TB: A new lectin with highly potent anti-
+1176	2	18. Wang HX, Ng TB: Examination of lectins, polysaccharopep-
+1183	2	20. Nanba H, Kubo K: Effect of Maitake D-fraction on cancer pre-
+1188	2	22. Finkelstein MP, Aynehchi S, Samadi AA, Drinis S, Choudhury MS,
+1198	2	24. Dong Y, Yang MM, Kwan CY: In vitro inhibition of proliferation
+1202	2	25. Ng TB: A review of research on the protein-bound polysac-
+1206	2	26. Li XY, Wang JF, Zhu PP, Liu L, Ge JB, Yang SX: Immune enhance-
+1209	2	27. Cui J, Chisti Y: Polysaccharopeptides of Coriolus versicolor:
+1212	2	28. Hsieh TC, Kunicki J, Darzynkiewicz Z, Wu JM: Effects of extracts
+1218	2	29. Zeng F, Hon CC, Sit WH, Chow KY, Hui RK, Law IK, Ng VW, Yang
+1223	2	30. Hui KP, Sit WH, Wan JM: Induction of S phase cell arrest and
+1228	2	31. Yang X, Sit WH, Chan DK, Wan JM: The cell death process of the
+1232	2	32. Dipietrantonio A, Hsieh TC, Wu JM: Differential effects of retin-
+1241	2	34. Hsieh TC, Wu JM: Mechanism of action of herbal supplement
+1246	2	35. Hsieh TC, Wang Z, Hamby CV, Wu JM: Inhibition of melanoma
+1250	2	36. Hsieh TC, Wu JM: Differential effects on growth, cell cycle
+1253	2	37. Darzynkiewicz Z, Bedner E, Smolewski P: Flow cytometry in anal-
+1255	2	38. Fu Y, Hsieh TC, Guo J, Kunicki J,  Lee MY, Darzynkiewicz Z, Wu JM:
+1260	2	39. Hsieh TC, Juan G, Darzynkiewicz Z, Wu JM: Resveratrol increases
+1265	2	40. Lu X, Hsieh TC, Wu JM: Equiguard suppresses androgen-
+1270	2	41. Lu X, Guo J, Hsieh TC: PC-SPES inhibits cell proliferation by
+1273	2	42. Hsieh TC, Lu X, Guo J, Xiong W, Kunicki J, Darzynkiewicz Z, Wu JM:
+1277	2	43. Lu X, Guo J, Hsieh TC, Wu JM: Inhibition of proliferation and
+1283	2	44. Taya Y: RB kinases and RB-binding proteins: new points of
+1285	2	45. Darzynkiewicz Z, Bedner E, Traganos F, Murakami T: Critical
+1288	2	46. Wu JM, DiPietrantonio AM, Hsieh TC: Mechanism of fenretinide
+1290	2	47. Darzynkiewicz Z, Smolewski P, Bedner E: Use of flow and laser
+1297	2	48. Darzynkiewicz Z, Huang X, Okafuji M, King MA: Cytometric meth-
+1299	2	49. Thompson CB: Apoptosis in the pathogenesis and treatment
+1301	2	50. Duckett CS, Thompson CB: The control and execution of pro-
+1304	2	51. Tsai SY, Ardelt B, Hsieh TC, Da rzynkiewicz Z, Shogen K, Wu JM:
+1309	2	52. Perkins ND, Gilmore TD: Good cop, bad cop: the different faces
+1315	2	55. Shishodia S, Aggarwal BB: Nuclear factor-kappaB: a friend or a
+1317	2	56. Kumar A, Takada Y, Boriek AM, Aggarwal BB: Nuclear factor-kap-
+1319	2	57. Shishodia S, Aggarwal BB: Nuclear factor-kappaB activation
+1323	2	58. Horvath CM: The Jak-STAT pathway stimulated by interferon
+1328	2	60. Kerr IM, Costa-Pereira AP, Lillemeier BF, Strobl B: Of JAKs,
+1331	2	61. Sehgal PB, Guo GG, Shah M, Kumar V, Patel K: Cytokine signaling:
+1342	2	64. Doll R, Peto R: The causes of cancer: quantitative estimates of
+1345	2	65. Hsing AW, Tsao L, Devesa SS: International trends and patterns
+1348	2	66. Hsing AW, Devesa SS: Trends and patterns of prostate cancer:
+1350	2	67. Sporn MB, Suh N: Chemoprevention: an essential approach to
+1352	2	68. Sporn MB, Newton DL: Chemoprevention of cancer with retin-
+1356	2	70. Milner JA, McDonald SS, Anderson DE, Greenwald P: Molecular
+1362	2	73. Greenwald P: Clinical trials in canc er prevention: current
+1367	2	75. Greenwald P, McDonald SS, Anderson DE: An evidence-based
+1370	2	76. Greenwald P, Milner JA, Anderson DE, McDonald SS: Micronutri-
+1373	2	77. Hong WK, Sporn MB: Recent advances in chemoprevention of
+1375	2	78. Kelloff GJ, Hawk ET, Karp JE, Crowell JA, Boone CW, Steele VE,
+1378	2	79. Kelloff GJ, Lieberman R, Steele VE, Boone CW, Lubet RA, Kopelovich
+1387	2	82. Campbell KJ, Witty JM, Rocha S, Perkins ND: Cisplatin mimics
+1390	2	83. Gimonet D, Landais E, Bobichon H, Coninx P, Liautaud-Roger F:
+1393	2	84. Shimizu T, Pommier Y: DNA fragmentation induced by pro-
+1398	2	85. El-Mahdy MA, Zhu Q, Wang QE, Wani G, Wani AA: Thymoqui-
+1402	2	86. Houle MG, Kahn RA, Naccache PH, Bourgoin S: ADP-ribosylation
+1406	2	87. Martin A, Brown FD, Hodgkin MN, Bradwell AJ, Cook SJ, Hart M,
+1411	2	88. Guillemain I, Exton JH: Effects of brefeldin A on phosphatidyl-
+1414	2	89. Skippen A, Jones DH, Morgan CP, Li M, Cockcroft S: Mechanism of
+1418	2	90. Denk A, Goebeler M, Schmid S, Berberich I, Ritz O, Lindemann D,
+1423	2	91. Perona R, Montaner S, Saniger L, Sanchez-Perez I, Bravo R, Lacal JC:
+1428	2	93. Narayanan BA, Narayanan NK, Pittman B, Reddy BS: Regression of
+1432	2	94. Narayanan BA, Narayanan NK, Pttman B, Reddy BS: Adenocarcina
+1438	2	96. Ranger GS, Thomas V, Jewell A, Mokbel K: Elevated cyclooxygen-
+1445	2	99. Wasser SP: Medicinal mushrooms as a source of antitumor
+1465	2	100. Fisher M, Yang LX: Anticancer effects and mechanisms of
+1468	2	101. Howard KA, Li XW, Somavarapu S, Singh J, Green N, Atuah KN,
+1472	2	102. Ross BP, Toth I: Gastrointestinal absorption of heparin by lip-
+1475	2	103. Kim SK, Lee EH, Vaishali B, Lee S, Lee YK, Kim CY, Moon HT, Byun
+1479	2	104. Kim SK, Vaishali B, Lee E, Lee S, Lee YK, Kumar TS, Moon HT, Byun
+1482	2	105. Bernkop-Schnurch A, Kast CE, Guggi D: Permeation enhancing
+1485	2	106. Tsai MF, Chiang YL, Wang LF, Huang GW, Wu PC: Oral sustained
+1488	2	107. Sinha VR, Kumria R: Polysaccharides in colon-specific drug

@@ -1,0 +1,25 @@
+{
+  "id": "src-275",
+  "title": "Transferrin receptor 1-mediated iron uptake supports thermogenic activation in human cervical-derived adipocytes.",
+  "authors": [
+    "Alrifai, Rahaf",
+    "Seo, Mizuki",
+    "Karadsheh, Gyath",
+    "Mahendra, F. R.",
+    "Demény, M.",
+    "Győry, F.",
+    "Mótyán, J.",
+    "Fésüs, László",
+    "Kristóf, E.",
+    "Arianti, Rini"
+  ],
+  "doi": "10.1002/1873-3468.70312",
+  "url": "https://www.semanticscholar.org/paper/ffa6b49e34a640c6894634860d55a516d2dd3711",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "FEBS Letters",
+  "citation_count": 0,
+  "abstract": "Adrenergic-driven thermogenic activation of brown adipose tissue requires high amounts of nutrients including iron to support mitochondrial biogenesis. This is governed by rapid gene expression changes in ex vivo differentiated human cervical-derived brown adipocytes. Transferrin receptor 1 (TFRC) is upregulated in response to dibutyryl-cAMP. We aim to investigate the mechanism of facilitated iron uptake when thermogenesis is activated. Pharmacological inhibition and siRNA-mediated knock-down of TFRC during stimulation decrease intracellular iron content and prevent elevation of oxygen consumption and induction of thermogenic markers. Deferoxamine-mediated iron chelation also shows comparable effects. Contrarily, the expression of ferroportin exporter is suppressed during activation; however, its inhibition does not increase thermogenesis. Brown adipocytes constitutively express and secrete high amounts of transferrin, while melanotransferrin expression and release are upregulated only in activated adipocytes. In silico analysis suggests that melanotransferrin interacts with the helical domain of TFRC. Our findings support that iron is critical in stimulating adipocyte thermogenesis.",
+  "type": "academic",
+  "pdf_url": ""
+}

@@ -1,0 +1,24 @@
+{
+  "id": "src-093",
+  "title": "Celastrol: A Review of Useful Strategies Overcoming its Limitation in Anticancer Application",
+  "authors": [
+    "Shi, Jinfeng",
+    "Li, Jiaxin",
+    "Xu, Ziyi",
+    "Chen, Liang",
+    "Luo, Ruifeng",
+    "Zhang, Chen",
+    "Gao, Fei",
+    "Zhang, Jinming",
+    "Fu, Chaomei"
+  ],
+  "doi": "10.3389/fphar.2020.558741",
+  "url": "https://openalex.org/W3099539338",
+  "provider": "openalex",
+  "year": 2020,
+  "venue": "Frontiers in Pharmacology",
+  "citation_count": 186,
+  "abstract": "Celastrol, a natural bioactive ingredient derived from <i>Tripterygium wilfordii</i> Hook F, exhibits significant broad-spectrum anticancer activities for the treatment of a variety of cancers including liver cancer, breast cancer, prostate tumor, multiple myeloma, glioma, etc. However, the poor water stability, low bioavailability, narrow therapeutic window, and undesired side effects greatly limit its clinical application. To address this issue, some strategies were employed to improve the anticancer efficacy and reduce the side-effects of celastrol. The present review comprehensively focuses on the various challenges associated with the anticancer efficiency and drug delivery of celastrol, and the useful approaches including combination therapy, structural derivatives and nano/micro-systems development. The specific advantages for the use of celastrol mediated by these strategies are presented. Moreover, the challenges and future research directions are also discussed. Based on this review, it would provide a reference to develop a natural anticancer compound for cancer treatment.",
+  "type": "academic",
+  "pdf_url": "https://www.frontiersin.org/articles/10.3389/fphar.2020.558741/pdf"
+}

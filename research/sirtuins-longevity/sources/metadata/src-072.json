@@ -1,0 +1,25 @@
+{
+  "id": "src-072",
+  "title": "#2271 SGLT2 inhibition triggers aestivation-like metabolic switches for water conservation in patients with heart failure—results from DAPA-Shuttle1, a randomized, placebo-controlled trial",
+  "authors": [
+    "Marton, Adriana",
+    "Morisawa, Norihiko",
+    "Saffari, S. E.",
+    "Sim, David",
+    "Luft, Friedrich C",
+    "Greasley, Peter J.",
+    "Kitada, Kento",
+    "Kovalik, Jean-Paul",
+    "Rauh, Manfred",
+    "Titze, Jens"
+  ],
+  "doi": "10.1093/ndt/gfaf116.119",
+  "url": "https://www.semanticscholar.org/paper/bdc18b81f2db11402be5e49bd8974d0718da80d6",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "Nephrology, Dialysis and Transplantation",
+  "citation_count": 0,
+  "abstract": "Nitrogen-driven water conservation during states of environmental energy and water scarcity is part of an evolutionary conserved physiological principle in many vertebrate and invertebrate organisms, known as aestivation. Because evolutionary reconstruction suggests that early Homo species evolved in habitats with constant access to water, this ancient biological axiom is considered redundant in human physiology. We have recently shown that therapeutic sodium/glucose cotransporter 2 inhibition (SGLT2i) in patients with chronic heart failure promotes urinary glucose excretion, but does not have an osmotic-diuretic or natriuretic effect [1]. It is therefore unclear how SGLT2i may chronically decongest patients with heart failure without increasing renal water excretion. We tested the hypothesis that SGLT2i triggers evolutionary conserved, aestivation-like metabolic patterns for water conservation in humans by activating nitrogen/urea-driven water conservation, with increased ureagenesis and reduced fractional urea excretion.\n\nDAPA-Shuttle1 was an investigator-initiated, mechanistic, randomized, placebo-controlled clinical trial designed to compare the effects of dapagliflozin 10 mg versus matching placebo on renal water and electrolyte handling and water conservation metabolism after 48 h (early effect) and after 4 weeks (late effect) of treatment in patients with heart failure NYHA classes I and II.\n\n29 participants (placebo: n =14; dapagliflozin: n =15) completed the study with accurate 24 h urine collections (mean age 59 ± 14 years, 48.3% with type 2 diabetes). SGLT2i increased free amino acids, their derived ketoacids, and ornithine/arginine levels in the 24 h urine metabolome, suggesting increased urea production. Instead of increasing urea excretion in response to promoted ureagenesis, SGLT2i reduced FEUrea by −6% (p < 0.01), which resulted in increased urine concentration (p < 0.01) and elevated blood urea levels (p < 0.05). This amino acid-dependent modulation of water metabolism included increased generation of specific short-chain ketoacids that reduce mitochondrial metabolic rate and water production. As a result, SGLT2i established a new steady-state in water homeostasis with mild under-hydration and nitrogen-driven water conservation, which abolished the osmotic-diuretic potential of glucosuria within 24–48 hours of treatment initiation.\n\nAlthough they significantly increase glucosuria, SGLT2i do not have an osmotic diuretic effect—instead, they increase urine concentration through a reduction in fractional urea excretion and parallel promotion of ureagenesis. The resulting metabolic switches for urea production increase plasma urea levels and favour energy-efficient ketone body fuel production. The reduction in mitochondrial metabolic rate results in a new steady-state of body water homeostasis with mild dehydration, which may explain decongestion even in the absence of a diuretic effect. These metabolic features, often considered as explanations for the beneficial effects of SGLT2i on healthspan and longevity, closely resemble the metabolic adaptations seen in aestivating organisms.\nTrial registration: https://clinicaltrials.gov; unique identifier NCT04080518.\nFunding: AstraZeneca externally sponsored research program (ESR-18-13712), German Ministry for Economic Affairs and Climate Action (50WB0920, 50WB1624, 50WB2024, and 50WB2324).",
+  "type": "academic",
+  "pdf_url": ""
+}

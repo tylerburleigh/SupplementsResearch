@@ -1,0 +1,19 @@
+{
+  "id": "src-236",
+  "title": "Liquid Chromatography Analysis of Common Nutritional Components, in Feed and Food",
+  "authors": [
+    "Cortés-Herrera, Carolina",
+    "Artavia, Graciela",
+    "Leiva, Astrid",
+    "Granados-Chinchilla, Fabio"
+  ],
+  "doi": "10.3390/foods8010001",
+  "url": "https://openalex.org/W2903954706",
+  "provider": "openalex",
+  "year": 2018,
+  "venue": "Foods",
+  "citation_count": 268,
+  "abstract": "Food and feed laboratories share several similarities when facing the implementation of liquid-chromatographic analysis. Using the experience acquired over the years, through application chemistry in food and feed research, selected analytes of relevance for both areas were discussed. This review focused on the common obstacles and peculiarities that each analyte offers (during the sample treatment or the chromatographic separation) throughout the implementation of said methods. A brief description of the techniques which we considered to be more pertinent, commonly used to assay such analytes is provided, including approaches using commonly available detectors (especially in starter labs) as well as mass detection. This manuscript consists of three sections: feed analysis (as the start of the food chain); food destined for human consumption determinations (the end of the food chain); and finally, assays shared by either matrices or laboratories. Analytes discussed consist of both those considered undesirable substances, contaminants, additives, and those related to nutritional quality. Our review is comprised of the examination of polyphenols, capsaicinoids, theobromine and caffeine, cholesterol, mycotoxins, antibiotics, amino acids, triphenylmethane dyes, nitrates/nitrites, ethanol soluble carbohydrates/sugars, organic acids, carotenoids, hydro and liposoluble vitamins. All analytes are currently assayed in our laboratories.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2304-8158/8/1/1/pdf?version=1548143518"
+}

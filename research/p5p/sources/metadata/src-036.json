@@ -1,0 +1,40 @@
+{
+  "id": "src-036",
+  "title": "Maternal B-vitamin and vitamin D status before, during, and after pregnancy and the influence of supplementation preconception and during pregnancy: Prespecified secondary analysis of the NiPPeR double-blind randomized controlled trial",
+  "authors": [
+    "Godfrey, Keith M.",
+    "Titcombe, Philip",
+    "El-Heis, Sarah",
+    "Albert, Benjamin B.",
+    "Tham, Elizabeth Huiwen",
+    "Barton, Sheila J.",
+    "Kenealy, Timothy",
+    "Chong, Mary Foong-Fong",
+    "Nield, Heidi",
+    "Chong, Yap Seng",
+    "Chan, Shiao-Yng",
+    "Cutfield, Wayne S."
+  ],
+  "year": 2023,
+  "abstract": "Background\nMaternal vitamin status preconception and during pregnancy has important consequences for pregnancy outcome and offspring development. Changes in vitamin status from preconception through early and late pregnancy and postpartum have been inferred from cross-sectional data, but longitudinal data on vitamin status from preconception throughout pregnancy and postdelivery are sparse. As such, the influence of vitamin supplementation on vitamin status during pregnancy remains uncertain. This study presents one prespecified outcome from the randomized controlled NiPPeR trial, aiming to identify longitudinal patterns of maternal vitamin status from preconception, through early and late pregnancy, to 6 months postdelivery, and determine the influence of vitamin supplementation.\n\nMethods and findings\nIn the NiPPeR trial, 1,729 women (from the United Kingdom, Singapore, and New Zealand) aged 18 to 38 years and planning conception were randomized to receive a standard vitamin supplement (control; n = 859) or an enhanced vitamin supplement (intervention; n = 870) starting in preconception and continued throughout pregnancy, with blinding of participants and research staff. Supplement components common to both treatment groups included folic acid, β-carotene, iron, calcium, and iodine; components additionally included in the intervention group were riboflavin, vitamins B6, B12, and D (in amounts available in over-the-counter supplements), myo-inositol, probiotics, and zinc. The primary outcome of the study was glucose tolerance at 28 weeks’ gestation, measured by oral glucose tolerance test. The secondary outcome reported in this study was the reduction in maternal micronutrient insufficiency in riboflavin, vitamin B6, vitamin B12, and vitamin D, before and during pregnancy. We measured maternal plasma concentrations of B-vitamins, vitamin D, and markers of insufficiency/deficiency (homocysteine, hydroxykynurenine-ratio, methylmalonic acid) at recruitment, 1 month after commencing intervention preconception, in early pregnancy (7 to 11 weeks’ gestation) and late pregnancy (around 28 weeks’ gestation), and postdelivery (6 months after supplement discontinuation). We derived standard deviation scores (SDS) to characterize longitudinal changes among participants in the control group and measured differences between the 2 groups. At recruitment, the proportion of patients with marginal or low plasma status was 29.2% for folate (&lt;13.6 nmol/L), 7.5% and 82.0% for riboflavin (&lt;5 nmol/L and ≤26.5 nmol/L, respectively), 9.1% for vitamin B12 (&lt;221 pmol/L), and 48.7% for vitamin D (&lt;50 nmol/L); these proportions were balanced between the groups. Over 90% of all participants had low or marginal status for one or more of these vitamins at recruitment. Among participants in the control group, plasma concentrations of riboflavin declined through early and late pregnancy, whereas concentrations of 25-hydroxyvitamin D were unchanged in early pregnancy, and concentrations of vitamin B6 and B12 declined throughout pregnancy, becoming &gt;1 SDS lower than baseline by 28 weeks gestation. In the control group, 54.2% of participants developed low late-pregnancy vitamin B6 concentrations (pyridoxal 5-phosphate &lt;20 nmol/L). After 1 month of supplementation, plasma concentrations of supplement components were substantially higher among participants in the intervention group than those in the control group: riboflavin by 0.77 SDS (95% CI 0.68 to 0.87, p &lt; 0.0001), vitamin B6 by 1.07 SDS (0.99 to 1.14, p &lt; 0.0001), vitamin B12 by 0.55 SDS (0.46 to 0.64, p &lt; 0.0001), and vitamin D by 0.51 SDS (0.43 to 0.60, p &lt; 0.0001), with higher levels in the intervention group maintained during pregnancy. Markers of vitamin insufficiency/deficiency were reduced in the intervention group, and the proportion of participants with vitamin D insufficiency (&lt;50 nmol/L) during late pregnancy was lower in the intervention group (35.1% versus 8.5%; p &lt; 0.0001). Plasma vitamin B12 remained higher in the intervention group than in the control group 6 months postdelivery (by 0.30 SDS (0.14, 0.46), p = 0.0003). The main limitation is that generalizability to the global population is limited by the high-resource settings and the lack of African and Amerindian women in particular.\n\nConclusions\nOver 90% of the trial participants had marginal or low concentrations of one or more of folate, riboflavin, vitamin B12, or vitamin D during preconception, and many developed markers of vitamin B6 deficiency in late pregnancy. Preconception/pregnancy supplementation in amounts available in over-the-counter supplements substantially reduces the prevalence of vitamin deficiency and depletion markers before and during pregnancy, with higher maternal plasma vitamin B12 maintained during the recommended lactational period.\n\nTrial registration\nClinicalTrials.gov NCT02509988; U1111-1171-8056.",
+  "doi": "10.1371/journal.pmed.1004260",
+  "url": "https://doi.org/10.1371/journal.pmed.1004260",
+  "pdf_url": "",
+  "venue": "PLOS Medicine",
+  "citation_count": 20,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-20T16:02:21.775005+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-036.md",
+  "quality_details": {
+    "content_length": 95952,
+    "alpha_ratio": 0.686,
+    "sentence_count": 720,
+    "reasons": []
+  }
+}

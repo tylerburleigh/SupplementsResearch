@@ -1,0 +1,19 @@
+{
+  "id": "src-107",
+  "title": "Resveratrol: French Paradox Revisited",
+  "authors": [
+    "Karademir, Betül",
+    "Batırel, Saime",
+    "Taga, Yavuz",
+    "Özer, Nesrin Kartal"
+  ],
+  "doi": "10.3389/fphar.2012.00141",
+  "url": "https://openalex.org/W2155903397",
+  "provider": "openalex",
+  "year": 2012,
+  "venue": "Frontiers in Pharmacology",
+  "citation_count": 443,
+  "abstract": "Resveratrol is a polyphenol that plays a potentially important role in many disorders and has been studied in different diseases. The research on this chemical started through the \"French paradox,\" which describes improved cardiovascular outcomes despite a high-fat diet in French people. Since then, resveratrol has been broadly studied and shown to have antioxidant, anti-inflammatory, anti-proliferative, and anti-angiogenic effects, with those on oxidative stress possibly being most important and underlying some of the others, but many signaling pathways are among the molecular targets of resveratrol. In concert they may be beneficial in many disorders, particularly in diseases where oxidative stress plays an important role. The main focus of this review will be the pathways affected by resveratrol. Based on these mechanistic considerations, the involvement of resveratrol especially in cardiovascular diseases, cancer, neurodegenerative diseases, and possibly in longevity will be is addressed.",
+  "type": "academic",
+  "pdf_url": "https://www.frontiersin.org/articles/10.3389/fphar.2012.00141/pdf"
+}

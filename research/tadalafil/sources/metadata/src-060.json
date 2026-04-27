@@ -1,0 +1,39 @@
+{
+  "id": "src-060",
+  "title": "Evaluation of arterial stiffness and cardiac function in patients with vascular erectile dysfunction: acute effects of phosphodiesterase-5 inhibitor tadalafil",
+  "authors": [
+    "Özdabakoğlu, O",
+    "Güllülü, S",
+    "Sağ, S",
+    "Şentürk, T",
+    "Kiliçarslan, H",
+    "Tütüncü, A",
+    "Keçebaş, M",
+    "Baran, İ",
+    "Aydinlar, A"
+  ],
+  "year": 2017,
+  "abstract": "",
+  "doi": "10.1038/ijir.2016.47",
+  "url": "https://doi.org/10.1038/ijir.2016.47",
+  "pdf_url": "",
+  "venue": "International Journal of Impotence Research",
+  "citation_count": 7,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-25T14:58:11.100157+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-060.md",
+  "quality_details": {
+    "content_length": 9436,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

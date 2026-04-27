@@ -1,0 +1,19 @@
+{
+  "id": "src-107",
+  "title": "Biological age is superior to chronological age in predicting hospital mortality of the critically ill",
+  "authors": [
+    "Ho, Kwok M.",
+    "Morgan, David",
+    "Johnstone, Mason",
+    "Edibam, Cyrus"
+  ],
+  "doi": "10.1007/s11739-023-03397-3",
+  "url": "https://openalex.org/W4386202195",
+  "provider": "openalex",
+  "year": 2023,
+  "venue": "Internal and Emergency Medicine",
+  "citation_count": 49,
+  "abstract": "Biological age is increasingly recognized as being more accurate than chronological age in determining chronic health outcomes. This study assessed whether biological age, assessed on intensive care unit (ICU) admission, can predict hospital mortality. This retrospective cohort study, conducted in a tertiary multidisciplinary ICU in Western Australia, used the Levine PhenoAge model to estimate each patient's biological age (also called PhenoAge). Each patient's PhenoAge was calibrated to generate a regression residual which was equivalent to biological age unexplained by chronological age in the local context. PhenoAgeAccel was a dichotomized measure of the residuals, and its presence suggested that one was biologically older than the corresponding chronological age. Of the 2950 critically ill adult patients analyzed, 291 died (9.9%) before hospital discharge. Both PhenoAge and its residuals (after regressing on chronological age) had a significantly better ability to differentiate between hospital survivors and non-survivors than chronological age (area under the receiver-operating-characteristic curve 0.648 and 0.654 vs. 0.547 respectively). Being phenotypically older than one's chronological age was associated with an increased risk of mortality (PhenoAgeAccel hazard ratio [HR] 1.997, 95% confidence interval [CI] 1.568-2.542; p = 0.001) in a dose-related fashion and did not reach a plateau until at least a 20-year gap. This adverse association remained significant (adjusted HR 1.386, 95% CI 1.077-1.784; p = 0.011) after adjusted for severity of acute illness and comorbidities. PhenoAgeAccel was more prevalent among those with pre-existing chronic cardiovascular disease, end-stage renal failure, cirrhosis, immune disease, diabetes mellitus, or those treated with immunosuppressive therapy. Being phenotypically older than one's chronological age was more common among those with comorbidities, and this was associated with an increased risk of mortality in a dose-related fashion in the critically ill that was not fully explained by comorbidities and severity of acute illness.",
+  "type": "academic",
+  "pdf_url": "https://link.springer.com/content/pdf/10.1007/s11739-023-03397-3.pdf"
+}

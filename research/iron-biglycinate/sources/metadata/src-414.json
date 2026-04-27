@@ -1,0 +1,22 @@
+{
+  "id": "src-414",
+  "title": "Identification of an iron-responsive subtype in two children diagnosed with relapsing-remitting multiple sclerosis using whole exome sequencing.",
+  "authors": [
+    "van Rensburg, Susan J",
+    "Peeters, Armand V",
+    "van Toorn, Ronald",
+    "Schoeman, Johan",
+    "Moremi, Kelebogile E",
+    "van Heerden, Carel J",
+    "Kotze, Maritha J"
+  ],
+  "doi": "10.1016/j.ymgmr.2019.100465",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/30963028",
+  "provider": "pubmed",
+  "year": 2019,
+  "venue": "Molecular genetics and metabolism reports",
+  "citation_count": 0,
+  "abstract": "BACKGROUND: Multiple sclerosis is a disorder related to demyelination of axons. Iron is an essential cofactor in myelin synthesis. Previously, we described two children (males of mixed ancestry) with relapsing-remitting multiple sclerosis (RRMS) where long-term remission was achieved by regular iron supplementation. A genetic defect in iron metabolism was postulated, suggesting that more advanced genetic studies could shed new light on disease pathophysiology related to iron.\nMETHODS: Whole exome sequencing (WES) was performed to identify causal pathways. Blood tests were performed over a 10 year period to monitor the long-term effect of a supplementation regimen. Clinical wellbeing was assessed quarterly by a pediatric neurologist and regular feedback was obtained from the schoolteachers.\nRESULTS: WES revealed gene variants involved in iron absorption and transport, in the transmembrane protease, serine 6 (TMPRSS6) and transferrin (TF) genes; multiple genetic variants in CUBN, which encodes cubilin (a receptor involved in the absorption of vitamin B12 as well as the reabsorption of transferrin-bound iron and vitamin D in the kidneys); SLC25A37 (involved in iron transport into mitochondria) and CD163 (a scavenger receptor involved in hemorrhage resolution). Variants were also found in COQ3, involved with synthesis of Coenzyme Q10 in mitochondria. Neither of the children had the HLA-DRB1*1501 allele associated with increased genetic risk for MS, suggesting that the genetic contribution of iron-related genetic variants may be instrumental in childhood MS. In both children the RRMS has remained stable without activity over the last 10 years since initiation of nutritional supplementation and maintenance of normal iron levels, confirming the role of iron deficiency in disease pathogenesis in these patients.\nCONCLUSION: Our findings highlight the potential value of WES to identify heritable risk factors that could affect the reabsorption of transferrin-bound iron in the kidneys causing sustained iron loss, together with inhibition of vitamin B12 absorption and vitamin D reabsorption (CUBN) and iron transport into mitochondria (SLC25A37) as the sole site of heme synthesis. This supports a model for RRMS in children with an apparent iron-deficient biochemical subtype of MS, with oligodendrocyte cell death and impaired myelination possibly caused by deficits of energy- and antioxidant capacity in mitochondria.",
+  "type": "academic",
+  "pdf_url": ""
+}

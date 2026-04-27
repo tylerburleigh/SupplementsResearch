@@ -1,0 +1,31 @@
+{
+  "id": "src-058",
+  "title": "Chondroprotective therapy and adjuvant support for patients with chronic lower back pain",
+  "authors": [
+    "Shavlovskaya, O.A."
+  ],
+  "year": 2024,
+  "abstract": "The trend of an annual increase in the detection of new cases of osteoarthritis (OA) and an increase in the number of patients with chronic lower back pain (LBP) calls for the search for new drugs and pharmaconutraceuticals with anti-inflammatory and chondroprotective properties. In 2019, approaches to the treatment of pain in OA significantly changed. In international and Russian clinical guidelines (CG), pharmaconutraceutical chondroitin sulfate (CS) and glucosamine sulfate (GS) are recommended for OA of different localization as a basic therapy. CS and GS-based agents, such as Chondroguard, are symptomatic slow-acting drugs in osteoarthritis (SYSADOA) with a level of evidence of 1A. Combined pharmaconutraceuticals, including CS, GS, and undenatured type II collagen (UC-II), are a new direction in preventing OA and LBP. UC-II inhibits cartilage destruction at any stage of the disease through the mechanism of immune tolerance, which «trains» the immune system to be tolerant to the antigens of the destroyed cartilage. There is ample evidence of the successful use of pharmaconutraceuticals based on CS, GS, and UC-II molecules (Chondroguard TRIO) in patients with chronic LBP due to facet joint OA. Recent studies assessed the effect of vitamins D3 and K2 and their combination on OA pathogenesis. Chondroprotectors containing CS and GS combined with UC-II are actively used in clinical practice in patients with OA and LBP as part of medicine products and pharmaconutraceuticals.",
+  "doi": "10.17116/jnevro2024124121120",
+  "url": "https://doi.org/10.17116/jnevro2024124121120",
+  "pdf_url": "",
+  "venue": "S.S. Korsakov Journal of Neurology and Psychiatry",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-19T13:44:38.278989+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-058.md",
+  "quality_details": {
+    "content_length": 1111,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

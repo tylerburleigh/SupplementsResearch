@@ -1,0 +1,35 @@
+{
+  "id": "src-487",
+  "title": "The Potential Role of Vitamin D Supplementation in Cognitive\nImpairment Prevention",
+  "authors": [
+    "Zeqaj, Iris",
+    "Piffero, Roberto",
+    "Calzaducca, Elisa",
+    "Pirisi, Mario",
+    "Bellan, Mattia"
+  ],
+  "year": 2024,
+  "abstract": "Background:\nVitamin D is implicated in many processes in the central nervous system\n(CNS), such as neurogenesis, neurotransmitter synthesis, synaptogenesis and protection against oxidative\nstress, thereby exerting a neuroprotective effect.\n\nObjective:\nIn the present review, we aimed to evaluate the potential benefit(s) of vitamin D supplementation\nfor CNS aging in different clinical contexts.\n\nMethods:\nWe performed a literature search, looking for clinical trials and randomized clinical trials evaluating\nthe effect of vitamin D supplementation on different endpoints related to cognitive outcomes.\n\nResults:\nFirstly, we identified 16 papers dealing with the impact of vitamin D supplementation on\ncognitive function in healthy subjects; the current literature suggests a real role for vitamin D supplementation\nin the prevention of cognitive decay in this clinical setting. Conversely, two papers suggest\nthat vitamin D supplementation may be beneficial in patients with mild cognitive impairment (MCI).\nFinally, current data on vitamin D in Alzheimer’s disease are contradictory.\n\nConclusion:\nVitamin D supplementation may improve the cognitive outcomes of patients with MCI,\nwhereas there is no evidence that it may prevent dementia or modulate the course of Alzheimer’s disease.",
+  "doi": "10.2174/1871527322666230328130417",
+  "url": "https://doi.org/10.2174/1871527322666230328130417",
+  "pdf_url": "",
+  "venue": "CNS &amp; Neurological Disorders - Drug Targets",
+  "citation_count": 6,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T21:00:50.125614+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-487.md",
+  "quality_details": {
+    "content_length": 29020,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "src-255",
+  "title": "Complex heatmaps reveal patterns and correlations in multidimensional genomic data",
+  "authors": [
+    "Gu, Zuguang",
+    "Eils, Roland",
+    "Schlesner, Matthias"
+  ],
+  "doi": "10.1093/bioinformatics/btw313",
+  "url": "https://openalex.org/W2406250479",
+  "provider": "openalex",
+  "year": 2016,
+  "venue": "Bioinformatics",
+  "citation_count": 10638,
+  "abstract": "Supplementary data are available at Bioinformatics online.",
+  "type": "academic",
+  "pdf_url": "https://academic.oup.com/bioinformatics/article-pdf/32/18/2847/24406805/btw313.pdf"
+}

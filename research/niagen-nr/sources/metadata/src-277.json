@@ -1,0 +1,19 @@
+{
+  "id": "src-277",
+  "title": "<scp>NAD</scp> metabolism: Role in senescence regulation and aging",
+  "authors": [
+    "Chini, Claudia C.S.",
+    "Cordeiro, Heidi Soares",
+    "Tran, Ngan",
+    "Chini, Eduardo N."
+  ],
+  "doi": "10.1111/acel.13920",
+  "url": "https://openalex.org/W4383695553",
+  "provider": "openalex",
+  "year": 2023,
+  "venue": "Aging Cell",
+  "citation_count": 98,
+  "abstract": "The geroscience hypothesis proposes that addressing the biology of aging could directly prevent the onset or mitigate the severity of multiple chronic diseases. Understanding the interplay between key aspects of the biological hallmarks of aging is essential in delivering the promises of the geroscience hypothesis. Notably, the nucleotide nicotinamide adenine dinucleotide (NAD) interfaces with several biological hallmarks of aging, including cellular senescence, and changes in NAD metabolism have been shown to be involved in the aging process. The relationship between NAD metabolism and cellular senescence appears to be complex. On the one hand, the accumulation of DNA damage and mitochondrial dysfunction induced by low NAD<sup>+</sup> can promote the development of senescence. On the other hand, the low NAD<sup>+</sup> state that occurs during aging may inhibit SASP development as this secretory phenotype and the development of cellular senescence are both highly metabolically demanding. However, to date, the impact of NAD<sup>+</sup> metabolism on the progression of the cellular senescence phenotype has not been fully characterized. Therefore, to explore the implications of NAD metabolism and NAD replacement therapies, it is essential to consider their interactions with other hallmarks of aging, including cellular senescence. We propose that a comprehensive understanding of the interplay between NAD boosting strategies and senolytic agents is necessary to advance the field.",
+  "type": "academic",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/acel.13920"
+}

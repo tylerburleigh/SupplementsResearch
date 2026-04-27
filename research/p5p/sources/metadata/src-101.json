@@ -1,0 +1,29 @@
+{
+  "id": "src-101",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "",
+  "pdf_url": "http://www.theses.fr/2009NAN10044/document",
+  "venue": "",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "",
+  "fetched_at": "2026-04-20T16:36:59.363877+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-101.md",
+  "quality_details": {
+    "content_length": 272210,
+    "alpha_ratio": 0.724,
+    "sentence_count": 2609,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

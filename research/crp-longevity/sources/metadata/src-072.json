@@ -1,0 +1,35 @@
+{
+  "id": "src-072",
+  "title": "The Evolution and Refinement of Traditional Risk Factors for Cardiovascular Disease",
+  "authors": [
+    "deGoma, Emil M.",
+    "Knowles, Joshua W.",
+    "Angeli, Fabio",
+    "Budoff, Matthew J.",
+    "Rader, Daniel J."
+  ],
+  "year": 2012,
+  "abstract": "",
+  "doi": "10.1097/crd.0b013e318239b924",
+  "url": "https://doi.org/10.1097/crd.0b013e318239b924",
+  "pdf_url": "",
+  "venue": "Cardiology in Review",
+  "citation_count": 61,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-24T01:08:22.801116+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-072.md",
+  "quality_details": {
+    "content_length": 2299,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "src-248",
+  "title": "Reduced Versus Oxidized NAD + Precursors Drive Distinct Transcriptomic, Proteomic, and Metabolic Profiles in Hepatocytes",
+  "authors": [
+    "Vinten, K.",
+    "Schomakers, B.",
+    "Denis, Simone W.",
+    "Weeghel, M. van",
+    "Jongejan, A.",
+    "Ofman, Rob",
+    "Piersma, S.",
+    "Jimenez, Connie R.",
+    "Janssens, Georges E.",
+    "Zapata-Pérez, Rubén",
+    "Houtkooper, R."
+  ],
+  "doi": "10.1096/fj.202501925r",
+  "url": "https://www.semanticscholar.org/paper/36819fd37a4694d26250c05c6625d0d5033c3299",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "The FASEB Journal",
+  "citation_count": 0,
+  "abstract": "Nicotinamide adenine dinucleotide (NAD+) is a vital molecule, serving as a redox cofactor and the limiting substrate for numerous enzymes. NAD+ decline is a key feature of aging, while supplementation with NAD+ precursors can efficiently counteract aging traits and prevent age‐associated conditions in preclinical models. However, clinical translation remains challenging, likely due to the limited NAD+ boosting capacity of classical precursors, such as nicotinamide mononucleotide (NMN) and nicotinamide riboside (NR). This has brought attention to their reduced forms, reduced NMN (NMNH) and reduced NR (NRH), which are more potent NAD+ boosters but remain poorly characterized. Here, we performed a comprehensive comparative analysis using RNA sequencing, proteomics, and metabolomics on cultured murine hepatocytes treated with NMN, NMNH, NR, or NRH. Global metabolic profiling revealed that NRH and NMNH induced substantially broader metabolic alterations than NR and NMN, with NRH uniquely suppressing metabolites involved in energy metabolism. The pronounced metabolic effects were reflected at a transcriptional level, with reduced precursors triggering a significantly higher number of differentially expressed genes than oxidized ones. Shared differentially expressed genes between NMNH and NRH revealed upregulation of stress‐related glutathione‐S‐transferases (Gsts) which furthermore were reflected in our proteomic profiling. However, the upregulation of Gsts did not cause a depletion of glutathione or oxiglutathione, suggesting a pseudo‐stress response to reduced NAD+ precursors. Together, our data demonstrate that reduced NAD+ precursors are unique and distinct from the market‐available NAD+ precursors NR and NMN, not only as more potent NAD+ boosters, but also as compounds influencing a broader range of cellular processes.",
+  "type": "academic",
+  "pdf_url": ""
+}

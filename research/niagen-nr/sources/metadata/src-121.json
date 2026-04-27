@@ -1,0 +1,18 @@
+{
+  "id": "src-121",
+  "title": "Repairing Mitochondrial Dysfunction in Disease",
+  "authors": [
+    "Sorrentino, Vincenzo",
+    "Menzies, Keir J.",
+    "Auwerx, Johan"
+  ],
+  "doi": "10.1146/annurev-pharmtox-010716-104908",
+  "url": "https://openalex.org/W2612876306",
+  "provider": "openalex",
+  "year": 2017,
+  "venue": "The Annual Review of Pharmacology and Toxicology",
+  "citation_count": 333,
+  "abstract": "Mitochondria are essential organelles for many aspects of cellular homeostasis, including energy harvesting through oxidative phosphorylation. Alterations of mitochondrial function not only impact on cellular metabolism but also critically influence whole-body metabolism, health, and life span. Diseases defined by mitochondrial dysfunction have expanded from rare monogenic disorders in a strict sense to now also include many common polygenic diseases, including metabolic, cardiovascular, neurodegenerative, and neuromuscular diseases. This has led to an intensive search for new therapeutic and preventive strategies aimed at invigorating mitochondrial function by exploiting key components of mitochondrial biogenesis, redox metabolism, dynamics, mitophagy, and the mitochondrial unfolded protein response. As such, new findings linking mitochondrial function to the progression or outcome of this ever-increasing list of diseases has stimulated the discovery and development of the first true mitochondrial drugs, which are now entering the clinic and are discussed in this review.",
+  "type": "academic",
+  "pdf_url": "https://pure.amsterdamumc.nl/ws/files/158847907/Repairing-mitochondrial-dysfunction-in-disease.pdf"
+}

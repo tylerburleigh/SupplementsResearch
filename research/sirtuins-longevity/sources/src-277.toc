@@ -1,0 +1,121 @@
+3	2	Review Article Open
+21	2	Introduction
+32	2	1 The gap in lifespan and healthspan means that large
+52	2	3 AD is the most
+61	2	5 For example, the
+110	2	14 Surprisingly, recent clinical trials of
+117	2	Impact Of Ageing On Neurodegenerative Diseases
+123	2	4 Epidemiological
+139	2	23 As the resource from the Centers for Disease Control
+167	2	27 A retrospective analysis across Europe revealed
+227	2	39 Correspondingly,
+281	2	53 The Food and Drug
+288	2	56 Additionally, inhibition of the target of
+299	2	61 In addition to these pathways,
+349	2	75 Subsequent clinical trials have indicated that
+376	2	Complex Systems View Of Ageing And
+377	2	Neurodegenerative Diseases
+383	2	82 These networks include horizontal connec-
+449	2	92 These molecular and cellular stresses
+458	2	93 FTLD, one of the most common
+476	2	95 Furthermore, HD is a
+495	2	Systemic Regulatory Mechanisms Of Ageing In
+496	2	Neurodegenerative Diseases
+521	2	85 The hall-
+536	2	102 These impairments can disrupt gene expression
+570	2	116 The activity of
+574	2	118 Furthermore, seven mammalian SIRTs,
+598	2	127 A reduction in synaptic density has been
+604	2	128 Neuronal excitability and
+621	2	135 The initial identi-
+683	2	149 The basement membrane, which sup-
+686	2	150 These changes compromise the structural integrity
+707	2	155 As individuals age, there is a decline in
+719	2	158 Senescent microglia actively secrete proin-
+731	2	159 Studies using magnetic
+734	2	160 This thinning is particularly evident
+742	2	162 The white matter, which
+752	2	164 Imaging studies have revealed a
+757	2	165 Conversely, an increase in local con-
+764	2	166 The
+770	2	167 The circuitry of the hippocampus, crucial
+781	2	169 Ageing also affects various neuro-
+832	2	99 These alterations
+839	2	176 Conversely,
+846	2	178 Astrocytes play a crucial role in providing neurons
+889	2	183 These comor-
+911	2	188 Ageing is a critical factor
+916	2	189 These changes lead to increased production of
+921	2	190 These
+946	2	192 The cellular
+953	2	193 Ageing-
+966	2	195 The
+1041	2	201 Recent investigations
+1078	2	211 Additionally, CBH
+1085	2	212 On the other hand, the elderly heart is prone to
+1103	2	219 Liver biopsies from
+1146	2	233 The
+1213	2	240 Correspondingly, truncal vagotomy prevents the
+1237	2	250 Moreover, the kidney is capable of
+1256	2	257 Due to
+1268	2	260 Furthermore,
+1273	2	261 According to population surveys, poorer
+1281	2	263 The potential mechan-
+1287	2	264 Moreover, chronic hypoxia is thought to
+1300	2	268 The most common virus associated with parkinsonism
+1323	2	271 Moreover, even when respiratory testing for
+1327	2	270 It has been hypothesized that
+1341	2	275 Infection
+1375	2	287 Irisin
+1384	2	290 Studies have
+1391	2	292 Second,
+1394	2	289 In addition, neuro-
+1398	2	293 In addition, a well-
+1412	2	295 During ageing, bone support is diminished due to
+1432	2	300 Furthermore, changes in bone-derived cytokines during
+1454	2	312 Platelets, which are responsible for
+1481	2	326 Immunosenescence is char-
+1503	2	333 Similarly,
+1514	2	335 Moreover, in elderly patients with FTLD, genes
+1563	2	349 Decreased oestrogen levels are associated
+1566	2	350 Moreover, elderly people
+1579	2	353 Additionally, oestrogen
+1613	2	366 Ultimately, excessive
+1628	2	Antiageing Strategies For Neurodegenerative
+1635	2	85 The objec-
+1699	2	387 Despite the
+1704	2	251 Compared with monotherapy, combina-
+1715	2	389 Similarly,
+1869	2	408 Through
+1905	2	418 Due to enhanced
+1935	2	429 The eradication of senescent cells in
+1938	2	63 The delivery of
+1965	2	432 In addition,
+1974	2	435 Encouragingly, the conversion of astrocytes into
+1983	2	439 Alternatively, extracellular vesicles derived
+2029	2	453 Blood
+2048	2	457 Correspondingly, the
+2069	2	461 Small-scale research has
+2089	2	467 Moreover, oestrogen signalling is
+2094	2	468 Moreover, oestrogen regulates
+2134	2	483 However, NSAIDs have an antagonistic
+2154	2	486 Time-restricted
+2158	2	487 Normalization
+2174	2	491 TRF modulates the circadian rhythm to
+2180	2	493 Correspondingly, the management of circadian
+2183	2	494 A disturbed circadian rhythm appears to be a frequent
+2209	2	500 Furthermore, exercise is also associated with the
+2225	2	Antiageing Strategies For Neurodegenerative
+2240	2	37 For example, long-term, large-scale
+2315	2	526 Additionally,
+2337	2	532 Previous
+2350	2	201 Therapeutic plasma exchange
+2443	2	64 Nevertheless, the roles
+2456	2	538 These therapies
+2478	2	550 As expected, in a brief
+2530	2	Conclusions And Perspectives
+2640	2	Acknowledgements
+2644	2	Author Contributions
+2648	2	Additional Information
+2650	2	References
+2653	2	2. Global, regional, and national burden of disorders affecting the nervous system,

@@ -1,0 +1,17 @@
+{
+  "id": "src-296",
+  "title": "Regulated cell death pathways in doxorubicin-induced cardiotoxicity",
+  "authors": [
+    "Christidi, Effimia",
+    "Brunham, Liam R."
+  ],
+  "doi": "10.1038/s41419-021-03614-x",
+  "url": "https://openalex.org/W3139551563",
+  "provider": "openalex",
+  "year": 2021,
+  "venue": "Cell Death and Disease",
+  "citation_count": 630,
+  "abstract": "Doxorubicin is a chemotherapeutic drug used for the treatment of various malignancies; however, patients can experience cardiotoxic effects and this has limited the use of this potent drug. The mechanisms by which doxorubicin kills cardiomyocytes has been elusive and despite extensive research the exact mechanisms remain unknown. This review focuses on recent advances in our understanding of doxorubicin induced regulated cardiomyocyte death pathways including autophagy, ferroptosis, necroptosis, pyroptosis and apoptosis. Understanding the mechanisms by which doxorubicin leads to cardiomyocyte death may help identify novel therapeutic agents and lead to more targeted approaches to cardiotoxicity testing.",
+  "type": "academic",
+  "pdf_url": "https://www.nature.com/articles/s41419-021-03614-x.pdf"
+}

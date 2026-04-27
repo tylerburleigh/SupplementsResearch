@@ -1,0 +1,23 @@
+{
+  "id": "src-076",
+  "title": "Impact of Particle Size and Polydispersity Index on the Clinical Applications of Lipidic Nanocarrier Systems",
+  "authors": [
+    "Danaei, M.",
+    "Dehghankhold, M.",
+    "Ataei, Shahla",
+    "Davarani, F. Hasanzadeh",
+    "Javanmard, R.",
+    "Dokhani, A.",
+    "Khorasani, Sepideh",
+    "Mozafari, M. R."
+  ],
+  "doi": "10.3390/pharmaceutics10020057",
+  "url": "https://openalex.org/W2804846127",
+  "provider": "openalex",
+  "year": 2018,
+  "venue": "Pharmaceutics",
+  "citation_count": 4373,
+  "abstract": "Lipid-based drug delivery systems, or lipidic carriers, are being extensively employed to enhance the bioavailability of poorly-soluble drugs. They have the ability to incorporate both lipophilic and hydrophilic molecules and protecting them against degradation in vitro and in vivo. There is a number of physical attributes of lipid-based nanocarriers that determine their safety, stability, efficacy, as well as their in vitro and in vivo behaviour. These include average particle size/diameter and the polydispersity index (PDI), which is an indication of their quality with respect to the size distribution. The suitability of nanocarrier formulations for a particular route of drug administration depends on their average diameter, PDI and size stability, among other parameters. Controlling and validating these parameters are of key importance for the effective clinical applications of nanocarrier formulations. This review highlights the significance of size and PDI in the successful design, formulation and development of nanosystems for pharmaceutical, nutraceutical and other applications. Liposomes, nanoliposomes, vesicular phospholipid gels, solid lipid nanoparticles, transfersomes and tocosomes are presented as frequently-used lipidic drug carriers. The advantages and limitations of a range of available analytical techniques used to characterize lipidic nanocarrier formulations are also covered.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/1999-4923/10/2/57/pdf?version=1526900224"
+}

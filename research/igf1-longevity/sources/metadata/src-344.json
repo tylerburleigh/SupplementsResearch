@@ -1,0 +1,18 @@
+{
+  "id": "src-344",
+  "title": "IGF-1 and cardiometabolic diseases: a Mendelian randomisation study",
+  "authors": [
+    "Larsson, S.",
+    "Michaëlsson, K.",
+    "Burgess, S."
+  ],
+  "doi": "10.1007/s00125-020-05190-9",
+  "url": "https://www.semanticscholar.org/paper/1c64b942408868e4b8ffc6bf4871c5bb8395d6ef",
+  "provider": "semantic_scholar",
+  "year": 2020,
+  "venue": "Diabetologia",
+  "citation_count": 57,
+  "abstract": "Abnormal serum IGF-1 levels are associated with an increased risk of type 2 diabetes and cardiovascular disease. However, the causal role of IGF-1 levels within the normal range in cardiometabolic disease remains unclear. We employed Mendelian randomisation to explore the associations between genetically predicted serum IGF-1 levels and cardiometabolic diseases. Serum IGF-1 levels were predicted using 416 SNPs associated with IGF-1 levels among 358,072 individuals in UK Biobank. Genetic association estimates for the outcomes were obtained from consortia of type 2 diabetes (74,124 cases, 824,006 controls), coronary artery disease (60,801 cases, 123,504 controls), heart failure (47,309 cases, 930,014 controls), atrial fibrillation (65,446 cases, 522,744 controls), and ischaemic stroke (60,341 cases, 454,450 controls). Genetic predisposition to elevated serum IGF-1 levels was associated with higher risk of type 2 diabetes and coronary artery disease. The OR (95% CI) per SD increment in IGF-1 level was 1.14 (1.05, 1.24) for type 2 diabetes and 1.09 (1.02, 1.16) for coronary artery disease. The association between IGF-1 and coronary artery disease was attenuated after adjustment for type 2 diabetes (OR 1.06 [95% CI 1.00, 1.13]), suggesting that the association may be partly mediated via type 2 diabetes. There was limited evidence of associations between IGF-1 levels and heart failure, atrial fibrillation and ischaemic stroke. This study found evidence that increased IGF-1 levels may be causally associated with higher risk of type 2 diabetes. Graphical abstract Graphical abstract",
+  "type": "academic",
+  "pdf_url": "https://link.springer.com/content/pdf/10.1007/s00125-020-05190-9.pdf"
+}

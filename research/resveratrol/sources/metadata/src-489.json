@@ -1,0 +1,17 @@
+{
+  "id": "src-489",
+  "title": "The Sir2 Family of Protein Deacetylases",
+  "authors": [
+    "Blander, Gil",
+    "Guarente, Leonard"
+  ],
+  "doi": "10.1146/annurev.biochem.73.011303.073651",
+  "url": "https://openalex.org/W2123927456",
+  "provider": "openalex",
+  "year": 2004,
+  "venue": "Annual Review of Biochemistry",
+  "citation_count": 1489,
+  "abstract": "The yeast SIR protein complex has been implicated in transcription silencing and suppression of recombination. The Sir complex represses transcription at telomeres, mating-type loci, and ribosomal DNA. Unlike SIR3 and SIR4, the SIR2 gene is highly conserved in organisms ranging from archaea to humans. Interestingly, Sir2 is active as an NAD+-dependent deacetylase, which is broadly conserved from bacteria to higher eukaryotes. In this review, we discuss the role of NAD+, the unusual products of the deacetylation reaction, the Sir2 structure, and the Sir2 chemical inhibitors and activators that were recently identified. We summarize the current knowledge of the Sir2 homologs from different organisms, and finally we discuss the role of Sir2 in caloric restriction and aging.",
+  "type": "academic",
+  "pdf_url": ""
+}

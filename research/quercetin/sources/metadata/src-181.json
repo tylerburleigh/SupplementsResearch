@@ -1,0 +1,25 @@
+{
+  "id": "src-181",
+  "title": "Lactate metabolism in human health and disease",
+  "authors": [
+    "Li, Xiaolu",
+    "Yang, Yanyan",
+    "Zhang, Bei",
+    "Lin, Xiaotong",
+    "Fu, Xiuxiu",
+    "An, Yi",
+    "Zou, Yulin",
+    "Wang, Jianxun",
+    "Wang, Zhibin",
+    "Yu, Tao"
+  ],
+  "doi": "10.1038/s41392-022-01151-3",
+  "url": "https://openalex.org/W4294031309",
+  "provider": "openalex",
+  "year": 2022,
+  "venue": "Signal Transduction and Targeted Therapy",
+  "citation_count": 1234,
+  "abstract": "The current understanding of lactate extends from its origins as a byproduct of glycolysis to its role in tumor metabolism, as identified by studies on the Warburg effect. The lactate shuttle hypothesis suggests that lactate plays an important role as a bridging signaling molecule that coordinates signaling among different cells, organs and tissues. Lactylation is a posttranslational modification initially reported by Professor Yingming Zhao's research group in 2019. Subsequent studies confirmed that lactylation is a vital component of lactate function and is involved in tumor proliferation, neural excitation, inflammation and other biological processes. An indispensable substance for various physiological cellular functions, lactate plays a regulatory role in different aspects of energy metabolism and signal transduction. Therefore, a comprehensive review and summary of lactate is presented to clarify the role of lactate in disease and to provide a reference and direction for future research. This review offers a systematic overview of lactate homeostasis and its roles in physiological and pathological processes, as well as a comprehensive overview of the effects of lactylation in various diseases, particularly inflammation and cancer.",
+  "type": "academic",
+  "pdf_url": "https://www.nature.com/articles/s41392-022-01151-3.pdf"
+}

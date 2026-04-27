@@ -1,0 +1,19 @@
+{
+  "id": "src-135",
+  "title": "mTOR signaling controls protein aggregation during heat stress and cellular aging in a translation- and Hsf1-independent manner",
+  "authors": [
+    "Fischbach, A.",
+    "Widlund, P.",
+    "Hao, Xinxin",
+    "Nyström, Thomas"
+  ],
+  "doi": "10.1016/j.jbc.2025.108172",
+  "url": "https://www.semanticscholar.org/paper/ce990a3bc8908bb2de9ebd44b61a72dea23b5434",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "Journal of Biological Chemistry",
+  "citation_count": 2,
+  "abstract": "The mechanistic target of rapamycin (mTOR) signaling pathway appears central to the aging process as genetic or pharmacological inhibition of mTOR extends lifespan in most eukaryotes tested. While the regulation of protein synthesis by mTOR has been studied in great detail, its impact on protein misfolding and aggregation during stress and aging is less explored. In this study, we identified the mTOR signaling pathway and the linked Seh1-associated complex as central nodes of protein aggregation during heat stress and cellular aging, using Saccharomyces cerevisiae as a model organism. Based on a synthetic genetic array screen, we found that reduced mTOR activity, achieved through deletion of TCO89, an mTORC1 subunit, almost completely prevents protein aggregation during heat stress and aging without reducing global translation rates and independently of an Hsf1-dependent stress response. Conversely, increased mTOR activity, achieved through deletion of NPR3, a Seh1-associated complex subunit, exacerbates protein aggregation, but not by overactivating translation. In summary, our work demonstrates that mTOR signaling is a central contributor to age-associated and heat shock-induced protein aggregation, and that this is unlinked to quantitatively discernable effects on translation and Hsf1.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.1016/j.jbc.2025.108172"
+}

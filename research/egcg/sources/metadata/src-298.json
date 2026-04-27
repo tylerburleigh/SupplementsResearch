@@ -1,0 +1,19 @@
+{
+  "id": "src-298",
+  "title": "Epigallocatechin Gallate Protects against Hypoxia-Induced Inflammation in Microglia via NF-κB Suppression and Nrf-2/HO-1 Activation",
+  "authors": [
+    "Kim, Sora",
+    "Seong, Kyung-Joo",
+    "Kim, Won-Jae",
+    "Jung, Ji-Yeon"
+  ],
+  "doi": "10.3390/ijms23074004",
+  "url": "https://www.semanticscholar.org/paper/581b5045afe2512fd2863f158f512c845f9eb1b1",
+  "provider": "semantic_scholar",
+  "year": 2022,
+  "venue": "International Journal of Molecular Sciences",
+  "citation_count": 108,
+  "abstract": "Hypoxia-induced neuroinflammation in stroke, neonatal hypoxic encephalopathy, and other diseases subsequently contributes to neurological damage and neuronal diseases. Microglia are the primary neuroimmune cells that play a crucial role in cerebral inflammation. Epigallocatechin gallate (EGCG) has a protective antioxidant and anti-inflammatory effects against neuroinflammation. However, the effects of EGCG on hypoxia-induced inflammation in microglia and the underlying mechanism remain unclear. In this study, we investigated whether EGCG might have a protective effect against hypoxia injury in microglia by treatment with CoCl2 to establish a hypoxic model of BV2 microglia cells following EGCG pre-treatment. An exposure of cells to CoCl2 caused an increase in inflammatory mediator interleukin (IL)-6, inducible nitric oxide synthase (iNOS), and cyclooxygenase (COX)-2 expression, which were significantly ameliorated by EGCG via inhibition of NF-κB pathway. In addition, EGCG attenuated the expression of hypoxia-inducible factor (HIF)-1α and the generation of ROS in hypoxic BV2 cells. Furthermore, the suppression of hypoxia-induced IL-6 production by EGCG was mediated via the inhibition of HIF-1α expression and the suppression of ROS generation in BV2 cells. Notably, EGCG increased the Nrf-2 levels and HO-1 levels in the presence of CoCl2. Additionally, EGCG suppressed hypoxia-induced apoptosis of BV2 microglia with cleavage of poly (ADP-ribose) polymerase (PARP) and caspase-3. In summary, EGCG protects microglia from hypoxia-induced inflammation and oxidative stress via abrogating the NF-κB pathway as well as activating the Nrf-2/HO-1 pathway.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/1422-0067/23/7/4004/pdf?version=1649068531"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "src-067",
+  "title": "Mitochondria-Ros Crosstalk in the Control of Cell Death and Aging",
+  "authors": [
+    "Marchi, Saverio",
+    "Giorgi, Carlotta",
+    "Suski, Jan M.",
+    "Agnoletto, Chiara",
+    "Bononi, Angela",
+    "Bonora, Massimo",
+    "Marchi, Elena De",
+    "Missiroli, Sonia",
+    "Patergnani, Simone",
+    "Poletti, Federica",
+    "Rimessi, Alessandro",
+    "Duszyński, Jerzy",
+    "Wiȩckowski, Mariusz R.",
+    "Pinton, Paolo"
+  ],
+  "doi": "10.1155/2012/329635",
+  "url": "https://openalex.org/W2115788076",
+  "provider": "openalex",
+  "year": 2011,
+  "venue": "Journal of Signal Transduction",
+  "citation_count": 641,
+  "abstract": "Reactive oxygen species (ROS) are highly reactive molecules, mainly generated inside mitochondria that can oxidize DNA, proteins, and lipids. At physiological levels, ROS function as \"redox messengers\" in intracellular signalling and regulation, whereas excess ROS induce cell death by promoting the intrinsic apoptotic pathway. Recent work has pointed to a further role of ROS in activation of autophagy and their importance in the regulation of aging. This review will focus on mitochondria as producers and targets of ROS and will summarize different proteins that modulate the redox state of the cell. Moreover, the involvement of ROS and mitochondria in different molecular pathways controlling lifespan will be reported, pointing out the role of ROS as a \"balance of power,\" directing the cell towards life or death.",
+  "type": "academic",
+  "pdf_url": "https://downloads.hindawi.com/archive/2012/329635.pdf"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "src-475",
+  "title": "CONSORT 2010 Explanation and Elaboration: updated guidelines for reporting parallel group randomised trials",
+  "authors": [
+    "Moher, David",
+    "Hopewell, Sally",
+    "Schulz, Kenneth F.",
+    "Montori, Víctor M.",
+    "Gøtzsche, Peter C",
+    "Devereaux, P.J.",
+    "Elbourne, Diana",
+    "Egger, Matthias",
+    "Altman, Douglas G."
+  ],
+  "doi": "10.1016/j.jclinepi.2010.03.004",
+  "url": "https://openalex.org/W4235092737",
+  "provider": "openalex",
+  "year": 2010,
+  "venue": "Journal of Clinical Epidemiology",
+  "citation_count": 1856,
+  "abstract": "Overwhelming evidence shows the quality of reporting of randomised controlled trials (RCTs) is not optimal. Without transparent reporting, readers cannot judge the reliability and validity of trial findings nor extract information for systematic reviews. Recent methodological analyses indicate that inadequate reporting and design are associated with biased estimates of treatment effects. Such systematic error is seriously damaging to RCTs, which are considered the gold standard for evaluating interventions because of their ability to minimise or avoid bias. A group of scientists and editors developed the CONSORT (Consolidated Standards of Reporting Trials) statement to improve the quality of reporting of RCTs. It was first published in 1996 and updated in 2001. The statement consists of a checklist and flow diagram that authors can use for reporting an RCT. Many leading medical journals and major international editorial groups have endorsed the CONSORT statement. The statement facilitates critical appraisal and interpretation of RCTs. During the 2001 CONSORT revision, it became clear that explanation and elaboration of the principles underlying the CONSORT statement would help investigators and others to write or appraise trial reports. A CONSORT explanation and elaboration article was published in 2001 alongside the 2001 version of the CONSORT statement. After an expert meeting in January 2007, the CONSORT statement has been further revised and is published as the CONSORT 2010 Statement. This update improves the wording and clarity of the previous checklist and incorporates recommendations related to topics that have only recently received recognition, such as selective outcome reporting bias. This explanatory and elaboration document-intended to enhance the use, understanding, and dissemination of the CONSORT statement-has also been extensively revised. It presents the meaning and rationale for each new and updated checklist item providing examples of good reporting and, where possible, references to relevant empirical studies. Several examples of flow diagrams are included. The CONSORT 2010 Statement, this revised explanatory and elaboration document, and the associated website (www.consort-statement.org) should be helpful resources to improve reporting of randomised trials.",
+  "type": "academic",
+  "pdf_url": "http://www.jclinepi.com/article/S0895435610001034/pdf"
+}

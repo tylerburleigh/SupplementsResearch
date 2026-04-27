@@ -1,0 +1,19 @@
+{
+  "id": "src-249",
+  "title": "Organic Cation Transporters in Human Physiology, Pharmacology, and Toxicology",
+  "authors": [
+    "Samodelov, Sophia L.",
+    "Kullak‐Ublick, Gerd A.",
+    "Gai, Zhibo",
+    "Visentin, Michele"
+  ],
+  "doi": "10.3390/ijms21217890",
+  "url": "https://openalex.org/W3094486787",
+  "provider": "openalex",
+  "year": 2020,
+  "venue": "International Journal of Molecular Sciences",
+  "citation_count": 82,
+  "abstract": "Individual cells and epithelia control the chemical exchange with the surrounding environment by the fine-tuned expression, localization, and function of an array of transmembrane proteins that dictate the selective permeability of the lipid bilayer to small molecules, as actual gatekeepers to the interface with the extracellular space. Among the variety of channels, transporters, and pumps that localize to cell membrane, organic cation transporters (OCTs) are considered to be extremely relevant in the transport across the plasma membrane of the majority of the endogenous substances and drugs that are positively charged near or at physiological pH. In humans, the following six organic cation transporters have been characterized in regards to their respective substrates, all belonging to the solute carrier 22 (SLC22) family: the organic cation transporters 1, 2, and 3 (OCT1-3); the organic cation/carnitine transporter novel 1 and 2 (OCTN1 and N2); and the organic cation transporter 6 (OCT6). OCTs are highly expressed on the plasma membrane of polarized epithelia, thus, playing a key role in intestinal absorption and renal reabsorption of nutrients (e.g., choline and carnitine), in the elimination of waste products (e.g., trimethylamine and trimethylamine N-oxide), and in the kinetic profile and therapeutic index of several drugs (e.g., metformin and platinum derivatives). As part of the Special Issue Physiology, Biochemistry, and Pharmacology of Transporters for Organic Cations, this article critically presents the physio-pathological, pharmacological, and toxicological roles of OCTs in the tissues in which they are primarily expressed.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/1422-0067/21/21/7890/pdf?version=1603695526"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "src-135",
+  "title": "Integrated Analyses to Identify the Roles of GPX1 in Frailty and Hypertension.",
+  "authors": [
+    "Huang, Bang-Bang",
+    "Liu, Qin",
+    "Yu, Xing",
+    "Chen, Yi-Jun",
+    "Liang, Ye-Bei",
+    "Yu, Ming-Zhong",
+    "Qiu, Yi-Fei",
+    "Zhang, Fei-Yun",
+    "Wang, Jing-Xin",
+    "Fu, Shi-Hui",
+    "Xie, Liang-Di",
+    "Luo, Li",
+    "Zhang, Yu-Jie"
+  ],
+  "doi": "10.1161/hypertensionaha.125.24664",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40575858",
+  "provider": "pubmed",
+  "year": 2025,
+  "venue": "Hypertension (Dallas, Tex. : 1979)",
+  "citation_count": 0,
+  "abstract": "BACKGROUND: With aging, frailty and hypertension become increasingly prevalent comorbidities in the older population. Therefore, the aim of the study is to identify effective druggable targets for these conditions.\nMETHODS: We performed a two-sample Mendelian randomization analysis to assess the causal effects of 2532 druggable genes on frailty, hypertension, systolic blood pressure and diastolic blood pressure. RNA expression profiling data and single-cell RNA sequencing were performed for validation. Mediation Mendelian randomization analysis was conducted to identify possible mediators participating in the effects of target genes on outcomes. Molecular docking was used to identify potential drugs.\nRESULTS: After screening, the expression of Glutathione peroxidase 1 (GPX1) in whole blood was found to positively correlate with hypertension (β, 0.308 [95% CI, 0.266-0.349]; P=3.40×10-48) and frailty index (β, 0.172 [95% CI, 0.141-0.204]; P=1.21×10-26), which was validated by RNA expression profiling data. Mediation Mendelian randomization analysis indicated that glycine and carnitine/ergothioneine mediated the effects of GPX1 on hypertension and frailty. Single-cell RNA sequencing further validated the mediating effects of glycine metabolism and carnitine transport at the cellular level. Moreover, GPX1 expression in mononuclear phagocytes was associated with upregulated inflammatory responses and immune activation. Molecular docking analysis identified biochanin A and epigallocatechin gallate as potential agents for GPX1 with high affinity.\nCONCLUSIONS: Collectively, GPX1 is a potential therapeutic target for mitigating both frailty and hypertension.",
+  "type": "academic",
+  "pdf_url": ""
+}

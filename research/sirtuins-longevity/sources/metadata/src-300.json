@@ -1,0 +1,22 @@
+{
+  "id": "src-300",
+  "title": "The deacetylase Sir2 is the primary sensor driving transcriptional changes in response to low NAD+ in the yeast Kluyveromyces lactis",
+  "authors": [
+    "Acharjee, M.",
+    "Humphrey, Kristin",
+    "Lactaoen, Vincent",
+    "Karageorgiou, Charikleia",
+    "Liu, Bowen",
+    "Gokcumen, O.",
+    "Rusche, L."
+  ],
+  "doi": "10.1093/genetics/iyag025",
+  "url": "https://www.semanticscholar.org/paper/bd02b5284fca361cf183aa39356f2ac24fcf9740",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "Genetics",
+  "citation_count": 0,
+  "abstract": "Abstract The coenzyme NAD+ (nicotinamide adenine dinucleotide) is a critical electron carrier in central metabolism and is required for cellular health. Cells are proposed to monitor and respond to fluctuating intracellular NAD+ levels using sirtuin deacetylases as sensors because these enzymes require NAD+ for activity. We tested this hypothesis by examining how intracellular NAD+ levels affect Sir2-mediated repression of transcription in the yeast Kluyveromyces lactis. Because K. lactis cannot synthesize NAD+, we could create a gradient of intracellular NAD+ levels by growing cells in varying concentrations of the precursor nicotinic acid. We found that as NAD+ levels decreased, acetylation of histones at target promoters increased, as did expression of these genes. RNA sequencing analysis revealed that genes induced in low nicotinic acid include some that would restore NAD+ levels, such as the high-affinity nicotinic acid transporter TNA1, and some that would enable long-term survival by promoting sporulation. Most genes induced in low nicotinic acid (99/112 or 88%) were also induced by the deletion of SIR2. Moreover, in sir2Δ cells, few transcriptional changes occurred in response to low nicotinic acid. Thus, Sir2 is the primary sensor driving the transcriptional response to low NAD+ in K. lactis. Finally, the degree of transcriptional induction varied with NAD+ levels, suggesting that Sir2 behaves as a rheostat that tunes gene expression to NAD+ availability.",
+  "type": "academic",
+  "pdf_url": ""
+}

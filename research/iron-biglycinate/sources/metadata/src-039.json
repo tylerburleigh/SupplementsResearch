@@ -1,0 +1,36 @@
+{
+  "id": "src-039",
+  "title": "The Clinical Value of Serum Ferritin Tests in Endurance Athletes",
+  "authors": [
+    "Garza, Dan",
+    "Shrier, Ian",
+    "Kohl, Harold W.",
+    "Ford, Paul",
+    "Brown, Monte",
+    "Matheson, Gordon O."
+  ],
+  "year": 1997,
+  "abstract": "",
+  "doi": "10.1097/00042752-199701000-00009",
+  "url": "https://doi.org/10.1097/00042752-199701000-00009",
+  "pdf_url": "",
+  "venue": "Clinical Journal of Sport Medicine",
+  "citation_count": 24,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T18:01:21.292109+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-039.md",
+  "quality_details": {
+    "content_length": 3088,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "src-273",
+  "title": "Metagenomics of Parkinson’s disease implicates the gut microbiome in multiple disease mechanisms",
+  "authors": [
+    "Wallen, Zachary D.",
+    "Demirkan, Ayşe",
+    "Twa, Guy",
+    "Cohen, Gwendolyn",
+    "Dean, Marissa",
+    "Standaert, David G.",
+    "Sampson, Timothy R.",
+    "Payami, Haydeh"
+  ],
+  "doi": "10.1038/s41467-022-34667-x",
+  "url": "https://openalex.org/W4309109636",
+  "provider": "openalex",
+  "year": 2022,
+  "venue": "Nature Communications",
+  "citation_count": 308,
+  "abstract": "Parkinson's disease (PD) may start in the gut and spread to the brain. To investigate the role of gut microbiome, we conducted a large-scale study, at high taxonomic resolution, using uniform standardized methods from start to end. We enrolled 490 PD and 234 control individuals, conducted deep shotgun sequencing of fecal DNA, followed by metagenome-wide association studies requiring significance by two methods (ANCOM-BC and MaAsLin2) to declare disease association, network analysis to identify polymicrobial clusters, and functional profiling. Here we show that over 30% of species, genes and pathways tested have altered abundances in PD, depicting a widespread dysbiosis. PD-associated species form polymicrobial clusters that grow or shrink together, and some compete. PD microbiome is disease permissive, evidenced by overabundance of pathogens and immunogenic components, dysregulated neuroactive signaling, preponderance of molecules that induce alpha-synuclein pathology, and over-production of toxicants; with the reduction in anti-inflammatory and neuroprotective factors limiting the capacity to recover. We validate, in human PD, findings that were observed in experimental models; reconcile and resolve human PD microbiome literature; and provide a broad foundation with a wealth of concrete testable hypotheses to discern the role of the gut microbiome in PD.",
+  "type": "academic",
+  "pdf_url": "https://www.nature.com/articles/s41467-022-34667-x.pdf"
+}

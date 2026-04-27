@@ -1,0 +1,33 @@
+{
+  "id": "src-031",
+  "title": "Betaine: a key modulator of one-carbon metabolism and homocysteine status",
+  "authors": [
+    "Ueland, Per Magne",
+    "Holm, Pål I.",
+    "Hustad, Steinar"
+  ],
+  "year": 2005,
+  "abstract": "AbstractBetaine serves as a methyl donor in a reaction converting homocysteine to methionine, catalysed by the enzyme betaine-homocysteine methyltransferase. It has been used for years to lower the concentration of plasma total homocysteine (tHcy) in patients with homocystinuria, and has recently been shown to reduce fasting and in particular post-methionine load (PML) tHcy in healthy subjects.Betaine exists in plasma at concentrations of about 30μmol/L; it varies 10-fold (from 9 to 90μmol/L) between individuals, but the intra-individual variability is small. Major determinants are choline, dimethylglycine and folate in plasma, folic acid intake and gender.Recent studies have demonstrated that plasma betaine is a stronger determinant of PML tHcy than are vitamin BTo conclude, betaine status is a component of an individual's biochemical make-up with ramifications to one-carbon metabolism. Betaine status should be investigated in pathologies related to altered metabolism of homocysteine and folate, including cardiovascular disease, cancer and neural tube defects.",
+  "doi": "10.1515/cclm.2005.187",
+  "url": "https://doi.org/10.1515/cclm.2005.187",
+  "pdf_url": "",
+  "venue": "Clinical Chemistry and Laboratory Medicine (CCLM)",
+  "citation_count": 211,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-20T18:25:03.928564+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-031.md",
+  "quality_details": {
+    "content_length": 23724,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

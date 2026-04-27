@@ -1,0 +1,24 @@
+{
+  "id": "src-111",
+  "title": "The ergothioneine transporter (ETT): substrates and locations, an inventory",
+  "authors": [
+    "Gründemann, Dirk",
+    "Hartmann, Lea",
+    "Flögel, Svenja"
+  ],
+  "year": 2022,
+  "abstract": "In all vertebrates including mammals, the ergothioneine transporter ETT (obsolete name OCTN1; human gene symbol SLC22A4) is a powerful and highly specific transporter for the uptake of ergothioneine (ET). ETT is not expressed ubiquitously and only cells with high ETT cell‐surface levels can accumulate ET to high concentration. Without ETT, there is no uptake because the plasma membrane is essentially impermeable to this hydrophilic zwitterion. Here, we review the substrate specificity and localization of ETT, which is prominently expressed in neutrophils, monocytes/macrophages, and developing erythrocytes. Most sites of strong expression are conserved across species, but there are also major differences. In particular, we critically analyze the evidence for the expression of ETT in the brain as well as recent data suggesting that the transporter SLC22A15 may also transport ET. We conclude that, to date, ETT remains the only well‐defined biomarker for intracellular ET activity. In humans, the ability to take up, distribute, and retain ET depends principally on this transporter.",
+  "doi": "10.1002/1873-3468.14269",
+  "url": "https://doi.org/10.1002/1873-3468.14269",
+  "pdf_url": "",
+  "venue": "FEBS Letters",
+  "citation_count": 68,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-20T00:18:33.583140+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "src-309",
+  "title": "Chemotherapy-Induced Cardiotoxicity: Overview of the Roles of Oxidative Stress",
+  "authors": [
+    "Angsutararux, Paweorn",
+    "Luanpitpong, Sudjit",
+    "Issaragrisil, Surapol"
+  ],
+  "doi": "10.1155/2015/795602",
+  "url": "https://openalex.org/W2125304966",
+  "provider": "openalex",
+  "year": 2015,
+  "venue": "Oxidative Medicine and Cellular Longevity",
+  "citation_count": 289,
+  "abstract": "Chemotherapy-induced cardiotoxicity is a serious complication that poses a serious threat to life and limits the clinical use of various chemotherapeutic agents, particularly the anthracyclines. Understanding molecular mechanisms of chemotherapy-induced cardiotoxicity is a key to effective preventive strategies and improved chemotherapy regimen. Although no reliable and effective preventive treatment has become available, numerous evidence demonstrates that chemotherapy-induced cardiotoxicity involves the generation of reactive oxygen species (ROS). This review provides an overview of the roles of oxidative stress in chemotherapy-induced cardiotoxicity using doxorubicin, which is one of the most effective chemotherapeutic agents against a wide range of cancers, as an example. Current understanding in the molecular mechanisms of ROS-mediated cardiotoxicity will be explored and discussed, with emphasis on cardiomyocyte apoptosis leading to cardiomyopathy. The review will conclude with perspectives on model development needed to facilitate further progress and understanding on chemotherapy-induced cardiotoxicity.",
+  "type": "academic",
+  "pdf_url": "https://downloads.hindawi.com/journals/omcl/2015/795602.pdf"
+}

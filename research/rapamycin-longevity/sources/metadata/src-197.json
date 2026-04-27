@@ -1,0 +1,23 @@
+{
+  "id": "src-197",
+  "title": "SRN-901, a Novel Longevity Drug, Extends Lifespan and Healthspan by Targeting Multiple Aging Pathways",
+  "authors": [
+    "Weiss, Brett",
+    "Miranda, D.",
+    "Arrazati, Dylan",
+    "Cao, Ruiyang",
+    "Chen, Jiaqi",
+    "Liu, Yongzheng",
+    "Brown, David",
+    "Marshall, George"
+  ],
+  "doi": "10.2147/dddt.s594895",
+  "url": "https://www.semanticscholar.org/paper/e68013c9cbe4c7fd4ceb26ebdfad5346381a588c",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "Drug Design, Development and Therapy",
+  "citation_count": 0,
+  "abstract": "Introduction: Developing interventions to delay aging and improve lifespan and healthspan is a critical goal in aging research. Individual geroprotective compounds fail to address the complexity, interconnectedness, and dynamic nature of biological systems, limiting success in significantly extending lifespan and improving health. This study investigates the effects of SRN-901—a novel oral combinatorial drug that consists of urolithin A, quercetin, nicotinamide riboside, alpha-lipoic acid, and Seragon’s SRN-820—on lifespan extension, frailty reduction, disease-related gene expression pathways, metabolic aging, and the proteome in 18-month-old mice fed a Western diet. Results: SRN-901-treated mice showed a significant increase of 33% in median remaining lifespan compared to placebo-treated mice. Cox proportional hazards analysis revealed a hazard ratio of 0.54, indicating that SRN-901 treatment was associated with a 46% reduction in the hazard of death. While rapamycin increased lifespan in adult mice, nicotinamide mononucleotide (NMN), and nicotinamide riboside (NR) did not show significant differences in median lifespan compared to placebo. SRN-901 protected mice against increased frailty during aging, with baseline-normalized scores rising to 1.17 in treated mice and 1.57 in controls, corresponding to a 70% attenuation of frailty progression between pre-treatment (D-14) and post-treatment (D128; p < 0.001). Transcriptomic analyses revealed that SRN-901 modulates gene expression across pathways implicated in aging biology, including inflammation, apoptosis, and DNA repair, as well as gene sets associated with neurodegenerative disorders, including Alzheimer’s disease. Metabolic profiling revealed that SRN-901 was associated with attenuation of several age-related metabolic shifts, resulting in a blood metabolite profile that more closely resembled that of younger mice. The upregulation of glutathione metabolism and other longevity-related pathways underscores SRN-901’s role in enhancing cellular defenses against oxidative stress and maintaining metabolic health. Discussion: These results highlight SRN-901 as a promising multi-compound candidate for extending lifespan and healthspan by targeting multiple aging pathways.",
+  "type": "academic",
+  "pdf_url": ""
+}

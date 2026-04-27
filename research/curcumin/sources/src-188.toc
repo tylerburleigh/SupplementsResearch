@@ -1,0 +1,78 @@
+3	2	Review
+70	2	Introduction
+158	2	Molecular Targets Of Curcumin
+244	2	Preclinical Studies
+266	2	Metabolic Syndrome
+564	2	15 RCT s were
+570	2	Sod
+688	2	Sbp
+724	2	11 RCT s were
+726	2	Sbp
+727	2	Dbp
+892	2	Bmi
+1089	2	Other Clinical Studies
+1253	2	Metabolomics And Personalized
+1254	2	Treatment
+1576	2	Conclusion And Future
+1577	2	Perspectives
+1611	2	2. There is evidence that curcumin is degraded upon
+1629	2	3. The development of analogs and delivery systems are also
+1635	2	4. Improved preclinical models are also required as animal
+1643	2	5. Degradation products or curcumin metabolites, including
+1651	2	6. Based on clinical studies and meta-analysis,
+1664	2	Author Contributions
+1670	2	Funding
+1672	2	Acknowledgments
+1675	2	References
+1684	2	3. Cornier M-A, Dabelea D, Hernandez TL, Lindstrom RC, Steig AJ,
+1696	2	7. Chaudhury A, Duvoor C, Dendi VSR, Kraleti S, Chada A, Ravilla R,
+1700	2	8. Riddle MC, Forst T , Aronson R, Sauque-Reyna L, Souhami E, Silve stre
+1708	2	10. Karou SD, T chacondo T , Djikpo T chibozo MA, Abdoul-Rahaman S, Anani
+1712	2	11. Chukwuma CI, Matsabisa MG, Ibrahim MA, Erukainure OL, Chabala la
+1720	2	13. Garg R, Kumariya S, Katekar R, Verma S, Goand UK, Gayen JR,
+1724	2	14. Gaggini M, Morelli M, Buzzigoli E, DeFronzo RA, Bugianesi E, Ga staldelli
+1728	2	15. Patti AM, Al-Rasadi K, Giglio RV , Nikolic D, Mannina C, Caste llino G,
+1764	2	25. Paolino D, Vero A, Cosco D, Pecora TMG, Cianciolo S, Fresta
+1768	2	26. Kunnumakkara AB, Bordoloi D, Padmavathi G, Monisha J, Roy NK,
+1772	2	27. Tabrizi R, V akili S, Lankarani KB, Akbari M, Mirhosseini N, Gh ayour-
+1781	2	29. Salahshooh MM, Parizadeh SMR, Pasdar A, Saberi Karimian M, Saf arian H,
+1809	2	38. Shakour N, Cabezas R, Santos J, Barreto G, Jamialahmadi T , Hadi zadeh F ,
+1820	2	42. Bastard J-P , Maachi M, Lagathu C, Kim MJ, Caron M, Vidal H, Cape au J,
+1854	2	52. Karuppagounder V , Arumugam S, Giridharan V V , Sreedhar R, Bose
+1886	2	60. Kobori M, Takahashi Y , Takeda H, Takahashi M, Izumi Y , Akimoto Y ,
+1907	2	65. Hu G-X, Lin H, Lian Q-Q, Zhou S-H, Guo J, Zhou H-Y , Chu Y , Ge
+1930	2	71. Tabrizi R, V akili S, Akbari M, Mirhosseini N, Lankarani KB, Ra himi
+1940	2	73. Gorabi AM, Razi B, Aslani S, Abbasifard M, Imani D, Sathyapalan
+1948	2	75. Altobelli E, Angeletti PM, Marziliano C, Mastrodomenico M, Giulia ni AR,
+1976	2	82. Mousavi SM, Milajerdi A, V arkaneh HK, Gorjipour MM, Esmaillzadeh
+1985	2	84. Akbari M, Lankarani KB, Tabrizi R, Ghayour-Mobarhan M, Peyma ni P ,
+2001	2	88. Di Pierro F , Bressan A, Ranaldi D, Rapacioli G, Giacomelli L, Bertucc ioli
+2009	2	90. Chuengsamarn S, Rattanamongkolgul S, Luechapudiporn R, Phisala phong
+2023	2	93. Rinaldi L, Pafundi PC, Galiero R, Caturano A, Morone MV , Silvest ri
+2027	2	94. Saberi-Karimian M, Keshvari M, Ghayour-Mobarhan M, Salehiza deh L,
+2036	2	96. Moradi B, Rahmati-Ahmadabad S, Farzanegi P , Helalizadeh M, Azar bayjani
+2041	2	97. Mirhafez SR, Azimi-Nezhad M, Dehabeh M, Hariri M, Naderan RD,
+2049	2	99. Saadati S, Sadeghi A, Mansour A, Y ari Z, Poustchi H, Hedayati M,
+2053	2	100. Mirhafez SR, Farimani AR, Dehhabe M, Bidkhori M, Hariri M, Mot lagh
+2058	2	101. Saadati S, Hatami B, Y ari Z, Shahrbaf MA, Eghtesad S, Manso ur A,
+2067	2	103. Jazayeri-Tehrani SA, Rezayat SM, Mansouri S, Qorbani M, Ala vian SM,
+2081	2	106. Chashmniam S, Mirhafez SR, Dehabeh M, Hariri M, Azimi Nezhad M,
+2091	2	108. Rahmani S, Asgary S, Askari G, Keshvari M, Hatamipour M, Feizi A ,
+2100	2	110. Mirhafez SR, Rezai A, Dehabeh M, Nobakht M, Gh BF , Bidkho ri
+2112	2	113. Jalali M, Mahmoodi M, Mosallanezhad Z, Jalali R, Imanieh MH, Moosa vian
+2121	2	115. Gheibi S, Gouvarchin Ghaleh HE, Motlagh BM, Azarbayjani AF ,
+2125	2	116. Mirhafez SR, Dehabeh M, Hariri M, Farimani AR, Movahedi A, Na deran
+2133	2	118. Saberi-Karimin M, Ghazizadeh H, Mohammadzadeh E, Ferns GA, Gha your-
+2149	2	123. Safarian H, Parizadeh SMR, Saberi-Karimain M, Darroudi S, Javan doost A,
+2156	2	124. Mohammadi F , Ghazi-Moradi M, Ghayour-Mobarhan M, Esmaeili H,
+2160	2	125. Alamdari DH, Ghayour-Mobarhan M, Tavallaie S, Parizadeh MR, Mo ohebati
+2164	2	126. Ghazimoradi M, Saberi-Karimian M, Mohammadi F , Sahebkar A, Tav allaie
+2168	2	127. Mohammadi A, Sadeghnia HR, Saberi-Karimian M, Safarian H, Ferns G A,
+2172	2	128. Taghipour YD, Hajialyani M, Naseri R, Hesari M, Mohammadi P , Ste fanucci
+2229	2	146. Monnerie S, Comte B, Ziegler D, Morais JA, Pujos-Guillot E, Gau dreau
+2236	2	148. Khoomrung S, Wanichthanarak K, Nookaew I, Thamsermsang O,
+2313	2	171. Al-Jenoobi FI, Al-Thukair AA, Alam MA, Abbas FA, Al-Mohizea AM,
+2341	2	178. Volak LP , Hanley MJ, Masse G, Hazarika S, Harmatz JS, Badmaev
+2351	2	180. V alentine SP , Le Nedelec MJ, Menzies AR, Scandlyn MJ, Goodi n
+2372	2	186. Cunningham M, Azcarate-Peril MA, Barnard A, Benoit V , Grimaldi R,
+2379	2	188. Plovier H, Everard A, Druart C, Depommier C, V an Hul M, Geurts L,

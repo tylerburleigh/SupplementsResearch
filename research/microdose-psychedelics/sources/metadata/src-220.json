@@ -1,0 +1,23 @@
+{
+  "id": "src-220",
+  "title": "Evaluation of Reduced Single-Photon Emission Computed Tomography Imaging Protocols and Software Variability in 177Lu-DOTATATE Dosimetry: Protocol for an Exploratory Observational Trial",
+  "authors": [
+    "Yagihashi, Takayuki",
+    "Miwa, K.",
+    "Miyaji, Noriaki",
+    "Sugimoto, Satoru",
+    "Hayakawa, Hideki",
+    "Kobayashi, Noritoshi",
+    "Takano, Shoko",
+    "Murai, T."
+  ],
+  "doi": "10.2196/83248",
+  "url": "https://www.semanticscholar.org/paper/088a47299f02a6d24d4d5cb06eceb5eb10f701d1",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "JMIR Research Protocols",
+  "citation_count": 0,
+  "abstract": "Abstract Background Targeted radiopharmaceutical therapy (TRT) offers a promising approach for cancer treatment by delivering radiation directly to tumor cells while sparing healthy tissues. Accurate dosimetry of organs and tumors is crucial to optimize therapeutic efficacy and minimize toxicity, particularly for dose-limiting organs such as the kidneys. Although routine dosimetry using single-photon emission computed tomography (SPECT) is recommended per guidelines, its widespread clinical application remains limited owing to a lack of consensus on the optimal frequency and timing of SPECT scans for accurate dosimetry, which leads to variability in clinical practice and hinders robust dose–response relationships. Furthermore, absorbed dose calculations rely on software-specific curve-fitting models. Thus, discrepancies in dose estimates among different simulation software programs pose a significant challenge to standardizing dosimetry workflows. Objective We aimed to explore the optimal SPECT imaging schedule, evaluate differences among simulation software programs, and establish a standardized protocol for future epidemiological research to define organ tolerance doses and facilitate wider adoption of personalized TRT regimens. Methods This exploratory observational trial will determine the optimal SPECT imaging protocol and consistency of dosimetry estimates using software programs for Lu-177-DOTATATE therapy in patients with neuroendocrine tumors. In a single treatment cycle, SPECT imaging will be performed at 4, 24, 96, and 168 hours following Lu-177-DOTATATE administration. The true absorbed dose cannot be directly measured; therefore, doses calculated using all time points (the 4-point method) for each patient will be used as the reference standard and compared with estimates derived from 1- to 3-point methods. Consequently, 15 dose simulations will be conducted per patient. This study implements a 5+5 design (rule-based design). The primary endpoint is the incidence of dose errors for each patient across different dose-calculation software systems. The kidney absorbed dose will be the primary focus of evaluation, with secondary analyses including tumor and other organ dosimetry. In principle, a dose error of <5% will be considered acceptable in each software system, depending on the absolute dose level. Differences among software systems and between patients will be evaluated using descriptive statistical methods. The study was approved by the Tokushukai Group Ethics Committee (Approval No. 2447). Results Recruitment began on March 5, 2024, and 4 participants have been enrolled as of September 2025. Data collection is expected to be completed by February 2027, with the study results anticipated in August 2027. Conclusions This study will evaluate whether simplified SPECT imaging protocols can maintain dosimetric accuracy while reducing the burden on patients and providers. It will also compare absorbed dose estimates across software programs to assess consistency and reliability as a reference. Findings will be disseminated through open-access peer-reviewed journals and relevant conferences and events.",
+  "type": "academic",
+  "pdf_url": ""
+}

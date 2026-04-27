@@ -1,0 +1,22 @@
+22	2	Abstract
+23	2	Background
+28	2	Methods
+35	2	Results
+43	2	Conclusions
+48	2	Background
+82	2	Methods
+143	2	Results
+170	2	Discussion
+237	2	Conclusions
+245	2	Ascvd
+247	2	Cad
+249	2	Crp
+251	2	Evoo
+259	2	Lps
+263	2	Mda
+265	2	Pbmc
+267	2	Roo
+269	2	Tba
+288	2	Competing Interests
+301	2	Acknowledgements
+305	2	References

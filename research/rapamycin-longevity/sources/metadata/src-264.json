@@ -1,0 +1,25 @@
+{
+  "id": "src-264",
+  "title": "The mitophagy pathway and its implications in human diseases",
+  "authors": [
+    "Wang, Shouliang",
+    "Long, Haijiao",
+    "Hou, Lianjie",
+    "Feng, Baorong",
+    "Ma, Zihong",
+    "Wu, Ying",
+    "Zeng, Yu",
+    "Cai, Jiahao",
+    "Zhang, Dawei",
+    "Zhao, Guojun"
+  ],
+  "doi": "10.1038/s41392-023-01503-7",
+  "url": "https://openalex.org/W4385828734",
+  "provider": "openalex",
+  "year": 2023,
+  "venue": "Signal Transduction and Targeted Therapy",
+  "citation_count": 694,
+  "abstract": "Mitochondria are dynamic organelles with multiple functions. They participate in necrotic cell death and programmed apoptotic, and are crucial for cell metabolism and survival. Mitophagy serves as a cytoprotective mechanism to remove superfluous or dysfunctional mitochondria and maintain mitochondrial fine-tuning numbers to balance intracellular homeostasis. Growing evidences show that mitophagy, as an acute tissue stress response, plays an important role in maintaining the health of the mitochondrial network. Since the timely removal of abnormal mitochondria is essential for cell survival, cells have evolved a variety of mitophagy pathways to ensure that mitophagy can be activated in time under various environments. A better understanding of the mechanism of mitophagy in various diseases is crucial for the treatment of diseases and therapeutic target design. In this review, we summarize the molecular mechanisms of mitophagy-mediated mitochondrial elimination, how mitophagy maintains mitochondrial homeostasis at the system levels and organ, and what alterations in mitophagy are related to the development of diseases, including neurological, cardiovascular, pulmonary, hepatic, renal disease, etc., in recent advances. Finally, we summarize the potential clinical applications and outline the conditions for mitophagy regulators to enter clinical trials. Research advances in signaling transduction of mitophagy will have an important role in developing new therapeutic strategies for precision medicine.",
+  "type": "academic",
+  "pdf_url": "https://www.nature.com/articles/s41392-023-01503-7.pdf"
+}

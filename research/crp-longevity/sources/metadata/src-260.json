@@ -1,0 +1,24 @@
+{
+  "id": "src-260",
+  "title": "Pericoronary Fat Attenuation Index and MRI-Derived Coronary Flow Reserve: A Comparative Study in Suspected Versus Known Coronary Artery Disease",
+  "authors": [
+    "Takizawa, Ryoya",
+    "Kato, S.",
+    "Kodama, S.",
+    "Fukui, K.",
+    "Sekii, R.",
+    "Yasuda, Naofumi",
+    "Sawamura, Shungo",
+    "Iwasawa, Tae",
+    "Utsunomiya, Daisuke"
+  ],
+  "doi": "10.3390/tomography12040055",
+  "url": "https://www.semanticscholar.org/paper/f1d33965d511784fbe88c1a35575fab30cff6803",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "Tomography",
+  "citation_count": 0,
+  "abstract": "Background: The fat attenuation index (FAI) derived from coronary computed tomography angiography (CTA) is an emerging imaging biomarker of perivascular inflammation. Coronary flow reserve (CFR), assessed by phase-contrast (PC) cine cardiac magnetic resonance (CMR) of the coronary sinus, reflects coronary microvascular function. Although FAI has been linked to adverse outcomes in coronary artery disease (CAD), its relationship with CFR across different CAD stages is not well defined. Methods: We retrospectively evaluated 241 patients (mean age 73.4 ± 10.8 years; 149 men [61.8%]) who underwent both coronary CTA and CMR (122 with known CAD and 119 with suspected CAD). FAI was measured in the proximal left anterior descending (LAD), left circumflex (LCX), and right coronary (RCA) arteries. Impaired CFR was defined as <2.0. Univariable and multivariable logistic regression analyses were performed to identify factors associated with impaired CFR. Results: Impaired CFR was observed in 38 of 122 patients (31.1%) with known CAD and 26 of 119 (21.8%) with suspected CAD. Higher LAD-FAI was associated with impaired CFR in both groups: OR 1.06 (95% CI 1.01–1.11; p = 0.018) in known CAD and OR 1.08 (95% CI 1.02–1.15; p = 0.017) in suspected CAD. Correlation analysis also demonstrated an inverse relationship between LAD-FAI and CFR (p < 0.001), and the strength of association was comparable between the two groups. Conclusions: LAD-FAI was associated with impaired CFR in both suspected and known CAD, with comparable strength of association across the two groups. These findings indicate that perivascular inflammation, reflected by FAI, may relate to coronary microvascular dysfunction in different stages of CAD.",
+  "type": "academic",
+  "pdf_url": ""
+}

@@ -1,0 +1,25 @@
+{
+  "id": "src-280",
+  "title": "Cdc42 improve SARS-CoV-2 spike protein-induced cellular senescence through activating of Wnt/β-Catenin signaling pathway",
+  "authors": [
+    "Nong, Chunmei",
+    "Wu, Zhenzhen",
+    "Yang, Chan",
+    "Xu, Wei",
+    "Luo, Linyi",
+    "Zhou, Jianping",
+    "Shen, Lihan",
+    "Chen, Yinghua",
+    "Yuan, Yaoqin",
+    "Hu, Guodong"
+  ],
+  "doi": "10.3389/fcimb.2024.1449423",
+  "url": "https://www.semanticscholar.org/paper/920e732271e4542620aeafcd2d4c2c12cc9c60b7",
+  "provider": "semantic_scholar",
+  "year": 2024,
+  "venue": "Frontiers in Cellular and Infection Microbiology",
+  "citation_count": 2,
+  "abstract": "Introduction SARS-CoV-2 infection drove senescent cells and the senescence-associated phenotypes were reported playing roles in disease progression, which contributes to severe COVID-19 and related sequelae. Cdc42 is involved in the regulation of cellular senescence. This study, aimed to investigate the mechanism of the SARS-CoV-2 spike protein regulating cellular senescence through Cdc42. Methods K18-hACE2 mice were infected with SARS-CoV-2 Omicron BA.4 or stimulated with spike protein through the airway, the senescent cells and Cdc42 expression in lung tissue were detected. Overexpression of spike protein or exogenous incubation of spike protein was used to simulate the induction of cellular senescence by spike protein. Mechanistic insights into the role of Cdc42 were mainly explored using Western Blot and qRT-PCR. Results Spike protein, SARS-CoV-2 infection related, accelerates cell aging by upregulating Cdc42 expression, which furtherly activated the Wnt/β-catenin signaling pathway. Conversely, treatment with ML141 in animal models, a Cdc42 inhibitor, reduced cellular senescence and ameliorated lung injury and inflammation. These results suggest that the upregulation of Cdc42 by the SARS-CoV-2 spike protein induces cellular senescence and enhances β-catenin nuclear translocation. Discussion This study provides insights into the mechanisms underlying cellular senescence induced by the SARS-CoV-2 spike protein, offering potential strategies to mitigate the inflammatory response and complications associated with COVID-19 in both the acute and long-term phases.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.3389/fcimb.2024.1449423"
+}

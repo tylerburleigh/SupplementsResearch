@@ -1,0 +1,22 @@
+{
+  "id": "src-308",
+  "title": "Plasma dephosphorylated-uncarboxylated Matrix Gla-Protein (dp-ucMGP): reference intervals in Caucasian adults and diabetic kidney disease biomarker potential",
+  "authors": [
+    "Griffin, Tomás P.",
+    "Islam, Md Nahidul",
+    "Wall, Deirdre",
+    "Ferguson, John",
+    "Griffin, D.",
+    "Griffin, Matthew D.",
+    "O’Shea, Paula"
+  ],
+  "doi": "10.1038/s41598-019-54762-2",
+  "url": "https://openalex.org/W2994065771",
+  "provider": "openalex",
+  "year": 2019,
+  "venue": "Scientific Reports",
+  "citation_count": 40,
+  "abstract": "Recent studies suggest a possible association between dephosphorylated-uncarboxylated MGP (dp-ucMGP) and glomerular filtration rate (GFR). This study aimed to establish normative data in an adult Caucasian population and to explore the potential utility of dp-ucMGP in patients with diabetes mellitus (DM) with and without diabetic kidney disease (DKD). Healthy volunteers (HVs) (cross-sectional study) and participants with DM (prospective cohort study) were recruited. Plasma dp-ucMGP was measured using the IDS®-iSYS Ina Ktif (dp-ucMGP) assay. Of the HVs recruited (n = 208), 67(32.2%) were excluded leaving a reference population of 141(67.8%) metabolically healthy participants with normal kidney function. Plasma dp-ucMGP RIs were <300-532 pmol/L. There were 100 eligible participants with DKD and 92 with DM without DKD. For the identification of participants with DKD, the area under the receiver operating characteristic curve (AUC) for dp-ucMGP was 0.842 (95%CI:0.799-0.880; p < 0.001). Plasma dp-ucMGP demonstrated similar ability to urine albumin:creatinine ratio (uACR) to detect participants with DM and renal function decline. Among patients with DM, there was a negative correlation between natural log (LN) dp-ucMGP and eGFR (r = -0.7041; p < 0.001) and rate of change in renal function [%change (r = -0.4509; p < 0.001)] and a positive correlation between LN dp-ucMGP and LN uACR (r = 0.3392; p < 0.001). These results suggest the potential for plasma dp-ucMGP with well-defined RIs to identify adults at high risk for vascular disease in the context of progressive DKD.",
+  "type": "academic",
+  "pdf_url": "https://www.nature.com/articles/s41598-019-54762-2.pdf"
+}

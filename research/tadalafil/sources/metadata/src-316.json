@@ -1,0 +1,23 @@
+{
+  "id": "src-316",
+  "title": "Cardiomyopathy Associated with Diabetes: The Central Role of the Cardiomyocyte",
+  "authors": [
+    "Filardi, Tiziana",
+    "Ghinassi, Barbara",
+    "Baldassarre, Angela Di",
+    "Tanzilli, Gaetano",
+    "Morano, Susanna",
+    "Lenzi, Andrea",
+    "Basili, Stefania",
+    "Crescioli, Clara"
+  ],
+  "doi": "10.3390/ijms20133299",
+  "url": "https://openalex.org/W2955588623",
+  "provider": "openalex",
+  "year": 2019,
+  "venue": "International Journal of Molecular Sciences",
+  "citation_count": 94,
+  "abstract": "The term diabetic cardiomyopathy (DCM) labels an abnormal cardiac structure and performance due to intrinsic heart muscle malfunction, independently of other vascular co-morbidity. DCM, accounting for 50%-80% of deaths in diabetic patients, represents a worldwide problem for human health and related economics. Optimal glycemic control is not sufficient to prevent DCM, which derives from heart remodeling and geometrical changes, with both consequences of critical events initially occurring at the cardiomyocyte level. Cardiac cells, under hyperglycemia, very early undergo metabolic abnormalities and contribute to T helper (Th)-driven inflammatory perturbation, behaving as immunoactive units capable of releasing critical biomediators, such as cytokines and chemokines. This paper aims to focus onto the role of cardiomyocytes, no longer considered as \"passive\" targets but as \"active\" units participating in the inflammatory dialogue between local and systemic counterparts underlying DCM development and maintenance. Some of the main biomolecular/metabolic/inflammatory processes triggered within cardiac cells by high glucose are overviewed; particular attention is addressed to early inflammatory cytokines and chemokines, representing potential therapeutic targets for a prompt early intervention when no signs or symptoms of DCM are manifesting yet. DCM clinical management still represents a challenge and further translational investigations, including studies at female/male cell level, are warranted.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/1422-0067/20/13/3299/pdf?version=1562298188"
+}

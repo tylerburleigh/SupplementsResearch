@@ -1,0 +1,17 @@
+{
+  "id": "src-256",
+  "title": "A scaling normalization method for differential expression analysis of RNA-seq data",
+  "authors": [
+    "Robinson, Mark D.",
+    "Oshlack, Alicia"
+  ],
+  "doi": "10.1186/gb-2010-11-3-r25",
+  "url": "https://openalex.org/W2107018762",
+  "provider": "openalex",
+  "year": 2010,
+  "venue": "Genome biology",
+  "citation_count": 8427,
+  "abstract": "The fine detail provided by sequencing-based transcriptome surveys suggests that RNA-seq is likely to become the platform of choice for interrogating steady state RNA. In order to discover biologically important changes in expression, we show that normalization continues to be an essential step in the analysis. We outline a simple and effective method for performing normalization and show dramatically improved results for inferring differential expression in simulated and publicly available data sets.",
+  "type": "academic",
+  "pdf_url": "https://genomebiology.biomedcentral.com/counter/pdf/10.1186/gb-2010-11-3-r25"
+}

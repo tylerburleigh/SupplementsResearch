@@ -1,0 +1,29 @@
+{
+  "id": "src-198",
+  "title": "Autophagy‐Independent Function of ATG‐18 Is Essential for Gonadal Longevity in Caenorhabditis elegans",
+  "authors": [
+    "Shioda, Tatsuya",
+    "Takahashi, Ittetsu",
+    "Horikawa, Makoto",
+    "Osumi, Taiichi",
+    "Shima, Takayuki",
+    "Yamauchi, A.",
+    "Nakamura, Kayo",
+    "Sasaki, Taeko",
+    "Kaminishi, Tatsuya",
+    "Yoshikawa, Harunori",
+    "Sato, Miyuki",
+    "Kosako, H.",
+    "Yoshimori, Tamotsu",
+    "Nakamura, Shuhei"
+  ],
+  "doi": "10.1111/acel.70454",
+  "url": "https://www.semanticscholar.org/paper/61ef914bcf1feb5132552f1a2c475941291683b8",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "Aging Cell",
+  "citation_count": 1,
+  "abstract": "Autophagy, a highly conserved cellular degradation process, plays essential roles in various physiological processes including aging. Though autophagy is required for lifespan extension in multiple longevity paradigms, the tissue‐specific roles of autophagy‐related genes (atgs) in longevity remain incompletely understood. Here, we investigate the tissue‐specific requirements of atgs to promote longevity conferred by germline ablation (called gonadal longevity) using C. elegans. Remarkably, we discovered that neuronal or intestinal knockdown of atg‐18, but not other atgs, specifically abolished gonadal longevity, although knockdown of all tested atgs effectively inhibited autophagic activity in these targeted tissues, implying the presence of an autophagy‐independent function of ATG‐18 in gonadal longevity. We demonstrated that germline deficiency triggered significant upregulation of ATG‐18 in neurons and the intestine. From the proteomics analysis and subsequent screening, we found ATG‐18 interacts with PCK‐2, a phosphoenolpyruvate carboxykinase. PCK‐2 is upregulated within the intestine of germline‐deficient animals, but this depends on the non‐autophagic function of ATG‐18. Consistently, we showed that PCK‐2 overexpression mediated longevity required ATG‐18 but not its potential interacting partner to regulate autophagy, ATG‐2. These findings reveal a previously unrecognized autophagy‐independent role for ATG‐18 in regulating lifespan in response to germline signals, expanding our understanding of how this evolutionarily conserved protein coordinates organism‐wide responses to promote longevity.",
+  "type": "academic",
+  "pdf_url": ""
+}

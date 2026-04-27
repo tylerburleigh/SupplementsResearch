@@ -1,0 +1,20 @@
+{
+  "id": "src-201",
+  "title": "Stimulation of phagocytosis by sulforaphane.",
+  "authors": [
+    "Suganuma, Hiroyuki",
+    "Fahey, Jed W",
+    "Bryan, Kelley E",
+    "Healy, Zachary R",
+    "Talalay, Paul"
+  ],
+  "doi": "10.1016/j.bbrc.2011.01.025",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/21219867",
+  "provider": "pubmed",
+  "year": 2011,
+  "venue": "Biochemical and biophysical research communications",
+  "citation_count": 0,
+  "abstract": "Sulforaphane, a major isothiocyanate derived from cruciferous vegetables, protects living systems against electrophile toxicity, oxidative stress, inflammation, and radiation. A major protective mechanism is the induction of a network of endogenous cytoprotective (phase 2) genes that are regulated by transcription factor Nrf2. To obtain a more detailed understanding of the anti-inflammatory and immunomodulatory effects of sulforaphane, we evaluated its effect on the phagocytosis activity of RAW 264.7 murine macrophage-like cells by measuring the uptake of 2-μm diameter polystyrene beads. Sulforaphane raised the phagocytosis activity of RAW 264.7 cells but only in the absence or presence of low concentrations (1%) of fetal bovine serum. Higher serum concentrations depressed phagocytosis and abolished its stimulation by sulforaphane. This stimulation did not depend on the induction of Nrf2-regulated genes since it occurred in peritoneal macrophages of nrf2(-/-) mice. Moreover, a potent triterpenoid inducer of Nrf2-dependent genes did not stimulate phagocytosis, whereas sulforaphane and another isothiocyanate (benzyl isothiocyanate) had comparable inducer potencies. It has been shown recently that sulforaphane is a potent and direct inactivator of macrophage migration inhibitory factor (MIF), an inflammatory cytokine. Moreover, the addition of recombinant MIF to RAW 264.7 cells attenuated phagocytosis, but sulforaphane-inactivated MIF did not affect phagocytosis. The inactivation of MIF may therefore be involved in the phagocytosis-enhancing activity of sulforaphane.",
+  "type": "academic",
+  "pdf_url": ""
+}

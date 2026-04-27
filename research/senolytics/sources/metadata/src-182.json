@@ -1,0 +1,26 @@
+{
+  "id": "src-182",
+  "title": "Inhibitor PF-04691502 works as a senolytic to regulate cellular senescence.",
+  "authors": [
+    "Fan, Ziqiang",
+    "Tong, Y.",
+    "Yang, Ziyue",
+    "Wang, Shuai",
+    "Huang, Tiantian",
+    "Yang, Deying",
+    "Ni, Q.",
+    "Zhang, Mingwang",
+    "Li, Diyan",
+    "Yang, Mingyao",
+    "Fan, Xiaolan"
+  ],
+  "doi": "10.1016/j.exger.2024.112359",
+  "url": "https://www.semanticscholar.org/paper/a3d64ed1c8507ef1e0c2109d26179fa5641d26dd",
+  "provider": "semantic_scholar",
+  "year": 2024,
+  "venue": "Experimental Gerontology",
+  "citation_count": 8,
+  "abstract": "Aging is a gradual process of natural change that occurs after reaching sexual maturity. It is also a known risk factor for many chronic diseases. Recent research has shown that senolytics can extend the lifespans and health spans of model organisms, and they have also been demonstrated effective in treating age-related diseases. In this study, we conducted a high-throughput screening of 156 drugs that targeted the PI3K/AKT/mTOR pathway to identify potential senolytic medications. Among these drugs, PF-04691502 was selected for further investigation to understand its molecular mechanism of action. Our findings indicate that PF-04691502, a dual inhibitor of PI3K/AKT and mTOR, specifically eliminates senescent cells. It reduces the expression levels of key markers of cellular senescence, such as SA-β-Gal, senescence-associated secretory phenotypes (SASPs) and p16INK4a. Additionally, PF-04691502 inhibits the phosphorylation of S6K and AKT, leading to the apoptosis of senescent cells. These results suggest that PF-04691502 holds promise as a new senolytic drug. This paper provides important insights into the potential application of PF-04691502 in the study of cell senescence.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.1016/j.exger.2024.112359"
+}

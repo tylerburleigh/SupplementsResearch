@@ -1,0 +1,32 @@
+{
+  "id": "src-209",
+  "title": "L-Methylfolate, Methylcobalamin, and<i>N</i>-Acetylcysteine in the Treatment of Alzheimer's Disease-Related Cognitive Decline",
+  "authors": [
+    "McCaddon, Andrew",
+    "Hudson, Peter R."
+  ],
+  "year": 2010,
+  "abstract": "Almost 36 million people will have dementia in 2010—an alarming figure set to double every 20 years with the “greying” of the world population. Alzheimer's disease (AD) and dementia have enormous financial and social impacts on society. Prevention or illness delay of even a small percentage of cases would provide significant cost benefits for health-care systems. This review considers the rationale for a combined B-vitamin and antioxidant supplement (Cerefolin NAC) in treating and slowing AD-related cognitive decline.Vitamin B12and folate deficiencies are associated with various cognitive disorders, including dementia. In the 1980s, plasma total homocysteine (tHcy) assays were introduced to assist in diagnosing these deficiencies. Hey is derived from dietary methionine. Cells re-methylate Hey to methionine using B12-dependent methionine synthase; 5-methyltetrahydrofolate (5-MTHF) acts as a methyl donor (Figure 1A). Alternatively, Hey is converted to cystathionine, and ultimately cysteine, by B6-dependent cystathionine β-synthase. Blood Hey levels rise in B6, B6, and folate deficiencies.Higher levels are also associated with aging, smoking, male gender, renal impairment, and drugs including methotrexate, metformin, and levodopa.Using tHcy as a marker, B vitamin deficiencies were found to be highly prevalent in the elderly. This led to speculation that elevated blood Hey, hyperhomocysteinemia, might occur commonly in dementias, including AD. Hyperhomocysteinemia implies impaired meth-ylation reactions (hypomethylation), with predictable adverse effects for neurotransmitter synthesis and AD neuropathology. Hey is also associated with vascular disease, itself a risk factor for dementia.Evidence for the “homocysteine hypothesis of dementia” came with reports of hyperhomocysteinemia in patients with clinically and pathologically confirmed AD. Raised blood levels were also observed in mild cognitive impairment (MCI) and vascular dementia. Although elevated Hey could be a consequence of, or coincidental with, dementia hyperhomocysteinemia, it is now recognised to be associated with an increased risk for both cognitive decline and incident dementia.",
+  "doi": "10.1017/s1092852900027589",
+  "url": "https://doi.org/10.1017/s1092852900027589",
+  "pdf_url": "",
+  "venue": "CNS Spectrums",
+  "citation_count": 25,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-20T13:27:19.098614+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-209.md",
+  "quality_details": {
+    "content_length": 26638,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

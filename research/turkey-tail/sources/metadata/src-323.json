@@ -1,0 +1,20 @@
+{
+  "id": "src-323",
+  "title": "Hepatoprotective Bioactivity of the Glycoprotein, Antrodan, Isolated from Antrodia cinnamomea Mycelia",
+  "authors": [
+    "Ker, Yaw-Bee",
+    "Peng, Chiung-Chi",
+    "Chang, Wan-Lin",
+    "Chyau, Charng-Cherng",
+    "Peng, Robert Y."
+  ],
+  "doi": "10.1371/journal.pone.0093191",
+  "url": "https://openalex.org/W2037850871",
+  "provider": "openalex",
+  "year": 2014,
+  "venue": "PLoS ONE",
+  "citation_count": 29,
+  "abstract": "Antrodan, a protein-bound polysaccharide isolated from Antrodia cinnamomea mycelia, was demonstrated to exhibit significant anti-inflammatory bioactivity in vitro. However, its role in hepatic injury in vivo still remains unclear. We hypothesized that antrodan may have beneficial hepatoprotective effects. To verify this, a lipopolysaccharide (LPS)-Sprague-Dawley rat model was used. Antrodan protected against liver damage by suppressing LPS-stimulated serum glutamine-oxaloacetic transaminase (GOT), glutamic-pyruvic transaminase (GPT), interleukin (IL)-6, hepatic thiobarbituric acid reactive substances (TBARS), nitric oxide (NO), inducible NO synthase (iNOS) and nuclear factor (NF)-κB, and by effectively alleviating the downregulated hepatic superoxide dismutase (SOD), catalase, and glutathione peroxidase (GSH-Px). Hematoxylin-eosin staining revealed that antrodan at a dosage of 40 mg/kg was able to alleviate LPS-induced liver damage to a normal status. In addition, we identified the partial main architectural backbone of antrodan to have a 1 → 3 linear β-glycosidic backbone of mannan linked by β-1 → 3 glucosidic branches. Conclusively, antrodan can potentially ameliorate liver damage in vivo by suppressing oxidative stress induced by LPS.",
+  "type": "academic",
+  "pdf_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0093191&type=printable"
+}

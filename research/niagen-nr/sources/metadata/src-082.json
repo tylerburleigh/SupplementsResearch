@@ -1,0 +1,42 @@
+{
+  "id": "src-082",
+  "title": "Purine nucleoside phosphorylase controls nicotinamide riboside metabolism in mammalian cells",
+  "authors": [
+    "Kropotov, Andrey",
+    "Kulikova, Veronika",
+    "Solovjeva, Ljudmila",
+    "Yakimov, Alexander",
+    "Nerinovski, Kirill",
+    "Svetlova, Maria",
+    "Sudnitsyna, Julia",
+    "Plusnina, Alena",
+    "Antipova, Maria",
+    "Khodorkovskiy, Mikhail",
+    "Migaud, Marie E.",
+    "Gambaryan, Stepan",
+    "Ziegler, Mathias",
+    "Nikiforov, Andrey"
+  ],
+  "year": 2022,
+  "abstract": "",
+  "doi": "10.1016/j.jbc.2022.102615",
+  "url": "https://doi.org/10.1016/j.jbc.2022.102615",
+  "pdf_url": "",
+  "venue": "Journal of Biological Chemistry",
+  "citation_count": 24,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-20T20:49:33.885671+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-082.md",
+  "quality_details": {
+    "content_length": 65089,
+    "alpha_ratio": 0.748,
+    "sentence_count": 1068,
+    "reasons": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "src-360",
+  "title": "Green Tea and Epigallocatechin Gallate (EGCG) for Cancer Prevention: A Systematic Review and Meta-Analysis.",
+  "authors": [
+    "Zhang, Yang",
+    "Xu, Qiong",
+    "Hu, Jiepin",
+    "Zhang, Feng",
+    "Yu, Youjie",
+    "Ma, Longying"
+  ],
+  "doi": "10.1142/s0192415x2550065x",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40832777",
+  "provider": "pubmed",
+  "year": 2025,
+  "venue": "The American journal of Chinese medicine",
+  "citation_count": 0,
+  "abstract": "Previous studies have reported inconsistent effects of green tea and its extract, epigallocatechin gallate (EGCG), on cancer prevention. We aimed to uncover the protective effects of green tea or EGCG against cancer, and to assess the dose-response relationship between cancer risk and green tea consumption by performing a comprehensive meta-analysis of cohort studies. A systematic search of the PubMed, Embase, CENTRAL, AMED, CancerLit, AACR, and CBM databases was conducted from the date of database creation to October 26, 2023, to collect randomized controlled trials (RCTs) and cohort studies on the association between green tea or green tea extract EGCG intake and the risk of cancer occurrence. Meta-analysis was performed using the RevMan 5.4 software and Stata 16 after an independent screening of the literature, extraction of information, and evaluation by two investigators of the risk of bias in included studies. Funnel plots were used to evaluate the publication bias. Dose-response relationships were evaluated using a two-stage restricted cubic spline regression model. The study protocol was registered in PROSPERO (CRD42023484787). The search yielded 2334 papers, and 43, including 7 RCTs and 36 cohort studies, were finally included. The results of the meta-analysis showed that green tea (relative risk [RR]: 0.91, 95% confidence interval [CI]: 0.86-0.96) and EGCG (RR: 0.72, 95% CI: 0.54-0.97) could reduce the risk of cancer to a certain extent compared to controls. It had an especially notable effect in reducing the risk of prostate cancer (RR: 0.43, 95% CI: 0.22-0.83), oral cancer (RR: 0.44, 95% CI: 0.01-0.87), gallbladder cancer (RR: 0.72, 95% CI: 0.51-0.94), and hematological cancers (RR: 0.72, 95% CI: 0.49-0.95), with statistically significant differences. Additionally, the dose-response meta-analysis revealed a significant negative linear correlation between high doses, long-term consumption of green tea, and cancer risk. Green tea or EGCG intake can prevent some cancers. High doses and long-term consumption of green tea could achieve better benefits, providing a basis for the dietary guidelines for green tea in preventing cancer. However, given the heterogeneity of the included studies, our findings still need to be validated by conducting higher-quality studies.",
+  "type": "academic",
+  "pdf_url": ""
+}

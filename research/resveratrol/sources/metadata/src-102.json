@@ -1,0 +1,16 @@
+{
+  "id": "src-102",
+  "title": "Resveratrol and Cardiovascular Diseases",
+  "authors": [
+    "Bonnefont‐Rousselot, Dominique"
+  ],
+  "doi": "10.3390/nu8050250",
+  "url": "https://openalex.org/W2345409531",
+  "provider": "openalex",
+  "year": 2016,
+  "venue": "Nutrients",
+  "citation_count": 427,
+  "abstract": "The increased incidence of cardiovascular diseases (CVDs) has stimulated research for substances that could improve cardiovascular health. Among them, resveratrol (RES), a polyphenolic compound notably present in grapes and red wine, has been involved in the \"French paradox\". RES is known for its antioxidant and anti-inflammatory properties and for its ability to upregulate endothelial NO synthase (eNOS). RES was able to scavenge (•)OH/O₂(•-) and peroxyl radicals, which can limit the lipid peroxidation processes. Moreover, in bovine aortic endothelial cells (BAEC) under glucose-induced oxidative stress, RES restored the activity of dimethylargininedimethylaminohydrolase (DDAH), an enzyme that degrades an endogenous inhibitor of eNOS named asymmetric dimethylarginine (ADMA). Thus, RES could improve (•)NO availability and decrease the endothelial dysfunction observed in diabetes. Preclinical studies have made it possible to identify molecular targets (SIRT-1, AMPK, Nrf2, NFκB…); however, there are limited human clinical trials, and difficulties in the interpretation of results arise from the use of high-dose RES supplements in research studies, whereas low RES concentrations are present in red wine. The discussions on potential beneficial effects of RES in CVDs (atherosclerosis, hypertension, stroke, myocardial infarction, heart failure) should compare the results of preclinical studies with those of clinical trials.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2072-6643/8/5/250/pdf?version=1462181337"
+}

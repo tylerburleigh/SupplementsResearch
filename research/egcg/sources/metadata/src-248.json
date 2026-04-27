@@ -1,0 +1,19 @@
+{
+  "id": "src-248",
+  "title": "The Immunomodulatory and Anti-Inflammatory Role of Polyphenols",
+  "authors": [
+    "Yahfoufi, Nour",
+    "Alsadi, Nawal",
+    "Jambi, Majed",
+    "Matar, Chantal"
+  ],
+  "doi": "10.3390/nu10111618",
+  "url": "https://openalex.org/W2899052178",
+  "provider": "openalex",
+  "year": 2018,
+  "venue": "Nutrients",
+  "citation_count": 1623,
+  "abstract": "This review offers a systematic understanding about how polyphenols target multiple inflammatory components and lead to anti-inflammatory mechanisms. It provides a clear understanding of the molecular mechanisms of action of phenolic compounds. Polyphenols regulate immunity by interfering with immune cell regulation, proinflammatory cytokines' synthesis, and gene expression. They inactivate NF-κB (nuclear factor kappa-light-chain-enhancer of activated B cells) and modulate mitogen-activated protein Kinase (MAPk) and arachidonic acids pathways. Polyphenolic compounds inhibit phosphatidylinositide 3-kinases/protein kinase B (PI3K/AkT), inhibitor of kappa kinase/c-Jun amino-terminal kinases (IKK/JNK), mammalian target of rapamycin complex 1 (mTORC1) which is a protein complex that controls protein synthesis, and JAK/STAT. They can suppress toll-like receptor (TLR) and pro-inflammatory genes' expression. Their antioxidant activity and ability to inhibit enzymes involved in the production of eicosanoids contribute as well to their anti-inflammation properties. They inhibit certain enzymes involved in reactive oxygen species ROS production like xanthine oxidase and NADPH oxidase (NOX) while they upregulate other endogenous antioxidant enzymes like superoxide dismutase (SOD), catalase, and glutathione (GSH) peroxidase (Px). Furthermore, they inhibit phospholipase A2 (PLA2), cyclooxygenase (COX) and lipoxygenase (LOX) leading to a reduction in the production of prostaglandins (PGs) and leukotrienes (LTs) and inflammation antagonism. The effects of these biologically active compounds on the immune system are associated with extended health benefits for different chronic inflammatory diseases. Studies of plant extracts and compounds show that polyphenols can play a beneficial role in the prevention and the progress of chronic diseases related to inflammation such as diabetes, obesity, neurodegeneration, cancers, and cardiovascular diseases, among other conditions.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2072-6643/10/11/1618/pdf?version=1541125471"
+}

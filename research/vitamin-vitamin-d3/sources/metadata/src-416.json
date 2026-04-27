@@ -1,0 +1,29 @@
+{
+  "id": "src-416",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://www.nmi.health/magnesium-a-review-of-clinical-use-and-efficacy",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-21T21:35:38.905025+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-416.md",
+  "quality_details": {
+    "content_length": 81116,
+    "alpha_ratio": 0.744,
+    "sentence_count": 1527,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

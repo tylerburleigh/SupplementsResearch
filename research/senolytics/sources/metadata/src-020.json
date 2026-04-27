@@ -1,0 +1,29 @@
+{
+  "id": "src-020",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://omre.co/blogs/news/senolytic-supplements",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-22T19:48:08.360961+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-020.md",
+  "quality_details": {
+    "content_length": 12571,
+    "alpha_ratio": 0.8,
+    "sentence_count": 136,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

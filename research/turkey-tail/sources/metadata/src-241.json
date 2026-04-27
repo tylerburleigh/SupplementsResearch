@@ -1,0 +1,27 @@
+{
+  "id": "src-241",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "",
+  "pdf_url": "https://www.ort.cuhk.edu.hk/ganglilab/papers/2014/In%20vivo%20and%20in%20vitro%20anti-tumor%20and%20anti-metastasis%20effects%20of%20Coriolus.pdf",
+  "venue": "",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "",
+  "fetched_at": "2026-04-23T18:58:17.694106+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-241.md",
+  "quality_details": {
+    "content_length": 50019,
+    "alpha_ratio": 0.732,
+    "sentence_count": 831,
+    "reasons": []
+  }
+}

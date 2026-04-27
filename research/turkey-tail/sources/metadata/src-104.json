@@ -1,0 +1,29 @@
+{
+  "id": "src-104",
+  "title": "Trametes Versicolor and Dictyophora Indusiata Champions of Medicinal Mushrooms",
+  "authors": [
+    "A Elkhateeb, Waill"
+  ],
+  "year": 2020,
+  "abstract": "",
+  "doi": "10.23880/oajpr-16000192",
+  "url": "https://doi.org/10.23880/oajpr-16000192",
+  "pdf_url": "",
+  "venue": "Open Access Journal of Pharmaceutical Research",
+  "citation_count": 7,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-23T18:37:35.068463+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-104.md",
+  "quality_details": {
+    "content_length": 29581,
+    "alpha_ratio": 0.757,
+    "sentence_count": 283,
+    "reasons": []
+  }
+}

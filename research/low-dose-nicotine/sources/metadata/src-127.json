@@ -1,0 +1,16 @@
+{
+  "id": "src-127",
+  "title": "Aging, Melatonin, and the Pro- and Anti-Inflammatory Networks",
+  "authors": [
+    "Hardeland, Rüdiger"
+  ],
+  "doi": "10.3390/ijms20051223",
+  "url": "https://openalex.org/W2922219401",
+  "provider": "openalex",
+  "year": 2019,
+  "venue": "International Journal of Molecular Sciences",
+  "citation_count": 330,
+  "abstract": "Aging and various age-related diseases are associated with reductions in melatonin secretion, proinflammatory changes in the immune system, a deteriorating circadian system, and reductions in sirtuin-1 (SIRT1) activity. In non-tumor cells, several effects of melatonin are abolished by inhibiting SIRT1, indicating mediation by SIRT1. Melatonin is, in addition to its circadian and antioxidant roles, an immune stimulatory agent. However, it can act as either a pro- or anti-inflammatory regulator in a context-dependent way. Melatonin can stimulate the release of proinflammatory cytokines and other mediators, but also, under different conditions, it can suppress inflammation-promoting processes such as NO release, activation of cyclooxygenase-2, inflammasome NLRP3, gasdermin D, toll-like receptor-4 and mTOR signaling, and cytokine release by SASP (senescence-associated secretory phenotype), and amyloid-β toxicity. It also activates processes in an anti-inflammatory network, in which SIRT1 activation, upregulation of Nrf2 and downregulation of NF-κB, and release of the anti-inflammatory cytokines IL-4 and IL-10 are involved. A perhaps crucial action may be the promotion of macrophage or microglia polarization in favor of the anti-inflammatory phenotype M2. In addition, many factors of the pro- and anti-inflammatory networks are subject to regulation by microRNAs that either target mRNAs of the respective factors or upregulate them by targeting mRNAs of their inhibitor proteins.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/1422-0067/20/5/1223/pdf?version=1552301330"
+}

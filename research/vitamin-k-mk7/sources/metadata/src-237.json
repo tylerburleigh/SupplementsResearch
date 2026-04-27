@@ -1,0 +1,16 @@
+{
+  "id": "src-237",
+  "title": "Nutrition meets the microbiome: micronutrients and the microbiota",
+  "authors": [
+    "Biesalski, Hans K."
+  ],
+  "doi": "10.1111/nyas.13145",
+  "url": "https://openalex.org/W2466807047",
+  "provider": "openalex",
+  "year": 2016,
+  "venue": "Annals of the New York Academy of Sciences",
+  "citation_count": 246,
+  "abstract": "There is increasing evidence that food is an important factor that influences and shapes the composition and configuration of the gut microbiota. Most studies have focused on macronutrients (fat, carbohydrate, protein) in particular and their effects on the gut microbiota. Although the microbiota can synthesize different water-soluble vitamins, the effects of vitamins synthesized within the microbiota on systemic vitamin status are unclear. Few studies exist on the shuttling of vitamins between the microbiota and intestine and the impact of luminal vitamins on the microbiota. Studying the interactions between vitamins and the microbiota may help to understand the effects of vitamins on the barrier function and immune system of the intestinal tract. Furthermore, understanding the impact of malnutrition, particularly low micronutrient supply, on microbiota development, composition, and metabolism may help in implementing new strategies to overcome the deleterious effects of malnutrition on child development. This article reviews data on the synthesis of different micronutrients and their effects on the human microbiota, and further discusses the consequences of malnutrition on microbiota composition.",
+  "type": "academic",
+  "pdf_url": ""
+}

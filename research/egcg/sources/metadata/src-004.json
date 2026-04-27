@@ -1,0 +1,29 @@
+{
+  "id": "src-004",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://www.the-well.com/editorial/health-coach-tips-egcg-and-longevity",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-23T01:10:41.442003+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-004.md",
+  "quality_details": {
+    "content_length": 4735,
+    "alpha_ratio": 0.818,
+    "sentence_count": 42,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

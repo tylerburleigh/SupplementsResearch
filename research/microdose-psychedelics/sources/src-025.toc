@@ -1,0 +1,19 @@
+3	2	Article Open
+24	2	Introduction
+143	2	Materials And Methods
+148	2	Participants
+168	2	Experimental Design
+349	2	Results
+506	2	3. The uppermost panel of each co lumn illustrates the contents
+586	2	Discussion
+801	2	Data Availability
+804	2	References
+859	2	20. Anderson T, Petranker R, Rosenbaum D, Weissman CR, Dinh-Williams LA, Hui K,
+919	2	40. Muthukumaraswamy SD, Carhart-Harris RL, Moran RJ, Brookes MJ, Williams TM,
+925	2	42. Schenberg EE, Alexandre JF, Filev R, Cravo AM, Sato JR, Muthukumaraswamy SD,
+930	2	44. Carhart-Harris RL, Muthukumaraswamy S, Roseman L, Kaelen M, Droog W, Mur-
+936	2	46. Tagliazucchi E, Zamberlan F, Cavanna F, de la Fuente L, Romero C, Sanz Perl Y,
+1014	2	Acknowledgements
+1020	2	Author Contributions
+1025	2	Conflict Of Interest
+1027	2	Additional Information

@@ -1,0 +1,21 @@
+{
+  "id": "src-249",
+  "title": "SIRT1/DNMT3B-mediated epigenetic gene silencing in response to phytoestrogens in mammary epithelial cells",
+  "authors": [
+    "Ma, Yuexi",
+    "Boycott, Cayla",
+    "Zhang, Jiaxi",
+    "Gomilar, Rekha",
+    "Yang, Tony",
+    "Stefanska, B."
+  ],
+  "doi": "10.1080/15592294.2025.2473770",
+  "url": "https://www.semanticscholar.org/paper/88e8bb7854f98f64026d394dbe0c7d74b1e85b2e",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "Epigenetics",
+  "citation_count": 4,
+  "abstract": "ABSTRACT We performed an integrated analysis of genome-wide DNA methylation and expression datasets in normal cells and healthy animals exposed to polyphenols with estrogenic activity (i.e. phytoestrogens). We identified that phytoestrogens target genes linked to disrupted cellular homeostasis, e.g. genes limiting DNA break repair (RNF169) or promoting ribosomal biogenesis (rDNA). Existing evidence suggests that DNA methylation may be governed by sirtuin 1 (SIRT1) deacetylase via interactions with DNA methylating enzymes, specifically DNMT3B. Since SIRT1 was reported to be regulated by phytoestrogens, we test whether phytoestrogens suppress genes related to disrupted homeostasis via SIRT1/DNMT3B-mediated transcriptional silencing. Human MCF10A mammary epithelial cells were treated with phytoestrogens, pterostilbene (PTS) or genistein (GEN), followed by analysis of cell growth, DNA methylation, gene expression, and SIRT1/DNMT3B binding. SIRT1 occupancy at the selected phytoestrogen-target genes, RNF169 and rDNA, was accompanied by consistent promoter hypermethylation and gene downregulation in response to GEN, but not PTS. GEN-mediated hypermethylation and SIRT1 binding were linked to a robust DNMT3B enrichment at RNF169 and rDNA promoters. This was not observed in cells exposed to PTS, suggesting a distinct mechanism of action. Although both SIRT1 and DNMT3B bind to RNF169 and rDNA promoters upon GEN, the two proteins do not co-occupy the regions. Depletion of SIRT1 abolishes GEN-mediated decrease in rDNA expression, suggesting SIRT1-dependent epigenetic suppression of rDNA by GEN. These findings enhance our understanding of the role of SIRT1-DNMT3B interplay in epigenetic mechanisms mediating the impact of phytoestrogens on cell biology and cellular homeostasis.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.1080/15592294.2025.2473770"
+}

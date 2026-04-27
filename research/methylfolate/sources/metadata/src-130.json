@@ -1,0 +1,19 @@
+{
+  "id": "src-130",
+  "title": "Plasma Homocysteine Levels and Intracerebral Hemorrhage: A Mendelian Randomization Analysis.",
+  "authors": [
+    "Chen, Shuheng",
+    "Guo, Xiangli",
+    "He, Yingchao",
+    "Wang, Yinzhou"
+  ],
+  "doi": "10.7759/cureus.86453",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40688943",
+  "provider": "pubmed",
+  "year": 2025,
+  "venue": "Cureus",
+  "citation_count": 0,
+  "abstract": "Background Hyperhomocysteinemia is a risk factor for ischemic stroke, but its role in hemorrhagic stroke remains unclear. Elevated homocysteine (Hcy) levels may promote endothelial dysfunction, oxidative stress, and extracellular matrix degradation, all of which can contribute to vessel wall fragility and susceptibility to rupture. This study aimed to investigate the causal relationship between plasma homocysteine level and spontaneous intracerebral hemorrhage (ICH). Method We used Mendelian randomization (MR) analysis with data from two independent groups to determine whether plasma homocysteine levels have a causal relationship with ICH. Genetic variants linked to homocysteine levels were taken from the largest available genome-wide association study (GWAS), which included 44,147 people of European ancestry. Data on primary (non-traumatic) spontaneous intracerebral hemorrhage were obtained from the FinnGen database, which comprised 7,763 cases and 412,105 controls, all of European ancestry. Primary Mendelian randomization estimates were calculated using the inverse-variance weighted method, with additional analyses conducted using alternative methods and multiple sensitivity tests. Result We found that genetic predisposition to higher plasma homocysteine levels was significantly associated with an increased risk of spontaneous ICH. Specifically, each one-unit increase in the natural logarithm of genetically predicted homocysteine levels was associated with 41% higher odds of ICH (odds ratio [OR] = 1.41, 95% confidence interval [CI]: 1.11-1.80, P = 0.0046), based on the inverse-variance weighted (IVW) method. This Mendelian randomization analysis involved 13 independent genetic variants (SNPs) as instrumental variables. No significant heterogeneity was observed among these SNPs (Cochran's Q test, P = 0.7818), indicating consistency across the genetic instruments used. Additionally, MR-Egger regression intercept analysis did not reveal evidence of horizontal pleiotropy (intercept = 0.0178, p = 0.3676), further supporting the robustness of our results. Visual inspection of scatter plots also did not identify obvious outliers or influential SNPs. Conclusions Total homocysteine levels were found to be associated with an increased risk of ICH. These findings suggest that homocysteine-lowering strategies may warrant further investigation as a potential approach to reduce the risk and progression of ICH, particularly in individuals with a genetic predisposition to elevated homocysteine levels.",
+  "type": "academic",
+  "pdf_url": ""
+}

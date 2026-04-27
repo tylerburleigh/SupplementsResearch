@@ -1,0 +1,22 @@
+{
+  "id": "src-377",
+  "title": "The Regulatory Effect of Phytochemicals on Chronic Diseases by Targeting Nrf2-ARE Signaling Pathway",
+  "authors": [
+    "He, Wenjiang",
+    "Lv, Chenghao",
+    "Chen, Zhong",
+    "Shi, Meng",
+    "Zeng, Chaoxi",
+    "Hou, De‐Xing",
+    "Qin, Si"
+  ],
+  "doi": "10.3390/antiox12020236",
+  "url": "https://openalex.org/W4317621304",
+  "provider": "openalex",
+  "year": 2023,
+  "venue": "Antioxidants",
+  "citation_count": 70,
+  "abstract": "Redox balance is essential to maintain the body's normal metabolism. Once disrupted, it may lead to various chronic diseases, such as diabetes, neurodegenerative diseases, cardiovascular diseases, inflammatory diseases, cancer, aging, etc. Oxidative stress can cause or aggravate a series of pathological processes. Inhibition of oxidative stress and related pathological processes can help to ameliorate these chronic diseases, which have been found to be associated with Nrf2 activation. Nrf2 activation can not only regulate the expression of a series of antioxidant genes that reduce oxidative stress and its damage, but also directly regulate genes related to the above-mentioned pathological processes to counter the corresponding changes. Therefore, targeting Nrf2 has great potential for the prevention or treatment of chronic diseases, and many natural phytochemicals have been reported as Nrf2 activators although the defined mechanisms remain to be elucidated. This review article focuses on the possible mechanism of Nrf2 activation by natural phytochemicals in the prevention or treatment of chronic diseases and the regulation of oxidative stress. Moreover, the current clinical trials of phytochemical-originated drug discovery by targeting the Nrf2-ARE pathway were also summarized; the outcomes or the relationship between phytochemicals and chronic diseases prevention are finally analyzed to propose the future research strategies and prospective.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2076-3921/12/2/236/pdf?version=1674200192"
+}

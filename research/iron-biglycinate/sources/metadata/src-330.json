@@ -1,0 +1,22 @@
+{
+  "id": "src-330",
+  "title": "Targeting the Nrf2/HO-1 aixs: a therapeutic strategy against regulated cell death in Alzheimer's disease.",
+  "authors": [
+    "Wang, Zhiji",
+    "Feng, Wenxin",
+    "Li, Xiao-Hong",
+    "Yun, Xia",
+    "Wu, Shuang",
+    "Du, Lida",
+    "Wang, Hongquan"
+  ],
+  "doi": "10.1016/j.arr.2026.103035",
+  "url": "https://www.semanticscholar.org/paper/60e916a7bc60b9c7fbc4caa27a2ed928110ff838",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "Ageing Research Reviews",
+  "citation_count": 2,
+  "abstract": "Alzheimer's disease (AD) is an age-related progressive neurodegenerative disorder characterized by amyloid-beta (Aβ) plaque deposition, neurofibrillary tangles of hyperphosphorylated tau protein, chronic neuroinflammation, and dysregulation of multiple regulated cell death pathways. Aging, as the primary risk factor for AD, is accompanied by the accumulation of oxidative stress, which serves as a pivotal contributor to AD pathogenesis and is intricately linked to the activation of diverse cell death modalities, including ferroptosis, pyroptosis, apoptosis, and autophagy-endoplasmic reticulum stress. The transcription factor nuclear factor erythroid 2-related factor 2(Nrf2) acts as a master regulator of cellular redox homeostasis. By binding to the antioxidant response element(ARE), Nrf2 orchestrates the transcriptional activation of a cytoprotective gene network, including heme oxygenase-1(HO-1). Activation of the Nrf2/HO-1 signaling axis not only enhances cellular antioxidant defenses but also critically regulates iron metabolism, suppresses inflammatory cascades, mitigates endoplasmic reticulum stress (ERS), and modulates autophagic and apoptotic processes. This review delineates the interplay between distinct cell death modalities in AD and their convergence with age-associated oxidative stress. It provides a comprehensive analysis of the neuroprotective mechanisms mediated by the Nrf2/HO-1 pathway in counteracting ferroptosis, pyroptosis, apoptosis and autophagic endoplasmic reticulum stress dysregulation. Furthermore, we discuss the therapeutic potential of pharmacologically targeting this pathway with various bioactive compounds, highlighting promising strategies for multi-targeted intervention in AD, particularly in the context of aging.",
+  "type": "academic",
+  "pdf_url": ""
+}

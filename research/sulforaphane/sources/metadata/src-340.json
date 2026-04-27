@@ -1,0 +1,19 @@
+{
+  "id": "src-340",
+  "title": "Cancer Chemoprevention Mechanisms Mediated Through the Keap1–Nrf2 Pathway",
+  "authors": [
+    "Hayes, John D.",
+    "McMahon, Michael",
+    "Chowdhry, Sudhir",
+    "Dinkova‐Kostova, Albena T."
+  ],
+  "doi": "10.1089/ars.2010.3221",
+  "url": "https://openalex.org/W2016602233",
+  "provider": "openalex",
+  "year": 2010,
+  "venue": "Antioxidants and Redox Signaling",
+  "citation_count": 532,
+  "abstract": "The cap'n'collar (CNC) bZIP transcription factor Nrf2 controls expression of genes for antioxidant enzymes, metal-binding proteins, drug-metabolising enzymes, drug transporters, and molecular chaperones. Many chemicals that protect against carcinogenesis induce Nrf2-target genes. These compounds are all thiol-reactive and stimulate an adaptive response to redox stress in cells. Such agents induce the expression of genes that posses an antioxidant response element (ARE) in their regulatory regions. Under normal homeostatic conditions, Nrf2 activity is restricted through a Keap1-dependent ubiquitylation by Cul3-Rbx1, which targets the CNC-bZIP transcription factor for proteasomal degradation. However, as the substrate adaptor function of Keap1 is redox-sensitive, Nrf2 protein evades ubiquitylation by Cul3-Rbx1 when cells are treated with chemopreventive agents. As a consequence, Nrf2 accumulates in the nucleus where it heterodimerizes with small Maf proteins and transactivates genes regulated through an ARE. In this review, we describe synthetic compounds and phytochemicals from edible plants that induce Nrf2-target genes. We also discuss evidence for the existence of different classes of ARE (a 16-bp 5'-TMAnnRTGABnnnGCR-3' versus an 11-bp 5'-RTGABnnnGCR-3', with or without the embedded activator protein 1-binding site 5'-TGASTCA-3'), species differences in the ARE-gene battery, and the identity of critical Cys residues in Keap1 required for de-repression of Nrf2 by chemopreventive agents.",
+  "type": "academic",
+  "pdf_url": ""
+}

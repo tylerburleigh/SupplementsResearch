@@ -1,0 +1,22 @@
+{
+  "id": "src-225",
+  "title": "Tumor Promoting Effects of Sulforaphane on Diethylnitrosamine-Induced Murine Hepatocarcinogenesis.",
+  "authors": [
+    "Zheng, Jie",
+    "Kim, Do-Hee",
+    "Fang, Xizhu",
+    "Kim, Seong Hoon",
+    "Saeidi, Soma",
+    "Kim, Su-Jung",
+    "Surh, Young-Joon"
+  ],
+  "doi": "10.3390/ijms23105397",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35628208",
+  "provider": "pubmed",
+  "year": 2022,
+  "venue": "International journal of molecular sciences",
+  "citation_count": 0,
+  "abstract": "Nuclear factor erythroid 2-related factor 2 (NRF2) is a key transcription factor involved in protection against initiation of carcinogenesis in normal cells. Notably, recent studies have demonstrated that aberrant activation of NRF2 accelerates the proliferation and progression of cancer cells. The differential effects of NRF2 on multi-stage carcinogenesis have raised a concern about the validity of NRF2 activators for chemoprevention. This prompted us to assess the effects of sulforaphane (SFN), a prototypic NRF2 activating chemopreventive phytochemical, on experimentally induced carcinogenesis. In the present study, SFN was daily injected intraperitoneally (25 mg/kg) for 3 months to male C57BL/6 mice at 6 months after single intraperitoneal administration of a hepatocarcinogen, diethylnitrosamine (DEN). The liver to body weight ratio, tumor growth, and the number and the size of hepatomas measured at 9 months after DEN administration were significantly higher in SFN-treated mice than those in vehicle-treated mice. Moreover, the expression of NRF2, its target protein NAD(P)H:quinone oxidoreductase 1, and the cell proliferation marker, proliferating cell nuclear antigen was further elevated in DEN plus SFN-treated mice. These results suggest that once hepatocarcinogenesis is initiated, SFN may stimulate tumor progression.",
+  "type": "academic",
+  "pdf_url": ""
+}

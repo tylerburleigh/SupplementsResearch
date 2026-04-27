@@ -1,0 +1,28 @@
+46	2	Introduction
+128	2	Methods
+200	2	Discussion
+211	2	214 Forbes and Candow: Creatine and strength training
+277	2	216 Forbes and Candow: Creatine and strength training
+508	2	Conclusions
+546	2	References
+550	2	2. Hopkins RB, Burke N, Von Keyserlingk C, Leslie WD, Morin SN,
+553	2	3. Fragala MS, Cadore EL, Dorgo S, Izquierdo M, Kraemer WJ,
+570	2	8. Candow DG, Forbes SC, Ostojic SM, Prokopidis K, Stock MS, Harmon KK,
+577	2	10. Candow DG, Chilibeck PD, Forbes SC, Fairman CM, Gualano B,
+581	2	11. Forbes S, Candow D, Smith-Ryan A, Hirsch K, Roberts M,
+583	2	220 Forbes and Candow: Creatine and strength training
+591	2	13. Mattos D, Santos CGM, Forbes SC, Candow DG, Rosa D, Busnardo RG,
+595	2	14. Kreider RB, Kalman DS, Antonio J, Ziegenfuss TN, Wildman R, Collins R,
+620	2	22. Candow DG, Little JP, Chilibeck PD, Abeysekara S, Zello GA,
+635	2	26. Prokopidis K, Giannos P, Triantafyllidis KK, Kechagias KS, Forbes SC,
+639	2	27. Forbes SC, Cordingley DM, Cornish SM, Gualano B, Roschel H,
+646	2	29. Candow DG, Chilibeck PD, Gordon J, Vogt E, Landeryou T, Kaviani M,
+668	2	35. Ribeiro AS, Avelar A, Kassiano W, Nunes JP, Schoenfeld BJ, Aguiar AF,
+698	2	45. Candow DG, Forbes SC, Roberts MD, Roy BD, Antonio J, Smith-Ryan AE,
+731	2	54. Prokopidis K, Giannos P, Triantafyllidis KK, Kechagias KS, Forbes SC,
+740	2	56. Souza MA, Magni DV, Guerra GP, Oliveira MS, Furian AF, Pereira L,
+744	2	57. Snow W, Cadonic C, Cortes-Perez C , Roy Chowdhury S, Djordjevic J,
+749	2	58. Oliveira EF, Forbes SC, Borges EQ, Machado LF, Candow DG,
+752	2	59. Smolarek AC, Mcanulty SR, Ferreira LH, Cordeiro GR, Alessi A,
+766	2	64. Antonio J, Candow DG, Forbes SC, Gualano B, Jagim AR, Kreider RB,
+772	2	222 Forbes and Candow: Creatine and strength training

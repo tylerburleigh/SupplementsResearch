@@ -1,0 +1,30 @@
+{
+  "id": "src-022",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://emedicine.medscape.com/article/2086909-overview",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-24T01:02:15.478576+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-022.md",
+  "quality_details": {
+    "content_length": 173,
+    "alpha_ratio": 0.786,
+    "sentence_count": 2,
+    "reasons": [
+      "content too short (173 chars < 500)",
+      "few sentences detected (2 < 3)"
+    ]
+  }
+}

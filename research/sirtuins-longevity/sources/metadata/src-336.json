@@ -1,0 +1,24 @@
+{
+  "id": "src-336",
+  "title": "Wnt/β-catenin signalling: function, biological mechanisms, and therapeutic opportunities",
+  "authors": [
+    "Liu, Jiaqi",
+    "Xiao, Qing",
+    "Xiao, Jiani",
+    "Niu, Chenxi",
+    "Li, Yuanyuan",
+    "Zhang, Xiaojun",
+    "Zhou, Zhengwei",
+    "Shu, Guang",
+    "Yin, Gang"
+  ],
+  "doi": "10.1038/s41392-021-00762-6",
+  "url": "https://openalex.org/W4205498896",
+  "provider": "openalex",
+  "year": 2022,
+  "venue": "Signal Transduction and Targeted Therapy",
+  "citation_count": 2179,
+  "abstract": "The Wnt/β-catenin pathway comprises a family of proteins that play critical roles in embryonic development and adult tissue homeostasis. The deregulation of Wnt/β-catenin signalling often leads to various serious diseases, including cancer and non-cancer diseases. Although many articles have reviewed Wnt/β-catenin from various aspects, a systematic review encompassing the origin, composition, function, and clinical trials of the Wnt/β-catenin signalling pathway in tumour and diseases is lacking. In this article, we comprehensively review the Wnt/β-catenin pathway from the above five aspects in combination with the latest research. Finally, we propose challenges and opportunities for the development of small-molecular compounds targeting the Wnt signalling pathway in disease treatment.",
+  "type": "academic",
+  "pdf_url": "https://www.nature.com/articles/s41392-021-00762-6.pdf"
+}

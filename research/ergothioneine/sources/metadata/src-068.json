@@ -1,0 +1,20 @@
+{
+  "id": "src-068",
+  "title": "Combination of chemotherapy and physical plasma elicits melanoma cell death via upregulation of SLC22A16",
+  "authors": [
+    "Sagwal, Sanjeev Kumar",
+    "Pasqual-Melo, Gabriella",
+    "Bodnar, Yana",
+    "Gandhirajan, Rajesh Kumar",
+    "Bekeschus, Sander"
+  ],
+  "doi": "10.1038/s41419-018-1221-6",
+  "url": "https://openalex.org/W2902331817",
+  "provider": "openalex",
+  "year": 2018,
+  "venue": "Cell Death and Disease",
+  "citation_count": 117,
+  "abstract": "Malignant melanoma is an aggressive cancer that develops drug resistance leading to poor prognosis. Efficient delivery of chemotherapeutic drugs to the tumor tissue remains a major challenge in treatment regimens. Using murine (B16) and human (SK-MEL-28) melanoma cells, we investigated traditional cytotoxic agents in combination with cold physical plasma-derived oxidants. We report synergistic cytotoxicity of doxorubicin and epirubicin, and additive toxicity of oxaliplatin with plasma exposure in coefficient of drug interaction analysis. The combination treatment led to an increased DNA damage response (increased phosphorylation of ATM, γ-H2AX foci, and micronuclei formation). There was also an enhanced secretion of immunogenic cell death markers ATP and CXCL10 in cell culture supernatants following combination treatment. The observed synergistic effects in tumor cells was due to enhanced intracellular doxorubicin accumulation via upregulation of the organic cationic transporter SLC22A16 by plasma treatment. The doxorubicin uptake was reversed by pretreating cells with antioxidants or calcium influx inhibitor BTP2. Endoribonuclease-prepared siRNAs (esiRNA)-mediated knockdown of SLC22A16 inhibited the additive cytotoxic effect in tumor cells. SK-MEL 28 and THP-1 monocytes co-culture led to greater THP-1 cell migration and SK-MEL-28 cytotoxicity when compared with controls. Taken together, we propose pro-oxidant treatment modalities to sensitize chemoresistant melanoma cells towards subsequent chemotherapy, which may serve as therapeutic strategy in combination treatment in oncology.",
+  "type": "academic",
+  "pdf_url": "https://www.nature.com/articles/s41419-018-1221-6.pdf"
+}

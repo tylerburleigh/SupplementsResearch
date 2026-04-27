@@ -1,0 +1,30 @@
+{
+  "id": "src-021",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://www.metagenicsinstitute.com/publications/clinical-effects-novel-hops-extract-undenatured-collagen-thiaa-uc-ii",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-19T13:39:50.423021+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "empty",
+  "content_file": "sources/src-021.md",
+  "quality_details": {
+    "content_length": 36,
+    "alpha_ratio": 0.694,
+    "sentence_count": 1,
+    "reasons": [
+      "content too short (36 chars < 500)",
+      "few sentences detected (1 < 3)"
+    ]
+  }
+}

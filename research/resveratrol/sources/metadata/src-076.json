@@ -1,0 +1,20 @@
+{
+  "id": "src-076",
+  "title": "Micelle/Hydrogel Composite as a “Natural Self-Emulsifying Reversible Hybrid Hydrogel (N’SERH)” Enhances the Oral Bioavailability of Free (Unconjugated) Resveratrol",
+  "authors": [
+    "Joseph, Ashil",
+    "Balakrishnan, Abhilash",
+    "Shanmughan, Prasanth",
+    "Maliakel, Balu",
+    "Krishnakumar, I. M."
+  ],
+  "doi": "10.1021/acsomega.2c00116",
+  "url": "https://openalex.org/W4224214652",
+  "provider": "openalex",
+  "year": 2022,
+  "venue": "ACS Omega",
+  "citation_count": 27,
+  "abstract": "The poor oral bioavailability, rapid biotransformation to less active metabolites, and fast elimination from systemic circulation have been identified as the major limitations responsible for the clinical insignificance of many drug candidates and phytonutrients. Despite the technological advancements in the nanoformulations of synthetic drugs, there exist many challenges for nutritional therapy, due to the regulatory issues, use of high levels of synthetic emulsifiers and polymers, low stability, low loading levels, mainly liquid state, etc. Herein, we report the characterization and human pharmacokinetics of a natural self-emulsifying hybrid-hydrogel formulation of <i>trans</i>-resveratrol prepared by uniformly impregnating resveratrol micelles into the fenugreek galactomannan hydrogel scaffold to form a water-soluble micelle/hydrogel composite in powder form (RF-20). Fourier transform infrared spectroscopy (FTIR), powder X-ray diffraction (PXRD), scanning electron microscopy (SEM), particle size analysis by dynamic light scattering (DLS), and transmission electron microscopy (TEM) demonstrated the uniform impregnation of resveratrol micelles within the galactomannan hydrogel matrix to form a soluble (average particle size of 172.0 ± 10.4 nm and -21.0 ± 2.5 mV zeta potential) and amorphous powder form with smooth and translucent surface morphology for RF-20, with no chemical alterations. Upon pharmacokinetic studies on healthy human subjects (<i>n</i> = 16) following a randomized, double-blinded, placebo-controlled, 2-arm, 4-sequence crossover design and tandem mass spectrometry (UPLC-ESI-MS/MS), 80 mg of <i>trans</i>-resveratrol from RF-20 provided enhanced free resveratrol bioavailability and pharmacokinetic properties compared to the unformulated resveratrol with 98% purity. The enhancement in bioavailability was more when supplemented in sachet (12.98-fold) form than the capsule (10.48-fold) with improved absorption (<i>C</i> <sub>max</sub> = 50.97 ± 15.82 ng/mL), circulation half-life (<i>t</i> <sub>1/2</sub> = 7.01 ± 1.44 h), and sustained delivery (<i>T</i> <sub>max</sub> = 4.71 ± 0.73 h), as compared to the unformulated form (<i>C</i> <sub>max</sub> = 15.07 ± 5.10 ng/mL; <i>t</i> <sub>1/2</sub> = 1.58 ± 0.65 h; <i>T</i> <sub>max</sub> = 1.21 ± 0.42 h).",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.1021/acsomega.2c00116"
+}

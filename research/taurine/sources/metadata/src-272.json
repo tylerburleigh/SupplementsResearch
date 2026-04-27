@@ -1,0 +1,23 @@
+{
+  "id": "src-272",
+  "title": "Insulin at the intersection of thermoregulation and glucose homeostasis",
+  "authors": [
+    "Winn, Nathan C.",
+    "Schleh, Michael W.",
+    "Garcia, Jamie N.",
+    "Lantier, Louise",
+    "McGuinness, Owen P.",
+    "Blair, Joslin A.",
+    "Hasty, Alyssa H.",
+    "Wasserman, David H."
+  ],
+  "doi": "10.1016/j.molmet.2024.101901",
+  "url": "https://openalex.org/W4391768345",
+  "provider": "openalex",
+  "year": 2024,
+  "venue": "Molecular Metabolism",
+  "citation_count": 13,
+  "abstract": "Mammals are protected from changes in environmental temperature by altering energetic processes that modify heat production. Insulin is the dominant stimulus of glucose uptake and metabolism, which are fundamental for thermogenic processes. The purpose of this work was to determine the interaction of ambient temperature induced changes in energy expenditure (EE) on the insulin sensitivity of glucose fluxes. Short-term and adaptive responses to thermoneutral temperature (TN, ∼28 °C) and room (laboratory) temperature (RT, ∼22 °C) were studied in mice. This range of temperature does not cause detectable changes in circulating catecholamines or shivering and postabsorptive glucose homeostasis is maintained. We tested the hypothesis that a decrease in EE that occurs with TN causes insulin resistance and that this reduction in insulin action and EE is reversed upon short term (<12h) transition to RT. Insulin-stimulated glucose disposal (Rd) and tissue-specific glucose metabolic index were assessed combining isotopic tracers with hyperinsulinemic-euglycemic clamps. EE and insulin-stimulated Rd are both decreased (∼50%) in TN-adapted vs RT-adapted mice. When RT-adapted mice are switched to TN, EE rapidly decreases and Rd is reduced by ∼50%. TN-adapted mice switched to RT exhibit a rapid increase in EE, but whole-body insulin-stimulated Rd remains at the low rates of TN-adapted mice. In contrast, whole body glycolytic flux rose with EE. This higher EE occurs without increasing glucose uptake from the blood, but rather by diverting glucose from glucose storage to glycolysis. In addition to adaptations in insulin action, 'insulin-independent' glucose uptake in brown fat is exquisitely sensitive to thermoregulation. These results show that insulin action adjusts to non-stressful changes in ambient temperature to contribute to the support of body temperature homeostasis without compromising glucose homeostasis.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.1016/j.molmet.2024.101901"
+}

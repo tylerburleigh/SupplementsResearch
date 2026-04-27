@@ -1,0 +1,21 @@
+{
+  "id": "src-144",
+  "title": "Differences in nonheme iron absorption between healthy adults of East Asian or Northern European ancestry from the Iron Genes in East Asian and Northern European Adults Study (FeGenes): A cross-sectional stable iron isotope study.",
+  "authors": [
+    "Barad, Alexa",
+    "Xu, Yaqin",
+    "Bender, Erica",
+    "Pressman, E.",
+    "Gu, Zhenglong",
+    "O’Brien, Kimberly O."
+  ],
+  "doi": "10.1016/j.ajcnut.2024.11.015",
+  "url": "https://www.semanticscholar.org/paper/76be5c32774a50d56f2849deaad33dab6e84f174",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "American Journal of Clinical Nutrition",
+  "citation_count": 3,
+  "abstract": "BACKGROUND\nBecause humans lack mechanisms for excreting excess iron (Fe), dietary Fe absorption must be tightly regulated to ensure optimal Fe levels. We previously showed that East Asian (EA) individuals have higher Fe stores compared with Northern European (NE) individuals, but the physiological basis for this difference is unknown.\n\nOBJECTIVES\nOur aim is to compare nonheme Fe absorption and its regulation in healthy participants of genetically confirmed EA or NE ancestry.\n\nMETHODS\nParticipants of this cross-sectional study were males and premenopausal, nonpregnant females of EA (n = 253) or NE (n = 251) ancestry, aged 18-50 y, and without obesity. Participants ingested a stable 57Fe isotope as a FeSO4 solution mixed with syrup. Percent Fe absorption was calculated based on erythrocyte 57Fe enrichment 2 wk postdosing measured using magnetic sector thermal ionization mass spectrometry and normalized to a fixed serum ferritin (SF) level. Fe status traits (SF, soluble transferrin receptor, total body Fe), hormones (hepcidin, erythropoietin, erythroferrone), and inflammatory markers were evaluated.\n\nRESULTS\nSF-corrected % Fe absorption was higher in EA females [27.4 (95% confidence interval (CI): 23.4, 32.0)] and males [19.8 (95% CI: 14.9, 26.4)] compared with NE females [14.8 (95% CI: 11.8, 18.2)] and males [14.9 (95% CI: 11.8, 18.9)], respectively (both P < 0.001). Percent Fe absorption was consistently associated with hepcidin in EA males [β = -0.64; standard error (SE) = 0.24; P = 0.008] and females (β = -0.61; SE = 0.12; P < 0.001), and in NE males (β = -0.63; SE = 0.22; P = 0.005) and females (β = -0.71; SE = 0.14; P < 0.001). Percent Fe absorption was linearly associated with SF in EA females (β = -0.57; SE = 0.09; P < 0.001) and NE males (β = -0.73; SE = 0.21; P < 0.001) and females (β = -0.68; SE = 0.12; P < 0.001), but in EA males, a U-shaped relationship was observed (P = 0.003).\n\nCONCLUSIONS\nEA individuals have a greater SF-corrected Fe absorption compared with NE individuals. Increased Fe absorption and resulting excess Fe accumulation suggests that EA individuals may be at greater risk of Fe overload-related diseases. Further studies are needed to evaluate the long-term implications of these findings. This trial was registered at clinicaltrials.gov as NCT04198545.",
+  "type": "academic",
+  "pdf_url": ""
+}

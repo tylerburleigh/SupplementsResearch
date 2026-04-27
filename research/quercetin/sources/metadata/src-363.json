@@ -1,0 +1,19 @@
+{
+  "id": "src-363",
+  "title": "A Review of CYP-Mediated Drug Interactions: Mechanisms and In Vitro Drug-Drug Interaction Assessment",
+  "authors": [
+    "Lee, Jonghwa",
+    "Beers, Jessica L.",
+    "Geffert, Raeanne M.",
+    "Jackson, Klarissa D"
+  ],
+  "doi": "10.3390/biom14010099",
+  "url": "https://www.semanticscholar.org/paper/a3cf21be52e2a1746f0b13140683236d2f4bca03",
+  "provider": "semantic_scholar",
+  "year": 2024,
+  "venue": "Biomolecules",
+  "citation_count": 95,
+  "abstract": "Drug metabolism is a major determinant of drug concentrations in the body. Drug-drug interactions (DDIs) caused by the co-administration of multiple drugs can lead to alteration in the exposure of the victim drug, raising safety or effectiveness concerns. Assessment of the DDI potential starts with in vitro experiments to determine kinetic parameters and identify risks associated with the use of comedication that can inform future clinical studies. The diverse range of experimental models and techniques has significantly contributed to the examination of potential DDIs. Cytochrome P450 (CYP) enzymes are responsible for the biotransformation of many drugs on the market, making them frequently implicated in drug metabolism and DDIs. Consequently, there has been a growing focus on the assessment of DDI risk for CYPs. This review article provides mechanistic insights underlying CYP inhibition/induction and an overview of the in vitro assessment of CYP-mediated DDIs.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2218-273X/14/1/99/pdf?version=1705459912"
+}

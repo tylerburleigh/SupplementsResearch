@@ -1,0 +1,23 @@
+{
+  "id": "src-170",
+  "title": "Senolytic treatment alleviates cochlear senescence and delays age-related hearing loss in C57BL/6J mice.",
+  "authors": [
+    "Chen, Yi",
+    "Huang, Hongming",
+    "Luo, Yuelian",
+    "Wu, Haoyang",
+    "Deng, Wenting",
+    "Min, Xin",
+    "Lao, Huilin",
+    "Xiong, Hao"
+  ],
+  "doi": "10.1016/j.phymed.2025.156772",
+  "url": "https://www.semanticscholar.org/paper/cd419c68272eb1bf9606dce31fc303029645fa8f",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "Phytomedicine",
+  "citation_count": 9,
+  "abstract": "BACKGROUND\nAge-related hearing loss (ARHL) is a prevalent sensory deficit that significantly affects quality of life in older individuals. Cellular senescence contributes to various age-related degenerative disorders. However, its effect on ARHL remains unclear.\n\nPURPOSE\nThe aim of this study was to explore the therapeutic potential of senolytics in attenuating cochlear senescence and delaying the progression of ARHL.\n\nMETHODS\nThe senolytic drugs dasatinib and quercetin (D + Q) were used to target senescent cells at different stages of ARHL in C57BL/6J mice. The impact of D + Q treatment on ARHL progression and cochlear degeneration was also assessed. Additionally, the protective effects of D + Q treatment were evaluated in HEI-OC1 auditory cells and cochlear explants. Transcriptomic analysis was conducted on cochlear explants subjected to different treatments.\n\nRESULTS\nD + Q treatment at an early stage of ARHL significantly delayed ARHL progression and alleviated cochlear degeneration in male and female C57BL/6J mice. Treatment of mice with normal hearing also mitigated age-related hair cell loss. In HEI-OC1 auditory cells, D + Q treatment exerted protective effects by alleviating the senescence-associated secretory phenotype (SASP). Transcriptomic analysis of cochlear explants revealed that downregulation of inflammatory cytokines and chemokines was involved in the beneficial effects of D + Q treatment against cellular senescence. Mechanistically, D + Q treatment alleviated hair cell senescence via binding to NF-κB and inhibiting its activity.\n\nCONCLUSION\nSenolytics may offer a novel therapeutic strategy for attenuating cochlear senescence and slowing the progression of ARHL.",
+  "type": "academic",
+  "pdf_url": ""
+}

@@ -1,0 +1,30 @@
+{
+  "id": "src-325",
+  "title": "Reversal of neurobehavioral social deficits in dystrophic mice using inhibitors of phosphodiesterases PDE5A and PDE9A",
+  "authors": [
+    "Alexander, Matthew S.",
+    "Gasperini, Molly",
+    "Tsai, Peter T.",
+    "Gibbs, Devin",
+    "Spinazzola, Janelle M.",
+    "Marshall, Jamie L.",
+    "Feyder, Michael",
+    "Pletcher, Mathew T.",
+    "Chekler, Eugene L. Piatnitski",
+    "Morris, Carl",
+    "Şahin, Mustafa",
+    "Harms, John F.",
+    "Schmidt, C J",
+    "Kleiman, Robin J.",
+    "Kunkel, Louis M."
+  ],
+  "doi": "10.1038/tp.2016.174",
+  "url": "https://openalex.org/W2524182942",
+  "provider": "openalex",
+  "year": 2016,
+  "venue": "Translational Psychiatry",
+  "citation_count": 18,
+  "abstract": "Duchenne muscular dystrophy is caused by mutations in the DYSTROPHIN gene. Although primarily associated with muscle wasting, a significant portion of patients (approximately 25%) are also diagnosed with autism spectrum disorder. We describe social behavioral deficits in dystrophin-deficient mice and present evidence of cerebellar deficits in cGMP production. We demonstrate therapeutic potential for selective inhibitors of the cGMP-specific PDE5A and PDE9A enzymes to restore social behaviors in dystrophin-deficient mice.",
+  "type": "academic",
+  "pdf_url": "https://www.nature.com/articles/tp2016174.pdf"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "src-089",
+  "title": "Influence of diet on the gut microbiome and implications for human health",
+  "authors": [
+    "Singh, Rasnik",
+    "Chang, Hsin-Wen",
+    "Yan, Di",
+    "Lee, Kristina M.",
+    "Uçmak, Derya",
+    "Wong, Kirsten",
+    "Abrouk, Michael",
+    "Farahnik, Benjamin",
+    "Nakamura, Mio",
+    "Zhu, Tian Hao",
+    "Bhutani, Tina",
+    "Liao, Wilson"
+  ],
+  "doi": "10.1186/s12967-017-1175-y",
+  "url": "https://openalex.org/W2605052214",
+  "provider": "openalex",
+  "year": 2017,
+  "venue": "Journal of Translational Medicine",
+  "citation_count": 2547,
+  "abstract": "Recent studies have suggested that the intestinal microbiome plays an important role in modulating risk of several chronic diseases, including inflammatory bowel disease, obesity, type 2 diabetes, cardiovascular disease, and cancer. At the same time, it is now understood that diet plays a significant role in shaping the microbiome, with experiments showing that dietary alterations can induce large, temporary microbial shifts within 24 h. Given this association, there may be significant therapeutic utility in altering microbial composition through diet. This review systematically evaluates current data regarding the effects of several common dietary components on intestinal microbiota. We show that consumption of particular types of food produces predictable shifts in existing host bacterial genera. Furthermore, the identity of these bacteria affects host immune and metabolic parameters, with broad implications for human health. Familiarity with these associations will be of tremendous use to the practitioner as well as the patient.",
+  "type": "academic",
+  "pdf_url": "https://translational-medicine.biomedcentral.com/track/pdf/10.1186/s12967-017-1175-y"
+}

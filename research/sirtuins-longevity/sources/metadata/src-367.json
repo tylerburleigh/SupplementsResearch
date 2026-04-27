@@ -1,0 +1,25 @@
+{
+  "id": "src-367",
+  "title": "Mitochondrial dysfunction in long COVID: mechanisms, consequences, and potential therapeutic approaches",
+  "authors": [
+    "Molnár, Tihamér",
+    "Lehoczki, Andrea",
+    "Fekete, Mónika",
+    "Várnai, Réka",
+    "Závori, László",
+    "Erdő-Bonyár, Szabina",
+    "Simon, Diána",
+    "Berki, Tímea",
+    "Csécsei, Péter",
+    "Ezer, Erzsébet"
+  ],
+  "doi": "10.1007/s11357-024-01165-5",
+  "url": "https://openalex.org/W4395666052",
+  "provider": "openalex",
+  "year": 2024,
+  "venue": "GeroScience",
+  "citation_count": 124,
+  "abstract": "The COVID-19 pandemic, caused by the SARS-CoV-2 virus, has introduced the medical community to the phenomenon of long COVID, a condition characterized by persistent symptoms following the resolution of the acute phase of infection. Among the myriad of symptoms reported by long COVID sufferers, chronic fatigue, cognitive disturbances, and exercise intolerance are predominant, suggesting systemic alterations beyond the initial viral pathology. Emerging evidence has pointed to mitochondrial dysfunction as a potential underpinning mechanism contributing to the persistence and diversity of long COVID symptoms. This review aims to synthesize current findings related to mitochondrial dysfunction in long COVID, exploring its implications for cellular energy deficits, oxidative stress, immune dysregulation, metabolic disturbances, and endothelial dysfunction. Through a comprehensive analysis of the literature, we highlight the significance of mitochondrial health in the pathophysiology of long COVID, drawing parallels with similar clinical syndromes linked to post-infectious states in other diseases where mitochondrial impairment has been implicated. We discuss potential therapeutic strategies targeting mitochondrial function, including pharmacological interventions, lifestyle modifications, exercise, and dietary approaches, and emphasize the need for further research and collaborative efforts to advance our understanding and management of long COVID. This review underscores the critical role of mitochondrial dysfunction in long COVID and calls for a multidisciplinary approach to address the gaps in our knowledge and treatment options for those affected by this condition.",
+  "type": "academic",
+  "pdf_url": "https://link.springer.com/content/pdf/10.1007/s11357-024-01165-5.pdf"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "src-081",
+  "title": "An Evidence-based Perspective of Coriolus Versicolor (Multicolored Polypore Mushroom) for Cancer Patients",
+  "authors": [
+    "Stošić-Grujičić, Stanislava",
+    "Mijatović, Sanja",
+    "Maksimović-Ivanić, Danijela"
+  ],
+  "year": 2011,
+  "abstract": "",
+  "doi": "10.1007/978-94-007-0526-5_13",
+  "url": "https://doi.org/10.1007/978-94-007-0526-5_13",
+  "pdf_url": "",
+  "venue": "Evidence-based Anticancer Complementary and Alternative Medicine",
+  "citation_count": 2,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-23T18:35:33.823376+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-081.md",
+  "quality_details": {
+    "content_length": 40719,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

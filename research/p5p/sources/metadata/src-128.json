@@ -1,0 +1,17 @@
+{
+  "id": "src-128",
+  "title": "High affinity binding of ankyrin induced by volume expansion in skate erythrocytes.",
+  "authors": [
+    "Musch, M W",
+    "Goldstein, L"
+  ],
+  "doi": "10.1074/jbc.271.35.21221",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/8702894",
+  "provider": "pubmed",
+  "year": 1996,
+  "venue": "The Journal of biological chemistry",
+  "citation_count": 0,
+  "abstract": "Volume expansion of little skate (Raja erinacea) erythrocytes increases the affinity of ankyrin binding without altering in the number of binding sites. Potassium iodide-stripped inside-out vesicles (KI-IOV) were used to assess ankyrin binding under volume-expanded conditions. Under isoosmotic conditions, ankyrin binds nearly exclusively to a single class of sites (Bmax, 52 +/- 12 microg/mg; Kd, 150 +/- 28 nM). KI-IOV from volume-expanded cells (either with one-half osmolarity medium or with inclusion of the permeant solute ethylene glycol) demonstrate two ankyrin-binding populations. A high affinity population occurs transiently under volume-expanded conditions. This population has a Bmax of 18 +/- 7 microg/mg and a Kd of 25 +/- 9 nM. Total binding of high and low affinity sites is 57 +/- 17 microg/mg. This change in ankyrin affinity is reversible on volume regulatory decrease. A major target protein in the KI-IOV was identified as the skate homolog of the mammalian red cell anion exchanger band 3. Inclusion of the purified cytoplasmic domain of band 3 competes away more than 80% of the ankyrin binding. To determine whether increased ankyrin affinity is due to band 3 tetramer formation that occurs in volume expansion, cells were treated with pyridoxal 5-phosphate or 4,4'-dinitrostilbene-2,2'-disulfonic acid, two agents that increase tetramer formation under isoosmotic conditions. Both treatments altered the binding affinity with a shift toward higher affinity binding without significant alteration in the number of binding sites.",
+  "type": "academic",
+  "pdf_url": ""
+}

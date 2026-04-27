@@ -1,0 +1,21 @@
+{
+  "id": "src-142",
+  "title": "CD26 upregulates proliferation and invasion in keloid fibroblasts through an IGF-1-induced PI3K/AKT/mTOR pathway",
+  "authors": [
+    "Xin, Yu",
+    "Min, P.",
+    "Xu, Heng",
+    "Zhang, Zheng",
+    "Zhang, Yan",
+    "Zhang, Yixin"
+  ],
+  "doi": "10.1093/burnst/tkaa025",
+  "url": "https://www.semanticscholar.org/paper/0e8031a3e2597de0db12a91b2f9644f6e87a2ff7",
+  "provider": "semantic_scholar",
+  "year": 2020,
+  "venue": "Burns & Trauma",
+  "citation_count": 37,
+  "abstract": "Abstract Background Keloid is a fibrotic dermal disease characterized by an abnormal increase in fibroblast proliferation and invasion. These pathological behaviours may be related to the heterogeneity of keloid fibroblasts (KFs); however, because of a lack of effective biomarkers for KFs it is difficult to study the underlying mechanism. Our previous studies revealed that the expansion of CD26+ KFs was responsible for increased keloid proliferation and invasion capabilities; the intrinsic relationship and mechanism between CD26 and keloid is therefore worthy of further investigation. The aim of this study was to explore molecular mechanisms in the process of CD26 upregulated KFs proliferation and invasion abilities, and provide more evidence for CD26 as an effective biomarker of keloid and a new clinical therapeutic target. Methods Flow cytometry was performed to isolate CD26+/CD26− fibroblasts from KFs and normal fibroblasts. To generate stably silenced KFs for CD26 and insulin-like growth factor-1 receptor (IGF-1R), lentiviral particles encoding shRNA targeting CD26 and IGF-1R were used for transfection. Cell proliferations were analysed by cell counting kit-8 assay and 5-ethynyl-2′-deoxyuridine (EdU) incorporation assay. Scratching assay and transwell assay were used to assess cell migration and invasion abilities. To further quantify the regulatory role of CD26 expression in the relevant signalling pathway, RT-qPCR, western blot, ELISA, PI3K activity assay and immunofluorescence were used. Results Aberrant expression of CD26 in KFs was proven to be associated with increased proliferation and invasion of KFs. Furthermore, the role of the IGF-1/IGF-1 receptor axis was also studied in CD26 and was found to upregulate KF proliferation and invasion. The PI3K/protein kinase B (AKT)/mammalian target of rapamycin (mTOR) pathway was shown to affect CD26-regulated KF proliferation and invasion by increasing phosphorylation levels of S6 kinase and 4E-binding protein. Conclusions CD26 can be the effective biomarker for KFs, and its expression is closely related to proliferation and invasion in keloids through the IGF-1-induced PI3K/AKT/mTOR pathway. This work provides a novel perspective on the pathological mechanisms affecting KFs and therapeutic strategies against keloids.",
+  "type": "academic",
+  "pdf_url": "https://academic.oup.com/burnstrauma/article-pdf/doi/10.1093/burnst/tkaa025/34055954/tkaa025.pdf"
+}

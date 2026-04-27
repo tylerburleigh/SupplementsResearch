@@ -1,0 +1,23 @@
+{
+  "id": "src-344",
+  "title": "Dysregulated Hepatic Methionine Metabolism Drives Homocysteine Elevation in Diet-Induced Nonalcoholic Fatty Liver Disease",
+  "authors": [
+    "Cazanave, Sophie",
+    "Min, Hae-Ki",
+    "Mirshahi, Faridoddin",
+    "Pacana, Tommy",
+    "Patel, Viashali",
+    "Quinlavin, Eoin",
+    "Sanyal, Arun J.",
+    "Verdianelli, Aurora"
+  ],
+  "doi": "10.1371/journal.pone.0136822",
+  "url": "https://doi.org/10.1371/journal.pone.0136822",
+  "provider": "core",
+  "year": 2015,
+  "venue": "PLoS ONE",
+  "citation_count": 0,
+  "abstract": "Methionine metabolism plays a central role in methylation reactions, production of glutathione and methylarginines, and modulating homocysteine levels. The mechanisms by which these are affected in NAFLD are not fully understood. The aim is to perform a metabolomic, molecular and epigenetic analyses of hepatic methionine metabolism in diet-induced NAFLD. Female 129S1/SvlmJ;C57Bl/6J mice were fed a chow (n = 6) or high-fat high-cholesterol (HFHC) diet (n = 8) for 52 weeks. Metabolomic study, enzymatic expression and DNA methylation analyses were performed. HFHC diet led to weight gain, marked steatosis and extensive fibrosis. In the methionine cycle, hepatic methionine was depleted (30%, p\\u3c 0.01) while s-adenosylmethionine (SAM)/methionine ratio (p\\u3c 0.05), s-adenosylhomocysteine (SAH) (35%, p\\u3c 0.01) and homocysteine (25%, p\\u3c 0.01) were increased significantly. SAH hydrolase protein levels decreased significantly (p Dnmt3adecreased, the global DNA methylation was unaltered. Among individual genes, only HMG-CoA reductase (Hmgcr) was hypermethylated, and no methylation changes were observed in fatty acid synthase (Fasn), nuclear factor of kappa light polypeptide gene enhancer in B-cells 1 (Nfκb1), c-Jun, B-cell lymphoma 2 (Bcl-2) and Caspase 3. NAFLD was associated with hepatic methionine deficiency and homocysteine elevation, resulting mainly from impaired homocysteine remethylation, and aberrancy in methyltransferase reactions. Despite increased PRMT1 expression, hepatic ADMA was depleted while circulating ADMA was increased, suggesting increased export to circulation",
+  "type": "academic",
+  "pdf_url": "https://core.ac.uk/download/51293557.pdf"
+}

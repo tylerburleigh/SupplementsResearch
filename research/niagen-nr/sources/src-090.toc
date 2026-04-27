@@ -1,0 +1,70 @@
+3	2	Review Article Open
+20	2	Introduction
+70	2	18 NAMN derived from both the tryptophan and NA is
+107	2	26 Through mediating the post-translational
+184	2	57 This methylation system is
+326	2	95 These distinct synthesis path-
+331	2	64 NADPH is required for both the reductive biosynthetic
+391	2	91 Accordingly, these tissues
+419	2	Nad
+436	2	Nad
+465	2	108 To counteract the detrimental effects of oxidants,
+499	2	114 Rather than generating ROS as a
+593	2	Nad
+635	2	Nad
+771	2	Nad
+821	2	29 Besides human hydrolases, macrodomain-
+829	2	Nad
+843	2	210 Cytosolic pyruvate can also be converted to lactate by
+879	2	Nad
+884	2	Nad
+891	2	Nad
+915	2	219 The
+930	2	224 The lysine deacylase
+977	2	236 The
+1060	2	256 Mitochondrial complex III produces ROS immediately
+1078	2	259 Furthermore, endotoxin dose-dependent switch of
+1081	2	Nad
+1116	2	274 In the nasal airway
+1124	2	Pathophysiological Condition
+1140	2	Nad
+1307	2	Nad
+1324	2	343 Supplementation
+1354	2	Nad
+1365	2	Nad
+1432	2	Nad
+1503	2	380 However,
+1544	2	Nad
+1603	2	403 Besides, NNMT promotes HCC cell invasion and
+1608	2	404 Furthermore,
+1692	2	424 Cytoplasmic NADH from the glycolytic pathway is
+1713	2	433 Rather
+1726	2	424 Moreover, the two components of
+1733	2	437 Selective
+1742	2	Nadp
+1756	2	444 Furthermore, NMN alie-
+1815	2	458 Treatment with eNAMPT can increase the
+1820	2	459 Adipose tissue-
+1831	2	Nad
+1836	2	37 Moreover, adding leucine to
+1889	2	468 In a transgenic mouse model of DN-NAMPT, the researchers
+1902	2	469 Meanwhile, the NAMPT is also a target
+1930	2	477 To date, the clinical analysis reveals controversy
+1948	2	482 Given that hepatocytes are only one of the sources of
+1952	2	Nad
+2057	2	511 Mitophagy diminishes insoluble
+2121	2	Nad
+2195	2	549 The reactive astrocytes can promote excitotoxic
+2210	2	552 Moreover,
+2323	2	575 Similarly, the loss of
+2338	2	229 Compared with
+2411	2	595 A study suggests that the activation of
+2495	2	Nad
+2771	2	53 Interestingly,
+2839	2	Nad
+2882	2	Concluding Remarks
+2910	2	Nad
+2923	2	Nad
+2925	2	Acknowledgements
+2931	2	Additional Information
+2933	2	References

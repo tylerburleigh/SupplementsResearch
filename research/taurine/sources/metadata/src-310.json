@@ -1,0 +1,18 @@
+{
+  "id": "src-310",
+  "title": "The Role of Gut Microbiota on Cholesterol Metabolism in Atherosclerosis",
+  "authors": [
+    "Vourakis, Margaret",
+    "Mayer, Gaétan",
+    "Rousseau, Guy"
+  ],
+  "doi": "10.3390/ijms22158074",
+  "url": "https://openalex.org/W3185521202",
+  "provider": "openalex",
+  "year": 2021,
+  "venue": "International Journal of Molecular Sciences",
+  "citation_count": 197,
+  "abstract": "Hypercholesterolemia plays a causal role in the development of atherosclerosis and is one of the main risk factors for cardiovascular disease (CVD), the leading cause of death worldwide especially in developed countries. Current data show that the role of microbiota extends beyond digestion by being implicated in several metabolic and inflammatory processes linked to several diseases including CVD. Studies have reported associations between bacterial metabolites and hypercholesterolemia. However, such associations remain poorly investigated and characterized. In this review, the mechanisms of microbial derived metabolites such as primary and secondary bile acids (BAs), trimethylamine N-oxide (TMAO), and short-chain fatty acids (SCFAs) will be explored in the context of cholesterol metabolism. These metabolites play critical roles in maintaining cardiovascular health and if dysregulated can potentially contribute to CVD. They can be modulated via nutritional and pharmacological interventions such as statins, prebiotics, and probiotics. However, the mechanisms behind these interactions also remain unclear, and mechanistic insights into their impact will be provided. Therefore, the objectives of this paper are to present current knowledge on potential mechanisms whereby microbial metabolites regulate cholesterol homeostasis and to discuss the feasibility of modulating intestinal microbes and metabolites as a novel therapeutic for hypercholesterolemia.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/1422-0067/22/15/8074/pdf?version=1627986740"
+}

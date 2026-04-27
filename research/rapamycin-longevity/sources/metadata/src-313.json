@@ -1,0 +1,21 @@
+{
+  "id": "src-313",
+  "title": "Leucine accelerates atherosclerosis through dose-dependent MTOR activation in macrophages.",
+  "authors": [
+    "Zhang, Xiangyu",
+    "Ajam, Ali",
+    "Liu, Ziyang",
+    "Peroumal, Doureradjou",
+    "Khan, Saifur R",
+    "Razani, Babak"
+  ],
+  "doi": "10.1080/15548627.2025.2474603",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40047228",
+  "provider": "pubmed",
+  "year": 2025,
+  "venue": "Autophagy",
+  "citation_count": 0,
+  "abstract": "The role of diet in driving cardiovascular disease (CVD) is well-recognized, particularly in the case of lipids. Dietary protein on the other hand has been heralded as an overall metabolically beneficial nutrient with popularity in the fitness community and in weight-loss regimens. Pursuant to epidemiological studies raising a CVD risk signal for excessive protein intake, we initially conducted murine studies establishing an atherogenic role for dietary protein, the critical involvement of macrophage MTORC1 signaling, and downstream inhibition of protective macroautophagy/autophagy pathways. In recent work, we confirm these findings in monocytes from humans consuming protein and dissect the MTORC1-autophagy cascade in human macrophages. We also identify leucine as the single most important amino acid, observing dose-dependent activation of MTOR whereby only leucine concentrations above a threshold trigger pathogenic signaling and monocyte/macrophage dysfunction. Using mouse models fed diets with modulated protein and leucine content, we confirm this threshold effect in driving atherosclerosis. Our findings establish a pathogenic role for dietary leucine in CVD and raise the promise of therapeutic strategies aimed at selective inhibition of macrophage leucine-MTOR signaling.",
+  "type": "academic",
+  "pdf_url": ""
+}

@@ -1,0 +1,18 @@
+{
+  "id": "src-152",
+  "title": "Senolytics for Cancer Therapy: Is All that Glitters Really Gold?",
+  "authors": [
+    "Carpenter, Valerie J.",
+    "Saleh, Tareq",
+    "Gewirtz, David A."
+  ],
+  "doi": "10.3390/cancers13040723",
+  "url": "https://openalex.org/W3128445174",
+  "provider": "openalex",
+  "year": 2021,
+  "venue": "Cancers",
+  "citation_count": 116,
+  "abstract": "Senolytics represent a group of mechanistically diverse drugs that can eliminate senescent cells, both in tumors and in several aging-related pathologies. Consequently, senolytic use has been proposed as a potential adjuvant approach to improve the response to senescence-inducing conventional and targeted cancer therapies. Despite the unequivocal promise of senolytics, issues of universality, selectivity, resistance, and toxicity remain to be further clarified. In this review, we attempt to summarize and analyze the current preclinical literature involving the use of senolytics in senescent tumor cell models, and to propose tenable solutions and future directions to improve the understanding and use of this novel class of drugs.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2072-6694/13/4/723/pdf?version=1613618023"
+}

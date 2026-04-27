@@ -1,0 +1,34 @@
+{
+  "id": "src-041",
+  "title": "The effects of taurine supplementation on glycemic control and serum lipid profile in patients with type 2 diabetes: a randomized, double-blind, placebo-controlled trial",
+  "authors": [
+    "Maleki, Vahid",
+    "Alizadeh, Mohammad",
+    "Esmaeili, Fatemeh",
+    "Mahdavi, Reza"
+  ],
+  "year": 2020,
+  "abstract": "",
+  "doi": "10.1007/s00726-020-02859-8",
+  "url": "https://doi.org/10.1007/s00726-020-02859-8",
+  "pdf_url": "",
+  "venue": "Amino Acids",
+  "citation_count": 28,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-19T11:28:25.962648+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-041.md",
+  "quality_details": {
+    "content_length": 18359,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

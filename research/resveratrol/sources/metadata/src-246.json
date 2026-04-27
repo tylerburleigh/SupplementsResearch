@@ -1,0 +1,22 @@
+{
+  "id": "src-246",
+  "title": "Alcohol Consumption and Mortality among Middle-Aged and Elderly U.S. Adults",
+  "authors": [
+    "Thun, Michael J.",
+    "Peto, Richard",
+    "López, Alan D",
+    "Monaco, Jane",
+    "Henley, S. Jane",
+    "Heath, Clark W.",
+    "Doll, Richard"
+  ],
+  "doi": "10.1056/nejm199712113372401",
+  "url": "https://openalex.org/W2335592377",
+  "provider": "openalex",
+  "year": 1997,
+  "venue": "New England Journal of Medicine",
+  "citation_count": 1319,
+  "abstract": "In this middle-aged and elderly population, moderate alcohol consumption slightly reduced overall mortality. The benefit depended in part on age and background cardiovascular risk and was far smaller than the large increase in risk produced by tobacco.",
+  "type": "academic",
+  "pdf_url": "https://www.nejm.org/doi/pdf/10.1056/NEJM199712113372401?articleTools=true"
+}

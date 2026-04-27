@@ -1,0 +1,29 @@
+{
+  "id": "src-150",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/902267",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-23T19:04:13.708441+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-150.md",
+  "quality_details": {
+    "content_length": 933,
+    "alpha_ratio": 0.791,
+    "sentence_count": 0,
+    "reasons": [
+      "few sentences detected (0 < 3)"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "src-029",
+  "title": "A double-blind, randomized, and active-controlled phase III study of Herbiron drink in the treatment of iron-deficiency anemia in premenopausal females in Taiwan",
+  "authors": [
+    "Lee, Ching-Tzu",
+    "Jeng, Cherng-Jye",
+    "Yeh, Lian-Shung",
+    "Yen, Ming-Shyen",
+    "Chen, Shih-Ming",
+    "Lee, Chyi-Long",
+    "Lin, Willie",
+    "Hsu, Chun-Sen"
+  ],
+  "year": 2016,
+  "abstract": "",
+  "doi": "10.3402/fnr.v60.31047",
+  "url": "https://doi.org/10.3402/fnr.v60.31047",
+  "pdf_url": "",
+  "venue": "Food &amp; Nutrition Research",
+  "citation_count": 2,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T17:56:17.022625+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-029.md",
+  "quality_details": {
+    "content_length": 40336,
+    "alpha_ratio": 0.736,
+    "sentence_count": 392,
+    "reasons": []
+  }
+}

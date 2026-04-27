@@ -1,0 +1,26 @@
+{
+  "id": "src-249",
+  "title": "Improved survival with phosphodiesterase-5 inhibitor use in men with male-predominant cancers: real-world large database study",
+  "authors": [
+    "Uralov, Daniel",
+    "Harrington, S.",
+    "Samarah, Hani",
+    "Walia, Anika",
+    "Aweeda, Marina",
+    "Mustafa, Manal U",
+    "Kumar, Parvesh",
+    "Briskin, Andrew",
+    "Jackson, Julian",
+    "Mastrolonardo, Eric",
+    "Luginbuhl, Adam J."
+  ],
+  "doi": "10.3389/fonc.2025.1720304",
+  "url": "https://www.semanticscholar.org/paper/3f18c60b3cbd0272b1f94301588b76d3bae241f8",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "Frontiers in Oncology",
+  "citation_count": 0,
+  "abstract": "Introduction Phosphodiesterase-5 (PDE5) inhibitors, commonly prescribed for erectile dysfunction, may exhibit immunomodulatory properties by reducing myeloid-derived suppressor cell activity and enhancing T-cell responses. This study evaluated the association between PDE5 inhibitor use and overall survival (OS) in male-predominant solid organ malignancies. Methods Male-predominant solid tumors were identified using male-to-female incidence ratio ≥3:1 in SEER database: prostate, bladder, colon, esophageal, hypopharyngeal, laryngeal, tonsillar, and testicular cancers. Using the TriNetX Research Network, we compared male patients prescribed PDE5 inhibitors within 6 months of cancer diagnosis to those without PDE5 exposure. Propensity score matching (PSM) was performed on demographic, clinical, and oncologic variables. OS was assessed in a combined pan-cancer cohort, stratified by overall stage, and subgroups of included cancers. Kaplan-Meier survival analyses were conducted for 1-, 3-, and 5-year OS from diagnosis. Results After PSM, 108,630 patients were included in each arm of the pan-cancer analysis. PDE5 inhibitor exposure was associated with significantly improved OS at 1, 3, and 5 years compared with controls (5-year OS 93.8% vs 86.6%; HR, 0.42 [95% CI, 0.41–0.44]). Stratified analyses demonstrated significantly improved OS across all four stages, with hazard ratios ranging from 0.40 to 0.57. Subgroup analyses by tumor site likewise showed statistically significant improvement in OS for every included cancer type, with hazard ratios ranging from 0.35 to 0.70. Conclusions PDE5 inhibitor use was consistently associated with improved OS across all male-predominant cancers, including in stage-stratified analyses. These findings support further investigation into the potential role of PDE5 inhibitors in cancer outcomes.",
+  "type": "academic",
+  "pdf_url": ""
+}

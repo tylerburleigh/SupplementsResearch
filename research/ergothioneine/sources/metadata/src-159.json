@@ -1,0 +1,21 @@
+{
+  "id": "src-159",
+  "title": "Substrate discrimination by ergothioneine transporter SLC22A4 and carnitine transporter SLC22A5: gain-of-function by interchange of selected amino acids.",
+  "authors": [
+    "Bacher, Petra",
+    "Giersiefer, Susanne",
+    "Bach, Markus",
+    "Fork, Christian",
+    "Schömig, Edgar",
+    "Gründemann, Dirk"
+  ],
+  "doi": "10.1016/j.bbamem.2009.09.019",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/19814996",
+  "provider": "pubmed",
+  "year": 2009,
+  "venue": "Biochimica et biophysica acta",
+  "citation_count": 0,
+  "abstract": "ETT (originally designated as OCTN1; human gene symbol SLC22A4) and CTT (OCTN2; SLC22A5) are highly specific transporters of ergothioneine and carnitine, respectively. Despite a high degree of sequence homology, both carriers discriminate precisely between substrates: ETT does not transport carnitine, and CTT does not transport ergothioneine. Our aim was to turn ETT into a transporter for carnitine and CTT into a transporter for ergothioneine by a limited number of point mutations. From a multiple alignment of several mammalian amino acid sequences, those positions were selected for conversion that were momentously different between ETT and CTT from human but conserved among all orthologues. Mutants were expressed in 293 cells and assayed for transport of ergothioneine and carnitine. Several ETT mutants clearly catalyzed transport of carnitine, up to 35% relative to wild-type CTT. Amazingly, complementary substitutions in CTT did not provoke transport activity for ergothioneine. In similar contrast, carnitine transport by CTT mutants was abolished by very few substitutions, whereas ergothioneine transport by ETT mutants was maintained even with the construct most active in carnitine transport. To explain these results, we propose that ETT and CTT use dissimilar pathways for conformational change, in addition to incongruent substrate binding sites. In other words, carnitine is excluded from ETT by binding, and ergothioneine is excluded from CTT by turnover movement. Our data indicate amino acids critical for substrate discrimination not only in transmembrane segments 5, 7, 8, and 10, but also in segments 9 and 12 which were hitherto considered as unimportant.",
+  "type": "academic",
+  "pdf_url": ""
+}

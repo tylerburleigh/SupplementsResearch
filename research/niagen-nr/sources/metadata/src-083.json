@@ -1,0 +1,30 @@
+{
+  "id": "src-083",
+  "title": "NAD+ Therapeutics and Skeletal Muscle Adaptation to Exercise in Humans",
+  "authors": [
+    "Campelj, Dean",
+    "Philp, Andrew"
+  ],
+  "year": 2022,
+  "abstract": "AbstractNicotinamide adenine dinucleotide (NAD+) is a vital energy intermediate in skeletal muscle. The discovery of dietary-derived NAD+ precursors has led to the rapid development of NAD+ therapeutics designed to manipulate NAD+ content in target tissues. Of those developed, nicotinamide riboside and nicotinamide mononucleotide have been reported to display health benefit in humans under clinical scenarios of NAD+ deficiency. In contrast, relatively little is known regarding the potential benefit of nicotinamide riboside and nicotinamide mononucleotide supplementation in healthy individuals, with questions remaining as to whether NAD+ therapeutics can be used to support training adaptation or improve performance in athletic populations. Examining animal and human nicotinamide riboside supplementation studies, this review discusses current evidence suggesting that NAD+ therapeutics do not alter skeletal muscle metabolism or improve athletic performance in healthy humans. Further, we will highlight potential reasons why nicotinamide riboside supplementation studies do not translate to healthy populations and discuss the futility of testing NAD+ therapeutics outside of the clinical populations where NAD+ deficiency is present.",
+  "doi": "10.1007/s40279-022-01772-2",
+  "url": "https://doi.org/10.1007/s40279-022-01772-2",
+  "pdf_url": "",
+  "venue": "Sports Medicine",
+  "citation_count": 12,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-20T20:49:31.092106+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-083.md",
+  "quality_details": {
+    "content_length": 45816,
+    "alpha_ratio": 0.761,
+    "sentence_count": 394,
+    "reasons": []
+  }
+}

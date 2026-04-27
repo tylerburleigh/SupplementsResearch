@@ -1,0 +1,14 @@
+10	2	Posted
+48	2	Subject	Areas
+50	2	Keywords
+54	2	Abstract
+72	2	Background
+113	2	Methods
+150	2	2017.	Date	of	death	was	inquired	and	ascertained	from	family	members	or
+272	2	Results
+321	2	Discussion
+414	2	Conclusion
+482	2	Acknowledgements
+494	2	References
+1048	2	Crp
+1169	2	Bmi

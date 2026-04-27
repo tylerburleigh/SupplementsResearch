@@ -1,0 +1,18 @@
+{
+  "id": "src-217",
+  "title": "Wine Polyphenol Content and Its Influence on Wine Quality and Properties: A Review",
+  "authors": [
+    "Gutiérrez‐Escobar, Rocío",
+    "Aliaño–González, María José",
+    "Cantos‐Villar, Emma"
+  ],
+  "doi": "10.3390/molecules26030718",
+  "url": "https://openalex.org/W3128249527",
+  "provider": "openalex",
+  "year": 2021,
+  "venue": "Molecules",
+  "citation_count": 351,
+  "abstract": "Wine is one of the most consumed beverages around the world. It is composed of alcohols, sugars, acids, minerals, proteins and other compounds, such as organic acids and volatile and phenolic compounds (also called polyphenols). Polyphenols have been shown to be highly related to both (i) wine quality (color, flavor, and taste) and (ii) health-promoting properties (antioxidant and cardioprotective among others). Polyphenols can be grouped into two big families: (i) Flavonoids, including anthocyanidins, flavonols, flavanols, hydrolysable and condensed tannins, flavanones, flavones and chalcones; and (ii) Non-flavonoids, including hydroxycinnamic acids, hydroxybenzoic acids, stilbenes, tyrosol and hydroxytyrosol. Each group affects in some way the different properties of wine to a greater or a lesser extent. For that reason, the phenolic composition can be managed to obtain singular wines with specific, desirable characteristics. The current review presents a summary of the ways in which the phenolic composition of wine can be modulated, including (a) invariable factors such as variety, field management or climatic conditions; (b) pre-fermentative strategies such as maceration, thermovinification and pulsed electric field; (c) fermentative strategies such as the use of different yeasts and bacteria; and (d) post-fermentative strategies such as maceration, fining agents and aging. Finally, the different extraction methods and analytical techniques used for polyphenol detection and quantification have been also reviewed.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/1420-3049/26/3/718/pdf?version=1612256405"
+}

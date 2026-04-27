@@ -1,0 +1,14 @@
+11	2	Abstract
+98	2	Introduction
+350	2	2. Antibiotic: Tobramycin inhalation is an antibiotic
+352	2	3. Anti-inflammatory: Low-dose azithromycin treat-
+356	2	4. Anti-acid: Suggested for patients who fail to
+359	2	5. Inhaled hypertonic saline: Nebulized hypertonic
+364	2	7. Fat soluble vitamins: For all CF patients with
+695	2	Discussion
+752	2	Acknowledgements
+794	2	References
+813	2	7. Jarosz-Griffiths HH, Scambler T, Wong CH, Lara-Reyna S, Holbrook J,
+827	2	11. Harada K, Okiyoneda T, Hashimoto Y, Oyokawa K, Nakamura K, Suico MA,
+831	2	12. Dekkers JF, Van Mourik P, Vonk AM, Kruisselbrink E, Berkers G, de Winter-de
+887	2	27. Jazayeri-Tehrani SA, Rezayat SM, Mansouri S, Qorbani M, Alavian SM,

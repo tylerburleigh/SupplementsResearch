@@ -1,0 +1,21 @@
+{
+  "id": "src-340",
+  "title": "Associations Between Nicotine Metabolites and Serum Neurofilament Light Chain Levels in the General Population",
+  "authors": [
+    "Ji, Q.",
+    "Tang, E.",
+    "Liao, Yu",
+    "Yang, Jialei",
+    "Wang, Yunzhang",
+    "Zhan, Yiqiang"
+  ],
+  "doi": "10.1002/cdt3.70024",
+  "url": "https://www.semanticscholar.org/paper/2b87a2168334f429eda71fdf4b0360248787d809",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "Chronic Diseases and Translational Medicine",
+  "citation_count": 0,
+  "abstract": "ABSTRACT Background Nicotine has been associated with cognitive functions such as memory and attention, with serum neurofilament light chain (sNfL) as a biomarker for neurological diseases such as Alzheimer's disease (AD) and multiple sclerosis (MS). However, the associations between nicotine and its metabolites and sNfL levels remain underexplored. This study aims to investigate the associations of serum and urine levels of cotinine and trans‐3’‐hydroxycotinine (hydroxycotinine) with sNfL levels in a broad population. Methods Employing data from the National Health and Nutrition Examination Survey (NHANES) 2013–2014, this cross‐sectional study applied multivariable linear regression models and restricted cubic splines to examine the links between cotinine, hydroxycotinine (both in serum and urine), and sNfL levels. Results A total of 2052 participants were included in the serum analysis (mean age, 46.8 years; SD, 15.3; weighted 52.1% women) and 661 participants in the urine analysis (weighted 49.5% women). sNfL levels were positively associated with both serum and urine concentrations of cotinine and hydroxycotinine. Adjusted analyses revealed increases in sNfL levels in association with these substances, noting nonlinear associations for serum and urine cotinine and hydroxycotinine with sNfL levels. Conclusion These findings demonstrate robust positive associations between nicotine metabolites and sNfL levels and identify novel U‐shaped associations at lower exposure levels. The results raise the hypothesis that very low nicotine metabolite levels may be associated with lower axonal injury markers, warranting further longitudinal and mechanistic studies to clarify causality.",
+  "type": "academic",
+  "pdf_url": ""
+}

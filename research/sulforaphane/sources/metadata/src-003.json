@@ -1,0 +1,29 @@
+{
+  "id": "src-003",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://wellnessrd.com/sulforaphane-supplements-what-are-the-benefits-of-sulforaphane",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-18T23:18:16.929944+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-003.md",
+  "quality_details": {
+    "content_length": 6107,
+    "alpha_ratio": 0.787,
+    "sentence_count": 58,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

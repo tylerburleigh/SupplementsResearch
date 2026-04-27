@@ -1,0 +1,46 @@
+{
+  "id": "src-043",
+  "title": "A Pilot Trial of Nicotinamide Riboside and Coenzyme Q10 on Inflammation and Oxidative Stress in CKD",
+  "authors": [
+    "Ahmadi, Armin",
+    "Valencia, Ana P.",
+    "Begue, Gwénaëlle",
+    "Norman, Jennifer E.",
+    "Fan, Sili",
+    "Durbin-Johnson, Blythe P.",
+    "Jenner, Bradley N.",
+    "Campbell, Matthew D.",
+    "Reyes, Gustavo",
+    "Kapahi, Pankaj",
+    "Himmelfarb, Jonathan",
+    "de Boer, Ian H.",
+    "Marcinek, David J.",
+    "Kestenbaum, Bryan R.",
+    "Gamboa, Jorge L.",
+    "Roshanravan, Baback"
+  ],
+  "year": 2025,
+  "abstract": "Key Points\n\nNicotinamide riboside and coenzyme Q10 supplementation showed distinct beneficial effects on whole-blood transcriptome, inflammatory cytokines, and oxidative stress.Nicotinamide riboside treatment altered the expression of genes associated with metabolism and immune response coinciding with a decrease in markers of oxidative stress.Coenzyme Q10 supplementation altered genes associated with lipid metabolism coinciding with reductions in markers of oxidative stress and inflammatory cytokines.\n\nBackground\nMitochondria-driven oxidative/redox stress and inflammation play a major role in CKD pathophysiology. Compounds targeting mitochondrial metabolism may improve mitochondrial function, inflammation, and redox stress; however, there is limited evidence of their efficacy in CKD.\n\nMethods\nWe conducted a pilot, randomized, double-blind, placebo-controlled crossover trial comparing the effects of 1200 mg/d of coenzyme Q10 (CoQ10) or 1000 mg/d of nicotinamide riboside (NR) supplementation with placebo in 25 patients with moderate-to-severe CKD (eGFR &lt;60 ml/min per 1.73 m2). We assessed changes in blood transcriptome using 3′-Tag-Seq gene expression profiling and changes in prespecified secondary outcomes of inflammatory and oxidative stress biomarkers. For a subsample of participants (n=14), we assessed lymphocyte and monocyte bioenergetics using an extracellular flux analyzer.\n\nResults\nThe (mean±SD) age, eGFR, and body mass index of the participants were 61±11 years, 37±9 ml/min per 1.73 m2, and 28±5 kg/m2, respectively. Of the participants, 16% had diabetes and 40% were female. Compared with placebo, NR-mediated transcriptomic changes were enriched in gene ontology terms associated with carbohydrate/lipid metabolism and immune signaling, whereas CoQ10 changes were enriched in immune/stress response and lipid metabolism gene ontology terms. NR increased plasma IL-2 (estimated difference, 0.32; 95% confidence interval [CI], 0.14 to 0.49 pg/ml), and CoQ10 decreased both IL-13 (estimated difference, −0.12; 95% CI, −0.24 to −0.01 pg/ml) and C-reactive protein (estimated difference, −0.11; 95% CI, −0.22 to 0.00 mg/dl) compared with placebo. Both NR and CoQ10 reduced five-series F2-isoprostanes (estimated difference, −0.16 and −0.11 pg/ml, respectively; P &lt; 0.05 for both). NR, but not CoQ10, increased the Bioenergetic Health Index (estimated difference, 0.29; 95% CI, 0.06 to 0.53) and spare respiratory capacity (estimated difference, 3.52; 95% CI, 0.04 to 7 pmol/min per 10,000 cells) in monocytes.\n\nConclusions\nSix weeks of NR and CoQ10 improved markers of oxidative stress, inflammation, and cell bioenergetics in patients with moderate-to-severe CKD.\n\nClinical Trial registry name and registration number:\n\nNCT03579693.",
+  "doi": "10.2215/cjn.0000000624",
+  "url": "https://doi.org/10.2215/cjn.0000000624",
+  "pdf_url": "",
+  "venue": "Clinical Journal of the American Society of Nephrology",
+  "citation_count": 4,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-20T20:24:45.970772+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-043.md",
+  "quality_details": {
+    "content_length": 54053,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

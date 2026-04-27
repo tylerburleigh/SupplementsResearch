@@ -1,0 +1,18 @@
+{
+  "id": "src-112",
+  "title": "MyMD-1 Improves Health Span and Prolongs Life Span in Old Mice: A Noninferiority Study to Rapamycin.",
+  "authors": [
+    "Sabini, Elena",
+    "O'Mahony, Alison",
+    "Caturegli, Patrizio"
+  ],
+  "doi": "10.1093/gerona/glac142",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35914953",
+  "provider": "pubmed",
+  "year": 2023,
+  "venue": "The journals of gerontology. Series A, Biological sciences and medical sciences",
+  "citation_count": 0,
+  "abstract": "Aging and age-related diseases represent a compelling therapeutic goal for senolytics and drugs targeting inflammatory or metabolic pathways. We compared MyMD-1, a synthetic derivative of the alkaloid myosmine capable of suppressing TNF-α production, to rapamycin, the best characterized drug endowed with antiaging properties. In vivo, a longitudinal cohort of 54 C57BL/6 mice, 19-month-old at the start, was randomized to receive MyMD-1, high-dose (126 ppm) rapamycin, or low-dose (14 ppm) rapamycin plus metformin. Each treatment arm included 18 mice (10 females and 8 males) and was followed for 16 months or until death. Life span was significantly longer in MyMD-1 than rapamycin (p = .019 vs high-dose and .01 vs low-dose) in a Cox survival model that accounted for sex and serum levels of IL-6, TNF-α, and IL-17A. MyMD-1 also improved several health span characteristics, resulting in milder body weight loss, greater muscle strength, and slower progression to frailty. In vitro, MyMD-1 and rapamycin were compared using a panel of 12 human primary cell systems (BioMAP Diversity PLUS), where a total of 148 biomarkers were measured. MyMD-1 possessed antiproliferative, anti-inflammatory, and antifibrotic properties. Many were shared with rapamycin, but MyMD-1 was more active in the inhibition of proinflammatory and profibrotic biomarkers. Overall, MyMD-1 emerges as a new compound that, even when begun at an advanced age, induces beneficial effects on health and life span by modulating inflammation and tissue remodeling.",
+  "type": "academic",
+  "pdf_url": ""
+}

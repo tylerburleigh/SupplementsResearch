@@ -1,0 +1,25 @@
+{
+  "id": "src-137",
+  "title": "A Mendelian Randomization Study of Plasma Homocysteine Levels and Cerebrovascular and Neurodegenerative Diseases.",
+  "authors": [
+    "Liu, Weishi",
+    "Zhang, Luyang",
+    "Li, Shen",
+    "Liu, Chen",
+    "Tong, Ying",
+    "Fang, Hui",
+    "Zhang, Rui",
+    "Song, Bo",
+    "Xia, Zongping",
+    "Xu, Yuming"
+  ],
+  "doi": "10.3389/fgene.2021.653032",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/33868384",
+  "provider": "pubmed",
+  "year": 2021,
+  "venue": "Frontiers in genetics",
+  "citation_count": 0,
+  "abstract": "Background: Homocysteine (Hcy) is a toxic amino acid and hyperhomocysteinemia (HHcy) was reported to be associated with both cerebrovascular disease and neurodegenerative disease. Our aim was to assess the causal link between plasma Hcy level and cerebrovascular and neurodegenerative diseases through a Mendelian randomization (MR) study. Methods: A two-sample MR study was performed to infer the causal link. We extracted the genetic variants (SNPs) associated with plasma Hcy level from a large genome-wide association study (GWAS) meta-analysis. The main MR analysis was performed using the inverse variance-weighted method. Additional analyses were further performed using MR-Egger intercept and Cochran's Q statistic to detect the heterogeneity or pleiotropy of our findings. Results: Thirteen Hcy-associated SNPs were selected as instrumental variables. The results showed evidence of a causal link between plasma Hcy level and ischemic stroke (IS) caused by small artery occlusion (SAS, OR = 1.329, 95% CI 1.047-1.612, p = 0.048). Meanwhile, there was no evidence of association between plasma Hcy level and other types of IS, transient ischemic attack (TIA), or neurodegenerative disease. The MR-Egger intercept test indicated no evidence of directional pleiotropy. Results of additional MR analysis indicated that blood pressure (BP) and type 2 diabetes mellitus (T2DM) serve as influencers in the association. Conclusion: The MR study found a little causal link between plasma Hcy level and SAS. The link is likely to be influenced by other risk factors like BP and T2DM.",
+  "type": "academic",
+  "pdf_url": ""
+}

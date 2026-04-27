@@ -1,0 +1,40 @@
+{
+  "id": "src-128",
+  "title": "Longitudinal plasma metabolomics reveals a role for taurine in asymptomatic malaria and seasonal persistence",
+  "authors": [
+    "Diffendall, Gretchen",
+    "Millot, Perine",
+    "Chen, Patty",
+    "Fogang, Balotin",
+    "Dorin-Semblat, Dominique",
+    "Aprahamian, Fanny",
+    "Durand, Sylvère",
+    "Gamain, Benoît",
+    "Claessens, Antoine",
+    "Scherf, Artur"
+  ],
+  "year": 2026,
+  "abstract": "",
+  "doi": "10.1038/s41564-026-02268-9",
+  "url": "https://doi.org/10.1038/s41564-026-02268-9",
+  "pdf_url": "",
+  "venue": "Nature Microbiology",
+  "citation_count": 1,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-19T11:57:56.776088+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-128.md",
+  "quality_details": {
+    "content_length": 30371,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

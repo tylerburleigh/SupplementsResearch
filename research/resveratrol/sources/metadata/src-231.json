@@ -1,0 +1,27 @@
+{
+  "id": "src-231",
+  "title": "Cancer Chemopreventive Activity of Resveratrol, a Natural Product Derived from Grapes",
+  "authors": [
+    "Jang, Meishiang",
+    "Cai, Lining",
+    "Udeani, George",
+    "Slowing, Karla",
+    "Thomas, Cathy F.",
+    "Beecher, Chris",
+    "Fong, Harry H. S.",
+    "Farnsworth, Norman R.",
+    "Kinghorn, A. Douglas",
+    "Mehta, Rajendra G.",
+    "Moon, Richard C.",
+    "Pezzuto, John M."
+  ],
+  "doi": "10.1126/science.275.5297.218",
+  "url": "https://openalex.org/W2151089147",
+  "provider": "openalex",
+  "year": 1997,
+  "venue": "Science",
+  "citation_count": 4915,
+  "abstract": "Resveratrol, a phytoalexin found in grapes and other food products, was purified and shown to have cancer chemopreventive activity in assays representing three major stages of carcinogenesis. Resveratrol was found to act as an antioxidant and antimutagen and to induce phase II drug-metabolizing enzymes (anti-initiation activity); it mediated anti-inflammatory effects and inhibited cyclooxygenase and hydroperoxidase functions (antipromotion activity); and it induced human promyelocytic leukemia cell differentiation (antiprogression activity). In addition, it inhibited the development of preneoplastic lesions in carcinogen-treated mouse mammary glands in culture and inhibited tumorigenesis in a mouse skin cancer model. These data suggest that resveratrol, a common constituent of the human diet, merits investigation as a potential cancer chemopreventive agent in humans.",
+  "type": "academic",
+  "pdf_url": ""
+}

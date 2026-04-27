@@ -1,0 +1,24 @@
+{
+  "id": "src-202",
+  "title": "Design of a Continuous GAA-Producing Probiotic as a Potential Mitigator of the Effects of Sleep Deprivation.",
+  "authors": [
+    "Fields, Brandon D.",
+    "Pascal, Daniel G",
+    "Rando, Olivia K",
+    "Huddleston, Mary E.",
+    "Ingram, Katherine",
+    "Hopton, Rachel",
+    "Grogg, Matthew W",
+    "Nelson, M. T.",
+    "Voigt, Christopher A."
+  ],
+  "doi": "10.1021/acssynbio.4c00690",
+  "url": "https://www.semanticscholar.org/paper/fa1669ce1673cb4bf1c520cca645cafbc41c8686",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "ACS Synthetic Biology",
+  "citation_count": 0,
+  "abstract": "Creatine is a popular athletic supplement that has also been shown to improve cognitive performance upon sleep deprivation. However, it is rapidly cleared from the gastrointestinal tract a few hours after consumption. Toward providing a persistent creatine dose, we engineered the human probiotic Escherichia coli Nissle (EcN) to produce guanidinoacetic acid (GAA), which is converted to creatine in the liver. We find GAA-producing enzymes present in the human microbiome and compare their activities to known enzymes. Three copies of arginine:glycine amidinotransferase (AGAT) from Actinokineospora terrae are expressed from the genome, and native gcvP, argR, and argA are edited or deleted to improve substrate availability without negatively impacting cell viability. A standard EcN dose (1012 cells) produces 41 ± 7 mg GAA per hour under laboratory conditions. This work demonstrates that a probiotic bacterium can be engineered to produce sustained GAA titers known to impact cognitive performance.",
+  "type": "academic",
+  "pdf_url": ""
+}

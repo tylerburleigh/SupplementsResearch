@@ -1,0 +1,36 @@
+{
+  "id": "src-190",
+  "title": "Comparison of tWo hospital quality Improvement interventions on inappropriate measurement and SupplEmentation of vitamin D: the WISE-D study",
+  "authors": [
+    "Balsiger, Jerome K.",
+    "Dettwiler, Raphael",
+    "Mooser, Blandine",
+    "Da Cunha Gonçalves, Leonel",
+    "Méan, Marie",
+    "Aubert, Carole Elodie"
+  ],
+  "year": 2026,
+  "abstract": "",
+  "doi": "10.1186/s12877-026-07220-4",
+  "url": "https://doi.org/10.1186/s12877-026-07220-4",
+  "pdf_url": "",
+  "venue": "BMC Geriatrics",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T21:06:33.791384+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-190.md",
+  "quality_details": {
+    "content_length": 39602,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "src-107",
+  "title": "A roadmap to build a phenotypic metric of ageing: insights from the Baltimore Longitudinal Study of Aging",
+  "authors": [
+    "Kuo, Pei-Lun",
+    "Schrack, Jennifer A.",
+    "Shardell, Michelle",
+    "Levine, Morgan E.",
+    "Moore, Ann Zenobia",
+    "An, Yang",
+    "Elango, Palchamy",
+    "Karikkineth, Ajoy",
+    "Tanaka, Toshiko",
+    "Cabo, R. de",
+    "Zukley, Linda",
+    "AlGhatrif, Majd",
+    "Chia, Chee W.",
+    "Simonsick, Eleanor M.",
+    "Egan, Josephine M.",
+    "Resnick, Susan M.",
+    "Ferrucci, Luigi"
+  ],
+  "doi": "10.1111/joim.13024",
+  "url": "https://openalex.org/W3008932332",
+  "provider": "openalex",
+  "year": 2020,
+  "venue": "Journal of Internal Medicine",
+  "citation_count": 132,
+  "abstract": "Over the past three decades, considerable effort has been dedicated to quantifying the pace of ageing yet identifying the most essential metrics of ageing remains challenging due to lack of comprehensive measurements and heterogeneity of the ageing processes. Most of the previously proposed metrics of ageing have been emerged from cross-sectional associations with chronological age and predictive accuracy of mortality, thus lacking a conceptual model of functional or phenotypic domains. Further, such models may be biased by selective attrition and are unable to address underlying biological constructs contributing to functional markers of age-related decline. Using longitudinal data from the Baltimore Longitudinal Study of Aging (BLSA), we propose a conceptual framework to identify metrics of ageing that may capture the hierarchical and temporal relationships between functional ageing, phenotypic ageing and biological ageing based on four hypothesized domains: body composition, energy regulation, homeostatic mechanisms and neurodegeneration/neuroplasticity. We explored the longitudinal trajectories of key variables within these phenotypes using linear mixed-effects models and more than 10 years of data. Understanding the longitudinal trajectories across these domains in the BLSA provides a reference for researchers, informs future refinement of the phenotypic ageing framework and establishes a solid foundation for future models of biological ageing.",
+  "type": "academic",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/joim.13024"
+}

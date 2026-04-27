@@ -1,0 +1,22 @@
+{
+  "id": "src-186",
+  "title": "Diagnostic Accuracy of Point-of-Care Tests to Diagnose Vitamin D Deficiency in Adults and Children: Systematic Review",
+  "authors": [
+    "Murphy, Jacqueline",
+    "Kang, Youngjoon",
+    "Turner, P.",
+    "Roberts, Nia W.",
+    "Hayward, Gail N.",
+    "Bird, Chris",
+    "Fanshawe, Thomas R."
+  ],
+  "doi": "10.3390/diagnostics16081129",
+  "url": "https://www.semanticscholar.org/paper/636abee5bad6434ccc03ae4a8f01068231ab9e7b",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "Diagnostics",
+  "citation_count": 0,
+  "abstract": "Background/Objectives: Compared to conventional test methods, point-of-care tests (POCTs) offer advantages for optimising care in patient groups at risk of vitamin D deficiency. However, their diagnostic accuracy in clinical settings has not previously been systematically assessed. We conducted a systematic review to assess the diagnostic accuracy of current point-of-care technology (POCT) for diagnosing vitamin D deficiency in adults and children. Methods: We searched Embase, MEDLINE and Web of Science on 3 December 2024 and also conducted forward and backward citation searching. We included studies from all patient groups and clinical settings where the index test had been conducted and processed at point of care, with a comparator of any laboratory reference standard test. We assessed risk of bias and applicability concerns for the included studies using published tools. The review was registered in advance (PROSPERO reference CRD42024618338). Results: After screening, five articles relating to four studies were included. These assessed five index POCTs against reference standard laboratory tests (liquid chromatography tandem mass spectrometry in three of the four included studies). The number of samples per comparison ranged from 6 to 20. There was variation in the level of agreement between POCT and laboratory reference standard tests. We also identified incomplete reporting of key study features, which prevented definitive assessment of several domains of the risk of bias and applicability tools. Conclusions: There is currently insufficient peer-reviewed evidence from clinical evaluations to recommend any particular POCT for vitamin D. Future studies should recruit adequate sample size and complete reporting of study design features and diagnostic accuracy measures.",
+  "type": "academic",
+  "pdf_url": ""
+}

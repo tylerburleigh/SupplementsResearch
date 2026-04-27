@@ -1,0 +1,15 @@
+70	2	Summary
+92	2	Introduction
+155	2	Results
+627	2	Discussion
+962	2	Supplemental Information
+965	2	Acknowledgments
+985	2	Author Contributions
+996	2	Declaration Of Interests
+1003	2	References
+1375	2	Key Resources Table
+1429	2	Resource Availability
+1439	2	Experimental Model And Subject Details
+1499	2	2. Adipose
+1556	2	Method Details
+1714	2	Quantification And Statistical Analysis

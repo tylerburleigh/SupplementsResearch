@@ -1,0 +1,21 @@
+{
+  "id": "src-136",
+  "title": "Preoperative Serum Ferritin Level and Acute Kidney Injury after Pediatric Cardiac Surgery",
+  "authors": [
+    "Cao, L.",
+    "Xiong, C.",
+    "Bie, D.",
+    "Jia, Y.",
+    "Yuan, S.",
+    "Wang, J."
+  ],
+  "doi": "10.1101/2024.12.17.24319197",
+  "url": "https://www.semanticscholar.org/paper/50bda82a5b01fadcef130c158a0efd37dac95992",
+  "provider": "semantic_scholar",
+  "year": 2024,
+  "venue": "medRxiv",
+  "citation_count": 0,
+  "abstract": "Background: Acute kidney injury (AKI) is a significant complication in pediatric patients undergoing cardiac surgery. Iron metabolism-related indicators such as ferritin may predict AKI after adult cardiac surgery. However, it remains unclear whether ferritin can be used as a predictor of AKI after pediatric cardiac surgery. This study aims to investigate the association between preoperative serum ferritin levels and the risk of AKI in pediatric population. Methods: A prospective observational cohort study included 6088 pediatric patients (aged <16 years) who underwent cardiac surgery between 2022 and 2023 in Fuwai hospital. Preoperative serum ferritin levels were measured. The primary outcome was the occurrence of AKI within 7 days postoperatively, diagnosed per KDIGO criteria. Secondary outcomes included severe AKI (KDIGO stages 2 and 3), postoperative dialysis, and in-hospital mortality. Results: The preoperative serum ferritin demonstrated a J-shaped association with the occurrence of AKI. Categorically, higher serum ferritin levels (>300g/L, 150-300g/L and 80.6-150g/L) significantly increased the risk of AKI compared to lower level (40-80.6g/L) (adjusted OR, 3.468; 95% CI, 1.911-6.291; adjusted OR, 3.142; 95% CI, 2.037-4.8451; and adjusted OR, 1.880; 95% CI, 1.299-2.495; respectively). The risk of stage 2 and stage 3 AKI significantly increased with higher serum ferritin categories compared to lower level (adjusted OR, 4.428; 95% CI, 1.631-12.026; adjusted OR, 3.707; 95% CI, 1.710-8.035; and adjusted OR, 2.345; 95% CI, 1.220-4.505; respectively). As a continuous variable, consistent with categorical variables, elevated serum ferritin levels (>80.6g/L) independently predicted AKI (adjusted OR, 1.001; 95% CI, 1.000-1.002). Conclusions: This study highlights the importance of preoperative serum ferritin levels in predicting AKI risk in pediatric patients undergoing cardiac surgery. Further research is warranted to elucidate the underlying mechanisms and explore the therapeutic implications of ferritin monitoring in clinical practice. Registration: URL: https://www.clinicaltrials.gov; Unique identifier: NCT05489263.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.1101/2024.12.17.24319197"
+}

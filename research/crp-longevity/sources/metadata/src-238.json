@@ -1,0 +1,17 @@
+{
+  "id": "src-238",
+  "title": "Vitamin D deficiency and C-reactive protein: a bidirectional Mendelian randomization study",
+  "authors": [
+    "Zhou, Ang",
+    "Hyppönen, E."
+  ],
+  "doi": "10.1093/ije/dyac087",
+  "url": "https://www.semanticscholar.org/paper/db304197c0f42e80c9140995178cc69a60be9715",
+  "provider": "semantic_scholar",
+  "year": 2022,
+  "venue": "International Journal of Epidemiology",
+  "citation_count": 19,
+  "abstract": "Abstract Background Low vitamin D status is often associated with systemic low-grade inflammation as reflected by elevated C-reactive protein (CRP) levels. We investigated the causality and direction of the association between vitamin D status and CRP using linear and non-linear Mendelian randomization (MR) analyses. Methods MR analyses were conducted using data from 294 970 unrelated participants of White-British ancestry from the UK Biobank. Serum 25-hydroxyvitamin D [25(OH)D] and CRP concentrations were instrumented using 35 and 46 genome-wide significant variants, respectively. Results In non-linear MR analysis, genetically predicted serum 25(OH)D had an L-shaped association with serum CRP, where CRP levels decreased sharply with increasing 25(OH)D concentration for participants within the deficiency range (<25 nmol/L) and levelled off at ∼50 nmol/L of 25(OH)D (Pnon-linear = 1.49E-4). Analyses using several pleiotropy-robust methods provided consistent results in stratified MR analyses, confirming the inverse association between 25(OH)D and CRP in the deficiency range (P = 1.10E-05) but not with higher concentrations. Neither linear or non-linear MR analysis supported a causal effect of serum CRP level on 25(OH)D concentration (Plinear = 0.32 and Pnon-linear = 0.76). Conclusion The observed association between 25(OH)D and CRP is likely to be caused by vitamin D deficiency. Correction of low vitamin D status may reduce chronic inflammation.",
+  "type": "academic",
+  "pdf_url": "https://academic.oup.com/ije/advance-article-pdf/doi/10.1093/ije/dyac087/43723941/dyac087.pdf"
+}

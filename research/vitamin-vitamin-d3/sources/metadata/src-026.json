@@ -1,0 +1,32 @@
+{
+  "id": "src-026",
+  "title": "Vitamin D Supplementation in Critically Ill Patients: A Meta-Analysis of Randomized Controlled Trials",
+  "authors": [
+    "Singh, Sahib",
+    "Sarkar, Sauradeep",
+    "Gupta, Kushagra",
+    "Rout, Amit"
+  ],
+  "year": 2022,
+  "abstract": "",
+  "doi": "10.7759/cureus.24625",
+  "url": "https://doi.org/10.7759/cureus.24625",
+  "pdf_url": "",
+  "venue": "Cureus",
+  "citation_count": 5,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T20:57:16.808620+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-026.md",
+  "quality_details": {
+    "content_length": 31788,
+    "alpha_ratio": 0.679,
+    "sentence_count": 327,
+    "reasons": []
+  }
+}

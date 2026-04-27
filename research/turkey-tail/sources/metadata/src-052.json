@@ -1,0 +1,24 @@
+{
+  "id": "src-052",
+  "title": "Methodologies for Quantitative Systems Pharmacology (QSP) Models: Design and Estimation.",
+  "authors": [
+    "Ribba, B",
+    "Grimm, H P",
+    "Agoram, B",
+    "Davies, M R",
+    "Gadkar, K",
+    "Niederer, S",
+    "van Riel, N",
+    "Timmis, J",
+    "van der Graaf, P H"
+  ],
+  "doi": "10.1002/psp4.12206",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/28585415",
+  "provider": "pubmed",
+  "year": 2017,
+  "venue": "CPT: pharmacometrics & systems pharmacology",
+  "citation_count": 0,
+  "abstract": "With the increased interest in the application of quantitative systems pharmacology (QSP) models within medicine research and development, there is an increasing need to formalize model development and verification aspects. In February 2016, a workshop was held at Roche Pharma Research and Early Development to focus discussions on two critical methodological aspects of QSP model development: optimal structural granularity and parameter estimation. We here report in a perspective article a summary of presentations and discussions.",
+  "type": "academic",
+  "pdf_url": ""
+}

@@ -1,0 +1,32 @@
+{
+  "id": "src-040",
+  "title": "The Biology of Proteostasis in Aging and Disease",
+  "authors": [
+    "Labbadia, Johnathan",
+    "Morimoto, Richard I"
+  ],
+  "year": 2015,
+  "abstract": "Loss of protein homeostasis (proteostasis) is a common feature of aging and disease that is characterized by the appearance of nonnative protein aggregates in various tissues. Protein aggregation is routinely suppressed by the proteostasis network (PN), a collection of macromolecular machines that operate in diverse ways to maintain proteome integrity across subcellular compartments and between tissues to ensure a healthy life span. Here, we review the composition, function, and organizational properties of the PN in the context of individual cells and entire organisms and discuss the mechanisms by which disruption of the PN, and related stress response pathways, contributes to the initiation and progression of disease. We explore emerging evidence that disease susceptibility arises from early changes in the composition and activity of the PN and propose that a more complete understanding of the temporal and spatial properties of the PN will enhance our ability to develop effective treatments for protein conformational diseases.",
+  "doi": "10.1146/annurev-biochem-060614-033955",
+  "url": "https://doi.org/10.1146/annurev-biochem-060614-033955",
+  "pdf_url": "",
+  "venue": "Annual Review of Biochemistry",
+  "citation_count": 1344,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-26T22:41:00.050757+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-040.md",
+  "quality_details": {
+    "content_length": 3617,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

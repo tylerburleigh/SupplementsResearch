@@ -1,0 +1,25 @@
+{
+  "id": "src-311",
+  "title": "Effects of Nicotinamide Mononucleotide Supplementation on Blood Pressure: A Systematic Review and Meta-Analysis of Randomized Controlled Trials.",
+  "authors": [
+    "Zhang, Mu",
+    "Chen, Yingci",
+    "Jiang, Nan",
+    "Zeng, Jingjing",
+    "Zhang, Jianyun",
+    "Wu, Chenyang",
+    "Liu, Yingying",
+    "Nie, Zizheng",
+    "Yang, Jun",
+    "Han, Shufen"
+  ],
+  "doi": "10.3390/nu18060890",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41901064",
+  "provider": "pubmed",
+  "year": 2026,
+  "venue": "Nutrients",
+  "citation_count": 0,
+  "abstract": "Background/Objectives: High blood pressure remains a primary modifiable risk factor for cardiovascular disease. Nicotinamide mononucleotide (NMN) has emerged as a promising supplement; however, its efficacy with respect to blood pressure in humans is unclear. This meta-analysis systematically evaluated the effects of various NMN supplements on resting systolic blood pressure (SBP) and diastolic blood pressure (DBP) in adults with elevated blood pressure. Methods: A systematic literature search was conducted to identify eligible randomized controlled trials (RCTs) using the databases PubMed/MEDLINE, Scopus, Web of Science, and EBSCO from their inception to 13 December 2025. R software was used to combine the data from the included original trials using a common-effects model. Subgroup analyses were performed based on age, baseline body mass index, geographical location, intervention duration, NMN dosage, and baseline blood pressure. Results: A total of 349 participants from 10 RCTs with 11 intervention arms were included. Compared with the placebo, NMN supplementation was associated with a statistically significant but modest reduction in resting DBP (WMD, -2.15 mmHg; 95% CI: -3.68 to -0.61). In contrast, the reduction in resting SBP was not statistically significant. Notably, subgroup analyses revealed that NMN supplementation resulted in a significant reduction in SBP specifically among participants aged 60 years and older (WMD: -3.94 mmHg; 95% CI: -7.06 to -0.82). Conclusions: Our findings provide preliminary and suggestive evidence that NMN supplementation may be associated with a small reduction in resting DBP and a modest beneficial effect on resting SBP in adults aged 60 years and older. However, the potential of NMN as a viable candidate for early-stage blood pressure management requires confirmation through long-term, large-scale, high-quality RCTs in future clinical studies.",
+  "type": "academic",
+  "pdf_url": ""
+}

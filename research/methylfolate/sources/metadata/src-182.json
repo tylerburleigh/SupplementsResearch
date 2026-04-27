@@ -1,0 +1,20 @@
+{
+  "id": "src-182",
+  "title": "Biomarker-Guided Dietary Supplementation: A Narrative Review of Precision in Personalized Nutrition",
+  "authors": [
+    "Pokushalov, Evgeny",
+    "Ponomarenko, Andrey",
+    "Shrainer, Evgenya",
+    "Kudlаy, D.А.",
+    "Miller, Richard"
+  ],
+  "doi": "10.3390/nu16234033",
+  "url": "https://openalex.org/W4404693016",
+  "provider": "openalex",
+  "year": 2024,
+  "venue": "Nutrients",
+  "citation_count": 19,
+  "abstract": "<b>Background:</b> Dietary supplements (DS) are widely used to address nutritional deficiencies and promote health, yet their indiscriminate use often leads to reduced efficacy, adverse effects, and safety concerns. Biomarker-driven approaches have emerged as a promising strategy to optimize DS prescriptions, ensuring precision and reducing risks associated with generic recommendations. <b>Methods:</b> This narrative review synthesizes findings from key studies on biomarker-guided dietary supplementation and the integration of artificial intelligence (AI) in biomarker analysis. Key biomarker categories-genomic, proteomic, metabolomic, lipidomic, microbiome, and immunological-were reviewed, alongside AI applications for interpreting these biomarkers and tailoring supplement prescriptions. <b>Results:</b> Biomarkers enable the identification of deficiencies, metabolic imbalances, and disease predispositions, supporting targeted and safe DS use. For example, genomic markers like MTHFR polymorphisms inform folate supplementation needs, while metabolomic markers such as glucose and insulin levels guide interventions in metabolic disorders. AI-driven tools streamline biomarker interpretation, optimize supplement selection, and enhance therapeutic outcomes by accounting for complex biomarker interactions and individual needs. <b>Limitations:</b> Despite these advancements, AI tools face significant challenges, including reliance on incomplete training datasets and a limited number of clinically validated algorithms. Additionally, most current research focuses on clinical populations, limiting generalizability to healthier populations. Long-term studies remain scarce, raising questions about the sustained efficacy and safety of biomarker-guided supplementation. Regulatory ambiguity further complicates the classification of supplements, especially when combinations exhibit pharmaceutical-like effects. <b>Conclusions:</b> Biomarker-guided DS prescription, augmented by AI, represents a cornerstone of personalized nutrition. While offering significant potential for precision and efficacy, advancing these strategies requires addressing challenges such as incomplete AI data, regulatory uncertainties, and the lack of long-term studies. By overcoming these obstacles, clinicians can better meet individual health needs, prevent diseases, and integrate precision nutrition into routine care.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2072-6643/16/23/4033/pdf?version=1732545853"
+}

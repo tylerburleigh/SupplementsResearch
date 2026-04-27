@@ -1,0 +1,34 @@
+{
+  "id": "src-033",
+  "title": "Anaemia and Iron Deficiency in Athletes",
+  "authors": [
+    "Chatard, Jean-Claude",
+    "Mujika, Inigo",
+    "Guy, Claire",
+    "Lacour, Jean-Ren??"
+  ],
+  "year": 1999,
+  "abstract": "",
+  "doi": "10.2165/00007256-199927040-00003",
+  "url": "https://doi.org/10.2165/00007256-199927040-00003",
+  "pdf_url": "",
+  "venue": "Sports Medicine",
+  "citation_count": 84,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T17:59:00.429358+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-033.md",
+  "quality_details": {
+    "content_length": 21310,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

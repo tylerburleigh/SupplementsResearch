@@ -1,0 +1,29 @@
+{
+  "id": "src-012",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://www.nbcnews.com/health/aging/taurine-longevity-supplement-healthy-aging-study-rcna210604",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-19T11:25:42.575810+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-012.md",
+  "quality_details": {
+    "content_length": 4373,
+    "alpha_ratio": 0.809,
+    "sentence_count": 33,
+    "reasons": [
+      "paywall_page (subscribe)"
+    ]
+  }
+}

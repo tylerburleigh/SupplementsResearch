@@ -1,0 +1,53 @@
+{
+  "id": "src-065",
+  "title": "Senolytics To slOw Progression of Sepsis (STOP-Sepsis) in elderly patients: Study protocol for a multicenter, randomized, adaptive allocation clinical trial",
+  "authors": [
+    "Silva, Milena",
+    "Wacker, David A.",
+    "Driver, Brian E.",
+    "Staugaitis, Abbey",
+    "Niedernhofer, Laura J.",
+    "Schmidt, Elizabeth L.",
+    "Kirkland, James L.",
+    "Tchkonia, Tamara",
+    "Evans, Tamara",
+    "Serrano, Carlos Hines",
+    "Ventz, Steffen",
+    "Koopmeiners, Joseph S.",
+    "Puskarich, Michael A.",
+    "Akpa, Bimaje",
+    "Bhagat, Milind",
+    "Ingraham, Nicholas E.",
+    "Kesler, Sarah M.",
+    "Kubbara, Aahd",
+    "Mahan, Kathleen",
+    "Pendleton, Kathryn M.",
+    "Reilkoff, Ronald A.",
+    "Skolasinski, Steven",
+    "Thorp, Michael"
+  ],
+  "year": 2024,
+  "abstract": "",
+  "doi": "10.1186/s13063-024-08474-2",
+  "url": "https://doi.org/10.1186/s13063-024-08474-2",
+  "pdf_url": "",
+  "venue": "Trials",
+  "citation_count": 8,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-24T12:49:08.569194+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-065.md",
+  "quality_details": {
+    "content_length": 78127,
+    "alpha_ratio": 0.765,
+    "sentence_count": 578,
+    "reasons": [
+      "paywall_page (access this article)"
+    ]
+  }
+}

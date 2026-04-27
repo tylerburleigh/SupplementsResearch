@@ -1,0 +1,29 @@
+{
+  "id": "src-122",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4681825/",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-25T14:55:48.876895+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-122.md",
+  "quality_details": {
+    "content_length": 121933,
+    "alpha_ratio": 0.699,
+    "sentence_count": 2204,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

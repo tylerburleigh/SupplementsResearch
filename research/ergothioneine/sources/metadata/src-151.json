@@ -1,0 +1,18 @@
+{
+  "id": "src-151",
+  "title": "Immuno-detection of OCTN1 (SLC22A4) in HeLa cells and characterization of transport function.",
+  "authors": [
+    "Pochini, Lorena",
+    "Scalise, Mariafrancesca",
+    "Indiveri, Cesare"
+  ],
+  "doi": "10.1016/j.intimp.2015.04.040",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/25937167",
+  "provider": "pubmed",
+  "year": 2015,
+  "venue": "International immunopharmacology",
+  "citation_count": 0,
+  "abstract": "OCTN1 was immuno-detected in the cervical cancer cell HeLa, in which the complete pattern of acetylcholine metabolizing enzymes is expressed. Comparison of immuno-staining intensity of HeLa OCTN1 with the purified recombinant human OCTN1 allowed measuring the specific OCTN1 concentration in the HeLa cell extract and, hence calculating the HeLa OCTN1 specific transport activity that was about 10 nmol×min(-1)×mg protein(-1), measured as uptake of [(3)H]acetylcholine in proteoliposomes reconstituted with HeLa extract. This value was very similar to the specific activity of the recombinant protein. Acetylcholine transport was suppressed by incubation of the protein or proteoliposomes with the anti-OCTN1 antibody and was strongly inhibited by PLP and MTSEA, known inhibitors of OCTN1. The absence of ATP in the internal side of proteoliposomes strongly impaired transport function of both the HeLa and, as expected, the recombinant OCTN1. HeLa OCTN1 was inhibited by spermine, NaCl (Na(+)), TEA, γ-butyrobetaine, choline, acetylcarnitine and ipratropium but not by neostigmine. Besides acetylcholine, choline was taken up by HeLa OCTN1 proteoliposomes. The transporter catalyzed also acetylcholine and choline efflux which, differently from uptake, was not inhibited by MTSEA. Time course of [(3)H]acetylcholine uptake in intact HeLa cells was measured. As in proteoliposomes, acetylcholine transport in intact cells was inhibited by TEA and NaCl. Efflux of [(3)H]acetylcholine occurred in intact cells, as well. The experimental data concur in demonstrating a role of OCTN1 in transporting acetylcholine and choline in HeLa cells.",
+  "type": "academic",
+  "pdf_url": ""
+}

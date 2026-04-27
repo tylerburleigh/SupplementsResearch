@@ -1,0 +1,29 @@
+{
+  "id": "src-004",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://gnosisbylesaffre.com/blog/vitamin-k2-as-mk-7-improves-endothelial-function",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-21T10:51:08.627159+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-004.md",
+  "quality_details": {
+    "content_length": 6346,
+    "alpha_ratio": 0.774,
+    "sentence_count": 40,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

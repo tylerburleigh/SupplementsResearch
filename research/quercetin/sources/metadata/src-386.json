@@ -1,0 +1,26 @@
+{
+  "id": "src-386",
+  "title": "Integration of molecular docking, molecular dynamics and network pharmacology to explore the multi-target pharmacology of fenugreek against diabetes.",
+  "authors": [
+    "Luo, Wenfeng",
+    "Deng, Jie",
+    "He, Jiecheng",
+    "Yin, Liang",
+    "You, Rong",
+    "Zhang, Lingkun",
+    "Shen, Jian",
+    "Han, Zeping",
+    "Xie, Fangmei",
+    "He, Jinhua",
+    "Guan, Yanqing"
+  ],
+  "doi": "10.1111/jcmm.17787",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37257051",
+  "provider": "pubmed",
+  "year": 2023,
+  "venue": "Journal of cellular and molecular medicine",
+  "citation_count": 0,
+  "abstract": "Fenugreek is an ancient herb that has been used for centuries to treat diabetes. However, how the fenugreek-derived chemical compounds work in treating diabetes remains unclarified. Herein, we integrate molecular docking and network pharmacology to elucidate the active constituents and potential mechanisms of fenugreek against diabetes. First, 19 active compounds from fenugreek and 71 key diabetes-related targets were identified through network pharmacology analysis. Then, molecular docking and simulations results suggest diosgenin, luteolin and quercetin against diabetes via regulation of the genes ESR1, CAV1, VEGFA, TP53, CAT, AKT1, IL6 and IL1. These compounds and genes may be key factors of fenugreek in treating diabetes. Cells results demonstrate that fenugreek has good biological safety and can effectively improve the glucose consumption of IR-HepG2 cells. Pathway enrichment analysis revealed that the anti-diabetic effect of fenugreek was regulated by the AGE-RAGE and NF-κB signalling pathways. It is mainly associated with anti-oxidative stress, anti-inflammatory response and β-cell protection. Our study identified the active constituents and potential signalling pathways involved in the anti-diabetic effect of fenugreek. These findings provide a theoretical basis for understanding the mechanism of the anti-diabetic effect of fenugreek. Finally, this study may help for developing anti-diabetic dietary supplements or drugs based on fenugreek.",
+  "type": "academic",
+  "pdf_url": ""
+}

@@ -1,0 +1,39 @@
+{
+  "id": "src-285",
+  "title": "Longevity-Associated Transcription Factor <i>ATF7</i> Promotes Healthspan by Suppressing Cellular Senescence and Systematic Inflammation",
+  "authors": [
+    "Huang, Yaqun",
+    "Ge, Ming-Xia",
+    "Li, Yu-Hong",
+    "Li, Jing-Lin",
+    "Yu, Qin",
+    "Xiao, Fu-Hui",
+    "Ao, Hong-Shun",
+    "Yang, Li-Qin",
+    "Li, Ji",
+    "He, Yonghan",
+    "Kong, Qing-Peng"
+  ],
+  "year": 2022,
+  "abstract": "",
+  "doi": "10.14336/ad.2022.1217",
+  "url": "https://doi.org/10.14336/ad.2022.1217",
+  "pdf_url": "",
+  "venue": "Aging and disease",
+  "citation_count": 4,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T14:16:22.771117+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-285.md",
+  "quality_details": {
+    "content_length": 65751,
+    "alpha_ratio": 0.701,
+    "sentence_count": 669,
+    "reasons": []
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "src-285",
+  "title": "Vitamin D and SARS-CoV2 infection, severity and mortality: A systematic review and meta-analysis",
+  "authors": [
+    "D’Ecclesiis, Oriana",
+    "Gavioli, Costanza",
+    "Martinoli, Chiara",
+    "Raimondi, Sara",
+    "Chiocca, Susanna",
+    "Miccolo, Claudia",
+    "Bossi, Paolo",
+    "Cortinovis, Diego",
+    "Chiaradonna, Ferdinando",
+    "Palorini, Roberta",
+    "Faciotti, Federica",
+    "Bellerba, Federica",
+    "Canova, Stefania",
+    "Jemos, Costantino",
+    "Salé, Emanuela Omodeo",
+    "Gaeta, Aurora",
+    "Zerbato, Barbara",
+    "Gnagnarella, Patrizia",
+    "Gandini, Sara"
+  ],
+  "year": 2022,
+  "abstract": "To assess the evidence on SARS-CoV2 infection and Covid-19 in relation to deficiency and supplementation of vitamin D, we conducted a systematic review up to April 2021. We summarised data from 38 eligible studies, which presented risk estimates for at least one endpoint, including two RCT and 27 cohort-studies: 205565 patients with information on 25OHD status and 2022 taking vitamin D supplementation with a total of 1197 admitted to the ICU or who needed invasive mechanical ventilation or intubation and hospital stay, and more than 910 Covid-19 deaths. Primary outcomes were severity and mortality and the main aim was to evaluate the association with vitamin D supplementation. Random effects models showed that supplementation was associated with a significant lower risk of both Covid-19 severe disease (SRR 0.38, 95% CI 0.20–0.72, 6 studies) and mortality (SRR 0.35, 95% CI 0.17–0.70, 8 studies). There were no statistically significant dose differences between studies: summary estimates with regular doses remain statistically significant, suggesting that higher doses are not necessary. For patients on vitamin D supplementation, a greater reduction in mortality risk emerged in older individuals and at higher latitudes. Regarding the quality of studies, assessed using the New Castle-Ottawa quality scale, the analysis revealed in most cases no statistically significant differences between low, medium or high quality studies. We found significant associations of vitamin D supplementation with Covid-19, encompassing risks of disease worsening and mortality, especially in seasons characterized by 25OHD deficiency and with not severe patients. Dedicated randomized clinical studies are encouraged to confirm these results.",
+  "doi": "10.1371/journal.pone.0268396",
+  "url": "https://doi.org/10.1371/journal.pone.0268396",
+  "pdf_url": "",
+  "venue": "PLOS ONE",
+  "citation_count": 67,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T21:08:32.330157+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-285.md",
+  "quality_details": {
+    "content_length": 81653,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

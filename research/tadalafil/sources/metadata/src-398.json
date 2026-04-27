@@ -1,0 +1,23 @@
+{
+  "id": "src-398",
+  "title": "Soluble guanylyl cyclase: a novel target for the treatment of vascular cognitive impairment?",
+  "authors": [
+    "Nelissen, Ellis",
+    "Schepers, M.",
+    "Ponsaerts, Laura",
+    "Foulquier, S.",
+    "Bronckaers, A.",
+    "Vanmierlo, T.",
+    "Sandner, Peter",
+    "Prickaerts, Jos"
+  ],
+  "doi": "10.1016/j.phrs.2023.106970",
+  "url": "https://www.semanticscholar.org/paper/f4b99bfbf824b992bc3cee6a47031de25c640baa",
+  "provider": "semantic_scholar",
+  "year": 2023,
+  "venue": "Pharmacological Research",
+  "citation_count": 16,
+  "abstract": "Vascular cognitive impairment (VCI) describes neurodegenerative disorders characterized by a vascular component. Pathologically, it involves decreased cerebral blood flow (CBF), white matter lesions, endothelial dysfunction, and blood-brain barrier (BBB) impairments. Molecularly, oxidative stress and inflammation are two of the major underlying mechanisms. Nitric oxide (NO) physiologically stimulates soluble guanylate cyclase (sGC) to induce cGMP production. However, under pathological conditions, NO seems to be at the basis of oxidative stress and inflammation, leading to a decrease in sGC activity and expression. The native form of sGC needs a ferrous heme group bound in order to be sensitive to NO (Fe(II)sGC). Oxidation of sGC leads to the conversion of ferrous to ferric heme (Fe(III)sGC) and even heme-loss (apo-sGC). Both Fe(III)sGC and apo-sGC are insensitive to NO, and the enzyme is therefore inactive. sGC activity can be enhanced either by targeting the NO-sensitive native sGC (Fe(II)sGC), or the inactive, oxidized sGC (Fe(III)sGC) and the heme-free apo-sGC. For this purpose, sGC stimulators acting on Fe(II)sGC and sGC activators acting on Fe(III)sGC/apo-sGC have been developed. These sGC agonists have shown their efficacy in cardiovascular diseases by restoring the physiological and protective functions of the NO-sGC-cGMP pathway, including the reduction of oxidative stress and inflammation, and improvement of vascular functioning. Yet, only very little research has been performed within the cerebrovascular system and VCI pathology when focusing on sGC modulation and its potential protective mechanisms on vascular and neural function. Therefore, within this review, the potential of sGC as a target for treating VCI is highlighted.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.1016/j.phrs.2023.106970"
+}

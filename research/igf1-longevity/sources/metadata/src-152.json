@@ -1,0 +1,19 @@
+{
+  "id": "src-152",
+  "title": "The Attenuation of Insulin/IGF-1 Signaling Pathway Plays a Crucial Role in the Myo-Inositol-Alleviated Aging in Caenorhabditis elegans",
+  "authors": [
+    "Yang, N.",
+    "Chin, Chia-Yu",
+    "Zheng, Ya-Xin",
+    "Lee, Inn"
+  ],
+  "doi": "10.3390/ijms24076194",
+  "url": "https://www.semanticscholar.org/paper/6ccafe7b08949b02279011e85fff068a1e5f8de5",
+  "provider": "semantic_scholar",
+  "year": 2023,
+  "venue": "International Journal of Molecular Sciences",
+  "citation_count": 15,
+  "abstract": "Myo-Inositol (MI) has been shown to alleviate aging in Caenorhabditis (C). elegans. However, the mechanism by which MI alleviates aging remains unclear. In this study, we investigate whether MI can modulate the PI3K so as to attenuate the insulin/IGF-1 signaling (IIS) pathway and exert the longevity effect. The wild-type C. elegans and two mutants of AKT-1 and DAF-16 were used to explore the mechanism of MI so as to extend the lifespan, as well as to improve the health indexes of pharyngeal pumping and body bend, and an aging marker of autofluorescence in the C. elegans. We confirmed that MI could significantly extend the lifespan of C. elegans. MI also ameliorated the pharyngeal pumping and body bend and decreased autofluorescence. We further adopted the approach to reveal the loss-of-function mutants to find the signaling mechanism of MI. The functions of the lifespan-extending, health-improving, and autofluorescence-decreasing effects of MI disappeared in the AKT-1 and DAF-16 mutants. MI could also induce the nuclear localization of the DAF-16. Importantly, we found that MI could dramatically inhibit the phosphoinositide 3-kinase (PI3K) activity in a dose-dependent manner with an IC50 of 90.2 μM for the p110α isoform of the PI3K and 21.7 μM for the p110β. In addition, the downregulation of the PI3K expression and the inhibition of the AKT phosphorylation by MI was also obtained. All these results demonstrate that MI can inhibit the PI3K activity and downregulate the PI3K expression, and the attenuation of the IIS pathway plays a crucial role for MI in alleviating aging in C. elegans.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/1422-0067/24/7/6194/pdf?version=1679907646"
+}

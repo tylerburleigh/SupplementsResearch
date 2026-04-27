@@ -1,0 +1,16 @@
+{
+  "id": "src-145",
+  "title": "Senescence in COPD and Its Comorbidities",
+  "authors": [
+    "Barnes, Peter J."
+  ],
+  "doi": "10.1146/annurev-physiol-022516-034314",
+  "url": "https://openalex.org/W2565550227",
+  "provider": "openalex",
+  "year": 2016,
+  "venue": "Annual Review of Physiology",
+  "citation_count": 254,
+  "abstract": "Chronic obstructive pulmonary disease (COPD) is regarded as a disease of accelerated lung aging. This affliction shows all of the hallmarks of aging, including telomere shortening, cellular senescence, activation of PI3 kinase-mTOR signaling, impaired autophagy, mitochondrial dysfunction, stem cell exhaustion, epigenetic changes, abnormal microRNA profiles, immunosenescence, and a low-grade chronic inflammation (inflammaging). Many of these pathways are driven by chronic exogenous and endogenous oxidative stress. There is also a reduction in antiaging molecules, such as sirtuins and Klotho, which further accelerate the aging process. COPD is associated with several comorbidities (multimorbidity), such as cardiovascular and metabolic diseases, that share the same pathways of accelerated aging. Understanding these mechanisms has helped identify several novel therapeutic targets, and several drugs and dietary interventions are now in development to treat multimorbidity.",
+  "type": "academic",
+  "pdf_url": "https://www.annualreviews.org/doi/pdf/10.1146/annurev-physiol-022516-034314"
+}

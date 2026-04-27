@@ -1,0 +1,20 @@
+{
+  "id": "src-291",
+  "title": "Blood-Brain Barrier: From Physiology to Disease and Back",
+  "authors": [
+    "Sweeney, Melanie D.",
+    "Zhao, Zhen",
+    "Montagne, Axel",
+    "Nelson, Amy R.",
+    "Zloković, Berislav V."
+  ],
+  "doi": "10.1152/physrev.00050.2017",
+  "url": "https://openalex.org/W2895430781",
+  "provider": "openalex",
+  "year": 2018,
+  "venue": "Physiological Reviews",
+  "citation_count": 2087,
+  "abstract": "The blood-brain barrier (BBB) prevents neurotoxic plasma components, blood cells, and pathogens from entering the brain. At the same time, the BBB regulates transport of molecules into and out of the central nervous system (CNS), which maintains tightly controlled chemical composition of the neuronal milieu that is required for proper neuronal functioning. In this review, we first examine molecular and cellular mechanisms underlying the establishment of the BBB. Then, we focus on BBB transport physiology, endothelial and pericyte transporters, and perivascular and paravascular transport. Next, we discuss rare human monogenic neurological disorders with the primary genetic defect in BBB-associated cells demonstrating the link between BBB breakdown and neurodegeneration. Then, we review the effects of genes underlying inheritance and/or increased susceptibility for Alzheimer's disease (AD), Parkinson's disease (PD), Huntington's disease, and amyotrophic lateral sclerosis (ALS) on BBB in relation to other pathologies and neurological deficits. We next examine how BBB dysfunction relates to neurological deficits and other pathologies in the majority of sporadic AD, PD, and ALS cases, multiple sclerosis, other neurodegenerative disorders, and acute CNS disorders such as stroke, traumatic brain injury, spinal cord injury, and epilepsy. Lastly, we discuss BBB-based therapeutic opportunities. We conclude with lessons learned and future directions, with emphasis on technological advances to investigate the BBB functions in the living human brain, and at the molecular and cellular level, and address key unanswered questions.",
+  "type": "academic",
+  "pdf_url": "https://journals.physiology.org/doi/pdf/10.1152/physrev.00050.2017"
+}

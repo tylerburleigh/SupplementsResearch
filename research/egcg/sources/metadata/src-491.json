@@ -1,0 +1,20 @@
+{
+  "id": "src-491",
+  "title": "Green Tea and Coffee Consumption and All-Cause Mortality Among Persons With and Without Stroke or Myocardial Infarction.",
+  "authors": [
+    "Teramoto, Masayuki",
+    "Muraki, Isao",
+    "Yamagishi, Kazumasa",
+    "Tamakoshi, Akiko",
+    "Iso, Hiroyasu"
+  ],
+  "doi": "10.1161/strokeaha.120.032273",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/33535784",
+  "provider": "pubmed",
+  "year": 2021,
+  "venue": "Stroke",
+  "citation_count": 0,
+  "abstract": "BACKGROUND AND PURPOSE: The effect of green tea and coffee consumption on mortality among cardiovascular diseases survivors is unknown. We examined the association between green tea and coffee consumption and mortality among persons with and without stroke or myocardial infarction (MI).\nMETHODS: In the Japan Collaborative Cohort Study, 46 213 participants (478 stroke survivors, 1214 MI survivors, and 44 521 persons without a history of stroke or MI), aged 40 to 79 years at baseline (1988-1990), completed a lifestyle, diet, and medical history questionnaire and were followed up regarding mortality until 2009. The Cox proportional hazard model was used to calculate the multivariable hazard ratios with 95% CIs of all-cause mortality after adjusting for potential confounding factors.\nRESULTS: During the 18.5-year median follow-up period, 9253 cases were documented. Green tea consumption was inversely associated with all-cause mortality among stroke or MI survivors; the multivariable hazard ratios (95% CIs) for stroke survivors were 0.73 (0.42-1.27) for 1 to 6 cups/wk, 0.65 (0.36-1.15) for 1 to 2 cups/d, 0.56 (0.34-0.92) for 3 to 4 cups/d, 0.52 (0.31-0.86) for 5 to 6 cups/d, and 0.38 (0.20-0.71) for ≥7 cups/d, compared with nondrinkers. A similar inverse association was observed for MI survivors, but not evident for those without a history of stroke or MI. Coffee consumption was inversely associated with all-cause mortality in persons without a history of stroke or MI; the multivariable hazard ratios (95% CIs) were 0.86 (0.82-0.91) for 1 to 6 cups/wk, 0.86 (0.80-0.92) for 1 cup/d, and 0.82 (0.77-0.89) for ≥2 cups/d, compared with nondrinkers. The corresponding hazard ratios (95% CIs) for MI survivors were 0.69 (0.53-0.91), 0.78 (0.55-1.10), and 0.61 (0.41-0.90). No such association was observed for stroke survivors.\nCONCLUSIONS: Green tea consumption can be beneficial in improving the prognosis for stroke or MI survivors, whereas coffee consumption can also be so for persons without a history of stroke or MI as well as MI survivors.",
+  "type": "academic",
+  "pdf_url": ""
+}

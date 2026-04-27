@@ -1,0 +1,18 @@
+{
+  "id": "src-080",
+  "title": "Wondrous Yellow Molecule: Are Hydrogels a Successful Strategy to Overcome the Limitations of Curcumin?",
+  "authors": [
+    "Stachowiak, Magdalena",
+    "Młynarczyk, Dariusz T.",
+    "Długaszewska, Jolanta"
+  ],
+  "doi": "10.3390/molecules29081757",
+  "url": "https://openalex.org/W4394750434",
+  "provider": "openalex",
+  "year": 2024,
+  "venue": "Molecules",
+  "citation_count": 13,
+  "abstract": "Curcumin is a natural compound with a great pharmaceutical potential that involves anticancer, anti-inflammatory, antioxidant, and neuroprotective activity. Unfortunately, its low bioavailability, instability, and poor water solubility significantly deteriorate its clinical use. Many attempts have been made to overcome this issue, and encapsulating curcumin in a hydrogel matrix may improve those properties. Hydrogel formulation is used in many drug delivery forms, including classic types and novel forms such as self-assembly systems or responsive to external factors. Reviewed studies confirmed better properties of hydrogel-stabilized curcumin in comparison to pure compound. The main enhanced characteristics were chemical stability, bioavailability, and water solubility, which enabled these systems to be tested for various diseases. These formulations were evaluated for wound healing properties, effectiveness in treating skin diseases, and anticancer and regenerative activity. Hydrogel formulation significantly improved biopharmaceutical properties, opening the opportunity to finally see curcumin as a clinically approved substance and unravel its therapeutic potential.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/1420-3049/29/8/1757/pdf?version=1712926554"
+}

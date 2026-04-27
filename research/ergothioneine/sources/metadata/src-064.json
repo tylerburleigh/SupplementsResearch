@@ -1,0 +1,17 @@
+{
+  "id": "src-064",
+  "title": "The Signaling of Cellular Senescence in Diabetic Nephropathy",
+  "authors": [
+    "Xiong, Yabing",
+    "Zhou, Lili"
+  ],
+  "doi": "10.1155/2019/7495629",
+  "url": "https://openalex.org/W2977880419",
+  "provider": "openalex",
+  "year": 2019,
+  "venue": "Oxidative Medicine and Cellular Longevity",
+  "citation_count": 185,
+  "abstract": "Diabetic nephropathy is the leading cause of chronic kidney disease (CKD) in western countries. Notably, it has a rapidly rising prevalence in China. The patients, commonly complicated with cardiovascular diseases and neurologic disorders, are at high risk to progress into end-stage renal disease (ESRD) and death. However, the pathogenic mechanisms of diabetic nephropathy have not been determined. Cellular senescence, which recently has gained broad attention, is thought to be an important player in the onset and development of diabetic nephropathy. In this issue, we generally review the mechanisms of cellular senescence in diabetic nephropathy, which involve telomere attrition, DNA damage, epigenetic alterations, mitochondrial dysfunction, loss of Klotho, Wnt/<i>β</i>-catenin signaling activation, persistent inflammation, and accumulation of uremic toxins. Moreover, we highlight the potential therapeutic targets of cellular senescence in diabetic nephropathy and provide important clues for clinical strategies.",
+  "type": "academic",
+  "pdf_url": "http://downloads.hindawi.com/journals/omcl/2019/7495629.pdf"
+}

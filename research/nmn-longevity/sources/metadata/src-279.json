@@ -1,0 +1,20 @@
+{
+  "id": "src-279",
+  "title": "The Relationship Between Antibiotic Administration Timing and Short-Term and Long-Term Prognosis in Elderly Septic Patients.",
+  "authors": [
+    "Pan, Yuhui",
+    "Ma, Yanyan",
+    "Wan, Ke",
+    "Wang, Guoxing",
+    "Xie, Miaorong"
+  ],
+  "doi": "10.1177/08850666251387633",
+  "url": "https://www.semanticscholar.org/paper/e12f3a41490a017f36aebc494e1bf5eff8cb1ea9",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "Journal of Intensive Care Medicine",
+  "citation_count": 1,
+  "abstract": "BACKGROUND\nSepsis management in elderly populations presents unique challenges due to age-related physiological changes and comorbidities. Current guidelines remain conflicted regarding optimal antibiotic timing. We conducted a retrospective, multicenter study to evaluate the association between antibiotic administration timing and short-term and long-term outcomes in elderly sepsis patients.\n\nMETHODS\nThis retrospective cohort study analyzed data from the MIMIC-IV (v3.1) database. Patients were categorized into the early group (antibiotics initiated within 1 h) and the late group (antibiotics initiated >1 h after diagnosis). Further analyses were stratified by shock status (septic shock vs non-septic shock) and pathogen type (Gram-positive vs Gram-negative bacteria). Multivariable Cox regression assessed associations between antibiotic administration timing and 28-/180-/365-day hospital mortality. Restricted cubic spline models evaluated dose-response relationships. The primary outcome was 28-day hospital mortality. Secondary outcomes included 180-day and 365-day mortality rates, along with the incidence of continuous renal replacement therapy (CRRT) and mechanical ventilation requirements.\n\nRESULTS\nA total of 12,425 patients met the inclusion criteria from the MIMIC-IV database. The multivariable-adjusted analysis demonstrated that delayed antibiotics administration was significantly associated with a 35% increased risk of 28-day all-cause hospital mortality (HR = 1.35, 95% CI 1.22-1.52; P < 0.001), a 43% elevated 180-day hospital mortality risk (HR = 1.43, 95% CI 1.30-1.56; P < 0.001), and a 45% higher 365-day mortality risk (HR = 1.45, 95% CI 1.33-1.56; P < 0.001). Stratified analyses revealed mortality benefits persisted in non-shock patients (28-day HR = 1.31, P < 0.001) and Gram-positive infections (28-day HR = 1.63, P < 0.001), whereas no significant associations emerged in septic shock (28-day HR = 0.82, 95%CI 0.65-1.03; P = 0.081) or Gram-negative infections (HR = 1.04, 95%CI 0.87-1.24; P = 0.692). A linear relationship was observed between antibiotic delay and mortality (Nonlinear P = 0.88).\n\nCONCLUSIONS\nEarly antibiotic administration improves survival in elderly sepsis patients, particularly non-shock cases and Gram-positive infections. These insights advocate the importance of individualized selection based on patients' clinical context in critical care practice.",
+  "type": "academic",
+  "pdf_url": ""
+}

@@ -1,0 +1,32 @@
+{
+  "id": "src-448",
+  "title": "One-Carbon Metabolism and Colorectal Cancer: Potential Mechanisms of Chemoprevention",
+  "authors": [
+    "Hanley, Matthew P.",
+    "Rosenberg, Daniel W."
+  ],
+  "year": 2015,
+  "abstract": "",
+  "doi": "10.1007/s40495-015-0028-8",
+  "url": "https://doi.org/10.1007/s40495-015-0028-8",
+  "pdf_url": "",
+  "venue": "Current Pharmacology Reports",
+  "citation_count": 18,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-20T13:46:48.171779+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-448.md",
+  "quality_details": {
+    "content_length": 47942,
+    "alpha_ratio": 0.761,
+    "sentence_count": 432,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

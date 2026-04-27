@@ -1,0 +1,20 @@
+{
+  "id": "src-145",
+  "title": "Signaling pathway cross talk in Alzheimer’s disease",
+  "authors": [
+    "Godoy, Juan A.",
+    "Ríos, Juvenal A.",
+    "Zolezzi, Juan M.",
+    "Braidy, Nady",
+    "Inestrosa, Nibaldo C."
+  ],
+  "doi": "10.1186/1478-811x-12-23",
+  "url": "https://openalex.org/W2143284241",
+  "provider": "openalex",
+  "year": 2014,
+  "venue": "Cell Communication and Signaling",
+  "citation_count": 164,
+  "abstract": "Numerous studies suggest energy failure and accumulative intracellular waste play a causal role in the pathogenesis of several neurodegenerative disorders and Alzheimer's disease (AD) in particular. AD is characterized by extracellular amyloid deposits, intracellular neurofibrillary tangles, cholinergic deficits, synaptic loss, inflammation and extensive oxidative stress. These pathobiological changes are accompanied by significant behavioral, motor, and cognitive impairment leading to accelerated mortality. Currently, the potential role of several metabolic pathways associated with AD, including Wnt signaling, 5' adenosine monophosphate-activated protein kinase (AMPK), mammalian target of rapamycin (mTOR), Sirtuin 1 (Sirt1, silent mating-type information regulator 2 homolog 1), and peroxisome proliferator-activated receptor gamma co-activator 1-α (PGC-1α) have widened, with recent discoveries that they are able to modulate several pathological events in AD. These include reduction of amyloid-β aggregation and inflammation, regulation of mitochondrial dynamics, and increased availability of neuronal energy. This review aims to highlight the involvement of these new set of signaling pathways, which we have collectively termed \"anti-ageing pathways\", for their potentiality in multi-target therapies against AD where cellular metabolic processes are severely impaired.",
+  "type": "academic",
+  "pdf_url": "https://biosignaling.biomedcentral.com/counter/pdf/10.1186/1478-811X-12-23"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "src-173",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "",
+  "pdf_url": "http://repository.unair.ac.id/86502/3/Bukti%20C13.%20Validasi.pdf",
+  "venue": "",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "",
+  "fetched_at": "2026-04-23T19:07:37.856680+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-173.md",
+  "quality_details": {
+    "content_length": 624,
+    "alpha_ratio": 0.736,
+    "sentence_count": 4,
+    "reasons": []
+  }
+}

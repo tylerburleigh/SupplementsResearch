@@ -1,0 +1,29 @@
+{
+  "id": "src-284",
+  "title": "Sirtuin 1/sirtuin 3 are robust lysine delactylases and sirtuin 1-mediated delactylation regulates glycolysis",
+  "authors": [
+    "Du, Runhua",
+    "Gao, Yanmei",
+    "Yan, Cong",
+    "Ren, Xuelian",
+    "Qi, Shankang",
+    "Liu, Guobin",
+    "Guo, Xinlong",
+    "Song, Xiaohan",
+    "Wang, Hanmin",
+    "Rao, Jingxin",
+    "Zang, Yi",
+    "Zheng, Mingyue",
+    "Li, Jia",
+    "Huang, He"
+  ],
+  "doi": "10.1016/j.isci.2024.110911",
+  "url": "https://openalex.org/W4402390957",
+  "provider": "openalex",
+  "year": 2024,
+  "venue": "iScience",
+  "citation_count": 85,
+  "abstract": "Lysine lactylation (Kla), an epigenetic mark triggered by lactate during glycolysis, including the Warburg effect, bridges metabolism and gene regulation. Enzymes such as p300 and HDAC1/3 have been pivotal in deciphering the regulatory dynamics of Kla, though questions about additional regulatory enzymes, their specific Kla substrates, and the underlying functional mechanisms persist. Here, we identify SIRT1 and SIRT3 as key \"erasers\" of Kla, shedding light on their selective regulation of both histone and non-histone proteins. Proteomic analysis in SIRT1/SIRT3 knockout HepG2 cells reveals distinct substrate specificities toward Kla, highlighting their unique roles in cellular signaling. Notably, we highlight the role of specific Kla modifications, such as those on the M2 splice isoform of pyruvate kinase (PKM2), in modulating metabolic pathways and cell proliferation, thereby expanding Kla's recognized functions beyond epigenetics. Therefore, this study deepens our understanding of Kla's functional mechanisms and broadens its biological significance.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.1016/j.isci.2024.110911"
+}

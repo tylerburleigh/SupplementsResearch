@@ -1,0 +1,16 @@
+{
+  "id": "src-183",
+  "title": "Vitamins, Vascular Health and Disease",
+  "authors": [
+    "Ayoub, George"
+  ],
+  "doi": "10.3390/nu17182955",
+  "url": "https://openalex.org/W4414182465",
+  "provider": "openalex",
+  "year": 2025,
+  "venue": "Nutrients",
+  "citation_count": 6,
+  "abstract": "Vascular health relies on the proper function of endothelial cells, which regulate vascular tone, blood fluidity, and barrier integrity. Endothelial dysfunction, often aggravated by inadequate vitamin absorption, contributes to a spectrum of clinical disorders, including cardiovascular disease, cerebrovascular disease, peripheral artery disease, age-related macular degeneration, lymphedema, and chronic venous insufficiency. B-group vitamins (especially folate, or vitamin B9), along with vitamins B12, B6, C, D, and E, are essential in maintaining endothelial function, supporting DNA synthesis, regulating methylation, enhancing cellular repair, mitigating oxidative stress and inflammatory signaling, and curtailing vascular damage. Folate is noted for its central function in one-carbon metabolism and in converting homocysteine to methionine, thereby reducing vascular toxicity. We cover natural dietary sources of folate, synthetic folic acid, and the biologically active forms 5-methyl-(6S)-tetrahydrofolate (L-5-MTHF, L-methylfolate) and 5-formyl-(6S)-tetrahydrofolate (levoleucovorin). Therapeutic strategies to address vascular health and prevent hyperhomocysteinemia in order to preclude follow-on disorders include targeted vitamin supplementation, dietary improvements to ensure a sufficient intake of bioavailable nutrient forms, and, in certain clinical contexts, the use of active L-methylfolate or levoleucovorin (a drug product) to bypass metabolic conversion issues. These evidence-based interventions aim to restore endothelial homeostasis, slow disease progression, and improve patient outcomes across a variety of disorders linked to poor vascular health.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2072-6643/17/18/2955/pdf?version=1757925960"
+}

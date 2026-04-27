@@ -1,0 +1,35 @@
+32	2	Keywords
+34	2	1 Introduction
+44	2	Open Access
+45	2	Edited By
+48	2	Reviewed By
+64	2	Citation
+71	2	Copyright
+173	2	2 Materials and methods
+190	3	2.2 Lifespan measurement
+207	3	2.3 Exercise indicator measurement
+222	3	2.4 Reproduction assay
+228	3	2.5 Determination of the effect of curcumin
+237	3	2.6 Stress resistance experiments
+251	4	2.6.1 Thermorecovery assay
+270	4	2.6.2 Fluorescent imaging of oxidative stress
+287	3	2.7 Effect of total antioxidant capacity
+300	3	2.8 Measurement of mitochondrial copy
+328	3	2.9 RNA-seq
+351	3	2.10 Quantitative real-time polymerase
+364	3	2.11 Statistical analysis
+370	2	3 Results
+371	3	3.1 Effect of curcumin on physiological
+412	4	3.1.2 Curcumin did not affect the activity and egg-
+514	3	3.4 Curcumin increases mitochondrial copy
+533	3	3.5 RNA-seq results
+562	4	3.5.3 Functional distribution of DEGs
+599	4	3.5.4 Distribution of the KEGG-based pathway
+683	3	3.6 Curcumin affects the expression of
+718	2	4 Discussion
+768	3	4.2 Anti-aging effects of curcumin
+831	3	4.3 Anti-aging molecular mechanism of
+896	2	5 Conclusion
+919	2	Author Contributions
+943	2	Supplementary Material
+950	2	References

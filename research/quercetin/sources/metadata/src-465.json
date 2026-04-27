@@ -1,0 +1,24 @@
+{
+  "id": "src-465",
+  "title": "The protective effect of quercetin on macrophage pyroptosis via TLR2/Myd88/NF-κB and ROS/AMPK pathway.",
+  "authors": [
+    "Luo, Xing",
+    "Bao, Xiaoyi",
+    "Weng, Xiuzhu",
+    "Bai, Xiaoxuan",
+    "Feng, Yi",
+    "Huang, Jianxin",
+    "Liu, Shaoyu",
+    "Jia, Haibo",
+    "Yu, Bo"
+  ],
+  "doi": "10.1016/j.lfs.2021.120064",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34688696",
+  "provider": "pubmed",
+  "year": 2022,
+  "venue": "Life sciences",
+  "citation_count": 0,
+  "abstract": "AIMS: Pyroptosis is a pro-inflammatory form of programmed cell death, which plays a vital role in the development of inflammatory diseases. As a natural flavonoid, quercetin has been shown to possess anti-inflammatory activity, but its effects on macrophage pyroptosis is still unclear. Therefore, this study aims to investigate the effects of quercetin on macrophage pyroptosis and the underlying mechanism.\nMATERIAL AND METHODS: LPS/ATP treatment was used to induce THP-1 macrophage pyroptosis. Cell counting kit-8 (CCK-8) assay was used to evaluate cell viability. Scanning electron microscope (SEM) was used to detect cell morphology. Hoechst/propidium iodide (PI) staining and lactate dehydrogenase (LDH) assay were performed to evaluate the cell membrane integrity. The expression of key components and effectors of nod-like receptors3 (NLRP3) inflammasome were examined by real-time PCR and western blot. Immunofluorescence staining was used to detect reactive oxygen species (ROS) level and P65 nuclear translocation.\nKEY FINDINGS: Our results showed that quercetin prevented THP-1 macrophage pyroptosis by reducing the expression of NLRP3 and cleaved-caspase1, as well as IL-1β and N-GSDMD in a concentration dependent manner. Quercetin suppressed NLRP3 inflammasome activation by inhibiting ROS overproduction. Moreover, quercetin inhibited the phosphorylation of P65 and its translocation from cytoplasm into nuclear. In addition, we found that quercetin suppressed the increase of TLR2/Myd88 and p-AMPK induced by LPS/ATP, while both TLR2 and AMPK agonist weakened the inhibitory effect of quercetin on the activity of NLRP3 inflammasome and alleviated the protective effect on macrophages pyroptosis.\nSIGNIFICANCE: Quercetin possesses a protective effect on macrophages pyroptosis via TLR2/Myd88/NF-κB and ROS/AMPK pathway.",
+  "type": "academic",
+  "pdf_url": ""
+}

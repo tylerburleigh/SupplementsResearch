@@ -1,0 +1,22 @@
+{
+  "id": "src-596",
+  "title": "Effect of green tea supplementation on blood pressure in adults: a GRADE-assessed systematic review and dose-response meta-analysis of randomised controlled trials",
+  "authors": [
+    "Rezaei, Mahshid",
+    "Akhavan, Neda S.",
+    "Fathi, F.",
+    "Alavi, Seyyed Mohammad",
+    "Fadaii, Mahdiyeh",
+    "Dehzad, Mohammad Jafar",
+    "Askarpour, Moein"
+  ],
+  "doi": "10.1080/08037051.2025.2517122",
+  "url": "https://www.semanticscholar.org/paper/e8cc57c0af15a52c71c84be29b3d7e2d614a4d86",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "Blood Pressure",
+  "citation_count": 3,
+  "abstract": "Abstract Background Hypertension (HTN) is a leading contributor to cardiovascular disease (CVD). Green tea has been proposed as a natural intervention for blood pressure (BP) management due to its antioxidant content. This study aimed to systematically evaluate the effect of green tea supplementation on systolic (SBP) and diastolic blood pressure (DBP) using a meta-analysis of randomised controlled trials (RCTs). Methods Eligibility criteria were defined using the PICOS framework. PubMed, Scopus, and Web of Science were searched through January 2024 for randomised controlled trials in adults (≥18 years) comparing green tea supplementation with control or placebo, reporting pre- and post-intervention systolic and diastolic blood pressure (SBP and DBP). Weighted mean differences (WMDs) and 95% confidence intervals (CIs) were pooled using random-effects models. Subgroup analyses and dose-response analyses were performed. Results A total of 36 RCTs were included. Green tea reduced SBP (WMD: −1.08 mmHg; 95% CI: −1.98, −0.18; I2 = 85.0%) and DBP (WMD: −1.09 mmHg; 95% CI: −1.67, −0.50; I2 = 74.0%). Subgroup analyses showed stronger effects in participants with elevated baseline BP (SBP ≥120 mmHg), those consuming <500 mg/day green tea, studies ≤8 weeks, Asian populations, and women. No clear association was found between BP changes and tea dose or intervention duration. Conclusion Green tea supplementation is associated with modest reductions in SBP and DBP. Given the heterogeneity and lack of clear dose-duration effects, green tea is better considered a complementary approach for managing blood pressure. PLAIN LANGUAGE SUMMARY High blood pressure (BP) is a significant global health issue and a leading risk factor for cardiovascular diseases, including heart attacks and strokes. As the prevalence of hypertension continues to rise, many individuals seek natural and dietary approaches to help manage their condition. Among these, green tea has gained attention due to its high antioxidant content and potential health benefits. Some studies suggest that green tea consumption may contribute to lowering systolic (SBP) and diastolic blood pressure (DBP) by improving blood vessel function and reducing inflammation. However, research findings remain inconsistent, with variations in dosage, duration, and study designs affecting results. Therefore, this study systematically reviews available randomised controlled trials (RCTs) to evaluate the pooled impact of green tea supplementation on BP levels.",
+  "type": "academic",
+  "pdf_url": ""
+}

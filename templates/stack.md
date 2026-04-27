@@ -30,10 +30,10 @@ What this stack targets (e.g., "longevity baseline", "cognitive enhancement", "a
 ## Interaction Check
 
 > [!source] Known synergies
-> Evidence that components enhance each other. [[source]]
+> Evidence that components enhance each other. [[Source Summary Page]]
 
 > [!source] Known conflicts
-> Evidence that components interfere with each other. [[source]]
+> Evidence that components interfere with each other. [[Source Summary Page]]
 
 > [!analysis] Theoretical interactions
 > Plausible but untested interactions, with reasoning.

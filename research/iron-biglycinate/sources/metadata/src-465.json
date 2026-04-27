@@ -1,0 +1,18 @@
+{
+  "id": "src-465",
+  "title": "Effectiveness of iron polymaltose complex in treatment and prevention of iron deficiency anemia in children: a systematic review and meta-analysis",
+  "authors": [
+    "Rosli, Ritzzaleena Rosli Mohd",
+    "Norhayati, Mohd Noor",
+    "Ismail, Shaiful Bahari"
+  ],
+  "doi": "10.7717/peerj.10527",
+  "url": "https://openalex.org/W3120163288",
+  "provider": "openalex",
+  "year": 2021,
+  "venue": "PeerJ",
+  "citation_count": 19,
+  "abstract": "Background Iron deficiency anemia (IDA) is commonly treated with iron formulations. Despite the expanding acceptance of iron polymaltose complex (IPC) among clinicians, there is sparse and contradictory evidence regarding its efficacy in the management of IDA in children. This systematic review and meta-analysis aimed to assess the effectiveness of IPC in the treatment and prevention of IDA in children. Methods We searched the Cochrane Central Register of Controlled Trials, MEDLINE and Epistemonikos for all randomized control trials (RCTs) comparing oral IPC with standard oral iron supplementation for the treatment or prevention of IDA in children. We independently screened the titles and abstracts of identified trials before the full text of relevant trials was evaluated for eligibility. We then independently extracted data on the methods, interventions, outcomes, and risk of bias from the included trials. A random-effects model was used to estimate the risk ratios and mean differences with 95% confidence intervals. Results Eight trials comprising 493 randomized patients were included and analyzed using three comparison groups. The comparison group of which was used to evaluate IPC and ferrous sulphate (FS) for treatment of IDA showed that IPC is less effective in increasing Hb (MD −0.81, 95% CI −1.08 to −0.53; I 2 = 48%, P &lt; 0.001; six studies, 368 participants; high certainty of evidence), ferritin (MD −21.24, 95% CI −39.26 to −3.23, random-effects; I 2 = 65%, P = 0.020; 3 studies, 183 participants; moderate certainty of evidence) and MCV levels (MD −3.20, 95% CI −5.35 to −1.05; P = 0.003; one study, 103 participants; low certainty of evidence). There was no difference in the occurrence of side effects between IPC and FS group (MD 0.78, 95% CI 0.47 to 1.31; I 2 = 4%, P = 0.35; three studies, 274 participants; high certainty of evidence). Conclusions There was moderate to high certainty evidence that FS is superior to IPC with a clinically meaningful difference in improving the Hb and ferritin levels in the treatment of IDA in children. There was no difference in the occurrence of gastrointestinal side effects with high certainty evidence between the IPC and FS groups. The body of evidence did not allow a clear conclusion regarding the effectiveness of IPC with iron gluconate and iron bisglycinate in the prevention and treatment of IDA. The certainty of evidence was low. Adequately powered and high-quality trials with large sample sizes that assess both hematological and clinical outcomes are required. PROSPERO registration number: CRD42019145020",
+  "type": "academic",
+  "pdf_url": "https://peerj.com/articles/10527.pdf"
+}

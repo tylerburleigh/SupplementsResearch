@@ -1,0 +1,29 @@
+{
+  "id": "src-016",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://balkan.ro/en/shop/joint-support-ultra",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-19T13:39:37.386931+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-016.md",
+  "quality_details": {
+    "content_length": 4989,
+    "alpha_ratio": 0.764,
+    "sentence_count": 19,
+    "reasons": [
+      "paywall_page (add to cart)"
+    ]
+  }
+}

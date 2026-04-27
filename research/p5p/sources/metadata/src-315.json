@@ -1,0 +1,20 @@
+{
+  "id": "src-315",
+  "title": "Discovery and inhibition of an interspecies gut bacterial pathway for Levodopa metabolism.",
+  "authors": [
+    "Maini Rekdal, Vayu",
+    "Bess, Elizabeth N",
+    "Bisanz, Jordan E",
+    "Turnbaugh, Peter J",
+    "Balskus, Emily P"
+  ],
+  "doi": "10.1126/science.aau6323",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/31196984",
+  "provider": "pubmed",
+  "year": 2019,
+  "venue": "Science (New York, N.Y.)",
+  "citation_count": 0,
+  "abstract": "The human gut microbiota metabolizes the Parkinson's disease medication Levodopa (l-dopa), potentially reducing drug availability and causing side effects. However, the organisms, genes, and enzymes responsible for this activity in patients and their susceptibility to inhibition by host-targeted drugs are unknown. Here, we describe an interspecies pathway for gut bacterial l-dopa metabolism. Conversion of l-dopa to dopamine by a pyridoxal phosphate-dependent tyrosine decarboxylase from Enterococcus faecalis is followed by transformation of dopamine to m-tyramine by a molybdenum-dependent dehydroxylase from Eggerthella lenta These enzymes predict drug metabolism in complex human gut microbiotas. Although a drug that targets host aromatic amino acid decarboxylase does not prevent gut microbial l-dopa decarboxylation, we identified a compound that inhibits this activity in Parkinson's patient microbiotas and increases l-dopa bioavailability in mice.",
+  "type": "academic",
+  "pdf_url": ""
+}

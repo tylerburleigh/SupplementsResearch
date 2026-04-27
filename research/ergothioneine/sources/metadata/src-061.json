@@ -1,0 +1,22 @@
+{
+  "id": "src-061",
+  "title": "L-(+)-Ergothioneine Significantly Improves the Clinical Characteristics of Preeclampsia in the Reduced Uterine Perfusion Pressure Rat Model",
+  "authors": [
+    "Williamson, Rachel D.",
+    "McCarthy, Fergus P.",
+    "Manna, Samprikta",
+    "Groarke, Emer",
+    "Kell, Douglas B.",
+    "Kenny, Louise C.",
+    "McCarthy, Cathal"
+  ],
+  "doi": "10.1161/hypertensionaha.119.13929",
+  "url": "https://openalex.org/W2997993670",
+  "provider": "openalex",
+  "year": 2019,
+  "venue": "Hypertension",
+  "citation_count": 73,
+  "abstract": "Preeclampsia is a multifactorial hypertensive disorder of pregnancy founded on abnormal placentation, and the resultant placental ischemic microenvironment is thought to play a crucial role in its pathophysiology. Placental ischemia because of fluctuations in the delivery of oxygen results in oxidative stress, and recent evidence suggests that mitochondrial dysfunction may be a prime mediator. However, large clinical trials of therapeutic antioxidants such as vitamins C and E for the treatment of preeclampsia have been disappointing. L-(+)-ergothioneine (ERG)-an unusual amino acid betaine derived from histidine-has important cytoprotective and antioxidant properties under conditions of high oxidative stress. In this study, we investigated the potential therapeutic effects of administration of ERG in the reduced uterine perfusion pressure (RUPP) rat model of preeclampsia. ERG (25 mg/kg per day) was administered to rats on gestational day 11. On gestational day 14, RUPP surgery was performed, and on gestational day 19, blood pressure (mean arterial pressure) and fetal growth were measured. Production of mitochondria-specific H<sub>2</sub>O<sub>2</sub> was analyzed in vivo in kidney samples. ERG ameliorated the hypertension (129±3 versus 115±4 mm Hg; <i>P</i>=0.01; n=8) and significantly increased pup weight in RUPP rats. ERG also significantly decreased circulating levels of antiangiogenic sFlt-1 (soluble fms-like tyrosine kinase-1) in RUPP rats (1367±245 pg/mL; <i>P</i>=0.04). Mitochondria-specific H<sub>2</sub>O<sub>2</sub> (0.022±0.003 versus 0.029±0.001; MitoP/B ratio, n=3; <i>P</i>=0.05) was also significantly decreased in kidney tissue in RUPP rats treated with ERG. These data support the potential use of ERG for the treatment of preeclampsia.",
+  "type": "academic",
+  "pdf_url": "https://www.ahajournals.org/doi/pdf/10.1161/HYPERTENSIONAHA.119.13929"
+}

@@ -1,0 +1,9 @@
+49	2	Open
+107	2	Methods
+210	2	Results
+281	2	Discussion
+564	2	Data Availability
+567	2	References
+693	2	Acknowledgements
+697	2	Author Contributions
+702	2	Competing Interests

@@ -1,0 +1,16 @@
+{
+  "id": "src-374",
+  "title": "Fasting and rapamycin: diabetes versus benevolent glucose intolerance",
+  "authors": [
+    "Blagosklonny, Mikhail V."
+  ],
+  "doi": "10.1038/s41419-019-1822-8",
+  "url": "https://openalex.org/W2968808312",
+  "provider": "openalex",
+  "year": 2019,
+  "venue": "Cell Death and Disease",
+  "citation_count": 71,
+  "abstract": "Rapamycin (Sirolimus) slows aging, extends life span, and prevents age-related diseases, including diabetic complications such as retinopathy. Puzzlingly, rapamycin can induce insulin sensitivity, but may also induce insulin resistance or glucose intolerance without insulin resistance. This mirrors the effect of fasting and very low calorie diets, which improve insulin sensitivity and reverse type 2 diabetes, but also can cause a form of glucose intolerance known as benevolent pseudo-diabetes. There is no indication that starvation (benevolent) pseudo-diabetes is detrimental. By contrast, it is associated with better health and life extension. In transplant patients, a weak association between rapamycin/everolimus use and hyperglycemia is mostly due to a drug interaction with calcineurin inhibitors. When it occurs in cancer patients, the hyperglycemia is mild and reversible. No hyperglycemic effects of rapamycin/everolimus have been detected in healthy people. For antiaging purposes, rapamycin/everolimus can be administrated intermittently (e.g., once a week) in combination with intermittent carbohydrate restriction, physical exercise, and metformin.",
+  "type": "academic",
+  "pdf_url": "https://www.nature.com/articles/s41419-019-1822-8.pdf"
+}

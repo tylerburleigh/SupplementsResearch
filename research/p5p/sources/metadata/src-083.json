@@ -1,0 +1,24 @@
+{
+  "id": "src-083",
+  "title": "What We Know So Far about the Metabolite-Mediated Microbiota-Intestinal Immunity Dialogue and How to Hear the Sound of This Crosstalk",
+  "authors": [
+    "Caffaratti, Clément",
+    "Plazy, Caroline",
+    "Méry, Geoffroy",
+    "Tidjani, Abdoul-Razak",
+    "Fiorini, Federica",
+    "Thiroux, Sarah",
+    "Toussaint, Bertrand",
+    "Hannani, Dalil",
+    "Gouëllec, Audrey Le"
+  ],
+  "doi": "10.3390/metabo11060406",
+  "url": "https://openalex.org/W3173501502",
+  "provider": "openalex",
+  "year": 2021,
+  "venue": "Metabolites",
+  "citation_count": 32,
+  "abstract": "Trillions of microorganisms, termed the \"microbiota\", reside in the mammalian gastrointestinal tract, and collectively participate in regulating the host phenotype. It is now clear that the gut microbiota, metabolites, and intestinal immune function are correlated, and that alterations of the complex and dynamic host-microbiota interactions can have deep consequences for host health. However, the mechanisms by which the immune system regulates the microbiota and by which the microbiota shapes host immunity are still not fully understood. This article discusses the contribution of metabolites in the crosstalk between gut microbiota and immune cells. The identification of key metabolites having a causal effect on immune responses and of the mechanisms involved can contribute to a deeper insight into host-microorganism relationships. This will allow a better understanding of the correlation between dysbiosis, microbial-based dysmetabolism, and pathogenesis, thus creating opportunities to develop microbiota-based therapeutics to improve human health. In particular, we systematically review the role of soluble and membrane-bound microbial metabolites in modulating host immunity in the gut, and of immune cells-derived metabolites affecting the microbiota, while discussing evidence of the bidirectional impact of this crosstalk. Furthermore, we discuss the potential strategies to hear the sound of such metabolite-mediated crosstalk.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2218-1989/11/6/406/pdf?version=1624352986"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "src-157",
+  "title": "The Emerging Role of Senolytics as a Next-Generation Strategy Against Glioma Recurrence: A Narrative Review",
+  "authors": [
+    "Filardo, Andrea",
+    "Coscarella, I.",
+    "Bria, J.",
+    "Vito, A. Di",
+    "Torre, Domenico La",
+    "Chiarella, E.",
+    "Giovinazzo, Adele",
+    "Procopio, Emanuela",
+    "Egiziano, Maria Teresa",
+    "Lavano, Angelo",
+    "Torre, A. Della"
+  ],
+  "doi": "10.3390/cancers18081220",
+  "url": "https://www.semanticscholar.org/paper/5f1895abc7e0ec51b30ce502aea8a4044f22f1b4",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "Cancers",
+  "citation_count": 0,
+  "abstract": "Cellular senescence represents a critical biological paradox in oncology. Although it evolved as a safety mechanism to halt tumorigenesis through stable cell cycle arrest, its persistence in tissues can alter the microenvironment, promoting tumor recurrence. In the context of glioblastoma (GBM), this phenomenon is critically important, as current standard therapies, such as radiotherapy and chemotherapy, inadvertently induce a state of senescence known as “therapy-induced senescence” (TIS). Senescent cells remain metabolically active and acquire a unique Senescence-Associated Secretory Phenotype (SASP), characterized by the release of pro-inflammatory cytokines, proteases, and growth factors. SASP reshapes the tumor microenvironment (TME) through paracrine signals, promoting immunosuppression, invasiveness, drug resistance and tumor recurrence. Different glial populations, including astrocytes, microglia, and oligodendrocyte precursor cells (OPCs), respond differently to senescence, specifically contributing to the creation of a permissive niche for tumor recurrence. To contrast the effects of this phenomenon, a promising therapeutic strategy has emerged, the “one-two punch,” which induces initial DNA damage followed by selective elimination of senescent cells with senolytic drugs. In this review, we analyze in detail the efficacy of targeted synthetic agents, such as the Bcl-2 family inhibitor Navitoclax, and natural bioactive compounds such as Quercetin and Fisetin. The analysis focuses on the molecular mechanisms through which these agents disrupt anti-apoptotic pathways (SCAPs) and inhibit the PI3K/AKT/mTOR axis, restoring sensitivity to apoptosis. We propose that the integration of senolytic adjuvants into standard clinical protocols may represent a crucial frontier for eliminating residual disease reservoirs and we also suggest the possibility of combining them with molecules with neuroprotective action to significantly improve the prognosis in GBM.",
+  "type": "academic",
+  "pdf_url": ""
+}

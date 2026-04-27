@@ -1,0 +1,26 @@
+{
+  "id": "src-091",
+  "title": "Longevity-Associated Transcription Factor ATF7 Promotes Healthspan by Suppressing Cellular Senescence and Systematic Inflammation",
+  "authors": [
+    "Huang, Ya-Qi",
+    "Ge, Mingxia",
+    "Li, Yu-Hong",
+    "Li, Jing-Lin",
+    "Yu, Qin",
+    "Xiao, Fu-Hui",
+    "Ao, H.",
+    "Yang, Li-Qin",
+    "Li, Ji",
+    "He, Yonghan",
+    "Kong, Q."
+  ],
+  "doi": "10.14336/ad.2022.1217",
+  "url": "https://www.semanticscholar.org/paper/a9f7dcab095b22acecba64bb86457d239725cb19",
+  "provider": "semantic_scholar",
+  "year": 2023,
+  "venue": "Aging and Disease",
+  "citation_count": 14,
+  "abstract": "Aging is characterized by persistent low-grade systematic inflammation, which is largely responsible for the occurrence of various age-associated diseases. We and others have previously reported that long-lived people (such as centenarians) can delay the onset of or even escape certain major age-related diseases. Here, by screening blood transcriptome and inflammatory profiles, we found that long-lived individuals had a relatively lower inflammation level (IL6, TNFα), accompanied by up-regulation of activating transcription factor 7 (ATF7). Interestingly, ATF7 expression was gradually reduced during cellular senescence. Loss of ATF7 induced cellular senescence, while overexpression delayed senescence progress and senescence-associated secretory phenotype (SASP) secretion. We showed that the anti-senescence effects of ATF7 were achieved by inhibiting nuclear factor kappa B (NF-κB) signaling and increasing histone H3K9 dimethylation (H3K9me2). In Caenorhabditis elegans, ATF7 overexpression significantly suppressed aging biomarkers and extended lifespan. Our findings suggest that ATF7 is a longevity-promoting factor that lowers cellular senescence and inflammation in long-lived individuals.",
+  "type": "academic",
+  "pdf_url": "http://www.aginganddisease.org/EN/PDF/10.14336/AD.2022.1217"
+}

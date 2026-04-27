@@ -1,0 +1,32 @@
+{
+  "id": "src-076",
+  "title": "Effects of Creatine Monohydrate\n            Supplementation on Muscle, Bone and Brain- Hope or Hype for Older Adults?",
+  "authors": [
+    "Candow, Darren G.",
+    "Moriarty, Terence"
+  ],
+  "year": 2025,
+  "abstract": "",
+  "doi": "10.1007/s11914-024-00895-x",
+  "url": "https://doi.org/10.1007/s11914-024-00895-x",
+  "pdf_url": "",
+  "venue": "Current Osteoporosis Reports",
+  "citation_count": 8,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T13:41:49.751427+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-076.md",
+  "quality_details": {
+    "content_length": 21914,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

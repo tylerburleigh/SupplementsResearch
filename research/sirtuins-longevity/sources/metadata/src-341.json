@@ -1,0 +1,17 @@
+{
+  "id": "src-341",
+  "title": "Mechanisms of Cellular Senescence: Cell Cycle Arrest and Senescence Associated Secretory Phenotype",
+  "authors": [
+    "Kumari, Ruchi",
+    "Jat, Parmjit"
+  ],
+  "doi": "10.3389/fcell.2021.645593",
+  "url": "https://openalex.org/W3146579363",
+  "provider": "openalex",
+  "year": 2021,
+  "venue": "Frontiers in Cell and Developmental Biology",
+  "citation_count": 1512,
+  "abstract": "Cellular senescence is a stable cell cycle arrest that can be triggered in normal cells in response to various intrinsic and extrinsic stimuli, as well as developmental signals. Senescence is considered to be a highly dynamic, multi-step process, during which the properties of senescent cells continuously evolve and diversify in a context dependent manner. It is associated with multiple cellular and molecular changes and distinct phenotypic alterations, including a stable proliferation arrest unresponsive to mitogenic stimuli. Senescent cells remain viable, have alterations in metabolic activity and undergo dramatic changes in gene expression and develop a complex senescence-associated secretory phenotype. Cellular senescence can compromise tissue repair and regeneration, thereby contributing toward aging. Removal of senescent cells can attenuate age-related tissue dysfunction and extend health span. Senescence can also act as a potent anti-tumor mechanism, by preventing proliferation of potentially cancerous cells. It is a cellular program which acts as a double-edged sword, with both beneficial and detrimental effects on the health of the organism, and considered to be an example of evolutionary antagonistic pleiotropy. Activation of the p53/p21<sup>WAF1/CIP1</sup> and p16<sup>INK4A</sup>/pRB tumor suppressor pathways play a central role in regulating senescence. Several other pathways have recently been implicated in mediating senescence and the senescent phenotype. Herein we review the molecular mechanisms that underlie cellular senescence and the senescence associated growth arrest with a particular focus on why cells stop dividing, the stability of the growth arrest, the hypersecretory phenotype and how the different pathways are all integrated.",
+  "type": "academic",
+  "pdf_url": "https://www.frontiersin.org/articles/10.3389/fcell.2021.645593/pdf"
+}

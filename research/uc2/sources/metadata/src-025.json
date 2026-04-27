@@ -1,0 +1,33 @@
+{
+  "id": "src-025",
+  "title": "Efficacy and tolerability of an undenatured type II collagen supplement in modulating knee osteoarthritis symptoms: a multicenter randomized, double-blind, placebo-controlled study",
+  "authors": [
+    "Lugo, James P.",
+    "Saiyed, Zainulabedin M.",
+    "Lane, Nancy E."
+  ],
+  "year": 2015,
+  "abstract": "",
+  "doi": "10.1186/s12937-016-0130-8",
+  "url": "https://doi.org/10.1186/s12937-016-0130-8",
+  "pdf_url": "",
+  "venue": "Nutrition Journal",
+  "citation_count": 123,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-19T13:39:50.422449+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-025.md",
+  "quality_details": {
+    "content_length": 56568,
+    "alpha_ratio": 0.683,
+    "sentence_count": 468,
+    "reasons": [
+      "paywall_page (access this article)"
+    ]
+  }
+}

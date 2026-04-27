@@ -1,0 +1,19 @@
+{
+  "id": "src-281",
+  "title": "P0901 Infliximab chronotherapy: timing of intravenous infliximab administration affects inflammatory markers and clinical outcomes in inflammatory bowel disease",
+  "authors": [
+    "Post, Z.",
+    "Maniak, A.",
+    "Demeo, A.",
+    "Keshavarzian, A."
+  ],
+  "doi": "10.1093/ecco-jcc/jjae190.1075",
+  "url": "https://www.semanticscholar.org/paper/8af6711c9f9718e45c2862f9a7ecc088afdeec7d",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "Journal of Crohn's & Colitis",
+  "citation_count": 0,
+  "abstract": "Inflammatory bowel disease (IBD) is characterized by an exaggerated inflammatory response causing intestinal inflammation. As with most human biological processes, the inflammatory response is controlled by the circadian clock1. Peak inflammatory response occurs in the late evening/early night, with peak TNFα levels at 09:00PM2. We therefore hypothesized that intravenous (IV) infliximab, an anti-TNFα with immediate systemic drug exposure, would be more effective when given prior to peak inflammatory response.\n\nThis retrospective study included IBD patients age>18 who received inpatient infliximab between 1/1/2010 and 11/30/2023. Time and dose of infliximab were documented. Cases were grouped into \"at peak\" or \"late\" (administered between 6:00PM to 12:00AM) and \"before peak\" or \"early\" (administered between 12:00PM to 6:00PM) inflammatory activity. Outcomes assessed were IBD-related readmission and surgery at 30 days, change in c-reactive protein (CRP) at 72 hours and trend over 40 days, and change in albumin at 7 and 30 days. Fisher’s Exact test was used for proportions and simple linear regression for CRP trend.\n\n113 IBD patients were included. Demographics and disease characteristics, including proportion of men, average age, average body mass index, race/ethnicity, disease location/severity and infliximab dose were similar between groups. At first glance, \"late\" group had marginally higher surgery and readmission rates at 30 days compared to \"early\" (9.38% vs 7.41% for surgery and 9.38% vs 8.64% for readmission). However, there were striking differences for women: surgery rates of 15.38% vs 11.11% for \"late\" vs \"early\" compared to 5.26% vs 4.44% in men, and readmission rates of 15.38% vs 8.33% for \"late\" vs \"early\" compared to 5.26% and 8.89% respectively for men [Figure 1]. Rates of 72-hour CRP response were lower in \"late\" compared to \"early\" (71% vs 83%). Over 40 days, \"early\" had a significant improvement in CRP compared to \"late\" (simple linear regression p=0.0582, and p=0.0006 when omitting patients with surgery/readmission at 30 days)[Figure 2]. At 7 days, albumin worsened in \"late\" compared to \"early\" (-17% vs +8% respectively) but improved in both groups at 30 days (+16% vs +29% respectively) compared to baseline.\n\nIBD patients that received IV infliximab \"early\" had 1) lower surgery/readmission rates at 30 days, 2) higher 72-hour CRP response, 3) lower CRP at 30 days, and 4) more favorable change in albumin at 7 and 30 days compared to the \"late\" group. This suggests that IV infliximab administered prior to peak inflammatory response (i.e., before 6 PM) leads to better control of the inflammatory response with improved clinical outcomes.\n\n1. Scheiermann C, Gibbs J, Ince L, Loudon A. Clocking in to immunity. Nat Rev Immunol. 2018;18(7):423-437. doi:10.1038/s41577-018-0008-4\n2. Petrovsky N, Harrison LC. The chronobiology of human cytokine production. Int Rev Immunol. 1998;16(5-6):635-649. doi:10.3109/08830189809043012",
+  "type": "academic",
+  "pdf_url": ""
+}

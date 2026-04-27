@@ -1,0 +1,27 @@
+{
+  "id": "src-124",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "",
+  "pdf_url": "https://pdfs.semanticscholar.org/741a/1914811fc93e66088fc3a80e7d1dca5f4ff2.pdf",
+  "venue": "",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "",
+  "fetched_at": "2026-04-21T19:56:43.823979+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-124.md",
+  "quality_details": {
+    "content_length": 26203,
+    "alpha_ratio": 0.689,
+    "sentence_count": 292,
+    "reasons": []
+  }
+}

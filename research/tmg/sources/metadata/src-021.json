@@ -1,0 +1,30 @@
+{
+  "id": "src-021",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://swansoneurope.com/en/swanson-TMG-(Trimethylglycine).html",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-20T18:23:34.291451+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "empty",
+  "content_file": "sources/src-021.md",
+  "quality_details": {
+    "content_length": 29,
+    "alpha_ratio": 0.793,
+    "sentence_count": 1,
+    "reasons": [
+      "content too short (29 chars < 500)",
+      "few sentences detected (1 < 3)"
+    ]
+  }
+}

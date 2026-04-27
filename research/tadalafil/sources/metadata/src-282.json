@@ -1,0 +1,23 @@
+{
+  "id": "src-282",
+  "title": "Phosphodiesterase-5 Inhibitor Use in Robot Assisted Radical Prostatectomy Patients Is Associated with Reduced Risk of Death: A Propensity Score Matched Analysis of 1,058 Patients.",
+  "authors": [
+    "Lee, Jongsoo",
+    "Kim, Hye Rim",
+    "Heo, Ji Eun",
+    "Jang, Won Sik",
+    "Lee, Kwang Suk",
+    "Kang, Sung Ku",
+    "Han, Hyunho",
+    "Choi, Young Deuk"
+  ],
+  "doi": "10.5534/wjmh.220063",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36649919",
+  "provider": "pubmed",
+  "year": 2023,
+  "venue": "The world journal of men's health",
+  "citation_count": 0,
+  "abstract": "PURPOSE: We investigated whether the use of a phosphodiesterase-5 inhibitor (PDE5i) after robot assited radical prostatectomy has a survival benefit over non-use patients because there are controversial results on the association between PDE5i use and survival outcomes for prostate cancer patients in literature.\nMATERIALS AND METHODS: We designed a retrospective, matched, large-sample cohort study of 5,545 patients who underwent robot assisted radical prostatectomy (RARP) during 2013-2021 in a single institute. The exclusion criteria was patients who were aged >70 years at surgery, American Society of Anesthesiologists (ASA) physical status classification grade 4 or 5, history of other malignancies, patients who started PDE5i 6 months after survery and patients with follow up period less than 24 months after surgery. Among the 1,843 included patients, 1,298 were PDE5i users, and 545 were PDE5i non-users. We performed propensity score matching (PSM) of PDE5i users (n=529) with non-users (n=529) by adjusting for the variables of age, Gleason grade group, pathological T stage, preoperative ASA physical status grade, and International Index of Erectile Function score.\nRESULTS: There were no significant difference in patient characteristics according to PSM. Kaplan-Meier curve revealed the difference of overall survival for PDE5i users and non-users (clustered log-rank test p<0.05). In a stratified Cox regression analysis, PDE5i use after RARP was associated with improved overall survival and reduced risk of death (hazard ratio 0.43; confidence interval 0.24-0.79; p=0.007). The limitation of this study was that the indication for the prescription of PDE5i was not given.\nCONCLUSIONS: PDE5i administration after RARP were associated with overall survival of patients with prostate cancer. A further randomized control trial may reveal whether routine use of PDE5i after prostatectomy can improve survival of prostate cancer patient.",
+  "type": "academic",
+  "pdf_url": ""
+}

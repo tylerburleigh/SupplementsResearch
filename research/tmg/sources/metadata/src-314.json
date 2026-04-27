@@ -1,0 +1,19 @@
+{
+  "id": "src-314",
+  "title": "Cardiometabolic, Lifestyle, and Nutritional Factors in Relation to Varicose Veins: A Mendelian Randomization Study",
+  "authors": [
+    "Yuan, Shuai",
+    "Bruzelius, Maria",
+    "Damrauer, Scott M.",
+    "Larsson, Susanna C."
+  ],
+  "doi": "10.1161/jaha.121.022286",
+  "url": "https://openalex.org/W3207771946",
+  "provider": "openalex",
+  "year": 2021,
+  "venue": "Journal of the American Heart Association",
+  "citation_count": 47,
+  "abstract": "Background We conducted a 2-sample Mendelian randomization study to assess the associations of cardiometabolic, lifestyle, and nutritional factors with varicose veins. Methods and Results Independent single-nucleotide polymorphisms associated with height (positive control), body mass index, type 2 diabetes, diastolic and systolic blood pressure, smoking, alcohol and coffee consumption, 7 circulating vitamins (A, B6, B9, B12, C, 25-hydroxyvitamin D, and E), and 5 circulating minerals (calcium, iron, magnesium, selenium, and zinc) at the genome-wide significance level were used as instrumental variables. Summary-level data for the genetic associations with varicose veins were obtained from the UK Biobank (8763 cases and 352 431 noncases) and the FinnGen consortium (13 928 cases and 153 951 noncases). Genetically predicted higher height, body mass index, smoking, and circulating iron levels were associated with an increased risk of varicose veins. The odds ratios (ORs) per 1-SD increase in the exposure were 1.34 (95% CI, 1.25-1.43) for height, 1.39 (95% CI, 1.27-1.52) for body mass index, 1.12 (95% CI, 1.04-1.22) for the prevalence of smoking initiation, and 1.24 (95% CI, 1.16-1.33) for iron. Higher genetically predicted systolic blood pressure and circulating calcium and zinc levels were associated with a reduced risk of varicose veins, whereas the association for systolic blood pressure did not persist after adjustment for genetically predicted height. The OR was 0.75 (95% CI, 0.62-0.92) per 1-SD increase in calcium levels and 0.97 (95% CI, 0.95-0.98) for zinc. Conclusions This study identified several modifiable risk factors for varicose veins.",
+  "type": "academic",
+  "pdf_url": "https://www.ahajournals.org/doi/pdf/10.1161/JAHA.121.022286"
+}

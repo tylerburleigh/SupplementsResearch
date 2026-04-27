@@ -1,0 +1,20 @@
+{
+  "id": "src-118",
+  "title": "Package delivered: folate receptor-mediated transporters in cancer therapy and diagnosis",
+  "authors": [
+    "Ahmadi, Mohsen",
+    "Ritter, Christoph A.",
+    "Woedtke, Thomas von",
+    "Bekeschus, Sander",
+    "Wende, Kristian"
+  ],
+  "doi": "10.1039/d3sc05539f",
+  "url": "https://openalex.org/W4390939002",
+  "provider": "openalex",
+  "year": 2024,
+  "venue": "Chemical Science",
+  "citation_count": 72,
+  "abstract": "Neoplasias pose a significant threat to aging society, underscoring the urgent need to overcome the limitations of traditional chemotherapy through pioneering strategies. Targeted drug delivery is an evolving frontier in cancer therapy, aiming to enhance treatment efficacy while mitigating undesirable side effects. One promising avenue utilizes cell membrane receptors like the folate receptor to guide drug transporters precisely to malignant cells. Based on the cellular folate receptor as a cancer cell hallmark, targeted nanocarriers and small molecule-drug conjugates have been developed that comprise different (bio) chemistries and/or mechanical properties with individual advantages and challenges. Such modern folic acid-conjugated stimuli-responsive drug transporters provide systemic drug delivery and controlled release, enabling reduced dosages, circumvention of drug resistance, and diminished adverse effects. Since the drug transporters' structure-based <i>de novo</i> design is increasingly relevant for precision cancer remediation and diagnosis, this review seeks to collect and debate the recent approaches to deliver therapeutics or diagnostics based on folic acid conjugated <i>Trojan Horse</i>s and to facilitate the understanding of the relevant chemistry and biochemical pathways. Focusing exemplarily on brain and breast cancer, recent advances spanning 2017 to 2023 in conjugated nanocarriers and small molecule drug conjugates were considered, evaluating the chemical and biological aspects in order to improve accessibility to the field and to bridge chemical and biomedical points of view ultimately guiding future research in FR-targeted cancer therapy and diagnosis.",
+  "type": "academic",
+  "pdf_url": "https://pubs.rsc.org/en/content/articlepdf/2024/sc/d3sc05539f"
+}

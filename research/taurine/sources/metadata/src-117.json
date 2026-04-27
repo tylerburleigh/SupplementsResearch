@@ -1,0 +1,42 @@
+{
+  "id": "src-117",
+  "title": "Mitochondrial dysfunction in the regulation of aging and aging-related diseases",
+  "authors": [
+    "Zhang, Xianhong",
+    "Gao, Yue",
+    "zhang, Siyu",
+    "Wang, Yiqi",
+    "Pei, Xinke",
+    "Chen, Yufei",
+    "Zhang, Jinhui",
+    "Zhang, Yichen",
+    "Du, Yitian",
+    "Hao, Shauilin",
+    "Wang, Yujiong",
+    "Ni, Ting"
+  ],
+  "year": 2025,
+  "abstract": "",
+  "doi": "10.1186/s12964-025-02308-7",
+  "url": "https://doi.org/10.1186/s12964-025-02308-7",
+  "pdf_url": "",
+  "venue": "Cell Communication and Signaling",
+  "citation_count": 71,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-19T11:56:34.289892+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-117.md",
+  "quality_details": {
+    "content_length": 215657,
+    "alpha_ratio": 0.764,
+    "sentence_count": 2137,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

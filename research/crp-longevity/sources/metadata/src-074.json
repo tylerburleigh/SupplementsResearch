@@ -1,0 +1,34 @@
+{
+  "id": "src-074",
+  "title": "Comparison of Familial, Polygenic and Biochemical Predictors of Mortality",
+  "authors": [
+    "Whitfield, John B.",
+    "Colodro-Conde, Lucía",
+    "Timmers, Paul R. H. J.",
+    "Joshi, Peter K.",
+    "Montgomery, Grant W.",
+    "Martin, Nicholas G."
+  ],
+  "year": 2020,
+  "abstract": "AbstractMortality risk is known to be associated with many physiological or biochemical risk factors, and polygenic risk scores (PRSs) may offer an additional or alternative approach to risk stratification. We have compared the predictive value of common biochemical tests, PRSs and information on parental survival in a cohort of twins and their families. Common biochemical test results were available for up to 13,365 apparently healthy men and women, aged 17−93 years (mean 49.0, standard deviation [SD] 13.7) at blood collection. PRSs for longevity were available for 14,169 study participants and reported parental survival for 25,784 participants. A search for information on date and cause of death was conducted through the Australian National Death Index, with median follow-up of 11.3 years. Cox regression was used to evaluate associations with mortality from all causes, cancers, cardiovascular diseases and other causes. Linear relationships with all-cause mortality were strongest for C-reactive protein, gamma-glutamyl transferase, glucose and alkaline phosphatase, with hazard ratios (HRs) of 1.16 (95% CI [1.07, 1.24]), 1.15 (95% CI 1.04–1.21), 1.13 (95% CI [1.08, 1.19]) and 1.11 (95% CI [1.05, 1.88]) per SD difference, respectively. Significant nonlinear effects were found for urea, uric acid and butyrylcholinesterase. Lipid risk factors were not statistically significant for mortality in our cohort. Family history and PRS showed weaker but significant associations with survival, with HR in the range 1.05 to 1.09 per SD difference. In conclusion, biochemical tests currently predict long-term mortality more strongly than genetic scores based on genotyping or on reported parental survival.",
+  "doi": "10.1017/thg.2020.89",
+  "url": "https://doi.org/10.1017/thg.2020.89",
+  "pdf_url": "",
+  "venue": "Twin Research and Human Genetics",
+  "citation_count": 2,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-24T01:08:52.704267+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-074.md",
+  "quality_details": {
+    "content_length": 51117,
+    "alpha_ratio": 0.697,
+    "sentence_count": 745,
+    "reasons": []
+  }
+}

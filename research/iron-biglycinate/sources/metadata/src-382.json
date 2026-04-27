@@ -1,0 +1,17 @@
+{
+  "id": "src-382",
+  "title": "Risk factors for mortality in patients undergoing hemodialysis: A systematic review and meta-analysis.",
+  "authors": [
+    "Ma, Lijie",
+    "Zhao, Sumei"
+  ],
+  "doi": "10.1016/j.ijcard.2017.02.095",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/28341375",
+  "provider": "pubmed",
+  "year": 2017,
+  "venue": "International journal of cardiology",
+  "citation_count": 0,
+  "abstract": "BACKGROUND: No consensus exists regarding the factors influencing mortality in patients undergoing hemodialysis (HD). This meta-analysis aimed to evaluate the impact of various patient characteristics on the risk of mortality in such patients.\nMETHODS: PubMed, Embase, and Cochrane Central were searched for studies evaluating the risk factors for mortality in patients undergoing HD. The factors included age, gender, diabetes mellitus (DM), body mass index (BMI), previous cardiovascular disease (CVD), HD duration, hemoglobin, albumin, white blood cell, C-reactive protein (CRP), parathyroid hormone, total iron binding capacity (TIBC), iron, ln ferritin, adiponectin, apolipoprotein A1 (ApoA1), ApoA2, ApoA3, high-density lipoprotein (HDL), total cholesterol, hemoglobin A1c (HbA1c), serum phosphate, troponin T (TnT), and B-type natriuretic peptide (BNP). Relative risks with 95% confidence intervals were derived. Data were synthesized using the random-effects model.\nRESULTS: Age (per 1-year increment), DM, previous CVD, CRP (higher versus lower), ln ferritin, adiponectin (per 10.0μg/mL increment), HbA1c (higher versus lower), TnT, and BNP were associated with an increased risk of all-cause mortality. BMI (per 1kg/m2 increment), hemoglobin (per 1d/dL increment), albumin (higher versus lower), TIBC, iron, ApoA2, and ApoA3 were associated with reduced risk of all-cause mortality. Age (per 1-year increment), gender (women versus men), DM, previous CVD, HD duration, ln ferritin, HDL, and HbA1c (higher versus lower) significantly increased the risk of cardiac death. Albumin (higher versus lower), TIBC, and ApoA2 had a beneficial impact on the risk of cardiac death.\nCONCLUSIONS: Multiple markers and factors influence the risk of mortality and cardiac death in patients undergoing HD.",
+  "type": "academic",
+  "pdf_url": ""
+}

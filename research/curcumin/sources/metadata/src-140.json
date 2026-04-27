@@ -1,0 +1,35 @@
+{
+  "id": "src-140",
+  "title": "Effects of curcumin on serum inflammatory biomarkers in patients with knee osteoarthritis: a systematic review and meta-analysis of randomized controlled trials",
+  "authors": [
+    "Hsueh, Han-Chien",
+    "Ho, Guan-Ru",
+    "Tzeng, Shiang I.",
+    "Liang, Kai-Hsiang",
+    "Horng, Yi-Shiung"
+  ],
+  "year": 2025,
+  "abstract": "",
+  "doi": "10.1186/s12906-025-04951-6",
+  "url": "https://doi.org/10.1186/s12906-025-04951-6",
+  "pdf_url": "",
+  "venue": "BMC Complementary Medicine and Therapies",
+  "citation_count": 5,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-22T14:36:11.745582+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-140.md",
+  "quality_details": {
+    "content_length": 59745,
+    "alpha_ratio": 0.723,
+    "sentence_count": 613,
+    "reasons": [
+      "paywall_page (access this article)"
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "src-135",
+  "title": "The power to reduce: pyridine nucleotides – small molecules with a multitude of functions",
+  "authors": [
+    "Pollak, Nadine",
+    "Dölle, Christian",
+    "Ziegler, Mathias"
+  ],
+  "doi": "10.1042/bj20061638",
+  "url": "https://openalex.org/W2014880757",
+  "provider": "openalex",
+  "year": 2007,
+  "venue": "Biochemical Journal",
+  "citation_count": 717,
+  "abstract": "The pyridine nucleotides NAD and NADP play vital roles in metabolic conversions as signal transducers and in cellular defence systems. Both coenzymes participate as electron carriers in energy transduction and biosynthetic processes. Their oxidized forms, NAD+ and NADP+, have been identified as important elements of regulatory pathways. In particular, NAD+ serves as a substrate for ADP-ribosylation reactions and for the Sir2 family of NAD+-dependent protein deacetylases as well as a precursor of the calcium mobilizing molecule cADPr (cyclic ADP-ribose). The conversions of NADP+ into the 2'-phosphorylated form of cADPr or to its nicotinic acid derivative, NAADP, also result in the formation of potent intracellular calcium-signalling agents. Perhaps, the most critical function of NADP is in the maintenance of a pool of reducing equivalents which is essential to counteract oxidative damage and for other detoxifying reactions. It is well known that the NADPH/NADP+ ratio is usually kept high, in favour of the reduced form. Research within the past few years has revealed important insights into how the NADPH pool is generated and maintained in different subcellular compartments. Moreover, tremendous progress in the molecular characterization of NAD kinases has established these enzymes as vital factors for cell survival. In the present review, we summarize recent advances in the understanding of the biosynthesis and signalling functions of NAD(P) and highlight the new insights into the molecular mechanisms of NADPH generation and their roles in cell physiology.",
+  "type": "academic",
+  "pdf_url": "https://portlandpress.com/biochemj/article-pdf/402/2/205/646546/bj4020205.pdf"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "src-341",
+  "title": "Caloric restriction mimetics: pinostilbene versus resveratrol regarding SIRT1 and SIRT6 interaction.",
+  "authors": [
+    "Ungurianu, A.",
+    "Margină, D.",
+    "Mihai, D.",
+    "Nicolae, A.",
+    "Drăgoi, C.",
+    "Grădinaru, D.",
+    "Zanfirescu, Anca"
+  ],
+  "doi": "10.1016/j.advms.2024.11.002",
+  "url": "https://www.semanticscholar.org/paper/97c4f0ef3dff5e10465af8dd700d09bf7fd8dbcf",
+  "provider": "semantic_scholar",
+  "year": 2024,
+  "venue": "Advances in Medical Sciences",
+  "citation_count": 6,
+  "abstract": "PURPOSE\nCaloric restriction (CR), the permanent or periodic reduction of caloric intake, is a dietary strategy that promotes longevity and healthspan, yielding multiple beneficial effects, such as improved insulin sensitivity and mitochondrial function, decreased body weight, and mitigation of cardiometabolic risk factors. The purpose of our study was the in silico and in vitro assessment of the effects exerted by pinostilbene on SIRT1 and SIRT6 compared to those of resveratrol, a known activator of these enzymes.\n\nMATERIALS AND METHODS\nMolecular docking was carried out to determine the interactions with SIRT1 and SIRT6 and, further, the effect of pinostilbene on their activity was tested in vitro to evaluate if it parallels resveratrol's effects regarding SIRT activation.\n\nRESULTS\nMolecular docking indicates that resveratrol and pinostilbene bind similarly to SIRT6, while pinostilbene may be able to activate SIRT1 more efficiently than resveratrol. In vitro activity assays showed that while both resveratrol and pinostilbene activate SIRT1 and SIRT6, the concentration-dependent effects differ. For resveratrol, a greater effect was observed at the medium concentration (25 μM), whereas pinostilbene showed a more pronounced activation at the lowest concentration (5 μM).\n\nCONCLUSIONS\nOur results offer a glimpse into the structural features and interactions of pinostilbene and resveratrol with SIRT1 and SIRT6, contributing to understanding their potential roles in various cellular processes regulated by SIRT.",
+  "type": "academic",
+  "pdf_url": ""
+}

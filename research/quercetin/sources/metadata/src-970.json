@@ -1,0 +1,23 @@
+{
+  "id": "src-970",
+  "title": "Selective inhibition of the cytochrome P450 isoform by hyperoside and its potent inhibition of CYP2D6.",
+  "authors": [
+    "Song, Min",
+    "Hong, Miri",
+    "Lee, Min Young",
+    "Jee, Jun-Goo",
+    "Lee, You Mie",
+    "Bae, Jong-Sup",
+    "Jeong, Tae Cheon",
+    "Lee, Sangkyu"
+  ],
+  "doi": "10.1016/j.fct.2013.06.055",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/23835282",
+  "provider": "pubmed",
+  "year": 2013,
+  "venue": "Food and chemical toxicology : an international journal published for the British Industrial Biological Research Association",
+  "citation_count": 0,
+  "abstract": "Hyperoside, quercetin-3-O-galactoside, is a flavonoid isolated from Oenanthe javanica. In the present study, we investigated potential herb-drug inhibitory effects of hyperoside on nine cytochrome P450 (CYP) isoforms in pooled human liver microsomes (HLMs) and human recombinant cDNA expressed CYP using a cocktail probe assay. Hyperoside strongly inhibited CYP2D6-catalyzed dextromethorphan O-demethylation, with IC₅₀ values of 1.2 and 0.81 μM after 0 and 15 min of preincubation, and a Ki value of 2.01 μM in HLMs, respectively. Hyperoside strongly decreased CYP2D6 activity dose-, but not time-, dependently in HLMs. In addition, the Lineweaver-Burk and Secondary plots for the inhibition of CYP2D6 in HLMs fitted a competitive inhibition mode. Furthermore, hyperoside decreased CYP2D6-catalyzed dextromethorphan O-demethylation activity of human recombinant cDNA-expressed CYP2D6, with an IC₅₀ value of 3.87 μM. However, other CYPs were not inhibited significantly by hyperoside. In conclusion, our data demonstrate that hyperoside is a potent selective CYP2D6 inhibitor in HLMs, and suggest that hyperoside might cause herb-drug interactions when co-administrated with CYP2D substrates.",
+  "type": "academic",
+  "pdf_url": ""
+}

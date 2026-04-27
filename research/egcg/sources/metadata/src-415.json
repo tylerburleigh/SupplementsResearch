@@ -1,0 +1,16 @@
+{
+  "id": "src-415",
+  "title": "Dietary Plant Polyphenols: Effects of Food Processing on Their Content and Bioavailability",
+  "authors": [
+    "Arfaoui, Leila"
+  ],
+  "doi": "10.3390/molecules26102959",
+  "url": "https://openalex.org/W3163136832",
+  "provider": "openalex",
+  "year": 2021,
+  "venue": "Molecules",
+  "citation_count": 250,
+  "abstract": "Dietary plant polyphenols are natural bioactive compounds that are increasingly attracting the attention of food scientists and nutritionists because of their nutraceutical properties. In fact, many studies have shown that polyphenol-rich diets have protective effects against most chronic diseases. However, these health benefits are strongly related to both polyphenol content and bioavailability, which in turn depend on their origin, food matrix, processing, digestion, and cellular metabolism. Although most fruits and vegetables are valuable sources of polyphenols, they are not usually consumed raw. Instead, they go through some processing steps, either industrially or domestically (e.g., cooling, heating, drying, fermentation, etc.), that affect their content, bioaccessibility, and bioavailability. This review summarizes the status of knowledge on the possible (positive or negative) effects of commonly used food-processing techniques on phenolic compound content and bioavailability in fruits and vegetables. These effects depend on the plant type and applied processing parameters (type, duration, media, and intensity). This review attempts to shed light on the importance of more comprehensive dietary guidelines that consider the recommendations of processing parameters to take full advantage of phenolic compounds toward healthier foods.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/1420-3049/26/10/2959/pdf?version=1621417017"
+}

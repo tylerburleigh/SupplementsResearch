@@ -1,0 +1,29 @@
+{
+  "id": "src-014",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://stylefox.co/the-research-backed-benefits-of-lions-mane-mushroom",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-23T15:30:35.694873+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-014.md",
+  "quality_details": {
+    "content_length": 4785,
+    "alpha_ratio": 0.8,
+    "sentence_count": 63,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

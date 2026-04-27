@@ -1,0 +1,37 @@
+{
+  "id": "src-033",
+  "title": "Inflammation, Lp(a) and cardiovascular mortality: results from the LURIC study",
+  "authors": [
+    "Wissel, Stephanie",
+    "Scharnagl, Hubert",
+    "Kleber, Marcus E.",
+    "Delgado, Graciela",
+    "Moissl, Angela",
+    "Krämer, Bernhard",
+    "März, Winfried"
+  ],
+  "year": 2025,
+  "abstract": "",
+  "doi": "10.1007/s00392-025-02609-4",
+  "url": "https://doi.org/10.1007/s00392-025-02609-4",
+  "pdf_url": "",
+  "venue": "Clinical Research in Cardiology",
+  "citation_count": 2,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-24T01:04:20.272210+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-033.md",
+  "quality_details": {
+    "content_length": 14661,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

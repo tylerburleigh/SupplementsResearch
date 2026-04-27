@@ -1,0 +1,37 @@
+{
+  "id": "src-031",
+  "title": "Iron deficiency in sports – definition, influence on performance and therapy",
+  "authors": [
+    "Clénin, German",
+    "Cordes, Mareike",
+    "Huber, Andreas",
+    "Schumacher, Yorck  Olaf",
+    "Noack, Patrick",
+    "Scales, John",
+    "Kriemler, Susi"
+  ],
+  "year": 2015,
+  "abstract": "Iron deficiency is frequent among athletes. All types of iron deficiency may affect physical performance and should be treated. The main mechanisms by which sport leads to iron deficiency are increased iron demand, elevated iron loss and blockage of iron absorption due to hepcidin bursts. As a baseline set of blood tests, haemoglobin, haematocrit, mean cellular volume, mean cellular haemoglobin and serum ferritin levels help monitor iron deficiency. In healthy male and female athletes &gt;15 years, ferritin values &lt;15 mcg are equivalent to empty, values from 15 to 30 mcg/l to low iron stores. Therefore a cut-off of 30 mcg/l is appropriate. For children aged from 6–12 years and younger adolescents from 12–15 years, cut-offs of 15 and 20 mcg/l, respectively, are recommended. As an exception in adult elite sports, a ferritin value of 50 mcg/l should be attained in athletes prior to altitude training, as iron demands in these situations are increased.\nTreatment of iron deficiency consists of nutritional counselling, oral iron supplementation or, in specific cases, by intravenous injection. Athletes with repeatedly low ferritin values benefit from intermittent oral substitution. It is important to follow up the athletes on an individual basis, repeating the baseline blood tests listed above twice a year. A long-term daily oral iron intake or i.v. supplementation in the presence of normal or even high ferritin values does not make sense and may be harmful.",
+  "doi": "10.4414/smw.2015.14196",
+  "url": "https://doi.org/10.4414/smw.2015.14196",
+  "pdf_url": "",
+  "venue": "Swiss Medical Weekly",
+  "citation_count": 72,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T17:57:33.081552+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-031.md",
+  "quality_details": {
+    "content_length": 22364,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

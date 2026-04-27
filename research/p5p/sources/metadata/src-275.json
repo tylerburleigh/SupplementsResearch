@@ -1,0 +1,21 @@
+{
+  "id": "src-275",
+  "title": "Bile Acids and Tryptophan Metabolism Are Novel Pathways Involved in Metabolic Abnormalities in BPA-Exposed Pregnant Mice and Male Offspring",
+  "authors": [
+    "Susiarjo, Martha",
+    "Xin, Frances",
+    "Stefaniak, Martha",
+    "Mesaros, Clementina",
+    "Simmons, Rebecca A.",
+    "Bartolomei, Marisa S."
+  ],
+  "doi": "10.1210/en.2017-00046",
+  "url": "https://openalex.org/W2619994921",
+  "provider": "openalex",
+  "year": 2017,
+  "venue": "Endocrinology",
+  "citation_count": 40,
+  "abstract": "Increasing evidence has demonstrated that exposure to endocrine-disrupting chemicals impacts maternal and fetal health, but the underlying mechanisms are still unclear. We previously showed that dietary exposure to 10 µg/kg body weight (bw)/d and 10 mg/kg bw/d of bisphenol A (BPA) during pregnancy induced metabolic abnormalities in F1 male offspring and gestational glucose intolerance in F0 pregnant mice. The aim of this study was to elucidate the underlying etiologies of BPA exposure-induced metabolic disease by analyzing the male fetal liver metabolome. Using the Metabolon Discover HD4 Platform, our laboratory identified metabolic pathways that were altered by BPA exposure, including biochemicals in lipid and amino acid metabolism. Specifically, primary and secondary bile acids were increased in liver from BPA-exposed embryonic day 18.5 male fetuses. We subsequently showed that increased bile acid was associated with a defective farnesoid X receptor-dependent negative feedback mechanism in BPA-exposed fetuses. In addition, through metabolomics, we observed that BPA-exposed fetuses had elevated tryptophan levels. Independent liquid chromatography and mass spectrometry measurement revealed that BPA-exposed dams also had increased tryptophan levels relative to those of controls. Because several key enzymes in tryptophan catabolism are vitamin B6 dependent and vitamin B6 deficiencies have been linked to gestational diabetes, we tested the impact of vitamin B6 supplementation and showed that it rescued gestational glucose intolerance in BPA-exposed pregnant mice. Our study has therefore identified two pathways (bile acid and tryptophan metabolism) that potentially underlie BPA-induced maternal and fetal metabolic disease.",
+  "type": "academic",
+  "pdf_url": "https://academic.oup.com/endo/article-pdf/158/8/2533/19380516/en.2017-00046.pdf"
+}

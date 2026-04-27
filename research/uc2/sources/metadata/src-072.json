@@ -1,0 +1,33 @@
+{
+  "id": "src-072",
+  "title": "Ways to optimize the management of lower back pain patients at the outpatient stage",
+  "authors": [
+    "Shavlovskaya, O.A.",
+    "Romanov, I.D.",
+    "Bokova, I.A."
+  ],
+  "year": 2025,
+  "abstract": "Objective. To assess the effectiveness of treating patients with lower back pain (LBP) by evaluating the impact on the severity of pain syndrome with the inclusion of chondroprotectors (CP) in parenteral and oral forms (intramuscularly (i.m.) administered Chondroguard, per oral (p/o) administered pharmaconutrient Chondroguard TRIO) in the treatment regimen. Material and methods. The treatment results are analyzed of 90 patients aged 18 to 45 (mean age 28.5±6.2 years) with a confirmed diagnosis of LBP. The patients were divided into three groups based on the prescribed treatment regimen. Group 1 patients (n=30; mean age 29.3±6.3 years) received meloxicam 7.5 mg 2 p/day for 10 days+tolperisone 150 mg 2 p/day for 10 days+B vitamin complex p/o 1 pills 1 p/day for 14 days (standard therapy, ST); Group 2 (n=30; mean age 30.2±6.5 years) ST+chondroitin sulfate (CS) preparation Chondroguard i.m. every other day, the first 3 injections (1st, 3rd, 5th days) — 1 ml (100 mg), with good tolerability from the 4th injection (day 7) — 2 ml (200 mg); Group 3 (n=30; mean age 29.7±5.7 years). ST+i.m. Chondroguard followed by per oral administration of the combined pharmaconutraceutical Chondroguard TRIO (1200 mg CS)+Glucosamine sulfate (GS, 1500 mg)+udenatured type II collagen (UC-II, 40 mg), 1 sachet/day for 2 months. Results. All treatment regimens for patients with LBP at the outpatient stage demonstrated positive dynamics of pain syndrome regression. On group 3, the best results were noted in terms of pain reduction from the initial level on the numerical rating scale (NRS) and prolongation of the effect (more than 2 months). When using Chondroguard TRIO, no adverse events were observed in any of the patients, and good tolerance of the drug and high patient adherence to the treatment were noted. Conclusion. In the treatment of patients with LBP, it is advisable to use chondroprotectors containing disease-modifying molecules, such as CS, GS, and UC-II, in addition to ST.",
+  "doi": "10.17116/jnevro2025125121148",
+  "url": "https://doi.org/10.17116/jnevro2025125121148",
+  "pdf_url": "",
+  "venue": "S.S. Korsakov Journal of Neurology and Psychiatry",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-19T13:46:24.682142+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-072.md",
+  "quality_details": {
+    "content_length": 1475,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

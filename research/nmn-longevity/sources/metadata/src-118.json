@@ -1,0 +1,24 @@
+{
+  "id": "src-118",
+  "title": "NAD+ metabolism: pathophysiologic mechanisms and therapeutic potential",
+  "authors": [
+    "Xie, Na",
+    "Zhang, Lu",
+    "Gao, Wei",
+    "Huang, Canhua",
+    "Huber, Peter",
+    "Zhou, Xiaobo",
+    "Li, Changlong",
+    "Shen, Guobo",
+    "Zou, Bingwen"
+  ],
+  "doi": "10.1038/s41392-020-00311-7",
+  "url": "https://openalex.org/W3092621787",
+  "provider": "openalex",
+  "year": 2020,
+  "venue": "Signal Transduction and Targeted Therapy",
+  "citation_count": 964,
+  "abstract": "Nicotinamide adenine dinucleotide (NAD<sup>+</sup>) and its metabolites function as critical regulators to maintain physiologic processes, enabling the plastic cells to adapt to environmental changes including nutrient perturbation, genotoxic factors, circadian disorder, infection, inflammation and xenobiotics. These effects are mainly achieved by the driving effect of NAD<sup>+</sup> on metabolic pathways as enzyme cofactors transferring hydrogen in oxidation-reduction reactions. Besides, multiple NAD<sup>+</sup>-dependent enzymes are involved in physiology either by post-synthesis chemical modification of DNA, RNA and proteins, or releasing second messenger cyclic ADP-ribose (cADPR) and NAADP<sup>+</sup>. Prolonged disequilibrium of NAD<sup>+</sup> metabolism disturbs the physiological functions, resulting in diseases including metabolic diseases, cancer, aging and neurodegeneration disorder. In this review, we summarize recent advances in our understanding of the molecular mechanisms of NAD<sup>+</sup>-regulated physiological responses to stresses, the contribution of NAD<sup>+</sup> deficiency to various diseases via manipulating cellular communication networks and the potential new avenues for therapeutic intervention.",
+  "type": "academic",
+  "pdf_url": "https://www.nature.com/articles/s41392-020-00311-7.pdf"
+}

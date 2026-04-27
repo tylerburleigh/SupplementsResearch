@@ -1,0 +1,18 @@
+{
+  "id": "src-118",
+  "title": "Aging and cancer",
+  "authors": [
+    "Montégut, Léa",
+    "López-Otı́n, Carlos",
+    "Kroemer, Guido"
+  ],
+  "doi": "10.1186/s12943-024-02020-z",
+  "url": "https://openalex.org/W4397044051",
+  "provider": "openalex",
+  "year": 2024,
+  "venue": "Molecular Cancer",
+  "citation_count": 148,
+  "abstract": "Aging and cancer exhibit apparent links that we will examine in this review. The null hypothesis that aging and cancer coincide because both are driven by time, irrespective of the precise causes, can be confronted with the idea that aging and cancer share common mechanistic grounds that are referred to as 'hallmarks'. Indeed, several hallmarks of aging also contribute to carcinogenesis and tumor progression, but some of the molecular and cellular characteristics of aging may also reduce the probability of developing lethal cancer, perhaps explaining why very old age (> 90 years) is accompanied by a reduced incidence of neoplastic diseases. We will also discuss the possibility that the aging process itself causes cancer, meaning that the time-dependent degradation of cellular and supracellular functions that accompanies aging produces cancer as a byproduct or 'age-associated disease'. Conversely, cancer and its treatment may erode health and drive the aging process, as this has dramatically been documented for cancer survivors diagnosed during childhood, adolescence, and young adulthood. We conclude that aging and cancer are connected by common superior causes including endogenous and lifestyle factors, as well as by a bidirectional crosstalk, that together render old age not only a risk factor of cancer but also an important parameter that must be considered for therapeutic decisions.",
+  "type": "academic",
+  "pdf_url": "https://molecular-cancer.biomedcentral.com/counter/pdf/10.1186/s12943-024-02020-z"
+}

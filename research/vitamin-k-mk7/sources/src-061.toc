@@ -1,0 +1,121 @@
+44	2	1. Introduction
+46	2	3. MGP
+47	2	4. GRP
+48	2	5. Periostin
+50	2	7. Discussion and conclusions
+51	2	1. Introduction
+239	2	3. MGP
+385	2	4. GRP
+443	2	5. Periostin
+594	2	7. Discussion and conclusions
+711	2	Acknowledgements
+735	2	Competing Interests
+737	2	References
+738	2	1.  Vermeer C: Vitamin K: The effect on health beyond coagula -
+740	2	2.  Presnell SR and Stafford DW: The vitamin K-dependent carbox-
+742	2	3.  Flore  R , Ponziani  FR , Di Rienzo  TA, Zocco MA, Flex A,
+747	2	4.  Taniyama  Y, Katsuragi  N , Sanada  F, Azuma J, Iekushi K,
+752	2	5.  El Asmar MS, Naoum JJ and Arbid EJ: Vitamin K dependent
+755	2	6. Tie JK, Jin DY, Straight DL and Stafford DW: Functional study of
+758	2	7. Lanham S, Cagampang FR and Oreffo ROC: Maternal high fat
+766	2	9.  Mithal A, Dhingra V, Lau E, Stenmark J and Nauroy L: The Asian
+769	2	10. Dhanwal DK, Cooper C and Dennison EM: Geographic variation
+773	2	11. Bolland  MJ , Avenell  A, Baron  JA, Grey  A, MacLennan  GS,
+777	2	12. Bolland  MJ , Grey  A , Avenell  A , Gamble  GD  and Reid  IR :
+782	2	13. Li K , Kaaks  R , Linseisen  J  and Rohrmann  S : Associations
+797	2	16. Xiao Q, Murphy  RA, Houston  DK, Harris  TB, Chow WH and
+806	2	19. Roth GA, Johnson C, Abajobir A, Abd-Allah F, Abera SF,
+813	2	21. Schurgers LJ, Dissel PE, Spronk HM, Soute BA, Dhore CR,
+817	2	22. Lahtinen AM, Havulinna AS, Jula A, Salomaa V and Kontula K:
+821	2	23. Doherty  TM, Asotra  K, Fitzpatrick  LA, Qiao  JH, Wilkin  DJ,
+826	2	24. Abdulameer AH, Sulaiman SABS and Kader MBSA: An assess-
+830	2	25. Beulens  JW, Bots  ML , Atsma  F, Bartelink ML, Prokop M,
+834	2	26. Geleijnse JM, Vermeer C, Grobbee DE, Schurgers LJ, Knapen MH,
+840	2	27. Shea MK and Booth  SL: Role of vitamin K in the regulation of
+847	2	29. Hauschka PV and Reid ML: Vitamin D dependence of a
+850	2	30. Miyake  N , Hoshi  K , Sano  Y , Kikuchi  K , Tadano  K  and
+854	2	31. Shiraki M: Health benefits and demerits of calcium nutrition or
+857	2	32. Zoch ML, Clemens  TL and Riddle  RC: New insights into the
+861	2	34. Neve A, Corrado A and Cantatore FP: Osteocalcin: Skeletal and
+866	2	36. Yunker LA, Undersander A, Lian JB, Stein GS, Carlson CS and
+870	2	37. Naito K, Watari T, Obayashi O, Katsube S, Nagaoka I and
+874	2	38. Zheng W, Kang H, Shu C, Tang ML, Fang PZ, Xie J, He J and
+879	2	39. Orimo  H, Nakamura  T, Hosoi  T, Iki  M, Uenishi K, Endo N,
+883	2	40. Hunt JL, Fairman  R , Mithell  ME , Carpenter JP, Golden M,
+887	2	41. Inaba N, Sato T and Yamashita T: Low-dose daily intake of vitamin
+894	2	43. Sato T, Schurgers LJ and Uenishi K: Comparison of menaqui -
+904	2	47. Kerner SA, Scott  RA  and Pike  JW: Sequence elements in the
+908	2	48. Lian  J , Stewart C, Puchacz E, Mackowiak S, Shalhoub V ,
+912	2	49. Cairns JR and Price PA: Direct demonstration that the vitamin
+915	2	50. Liabeuf S, Bourron O, Vemeer C, Theuwissen E, Magdeleyns E,
+920	2	51. Wallin R, Cain D and Sane DC: Matrix Gla protein synthesis and
+924	2	52. Harbuzova  Viu and Ataman  OV: Matrix Gla -protein and its
+932	2	54. Leopold  JA : Vascular calcification: Mechanism of vascular
+941	2	57. Reynolds  JL , Joannides  AJ , Skepper  JN , McNair R,
+948	2	58. Son BK, Akishita M, Iijima K, Eto M and Ouchi Y: Mechanism
+951	2	59. Son BK, Kozaki K, Iijima K, Eto M, Nakano T, Akishita M and
+960	2	61. Kim H, Kim  HJ, Lee  K, Kim  JM, Kim  HS, Kim  JR, Ha  CM,
+969	2	63. Cheng  S L, Shao JS, Charlton -Kachigian N, Loewy AP and
+973	2	64. Wallin R, Cain D, Hutson SM, Sane DC and Loeser R: Modulation
+976	2	65. Roy ME  and Nishimoto  SK : Matrix Gla protein binding to
+980	2	66. Nakase T, Miyaji T, Tomita T, Kaneko M, Kuriyama K, Myoui A,
+984	2	67. Price PA, Williamson MK, Nguyen TM and Than TN: Serum
+987	2	68. Shea  MK, Kritchevsky  SB, Hsu FC, Nevitt  M, Booth  SL,
+993	2	69. Neogi  T, Booth  SL , Zhang  YQ , Jacques  PF, Terkeltaub R,
+997	2	70. Misra D, Booth SL, Tolstykh I, Felson DT, Nevitt MC, Lewis CE,
+1003	2	71. Wallin  R , Schurgers  L J and Loeser  R F: Biosynthesis of the
+1019	2	75. Schurgers  LJ, Barreto  DV, Barreto  FC, Liabeuf  S, Renard  C,
+1024	2	76. Boxma  PY, van den Berg  E , Geleijnse  JM , Laverman  GD ,
+1033	2	78. Tsugawa N: Cardiovascular diseases and fat soluable vitamins:
+1036	2	79. Delanayc P, Krzesinski  JM, Warling X, Moonen M, Smelten N,
+1050	2	82. Surmann -Schmitt  C, Dietz  U, Kireva  T, Adam  N, Park  J,
+1055	2	83. Le Jeune M, Tomavo N, Tian TV , Flourens A, Marchand N,
+1060	2	84. Tagariello A, Luther J, Streiter M, Didt-Koziel L, Wuelling M,
+1064	2	85. Viegas CS, Rafael MS, Enriquez JL, Teixeira A, Vitorino R, Luis
+1068	2	86. Rafael MS, Cavaco S, Viegas CS, Santos S, Ramos A,
+1079	2	89. Lee YJ, Park SY, Lee SJ, Boo YC, Choi JY and Kim  JE: Ucma,
+1083	2	90.  Viegas CS, Herfs M, Rafael MS, Enriquez JL, Teixeira A,
+1088	2	91.  Zinn K, McAllister L and Goodman CS: Sequence analysis and
+1091	2	92.  Takeshita  S, Kikuno  R, Tezuka  K and Amann  E:
+1095	2	93.  Politz  O , Gratchev  A , McCourt  PA , Schledzewski K,
+1100	2	94.  Skonier J, Neubauer  M, Madisen  L, Bennett  K, Plowman  GD
+1105	2	95.  Horiuchi K, Amizuka N, Takeshita S, Takamatsu H, Katsuura M,
+1111	2	96. Litvin J, Selim AH, Montgomery  MO, Lehmann K, Rico MC,
+1115	2	97. Kruzynska -Frejtag A, Machnicki  M, Rogers R, Markwald  RR
+1119	2	98.  Stansfield  WE , Andersen  NM , Tang  RH and Selzman  CH:
+1128	2	100. Morita H and Komuro I: Periostin isoforms and cardiac
+1131	2	101. Iekushi  K , Taniyama  Y, Azuma  J, Katsuragi  N, Dosaka  N,
+1136	2	102. Merle B and Garnero P: The multiple facets of periostin in bone
+1138	2	103. Snider P, Standley  KN, Wang J, Azhar  M, Doetschman  T and
+1141	2	104. Hakuno  D, Kimura  N , Yoshioka  M , Mukai  M, Kimura  T,
+1147	2	105. Zhu S, Barbe MF, Liu C, Hadjiargyrou M, Popoff SN, Rani S,
+1150	2	106. Rani S, Barbe MF, Barr AE and Litvin J: Periostin -like-factor
+1153	2	107. Perrier  A , Dumas  V, Linossier  MT , Fournier C, Jurdic P,
+1158	2	108. Freitas F, Jeschke  M, Majstorovic  I, Mueller DR, Schindler P,
+1165	2	109. Wang DJ, Oparil  S, Feng JA, Li P, Perry G, Chen LB, Dai M,
+1169	2	110. Litvin J, Blagg A, Mu A, Matiwala S, Montgomery M, Berretta R,
+1173	2	111. Katsuragi N, Morishita R, Nakamura N, Ochiai T, Taniyama Y,
+1177	2	112. Oka T, Xu J, Kaiser RA, Melendez J, Hambleton M, Sargent MA,
+1182	2	113. Sen K, Lindenmeyer MT, Gaspert A, Eichinger F, Neusser MA,
+1186	2	114. Lindner  V, Wang  Q, Conley  BA , Friesel  RE  and Vary  CP :
+1190	2	115. Stanton  LW, Garrard  LJ, Damm  D, Garrick  BL, Lam  A,
+1198	2	117. Bellosta P, Zhang Q, Goff SP and Basilico C: Signaling through
+1201	2	118. Shiozawa Y, Pedersen EA, Patel LR, Ziegler AM, Havens AM,
+1205	2	119. Hasanbasic  I , Rajotte  I  and Blostein  M : The role of
+1213	2	121. Zhao YF, Xu DC, Zhu GF, Zhu MY, Tang K, Li WM and Xu YW:
+1216	2	122. Park JK, Theuer S, Kirsch T, Lindschau C, Klinge U, Heuser A,
+1220	2	123. Cockayne S, Adamson J, Lanham-New S, Shearer MJ, Gilbody S
+1231	2	126. Litvina J, Blagga A, Mua A, Matiwalaa S, Montgomerya
+1235	2	127. Severson AR, Ingram  RT and Fitzpatrick  LA: Matrix proteins
+1239	2	128. Dhore CR, Cleutjens JP, Lutgens E, Cleutjens KB, Geusens PP,
+1244	2	129. Trion A and van der Laarse  A: Vascular smooth muscle cells
+1247	2	130. Dowd  TL , Rosen  JF , Li  L  and Gundberg  CM : The
+1251	2	131. Hauschka  PV and Carr  SA: Calcium -dependent alpha -helical
+1256	2	133. Bonnet N, Gineyts  E, Ammann  P, Conway SJ, Garnero  P and
+1260	2	134. Brent AE and Tabin  CJ: Developmental regulation of somite
+1263	2	135. Pittenger MF, Mackay AM, Beck SC, Jaiswal RK, Douglas  R,
+1269	2	137. Le Blanc K and Pittenger M: Mesenchymal stem cells: Progress
+1271	2	138. Reiser J, Zhang XY, Hemenway CS, Mondal D, Pradhan  L and
+1275	2	139. Hui JH, Ouyang  HW, Hutmacher  DW, Goh  JC and Lee  EH:
+1279	2	140. Caplan  AI : Review: Mesenchymal stem cells: Cell -based
+1286	2	143. Ben Shoham A, Rot C, Stern T, Krief S, Akiva  A, Dadosh T,

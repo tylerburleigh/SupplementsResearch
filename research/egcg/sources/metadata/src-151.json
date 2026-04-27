@@ -1,0 +1,24 @@
+{
+  "id": "src-151",
+  "title": "The hepatotoxicity assessment of micro/nanoplastics: A preliminary study to apply the adverse outcome pathways.",
+  "authors": [
+    "Ge, Yiling",
+    "Yang, Sheng",
+    "Zhang, Tianyi",
+    "Wan, Xin",
+    "Zhu, Yuxin",
+    "Yang, Fei",
+    "Yin, Lihong",
+    "Pu, Yuepu",
+    "Liang, Geyu"
+  ],
+  "doi": "10.1016/j.scitotenv.2023.165659",
+  "url": "https://www.semanticscholar.org/paper/4cca64863f065d4f9d449d62c96347266fa0ad06",
+  "provider": "semantic_scholar",
+  "year": 2023,
+  "venue": "Science of the Total Environment",
+  "citation_count": 27,
+  "abstract": "Plastic pollution has become a significant global problem over the years, leading to the continuous decomposition and accumulation of micro/nanoplastics (MNPLs) in the environment. As a result, human exposure to these MNPLs is inevitable. The liver, in particular, is highly susceptible to potential MNPL toxicity. In this study, we systematically reviewed the current literature on MNPLs-induced hepatotoxicity and collected data on toxic events occurring at different biological levels. Then, to better understand the cause-mechanism causality, we developed an Adverse Outcome Pathway (AOP) framework for MNPLs-induced hepatotoxicity. The AOP framework provided insights into the mechanism of MNPL-induced hepatotoxicity and highlighted potential health risks such as liver dysfunction and inflammation, metabolism disorders and liver fibrosis. Moreover, we discussed the potential application of emerging toxicological models in the hepatotoxicity study. Liver organoids and liver-on-chips, which can simulate the structure and function of the liver in vitro, offer a promising alternative platform for toxicity testing and risk assessment. We proposed combining the AOP framework with these emerging toxicological models to improve our understanding of the hepatotoxic effects of MNPLs. Overall, this study performed a preliminary exploration of novel toxicological methodologies to assess the hepatotoxicity of MNPLs, providing a deeper understanding of environmental toxicology.",
+  "type": "academic",
+  "pdf_url": ""
+}

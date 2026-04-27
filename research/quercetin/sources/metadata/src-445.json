@@ -1,0 +1,29 @@
+{
+  "id": "src-445",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://doi.org/10.1208/s12248-012-9432-8",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-22T17:07:56.604156+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-445.md",
+  "quality_details": {
+    "content_length": 29992,
+    "alpha_ratio": 0.701,
+    "sentence_count": 389,
+    "reasons": [
+      "paywall_page (buy article)"
+    ]
+  }
+}

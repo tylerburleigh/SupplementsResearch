@@ -1,0 +1,23 @@
+{
+  "id": "src-201",
+  "title": "It takes two to tango: NAD+ and sirtuins in aging/longevity control",
+  "authors": [
+    "Imai, Shin-ichiro",
+    "Guarente, Leonard"
+  ],
+  "year": 2016,
+  "abstract": "AbstractThe coupling of nicotinamide adenine dinucleotide (NAD+) breakdown and protein deacylation is a unique feature of the family of proteins called ‘sirtuins.’ This intimate connection between NAD+ and sirtuins has an ancient origin and provides a mechanistic foundation that translates the regulation of energy metabolism into aging and longevity control in diverse organisms. Although the field of sirtuin research went through intensive controversies, an increasing number of recent studies have put those controversies to rest and fully established the significance of sirtuins as an evolutionarily conserved aging/longevity regulator. The tight connection between NAD+ and sirtuins is regulated at several different levels, adding further complexity to their coordination in metabolic and aging/longevity control. Interestingly, it has been demonstrated that NAD+ availability decreases over age, reducing sirtuin activities and affecting the communication between the nucleus and mitochondria at a cellular level and also between the hypothalamus and adipose tissue at a systemic level. These dynamic cellular and systemic processes likely contribute to the development of age-associated functional decline and the pathogenesis of diseases of aging. To mitigate these age-associated problems, supplementation of key NAD+ intermediates is currently drawing significant attention. In this review article, we will summarize these important aspects of the intimate connection between NAD+ and sirtuins in aging/longevity control.",
+  "doi": "10.1038/npjamd.2016.17",
+  "url": "https://doi.org/10.1038/npjamd.2016.17",
+  "pdf_url": "",
+  "venue": "npj Aging and Mechanisms of Disease",
+  "citation_count": 350,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-23T11:31:04.383434+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok"
+}

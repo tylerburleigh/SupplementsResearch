@@ -1,0 +1,21 @@
+{
+  "id": "src-358",
+  "title": "Nicotine induces senescence in spermatogonia stem cells by disrupting homeostasis between circadian oscillation and rhythmic mitochondrial dynamics via the SIRT6/Bmal1 pathway.",
+  "authors": [
+    "Zhang, Zelin",
+    "Jiang, Zhongliang",
+    "Cheng, Jianyong",
+    "Price, Christopher A",
+    "Yang, Li",
+    "Li, Qingwang"
+  ],
+  "doi": "10.1016/j.lfs.2024.122860",
+  "url": "https://www.semanticscholar.org/paper/22da0bf2adbb3e5624cd26d24bfaf692c59b08a3",
+  "provider": "semantic_scholar",
+  "year": 2024,
+  "venue": "Life Science",
+  "citation_count": 9,
+  "abstract": "Infertility is intricately linked with alterations in circadian rhythms along with physiological decline and stem cell senescence. Yet, the direct involvement of circadian mechanisms in nicotine-induced injury to the testes, especially the senescence of spermatogonia stem cells (SSCs), is not well comprehended. This study revealed that nicotine exposure induced testis injury by triggering SSCs senescence along with the upregulation of senescence marker genes and senescence-associated secretory phenotype components. Moreover, nicotine treatment caused mitochondrial hyper-fusion, increased oxidative stress, and DNA damage. Exposure to nicotine was found to suppress the expression of sirtuin 6 (SIRT6), which accelerated the senescence of spermatogonia stem cells (SSCs). This acceleration led to increased acetylation of brain and muscle ARNT-like protein (Bmal1), consequently reducing the expression of Bmal1 protein. Conversely, the overexpression of Bmal1 alleviated mitochondrial hyper-fusion and senescence phenotypes induced by nicotine. Overall, this study unveiled a novel molecular mechanism behind nicotine-induced disorders in spermatogenesis and highlighted the SIRT6/Bmal1 regulatory pathway as a potential therapeutic target for combating nicotine-associated infertility.",
+  "type": "academic",
+  "pdf_url": ""
+}

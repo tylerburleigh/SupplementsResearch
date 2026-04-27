@@ -1,0 +1,27 @@
+{
+  "id": "src-299",
+  "title": "Blood Serum From Head and Neck Squamous Cell Carcinoma Patients Induces Altered MicroRNA and Target Gene Expression Profile in Treated Cells",
+  "authors": [
+    "Allen, Brittany",
+    "Schneider, A.",
+    "Victoria, B.",
+    "Lopez, Y. O. Nunez",
+    "Muller, M.",
+    "Szewczyk, M.",
+    "Pazdrowski, J.",
+    "Majchrzak, E.",
+    "Barczak, Wojciech",
+    "Golusiński, W.",
+    "Golusiński, P.",
+    "Masternak, M."
+  ],
+  "doi": "10.3389/fonc.2018.00217",
+  "url": "https://www.semanticscholar.org/paper/a1e1f62aa044a5de09c56189011db65d8c1e9fa7",
+  "provider": "semantic_scholar",
+  "year": 2018,
+  "venue": "Frontiers in Oncology",
+  "citation_count": 16,
+  "abstract": "The head and neck squamous cell carcinoma (HNSCC) represents one of the most common cancers in humans. Close to 600,000 new diagnoses are made every year worldwide and over half of diagnosed patients will not survive. In view of this low survival rate, the development of novel cell-based assays for HNSCC will allow more mechanistic approaches for specific diagnostics for each individual patient. The cell-based assays will provide more informative data predicting cellular processes in treated patient, which in effect would improve patient follow up. More importantly, it will increase the specificity and effectiveness of therapeutic approaches. In this study, we investigated the role of serum from HNSCC patients on the regulation of microRNA (miRNA) expression in exposed cells in vitro. Next-generation sequencing of miRNA revealed that serum from HNSCC patients induced a different miRNA expression profile than the serum from healthy individuals. Out of 377 miRNA detected, we found that 16 miRNAs were differentially expressed when comparing cells exposed to serum from HNSCC or healthy individuals. The analysis of gene ontologies and pathway analysis revealed that these miRNA target genes were involved in biological cancer-related processes, including cell cycle and apoptosis. The real-time PCR analysis revealed that serum from HNSCC patients downregulate the expression level of five genes involved in carcinogenesis and two of these genes—P53 and SLC2A1—are direct targets of detected miRNAs. These novel findings provide new insight into how cancer-associated factors in circulation regulate the expression of genes and regulatory elements in distal cells in favor of tumorigenesis. This has the potential for new therapeutic approaches and more specific diagnostics with tumor-specific cell lines or single-cell in vitro assays for personalized treatment and early detection of primary tumors or metastasis.",
+  "type": "academic",
+  "pdf_url": "https://fjfsdata01prod.blob.core.windows.net/articles/files/368544/pubmed-zip/.versions/2/.package-entries/fonc-08-00217-r1/fonc-08-00217.pdf?sv=2018-03-28&sr=b&sig=Hr9ywZp7OF%2BoVIw4F5U5iZ6KLVqVSl7wXq6EVM5IWkM%3D&se=2021-02-18T05%3A06%3A19Z&sp=r&rscd=attachment%3B%20filename%2A%3DUTF-8%27%27fonc-08-00217.pdf"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "src-207",
+  "title": "Systematic Review of Reflection Spectroscopy-Based Skin Carotenoid Assessment in Children",
+  "authors": [
+    "Hasnin, Saima",
+    "Dev, Dipti",
+    "Swindle, Taren",
+    "Sisson, Susan B.",
+    "Pitts, Stephanie Jilcott",
+    "Purkait, Tirna",
+    "Clifton, Shari",
+    "Dixon, Jocelyn",
+    "Stage, Virginia C."
+  ],
+  "doi": "10.3390/nu15061315",
+  "url": "https://openalex.org/W4323568013",
+  "provider": "openalex",
+  "year": 2023,
+  "venue": "Nutrients",
+  "citation_count": 18,
+  "abstract": "Assessing children's skin carotenoid score (SCS) using reflection spectroscopy (RS) is a non-invasive, widely used method to approximate fruit and vegetable consumption (FVC). The aims for the current review were to (1) identify distributions of SCS across demographic groups, (2) identify potential non-dietary correlates for RS-based SCS, (3) summarize the validity and reliability of RS-based SCS assessment, and (4) conduct meta-analyses of studies examining the correlation between RS-based SCS with FVC. A literature search in eight databases in June 2021 resulted in 4880 citations and peer-reviewed publications written in English that investigated children's (2-10 years old) SCS using RS. We included 11 studies (intervention = 3, observational = 8). Potential covariates included weight status, ethnicity, seasonal variation, age, sex, and income. Studies reported criterion validity with children's FVC but not with plasma carotenoid. Additionally, no studies reported the reliability of RS-based SCS in children. Among the 726 children included in the meta-analysis, the correlation between RS-based SCS and FVC was <i>r</i> = 0.2 (<i>p</i> < 0.0001). RS-based SCS is a valid method to quantify skin carotenoids for children's FVC estimation with the potential for evaluating nutrition policies and interventions. However, future research should use standardized protocol for using RS and establish how RS-based SCS can translate to the amount of daily FVC in children.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2072-6643/15/6/1315/pdf?version=1678189770"
+}

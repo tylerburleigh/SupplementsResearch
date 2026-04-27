@@ -1,0 +1,23 @@
+38	2	Keywords
+40	2	Open Access
+41	2	Edited By
+45	2	Reviewed By
+55	2	Specialty Section
+63	2	Citation
+71	2	Copyright
+90	2	1. Introduction
+168	2	2. Materials and methods
+169	3	2.1. Ethical considerations
+178	3	2.2. Participants and study design
+189	3	2.3. Inclusion and exclusion criteria
+201	3	2.4. Resistance training protocol
+227	3	2.5. Creatine supplementation
+236	3	2.6. Sampling and data collection
+262	3	2.7. Data analysis
+270	2	3. Results
+324	2	4. Discussion
+516	3	4.1. Limitations
+525	2	5. Conclusion
+544	2	Author Contributions
+549	2	Acknowledgments
+562	2	References

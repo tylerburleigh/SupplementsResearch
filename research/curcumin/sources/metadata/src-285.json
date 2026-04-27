@@ -1,0 +1,27 @@
+{
+  "id": "src-285",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "",
+  "pdf_url": "https://www.e3s-conferences.org/articles/e3sconf/pdf/2019/57/e3sconf_chinabiofilms18_01100.pdf",
+  "venue": "",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "",
+  "fetched_at": "2026-04-22T15:01:33.136038+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-285.md",
+  "quality_details": {
+    "content_length": 18643,
+    "alpha_ratio": 0.743,
+    "sentence_count": 147,
+    "reasons": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "src-255",
+  "title": "Cellular Senescence: Aging, Cancer, and Injury",
+  "authors": [
+    "Calcinotto, Arianna",
+    "Kohli, Jaskaren",
+    "Zagato, Elena",
+    "Pellegrini, Laura",
+    "Demaria, Marco",
+    "Alimonti, Andrea"
+  ],
+  "doi": "10.1152/physrev.00020.2018",
+  "url": "https://openalex.org/W2908922892",
+  "provider": "openalex",
+  "year": 2019,
+  "venue": "Physiological Reviews",
+  "citation_count": 1248,
+  "abstract": "Cellular senescence is a permanent state of cell cycle arrest that occurs in proliferating cells subjected to different stresses. Senescence is, therefore, a cellular defense mechanism that prevents the cells to acquire an unnecessary damage. The senescent state is accompanied by a failure to re-enter the cell cycle in response to mitogenic stimuli, an enhanced secretory phenotype and resistance to cell death. Senescence takes place in several tissues during different physiological and pathological processes such as tissue remodeling, injury, cancer, and aging. Although senescence is one of the causative processes of aging and it is responsible of aging-related disorders, senescent cells can also play a positive role. In embryogenesis and tissue remodeling, senescent cells are required for the proper development of the embryo and tissue repair. In cancer, senescence works as a potent barrier to prevent tumorigenesis. Therefore, the identification and characterization of key features of senescence, the induction of senescence in cancer cells, or the elimination of senescent cells by pharmacological interventions in aging tissues is gaining consideration in several fields of research. Here, we describe the known key features of senescence, the cell-autonomous, and noncell-autonomous regulators of senescence, and we attempt to discuss the functional role of this fundamental process in different contexts in light of the development of novel therapeutic targets.",
+  "type": "academic",
+  "pdf_url": "https://journals.physiology.org/doi/pdf/10.1152/physrev.00020.2018"
+}

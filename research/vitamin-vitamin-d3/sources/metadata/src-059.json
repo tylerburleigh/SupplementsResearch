@@ -1,0 +1,43 @@
+{
+  "id": "src-059",
+  "title": "Effect of vitamin D supplementation on cardiovascular outcomes: an updated meta-analysis of RCTs",
+  "authors": [
+    "Mirza, Agha M.W.",
+    "Almansouri, Naiela E.",
+    "Muslim, Muhammad F.",
+    "Basheer, Thahaseen",
+    "Uppalapati, Sree V.",
+    "Lakra, Swati",
+    "Fatima, Hareem",
+    "Adhnon, Arshiya",
+    "Filho, Ivo W.",
+    "Mahmood, Ruqeyya",
+    "Kumar, Mahendra",
+    "Kandel, Kamal",
+    "Ayyan, Muhammad"
+  ],
+  "year": 2024,
+  "abstract": "Objective:\nTo evaluate the effect of vitamin D supplementation on cardiovascular outcomes.\n\nMethods:\nAfter searching different databases, we retrieved and included randomized controlled trials on long-term supplementation of vitamin D (≥1-year intervention) and reporting cardiovascular outcomes. We calculated risk ratio (RR) with 95% confidence intervals (CI) for dichotomous outcomes.\n\nResults:\nCompared to the control group, the vitamin D group was not associated with a statistically significant decrease in the incidence of major adverse cardiovascular events (MACE) [risk ratio=0.99; 95% CI: 0.94–1.03]. We found no difference between the vitamin D group and the control group for the outcomes of incidences of myocardial infarction, heart failure, coronary revascularization, cardiovascular death, and all-cause mortality. The heterogeneity was low for all outcomes.\n\nConclusion:\nAccording to our meta-analysis, vitamin D supplementation did not reduce major adverse cardiovascular events, other cardiovascular parameters, and all-cause mortality.",
+  "doi": "10.1097/ms9.0000000000002458",
+  "url": "https://doi.org/10.1097/ms9.0000000000002458",
+  "pdf_url": "",
+  "venue": "Annals of Medicine &amp; Surgery",
+  "citation_count": 4,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T20:54:46.480021+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-059.md",
+  "quality_details": {
+    "content_length": 34234,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

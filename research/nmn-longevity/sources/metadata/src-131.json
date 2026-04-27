@@ -1,0 +1,18 @@
+{
+  "id": "src-131",
+  "title": "Toxicology study profile of Nicotinamide mononucleotide after acute and 90-day sub chronic dosing in Wistar rats and mutagenicity tests",
+  "authors": [
+    "Yu, Jianjun",
+    "Shen, Qiang",
+    "Li, Jiayan"
+  ],
+  "doi": "10.1016/j.crtox.2024.100171",
+  "url": "https://openalex.org/W4396641096",
+  "provider": "openalex",
+  "year": 2024,
+  "venue": "Current Research in Toxicology",
+  "citation_count": 4,
+  "abstract": "Nicotinamide mononucleotide (NMN) is an intermediate in biosynthesis pathway of Nicotinamide adenine dinucleotide (NAD+), an essential cofactor in all living cells involved in fundamental biological processes. Evidence stemming from recent studies have unveiled numerous roles of NAD+ metabolism on aging, longevity, delaying the progression of age-related diseases. A three-study genetic toxicity (genetox) battery (bacterial mutagenesis, in vitro cytogenetics, and in vivo mammalian test) is usually required to confirm safety of a new dietary ingredient and this study showed the data from in vivo mutagenicity test for the first time. The acute oral LD50 of NMN was greater than 2000 mg/kg body weight with 5000 mg/kg body weight as LD50 cut-off value and was classified under \"Category 5 or Unclassified\" as per Globally Harmonized System of Classification and Labelling of Chemicals (GHS). Based on 90 days repeated dose toxicity test the NOAEL was considered to be NLT 800 mg NMN/kg body weight in Wistar rats. The bacterial reverse mutation test, the in vitro and in vivo chromosomal aberration test, found NMN to be non-mutagenic. In the mammalian bone marrow chromosomal aberration test, it was concluded that NMN is non clastogenic at and up to 2,000 mg/kg body weight in all the animals tested to confirm safety of a new dietary ingredient and this study showed the data from in vivo mutagenicity test for the first time.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.1016/j.crtox.2024.100171"
+}

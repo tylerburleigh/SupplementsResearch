@@ -1,0 +1,21 @@
+{
+  "id": "src-531",
+  "title": "Associations among dietary intakes, blood biomarkers, and postmortem brain tissue concentrations of vitamins D and K in older adults.",
+  "authors": [
+    "Shea, M.",
+    "Rutt, Joshua L",
+    "Dawson-Hughes, B.",
+    "Agarwal, P.",
+    "Fu, Xueyan",
+    "Booth, Sarah L."
+  ],
+  "doi": "10.1016/j.tjnut.2026.101428",
+  "url": "https://www.semanticscholar.org/paper/18d6647bce656bb0d30bf9493f4bc21ec9370877",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "Journal of NutriLife",
+  "citation_count": 0,
+  "abstract": "BACKGROUND\nCirculating biomarkers are often used to infer nutrient intakes and overall nutrient status but may not accurately reflect nutrient concentrations in specific tissues. Since direct measurement of human tissue nutrient levels is rarely feasible, researchers rely on biomarkers as proxies. Studies linking diet, circulating biomarkers, and tissue nutrient concentrations are needed to enhance biomarker interpretability.\n\nOBJECTIVE\nWe sought to evaluate the inter-relationships among dietary intakes, circulating biomarkers, and human brain tissue stores of vitamins D and K - two nutrients implicated in cognitive health.\n\nMETHODS\nBrain 25-hydroxyvitamin D3 (25(OH)D3) and menaquinone-4 (MK4), metabolites of vitamins D and K, were measured in 288 and 322 deceased participants, respectively, of the Rush Memory and Aging Project. Plasma 25(OH)D3, phylloquinone (vitamin K1) and uncarboxylated matrix gla protein (ucMGP, a functional vitamin K status biomarker), were measured from samples collected 3.4±1.9 yrs before death. Dietary intakes were derived from food frequency questionnaires (FFQs) obtained at the same visit, and in secondary analysis, averaged across up to 11 FFQs spanning up to 14 years before death.\n\nRESULTS\nWhen based on the most recent FFQ, vitamin D or K intakes were not associated with plasma or brain concentrations of their respective metabolites. However, when averaged across all available FFQs, total vitamin D intake was positively associated with plasma and brain 25(OH)D3 concentrations (p≤0.033). Phylloquinone intake was positively associated with plasma phylloquinone and inversely associated with plasma ucMGP (p≤0.006). Phylloquinone intake was not associated with brain MK4 concentrations (p≥0.567).\n\nCONCLUSION\nRepeated dietary assessments strengthened the associations for vitamin D, supporting the use of circulating 25(OH)D3 as an indicator of vitamin D intake and brain 25(OH)D3 concentrations. For vitamin K, the inter-relationship among dietary intakes, circulating biomarkers, and brain tissue stores is more complex, highlighting a need for further research to clarify its role and biomarkers in cognitive health.",
+  "type": "academic",
+  "pdf_url": ""
+}

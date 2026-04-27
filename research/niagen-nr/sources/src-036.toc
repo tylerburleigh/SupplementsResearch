@@ -1,0 +1,18 @@
+17	2	3 Kinesiology Department, California State University, Sacramento, CA, USA
+19	2	Usa
+21	2	6 Department of Radiology, University of Washington, Seattle, WA, USA
+26	2	9 School of Medicine, Vanderbilt University, Nashville, TN, USA
+45	2	Abstract
+115	2	Introduction
+130	2	8. Prior
+178	2	Methods
+194	2	14. The study was approved by the ethical review board of
+303	2	Results
+392	2	Discussion
+411	2	14. Enhanced carbohydrate metabolism with NR is further evidenced by
+416	2	14. Our findings are consistent with another study
+446	2	30. Together, our previous lipidomics and current transcriptomic
+470	2	22. Overall, our findings indicate a relatively modest impact of NR on
+629	2	Acknowledgments
+677	2	References
+884	2	Author Contributions

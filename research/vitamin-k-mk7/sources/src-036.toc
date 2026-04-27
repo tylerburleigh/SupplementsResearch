@@ -1,0 +1,34 @@
+6	2	Original Article
+14	2	Abstract
+42	2	3 School of Life Course and Population Sciences, Faculty
+45	2	4 Norwich Medical School, University of East Anglia,
+47	2	5 Depts of Endocrinology and Clinical Biochemistry Norfolk
+49	2	6 Department of Chemical Pathology and Metabolic
+52	2	7 Metabolic Bone Clinic, Department of Diabetes
+57	2	Introduction
+368	2	Statistical Analysis
+385	2	105. The secondary end points included changes in BTMs
+421	2	Results
+627	2	Discussion
+767	2	Ctx
+843	1	p = 0.06 corrected for covari-
+939	2	References
+943	2	2. Wells GA, Cranney A, Peterson J, Boucher M, Shea B, Welch
+970	2	9. Feskanich D, Weber P, Willett WC, Rockett H, Booth SL, Colditz
+978	2	11. Moore AE, Kim E, Dulnoan D, Dolan AL, Voong K, Ahmad I,
+983	2	12. Finnes TE, Lofthus CM, Meyer HE, Sogaard AJ, Tell GS, Apalset
+989	2	13. Mott A, Bradley T, Wright K, Cockayne ES, Shearer MJ, Adam-
+995	2	14. Cheung AM, Tile L, Lee Y, Tomlinson G, Hawker G, Scher J et al
+1004	2	16. Shiraki M, Yamazaki Y, Shiraki Y, Hosoi T, Tsugawa N, Okano
+1009	2	17. Binkley N, Harke J, Krueger D, Engelke J, Vallarta-Ast N, Gemar
+1014	2	18. Binkley NC, Krueger DC, Kawahara TN, Engelke JA, Chappell
+1023	2	21. Bolton-Smith C, McMurdo ME, Paterson CR, Mole PA, Harvey
+1038	2	24. Tanaka S, Miyazaki T, Uemura Y, Miyakawa N, Gorai I, Naka-
+1057	2	28. Sone T, Kon N, Gaither KW, Okubo N, Osakabe T, Nakayama Y
+1061	2	29. Bonnick SL, Beck TJ, Cosman F, Hochberg MC, Wang H, de
+1066	2	30. Zebaze RM, Libanati C, Austin M, Ghasem-Zadeh A, Hanley
+1073	2	32 Black DM, Abrahamsen B, Bouxsein ML, Einhorn T, Napoli N
+1081	2	34. Kameda T, Miyazawa K, Mori Y, Yuasa T, Shiokawa M, Nakamaru
+1085	2	35. Urayama S, Kawakami A, Nakashima T, Tsuboi M, Yamasaki S,
+1094	2	36. Uematsu T, Nagashima S, Niwa M, Kohno K, Sassa T, Ishii M,
+1101	2	38. Ramamurthi K, Ahmad O, Engelke K, Taylor RH, Zhu K, Gus-

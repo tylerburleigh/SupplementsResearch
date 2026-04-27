@@ -1,0 +1,35 @@
+{
+  "id": "src-206",
+  "title": "Curcumin for maintenance of remission in ulcerative colitis",
+  "authors": [
+    "Garg, Sushil K",
+    "Ahuja, Vineet",
+    "Sankar, Mari Jeeva",
+    "Kumar, Atul",
+    "Moss, Alan C"
+  ],
+  "year": 2012,
+  "abstract": "",
+  "doi": "10.1002/14651858.cd008424.pub2",
+  "url": "https://doi.org/10.1002/14651858.cd008424.pub2",
+  "pdf_url": "",
+  "venue": "Cochrane Database of Systematic Reviews",
+  "citation_count": 18,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-22T14:44:07.919085+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-206.md",
+  "quality_details": {
+    "content_length": 5968,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

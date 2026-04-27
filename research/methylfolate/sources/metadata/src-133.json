@@ -1,0 +1,21 @@
+{
+  "id": "src-133",
+  "title": "The causal role of homocysteine in multiple diseases: a systematic review of Mendelian randomization studies.",
+  "authors": [
+    "Zhu, Xiuyuan",
+    "Wei, Jiangnan",
+    "Li, Jingling",
+    "Zuo, Shunli",
+    "Wang, Jiaxian",
+    "Liu, Ning"
+  ],
+  "doi": "10.1186/s12986-025-00933-0",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40394620",
+  "provider": "pubmed",
+  "year": 2025,
+  "venue": "Nutrition & metabolism",
+  "citation_count": 0,
+  "abstract": "BACKGROUND: Homocysteine (Hcy) has been implicated in the development of multiple diseases; however, its causal role remains unclear. Mendelian randomization (MR) studies provide a robust approach to assessing causality by minimizing confounding and reverse causation.\nOBJECTIVE: This study aimed to evaluate the causal role of Hcy in various diseases by synthesizing evidence from MR studies.\nMETHODS: We performed a comprehensive literature search in PubMed, the Cochrane Library, Embase, and Web of Science for MR studies published up to May 30, 2024. Studies investigating the association between genetic predisposition to Hcy levels and specific diseases were included.\nRESULTS: Findings from 33 MR studies (covering 31 distinct primary outcomes) suggest that genetically elevated Hcy levels are associated with an increased risk of several health conditions, including: Five cardiovascular diseases: small vessel stroke, small artery occlusion stroke, stroke, subarachnoid hemorrhage, and ischemic stroke. Six musculoskeletal diseases: soft tissue disorders, osteoporosis with pathological fractures, hospital-diagnosed osteoarthritis (OA), overall OA, knee OA, and hip OA. One musculoskeletal biomarker: waist-to-hip ratio (WHR) adjusted for BMI. Two digestive system diseases: gastric cancer and non-alcoholic fatty liver disease. Three digestive biomarkers: alkaline phosphatase (ALP), alanine aminotransferase (ALT), and aspartate aminotransferase (AST). One urogenital system disease: chronic kidney disease. Two mental disorders: schizophrenia and bipolar disorder type I. One metabolic disorder: metabolic syndrome. Conversely, elevated Hcy levels are associated with a reduced risk of: One neurological disorder: multiple sclerosis. Two neurological biomarkers: gray matter volume and total brain volume. Five musculoskeletal biomarkers: heel bone mineral density (BMD), right/left grip strength, walking pace, and appendicular lean mass. One urogenital system biomarker: estimated glomerular filtration rate. Additionally, genetically reduced plasma Hcy levels correlated with higher forearm BMD.\nCONCLUSION: These findings provide significant evidence for the role of Hcy in disease causation and may contribute to the development of future preventive measures or therapeutic strategies.",
+  "type": "academic",
+  "pdf_url": ""
+}

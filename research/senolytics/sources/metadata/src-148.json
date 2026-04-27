@@ -1,0 +1,19 @@
+{
+  "id": "src-148",
+  "title": "Vascular Senescence in Cardiovascular and Metabolic Diseases",
+  "authors": [
+    "Katsuumi, Goro",
+    "Shimizu, Ippei",
+    "Yoshida, Yohko",
+    "Minamino, Tohru"
+  ],
+  "doi": "10.3389/fcvm.2018.00018",
+  "url": "https://openalex.org/W2792237486",
+  "provider": "openalex",
+  "year": 2018,
+  "venue": "Frontiers in Cardiovascular Medicine",
+  "citation_count": 190,
+  "abstract": "In mammals, aging is associated with accumulation of senescent cells. Stresses such as telomere shortening and reactive oxygen species induce \"cellular senescence\", which is characterized by growth arrest and alteration of the gene expression profile. Chronological aging is associated with development of age-related diseases, including heart failure, diabetes, and atherosclerotic disease, and studies have shown that accumulation of senescent cells has a causative role in the pathology of these age-related disorders. Endothelial cell senescence has been reported to develop in heart failure and promotes pathologic changes in the failing heart. Senescent endothelial cells and vascular smooth muscle cells are found in atherosclerotic plaque, and studies indicate that these cells are involved in progression of plaque. Diabetes is also linked to accumulation of senescent vascular endothelial cells, while endothelial cell senescence <i>per se</i> induces systemic glucose intolerance by inhibiting skeletal muscle metabolism. A close connection between derangement of systemic metabolism and cellular senescence is also well recognized. Aging is a complex phenomenon, and there is no simple approach to understanding the whole process. However, there is accumulating evidence that cellular senescence has a central role in the development and progression of various undesirable aspects of aging. Suppression of cellular senescence or elimination of senescent cells reverses phenotypic changes of aging in several models, and proof-of-concept has been established that inhibiting accumulation of senescent cells could become a next generation therapy for age-related disorders. It is clear that cellular senescence drives various pathological changes associated with aging. Accordingly, further investigation into the role of this biological process in age-related disorders and discovery of senolytic compounds are important fields for future exploration.",
+  "type": "academic",
+  "pdf_url": "https://www.frontiersin.org/articles/10.3389/fcvm.2018.00018/pdf"
+}

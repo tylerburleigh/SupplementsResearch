@@ -1,0 +1,20 @@
+{
+  "id": "src-058",
+  "title": "Logic Modeling in Quantitative Systems Pharmacology.",
+  "authors": [
+    "Traynard, Pauline",
+    "Tobalina, Luis",
+    "Eduati, Federica",
+    "Calzone, Laurence",
+    "Saez-Rodriguez, Julio"
+  ],
+  "doi": "10.1002/psp4.12225",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/28681552",
+  "provider": "pubmed",
+  "year": 2017,
+  "venue": "CPT: pharmacometrics & systems pharmacology",
+  "citation_count": 0,
+  "abstract": "Here we present logic modeling as an approach to understand deregulation of signal transduction in disease and to characterize a drug's mode of action. We discuss how to build a logic model from the literature and experimental data and how to analyze the resulting model to obtain insights of relevance for systems pharmacology. Our workflow uses the free tools OmniPath (network reconstruction from the literature), CellNOpt (model fit to experimental data), MaBoSS (model analysis), and Cytoscape (visualization).",
+  "type": "academic",
+  "pdf_url": ""
+}

@@ -1,0 +1,20 @@
+{
+  "id": "src-373",
+  "title": "Simplifying the B Complex: How Vitamins B6 and B9 Modulate One Carbon Metabolism in Cancer and Beyond",
+  "authors": [
+    "Franco, Carolina N.",
+    "Seabrook, Laurence J.",
+    "Nguyen, Steven T.",
+    "Leonard, Jack T.",
+    "Albrecht, Lauren V."
+  ],
+  "doi": "10.3390/metabo12100961",
+  "url": "https://openalex.org/W4304787436",
+  "provider": "openalex",
+  "year": 2022,
+  "venue": "Metabolites",
+  "citation_count": 29,
+  "abstract": "Vitamin B micronutrients are essential regulators of one carbon metabolism that ensures human health. Vitamin B9, or folate, lies at the heart of the folate cycle and converges with the methionine cycle to complete the one carbon pathway. Additionally, vitamin B6 contributes by orchestrating the flux of one carbon cycling. Dysregulation of vitamin B contributes to altered biochemical signaling that manifests in a spectrum of human diseases. This review presents an analysis of the past, present, and future work, highlighting the interplay between folate and vitamin B6 in one carbon metabolism. Emerging insights include advances in metabolomic-based mass spectrometry and the use of live-cell metabolic labeling. Cancer is used as a focal point to dissect vitamin crosstalk and highlight new insights into the roles of folate and vitamin B6 in metabolic control. This collection of vitamin-based research detailing the trends of one carbon metabolism in human disease exemplifies how the future of personalized medicine could unfold using this new base of knowledge and ultimately provide next-generation therapeutics.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2218-1989/12/10/961/pdf?version=1666693641"
+}

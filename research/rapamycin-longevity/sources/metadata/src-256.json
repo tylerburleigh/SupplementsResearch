@@ -1,0 +1,18 @@
+{
+  "id": "src-256",
+  "title": "The mTOR Signalling Pathway in Human Cancer",
+  "authors": [
+    "Pópulo, Helena",
+    "Lopes, José Manuel",
+    "Soares, Paula"
+  ],
+  "doi": "10.3390/ijms13021886",
+  "url": "https://openalex.org/W1965766554",
+  "provider": "openalex",
+  "year": 2012,
+  "venue": "International Journal of Molecular Sciences",
+  "citation_count": 829,
+  "abstract": "The conserved serine/threonine kinase mTOR (the mammalian target of rapamycin), a downstream effector of the PI3K/AKT pathway, forms two distinct multiprotein complexes: mTORC1 and mTORC2. mTORC1 is sensitive to rapamycin, activates S6K1 and 4EBP1, which are involved in mRNA translation. It is activated by diverse stimuli, such as growth factors, nutrients, energy and stress signals, and essential signalling pathways, such as PI3K, MAPK and AMPK, in order to control cell growth, proliferation and survival. mTORC2 is considered resistant to rapamycin and is generally insensitive to nutrients and energy signals. It activates PKC-α and AKT and regulates the actin cytoskeleton. Deregulation of multiple elements of the mTOR pathway (PI3K amplification/mutation, PTEN loss of function, AKT overexpression, and S6K1, 4EBP1 and eIF4E overexpression) has been reported in many types of cancers, particularly in melanoma, where alterations in major components of the mTOR pathway were reported to have significant effects on tumour progression. Therefore, mTOR is an appealing therapeutic target and mTOR inhibitors, including the rapamycin analogues deforolimus, everolimus and temsirolimus, are submitted to clinical trials for treating multiple cancers, alone or in combination with inhibitors of other pathways. Importantly, temsirolimus and everolimus were recently approved by the FDA for the treatment of renal cell carcinoma, PNET and giant cell astrocytoma. Small molecules that inhibit mTOR kinase activity and dual PI3K-mTOR inhibitors are also being developed. In this review, we aim to survey relevant research, the molecular mechanisms of signalling, including upstream activation and downstream effectors, and the role of mTOR in cancer, mainly in melanoma.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/1422-0067/13/2/1886/pdf?version=1403143892"
+}

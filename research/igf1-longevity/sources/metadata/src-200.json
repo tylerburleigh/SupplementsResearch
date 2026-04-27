@@ -1,0 +1,24 @@
+{
+  "id": "src-200",
+  "title": "Dietary Protein Restriction Ameliorates Cardiac Inflammaging via AMPK‐ULK1‐Mediated Mitochondrial Quality Control",
+  "authors": [
+    "Dantas, W. S.",
+    "Zunica, E.",
+    "Heintz, E.",
+    "Hoppel, Charles L.",
+    "Hill, Cristal M",
+    "Morrison, C.",
+    "Axelrod, C.",
+    "Davuluri, G.",
+    "Kirwan, J. P."
+  ],
+  "doi": "10.1111/acel.70386",
+  "url": "https://www.semanticscholar.org/paper/ab0c4541b9d9ce5feeabd22deda0419214cb9e2c",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "Aging Cell",
+  "citation_count": 0,
+  "abstract": "Calorie restriction (CR) is a robust intervention for improving metabolic health and delaying obesity and age‐related diseases, yet its translational utility is limited by adherence challenges and diminished effectiveness later in life. Dietary protein restriction (DPR), which reduces dietary protein without decreasing total caloric intake, has emerged as a promising alternative, yet its cardioprotective potential in the context of obesity and aging remains poorly understood. Here, we demonstrate that DPR mitigates obesity‐induced cardiac remodeling and inflammaging by activating the AMPK–ULK1 signaling axis and enhancing mitochondrial quality control. In middle‐aged male mice with high‐fat diet‐induced obesity, 4 months of DPR attenuated cardiac hypertrophy and normalized heart failure markers, independently of FGF21 signaling. Transcriptomic and protein analyses revealed that DPR suppressed the activation of the cGAS–STING pathway, reduced mitochondrial DNA release into the cytosol, and blunted expression of pro‐inflammatory mediators, including IRF3 and IFN‐γ. DPR also restored mitochondrial dynamics, enhanced mitophagy, and maintained ATP content despite reduced respiratory capacity. Mechanistically, DPR increased AMPK‐dependent ULK1 phosphorylation while suppressing mTOR signaling, thereby promoting mitochondrial turnover. These effects were confirmed in cardiomyocytes, where AMPK knockdown abrogated ULK1 activation and mitophagy under conditions of low amino acid availability. Together, these findings uncover a novel mechanism by which DPR attenuates cardiac inflammation and supports mitochondrial homeostasis, highlighting its therapeutic potential for enhancing cardiovascular health during obesity‐mediated inflammaging.",
+  "type": "academic",
+  "pdf_url": ""
+}

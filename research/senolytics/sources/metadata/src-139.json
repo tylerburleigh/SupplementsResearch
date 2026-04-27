@@ -1,0 +1,17 @@
+{
+  "id": "src-139",
+  "title": "Skeletal Aging and Osteoporosis: Mechanisms and Therapeutics",
+  "authors": [
+    "Chandra, Abhishek",
+    "Rajawat, Jyotika"
+  ],
+  "doi": "10.3390/ijms22073553",
+  "url": "https://openalex.org/W3140129245",
+  "provider": "openalex",
+  "year": 2021,
+  "venue": "International Journal of Molecular Sciences",
+  "citation_count": 239,
+  "abstract": "Bone is a dynamic organ maintained by tightly regulated mechanisms. With old age, bone homeostasis, which is maintained by an intricate balance between bone formation and bone resorption, undergoes deregulation. Oxidative stress-induced DNA damage, cellular apoptosis, and cellular senescence are all responsible for this tissue dysfunction and the imbalance in the bone homeostasis. These cellular mechanisms have become a target for therapeutics to treat age-related osteoporosis. Genetic mouse models have shown the importance of senescent cell clearance in alleviating age-related osteoporosis. Furthermore, we and others have shown that targeting cellular senescence pharmacologically was an effective tool to alleviate age- and radiation-induced osteoporosis. Senescent cells also have an altered secretome known as the senescence associated secretory phenotype (SASP), which may have autocrine, paracrine, or endocrine function. The current review discusses the current and potential pathways which lead to a senescence profile in an aged skeleton and how bone homeostasis is affected during age-related osteoporosis. The review has also discussed existing therapeutics for the treatment of osteoporosis and rationalizes for novel therapeutic options based on cellular senescence and the SASP as an underlying pathogenesis of an aging bone.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/1422-0067/22/7/3553/pdf?version=1617937980"
+}

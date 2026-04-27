@@ -1,0 +1,46 @@
+{
+  "id": "src-028",
+  "title": "A randomized placebo-controlled trial of nicotinamide riboside in older adults with mild cognitive impairment",
+  "authors": [
+    "Orr, Miranda E.",
+    "Kotkowski, Eithan",
+    "Ramirez, Paulino",
+    "Bair-Kelps, Darcy",
+    "Liu, Qianqian",
+    "Brenner, Charles",
+    "Schmidt, Mark S.",
+    "Fox, Peter T.",
+    "Larbi, Anis",
+    "Tan, Crystal",
+    "Wong, Glenn",
+    "Gelfond, Jonathan",
+    "Frost, Bess",
+    "Espinoza, Sara",
+    "Musi, Nicolas",
+    "Powers, Becky"
+  ],
+  "year": 2023,
+  "abstract": "",
+  "doi": "10.1007/s11357-023-00999-9",
+  "url": "https://doi.org/10.1007/s11357-023-00999-9",
+  "pdf_url": "",
+  "venue": "GeroScience",
+  "citation_count": 33,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-20T20:23:37.540381+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-028.md",
+  "quality_details": {
+    "content_length": 27773,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

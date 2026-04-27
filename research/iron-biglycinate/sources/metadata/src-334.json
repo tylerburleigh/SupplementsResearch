@@ -1,0 +1,26 @@
+{
+  "id": "src-334",
+  "title": "Superoxide Activates Ferroptosis via the Haber‐Weiss Reaction and Enhances Age‐Related Macular Degeneration",
+  "authors": [
+    "Huang, Ying",
+    "Zhou, Zhenxing",
+    "Huan, Meng-Jia",
+    "Guo, Qi",
+    "Zhang, Xiaoqian",
+    "Lu, R.",
+    "Chen, Lushu",
+    "Li, Xiumiao",
+    "Yao, Jin",
+    "Jiang, Qin",
+    "Xu, Yong"
+  ],
+  "doi": "10.1111/acel.70195",
+  "url": "https://www.semanticscholar.org/paper/407e73ab14a3673e7e1b15ac7d4e1d28e57b4da1",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "Aging Cell",
+  "citation_count": 7,
+  "abstract": "Antioxidant decline is crucial to driving age‐related macular degeneration (AMD). Ferroptosis, a regulated cell death mediated by iron‐dependent hydroxyl radical‐catalyzed phospholipid peroxidation through the Fenton reaction, is implicated in various chronic degenerative diseases. Here, we show that superoxide activates ferroptosis in retinal pigment epithelium (RPE) cells via the Haber‐Weiss reaction, thereby contributing to dry AMD. We silenced manganese superoxide dismutase (MnSOD/SOD2) in RPE cells and exposed the cells to blue light to induce ferroptosis by increasing superoxide anions. Additionally, MnSOD deficiency triggered the Hsp70‐linked ubiquitin‐dependent degradation of GPX4, further aggravating ferroptosis. We validated blue light‐induced ferroptosis in the RPE layer as a driver of the dry AMD phenotype in Sod2+/− mice. Consequently, SOD mimetics efficiently protected RPE against phototoxicity by reducing superoxide‐activated ferroptosis. Iron chelators or overexpressing GPX4 sufficiently eradicated ferroptosis. The finding reveals that excessive superoxide contributes to phospholipid peroxidation, providing a promising approach for preventing dry AMD by elevating MnSOD to inhibit RPE cell ferroptosis.",
+  "type": "academic",
+  "pdf_url": ""
+}

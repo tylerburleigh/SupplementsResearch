@@ -1,0 +1,19 @@
+{
+  "id": "src-110",
+  "title": "Age‐associated loss of Sirt1‐mediated enhancement of glucose‐stimulated insulin secretion in beta cell‐specific Sirt1‐overexpressing (BESTO) mice",
+  "authors": [
+    "Ramsey, Kathryn Moynihan",
+    "Mills, Kathryn F.",
+    "Satoh, Akiko",
+    "Imai, Shin‐ichiro"
+  ],
+  "doi": "10.1111/j.1474-9726.2007.00355.x",
+  "url": "https://openalex.org/W1973901371",
+  "provider": "openalex",
+  "year": 2007,
+  "venue": "Aging Cell",
+  "citation_count": 321,
+  "abstract": "The Sir2 (silent information regulator 2) family of NAD-dependent deacetylases regulates aging and longevity across a wide variety of organisms, including yeast, worms, and flies. In mammals, the Sir2 ortholog Sirt1 promotes fat mobilization, fatty acid oxidation, glucose production, and insulin secretion in response to nutrient availability. We previously reported that an increased dosage of Sirt1 in pancreatic beta cells enhances glucose-stimulated insulin secretion (GSIS) and improves glucose tolerance in beta cell-specific Sirt1-overexpressing (BESTO) transgenic mice at 3 and 8 months of age. Here, we report that as this same cohort of BESTO mice reaches 18-24 months of age, the GSIS regulated by Sirt1 through repression of Ucp2 is blunted. Increased body weight and hyperlipidemia alone, which are observed in aged males and also induced by a Western-style high-fat diet, are not enough to abolish the positive effects of Sirt1 on beta cell function. Interestingly, plasma levels of nicotinamide mononucleotide (NMN), an important metabolite for the maintenance of normal NAD biosynthesis and GSIS in beta cells, are significantly reduced in aged BESTO mice. Furthermore, NMN administration restores enhanced GSIS and improved glucose tolerance in the aged BESTO females, suggesting that Sirt1 activity decreases with advanced age due to a decline in systemic NAD biosynthesis. These findings provide insight into the age-dependent regulation of Sirt1 activity and suggest that enhancement of systemic NAD biosynthesis and Sirt1 activity in tissues such as beta cells may be an effective therapeutic intervention for age-associated metabolic disorders such as type 2 diabetes.",
+  "type": "academic",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1474-9726.2007.00355.x"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "src-119",
+  "title": "Sirtuins, a promising target in slowing down the ageing process",
+  "authors": [
+    "Grabowska, Wioleta",
+    "Sikora, Ewa",
+    "Bielak-Żmijewska, Anna"
+  ],
+  "doi": "10.1007/s10522-017-9685-9",
+  "url": "https://openalex.org/W2593515715",
+  "provider": "openalex",
+  "year": 2017,
+  "venue": "Biogerontology",
+  "citation_count": 453,
+  "abstract": "Ageing is a plastic process and can be successfully modulated by some biomedical approaches or pharmaceutics. In this manner it is possible to delay or even prevent some age-related pathologies. There are some defined interventions, which give promising results in animal models or even in human studies, resulting in lifespan elongation or healthspan improvement. One of the most promising targets for anti-ageing approaches are proteins belonging to the sirtuin family. Sirtuins were originally discovered as transcription repressors in yeast, however, nowadays they are known to occur in bacteria and eukaryotes (including mammals). In humans the family consists of seven members (SIRT1-7) that possess either mono-ADP ribosyltransferase or deacetylase activity. It is believed that sirtuins play key role during cell response to a variety of stresses, such as oxidative or genotoxic stress and are crucial for cell metabolism. Although some data put in question direct involvement of sirtuins in extending human lifespan, it was documented that proper lifestyle including physical activity and diet can influence healthspan via increasing the level of sirtuins. The search for an activator of sirtuins is one of the most extensive and robust topic of research. Some hopes are put on natural compounds, including curcumin. In this review we summarize the involvement and usefulness of sirtuins in anti-ageing interventions and discuss the potential role of curcumin in sirtuins regulation.",
+  "type": "academic",
+  "pdf_url": "https://link.springer.com/content/pdf/10.1007%2Fs10522-017-9685-9.pdf"
+}

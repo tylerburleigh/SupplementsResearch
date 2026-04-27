@@ -1,0 +1,31 @@
+{
+  "id": "src-347",
+  "title": "Cerebrovascular Effects of Sildenafil in Small Vessel Disease: The OxHARP Trial",
+  "authors": [
+    "Webb, Alastair J.S.",
+    "Birks, Jacqueline S.",
+    "Feakins, Karolina A.",
+    "Lawson, Amy",
+    "Dawson, Jesse",
+    "Rothman, Alexander M.K.",
+    "Werring, David J.",
+    "Llwyd, Osian",
+    "Stewart, Catriona R.",
+    "Thomas, James"
+  ],
+  "year": 2024,
+  "abstract": "BACKGROUND:\nVascular cognitive impairment due to cerebral small vessel disease is associated with cerebral pulsatility, white matter hypoperfusion, and reduced cerebrovascular reactivity (CVR), and is potentially improved by endothelium-targeted drugs such as cilostazol. Whether sildenafil, a phosphodiesterase-5 inhibitor, improves cerebrovascular dysfunction is unknown.\n\nMETHODS:\n\nOxHARP trial (Oxford Haemodynamic Adaptation to Reduce Pulsatility) was a double-blind, randomized, placebo-controlled, 3-way crossover trial after nonembolic cerebrovascular events with mild-moderate white matter hyperintensities (WMH), the most prevalent manifestation of cerebral small vessel disease. The primary outcome assessed the superiority of 3 weeks of sildenafil 50 mg thrice daily versus placebo (mixed-effect linear models) on middle cerebral artery pulsatility, derived from peak systolic and end-diastolic velocities (transcranial ultrasound), with noninferiority to cilostazol 100 mg twice daily. Secondary end points included the following: cerebrovascular reactivity during inhalation of air, 4% and 6% CO\n2\non transcranial ultrasound (transcranial ultrasound-CVR); blood oxygen-level dependent–magnetic resonance imaging within WMH (CVR-WMH) and normal-appearing white matter (CVR-normal-appearing white matter); cerebral perfusion by arterial spin labeling (magnetic resonance imaging pseudocontinuous arterial spin labeling); and resistance by cerebrovascular conductance. Adverse effects were compared by Cochran Q.\n\nRESULTS:\n\nIn 65/75 (87%) patients (median, 70 years;79% male) with valid primary outcome data, cerebral pulsatility was unchanged on sildenafil versus placebo (0.02, −0.01 to 0.05;\nP\n=0.18), or versus cilostazol (−0.01, −0.04 to 0.02;\nP\n=0.36), despite increased blood flow (∆ peak systolic velocity, 6.3 cm/s, 3.5–9.07;\nP\n&lt;0.001; ∆ end-diastolic velocity, 1.98, 0.66–3.29;\nP\n=0.004). Secondary outcomes improved on sildenafil versus placebo for CVR-transcranial ultrasound (0.83 cm/s per mm Hg, 0.23–1.42;\nP\n=0.007), CVR-WMH (0.07, 0–0.14;\nP\n=0.043), CVR-normal-appearing white matter (0.06, 0.00–0.12;\nP\n=0.048), perfusion (WMH: 1.82 mL/100 g per minute, 0.5–3.15;\nP\n=0.008; and normal-appearing white matter, 2.12, 0.66–3.6;\nP\n=0.006) and cerebrovascular resistance (sildenafil-placebo: 0.08, 0.05–0.10;\nP\n=4.9×10\n−8\n; cilostazol-placebo, 0.06, 0.03–0.09;\nP\n=5.1×10\n−5\n). Both drugs increased headaches (\nP\n=1.1×10\n−4\n), while cilostazol increased moderate-severe diarrhea (\nP\n=0.013).\n\nCONCLUSIONS:\nSildenafil did not reduce pulsatility but increased cerebrovascular reactivity and perfusion. Sildenafil merits further study to determine whether it prevents the clinical sequelae of small vessel disease.\n\nREGISTRATION:\n\nURL:\nhttps://www.clinicaltrials.gov/study/NCT03855332\n; Unique identifier: NCT03855332.",
+  "doi": "10.1161/circresaha.124.324327",
+  "url": "https://doi.org/10.1161/circresaha.124.324327",
+  "pdf_url": "",
+  "venue": "Circulation Research",
+  "citation_count": 29,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-25T15:07:09.185131+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "src-145",
+  "title": "Is it time to introduce anti-inflammatory drugs into secondary cardiovascular prevention: evidence from clinical trials?",
+  "authors": [
+    "Maggioni, Aldo Pietro",
+    "Iervolino, Adelaide",
+    "Andreotti, Felicita"
+  ],
+  "year": 2021,
+  "abstract": "",
+  "doi": "10.20517/2574-1209.2021.05",
+  "url": "https://doi.org/10.20517/2574-1209.2021.05",
+  "pdf_url": "",
+  "venue": "Vessel Plus",
+  "citation_count": 2,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-24T01:13:43.861059+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-145.md",
+  "quality_details": {
+    "content_length": 31495,
+    "alpha_ratio": 0.718,
+    "sentence_count": 313,
+    "reasons": []
+  }
+}

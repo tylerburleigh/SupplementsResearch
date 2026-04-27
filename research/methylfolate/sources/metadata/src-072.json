@@ -1,0 +1,23 @@
+{
+  "id": "src-072",
+  "title": "Low folate levels may protect against colorectal cancer",
+  "authors": [
+    "Guelpen, Bethany Van",
+    "Hultdin, J",
+    "Johansson, I",
+    "Hallmans, G",
+    "Stenling, R",
+    "Riboli, E",
+    "Winkvist, A",
+    "Palmqvist, R"
+  ],
+  "doi": "10.1136/gut.2005.085480",
+  "url": "https://openalex.org/W2162481695",
+  "provider": "openalex",
+  "year": 2006,
+  "venue": "Gut",
+  "citation_count": 222,
+  "abstract": "Our findings suggest a decreased CRC risk in subjects with low folate status. This possibility of a detrimental component to the role of folate in carcinogenesis could have implications in the ongoing debate in Europe concerning mandatory folate fortification of foods.",
+  "type": "academic",
+  "pdf_url": "https://gut.bmj.com/content/gutjnl/55/10/1461.full.pdf"
+}

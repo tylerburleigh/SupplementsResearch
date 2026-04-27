@@ -1,0 +1,21 @@
+{
+  "id": "src-338",
+  "title": "Curcumin and dimethoxycurcumin induced epigenetic changes in leukemia cells.",
+  "authors": [
+    "Hassan, Hazem E",
+    "Carlson, Samuel",
+    "Abdallah, Inas",
+    "Buttolph, Thomm",
+    "Glass, Karen C",
+    "Fandy, Tamer E"
+  ],
+  "doi": "10.1007/s11095-014-1502-4",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/25186441",
+  "provider": "pubmed",
+  "year": 2015,
+  "venue": "Pharmaceutical research",
+  "citation_count": 0,
+  "abstract": "PURPOSE: Curcumin is an ideal chemopreventive and antitumor agent characterized by poor bioavailability and low stability. The development of synthetic structural analogues like dimethoxycurcumin (DMC) could overcome these drawbacks. In this study we compared the cytotoxicity, metabolism and the epigenetic changes induced by both drugs in leukemia cells.\nMETHODS: Apoptosis and cell cycle analysis were analyzed by flow cytometry. Real-time PCR was used for gene expression analysis. DNA methylation was analyzed by DNA pyrosequencing. The metabolic stability was determined using human pooled liver microsomes. Chromatin Immunoprecipitation was used to quantify histone methylation.\nRESULTS: Clinically relevant concentration of curcumin and DMC were not cytotoxic to leukemia cells and induced G2/M cell cycle arrest. DMC was more metabolically stable than curcumin. Curcumin and DMC were devoid of DNA hypomethylating activity. DMC induced the expression of promoter methylated genes without reversing DNA methylation and increased H3K36me3 mark near the promoter region of hypermethylated genes.\nCONCLUSION: DMC is a more stable analogue of curcumin that can induce epigenetic changes not induced by curcumin. DMC induced the expression of promoter methylated genes. The combination of DMC with DNA methyltransferase inhibitors could harness their combined induced epigenetic changes for optimal re-expression of epigenetically silenced genes.",
+  "type": "academic",
+  "pdf_url": ""
+}

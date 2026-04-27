@@ -1,0 +1,19 @@
+{
+  "id": "src-152",
+  "title": "Mendelian Randomisation and Causal Inference in Observational Epidemiology",
+  "authors": [
+    "Sheehan, Nuala A.",
+    "Didelez, Vanessa",
+    "Burton, Paul R.",
+    "Tobin, Martin D."
+  ],
+  "doi": "10.1371/journal.pmed.0050177",
+  "url": "https://openalex.org/W2151034010",
+  "provider": "openalex",
+  "year": 2008,
+  "venue": "PLoS Medicine",
+  "citation_count": 391,
+  "abstract": "The notion of risk is central to epidemiological research, both in its original context of studying conditions thought to be caused by a particular factor and, more broadly, in predicting the probability of a condition for prognostic purposes. For prognostic research, all factors associated with the outcome are of interest, whether they are causal or not. In aetiological research, on the other hand, causality is meaningful. Here, the focus is often on assessing the effect of some modifiable exposure on a disease with a view to informing health interventions at the individual or population level, or health advice for particular risk groups. For such intervention or advice to be effective, it is important to verify that the observed association between the exposure and disease means that the exposure is in fact causal for the disease. For example, once the relationship between periconceptual maternal folate supplementation and risk of neural tube defects was established, the United States, Canada, and Chile implemented mandatory fortification of cereal flour and related foods with folic acid and reported reductions in neural tube defect incidence between 27% and just over 50%. However, observational research has had several high-profile failures when exposures that seemed to affect disease risk were later shown to be non-causal in follow-up randomised controlled trials (RCTs). For instance, observational evidence that seemed to suggest that vitamin E is protective for cardiovascular disease, beta-carotene for cancer, and, more recently, oestrogen for dementia, has now been refuted. Since only candidate causes with the strongest observational support tend to be followed up in RCTs when these are possible, it is likely that many more reported observational findings are not actually causal.",
+  "type": "academic",
+  "pdf_url": "https://journals.plos.org/plosmedicine/article/file?id=10.1371/journal.pmed.0050177&type=printable"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "src-180",
+  "title": "Discovery and characterization of a new class of NAD+-independent SIRT1 activators.",
+  "authors": [
+    "Torre, S. Della",
+    "Dell'omo, G.",
+    "Dellavedova, Jessica",
+    "Palazzolo, L.",
+    "Scanziani, Eugenio",
+    "Eberini, Ivano",
+    "Pinto, A.",
+    "Mitro, N.",
+    "Conti, P.",
+    "Villa, A.",
+    "Ciana, Paolo"
+  ],
+  "doi": "10.1016/j.phrs.2024.107296",
+  "url": "https://www.semanticscholar.org/paper/7f379f5115eb4dca0f71959c5dcefb904d803d1e",
+  "provider": "semantic_scholar",
+  "year": 2024,
+  "venue": "Pharmacological Research",
+  "citation_count": 6,
+  "abstract": "The activity of sirtuin 1 (SIRT1, a member of the NAD+-dependent deacetylases family) decreases during aging as NAD+ levels naturally decline, thus increasing the risk of several age-associated diseases. Several sirtuin-activating compounds (STACs) have been developed to counteract the age-associated reduction in SIRT1 activity, and some of them are currently under development in clinical trials. STACs induce SIRT1 activation, either through allosteric activation of the enzyme in the presence of NAD+, or by increasing NAD+ levels by inhibiting its degradation or by supplying a key precursor in biosynthesis. In this study, we have identified (E)-2'-des-methyl sulindac analogues as a novel class of STACs that act also in the absence of NAD+, a peculiar behavior demonstrated through enzymatic and mass spectrometry experiments, both in vitro and in cell lines. The activation of the SIRT1 pathway was confirmed in vivo through gene expression and metabolomics analysis. Our data suggest that these compounds could serve as candidate leads for a novel therapeutic strategy aimed at addressing a key metabolic deficiency that may contribute to metabolic and age-associated diseases.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.1016/j.phrs.2024.107296"
+}

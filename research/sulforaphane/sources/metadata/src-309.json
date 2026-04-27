@@ -1,0 +1,17 @@
+{
+  "id": "src-309",
+  "title": "A molecular mechanism for the effect of lithium on development.",
+  "authors": [
+    "Klein, Peter S.",
+    "Melton, Douglas A."
+  ],
+  "doi": "10.1073/pnas.93.16.8455",
+  "url": "https://openalex.org/W2051788298",
+  "provider": "openalex",
+  "year": 1996,
+  "venue": "Proceedings of the National Academy of Sciences",
+  "citation_count": 2289,
+  "abstract": "Lithium, one of the most effective drugs for the treatment of bipolar (manic-depressive) disorder, also has dramatic effects on morphogenesis in the early development of numerous organisms. How lithium exerts these diverse effects is unclear, but the favored hypothesis is that lithium acts through inhibition of inositol monophosphatase (IMPase). We show here that complete inhibition of IMPase has no effect on the morphogenesis of Xenopus embryos and present a different hypothesis to explain the broad action of lithium. Our results suggest that lithium acts through inhibition of glycogen synthase kinase-3 beta (GSK-3 beta), which regulates cell fate determination in diverse organisms including Dictyostelium, Drosophila, and Xenopus. Lithium potently inhibits GSK-3 beta activity (Ki = 2 mM), but is not a general inhibitor of other protein kinases. In support of this hypothesis, lithium treatment phenocopies loss of GSK-3 beta function in Xenopus and Dictyostelium. These observations help explain the effect of lithium on cell-fate determination and could provide insights into the pathogenesis and treatment of bipolar disorder.",
+  "type": "academic",
+  "pdf_url": ""
+}

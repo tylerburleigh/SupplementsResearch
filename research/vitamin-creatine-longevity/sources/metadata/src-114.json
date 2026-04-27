@@ -1,0 +1,31 @@
+{
+  "id": "src-114",
+  "title": "Role Of Creatine Supplementation In Enhanching Cognitive Function In The General Population: A Literature Review",
+  "authors": [
+    "Gala Novendra"
+  ],
+  "year": 2025,
+  "abstract": "Background: Creatine is a vital compound in cellular energy homeostasis, playing a key role in regenerating adenosine triphosphate (ATP) in tissues with high energy demands, such as the brain. Due to its importance in cerebral bioenergetics, creatine supplementation has been investigated as a potential cognitive enhancer. This literature review aims to synthesize and evaluate the current evidence on the effects of creatine supplementation on cognitive function in the healthy general population. Methods: A systematic search was conducted on PubMed and Google Scholar for articles published between 2015 and 2025. The search strategy utilized the PICO framework (Population: healthy adults; Intervention: oral creatine monohydrate; Comparison: placebo; Outcome: cognitive function) and specific keywords, including \"creatine supplement,\" \"cognitive function,\" and \"adult.\" The review included only full-text, peer-reviewed randomized controlled trials (RCTs) conducted on healthy human populations. Results: The analysis of five selected RCTs revealed that the impact of creatine on cognition is highly context-dependent. In healthy adults under normal conditions, supplementation showed minimal to no significant improvement in major cognitive domains; for instance, working memory tasks showed only borderline improvement (p = 0.064). However, evidence indicates a beneficial effect under conditions of significant metabolic stress. Studies demonstrated that creatine can mitigate cognitive decline associated with sleep deprivation and hypoxia, particularly improving accuracy (p = 0.026), processing speed, and attention. The efficacy appears linked to higher doses or acute loading protocols used in response to these stressors. Conclusion: Creatine supplementation does not appear to be a general cognitive enhancer for healthy individuals in normal states. Its primary benefit seems to be as a neuroprotective agent that supports cognitive function during periods of high cerebral energy demand. Future research should focus on larger, more diverse cohorts, standardized dosing protocols, and the inclusion of neuroimaging measures to correlate biological changes with cognitive outcomes, thereby clarifying the specific conditions under which creatine may be beneficial.",
+  "doi": "10.33005/jdiversemedres.v2i12.289",
+  "url": "https://doi.org/10.33005/jdiversemedres.v2i12.289",
+  "pdf_url": "",
+  "venue": "Journal of Diverse Medical Research : Medicosphere",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T13:52:55.583781+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-114.md",
+  "quality_details": {
+    "content_length": 22889,
+    "alpha_ratio": 0.785,
+    "sentence_count": 169,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "src-262",
+  "title": "Carnitine/Organic Cation Transporter OCTN1 Negatively Regulates Activation in Murine Cultured Microglial Cells.",
+  "authors": [
+    "Ishimoto, Takahiro",
+    "Nakamichi, Noritaka",
+    "Nishijima, Hikari",
+    "Masuo, Yusuke",
+    "Kato, Yukio"
+  ],
+  "doi": "10.1007/s11064-017-2350-5",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/28688036",
+  "provider": "pubmed",
+  "year": 2018,
+  "venue": "Neurochemical research",
+  "citation_count": 0,
+  "abstract": "Brain immune cells, i.e., microglia, play an important role in the maintenance of brain homeostasis, whereas chronic overactivation of microglia is involved in the development of various neurodegenerative disorders. Therefore, the regulation of microglial activation may contribute to their treatment. The aim of the present study was to clarify the functional expression of carnitine/organic cation transporter OCTN1/SLC22A4, which recognizes the naturally occurring food-derived antioxidant ergothioneine (ERGO) as a substrate in vivo, in microglia and its role in regulation of microglial activation. Primary cultured microglia derived from wild-type mice (WT-microglia) and mouse microglial cell line BV2 exhibited time-dependent uptake of [3H]- or d9-labeled ERGO. The uptake was markedly decreased in cultured microglia from octn1 gene knockout mice (octn1 -/--microglia) and BV2 cells transfected with small interfering RNA targeting the mouse octn1 gene (siOCTN1). These results demonstrate that OCTN1 is functionally expressed in murine microglial cells. Exposure of WT-microglia to ERGO led to a significant decrease in cellular hypertrophy by LPS-stimulation with concomitant attenuation of intracellular reactive oxygen species (ROS), suggesting that OCTN1-mediated ERGO uptake may suppress cellular hypertrophy via the inhibition of ROS production with microglial activation. The expression of mRNA for interleukin-1β (IL-1β) after LPS-treatment was significantly increased in octn1 -/--microglia and siOCTN1-treated BV2 cells compared to the control cells. Meanwhile, treatment of ERGO minimally affected the induction of IL-1β mRNA by LPS-stimulation in cultured microglia and BV2 cells. Thus, OCTN1 negatively regulated the induction of inflammatory cytokine IL-1β, at least in part, via the transport of unidentified substrates other than ERGO in microglial cells.",
+  "type": "academic",
+  "pdf_url": ""
+}

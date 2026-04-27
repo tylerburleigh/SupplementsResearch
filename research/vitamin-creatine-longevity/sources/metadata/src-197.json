@@ -1,0 +1,32 @@
+{
+  "id": "src-197",
+  "title": "Gastrointestinal and Fluid Retention Symptoms Associated with Creatine Monohydrate With and Without Loading Dose Over 28 Days of Supplementation",
+  "authors": [
+    "Wagner, Jon C",
+    "Faulkner, Mark",
+    "Faulkner, William",
+    "Mullins, Fredrick"
+  ],
+  "year": 2025,
+  "abstract": "Abstract\n\nBackground\nCreatine monohydrate (CM) is widely used for improving athletic performance and supporting general health. Despite its well-established safety profile, gastrointestinal (GI) distress and varying issues related to fluid retention remains a commonly reported side effect, particularly at higher doses. As CM is increasingly utilized in non-athletic populations—including females who are underrepresented in performance trials and patients with a variety of medical conditions that may require larger doses—understanding the tolerability of different dosing regimens is essential.\n\nObjective\nThis study aimed to investigate the incidence and severity of GI symptoms and fluid retention associated with daily CM supplementation, with and without a loading phase, in healthy male and female adults.\n\nMethods\nIn a 28-day single-center, single-blind, randomized clinical trial conducted by Princeton Consumer Research Corp., 24 healthy participants were assigned to either Group A (5 g/day CM) or Group B (20 g/day loading dose for 14 days followed by 5 g/day maintenance). Blood and urine samples were collected at baseline and day 28 to assess safety. GI symptoms were recorded via self-report using a structured severity rating scale.\n\nResults\nAll participants completed the study without any serious adverse events. One non-serious adverse event (menstrual cramps) was reported and deemed unrelated to CM use. Undesired GI symptoms were reported by 79.2% of all participants and by 81.0% of females, with bloating, water retention, puffiness, and stomach discomfort being the most frequently cited. A higher proportion of participants in the loading dose group (Group B) reported GI symptoms, which were also rated as more severe compared to the standard dose group (Group A), though differences did not reach statistical significance. Laboratory analyses revealed no clinically significant changes, indicating both regimens were safe over 28 days.\n\nConclusion\nCM supplementation at both standard and loading doses is generally safe but frequently associated with mild to severe GI symptoms. While not statistically significant, a trend toward greater frequency and severity of symptoms in the loading group suggests a potential dose-dependent effect. These findings warrant further research on higher CM doses, tolerability in diverse populations, and whether more soluble creatine formulations may reduce GI side effects and improve adherence.",
+  "doi": "10.1101/2025.10.07.25337280",
+  "url": "https://doi.org/10.1101/2025.10.07.25337280",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T14:06:42.842968+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-197.md",
+  "quality_details": {
+    "content_length": 23352,
+    "alpha_ratio": 0.762,
+    "sentence_count": 205,
+    "reasons": []
+  }
+}

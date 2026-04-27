@@ -1,0 +1,7 @@
+12	2	Abstract
+120	2	Experimental Design
+448	2	Results
+556	2	Discussion
+785	2	Acknowledgements
+817	2	References
+917	2	31. American College of Sports Medicine, Sawka MN, Burke LM,

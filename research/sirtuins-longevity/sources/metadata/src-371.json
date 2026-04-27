@@ -1,0 +1,20 @@
+{
+  "id": "src-371",
+  "title": "In defence of ferroptosis",
+  "authors": [
+    "Alves, Francesca",
+    "Lane, Darius J.R.",
+    "Nguyen, Triet Phu Minh",
+    "Bush, Ashley I.",
+    "Ayton, Scott"
+  ],
+  "doi": "10.1038/s41392-024-02088-5",
+  "url": "https://openalex.org/W4406003705",
+  "provider": "openalex",
+  "year": 2025,
+  "venue": "Signal Transduction and Targeted Therapy",
+  "citation_count": 112,
+  "abstract": "Rampant phospholipid peroxidation initiated by iron causes ferroptosis unless this is restrained by cellular defences. Ferroptosis is increasingly implicated in a host of diseases, and unlike other cell death programs the physiological initiation of ferroptosis is conceived to occur not by an endogenous executioner, but by the withdrawal of cellular guardians that otherwise constantly oppose ferroptosis induction. Here, we profile key ferroptotic defence strategies including iron regulation, phospholipid modulation and enzymes and metabolite systems: glutathione reductase (GR), Ferroptosis suppressor protein 1 (FSP1), NAD(P)H Quinone Dehydrogenase 1 (NQO1), Dihydrofolate reductase (DHFR), retinal reductases and retinal dehydrogenases (RDH) and thioredoxin reductases (TR). A common thread uniting all key enzymes and metabolites that combat lipid peroxidation during ferroptosis is a dependence on a key cellular reductant, nicotinamide adenine dinucleotide phosphate (NADPH). We will outline how cells control central carbon metabolism to produce NADPH and necessary precursors to defend against ferroptosis. Subsequently we will discuss evidence for ferroptosis and NADPH dysregulation in different disease contexts including glucose-6-phosphate dehydrogenase deficiency, cancer and neurodegeneration. Finally, we discuss several anti-ferroptosis therapeutic strategies spanning the use of radical trapping agents, iron modulation and glutathione dependent redox support and highlight the current landscape of clinical trials focusing on ferroptosis.",
+  "type": "academic",
+  "pdf_url": "https://www.nature.com/articles/s41392-024-02088-5.pdf"
+}

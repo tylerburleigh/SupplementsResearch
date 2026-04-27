@@ -1,0 +1,31 @@
+{
+  "id": "src-036",
+  "title": "Impact of senolytic treatment on immunity, aging, and disease",
+  "authors": [
+    "Lorenzo, Erica C.",
+    "Torrance, Blake L.",
+    "Haynes, Laura"
+  ],
+  "year": 2023,
+  "abstract": "Cellular senescence has been implicated in the pathophysiology of many age-related diseases. However, it also plays an important protective role in the context of tumor suppression and wound healing. Reducing senescence burden through treatment with senolytic drugs or the use of genetically targeted models of senescent cell elimination in animals has shown positive results in the context of mitigating disease and age-associated inflammation. Despite positive, albeit heterogenous, outcomes in clinical trials, very little is known about the short-term and long-term immunological consequences of using senolytics as a treatment for age-related conditions. Further, many studies examining cellular senescence and senolytic treatment have been demonstrated in non-infectious disease models. Several recent reports suggest that senescent cell elimination may have benefits in COVID-19 and influenza resolution and disease prognosis. In this review, we discuss the current clinical trials and pre-clinical studies that are exploring the impact of senolytics on cellular immunity. We propose that while eliminating senescent cells may have an acute beneficial impact on primary immune responses, immunological memory may be negatively impacted. Closer investigation of senolytics on immune function and memory generation would provide insight as to whether senolytics could be used to enhance the aging immune system and have potential to be used as therapeutics or prophylactics in populations that are severely and disproportionately affected by infections such as the elderly and immunocompromised.",
+  "doi": "10.3389/fragi.2023.1161799",
+  "url": "https://doi.org/10.3389/fragi.2023.1161799",
+  "pdf_url": "",
+  "venue": "Frontiers in Aging",
+  "citation_count": 24,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-24T12:46:47.986646+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-036.md",
+  "quality_details": {
+    "content_length": 84452,
+    "alpha_ratio": 0.723,
+    "sentence_count": 1377,
+    "reasons": []
+  }
+}

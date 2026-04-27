@@ -1,0 +1,17 @@
+{
+  "id": "src-121",
+  "title": "The Beneficial Roles of SIRT1 in Neuroinflammation-Related Diseases",
+  "authors": [
+    "Jiao, Fangzhou",
+    "Gong, Zuojiong"
+  ],
+  "doi": "10.1155/2020/6782872",
+  "url": "https://openalex.org/W3090668231",
+  "provider": "openalex",
+  "year": 2020,
+  "venue": "Oxidative Medicine and Cellular Longevity",
+  "citation_count": 276,
+  "abstract": "Sirtuins are the class III of histone deacetylases whose deacetylate of histones is dependent on nicotinamide adenine dinucleotide (NAD+). Among seven sirtuins, SIRT1 plays a critical role in modulating a wide range of physiological processes, including apoptosis, DNA repair, inflammatory response, metabolism, cancer, and stress. Neuroinflammation is associated with many neurological diseases, including ischemic stroke, bacterial infections, traumatic brain injury, Alzheimer's disease (AD), and Parkinson's disease (PD). Recently, numerous studies indicate the protective effects of SIRT1 in neuroinflammation-related diseases. Here, we review the latest progress regarding the anti-inflammatory and neuroprotective effects of SIRT1. First, we introduce the structure, catalytic mechanism, and functions of SIRT1. Next, we discuss the molecular mechanisms of SIRT1 in the regulation of neuroinflammation. Finally, we analyze the mechanisms and effects of SIRT1 in several common neuroinflammation-associated diseases, such as cerebral ischemia, traumatic brain injury, spinal cord injury, AD, and PD. Taken together, this information implies that SIRT1 may serve as a promising therapeutic target for the treatment of neuroinflammation-associated disorders.",
+  "type": "academic",
+  "pdf_url": "https://downloads.hindawi.com/journals/omcl/2020/6782872.pdf"
+}

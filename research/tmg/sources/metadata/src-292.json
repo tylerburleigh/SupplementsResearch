@@ -1,0 +1,27 @@
+{
+  "id": "src-292",
+  "title": "Genome Sequence of the Versatile Fish Pathogen Edwardsiella tarda Provides Insights into its Adaptation to Broad Host Ranges and Intracellular Niches",
+  "authors": [
+    "Wang, Qiyao",
+    "Yang, Minjun",
+    "Xiao, Jingfan",
+    "Wu, Haizhen",
+    "Wang, Xin",
+    "Lv, Yuanzhi",
+    "Xu, Lili",
+    "Zheng, Huajun",
+    "Wang, Shengyue",
+    "Zhao, Guoping",
+    "Liu, Qin",
+    "Zhang, Yuanxing"
+  ],
+  "doi": "10.1371/journal.pone.0007646",
+  "url": "https://openalex.org/W2094298224",
+  "provider": "openalex",
+  "year": 2009,
+  "venue": "PLoS ONE",
+  "citation_count": 239,
+  "abstract": "Genomic analysis of the bacterium offered insights into the phylogeny, metabolism, drug-resistance, stress adaptation, and virulence characteristics of this versatile pathogen, which constitutes an important first step in understanding the pathogenesis of E. tarda to facilitate construction of a practical effective vaccine used for combating fish edwardsiellosis.",
+  "type": "academic",
+  "pdf_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0007646&type=printable"
+}

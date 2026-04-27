@@ -1,0 +1,25 @@
+{
+  "id": "src-306",
+  "title": "Folic Acid Supplementation Mitigates Alzheimer’s Disease by Reducing Inflammation: A Randomized Controlled Trial",
+  "authors": [
+    "Chen, Hui",
+    "Liu, Shuai",
+    "Ji, Lü",
+    "Wu, Tianfeng",
+    "Ji, Yong",
+    "Zhou, Yuying",
+    "Zheng, Miaoyan",
+    "Zhang, Meilin",
+    "Xu, Weili",
+    "Huang, Guowei"
+  ],
+  "doi": "10.1155/2016/5912146",
+  "url": "https://openalex.org/W2417659148",
+  "provider": "openalex",
+  "year": 2016,
+  "venue": "Mediators of Inflammation",
+  "citation_count": 195,
+  "abstract": "Background/Aims. Low serum folate levels can alter inflammatory reactions. Both phenomena have been linked to Alzheimer's disease (AD), but the effect of folic acid on AD itself is unclear. We quantified folate supplementation's effect on inflammation and cognitive function in patients with AD over the course of 6 months. Methods. Patients newly diagnosed with AD (age > 60 years; n = 121; mild to severe; international criteria) and being treated with donepezil were randomly assigned into two groups with (intervention group) or without (control group) supplemental treatment with folic acid (1.25 mg/d) for 6 months. The Mini-Mental State Examination (MMSE) was administered to all patients at baseline and follow-up, and blood samples were taken before and after treatment. We quantified serum folate, amyloid beta (Aβ), interleukin-6 (IL-6), tumor necrosis factor α (TNFα), plasma homocysteine (Hcy), S-adenosylmethionine (SAM), S-adenosylhomocysteine (SAH), and the mRNA levels of presenilin (PS), IL-6, and TNFα in leukocytes. Data were analyzed using a repeated-measures mixed model. Results. The mean MMSE was slightly increased in the intervention group compared to that in the control group (P < 0.05). Posttreatment, plasma SAM and SAM/SAH levels were significantly higher (P < 0.05), while Aβ 40, PS1-mRNA, and TNFα-mRNA levels were lower in the intervention group than in the control group (P < 0.05). The Aβ 42/Aβ 40 ratio was also higher in the intervention group (P < 0.05). Conclusions. Folic acid is beneficial in patients with AD. Inflammation may play an important role in the interaction between folic acid and AD. This trial is registered with clinical trial registration number ChiCTR-TRC-13003246.",
+  "type": "academic",
+  "pdf_url": "https://downloads.hindawi.com/journals/mi/2016/5912146.pdf"
+}

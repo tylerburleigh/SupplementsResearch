@@ -1,0 +1,43 @@
+{
+  "id": "src-071",
+  "title": "Exploring the effects of Dasatinib, Quercetin, and Fisetin on DNA methylation clocks: a longitudinal study on senolytic interventions",
+  "authors": [
+    "Lee, Edwin",
+    "Carreras-Gallo, Natàlia",
+    "Lopez, Leilani",
+    "Turner, Logan",
+    "Lin, Aaron",
+    "Mendez, Tavis L.",
+    "Went, Hannah",
+    "Tomusiak, Alan",
+    "Verdin, Eric",
+    "Corley, Michael",
+    "Ndhlovu, Lishomwa",
+    "Smith, Ryan",
+    "Dwaraka, Varun B."
+  ],
+  "year": 2024,
+  "abstract": "",
+  "doi": "10.18632/aging.205581",
+  "url": "https://doi.org/10.18632/aging.205581",
+  "pdf_url": "",
+  "venue": "Aging",
+  "citation_count": 38,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-24T12:49:58.365687+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-071.md",
+  "quality_details": {
+    "content_length": 59392,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

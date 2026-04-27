@@ -1,0 +1,22 @@
+{
+  "id": "src-267",
+  "title": "Curcumin Attenuates Testicular Injury in Rats with Streptozotocin-Induced Diabetes",
+  "authors": [
+    "Zha, Wenliang",
+    "Bai, Y.",
+    "Xu, Ling",
+    "Liu, Yuning",
+    "Yang, Zhen",
+    "Gao, Hui",
+    "Li, Jun"
+  ],
+  "doi": "10.1155/2018/7468019",
+  "url": "https://openalex.org/W2886602231",
+  "provider": "openalex",
+  "year": 2018,
+  "venue": "BioMed Research International",
+  "citation_count": 65,
+  "abstract": "Oxidative damage, inflammation, and apoptosis are the primary features of diabetic testicular damage. Curcumin protects against diabetic testicular injury, but the underlying mechanisms remain obscure. This study examined the effect of curcumin on type 2 diabetes mellitus- (T2DM-) induced testicular injury, oxidative stress, and apoptotic changes. T2DM rats were intraperitoneally injected with 40 mg/kg STZ after being fed a high-fat diet for 8 weeks. One week after STZ injection, 100 or 200 mg/kg curcumin was administered orally to the diabetic rats for 16 weeks. Histological changes in the testes were determined by HE staining. Serum testosterone was measured. Markers of superoxide levels, such as SOD activity and MDA content, and markers of cell death, including the expression of Bax, Bcl-2, and MAPK family members, were measured by molecular biology or immunohistochemical techniques. Degeneration and disruption of seminiferous tubule structure were observed in diabetic rats. Serum testosterone levels were markedly lower in diabetic rats than in control rats. Moreover, testicular apoptosis and Bax expression were much higher in diabetic rats than in control rats. Superoxide generation, the NADP<sup>+</sup>/NADPH ratio, and NADPH oxidase subunit expression, including expression of the gp91<sup>phox</sup>, p47<sup>phox</sup>, and p67<sup>phox</sup> subunits, increased, while antioxidant enzyme levels decreased in diabetic rats. Furthermore, the MAPK signaling pathway was activated in diabetic rats. Curcumin partially prevented diabetes-induced microstructural abnormalities and significantly increased serum testosterone levels compared to untreated T2DM rats. Additionally, curcumin reduced testicular apoptosis by regulating apoptotic proteins and markedly inhibited oxidative stress levels by downregulating MDA expression, decreasing NADPH activity, and restoring antioxidant enzymes. Remarkably, curcumin treatment also suppressed MAPK activation. Thus, curcumin may have therapeutic value in the treatment of diabetes-induced testicular injury due to its prevention of testicular apoptosis and attenuation of oxidative stress.",
+  "type": "academic",
+  "pdf_url": "https://downloads.hindawi.com/journals/bmri/2018/7468019.pdf"
+}

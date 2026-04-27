@@ -1,0 +1,19 @@
+{
+  "id": "src-104",
+  "title": "Black gas, bright future: H2S based therapeutics for neurodegenerative disorders.",
+  "authors": [
+    "Morris, Jordan L",
+    "Lee, Jordan J",
+    "Morris, Russell E",
+    "Miljkovic, Jan Lj"
+  ],
+  "doi": "10.1016/j.neurot.2025.e00755",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40998690",
+  "provider": "pubmed",
+  "year": 2025,
+  "venue": "Neurotherapeutics : the journal of the American Society for Experimental NeuroTherapeutics",
+  "citation_count": 0,
+  "abstract": "From shaping Earth's earliest anoxic seas to quietly orchestrating cellular life today, hydrogen sulfide (H2S) has journeyed from ancient toxin to modern therapeutic candidate. Once abundant in Earth's primordial environment, H2S has reemerged as a critical endogenous gasotransmitter in modern biology. Within the central nervous system, H2S regulates redox homeostasis, mitochondrial bioenergetics, inflammatory signalling, and neuronal excitability. A key mechanism involves post-translational modification of protein cysteine residues (persulfidation), reactions with metal centres, and scavenging of reactive oxygen and nitrogen species, thereby influencing diverse cellular processes. Dysregulation of H2S metabolism, whether deficient or excessive, is increasingly implicated in neurodegenerative diseases such as Alzheimer's, Parkinson's, Huntington's disease, Down syndrome, and in stroke and traumatic brain injury. This review focuses on neuronal aspects of H2S biology and therapeutic relevance in these conditions. Restoration of H2S signalling in preclinical models improves cognitive and motor function, reduces neuropathology, and preserves mitochondrial integrity. Therapeutic innovation has produced a variety of H2S donors, including slow-releasing compounds, organelle-targeted agents, and emerging nanomaterial platforms such as polymer-based and metal-organic frameworks for precision CNS delivery. Natural compounds such as ergothioneine, a sulfur-containing antioxidant, are also gaining attention as potential modulators of endogenous H2S pathways. Future directions include integration of H2S therapies with genetic targeting tools and elucidation of their interactions with other gasotransmitters and gut-brain axis signalling. Although clinical trials remain limited, the convergence of donor chemistry, molecular biology, and delivery technologies positions H2S-based therapeutics as a promising frontier for treating neurodegeneration and acute neural injuries.",
+  "type": "academic",
+  "pdf_url": ""
+}

@@ -1,0 +1,21 @@
+{
+  "id": "src-088",
+  "title": "Traumatic Brain Injury Alters Methionine Metabolism: Implications for Pathophysiology",
+  "authors": [
+    "Dash, Pramod K.",
+    "Hergenroeder, Georgene W.",
+    "Jeter, Cameron B.",
+    "Choi, H. Alex",
+    "Kobori, Nobuhide",
+    "Moore, Anthony N."
+  ],
+  "doi": "10.3389/fnsys.2016.00036",
+  "url": "https://openalex.org/W2344764661",
+  "provider": "openalex",
+  "year": 2016,
+  "venue": "Frontiers in Systems Neuroscience",
+  "citation_count": 75,
+  "abstract": "Methionine is an essential proteinogenic amino acid that is obtained from the diet. In addition to its requirement for protein biosynthesis, methionine is metabolized to generate metabolites that play key roles in a number of cellular functions. Metabolism of methionine via the transmethylation pathway generates S-adenosylmethionine (SAM) that serves as the principal methyl (-CH3) donor for DNA and histone methyltransferases (MTs) to regulate epigenetic changes in gene expression. SAM is also required for methylation of other cellular proteins that serve various functions and phosphatidylcholine synthesis that participate in cellular signaling. Under conditions of oxidative stress, homocysteine (which is derived from SAM) enters the transsulfuration pathway to generate glutathione, an important cytoprotective molecule against oxidative damage. As both experimental and clinical studies have shown that traumatic brain injury (TBI) alters DNA and histone methylation and causes oxidative stress, we examined if TBI alters the plasma levels of methionine and its metabolites in human patients. Blood samples were collected from healthy volunteers (HV; n = 20) and patients with mild TBI (mTBI; GCS > 12; n = 20) or severe TBI (sTBI; GCS < 8; n = 20) within the first 24 h of injury. The levels of methionine and its metabolites in the plasma samples were analyzed by either liquid chromatography-mass spectrometry or gas chromatography-mass spectrometry (LC-MS or GC-MS). sTBI decreased the levels of methionine, SAM, betaine and 2-methylglycine as compared to HV, indicating a decrease in metabolism through the transmethylation cycle. In addition, precursors for the generation of glutathione, cysteine and glycine were also found to be decreased as were intermediate metabolites of the gamma-glutamyl cycle (gamma-glutamyl amino acids and 5-oxoproline). mTBI also decreased the levels of methionine, α-ketobutyrate, 2 hydroxybutyrate and glycine, albeit to lesser degrees than detected in the sTBI group. Taken together, these results suggest that decreased levels of methionine and its metabolic products are likely to alter cellular function in multiple organs at a systems level.",
+  "type": "academic",
+  "pdf_url": "https://www.frontiersin.org/articles/10.3389/fnsys.2016.00036/pdf"
+}

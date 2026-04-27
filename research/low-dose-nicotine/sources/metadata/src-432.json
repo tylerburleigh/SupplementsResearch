@@ -1,0 +1,20 @@
+{
+  "id": "src-432",
+  "title": "Nicotine Therapy for Parkinson’s Disease: A Meta-Analysis of Randomized Controlled Trials",
+  "authors": [
+    "Liang, Chih-Hung",
+    "Huang, Tsai-Wei",
+    "Chiu, W.",
+    "Chung, C.",
+    "Hong, Chien-Tai"
+  ],
+  "doi": "10.3390/biomedicines13081814",
+  "url": "https://www.semanticscholar.org/paper/dbbc430bb171a640a285a3f80dec9f56b8d4fad4",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "Biomedicines",
+  "citation_count": 1,
+  "abstract": "Background: Epidemiological studies have reported an inverse association between smoking and Parkinson’s disease (PD) risk, prompting interest in nicotine as a potential therapeutic agent. The present meta-analysis evaluated the efficacy of nicotine therapy in improving motor symptoms and activities of daily living in patients with PD. Methods: PubMed, Embase, and Cochrane Library were systematically searched to identify randomized controlled trials (RCTs) assessing nicotine therapy in PD. Clinical RCTs administering interventions extending beyond 1 week and reporting motor or nonmotor outcomes were included. Random-effects models were used to analyze short-term (<6 months) and long-term (≥6 months) outcomes by using standardized mean differences (SMDs). Results: This meta-analysis included five RCTs (346 participants). Nicotine therapy led to no significant improvement in motor outcomes in the short term (pooled SMD: −0.452, 95% confidence interval: −1.612 to 0.708) or long term (pooled SMD: 0.174, 95% confidence interval: −0.438 to 0.787). Considerable interstudy heterogeneity was noted. Furthermore, short-term nicotine therapy resulted in no significant improvement in daily functioning, cognition, or quality of life. Conclusions: This meta-analysis revealed a lack of compelling evidence suggesting that nicotine-based therapies improve motor or nonmotor outcomes in PD. The findings highlight a disconnect between epidemiological associations and clinical efficacy. Given the prodromal nature of PD pathology and the challenges of early diagnosis, future preventive strategies should be implemented before symptom onset in high-risk individuals identified using advanced biomarker panels.",
+  "type": "academic",
+  "pdf_url": ""
+}

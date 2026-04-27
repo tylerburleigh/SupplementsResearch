@@ -1,0 +1,27 @@
+{
+  "id": "src-203",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "",
+  "pdf_url": "https://utoronto.scholaris.ca/bitstreams/2384d6c3-7881-48eb-9e13-c6344f5bfcb8/download",
+  "venue": "",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "",
+  "fetched_at": "2026-04-20T13:27:19.257935+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-203.md",
+  "quality_details": {
+    "content_length": 238782,
+    "alpha_ratio": 0.715,
+    "sentence_count": 2061,
+    "reasons": []
+  }
+}

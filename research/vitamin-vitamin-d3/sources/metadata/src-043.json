@@ -1,0 +1,40 @@
+{
+  "id": "src-043",
+  "title": "Vitamin D supplementation for the treatment of COVID-19: A systematic review and meta-analysis of randomized controlled trials",
+  "authors": [
+    "Kümmel, Lara S.",
+    "Krumbein, Hanna",
+    "Fragkou, Paraskevi C.",
+    "Hünerbein, Ben L.",
+    "Reiter, Rieke",
+    "Papathanasiou, Konstantinos A.",
+    "Thölken, Clemens",
+    "Weiss, Scott T.",
+    "Renz, Harald",
+    "Skevaki, Chrysanthi"
+  ],
+  "year": 2022,
+  "abstract": "Vitamin D supplementation and its impact on immunoregulation are widely investigated. We aimed to assess the prevention and treatment efficiency of vitamin D supplementation in the context of coronavirus disease 2019 (COVID-19) and any disease-related complications. For this systematic review and meta-analysis, we searched databases (PubMed, Embase, Scopus, Web of Science, The Cochrane Library, medRxiv, Cochrane COVID-19 Study Register, and ClinicalTrial.gov) for studies published between 1 November 2019 and 17 September 2021. We considered randomized trials (RCTs) as potentially eligible when patients were tested for SARS-CoV-2 infection and received vitamin D supplementation versus a placebo or standard-of-care control. A random-effects model was implemented to obtain pooled odds ratios for the effect of vitamin D supplementation on the main outcome of mortality as well as clinical outcomes. We identified a total of 5,733 articles, of which eight RCTs (657 patients) met the eligibility criteria. Although no statistically significant effects were reached, the use of vitamin D supplementation showed a trend for reduced mortality [odds ratio (OR) 0.74, 95% confidence interval (CI) 0.32–1.71, p = 0.48] compared with the control group, with even stronger effects, when vitamin D was administered repeatedly (OR 0.33, 95% CI 0.1–1.14). The mean difference for the length of hospitalization was −0.28 (95% CI −0.60 to 0.04), and the ORs were 0.41 (95% CI 0.15–1.12) and 0.52 (95% CI 0.27–1.02) for ICU admission and mechanical ventilation, respectively. In conclusion, vitamin D supplementation did not improve the clinical outcomes in COVID-19 patients, but trends of beneficial effects were observed. Further investigations are required, especially studies focusing on the daily administration of vitamin D.",
+  "doi": "10.3389/fimmu.2022.1023903",
+  "url": "https://doi.org/10.3389/fimmu.2022.1023903",
+  "pdf_url": "",
+  "venue": "Frontiers in Immunology",
+  "citation_count": 36,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T20:54:00.433935+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-043.md",
+  "quality_details": {
+    "content_length": 49628,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

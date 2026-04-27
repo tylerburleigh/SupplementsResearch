@@ -1,0 +1,20 @@
+{
+  "id": "src-372",
+  "title": "Association Between Serum Iron Biomarkers and Breast Cancer.",
+  "authors": [
+    "Von Holle, Ann",
+    "O'Brien, Katie M",
+    "Sandler, Dale P",
+    "Janicek, Robert",
+    "Weinberg, Clarice R"
+  ],
+  "doi": "10.1158/1055-9965.epi-20-0715",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/33293341",
+  "provider": "pubmed",
+  "year": 2021,
+  "venue": "Cancer epidemiology, biomarkers & prevention : a publication of the American Association for Cancer Research, cosponsored by the American Society of Preventive Oncology",
+  "citation_count": 0,
+  "abstract": "BACKGROUND: Iron is both essential to life and potentially toxic at higher levels. Epidemiologic studies of iron and breast cancer are sparse, with substantial heterogeneity found in a recent meta-analysis. Evidence based on a comprehensive set of iron biomarkers and a large sample size could help clarify relationships between iron body stores and breast cancer risk.\nMETHODS: A case-cohort sample of 6,008 women, including 3,011 incident cases, has been followed for a median of 7.9 years. We estimated breast cancer HRs with Cox models, including age as the primary time scale and including in turn iron, ferritin, percent transferrin saturation, and their first principal component (PC) both as categorical (quartiles) and continuous measures.\nRESULTS: Adjusted HRs for the highest versus lowest quartiles of iron, ferritin, and transferrin saturation (95% confidence interval) were 1.06 (0.90-1.25), 1.03 (0.87-1.23), and 0.94 (0.80-1.12), respectively, and 1.06 (0.90-1.25) for the first principal component (PC). Associations were similar when follow-up time was restricted to ≤4 or >2 years. Post hoc analyses suggested low iron stores were associated with reduced breast cancer risk, in both pre- and postmenopause and the obese.\nCONCLUSIONS: A study with one of the largest sample sizes to date and with all three measures of circulating iron, ferritin, and transferrin saturation does not support a strong association between elevated iron stores and breast cancer risk. Further investigation of low iron may be warranted.\nIMPACT: These results do not support a strong association between iron overload and breast cancer incidence.",
+  "type": "academic",
+  "pdf_url": ""
+}

@@ -1,0 +1,33 @@
+{
+  "id": "src-101",
+  "title": "Vascular Calcification in Chronic Kidney Disease: The Role of Vitamin K- Dependent Matrix Gla Protein",
+  "authors": [
+    "Roumeliotis, Stefanos",
+    "Dounousi, Evangelia",
+    "Salmas, Marios",
+    "Eleftheriadis, Theodoros",
+    "Liakopoulos, Vassilios"
+  ],
+  "year": 2020,
+  "abstract": "",
+  "doi": "10.3389/fmed.2020.00154",
+  "url": "https://doi.org/10.3389/fmed.2020.00154",
+  "pdf_url": "",
+  "venue": "Frontiers in Medicine",
+  "citation_count": 51,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T10:58:30.219335+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-101.md",
+  "quality_details": {
+    "content_length": 48373,
+    "alpha_ratio": 0.73,
+    "sentence_count": 460,
+    "reasons": []
+  }
+}

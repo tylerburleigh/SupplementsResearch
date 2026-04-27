@@ -1,0 +1,18 @@
+{
+  "id": "src-384",
+  "title": "Neuroprotective Actions of Dietary Choline",
+  "authors": [
+    "Blusztajn, Jan Krzysztof",
+    "Slack, Barbara E.",
+    "Mellott, Tiffany J."
+  ],
+  "doi": "10.3390/nu9080815",
+  "url": "https://openalex.org/W2741509806",
+  "provider": "openalex",
+  "year": 2017,
+  "venue": "Nutrients",
+  "citation_count": 295,
+  "abstract": "Choline is an essential nutrient for humans. It is a precursor of membrane phospholipids (e.g., phosphatidylcholine (PC)), the neurotransmitter acetylcholine, and via betaine, the methyl group donor <i>S</i>-adenosylmethionine. High choline intake during gestation and early postnatal development in rat and mouse models improves cognitive function in adulthood, prevents age-related memory decline, and protects the brain from the neuropathological changes associated with Alzheimer's disease (AD), and neurological damage associated with epilepsy, fetal alcohol syndrome, and inherited conditions such as Down and Rett syndromes. These effects of choline are correlated with modifications in histone and DNA methylation in brain, and with alterations in the expression of genes that encode proteins important for learning and memory processing, suggesting a possible epigenomic mechanism of action. Dietary choline intake in the adult may also influence cognitive function via an effect on PC containing eicosapentaenoic and docosahexaenoic acids; polyunsaturated species of PC whose levels are reduced in brains from AD patients, and is associated with higher memory performance, and resistance to cognitive decline.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2072-6643/9/8/815/pdf?version=1501245282"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "src-089",
+  "title": "Hemin decreases cellular aging and enhances healthspan and lifespan through the AMPK pathway",
+  "authors": [
+    "Zhang, Yizhong",
+    "Naaz, Arshia",
+    "Faidzinn, Nashrul Afiq",
+    "Yogasundaram, Sonia",
+    "Cheng, T.",
+    "Jing, J.",
+    "Gan, Ingrid Wen-Hui Jeanette Morel",
+    "Junqi, Chen",
+    "Alfatah, Mohammad"
+  ],
+  "doi": "10.1101/2023.08.15.553367",
+  "url": "https://www.semanticscholar.org/paper/ae6347f07025eb0aa50d04e041791b672c3b4e9d",
+  "provider": "semantic_scholar",
+  "year": 2023,
+  "venue": "bioRxiv",
+  "citation_count": 1,
+  "abstract": "The quest to understand and manipulate the mechanisms of cellular aging has far-reaching implications for improving human health and longevity. Our comprehensive effort has led to the discovery of the intriguing anti-aging potential of hemin, an FDA-approved drug primarily used for the treatment of acute intermittent porphyria. Leveraging both yeast and human cell models, we investigate the multifaceted effects of hemin on extending cellular lifespan. Intriguingly, the involvement of the AMPK pathway emerges as a pivotal mechanism underlying hemin’s anti-aging effects. The exploration of hemin’s impact on cellular functionality further uncovers its influence on mitochondrial processes. Notably, both mitochondrial-dependent and -independent mechanisms are implicated in hemin’s ability to extend cellular lifespan, with autophagy playing a significant role in the latter. Additionally, a striking synergy between hemin and the TORC1 inhibitor rapamycin is unveiled, underlining the complexity of cellular signaling networks involved in lifespan extension. Translating these findings to human cells, hemin demonstrates an analogous ability to induce mitochondrial biogenesis, reduce proinflammatory cytokine expression, and enhance antioxidant response. The conservation of hemin’s anti-aging effects across species holds promise for therapeutic applications in addressing age-related diseases and promoting healthier aging.",
+  "type": "academic",
+  "pdf_url": "https://www.biorxiv.org/content/biorxiv/early/2023/08/16/2023.08.15.553367.full.pdf"
+}

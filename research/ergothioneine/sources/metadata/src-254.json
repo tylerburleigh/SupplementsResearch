@@ -1,0 +1,25 @@
+{
+  "id": "src-254",
+  "title": "Divergent downstream biosynthetic pathways are supported by <sc>L</sc>-cysteine synthases of Mycobacterium tuberculosis.",
+  "authors": [
+    "Khan, Mehak Zahoor",
+    "Hunt, Debbie M",
+    "Singha, Biplab",
+    "Kapoor, Yogita",
+    "Singh, Nitesh Kumar",
+    "Prasad, D V Sai",
+    "Dharmarajan, Sriram",
+    "Sowpati, Divya Tej",
+    "de Carvalho, Luiz Pedro S",
+    "Nandicoori, Vinay Kumar"
+  ],
+  "doi": "10.7554/elife.91970",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39207917",
+  "provider": "pubmed",
+  "year": 2024,
+  "venue": "eLife",
+  "citation_count": 0,
+  "abstract": "Mycobacterium tuberculosis's (Mtb) autarkic lifestyle within the host involves rewiring its transcriptional networks to combat host-induced stresses. With the help of RNA sequencing performed under various stress conditions, we identified that genes belonging to Mtb sulfur metabolism pathways are significantly upregulated during oxidative stress. Using an integrated approach of microbial genetics, transcriptomics, metabolomics, animal experiments, chemical inhibition, and rescue studies, we investigated the biological role of non-canonical L-cysteine synthases, CysM and CysK2. While transcriptome signatures of RvΔcysM and RvΔcysK2 appear similar under regular growth conditions, we observed unique transcriptional signatures when subjected to oxidative stress. We followed pool size and labelling (34S) of key downstream metabolites, viz. mycothiol and ergothioneine, to monitor L-cysteine biosynthesis and utilization. This revealed the significant role of distinct L-cysteine biosynthetic routes on redox stress and homeostasis. CysM and CysK2 independently facilitate Mtb survival by alleviating host-induced redox stress, suggesting they are not fully redundant during infection. With the help of genetic mutants and chemical inhibitors, we show that CysM and CysK2 serve as unique, attractive targets for adjunct therapy to combat mycobacterial infection.",
+  "type": "academic",
+  "pdf_url": ""
+}

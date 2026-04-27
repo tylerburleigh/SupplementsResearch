@@ -1,0 +1,16 @@
+3	2	Research Article
+13	2	Abstract
+34	2	Introduction
+42	2	Open Access
+100	2	Materials And Methods
+206	2	Statistical Analysis
+215	2	Results
+280	2	Lap
+290	2	Ggt
+454	2	3. As expected, the taurine alone group showed
+481	2	Discussion
+500	2	3. This could be due to the direct modification and consequent inactivation of these
+632	2	Acknowledgments
+634	2	Author Contributions
+639	2	References
+697	2	0960327113482692 PMID:

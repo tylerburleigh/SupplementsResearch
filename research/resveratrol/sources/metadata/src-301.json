@@ -1,0 +1,26 @@
+{
+  "id": "src-301",
+  "title": "A Molecular Mechanism for Direct Sirtuin Activation by Resveratrol",
+  "authors": [
+    "Gertz, M.",
+    "Nguyen, Giang Thi Tuyet",
+    "Fischer, Frank",
+    "Suenkel, Benjamin",
+    "Schlicker, Christine",
+    "Fränzel, Benjamin",
+    "Tomaschewski, Jana",
+    "Aladini, Firouzeh",
+    "Becker, Christian",
+    "Wolters, Dirk",
+    "Steegborn, Clemens"
+  ],
+  "doi": "10.1371/journal.pone.0049761",
+  "url": "https://openalex.org/W2018739566",
+  "provider": "openalex",
+  "year": 2012,
+  "venue": "PLoS ONE",
+  "citation_count": 280,
+  "abstract": "Sirtuins are protein deacetylases regulating metabolism, stress responses, and aging processes, and they were suggested to mediate the lifespan extending effect of a low calorie diet. Sirtuin activation by the polyphenol resveratrol can mimic such lifespan extending effects and alleviate metabolic diseases. The mechanism of Sirtuin stimulation is unknown, hindering the development of improved activators. Here we show that resveratrol inhibits human Sirt3 and stimulates Sirt5, in addition to Sirt1, against fluorophore-labeled peptide substrates but also against peptides and proteins lacking the non-physiological fluorophore modification. We further present crystal structures of Sirt3 and Sirt5 in complex with fluorogenic substrate peptide and modulator. The compound acts as a top cover, closing the Sirtuin's polypeptide binding pocket and influencing details of peptide binding by directly interacting with this substrate. Our results provide a mechanism for the direct activation of Sirtuins by small molecules and suggest that activators have to be tailored to a specific Sirtuin/substrate pair.",
+  "type": "academic",
+  "pdf_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0049761&type=printable"
+}

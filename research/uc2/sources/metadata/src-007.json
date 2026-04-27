@@ -1,0 +1,30 @@
+{
+  "id": "src-007",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://fr.iherb.com/r/now-foods-uc-ii-joint-health-with-undenatured-type-ii-collagen-60-capsules/16572",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-19T13:39:17.512830+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-007.md",
+  "quality_details": {
+    "content_length": 229,
+    "alpha_ratio": 0.812,
+    "sentence_count": 1,
+    "reasons": [
+      "content too short (229 chars < 500)",
+      "few sentences detected (1 < 3)"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "src-132",
+  "title": "Rapamycin-mediated mTOR inhibition impairs silencing of sex chromosomes and the pachytene piRNA pathway in the mouse testis",
+  "authors": [
+    "Zhu, Zhiping",
+    "Yue, Qiuling",
+    "Xie, Jie",
+    "Zhang, Shuya",
+    "He, Wenxiu",
+    "Bai, Shun",
+    "Tian, Suwen",
+    "Zhang, Yingwen",
+    "Xiong, Mengneng",
+    "Sun, Zheng",
+    "Huang, Chaoyang",
+    "Li, Yuebei",
+    "Zheng, Ke",
+    "Ye, Lan"
+  ],
+  "doi": "10.18632/aging.101740",
+  "url": "https://www.semanticscholar.org/paper/dfd81638faef91b1b76a809f55a49d9ad10199f9",
+  "provider": "semantic_scholar",
+  "year": 2019,
+  "venue": "Aging",
+  "citation_count": 12,
+  "abstract": "Mechanistic target of rapamycin (mTOR) controls cell growth and metabolism in response to environmental and metabolic signals. Rapamycin robustly extends the lifespan in mammals and has clinical relevance in organ transplantation and cancer therapy but side effects include male infertility. Here, we report that chronic rapamycin treatment causes spermatogenic arrest in adult male mice due to defects in sex body formation and meiotic sex chromosome inactivation (MSCI). Many sex chromosome-linked genes were up-regulated in isolated pachytene spermatocytes from rapamycin-treated mice. RNA-Seq analysis also identified mRNAs encoding the core piRNA pathway components were decreased. Furthermore, rapamycin treatment was associated with a drastic reduction in pachytene piRNA populations. The inhibitory effects of rapamycin on spermatogenesis were partially reversible, with restoration of testis mass and sperm motility within 2 months of treatment cessation. Collectively, we have defined an essential role of mTOR in MSCI and identified a novel function as a regulator of small RNA homeostasis in male germ cells.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.18632/aging.101740"
+}

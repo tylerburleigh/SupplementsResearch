@@ -1,0 +1,17 @@
+{
+  "id": "src-313",
+  "title": "Cyclic nucleotide phosphodiesterases as targets for treatment of haematological malignancies",
+  "authors": [
+    "Lerner, Adam",
+    "Epstein, Paul M."
+  ],
+  "doi": "10.1042/bj20051368",
+  "url": "https://openalex.org/W2067769158",
+  "provider": "openalex",
+  "year": 2005,
+  "venue": "Biochemical Journal",
+  "citation_count": 114,
+  "abstract": "The cAMP signalling pathway has emerged as a key regulator of haematopoietic cell proliferation, differentiation and apoptosis. In parallel, general understanding of the biology of cyclic nucleotide PDEs (phosphodiesterases) has advanced considerably, revealing the remarkable complexity of this enzyme system that regulates the amplitude, kinetics and location of intracellular cAMP-mediated signalling. The development of therapeutic inhibitors of specific PDE gene families has resulted in a growing appreciation of the potential therapeutic application of PDE inhibitors to the treatment of immune-mediated illnesses and haematopoietic malignancies. This review summarizes the expression and function of PDEs in normal haematopoietic cells and the evidence that family-specific inhibitors will be therapeutically useful in myeloid and lymphoid malignancies.",
+  "type": "academic",
+  "pdf_url": "https://portlandpress.com/biochemj/article-pdf/393/1/21/641516/bj3930021.pdf"
+}

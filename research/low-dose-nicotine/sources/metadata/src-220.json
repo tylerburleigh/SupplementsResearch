@@ -1,0 +1,26 @@
+{
+  "id": "src-220",
+  "title": "The cholinergic system in the pathophysiology and treatment of Alzheimer’s disease",
+  "authors": [
+    "Hampel, Harald",
+    "Mesulam, M.‐Marsel",
+    "Cuello, A. Claudio",
+    "Farlow, Martin R.",
+    "Giacobini, Ezio",
+    "Grossberg, George T.",
+    "Khachaturian, Ara S.",
+    "Vergallo, Andrea",
+    "Cavedo, Enrica",
+    "Snyder, Peter J.",
+    "Khachaturian, Zaven S."
+  ],
+  "doi": "10.1093/brain/awy132",
+  "url": "https://openalex.org/W2805257646",
+  "provider": "openalex",
+  "year": 2018,
+  "venue": "Brain",
+  "citation_count": 1797,
+  "abstract": "Cholinergic synapses are ubiquitous in the human central nervous system. Their high density in the thalamus, striatum, limbic system, and neocortex suggest that cholinergic transmission is likely to be critically important for memory, learning, attention and other higher brain functions. Several lines of research suggest additional roles for cholinergic systems in overall brain homeostasis and plasticity. As such, the brain's cholinergic system occupies a central role in ongoing research related to normal cognition and age-related cognitive decline, including dementias such as Alzheimer's disease. The cholinergic hypothesis of Alzheimer's disease centres on the progressive loss of limbic and neocortical cholinergic innervation. Neurofibrillary degeneration in the basal forebrain is believed to be the primary cause for the dysfunction and death of forebrain cholinergic neurons, giving rise to a widespread presynaptic cholinergic denervation. Cholinesterase inhibitors increase the availability of acetylcholine at synapses in the brain and are one of the few drug therapies that have been proven clinically useful in the treatment of Alzheimer's disease dementia, thus validating the cholinergic system as an important therapeutic target in the disease. This review includes an overview of the role of the cholinergic system in cognition and an updated understanding of how cholinergic deficits in Alzheimer's disease interact with other aspects of disease pathophysiology, including plaques composed of amyloid-β proteins. This review also documents the benefits of cholinergic therapies at various stages of Alzheimer's disease and during long-term follow-up as visualized in novel imaging studies. The weight of the evidence supports the continued value of cholinergic drugs as a standard, cornerstone pharmacological approach in Alzheimer's disease, particularly as we look ahead to future combination therapies that address symptoms as well as disease progression.",
+  "type": "academic",
+  "pdf_url": "https://academic.oup.com/brain/article-pdf/141/7/1917/25094527/awy132.pdf"
+}

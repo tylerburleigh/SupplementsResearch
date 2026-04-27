@@ -1,0 +1,21 @@
+5	2	Title
+9	2	Authors
+17	2	Affiliations
+52	2	Abstract
+54	2	Background
+65	2	Methods
+76	2	Conclusion
+84	2	Keywords
+95	2	Background
+165	2	Methods
+191	2	Participants
+395	2	Discussion
+454	2	Limitations
+463	2	Conclusions
+482	2	Declarations
+509	2	Acknowledgments
+522	2	References
+769	2	Tables
+771	2	Procedure
+946	2	Oct
+969	2	Study Eligibility Criteria

@@ -1,0 +1,23 @@
+{
+  "id": "src-172",
+  "title": "Involvement of OCTN1 (SLC22A4) in pH-dependent transport of organic cations.",
+  "authors": [
+    "Tamai, Ikumi",
+    "Nakanishi, Takeo",
+    "Kobayashi, Daisuke",
+    "China, Kayoko",
+    "Kosugi, Yohei",
+    "Nezu, Jun-ichi",
+    "Sai, Yoshimichi",
+    "Tsuji, Akira"
+  ],
+  "doi": "10.1021/mp0340082",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/15832501",
+  "provider": "pubmed",
+  "year": 2004,
+  "venue": "Molecular pharmaceutics",
+  "citation_count": 0,
+  "abstract": "OCTN1 (SLC22A4) transports cationic compounds such as tetraethylammonium in a pH-sensitive and sodium-independent manner in cultured cells, and is expressed in wide variety of tissues, including kidney, muscle, placenta, heart, and others. This study focused on the clarification of its subcellular distribution in kidney and on its driving force to throw light on the pharmacological and physiological roles of OCTN1. Uptake of [14C]tetraethylammonium by membrane vesicles prepared from HEK293 cells stably transfected with human OCTN1 cDNA was osmolarity-sensitive, and the Km of tetraethylammonium was 1.28 mM at intravesicular and extravesicular pH values of 6.0 and 7.4, respectively. Tetraethylammonium uptake was pH-dependent, and overshoot uptake was observed in the presence of an outwardly directed proton gradient. A protonophore and membrane potential affected the overshoot uptake. Furthermore, preloading tetraethylammonium in the vesicles significantly increased the rate of uptake of [14C]tetraethylammonium. In mouse kidney, OCTN1 was expressed predominantly at the apical membrane of cortical proximal tubular epithelial cells. It was concluded that OCTN1 is involved in renal excretion of organic cations across the apical membrane in a pH-dependent, membrane potential-sensitive manner and is affected significantly by the organic cations on the trans side, showing counter transport activity.",
+  "type": "academic",
+  "pdf_url": ""
+}

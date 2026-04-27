@@ -1,0 +1,21 @@
+{
+  "id": "src-344",
+  "title": "Targeting PI3K in cancer: mechanisms and advances in clinical trials",
+  "authors": [
+    "Yang, Jing",
+    "Nie, Ji",
+    "Ma, Xuelei",
+    "Wei, Yuquan",
+    "Peng, Yong",
+    "Wei, Xiawei"
+  ],
+  "doi": "10.1186/s12943-019-0954-x",
+  "url": "https://openalex.org/W2923057410",
+  "provider": "openalex",
+  "year": 2019,
+  "venue": "Molecular Cancer",
+  "citation_count": 1539,
+  "abstract": "Phosphatidylinositol-3-kinase (PI3K)/AKT/mammalian target of rapamycin (mTOR) signaling is one of the most important intracellular pathways, which can be considered as a master regulator for cancer. Enormous efforts have been dedicated to the development of drugs targeting PI3K signaling, many of which are currently employed in clinical trials evaluation, and it is becoming increasingly clear that PI3K inhibitors are effective in inhibiting tumor progression. PI3K inhibitors are subdivided into dual PI3K/mTOR inhibitors, pan-PI3K inhibitors and isoform-specific inhibitors. In this review, we performed a critical review to summarize the role of the PI3K pathway in tumor development, recent PI3K inhibitors development based on clinical trials, and the mechanisms of resistance to PI3K inhibition.",
+  "type": "academic",
+  "pdf_url": "https://molecular-cancer.biomedcentral.com/track/pdf/10.1186/s12943-019-0954-x"
+}

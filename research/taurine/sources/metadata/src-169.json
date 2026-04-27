@@ -1,0 +1,29 @@
+{
+  "id": "src-169",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://nutritionfacts.org/video/caveats-and-side-effects-of-taurine-supplements",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-19T12:03:11.139818+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-169.md",
+  "quality_details": {
+    "content_length": 22555,
+    "alpha_ratio": 0.774,
+    "sentence_count": 246,
+    "reasons": [
+      "paywall_page (subscribe)"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "src-053",
+  "title": "Measurement of AST and ALT with Pyridoxal-5'-Phosphate according to IFCC: A decades-long gap seems to be filled.",
+  "authors": [
+    "Talli, Ilaria",
+    "Marchioro, Lucio",
+    "Zaninotto, Martina",
+    "Cosma, Chiara",
+    "Pangrazzi, Elisa",
+    "Artusi, Carlo",
+    "Padoan, Andrea",
+    "Plebani, Mario"
+  ],
+  "doi": "10.1016/j.cca.2025.120158",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39892693",
+  "provider": "pubmed",
+  "year": 2025,
+  "venue": "Clinica chimica acta; international journal of clinical chemistry",
+  "citation_count": 0,
+  "abstract": "Pyridoxal-5'-Phosphate (PLP) is not always added to the reagents for the measurement of Aspartate Amino Transferase (AST) and Alanine Amino Transferase (ALT), although the International Federation of Clinical Chemistry recommends using it as a cofactor. This is true for patients with lower Vitamin B6, precursor of PLP. The aim of this study is to compare the methods for transaminase measurement with or without the presence of PLP. 102 leftover LiHe samples were collected after transaminase measurement with the reagent already including PLP (R). The residual plasma was analyzed on the ILab Taurus instrumentation (Werfen, Spain) using Werfen reagents with (WP) and without (W) PLP. Vitamin B6 results were obtained on the respective residual K2-EDTA whole blood. Qualitative and quantitative statistical analyses were performed. Optimal agreement and comparability were found between R and WP. Addition of PLP to the reagents shows an average percentage increase in ALT concentrations of 12 %. Patients were categorized for Vitamin B6: the median value of WP-W for patients with lower Vitamin B6 is 34, 18 for patients with higher Vitamin B6 (p = 0.006), demonstrating that ALT values are higher when measured with WP for patients with low Vitamin B6. The addition of PLP to reagents has greater accuracy in transaminase determination, promoting optimal comparability of the results between different methods, particularly in patients' samples with reduced Vitamin B6. Users should adapt their procedures to overcome the difficulties related to the lower stability of transaminase reagents containing PLP, respecting also the recommendations of international scientific societies.",
+  "type": "academic",
+  "pdf_url": ""
+}

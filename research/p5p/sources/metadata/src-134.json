@@ -1,0 +1,16 @@
+{
+  "id": "src-134",
+  "title": "Hydrogen Sulfide Generation in Mammals: The Molecular Biology of Cystathionine-&amp;#946;-Synthase (CBS) and Cystathionine-&amp;#947;-Lyase (CSE)",
+  "authors": [
+    "Renga, Barbara"
+  ],
+  "doi": "10.2174/187152811794776286",
+  "url": "https://openalex.org/W2048397378",
+  "provider": "openalex",
+  "year": 2011,
+  "venue": "Inflammation & Allergy - Drug Targets",
+  "citation_count": 118,
+  "abstract": "Cystathionine-β-synthase (CBS) and cystathionine-γ-lyase (CSE) are two key enzymes involved in the synthesis of hydrogen sulphide (H(2)S). CBS catalyzes the pyridoxal 5'-phosphate (PLP)-dependent conversion of homocysteine in Cystathionine whilst CSE the pyridoxal 5'-phosphate (PLP)-dependent synthesis of L-cysteine from Cystathionine. In mammals, CBS gene transcription is poorly investigated and the activity of the enzyme is highly regulated. In fact, the CBS enzyme contains a heme cofactor that functions as a redox sensor and utilizes S-adenosylmethionine (SAM) as an allosteric activator. Impaired CBS activity causes hyperhomocystinuria and hyperhomocysteinemia, both risk factors for cardiovascular diseases. Murine CSE gene regulation is well characterized but little is known about the human counterpart and there is no information regarding the enzyme activity regulation. Recently it has been demonstrated that CSE transcription is regulated by the nuclear receptor Farnesoid X Receptor (FXR). Mutations that decrease the activity of CSE cause cystathioninuria, hypercystathioninemia and increase the risk of developing atherosclerosis and bladder cancer. This review focuses on the recent aspects of the molecular regulation of both CBS and CSE and highlights the possibility that members of the nuclear receptors superfamily might be involved in the regulation of hydrogen sulphide metabolism.",
+  "type": "academic",
+  "pdf_url": ""
+}

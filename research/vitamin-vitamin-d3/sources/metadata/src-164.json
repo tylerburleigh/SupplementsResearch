@@ -1,0 +1,41 @@
+{
+  "id": "src-164",
+  "title": "Association of vitamin D2 and D3 with type 2 diabetes complications",
+  "authors": [
+    "Ahmed, Lina H. M.",
+    "Butler, Alexandra E.",
+    "Dargham, Soha R.",
+    "Latif, Aishah",
+    "Robay, Amal",
+    "Chidiac, Omar M.",
+    "Jayyousi, Amin",
+    "Al Suwaidi, Jassim",
+    "Crystal, Ronald G.",
+    "Atkin, Stephen L.",
+    "Abi Khalil, Charbel"
+  ],
+  "year": 2020,
+  "abstract": "Abstract\nAims\nVitamin D measurement is a composite of vitamin D2 (25(OH)D2) and D3 (25(OH)D3) levels, and its deficiency is associated with the development of type 2 diabetes (T2DM) and diabetic complications; vitamin D deficiency may be treated with vitamin D2 supplements. This study was undertaken to determine if vitamin D2 and D3 levels differed between those with and without T2DM in this Middle Eastern population, and the relationship between diabetic microvascular complications and vitamin D2 and vitamin D3 levels in subjects with T2DM.\n\nMethods\nFour hundred ninety-six Qatari subjects, 274 with and 222 without T2DM participated in the study. Plasma levels of total vitamin D2 and D3 were measured by LC-MS/MS analysis.\n\nResults\nAll subjects were taking vitamin D2 and none were taking D3 supplements. Vitamin D2 levels were higher in diabetics, particularly in females, and higher levels were associated with hypertension and dyslipidemia in the diabetic subjects (p &lt; 0.001), but were not related to diabetic retinopathy or nephropathy. Vitamin D3 levels measured in the same subjects were lower in diabetics, particularly in females (p &lt; 0.001), were unrelated to dyslipidemia or hypertension, but were associated with retinopathy (p &lt; 0.014). Neither vitamin D2 nor vitamin D3 were associated with neuropathy. For those subjects with hypertension, dyslipidemia, retinopathy or neuropathy, comparison of highest with lowest tertiles for vitamin D2 and vitamin D3 showed no difference.\n\nConclusions\nIn this Qatari cohort, vitamin D2 was associated with hypertension and dyslipidemia, whilst vitamin D3 levels were associated with diabetic retinopathy. Vitamin D2 levels were higher, whilst vitamin D3 were lower in diabetics and females, likely due to ingestion of vitamin D2 supplements.",
+  "doi": "10.1186/s12902-020-00549-w",
+  "url": "https://doi.org/10.1186/s12902-020-00549-w",
+  "pdf_url": "",
+  "venue": "BMC Endocrine Disorders",
+  "citation_count": 30,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T21:45:56.943839+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-164.md",
+  "quality_details": {
+    "content_length": 29612,
+    "alpha_ratio": 0.677,
+    "sentence_count": 276,
+    "reasons": [
+      "paywall_page (access this article)"
+    ]
+  }
+}

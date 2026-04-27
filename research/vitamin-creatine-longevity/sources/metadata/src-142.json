@@ -1,0 +1,38 @@
+{
+  "id": "src-142",
+  "title": "The Impact of Creatine Supplementation on Physical Performance, Cognitive Functions, and Safety – A Literature Review",
+  "authors": [
+    "Sobiński, Adam",
+    "Czerwonka, Matylda",
+    "Kościuszko, Zuzanna",
+    "Kurza, Katarzyna",
+    "Ciraolo, Silvia",
+    "Podolec, Julianna",
+    "Agnieszka Kulczycka-Rowicka",
+    "Lesiczka-Fedoryj, Katarzyna",
+    "Wojda, Joanna",
+    "Walczak, Anna"
+  ],
+  "year": 2025,
+  "abstract": "Purpose of Research: The study evaluates the effects of creatine supplementation on physical performance, cognitive function, and safety. It examines its mechanism of action, impact on muscle mass and strength, and role in brain health. Additionally, it reviews the safety profile of creatine in diverse populations, including athletes, older adults, and individuals with chronic conditions.\n\nResearch Materials and Methods: The study is based on clinical trials, meta-analyses, and systematic reviews from the past decade. Data were collected from studies on creatine supplementation at various doses, including loading and maintenance phases, and its effects on physical and cognitive outcomes, as well as kidney and liver function.\n\nBasic Results Creatine supplementation significantly improved lean body mass (mean difference = 1.32 kg; p &lt; 0.000001) and muscle strength, with greater effects in men. It also showed potential benefits for memory, particularly in older adults, with moderate improvements in non-stress conditions. Safety evaluations indicated no adverse effects on kidney or liver function, even with long-term high-dose use.\n\nConclusions: Creatine supplementation is a safe, effective strategy for enhancing physical performance, especially with resistance training. It also supports cognitive functions, particularly in populations with higher energy demands or age-related decline. These findings support creatine as a versatile, well-tolerated dietary supplement for sports and health applications.",
+  "doi": "10.12775/qs.2025.58.58256",
+  "url": "https://doi.org/10.12775/qs.2025.58.58256",
+  "pdf_url": "",
+  "venue": "Quality in Sport",
+  "citation_count": 1,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T13:59:02.083548+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-142.md",
+  "quality_details": {
+    "content_length": 29609,
+    "alpha_ratio": 0.741,
+    "sentence_count": 301,
+    "reasons": []
+  }
+}

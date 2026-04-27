@@ -1,0 +1,30 @@
+{
+  "id": "src-007",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://www.marketresearchreports.com/blog/2023/10/26/nicotinamide-riboside-nr-market-poised-reach-us-3876-million-2029",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-20T20:23:10.977265+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-007.md",
+  "quality_details": {
+    "content_length": 68,
+    "alpha_ratio": 0.853,
+    "sentence_count": 0,
+    "reasons": [
+      "content too short (68 chars < 500)",
+      "few sentences detected (0 < 3)"
+    ]
+  }
+}

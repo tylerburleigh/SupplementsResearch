@@ -1,0 +1,19 @@
+{
+  "id": "src-262",
+  "title": "The Vitamin Nicotinamide: Translating Nutrition into Clinical Care",
+  "authors": [
+    "Maiese, Kenneth",
+    "Chong, Zhao Zhong",
+    "Hou, Jinling",
+    "Shang, Yan"
+  ],
+  "doi": "10.3390/molecules14093446",
+  "url": "https://openalex.org/W2096268267",
+  "provider": "openalex",
+  "year": 2009,
+  "venue": "Molecules",
+  "citation_count": 233,
+  "abstract": "Nicotinamide, the amide form of vitamin B(3) (niacin), is changed to its mononucleotide compound with the enzyme nicotinic acide/nicotinamide adenylyltransferase, and participates in the cellular energy metabolism that directly impacts normal physiology. However, nicotinamide also influences oxidative stress and modulates multiple pathways tied to both cellular survival and death. During disorders that include immune system dysfunction, diabetes, and aging-related diseases, nicotinamide is a robust cytoprotectant that blocks cellular inflammatory cell activation, early apoptotic phosphatidylserine exposure, and late nuclear DNA degradation. Nicotinamide relies upon unique cellular pathways that involve forkhead transcription factors, sirtuins, protein kinase B (Akt), Bad, caspases, and poly (ADP-ribose) polymerase that may offer a fine line with determining cellular longevity, cell survival, and unwanted cancer progression. If one is cognizant of the these considerations, it becomes evident that nicotinamide holds great potential for multiple disease entities, but the development of new therapeutic strategies rests heavily upon the elucidation of the novel cellular pathways that nicotinamide closely governs.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/1420-3049/14/9/3446/pdf?version=1403112599"
+}

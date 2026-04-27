@@ -1,0 +1,21 @@
+{
+  "id": "src-375",
+  "title": "Estimation of the binding modes with important human cytochrome P450 enzymes, drug interaction potential, pharmacokinetics, and hepatotoxicity of ginger components using molecular docking, computational, and pharmacokinetic modeling studies",
+  "authors": [
+    "Qiu, J.",
+    "Zhou, Zhi-Wei",
+    "He, Zhi-xu",
+    "Zhang, Xueji",
+    "Zhou, Shufeng",
+    "Zhu, S."
+  ],
+  "doi": "10.2147/dddt.s74669",
+  "url": "https://www.semanticscholar.org/paper/4aa776f1773a10e9ca5d153fe3e5cb1b727c37c9",
+  "provider": "semantic_scholar",
+  "year": 2015,
+  "venue": "Drug Design, Development and Therapy",
+  "citation_count": 53,
+  "abstract": "Ginger is one of the most commonly used herbal medicines for the treatment of numerous ailments and improvement of body functions. It may be used in combination with prescribed drugs. The coadministration of ginger with therapeutic drugs raises a concern of potential deleterious drug interactions via the modulation of the expression and/or activity of drug-metabolizing enzymes and drug transporters, resulting in unfavorable therapeutic outcomes. This study aimed to determine the molecular interactions between 12 main active ginger components (6-gingerol, 8-gingerol, 10-gingerol, 6-shogaol, 8-shogaol, 10-shogaol, ar-curcumene, β-bisabolene, β-sesquiphelandrene, 6-gingerdione, (−)-zingiberene, and methyl-6-isogingerol) and human cytochrome P450 (CYP) 1A2, 2C9, 2C19, 2D6, and 3A4 and to predict the absorption, distribution, metabolism, excretion, and toxicity (ADMET) of the 12 ginger components using computational approaches and comprehensive literature search. Docking studies showed that ginger components interacted with a panel of amino acids in the active sites of CYP1A2, 2C9, 2C19, 2D6, and 3A4 mainly through hydrogen bond formation, to a lesser extent, via π–π stacking. The pharmacokinetic simulation studies showed that the [I]/[Ki] value for CYP2C9, 2C19, and 3A4 ranged from 0.0002 to 19.6 and the R value ranged from 1.0002 to 20.6 and that ginger might exhibit a high risk of drug interaction via inhibition of the activity of human CYP2C9 and CYP3A4, but a low risk of drug interaction toward CYP2C19-mediated drug metabolism. Furthermore, it has been evaluated that the 12 ginger components possessed a favorable ADMET profiles with regard to the solubility, absorption, permeability across the blood–brain barrier, interactions with CYP2D6, hepatotoxicity, and plasma protein binding. The validation results showed that there was no remarkable effect of ginger on the metabolism of warfarin in humans, whereas concurrent use of ginger and nifedipine exhibited a synergistic effect on platelet aggregation in humans. Moreover, ginger components showed a rapid half-life and no to low toxicity in humans. Taken together, this study shows that ginger components may regulate the activity and expression of various human CYPs, probably resulting in alterations in drug clearance and response. More studies are warranted to identify and confirm potential ginger–drug interactions and explore possible interactions of ginger with human CYPs and other functionally important proteins, to reduce and avoid side effects induced by unfavorable ginger–drug interactions.",
+  "type": "academic",
+  "pdf_url": "https://www.dovepress.com/getfile.php?fileID=23747"
+}

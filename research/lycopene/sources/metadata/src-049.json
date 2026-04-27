@@ -1,0 +1,35 @@
+{
+  "id": "src-049",
+  "title": "The evolving role of diet in prostate cancer risk and progression",
+  "authors": [
+    "Kaiser, Adeel",
+    "Haskins, Christopher",
+    "Siddiqui, Mohummad M.",
+    "Hussain, Arif",
+    "D’Adamo, Christopher"
+  ],
+  "year": 2019,
+  "abstract": "Purpose of review\nThis overview examines the rationale for dietary interventions for prostate cancer by summarizing the current evidence base and biological mechanisms for the involvement of diet in disease incidence and progression.\n\nRecent findings\nRecent data have further solidified the association between insulin resistance and prostate cancer with the homeostatic model assessment of insulin resistance. Data also show that periprostatic adipocytes promote extracapsular extension of prostate cancer through chemokines, thereby providing a mechanistic explanation for the association observed between obesity and high-grade cancer. Regarding therapeutics, hyperinsulinemia may be the cause of resistance to phosphatidylinositol-3 kinase inhibitors in the treatment of prostate cancer, leading to new investigations combining these drugs with ketogenic diets.\n\nSummary\nGiven the recently available data regarding insulin resistance and adipokine influence on prostate cancer, dietary strategies targeting metabolic syndrome, diabetes, and obesity should be further explored. In macronutrient-focused therapies, low carbohydrate/ketogenic diets should be favored in such interventions because of their superior impact on weight loss and metabolic parameters and encouraging clinical data. Micronutrients, including the carotenoid lycopene which is found in highest concentrations in tomatoes, may also play a role in prostate cancer prevention and prognosis through complementary metabolic mechanisms. The interplay between genetics, diet, and prostate cancer is an area of emerging focus that might help optimize therapeutic dietary response in the future through personalization.",
+  "doi": "10.1097/cco.0000000000000519",
+  "url": "https://doi.org/10.1097/cco.0000000000000519",
+  "pdf_url": "",
+  "venue": "Current Opinion in Oncology",
+  "citation_count": 56,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-19T18:34:45.954688+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-049.md",
+  "quality_details": {
+    "content_length": 2589,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

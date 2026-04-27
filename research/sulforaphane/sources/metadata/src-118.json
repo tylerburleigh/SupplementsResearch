@@ -1,0 +1,18 @@
+{
+  "id": "src-118",
+  "title": "Mitochondrial Dysfunction and Oxidative Stress in Alzheimer’s Disease",
+  "authors": [
+    "Misrani, Afzal",
+    "Tabassum, Sidra",
+    "Yang, Li"
+  ],
+  "doi": "10.3389/fnagi.2021.617588",
+  "url": "https://openalex.org/W3130500589",
+  "provider": "openalex",
+  "year": 2021,
+  "venue": "Frontiers in Aging Neuroscience",
+  "citation_count": 566,
+  "abstract": "Mitochondria play a pivotal role in bioenergetics and respiratory functions, which are essential for the numerous biochemical processes underpinning cell viability. Mitochondrial morphology changes rapidly in response to external insults and changes in metabolic status via fission and fusion processes (so-called mitochondrial dynamics) that maintain mitochondrial quality and homeostasis. Damaged mitochondria are removed by a process known as mitophagy, which involves their degradation by a specific autophagosomal pathway. Over the last few years, remarkable efforts have been made to investigate the impact on the pathogenesis of Alzheimer's disease (AD) of various forms of mitochondrial dysfunction, such as excessive reactive oxygen species (ROS) production, mitochondrial Ca<sup>2+</sup> dyshomeostasis, loss of ATP, and defects in mitochondrial dynamics and transport, and mitophagy. Recent research suggests that restoration of mitochondrial function by physical exercise, an antioxidant diet, or therapeutic approaches can delay the onset and slow the progression of AD. In this review, we focus on recent progress that highlights the crucial role of alterations in mitochondrial function and oxidative stress in the pathogenesis of AD, emphasizing a framework of existing and potential therapeutic approaches.",
+  "type": "academic",
+  "pdf_url": "https://www.frontiersin.org/articles/10.3389/fnagi.2021.617588/pdf"
+}

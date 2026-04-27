@@ -1,0 +1,19 @@
+{
+  "id": "src-109",
+  "title": "Protective effects of sirtuins in cardiovascular diseases: from bench to bedside",
+  "authors": [
+    "Winnik, Stephan",
+    "Auwerx, Johan",
+    "Sinclair, David",
+    "Matter, Christian M."
+  ],
+  "doi": "10.1093/eurheartj/ehv290",
+  "url": "https://openalex.org/W1893714901",
+  "provider": "openalex",
+  "year": 2015,
+  "venue": "European Heart Journal",
+  "citation_count": 434,
+  "abstract": "Sirtuins (Sirt1-Sirt7) comprise a family of nicotinamide adenine dinucleotide (NAD(+))-dependent enzymes. While deacetylation reflects their main task, some of them have deacylase, adenosine diphosphate-ribosylase, demalonylase, glutarylase, and desuccinylase properties. Activated upon caloric restriction and exercise, they control critical cellular processes in the nucleus, cytoplasm, and mitochondria to maintain metabolic homeostasis, reduce cellular damage and dampen inflammation-all of which serve to protect against a variety of age-related diseases, including cardiovascular pathologies. This review focuses on the cardiovascular effects of Sirt1, Sirt3, Sirt6, and Sirt7. Most is known about Sirt1. This deacetylase protects from endothelial dysfunction, atherothrombosis, diet-induced obesity, type 2 diabetes, liver steatosis, and myocardial infarction. Sirt3 provides beneficial effects in the context of left ventricular hypertrophy, cardiomyopathy, oxidative stress, metabolic homeostasis, and dyslipidaemia. Sirt6 is implicated in ameliorating dyslipidaemia, cellular senescence, and left ventricular hypertrophy. Sirt7 plays a role in lipid metabolism and cardiomyopathies. Most of these data were derived from experimental findings in genetically modified mice, where NFκB, Pcsk9, low-density lipoprotein-receptor, PPARγ, superoxide dismutase 2, poly[adenosine diphosphate-ribose] polymerase 1, and endothelial nitric oxide synthase were identified among others as crucial molecular targets and/or partners of sirtuins. Of note, there is translational evidence for a role of sirtuins in patients with endothelial dysfunction, type 1 or type 2 diabetes and longevity. Given the availability of specific Sirt1 activators or pan-sirtuin activators that boost levels of the sirtuin cofactor NAD⁺, we anticipate that this field will move quickly from bench to bedside.",
+  "type": "academic",
+  "pdf_url": "https://academic.oup.com/eurheartj/article-pdf/36/48/3404/7468937/ehv290.pdf"
+}

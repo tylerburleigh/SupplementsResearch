@@ -1,0 +1,29 @@
+{
+  "id": "src-256",
+  "title": "Ergothioneine Treatment Ameliorates the Pathological Phenotypes of Parkinson's Disease Models.",
+  "authors": [
+    "Tng, Teddy J W",
+    "Leow, Damien M K",
+    "Goh, Geraldine",
+    "Wang, Ziyin",
+    "Liu, Yanmei",
+    "Tang, Richard M Y",
+    "Lai, Kate C L",
+    "Basil, Adeline H",
+    "Choong, Huey Ching",
+    "Goh, Wilson W B",
+    "Cheah, Irwin K",
+    "Ong, Wei-Yi",
+    "Halliwell, Barry",
+    "Lim, Kah-Leong"
+  ],
+  "doi": "10.1111/jnc.70168",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40696819",
+  "provider": "pubmed",
+  "year": 2025,
+  "venue": "Journal of neurochemistry",
+  "citation_count": 0,
+  "abstract": "Ergothioneine (ET) is a naturally occurring thiol/thione that possesses several cytoprotective properties. Multiple studies suggest a potential neuroprotective role for ET. Here, we show in various Parkinson's disease (PD) models that ET is indeed neuroprotective. Firstly, using Drosophila genetic PD models, we demonstrated that ET treatment ameliorates the pathological phenotypes of parkin and LRRK2 PD mutant flies. This includes an improvement in their climbing score and the preservation of their dopaminergic neuronal number and mitochondrial integrity. Similarly, we observed the rescue of PD phenotypes by ET in mice treated with the Parkinsonian neurotoxin 6-OHDA. This protective effect of ET is abolished in mice lacking OCTN1. Finally, we found that ET protects human LRRK2-G2019S patient-derived dopaminergic neurons from rotenone-induced neurotoxicity; the action of ET is again OCTN1-dependent. Collectively, our results strongly support a neuroprotective role for ET in PD and suggest that ET may be useful in the prevention and/or treatment of PD.",
+  "type": "academic",
+  "pdf_url": ""
+}

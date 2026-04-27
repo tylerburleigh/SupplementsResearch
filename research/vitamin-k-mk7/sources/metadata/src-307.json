@@ -1,0 +1,21 @@
+{
+  "id": "src-307",
+  "title": "Vitamin K deficiency: the linking pin between COPD and cardiovascular diseases?",
+  "authors": [
+    "Piscaer, Ianthe",
+    "Wouters, Emiel F.�M.",
+    "Vermeer, Cees",
+    "Janssens, Wim",
+    "Franssen, Frits M.E.",
+    "Janssen, Rob"
+  ],
+  "doi": "10.1186/s12931-017-0673-z",
+  "url": "https://openalex.org/W2768801718",
+  "provider": "openalex",
+  "year": 2017,
+  "venue": "Respiratory Research",
+  "citation_count": 45,
+  "abstract": "Cardiovascular diseases are prevalent in patients with chronic obstructive pulmonary disease (COPD). Their coexistence implies that many COPD patients require anticoagulation therapy. Although more and more replaced by direct oral anticoagulants, vitamin K antagonists (VKAs) are still widely used. VKAs induce profound deficiency of vitamin K, a key activator in the coagulation pathway. It is recognized however that vitamin K is also an essential cofactor in the activation of other extrahepatic proteins, such as matrix Gla protein (MGP), a potent inhibitor of arterial calcification. No or insufficient MGP activation by the use of VKAs is associated with a rapid progression of vascular calcification, which may enhance the risk for overt cardiovascular disease. Vitamin K consumption, on the other hand, seems to have a protective effect on the mineralization of arteries. Furthermore, vascular calcification mutually relates to elastin degradation, which is accelerated in patients with COPD associating with impaired survival. In this commentary, we hypothesize that vitamin K is a critical determinant to the rate of elastin degradation. We speculate on the potential link between poor vitamin K status and crucial mechanisms of COPD pathogenesis and raise concerns about the use of VKAs in patients with this disease. Future intervention studies are needed to explore if vitamin K supplementation is able to reduce elastin degradation and vascular calcification in COPD patients.",
+  "type": "academic",
+  "pdf_url": "https://respiratory-research.biomedcentral.com/track/pdf/10.1186/s12931-017-0673-z"
+}

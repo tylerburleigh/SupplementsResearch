@@ -1,0 +1,20 @@
+{
+  "id": "src-121",
+  "title": "Inhibition of histone deacetylases in melanoma-a perspective from bench to bedside.",
+  "authors": [
+    "Hornig, Eva",
+    "Heppt, Markus V",
+    "Graf, Saskia A",
+    "Ruzicka, Thomas",
+    "Berking, Carola"
+  ],
+  "doi": "10.1111/exd.13089",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/27792246",
+  "provider": "pubmed",
+  "year": 2016,
+  "venue": "Experimental dermatology",
+  "citation_count": 0,
+  "abstract": "Histone deacetylases (HDACs) are critically involved in epigenetic gene regulation through alterations of the chromatin status of DNA. Aberrant expression, dysregulation of their enzymatic activity or imbalances between HDACs and histone acetyltransferases are likely involved in the development and progression of cancer. Pharmacologic inhibition of HDACs shows potent antitumor activity in a panel of malignancies such as colon or gastric cancer and multiple myeloma. In this review, we summarize the current knowledge of HDACs in melanoma and evaluate the application of HDAC inhibition from an experimental and clinical perspective. The molecular functions of HDACs can be classified into histone and non-histone effects with diverse implications in proliferation, cell cycle progression and apoptosis. HDAC inhibition results in G1 cell cycle arrest, induces apoptosis and increases the immunogenicity of melanoma cells. Some studies proposed that HDAC inhibition may overcome the resistance of melanoma cells to BRAF inhibition. Several inhibitors such as vorinostat, entinostat and valproic acid have recently been tested in phase I and early phase II trials, yet most agents show limited efficacy and tolerability as single agents. The most frequent adverse events of HDAC inhibition comprise haematological toxicity, fatigue, nausea and laboratory abnormalities. Existing evidence supports the hypothesis that HDAC inhibitors (HDACi) may sensitize melanoma cells to immunotherapy and targeted therapy and hence bear therapeutic potential concurrent with immune checkpoint blockade or BRAF and MEK inhibition.",
+  "type": "academic",
+  "pdf_url": ""
+}

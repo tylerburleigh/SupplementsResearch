@@ -1,0 +1,20 @@
+{
+  "id": "src-364",
+  "title": "A survey of the use of EHR as real-world evidence for discovering and validating new drug indications.",
+  "authors": [
+    "Talukdar, Nabasmita",
+    "Zhang, Xiaodan",
+    "Paithankar, S.",
+    "Wang, Hui",
+    "Chen, Bin"
+  ],
+  "doi": "10.1016/j.drudis.2025.104552",
+  "url": "https://www.semanticscholar.org/paper/001c216e04751c8680161f2d262714dcf371304f",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "Drug Discovery Today",
+  "citation_count": 0,
+  "abstract": "Electronic health records (EHRs) have been increasingly used as real-world evidence to support the discovery and validation of new drug indications. This paper surveys current approaches to EHR-based drug repurposing, covering data sources, processing methodologies, and representation techniques. It discusses study designs and statistical frameworks for evaluating drug efficacy. Key challenges in validation are also discussed, with an emphasis on the role of large language models and target trial emulation. By synthesizing recent developments and methodological advances, this work provides a foundational resource for researchers aiming to translate real-world data into actionable drug repurposing evidence.",
+  "type": "academic",
+  "pdf_url": ""
+}

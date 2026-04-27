@@ -1,0 +1,22 @@
+{
+  "id": "src-323",
+  "title": "ROS from Physical Plasmas: Redox Chemistry for Biomedical Therapy",
+  "authors": [
+    "Privat‐Maldonado, Angela",
+    "Schmidt, Anke",
+    "Lin, Abraham",
+    "Weltmann, Klaus‐Dieter",
+    "Wende, Kristian",
+    "Bogaerts, Annemie",
+    "Bekeschus, Sander"
+  ],
+  "doi": "10.1155/2019/9062098",
+  "url": "https://openalex.org/W2980103739",
+  "provider": "openalex",
+  "year": 2019,
+  "venue": "Oxidative Medicine and Cellular Longevity",
+  "citation_count": 288,
+  "abstract": "Physical plasmas generate unique mixes of reactive oxygen and nitrogen species (RONS or ROS). Only a bit more than a decade ago, these plasmas, operating at body temperature, started to be considered for medical therapy with considerably little mechanistic redox chemistry or biomedical research existing on that topic at that time. Today, a vast body of evidence is available on physical plasma-derived ROS, from their spatiotemporal resolution in the plasma gas phase to sophisticated chemical and biochemical analysis of these species once dissolved in liquids. Data from <i>in silico</i> analysis dissected potential reaction pathways of plasma-derived reactive species with biological membranes, and <i>in vitro</i> and <i>in vivo</i> experiments in cell and animal disease models identified molecular mechanisms and potential therapeutic benefits of physical plasmas. In 2013, the first medical plasma systems entered the European market as class IIa devices and have proven to be a valuable resource in dermatology, especially for supporting the healing of chronic wounds. The first results in cancer patients treated with plasma are promising, too. Due to the many potentials of this blooming new field ahead, there is a need to highlight the main concepts distilled from plasma research in chemistry and biology that serve as a mechanistic link between plasma physics (how and which plasma-derived ROS are produced) and therapy (what is the medical benefit). This inevitably puts cellular membranes in focus, as these are the natural interphase between ROS produced by plasmas and translation of their chemical reactivity into distinct biological responses.",
+  "type": "academic",
+  "pdf_url": "https://downloads.hindawi.com/journals/omcl/2019/9062098.pdf"
+}

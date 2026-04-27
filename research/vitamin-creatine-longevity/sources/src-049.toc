@@ -1,0 +1,28 @@
+75	2	29 Abstract
+107	2	55 Introduction
+176	2	112 Methods
+177	2	113 Experimental Approach to the Problem
+194	2	130 Subjects
+220	2	150 Procedures
+221	2	151 Anthropometric Measurements, Body Composition, and Dietary Intake Assessments
+229	2	159 The body composition assessment was done using the Bodymetrix Pro System
+247	2	171 Determination of Arterial Occlusion Pressure
+256	2	180 Muscle Thickness
+279	2	197 Dynamic Strength Test
+291	2	209 Supplementation Protocol
+306	2	224 Training Protocol
+336	2	248 Statistical analysis
+365	2	271 Results
+467	2	355 Discussion
+527	2	403 Interestingly, in the TRAD paradigm, muscle hypertrophy was augmented by creatine
+536	2	412 Since VLT was not enhanced by creatine in the TRAD group, mechanisms other than
+573	2	443 Conclusion
+580	2	450 Limitations
+599	2	463 Conflicts of interests
+603	2	467 Acknowledgements
+607	2	471 Funding
+611	2	475 Data Availability Statement
+615	2	479 References
+673	2	525 Gundermann DM, Fry CS, Dickinson JM, Walker DK, Timmerman KL, Drummond MJ, Volpi
+682	2	534 Hubal MJ, Gordish-Dressman H, Thompson PD, Price TB, Hoffman EP, Angelopoulos TJ,
+772	2	612 Figures captions

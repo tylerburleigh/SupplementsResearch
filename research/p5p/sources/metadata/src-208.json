@@ -1,0 +1,27 @@
+{
+  "id": "src-208",
+  "title": "Enhanced production of cadaverine by the addition of hexadecyltrimethylammonium bromide to whole cell system with regeneration of pyridoxal-5'-phosphate and ATP.",
+  "authors": [
+    "Moon, Yu-Mi",
+    "Yang, Soo Yeon",
+    "Choi, Tae Rim",
+    "Jung, Hye-Rim",
+    "Song, Hun-Suk",
+    "Han, Yeong Hoon",
+    "Park, Hyung Yeon",
+    "Bhatia, Shashi Kant",
+    "Gurav, Ranjit",
+    "Park, Kyungmoon",
+    "Kim, Jae-Seok",
+    "Yang, Yung-Hun"
+  ],
+  "doi": "10.1016/j.enzmictec.2019.04.010",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/31088617",
+  "provider": "pubmed",
+  "year": 2019,
+  "venue": "Enzyme and microbial technology",
+  "citation_count": 0,
+  "abstract": "Cadaverine, also known as 1,5-pentanediamine, is an important platform chemical with a wide range of applications and can be produced either by fermentation or bioconversion. Bioconversion of cadaverine from l-lysine is the preferred method because of its many benefits, including rapid reaction time and an easy downstream process. In our previous study, we replaced pyridoxal-5-phosphate (PLP) with pyridoxal kinase (PdxY) along with pyridoxal (PL) because it could achieve 80% conversion with 0.4 M of l-lysine in 6 h. However, conversion was sharply decreased in the presence of high concentrations of l-lysine (i.e., 1 M), resulting in less than 40% conversion after several hours. In this study, we introduced an ATP regeneration system using polyphosphate kinase (ppk) into systems containing cadaverine decarboxylase (CadA) and PdxY for a sufficient supply of PLP, which resulted in enhanced cadaverine production. In addition, to improve transport efficiency, the use of surfactants was tested. We found that membrane permeabilization via hexadecyltrimethylammonium bromide (CTAB) increased the yield of cadaverine in the presence of high concentrations of l-lysine. By combining these two strategies, the ppk system and addition of CTAB, we enhanced cadaverine production up to 100% with 1 M of l-lysine over the course of 6 h.",
+  "type": "academic",
+  "pdf_url": ""
+}

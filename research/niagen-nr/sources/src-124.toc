@@ -1,0 +1,52 @@
+6	2	Original Submission
+11	2	Original
+18	2	5100 Paint Branch Parkway
+22	2	Office Of
+214	2	Page Intentionally Left Blank
+220	2	Table Of Contents
+274	2	1. Test Material Used in Acute Toxicity, Dose Range Finder, and Subchronic Toxicity
+295	2	List Of Tables
+330	2	List Of Figures
+399	2	Page Intentionally Left Blank
+408	2	10005 Muirlands Boulevard, Suite G
+573	2	Coo
+585	2	1. Chemical Name and Identity
+594	2	2. Common or Trade N arne
+597	2	3. CAS Registry Number
+599	2	4. Empirical and Structural Formula
+619	2	1. Process Description
+761	2	2. Raw Materials and Chemicals
+764	2	3. Processing Aids
+861	2	2. Batch Analysis Results
+871	2	3. Impurities, Residuals, and Contaminants of Concern
+923	2	Nmr
+961	2	Cmmef Apha
+981	2	4. Stability of Niagen
+1092	2	5. Analytical Methods
+1115	2	Foods And Dairy Products
+1146	2	1. Introduction
+1166	2	2. Food Consumption Survey Data
+1234	2	3. Food Usage Data
+1251	2	4. Food Survey Results
+1268	2	Edi
+1271	2	Edi
+1274	2	Edi
+1277	2	Edi
+1286	2	5. Conclusions
+1312	2	Nicotinamide Riboside
+1338	2	Nmn
+1437	2	2014 Deletor mice, which
+1569	2	1. Summary
+1766	2	2. In vitro Chromosomal Aberration Assay
+1862	2	3. In vivo Micronucleus Assay
+1937	2	1. 	 Test Material Used in Acute Toxicity, Dose Range Finder, and Subchronic
+1991	2	2. Acute Toxicity
+2125	2	4. Subchronic Toxicity
+2547	2	1. Summary
+2578	2	Nmr
+2600	2	3. Study Design
+2627	2	4. Results
+2955	2	1. Introduction
+2976	2	2. Clinical Studies on Nicotinamide
+3030	2	3. Relationship Between Metabolic Fate of Niagen and Nicotinamide
+3408	2	Submission End

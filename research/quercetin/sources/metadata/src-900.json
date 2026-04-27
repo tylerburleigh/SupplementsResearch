@@ -1,0 +1,19 @@
+{
+  "id": "src-900",
+  "title": "Comprehensive clinical and bioinformatics analysis identifies JUN as a related target of Shenling Baizhu San in the treatment of gout.",
+  "authors": [
+    "Gao, Min",
+    "Xue, Yangkui",
+    "Pang, Lei",
+    "Li, Haibo"
+  ],
+  "doi": "10.1016/j.compbiomed.2025.110770",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40669280",
+  "provider": "pubmed",
+  "year": 2025,
+  "venue": "Computers in biology and medicine",
+  "citation_count": 0,
+  "abstract": "BACKGROUND: Shenling Baizhu San (SLBZS), a traditional Chinese medicine, is widely used for gout treatment, but its molecular mechanisms remain unclear. This study integrates clinical and bioinformatics methods to investigate SLBZS's therapeutic mechanisms.\nMETHODS: A prospective clinical trial combined with transcriptomics and network pharmacology approaches was performed. Differentially expressed genes (DEGs) associated with gout were identified from the GEO database. Core genes were screened via weighted gene co-expression network analysis (WGCNA) and intersected with gout- and SLBZS-related targets. A network pharmacology approach and molecular docking were employed to validate key compound-target interactions. JUN was further validated through in vivo Western blotting in a murine gout model.\nRESULTS: Clinically, SLBZS combined with febuxostat significantly reduced gout symptoms, uric acid levels, and inflammatory markers with a favorable safety profile. Bioinformatics identified JUN, TNF, and IL1B as core upregulated targets in gout. Network pharmacology and docking analysis revealed that bioactive compounds such as quercetin and luteolin exhibit strong binding affinities with JUN. Animal experiments confirmed that SLBZS combined with febuxostat reduced JUN expression more effectively than febuxostat alone.\nCONCLUSION: This study revealed that Shenling Baizhu San (SLBZS) alleviates gout symptoms and reduces serum uric acid levels by targeting key inflammatory and metabolic regulators such as JUN with core compounds like quercetin and luteolin supporting its multi-component, multi-target therapeutic strategy.",
+  "type": "academic",
+  "pdf_url": ""
+}

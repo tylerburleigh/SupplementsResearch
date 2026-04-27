@@ -1,0 +1,30 @@
+33	2	Introduction
+201	2	Results
+298	2	Discussion
+409	2	Acknowledgements
+413	2	References
+418	2	2. Asemi Z, Karamali M, Jamilian M, Foroozanfard F, Bahmani F,
+423	2	3. Asemi Z, Tabassi Z, Samimi M, Fahiminejad T and Esmaillzadeh A:
+427	2	4. Xin G, Du J, Wang YT and Liang TT: Effect of oxidative stress on
+430	2	5. Aittasalo M, Raitanen J, Kinnunen TI, Ojala K, Kolu P and Luoto R:
+435	2	6. Jao J, Wong M, Van Dyke RB, Geffner M, Nshom E, Palmer D,
+447	2	9. Soydinc HE, Davutoglu V , Sak ME, Ercan S, Evsen MS, Kaya H,
+451	2	10. Lohse N, Marseille E and Kahn JG: Development of a model
+459	2	12. Nobles C, Marcus BH, Stanek EJ III, Braun B, Whitcomb  BW,
+464	2	13. Djelti F, Merzouk H, Merzouk SA and Narce M: In vitro effects
+470	2	15. Ji LL, Tong L, Peng JB, Jin XH, Wei D, Xu BK and Wang ZY:
+474	2	16. Burris HH and Camargo CA Jr: Time for large randomised trials of
+477	2	17. Asemi Z, Hashemi T, Karamali M, Samimi M and Esmaillzadeh A:
+487	2	19. Hossain N, Kanani FH, Ramzan S, Kausar R, Ayaz S, Khanani R
+492	2	20. Koloverou E, Panagiotakos DB, Pitsavos C, Chrysohoou C,
+498	2	21. Docherty LE, Kabwama S, Lehmann A, Hawke E, Harrison L,
+506	2	23. Livingston EG, Herbert WN, Hage ML, Chapman JF and
+515	2	25. Savvidou MD, Akolekar R, Samaha RB, Masconi AP and
+521	2	26. Goker Tasdemir U, Tasdemir N, Kilic S, Abali R, Celik C and
+525	2	27. Senti J, Thiele DK and Anderson CM: Maternal vitamin D
+528	2	28. Yap C, Cheung NW, Gunton JE, Athayde N, Munns CF, Duke A
+532	2	29. Taha H, Arya A, Paydar M, Looi CY, Wong WF,
+539	2	30. Yu J, Zhou Y, Gui J, Li AZ, Su XL and Feng L: Assessment
+547	2	32. Asemi Z, Karamali M and Esmaillzadeh A: Effects of
+552	2	33. Vural M, Camuzcuoglu H, Toy H, Cece H, Aydin H, Eren MA,
+561	2	35. Asemi Z, Samimi M, Tabassi Z, Shakeri H and Esmaillzadeh A:

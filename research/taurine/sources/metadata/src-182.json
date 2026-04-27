@@ -1,0 +1,34 @@
+{
+  "id": "src-182",
+  "title": "Caffeine: Cognitive and Physical Performance Enhancer or Psychoactive Drug?",
+  "authors": [
+    "Cappelletti, Simone",
+    "Daria, Piacentino",
+    "Sani, Gabriele",
+    "Aromatario, Mariarosaria"
+  ],
+  "year": 2015,
+  "abstract": "",
+  "doi": "10.2174/1570159x13666141210215655",
+  "url": "https://doi.org/10.2174/1570159x13666141210215655",
+  "pdf_url": "",
+  "venue": "Current Neuropharmacology",
+  "citation_count": 472,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-19T12:03:32.134878+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-182.md",
+  "quality_details": {
+    "content_length": 10752,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

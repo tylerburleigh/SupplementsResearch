@@ -1,0 +1,20 @@
+{
+  "id": "src-339",
+  "title": "Mitochondrial metabolism and cancer",
+  "authors": [
+    "Porporato, Paolo E.",
+    "Filigheddu, Nicoletta",
+    "Pedro, José Manuel Bravo‐San",
+    "Kroemer, Guido",
+    "Galluzzi, Lorenzo"
+  ],
+  "doi": "10.1038/cr.2017.155",
+  "url": "https://openalex.org/W2773927148",
+  "provider": "openalex",
+  "year": 2017,
+  "venue": "Cell Research",
+  "citation_count": 1275,
+  "abstract": "Glycolysis has long been considered as the major metabolic process for energy production and anabolic growth in cancer cells. Although such a view has been instrumental for the development of powerful imaging tools that are still used in the clinics, it is now clear that mitochondria play a key role in oncogenesis. Besides exerting central bioenergetic functions, mitochondria provide indeed building blocks for tumor anabolism, control redox and calcium homeostasis, participate in transcriptional regulation, and govern cell death. Thus, mitochondria constitute promising targets for the development of novel anticancer agents. However, tumors arise, progress, and respond to therapy in the context of an intimate crosstalk with the host immune system, and many immunological functions rely on intact mitochondrial metabolism. Here, we review the cancer cell-intrinsic and cell-extrinsic mechanisms through which mitochondria influence all steps of oncogenesis, with a focus on the therapeutic potential of targeting mitochondrial metabolism for cancer therapy.",
+  "type": "academic",
+  "pdf_url": "https://www.nature.com/articles/cr2017155.pdf"
+}

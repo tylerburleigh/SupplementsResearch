@@ -1,0 +1,22 @@
+{
+  "id": "src-311",
+  "title": "The Association of dp-ucMGP with Cardiovascular Morbidity and Decreased Renal Function in Diabetic Chronic Kidney Disease",
+  "authors": [
+    "Roumeliotis, Stefanos",
+    "Roumeliotis, Athanasios",
+    "Stamou, Aikaterini",
+    "Leivaditis, Konstantinos",
+    "Kantartzi, Konstantia",
+    "Panagoutsos, Stylianos",
+    "Liakopoulos, Vassilios"
+  ],
+  "doi": "10.3390/ijms21176035",
+  "url": "https://openalex.org/W3080602313",
+  "provider": "openalex",
+  "year": 2020,
+  "venue": "International Journal of Molecular Sciences",
+  "citation_count": 35,
+  "abstract": "We aimed to investigate the possible association of the inactive, dephosphorylated, uncarboxylated matrix Gla protein (dp-ucMGP) with oxidized low-density lipoprotein (ox-LDL) and all-cause/cardiovascular (CV) mortality and renal function in diabetic chronic kidney disease (CKD). Ox-LDL and dp-ucMGP were determined in 66 diabetic CKD patients. All patients were prospectively followed for seven years, or until the occurrence of death, or a composite renal outcome of 30% estimated glomerular filtration rate (eGFR) reduction or progression to end-stage renal disease (ESRD) requiring dialysis occurred. Secondary outcomes were the occurrence of CV events. Kaplan-Meier curves showed that patients with plasma dp-ucMGP levels above the median (≥656 pM) had a significantly higher risk for all study endpoints. After adjustment for several well-known cofounders, multivariate Cox analysis showed that high plasma dp-ucMGP levels were associated with all-cause mortality (Hazard ratio-HR = 2.63, 95% Confidence Interval-CI = 1.17-5.94, <i>p</i> = 0.02), CV mortality (HR = 2.82, 95% CI = 1.07-7.49, <i>p</i> = 0.037) and progression of CKD (HR = 4.02, 95% CI = 1.20-13.46, <i>p</i> = 0.024). Circulating dp-ucMGP is associated with mortality and decreased renal function in diabetic CKD.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/1422-0067/21/17/6035/pdf?version=1598260678"
+}

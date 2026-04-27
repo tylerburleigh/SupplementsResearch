@@ -1,0 +1,23 @@
+{
+  "id": "src-342",
+  "title": "Nicotinamide mononucleotide improves the ovarian reserve of POI by inhibiting NLRP3-mediated pyroptosis of ovarian granulosa cells.",
+  "authors": [
+    "Ma, Yue",
+    "Nong, Weihua",
+    "Zhong, Ou",
+    "Liu, Ke",
+    "Lei, Siyuan",
+    "Wang, Chen",
+    "Chen, Xi",
+    "Lei, Xiaocan"
+  ],
+  "doi": "10.1186/s13048-024-01534-w",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39593096",
+  "provider": "pubmed",
+  "year": 2024,
+  "venue": "Journal of ovarian research",
+  "citation_count": 0,
+  "abstract": "BACKGROUND: Premature ovarian insufficiency (POI) is a common clinical problem, but there is currently no effective treatment. NLRP3 inflammasome-induced pyroptosis is thought to be a possible mechanism of POI. Nicotinamide mononucleotide (NMN) has a certain anti-inflammatory effect, providing a promising approach for the treatment of POI.\nMETHODS: Thirty female Sprague Dawley rats were randomly divided into a control group (n = 10) and a POI group (n = 20). Cyclophosphamide (CTX) was administered for 2 weeks to induce POI. Then the POI group was divided into two groups: the CTX-POI group (n = 10), which was given saline; and the CTX-POI + NMN group (n = 10), which was given NMN at a dose of 500 mg/kg/day for 21 consecutive days. At the end of the study, the serum hormone concentrations of each group were determined, and each group was subjected to biochemical, histopathological, and immunohistochemical analyses. In the in vitro experiment, cell pyroptosis was simulated by using lipopolysaccharide (LPS) and nigricin (Nig), and then KGN cells were treated with NMN, MCC950, and AGK2, and the levels of Nicotinamide adenine dinucleotide (NAD+) and inflammatory factors Interleukin-18(IL-18) and Interleukin-1β(IL-1β) in the cell supernatants were detected, and the levels of pyroptosis-related factors in the cells were determined.\nRESULTS: In POI rats, NMN treatments can improve blood hormone levels and partially improve the number of follicles, enhance ovarian reserve function and ovarian index.The evidence is that the increase in NAD+ levels and the activation of SIRT2 expression can reduce the expression of NLRP3, Gasdermin D (GSDMD), Caspase-1, IL-18, and IL-1β in the ovary.\nCONCLUSION: NMN improves CTX-induced POI by inhibiting NLRP3-mediated pyroptosis, providing a new therapeutic strategy and drug target for clinical POI patients.",
+  "type": "academic",
+  "pdf_url": ""
+}

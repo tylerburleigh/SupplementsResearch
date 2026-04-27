@@ -1,0 +1,16 @@
+{
+  "id": "src-137",
+  "title": "Ferroptosis-induced Cardiotoxicity and Antitumor Drugs.",
+  "authors": [
+    "Beretta, Giovanni Luca"
+  ],
+  "doi": "10.2174/0929867331666230719124453",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37469161",
+  "provider": "pubmed",
+  "year": 2024,
+  "venue": "Current medicinal chemistry",
+  "citation_count": 0,
+  "abstract": "The induction of regulated cell death ferroptosis in tumors is emerging as an intriguing strategy for cancer treatment. Numerous antitumor drugs (e.g., doxorubicin, etoposide, tyrosine kinase inhibitors, trastuzumab, arsenic trioxide, 5-fluorouracil) induce ferroptosis. Although this mechanism of action is interesting for fighting tumors, the clinical use of drugs that induce ferroptosis is hampered by cardiotoxicity. Besides in cancer cells, ferroptosis induced by chemotherapeutics can occur in cardiomyocytes, and this feature represents an important drawback of antitumor therapy. This inconvenience has been tackled by developing less or no cardiotoxic antitumor drugs or by discovering cardioprotective agents (e.g., berberine, propofol, fisetin, salidroside, melatonin, epigallocatechin- 3gallate, resveratrol) to use in combination with conventional chemotherapeutics. This review briefly summarizes the molecular mechanisms of ferroptosis and describes the ferroptosis dependent mechanisms responsible for cardiac toxicity developed by cancer- suffering patients following the administration of some chemotherapeutics. Additionally, the pharmacological strategies very recently proposed for potentially preventing this inconvenience are considered.",
+  "type": "academic",
+  "pdf_url": ""
+}

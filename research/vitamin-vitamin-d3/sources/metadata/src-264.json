@@ -1,0 +1,38 @@
+{
+  "id": "src-264",
+  "title": "Calcium plus vitamin D supplementation and risk of fractures: an updated meta-analysis from the National Osteoporosis Foundation",
+  "authors": [
+    "Weaver, C. M.",
+    "Alexander, D. D.",
+    "Boushey, C. J.",
+    "Dawson-Hughes, B.",
+    "Lappe, J. M.",
+    "LeBoff, M. S.",
+    "Liu, S.",
+    "Looker, A. C.",
+    "Wallace, T. C.",
+    "Wang, D. D."
+  ],
+  "year": 2016,
+  "abstract": "",
+  "doi": "10.1007/s00198-015-3386-5",
+  "url": "https://doi.org/10.1007/s00198-015-3386-5",
+  "pdf_url": "",
+  "venue": "Osteoporosis International",
+  "citation_count": 500,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T21:26:21.565325+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-264.md",
+  "quality_details": {
+    "content_length": 47804,
+    "alpha_ratio": 0.746,
+    "sentence_count": 389,
+    "reasons": []
+  }
+}

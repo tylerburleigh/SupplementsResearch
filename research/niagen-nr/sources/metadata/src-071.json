@@ -1,0 +1,37 @@
+{
+  "id": "src-071",
+  "title": "An open-label, non-randomized study of the pharmacokinetics of the nutritional supplement nicotinamide riboside (NR) and its effects on blood NAD+ levels in healthy volunteers",
+  "authors": [
+    "Airhart, Sophia E.",
+    "Shireman, Laura M.",
+    "Risler, Linda J.",
+    "Anderson, Gail D.",
+    "Nagana Gowda, G. A.",
+    "Raftery, Daniel",
+    "Tian, Rong",
+    "Shen, Danny D.",
+    "O’Brien, Kevin D."
+  ],
+  "year": 2017,
+  "abstract": "",
+  "doi": "10.1371/journal.pone.0186459",
+  "url": "https://doi.org/10.1371/journal.pone.0186459",
+  "pdf_url": "",
+  "venue": "PLOS ONE",
+  "citation_count": 244,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-20T20:27:37.287647+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-071.md",
+  "quality_details": {
+    "content_length": 50003,
+    "alpha_ratio": 0.733,
+    "sentence_count": 544,
+    "reasons": []
+  }
+}

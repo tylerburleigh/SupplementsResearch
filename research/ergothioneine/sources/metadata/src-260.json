@@ -1,0 +1,20 @@
+{
+  "id": "src-260",
+  "title": "Functional Expression of Carnitine/Organic Cation Transporter 1 in Murine Choroid Plexus.",
+  "authors": [
+    "Ishimoto, Takahiro",
+    "Nakamichi, Noritaka",
+    "Taguchi, Takayuki",
+    "Nishiyama, Misa",
+    "Kato, Yukio"
+  ],
+  "doi": "10.1248/bpb.b24-00451",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39231688",
+  "provider": "pubmed",
+  "year": 2024,
+  "venue": "Biological & pharmaceutical bulletin",
+  "citation_count": 0,
+  "abstract": "Membrane transporters expressed in the choroid plexus (CP) are involved in the transport of substances between the blood and cerebrospinal fluid (CSF). Carnitine/organic cation transporter 1 (OCTN1, also known as SLC22A4) is expressed in rodent CP; however, its specific roles in blood-CSF transport remain unclear. Therefore, in this study, we aimed to evaluate the potential role of OCTN1 in the elimination of substances from CSF. Tritium-labeled ergothioneine ([3H]ERGO), a typical in vivo substrate of OCTN1, was injected into the lateral ventricles of wild-type and octn1 gene knockout (octn1-/-) mice. Clearance of [3H]ERGO from CSF was higher than that of the bulk flow marker, [14C]mannitol, in wild-type mice. However, [3H]ERGO clearance was significantly lower in octn1-/- mice than in wild-type mice. Furthermore, OCTN1 expression in CP was determined via immunohistochemical analysis. CP/CSF ratio of [3H]ERGO was significantly lower in octn1-/- mice than in wild-type mice. These results suggest that OCTN1 is functionally expressed in CP and involved in the elimination of ERGO from CSF in mice.",
+  "type": "academic",
+  "pdf_url": ""
+}

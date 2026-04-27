@@ -1,0 +1,35 @@
+{
+  "id": "src-026",
+  "title": "Reduction of depression and anxiety by 4 weeks Hericium erinaceus intake",
+  "authors": [
+    "Nagano, Mayumi",
+    "Shimizu, Kuniyoshi",
+    "Kondo, Ryuichiro",
+    "Hayashi, Chickako",
+    "Sato, Daigo",
+    "Kitagawa, Katsuyuki",
+    "Ohnuki, Koichiro"
+  ],
+  "year": 2010,
+  "abstract": "",
+  "doi": "10.2220/biomedres.31.231",
+  "url": "https://doi.org/10.2220/biomedres.31.231",
+  "pdf_url": "",
+  "venue": "Biomedical Research",
+  "citation_count": 101,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-23T15:31:58.299128+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-026.md",
+  "quality_details": {
+    "content_length": 22450,
+    "alpha_ratio": 0.725,
+    "sentence_count": 198,
+    "reasons": []
+  }
+}

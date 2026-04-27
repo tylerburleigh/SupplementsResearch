@@ -1,0 +1,29 @@
+{
+  "id": "src-011",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://www.herbal-plantextract.com/sale-53309472-98-egcg-green-tea-extract-powder.html",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-23T01:11:03.892354+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-011.md",
+  "quality_details": {
+    "content_length": 130,
+    "alpha_ratio": 0.723,
+    "sentence_count": 3,
+    "reasons": [
+      "content too short (130 chars < 500)"
+    ]
+  }
+}

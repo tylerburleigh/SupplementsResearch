@@ -1,0 +1,18 @@
+{
+  "id": "src-300",
+  "title": "Skeletal Muscle Mitochondria and Aging: A Review",
+  "authors": [
+    "Peterson, Courtney M.",
+    "Johannsen, Darcy L.",
+    "Ravussin, Éric"
+  ],
+  "doi": "10.1155/2012/194821",
+  "url": "https://openalex.org/W2146350530",
+  "provider": "openalex",
+  "year": 2012,
+  "venue": "Journal of Aging Research",
+  "citation_count": 307,
+  "abstract": "Aging is characterized by a progressive loss of muscle mass and muscle strength. Declines in skeletal muscle mitochondria are thought to play a primary role in this process. Mitochondria are the major producers of reactive oxygen species, which damage DNA, proteins, and lipids if not rapidly quenched. Animal and human studies typically show that skeletal muscle mitochondria are altered with aging, including increased mutations in mitochondrial DNA, decreased activity of some mitochondrial enzymes, altered respiration with reduced maximal capacity at least in sedentary individuals, and reduced total mitochondrial content with increased morphological changes. However, there has been much controversy over measurements of mitochondrial energy production, which may largely be explained by differences in approach and by whether physical activity is controlled for. These changes may in turn alter mitochondrial dynamics, such as fusion and fission rates, and mitochondrially induced apoptosis, which may also lead to net muscle fiber loss and age-related sarcopenia. Fortunately, strategies such as exercise and caloric restriction that reduce oxidative damage also improve mitochondrial function. While these strategies may not completely prevent the primary effects of aging, they may help to attenuate the rate of decline.",
+  "type": "academic",
+  "pdf_url": "https://downloads.hindawi.com/journals/jar/2012/194821.pdf"
+}

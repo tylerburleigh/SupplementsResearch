@@ -1,0 +1,21 @@
+{
+  "id": "src-175",
+  "title": "Age and Age-Related Diseases: Role of Inflammation Triggers and Cytokines",
+  "authors": [
+    "Rea, Irene Maeve",
+    "Gibson, David S.",
+    "McGilligan, Victoria",
+    "McNerlan, Susan",
+    "Alexander, H. Denis",
+    "Ross, Owen A."
+  ],
+  "doi": "10.3389/fimmu.2018.00586",
+  "url": "https://openalex.org/W2790056846",
+  "provider": "openalex",
+  "year": 2018,
+  "venue": "Frontiers in Immunology",
+  "citation_count": 1243,
+  "abstract": "Cytokine dysregulation is believed to play a key role in the remodeling of the immune system at older age, with evidence pointing to an inability to fine-control systemic inflammation, which seems to be a marker of unsuccessful aging. This reshaping of cytokine expression pattern, with a progressive tendency toward a pro-inflammatory phenotype has been called \"inflamm-aging.\" Despite research there is no clear understanding about the causes of \"inflamm-aging\" that underpin most major age-related diseases, including atherosclerosis, diabetes, Alzheimer's disease, rheumatoid arthritis, cancer, and aging itself. While inflammation is part of the normal repair response for healing, and essential in keeping us safe from bacterial and viral infections and noxious environmental agents, not all inflammation is good. When inflammation becomes prolonged and persists, it can become damaging and destructive. Several common molecular pathways have been identified that are associated with both aging and low-grade inflammation. The agerelated change in redox balance, the increase in age-related senescent cells, the senescence-associated secretory phenotype (SASP) and the decline in effective autophagy that can trigger the inflammasome, suggest that it may be possible to delay age-related diseases and aging itself by suppressing pro-inflammatory molecular mechanisms or improving the timely resolution of inflammation. Conversely there may be learning from molecular or genetic pathways from long-lived cohorts who exemplify good quality aging.",
+  "type": "academic",
+  "pdf_url": "https://www.frontiersin.org/articles/10.3389/fimmu.2018.00586/pdf"
+}

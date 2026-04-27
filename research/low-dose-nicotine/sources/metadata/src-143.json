@@ -1,0 +1,23 @@
+{
+  "id": "src-143",
+  "title": "Key Signaling Pathways in Aging and Potential Interventions for Healthy Aging",
+  "authors": [
+    "Yu, Mengdi",
+    "Zhang, Hongxia",
+    "Wang, Brian",
+    "Zhang, Yinuo",
+    "Zheng, Xiaoying",
+    "Shao, Bei",
+    "Zhuge, Qichuan",
+    "Jin, Kunlin"
+  ],
+  "doi": "10.3390/cells10030660",
+  "url": "https://openalex.org/W3136579314",
+  "provider": "openalex",
+  "year": 2021,
+  "venue": "Cells",
+  "citation_count": 108,
+  "abstract": "Aging is a fundamental biological process accompanied by a general decline in tissue function. Indeed, as the lifespan increases, age-related dysfunction, such as cognitive impairment or dementia, will become a growing public health issue. Aging is also a great risk factor for many age-related diseases. Nowadays, people want not only to live longer but also healthier. Therefore, there is a critical need in understanding the underlying cellular and molecular mechanisms regulating aging that will allow us to modify the aging process for healthy aging and alleviate age-related disease. Here, we reviewed the recent breakthroughs in the mechanistic understanding of biological aging, focusing on the adenosine monophosphate-activated kinase (AMPK), Sirtuin 1 (SIRT1) and mammalian target of rapamycin (mTOR) pathways, which are currently considered critical for aging. We also discussed how these proteins and pathways may potentially interact with each other to regulate aging. We further described how the knowledge of these pathways may lead to new interventions for antiaging and against age-related disease.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2073-4409/10/3/660/pdf?version=1616408235"
+}

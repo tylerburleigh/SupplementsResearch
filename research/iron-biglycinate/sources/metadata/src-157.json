@@ -1,0 +1,22 @@
+{
+  "id": "src-157",
+  "title": "Calf circumference change and all-cause mortality among community-dwelling Chinese older people.",
+  "authors": [
+    "Wang, Xiaoxiao",
+    "Ying, Youyou",
+    "Pei, M.",
+    "Ma, Xinjie",
+    "Sun, Yuehao",
+    "Wang, Yupeng",
+    "Li, Nan"
+  ],
+  "doi": "10.1016/j.clnu.2023.01.002",
+  "url": "https://www.semanticscholar.org/paper/4c4e3defd105c713d2d7bfc917eb03fe0cb1e4ff",
+  "provider": "semantic_scholar",
+  "year": 2023,
+  "venue": "Clinical Nutrition",
+  "citation_count": 10,
+  "abstract": "BACKGROUND\nPrevious studies have described an association between single time point calf circumference (CC) and mortality. Evidence of associations between CC change and mortality is lacking. We aimed to determine the relationship between the CC change over time and all-cause mortality.\n\nMETHODS\nWe conducted a retrospective cohort study of 906 participants in the 2014-2018 Chinese Longitudinal Healthy Longevity Survey (CLHLS). Restricted cubic splines were used to analyze associations between the relative CC change (exposure) and all-cause mortality (primary outcome). When there was evidence of non-linearity, a piecewise Cox regression model was next fitted, adjusting for sociodemographic characteristics, health behaviours, health status and baseline CC.\n\nRESULTS\nThe mean (SD) age was 83.8 (12.2) years old, and 50.2% (455/906) of participants were male. We observed a U-shaped association between the relative CC change (%) and all-cause mortality (P for non-linearity <0.001). Participants with stable CC over time had the lowest risk of death. After adjusting for covariates, when CC decreased over time, the hazard ratio per 10% higher in CC change was 1.32 (1.01-1.69). When CC increased over time, the hazard ratio per 10% higher in CC change was 1.35 (1.10-1.66).\n\nCONCLUSION\nStable CC over time was associated with the lowest mortality risk. Our findings indicate the practical significance of monitoring CC change in older adult.",
+  "type": "academic",
+  "pdf_url": ""
+}

@@ -1,0 +1,44 @@
+66	2	Introduction
+105	2	192 SY Park, et al
+136	2	Factors Associated With Muscle
+137	2	Hypertrophy
+184	2	Transcriptional Factor In Muscle
+185	2	Hypertrophy
+222	2	Hemodynamics
+280	2	Function
+303	2	Function
+340	2	Directions
+352	2	194 SY Park, et al
+407	2	Conclusion
+427	2	References
+430	2	2. Fabre JM, Wood RH, Cherry KE, Su LJ, Cress ME, King CM,
+438	2	4. Tanaka H, Munakata M, Kawano Y, Ohishi M, Shoji T,
+443	2	5. Celermajer DS, Sorensen KE, Spiegelhalter DJ, Georgakopoulos
+447	2	6. Hamilton CA, Brosnan MJ, McIntyre M, Graham D, Dominiczak
+457	2	9. Monahan KD, Dinenno FA, Tanaka H, Clevenger CM, DeSouza
+473	2	13. Donnelly JE, Blair SN, Jakicic JM, Manore MM, Rankin JW,
+478	2	14. Cortez-Cooper MY, DeVan AE, Anton MM, Farrar RP, Beckwith
+488	2	16. Miyachi M, Kawano H, Sugawara J, Takahashi K, Hayashi K,
+492	2	17. Heffernan KS, Sosnoff JJ, Fahs CA, Shinsako KK, Jae SY,
+500	2	19. Fry CS, Glynn EL, Drummond MJ, Timmerman KL, Fujita S,
+530	2	26. Thiebaud RS, Loenneke JP, Fahs CA, Rossow LM, Kim D, Abe
+536	2	27. Fahs CA, Rossow LM, Thiebaud RS, Loenneke JP, Kim D, Abe
+558	2	33. Kraemer RR, Hollander DB, Reeves GV, Francois M, Ramadan
+569	2	37. Takarada Y, Takazawa H, Sato Y, Takebayashi S, Tanaka Y,
+598	2	46. Drummond MJ, Fujita S, Abe T, Dreyer HC, Volpi E, Rasmussen
+601	2	47. Bamman MM, Shipp JR, Jiang J, Gower BA, Hunter GR, Good-
+605	2	48. Bickel CS, Slade J, Mahoney E, Haddad F, Dudley GA, Adams
+614	2	196 SY Park, et al
+615	2	50. Yasuda T, Brechue WF, Fujita T, Shirakawa J, Sato Y, Abe
+618	2	51. Gerber HP, Hillan KJ, Ryan AM, Kowalski J, Keller GA,
+622	2	52. Gerber HP, Vu TH, Ryan AM, Kowalski J, Werb Z, Ferrara
+637	2	57. Bogaard HJ, Woltjer HH, Dekker BM, van Keimpema AR,
+641	2	58. Smolander J, Aminoff T, Korhonen I, Tervo M, Shen N,
+645	2	59. DeVan AE, Anton MM, Cook JN, Neidre DB, Cortez-Cooper
+648	2	60. Tanaka M, Sugawara M, Ogasawara Y, Izumi T, Niki K, Kajiya
+654	2	61. Sharman JE, McEniery CM, Campbell RI, Coombes JS,
+695	2	72. Malfatto G, Facchini M, Sala L, Branzi G, Bragato R, Leonetti
+701	2	74. Mayer F, Scharhag-Rosenberger F, Carlsohn A, Cassel M,
+714	2	78. Nakajima T, Iida H, Kurano M, Takano H, Morita T, Meguro
+726	2	81. Burgomaster KA, Moore DR, Schofield LM, Phillips SM, Sale
+740	2	85. Rossow LM, Fahs CA, Loenneke JP, Thiebaud RS, Sherk VD,

@@ -1,0 +1,20 @@
+{
+  "id": "src-469",
+  "title": "Mobile phone-based interventions for smoking cessation",
+  "authors": [
+    "Whittaker, Robyn",
+    "McRobbie, Hayden",
+    "Bullen, Chris",
+    "Rodgers, Anthony",
+    "Gu, Yulong"
+  ],
+  "doi": "10.1002/14651858.cd006611.pub4",
+  "url": "https://openalex.org/W2123622898",
+  "provider": "openalex",
+  "year": 2016,
+  "venue": "Cochrane Database of Systematic Reviews",
+  "citation_count": 1112,
+  "abstract": "The current evidence supports a beneficial impact of mobile phone-based smoking cessation interventions on six-month cessation outcomes. While all studies were good quality, the fact that those studies with biochemical verification of quitting status demonstrated an even higher chance of quitting further supports the positive findings. However, it should be noted that most included studies were of text message interventions in high-income countries with good tobacco control policies. Therefore, caution should be taken in generalising these results outside of this type of intervention and context.",
+  "type": "academic",
+  "pdf_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD006611.pub4/pdf/full"
+}

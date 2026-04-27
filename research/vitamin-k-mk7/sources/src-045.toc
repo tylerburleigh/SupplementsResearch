@@ -1,0 +1,32 @@
+3	2	Review
+28	2	Introduction
+66	2	148 Iwamoto J, et al: Vitamin D and vitamin K for osteoporosis
+259	2	Conclusion
+281	2	150 Iwamoto J, et al: Vitamin D and vitamin K for osteoporosis
+282	2	References
+283	2	1. Orimo H, Shiraki M, Hayashi Y, Hoshino T, Onaya T, Miyazaki
+288	2	2. Chapuy MC, Arlot ME, Delmas PD, Meunier PJ: Effect of cal
+291	2	3. Tanizawa T, Imura K, Ishii Y, Nishida S, Takano Y, Mashiba
+300	2	5. Szulc P, Chapuy MC, Meunier PJ, Delmas PD: Serum under
+303	2	6. Weber P: Management of osteoporosis: is there a role for vita
+306	2	8. Vermeer C, Jie KS, Knapen MH: Role of vitamin K in bone
+311	2	10. Ducy P, Desbois C, Boyce B, Pinero G, Story B, Dunstan C,
+317	2	12. Koshihara Y, Hoshi K, Shiraki M: Enhancement of mineraliza
+320	2	13. Hara K, Akiyama Y, Tomiuga T, Kobayashi M, Nakamura T,
+324	2	14. Orimo H, Fujita T, Onomura T, Inoue T, Kushida K, Shiraki M:
+328	2	15. Shiraishi A, Takeda S, Masaki T, Higuchi Y, Uchiyama Y,
+333	2	16. Shiraishi A, Higashi S, Masaki T, Saito M, Ito M, Ikeda S,
+337	2	17. Akiyama Y, Hara K, Kobayashi M, Tomiuga T, Nakamura T:
+346	2	19. Binkley N, Krueger D, Engelke J, Crenshaw T, Suttie J: Vitamin
+352	2	21. Sairanen S, Karkkainen M, Tahtela R, Laitinen K, Makela P,
+357	2	22. Lips P, Duong T, Oleksik A, Black D, Cummings S, Cox D,
+362	2	23. Iwamoto I, Kosha S, Noguchi S, Murakami M, Fujino T, Douchi
+367	2	24. Plantalech L, Guillaumont M, Vergnaud P, Leclercq M, Delmas
+371	2	25. Vergnaud P, Garnero P, Meunier PJ, Breart G, Kamihagi K,
+375	2	26. Matsunaga S, Ito H, Sakou T: The effect of vitamin K and D
+378	2	27. Hara K, Kobayashi M, Akiyama Y: Effect of combined treat
+382	2	28. Ushiroyama T, Ikeda A, Ueki M: Effect of continuous com
+386	2	29. Iwamoto J, Takeda T, Ichimura S: Effect of combined adminis
+392	2	31. Orimo H, Sugioka Y, Fukunaga M , Muto Y, Hotokebuchi T,
+396	2	32. Orimo H, Hayashi Y, Fukunaga M , Sone T, Fujiwara S, Shiraki
+400	2	33. Keaveny TM, Yeh OC: Architecture and trabecular bone: to

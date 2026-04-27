@@ -1,0 +1,21 @@
+{
+  "id": "src-245",
+  "title": "Assessing the Evidence for Causal Associations Between Body Mass Index, C-Reactive Protein, Depression, and Reported Trauma Using Mendelian Randomization",
+  "authors": [
+    "Palmos, A.",
+    "Hübel, Christopher",
+    "Lim, K.",
+    "Hunjan, Avina K.",
+    "Coleman, J.",
+    "Breen, G."
+  ],
+  "doi": "10.1016/j.bpsgos.2022.01.003",
+  "url": "https://www.semanticscholar.org/paper/7bd12b6d757d63bc3c72d3f5bf021d95526f33ac",
+  "provider": "semantic_scholar",
+  "year": 2022,
+  "venue": "Biological Psychiatry Global Open Science",
+  "citation_count": 11,
+  "abstract": "Background Traumatic experiences are described as the strongest predictors of major depressive disorder (MDD), with inflammation potentially mediating the association between trauma and symptom onset. However, several studies indicate that body mass index (BMI) exerts a large confounding effect on both inflammation and MDD. Methods First, we sought to replicate previously reported associations between these traits in a large subset of the UK Biobank, using regression models with C-reactive protein (CRP) and MDD and as the outcome variables in 113,481 and 30,137 individuals, respectively. Second, we ran bidirectional Mendelian randomization analyses between these traits to establish a potential causal framework between BMI, MDD, reported childhood trauma, and inflammation. Results Our phenotypic analyses revealed no association between CRP and MDD but did suggest a strong effect of BMI and reported trauma on both CRP (BMI: β = 0.43, 95% CI = 0.43–0.43, p ≤ .001; childhood trauma: β = 0.02, 95% CI = 0.00–0.03, p = .006) and MDD (BMI: odds ratio [OR] = 1.16, 95% CI = 1.14–1.19, p ≤ .001; childhood trauma: OR = 1.99, 95% CI = 1.88–2.11, p ≤ .001). Our Mendelian randomization analyses confirmed a lack of causal relationship between CRP and MDD but showed evidence consistent with a strong causal influence of higher BMI on increased CRP (β = 0.37, 95% CI = 0.36–0.39, p ≤ .001) and a bidirectional influence between reported trauma and MDD (OR trauma-MDD = 1.75, 95% CI = 1.49–2.07, p ≤ .001; OR MDD-trauma = 1.22, 95% CI = 1.18–1.27, p ≤ .001). Conclusions Our findings highlight the importance of controlling for both BMI and trauma when studying MDD in the context of inflammation. They also suggest that the experience of traumatic events can increase the risk for MDD and that MDD can increase the experience of traumatic events.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.1016/j.bpsgos.2022.01.003"
+}

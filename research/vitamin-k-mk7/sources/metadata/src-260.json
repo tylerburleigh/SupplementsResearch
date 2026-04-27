@@ -1,0 +1,19 @@
+{
+  "id": "src-260",
+  "title": "The Role of Microbiota-Derived Vitamins in Immune Homeostasis and Enhancing Cancer Immunotherapy",
+  "authors": [
+    "Gholami, Hasti",
+    "Chmiel, John A.",
+    "Burton, Jeremy P.",
+    "Vareki, Saman Maleki"
+  ],
+  "doi": "10.3390/cancers15041300",
+  "url": "https://openalex.org/W4321375715",
+  "provider": "openalex",
+  "year": 2023,
+  "venue": "Cancers",
+  "citation_count": 36,
+  "abstract": "Not all cancer patients who receive immunotherapy respond positively and emerging evidence suggests that the gut microbiota may be linked to treatment efficacy. Though mechanisms of microbial contributions to the immune response have been postulated, one likely function is the supply of basic co-factors to the host including selected vitamins. Bacteria, fungi, and plants can produce their own vitamins, whereas humans primarily obtain vitamins from exogenous sources, yet despite the significance of microbial-derived vitamins as crucial immune system modulators, the microbiota is an overlooked source of these nutrients in humans. Microbial-derived vitamins are often shared by gut bacteria, stabilizing bioenergetic pathways amongst microbial communities. Compositional changes in gut microbiota can affect metabolic pathways that alter immune function. Similarly, the immune system plays a pivotal role in maintaining the gut microbiota, which parenthetically affects vitamin biosynthesis. Here we elucidate the immune-interactive mechanisms underlying the effects of these microbially derived vitamins and how they can potentially enhance the activity of immunotherapies in cancer.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2072-6694/15/4/1300/pdf?version=1677121047"
+}

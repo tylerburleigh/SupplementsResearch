@@ -1,0 +1,23 @@
+{
+  "id": "src-291",
+  "title": "Intermittent hypoxia exacerbates metabolic dysfunction‐associated fatty liver disease by aggravating hepatic copper deficiency‐induced ferroptosis",
+  "authors": [
+    "Wang, Ruhua",
+    "Lv, Yuerong",
+    "Ni, ZiYan",
+    "Feng, Wei",
+    "Fan, P.",
+    "Wang, Yan",
+    "Lin, Yiguang",
+    "Chen, Xueqing"
+  ],
+  "doi": "10.1096/fj.202400840r",
+  "url": "https://www.semanticscholar.org/paper/c3a3efc37abd354d1a58224c7deee45ebc1910c0",
+  "provider": "semantic_scholar",
+  "year": 2024,
+  "venue": "The FASEB Journal",
+  "citation_count": 10,
+  "abstract": "Intermittent hypoxia (IH) is an independent risk factor for metabolic dysfunction‐associated fatty liver disease (MAFLD). Copper deficiency can disrupt redox homeostasis, iron, and lipid metabolism. Here, we investigated whether hepatic copper deficiency plays a role in IH‐associated MAFLD and explored the underlying mechanism(s). Male C57BL/6 mice were fed a western‐type diet with adequate copper (CuA) or marginally deficient copper (CuD) and were exposed separately to room air (RA) or IH. Hepatic histology, plasma biomarkers, copper–iron status, and oxidative stress were assessed. An in vitro HepG2 cell lipotoxicity model and proteomic analysis were used to elucidate the specific targets involved. We observed that there were no differences in hepatic phenotypes between CuA‐fed and CuD‐fed mice under RA. However, in IH exposure, CuD‐fed mice showed more pronounced hepatic steatosis, liver injury, and oxidative stress than CuA‐fed mice. IH induced copper accumulation in the brain and heart and exacerbated hepatic copper deficiency and secondary iron deposition. In vitro, CuD‐treated cells with IH exposure showed elevated levels of lipid accumulation, oxidative stress, and ferroptosis susceptibility. Proteomic analysis identified 360 upregulated and 359 downregulated differentially expressed proteins between CuA and CuD groups under IH; these proteins were mainly enriched in citrate cycle, oxidative phosphorylation, fatty acid metabolism, the peroxisome proliferator‐activated receptor (PPAR)α pathway, and ferroptosis. In IH exposure, CuD significantly upregulated the ferroptosis‐promoting factor arachidonyl‐CoA synthetase long chain family member (ACSL)4. ACSL4 knockdown markedly eliminated CuD‐induced ferroptosis and lipid accumulation in IH exposure. In conculsion, IH can lead to reduced hepatic copper reserves and secondary iron deposition, thereby inducing ferroptosis and subsequent MAFLD progression. Insufficient dietary copper may worsen IH‐associated MAFLD.",
+  "type": "academic",
+  "pdf_url": ""
+}

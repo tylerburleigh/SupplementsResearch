@@ -1,0 +1,20 @@
+{
+  "id": "src-195",
+  "title": "Effects of Folic Acid and 5‐Methyltetrahydrofolate Supplementation on Folate Metabolism and One‐Carbon Transfer Reactions in a Mouse Model",
+  "authors": [
+    "Im, David",
+    "Bloemen, Nicolaas",
+    "Sohn, Kyoung‐Jin",
+    "Croxford, Ruth",
+    "Kim, Young‐In"
+  ],
+  "doi": "10.1096/fasebj.31.1_supplement.lb399",
+  "url": "https://openalex.org/W2901335358",
+  "provider": "openalex",
+  "year": 2017,
+  "venue": "The FASEB Journal",
+  "citation_count": 1,
+  "abstract": "Because of potential adverse health effects of folic acid (FA) supplementation, 5‐methyltetrahydrofolate (5MTHF) has been proposed as a safe alternative to provide supplemental levels of folate. However, the effects of 5MTHF versus FA supplementation on folate metabolism and one‐carbon transfer reactions have not been well studied in an in vivo model. We compared the supplemental effects of FA and 5‐MTHF on the expression of genes involved in intracellular folate metabolism and one‐carbon transfer reactions in the liver using a mouse model. Postweaning C57BL/6 mice were randomized to receive diets containing 2, 10, 20 mg FA/kg of diet or their molar equivalent 5MTHF diets for 12 weeks. Gene expression in the liver was assessed using real‐time RT‐qPCR. Plasma and hepatic folate concentrations accurately reflected supplemental levels of both FA and 5MTHF (p‐trend&lt;0.0001). Expression of thymidylate synthase ( Tyms ) in the liver was not significantly different between FA and 5MTHFR at each molar equivalent supplemental levels. However, 20 mg 5MTHF supplementation was associated with a significant downregulation of Tyms compared with 10 mg 5MTHF (p&lt;0.05). Expression of dihydrofolate reductase ( Dhfr ) was significantly higher with 5MTHF supplementation compared with FA supplementation at each molar equivalent concentration (p&lt;0.0001). Expression of methylenetetrahydrofolate reductase ( Mthfr ) was significantly higher in the 10 mg 5MTHF group relative to its molar equivalent FA group (p&lt;0.001), and relative to the 20 mg 5MTHF group (p&lt;0.05). Expression of methionine synthase ( Mtr ) was significantly greater in all 5MTHF groups relative to their molar equivalent FA groups (p&lt;0.001). Expression of DNA methyltransferase 1 ( Dnmt1 ) was not significantly different between the 5MTHF and FA groups at each molar equivalent concentration. However, Dnmt1 expression was greater in the 10 mg FA and 5‐MTHF group relative to the 2 mg FA group and 20 mg 5‐MTHF group, respectively (p&lt;0.05). Expression of Dnmt3a was greater in all 5MTHF groups relative to their molar equivalent FA groups (p&lt;0.05), and was significantly greater in the 20 mg 5MTHF group relative to the 2 mg 5MTHF group (p&lt;0.05). Expression of Dnmt3b was greater in the 10 and 20 mg 5MTHF groups relative to their equimolar FA groups. Our results suggest that 5MTHF supplementation elicits differential effects on the expression of genes involved in folate metabolism and one‐carbon transfer reactions compared with FA supplementation. Studies are underway to determine functional ramifications associated the observed differential gene expression between 5MTHF and FA supplementation.",
+  "type": "academic",
+  "pdf_url": "https://utoronto.scholaris.ca/bitstreams/b5128399-64c4-4225-94c5-6e51f4e058fc/download"
+}

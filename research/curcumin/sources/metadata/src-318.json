@@ -1,0 +1,20 @@
+{
+  "id": "src-318",
+  "title": "Curcumin augments mitophagy via Nrf2-PINK1-mediated, Parkin-dependent ubiquitination to suppress ferroptosis in post-cardiac arrest brain injury.",
+  "authors": [
+    "Li, Zheng",
+    "Xu, Wanling",
+    "Ren, Shurui",
+    "Zheng, Qiang",
+    "Xing, Jihong"
+  ],
+  "doi": "10.1016/j.phymed.2026.158035",
+  "url": "https://www.semanticscholar.org/paper/259d6f92549e70b275ff4604cd8e6393419c1230",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "Phytomedicine",
+  "citation_count": 0,
+  "abstract": "BACKGROUND\nCardiac arrest (CA) remains a major public health challenge with high incidence and mortality. Post-cardiac arrest brain injury (PCABI) is the primary determinant of poor neurological outcomes and survival. Although curcumin (Cur) exhibits neuroprotective effects in multiple cerebral injury models, its precise pharmacological mechanisms in PCABI remain incompletely understood.\n\nPURPOSE\nThis study aimed to systematically evaluate the therapeutic efficacy of Cur on PCABI and to elucidate its molecular mechanisms, focusing on mitophagy and ferroptosis regulation.\n\nMETHODS\nNeuroprotective effects of Cur were investigated using in vitro oxygen-glucose deprivation/reperfusion and in vivo CA/cardiopulmonary resuscitation (CA/CPR) models. Neurological function was assessed using the Neurological Deficit Score, and neuronal damage was evaluated by Nissl and hematoxylin-eosin staining. Ferroptosis markers (Fe²⁺ levels, glutathione, 4-hydroxynonenal, malondialdehyde, and lipid peroxidation) were measured. Mitophagy flux was assessed by fluorescence-based co-localization with mitophagy or lysosomal markers. Expression of ferroptosis- and mitophagy-related proteins was assessed by immunoblotting and immunofluorescence. Proteomics-based bioinformatics, molecular docking, and molecular dynamics simulations were used to validate molecular targets.\n\nRESULTS\nCur significantly improved neurological outcomes and reduced histopathological brain damage in CA/CPR rats. Mechanistically, Cur reduced iron overload, disrupted amino acid metabolism, and excessive lipid peroxidation, while enhancing mitophagy via upregulation of Nrf2 and modulation of PINK1-Parkin pathway protein ubiquitination. Cur was predicted to bind to Keap1, promoting dissociation of the Keap1-Nrf2 complex, Nrf2 nuclear translocation, and downstream gene expression activation.\n\nCONCLUSION\nCur protects against PCABI by activating the Nrf2-PINK1 axis, enhancing mitophagy and suppressing ferroptosis, highlighting its therapeutic potential after CA.",
+  "type": "academic",
+  "pdf_url": ""
+}

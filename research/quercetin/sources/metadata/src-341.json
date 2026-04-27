@@ -1,0 +1,33 @@
+{
+  "id": "src-341",
+  "title": "A Single-Cell Transcriptomic Atlas of Human Skin Aging.",
+  "authors": [
+    "Zou, Zhiran",
+    "Long, Xiao",
+    "Zhao, Qian",
+    "Zheng, Yandong",
+    "Song, Moshi",
+    "Ma, Shuai",
+    "Jing, Yaobin",
+    "Wang, Si",
+    "He, Yifang",
+    "Esteban, Concepcion Rodriguez",
+    "Yu, Nanze",
+    "Huang, Jiuzuo",
+    "Chan, Piu",
+    "Chen, Ting",
+    "Izpisua Belmonte, Juan Carlos",
+    "Zhang, Weiqi",
+    "Qu, Jing",
+    "Liu, Guang-Hui"
+  ],
+  "doi": "10.1016/j.devcel.2020.11.002",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/33238152",
+  "provider": "pubmed",
+  "year": 2021,
+  "venue": "Developmental cell",
+  "citation_count": 0,
+  "abstract": "Skin undergoes constant self-renewal, and its functional decline is a visible consequence of aging. Understanding human skin aging requires in-depth knowledge of the molecular and functional properties of various skin cell types. We performed single-cell RNA sequencing of human eyelid skin from healthy individuals across different ages and identified eleven canonical cell types, as well as six subpopulations of basal cells. Further analysis revealed progressive accumulation of photoaging-related changes and increased chronic inflammation with age. Transcriptional factors involved in the developmental process underwent early-onset decline during aging. Furthermore, inhibition of key transcription factors HES1 in fibroblasts and KLF6 in keratinocytes not only compromised cell proliferation, but also increased inflammation and cellular senescence during aging. Lastly, we found that genetic activation of HES1 or pharmacological treatment with quercetin alleviated cellular senescence of dermal fibroblasts. These findings provide a single-cell molecular framework of human skin aging, providing a rich resource for developing therapeutic strategies against aging-related skin disorders.",
+  "type": "academic",
+  "pdf_url": ""
+}

@@ -1,0 +1,29 @@
+{
+  "id": "src-169",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "",
+  "pdf_url": "https://www.benchchem.com/pdf/Erinacine_U_and_its_Congeners_A_Literature_Review_on_their_Potential_in_Neurodegenerative_Diseases.pdf",
+  "venue": "",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "",
+  "fetched_at": "2026-04-23T15:43:04.333955+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-169.md",
+  "quality_details": {
+    "content_length": 13156,
+    "alpha_ratio": 0.81,
+    "sentence_count": 110,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

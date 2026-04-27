@@ -1,0 +1,323 @@
+24	2	Icu Los
+34	2	Icu Los
+53	2	Los
+66	2	Icu Los
+83	2	Los Picu
+112	2	Icu Los
+123	2	Los
+177	2	Npmods
+195	2	Npmods
+211	2	Npmods
+230	2	Npmods
+249	2	Npmods
+280	2	Npmods
+297	2	Npmods
+330	2	Npmods
+349	2	Npmods
+350	2	Ecmo
+365	2	Npmods
+366	2	Ecmo
+380	2	Npmods
+381	2	Ecmo
+399	2	Npmods
+401	2	Ecmo
+417	2	Npmods
+418	2	Ecmo
+435	2	Npmods
+436	2	Ecmo
+442	2	Clabsi
+463	2	Npmods
+475	2	Npmods
+483	2	Los
+506	2	Pards
+520	2	Los
+561	2	Npmods
+574	2	Npmods
+575	2	Los
+631	2	Los
+639	2	Vte
+651	2	Npmods
+659	2	Crrt
+664	2	Npmods
+687	2	Los
+707	2	Ecmo
+719	2	Icu Los
+737	2	Icu Los
+756	2	Icu Los
+771	2	Icu Los
+788	2	Icu Los
+804	2	Icu Los
+817	2	Icu Los
+830	2	Icu Los
+847	2	Icu Los
+859	2	Icu Los
+869	2	Icu Los
+880	2	Icu Los
+899	2	Icu Los
+915	2	Icu Los
+930	2	Icu Los
+941	2	Icu Los
+955	2	Icu Los
+966	2	Icu Los
+978	2	Icu Los
+980	2	Npmods
+1021	2	Very
+1022	2	Low
+1023	2	Critical
+1046	2	Very
+1047	2	Low
+1048	2	Critical
+1128	2	Low
+1129	2	Critical
+1178	2	Design
+1227	2	Moderat
+1229	2	Critical
+1254	2	Low
+1255	2	Critical
+1277	2	Low
+1278	2	Critical
+1295	2	Low
+1296	2	Critical
+1343	2	Very Low
+1344	2	Critical
+1372	2	Very Low
+1373	2	Critical
+1382	2	Design
+1411	2	Moderate
+1412	2	Critical
+1436	2	Moderate
+1437	2	Critical
+1456	2	Moderate
+1457	2	Important
+1468	2	Design
+1504	2	Low
+1505	2	Critical
+1521	2	Low
+1522	2	Critical
+1545	2	Low
+1546	2	Critical
+1576	2	Design
+1607	2	Moderate
+1608	2	Critical
+1622	2	Low
+1623	2	Critical
+1638	2	Low
+1639	2	Critical
+1671	2	Very
+1672	2	Low
+1673	2	Critical
+1695	2	Low
+1696	2	Critical
+1739	2	Design
+1767	2	Low
+1768	2	Critical
+1797	2	Moderate
+1798	2	Critical
+1819	2	Low
+1820	2	Critical
+1835	2	Moderate
+1836	2	Important
+1850	2	Low
+1851	2	Important
+1869	2	Design
+1896	2	Very
+1897	2	Low
+1898	2	Critical
+1912	2	Design
+1944	2	Moderate
+1945	2	Critical
+1968	2	Low
+1969	2	Critical
+1990	2	Moderate
+1991	2	Critical
+2014	2	Moderate
+2015	2	Critical
+2028	2	Design
+2059	2	Low
+2060	2	Critical
+2081	2	Low
+2082	2	Critical
+2093	2	Low
+2094	2	Critical
+2115	2	Low
+2116	2	Critical
+2172	2	Very Low
+2173	2	Critical
+2193	2	Low
+2194	2	Critical
+2230	2	Moderate
+2231	2	Critical
+2246	2	Low
+2247	2	Critical
+2261	2	Low
+2262	2	Critical
+2296	2	Peep
+2298	2	Peep
+2327	2	Low
+2328	2	Critical
+2342	2	Very
+2343	2	Low
+2344	2	Critical
+2361	2	Design
+2388	2	Low
+2389	2	Critical
+2405	2	Very
+2406	2	Low
+2407	2	Critical
+2427	2	Design
+2441	2	2  RCTs  not
+2459	2	Low
+2460	2	Critical
+2462	2	1  RCTs not
+2474	2	Low
+2475	2	Critical
+2477	2	Rct
+2487	2	High
+2488	2	Critical
+2495	2	Moderate
+2496	2	Critical
+2512	2	Design
+2527	2	2  RCTs  not
+2546	2	Low
+2547	2	Critical
+2549	2	8  RCTs  not
+2566	2	Low
+2567	2	Critical
+2569	2	1  RCTs  not
+2581	2	Low
+2582	2	Critical
+2584	2	Rct
+2594	2	High
+2595	2	Critical
+2598	2	8  RCTs  not
+2614	2	Low
+2615	2	Critical
+2617	2	1  RCTs  not
+2622	2	Moderate
+2623	2	Critical
+2625	2	5  RCTs  not
+2635	2	Moderate
+2636	2	Critical
+2673	2	Design
+2691	2	Moderate
+2692	2	Critical
+2706	2	Very Low
+2707	2	Critical
+2718	2	Moderate
+2719	2	Critical
+2729	2	Moderate
+2730	2	Critical
+2731	2	Vfd
+2741	2	Moderate
+2742	2	Critical
+2759	2	Design
+2806	2	Very
+2807	2	Low
+2808	2	Critical
+2834	2	Low
+2835	2	Critical
+2852	2	Very
+2853	2	Low
+2854	2	Critical
+2871	2	Low
+2872	2	Critical
+2897	2	Low
+2898	2	Critical
+2912	2	Very
+2913	2	Low
+2914	2	Critical
+2937	2	Very
+2938	2	Low
+2939	2	Critical
+3002	2	Design
+3064	2	Low
+3065	2	Critical
+3083	2	Low
+3084	2	Importan
+3103	2	Low
+3104	2	Critical
+3117	2	Moderat
+3119	2	Importan
+3134	2	Moderat
+3136	2	Importan
+3158	2	Design
+3179	2	Very Low
+3180	2	Critical
+3189	2	Very Low
+3190	2	Important
+3202	2	Very Low
+3203	2	Critical
+3220	2	Design
+3238	2	Very Low
+3239	2	Important
+3252	2	Very Low
+3253	2	Important
+3272	2	Design
+3308	2	Very
+3309	2	Low
+3310	2	Critical
+3330	2	Design
+3383	2	Very
+3384	2	Low
+3385	2	Critical
+3396	2	Very
+3397	2	Low
+3398	2	Importan
+3416	2	Design
+3460	2	Very
+3461	2	Low
+3462	2	Critical
+3489	2	Low
+3490	2	Critical
+3504	2	Low
+3505	2	Importa
+3518	2	Modera
+3520	2	Importa
+3535	2	Low
+3536	2	Importa
+3555	2	Low
+3556	2	Importa
+3580	2	Low
+3581	2	Importa
+3602	2	Ecls
+3627	2	Very
+3628	2	Low
+3629	2	Critical
+3650	2	Design
+3720	2	Ver
+3722	2	Low
+3723	2	Criti
+3724	2	Cal
+3742	2	Design
+3808	2	Ver
+3810	2	Low
+3811	2	Critic
+3850	2	Low
+3851	2	Critic
+3879	2	Ver
+3881	2	Low
+3882	2	Impor
+3883	2	Tant
+3922	2	Ver
+3924	2	Low
+3925	2	Critic
+3956	2	Design
+4020	2	Ver
+4022	2	Low
+4023	2	Impor
+4024	2	Tant
+4062	2	Low
+4063	2	Critic
+4087	2	Ver
+4089	2	Low
+4090	2	Impor
+4091	2	Tant
+4124	2	Design
+4142	2	Dvt
+4194	2	Low
+4195	2	Impor
+4196	2	Tant
+4234	2	Ver
+4236	2	Low
+4237	2	Impor
+4238	2	Tant

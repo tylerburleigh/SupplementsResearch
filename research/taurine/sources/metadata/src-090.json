@@ -1,0 +1,33 @@
+{
+  "id": "src-090",
+  "title": "Early Shifts of Brain Metabolism by Caloric Restriction Preserve White Matter Integrity and Long-Term Memory in Aging Mice",
+  "authors": [
+    "Guo, Janet",
+    "Bakshi, Vikas",
+    "Lin, Ai-Ling"
+  ],
+  "year": 2015,
+  "abstract": "",
+  "doi": "10.3389/fnagi.2015.00213",
+  "url": "https://doi.org/10.3389/fnagi.2015.00213",
+  "pdf_url": "",
+  "venue": "Frontiers in Aging Neuroscience",
+  "citation_count": 50,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-19T11:49:41.742001+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-090.md",
+  "quality_details": {
+    "content_length": 58034,
+    "alpha_ratio": 0.693,
+    "sentence_count": 1148,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

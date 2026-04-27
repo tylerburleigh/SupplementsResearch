@@ -1,0 +1,17 @@
+{
+  "id": "src-174",
+  "title": "Role of folic acid in nitric oxide bioavailability and vascular endothelial function",
+  "authors": [
+    "Stanhewicz, Anna E.",
+    "Kenney, W. Larry"
+  ],
+  "doi": "10.1093/nutrit/nuw053",
+  "url": "https://openalex.org/W2563819932",
+  "provider": "openalex",
+  "year": 2016,
+  "venue": "Nutrition Reviews",
+  "citation_count": 152,
+  "abstract": "Folic acid is a member of the B-vitamin family and is essential for amino acid metabolism. Adequate intake of folic acid is vital for metabolism, cellular homeostasis, and DNA synthesis. Since the initial discovery of folic acid in the 1940s, folate deficiency has been implicated in numerous disease states, primarily those associated with neural tube defects in utero and neurological degeneration later in life. However, in the past decade, epidemiological studies have identified an inverse relation between both folic acid intake and blood folate concentration and cardiovascular health. This association inspired a number of clinical studies that suggested that folic acid supplementation could reverse endothelial dysfunction in patients with cardiovascular disease (CVD). Recently, in vitro and in vivo studies have begun to elucidate the mechanism(s) through which folic acid improves vascular endothelial function. These studies, which are the focus of this review, suggest that folic acid and its active metabolite 5-methyl tetrahydrofolate improve nitric oxide (NO) bioavailability by increasing endothelial NO synthase coupling and NO production as well as by directly scavenging superoxide radicals. By improving NO bioavailability, folic acid may protect or improve endothelial function, thereby preventing or reversing the progression of CVD in those with overt disease or elevated CVD risk.",
+  "type": "academic",
+  "pdf_url": "https://academic.oup.com/nutritionreviews/article-pdf/75/1/61/8549035/nuw053.pdf"
+}

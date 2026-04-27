@@ -1,0 +1,17 @@
+{
+  "id": "src-122",
+  "title": "Starvation, Stress Resistance, and Cancer.",
+  "authors": [
+    "Buono, Roberta",
+    "Longo, Valter D"
+  ],
+  "doi": "10.1016/j.tem.2018.01.008",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/29463451",
+  "provider": "pubmed",
+  "year": 2018,
+  "venue": "Trends in endocrinology and metabolism: TEM",
+  "citation_count": 0,
+  "abstract": "Cancer cells are characterized by dysregulation in signal transduction and metabolic pathways leading to increased glucose uptake, altered mitochondrial function, and the evasion of antigrowth signals. Fasting and fasting-mimicking diets (FMDs) provide a particularly promising intervention to promote differential effects in normal and malignant cells. These effects are caused in part by the reduction in IGF-1, insulin, and glucose and the increase in IGFBP1 and ketone bodies, which generate conditions that force cancer cells to rely more on metabolites and factors that are limited in the blood, thus resulting in cell death. Here we discuss the cellular and animal experiments demonstrating the differential effects of fasting on normal and cancer cells and the mechanisms responsible for these effects.",
+  "type": "academic",
+  "pdf_url": ""
+}

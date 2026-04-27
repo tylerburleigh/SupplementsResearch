@@ -1,0 +1,25 @@
+{
+  "id": "src-183",
+  "title": "Androgen deprivation-induced senescence confers sensitivity to a senolytic strategy in prostate cancer.",
+  "authors": [
+    "Carpenter, Valerie J.",
+    "Saleh, Tareq",
+    "Chakraborty, Eesha",
+    "Lee, So Min",
+    "Murray, Graeme F",
+    "Reed, J.",
+    "Souers, A.",
+    "Faber, Anthony C.",
+    "Harada, Hisashi",
+    "Gewirtz, David A."
+  ],
+  "doi": "10.1016/j.bcp.2024.116385",
+  "url": "https://www.semanticscholar.org/paper/0c332e772132a7f0590ec309f519cf1d34309f2d",
+  "provider": "semantic_scholar",
+  "year": 2024,
+  "venue": "Biochemical Pharmacology",
+  "citation_count": 6,
+  "abstract": "We have previously demonstrated that androgen-dependent prostate cancer (PCa) cell lines enter a state of senescence following exposure to androgen deprivation therapies (ADT). ADT-induced senescence was found to be transient as senescent cells develop castration resistance and re-emerge into a proliferative state even under continuous androgen deprivation in vitro. Moreover, the Bcl-XL/Bcl-2 inhibitor, ABT-263 (navitoclax), an established senolytic agent, promoted apoptosis of senescent PCa cells, suppressing proliferative recovery and subsequent tumor cell outgrowth. As this strategy has not previously been validated in vivo, we used a clinically relevant, syngeneic murine model of PCa, where mice were either castrated or castrated followed by the administration of ABT-263. Our results largely confirm the outcomes previously reported in vitro; specifically, castration alone results in a transient tumor growth suppression with characteristics of senescence, which is prolonged by exposure to ABT-263. Most critically, mice that underwent castration followed by ABT-263 experienced a statistically significant prolongation in survival, with an increase of 14.5 days in median survival time (56 days castration alone vs. 70.5 days castration + ABT-263). However, as is often the case in studies combining the promotion of senescence with a senolytic (the \"one-two\" punch approach), the suppression of tumor growth by the inclusion of the senolytic agent was transient, allowing for tumor regrowth once the drug treatment was terminated. Nevertheless, the results of this work suggest that the \"one-two\" punch senolytic strategy in PCa may effectively interfere with, diminish, or delay the development of the lethal castration-resistant phenotype.",
+  "type": "academic",
+  "pdf_url": ""
+}

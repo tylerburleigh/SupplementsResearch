@@ -1,0 +1,16 @@
+{
+  "id": "src-295",
+  "title": "On the interface of aging, cancer, and neurodegeneration with SIRT6 and L1 retrotransposon protein interaction network.",
+  "authors": [
+    "Nahálková, J."
+  ],
+  "doi": "10.1016/j.arr.2024.102496",
+  "url": "https://www.semanticscholar.org/paper/6eb5967a6ffe4e1bd5031e3811c647647250e732",
+  "provider": "semantic_scholar",
+  "year": 2024,
+  "venue": "Ageing Research Reviews",
+  "citation_count": 7,
+  "abstract": "Roles of the sirtuins in aging and longevity appear related to their evolutionarily conserved functions as retroviral-restriction factors. Retrotransposons also promote the aging process, which can be reversed by the inhibition of their activity. SIRT6 can functionally limit the mutation activity of LINE-1 (L1), a retrotransposon causing cancerogenesis-linked mutations accumulating during aging. Here, an overview of the molecular mechanisms of the controlling effects was created by the pathway enrichment and gene function prediction analysis of a protein interaction network of SIRT6 and L1 retrotransposon proteins L1 ORF1p, and L1 ORF2p. The L1-SIRT6 interaction network is enriched in pathways and nodes associated with RNA quality control, DNA damage response, tumor-related and retrotransposon activity-suppressing functions. The analysis also highlighted sumoylation, which controls protein-protein interactions, subcellular localization, and other post-translational modifications; DNA IR Damage and Cellular Response via ATR, and Hallmark Myc Targets V1, which scores are a measure of tumor aggressiveness. The protein node prioritization analysis emphasized the functions of tumor suppressors p53, PARP1, BRCA1, and BRCA2 having L1 retrotransposon limiting activity; tumor promoters EIF4A3, HNRNPA1, HNRNPH1, DDX5; and antiviral innate immunity regulators DDX39A and DDX23. The outline of the regulatory mechanisms involved in L1 retrotransposition with a focus on the prioritized nodes is here demonstrated in detail. Furthermore, a model establishing functional links between HIV infection, L1 retrotransposition, SIRT6, and cancer development is also presented. Finally, L1-SIRT6 subnetwork SIRT6-PARP1-BRCA1/BRCA2-TRIM28-PIN1-p53 was constructed, where all nodes possess L1 retrotransposon activity-limiting activity and together represent candidates for multitarget control.",
+  "type": "academic",
+  "pdf_url": ""
+}

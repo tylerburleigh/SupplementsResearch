@@ -1,0 +1,30 @@
+{
+  "id": "src-057",
+  "title": "The Mediterranean Diet Reduces the Risk and Mortality of the Prostate Cancer: A Narrative Review",
+  "authors": [
+    "Capurso, Cristiano",
+    "Vendemiale, Gianluigi"
+  ],
+  "year": 2017,
+  "abstract": "",
+  "doi": "10.3389/fnut.2017.00038",
+  "url": "https://doi.org/10.3389/fnut.2017.00038",
+  "pdf_url": "",
+  "venue": "Frontiers in Nutrition",
+  "citation_count": 49,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-19T18:35:50.614643+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-057.md",
+  "quality_details": {
+    "content_length": 84856,
+    "alpha_ratio": 0.688,
+    "sentence_count": 909,
+    "reasons": []
+  }
+}

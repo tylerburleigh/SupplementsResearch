@@ -1,0 +1,34 @@
+{
+  "id": "src-217",
+  "title": "Association between cardiovascular disease and non-melanoma skin cancer: The mediation effect of obesity and inflammation",
+  "authors": [
+    "Zhang, Xin",
+    "Gao, Zhe",
+    "Miao, Ying",
+    "Wu, Xin-Gang"
+  ],
+  "year": 2026,
+  "abstract": "Background\nAlthough the association between CVD and various cancers has been extensively studied, its relationship with NMSC remains ambiguous. Previous studies have shown that cardiovascular disease (CVD) is an independent risk factor for tumorigenesis. However, the relationship between CVD and non-melanoma skin cancer (NMSC) is unclear. The aim of this study is to investigate the potential relationship between CVD and NMSC and whether obesity and inflammation mediate the association.\n\nMethods\n7424 participants from the National Health and Nutrition Examination Survey (NHANES) from 2015 to 2018 were included. Diagnosis of CVD and NMSC was determined by questionnaire combined with self-reported. Inflammatory markers and obesity indices assessed were SIRI, SII, BMI, and WWI. Logistic regression and Pearson correlation analyses were applied to investigate the relationship between the above key variables.\n\nResults\nLogistic regression results showed that CVD was a risk factor for NMSC (OR: 1.83, 95% CI: 1.01 ~ 3.34, p = 0.048); however, there was no statistically significant association between CVD subgroups and NMSC. In addition, SIRI, BMI, and WWI partially mediated the association between CVD and NMSC (p &lt; .001), but SII did not alter the relationship (p &gt; 0.05). Bootstrap test confirmed the stability of the results of the mediation analysis.\n\nConclusion\nCVD increases the risk of developing NMSC, and obesity and inflammation partially mediate the relationship. Weight loss and control of inflammation may be beneficial in reducing the prevalence of CVD and NMSC.",
+  "doi": "10.1371/journal.pone.0343992",
+  "url": "https://doi.org/10.1371/journal.pone.0343992",
+  "pdf_url": "",
+  "venue": "PLOS One",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-24T01:21:34.730998+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-217.md",
+  "quality_details": {
+    "content_length": 42375,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "src-179",
+  "title": "ESPEN guidelines on chronic intestinal failure in adults",
+  "authors": [
+    "Pironi, Loris",
+    "Arends, Jann",
+    "Bozzetti, Federico",
+    "Cuerda, Cristina",
+    "Gillanders, Lyn",
+    "Jeppesen, Palle Bekker",
+    "Joly, Francisca",
+    "Kelly, Darlene G.",
+    "Lal, Simon",
+    "Staun, Michael",
+    "Szczepanek, Kinga",
+    "Gossum, A. Van",
+    "Wanten, Geert",
+    "Schneider, S."
+  ],
+  "doi": "10.1016/j.clnu.2016.01.020",
+  "url": "https://openalex.org/W2252662712",
+  "provider": "openalex",
+  "year": 2016,
+  "venue": "Clinical Nutrition",
+  "citation_count": 697,
+  "abstract": "CIF management requires complex technologies, multidisciplinary and multiprofessional activity, and expertise to care for both the underlying gastrointestinal disease and to provide HPN support. The rarity of the condition impairs the development of RCTs. As a consequence, most of the recommendations have a low or very low grade of evidence. However, two-thirds of the recommendations are considered strong. Specialized management and organization underpin these recommendations.",
+  "type": "academic",
+  "pdf_url": "http://www.clinicalnutritionjournal.com/article/S0261561416000479/pdf"
+}

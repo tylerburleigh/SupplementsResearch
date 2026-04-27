@@ -1,0 +1,24 @@
+{
+  "id": "src-941",
+  "title": "A novel predictive model and therapeutic potential of quercetin derivatives in chronic kidney disease progression.",
+  "authors": [
+    "Xing, Jia",
+    "Jiang, Lai",
+    "Fu, Chen",
+    "Liu, Jia-Qi",
+    "Zhou, Xin",
+    "Zhang, Jie",
+    "Zhang, Yu-Lu",
+    "He, Yu-Chen",
+    "Zhao, Wei-Dong"
+  ],
+  "doi": "10.1016/j.bcp.2025.117024",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40494438",
+  "provider": "pubmed",
+  "year": 2025,
+  "venue": "Biochemical pharmacology",
+  "citation_count": 0,
+  "abstract": "Chronic kidney disease (CKD) remains a pressing global health issue with limited therapeutic options. The loss of nephrons is a crucial pathological change driving CKD progression, influenced by diverse programmed cell death (PCD) pathways, yet the precise interplay among various PCD pathways in CKD progression are still incompletely understood. Four CKD-related datasets from the GEO were performed for differential gene expression and enrichment analyses, and we identified the significant involvement of multiple PCD pathways, including apoptosis, necroptosis, ferroptosis, autophagy, and pyroptosis. Weighted gene co-expression network analysis combined with an ensemble of 101 machine learning algorithms facilitated the construction of a novel predictive model, PCD-related mRNA signature (PRMS). Notably, we observed significant upregulation of NRAS, BIRC5, and KIF20A, alongside downregulation of NDRG1, in CKD kidneys. These were validated through clinical correlation analysis using the Nephroseq database and further confirmed in a mouse unilateral ureteral obstruction model (p < 0.0001, p < 0.0001, p = 0.0007, p = 0.0230, respectively). Subsequent network pharmacology and molecular docking identified quercetin as a candidate with strong binding affinities to PRMS and favorable ADMET properties, further confirmed by molecular dynamics simulations. To improve the pharmacological profile of quercetin, structural modifications were performed, resulting in novel derivatives with enhanced LibDock score and reduced toxicity. In conclusion, our findings provide comprehensive insights into the complex interplay of multiple PCD pathways contributing to CKD progression and further presents a novel predictive model for CKD. We develop novel quercetin derivatives optimized for enhanced efficacy and safety, highlighting their therapeutic potential as promising candidates for targeting PRMS to mitigate CKD progression.",
+  "type": "academic",
+  "pdf_url": ""
+}

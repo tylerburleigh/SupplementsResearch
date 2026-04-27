@@ -1,0 +1,37 @@
+{
+  "id": "src-155",
+  "title": "Add-on Treatment with Curcumin Has Antidepressive Effects in Thai Patients with Major Depression: Results of a Randomized Double-Blind Placebo-Controlled Study",
+  "authors": [
+    "Kanchanatawan, Buranee",
+    "Tangwongchai, Sookjaroen",
+    "Sughondhabhirom, Atapol",
+    "Suppapitiporn, Siriluck",
+    "Hemrunrojn, Solaphat",
+    "Carvalho, André F.",
+    "Maes, Michael"
+  ],
+  "year": 2018,
+  "abstract": "",
+  "doi": "10.1007/s12640-017-9860-4",
+  "url": "https://doi.org/10.1007/s12640-017-9860-4",
+  "pdf_url": "",
+  "venue": "Neurotoxicity Research",
+  "citation_count": 60,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-22T14:37:47.840889+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-155.md",
+  "quality_details": {
+    "content_length": 26114,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

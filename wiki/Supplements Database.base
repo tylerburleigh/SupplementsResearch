@@ -6,6 +6,24 @@ filters:
 properties:
   entity_type:
     displayName: Type
+  practical_status:
+    displayName: Practical Status
+  evidence_level:
+    displayName: Evidence
+  mechanistic_evidence:
+    displayName: Mechanistic
+  animal_evidence:
+    displayName: Animal
+  human_evidence:
+    displayName: Human
+  translational_status:
+    displayName: Translational Status
+  primary_outcomes:
+    displayName: Primary Outcomes
+  primary_pathways:
+    displayName: Primary Pathways
+  primary_genetics:
+    displayName: Primary Genetics
   sources:
     displayName: Sources
   updated:
@@ -15,6 +33,15 @@ views:
     name: All Supplements
     order:
       - file.name
+      - practical_status
+      - evidence_level
+      - translational_status
+      - mechanistic_evidence
+      - animal_evidence
+      - human_evidence
+      - primary_outcomes
+      - primary_pathways
+      - primary_genetics
       - sources
       - updated
     groupBy:
@@ -24,9 +51,41 @@ views:
     name: By Evidence Level
     order:
       - file.name
+      - practical_status
       - evidence_level
+      - translational_status
+      - primary_outcomes
       - sources
       - updated
     groupBy:
       property: evidence_level
       direction: DESC
+  - type: table
+    name: By Practical Status
+    order:
+      - file.name
+      - practical_status
+      - evidence_level
+      - translational_status
+      - mechanistic_evidence
+      - animal_evidence
+      - human_evidence
+      - primary_outcomes
+      - updated
+    groupBy:
+      property: practical_status
+      direction: ASC
+  - type: table
+    name: By Translational Status
+    order:
+      - file.name
+      - translational_status
+      - practical_status
+      - mechanistic_evidence
+      - animal_evidence
+      - human_evidence
+      - primary_outcomes
+      - updated
+    groupBy:
+      property: translational_status
+      direction: ASC

@@ -1,0 +1,22 @@
+{
+  "id": "src-129",
+  "title": "Obacunone ameliorates high-fat diet-induced MAFLD by regulating the PPARγ-FABP1/CD36 axis and the gut-liver crosstalk.",
+  "authors": [
+    "Wang, Xuewen",
+    "Hong, Jiaming",
+    "Liang, Rui",
+    "Bao, Shuoqiang",
+    "Li, Lingru",
+    "Wang, Jing",
+    "Feng, Juan"
+  ],
+  "doi": "10.1016/j.phymed.2025.157180",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40850071",
+  "provider": "pubmed",
+  "year": 2025,
+  "venue": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+  "citation_count": 0,
+  "abstract": "BACKGROUND: Metabolic dysfunction-associated fatty liver disease (MAFLD) is a global health challenge with limited treatment options. Obacunone (Oba), a natural triterpenoid with anti-inflammatory and antioxidant properties, may address metabolic disorders, but its role in MAFLD is unclear.\nPURPOSE: To investigate Oba's effects in high-fat diet (HFD)-induced MAFLD mice and free fatty acid (FFA)-stimulated HepG2 cells.\nMETHODS: Liver lipid metabolism and function were assessed using hepatic TG, NEFA, SOD, ALT, and AST levels. Molecular mechanisms were explored with transcriptomic profiling, dual-luciferase reporter assay, ubiquitin-proteasome system, co-immunoprecipitation, and molecular docking. Gut-liver axis dynamics were evaluated by 16S rDNA sequencing, LPS/cytokine detectiondetecction, and ZO-1 immunohistochemistry. Anti-inflammatory effects were confirmed in TNF-α-stimulated SW620 cells, and fecal metabolomics analysis was performed to screen microbial-derived bioactive metabolites.\nRESULTS: Oba reduced hepatic TG, NEFA, ALT, and AST levels, while increasing hepatic SOD activity, exhibiting anti-steatotic, anti-oxidative, and hepatic protective effects. Mechanistically, Oba suppressed lipid accumulation via ubiquitin-proteasome-mediated degradation of PPARγ, downregulating FABP1 and CD36. Molecular docking and co-immunoprecipitation showed Oba promoted PPARγ ubiquitination without disrupting PPARγ: RXRα heterodimerization. Oba improved gut microbiota, repaired intestinal barrier integrity by upregulating ZO-1, and reduced serum LPS and inflammatory cytokines (TNF-α, IL-6). In TNF-α-stimulated SW620 cells, Oba inhibited NF-κB activation. 16S rDNA sequencing analysis revealed that Oba could regulate the composition of intestinal microbiota. Specifically, Oba effectively restored the diversity of intestinal microbial communities, significantly decreased the abundance of Firmicutes, and simultaneously increased the proportion of Bacteroidetes, thereby optimizing the composition of microbiota at the phylum level. At the genus level, Oba reduced the abundance of genera such as Ralstonia, Dialister, and Elizabethkingia, while up-regulated the abundance of Eubacterium_ventriosum_group, Eubacterium_xylanophilum_group, and Akkermansia. Fecal metabolomics revealed Oba restored beneficial metabolites like ergothioneine, correlated with improved liver markers.\nCONCLUSION: Oba ameliorates MAFLD through dual mechanisms: modulating the PPARγ-FABP1/CD36 axis to suppress hepatic lipid uptake and rebalancing gut-liver crosstalk via microbiota-derived metabolites. These findings support Oba as a promising multi-target therapeutic candidate for MAFLD.",
+  "type": "academic",
+  "pdf_url": ""
+}

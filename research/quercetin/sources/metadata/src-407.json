@@ -1,0 +1,20 @@
+{
+  "id": "src-407",
+  "title": "The Aryl Hydrocarbon Receptor, Epigenetics and the Aging Process",
+  "authors": [
+    "Abudahab, Sara",
+    "Price, E. T.",
+    "Dozmorov, M.",
+    "Deshpande, L. S.",
+    "McClay, J. L."
+  ],
+  "doi": "10.1007/s12603-023-1908-1",
+  "url": "https://www.semanticscholar.org/paper/3d48ef95d47e67410864cb5464022038cf9ab2e9",
+  "provider": "semantic_scholar",
+  "year": 2023,
+  "venue": "The Journal of Nutrition, Health & Aging",
+  "citation_count": 12,
+  "abstract": "The aryl hydrocarbon receptor (AhR) is a ligand-dependent transcription factor, classically associated with the regulation of xenobiotic metabolism in response to environmental toxins. In recent years, transgenic rodent models have implicated AhR in aging and longevity. Moreover, several AhR ligands, such as resveratrol and quercetin, are compounds proven to extend the lifespan of model organisms. In this paper, we first review AhR biology with a focus on aging and highlight several AhR ligands with potential anti-aging properties. We outline how AhR-driven expression of xenobiotic metabolism genes into old age may be a key mechanism through which moderate induction of AhR elicits positive benefits on longevity and healthspan. Furthermore, via integration of publicly available datasets, we show that liver-specific AhR target genes are enriched among genes subject to epigenetic aging. Changes to epigenetic states can profoundly affect transcription factor binding and are a hallmark of the aging process. We suggest that the interplay between AhR and epigenetic aging should be the subject of future research and outline several key gaps in the current literature. Finally, we recommend that a broad range of non-toxic AhR ligands should be investigated for their potential to promote healthspan and longevity.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.1007/s12603-023-1908-1"
+}

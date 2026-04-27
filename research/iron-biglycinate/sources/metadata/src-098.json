@@ -1,0 +1,25 @@
+{
+  "id": "src-098",
+  "title": "Ferritin-guided iron supplementation in whole blood donors (FORTE): results of a double-blind randomized controlled trial.",
+  "authors": [
+    "Karregat, J.",
+    "Meulenbeld, A.",
+    "Quee, F.",
+    "Novotny, V. M.",
+    "Haas, M. de",
+    "Swinkels, D.",
+    "Born, B.-J. H. van den",
+    "Zaaijer, H.",
+    "Twisk, J.",
+    "Hurk, K. van den"
+  ],
+  "doi": "10.1101/2025.01.03.25319940",
+  "url": "https://www.semanticscholar.org/paper/98fbec155fffaaa41028c9a9017cd83e58293b36",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "medRxiv",
+  "citation_count": 0,
+  "abstract": "BACKGROUND: Regular blood donation is associated with an increased risk of iron deficiency (ID; ferritin <15 {micro}g/L). Oral iron supplementation is known to shorten iron store recovery time and could serve as a more effective alternative to extended donation intervals. We aimed to determine the optimal ferritin-guided iron supplementation protocol in terms of donor health, side-effects, donor return, and treatment adherence. METHODS: In this prospective randomized placebo-controlled trial donors with ferritin levels [≤]30 {micro}g/L were enrolled in the study and randomly assigned to one of six groups, stratified for sex and age. Depending on the study arm, donors were asked to adhere to a ferrous bisglycinate supplementation protocol for 56 days, taking capsules containing 0 mg (i.e. placebo), 30 mg or 60 mg of elemental iron, either on alternate days or daily. The primary outcome was iron deficiency (ID) at 56 days follow-up, while secondary outcomes included low ferritin ([≤]30 {micro}g/L), low Hb ([≤]135 g/L for men and [≤]125 g/L for women), iron deficiency-related symptoms, side effects, treatment adherence, and evaluations of all outcomes at 122 and 180 days follow-up. This trial is registered in the Dutch trial registry (NL73283.018.20). FINDINGS: Of the 2,052 donors who provided their informed consent, 830 donors (464 women) had ferritin levels [≤]30 {micro}g/L and were included in the trial. Compared to placebo, all iron supplementation groups exhibited similar significantly lower odds of ID at 56 days, with odds ratios (OR) ranging from 0.60 (95% CI [0.55-0.66]) to 0.65 (95% CI [0.59-0.72]). Similarly, for low Hb, the OR's ranged from 0.74 (95% CI [0.64-0.86]) to 0.80 (95% CI [0.68-0.93]). For low ferritin, 60 mg of daily iron supplementation yielded an OR of 0.52 (95% CI [0.47-0.57]), markedly lower than those of other protocols, which ranged from 0.61 (95% CI [0.55-0.68]) to 0.82 (95% CI [0.74-0.91]). Iron supplementation did not result in any significant differences compared to placebo in ID-related symptoms, gastrointestinal side effects, intention to return to donate, or treatment adherence. INTERPRETATION: In regular donors, 60 mg iron supplements taken daily was shown to be the most effective strategy for mitigating ID, low Hb, and especially low ferritin without introducing gastrointestinal discomfort or changes in the donors intention to return to donate. Ferritin-guided iron supplementation is an effective iron management strategy as an alternative or supplement to extended donation intervals.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.1101/2025.01.03.25319940"
+}

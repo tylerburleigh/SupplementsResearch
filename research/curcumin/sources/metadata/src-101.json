@@ -1,0 +1,17 @@
+{
+  "id": "src-101",
+  "title": "Oxidative stress and redox regulation of lung inflammation in COPD",
+  "authors": [
+    "Rahman, Irfan",
+    "Adcock, Ian M."
+  ],
+  "doi": "10.1183/09031936.06.00053805",
+  "url": "https://openalex.org/W2144477621",
+  "provider": "openalex",
+  "year": 2006,
+  "venue": "European Respiratory Journal",
+  "citation_count": 930,
+  "abstract": "Reactive oxygen species, either directly or via the formation of lipid peroxidation products, may play a role in enhancing inflammation through the activation of stress kinases (c-Jun activated kinase, extracellular signal-regulated kinase, p38) and redox-sensitive transcription factors, such as nuclear factor (NF)-kappaB and activator protein-1. This results in increased expression of a battery of distinct pro-inflammatory mediators. Oxidative stress activates NF-kappaB-mediated transcription of pro-inflammatory mediators either through activation of its activating inhibitor of kappaB-alpha kinase or the enhanced recruitment and activation of transcriptional co-activators. Enhanced NF-kappaB-co-activator complex formation results in targeted increases in histone modifications, such as acetylation leading to inflammatory gene expression. Emerging evidence suggests the glutathione redox couple may entail dynamic regulation of protein function by reversible disulphide bond formation on kinases, phosphatases and transcription factors. Oxidative stress also inhibits histone deacetylase activity and in doing so further enhances inflammatory gene expression and may attenuate glucocorticoid sensitivity. The antioxidant/anti-inflammatory effects of thiol molecules (glutathione, N-acetyl-L-cysteine and N-acystelyn, erdosteine), dietary polyphenols (curcumin-diferuloylmethane, cathechins/quercetin and reserveratol), specific spin traps, such as alpha-phenyl-N-tert-butyl nitrone, a catalytic antioxidant (extracellular superoxide dismutase (SOD) mimetic, SOD mimetic M40419 and SOD, and catalase manganic salen compound, eukarion-8), porphyrins (AEOL 10150 and AEOL 10113) and theophylline have all been shown to play a role in either controlling NF-kappaB activation or affecting histone modifications with subsequent effects on inflammatory gene expression in lung epithelial cells. Thus, oxidative stress regulates both key signal transduction pathways and histone modifications involved in lung inflammation. Various approaches to enhance lung antioxidant capacity and clinical trials of antioxidant compounds in chronic obstructive pulmonary disease are also discussed.",
+  "type": "academic",
+  "pdf_url": "https://erj.ersjournals.com/content/erj/28/1/219.full.pdf"
+}

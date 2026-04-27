@@ -1,0 +1,24 @@
+{
+  "id": "src-234",
+  "title": "Senolytic drugs dasatinib and quercetin combined with Carboplatin or Olaparib reduced the peritoneal and adipose tissue metastasis of ovarian cancer.",
+  "authors": [
+    "Wang, Lian",
+    "Xiong, Bing",
+    "Lu, Wei",
+    "Cheng, Yujie",
+    "Zhu, Jihui",
+    "Ai, Guihai",
+    "Zhang, Xiaojie",
+    "Liu, Xiuni",
+    "Cheng, Zhongping"
+  ],
+  "doi": "10.1016/j.biopha.2024.116474",
+  "url": "https://www.semanticscholar.org/paper/556dcbd87700103a2ae93c3b7caed3300841a4e8",
+  "provider": "semantic_scholar",
+  "year": 2024,
+  "venue": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+  "citation_count": 33,
+  "abstract": "Chemotherapy and targeted drugs-induced senescent ovarian cancer cells that accumulate in peritoneal adipose tissue contribute significantly to chronic inflammation, disrupt homeostasis, and may fuel various aspects of cancer progression. However, the pro-senescence effects of chemotherapy and targeted drugs on adipose derived stem cells (ADSCs) within peritoneal adipose tissue remain poorly understood. In this study, we show that the first-line chemotherapy and targeted drugs can induce the cellular senescence of ADSCs in vitro and increase the aging of peritoneal adipose tissue in vivo. These treatments significantly promoted the dysregulation of glucose and lipid metabolism, including insulin resistance and liver lipid accumulation. Our study shows that dasatinib and quercetin, as senolytics, effectively restore glucose homeostasis in mice with ovarian cancer and significantly reduce adipose tissue aging. Importantly, combining these drugs with Carboplatin or Olaparib results in a marked decrease in both peritoneal and adipose tissue metastasis of ovarian cancer cells. Mechanistically, we revealed that there is crosstalk between ovarian cancer cells and senescent ADSCs. The crosstalk increases inflammatory cytokines and chemokines production in ADSCs and notably upregulates chemokine receptors on cancer cells. Collectively, these data indicate that senescent ADSCs induced by chemotherapy and targeted therapy drugs impair adipose tissue function. However, the senolytic drugs dasatinib and quercetin, can significantly ameliorate organ aging and damage induced by these treatments. Notably, dasatinib and quercetin combined with Carboplatin or Olaparib reduced the peritoneal and adipose tissue metastasis of ovarian cancer, ultimately benefiting the mice undergoing chemotherapy and targeted therapy.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.1016/j.biopha.2024.116474"
+}

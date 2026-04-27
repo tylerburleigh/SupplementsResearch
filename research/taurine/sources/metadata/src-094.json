@@ -1,0 +1,20 @@
+{
+  "id": "src-094",
+  "title": "Flavin-Containing Monooxygenases Are Conserved Regulators of Stress Resistance and Metabolism",
+  "authors": [
+    "Huang, Shijiao",
+    "Howington, Marshall",
+    "Dobry, Craig J.",
+    "Evans, Charles R.",
+    "Leiser, Scott F."
+  ],
+  "doi": "10.3389/fcell.2021.630188",
+  "url": "https://openalex.org/W3132838784",
+  "provider": "openalex",
+  "year": 2021,
+  "venue": "Frontiers in Cell and Developmental Biology",
+  "citation_count": 64,
+  "abstract": "Flavin-Containing Monooxygenases are conserved xenobiotic-detoxifying enzymes. Recent studies have revealed endogenous functions of FMOs in regulating longevity in <i>Caenorhabditis elegans</i> and in regulating aspects of metabolism in mice. To explore the cellular mechanisms of FMO's endogenous function, here we demonstrate that all five functional mammalian FMOs may play similar endogenous roles to improve resistance to a wide range of toxic stresses in both kidney and liver cells. We further find that stress-activated c-Jun N-terminal kinase activity is enhanced in FMO-overexpressing cells, which may lead to increased survival under stress. Furthermore, FMO expression modulates cellular metabolic activity as measured by mitochondrial respiration, glycolysis, and metabolomics analyses. FMO expression augments mitochondrial respiration and significantly changes central carbon metabolism, including amino acid and energy metabolism pathways. Together, our findings demonstrate an important endogenous role for the FMO family in regulation of cellular stress resistance and major cellular metabolic activities including central carbon metabolism.",
+  "type": "academic",
+  "pdf_url": "https://www.frontiersin.org/articles/10.3389/fcell.2021.630188/pdf"
+}

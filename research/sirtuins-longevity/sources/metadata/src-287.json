@@ -1,0 +1,25 @@
+{
+  "id": "src-287",
+  "title": "SIRT1/SREBPs-mediated regulation of lipid metabolism",
+  "authors": [
+    "Shen, Shan",
+    "Shen, Mingyang",
+    "Kuang, Lirun",
+    "Yang, Keyu",
+    "Wu, Shiran",
+    "Liu, Xinde",
+    "Wang, Yuting",
+    "Wang, Yuting",
+    "Wang, Yong",
+    "Wang, Yong"
+  ],
+  "doi": "10.1016/j.phrs.2023.107037",
+  "url": "https://openalex.org/W4389432272",
+  "provider": "openalex",
+  "year": 2023,
+  "venue": "Pharmacological Research",
+  "citation_count": 75,
+  "abstract": "Sirtuins, also called silent information regulator 2, are enzymes that rely on nicotinamide adenine dinucleotide (NAD+) to function as histone deacetylases. Further investigation is warranted to explore the advantageous impacts of Sirtuin 1 (SIRT1), a constituent of the sirtuin group, on lipid metabolism, in addition to its well-researched involvement in extending lifespan. The regulation of gene expression has been extensively linked to SIRT1. Sterol regulatory element-binding protein (SREBP) is a substrate of SIRT1 that has attracted significant interest due to its role in multiple cellular processes including cell cycle regulation, DNA damage repair, and metabolic functions. Hence, the objective of this analysis was to investigate and elucidate the correlation between SIRT1 and SREBPs, as well as assess the contribution of SIRT1/SREBPs in mitigating lipid metabolism dysfunction. The objective of this research was to investigate whether SIRT1 and SREBPs could be utilized as viable targets for therapeutic intervention in managing complications associated with diabetes.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.1016/j.phrs.2023.107037"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "src-335",
+  "title": "Targeting epigenetic regulators for cancer therapy: mechanisms and advances in clinical trials",
+  "authors": [
+    "Cheng, Yuan",
+    "Cai, He",
+    "Wang, Manni",
+    "Ma, Xuelei",
+    "Mo, Fei",
+    "Yang, Shengyong",
+    "Han, Junhong",
+    "Wei, Xiawei"
+  ],
+  "doi": "10.1038/s41392-019-0095-0",
+  "url": "https://openalex.org/W2995898384",
+  "provider": "openalex",
+  "year": 2019,
+  "venue": "Signal Transduction and Targeted Therapy",
+  "citation_count": 1083,
+  "abstract": "Epigenetic alternations concern heritable yet reversible changes in histone or DNA modifications that regulate gene activity beyond the underlying sequence. Epigenetic dysregulation is often linked to human disease, notably cancer. With the development of various drugs targeting epigenetic regulators, epigenetic-targeted therapy has been applied in the treatment of hematological malignancies and has exhibited viable therapeutic potential for solid tumors in preclinical and clinical trials. In this review, we summarize the aberrant functions of enzymes in DNA methylation, histone acetylation and histone methylation during tumor progression and highlight the development of inhibitors of or drugs targeted at epigenetic enzymes.",
+  "type": "academic",
+  "pdf_url": "https://www.nature.com/articles/s41392-019-0095-0.pdf"
+}

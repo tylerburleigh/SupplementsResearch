@@ -1,0 +1,29 @@
+{
+  "id": "src-003",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://helium3media.com/senolytics-and-longevity-research",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-24T12:43:59.708641+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-003.md",
+  "quality_details": {
+    "content_length": 7563,
+    "alpha_ratio": 0.822,
+    "sentence_count": 40,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

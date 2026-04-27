@@ -1,0 +1,21 @@
+{
+  "id": "src-075",
+  "title": "Body Fatness and Cancer — Viewpoint of the IARC Working Group",
+  "authors": [
+    "Secretan, Béatrice",
+    "Scoccianti, Chiara",
+    "Loomis, Dana",
+    "Grosse, Yann",
+    "Bianchini, Franca",
+    "Straíf, Kurt"
+  ],
+  "doi": "10.1056/nejmsr1606602",
+  "url": "https://openalex.org/W2510411424",
+  "provider": "openalex",
+  "year": 2016,
+  "venue": "New England Journal of Medicine",
+  "citation_count": 3469,
+  "abstract": "The International Agency for Research on Cancer convened a workshop on the relationship between body fatness and cancer, from which an IARC handbook on the topic will appear. An executive summary of the evidence is presented.",
+  "type": "academic",
+  "pdf_url": "https://www.nejm.org/doi/pdf/10.1056/NEJMsr1606602?articleTools=true"
+}

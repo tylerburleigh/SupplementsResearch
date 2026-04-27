@@ -1,0 +1,19 @@
+{
+  "id": "src-153",
+  "title": "Treating Oxidative Stress in Heart Failure: Past, Present and Future",
+  "authors": [
+    "Pol, Atze van der",
+    "Gilst, Wiek H. van",
+    "Voors, Adriaan A.",
+    "Meer, Peter van der"
+  ],
+  "doi": "10.1002/ejhf.1320",
+  "url": "https://openalex.org/W2896234395",
+  "provider": "openalex",
+  "year": 2018,
+  "venue": "European Journal of Heart Failure",
+  "citation_count": 780,
+  "abstract": "Advances in cardiovascular research have identified oxidative stress as an important pathophysiological pathway in the development and progression of heart failure. Oxidative stress is defined as the imbalance between the production of reactive oxygen species (ROS) and the endogenous antioxidant defence system. Under physiological conditions, small quantities of ROS are produced intracellularly, which function in cell signalling, and can be readily reduced by the antioxidant defence system. However, under pathophysiological conditions, the production of ROS exceeds the buffering capacity of the antioxidant defence system, resulting in cell damage and death. Over the last decades several studies have tried to target oxidative stress with the aim to improve outcome in patients with heart failure, with very limited success. The reasons as to why these studies failed to demonstrate any beneficial effects remain unclear. However, one plausible explanation might be that currently employed strategies, which target oxidative stress by exogenous inhibition of ROS production or supplementation of exogenous antioxidants, are not effective enough, while bolstering the endogenous antioxidant capacity might be a far more potent avenue for therapeutic intervention. In this review, we provide an overview of oxidative stress in the pathophysiology of heart failure and the strategies utilized to date to target this pathway. We provide novel insights into modulation of endogenous antioxidants, which may lead to novel therapeutic strategies to improve outcome in patients with heart failure.",
+  "type": "academic",
+  "pdf_url": "https://www.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ejhf.1320"
+}

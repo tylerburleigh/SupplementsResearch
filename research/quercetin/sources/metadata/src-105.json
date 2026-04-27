@@ -1,0 +1,22 @@
+{
+  "id": "src-105",
+  "title": "Lipid-Based Nanovesicular Drug Delivery Systems",
+  "authors": [
+    "Limongi, Tania",
+    "Susa, Francesca",
+    "Marini, Monica",
+    "Allione, Marco",
+    "Torre, Bruno",
+    "Pisano, Roberto",
+    "Fabrizio, Enzo Di"
+  ],
+  "doi": "10.3390/nano11123391",
+  "url": "https://openalex.org/W4200326140",
+  "provider": "openalex",
+  "year": 2021,
+  "venue": "Nanomaterials",
+  "citation_count": 75,
+  "abstract": "In designing a new drug, considering the preferred route of administration, various requirements must be fulfilled. Active molecules pharmacokinetics should be reliable with a valuable drug profile as well as well-tolerated. Over the past 20 years, nanotechnologies have provided alternative and complementary solutions to those of an exclusively pharmaceutical chemical nature since scientists and clinicians invested in the optimization of materials and methods capable of regulating effective drug delivery at the nanometer scale. Among the many drug delivery carriers, lipid nano vesicular ones successfully support clinical candidates approaching such problems as insolubility, biodegradation, and difficulty in overcoming the skin and biological barriers such as the blood-brain one. In this review, the authors discussed the structure, the biochemical composition, and the drug delivery applications of lipid nanovesicular carriers, namely, niosomes, proniosomes, ethosomes, transferosomes, pharmacosomes, ufasomes, phytosomes, catanionic vesicles, and extracellular vesicles.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2079-4991/11/12/3391/pdf?version=1639991753"
+}

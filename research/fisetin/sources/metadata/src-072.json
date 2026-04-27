@@ -1,0 +1,33 @@
+{
+  "id": "src-072",
+  "title": "Cellular Senescence and Senolytic Agents: Recent Updates on Their Role and Applications",
+  "authors": [
+    "Chandrakar, Lokesh",
+    "Ambatwar, Ramesh",
+    "Khatik, Gopal L."
+  ],
+  "year": 2024,
+  "abstract": "Abstract:Cellular senescence, an eternal condition of cell cycle arrest due to cellular stressors, is a sign of aging. Senescent cells (SCs) build up in tissues as they age, impairing their ability to repair themselves by causing the cell cycle to seize in progenitor cells and producing proinflammatory and the senescence-associated secretory phenotype (SASP) or matrix-degrading molecules. SASP aids in the emergence of several age-related diseases. Genetic studies have shown that removing SCs can delay aging and prolong life. Senolytics are small molecules designed to treat numerous age-related disorders can selectively kill SCs. A detailed discussion on senolytics and their potential as therapeutics to treat neuro-disorder and slow down aging is described herein. Emerging natural products, such as quercetin, dasatinib, fisetin, piperlongumine, and curcumin, have recently been reported to be effective senolytic agents, and some structurally modified analogue of these have also been explored for better selectivity and efficacy in animal models. These showed significant potential in clinical studies and could be developed as senolytic drugs in the future.",
+  "doi": "10.2174/0115680266273698231107110956",
+  "url": "https://doi.org/10.2174/0115680266273698231107110956",
+  "pdf_url": "",
+  "venue": "Current Topics in Medicinal Chemistry",
+  "citation_count": 8,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-24T12:50:19.670887+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-072.md",
+  "quality_details": {
+    "content_length": 63996,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

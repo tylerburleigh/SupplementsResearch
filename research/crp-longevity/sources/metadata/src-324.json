@@ -1,0 +1,17 @@
+{
+  "id": "src-324",
+  "title": "Structure-Function Relationships of C-Reactive Protein in Bacterial Infection",
+  "authors": [
+    "Ngwa, D. N.",
+    "Agrawal, A."
+  ],
+  "doi": "10.3389/fimmu.2019.00166",
+  "url": "https://www.semanticscholar.org/paper/279ff71f8f70553c47ff051d3a961dfdb54b9281",
+  "provider": "semantic_scholar",
+  "year": 2019,
+  "venue": "Frontiers in Immunology",
+  "citation_count": 54,
+  "abstract": "One host defense function of C-reactive protein (CRP) is to protect against Streptococcus pneumoniae infection as shown by experiments employing murine models of pneumococcal infection. The protective effect of CRP is due to reduction in bacteremia. There is a distinct relationship between the structure of CRP and its anti-pneumococcal function. CRP is functional in both native and non-native pentameric structural conformations. In the native conformation, CRP binds to pneumococci through the phosphocholine molecules present on the C-polysaccharide of the pneumococcus and the anti-pneumococcal function probably involves the known ability of ligand-complexed CRP to activate the complement system. In the native structure-function relationship, CRP is protective only when given to mice within a few hours of the administration of pneumococci. The non-native pentameric conformation of CRP is created when CRP is exposed to conditions mimicking inflammatory microenvironments, such as acidic pH and redox conditions. In the non-native conformation, CRP binds to immobilized complement inhibitor factor H in addition to being able to bind to phosphocholine. Recent data using CRP mutants suggest that the factor H-binding function of non-native CRP is beneficial: in the non-native structure-function relationship, CRP can be given to mice any time after the administration of pneumococci irrespective of whether the pneumococci became complement-resistant or not. In conclusion, while native CRP is protective only against early stage infection, non-native CRP is protective against both early stage and late stage infections. Because non-native CRP displays phosphocholine-independent anti-pneumococcal activity, it is quite possible that CRP functions as a general anti-bacterial molecule.",
+  "type": "academic",
+  "pdf_url": "https://www.frontiersin.org/articles/10.3389/fimmu.2019.00166/pdf"
+}

@@ -1,0 +1,46 @@
+3	2	Study Protocol
+90	2	Introduction
+206	2	Methods And Anal Ysis
+385	2	1. Cognitive orientation
+396	2	2. Smoking habits
+401	2	3. Sedentary behavior Time spent on a typical weekday
+403	2	1. Sitting at work
+405	2	2. Sitting watching television
+406	2	3. Sitting on the computer
+407	2	4. Sitting during meals
+408	2	5. Sitting listening music or reading a book
+409	2	6. Sitting with friends or family
+410	2	7. Sitting and driving a car, bus or train
+411	2	8. Sitting during leisure time
+412	2	9. T aking a nap
+504	2	Experimental Methods And Study
+505	2	Objectives
+633	2	Statistical Anal Ysis
+712	2	Discussion
+824	2	Conclusion
+834	2	Trial Status
+838	2	Ethics Statement
+845	2	Author Contributions
+851	2	Funding
+860	2	References
+864	2	2. V anhaverbeke M, Veltman D, Pattyn N, de Crem N, Gillijns H, Cornelis sen V ,
+868	2	3. Ridker PM, MacFadyen JG, Everett BM, Libby P , Thuren T , Glynn R J,
+873	2	4. Oikawa T , Sakata Y , Nochioka K, Miura M, Abe R, Kasahara S,
+881	2	6. Ridker PM, Everett BM, Thuren T , MacFadyen JG, Chang WH, Ballant yne C,
+884	2	7. Ridker PM, Everett BM, Pradhan A, MacFadyen JG, Solomon DH, Zaha rris E,
+904	2	13. Caland L, Labbe P , Mamarbachi M, Villeneuve L, Ferbeyre G, Noly P E,
+911	2	15. Anderson R, Lagnado A, Maggiorani D, Walaszczyk A, Dookun
+919	2	17. Gevaert AB, Shakeri H, Leloup AJ, van Hove CE, de Meyer GRY , Vrint s
+923	2	18. Childs BG, Baker DJ, Wijshake T , Conover CA, Campisi J, van
+927	2	19. Roos CM, Zhang B, Palmer AK, Ogrodnik MB, Pirtskhalava T , Thalji
+944	2	25. Andres S, Pevny S, Ziegenhagen R, Bakhiya N, Schafer B, Hirs ch-Ernst KI,
+952	2	27. Castellheim A, Hoel TN, Videm V , Fosse E, Pharo A, Svennevig JL ,
+972	2	32. Boesch-Saadatmandi C, Niering J, Minihane AM, Wiswedel I, Gardeman
+981	2	34. Hilliard JJ, Krause HM, Bernstein JI, Fernandez JA, Nguyen V , Oheme ng
+989	2	36. Hao Y , Hao S, Andersen-Nissen E, Mauck WM III, Zheng S, But ler
+998	2	38. Tabrizi R, Tamtaji OR, Mirhosseini N, Lankarani KB, Akbari M,
+1013	2	42. Voghel G, Thorin-Trescases N, Farhat N, Nguyen A, Villeneuve L,
+1020	2	44. Kleemann R, Verschuren L, Morrison M, Zadelaar S, van Erk MJ, Wieli nga
+1028	2	46. Endo M, Nakano M, Kadomatsu T , Fukuhara S, Kuroda H, Mikami
+1035	2	48. Almeida AF , Borge GIA, Piskula M, Tudose A, Tudoreanu L, V alent ova
+1039	2	49. Engelman DT , Ben Ali W, Williams JB, Perrault LP , Reddy VS, Arora RC,

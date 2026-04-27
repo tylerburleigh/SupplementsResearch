@@ -1,0 +1,20 @@
+{
+  "id": "src-224",
+  "title": "Enhancing retinal cells anti-attenuation under oxidative stress by NMN-loaded gelatin nanoparticles via efficiently intracellular delivery.",
+  "authors": [
+    "Yang, Tien-Chun",
+    "Chu, Pei-Hsin",
+    "Chen, Huai-An",
+    "Wu, Yu-Yi",
+    "Tseng, Ching-Li"
+  ],
+  "doi": "10.1016/j.ijbiomac.2026.151140",
+  "url": "https://www.semanticscholar.org/paper/915e016f5700b7d707bc850e12a65c53fa0989fa",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "International Journal of Biological Macromolecules",
+  "citation_count": 0,
+  "abstract": "Oxidative stress plays a critical role in retinal degeneration, contributing to cellular apoptosis and senescence in retinal pigment epithelial (RPE) cells and retinal ganglion cells (RGCs). Nicotinamide mononucleotide (NMN), a key precursor of NAD+, has shown potential in protecting against oxidative damage; however, its clinical translation is hindered by poor cellular uptake and rapid degradation. In this study, carrier gelatin nanoparticles (GNPs) were used to encapsulate NMN (NMN-GNPs) to resolve that disadvantage for NMN usage. We investigated the efficacy of nano-formulated NMN to protect cells under H2O2-induced oxidative stress in human retinal cell models: adult retinal pigment epithelial (ARPE)-19 and human induced pluripotent stem cell (hiPSC)-derived RGCs. Results revealed that both free NMN and NMN-GNPs significantly attenuated H2O2-induced apoptosis and cellular senescence in ARPE-19 cells. However, free NMN showed a limited effect in hiPSC-RGCs, while NMN-GNPs provided significant cytoprotection under a damaged condition. In addition, cellular uptake assays revealed that free NMN had a limited ability to get into RGCs, which was substantially improved by the nanoparticle-mediated formulation (NMN-GNPs) which enhanced intracellular delivery. These results suggest that nanoformulated NMN exhibited facilitated intracellular delivery and enhanced bioavailability which contributed to oxidative stress resilience in retinal cell types and helped retard senescence in both ARPE-19 and hiPSC-RGC scenarios. These findings support the use of NMN-GNPs as a promising nanotherapeutic approach for clinical translation for oxidative stress-related retinal diseases especially for RGC related damages in the future.",
+  "type": "academic",
+  "pdf_url": ""
+}

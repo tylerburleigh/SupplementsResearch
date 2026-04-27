@@ -1,0 +1,17 @@
+{
+  "id": "src-151",
+  "title": "Intracellular Redox Behavior of Quercetin and Resveratrol Singly and in Mixtures.",
+  "authors": [
+    "Giordano, Maria Elena",
+    "Lionetto, Maria Giulia"
+  ],
+  "doi": "10.3390/molecules28124682",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37375237",
+  "provider": "pubmed",
+  "year": 2023,
+  "venue": "Molecules (Basel, Switzerland)",
+  "citation_count": 0,
+  "abstract": "Polyphenols have attracted great interest as potent antioxidant compounds and nutraceuticals; however, their antioxidant properties represent a multifaceted phenomenon, including pro-oxidant effects under particular conditions and complex behavior when multiple polyphenols are simultaneously present. Moreover, their intracellular behavior cannot always be predicted from their ability to counteract the production of ROS in acellular assays. The present work aimed to study the direct intracellular redox activity of two polyphenols, resveratrol and quercetin, singly and in mixture in a cellular short-term bioassay under both basal and pro-oxidant conditions. The study was carried out by spectrofluorimetric assessment of the intracellular fluorescence of CM-H2DCFDA-charged HeLa cells under either basal conditions, due to the reactive species associated with the normal cellular oxidative metabolism, or pro-oxidant conditions induced by H2O2 exposure. Under basal conditions, the obtained results showed a significant antioxidant effect of quercetin and a weaker antioxidant effect of resveratrol when used singly, while antagonism of their effect was detected in their equimolar mixtures at all the concentrations used. Under exposure of the cells to H2O2, quercetin exhibited a dose-dependent intracellular antioxidant activity whereas resveratrol manifested a pro-oxidant intracellular activity, while their equimolar mixtures showed an intracellular interaction between the 2 polyphenols, with additive effects at 5 µM and synergic at 25 µM and 50 µM. Thus, the results clarified the direct intracellular antioxidant/pro-oxidant activity of quercetin and resveratrol alone and in their equimolar mixtures in the cell model HeLa cells and highlighted that the antioxidant properties of polyphenols in mixtures at the cellular level depend not only on the nature of the compounds themselves but also on the type of interactions in the cellular system, which in turn are influenced by the concentration and the oxidative status of the cell.",
+  "type": "academic",
+  "pdf_url": ""
+}

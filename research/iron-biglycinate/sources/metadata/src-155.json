@@ -1,0 +1,20 @@
+{
+  "id": "src-155",
+  "title": "Systolic Blood Pressure and Mortality in Community-Dwelling Older Adults: The Role of Frailty",
+  "authors": [
+    "Chen, C.",
+    "Cai, A.",
+    "Nie, Z.",
+    "Huang, Yuqing",
+    "Feng, Ying-qing"
+  ],
+  "doi": "10.1007/s12603-022-1850-4",
+  "url": "https://www.semanticscholar.org/paper/13851463af1dce10b0d489cdf398e599cb7a4ef0",
+  "provider": "semantic_scholar",
+  "year": 2022,
+  "venue": "The Journal of Nutrition, Health & Aging",
+  "citation_count": 7,
+  "abstract": "To investigate whether frailty modifies the association of systolic blood pressure (SBP) with cardiovascular mortality and all-cause mortality in community-dwelling older adults. A prospective cohort study. A population-based study of nationally representative older Chinese adults in a community setting. This study included participants aged 65 years or older from the Chinese Longitudinal Healthy Longevity Survey 2002–2014 and followed up to 2018. Participants were divided into two groups according to a frailty index based on the accumulation of a 44-items deficits model. The association between SBP and mortality was analyzed using multivariable-adjusted Cox proportional hazards models. Among 18,503 participants included, the mean age was 87.2 years and the overall median follow-up time was 42.7 months. We identified 7808 (42.2%) frail participants (mean frailty index=0.33), in which 7533 (96.5%) died during the follow-up. Effect modification by frailty was detected (P for interaction=0.032). Among frail participants, a U-shaped association was found with hazard ratios of 1.16 (95% CI, 1.02–1.32) for SBP < 100 mmHg, and 1.11 (95% CI, 1.00–1.24) for SBP ≥ 150 mmHg compared with SBP 120–130 mmHg. For non-frail older adults, a tendency toward higher risk among those with SBP ≥ 130 mmHg was observed. The analyses towards cardiovascular mortality showed similar results. Our results suggest the presence of effect modification by frailty indicating a possible negative effect for elevated SBP in non-frail older adults and a U-shaped relationship of SBP in frail older adults with respect to mortality even after adjusting for diastolic blood pressure.",
+  "type": "academic",
+  "pdf_url": ""
+}

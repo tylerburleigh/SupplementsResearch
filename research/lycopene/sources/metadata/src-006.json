@@ -1,0 +1,30 @@
+{
+  "id": "src-006",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://www.greaterbostonurology.com/blog/lycopene-prostate-health-what-you-need-to-know",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-19T18:29:05.911962+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "empty",
+  "content_file": "sources/src-006.md",
+  "quality_details": {
+    "content_length": 27,
+    "alpha_ratio": 0.889,
+    "sentence_count": 0,
+    "reasons": [
+      "content too short (27 chars < 500)",
+      "few sentences detected (0 < 3)"
+    ]
+  }
+}

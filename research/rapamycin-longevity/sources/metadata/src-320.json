@@ -1,0 +1,18 @@
+{
+  "id": "src-320",
+  "title": "A novel rapalog shows improved safety vs. efficacy in a human organoid model of polycystic kidney disease.",
+  "authors": [
+    "Gulieva, Ramila E",
+    "Ahmadvand, Parvaneh",
+    "Freedman, Benjamin S"
+  ],
+  "doi": "10.1016/j.stemcr.2024.102395",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39855202",
+  "provider": "pubmed",
+  "year": 2025,
+  "venue": "Stem cell reports",
+  "citation_count": 0,
+  "abstract": "The mammalian target of rapamycin (mTOR) pathway is a therapeutic target in polycystic kidney disease (PKD), but mTOR inhibitors such as everolimus have failed to show efficacy at tolerated doses in clinical trials. Here, we introduce AV457, a novel rapalog developed to reduce side effects, and assess its dose-dependent safety and efficacy versus everolimus in PKD1-/- and PKD2-/- human kidney organoids, which form cysts in a PKD-specific way. Both AV457 and everolimus reduce cyst growth over time. At intermediate doses, AV457 exhibits an improved safety profile relative to everolimus, with comparable efficacy. Target engagement assays confirm mTOR pathway inhibition and greater selectivity of AV457 for mTOR complex 1 versus complex 2, compared to everolimus. AV457 thus provides a more favorable balance of safety and efficacy for PKD compared to everolimus and merits further consideration as an investigational therapeutic.",
+  "type": "academic",
+  "pdf_url": ""
+}

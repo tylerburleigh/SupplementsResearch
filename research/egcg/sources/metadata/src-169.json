@@ -1,0 +1,21 @@
+{
+  "id": "src-169",
+  "title": "Nutrition and Breast Cancer: A Literature Review on Prevention, Treatment and Recurrence",
+  "authors": [
+    "Cicco, Paola De",
+    "Catani, Maria Valeria",
+    "Gasperi, Valeria",
+    "Sibilano, Matteo",
+    "Quaglietta, Maria",
+    "Savini, Isabella"
+  ],
+  "doi": "10.3390/nu11071514",
+  "url": "https://openalex.org/W2953833576",
+  "provider": "openalex",
+  "year": 2019,
+  "venue": "Nutrients",
+  "citation_count": 392,
+  "abstract": "Breast cancer (BC) is the second most common cancer worldwide and the most commonly occurring malignancy in women. There is growing evidence that lifestyle factors, including diet, body weight and physical activity, may be associated with higher BC risk. However, the effect of dietary factors on BC recurrence and mortality is not clearly understood. Here, we provide an overview of the current evidence obtained from the PubMed databases in the last decade, assessing dietary patterns, as well as the consumption of specific food-stuffs/food-nutrients, in relation to BC incidence, recurrence and survival. Data from the published literature suggest that a healthy dietary pattern characterized by high intake of unrefined cereals, vegetables, fruit, nuts and olive oil, and a moderate/low consumption of saturated fatty acids and red meat, might improve overall survival after diagnosis of BC. BC patients undergoing chemotherapy and/or radiotherapy experience a variety of symptoms that worsen patient quality of life. Studies investigating nutritional interventions during BC treatment have shown that nutritional counselling and supplementation with some dietary constituents, such as EPA and/or DHA, might be useful in limiting drug-induced side effects, as well as in enhancing therapeutic efficacy. Therefore, nutritional intervention in BC patients may be considered an integral part of the multimodal therapeutic approach. However, further research utilizing dietary interventions in large clinical trials is required to definitively establish effective interventions in these patients, to improve long-term survival and quality of life.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2072-6643/11/7/1514/pdf?version=1562147869"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "src-270",
+  "title": "Dietary (Poly)phenolics in Human Health: Structures, Bioavailability, and Evidence of Protective Effects Against Chronic Diseases",
+  "authors": [
+    "Rio, Daniele Del",
+    "Rodriguez‐Mateos, Ana",
+    "Spencer, Jeremy P. E.",
+    "Tognolini, Massimiliano",
+    "Borges, Gina",
+    "Crozier, Alan"
+  ],
+  "doi": "10.1089/ars.2012.4581",
+  "url": "https://openalex.org/W2011336591",
+  "provider": "openalex",
+  "year": 2012,
+  "venue": "Antioxidants and Redox Signaling",
+  "citation_count": 2478,
+  "abstract": "Human intervention trials have provided evidence for protective effects of various (poly)phenol-rich foods against chronic disease, including cardiovascular disease, neurodegeneration, and cancer. While there are considerable data suggesting benefits of (poly)phenol intake, conclusions regarding their preventive potential remain unresolved due to several limitations in existing studies. Bioactivity investigations using cell lines have made an extensive use of both (poly)phenolic aglycones and sugar conjugates, these being the typical forms that exist in planta, at concentrations in the low-μM-to-mM range. However, after ingestion, dietary (poly)phenolics appear in the circulatory system not as the parent compounds, but as phase II metabolites, and their presence in plasma after dietary intake rarely exceeds nM concentrations. Substantial quantities of both the parent compounds and their metabolites pass to the colon where they are degraded by the action of the local microbiota, giving rise principally to small phenolic acid and aromatic catabolites that are absorbed into the circulatory system. This comprehensive review describes the different groups of compounds that have been reported to be involved in human nutrition, their fate in the body as they pass through the gastrointestinal tract and are absorbed into the circulatory system, the evidence of their impact on human chronic diseases, and the possible mechanisms of action through which (poly)phenol metabolites and catabolites may exert these protective actions. It is concluded that better performed in vivo intervention and in vitro mechanistic studies are needed to fully understand how these molecules interact with human physiological and pathological processes.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.1089/ars.2012.4581"
+}

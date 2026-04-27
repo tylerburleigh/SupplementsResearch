@@ -1,0 +1,17 @@
+{
+  "id": "src-265",
+  "title": "AMPK in Health and Disease",
+  "authors": [
+    "Steinberg, Gregory R.",
+    "Kemp, Bruce E."
+  ],
+  "doi": "10.1152/physrev.00011.2008",
+  "url": "https://openalex.org/W2150551377",
+  "provider": "openalex",
+  "year": 2009,
+  "venue": "Physiological Reviews",
+  "citation_count": 1626,
+  "abstract": "The function and survival of all organisms is dependent on the dynamic control of energy metabolism, when energy demand is matched to energy supply. The AMP-activated protein kinase (AMPK) alphabetagamma heterotrimer has emerged as an important integrator of signals that control energy balance through the regulation of multiple biochemical pathways in all eukaryotes. In this review, we begin with the discovery of the AMPK family and discuss the recent structural studies that have revealed the molecular basis for AMP binding to the enzyme's gamma subunit. AMPK's regulation involves autoinhibitory features and phosphorylation of both the catalytic alpha subunit and the beta-targeting subunit. We review the role of AMPK at the cellular level through examination of its many substrates and discuss how it controls cellular energy balance. We look at how AMPK integrates stress responses such as exercise as well as nutrient and hormonal signals to control food intake, energy expenditure, and substrate utilization at the whole body level. Lastly, we review the possible role of AMPK in multiple common diseases and the role of the new age of drugs targeting AMPK signaling.",
+  "type": "academic",
+  "pdf_url": ""
+}

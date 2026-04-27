@@ -1,0 +1,19 @@
+{
+  "id": "src-122",
+  "title": "Recent Advances in Curcumin-Based Combination Nanomedicines for Cancer Therapy",
+  "authors": [
+    "Afshari, Amir R.",
+    "Sanati, Mehdi",
+    "Kesharwani, Prashant",
+    "Sahebkar, Amirhossein"
+  ],
+  "doi": "10.3390/jfb14080408",
+  "url": "https://openalex.org/W4385490105",
+  "provider": "openalex",
+  "year": 2023,
+  "venue": "Journal of Functional Biomaterials",
+  "citation_count": 25,
+  "abstract": "Standard cancer chemotherapeutics often produce significant adverse effects and eventually lose their effectiveness due to the emergence of resistance mechanisms. As a result, patients with malignant tumors experience a poor quality of life and a short lifespan. Thus, combination medication regimens provide various advantages, including increased success rate, fewer side effects, and fewer occurrences of resistance. Curcumin (Cur), a potential phytochemical from turmeric, when coupled with traditional chemotherapeutics, has been established to improve the effectiveness of cancer treatment in clinical and preclinical investigations. Cur not only exerts multiple mechanisms resulting in apoptotic cancer cell death but also reduces the resistance to standard chemotherapy drugs, mainly through downregulating the multi-drug resistance (MDR) cargoes. Recent reports showed the beneficial outcomes of Cur combination with many chemotherapeutics in various malignancies. Nevertheless, owing to the limited bioavailability, devising co-delivery strategies for Cur and conventional pharmaceuticals appears to be required for clinical settings. This review summarized various Cur combinations with standard treatments as cancer therapeutics.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2079-4983/14/8/408/pdf?version=1690977767"
+}

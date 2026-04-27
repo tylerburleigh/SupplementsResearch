@@ -1,0 +1,29 @@
+{
+  "id": "src-004",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://www.nature.com/articles/d41586-025-00586-2",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-19T11:43:16.913649+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-004.md",
+  "quality_details": {
+    "content_length": 3306,
+    "alpha_ratio": 0.77,
+    "sentence_count": 17,
+    "reasons": [
+      "paywall_page (buy this article)"
+    ]
+  }
+}

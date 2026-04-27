@@ -1,0 +1,22 @@
+{
+  "id": "src-177",
+  "title": "Pharmacologic Targeting of eEF2K in Cardiovascular Diseases: Mechanisms and Potential Clinical Applications.",
+  "authors": [
+    "Rezabakhsh, Aysa",
+    "Habtemariam, Solomon",
+    "Khani, E.",
+    "Yekta, Batool Ghorbani",
+    "Rahmani, R.",
+    "Iraji, Hadis",
+    "Nabavi, Seyed Mohammad"
+  ],
+  "doi": "10.1016/j.ejphar.2025.178253",
+  "url": "https://www.semanticscholar.org/paper/235ad71c0ae3536504075e57b6673949f78cecbe",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "European Journal of Pharmacology",
+  "citation_count": 0,
+  "abstract": "Eukaryotic elongation factor 2 kinase (eEF2K) is a calcium/calmodulin-dependent enzyme that regulates protein synthesis by phosphorylating eukaryotic elongation factor 2 (eEF2). Activation of eEF2K under stress conditions such as nutrient deprivation, hypoxia, and oxidative stress helps conserve cellular energy and supports cell survival. Although eEF2K has been extensively studied in cancer and neurodegenerative diseases, increasing evidence emphasizes its crucial role in cardiovascular diseases (CVD), including hypertension, pulmonary arterial hypertension (PAH), ischemia/reperfusion injury, and atherosclerosis. This review outlines the structural and regulatory features of eEF2K and examines how its modulation affects cardiomyocyte survival, autophagy, mitochondrial quality control, and endothelial function. Additionally, preclinical studies indicate that pharmacological inhibition of eEF2K can enhance vascular remodeling, improve hemodynamics, and promote endothelial function. Conversely, activating eEF2K may offer protection against ischemic injury through enhanced autophagy and metabolic adaptation. Additionally, controlling sirtuin (SIRT), 5'-adenosine monophosphate (AMP)-activated protein kinase (AMPK), mechanistic target of rapamycin complex-1 (mTORC1), and autophagy/mitophagy flux via eEF2K modulation could help safeguard cardiomyocytes and endothelial cells from ischemic damage. These findings underscore the dual, context-dependent roles of eEF2K in CVD. We also review emerging small-molecule inhibitors, natural compounds, and innovative strategies, such as eEF2K degraders, highlighting their therapeutic potential and the challenges associated with clinical translation. Main limitations include issues of selectivity, potential toxicity, and the absence of validated biomarkers for patient stratification and treatment monitoring. Overall, targeting eEF2K offers a promising and complex strategy for CVD treatment. Further research into selective modulators, biomarker development, and clinical trials is essential to translate preclinical results into effective therapies.",
+  "type": "academic",
+  "pdf_url": ""
+}

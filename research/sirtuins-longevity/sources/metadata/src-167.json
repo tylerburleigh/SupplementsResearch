@@ -1,0 +1,17 @@
+{
+  "id": "src-167",
+  "title": "NAD⁺ supplementation for anti-aging and wellness: A PRISMA-guided systematic review of preclinical and clinical evidence",
+  "authors": [
+    "Gallagher, Cory",
+    "Emmanuel, Owoturo Oluwaseun"
+  ],
+  "doi": "10.1016/j.arr.2026.103057",
+  "url": "https://openalex.org/W7128159971",
+  "provider": "openalex",
+  "year": 2026,
+  "venue": "Ageing Research Reviews",
+  "citation_count": 1,
+  "abstract": "Nicotinamide adenine dinucleotide (NAD⁺) declines with age, motivating \"NAD⁺-boosting\" strategies ranging from lifestyle interventions to supplementation with NAD⁺ precursors (e.g., nicotinamide riboside [NR], nicotinamide mononucleotide [NMN]) and, in some wellness settings, parenteral NAD⁺ administration. We conducted a PRISMA-guided systematic review of peer-reviewed human and rodent intervention studies (January 2010-October 2025) evaluating NAD-related compounds administered orally or parenterally. We identified 113 eligible studies: 33 human intervention studies (28 randomized; 5 nonrandomized) and 80 rodent studies. In rodent models, NAD⁺ augmentation was frequently associated with improvements in metabolic, mitochondrial, inflammatory, and functional outcomes, although effects varied across models and endpoints. In humans, oral NR and NMN consistently demonstrated biochemical target engagement (circulating (plasma/whole blood) or cellular (e.g., PBMC) NAD-related metabolites) and were generally well tolerated over weeks to months; however, effects on functional, metabolic, vascular, and other healthspan-relevant outcomes were heterogeneous and often null or endpoint-specific. No eligible outcomes trials evaluated intravenous or intramuscular NAD⁺ itself for anti-aging or wellness indications. One nonrandomized intravenous NMN study met inclusion criteria and primarily contributed short-term safety and biomarker information. An intravenous NAD⁺ pharmacokinetic pilot lacking eligible clinical outcomes was identified as contextual evidence only. Overall, NAD⁺ augmentation shows clear biological activity, but clinical effectiveness for anti-aging or wellness outcomes remains inconclusive. Larger, well-designed randomized trials with longer follow-up and prespecified clinically meaningful endpoints are needed, particularly for parenteral approaches.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.1016/j.arr.2026.103057"
+}

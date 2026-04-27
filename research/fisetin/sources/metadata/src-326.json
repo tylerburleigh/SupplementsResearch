@@ -1,0 +1,22 @@
+{
+  "id": "src-326",
+  "title": "The Senolytic Drug Navitoclax (ABT-263) Causes Trabecular Bone Loss and Impaired Osteoprogenitor Function in Aged Mice",
+  "authors": [
+    "Sharma, Anuj",
+    "Roberts, R. L.",
+    "Benson, Reginald D.",
+    "Pierce, J.",
+    "Yu, Kanglun",
+    "Hamrick, M.",
+    "McGee-Lawrence, M."
+  ],
+  "doi": "10.3389/fcell.2020.00354",
+  "url": "https://www.semanticscholar.org/paper/55cbd8cbbff540c331404f333b14234209f1ab49",
+  "provider": "semantic_scholar",
+  "year": 2020,
+  "venue": "Frontiers in Cell and Developmental Biology",
+  "citation_count": 107,
+  "abstract": "Senescence is a cellular defense mechanism that helps cells prevent acquired damage, but chronic senescence, as in aging, can contribute to the development of age-related tissue dysfunction and disease. Previous studies clearly show that removal of senescent cells can help prevent tissue dysfunction and extend healthspan during aging. Senescence increases with age in the skeletal system, and selective depletion of senescent cells or inhibition of their senescence-associated secretory phenotype (SASP) has been reported to maintain or improve bone mass in aged mice. This suggests that promoting the selective removal of senescent cells, via the use of senolytic agents, can be beneficial in the treatment of aging-related bone loss and osteoporosis. Navitoclax (also known as ABT-263) is a chemotherapeutic drug reported to effectively clear senescent hematopoietic stem cells, muscle stem cells, and mesenchymal stromal cells in previous studies, but its in vivo effects on bone mass had not yet been reported. Therefore, the purpose of this study was to assess the effects of short-term navitoclax treatment on bone mass and osteoprogenitor function in old mice. Aged (24 month old) male and female mice were treated with navitoclax (50 mg/kg body mass daily) for 2 weeks. Surprisingly, despite decreasing senescent cell burden, navitoclax treatment decreased trabecular bone volume fraction in aged female and male mice (−60.1% females, −45.6% males), and BMSC-derived osteoblasts from the navitoclax treated mice were impaired in their ability to produce a mineralized matrix (−88% females, −83% males). Moreover, in vitro administration of navitoclax decreased BMSC colony formation and calcified matrix production by aged BMSC-derived osteoblasts, similar to effects seen with the primary BMSC from the animals treated in vivo. Navitoclax also significantly increased metrics of cytotoxicity in both male and female osteogenic cultures (+1.0 to +11.3 fold). Taken together, these results suggest a potentially harmful effect of navitoclax on skeletal-lineage cells that should be explored further to definitively assess navitoclax’s potential (or risk) as a therapeutic agent for combatting age-related musculoskeletal dysfunction and bone loss.",
+  "type": "academic",
+  "pdf_url": "https://www.frontiersin.org/articles/10.3389/fcell.2020.00354/pdf"
+}

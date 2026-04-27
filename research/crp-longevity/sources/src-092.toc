@@ -1,0 +1,37 @@
+3	2	Hypothesis And Theory
+82	2	Overview Of The Immune System
+593	2	Conclusions
+629	2	The Role Of Inflammation In
+630	2	Common Conditions
+1352	2	Conclusions
+1381	2	Implications For Clinical Practice
+1959	2	Conclusions
+2028	2	Author Contributions
+2044	2	References
+2098	2	21. Toft-Hansen H, Buist R, Sun X-J, Schellenberg A, Peeling J, Owe ns
+2162	2	40. Watkins LR, Goehler LE, Relton JK, Tartaglia N, Silbert L, Martin D,
+2166	2	41. Borovikova LV , Ivanova S, Zhang M, Y ang H, Botchkina GI, Wat kins LR,
+2284	2	82. Fernando MMA, Stevens CR, Walsh EC, De Jager PL, Goyette P , P lenge RM,
+2298	2	87. Birck MM, Pesonen E, Odermarsky M, Hansen AK, Persson K, Frik ke-
+2317	2	92. Korngold EC, Januzzi JL, Gantzer ML, Moorthy MV , Cook
+2329	2	95. Hussein AA, Gottdiener JS, Bartz TM, Sotoodehnia N, DeFilippi C, See
+2344	2	100. Apostolopoulos V , Courten MP , Stojanovska L, Blatch GL, Tanga lakis
+2356	2	104. Fransson EI, Batty GD, Tabak AG, Brunner EJ, Kumari M, Shipley M J,
+2363	2	106. McInnis CM, Thoma MV , Gianferante D, Hanlin L, Chen X, Breines
+2375	2	110. Nicklas BJ, Ambrosius W, Messier SP , Miller GD, Penninx BW, Lo eser RF ,
+2382	2	112. Esposito K, Pontillo A, Di Palo C, Giugliano G, Masella M, Marfella R,
+2415	2	121. Gonzalez-Gay MA, De Matias JM, Gonzalez-Juanatey C, Garc ia-Porrua
+2432	2	126. Mathews ST , Chellam N, Srinivas PR, Cintron VJ, Leon MA, Gous tin AS,
+2462	2	136. Bremmer MA, Beekman AT , Deeg DJ, Penninx BW, Dik MG, Hack
+2518	2	153. V asto S, Candore G, Balistreri CR, Caruso M, Colonna-Romano
+2548	2	162. Godbout JP , Chen J, Abraham J, Richwine AF , Berg BM, Kelley K W,
+2617	2	187. Harris TB, Ferrucci L, Tracy RP , Corti MC, Wacholder S, Ettinger WH,
+2627	2	190. Bennett JM, Glaser R, Malarkey WB, Beversdorf DQ, Peng J, Ki ecolt-Glaser
+2647	2	196. Perez-Pardo P , Dodiya HB, Broersen LM, Douna H, van Wijk N, Lope s da
+2654	2	198. David LA, Maurice CF , Carmody RN, Gootenberg DB, Button JE, Wolfe BE,
+2671	2	204. Spittaels H, V an Cauwenberghe E, Verbestel V , De Meester F , V an Dyck D,
+2675	2	205. Hallal PC, Andersen LB, Bull FC, Guthold R, Haskell W, Ekelund
+2748	2	227. Olshansky SJ, Antonucci T , Berkman L, Binstock RH, Boersch- Supan A,
+2781	2	238. Stringhini S, Berkman L, Dugravot A, Ferrie JE, Marmot M, Kivimaki M,
+2811	2	248. Burks AW, Calderon MA, Casale T , Cox L, Demoly P , Jutel M,
+2839	2	257. Cohen S, Janicki-Deverts D, Doyle WJ, Miller GE, Frank E, Rabi n BS,

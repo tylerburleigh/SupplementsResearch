@@ -1,0 +1,11 @@
+1088	2	Ptsd
+1819	2	Mdd
+1828	2	Mdd
+2001	2	21. Increased blood perfusion in the left
+2308	2	Dmt
+5342	2	1. Acute Physical Side Effects Encountered in Clinical
+5359	2	2. Acute Psychological Side Effects Encountered in
+5449	2	1. Risk of Switch to Mania in Patients with Bipolar
+5499	2	3. Acute Severe Physical Side Effects Encountered in
+5909	2	Acknowledgments
+5916	2	References

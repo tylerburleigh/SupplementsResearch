@@ -1,0 +1,24 @@
+{
+  "id": "src-200",
+  "title": "Bone Marrow Adiposity in Models of Radiation‐ and Aging‐Related Bone Loss Is Dependent on Cellular Senescence",
+  "authors": [
+    "Chandra, Abhishek",
+    "Lagnado, A.",
+    "Farr, J.",
+    "Schleusner, Megan",
+    "Monroe, D.",
+    "Saul, D.",
+    "Passos, J.",
+    "Khosla, S.",
+    "Pignolo, R."
+  ],
+  "doi": "10.1002/jbmr.4537",
+  "url": "https://www.semanticscholar.org/paper/a592ad5aba32291dcb36e727dfc7ce9d51b7f564",
+  "provider": "semantic_scholar",
+  "year": 2022,
+  "venue": "Journal of Bone and Mineral Research",
+  "citation_count": 40,
+  "abstract": "Oxidative stress‐induced reactive oxygen species, DNA damage, apoptosis, and cellular senescence have been associated with reduced osteoprogenitors in a reciprocal fashion to bone marrow adipocyte tissue (BMAT); however, a direct (causal) link between cellular senescence and BMAT is still elusive. Accumulation of senescent cells occur in naturally aged and in focally radiated bone tissue, but despite amelioration of age‐ and radiation‐associated bone loss after senescent cell clearance, molecular events that precede BMAT accrual are largely unknown. Here we show by RNA‐Sequencing data that BMAT‐related genes were the most upregulated gene subset in radiated bones of C57BL/6 mice. Using focal radiation as a model to understand age‐associated changes in bone, we performed a longitudinal assessment of cellular senescence and BMAT. Using real‐time quantitative reverse transcription polymerase chain reaction (qRT‐PCR), RNA in situ hybridization of p21 transcripts and histological assessment of telomere dysfunction as a marker of senescence, we observed an increase in senescent cell burden of bone cells from day 1 postradiation, without the presence of BMAT. BMAT was significantly elevated in radiated bones at day 7, confirming the qRT‐PCR data in which most BMAT‐related genes were elevated by day 7, and the trend continued until day 42 postradiation. Similarly, elevation in BMAT‐related genes was observed in bones of aged mice. The senolytic cocktail of Dasatinib (D) plus Quercetin (Q) (ie, D + Q), which clears senescent cells, reduced BMAT in aged and radiated bones. MicroRNAs (miRNAs or miRs) linked with senescence marker p21 were downregulated in radiated and aged bones, whereas miR‐27a, a miR that is associated with increased BMAT, was elevated both in radiated and aged bones. D + Q downregulated miR‐27a in radiated bones at 42 days postradiation. Overall, our study provides evidence that BMAT occurrence in oxidatively stressed bone environments, such as radiation and aging, is induced following a common pathway and is dependent on the presence of senescent cells. © 2022 American Society for Bone and Mineral Research (ASBMR).",
+  "type": "academic",
+  "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9526878"
+}

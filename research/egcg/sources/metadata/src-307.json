@@ -1,0 +1,25 @@
+{
+  "id": "src-307",
+  "title": "Caffeine and EGCG Alleviate High-Trans Fatty Acid and High-Carbohydrate Diet-Induced NASH in Mice: Commonality and Specificity",
+  "authors": [
+    "Xin, X.",
+    "Cheng, Chen",
+    "Cai, B.",
+    "Li, Hongshan",
+    "Tian, Hua-jie",
+    "Xin, Wang",
+    "An, Ziming",
+    "Sun, Qin-mei",
+    "Hu, Yi-Yang",
+    "Qin, Feng"
+  ],
+  "doi": "10.3389/fnut.2021.784354",
+  "url": "https://www.semanticscholar.org/paper/d4fc9872508e6b51fab36d6fa28b811e55457f36",
+  "provider": "semantic_scholar",
+  "year": 2021,
+  "venue": "Frontiers in Nutrition",
+  "citation_count": 18,
+  "abstract": "Caffeine and epigallocatechin-3-gallate (EGCG), which respectively, are the main functional extracts from coffee and green tea, and present protective effects against non-alcoholic fatty liver diseases (NAFLD). These two beverages and their functional extracts are highly recommended as potential treatments for obesity and NAFLD in clinics; however, their pharmacodynamic effects and pharmacological mechanisms in non-alcoholic steatohepatitis (NASH) remain unclear. Therefore, the aim of this study was to explore the commonality and specificity of the pharmacodynamic effects and pharmacological mechanisms of caffeine and EGCG on NASH mice, which were fed with a high-trans fatty acid/high-carbohydrate (HFHC) diet. C57BL/6J mice were fed a normal diet (control group) or an HFHC diet (HFHC group) for 24 weeks. HFHC group mice were additionally treated with caffeine (75 mg/kg) or EGCG (100 mg/kg) for 6 weeks, using obeticholic acid (OCA,10 mg/kg) as a positive control group. The pharmacological effects of the drugs, including effects on glucose and lipid metabolism and liver inflammation and fibrosis, were evaluated. Gene expression in liver tissue samples from the different groups were assessed. Both caffeine and EGCG significantly reduced the liver manifestations of NASH induced by HFHC. The pathological aspects of liver lipid deposition, inflammation, and liver fibrosis in both groups were strongly ameliorated. Of note, most indexes were strongly reversed in the caffeine group, although AST activity, fasting blood glucose, and the HOMA-IR index were improved in the ECGC group. There were 714 differentially expressed genes between the caffeine and HFHC groups and 268 differentially expressed genes between the EGCG and HFHC groups. Twenty and 17 NASH-related KEGG signaling pathways were enriched by caffeine and EGCG. This study confirmed that 75 mg/kg caffeine and 100 mg/kg EGCG could significantly improve liver lipid deposition, glucose metabolism, inflammation, and fibrosis in a mouse model of NASH induced by HFHC. The bioinformatics platform we built for caffeine and EGCG in NASH disease found that the two drugs may greatly overlap in improving the mechanism related to NASH inflammation. However, caffeine may have better potential in regulating glucose metabolism and EGCG may have better potential in regulating lipid metabolism.",
+  "type": "academic",
+  "pdf_url": "https://www.frontiersin.org/articles/10.3389/fnut.2021.784354/pdf"
+}

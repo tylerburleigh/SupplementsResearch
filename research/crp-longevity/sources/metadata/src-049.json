@@ -1,0 +1,32 @@
+{
+  "id": "src-049",
+  "title": "Apolipoprotein J",
+  "authors": [
+    "Yang, Ning",
+    "Qin, Qin"
+  ],
+  "year": 2015,
+  "abstract": "",
+  "doi": "10.4103/0366-6999.164983",
+  "url": "https://doi.org/10.4103/0366-6999.164983",
+  "pdf_url": "",
+  "venue": "Chinese Medical Journal",
+  "citation_count": 30,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-24T01:06:36.086227+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-049.md",
+  "quality_details": {
+    "content_length": 26080,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

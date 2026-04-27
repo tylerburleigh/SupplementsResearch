@@ -1,0 +1,23 @@
+{
+  "id": "src-151",
+  "title": "Structure-based molecular networking, molecular docking, dynamics simulation and pharmacokinetic studies of Olax subscorpioidea for identification of potential inhibitors against selected cancer targets",
+  "authors": [
+    "Oladipupo, Akolade R.",
+    "Alaribe, S. C.",
+    "Ogunlaja, A.",
+    "Beniddir, M.",
+    "Gordon, A.",
+    "Ogah, Celina O.",
+    "Okpuzor, J.",
+    "Coker, H."
+  ],
+  "doi": "10.1080/07391102.2023.2198032",
+  "url": "https://www.semanticscholar.org/paper/85fb31bff65ec3b678333caa37dcb79a847c1956",
+  "provider": "semantic_scholar",
+  "year": 2023,
+  "venue": "Journal of Biomolecular Structure and Dynamics",
+  "citation_count": 8,
+  "abstract": "Abstract The rationale at the basis of targeted approach in oncology is radically shifting—from development of highly specific agents aiming at a single target towards molecules interfering with multiple targets. This study was performed to isolate and characterize bioactive molecules from Olax subscorpioidea stem and investigate their potentials as multi-targeted inhibitors against selected non-small cell lung cancer, breast cancer and chronic myelogenous leukemia oncogenic targets. Three compounds: β-sitosterol (1), α-amyrin (2) and stigmasterol (3) were isolated. The structures of 1 − 3 were elucidated by analysis of their spectroscopic data (NMR, MS and IR). To the best of our knowledge, this is the first time these compounds were isolated from O. subscorpioidea stems. Furthermore, integrated analysis of MS/MS data using the Global Natural Products Social Molecular Networking (GNPS) workflow enabled dereplication and identification of 26 compounds, including alkaloids (remerine, boldine), terpenoids (3-hydroxy-11-ursen-28,13-olide, oleanolic acid), flavonoids (kaempferitrin, olax chalcone A) and saponins in O. subscorpioidea stem. Molecular docking studies revealed that some of the compounds, including olax chalcone A (–9.2 to −10.9 kcal/mol), 3-Hydroxy-11-ursen-28,13-olide (–6.6 to −10.2 kcal/mol), α-amyrin (–6.6 to −10.2 kcal/mol), stigmasterol (–7.7 to −10.1 kcal/mol), β-Sitosterol (–7 to −9.9 kcal/mol) and kaempferitrin (–7.7 to −9 kcal/mol) possessed good inhibitory potentials against selected cancer targets, when compared with reference inhibitors (–8.4 to −13.7 kcal/mol). A few of these compounds were shown to have considerable to favorable pharmacokinetic and drug-likeness properties. This study provides some rationale for the use of O. subscorpioidea in ethnomedicinal management of cancer and identifies some potential anticancer agents. Communicated by Ramaswamy H. Sarma",
+  "type": "academic",
+  "pdf_url": ""
+}

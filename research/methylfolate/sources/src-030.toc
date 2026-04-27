@@ -1,0 +1,753 @@
+7	2	2024 Guideline for the Primary Prevention of
+13	2	Guideline Writing Group
+46	2	Clinical Statements
+47	2	And Guidelines
+50	2	Table Of Contents
+56	3	1.2. Organization of the Guideline
+60	3	1.5 Class of Recommendations and Level
+64	3	2.1 Evaluation of Evidence for Primary Stroke
+66	3	2.2 Emphasis on Groups with Elevated
+70	2	4. Management of Health Behaviors and Health
+81	2	5. Atherosclerotic and Non-Atherosclerotic
+83	3	5.1 Asymptomatic Carotid Artery
+85	3	5.2 Asymptomatic Cerebral SVD,
+91	3	6.3 Coagulation and Inflammatory
+97	3	6.4  Substance Use and Substance
+112	2	1. From birth to old age, every person should have
+116	2	2. Screening for and addressing adverse social
+128	2	3. The Mediterranean diet is a dietary pattern that
+136	2	4. Physical activity is essential for cardiovascular
+160	2	Clinical Statements
+161	2	And Guidelines
+164	2	6. Blood pressure management is critical for stroke
+184	2	8. Prevention of pregnancy-related stroke can
+207	2	10. Understanding transgender health is essential
+214	2	Preamble
+275	2	Clinical Statements
+276	2	And Guidelines
+279	2	1. INTRODUCTION
+344	3	1.1. Methodology and Evidence Review
+378	3	1.2. Organization of the Guideline Writing Group
+391	2	Clinical Statements
+392	2	And Guidelines
+403	3	1.3. Document Review and Approval
+413	3	1.4. Scope of the Guideline
+455	2	Clinical Statements
+456	2	And Guidelines
+473	2	3. Atherosclerotic and nonatherosclerotic risk factors
+483	2	5. Heart disease, specifically atrial cardiopathy and
+492	2	Clinical Statements
+493	2	And Guidelines
+542	3	1.5. Class of Recommendations and Level of
+552	3	1.6. Abbreviations
+607	2	Clinical Statements
+608	2	And Guidelines
+630	2	2. GENERAL CONCEPTS
+631	3	2.1. Evaluation of Evidence for Primary Stroke
+654	3	2.2. Emphasis on Groups With Elevated Stroke
+725	2	1. General population without CVD Primary prevention
+726	2	2. Population with CVD and no stroke Primary prevention
+733	2	Clinical Statements
+734	2	And Guidelines
+743	3	2.3. Social Determinants of Health
+784	2	3. PATIENT ASSESSMENT
+787	2	1 B-NR
+799	2	Clinical Statements
+800	2	And Guidelines
+803	2	1 B-NR
+808	2	1 C-EO
+813	2	1 C-EO
+845	2	1. An important application for stroke risk classifica-
+875	2	2. Risk prediction instruments can facilitate patient-
+906	2	3. Several modifiable behaviors and medical con-
+918	2	Clinical Statements
+919	2	And Guidelines
+950	2	4. Economic, environmental, and social factors mod-
+1010	2	Clinical Statements
+1011	2	And Guidelines
+1023	2	4. MANAGEMENT OF HEALTH BEHAVIORS
+1024	2	And Health Factors For Primary
+1041	3	4.1. Diet Quality
+1044	2	1 B-R
+1045	2	1. In adults without prior CVD and who are at high
+1058	2	3.  In adults, folic acid supplementation and B-
+1064	2	4.  In adults without prior CVD, long-chain fatty
+1069	2	5.  In adults, vitamin C, vitamin E, selenium, anti-
+1110	2	Clinical Statements
+1111	2	And Guidelines
+1115	2	1. In a systematic review and network meta-analysis
+1151	2	3. In a systematic review of meta-analyses and
+1240	2	Clinical Statements
+1241	2	And Guidelines
+1286	3	4.2. Physical Activity
+1290	2	1 C-EO
+1291	2	1.  In adults, screening for physical activity is recom-
+1295	2	1 C-LD
+1296	2	2.  In adults, counseling patients to engage in at least
+1302	2	1 C-LD
+1303	2	3.  In adults, counseling to avoid excessive time
+1352	2	Clinical Statements
+1353	2	And Guidelines
+1357	2	1. The US Centers for Disease Control and Prevention
+1398	2	2. The AHA and the USPSTF recommend that
+1438	2	3. Sedentary behavior has been associated with a
+1469	2	Clinical Statements
+1470	2	And Guidelines
+1484	3	4.3. Weight and Obesity
+1488	2	1 B-NR
+1529	2	1. BMI is associated with an increased risk of stroke
+1560	2	2. Bariatric surgery such as gastric bypass or sleeve
+1583	2	Clinical Statements
+1584	2	And Guidelines
+1625	3	4.4. Sleep
+1633	2	2.  In patients with OSA, continuous positive airway
+1689	2	Clinical Statements
+1690	2	And Guidelines
+1713	2	1. Direct evidence that screening for OSA reduces
+1730	2	2. Nonrandomized observational studies suggest
+1785	3	4.5. Blood Sugar
+1789	2	1 C-LD
+1796	2	2.  In patients with diabetes and high
+1804	2	Clinical Statements
+1805	2	And Guidelines
+1849	2	1. Direct evidence that screening for diabetes or
+1879	2	2. Individual and aggregated RCTs have demonstrated
+1924	2	Clinical Statements
+1925	2	And Guidelines
+1930	2	3. RCTs have not demonstrated that intensive gly-
+1985	3	4.6. Blood Pressure
+1989	2	1 C-LD
+2003	2	3.  In adults with hypertension, thiazide and thiazide-
+2010	2	4.  In most adults with hypertension, antihypertensive
+2041	2	Clinical Statements
+2042	2	And Guidelines
+2046	2	1. Only a few studies have assessed the value of
+2076	2	2021 USPSTF recommended annual screening
+2111	2	3. In a meta-analysis of first-step treatments, diuretic,
+2159	2	Clinical Statements
+2160	2	And Guidelines
+2221	2	1.  In adults who qualify for treatment with lipid-
+2231	2	2.  In adults without CVD who qualify for treatment
+2244	2	3.  In adults who do not tolerate statin therapy and
+2251	2	4.  In adults with moderate or low intake of long-chain
+2284	2	Clinical Statements
+2285	2	And Guidelines
+2314	2	2. Effective management of hyperlipidemia in adults
+2357	2	4. There is no evidence that supplementation with
+2399	2	Clinical Statements
+2400	2	And Guidelines
+2403	3	4.8. Tobacco Use
+2407	2	1 B-NR
+2408	2	1.  In all patients, screening for cigarette smoking,
+2416	2	1 B-NR
+2417	2	2.  For patients who are nonusers of tobacco
+2427	2	3.  For patients who are active cigarette smokers,
+2432	2	1 C-LD
+2433	2	4.  For patients who are active cigarette smokers and
+2439	2	5.  For patients who are active cigarette smokers
+2449	2	6.  For patients who are active cigarette smokers, the
+2483	2	1. Cigarette smoking is associated with stroke regard-
+2512	2	2. The preponderance of data demonstrating an asso-
+2526	2	Clinical Statements
+2527	2	And Guidelines
+2534	2	3. No randomized trials have compared individual
+2563	2	4. Smoking cessation pharmacotherapy combined
+2594	2	5. Recent research has investigated strategies to
+2624	2	6. According to a continuously updated systematic
+2645	2	Clinical Statements
+2646	2	And Guidelines
+2676	2	5. ATHEROSCLEROTIC AND
+2677	2	Nonatherosclerotic Risk Factors
+2678	3	5.1. Asymptomatic Carotid Artery Stenosis
+2684	2	1.  In the asymptomatic population, routine screen-
+2688	2	1 C-EO
+2689	2	2.  In patients with asymptomatic carotid artery
+2697	2	3.  In patients with asymptomatic atherosclerotic
+2702	2	4.  In patients with asymptomatic atherosclerotic
+2713	2	6.  In patients with asymptomatic atherosclerotic
+2751	2	1. Present data strongly recommend against screen-
+2765	2	Clinical Statements
+2766	2	And Guidelines
+2782	2	2. Multidisciplinary decision-making plays a pivotal
+2808	2	3. Most people in this population are already on statin
+2884	2	Clinical Statements
+2885	2	And Guidelines
+2888	2	5. Duplex ultrasound, the method of choice for
+2916	2	6. Much has been reported on the benefit of carotid
+3002	2	Clinical Statements
+3003	2	And Guidelines
+3019	3	5.2. Asymptomatic Cerebral SVD, Including
+3024	2	1 C-LD
+3025	2	1.  In adults with asymptomatic cerebral SVD
+3041	2	3.  In adults with SCI, the benefit of antiplatelet
+3076	2	1. Observational studies and meta-analyses have
+3116	2	3. Given the benefit of antiplatelet therapy in clinical
+3123	2	Clinical Statements
+3124	2	And Guidelines
+3173	3	5.3. Migraine
+3176	2	1 C-LD
+3182	2	1 C-LD
+3183	2	2.  In adults with migraine with aura who desire
+3219	2	1. Four recent systematic reviews and meta-analyses
+3240	2	Clinical Statements
+3241	2	And Guidelines
+3309	2	6. SPECIFIC POPULATIONS
+3310	3	6.1. Sickle Cell Disease
+3314	2	1 B-R
+3322	2	1 B-R
+3364	2	Clinical Statements
+3365	2	And Guidelines
+3392	2	1. Elevated TCD blood flow velocities are a strong pre-
+3430	2	3. SCIs are the most common neurologic injury in
+3456	2	4. Once a patient has initiated a prophylactic trans-
+3481	2	Clinical Statements
+3482	2	And Guidelines
+3485	2	5. Although CRCT is optimal, evidence indicates that
+3512	2	6. Not all patients with SCD at risk for stroke will have
+3578	2	3 Mean flow velocity categories
+3580	2	4 Mean flow velocity categories
+3601	2	Clinical Statements
+3602	2	And Guidelines
+3625	3	6.2. Genetic Stroke Syndromes
+3628	2	1 C-LD
+3629	2	1.  In patients with CADASIL, counseling on smok-
+3634	2	2.  In adults with hereditary hemorrhagic telangiecta-
+3640	2	3.  In patients with Fabry disease, the effectiveness
+3662	2	1. CADASIL is an inherited CSVD caused by muta-
+3691	2	2. HHT is an autosomal dominant vascular dyspla-
+3719	2	Clinical Statements
+3720	2	And Guidelines
+3766	2	Cadasil
+3784	2	Carasil
+3832	2	Hht
+3876	2	Dna
+3933	2	Clinical Statements
+3934	2	And Guidelines
+3937	2	3. Fabry disease is an X-linked lysosomal storage dis-
+4010	3	6.3. Coagulation and Inflammatory Disorders
+4011	4	6.3.1. Inflammation in Atherosclerosis
+4015	2	1.  In adults with a recent MI, the addition of low-
+4047	2	Clinical Statements
+4048	2	And Guidelines
+4068	4	6.3.2. Autoimmune Conditions
+4071	2	1 B-NR
+4072	2	1.  In patients without a history of stroke and no clini-
+4082	2	1 B-NR
+4083	2	2.  In patients with systemic lupus erythematosus
+4102	2	4.  In patients with rheumatoid arthritis, statin treat-
+4106	2	5.  In nonpregnant adults with a history of obstetric APS
+4113	2	6.  In patients with SLE and no history of thrombosis
+4143	2	1. Asymptomatic aPL carriers can be defined as indi-
+4178	2	Clinical Statements
+4179	2	And Guidelines
+4199	2	3. In patients diagnosed with APS after an initial
+4229	2	4. Rheumatoid arthritis is a chronic autoimmune dis-
+4251	2	5. The primary prevention of thrombosis with aspi-
+4271	2	6. Less evidence is available on the use of aspirin
+4295	2	Elisa
+4305	2	Clinical Statements
+4306	2	And Guidelines
+4343	4	6.3.3. Malignancy
+4390	4	6.3.4. Infection
+4419	2	Clinical Statements
+4420	2	And Guidelines
+4443	2	1. A prospective nationwide population-based study
+4514	3	6.4. Substance Use and Substance Disorders
+4518	2	1 B-NR
+4519	2	1.  In all adults, screening for substance misuse and
+4536	2	Clinical Statements
+4537	2	And Guidelines
+4570	2	1. Heavy alcohol use, with a dose-dependent response,
+4603	2	2. Although current evidence cannot directly sup-
+4650	2	Clinical Statements
+4651	2	And Guidelines
+4691	3	6.5. Sex- and Gender-Specific Factors
+4692	4	6.5.1. Pregnancy
+4693	5	6.5.1.1. Prevention of Pregnancy-Associated Stroke
+4696	2	1 B-NR
+4705	2	2.  In patients with HDP, including chronic hyperten-
+4740	2	1. Acute, severely elevated BP in pregnancy or the
+4766	2	Clinical Statements
+4767	2	And Guidelines
+4772	2	2. HDP, including chronic hypertension, increase
+4816	2	Clinical Statements
+4817	2	And Guidelines
+4854	5	6.5.1.2. Pregnancy and Long-Term Stroke Risk
+4858	2	1 C-EO
+4859	2	1.  In adults, screening for a history of certain
+4866	2	1 C-LD
+4867	2	2.  In patients with a history of HDP or other APOs,
+4940	2	Clinical Statements
+4941	2	And Guidelines
+5096	2	Clinical Statements
+5097	2	And Guidelines
+5118	2	Clinical Statements
+5119	2	And Guidelines
+5126	2	4484 US women followed up from early in their
+5176	4	6.5.2. Endometriosis
+5184	2	2.  In individuals with endometriosis, vascular risk
+5212	2	1. Recent high-quality observational studies and meta-
+5232	2	Clinical Statements
+5233	2	And Guidelines
+5245	2	2. High-quality observational studies have consis-
+5268	4	6.5.3. Hormonal Contraception
+5271	2	1 B-NR
+5272	2	1.  In individuals considering CHC, lower doses of
+5275	2	1 C-EO
+5319	2	1. Research has identified a direct, linear relation-
+5337	2	2. Contraceptive choice is affected by many medi-
+5352	2	Clinical Statements
+5353	2	And Guidelines
+5365	2	3. CHC can synergistically increase existing stroke
+5400	4	6.5.4. Menopause
+5404	2	1 B-NR
+5405	2	1.  Screening for a history of premature ovarian
+5410	2	1 C-LD
+5453	2	Clinical Statements
+5454	2	And Guidelines
+5495	2	Clinical Statements
+5496	2	And Guidelines
+5514	2	2. During the decline of estradiol levels in the
+5533	2	3. The excess risk of stroke with the use of estrogen-
+5582	4	6.5.5. Transgender Health
+5586	2	1.  In transgender women and gender-diverse indi-
+5610	2	Clinical Statements
+5611	2	And Guidelines
+5691	4	6.5.6. Testosterone Use
+5712	2	1. Two systematic reviews of randomized clinical trials
+5723	2	Clinical Statements
+5724	2	And Guidelines
+5770	2	1.  In patients with left ventricular systolic dysfunction
+5836	2	Clinical Statements
+5837	2	And Guidelines
+5872	2	8. ANTIPLATELET USE FOR PRIMARY
+5873	2	Prevention
+5877	2	1. In patients with diabetes or other common vascular
+5881	2	2.  In patients with established, stable coronary artery
+5911	2	1. In patients with a single risk factor or multiple risk
+5933	2	2. For patients with established coronary artery dis-
+5954	2	Clinical Statements
+5955	2	And Guidelines
+5977	2	4. For patients with chronic kidney disease, a meta-
+6003	2	Peer Review Committee
+6019	2	Aha Stroke Council Scientific
+6020	2	Statement Oversight Committee
+6031	2	Presidents And Staff
+6042	2	Stroke Guidelines Staff
+6054	2	Article Information
+6061	2	Clinical Statements
+6062	2	And Guidelines
+6226	2	Clinical Statements
+6227	2	And Guidelines
+6333	2	Boost
+6384	2	Clinical Statements
+6385	2	And Guidelines
+6516	2	Clinical Statements
+6517	2	And Guidelines
+6627	2	Clinical Statements
+6628	2	And Guidelines
+6631	2	References
+6632	2	1. Lloyd-Jones DM, Allen NB, Anderson CAM, Black T, Brewer LC, Foraker RE,
+6638	2	2. Krist AH, Shenson D, Woolf SH, Bradley C, Liaw WR, Rothemich SF, Slonim A,
+6642	2	3. Tsao CW, Aday AW, Almarzooq ZI, Anderson CAM, Arora P, Avery CL,
+6656	2	6. Jilani MH, Javed Z, Yahya T, Valero-Elizondo J, Khan SU,
+6664	2	8. Kernan WN, Viera AJ, Billinger SA, Bravata DM, Stark SL, Kasner SE,
+6672	2	9. Koton S, Pike JR, Johansen M, Knopman DS, Lakshminarayan K,
+6679	2	11. Feigin VL, Roth GA, Naghavi M, Parmar P, Krishnamurthi R, Chugh S,
+6685	2	12. Andres W, Rothstein A, Elser H, Sloane KL, Gottesman RF, Kasner SE,
+6689	2	13. Meschia JF, Bushnell C, Boden-Albala B, Braun L T, Bravata DM, Chaturvedi S,
+6695	2	14. January CT, Wann LS, Calkins H, Chen L Y, Cigarroa JE, Cleveland JC,
+6703	2	15. Stout KK, Daniels CJ, Aboulhosn JA, Bozkurt B, Broberg CS, Colman JM,
+6710	2	16. Otto CM, Nishimura RA, Bonow RO, Carabello BA, Erwin JP, Gentile F,
+6726	2	18. Jneid H, Addison D, Bhatt DL, Fonarow GC, Gokak S, Grady KL,
+6733	2	19. Hoh BL, Ko NU, Amin-Hanjani S, Chou SH-Y, Cruz-Flores S, Dangayach NS,
+6739	2	20. Ferriero DM, Fullerton HJ, Bernard T J, Billinghurst L, Daniels SR, DeBaun MR,
+6745	2	21. Kleindorfer DO, Towfighi A, Chaturvedi S, Cockroft KM, Gutierrez J,
+6751	2	22. Saposnik G, Bushnell C, Coutinho JM, Field TS, Furie KL,
+6756	2	23. Saposnik G, Barinagarrementeria F, Brown RD, Bushnell CD, Cucchiara B,
+6763	2	24. Havranek EP, Mujahid MS, Barr DA, Blair IV, Cohen MS, Cruz-Flores S,
+6772	2	25. Bushnell C, McCullough LD, Awad IA, Chireau MV, Fedder WN, Furie KL,
+6782	2	Clinical Statements
+6783	2	And Guidelines
+6786	2	26. Towfighi A, Boden-Albala B, Cruz-Flores S, El Husseini N, Odonkor CA,
+6805	2	29. Kleindorfer DO, Khoury J, Moomaw CJ, Alwell K, Woo D,
+6814	2	31. Jose PO, Frank AT, Kapphahn KI, Goldstein BA, Eggleston K,
+6818	2	32. Zhang Y, Galloway JM, Welty TK, Wiebers DO, Whisnant JP, Devereux RB,
+6825	2	34. Leasure AC, King ZA, Torres-Lopez V, Murthy SB, Kamel H, Shoamanesh A,
+6829	2	35. Reshetnyak E, Ntamatungiro M, Pinheiro LC, Howard VJ, Carson AP, Martin KD,
+6832	2	36. Caceres BA, Streed CG, Corliss HL, Lloyd-Jones DM, Matthews PA,
+6854	2	39. Carnethon MR, Pu J, Howard G, Albert MA, Anderson CAM, Bertoni AG,
+6863	2	40. Mehta LS, Velarde GP, Lewey J, Sharma G, Bond RM, Navas-Acien A,
+6881	2	43. Howard G, Moy CS, Howard VJ, McClure LA, Kleindorfer DO, Kissela BM,
+6886	2	44. Javed Z, Haisum Maqsood M, Yahya T, Amin Z, Acquah I,
+6892	2	45. Sheehy S, Aparicio HJ, Palmer JR, Cozier Y, Lioutas VA,
+6902	2	48. Ashford MT, Camacho MR, Jin C, Eichenbaum J, Ulbricht A, Alaniz R,
+6920	2	53. Sinclair K, Nguyen CJ, Wetherill MS, Nelson K, Jackson AM,
+6925	2	54. Commodore-Mensah Y, Liu X, Ogungbe O, Ibe C, Amihere J, Mensa M,
+6930	2	55. Kleindorfer D, Miller R, Sailor-Smith S, Moomaw CJ,
+6937	2	Clinical Statements
+6938	2	And Guidelines
+6941	2	56. Albert MA, Churchwell K, Desai N, Johnson JC, Johnson MN, Khera A,
+6952	2	58. Hong C, Pencina MJ, Wojdyla DM, Hall JL, Judd SE, Cary M, Engelhard MM,
+6960	2	60. Krist AH, Davidson KW, Mangione CM, Cabana M, Caughey AB, Davis EM,
+6972	2	62. Henderson K, Kaufman B, Rotter JS, Stearns S, Sueta CAA, Foraker R,
+6977	2	63. Kleindorfer DO, Lindsell C, Broderick J, Flaherty ML, Woo D,
+6984	2	65. Howard VJ, Kleindorfer DO, Judd SE, McClure LA, Safford MM, Rhodes JD,
+6999	2	68. Volpp KG, Berkowitz SA, Sharma SV, Anderson CAM, Brewer LC,
+7019	2	73. Lloyd-Jones DM, Braun L T, Ndumele CE, Smith SC,
+7026	2	74. Mangione CM, Barry MJ, Nicholson WK, Cabana M, Chelmow D, Coker TR,
+7031	2	75. Grundy SM, Stone NJ, Bailey AL, Beam C, Birtcher KK, Blumenthal RS,
+7039	2	76. Deleted in proof
+7058	2	81. Deleted in proof
+7059	2	82. Joglar JA, Chung MK, Armbruster AL, Benjamin EJ, Chyou JY, Cronin EM,
+7067	2	83. January CT, Wann LS, Alpert JS, Calkins H, Cigarroa JE, Cleveland JC Jr,
+7079	2	85. Chung MK, Eckhardt LL, Chen L Y, Ahmed HM, Gopinathannair R, Joglar JA,
+7090	2	Clinical Statements
+7091	2	And Guidelines
+7106	2	88. Neal B, Wu Y, Feng X, Zhang R, Zhang Y, Shi J, Zhang J, Tian M, Huang L,
+7109	2	89. An P, Wan S, Luo Y, Luo J, Zhang X, Zhou S, Xu T, He J,
+7113	2	90. Jenkins DJA, Spence JD, Giovannucci EL, Kim YI, Josse RG, Vieth R,
+7118	2	91. Khan SU, Khan MU, Riaz H, Valavoor S, Zhao D, Vaughan L,
+7123	2	92. Abdelhamid AS, Brown T J, Brainard JS, Biswas P, Thorpe GC, Moore HJ,
+7128	2	93. Abdelhamid AS, Martin N, Bridges C, Brainard JS, Wang X, Brown T J,
+7133	2	94. Chowdhury R, Stevens S, Gorman D, Pan A, Warnakula S, Chowdhury S,
+7138	2	95. Hooper L, Al-Khudairy L, Abdelhamid AS, Rees K, Brainard JS,
+7152	2	98. Sesso HD, Christen WG, Bubes V, Smith JP, MacFadyen J, Schvartz M,
+7157	2	99. Lamas GA, Boineau R, Goertz C, Mark DB, Rosenberg Y, Stylianou M,
+7165	2	101. Prentice RL, Aragaki AK, Van Horn L, Thomson CA, Beresford SA,
+7170	2	102. Appel LJ, Moore T J, Obarzanek E, Vollmer WM, Svetkey LP, Sacks FM,
+7175	2	103. Bhatt DL, Steg PG, Miller M, Brinton EA, Jacobson TA, Ketchum SB,
+7179	2	104. Kuntz JL, Young DR, Saelens BE, Frank LD, Meenan RT,
+7183	2	105. Coleman KJ, Ngor E, Reynolds K, Quinn VP, Koebnick C, Young DR,
+7193	2	108. Jeong HG, Kim DY, Kang DW, Kim BJ, Kim CK, Kim Y, Yang W,
+7197	2	109. Garcia L, Pearce M, Abbas A, Mok A, Strain T, Ali S, Crippa A, Dempsey PC,
+7202	2	110. Harris T, Kerry SM, Limb ES, Victor CR, Iliffe S, Ussher M, Whincup PH,
+7211	2	112. Chomistek AK, Manson JE, Stefanick ML, Lu B, Sands-Lincoln M,
+7216	2	113. Liu Q, Liu F, Li J, Huang K, Yang X, Chen J, Liu X, Cao J, Shen C,
+7227	2	116. Kyu HH, Bachman VF, Alexander L T, Mumford JE, Afshin A, Estep K,
+7245	2	Clinical Statements
+7246	2	And Guidelines
+7256	2	120. Moore SC, Patel AV, Matthews CE, Berrington de Gonzalez A, Park Y,
+7268	2	123. Paluch AE, Bajpai S, Bassett DR, Carnethon MR, Ekelund U,
+7273	2	124. Saint-Maurice PF, Troiano RP, Bassett DR Jr, Graubard BI, Carlson SA,
+7277	2	125. Tremblay MS, Aubert S, Barnes JD, Saunders T J, Carson V,
+7289	2	128. Sattelmair J, Pertman J, Ding EL, Kohl HW, Haskell W,
+7293	2	129. Hooker SP, Diaz KM, Blair SN, Colabianchi N, Hutto B, McDonnell MN,
+7301	2	131. Lobelo F, Rohm Young D, Sallis R, Garber MD, Billinger SA, Duperly J,
+7315	2	133. Hayes S, Forbes JF, Celis-Morales C, Anderson J, Ferguson L,
+7320	2	134. Piercy KL, Troiano RP, Ballard RM, Carlson SA, Fulton JE, Galuska DA,
+7323	2	135. Bull FC, Al-Ansari SS, Biddle S, Borodulin K, Buman MP, Cardon G,
+7353	2	143. Tanaka H, Dinenno FA, Monahan KD, Clevenger CM, DeSouza CA,
+7356	2	144. Kraus WE, Houmard JA, Duscha BD, Knetzger KJ, Wharton MB,
+7360	2	145. Krist AH, Davidson KW, Mangione CM, Barry MJ, Cabana M, Caughey AB,
+7374	2	148. Harris T, Kerry SM, Victor CR, Ekelund U, Woodcock A, Iliffe S, Whincup PH,
+7379	2	149. Christian JG, Bessesen DH, Byers TE, Christian KK, Goldstein MG,
+7387	2	151. James EL, Ewald BD, Johnson NA, Stacey FG, Brown WJ, Holliday EG,
+7395	2	153. Goldstein MG, Pinto BM, Marcus BH, Lynn H, Jette AM, Rakowski W,
+7400	2	Clinical Statements
+7401	2	And Guidelines
+7411	2	155. Peter-Marske KM, Evenson KR, Moore CC, Cuthbertson CC,
+7427	2	158. Cho JH, Rhee EJ, Park SE, Kwon H, Jung JH, Han KD, Park YG, Park HS,
+7444	2	162. Suk SH, Sacco RL, Boden-Albala B, Cheun JF, Pittman JG,
+7448	2	163. Aminian A, Zajichek A, Arterburn DE, Wolski KE, Brethauer SA, Schauer PR,
+7457	2	165. Kwok CS, Pradhan A, Khan MA, Anderson SG, Keavney BD, Myint PK,
+7472	2	169. Liu X, Zhang D, Liu Y, Sun X, Hou Y, Wang B, Ren Y, Zhao Y, Han C, Cheng C,
+7476	2	170. World Health Organization, Waist Circumference and Waist–Hip Ratio:
+7486	2	173. Rao G, Powell-Wiley TM, Ancheta I, Hairston K, Kirley K, Lear SA, North KE,
+7501	2	176. Tang M, Zhao Q, Yi K, Wu Y, Xiang Y, Zaid M, Cui S, Su X, Yu Y, Zhao G,
+7510	2	178. Wing RR, Bolin P, Brancati FL, Bray GA, Clark JM, Coday M, Crow RS,
+7524	2	181. Bazzano LA, Gu D, Whelton MR, Wu X, Chen CS, Duan X, Chen J, Chen JC,
+7527	2	182. Shiozawa M, Kaneko H, Itoh H, Morita K, Okada A, Matsuoka S,
+7535	2	184. Kroll ME, Green J, Beral V, Sudlow CL, Brown A, Kirichek O, Price A,
+7540	2	185. Kurth T, Gaziano JM, Berger K, Kase CS, Rexrode KM, Cook NR, Buring JE,
+7543	2	186. Kurth T, Gaziano JM, Rexrode KM, Kase CS, Cook NR,
+7557	2	Clinical Statements
+7558	2	And Guidelines
+7564	2	189. Moussa O, Ardissino M, Heaton T, Tang A, Khan O, Ziprin P, Darzi A, Collins P,
+7572	2	191. Feltner C, Wallace IF, Aymes S, Cook Middleton J, Hicks KL, Schwimmer M,
+7585	2	194. McEvoy RD, Antic NA, Heeley E, Luo Y, Ou Q, Zhang X, Mediano O, Chen R,
+7592	2	196. Y eghiazarians Y, Jneid H, Tietjens JR, Redline S, Brown DL,
+7610	2	201. Giles TL, Lasserson T J, Smith BH, White J, Wright J,
+7614	2	202. Davidson KW, Barry MJ, Mangione CM, Cabana M, Caughey AB, Davis EM,
+7619	2	203. Jonas DE, Crotty K, Yun JDY, Middleton JC, Feltner C, Taylor-Phillips S,
+7624	2	204. ElSayed NA, Aleppo G, Aroda VR, Bannuru RR, Brown FM,
+7634	2	206. Gerstein HC, Hart R, Colhoun HM, Diaz R, Lakshmanan M, Botros FT,
+7644	2	208. Bhatt DL, Szarek M, Pitt B, Cannon CP, Leiter LA, McGuire DK, Lewis JB,
+7648	2	209. Gerstein HC, Miller ME, Genuth S, Ismail-Beigi F, Buse JB, Goff DC,
+7660	2	212. Hayward RA, Reaven PD, Wiitala WL, Bahn GD, Reda DJ, Ge L,
+7664	2	213. Reaven PD, Emanuele NV, Wiitala WL, Bahn GD, Reda DJ, McCarren M,
+7668	2	214. Skyler JS, Bergenstal R, Bonow RO, Buse J, Deedwania P, Gale EA,
+7676	2	215. Gerstein HC, Miller ME, Byington RP, Goff DC, Bigger JT, Buse JB,
+7695	2	220. Stratton IM, Adler AI, Neil HA, Matthews DR, Manley SE, Cull CA,
+7700	2	221. Kaczorowski J, Chambers LW, Dolovich L, Paterson JM, Karwalajtys T,
+7705	2	222. He J, Ouyang N, Guo X, Sun G, Li Z, Mu J, Wang DW, Qiao L, Xing L,
+7714	2	Clinical Statements
+7715	2	And Guidelines
+7718	2	223. Zhang W, Zhang S, Deng Y, Wu S, Ren J, Sun G, Yang J, Jiang Y, Xu X,
+7722	2	224. Cushman WC, Evans GW, Byington RP, Goff DC, Grimm RH,
+7740	2	228. Yang Q, Zheng R, Wang S, Zhu J, Li M, Wang T, Zhao Z, Xu M, Lu J, Chen Y,
+7745	2	229. Prevention of stroke by antihypertensive drug treatment in older persons
+7748	2	230. Ettehad D, Emdin CA, Kiran A, Anderson SG, Callender T, Emberson J,
+7756	2	232. ALLHAT Officers and Coordinators for the ALLHAT Collaborative Research
+7763	2	233. Deleted in proof
+7770	2	235. Cushman WC, Ford CE, Einhorn PT, Wright JT, Preston RA, Davis BR,
+7776	2	236. Wright JT Jr, Williamson JD, Whelton PK, Snyder JK, Sink KM,
+7791	2	239. Rapsomaniki E, Timmis A, George J, Pujades-Rodriguez M, Shah AD,
+7806	2	243. Taylor F, Huffman MD, Macedo AF, Moore TH, Burke M,
+7813	2	245. Schmidt AF, Carter JL, Pearce LS, Wilkins JT, Overington JP, Hingorani AD,
+7817	2	246. Nissen SE, Menon V, Nicholls SJ, Brennan D, Laffin L, Ridker P, Ray KK,
+7828	2	248. Bosch J, Lonn EM, Dagenais GR, Gao P, Lopez-Jaramillo P, Zhu J,
+7833	2	249. Arnett DK, Blumenthal RS, Albert MA, Buroker AB, Goldberger ZD,
+7841	2	250. Deleted in proof
+7842	2	251. Lloyd-Jones DM, Morris PB, Ballantyne CM, Birtcher KK, Covington AM,
+7853	2	253. Tonelli M, Lloyd A, Clement F, Conly J, Husereau D, Hemmelgarn B,
+7864	2	255. Oshunbade AA, Yimer WK, Valle KA, Clark D, Kamimura D, White WB,
+7871	2	Clinical Statements
+7872	2	And Guidelines
+7892	2	261. Markidan J, Cole JW, Cronin CA, Merino JG, Phipps MS, Wozniak MA,
+7899	2	263. Price AJ, Wright FL, Green J, Balkwill A, Kan SW, Yang TO, Floud S,
+7903	2	264. Acosta JN, Szejko N, Both CP, Vanent K, Noche RB, Gill TM, Matouk CC,
+7923	2	269. Tabrizi R, Borhani-Haghighi A, Lankarani KB, Heydari ST, Bayat M, Vakili S,
+7934	2	272. Anthenelli RM, Benowitz NL, West R, St Aubin L, McRae T, Lawrence D,
+7940	2	273. Cox LS, Nollen NL, Mayo MS, Faseru B, Greiner A, Ellerbeck EF, Krebill R,
+7945	2	274. Hajizadeh A, Howes S, Theodoulou A, Klemperer E,
+7949	2	275. Livingstone-Banks J, Fanshawe TR, Thomas KH, Theodoulou A,
+7953	2	276. Theodoulou A, Chepkin SC, Y e W, Fanshawe TR, Bullen C,
+7971	2	281. Patnode CD, Henderson JT, Coppola EL, Melnikow J, Durbin S,
+7976	2	282. Asfar T, Livingstone-Banks J, Ward KD, Eissenberg T,
+7986	2	285. Cheung YTD, Jiang N, Jiang CQ, Zhuang RS, Gao WH, Zhou J, Lu JH, Li H,
+7999	2	288. Nahhas GJ, Wilson D, Talbot V, Cartmell KB, Warren GW, Toll BA,
+8003	2	289. Hartmann-Boyce J, Lindson N, Butler AR, McRobbie H, Bullen C, Begh R,
+8007	2	290. Hajek P, Phillips-Waller A, Przulj D, Pesola F, Myers Smith K, Bisal N, Li J,
+8011	2	291. Pierce JP, Chen R, Kealey S, Leas EC, White MM, Stone MD,
+8026	2	Clinical Statements
+8027	2	And Guidelines
+8032	2	294. Rose JJ, Krishnan-Sarin S, Exil VJ, Hamburg NM, Fetterman JL, Ichinose F,
+8062	2	300. Mackay DF, Haw S, Newby DE, Langhorne P, Lloyd SM, McConnachie A,
+8065	2	301. Stallings-Smith S, Hamadi HY, Peterson BN, Apatu EJI,
+8069	2	302. Wu AD, Lindson N, Hartmann-Boyce J, Wahedi A, Hajizadeh A,
+8073	2	303. Xiao H, Zhang H, Wang D, Shen C, Xu Z, Zhang Y, Jiang G, Yang G, Wan X,
+8077	2	304. Krist AH, Davidson KW, Mangione CM, Barry MJ, Cabana M, Caughey AB,
+8082	2	305. Leone FT, Zhang Y, Evers-Casey S, Evins AE, Eakin MN, Fathi J, Fennig K,
+8087	2	306. Goldstein LB, Adams R, Alberts MJ, Appel LJ, Brass LM, Bushnell CD,
+8106	2	309. Halliday A, Harrison M, Hayter E, Kong X, Mansfield A, Marro J,
+8112	2	310. Baigent C, Keech A, Kearney PM, Blackwell L, Buck G, Pollicino C,
+8122	2	312. Executive Committee for the Asymptomatic Carotid Atherosclerosis
+8130	2	314. Reiff T, Eckstein HH, Mansmann U, Jansen O, Fraedrich G, Mudra H,
+8139	2	316. Jonas DE, Feltner C, Amick HR, Sheridan S, Zheng ZJ, Watford DJ, Carter JL,
+8146	2	318. Kakkos SK, Nicolaides AN, Charalambous I, Thomas D, Giannopoulos A,
+8151	2	319. Gurm HS, Yadav JS, Fayad P, Katzen BT, Mishkel GJ, Bajwa TK, Ansel G,
+8156	2	320. Yadav JS, Wholey MH, Kuntz RE, Fayad P, Katzen BT, Mishkel GJ,
+8162	2	321. Brott TG, Halperin JL, Abbara S, Bacharach JM, Barr JD, Bush RL,
+8181	2	Clinical Statements
+8182	2	And Guidelines
+8185	2	322. Krist AH, Davidson KW, Mangione CM, Barry MJ, Cabana M, Caughey AB,
+8193	2	324. Poorthuis MHF, Sherliker P, Morris DR, Massa MS, Clarke R, Staplin N,
+8197	2	325. AbuRahma AF, Avgerinos ED, Chang RW, Darling RC, Duncan AA,
+8202	2	326. Jacobowitz GR, Rockman CB, Gagne PJ, Adelman MA, Lamparello PJ,
+8210	2	328. Wasserman BA, Sharrett AR, Lai S, Gomes AS, Cushman M,
+8220	2	330. Galyfos GC, Tsoutsas I, Konstantopoulos T, Galanopoulos G, Sigala F,
+8225	2	331. Kashyap VS, Schneider PA, Foteh M, Motaganahalli R, Shah R,
+8235	2	333. Brott TG, Hobson RW, Howard G, Roubin GS, Clark WM, Brooks W,
+8239	2	334. Nicolaides AN, Kakkos SK, Griffin M, Sabetai M, Dhanjil S, Tegos T,
+8245	2	335. Sabeti S, Schlager O, Exner M, Mlekusch W, Amighi J, Dick P, Maurer G,
+8260	2	339. Liu D, Zhang Q, Xing S, Wei F, Li K, Zhao Y, Zhang H, Gong G,
+8267	2	341. Gupta A, Giambrone AE, Gialdini G, Finn C, Delgado D, Gutierrez J,
+8271	2	342. Guo Y, Li Y, Liu X, Cui Y, Zhao Y, Sun S, Jia Q, Chai Q, Gong G, Zhang H,
+8280	2	344. Katsanos AH, Lioutas VA, Charidimou A, Catanese L, Ng KKH, Perera K,
+8285	2	345. Zhang H, Cui Y, Zhao Y, Dong Y, Duan D, Wang J, Sheng L, Ji T, Zhou T,
+8290	2	346. Maestrini I, Altieri M, Di Clemente L, Vicenzini E, Pantano P, Raz E,
+8300	2	348. Wardlaw JM, Smith EE, Biessels GJ, Cordonnier C, Fazekas F,
+8306	2	349. Duering M, Biessels GJ, Brodtmann A, Chen C, Cordonnier C, de Leeuw FE,
+8310	2	350. Cannistraro RJ, Badi M, Eidelman BH, Dickson DW, Middlebrooks EH,
+8316	2	352. Jokinen H, Kalska H, Ylikoski R, Madureira S, Verdelho A, van der Flier WM,
+8338	2	Clinical Statements
+8339	2	And Guidelines
+8346	2	358. Wardlaw JM, Debette S, Jokinen H, De Leeuw FE, Pantoni L, Chabriat H,
+8350	2	359. Smith EE, Saposnik G, Biessels GJ, Doubal FN, Fornage M, Gorelick PB,
+8359	2	360. McNeil JJ, Wolfe R, Woods RL, Tonkin AM, Donnan GA, Nelson MR,
+8364	2	361. McNeil JJ, Woods RL, Nelson MR, Reid CM, Kirpach B, Wolfe R, Storey E,
+8371	2	363. Ng CYH, Tan BYQ, Teo YN, Teo YH, Syn NLX, Leow AST, Ho JSY,
+8376	2	364. Mahmoud AN, Mentias A, Elgendy AY, Qazi A, Barakat AF, Saad M,
+8384	2	366. Cheon DY, Han K, Yang YS, Kim Y, Lee S-H, Kim C, Sohn J-H, Oh MS,
+8399	2	370. Champaloux SW, Tepper NK, Monsour M, Curtis KM, Whiteman MK,
+8411	2	372. Ornello R, Canonico M, Merki-Feld GS, Kurth T, Lidegaard O, MacGregor EA,
+8416	2	373. Headache Classification Committee of the International Headache Society
+8427	2	376. Mitsikostas DD, Ashina M, Craven A, Diener HC, Goadsby PJ, Ferrari MD,
+8437	2	378. Martinez-Majander N, Artto V, Ylikotila P, von Sarnowski B,
+8448	2	381. Adams R, McKie V, Nichols F, Carl E, Zhang DL, McKie K, Figueroa R,
+8452	2	382. Adams RJ, McKie VC, Carl EM, Nichols FT, Perry R, Brock K, McKie K,
+8456	2	383. Adams RJ, McKie VC, Hsu L, Files B, Vichinsky E, Pegelow C, Abboud M,
+8465	2	385. Wang WC, Gallagher DM, Pegelow CH, Wright EC, Vichinsky EP,
+8471	2	386. DeBaun MR, Gordon M, McKinstry RC, Noetzel MJ, White DA, Sarnaik SA,
+8479	2	388. Ware RE, Davis BR, Schultz WH, Brown RC, Aygun B, Sarnaik S, Odame I,
+8485	2	389. Abdullahi SU, Jibir BW, Bello-Manga H, Gambo S, Inuwa H, Tijjani AG,
+8493	2	Clinical Statements
+8494	2	And Guidelines
+8497	2	390. Ambrose EE, Latham TS, Songoro P, Charles M, Lane AC, Stuber SE,
+8504	2	392. Armstrong FD, Thompson RJ, Wang W, Zimmerman R, Pegelow CH,
+8511	2	394. Ohene-Frempong K, Weiner SJ, Sleeper LA, Miller ST, Embury S, Moohr JW,
+8514	2	395. Yawn BP, Buchanan GR, Afenyi-Annan AN, Ballas SK,
+8519	2	396. DeBaun MR, Jordan LC, King AA, Schatz J, Vichinsky E, Fox CK,
+8534	2	399. Jones AM, Seibert JJ, Nichols FT, Kinder DL, Cox K, Luden J,
+8543	2	401. Bernaudin F, Verlhac S, Arnaud C, Kamdem A, Vasile M, Kasbi F,
+8548	2	402. Kassim AA, Pruthi S, Day M, Rodeghier M, Gindville MC, Brodsky MA,
+8552	2	403. DeBaun MR, Sarnaik SA, Rodeghier MJ, Minniti CP, Howard TH, Iyer RV,
+8557	2	404. Wang WC, Ware RE, Miller ST, Iyer RV, Casella JF, Minniti CP, Rana S,
+8562	2	405. Hankins JS, McCarville MB, Rankine-Mullings A, Reid ME, Lobo CL,
+8567	2	406. Bernaudin F, Verlhac S, Peffault de Latour R, Dalle JH, Brousse V, Petras E,
+8592	2	412. Meschia JF, Worrall BB, Elahi FM, Ross OA, Wang MM, Goldstein ED, Rost NS,
+8607	2	415. Moussouttas M, Fayad P, Rosenblatt M, Hashimoto M, Pollak J, Henderson K,
+8611	2	416. Shovlin CL, Jackson JE, Bamford KB, Jenkins IH, Benjamin AR,
+8620	2	418. Faughnan ME, Lui YW, Wirth JA, Pugash RA, Redelmeier DA, Hyland RH,
+8631	2	421. White RI, Lynch-Nyhan A, Terry P, Buescher PC, Farmlett EJ, Charnas L,
+8635	2	422. Eng CM, Guffon N, Wilcox WR, Germain DP, Lee P, Waldek S, Caplan L,
+8640	2	423. Banikazemi M, Bultas J, Waldek S, Wilcox WR, Whitley CB, McDonald M,
+8648	2	Clinical Statements
+8649	2	And Guidelines
+8652	2	424. Wilcox WR, Banikazemi M, Guffon N, Waldek S, Lee P, Linthorst GE,
+8674	2	430. Burton BK, Charrow J, Hoganson GE, Waggoner D, Tinkle B, Braddock SR,
+8682	2	432. Gilchrist M, Casanova F, T yrrell JS, Cannon S, Wood AR,
+8686	2	433. Gragnaniello V, Burlina AP, Polo G, Giuliani A, Salviati L, Duro G, Cazzorla C,
+8690	2	434. Jee H, Huang Z, Baxter S, Huang Y, Taylor ML, Henderson LA, Rosenzweig S,
+8708	2	439. Rutten JW, Dauwerse HG, Gravesteijn G, van Belzen MJ, van der Grond J,
+8730	2	445. Dakeishi M, Shioya T, Wada Y, Shindo T, Otaka K, Manabe M, Nozaki J,
+8743	2	448. Manwaring N, Jones MM, Wang JJ, Rochtchina E, Howard C,
+8746	2	449. Yatsuga S, Povalko N, Nishioka J, Katayama K, Kakimoto N, Matsuishi T,
+8769	2	456. Kranenburg G, Baas AF, de Jong PA, Asselbergs FW, Visseren FLJ,
+8786	2	460. Tardif JC, Kouz S, Waters DD, Bertrand OF, Diaz R, Maggioni AP, Pinto FJ,
+8793	2	462. Arnaud L, Mathian A, Ruffatti A, Erkan D, Tektonidou M, Cervera R,
+8798	2	463. Arnaud L, Mathian A, Devilliers H, Ruffatti A, Tektonidou M,
+8803	2	Clinical Statements
+8804	2	And Guidelines
+8811	2	464. Crowther MA, Ginsberg JS, Julian J, Denburg J, Hirsh J, Douketis J,
+8816	2	465. Khairani CD, Bejjani A, Piazza G, Jimenez D, Monreal M, Chatterjee S,
+8821	2	466. Rahmadi AR, Pranata R, Raffaello WM, Yonas E, Ramadhian MP,
+8843	2	471. Miyakis S, Lockshin MD, Atsumi T, Branch DW, Brey RL, Cervera R,
+8848	2	472. Tektonidou MG, Andreoli L, Limper M, Amoura Z, Cervera R,
+8853	2	473. Ruiz-Irastorza G, Cuadrado MJ, Ruiz-Arruza I, Brey R, Crowther M,
+8860	2	474. Khamashta MA, Cuadrado MJ, Mujic F, Taub NA, Hunt BJ,
+8864	2	475. Jang HS, Choi J, Shin J, Chung JW, Bang OY, Kim GM, Seo WK,
+8868	2	476. Woller SC, Stevens SM, Kaplan D, Wang TF, Branch DW, Groat D,
+8889	2	482. Guo CG, Ma W, Drew DA, Cao Y, Nguyen LH, Joshi AD, Ng K,
+8893	2	483. Elwood PC, Morgan G, Delon C, Protty M, Galante J,
+8898	2	484. Navi BB, Marshall RS, Bobrow D, Singer S, Stone JB, DeSancho MT,
+8902	2	485. Dardiotis E, Aloizou AM, Markoula S, Siokas V, Tsarouhas K, Tzanakakis G,
+8906	2	486. Sen S, Giamberardino LD, Moss K, Morelli T, Rosamond WD,
+8917	2	489. Ortega-Paz L, Galli M, Capodanno D, Franchi F, Rollini F, Bikdeli B,
+8923	2	490. Stone GW, Farkouh ME, Lala A, Tinuoye E, Dressler O, Moreno PR,
+8949	2	498. Merkler AE, Parikh NS, Mir S, Gupta A, Kamel H, Lin E, Lantos J,
+8953	2	499. Oxley T J, Mocco J, Majidi S, Kellner CP, Shoirah H, Singh IP, De Leacy RA,
+8958	2	Clinical Statements
+8959	2	And Guidelines
+8969	2	501. Shahi S, Farhoudi M, Dizaj SM, Sharifi S, Sadigh-Eteghad S, Goh KW,
+8983	2	505. Fagundes NCF, Almeida APCPSC, Vilhena KFB, Magno MB, Maia LC,
+8987	2	506. Zhang C, Qin YY, Chen Q, Jiang H, Chen XZ, Xu CL,
+8999	2	509. Costa P, Grassi M, Iacoviello L, Zedde M, Marcheselli S, Silvestrelli G,
+9014	2	513. Desai R, Fong HK, Shah K, Kaur VP, Savani S, Gangani K, Damarlapally N,
+9047	2	522. Beyer FR, Campbell F, Bertholet N, Daeppen JB, Saunders JB, Pienaar ED,
+9052	2	523. Jonas DE, Garbutt JC, Amick HR, Brown JM, Brownley KA, Council CL,
+9064	2	526. Jonas DE, Amick HR, Feltner C, Bobashev G, Thomas K, Wines R,
+9073	2	528. Bahji A, Bach P, Danilewitz M, Crockford D, Devoe DJ, El-Guebaly N,
+9085	2	531. Korownyk C, Perry D, Ton J, Kolber MR, Garrison S, Thomas B, Allan GM,
+9099	2	534. Page RL, Allen LA, Kloner RA, Carriker CR, Martel C, Morris AA, Piano MR,
+9115	2	Clinical Statements
+9116	2	And Guidelines
+9126	2	538. Ali WM, Zubaid M, Al-Motarreb A, Singh R, Al-Shereiqi SZ, Shehab A,
+9131	2	539. Swor DE, Maas MB, Walia SS, Bissig DP, Liotta EM, Naidech AM,
+9139	2	541. Testai FD, Gorelick PB, Aparicio HJ, Filbey FM, Gonzalez R, Gottesman RF,
+9152	2	543. DeFilippis EM, Bajaj NS, Singh A, Malloy R, Givertz MM, Blankstein R,
+9156	2	544. Hahn RA, Kuzara JL, Elder R, Brewer R, Chattopadhyay S,
+9165	2	546. Hahn RA, Middleton JC, Elder R, Brewer R, Fielding J, Naimi TS,
+9175	2	548. National Center for chronic Disease Prevention and Health Promotion,
+9192	2	553. Katsuragi S, Tanaka H, Hasegawa J, Nakamura M, Kanayama N,
+9203	2	555. Enomoto N, Tanaka H, Katsuragi S, Hayata E, Hasegawa J, Nakata M,
+9215	2	558. Alavifard S, Chase R, Janoudi G, Chaumont A, Lanes A, Walker M,
+9219	2	559. Emeruwa UN, Gyamfi-Bannerman C, Wen T, Booker W, Wright JD, Huang Y,
+9223	2	560. Wu P, Chew-Graham CA, Maas AH, Chappell LC, Potts JE, Gulati M,
+9231	2	562. Lailler G, Grave C, Gabet A, Regnault N, Deneux-Tharaux C, Kretz S,
+9236	2	563. Slade LJ, Wilson M, Mistry HD, Bone JN, Bello NA, Blackman M, Syeda N,
+9242	2	564. Tanaka H, Hasegawa J, Katsuragi S, Tanaka K, Arakaki T, Nakamura M,
+9249	2	565. Tita AT, Szychowski JM, Boggess K, Dugoff L, Sibai B, Lawrence K,
+9264	2	568. Ban L, Sprigg N, Abdul Sultan A, Nelson-Piercy C, Bath PM,
+9272	2	Clinical Statements
+9273	2	And Guidelines
+9285	2	571. Dzakpasu S, Deb-Rinker P, Arbour L, Darling EK, Kramer MS, Liu S, Luo W,
+9297	2	574. Richardt A, Aarnio K, Korhonen A, Rantanen K, Verho L, Laivuori H,
+9301	2	575. Korhonen A, Verho L, Aarnio K, Rantanen K, Saaros A, Laivuori H,
+9305	2	576. Meeks JR, Bambhroliya AB, Alex KM, Sheth SA, Savitz SI, Miller EC,
+9313	2	578. Salehi Omran S, Parikh NS, Poisson S, Armstrong J, Merkler AE, Prabhu M,
+9320	2	580. Kashkoush AI, Ma H, Agarwal N, Panczykowski D, Tonetti D, Weiner GM,
+9324	2	581. Bitar G, Sibai BM, Chen HY, Neff N, Blackwell S, Chauhan SP,
+9336	2	584. Ban L, Abdul Sultan A, Stephansson O, Tata LJ, Sprigg N, Nelson-Piercy C,
+9340	2	585. Too G, Wen T, Boehme AK, Miller EC, Leffert LR, Attenello FJ, Mack WJ,
+9343	2	586. Barry MJ, Nicholson WK, Silverstein M, Cabana MD, Chelmow D, Coker TR,
+9352	2	588. Sheen JJ, Huang Y, Andrikopoulou M, Wright JD, Goffman D,
+9365	2	592. Zahid S, Hashem A, Minhas AS, Harrington CM, Quesada O, Aggarwal NR,
+9378	2	595. Miller EC, Gatollari HJ, Too G, Boehme AK, Leffert L,
+9395	2	601. Lee S, Kim Y, Navi BB, Abdelkhaleq R, Salazar-Marioni S, Blackburn SL,
+9400	2	602. Porras JL, Yang W, Philadelphia E, Law J, Garzon-Muvdi T, Caplan JM,
+9422	2	609. Brohan MP, Daly FP, Kelly L, McCarthy FP, Khashan AS, Kublickiene K,
+9427	2	Clinical Statements
+9428	2	And Guidelines
+9438	2	611. Rich-Edwards JW, Stuart JJ, Skurnik G, Roche AT, Tsigas E, Fitzmaurice GM,
+9442	2	612. Kitt JA, Fox RL, Cairns AE, Mollison J, Burchert HH, Kenworthy Y,
+9447	2	613. Simon E, Bechraoui-Quantin S, Tapia S, Cottenet J, Mariet AS,
+9476	2	620. Ford ND, Cox S, Ko JY, Ouyang L, Romero L, Colarusso T,
+9484	2	622. Hung SK, Lee MS, Lin HY, Chen LC, Chuang CJ, Chew CH, Yu BH,
+9504	2	628. Turesheva A, Aimagambetova G, Ukybassova T, Marat A, Kanabekova P,
+9509	2	629. Liang C, Chung HF, Dobson AJ, Hayashi K, van der Schouw YT,
+9518	2	631. QuickStats: Percentage of Mothers with Gestational Diabetes, by Maternal
+9523	2	633. Fraser A, Markovitz AR, Haug EB, Horn J, Romundstad PR, Dalen H,
+9527	2	634. Freaney PM, Harrington K, Molsberry R, Perak AM, Wang MC, Grobman W,
+9532	2	635. Holmes VA, Draffin CR, Patterson CC, Francis L, Irwin J, McConnell M,
+9537	2	636. Lewey J, Murphy S, Zhang D, Putt ME, Elovitz MA, Riis V, Patel MS,
+9546	2	638. Haas DM, Parker CB, Marsh DJ, Grobman WA, Ehrenthal DB,
+9551	2	639. Parikh NI, Gonzalez JM, Anderson CAM, Judd SE, Rexrode KM,
+9568	2	642. Lo CCW, Lo ACQ, Leow SH, Fisher G, Corker B, Batho O,
+9573	2	643. Wu P, Haththotuwa R, Kwok CS, Babu A, Kotronias RA, Rushton C,
+9578	2	644. Heida KY, Velthuis BK, Oudijk MA, Reitsma JB, Bots ML, Franx A,
+9584	2	Clinical Statements
+9585	2	And Guidelines
+9595	2	646. Catov JM, Muldoon MF, Gandley RE, Brands J, Hauspurg A, Hubel CA,
+9602	2	648. Khan SS, Brewer LC, Canobbio MM, Cipolla MJ, Grobman WA, Lewey J,
+9613	2	649. Blom JN, Velez MP, McClintock C, Shellenberger J, Pudwell J,
+9617	2	650. Chiang HJ, Lan KC, Yang YH, Chiang JY, Kung FT, Huang FJ, Lin Y J,
+9625	2	652. Okoth K, Wang J, Zemedikun D, Thomas GN, Nirantharakumar K,
+9634	2	655. Mu F, Rich-Edwards J, Rimm EB, Spiegelman D, Forman JP,
+9666	2	664. Chakhtoura Z, Canonico M, Gompel A, Thalabard JC, Scarabin PY,
+9689	2	670. Kemmeren JM, Tanis BC, van den Bosch MA, Bollen EL, Helmerhorst FM,
+9701	2	674. Ley SH, Li Y, Tobias DK, Manson JE, Rosner B, Hu FB,
+9709	2	676. Zhu D, Chung HF, Dobson AJ, Pandeya N, Brunner EJ, Kuh D,
+9723	2	679. Zhu D, Chung HF, Dobson AJ, Pandeya N, Anderson DJ, Kuh D, Hardy R,
+9728	2	680. Zhang GQ, Chen JL, Luo Y, Mathur MB, Anagnostis P, Nurmatov U,
+9739	2	Clinical Statements
+9740	2	And Guidelines
+9757	2	686. Thurston RC, Aslanidou Vlachos HE, Derby CA, Jackson EA, Brooks MM,
+9765	2	688. Nudy M, Jiang X, Aragaki AK, Manson JE, Shadyab AH, Foy AJ, Buerger J,
+9771	2	689. Dam V, Dobson AJ, Onland-Moret NC, van der Schouw YT,
+9778	2	691. Bhupathiraju SN, Grodstein F, Stampfer MJ, Willett WC,
+9782	2	692. Muka T, Oliver-Williams C, Kunutsor S, Laven JS, Fauser BC,
+9791	2	694. Derby CA, Crawford SL, Pasternak RC, Sowers M, Sternfeld B,
+9795	2	695. Samargandy S, Matthews KA, Brooks MM, Barinas-Mitchell E, Magnani JW,
+9811	2	699. Kim JE, Chang JH, Jeong MJ, Choi J, Park J, Baek C, Shin A,
+9815	2	700. Getahun D, Nash R, Flanders WD, Baird TC, Becerra-Culqui TA, Cromwell L,
+9819	2	701. Nota NM, Wiepjes CM, de Blok CJM, Gooren LJG, Kreukels BPC,
+9827	2	703. Defreyne J, Van de Bruaene LDL, Rietzschel E, Van Schuylenbergh J,
+9831	2	704. Lincoff AM, Bhasin S, Flevaris P, Mitchell LM, Basaria S, Boden WE,
+9851	2	709. Uretsky BF, Thygesen K, Armstrong PW, Cleland JG, Horowitz JD,
+9858	2	711. Homma S, Thompson JL, Pullicino PM, Levin B, Freudenberger RS, Teerlink JR,
+9869	2	714. Kamel H, Hunter M, Moon YP, Yaghi S, Cheung K, Di Tullio MR, Okin PM,
+9877	2	716. Kamel H, Soliman EZ, Heckbert SR, Kronmal RA, Longstreth WT,
+9894	2	Clinical Statements
+9895	2	And Guidelines
+9898	2	719. Zannad F, Stough WG, Regnault V, Gheorghiade M, Deliargyris E,
+9903	2	720. Cleland JG, Findlay I, Jafri S, Sutton G, Falk R, Bulpitt C, Prentice C,
+9915	2	723. Massie BM, Collins JF, Ammon SE, Armstrong PW, Cleland JG,
+9925	2	725. Zannad F, Anker SD, Byra WM, Cleland JGF, Fu M, Gheorghiade M,
+9939	2	728. Ikeda Y, Shimada K, Teramoto T, Uchiyama S, Yamazaki T, Oikawa S,
+9948	2	730. Bowman L, Mafham M, Wallendszus K, Stevens W, Buck G, Barton J,
+9953	2	731. Saito Y, Okada S, Ogawa H, Soejima H, Sakuma M, Nakayama M,
+9959	2	732. Bonaca MP, Goto S, Bhatt DL, Steg PG, Storey RF, Cohen M, Goodrich E,
+9966	2	733. Uchiyama S, Ishizuka N, Shimada K, Teramoto T, Yamazaki T, Oikawa S,
+9975	2	735. Cloud GC, Williamson JD, Thao L TP, Tran C, Eaton CB, Wolfe R, Nelson MR,

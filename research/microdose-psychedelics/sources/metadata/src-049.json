@@ -1,0 +1,44 @@
+{
+  "id": "src-049",
+  "title": "Safety and tolerability of multiple sublingual microdoses of 5-MeO-DMT in adults with moderate symptoms of depression and/or anxiety: a randomized, double-blind, placebo-controlled study",
+  "authors": [
+    "Bistue Millón, Maria Beatriz",
+    "Noguera, Laura",
+    "Bruno, Diana",
+    "Vita, Luciana",
+    "Zanino, Mariana",
+    "Kassuha, Diego E.",
+    "Ortiz, Javier E.",
+    "Feresin, Gabriela E.",
+    "Díaz-Dellavalle, Paola",
+    "Orosco, Lorena",
+    "Garcés, M. Agustina",
+    "Diez, Pablo",
+    "Albarracín, Sergio G.",
+    "Bruno, Martin A."
+  ],
+  "year": 2025,
+  "abstract": "",
+  "doi": "10.1038/s41386-025-02167-3",
+  "url": "https://doi.org/10.1038/s41386-025-02167-3",
+  "pdf_url": "",
+  "venue": "Neuropsychopharmacology",
+  "citation_count": 3,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-26T10:44:56.867384+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-049.md",
+  "quality_details": {
+    "content_length": 18124,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

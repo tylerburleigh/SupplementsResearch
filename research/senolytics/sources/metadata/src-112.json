@@ -1,0 +1,29 @@
+{
+  "id": "src-112",
+  "title": "S1P regulates intervertebral disc aging by mediating endoplasmic reticulum-mitochondrial calcium ion homeostasis.",
+  "authors": [
+    "Zheng, Bingjie",
+    "Zhang, Xuyang",
+    "Kong, Xiangxi",
+    "Li, Jie",
+    "Huang, Bao",
+    "Li, Hui",
+    "Ji, Zhongyin",
+    "Wei, Xiaoan",
+    "Tao, Siyue",
+    "Shan, Zhi",
+    "Ling, Zemin",
+    "Liu, Junhui",
+    "Chen, Jian",
+    "Zhao, Fengdong"
+  ],
+  "doi": "10.1172/jci.insight.177789",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39316443",
+  "provider": "pubmed",
+  "year": 2024,
+  "venue": "JCI insight",
+  "citation_count": 0,
+  "abstract": "As the aging process progresses, age-related intervertebral disc degeneration (IVDD) is becoming an emerging public health issue. Site-1 protease (S1P) has recently been found to be associated with abnormal spinal development in patients with mutations and has multiple biological functions. Here, we discovered a reduction of S1P in degenerated and aging intervertebral discs, primarily regulated by DNA methylation. Furthermore, through drug treatment and siRNA-mediated S1P knockdown, nucleus pulposus cells were more prone to exhibit degenerative and aging phenotypes. Conditional KO of S1P in mice resulted in spinal developmental abnormalities and premature aging. Mechanistically, S1P deficiency impeded COP II-mediated transport vesicle formation, which leads to protein retention in the endoplasmic reticulum (ER) and subsequently ER distension. ER distension increased the contact between the ER and mitochondria, disrupting ER-to-mitochondria calcium flow and resulting in mitochondrial dysfunction and energy metabolism disturbance. Finally, using 2-APB to inhibit calcium ion channels and the senolytic drug dasatinib and quercetin (D + Q) partially rescued the aging and degenerative phenotypes caused by S1P deficiency. In conclusion, our findings suggest that S1P is a critical factor in causing IVDD in the process of aging and highlight the potential of targeting S1P as a therapeutic approach for age-related IVDD.",
+  "type": "academic",
+  "pdf_url": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "src-309",
+  "title": "Secretory Production of the Hericium erinaceus Laccase from Saccharomyces cerevisiae.",
+  "authors": [
+    "Kang, Jin",
+    "La, Thuat Van",
+    "Kim, Mi-Jin",
+    "Bae, Jung-Hoon",
+    "Sung, Bong Hyun",
+    "Kim, Seonghun",
+    "Sohn, Jung-Hoon"
+  ],
+  "doi": "10.4014/jmb.2312.12043",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38314447",
+  "provider": "pubmed",
+  "year": 2024,
+  "venue": "Journal of microbiology and biotechnology",
+  "citation_count": 0,
+  "abstract": "Mushroom laccases play a crucial role in lignin depolymerization, one of the most critical challenges in lignin utilization. Importantly, laccases can utilize a wide range of substrates, such as toxicants and antibiotics. This study isolated a novel laccase, named HeLac4c, from endophytic white-rot fungi Hericium erinaceus mushrooms. The cDNAs for this enzyme were 1569 bp in length and encoded a protein of 523 amino acids, including a 20 amino-acid signal peptide. Active extracellular production of glycosylated laccases from Saccharomyces cerevisiae was successfully achieved by selecting an optimal translational fusion partner. We observed that 5 and 10 mM Ca2+, Zn2+, and K+ increased laccase activity, whereas 5 mM Fe2+ and Al3+ inhibited laccase activity. The laccase activity was inhibited by the addition of low concentrations of sodium azide and L-cysteine. The optimal pH for the 2,2'-Azino-bis(3-ethylbenzothiazoline-6-sulfonic acid) diammonium salt was 4.4. Guaiacylglycerol-β-guaiacyl ether, a lignin model compound, was polymerized by the HeLac4c enzyme. These results indicated that HeLac4c is a novel oxidase biocatalyst for the bioconversion of lignin into value-added products for environmental biotechnological applications.",
+  "type": "academic",
+  "pdf_url": ""
+}

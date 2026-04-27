@@ -1,0 +1,31 @@
+{
+  "id": "src-518",
+  "title": "Do we need to take calcium with vitamin D supplements to prevent falls, fractures, and death?",
+  "authors": [
+    "Scragg, Robert"
+  ],
+  "year": 2012,
+  "abstract": "",
+  "doi": "10.1097/mco.0b013e328359ef21",
+  "url": "https://doi.org/10.1097/mco.0b013e328359ef21",
+  "pdf_url": "",
+  "venue": "Current Opinion in Clinical Nutrition and Metabolic Care",
+  "citation_count": 9,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T21:36:41.373392+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-518.md",
+  "quality_details": {
+    "content_length": 1882,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

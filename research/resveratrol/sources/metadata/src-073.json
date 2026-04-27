@@ -1,0 +1,20 @@
+{
+  "id": "src-073",
+  "title": "Enhanced Oral Bioavailability of Resveratrol by Using Neutralized Eudragit E Solid Dispersion Prepared via Spray Drying",
+  "authors": [
+    "Ha, Eun-Sol",
+    "Choi, Du Hyung",
+    "Baek, In‐hwan",
+    "Park, Heejun",
+    "Kim, Min‐Soo"
+  ],
+  "doi": "10.3390/antiox10010090",
+  "url": "https://openalex.org/W3120333982",
+  "provider": "openalex",
+  "year": 2021,
+  "venue": "Antioxidants",
+  "citation_count": 33,
+  "abstract": "In this study, we designed amorphous solid dispersions based on Eudragit E/HCl (neutralized Eudragit E using hydrochloric acid) to maximize the dissolution of <i>trans</i>-resveratrol. Solid-state characterization of amorphous solid dispersions of <i>trans</i>-resveratrol was performed using powder X-ray diffraction, scanning electron microscopy, and particle size measurements. In addition, an in vitro dissolution study and an in vivo pharmacokinetic study in rats were carried out. Among the tested polymers, Eudragit E/HCl was the most effective solid dispersion for the solubilization of <i>trans</i>-resveratrol. Eudragit E/HCl significantly inhibited the precipitation of <i>trans</i>-resveratrol in a pH 1.2 dissolution medium in a dose-dependent manner. The amorphous Eudragit E/HCl solid dispersion at a <i>trans</i>-resveratrol/polymer ratio of 10/90 exhibited a high degree of supersaturation without <i>trans</i>-resveratrol precipitation for at least 48 h by the formation of Eudragit E/HCl micelles. In rats, the absolute oral bioavailability (F%) of <i>trans</i>-resveratrol from Eudragit E/HCl solid dispersion (10/90) was estimated to be 40%. Therefore, <i>trans</i>-resveratrol-loaded Eudragit E/HCl solid dispersions prepared by spray drying offer a promising formulation strategy with high oral bioavailability for developing high-quality health supplements, nutraceutical, and pharmaceutical products.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2076-3921/10/1/90/pdf?version=1611196293"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "src-036",
+  "title": "Effect of Carotene and Lycopene on the Risk of Prostate Cancer: A Systematic Review and Dose-Response Meta-Analysis of Observational Studies",
+  "authors": [
+    "Wang, Yulan",
+    "Cui, Ran",
+    "Xiao, Yuanyuan",
+    "Fang, Juemin",
+    "Xu, Qing"
+  ],
+  "year": 2015,
+  "abstract": "",
+  "doi": "10.1371/journal.pone.0137427",
+  "url": "https://doi.org/10.1371/journal.pone.0137427",
+  "pdf_url": "",
+  "venue": "PLOS ONE",
+  "citation_count": 60,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-19T18:32:20.313947+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-036.md",
+  "quality_details": {
+    "content_length": 55467,
+    "alpha_ratio": 0.652,
+    "sentence_count": 745,
+    "reasons": []
+  }
+}

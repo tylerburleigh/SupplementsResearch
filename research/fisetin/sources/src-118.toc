@@ -1,0 +1,36 @@
+36	2	Abstract
+54	2	Keywords
+60	2	1. Introduction
+103	2	2. Materials and Methods
+104	3	2.1 Materials
+116	3	2.2 Phase solubility study
+131	3	2.3 Investigation of different complexation methods
+144	3	2.4 Investigation of different feed solution compositions for spray drying
+168	3	2.5 Incorporation of leucine as dispersibility enhancer
+174	3	2.6 Spray drying of the complexes
+181	3	2.7 Characterization of the preparations
+182	4	2.7.1 Determination of the amount of solubilized fisetin
+195	4	2.7.2 HPLC analysis
+213	4	2.7.3 Determination of in vitro antioxidant activity
+229	4	2.7.4 Determination of particle size distribution
+351	3	2.9 Statistical analysis
+356	2	3. Results and Discussion
+357	3	3.1 Phase solubility study
+382	3	3.2 Determination of antioxidant activity
+392	3	3.3 Investigation of different complexation methods
+413	3	3.4 Investigation of different feed solution compositions for spray drying
+414	4	3.4.1 Particle size distribution and residual solvent content
+439	4	3.4.2 FT-IR analysis
+456	4	3.4.3 XRPD analysis
+467	4	3.4.4 In vitro aerosol deposition study
+486	4	3.4.5 SEM analysis
+506	3	3.5 Incorporation of leucine as a dispersibility enhancer
+507	4	3.5.1 Particle size distribution and residual solvent content
+532	4	3.5.2 XRPD analysis
+537	4	3.5.3 In vitro aerosol deposition study
+563	4	3.5.4 SEM analysis
+573	3	3.6 In vitro cell toxicity of fisetin and the spray-dried formulation
+586	2	4. Conclusion
+602	2	Acknowledgement
+608	2	References
+728	2	Bcd Hpbcd Sbebcd

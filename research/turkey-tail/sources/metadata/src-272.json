@@ -1,0 +1,27 @@
+{
+  "id": "src-272",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "",
+  "pdf_url": "https://bmccancer.biomedcentral.com/counter/pdf/10.1186/1471-2407-8-78.pdf",
+  "venue": "",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "",
+  "fetched_at": "2026-04-23T18:54:45.217816+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-272.md",
+  "quality_details": {
+    "content_length": 49831,
+    "alpha_ratio": 0.631,
+    "sentence_count": 358,
+    "reasons": []
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "src-143",
+  "title": "Genetics of intracerebral hemorrhage.",
+  "authors": [
+    "Kimball, Tamara N",
+    "Tack, Reinier Wp",
+    "Chen, Anna",
+    "Prapiadou, Savvina",
+    "Senff, Jasper R",
+    "Tan, Benjamin Yq",
+    "Singh, Sanjula D",
+    "van Veluw, Susanne J",
+    "Greenberg, Steven M",
+    "Rosand, Jonathan",
+    "Anderson, Christopher D"
+  ],
+  "doi": "10.1177/0271678x241310401",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39763366",
+  "provider": "pubmed",
+  "year": 2025,
+  "venue": "Journal of cerebral blood flow and metabolism : official journal of the International Society of Cerebral Blood Flow and Metabolism",
+  "citation_count": 0,
+  "abstract": "Spontaneous intracerebral hemorrhage(ICH) represents a life-threatening form of stroke, marked by its impact on survival and quality of life. ICH can be categorized from monogenic disorders linked to causal germline variants in ICH-related genes to complex sporadic cases, highlighting the interaction among lifestyle factors, environmental influences, and genetic components in determining risk. Among sporadic ICH, the influence of these factors varies across ICH subtypes, evidenced by heritability rates of up to 73% for lobar ICH versus 34% for non-lobar ICH. This review presents an outline of the genetic landscape of ICH, covering both monogenic and sporadic forms. It highlights associations between ICH risk and genetic variants, including rare and common variants in genes such as COL4A1, COL4A2, APOE, ACE, MTHFR, and PMF1. However, replication has been constrained, and most findings originate from single-candidate gene studies, largely due to ancestry heterogeneity, small sample sizes, and scarce subtype-specific data. To bridge this gap, collaborative efforts like the International Stroke Genetic Consortium have been established. Additionally, the review discusses the emerging role of polygenic risk scores, Mendelian randomization, and the potential of genetic and omics research to elucidate causal pathobiology. Such insights could lead to preventive measures and personalized ICH treatment strategies.",
+  "type": "academic",
+  "pdf_url": ""
+}

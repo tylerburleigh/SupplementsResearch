@@ -1,0 +1,29 @@
+{
+  "id": "src-064",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "",
+  "pdf_url": "https://refp.cohlife.org/_nis/Psychedelics%20in%20Psychiatry--Neuroplastic,%20Immunomodulatory,%20and%20Neurotransmitter%20Mechanisms.2021.r.pdf",
+  "venue": "",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "",
+  "fetched_at": "2026-04-26T10:52:56.718002+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-064.md",
+  "quality_details": {
+    "content_length": 527499,
+    "alpha_ratio": 0.743,
+    "sentence_count": 4838,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

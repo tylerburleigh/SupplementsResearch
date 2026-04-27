@@ -1,0 +1,29 @@
+{
+  "id": "src-010",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://www.meetingpointhealth.com/therapies/egcg",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-23T01:10:52.240125+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-010.md",
+  "quality_details": {
+    "content_length": 6244,
+    "alpha_ratio": 0.823,
+    "sentence_count": 48,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

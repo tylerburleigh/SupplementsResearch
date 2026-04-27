@@ -1,0 +1,40 @@
+{
+  "id": "src-115",
+  "title": "Nicotinamide Riboside Opposes Type 2 Diabetes and Neuropathy in Mice",
+  "authors": [
+    "Trammell, Samuel A.J.",
+    "Weidemann, Benjamin J.",
+    "Chadda, Ankita",
+    "Yorek, Matthew S.",
+    "Holmes, Amey",
+    "Coppey, Lawrence J.",
+    "Obrosov, Alexander",
+    "Kardon, Randy H.",
+    "Yorek, Mark A.",
+    "Brenner, Charles"
+  ],
+  "year": 2016,
+  "abstract": "Abstract\n\nMale C57BL/6J mice raised on high fat diet (HFD) become prediabetic and develop insulin resistance and sensory neuropathy. The same mice given low doses of streptozotocin are a model of type 2 diabetes (T2D), developing hyperglycemia, severe insulin resistance and diabetic peripheral neuropathy involving sensory and motor neurons. Because of suggestions that increased NAD\n+\nmetabolism might address glycemic control and be neuroprotective, we treated prediabetic and T2D mice with nicotinamide riboside (NR) added to HFD. NR improved glucose tolerance, reduced weight gain, liver damage and the development of hepatic steatosis in prediabetic mice while protecting against sensory neuropathy. In T2D mice, NR greatly reduced non-fasting and fasting blood glucose, weight gain and hepatic steatosis while protecting against diabetic neuropathy. The neuroprotective effect of NR could not be explained by glycemic control alone. Corneal confocal microscopy was the most sensitive measure of neurodegeneration. This assay allowed detection of the protective effect of NR on small nerve structures in living mice. Quantitative metabolomics established that hepatic NADP\n+\nand NADPH levels were significantly degraded in prediabetes and T2D but were largely protected when mice were supplemented with NR. The data justify testing of NR in human models of obesity, T2D and associated neuropathies.",
+  "doi": "10.1038/srep26933",
+  "url": "https://doi.org/10.1038/srep26933",
+  "pdf_url": "",
+  "venue": "Scientific Reports",
+  "citation_count": 267,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-20T21:02:42.432679+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-115.md",
+  "quality_details": {
+    "content_length": 31153,
+    "alpha_ratio": 0.705,
+    "sentence_count": 501,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

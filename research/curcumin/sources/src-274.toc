@@ -1,0 +1,29 @@
+3	2	Review Article Open
+30	2	Introduction
+118	2	Methods
+199	2	Statistical Analysis
+249	2	Results
+380	2	Design
+388	2	2012 Thailand RCT,
+395	2	2014 Thailand RCT,
+402	2	2016 Mexico RCT,
+405	2	Ckd
+456	2	2020 Iran RCT,
+465	2	2020 Iran RCT,
+472	2	2020 Iran RCT,
+571	2	Discussion
+833	2	Conclusions
+840	2	Data Availability
+843	2	References
+862	2	8. Unhapipatpong C, Polruang N, Shantavasinkul PC, Julanon N, Numthavaj P,
+924	2	27. Ashtary-Larky D, Rezaei Kelishadi M, Bagheri R, Moosavian SP, Wong A, Davoodi
+939	2	31. Chuengsamarn S, Rattanamongkolgul S, Luechapudiporn R, Phisalaphong C,
+971	2	44. Rahimi HR, Mohammadpour AH, Dastani M, Jaafari MR, Abnous K, Ghayour
+986	2	48. Asghari KM, Saleh P, Salekzamani Y, Dolatkhah N, Aghamohammadzadeh N,
+1011	2	54. Chuengsamarn S, Rattanamongkolgul S, Phonrat B, Tungtrongchitr R, Jir-
+1019	2	56. Shafabakhsh R, Mobini M, Raygan F, Aghadavod E, Ostadmohammadi V, Amirani
+1096	2	Author Contributions
+1101	2	Funding
+1104	2	Competing Interests
+1106	2	Ethics Approval And Consent To Participate
+1109	2	Additional Information

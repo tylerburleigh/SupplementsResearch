@@ -1,0 +1,31 @@
+{
+  "id": "src-045",
+  "title": "Rapamycin‐mediated lifespan increase in mice is dose and sex dependent and metabolically distinct from dietary restriction",
+  "authors": [
+    "Miller, Richard A.",
+    "Harrison, David E.",
+    "Astle, Clinton M.",
+    "Fernández, Elizabeth",
+    "Flurkey, Kevin",
+    "Han, Melissa",
+    "Javors, Martin A.",
+    "Li, Xinna",
+    "Nadon, Nancy L.",
+    "Nelson, James F.",
+    "Pletcher, Scott D.",
+    "Salmon, Adam B.",
+    "Sharp, Z. Dave",
+    "Roekel, Sabrina Van",
+    "Winkleman, Lynn",
+    "Strong, Randy"
+  ],
+  "doi": "10.1111/acel.12194",
+  "url": "https://openalex.org/W1978161786",
+  "provider": "openalex",
+  "year": 2013,
+  "venue": "Aging Cell",
+  "citation_count": 626,
+  "abstract": "Rapamycin, an inhibitor of mTOR kinase, increased median lifespan of genetically heterogeneous mice by 23% (males) to 26% (females) when tested at a dose threefold higher than that used in our previous studies; maximal longevity was also increased in both sexes. Rapamycin increased lifespan more in females than in males at each dose evaluated, perhaps reflecting sexual dimorphism in blood levels of this drug. Some of the endocrine and metabolic changes seen in diet-restricted mice are not seen in mice exposed to rapamycin, and the pattern of expression of hepatic genes involved in xenobiotic metabolism is also quite distinct in rapamycin-treated and diet-restricted mice, suggesting that these two interventions for extending mouse lifespan differ in many respects.",
+  "type": "academic",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/acel.12194"
+}

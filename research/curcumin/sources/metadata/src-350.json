@@ -1,0 +1,20 @@
+{
+  "id": "src-350",
+  "title": "Bioavailability of Oral Curcumin in Systematic Reviews: A Methodological Study",
+  "authors": [
+    "Bučević‐Popović, Viljemka",
+    "Farhat, Esma Karahmet",
+    "Banjari, Ines",
+    "Kadić, Antonia Jeličić",
+    "Puljak, Livia"
+  ],
+  "doi": "10.3390/ph17020164",
+  "url": "https://openalex.org/W4391315294",
+  "provider": "openalex",
+  "year": 2024,
+  "venue": "Pharmaceuticals",
+  "citation_count": 36,
+  "abstract": "Curcumin is a natural compound found in turmeric that exhibits diverse biological activities. However, its poor bioavailability limits its therapeutic application, which has led to the development of various bioavailability-improved formulations. In this methodological study, we analyzed whether systematic reviews on curcumin considered the bioavailability of systemic oral curcumin formulations when synthesizing evidence from human clinical trials. A total of 171 systematic reviews published between 2003 and 2022 were included in the study. From the included studies, we extracted data on study characteristics; type of curcumin; methods; and reporting regarding bioavailability, funding, and conflict of interest. Our results show that systematic reviews rarely consider the variable bioavailability of tested curcumin formulations. Relevant statistical subgroup and/or sensitivity analyses were reported in the methods and results of only 3.5% and 6.4% of reviews, respectively. However, more reviews mentioned bioavailability in their discussion (57%) or conclusion (13%). The detailed analysis of the included systematic reviews suggests that there is broad recognition of product bioavailability as a crucial factor affecting the health effects of curcumin, which is not accompanied by adequate evidence synthesis. Therefore, the results of most systematic reviews on orally administered curcumin should be taken with caution.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/1424-8247/17/2/164/pdf?version=1706432428"
+}

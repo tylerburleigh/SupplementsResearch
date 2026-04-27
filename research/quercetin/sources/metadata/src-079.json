@@ -1,0 +1,28 @@
+{
+  "id": "src-079",
+  "title": "The effects of Quercetin supplementation on cardiometabolic outcomes: An umbrella review of meta‐analyses of randomized controlled trials",
+  "authors": [
+    "Arabi, Seyyed Mostafa",
+    "Shahraki Jazinaki, Mostafa",
+    "Chambari, Mahla",
+    "Bahrami, Leila Sadat",
+    "Maleki, Mohsen",
+    "Sukhorukov, Vasily N.",
+    "Sahebkar, Amirhossein"
+  ],
+  "year": 2023,
+  "abstract": "AbstractBackgroundQuercetin is a bioactive flavonoid, but the effect of it on cardiometabolic factors has remained uncertain and previous findings from meta‐analyses have been controversial.ObjectiveTo provide an overview of the effects of Quercetin on cardiometabolic factors based on meta‐analyses of randomized controlled trials (RCTs).MethodMEDLINE, SciVerse Scopus, and Clarivate Analytics Web of Science databases were searched to identify eligible publications. As part of the umbrella review, we summarized pooled estimates, 95% CIs, heterogeneity, and publication bias. A GRADE (Grading of Recommendations Assessment, Development, and Evaluation) approach was used to rate the certainty of evidence.ResultsFive meta‐analyses including 18 eligible RCTs plus 5 RCTs that were not included in previous meta‐analyses were found. The results indicated Quercetin does not affect diastolic blood pressure (DBP), lipid profile, inflammation, anthropometric indices, fasting plasma glucose (FBG), and homeostatic model assessment for insulin resistance (HOMA‐IR). However, Quercetin supplementation could significantly reduce systolic blood pressure (SBP) (weighted mean difference (WMD): −1.9, 95% CI = −3.2 to −0.6, I2 = 88.3%) and insulin level (WMD: −1.07, 95% CI = −1.9 to −0.1, I2 = 75.0%). The certainty of evidence ranged from very low to moderate.ConclusionQuercetin supplementation has reducing effects on SBP and insulin levels but not other cardiometabolic parameters. More high‐quality trials with longer follow‐up durations may be required to obtain a more robust conclusion.",
+  "doi": "10.1002/ptr.7971",
+  "url": "https://doi.org/10.1002/ptr.7971",
+  "pdf_url": "",
+  "venue": "Phytotherapy Research",
+  "citation_count": 8,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-22T18:13:33.724625+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok"
+}

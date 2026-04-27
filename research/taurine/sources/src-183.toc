@@ -1,0 +1,15 @@
+6	2	Invited Review
+12	2	Abstract
+41	2	Introduction
+61	2	1 Department of Animal Science and Faculty of Nutrition,
+63	2	Usa
+457	2	Ntcp
+458	2	Oatp
+461	2	Cba
+469	2	Cbacba
+472	2	Asbt
+486	2	Cba
+487	2	Bsep
+632	2	Pnwt
+2439	2	Conclusion
+2478	2	References

@@ -1,0 +1,21 @@
+{
+  "id": "src-172",
+  "title": "Peripheral neuropathy and new treatments for multiple myeloma: background and practical recommendations",
+  "authors": [
+    "Mohty, Bilal",
+    "El-Cheikh, J.",
+    "Yakoub‐Agha, Ibrahim",
+    "Moreau, Philippe",
+    "Harousseau, J L",
+    "Mohty, Mohamad"
+  ],
+  "doi": "10.3324/haematol.2009.012674",
+  "url": "https://openalex.org/W2099477221",
+  "provider": "openalex",
+  "year": 2010,
+  "venue": "Haematologica",
+  "citation_count": 163,
+  "abstract": "In multiple myeloma, peripheral neuropathy has for a long time been considered as mainly secondary to the plasma cell dyscrasia itself. With the advent of new targeted drugs such as thalidomide and bortezomib, the iatrogenic neurotoxicity has become the leading cause of peripheral neuropathy. This review discusses the pathogenesis, incidence, risk factors, diagnosis, characteristics, and management of peripheral neuropathy related to new multiple myeloma drugs, mainly bortezomib and thalidomide. The current knowledge of the pathophysiology of the new forms of peripheral neuropathy is still limited. The mechanisms involved depend on the agents used, patient's medical history, and duration of exposure and/or treatment doses or sequence. Diagnosis of such peripheral neuropathy is often easier than treatment. A full anamnesis and regular clinical evaluation are necessary. Electrophysiological assessments may support the diagnosis, although their contribution remains insufficient. Complex clinical features may require a specialized neurological assessment within the context of a multi-disciplinary approach. Finally, early detection of peripheral neuropathy and the use of dose adjustment algorithms as in the case of bortezomib, should help reduce the side effects while maintaining anti-tumor efficacy.",
+  "type": "academic",
+  "pdf_url": "https://haematologica.org/article/download/5503/24929"
+}

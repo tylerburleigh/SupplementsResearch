@@ -1,0 +1,24 @@
+{
+  "id": "src-219",
+  "title": "Homocysteine and cardiovascular disease: evidence on causality from a meta-analysis",
+  "authors": [
+    "Wald, David S",
+    "Law, Malcolm",
+    "Morris, Joan K"
+  ],
+  "year": 2002,
+  "abstract": "Abstract\n\nObjective:\nTo assess whether the association of serum homocysteine concentration with ischaemic heart disease, deep vein thrombosis and pulmonary embolism, and stroke is causal and, if so, to quantify the effect of homocysteine reduction in preventing them.\n\nDesign:\nMeta-analyses of the above three diseases using (\na\n) 72 studies in which the prevalence of a mutation in the MTHFR gene (which increases homocysteine) was determined in cases (n=16 849) and controls, and (\nb\n) 20 prospective studies (3820 participants) of serum homocysteine and disease risk.\n\nMain outcome measures:\nOdds ratios of the three diseases for a 5 μmol/l increase in serum homocysteine concentration.\n\nResults:\nThere were significant associations between homocysteine and the three diseases. The odds ratios for a 5 μmol/l increase in serum homocysteine were, for ischaemic heart disease, 1.42 (95% confidence interval 1.11 to 1.84) in the genetic studies and 1.32 (1.19 to 1.45) in the prospective studies; for deep vein thrombosis with or without pulmonary embolism, 1.60 (1.15 to 2.22) in the genetic studies (there were no prospective studies); and, for stroke, 1.65 (0.66 to 4.13) in the genetic studies and 1.59 (1.29 to 1.96) in the prospective studies.\n\nConclusions:\nThe genetic studies and the prospective studies do not share the same potential sources of error, but both yield similar highly significant results—strong evidence that the association between homocysteine and cardiovascular disease is causal. On this basis, lowering homocysteine concentrations by 3 μmol/l from current levels (achievable by increasing folic acid intake) would reduce the risk of ischaemic heart disease by 16% (11% to 20%), deep vein thrombosis by 25% (8% to 38%), and stroke by 24% (15% to 33%).\n\nWhat is already known on this topic\nThere is an association between serum homocysteine concentration and cardiovascular disease, but it is not known whether the association is causal\nA common single gene mutation that reduces the activity of an enzyme involved in folate metabolism (MTHFR) is associated with a moderate (20%) increase in serum homocysteine\n\nWhat this study adds\nA meta-analysis of MTHFR studies shows a significantly higher risk of both ischaemic heart disease and deep vein thrombosis (with or without pulmonary embolism) in people with the MTHFR mutation\nA meta-analysis of prospective studies shows a significant association between homocysteine concentration and ischaemic heart disease similar in size to that expected from the results of the MTHFR studies and a significant association with stroke\nThe MTHFR studies and the prospective studies do not share the same potential sources of error but both yield similar results—strong evidence that the association between homocysteine and cardiovascular disease is causal\nOn this basis a decrease in serum homocysteine of 3 μmol/l (achievable by daily intake of about 0.8 mg folic acid) should reduce the risk of ischaemic heart disease by 16%, deep vein thrombosis by 25%, and stroke by 24%",
+  "doi": "10.1136/bmj.325.7374.1202",
+  "url": "https://doi.org/10.1136/bmj.325.7374.1202",
+  "pdf_url": "",
+  "venue": "BMJ",
+  "citation_count": 1459,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-20T18:48:30.458426+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok"
+}

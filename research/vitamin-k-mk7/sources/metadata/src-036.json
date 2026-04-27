@@ -1,0 +1,38 @@
+{
+  "id": "src-036",
+  "title": "The additive effect of vitamin K supplementation and bisphosphonate on fracture risk in post-menopausal osteoporosis: a randomised placebo controlled trial",
+  "authors": [
+    "Moore, Amelia E.",
+    "Dulnoan, Dwight",
+    "Voong, Kieran",
+    "Ayis, Salma",
+    "Mangelis, Anastasios",
+    "Gorska, Renata",
+    "Harrington, Dominic J.",
+    "Tang, Jonathan C. Y.",
+    "Fraser, William D.",
+    "Hampson, Geeta"
+  ],
+  "year": 2023,
+  "abstract": "Abstract\n\nSummary\n\nThis study assessed whether vitamin K, given with oral bisphosphonate, calcium and/or vitamin D has an additive effect on fracture risk in post-menopausal women with osteoporosis. No difference in bone density or bone turnover was observed although vitamin K1 supplementation led to a modest effect on parameters of hip geometry.\n\nPurpose\nSome clinical studies have suggested that vitamin K prevents bone loss and may improve fracture risk. The aim was to assess whether vitamin K supplementation has an additive effect on bone mineral density (BMD), hip geometry and bone turnover markers (BTMs) in post-menopausal women with osteoporosis (PMO) and sub-optimum vitamin K status receiving bisphosphonate, calcium and/or vitamin D treatment.\n\nMethods\nWe conducted a trial in 105 women aged 68.7[12.3] years with PMO and serum vitamin K1 ≤ 0.4 µg/L. They were randomised to 3 treatment arms; vitamin K1 (1 mg/day) arm, vitamin K2 arm (MK-4; 45 mg/day) or placebo for 18 months. They were on oral bisphosphonate and calcium and/or vitamin D. We measured BMD by DXA, hip geometry parameters using hip structural analysis (HSA) software and BTMs. Vitamin K1 or MK-4 supplementation was each compared to placebo. Intention to treat (ITT) and per protocol (PP) analyses were performed.\n\nResults\nChanges in BMD at the total hip, femoral neck and lumbar spine and BTMs; CTX and P1NP did not differ significantly following either K1 or MK-4 supplementation compared to placebo. Following PP analysis and correction for covariates, there were significant differences in some of the HSA parameters at the intertrochanter (IT) and femoral shaft (FS): IT endocortical diameter (ED) (% change placebo:1.5 [4.1], K1 arm: -1.02 [5.07], p = 0.04), FS subperiosteal/outer diameter (OD) (placebo: 1.78 [5.3], K1 arm: 0.46 [2.23] p = 0.04), FS cross sectional area (CSA) (placebo:1.47 [4.09],K1 arm: -1.02[5.07], p = 0.03).\n\nConclusion\nThe addition of vitamin K1 to oral bisphosphonate with calcium and/or vitamin D treatment in PMO has a modest effect on parameters of hip geometry. Further confirmatory studies are needed.\n\nTrial registration\nThe study was registered at Clinicaltrial.gov:NCT01232647.",
+  "doi": "10.1007/s11657-023-01288-w",
+  "url": "https://doi.org/10.1007/s11657-023-01288-w",
+  "pdf_url": "",
+  "venue": "Archives of Osteoporosis",
+  "citation_count": 14,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T10:54:11.118347+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-036.md",
+  "quality_details": {
+    "content_length": 57145,
+    "alpha_ratio": 0.713,
+    "sentence_count": 412,
+    "reasons": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "src-178",
+  "title": "NEUROLOGICAL ASPECTS OF TROPICAL DISEASE: Tetanus",
+  "authors": [
+    "Farrar, Jeremy"
+  ],
+  "doi": "10.1136/jnnp.69.3.292",
+  "url": "https://openalex.org/W1973093269",
+  "provider": "openalex",
+  "year": 2000,
+  "venue": "Journal of Neurology Neurosurgery & Psychiatry",
+  "citation_count": 245,
+  "abstract": "<h3>Background</h3> The underlying molecular aetiology of congenital heart defects is largely unknown. The aim of this study was to explore the genetic basis of non-syndromic severe congenital valve malformations in two unrelated families. <h3>Methods</h3> Whole-exome analysis was used to identify the mutations in five patients who suffered from severe valvular malformations involving the pulmonic, tricuspid and mitral valves. The significance of the findings was assessed by studying sporulation of yeast carrying a homologous Phospholipase D (<i>PLD1</i>) mutation, in situ hybridisation in chick embryo and echocardiography and histological examination of hearts of <i>PLD1</i> knockout mice. <h3>Results</h3> Three mutations, p.His442Pro, p.Thr495fs32* and c.2882+2T&gt;C, were identified in the <i>PLD1</i> gene. The mutations affected highly conserved sites in the PLD1 protein and the p.His442Pro mutation produced a strong loss of function phenotype in yeast homologous mutant strain. Here we show that in chick embryos <i>PLD1</i> expression is confined to the forming heart (E2–E8) and homogeneously expressed all over the heart during days E2–E3. Thereafter its expression decreases, remaining only adjacent to the atrioventricular valves and the right ventricular outflow tract. This pattern of expression follows the known dynamic patterning of apoptosis in the developing heart, consistent with the known role of PLD1 in the promotion of apoptosis. In hearts of <i>PLD1</i> knockout mice, we detected marked tricuspid regurgitation, right atrial enlargement, and increased flow velocity, narrowing and thickened leaflets of the pulmonic valve. <h3>Conclusions</h3> The findings support a role for PLD1 in normal heart valvulogenesis.",
+  "type": "academic",
+  "pdf_url": "https://jnnp.bmj.com/content/jnnp/69/3/292.full.pdf"
+}

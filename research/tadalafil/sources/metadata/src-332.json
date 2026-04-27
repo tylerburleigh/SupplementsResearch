@@ -1,0 +1,18 @@
+{
+  "id": "src-332",
+  "title": "Old Drugs as New Treatments for Neurodegenerative Diseases",
+  "authors": [
+    "Durães, Fernando",
+    "Pinto, Madalena",
+    "Sousa, Emı́lia"
+  ],
+  "doi": "10.3390/ph11020044",
+  "url": "https://openalex.org/W2799817815",
+  "provider": "openalex",
+  "year": 2018,
+  "venue": "Pharmaceuticals",
+  "citation_count": 345,
+  "abstract": "Neurodegenerative diseases are increasing in number, given that the general global population is becoming older. They manifest themselves through mechanisms that are not fully understood, in many cases, and impair memory, cognition and movement. Currently, no neurodegenerative disease is curable, and the treatments available only manage the symptoms or halt the progression of the disease. Therefore, there is an urgent need for new treatments for this kind of disease, since the World Health Organization has predicted that neurodegenerative diseases affecting motor function will become the second-most prevalent cause of death in the next 20 years. New therapies can come from three main sources: synthesis, natural products, and existing drugs. This last source is known as drug repurposing, which is the most advantageous, since the drug&rsquo;s pharmacokinetic and pharmacodynamic profiles are already established, and the investment put into this strategy is not as significant as for the classic development of new drugs. There have been several studies on the potential of old drugs for the most relevant neurodegenerative diseases, including Alzheimer&rsquo;s disease, Parkinson&rsquo;s disease, Huntington&rsquo;s disease, Multiple Sclerosis and Amyotrophic Lateral Sclerosis.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/1424-8247/11/2/44/pdf?version=1526027660"
+}

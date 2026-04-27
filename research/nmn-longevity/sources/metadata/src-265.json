@@ -1,0 +1,33 @@
+{
+  "id": "src-265",
+  "title": "Sirtuins as regulators of metabolism and healthspan",
+  "authors": [
+    "Houtkooper, Riekelt H.",
+    "Pirinen, Eija",
+    "Auwerx, Johan"
+  ],
+  "year": 2012,
+  "abstract": "",
+  "doi": "10.1038/nrm3293",
+  "url": "https://doi.org/10.1038/nrm3293",
+  "pdf_url": "",
+  "venue": "Nature Reviews Molecular Cell Biology",
+  "citation_count": 1668,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-23T13:45:30.249337+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-265.md",
+  "quality_details": {
+    "content_length": 41426,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

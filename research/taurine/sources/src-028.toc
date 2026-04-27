@@ -1,0 +1,26 @@
+25	2	Abstract
+51	2	Background
+235	2	2. Diagnosis made by a professional doctor based on
+240	2	3. The legal guardian fully understands and provides
+243	2	1. Children diagnosed with Rett syndrome, angel
+246	2	2. Children who have had an acute or chronic
+248	2	3. Children with abnormal liver and kidney function or
+250	2	4. Children who have taken any supplements
+254	2	6. The investigator considers that the subject is unable
+256	2	7. Refuse to consume the supplementation lasting to
+272	2	1. Experimental group: Taurine
+313	2	3. Availability of supplements: These supplements will
+322	2	4. Throughout the entire study period, other
+496	2	4. The Identification and Management of Feeding
+624	2	7. The Gesell score
+829	2	Discussion
+849	2	1 H-NMR metabolomics to detect urine samples from
+956	2	Data Availability
+967	2	Competing Interests
+982	2	References
+997	2	7. Yap CX, Henders AK, Alvares GA, Wood DLA, Krause L, Tyson GW, Res-
+1012	2	12. Karhu E, Zukerman R, Eshraghi RS, Mittal J, Deth RC, Castejon AM, et
+1015	2	13. Saad K, Abdel-Rahman A, Elserogy Y, Al-Atram A, El-Houfey A, Othman H,
+1062	2	28. Ohsawa Y, Hagiwara H, Nishimatsu SI, Hirakawa A, Kamimura N, Ohtsubo
+1070	2	30. Rikimaru M, Ohsawa Y, Wolf AM, Nishimaki K, Ichimiya H, Kamimura N, et
+1081	2	33. Mahapatra S, Khokhlovich E, Martinez S, Kannel B, Edelson SM, Vyshed-

@@ -1,0 +1,19 @@
+{
+  "id": "src-119",
+  "title": "The Secret Life of NAD+: An Old Metabolite Controlling New Metabolic Signaling Pathways",
+  "authors": [
+    "Houtkooper, Riekelt H.",
+    "Cantó, Carles",
+    "Wanders, Ronald J. A.",
+    "Auwerx, Johan"
+  ],
+  "doi": "10.1210/er.2009-0026",
+  "url": "https://openalex.org/W2031050244",
+  "provider": "openalex",
+  "year": 2010,
+  "venue": "Endocrine Reviews",
+  "citation_count": 877,
+  "abstract": "A century after the identification of a coenzymatic activity for NAD(+), NAD(+) metabolism has come into the spotlight again due to the potential therapeutic relevance of a set of enzymes whose activity is tightly regulated by the balance between the oxidized and reduced forms of this metabolite. In fact, the actions of NAD(+) have been extended from being an oxidoreductase cofactor for single enzymatic activities to acting as substrate for a wide range of proteins. These include NAD(+)-dependent protein deacetylases, poly(ADP-ribose) polymerases, and transcription factors that affect a large array of cellular functions. Through these effects, NAD(+) provides a direct link between the cellular redox status and the control of signaling and transcriptional events. Of particular interest within the metabolic/endocrine arena are the recent results, which indicate that the regulation of these NAD(+)-dependent pathways may have a major contribution to oxidative metabolism and life span extension. In this review, we will provide an integrated view on: 1) the pathways that control NAD(+) production and cycling, as well as its cellular compartmentalization; 2) the signaling and transcriptional pathways controlled by NAD(+); and 3) novel data that show how modulation of NAD(+)-producing and -consuming pathways have a major physiological impact and hold promise for the prevention and treatment of metabolic disease.",
+  "type": "academic",
+  "pdf_url": "https://academic.oup.com/edrv/article-pdf/31/2/194/10334685/edrv0194.pdf"
+}

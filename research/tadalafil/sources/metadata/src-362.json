@@ -1,0 +1,20 @@
+{
+  "id": "src-362",
+  "title": "[Predicting and in vitro validating new indications of Ginkgolide B via network-medicine framework].",
+  "authors": [
+    "Zhang, Huiying",
+    "Fan, Qing",
+    "Zhang, Yihua",
+    "Liu, Meng",
+    "Cui, Guozhen"
+  ],
+  "doi": "10.3724/zdxbyxb-2025-0696",
+  "url": "https://www.semanticscholar.org/paper/2712a4bd2cf5112569af685825fa3277d9a170b1",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "Zhejiang da xue xue bao. Yi xue ban = Journal of Zhejiang University. Medical sciences",
+  "citation_count": 0,
+  "abstract": "OBJECTIVES\nGinkgolide B (GB), a natural bioactive compound, acts on multiple molecular targets; however, its potential multi-target-based therapeutic indications remain unexplored. This study used a network medicine framework to systematically predict novel therapeutic indications for GB, aiming to provide evidence to support its clinical repositioning.\n\nMETHODS\nGB targets were comprehensively identified by integrating data from TTD, CTD, and BindingDB databases, followed by literature-based validation. Disease-gene associations were compiled by integrating GWAS and OMIM datasets. The topological proximity between GB targets and disease modules within the human protein-protein interaction network was quantified using network proximity metrics, with statistical significance evaluated via Z-score and permutation testing. Candidate diseases were classified according to MeSH terms, visualized through network mapping, and further characterized by gene set similarity based on the Jaccard index. Experiments in RAW 264.7 macrophages were conducted to validate the inhibitory effect of GB on pro-inflammatory cytokines in cells.\n\nRESULTS\nTwelve experimentally validated GB targets were identified, and a disease-gene set encompassing 680 diseases was established. Network proximity analysis revealed significant associations between GB and 22 diseases (Z<0, P<0.05), of which 11 have prior literature support and 11 represent novel predictions. Disease classification indicated that the predicted indications of GB were primarily enriched in immune and inflammatory disease categories, with notable examples including juvenile idiopathic arthritis (Z=－3.10) and Crohn's disease (Z=－3.05). In vitro experiments with macrophages demonstrated that GB suppresses the production of pro-inflammatory cytokines, thereby supporting its potential as a therapeutic agent for immune-mediated inflammatory diseases. Network analysis suggested that GB may exert pleiotropic regulatory effects across multiple diseases via key targets such as MAPK1. The strongest gene set similarity was observed between juvenile idiopathic arthritis and ankylosing spondylitis (Jaccard index=0.60).\n\nCONCLUSIONS\nThis study demonstrates the utility of a network medicine approach in systematically predicting and partially validating novel indications for GB, particularly within immune-inflammatory disorders, including type 1 diabetes, inflammatory bowel disease, and rheumatoid arthritis. These findings provide a theoretical framework for the clinical repositioning of GB and highlight the potential utility of the network-based strategies in the systematic exploration of natural products.",
+  "type": "academic",
+  "pdf_url": ""
+}

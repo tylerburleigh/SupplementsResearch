@@ -1,0 +1,19 @@
+{
+  "id": "src-296",
+  "title": "Spatio-temporal expression profile of sirtuins during aging of the annual fish Nothobranchius furzeri.",
+  "authors": [
+    "Kabiljo, J.",
+    "Murko, Christina",
+    "Pusch, O.",
+    "Zupkovitz, G."
+  ],
+  "doi": "10.1016/j.gep.2019.05.001",
+  "url": "https://www.semanticscholar.org/paper/eb3dedfab2becf881856d4adf2ab6a114a5377a7",
+  "provider": "semantic_scholar",
+  "year": 2019,
+  "venue": "Gene Expression Patterns",
+  "citation_count": 18,
+  "abstract": "The founding member of the sirtuin family, yeast Sir2, was the first evolutionarily conserved gene to be identified as a regulator of longevity. Sirtuins constitute a protein family of metabolic sensors, translating changes in NAD + levels into adaptive responses, thereby acting as crucial regulators of the network that controls energy homeostasis and as such determines healthspan. In mammals the sirtuin family comprises seven proteins, SIRT1-SIRT7, which vary in tissue specificity, subcellular localization, enzymatic activity and targets. Here, we report the identification and a detailed spatio-temporal expression profile of sirtuin genes in the short-lived fish Nothobranchius furzeri, from embryogenesis to late adulthood, mapping its entire life cycle. Database exploration of the recently published N. furzeri genome revealed eight orthologues corresponding to the seven known mammalian sirtuins, including two copies of the sirt5 gene. Phylogenetic analysis showed high cross species similarity of individual sirtuins in both their overall amino acid sequence and catalytic domain, suggesting a high degree of functional conservation. Moreover, we show that N. furzeri sirtuins exhibit ubiquitous and wide tissue distribution with a unique spatial expression pattern for each individual member of this enzyme family. Specifically, we observed a transcriptional down-regulation of several sirtuin genes with age, most significantly sirt1, sirt5a, sirt6 and sirt7 in a wide range of functionally distinct tissues. Overall, this spatio-temporal expression analysis provides the foundation for future research, both into genetic and pharmacological manipulation of this important group of enzymes in Nothobranchius furzeri, an emerging model organism for aging research.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.1016/j.gep.2019.05.001"
+}

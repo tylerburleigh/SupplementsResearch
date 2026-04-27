@@ -1,0 +1,29 @@
+{
+  "id": "src-123",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://www.nature.com/articles/s41467-023-43514-6",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-20T21:05:04.066956+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-123.md",
+  "quality_details": {
+    "content_length": 66737,
+    "alpha_ratio": 0.764,
+    "sentence_count": 746,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

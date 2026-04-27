@@ -1,0 +1,22 @@
+{
+  "id": "src-352",
+  "title": "Curcumin: biochemistry, pharmacology, advanced drug delivery systems, and its epigenetic role in combating cancer",
+  "authors": [
+    "Smail, Shukur Wasman",
+    "Bergsten, Peter",
+    "Taha, Kalthum Othman",
+    "Yashooa, Raya Kh.",
+    "Hawezy, Dawan Jamal",
+    "Abbas, Muhamed Aydin",
+    "Shekha, Mudhir Sabir"
+  ],
+  "doi": "10.3389/fphar.2025.1695200",
+  "url": "https://openalex.org/W4416160762",
+  "provider": "openalex",
+  "year": 2025,
+  "venue": "Frontiers in Pharmacology",
+  "citation_count": 7,
+  "abstract": "Curcumin, the principal bioactive compound of <i>Curcuma longa</i> (turmeric), has received extensive scientific attention for its remarkable pharmacological and epigenetic activities, particularly in cancer prevention and therapy. This review provides a comprehensive overview of curcumin's biochemical, pharmacological, and molecular actions. Curcumin exerts potent antioxidant, anti-inflammatory, and anticancer effects by modulating multiple signaling pathways, including NF-κB, PI3K/Akt, and Wnt/<i>β</i>-catenin. Despite its broad therapeutic potential, curcumin's clinical application is limited by poor solubility, rapid metabolism, and low systemic bioavailability. To address these challenges, advanced nanotechnology-based drug delivery systems such as nanoparticles, liposomes, micelles, and polymeric carriers have been developed to enhance its solubility, stability, and targeted bioavailability. Importantly, curcumin demonstrates a multifaceted epigenetic influence that encompasses the inhibition of DNA methyltransferases leading to DNA demethylation and reactivation of silenced tumor-suppressor genes, modulation of histone acetylation and methylation balance to restore normal chromatin accessibility, regulation of non-coding RNAs such as microRNAs, lncRNAs, and circRNAs that control gene expression, and alteration of RNA methylation (m<sup>6</sup>A modification) through modulation of METTL3, FTO, and YTHDF proteins, which influence mRNA stability and translation efficiency. Collectively, these molecular and epigenetic effects reinforce curcumin's potential as a promising multi-target agent for cancer prevention and therapy. Further pharmacogenomic and clinical studies are essential to standardize curcumin formulations and translate these preclinical findings into effective therapeutic applications.",
+  "type": "academic",
+  "pdf_url": "https://public-pages-files-2025.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2025.1695200/pdf"
+}

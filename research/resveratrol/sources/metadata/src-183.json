@@ -1,0 +1,18 @@
+{
+  "id": "src-183",
+  "title": "Evidence of Clinical Efficacy and Pharmacological Mechanisms of Resveratrol in the Treatment of Alzheimer's Disease.",
+  "authors": [
+    "Jin, Sian",
+    "Guan, Xuefeng",
+    "Min, Dongyu"
+  ],
+  "doi": "10.2174/0115672050272577231120060909",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38047366",
+  "provider": "pubmed",
+  "year": 2023,
+  "venue": "Current Alzheimer research",
+  "citation_count": 0,
+  "abstract": "BACKGROUND: To evaluate the efficacy and pharmacological mechanisms of resveratrol in Alzheimer's disease (AD) patients.\nMETHODS: We conducted a thorough exploration of existing randomized controlled trials concerning the treatment of Alzheimer's disease patients using resveratrol, utilizing accessible open databases. Quantitative variables were represented as a standardized mean difference (SMD), accompanied by a 95% confidence interval (CI). Additionally, we examined the potential targets and plausible pathways associated with the impact of resveratrol on Alzheimer's disease using network pharmacology techniques.\nRESULTS: Our meta-analysis comprised five trials involving 271 AD patients, of whom 139 received resveratrol treatment and 132 received placebo treatment. Compared with placebo therapy, resveratrol treatment resulted in a significant improvement in Alzheimer's Disease Cooperative Study- Activities of Daily Living (ADAS-ADL) scores (SMD=0.51; 95% CI, 0.24 to 0.78) and cerebrospinal fluid (CSF) Aβ40 (SMD=0.84; 95% CI, 0.21 to 1.47) and plasma Aβ40 levels (SMD=0.43; 95% CI, 0.07 to 0.79). However, the improvement in the resveratrol-treated group compared with the placebo treatment group on the Mini-Mental State Examination (MMSE) score, CSF Aβ42 and plasma Aβ42 levels, and brain volume was not significant. There were no noteworthy statistical variances in the occurrence of adverse effects noted between the two groups. The outcomes of network pharmacology divulged that the principal enriched interaction pathway between resveratrol and Alzheimer's disease is primarily concentrated within the PI3K signaling pathways. Resveratrol's potential key targets for the treatment of AD include MAKP1, HRAS, EGFR, and MAPK2K1.\nCONCLUSION: While having a high safety profile, resveratrol has efficacy in AD patients to a certain extent, and more data are required to validate the efficacy of resveratrol for the treatment of AD in the future. Suppression of the PI3K signaling pathways could hold significant importance in the treatment of AD patients using resveratrol.",
+  "type": "academic",
+  "pdf_url": ""
+}

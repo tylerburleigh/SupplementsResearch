@@ -1,0 +1,18 @@
+{
+  "id": "src-095",
+  "title": "Autophagy as an essential cellular antioxidant pathway in neurodegenerative disease.",
+  "authors": [
+    "Giordano, Samantha",
+    "Darley-Usmar, Victor",
+    "Zhang, Jianhua"
+  ],
+  "doi": "10.1016/j.redox.2013.12.013",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/24494187",
+  "provider": "pubmed",
+  "year": 2014,
+  "venue": "Redox biology",
+  "citation_count": 0,
+  "abstract": "Oxidative stress including DNA damage, increased lipid and protein oxidation, are important features of aging and neurodegeneration suggesting that endogenous antioxidant protective pathways are inadequate or overwhelmed. Importantly, oxidative protein damage contributes to age-dependent accumulation of dysfunctional mitochondria or protein aggregates. In addition, environmental toxins such as rotenone and paraquat, which are risk factors for the pathogenesis of neurodegenerative diseases, also promote protein oxidation. The obvious approach of supplementing the primary antioxidant systems designed to suppress the initiation of oxidative stress has been tested in animal models and positive results were obtained. However, these findings have not been effectively translated to treating human patients, and clinical trials for antioxidant therapies using radical scavenging molecules such as α-tocopherol, ascorbate and coenzyme Q have met with limited success, highlighting several limitations to this approach. These could include: (1) radical scavenging antioxidants cannot reverse established damage to proteins and organelles; (2) radical scavenging antioxidants are oxidant specific, and can only be effective if the specific mechanism for neurodegeneration involves the reactive species to which they are targeted and (3) since reactive species play an important role in physiological signaling, suppression of endogenous oxidants maybe deleterious. Therefore, alternative approaches that can circumvent these limitations are needed. While not previously considered an antioxidant system we propose that the autophagy-lysosomal activities, may serve this essential function in neurodegenerative diseases by removing damaged or dysfunctional proteins and organelles.",
+  "type": "academic",
+  "pdf_url": ""
+}

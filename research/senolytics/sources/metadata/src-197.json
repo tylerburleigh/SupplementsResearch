@@ -1,0 +1,21 @@
+{
+  "id": "src-197",
+  "title": "Senolytic therapy increases replicative capacity by eliminating senescent endothelial cells.",
+  "authors": [
+    "Abdeahad, Hossein",
+    "Moreno, Denisse G",
+    "Bloom, Samuel I.",
+    "Huang, Hui",
+    "Lesniewski, L.",
+    "Donato, Anthony J."
+  ],
+  "doi": "10.1016/j.exger.2025.112885",
+  "url": "https://www.semanticscholar.org/paper/dbb14a2b7879716ba6867f80109772c73dfbdff1",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "Experimental Gerontology",
+  "citation_count": 1,
+  "abstract": "Aging is the greatest risk factor for cardiovascular diseases (CVD) and is characterized by inflammation, oxidative stress, and cellular senescence. Cellular senescence is a state of persistent cell cycle arrest triggered by stressors such as DNA damage and telomere attrition. Senescent endothelial cells (ECs) can impair vascular function and promote inflammation, thereby contributing to CVD progression. Senolytics, a class of drugs that selectively eliminate senescent cells, have been shown to remove senescent ECs, but their effects on the replicative capacity and genomic integrity of aged, endothelial cultures remain unclear. In this study, we treated replicative senescent human umbilical vein endothelial cells (HUVECs), used as a model of aged ECs, with Talabostat (10 μM), a novel senolytic, and Navitoclax, 1.0 μM). We hypothesized that senescent cell clearance would be associated with increased proliferative activity and reduced markers of senescence, DNA damage, and telomere dysfunction. Both compounds effectively reduced senescent cell burden, which was accompanied by an increase in cumulative population doublings. Talabostat treatment led to reductions in mean telomere length, DNA damage markers (53BP1), and telomere dysfunction-induced foci (TIFs), suggesting a possible link between increased proliferation and replication-associated telomere attrition. In contrast, Navitoclax treatment increased mitochondrial reactive oxygen species (mtROS) and maintained levels of DNA damage and telomere dysfunction comparable to the vehicle group. Overall, these findings indicate that both Navitoclax and Talabostat can reduce senescent EC burden and promote proliferation in aged EC cultures. Talabostat appears more effective, as it is associated with lower oxidative stress and improved genomic integrity. These results provide insight into how distinct senolytics differentially influence aging-related phenotypes in endothelial cells.",
+  "type": "academic",
+  "pdf_url": ""
+}

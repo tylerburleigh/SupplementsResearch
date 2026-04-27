@@ -1,0 +1,40 @@
+3	2	Review
+22	2	1 The initial epi-
+102	2	Methods
+194	2	57 Results from prospec-
+239	2	58 Second,
+249	2	59 Heterogeneity between the re-
+376	2	63 Baseline measurements of ho-
+407	2	Results
+701	2	Comment
+804	2	13 Homocysteine con-
+865	2	72 The concor-
+872	2	69 Results from
+924	2	References
+931	2	4. Boushey CJ, Beresford SA, Omenn GS, Motulsky
+950	2	9. Verhoef P, Hennekens CH, Malinow MR, Kok FJ,
+959	2	11. Arnesen E, Refsum H, Bonaa KH, Ueland PM,
+963	2	12. Perry IJ, Refsum H, Morris RW, Ebrahim SB, Ueland
+967	2	13. Evans RW, Shaten BJ, Hempel JD, Cutler JA, Kuller
+971	2	14. Ubbink JB, Fehily AM, Pickering J, Elwood PC, Ver-
+975	2	15. Stehouwer CD, Weijenberg MP, van den Berg M,
+989	2	17. Wald NJ, Watt HC, Law MR, Weir DG, McPartlin
+1000	2	20. Genest JJ Jr, McNamara JR, Salem DN, Wilson PW,
+1018	2	24. Lindgren A, Brattstrom L, Norrving B, Hultberg
+1045	2	31. Joubran R, Asmi M, Busjahn A, Vergopoulos A,
+1053	2	33. Coull BM, Malinow MR, Beamer N, Sexton G,
+1057	2	34. Dalery K, Lussier Cacan S, Selhub J, Davignon J,
+1067	2	37. Evers S, Koch HG, Grotemeyer KH, Lange B, Deu-
+1080	2	40. Dudman NP, Wilcken DE, Wang J, Lynch JF,
+1087	2	42. Andersson A, Isaksson A, Brattstrom L, Israels-
+1092	2	43. Landgren F, Israelsson B, Lindgren A, Hultberg B,
+1099	2	45. Montalescot G, Ankri A, Chadefaux Vekemans
+1118	2	50. Loehrer FM, Angst CP, Haefeli WE, Jordan PP, Ritz
+1123	2	51. Freyburger G, Labrouche S, Sassoust G, Rouanet
+1127	2	52. Petri M, Roubenoff R, Dallal GE, Nadeau MR, Sel-
+1135	2	54. Nygard O, Nordrehaug JE, Refsum H, Ueland PM,
+1145	2	56. Stehouwer CD, Gall MA, Hougaard P, Jakobs C,
+1172	2	63. United Kingdom Prospective Diabetes Study
+1181	2	65. Voutilainen S, Lakka TA, Hamelahti P, Lehtimaki
+1194	2	68. Ridker PM, Manson JE, Buring JE, Shih J, Matias
+1207	2	72. Klerk M, Verhoef P, Clarke R, Blom HJ, Kok FJ,

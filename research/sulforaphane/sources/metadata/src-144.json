@@ -1,0 +1,19 @@
+{
+  "id": "src-144",
+  "title": "Glucoraphanin and sulforaphane mitigate TNFα-induced Caco-2 monolayers permeabilization and inflammation.",
+  "authors": [
+    "Zhu, Wei",
+    "Cremonini, Eleonora",
+    "Mastaloudis, Angela",
+    "Oteiza, Patricia I"
+  ],
+  "doi": "10.1016/j.redox.2024.103359",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39298837",
+  "provider": "pubmed",
+  "year": 2024,
+  "venue": "Redox biology",
+  "citation_count": 0,
+  "abstract": "Intestinal permeabilization is central to the pathophysiology of chronic gut inflammation. This study investigated the efficacy of glucoraphanin (GR), prevalent in cruciferous vegetables, particularly broccoli, and its derivative sulforaphane (SF), in inhibiting tumor necrosis factor alpha (TNFα)-induced Caco-2 cell monolayers inflammation and permeabilization through the regulation of redox-sensitive events. TNFα binding to its receptor led to a rapid increase in oxidant production and subsequent elevation in the mRNA levels of NOX1, NOX4, and Duox2. GR and SF dose-dependently mitigated both these short- and long-term alterations in redox homeostasis. Downstream, GR and SF inhibited the activation of the redox-sensitive signaling cascades NF-κB (p65 and IKK) and MAPK ERK1/2, which contribute to inflammation and barrier permeabilization. GR (1 μM) and SF (0.5-1 μM) prevented TNFα-induced monolayer permeabilization and the associated reduction in the levels of the tight junction (TJ) proteins occludin and ZO-1. Both GR and SF also mitigated TNFα-induced increased mRNA levels of the myosin light chain kinase, which promotes TJ opening. Molecular docking suggests that although GR is mostly not absorbed, it could interact with extracellular and membrane sites in NOX1. Inhibition of NOX1 activity by GR would mitigate TNFα receptor downstream signaling and associated events. These findings support the concept that not only SF, but also GR, could exert systemic health benefits by protecting the intestinal barrier against inflammation-induced permeabilization, in part by regulating redox-sensitive pathways. GR has heretofore not been viewed as a biologically active molecule, but rather, the benign precursor of highly active SF. The consumption of GR and/or SF-rich vegetables or supplements in the diet may offer a means to mitigate the detrimental consequences of intestinal permeabilization, not only in disease states but also in conditions characterized by chronic inflammation of dietary and lifestyle origin.",
+  "type": "academic",
+  "pdf_url": ""
+}

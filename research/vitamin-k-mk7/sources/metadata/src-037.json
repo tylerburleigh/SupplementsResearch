@@ -1,0 +1,36 @@
+{
+  "id": "src-037",
+  "title": "Menaquinone-7 supplementation improves arterial stiffness in healthy postmenopausal women",
+  "authors": [
+    "Knapen, Marjo H. J.",
+    "Braam, Lavienja A. J. L. M.",
+    "Drummen, Nadja E.",
+    "Bekers, Otto",
+    "Hoeks, Arnold P. G.",
+    "Vermeer, Cees"
+  ],
+  "year": 2015,
+  "abstract": "SummaryObservational data suggest a link between menaquinone (MK, vitamin K2) intake and cardiovascular (CV) health. However, MK intervention trials with vascular endpoints are lacking. We investigated long-term effects of MK-7 (180 μg MenaQ7/day) supplementation on arterial stiffness in a double-blind, placebo-controlled trial. Healthy postmenopausal women (n=244) received either placebo (n=124) or MK-7 (n=120) for three years. Indices of local carotid stiffness (intimamedia thickness IMT, Diameter end-diastole and Distension) were measured by echotracking. Regional aortic stiffness (carotid-femoral and carotid-radial Pulse Wave Velocity, cfPWV and crPWV, respectively) was measured using mechanotransducers. Circulating desphospho-uncarboxylated matrix Gla-protein (dp-ucMGP) as well as acute phase markers Interleukin-6 (IL-6), high-sensitive C-reactive protein (hsCRP), tumour necrosis factor-α (TNF-α) and markers for endothelial dysfunction Vascular Cell Adhesion Molecule (VCAM), E-selectin, and Advanced Glycation Endproducts (AGEs) were measured. At baseline dp-ucMGP was associated with IMT, Diameter, cfPWV and with the mean z-scores of acute phase markers (APMscore) and of markers for endothelial dysfunction (EDFscore). After three year MK-7 supplementation cfPWV and the Stiffness Index β significantly decreased in the total group, whereas distension, compliance, distensibility, Young’s Modulus, and the local carotid PWV (cPWV) improved in women having a baseline Stiffness Index β above the median of 10.8. MK-7 decreased dp-ucMGP by 50 % compared to placebo, but did not influence the markers for acute phase and endothelial dysfunction. In conclusion, long-term use of MK-7 supplements improves arterial stiffness in healthy postmenopausal women, especially in women having a high arterial stiffness.",
+  "doi": "10.1160/th14-08-0675",
+  "url": "https://doi.org/10.1160/th14-08-0675",
+  "pdf_url": "",
+  "venue": "Thrombosis and Haemostasis",
+  "citation_count": 164,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T10:53:54.479024+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-037.md",
+  "quality_details": {
+    "content_length": 15967,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

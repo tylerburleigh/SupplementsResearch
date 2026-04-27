@@ -1,0 +1,46 @@
+{
+  "id": "src-085",
+  "title": "A cross-sectional study of functional and metabolic changes during aging through the lifespan in male mice",
+  "authors": [
+    "Petr, Michael A",
+    "Alfaras, Irene",
+    "Krawcyzk, Melissa",
+    "Bair, Woei-Nan",
+    "Mitchell, Sarah J",
+    "Morrell, Christopher H",
+    "Studenski, Stephanie A",
+    "Price, Nathan L",
+    "Fishbein, Kenneth W",
+    "Spencer, Richard G",
+    "Scheibye-Knudsen, Morten",
+    "Lakatta, Edward G",
+    "Ferrucci, Luigi",
+    "Aon, Miguel A",
+    "Bernier, Michel",
+    "de Cabo, Rafael"
+  ],
+  "year": 2021,
+  "abstract": "Aging is associated with distinct phenotypical, physiological, and functional changes, leading to disease and death. The progression of aging-related traits varies widely among individuals, influenced by their environment, lifestyle, and genetics. In this study, we conducted physiologic and functional tests cross-sectionally throughout the entire lifespan of male C57BL/6N mice. In parallel, metabolomics analyses in serum, brain, liver, heart, and skeletal muscle were also performed to identify signatures associated with frailty and age-dependent functional decline. Our findings indicate that declines in gait speed as a function of age and frailty are associated with a dramatic increase in the energetic cost of physical activity and decreases in working capacity. Aging and functional decline prompt organs to rewire their metabolism and substrate selection and toward redox-related pathways, mainly in liver and heart. Collectively, the data provide a framework to further understand and characterize processes of aging at the individual organism and organ levels.",
+  "doi": "10.7554/elife.62952",
+  "url": "https://doi.org/10.7554/elife.62952",
+  "pdf_url": "",
+  "venue": "eLife",
+  "citation_count": 84,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-19T11:49:07.750214+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-085.md",
+  "quality_details": {
+    "content_length": 95771,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

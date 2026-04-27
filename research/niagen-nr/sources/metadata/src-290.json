@@ -1,0 +1,23 @@
+{
+  "id": "src-290",
+  "title": "Nicotinamide phosphoribosyltransferase in NAD+ metabolism: physiological and pathophysiological implications",
+  "authors": [
+    "Zhang, Weijia",
+    "Ren, Haoyu",
+    "Chen, Wangwang",
+    "Hu, Bo",
+    "Feng, Chao",
+    "Li, Peishan",
+    "Shi, Yufang",
+    "Fang, Jiankai"
+  ],
+  "doi": "10.1038/s41420-025-02672-w",
+  "url": "https://openalex.org/W4413051653",
+  "provider": "openalex",
+  "year": 2025,
+  "venue": "Cell Death Discovery",
+  "citation_count": 13,
+  "abstract": "Nicotinamide adenine dinucleotide (NAD⁺) is a critical coenzyme involved in cellular metabolism, energy balance, and various physiological processes. Nicotinamide phosphoribosyltransferase (NAMPT) is a key rate-limiting enzyme in NAD⁺ synthesis, regulating the NAD⁺ regeneration pathway. This review summarizes the multiple roles of NAMPT in both physiological and pathological states, particularly in cellular stress, aging, metabolic disorders, and cancer. We first describe the central role of NAMPT in NAD⁺ synthesis and explore how NAD⁺ levels are regulated through NAMPT to control cellular functions and metabolic adaptation. Second, we analyze the pathological roles of NAMPT in aging and related diseases, highlighting how NAD⁺ depletion leads to mitochondrial dysfunction, DNA damage, and immune system dysregulation. Notably, NAMPT exacerbates cancer immune evasion mechanisms by influencing immune cell functions and the metabolic environment of tumors. We also discuss the potential of NAMPT as a therapeutic target, particularly through NAD⁺ precursor supplementation or the use of NAMPT activators and inhibitors to modulate NAD⁺ metabolism in aging, metabolic diseases, and cancer. Future research should focus on exploring the functional differences of NAMPT in various tissues and its therapeutic potential in disease treatment.",
+  "type": "academic",
+  "pdf_url": "https://www.nature.com/articles/s41420-025-02672-w.pdf"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "src-241",
+  "title": "Tolerance and Cross-Tolerance among Psychedelic and Nonpsychedelic 5-HT2A Receptor Agonists in Mice.",
+  "authors": [
+    "Revenga, Mario de la Fuente",
+    "Jaster, Alaina M.",
+    "McGinn, J.",
+    "Silva, Gabriella M.",
+    "Saha, Somdatta",
+    "González-Maeso, J."
+  ],
+  "doi": "10.1021/acschemneuro.2c00170",
+  "url": "https://www.semanticscholar.org/paper/07fcc8985cbd441d117cff7a184785be1025fb0f",
+  "provider": "semantic_scholar",
+  "year": 2022,
+  "venue": "ACS Chemical Neuroscience",
+  "citation_count": 44,
+  "abstract": "Classical psychedelics represent a subgroup of serotonergic psychoactive substances characterized by their distinct subjective effects on the human psyche. Another unique attribute of this drug class is that such effects become less apparent after repeated exposure within a short time span. The classification of psychedelics as a subgroup within the serotonergic drug family and the tolerance to their effects are replicated by the murine head twitch response (HTR) behavioral paradigm. Here, we aimed to assess tolerance and cross-tolerance to HTR elicited by psychedelic and nonpsychedelic serotonin 2A receptor (5-HT2AR) agonists in mice. We show that repeated (4 days) administration of the psychedelic 1-(2,5-dimethoxy-4-iodophenyl)-2-aminopropane (DOI) induced a progressive decrease in HTR behavior. Tolerance to DOI-induced HTR was also observed 24 h after a single administration of this psychedelic. Pretreatment with the 5-HT2AR antagonist M100907 reduced not only the acute manifestation of DOI-induced HTR, but also the development of tolerance to HTR. Additionally, cross-tolerance became apparent between the psychedelics DOI and lysergic acid diethylamide (LSD), whereas repeated administration of the nonpsychedelic 5-HT2AR agonist lisuride did not affect the ability of these two psychedelics to induce HTR. At the molecular level, DOI administration led to down-regulation of 5-HT2AR density in mouse frontal cortex membrane preparations. However, development of tolerance to the effect of DOI on HTR remained unchanged in β-arrestin-2 knockout mice. Together, these data suggest that tolerance to HTR induced by psychedelics involves activation of the 5-HT2AR, is not observable upon repeated administration of nonpsychedelic 5-HT2AR agonists, and occurs via a signaling mechanism independent of β-arrestin-2.",
+  "type": "academic",
+  "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10411500"
+}

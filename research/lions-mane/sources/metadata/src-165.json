@@ -1,0 +1,27 @@
+{
+  "id": "src-165",
+  "title": "A Novel Erinacine S Derivative from Hericium erinaceus Overcomes Chemoresistance in Colorectal Cancer Cells by Enhancing TRAIL/TNFR1/DR5 Expression through Histone Acetylation",
+  "authors": [
+    "Tung, S.",
+    "Lee, Kam-Fai",
+    "Hsieh, Y.",
+    "Cheng, Kung-Chuan",
+    "Lee, Ko-Chao",
+    "Lee, Li-Ya",
+    "Chen, Wan-Ping",
+    "Chen, Chin-Chu",
+    "Teng, Chih‐Chuan",
+    "Hsieh, Meng-Chiao",
+    "Huang, Cheng-Yi",
+    "Kuo, H."
+  ],
+  "doi": "10.7150/ijms.119894",
+  "url": "https://www.semanticscholar.org/paper/6b24fa1d56ef0490759ea8d9c99b21677488a1ab",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "International Journal of Medical Sciences",
+  "citation_count": 1,
+  "abstract": "Hericium erinaceus, renowned for its pharmaceutical potential, is particularly notable for its isolated diterpenoid derivative, erinacine S. Colorectal cancer (CRC) is one of the most prevalent cancers, characterized by CSC that contribute to chemoresistance and sustained tumor growth. While various drugs have been explored, the precise mechanism underlying multifaceted functions of erinacine S in inhibiting chemoresistant human CRC cells remains elusive. By using annexin-V/propidium iodide staining and a Fluo-3 fluorescence staining assay, the cell death and viability in cancer cells and an in vivo xenograft mouse model were measured by western blots and an immunohistochemical assay. This study unequivocally demonstrates that erinacine S treatment significantly induces apoptosis and suppresses the aggressiveness of chemoresistant human CRC cells. Erinacine S also exhibits remarkable inhibitory effects on tumor growth in an in vivo xenograft mouse model. Immunohistochemical analyses unveiled that erinacine S treatment significantly upregulates the expression of TRAIL, TNFR1, and DR5 proteins while downregulating p-AKT, p-ERK, HIF1α, PCNA, and NFκB levels in the xenograft mouse model of chemoresistant human CRC cells. Erinacine S treatment of HCT-116/FUR cells triggered the activation of extrinsic apoptosis pathways (TRAIL, TNFR1, DR5, and caspase-3) and exerted a time-dependent suppression on the expression of anti-apoptotic molecules like Bcl-2 in intrinsic pathway. The activation of the p-PAK/FAK/p300 pathways was intricately involved in erinacine S-induced transcriptional activation; this was evidenced by histone H3K9K14ac (Acetyl Lys9/Lys14) modifications in the promoters of TRAIL, TNFR1, and DR5. The inactivation of the CXCR4/PI3K/Akt/HIF-1 pathway played a pivotal role in mediating the capacity of erinacine S to inhibit chemoresistant CRC growth while enhancing tumor apoptosis. Thus, erinacine S demonstrates notable inhibitive effects, both in vitro and in vivo, through the inhibition of invasion, migration, and proliferation in human chemoresistant cell lines, and holds promise as a natural agent for clinical therapy of patients with CRC.",
+  "type": "academic",
+  "pdf_url": ""
+}

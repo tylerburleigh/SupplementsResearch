@@ -1,0 +1,29 @@
+{
+  "id": "src-007",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://blog.insidetracker.com/fisetin-senolytic-benefits-aging",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-24T12:44:09.349598+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-007.md",
+  "quality_details": {
+    "content_length": 8159,
+    "alpha_ratio": 0.785,
+    "sentence_count": 65,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+5	2	Introduction
+36	2	Review
+49	2	Usa
+52	2	Usa
+69	2	Summary
+84	2	Keywords
+122	2	Mechanisms Of Intestinal
+123	2	Iron Transport
+164	2	Regulation Of Intestinal
+165	2	Iron Absorption
+222	2	Exogenous And Endogenous
+223	2	Factors That Influence
+224	2	Iron Absorption
+319	2	Genetic Conditions Associated
+320	2	With Altered Iron Absorption
+384	2	Strategies Employed To
+385	2	Enhance The Efficacy Of Oral
+386	2	Iron Supplementation
+1010	2	136 Also, a recent study has evalu -
+1072	2	Conclusions And
+1073	2	Future Perspectives
+1091	2	Author Contributions
+1096	2	Ackno  Wle  Dge  Ments
+1106	2	Orcid
+1110	2	References
+1125	2	7. Stevens GA, Paciorek CJ, Flores-  Urrutia MC, Borghi E, Namaste
+1137	2	10. Oral iron for anemia: a review of the clinical effectiveness, cost-
+1142	2	12. Guideline: intermittent iron and folic acid supplementation in
+1154	2	15. Rusu IG, Suharoschi R, Vodnar DC, Pop CR, Socaci SA, Vulturar
+1158	2	16. Finlayson- Trick E, Nearing J, Fischer JA, Ma Y, Wang S, Krouen
+1163	2	17. Barraclough KA, Brown F, Hawley CM, Leary D, Noble E, Campbell
+1192	2	25. Biniwale P, Pal B, Sundari T, Mandrupkar G, Datar N, Khurana AS,
+1209	2	30. Stoffel NU, Zeder C, Brittenham GM, Moretti D, Zimmermann
+1213	2	31. Stoffel NU, Cercamondi CI, Brittenham G, Zeder C, Geurts-
+1226	2	35. White C, Yuan X, Schmidt PJ, Bresciani E, Samuel TK, Campagna
+1230	2	36. McKie AT, Barrow D, Latunde-  Dada GO, Rolfs A, Sager G, Mudaly
+1259	2	44. Mckie AT, Marciani P, Rolfs A, Brennan K, Wehr K, Barrow D,
+1266	2	46. Gunshin H, Allerson CR, Polycarpou-  Schwarz M, Rofts A, Rogers
+1272	2	48. Taylor M, Qu A, Anderson ER, Matsubara T, Martin A, Gonzalez
+1276	2	49. Nemeth E, Tuttle MS, Powelson J, Vaughn MB, Donovan A,
+1287	2	53. Ahmad Fuzi SF, Koller D, Bruggraber S, Pereira DL, Dainty JR,
+1297	2	56. Nicolas G, Chauvet C, Viatte L, Danan JL, Bigard X, Devaux I,
+1313	2	61. Gardenghi S, Ramos P, Follenzi A, Rao N, Rachmilewitz EA,
+1336	2	69. Silvestri L, Pagani A, Nai A, De Domenico I, Kaplan J, Camaschella
+1340	2	70. Beaumont C, Delaunay J, Hetet G, Grandchamp B, de Montalembert
+1356	2	74. Mims MP, Guan Y, Pospisilova D, Priwitzerova M, Indrak K,
+1365	2	77. Andersen CT, Marsden DM, Duggan CP, Liu E, Mozaffarian D,
+1370	2	78. Uyoga MA, Mikulic N, Paganini D, Mwasi E, Stoffel NU, Zeder C,
+1374	2	79. Moretti D, Goede JS, Zeder C, Jiskra M, Chatzinakou V, Tjalsma
+1389	2	82. Davidsson L, Kastenmayer P, Szajewska H, Hurrell RF, Barclay
+1457	2	104. Theil EC, Chen H, Miranda C, Janser H, Elsenhans B, Nunez MT,
+1471	2	108. Waheed A, Grubb JH, Zhou XY, Tomatsu S, Fleming RE, Costaldi
+1475	2	109. Connor JR, Unger EL, Keil RL, Flanagan J, Pattom SM, Lubach GR,
+1478	2	110. Latunde- Dada GO, Pereira DI, Tempest B, Ilyas H, Flynn AC, Aslam
+1482	2	111. Pereira DI, Bruggraber SF, Faria N, Poots LK, Tagmount MA, Aslam
+1486	2	112. Helman SL, Wilkins SJ, McKeating DR, Perkins AV, Cuffe JSM,
+1490	2	113. Pereira DIA, Mergler BI, Faria N, Bruggraber SFA, Aslam MF,
+1494	2	114. Mohammed NI, Wason J, Mendy T, Nass SA, Ofordile O, Camara
+1503	2	116. Nissenson AR, Berns JS, Sakiewicz P, Ghaddar S, Moore GM,
+1562	2	132. De Alvarenga Antunes CV, De Alvarenga Nascimento CR,
+1580	2	137. Jaeggi T, Kortman GA, Moretti D, Chassard C, Holding P, Dostal
+1584	2	138. Kontoghiorghes GJ, Kolnagou A, Demetriou T, Neocleous M,
+1593	2	140. Bokemeyer B, Krummenerl A, Maaser C, Howaldt S, Mross M,
+1598	2	141. Harvey RS, Reffitt DM, Doig LA, Meenan J, Ellis RD, Thompson RP,
+1601	2	142. Kelsey SM, Hider RC, Bloor JR, Blake DR, Gutteridge CN, Newland
+1605	2	143. Grillo AS, SantaMaria AM, Kafina MD, Cioffi AG, Huston NC,
+1613	2	145. Paganini D, Uyoga MA, Kortman GAM, Cercamondi CI, Winkler
+1623	2	Supporting Information

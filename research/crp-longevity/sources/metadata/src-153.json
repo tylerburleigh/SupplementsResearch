@@ -1,0 +1,34 @@
+{
+  "id": "src-153",
+  "title": "Immunotherapy for cardiovascular disease",
+  "authors": [
+    "Lutgens, Esther",
+    "Atzler, Dorothee",
+    "Döring, Yvonne",
+    "Duchene, Johan",
+    "Steffens, Sabine",
+    "Weber, Christian"
+  ],
+  "year": 2019,
+  "abstract": "Abstract\nThe outcomes of the Canakinumab Anti-inflammatory Thrombosis Outcome Study (CANTOS) trial have unequivocally proven that inflammation is a key driver of atherosclerosis and that targeting inflammation, in this case by using an anti-interleukin-1β antibody, improves cardiovascular disease (CVD) outcomes. This is especially true for CVD patients with a pro-inflammatory constitution. Although CANTOS has epitomized the importance of targeting inflammation in atherosclerosis, treatment with canakinumab did not improve CVD mortality, and caused an increase in infections. Therefore, the identification of novel drug targets and development of novel therapeutics that block atherosclerosis-specific inflammatory pathways and exhibit limited immune-suppressive side effects, as pursued in our collaborative research centre, are required to optimize immunotherapy for CVD. In this review, we will highlight the potential of novel immunotherapeutic targets that are currently considered to become a future treatment for CVD.",
+  "doi": "10.1093/eurheartj/ehz283",
+  "url": "https://doi.org/10.1093/eurheartj/ehz283",
+  "pdf_url": "",
+  "venue": "European Heart Journal",
+  "citation_count": 180,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-24T01:14:37.400656+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-153.md",
+  "quality_details": {
+    "content_length": 88138,
+    "alpha_ratio": 0.746,
+    "sentence_count": 700,
+    "reasons": []
+  }
+}

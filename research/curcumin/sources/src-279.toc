@@ -1,0 +1,62 @@
+575	2	Conclusion
+641	2	References
+642	2	1 B ray F, Ren JS, M asuyer E and Ferlay J: Global estimates of
+645	2	2 C oghlin C  and M urray GI: C urrent and emerging concepts in
+647	2	3 B rooks SA , Lomax-B rowne H J, C arter TM , K inch C E and H all
+650	2	4 H elbig G, C hristopherson K W, B hat-Nakshatri P, K umar S,
+660	2	6 Gupta SC , Patchva S, K oh W and A ggarwal B B : D iscovery of
+663	2	7 Lee WH , B ebawy M , Loo C Y, Luk F, M ason RS and Rohanizadeh
+666	2	8 Lee WH , Loo C Y, B ebawy M , Luk F, M ason RS and
+670	2	9 Lee WH , Loo C Y, Young PM , Rohanizadeh R and Traini D :
+674	2	10 Lee WH , Loo C Y, Young PM , Traini D , M ason RS and
+677	2	11 Zong H , Wang F, Fan QX and Wang LX: C urcumin inhibits
+681	2	12 H assan ZK  and D aghestani M H : C urcumin Effect on M M Ps and
+684	2	13 Lin SS, Lai K C , H su SC , Yang JS, K uo C L, Lin JP, M a YS, Wu
+689	2	14 K im JM , Noh EM , K won K B , K im JS, You YO , H wang JK ,
+694	2	15 Wang SJ, Yu SJ, Shi W, Ge L, Yu X, Fan JH  and Zhang JN:
+699	2	16 Yang C L, Liu YY, M a YG, Xue YX, Liu D G, Ren Y, Liu XB , Li
+704	2	17 Shishodia S: M olecular mechanisms of curcumin action: Gene
+713	2	21 Verma IM , Stevenson JK , Schwarz EM , Vanantwerp D  and
+716	2	22 Nelson D E, Ihekwaba A EC , Elliott M , Johnson JR, Gibney C A ,
+722	2	23 B aldwin A S: C ontrol of oncogenesis and cancer therapy
+725	2	24 K unnumakkara A B , A nand P and A ggarwal B B : C urcumin
+729	2	25 B achmeier B E, M ohrenz IV, M irisola V, Schleicher E, Romeo F,
+733	2	26 K illian PH , K ronski E, M ichalik K M , B arbieri O , A stigiano S,
+738	2	27 Singh S and A ggarwal B B : A ctivation of Transcription Factor Nf-
+741	2	28 A ngel P, H attori K , Smeal T and K arin M : The Jun Proto-
+744	2	29 Park J and C onteas C N: A nti-carcinogenic properties of curcumin
+747	2	30 Wang XF, Wang QD , Ives K L and Evers B M : C urcumin inhibits
+751	2	31 H uang SY: Regulation of M etastases by signal transducer and
+754	2	32 Lu H T, O uyang WM  and H uang C S: Inflammation, a key event
+756	2	33 Rollins B J: Inflammatory chemokines in cancer growth and
+758	2	34 Strieter RM , Polverini PJ, K unkel SL, A renberg D A , B urdick
+763	2	35 Youngs SJ, A li SA , Taub D D  and Rees RC : C hemokines induce
+766	2	36 Freund A , C hauveau C , B rouillet JP, Lucas A , Lacroix M ,
+773	2	38 Li L, B raiteh FS and K urzrock R: Liposome-encapsulated
+776	2	39 C hirco R, Liu XW, Jung K K  and K im H RC : Novel functions of
+781	2	40 M ylona E, M agkou C , Giannopoulou I, A grogiannis G, M arkaki
+786	2	41 Lee SO , Jeong YJ, K im M , K im C H  and Lee IS: Suppression of
+790	2	42 Shao ZM , Shen ZZ, Liu C H , Sartippour M R, Go VL, H eber D
+793	2	43 GomisRuth FX, M askos K , B etz M , B ergner A , H uber R, Suzuki
+798	2	44 Farhangi B , A lizadeh A M , K hodayari H , K hodayari S, D ehghan
+802	2	45 C hen QY, Zheng Y, Jiao D M , C hend FY, H u H Z, Wu YQ, Song
+806	2	46 Sun K , D uan XY, C ai H , Liu XH , Yang Y, Li M , Zhang XY and
+810	2	47 C heng TS, C hen WC , Lin YY, Tsai C H , Liao C I, Shyu H Y, K o
+815	2	48 C ox B D , Natarajan M , Stettner M R and Gladson C L: New
+818	2	49 C hen C C , Sureshbabul M , C hen H W, Lin YS, Lee JY, H ong QS,
+822	2	50 Leu TH , Su SL, C huang YC  and M aa M C : D irect inhibitory
+825	2	51 M udduluru G, Gerge-William JN, M uppala S, A sangani IA ,
+829	2	52 Tili E, M ichaille JJ and C roce C M : M icroRNA s play a central
+832	2	53 K ronski E, Fiori M E, B arbieri O , A stigiano S, M irisola V, K illian
+839	2	54 C hen H W, Lee JY, H uang JY, Wang C C , C hen WJ, Su SF, H uang
+843	2	55 D uarte VM , H an E, Veena M S, Salvado A , Suh JD , Liang LJ,
+848	2	56 LoTempio M M , Veena M S, Steele H L, Ramamurthy B ,
+852	2	57 Yin H T, Guo R, Xu Y, Zheng YL, H ou ZB , D ai XZ, Zhang ZD ,
+856	2	58 Shakibaei M , K raehe P, Popper B , Shayan P, Goel A and
+860	2	59 Pianetti S, A rsura M , Romieu-M ourez R, C offey RJ and
+865	2	60 A ggarwal B B , Shishodia S, Takada Y, B anerjee S, Newman RA ,
+870	2	61 B ayet-Robert M , K wiatkowski F, Leheurteur M , Gachon F,
+875	2	62 C heng A L, H su C H , Lin JK , H su M M , H o YF, Shen TS, K o JY,
+881	2	63 D hillon N, A ggarwal B B , Newman RA , Wolf RA ,
+885	2	64 Yan L: D ietary supplementation with curcumin enhances
+888	2	65 Yan L, Yee JA and C ao J: C urcumin Reduces Trabecular and

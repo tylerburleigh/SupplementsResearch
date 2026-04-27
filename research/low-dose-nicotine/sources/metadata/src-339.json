@@ -1,0 +1,21 @@
+{
+  "id": "src-339",
+  "title": "GSDME-N-induced mitochondrial neurotoxicity in early neurodegeneration was suppressed by nicotine via enhancing autophagic flux",
+  "authors": [
+    "Zhao, Junjun",
+    "Qiu, S.",
+    "Guo, Angyang",
+    "Huang, Haixia",
+    "Wang, Wei",
+    "Zhang, Jianliang"
+  ],
+  "doi": "10.1186/s12967-025-07247-y",
+  "url": "https://www.semanticscholar.org/paper/bc9aedbebf31af8c8977d1c4a677df2faf8963f4",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "Journal of Translational Medicine",
+  "citation_count": 1,
+  "abstract": "Neurodegeneration is a chronic, progressive process initiated by early neurite retraction, a pathological hallmark preceding neuronal death in neurodegenerative disorders such as Parkinson’s disease (PD). Cleavage of gasdermin E (GSDME) releases its N-terminal domain (GSDME-N), which has been shown to mediate mitochondrial dysfunction and the onset of neurodegeneration. However, the therapeutic potential of targeting GSDME-N for early intervention in PD, and whether nicotine, a tobacco component with neuroprotective properties, acts through GSDME modulation remain unexplored. The SH-SY5Y cells, primary neurons and C57BL mice were treated with rotenone to model neurodegeneration in PD. Mitochondrial accumulation of GSDME-N and activation of autophagy were assessed via immunoblotting and immunostaining. Mitochondrial membrane potential was evaluated using JC-1 and TMRM fluorescent dyes, while mitochondrial reactive oxygen species were detected with MitoSOX™ Red superoxide indicator. For morphological analysis, immunofluorescence staining was performed using antibodies against microtubule-associated protein 2 (MAP2) to visualize neurites, along with MitoTracker to label mitochondria within neurites. In vivo, C57BL/6 mice were administered rotenone and provided with nicotine supplementation in their drinking water. Motor function was assessed using rotarod, hanging wire and pole tests. Tyrosine hydroxylase (TH)-positive neurons and fibers were detected using immunohistochemistry. We demonstrated that GSDME-N accumulation on mitochondria during early neurodegeneration was suppressed by nicotine, thereby maintaining mitochondrial homeostasis and preventing neurite retraction. Mechanistically, nicotine activated autophagic pathway to promote GSDME-N clearance, which maintained mitochondrial membrane potential, reduced reactive oxygen species (ROS) production, and specifically rescued mitochondrial function. This protective mechanism significantly attenuated early pathological changes, including neurite retraction and loss. In a rotenone-induced PD model, nicotine treatment effectively reduced GSDME-N accumulation and decelerated neurodegenerative progression. These findings reveal the critical role of GSDME-N in early-stage mitochondrial damage in PD and propose a novel therapeutic strategy targeting the nicotine-autophagy axis to counteract GSDME-N-mediated neurodegeneration.",
+  "type": "academic",
+  "pdf_url": ""
+}

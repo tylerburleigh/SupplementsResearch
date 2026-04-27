@@ -1,0 +1,35 @@
+{
+  "id": "src-064",
+  "title": "Repeat dose NRPT (nicotinamide riboside and pterostilbene) increases NAD+ levels in humans safely and sustainably: a randomized, double-blind, placebo-controlled study",
+  "authors": [
+    "Dellinger, Ryan W.",
+    "Santos, Santiago Roel",
+    "Morris, Mark",
+    "Evans, Mal",
+    "Alminana, Dan",
+    "Guarente, Leonard",
+    "Marcotulli, Eric"
+  ],
+  "year": 2017,
+  "abstract": "AbstractNRPT is a combination of nicotinamide riboside (NR), a nicotinamide adenine dinucleotide (NAD+) precursor vitamin found in milk, and pterostilbene (PT), a polyphenol found in blueberries. Here, we report this first-in-humans clinical trial designed to assess the safety and efficacy of a repeat dose of NRPT (commercially known as Basis). NRPT was evaluated in a randomized, double-blind, and placebo-controlled study in a population of 120 healthy adults between the ages of 60 and 80 years. The study consisted of three treatment arms: placebo, recommended dose of NRPT (NRPT 1X), and double dose of NRPT (NRPT 2X). All subjects took their blinded supplement daily for eight weeks. Analysis of NAD+ in whole blood demonstrated that NRPT significantly increases the concentration of NAD+ in a dose-dependent manner. NAD+ levels increased by approximately 40% in the NRPT 1X group and approximately 90% in the NRPT 2X group after 4 weeks as compared to placebo and baseline. Furthermore, this significant increase in NAD+ levels was sustained throughout the entire 8-week trial. NAD+ levels did not increase for the placebo group during the trial. No serious adverse events were reported in this study. This study shows that a repeat dose of NRPT is a safe and effective way to increase NAD+ levels sustainably.",
+  "doi": "10.1038/s41514-017-0016-9",
+  "url": "https://doi.org/10.1038/s41514-017-0016-9",
+  "pdf_url": "",
+  "venue": "npj Aging and Mechanisms of Disease",
+  "citation_count": 164,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-20T20:26:36.181962+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-064.md",
+  "quality_details": {
+    "content_length": 53349,
+    "alpha_ratio": 0.725,
+    "sentence_count": 610,
+    "reasons": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "src-227",
+  "title": "Depletion of SASP senescent cardiomyocytes with senolytic drugs confers therapeutic effects in doxorubicin‐related cardiotoxicity",
+  "authors": [
+    "Xia, Wenzheng",
+    "Chen, Hanbin",
+    "Yang, Han",
+    "Zhu, Liaoxiang",
+    "Xie, Congying",
+    "Hou, Meng"
+  ],
+  "doi": "10.1111/febs.17164",
+  "url": "https://www.semanticscholar.org/paper/5df861f50718923cc53c36ae6a69001bc7a273d8",
+  "provider": "semantic_scholar",
+  "year": 2024,
+  "venue": "The FEBS Journal",
+  "citation_count": 10,
+  "abstract": "Doxorubicin (Dox), an anthracycline antibiotic, is widely used in cancer treatment. Although its antitumor efficacy appears significant, its clinical use is greatly restricted by its induction of cardiotoxicity. Cardiac senescence drives the Dox‐induced cardiotoxicity, but whether diminishing these senescent cardiomyocytes could alleviate the cardiotoxicity remains unclear. Here, we assessed whether senescent cardiomyocytes have a senescence‐associated secretory phenotype (SASP) that affects healthy non‐senescent cardiomyocytes, rendering them senescent via the delivery of exosomes. Additionally, we explored whether targeting SASP senescent cardiomyocytes using a Bcl‐2 inhibitor could alleviate cardiotoxicity. Cardiac damage was induced in a mouse model of continuous Dox treatment in vivo, and cardiomyocytes in vitro. Immunofluorescence of the senescence markers of Cdkn2a, Cdkn1a and γ‐H2A.X was used to assess the SASP in the Dox‐treated heart. To explore the molecular mechanisms involved, the Bcl‐2 inhibitor ABT‐199 was employed to eliminate SASP senescent cardiomyocytes. We show that the cardiomyocytes acquire a SASP during Dox treatment. The senescent cardiomyocytes upregulated Bcl‐2, although treatment of mice with ABT‐199 selectively eliminated SASP senescent cardiomyocytes involved in Dox‐induced cardiotoxicity, thus leading to partial alleviation of Dox‐induced cardiotoxicity. Moreover, we concluded that SASP factors secreted by senescent cardiomyocytes induced by Dox renders otherwise healthy cardiomyocytes senescent through exosome delivery. Our findings suggest that SASP senescent cardiomyocytes are a significant component of the pathogenesis of Dox‐dependent cardiotoxicity and indicate that targeting the clearance of SASP senescent cardiomyocytes could be a new therapeutic approach for Dox‐induced cardiac injury.",
+  "type": "academic",
+  "pdf_url": ""
+}

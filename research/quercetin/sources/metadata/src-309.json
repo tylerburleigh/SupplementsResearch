@@ -1,0 +1,23 @@
+{
+  "id": "src-309",
+  "title": "Quercetin protected the gut barrier in ulcerative colitis by activating aryl hydrocarbon receptor.",
+  "authors": [
+    "Wei, Qiuzhu",
+    "Jiang, Haixu",
+    "Zeng, Jia",
+    "Xu, Jie",
+    "Zhang, Honglin",
+    "Xiao, Enfan",
+    "Lu, Qingyi",
+    "Huang, Guangrui"
+  ],
+  "doi": "10.1016/j.phymed.2025.156633",
+  "url": "https://www.semanticscholar.org/paper/e88a822bfe2457246b685f39ccee00dba47674f3",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "Phytomedicine",
+  "citation_count": 25,
+  "abstract": "BACKGROUND\nUlcerative colitis (UC) is characterized by abdominal pain and bloody diarrhoea and restoring the gut barrier is the core goal of UC treatment. Activation of aryl hydrocarbon receptor (Ahr) was reported to effectively alleviate symptoms and repair the gut barrier damage. Neutrophil extracellular traps (NETs) have been recognized as potential targets in the treatment of UC. Ahr activation has been found to be capable of upregulating Nqo1, thereby reducing the production of reactive oxygen species (ROS), which is important in the formation of NETs. Quercetin (QUE), which is derived from natural plants and herbs used in traditional Chinese medicine (TCM), is able to strengthen gut barrier function by activating Ahr.\n\nPURPOSE\nThe aim of this study is to investigate how QUE suppresses NETs in UC and activates Ahr in neutrophils.\n\nMETHODS\nIn this study, the dextran sulfate sodium (DSS)-induced UC model was used. Histopathological assessments were performed in the paraffin slides of tissues after H&E, PAS, Masson and alcian blue staining. The concentration of cytokines was also detected using cytometric beads array kits. Based on the transcriptomic analysis of colon tissues, western blot (WB) analysis, immunohistochemistry (IHC) assays and immunofluorescence (IF) assays were conducted to validate the significantly regulated genes and pathways. In vitro, the binding of quercetin to Ahr was calculated by molecular dynamic simulations (MDS) and biolayer interferometry (BLI) analysis. Primary neutrophils isolated from mice were cocultured with LPS or PMA with or without quercetin. The regulated genes were detected using WB, real-time quantitative PCR, enzyme-linked immunosorbent assay (ELISA) and IF analysis. The agonists and antagonist of Ahr were used as the control.\n\nRESULTS\nAfter the administration of quercetin, colon inflammation and gut barrier disruption was significantly prevented through inhibiting the NF-κB pathway and upregulating the expression of Ahr/Arnt and Nqo1. The transcriptomic analysis and IHC assays showed that inflammation and NETs were greatly decreased by QUE treatment. In vitro, quercetin inhibited LPS-induced inflammatory responses through NF-κB pathway. Furthermore, MDS and BLI analysis revealed that QUE is an agonist of AHR. QUE activated Ahr translocation and reduced ROS production via regulation of Arnt and Nqo1.\n\nCONCLUSION\nThis study proved that quercetin greatly improved gut barrier function in the DSS-induced colitis model by regulating NET formation and that quercetin was able to activate Ahr and upregulate Arnt in neutrophils to regulate NET formation.",
+  "type": "academic",
+  "pdf_url": ""
+}

@@ -1,0 +1,35 @@
+{
+  "id": "src-196",
+  "title": "The Role of Creatine Supplementation in Cardiovascular Health: A Comprehensive Review",
+  "authors": [
+    "Owczarska, Aleksandra",
+    "Dołęga, Julia",
+    "Mól, Piotr",
+    "Dacyl, Hubert",
+    "Laskowska, Martyna",
+    "Pasiut, Michał",
+    "Lew, Barbara"
+  ],
+  "year": 2025,
+  "abstract": "Background\nCreatine is a compound synthesized in the human body, but it can also be obtained from food sources. Research demonstrates that creatine supplementation is safe, provides long-term benefits, and has therapeutic potential.\nAim\nThis study aims to present current knowledge regarding the role of creatine in the human body, with a particular focus on the effects of creatine supplementation on the cardiovascular system.\nMaterials and Methods\nA comprehensive literature review was conducted across PubMed, Google Scholar, and relevant academic texts. Keywords included \"creatine,\" \"supplementation,\" \"cardiovascular diseases,\" and \"heart failure.\"\nResults\nIn the human body, creatine is transported through the bloodstream and absorbed by energy-demanding cells. It supports muscle recovery and increases lean body mass, making it beneficial in tendon injury rehabilitation. Regarding cardiovascular health, some studies suggest that creatine supplementation lowers systolic blood pressure, enhances microcirculation, reduces homocysteine levels, and decreases inflammation by inhibiting markers like TNF-α and CRP. However, other studies indicate minimal impact on blood flow, lipid profiles, and hemodynamic parameters.\nConclusions\nCreatine exhibits wide-ranging properties, positioning it as a strong candidate for further research and a potential therapeutic agent, though further research is needed to clarify its cardiovascular effects.",
+  "doi": "10.12775/qs.2025.46.66477",
+  "url": "https://doi.org/10.12775/qs.2025.46.66477",
+  "pdf_url": "",
+  "venue": "Quality in Sport",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T14:06:42.842744+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-196.md",
+  "quality_details": {
+    "content_length": 56718,
+    "alpha_ratio": 0.738,
+    "sentence_count": 619,
+    "reasons": []
+  }
+}

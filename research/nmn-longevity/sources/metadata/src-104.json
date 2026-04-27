@@ -1,0 +1,23 @@
+{
+  "id": "src-104",
+  "title": "Nicotinamide Mononucleotide Ameliorates Sleep Deprivation-Induced Gut Microbiota Dysbiosis and Restores Colonization Resistance against Intestinal Infections.",
+  "authors": [
+    "Fang, Dan",
+    "Xu, Tianqi",
+    "Sun, Jingyi",
+    "Shi, Jingru",
+    "Li, Fulei",
+    "Yin, Yanqing",
+    "Wang, Zhiqiang",
+    "Liu, Yuan"
+  ],
+  "doi": "10.1002/advs.202207170",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36698264",
+  "provider": "pubmed",
+  "year": 2023,
+  "venue": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+  "citation_count": 0,
+  "abstract": "Gut microbiota-mediated colonization resistance (CR) is crucial in protecting the host from intestinal infections. Sleep deprivation (SD) is an important contributor in the disturbances of intestinal homeostasis. However, whether and how SD affects host CR remains largely unknown. Here, it is shown that SD impairs intestinal CR in mice, whereas nicotinamide mononucleotide (NMN) supplementation restores it. Microbial diversity and metabolomic analyses suggest that gut microbiota and metabolite profiles in SD-treated mice are highly shaped, whereas NMN reprograms these differences. Specifically, the altered gut microbiota in SD mice further incurs the disorder of secondary bile acids pool accompanied by a decrease in deoxycholic acid (DCA). Conversely, NMN supplementation retakes the potential benefits of DCA, which is associated with specific gut microbiota involved in primary bile acids metabolic flux. In animal models of infection, DCA is effective in preventing and treating bacterial infections when used alone or in combination with antibiotics. Mechanistically, DCA alone disrupts membrane permeability and aggravates oxidative damage, thereby reducing intestinal pathogen burden. Meanwhile, exogenous DCA promotes antibiotic accumulation and destroys oxidant-antioxidant system, thus potentiating antibiotic efficacy. Overall, this work highlights the important roles of gut microbiota and bile acid metabolism in the maintenance of intestinal CR.",
+  "type": "academic",
+  "pdf_url": ""
+}

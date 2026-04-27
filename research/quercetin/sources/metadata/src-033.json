@@ -1,0 +1,25 @@
+{
+  "id": "src-033",
+  "title": "Effect of quercetin supplementation on plasma lipid profiles, blood pressure, and glucose levels: a systematic review and meta-analysis",
+  "authors": [
+    "Huang, Haohai",
+    "Liao, Dan",
+    "Dong, Yong",
+    "Pu, Rong"
+  ],
+  "year": 2020,
+  "abstract": "Abstract\n\nContext\nClinical trials examining the cardiovascular protective effects of quercetin in humans have reported conflicting results.\n\nObjective\nThe aim of this systematic review was to summarize evidence of the effects of quercetin supplementation on plasma lipid profiles, blood pressure (BP), and glucose levels in humans by performing a meta-analysis of randomized controlled trials.\n\nData Sources\nMEDLINE, Embase, and Scopus databases were searched electronically from their inception to July 2018 to identify randomized controlled trials that assessed the impact of quercetin on lipid profiles, BP, and glucose levels.\n\nStudy Selection\nRandomized controlled trials assessing the effects of quercetin or a standardized quercetin-enriched extract on plasma lipid profiles, BP, and glucose levels in humans were eligible for inclusion.\n\nData Extraction\nA random-effects model was used for data analysis. Continuous variables were expressed as weighted mean differences (WMDs) and 95%CIs. Subgroup analyses were conducted to explore possible influences of study characteristics. Sensitivity analyses were also performed, as were analyses of publication bias.\n\nResults\nSeventeen trials (n = 896 participants total) were included in the overall analysis. Pooled results showed that quercetin significantly lowered both systolic BP (WMD, −3.09 mmHg; 95%CI, −4.59 to −1.59; P = 0.0001) and diastolic BP (WMD, −2.86 mmHg; 95%CI, −5.09 to −0.63; P = 0.01). Neither lipid profiles nor glucose concentrations changed significantly. In subgroup analyses, significant changes in high-density lipoprotein cholesterol and triglycerides were observed in trials with a parallel design and in which participants consumed quercetin for 8 weeks or more.\n\nConclusion\nQuercetin intake resulted in significantly decreased BP in humans. Moreover, participants who consumed quercetin for 8 weeks or more showed significantly changed levels of high-density lipoprotein cholesterol and triglycerides in trials with a parallel design.",
+  "doi": "10.1093/nutrit/nuz071",
+  "url": "https://doi.org/10.1093/nutrit/nuz071",
+  "pdf_url": "",
+  "venue": "Nutrition Reviews",
+  "citation_count": 95,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-22T18:16:33.364591+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok"
+}

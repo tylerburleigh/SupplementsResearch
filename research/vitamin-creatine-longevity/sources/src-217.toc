@@ -1,0 +1,24 @@
+5	2	Study Protocol
+11	2	Abstract
+42	2	1 Department of Dietetics and Nutrition, University of Kansas Medical
+46	2	3 Department of Neurology, University of Kansas Medical Center, Kansas
+48	2	4 Hoglund Biomedical Imaging Center, University of Kansas Medical
+50	2	5 Department of Radiology, University of Kansas Medical Center, Kansas
+52	2	6 Department of Health, Sport, and Exercise Sciences, University of Kansas,
+54	2	7 Department of Cell Biology and Physiology, University of Kansas Medical
+56	2	8 Department of Biochemistry and Molecular Biology, University of Kansas
+60	2	Introduction
+429	2	Data Analysis
+486	2	Discussion
+571	2	Competing Interests
+585	2	References
+589	2	2. Cummings J, Lee G, Nahed P , Kambar M, Zhong K, Fonseca J, Taghva
+592	2	3. Swanson CJ, Zhang Y, Dhadda S, Wang J, Kaplow J, Lai RYK, Lannfelt
+597	2	4. Sevigny J, Chiao P , Bussiere T, Weinreb PH, Williams L, Maier M, Dunstan R,
+642	2	15. Kreider RB, Kalman DS, Antonio J, Ziegenfuss TN, Wildman R, Collins R,
+651	2	17. Lyoo IK, Kong SW, Sung SM, Hirashima F, Parow A, Hennen J, Cohen
+659	2	19. Solis MY, Artioli GG, Otaduy MCG, Leite CDC, Arruda W, Veiga RR,
+668	2	21. Wilkinson ID, Mitchel N, Breivik S, Greenwood P , Griffiths PD, Winter EM,
+692	2	27. Thabane L, Ma J, Chu R, Cheng J, Ismaila A, Rios LP , Robson R, Thabane
+696	2	28. McKhann GM, Knopman DS, Chertkow H, Hyman BT, Jack CR Jr, Kawas
+714	2	32. Wilkins HM, Harris JL, Carl SM, E L, Lu J, Eva Selfridge J, Roy N, Hutfles

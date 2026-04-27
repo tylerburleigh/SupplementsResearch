@@ -1,0 +1,17 @@
+{
+  "id": "src-084",
+  "title": "The double-edged sword of nutraceuticals: comprehensive review of protective agents and their hidden risks",
+  "authors": [
+    "Ashrafpour, Manouchehr",
+    "Ashrafpour, Manouchehr"
+  ],
+  "doi": "10.3389/fnut.2025.1524627",
+  "url": "https://openalex.org/W4408897235",
+  "provider": "openalex",
+  "year": 2025,
+  "venue": "Frontiers in Nutrition",
+  "citation_count": 22,
+  "abstract": "Nutraceuticals-including resveratrol (RSV), curcumin (CUR), piperine (PPR), and quercetin (QUE)-exhibit dual therapeutic and toxicological profiles, are necessitating balanced risk-benefit evaluation. This review synthesizes evidence from about 120 preclinical/clinical studies sourced from PubMed, Scopus, and Web of Science using keywords (e.g., nutraceutical-drug interactions, bioavailability, CYP/P-gp modulation), prioritizing recent advances (2015-2024) alongside seminal works to contextualize mechanisms. Studies were selected based on methodological rigor, clinical relevance, and mechanistic insights into protective effects (antioxidant, anti-inflammatory, anticancer) and risks (organ toxicity, pro-oxidant activity, drug interactions). Key findings highlight PPR's bioavailability-enhancing and neuroprotective properties, yet its inhibition of CYP3A4/P-gp elevates toxicity risks for carbamazepine (68.7% ↑ plasma concentration) and warfarin. CUR demonstrates hepatoprotective benefits but alters cardiovascular drug pharmacokinetics (e.g., amlodipine) and induces oxidative stress at high doses. RSV and QUE improve cardiovascular/neurological outcomes but interact with chemotherapeutics (RSV ↓ drug resistance via apoptosis; QUE ↑ methotrexate efficacy via anti-inflammatory synergy). Critical risks include reproductive toxicity (PPR >10 mg/kg), neurocognitive deficits (high-dose CUR), and CYP3A4-mediated interactions (QUE + cyclosporine). Nanotechnology-driven formulations (e.g., CUR/PPR nanoemulsions) mitigate risks by enhancing stability and enabling targeted delivery, though rigorous safety validation remains essential. This review underscores the need for evidence-based guidelines to optimize nutraceutical use in polypharmacy populations, emphasizing interdisciplinary collaboration to manage interactions. Innovations like nanoencapsulation could transition nutraceuticals from supplements to precision medicine adjuvants, pending resolution of dose-response ambiguities and long-term safety gaps through targeted research.",
+  "type": "academic",
+  "pdf_url": "https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2025.1524627/pdf"
+}

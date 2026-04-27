@@ -1,0 +1,26 @@
+{
+  "id": "src-126",
+  "title": "Gender-Specific and U-Shaped Relationship Between Serum Uric Acid and All-Cause Mortality Among Chinese Older Adults: A National Population-Based Longitudinal Study",
+  "authors": [
+    "Dong, Yinqiao",
+    "Wang, Zhiqiang",
+    "Wang, Suping",
+    "Chang, Ruijie",
+    "Liu, Yujie",
+    "Wang, Rongxi",
+    "Chen, Hui",
+    "Liu, Shangbin",
+    "Qian, Changlin",
+    "Cai, Yong",
+    "Hu, Fan"
+  ],
+  "doi": "10.3389/ijph.2023.1605934",
+  "url": "https://www.semanticscholar.org/paper/f6c6af7abc7195bbbbfdf6d1c3cd45ba96173bbf",
+  "provider": "semantic_scholar",
+  "year": 2023,
+  "venue": "International Journal of Public Health",
+  "citation_count": 7,
+  "abstract": "Objectives: This study aimed to prospectively investigate gender-specific relationship between hyperuricemia and all-cause mortality among Chinese older adults. Methods: The study was based on the Chinese Longitudinal Healthy Longevity Survey (CLHLS) 2008–2018, a prospective nationwide cohort of older adults in China. Multivariate Cox proportional hazards models were used to estimate hazard ratios (HRs) and 95% CIs for all-cause mortality. Restricted cubic splines (RCS) were conducted to explore the dose-response relationship between SUA levels and all-cause mortality. Results: For older women, compared to the participants in the third quartile of SUA level, those in the highest quartile of SUA was associated with significantly higher risk of all-cause mortality in the fully adjusted model (HR: 1.41, 95% CI: 1.03–1.92). No significant associations between SUA levels and all-cause mortality were observed in older men. The present study further found a U-shaped non-linear relationship between SUA levels and all-cause mortality in both sexes of older population (P for non-linear <0.05). Conclusions: This study provided prospective epidemiological evidence for the predictive role of SUA on all-cause mortality among the Chinese aging population over 10 years of follow-up, while revealing considerable gender-related differences.",
+  "type": "academic",
+  "pdf_url": "https://www.ssph-journal.org/articles/10.3389/ijph.2023.1605934/pdf"
+}

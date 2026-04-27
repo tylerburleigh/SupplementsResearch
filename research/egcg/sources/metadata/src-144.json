@@ -1,0 +1,21 @@
+{
+  "id": "src-144",
+  "title": "Effects of 6PPD-Quinone on Human Liver Cell Lines as Revealed with Cell Viability Assay and Metabolomics Analysis",
+  "authors": [
+    "Qi, Yu",
+    "Qiu, Aiqin",
+    "Wei, Xinyue",
+    "Huang, Yiting",
+    "Huang, Qing",
+    "Huang, Wei"
+  ],
+  "doi": "10.3390/toxics12060389",
+  "url": "https://www.semanticscholar.org/paper/a06f4460a223ce85e37a2cfedaa97c0b0da14184",
+  "provider": "semantic_scholar",
+  "year": 2024,
+  "venue": "Toxics",
+  "citation_count": 28,
+  "abstract": "N-(1,3-Dimethyl butyl)-N′-phenyl-phenylenediamine-quinone (6PPD-Q) is a derivative of the widely used rubber tire antioxidant 6PPD, which was first found to be acutely toxic to coho salmon. Subsequent studies showed that 6PPD-Q had species-specific acute toxicity in fishes and potential hepatotoxicity in mice. In addition, 6PPD-Q has been reported in human urine, demonstrating the potential widespread exposure of humans to this chemical. However, whether 6PPD-Q poses a higher risk to humans than its parent compound, 6PPD, and could cause adverse effects in humans is still unclear. In this study, we utilized two human liver cell models (the human proto-hepatocyte model L02 and the human hepatocellular carcinoma cell line HepG2) to investigate the potentially differential effects of these two chemicals. Cell viability curve analysis showed that 6PPD-Q had lower IC50 values than 6PPD for both liver cell lines, suggesting higher toxicity of 6PPD-Q to human liver cells than 6PPD. In addition, L02 cells are more sensitive to 6PPD-Q exposure, which might be derived from its weaker metabolic transformation of 6PPD-Q, since significantly lower levels of phase I and phase II metabolites were detected in 6PPD-Q-exposed L02 cell culture medium. Furthermore, pathway analysis showed that 6PPD-Q exposure induced changes in phenylalanine, tyrosine, and tryptophan biosynthesis and tyrosine metabolism pathways in L02 cells, which might be the mechanism underlying its liver cell toxicity. Gene expression analysis revealed that exposure to 6PPD-Q induced excessive ROS production in L02 cells. Our results further supported the higher risk of 6PPD-Q than 6PPD and provided insights for understanding the effects of 6PPD-Q on human health.",
+  "type": "academic",
+  "pdf_url": ""
+}

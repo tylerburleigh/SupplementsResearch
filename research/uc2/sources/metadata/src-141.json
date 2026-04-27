@@ -1,0 +1,19 @@
+{
+  "id": "src-141",
+  "title": "Chondroitin for osteoarthritis",
+  "authors": [
+    "Singh, Jasvinder A.",
+    "Noorbaloochi, Shahrzad",
+    "MacDonald, Roderick",
+    "Maxwell, Lara"
+  ],
+  "doi": "10.1002/14651858.cd005614.pub2",
+  "url": "https://openalex.org/W1546820319",
+  "provider": "openalex",
+  "year": 2015,
+  "venue": "Cochrane Database of Systematic Reviews",
+  "citation_count": 257,
+  "abstract": "A review of randomized trials of mostly low quality reveals that chondroitin (alone or in combination with glucosamine) was better than placebo in improving pain in participants with osteoarthritis in short-term studies. The benefit was small to moderate with an 8 point greater improvement in pain (range 0 to 100) and a 2 point greater improvement in Lequesne's index (range 0 to 24), both seeming clinically meaningful. These differences persisted in some sensitivity analyses and not others. Chondroitin had a lower risk of serious adverse events compared with control. More high-quality studies are needed to explore the role of chondroitin in the treatment of osteoarthritis. The combination of some efficacy and low risk associated with chondroitin may explain its popularity among patients as an over-the-counter supplement.",
+  "type": "academic",
+  "pdf_url": ""
+}

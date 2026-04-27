@@ -1,0 +1,30 @@
+{
+  "id": "src-183",
+  "title": "Association of mushroom consumption with all-cause and cause-specific mortality among American adults: prospective cohort study findings from NHANES III",
+  "authors": [
+    "Ba, Djibril M.",
+    "Gao, Xiang",
+    "Muscat, Joshua",
+    "Al-Shaar, Laila",
+    "Chinchilli, Vernon",
+    "Zhang, Xinyuan",
+    "Ssentongo, Paddy",
+    "Beelman, Robert B.",
+    "Richie, John P."
+  ],
+  "year": 2021,
+  "abstract": "Abstract\nBackground\nWhether mushroom consumption, which is rich in several bioactive compounds, including the crucial antioxidants ergothioneine and glutathione, is inversely associated with low all-cause and cause-specific mortality remains uncertain. This study aimed to prospectively investigate the association between mushroom consumption and all-cause and cause-specific mortality risk.\n\nMethods\nLongitudinal analyses of participants from the Third National Health and Nutrition Examination Survey (NHANES III) extant data (1988–1994). Mushroom intake was assessed by a single 24-h dietary recall using the US Department of Agriculture food codes for recipe foods. All-cause and cause-specific mortality were assessed in all participants linked to the National Death Index mortality data (1988–2015). We used Cox proportional hazards regression models to calculate multivariable-adjusted hazard ratios (HRs) and 95% confidence intervals (95% CIs) for all-cause and cause-specific mortality.\n\nResults\nAmong 15,546 participants included in the current analysis, the mean (SE) age was  44.3 (0.5) years. During a mean (SD) follow-up duration of 19.5 (7.4) years , a total of 5826 deaths were documented. Participants who reported consuming mushrooms had lower risk of all-cause mortality compared with those without mushroom intake (adjusted hazard ratio (HR) = 0.84; 95% CI: 0.73–0.98) after adjusting for demographic, major lifestyle factors, overall diet quality, and other dietary factors including total energy. When cause-specific mortality was examined, we did not observe any statistically significant associations with mushroom consumption. Consuming 1-serving of mushrooms per day instead of 1-serving of processed or red meats was associated with lower risk of all-cause mortality (adjusted HR = 0.65; 95% CI: 0.50–0.84). We also observed a dose-response relationship between higher mushroom consumption and lower risk of all-cause mortality (P-trend = 0.03).\n\nConclusion\nMushroom consumption was associated with a lower risk of total mortality in this nationally representative sample of US adults.",
+  "doi": "10.1186/s12937-021-00691-8",
+  "url": "https://doi.org/10.1186/s12937-021-00691-8",
+  "pdf_url": "",
+  "venue": "Nutrition Journal",
+  "citation_count": 27,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-20T00:16:15.682256+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "src-190",
+  "title": "Impairment of Macrophage Functions by the Senescence-Associated Secretory Phenotype of Vascular Smooth Muscle Cells—Brief Report",
+  "authors": [
+    "Tsitsipatis, D.",
+    "Rivera, Tatiana Rodriguez",
+    "Kaileh, M.",
+    "Okereke, Ada N.",
+    "Gupta, Aditi",
+    "Singh, Amit",
+    "Raph, Sean M.",
+    "Henry-Smith, Charnae’",
+    "Herman, Allison B."
+  ],
+  "doi": "10.1161/atvbaha.125.324299",
+  "url": "https://www.semanticscholar.org/paper/320ccb2f6a6d7ba67468676f591264522fb37db5",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "Arteriosclerosis, Thrombosis and Vascular Biology",
+  "citation_count": 0,
+  "abstract": "This study aimed to determine the effect of senescent vascular smooth muscle cells (VSMCs) on foam cell formation and macrophage phagocytic activity in atherosclerotic conditions.\n\nWe measured the capacity of senescent VSMCs for scavenging oxLDL (oxidized low-density lipoprotein), which was impaired in senescent cells compared with proliferating and quiescent cells. Next, we obtained human peripheral blood monocytes from people >60 years old and differentiated them into macrophages using GM-CSF (granulocyte-macrophage colony-stimulating factor). We treated the macrophages with conditioned media derived from proliferating, quiescent, and senescent VSMCs and measured oxLDL uptake, phagocytosis, and efferocytosis.\n\nThe results demonstrated that macrophages treated with senescent VSMC conditioned media experienced impaired oxLDL uptake, phagocytic activity, and reduced ability to clear senescent cells. Treatment of senescent VSMCs with senomorphic drugs before conditioned media transfer restored macrophage functions, confirming that the SASP (senescence-associated secretory phenotype) is critical for impairing macrophages during atherosclerotic conditions.\n\nOur results suggest that the SASP derived from senescent VSMCs prevents foam cell formation and disrupts the homeostatic function of macrophages in atherosclerosis. By suppressing macrophage function, senescent cells seem to evade immune clearance and accumulate, further propagating disease development.",
+  "type": "academic",
+  "pdf_url": ""
+}

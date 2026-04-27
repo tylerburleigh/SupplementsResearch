@@ -1,0 +1,38 @@
+48	2	Open Access
+49	2	Edited By
+53	2	Reviewed By
+65	2	Citation
+75	2	Copyright
+97	2	Keywords
+100	2	1 Introduction
+137	2	2 Methods
+138	3	2.1 Search strategy and databases
+160	3	2.3 Study selection
+169	3	2.4 Data extraction
+191	3	2.5 Statistical analysis
+204	3	2.6 Ethical considerations
+208	2	3 Results
+209	3	3.1 Description of included studies into the
+235	2	Rct
+241	2	Rct
+244	2	Rct
+248	2	Rct
+250	2	Rct
+252	2	Rct
+254	2	Rct
+255	2	Rct
+308	2	Smedds
+321	2	Bid
+407	3	3.2 Clinical efficacy of curcumin versus
+518	3	3.3 Clinical efficacy of curcumin versus
+528	2	4 Discussion
+687	2	5 Conclusion
+710	2	Author Contributions
+734	2	Supplementary Material
+738	2	References
+749	2	5. Shirzad M, Ahmadian-Attari MM, Ghafoori SMS, Kashani LMT, Pasalar M, Abbassian
+786	2	14. Masoodi M, Mahdiabadi MA, Mokhtare M, Agah S, Kashani AHF , Rezadoost AM,
+826	2	25. Kahkhaie KR, Mirhosseini A, Aliabadi A, Mohammadi A, Mousavi MJ,
+853	2	34. Maideen NMP , Rajkapoor B, Muthusamy S, Ramanathan S, Thangadurai SA,
+860	2	36. Mashayekhi-Sardoo H, Mashayekhi-Sardoo A, Roufogalis BD, Jamialahmadi T,
+864	2	37. Haftcheshmeh SM, Mirhafez SR, Abedi M, Heydarlou H, Shakeri A, Mohammadi

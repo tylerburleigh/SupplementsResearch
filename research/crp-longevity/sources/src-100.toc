@@ -1,0 +1,9 @@
+1072	1	of	Coexisting	Diseases
+2418	2	Nnn
+2422	2	Nnn
+2449	2	Ggg
+2489	2	Ggg
+2492	2	Nngg
+2499	2	Mmmbb
+2501	2	Bbb
+2507	2	Bbb

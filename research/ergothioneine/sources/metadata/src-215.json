@@ -1,0 +1,22 @@
+{
+  "id": "src-215",
+  "title": "The gut microbiota-related metabolite phenylacetylglutamine associates with increased risk of incident coronary artery disease",
+  "authors": [
+    "Ottosson, Filip",
+    "Brunkwall, Louise",
+    "Smith, Einar",
+    "Orho‐Melander, Marju",
+    "Nilsson, Peter M.",
+    "Fernandez, Céline",
+    "Melander, Olle"
+  ],
+  "doi": "10.1097/hjh.0000000000002569",
+  "url": "https://openalex.org/W3042825209",
+  "provider": "openalex",
+  "year": 2020,
+  "venue": "Journal of Hypertension",
+  "citation_count": 90,
+  "abstract": "The levels of 33 plasma metabolites were correlated with the gut microbiota. Out of these, PAG was associated with an increased risk of future CAD independently of other cardiovascular risk factors. Our results highlight a link between the gut microbiota and CAD risk and should encourage further studies testing if modification of PAG levels inhibits development of CAD.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.1097/hjh.0000000000002569"
+}

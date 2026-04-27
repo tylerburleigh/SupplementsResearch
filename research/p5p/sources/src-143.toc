@@ -1,0 +1,48 @@
+13	2	Coronary Artery Disease
+17	2	Ttar
+29	2	Rik
+33	2	Ordrehaug
+37	2	Elga
+41	2	Efsum
+49	2	Agne
+53	2	Eland
+58	2	Ikael
+62	2	Arstad
+66	2	And
+70	2	Tein
+74	2	Mil
+78	2	Ollset
+88	2	Bstract
+90	2	Background
+98	2	Methods
+112	2	Results
+168	2	Conclusions
+302	2	Methods
+338	2	20. The information from the
+437	2	Statistical Analysis
+497	2	Results
+810	2	Able
+816	2	Ortality
+820	2	Atios
+826	2	Prognostic Variable
+828	2	Subjects
+831	2	With Adjustment For
+832	2	Sex And Age
+833	2	With Adjustment For
+835	2	Prognostic Variables
+837	2	With Adjustment For
+839	2	Mortality Ratio
+842	2	Trend
+843	2	Mortality Ratio
+846	2	Trend
+847	2	Mortality Ratio
+850	2	Trend
+1060	2	Discussion
+1113	2	7 A graded relation between total
+1174	2	For Linear
+1175	2	Trend
+1261	2	References
+1299	2	15. Verhoef P , Hennekens CH, Malinow MR, Kok FJ, Willett WC,
+1313	2	20. Petri M, Roubenoff R, Dallal GE, Nadeau MR, Selhub J, Rosenberg
+1343	2	31. Lacoste L, Lam JYT, Hung J, Letchacovski G, Solymoss CB, Waters
+1355	2	35. Dalery K, Lussier-Cacan S, Selhub J, Davignon J, Latour Y, Genest J

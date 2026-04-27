@@ -1,0 +1,21 @@
+42	2	Introduction
+186	2	1. Patients currently receiving or having a his -
+189	2	2. Patients using a pacemaker or an implanted
+191	2	3. Patients currently receiving treatment for ar -
+199	2	4. Individuals routinely ingesting foods for
+203	2	5. Patients requiring continuous use of drugs
+210	2	7. Individuals allergic to any medicine or test
+212	2	8. Individuals unable to take the test food by
+215	2	9. Individuals planning to make an overseas
+217	2	10. Individuals habitually practicing nose gur -
+219	2	11. Pregnant or lactating women or women who
+222	2	12. Individuals having participated in any other
+227	2	13. Other individuals judged by the Principal In-
+324	2	Statistical Analysis
+353	2	Results
+356	2	1. The study was carried out as scheduled, with -
+510	2	Jrqlq
+609	2	Discussion
+1072	2	Conclusions
+1090	2	Acknowledgements
+1122	2	References

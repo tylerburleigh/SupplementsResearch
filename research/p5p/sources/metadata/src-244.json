@@ -1,0 +1,26 @@
+{
+  "id": "src-244",
+  "title": "Homocysteine-betaine interactions in a murine model of 5,10-methylenetetrahydrofolate reductase deficiency.",
+  "authors": [
+    "Chen, Z.",
+    "Schwahn, Bernd",
+    "Genest, Jacques",
+    "Laryea, M. D.",
+    "Rozen, Rima",
+    "Zeisel, Steven H.",
+    "Wendel, U.",
+    "Castro, Carmen",
+    "Garrow, Timothy A.",
+    "Lussier‐Cacan, Suzanne",
+    "Mar, Mei‐Heng"
+  ],
+  "doi": "10.17615/fhms-hn67",
+  "url": "https://openalex.org/W4299540435",
+  "provider": "openalex",
+  "year": 2022,
+  "venue": "Carolina Digital Repository (University of North Carolina at Chapel Hill)",
+  "citation_count": 131,
+  "abstract": "Hyperhomocysteinemia, a proposed risk factor for cardiovascular disease, is also observed in other common disorders. The most frequent genetic cause of hyperhomocysteinemia is a mutated methylenetetrahydrofolate reductase (MTHFR), predominantly when folate status is impaired. MTHFR synthesizes a major methyl donor for homocysteine remethylation to methionine. We administered the alternate choline-derived methyl donor, betaine, to wild-type mice and to littermates with mild or severe hyperhomocysteinemia due to hetero- or homozygosity for a disruption of the Mthfr gene. On control diets, plasma homocysteine and liver choline metabolite levels were strongly dependent on the Mthfr genotype. Betaine supplementation decreased homocysteine in all three genotypes, restored liver betaine and phosphocholine pools, and prevented severe steatosis in Mthfr-deficient mice. Increasing betaine intake did not further decrease homocysteine. In humans with cardiovascular disease, we found a significant negative correlation between plasma betaine and homocysteine concentrations. Our results emphasize the strong interrelationship between homocysteine, folate, and choline metabolism. Hyperhomocysteinemic Mthfr-compromised mice appear to be much more sensitive to changes of choline/betaine intake than do wild-type animals. Hyperhomocysteinemia, in the range of that associated with folate deficiency or with homozygosity for the 677T MTHFR variant, may be associated with disturbed choline metabolism.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.17615/fhms-hn67"
+}

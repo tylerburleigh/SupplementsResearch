@@ -1,0 +1,23 @@
+{
+  "id": "src-162",
+  "title": "Boosting NAD level suppresses inflammatory activation of PBMCs in heart failure",
+  "authors": [
+    "Zhou, Bo",
+    "Wang, Dennis Ding-Hwa",
+    "Qiu, Yanhua",
+    "Airhart, Sophia",
+    "Liu, Yaxin",
+    "Stempien‐Otero, April",
+    "O’Brien, Kevin D.",
+    "Tian, Rong"
+  ],
+  "doi": "10.1172/jci138538",
+  "url": "https://openalex.org/W3049559752",
+  "provider": "openalex",
+  "year": 2020,
+  "venue": "Journal of Clinical Investigation",
+  "citation_count": 209,
+  "abstract": "BACKGROUNDWhile mitochondria play an important role in innate immunity, the relationship between mitochondrial dysfunction and inflammation in heart failure (HF) is poorly understood. In this study we aimed to investigate the mechanistic link between mitochondrial dysfunction and inflammatory activation in peripheral blood mononuclear cells (PBMCs), and the potential antiinflammatory effect of boosting the NAD level.METHODSWe compared the PBMC mitochondrial respiration of 19 hospitalized patients with stage D HF with that of 19 healthy participants. We then created an in vitro model of sterile inflammation by treating healthy PBMCs with mitochondrial damage-associated molecular patterns (MitoDAMPs) isolated from human heart tissue. Last, we enrolled patients with stage D HF and sampled their blood before and after taking 5 to 9 days of oral nicotinamide riboside (NR), a NAD precursor.RESULTSWe demonstrated that HF is associated with both reduced respiratory capacity and elevated proinflammatory cytokine gene expressions. In our in vitro model, MitoDAMP-treated PBMCs secreted IL-6 that impaired mitochondrial respiration by reducing complex I activity. Last, oral NR administration enhanced PBMC respiration and reduced proinflammatory cytokine gene expression in 4 subjects with HF.CONCLUSIONThese findings suggest that systemic inflammation in patients with HF is causally linked to mitochondrial function of the PBMCs. Increasing NAD levels may have the potential to improve mitochondrial respiration and attenuate proinflammatory activation of PBMCs in HF.TRIAL REGISTRATIONClinicalTrials.gov NCT03727646.FUNDINGThis study was funded by the NIH, the University of Washington, and the American Heart Association.",
+  "type": "academic",
+  "pdf_url": "http://www.jci.org/articles/view/138538/files/pdf"
+}

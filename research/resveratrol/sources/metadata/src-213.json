@@ -1,0 +1,17 @@
+{
+  "id": "src-213",
+  "title": "Antibacterial and antifungal properties of resveratrol",
+  "authors": [
+    "Vestergaard, Martin",
+    "Ingmer, Hanne"
+  ],
+  "doi": "10.1016/j.ijantimicag.2019.02.015",
+  "url": "https://openalex.org/W2916918683",
+  "provider": "openalex",
+  "year": 2019,
+  "venue": "International Journal of Antimicrobial Agents",
+  "citation_count": 454,
+  "abstract": "Resveratrol is a naturally occurring polyphenolic antioxidant that has received massive attention for its potential health benefits, including anticarcinogenesis, anti-aging and antimicrobial properties. The compound is well tolerated by humans and in recent years has been widely used as a nutraceutical. Its common use makes it interesting to investigate with respect to antimicrobial properties both as a single agent and in combination with conventional antibiotics. Resveratrol displays antimicrobial activity against a surprisingly wide range of bacterial, viral and fungal species. At subinhibitory concentrations, resveratrol can alter bacterial expression of virulence traits leading to reduced toxin production, inhibition of biofilm formation, reduced motility and interference with quorum sensing. In combination with conventional antibiotics, resveratrol enhances the activity of aminoglycosides against Staphylococcus aureus, whereas it antagonises the lethal activity of fluoroquinolones against S. aureus and Escherichia coli. Whilst the antimicrobial properties of the compound have been extensively studied in vitro, little is known about its efficacy in vivo. Nonetheless, following topical application resveratrol has alleviated acne lesions caused by the bacterium Propionibacterium acnes. There are currently no in vivo studies addressing its effect in combination with antibiotics, but recent research suggests that there may be a potential for enhancing the antimicrobial efficacy of certain existing antibiotic classes in combination with resveratrol. Given the difficulties associated with introducing new antimicrobial agents to the market, nutraceuticals such as resveratrol may prove to be interesting candidates when searching for solutions for the growing problem of antimicrobial resistance.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.1016/j.ijantimicag.2019.02.015"
+}

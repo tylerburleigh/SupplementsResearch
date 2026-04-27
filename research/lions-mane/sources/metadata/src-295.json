@@ -1,0 +1,30 @@
+{
+  "id": "src-295",
+  "title": "New strategies of neurodegenerative disease treatment with extracellular vesicles (EVs) derived from mesenchymal stem cells (MSCs)",
+  "authors": [
+    "Palanisamy, Chella Perumal",
+    "Pei, Jinjin",
+    "Alugoju, Phaniendra",
+    "Anthikapalli, Naga Venkata Anusha",
+    "Jayaraman, Selvaraj",
+    "Veeraraghavan, Vishnu Priya",
+    "Gopathy, Sridevi",
+    "Roy, Jeane Rebecca",
+    "Janaki, Coimbatore Sadagopan",
+    "Thalamati, Dwarakesh",
+    "Mironescu, Monica",
+    "Luo, Qiang",
+    "Yu, Miao",
+    "Chai, Yuan",
+    "Long, Qianfa"
+  ],
+  "doi": "10.7150/thno.83066",
+  "url": "https://openalex.org/W4385060003",
+  "provider": "openalex",
+  "year": 2023,
+  "venue": "Theranostics",
+  "citation_count": 130,
+  "abstract": "Neurodegenerative diseases are characterized by the progressive loss of neurons and intricate interactions between different cell types within the affected regions. Reliable biomarkers that can accurately reflect disease activity, diagnose, and monitor the progression of neurodegenerative diseases are crucial for the development of effective therapies. However, identifying suitable biomarkers has been challenging due to the heterogeneous nature of these diseases, affecting specific subsets of neurons in different brain regions. One promising approach for promoting brain regeneration and recovery involves the transplantation of mesenchymal stem cells (MSCs). MSCs have demonstrated the ability to modulate the immune system, promote neurite outgrowth, stimulate angiogenesis, and repair damaged tissues, partially through the release of their extracellular vesicles (EVs). MSC-derived EVs retain some of the therapeutic characteristics of their parent MSCs, including their ability to regulate neurite outgrowth, promote angiogenesis, and facilitate tissue repair. This review aims to explore the potential of MSC-derived EVs as an emerging therapeutic strategy for neurodegenerative diseases, highlighting their role in modulating disease progression and promoting neuronal recovery. By elucidating the mechanisms by which MSC-derived EVs exert their therapeutic effects, we can advance our understanding and leverage their potential for the development of novel treatment approaches in the field of neurodegenerative diseases.",
+  "type": "academic",
+  "pdf_url": "https://www.thno.org/v13p4138.pdf"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "src-366",
+  "title": "Molecular mechanisms of aging and anti-aging strategies",
+  "authors": [
+    "Li, Yumeng",
+    "Tian, Xutong",
+    "Luo, Juyue",
+    "Bao, Tongtong",
+    "Wang, Shujin",
+    "Wu, Xin"
+  ],
+  "doi": "10.1186/s12964-024-01663-1",
+  "url": "https://openalex.org/W4398774059",
+  "provider": "openalex",
+  "year": 2024,
+  "venue": "Cell Communication and Signaling",
+  "citation_count": 213,
+  "abstract": "Aging is a complex and multifaceted process involving a variety of interrelated molecular mechanisms and cellular systems. Phenotypically, the biological aging process is accompanied by a gradual loss of cellular function and the systemic deterioration of multiple tissues, resulting in susceptibility to aging-related diseases. Emerging evidence suggests that aging is closely associated with telomere attrition, DNA damage, mitochondrial dysfunction, loss of nicotinamide adenine dinucleotide levels, impaired macro-autophagy, stem cell exhaustion, inflammation, loss of protein balance, deregulated nutrient sensing, altered intercellular communication, and dysbiosis. These age-related changes may be alleviated by intervention strategies, such as calorie restriction, improved sleep quality, enhanced physical activity, and targeted longevity genes. In this review, we summarise the key historical progress in the exploration of important causes of aging and anti-aging strategies in recent decades, which provides a basis for further understanding of the reversibility of aging phenotypes, the application prospect of synthetic biotechnology in anti-aging therapy is also prospected.",
+  "type": "academic",
+  "pdf_url": "https://biosignaling.biomedcentral.com/counter/pdf/10.1186/s12964-024-01663-1"
+}

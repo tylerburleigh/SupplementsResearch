@@ -1,0 +1,24 @@
+{
+  "id": "src-138",
+  "title": "Iron deficiency and association with mortality in patients with coronary artery disease",
+  "authors": [
+    "Corballis, N.",
+    "Merinopoulos, I.",
+    "Gunawardena, T.",
+    "Tsampasian, V.",
+    "Bhalraam, U.",
+    "Fish, J.",
+    "Eccleshall, S.",
+    "Vassiliou, V.",
+    "Reinhold, J."
+  ],
+  "doi": "10.1093/eurheartj/ehad655.1347",
+  "url": "https://www.semanticscholar.org/paper/04cf6c32ec40343c7a1b1227d64c84d0978e0610",
+  "provider": "semantic_scholar",
+  "year": 2023,
+  "venue": "European Heart Journal",
+  "citation_count": 0,
+  "abstract": "Iron is essential for a number of metabolic and physiological processes and the role of iron deficiency (ID) as an adverse prognostic indicator in heart failure is well established. The suitability of the international guideline definition for prognosticating adverse events in heart failure has recently been brought into question due to the inclusion of ferritin, given its reduced specificity during intercurrent inflammation. As inflammation plays an active role in coronary disease, and acute coronary syndromes in particular, we sought to further explore whether ID according to the current guideline definition or alternative definitions without reliance on ferritin is a predictor of clinical outcomes in patients with coronary artery disease.\n\nThe aims are to assess whether a)ID is associated with increased all-cause mortality in patients with coronary artery disease requiring percutaneous coronary intervention (PCI) and b) whether different definitions of ID have a stronger association with mortality in these patients.\n\nAll patients in a UK PCI registry who had full iron studies within thirty days of their index procedure were included. ID was defined according to three different criteria: 1) International guideline criteria (ferritin <100 ng/ml or transferrin saturations (TSATs) <20% if ferritin 100-299 ng/ml), 2) TSATs <20%, or 3) serum iron <13μmol/L. Mortality data was obtained from Hospital Episodes Statistics. Ethical approval was obtained from the Northwest Haydock Research Committee.\n\nSome 390 patients were included in this analysis. The mean age was 72.5 (62-86) and 33.0% were female. 28.7% of patients presented with a STEMI, 39.7% with an acute coronary syndrome and 31.5% had stable angina.\nID according to the serum iron and TSAT definitions were associated with increased all-cause mortality, HR 1.61 (CI 1.07-2.41), p=0.02 and HR 1.64 (CI 1.13-2.37), p=0.009 respectively. However, ID as determined by the international guideline definition was not predictive of increased all-cause mortality, HR 0.99 (CI 0.69-1.42), p=0.97.\n\nHere we show that ID, defined by serum iron and TSATs but not by the current guideline definition of ID, is associated with increased all-cause mortality in patients with coronary artery disease, undergoing PCI. A randomised controlled trial into treating ID in patients with coronary disease is warranted to determine whether intravenous iron replacement is beneficial in this patient group. The current study supports the growing evidence that alternatives to the current guideline definition of ID may be better suited to identify patients with adverse prognosis and who, in turn, may benefit most from intravenous iron replacement therapy.",
+  "type": "academic",
+  "pdf_url": "https://academic.oup.com/eurheartj/article-pdf/44/Supplement_2/ehad655.1347/53594318/ehad655.1347.pdf"
+}

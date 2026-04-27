@@ -1,0 +1,18 @@
+{
+  "id": "src-329",
+  "title": "Oxidative Stress",
+  "authors": [
+    "Sies, Helmut",
+    "Berndt, Carsten",
+    "Jones, Dean P."
+  ],
+  "doi": "10.1146/annurev-biochem-061516-045037",
+  "url": "https://openalex.org/W4248078302",
+  "provider": "openalex",
+  "year": 2017,
+  "venue": "Annual Review of Biochemistry",
+  "citation_count": 3307,
+  "abstract": "Oxidative stress is two sided: Whereas excessive oxidant challenge causes damage to biomolecules, maintenance of a physiological level of oxidant challenge, termed oxidative eustress, is essential for governing life processes through redox signaling. Recent interest has focused on the intricate ways by which redox signaling integrates these converse properties. Redox balance is maintained by prevention, interception, and repair, and concomitantly the regulatory potential of molecular thiol-driven master switches such as Nrf2/Keap1 or NF-κB/IκB is used for system-wide oxidative stress response. Nonradical species such as hydrogen peroxide (H<sub>2</sub>O<sub>2</sub>) or singlet molecular oxygen, rather than free-radical species, perform major second messenger functions. Chemokine-controlled NADPH oxidases and metabolically controlled mitochondrial sources of H<sub>2</sub>O<sub>2</sub> as well as glutathione- and thioredoxin-related pathways, with powerful enzymatic back-up systems, are responsible for fine-tuning physiological redox signaling. This makes for a rich research field spanning from biochemistry and cell biology into nutritional sciences, environmental medicine, and molecular knowledge-based redox medicine.",
+  "type": "academic",
+  "pdf_url": ""
+}

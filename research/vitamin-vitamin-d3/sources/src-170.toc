@@ -1,0 +1,25 @@
+14	2	Abstract
+122	2	Methods
+243	2	Statistical Analysis
+257	2	Results
+367	2	Eqa
+389	2	Ria
+392	2	Eqa
+426	2	Crp
+458	2	Eqa
+485	2	Clia
+488	2	Deqas
+516	2	Nist
+545	2	Deqas
+569	2	Clia
+572	2	Eqa
+599	2	Eqa
+654	2	0 Median
+795	2	Crp
+846	2	Crp
+1183	2	Analysis
+1281	2	Discussion
+1605	2	Conclusions
+1620	2	Acknowledgements
+1649	2	Supplementary Material
+1652	2	References

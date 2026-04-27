@@ -1,0 +1,22 @@
+{
+  "id": "src-235",
+  "title": "Psilocybin facilitates fear extinction in mice by promoting hippocampal neuroplasticity",
+  "authors": [
+    "Du, Yingjie",
+    "Li, Yunfeng",
+    "Zhao, Xiangting",
+    "Yao, Yishan",
+    "Wang, Bin",
+    "Zhang, Liming",
+    "Wang, Guyan"
+  ],
+  "doi": "10.1097/cm9.0000000000002647",
+  "url": "https://openalex.org/W4362457938",
+  "provider": "openalex",
+  "year": 2023,
+  "venue": "Chinese Medical Journal",
+  "citation_count": 67,
+  "abstract": "A single dose of psilocybin facilitated rapid and sustained fear extinction; this effect might be partially mediated by the promotion of hippocampal neuroplasticity. This study indicates that psilocybin may be a useful adjunct to exposure-based therapies for PTSD and other mental disorders characterized by failure of fear extinction.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.1097/cm9.0000000000002647"
+}

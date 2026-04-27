@@ -1,0 +1,17 @@
+{
+  "id": "src-318",
+  "title": "Neutrophils and Granulocytic MDSC: The Janus God of Cancer Immunotherapy",
+  "authors": [
+    "Zilio, Serena",
+    "Serafini, Paolo"
+  ],
+  "doi": "10.3390/vaccines4030031",
+  "url": "https://openalex.org/W2518568684",
+  "provider": "openalex",
+  "year": 2016,
+  "venue": "Vaccines",
+  "citation_count": 68,
+  "abstract": "Neutrophils are the most abundant circulating blood cell type in humans, and are the first white blood cells recruited at the inflammation site where they orchestrate the initial immune response. Although their presence at the tumor site was recognized in the 1970s, until recently these cells have been neglected and considered to play just a neutral role in tumor progression. Indeed, in recent years neutrophils have been recognized to play a dual role in tumor development by either assisting the growth, angiogenesis, invasion, and metastasis or by exerting tumoricidal action directly via the secretion of antitumoral compounds, or indirectly via the orchestration of antitumor immunity. Understanding the biology of these cells and influencing their polarization in the tumor micro- and macro-environment may be the key for the development of new therapeutic strategies, which may finally hold the promise of an effective immunotherapy for cancer.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2076-393X/4/3/31/pdf?version=1473422325"
+}

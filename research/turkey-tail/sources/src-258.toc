@@ -1,0 +1,31 @@
+51	2	1. Introduction
+85	2	2. Review
+117	2	2. Review
+118	3	2.1. Classification and Structure of Mushroom Glucans
+177	4	2.1.2. Mushroom Beta-Glucans
+206	3	2.2. Structural Characteristics of Selected Beta-Glucans from Macrofungi
+207	4	2.2.1. Lentinan
+234	3	2.2. Structural Characteristics of Selected Beta-Glucans from Macrofungi
+235	4	2.2.1. Lentinan
+254	4	2.2.2. Schizophyllan
+265	4	2.2.2. Schizophyllan
+285	4	2.2.3. Krestin
+298	4	2.2.4. Grifolan
+314	4	2.2.3. Krestin
+336	4	2.2.3. Krestin
+349	4	2.2.4. Grifolan
+357	4	2.2.4. Grifolan
+368	4	2.2.5. Pleuran
+385	4	2.2.5. Pleuran
+407	4	2.2.5. Pleuran
+423	3	2.3. Mechanisms of Action of Beta-Glucans in the Human Body
+446	3	2.3. Mechanisms of Action of Beta-Glucans in the Human Body
+468	4	2.3.1. Immunomodulatory Properties of Beta-Glucans
+480	4	2.3.1. Immunomodulatory Properties of Beta-Glucans
+567	4	2.3.2. Antitumor and Cytotoxic Properties of Beta-Glucans
+605	4	2.3.4. Antioxidant Properties of Beta-Glucans
+629	4	2.3.5. Beta-Glucans in the Treatment of Allergies
+655	4	2.3.6. Antibacterial, Antiviral, and Antifungal Properties of Mushroom Beta-Glucans
+911	4	2.3.8. Mushroom Beta-Glucans as Prebiotics and Microbiota Modulators
+947	2	3. Conclusions
+989	2	References

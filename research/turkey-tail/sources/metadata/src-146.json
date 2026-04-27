@@ -1,0 +1,41 @@
+{
+  "id": "src-146",
+  "title": "Efficacy of a Coriolus versicolor–Based Vaginal Gel in Women With Human Papillomavirus–Dependent Cervical Lesions: The PALOMA Study",
+  "authors": [
+    "Serrano, Luis",
+    "López, Andrés Carlos",
+    "González, Silvia P.",
+    "Palacios, Santiago",
+    "Dexeus, Damián",
+    "Centeno-Mediavilla, Cristina",
+    "Coronado, Pluvio",
+    "de la Fuente, Jesús",
+    "López, José Antonio",
+    "Vanrell, Cristina",
+    "Cortés, Javier"
+  ],
+  "year": 2021,
+  "abstract": "Objective\nThe aim of the study was to evaluate the efficacy of Papilocare, a Coriolus versicolor–based vaginal gel, in repairing human papillomavirus (HPV)-related low-grade cervical lesions.\n\nMethods\nThe study is a multicenter, open-label, randomized, parallel-group, watchful waiting approach-controlled trial involving 91 HPV-positive women with low-grade Pap smear alterations and consistent colposcopy.\n\nResults\nThe percentage of patients with normal Pap smear and concordant colposcopy 3 and 6 months after receiving treatment (78.0% and 84.9%) was significantly higher than without treatment (54.8% and 64.5%), especially in high-risk HPV patients (79.5% and 87.8% vs 52.0% and 56.0%). At 6-month visit, overall HPV clearance was achieved by a greater number of patients receiving treatment (59.6%) compared with those without treatment (41.9%), especially high-risk HPV ones (62.5% vs 40.0%). The cervical re-epithelization score was significantly higher with treatment (mean = 4.5) than without (mean = 4.1). Compared with baseline, perceived stress decreased in the treatment group (from 21.1 to 19.0) and increased in the control group (from 17.7 to 20.7). A total of 7 possible or probable treatment-related adverse events were reported, most of them (n = 6) being mild or moderate in severity.\n\nConclusions\nTreatment with Papilocare has demonstrated a better clinical benefit than the conventional watchful waiting approach in clinical practice for total and high-risk HPV patients in terms of its efficacy to treat HPV-related cervical lesions and to clear all HPV strains after a single 6-month period. It has demonstrated an adequate safety and tolerability and confers additional benefits such as higher re-epithelization, stress reduction, and high treatment adherence.",
+  "doi": "10.1097/lgt.0000000000000596",
+  "url": "https://doi.org/10.1097/lgt.0000000000000596",
+  "pdf_url": "",
+  "venue": "Journal of Lower Genital Tract Disease",
+  "citation_count": 33,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-23T19:02:49.430066+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-146.md",
+  "quality_details": {
+    "content_length": 44040,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "src-112",
+  "title": "Targeting fibrotic signaling pathways by EGCG as a therapeutic strategy for uterine fibroids.",
+  "authors": [
+    "Islam, Md Soriful",
+    "Parish, Maclaine",
+    "Brennan, Joshua T",
+    "Winer, Briana L",
+    "Segars, James H"
+  ],
+  "doi": "10.1038/s41598-023-35212-6",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37231028",
+  "provider": "pubmed",
+  "year": 2023,
+  "venue": "Scientific reports",
+  "citation_count": 0,
+  "abstract": "Fibrosis is characterized by excessive accumulation of extracellular matrix, which is a key feature of uterine fibroids. Our prior research supports the tenet that inhibition of fibrotic processes may restrict fibroid growth. Epigallocatechin gallate (EGCG), a green tea compound with powerful antioxidant properties, is an investigational drug for uterine fibroids. An early phase clinical trial showed that EGCG was effective in reducing fibroid size and its associated symptoms; however, its mechanism of action(s) has not been completely elucidated. Here, we probed effects of EGCG on key signaling pathways involved in fibroid cell fibrosis. Viability of myometrial and fibroid cells was not greatly affected by EGCG treatment (1-200 µM). Cyclin D1, a protein involved in cell cycle progression, was increased in fibroid cells and was significantly reduced by EGCG. EGCG treatment significantly reduced mRNA or protein levels of key fibrotic proteins, including fibronectin (FN1), collagen (COL1A1), plasminogen activator inhibitor-1 (PAI-1), connective tissue growth factor (CTGF), and actin alpha 2, smooth muscle (ACTA2) in fibroid cells, suggesting antifibrotic effects. EGCG treatment altered the activation of YAP, β-catenin, JNK and AKT, but not Smad 2/3 signaling pathways involved in mediating fibrotic process. Finally, we conducted a comparative study to evaluate the ability of EGCG to regulate fibrosis with synthetic inhibitors. We observed that EGCG displayed greater efficacy than ICG-001 (β-catenin), SP600125 (JNK) and MK-2206 (AKT) inhibitors, and its effects were equivalent to verteporfin (YAP) or SB525334 (Smad) for regulating expression of key fibrotic mediators. These data indicate that EGCG exhibits anti-fibrotic effects in fibroid cells. These results provide insight into mechanisms behind the observed clinical efficacy of EGCG against uterine fibroids.",
+  "type": "academic",
+  "pdf_url": ""
+}

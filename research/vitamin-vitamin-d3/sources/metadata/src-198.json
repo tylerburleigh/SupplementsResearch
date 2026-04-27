@@ -1,0 +1,36 @@
+{
+  "id": "src-198",
+  "title": "Associations of vitamin D with lipid metabolism, inflammation, and mortality vary by glycemic status and gender: a nationwide prospective study",
+  "authors": [
+    "Cai, Meizhi",
+    "Jiang, Xuan",
+    "Xu, Xinyi",
+    "Zhao, Sidi",
+    "Sun, Yue",
+    "Yang, Yushuo",
+    "Gu, Ying",
+    "Huang, Yifan"
+  ],
+  "year": 2025,
+  "abstract": "BackgroundWe aimed to investigate the associations of 25-hydroxyvitamin D (25OHD) with lipid, inflammatory, and injury biomarkers, and their potential mediating roles in vitamin D-related mortality.MethodsWe analyzed data from 4,144 participants in the 2015–2018 National Health and Nutrition Examination Survey (NHANES). Glycemic status was classified using fasting plasma glucose and hemoglobin A1c levels. Key biomarkers were assessed, including visceral adiposity index (VAI) and systemic inflammation response index (SIRI). Multivariate linear regression and restricted cubic spline models examined associations.ResultsIn females, 25OHD was positively associated with HDL-cholesterol across all glycemic subgroups, and with triglycerides and total cholesterol in the normal glycemic subgroup (all p &amp;lt; 0.05). In males, inverse associations of 25OHD with triglycerides and VAI were most pronounced in the prediabetes group (p &amp;lt; 0.05). 25OHD was inversely associated with SIRI in normoglycemic individuals and prediabetic males. Mediation analyses revealed that SIRI partially mediated the inverse association between 25OHD and mortality only in prediabetic males, while lipid and injury biomarkers showed no significant mediation effects in any subgroup.ConclusionGender and glycemic status influence the associations between vitamin D and biomarkers, with inflammation potentially mediating the relationship between vitamin D and mortality in prediabetic males.",
+  "doi": "10.3389/fnut.2025.1597527",
+  "url": "https://doi.org/10.3389/fnut.2025.1597527",
+  "pdf_url": "",
+  "venue": "Frontiers in Nutrition",
+  "citation_count": 1,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T21:25:01.816099+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-198.md",
+  "quality_details": {
+    "content_length": 64771,
+    "alpha_ratio": 0.612,
+    "sentence_count": 577,
+    "reasons": []
+  }
+}

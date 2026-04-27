@@ -1,0 +1,20 @@
+{
+  "id": "src-180",
+  "title": "Effect of resveratrol on blood pressure: a meta-analysis of randomized controlled trials.",
+  "authors": [
+    "Liu, Yanxia",
+    "Ma, Wanqiang",
+    "Zhang, Po",
+    "He, Shunchuan",
+    "Huang, Daifa"
+  ],
+  "doi": "10.1016/j.clnu.2014.03.009",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/24731650",
+  "provider": "pubmed",
+  "year": 2015,
+  "venue": "Clinical nutrition (Edinburgh, Scotland)",
+  "citation_count": 0,
+  "abstract": "BACKGROUND & AIMS: The results of human clinical trials that have investigated the effects of resveratrol on blood pressure are inconsistent. We aimed to quantitatively evaluate the effects of resveratrol on systolic blood pressure (SBP) and diastolic blood pressure (DBP).\nMETHODS: We conducted a strategic literature search of PubMed, EMBASE, MEDLINE, and the Cochrane Library (updated to January, 2014) for randomized controlled trials that evaluate the effects of resveratrol on SBP and DBP. Study quality was assessed using the Jadad scale. Weighted mean differences were calculated for net changes in SBP and DBP using fixed-effects or random-effects models. We performed pre-specified subgroup, sensitivity and meta-regression analyses to evaluate potential the heterogeneity. Dose effects of resveratrol on SBP and DBP were estimated using meta-regression analyses.\nRESULTS: Six studies comprising a total of 247 subjects were included in our meta-analysis. The overall outcome of the meta-analysis indicates that resveratrol consumption can not significantly reduce SBP and DBP. Subgroup analyses indicated that higher-dose of resveratrol consumption (≥ 150 mg/d) significantly reduces SBP of -11.90 mmHg (95% CI: -20.99, -2.81 mmHg, P = 0.01), whereas lower dose of resveratrol did not show a significant lowering effect on SBP. The meta-regression analyses did not indicate dose effects of resveratrol on SBP or DBP.\nCONCLUSIONS: The present meta-analysis indicates that resveratrol consumption significantly decreases the SBP level at the higher dose, while resveratrol has no significant effects on DBP levels. Additional high-quality studies are needed to further evaluate the causal conclusions.",
+  "type": "academic",
+  "pdf_url": ""
+}

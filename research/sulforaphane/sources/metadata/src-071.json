@@ -1,0 +1,26 @@
+{
+  "id": "src-071",
+  "title": "A Randomised Controlled Trial of SFX-01 After Subarachnoid Haemorrhage - The SAS Study.",
+  "authors": [
+    "Zolnourian, Ardalan",
+    "Garland, Patrick",
+    "Holton, Patrick",
+    "Arora, Mukul",
+    "Rhodes, Jonathan",
+    "Uff, Christopher",
+    "Birch, Tony",
+    "Howat, David",
+    "Franklin, Stephen",
+    "Galea, Ian",
+    "Bulters, Diederik"
+  ],
+  "doi": "10.1007/s12975-024-01278-1",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39028412",
+  "provider": "pubmed",
+  "year": 2025,
+  "venue": "Translational stroke research",
+  "citation_count": 0,
+  "abstract": "SFX-01 is a novel drug for clinical delivery of sulforaphane (SFN). SFN is a potent nuclear factor erythroid 2-related factor 2 activator that reduces inflammation and oxidation, improving outcomes after subarachnoid haemorrhage (SAH) in animal models. This was a multi-centre, double-blind, placebo-controlled, parallel-group randomised clinical trial to evaluate the safety, pharmacokinetics and efficacy of 28 days of SFX-01 300 mg BD in patients aged 18-80 with spontaneous SAH and high blood load on CT. Primary outcomes were (1) safety, (2) plasma and CSF SFN and metabolite levels and (3) vasospasm on transcranial doppler ultrasound. Secondary outcomes included CSF haptoglobin and malondialdehyde and clinical outcome on the modified Rankin Scale (mRS) and SAH outcome tool (SAHOT). A total of 105 patients were randomised (54 SFX-01, 51 placebo). There were no differences in adverse events other than nausea (9 SFX-01 (16.7%), 1 placebo (2.0%)). SFN, SFN-glutathione and SFN-N-acetyl-cysteine AUClast were 16.2, 277 and 415 h × ng/ml. Plasma SFN was higher in GSTT1 null individuals (t = 2.40, p = 0.023). CSF levels were low with many samples below the lower limit of quantification and predicted by the CSF/serum albumin ratio (R2 = 0.182, p = 0.039). There was no difference in CSF haptoglobin (1.981 95%CI 0.992-3.786, p = 0.052) or malondialdehyde (1.12 95%CI 0.7477-1.687, p = 0.572) or middle cerebral artery flow velocity (1.04 95%CI 0.903-1.211, p = 0.545) or functional outcome (mRS 1.647 95%CI 0.721-3.821, p = 0.237, SAHOT 1.082 95%CI 0.464-2.525, p = 0.855). SFX-01 is safe and effective for the delivery of SFN in acutely unwell patients. SFN penetrated CSF less than expected and did not reduce large vessel vasospasm or improve outcome. Trial registration: NCT02614742 clinicaltrials.gov.",
+  "type": "academic",
+  "pdf_url": ""
+}

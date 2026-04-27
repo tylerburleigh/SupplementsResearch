@@ -1,0 +1,10 @@
+105	2	Abstract
+192	2	1. Introduction
+298	3	2.1. Experimental animals and body temperature measurement
+372	3	2.2. Polysaccharide peptide and lipopolisaccharide preparation and administration
+469	3	2.5. Statistical analysis
+539	2	3. Results
+743	2	4. Discussion
+1425	2	5. Conclusion
+1500	2	References
+1962	2	59. Kalamida D, Karagounis IV, Mitrakas A, Kalamida S, Giatromanolaki A, Koukourakis

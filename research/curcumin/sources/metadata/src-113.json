@@ -1,0 +1,22 @@
+{
+  "id": "src-113",
+  "title": "Overcoming cancer therapeutic bottleneck by drug repurposing",
+  "authors": [
+    "Zhang, Zhe",
+    "Zhou, Li",
+    "Xie, Na",
+    "Nice, Edouard C.",
+    "Zhang, Tao",
+    "Cui, Yongping",
+    "Huang, Canhua"
+  ],
+  "doi": "10.1038/s41392-020-00213-8",
+  "url": "https://openalex.org/W3039977092",
+  "provider": "openalex",
+  "year": 2020,
+  "venue": "Signal Transduction and Targeted Therapy",
+  "citation_count": 502,
+  "abstract": "Ever present hurdles for the discovery of new drugs for cancer therapy have necessitated the development of the alternative strategy of drug repurposing, the development of old drugs for new therapeutic purposes. This strategy with a cost-effective way offers a rare opportunity for the treatment of human neoplastic disease, facilitating rapid clinical translation. With an increased understanding of the hallmarks of cancer and the development of various data-driven approaches, drug repurposing further promotes the holistic productivity of drug discovery and reasonably focuses on target-defined antineoplastic compounds. The \"treasure trove\" of non-oncology drugs should not be ignored since they could target not only known but also hitherto unknown vulnerabilities of cancer. Indeed, different from targeted drugs, these old generic drugs, usually used in a multi-target strategy may bring benefit to patients. In this review, aiming to demonstrate the full potential of drug repurposing, we present various promising repurposed non-oncology drugs for clinical cancer management and classify these candidates into their proposed administration for either mono- or drug combination therapy. We also summarize approaches used for drug repurposing and discuss the main barriers to its uptake.",
+  "type": "academic",
+  "pdf_url": "https://www.nature.com/articles/s41392-020-00213-8.pdf"
+}

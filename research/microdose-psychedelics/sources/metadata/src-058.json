@@ -1,0 +1,20 @@
+{
+  "id": "src-058",
+  "title": "Pharmacokinetics and pharmacodynamics of sublingual microdosed lysergic acid diethylamide in healthy adult volunteers.",
+  "authors": [
+    "Morse, James D",
+    "Jeong, Soo Hee",
+    "Murphy, Robin J",
+    "Muthukumaraswamy, Suresh D",
+    "Sumner, Rachael L"
+  ],
+  "doi": "10.1177/02698811251330747",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40251818",
+  "provider": "pubmed",
+  "year": 2025,
+  "venue": "Journal of psychopharmacology (Oxford, England)",
+  "citation_count": 0,
+  "abstract": "INTRODUCTION: Microdosing is the practice of taking psychedelic drugs at doses that produce no or minimal perceptible subjective or behavioural effects. This study investigated the pharmacokinetics and pharmacodynamics of microdosed lysergic acid diethylamide (LSD).\nMETHODS: This was a Phase 1 double-blind placebo-controlled parallel-groups trial with 80 healthy male volunteers (four withdrawals due to anxiety). Plasma samples were taken at 0.5, 1, 2, 4 and 6 h after 10 µg sublingual LSD and analysed with liquid chromatography-tandem mass spectrometry (LC-MS/MS). LSD pharmacokinetics were modelled. Population analyses were performed using nonlinear mixed effects models. Heart rate and a visual analogue scale ('feel effect') were used to describe LSD pharmacodynamics. The effect of the relevant cytochrome P450 (CYP) genotype on LSD pharmacokinetics was qualitatively assessed. Plasma and serum levels of brain-derived neurotrophic factor (BDNF) were evaluated.\nRESULTS: A one-compartment model best described LSD pharmacokinetics. Mean (95% confidence interval): elimination clearance = 7.78 L/h/70 kg (6.75-8.77), central volume of distribution = 32.9 L/70 kg (30.1, 36.0). Maximal concentration (0.20 µg/L), time to maximal concentration (1.51 h) and elimination half-life (3.08 h). The maximal increase in heart rate and visual analogue scale was small (<15%) compared to baseline estimates limiting the modelling. Two of the participants withdrawn from the study due to anxiety had intermediate-weak CYP2D6 activity. CYP2D6, CYP1A6, CYP2B6 and CYP2C9 qualitatively appeared to influence concentration. No evidence of alterations of peripheral BDNF with microdosing was found.\nCONCLUSION: This study provides a population pharmacokinetic model and LC-MS/MS assay that can inform clinical and bioequivalence studies. Relevant CYP genotypes should be studied in larger samples as combined potential biomarkers of response. Microdose-sensitive and reliable pharmacodynamic measures are needed.",
+  "type": "academic",
+  "pdf_url": ""
+}

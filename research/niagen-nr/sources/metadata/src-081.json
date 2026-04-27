@@ -1,0 +1,30 @@
+{
+  "id": "src-081",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10692436/pdf/glad106.pdf",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-20T20:48:50.530256+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-081.md",
+  "quality_details": {
+    "content_length": 55,
+    "alpha_ratio": 0.818,
+    "sentence_count": 1,
+    "reasons": [
+      "content too short (55 chars < 500)",
+      "few sentences detected (1 < 3)"
+    ]
+  }
+}

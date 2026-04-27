@@ -1,0 +1,29 @@
+{
+  "id": "src-008",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://www.naturalathleteclinic.com/products/iron-bisglycinate",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-21T17:48:08.141532+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-008.md",
+  "quality_details": {
+    "content_length": 2590,
+    "alpha_ratio": 0.797,
+    "sentence_count": 25,
+    "reasons": [
+      "paywall_page (subscribe)"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "src-158",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "",
+  "pdf_url": "https://cdn.clinicaltrials.gov/large-docs/92/NCT06368492/Prot_SAP_000.pdf",
+  "venue": "",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "",
+  "fetched_at": "2026-04-26T10:55:47.308326+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-158.md",
+  "quality_details": {
+    "content_length": 127829,
+    "alpha_ratio": 0.759,
+    "sentence_count": 1330,
+    "reasons": [
+      "low linebreak density (515 chars/break)",
+      "paywall_page (USD)"
+    ]
+  }
+}

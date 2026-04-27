@@ -1,0 +1,30 @@
+{
+  "id": "src-129",
+  "title": "Estimates of the prevalence of arthritis and other rheumatic conditions in the United States: Part II",
+  "authors": [
+    "Lawrence, Reva C.",
+    "Felson, David T.",
+    "Helmick, Charles G.",
+    "Arnold, Lesley M.",
+    "Choi, Hyon K.",
+    "Deyo, Richard A.",
+    "Gabriel, Sherine E.",
+    "Hirsch, Rosemarie",
+    "Hochberg, Marc C.",
+    "Hunder, Gene G.",
+    "Jordan, Joanne M.",
+    "Katz, Jeffrey N.",
+    "Kremers, Hilal Maradit",
+    "Wolfe, Frederick",
+    "Workgroup, National Arthritis Data"
+  ],
+  "doi": "10.1002/art.23176",
+  "url": "https://openalex.org/W2133915381",
+  "provider": "openalex",
+  "year": 2007,
+  "venue": "Arthritis & Rheumatism",
+  "citation_count": 5515,
+  "abstract": "Estimates for many specific rheumatic conditions rely on a few, small studies of uncertain generalizability to the US population. This report provides the best available prevalence estimates for the US, but for most specific conditions more studies generalizable to the US or addressing understudied populations are needed.",
+  "type": "academic",
+  "pdf_url": ""
+}

@@ -1,0 +1,32 @@
+{
+  "id": "src-127",
+  "title": "The Effects of Creatine Supplementation Combined with Resistance Training on Regional Measures of Muscle Hypertrophy: A Systematic Review with Meta-Analysis",
+  "authors": [
+    "Burke, Ryan",
+    "Piñero, Alec",
+    "Coleman, Max",
+    "Mohan, Adam",
+    "Sapuppo, Max",
+    "Augustin, Francesca",
+    "Aragon, Alan A.",
+    "Candow, Darren G.",
+    "Forbes, Scott C.",
+    "Swinton, Paul",
+    "Schoenfeld, Brad J."
+  ],
+  "year": 2023,
+  "abstract": "The purpose of this paper was to carry out a systematic review with a meta-analysis of randomized controlled trials that examined the combined effects of resistance training (RT) and creatine supplementation on regional changes in muscle mass, with direct imaging measures of hypertrophy. Moreover, we performed regression analyses to determine the potential influence of covariates. We included trials that had a duration of at least 6 weeks and examined the combined effects of creatine supplementation and RT on site-specific direct measures of hypertrophy (magnetic resonance imaging (MRI), computed tomography (CT), or ultrasound) in healthy adults. A total of 44 outcomes were analyzed across 10 studies that met the inclusion criteria. A univariate analysis of all the standardized outcomes showed a pooled mean estimate of 0.11 (95% Credible Interval (CrI): −0.02 to 0.25), providing evidence for a very small effect favoring creatine supplementation when combined with RT compared to RT and a placebo. Multivariate analyses found similar small benefits for the combination of creatine supplementation and RT on changes in the upper and lower body muscle thickness (0.10–0.16 cm). Analyses of the moderating effects indicated a small superior benefit for creatine supplementation in younger compared to older adults (0.17 (95%CrI: −0.09 to 0.45)). In conclusion, the results suggest that creatine supplementation combined with RT promotes a small increase in the direct measures of skeletal muscle hypertrophy in both the upper and lower body.",
+  "doi": "10.3390/nu15092116",
+  "url": "https://doi.org/10.3390/nu15092116",
+  "pdf_url": "",
+  "venue": "Nutrients",
+  "citation_count": 56,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T13:57:11.609895+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok"
+}

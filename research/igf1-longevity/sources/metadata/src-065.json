@@ -1,0 +1,23 @@
+{
+  "id": "src-065",
+  "title": "The influence of fasting and energy restricting diets on IGF-1 levels in humans: A systematic review and meta-analysis.",
+  "authors": [
+    "Rahmani, J.",
+    "Varkaneh, Hamed Kord",
+    "Clark, Cain C. T.",
+    "Zand, H.",
+    "Bawadi, H.",
+    "Ryan, P.",
+    "Fatahi, S.",
+    "Zhang, Yong"
+  ],
+  "doi": "10.1016/j.arr.2019.100910",
+  "url": "https://www.semanticscholar.org/paper/a3d21e000a3aede3c5a5bad1cdd88ea05b84b6dd",
+  "provider": "semantic_scholar",
+  "year": 2019,
+  "venue": "Ageing Research Reviews",
+  "citation_count": 78,
+  "abstract": "BACKGROUND\nFasting and energy restricting diets have a potential means of delaying or preventing the onset of a range of age-related metabolic and neoplastic diseases. Consistently at the centre of this effect appears to be a significant reduction in circulating IGF-1 levels. The aim of the current systematic review and meta-analysis was to determine the influence of fasting and energy restriction on IGF-1 levels in human subjects.\n\nMETHODS\nA comprehensive systematic search was conducted from onset of the database to February 2019 in Embase, MEDLINE/PubMed, and SCOPUS to identify randomized clinical trials that investigating the impact of fasting or energy restriction circulating IGF-1 levels. Effect size was reported as weighted mean difference (WMD) and 95% confidence intervals (CI) using a random-effects models. Subgroup analysis was performed to identify the probable source of heterogeneity among trials.\n\nRESULTS\nTotal pooling of fasting and energy restriction randomised controlled trials in WMD analysis revealed no significant effect on circulating IGF-1 levels (WMD: -16.41 ng/ml, 95% CI: -35.88, 3.07). Sub grouped analysis fasting regimens appeared to substantially reduce IGF-1 (WMD: -28.87 ng/ml, 95% CI: -43.69, -14.05, I2 = 00%), energy restricting regimens failed to do the same (WMD: -10.98 ng/ml, 95% CI: -33.08, 11.11, I2 = 90%). Within this final subgrouping, it was observed that only energy restriction regimens of 50% or greater of normal daily energy intake were capable of significantly reducing IGF-1 levels (WMD: -36.57 ng/ml, 95% CI: -59.19, -13.95, I2 = 00%). Finally, a meta regression were noted in which the percentage restriction of daily energy intake inversely correlated with plasma IGF-1 levels (p = 0.04).\n\nCONCLUSION\nThis study uncovered that fasting significantly reduced levels of IGF-1, while energy restriction diets were successful only when intake was reduced by 50% or more.",
+  "type": "academic",
+  "pdf_url": "https://pure.coventry.ac.uk/ws/files/29483380/Binder1.pdf"
+}

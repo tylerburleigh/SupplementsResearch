@@ -1,0 +1,22 @@
+{
+  "id": "src-305",
+  "title": "Epigallocatechin Gallate (EGCG), a Green Tea Polyphenol, Reduces Coronavirus Replication in a Mouse Model",
+  "authors": [
+    "Park, Rackhyun",
+    "Jang, Minsu",
+    "Park, Yea-In",
+    "Park, Yeonjeong",
+    "Jung, W.",
+    "Park, Jayhyun",
+    "Park, Junsoo"
+  ],
+  "doi": "10.3390/v13122533",
+  "url": "https://www.semanticscholar.org/paper/4d0e598654766ff22b770dabd5bba62800b744d4",
+  "provider": "semantic_scholar",
+  "year": 2021,
+  "venue": "Viruses",
+  "citation_count": 44,
+  "abstract": "The COVID-19 pandemic has resulted in a huge number of deaths from 2020 to 2021; however, effective antiviral drugs against SARS-CoV-2 are currently under development. Recent studies have demonstrated that green tea polyphenols, particularly EGCG, inhibit coronavirus enzymes as well as coronavirus replication in vitro. Herein, we examined the inhibitory effect of green tea polyphenols on coronavirus replication in a mouse model. We used epigallocatechin gallate (EGCG) and green tea polyphenols containing more than 60% catechin (GTP60) and human coronavirus OC43 (HCoV-OC43) as a surrogate for SARS-CoV-2. Scanning electron microscopy analysis results showed that HCoV-OC43 infection resulted in virion particle production in infected cells. EGCG and GTP60 treatment reduced coronavirus protein and virus production in the cells. Finally, EGCG- and GTP60-fed mice exhibited reduced levels of coronavirus RNA in mouse lungs. These results demonstrate that green tea polyphenol treatment is effective in decreasing the level of coronavirus in vivo.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/1999-4915/13/12/2533/pdf?version=1639729799"
+}

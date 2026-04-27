@@ -1,0 +1,20 @@
+{
+  "id": "src-301",
+  "title": "Interaction of Sirtuin 1 ( SIRT1) Candidate Longevity Gene and Particulate Matter (PM 2.5) on All-Cause Mortality: A Longitudinal Cohort Study",
+  "authors": [
+    "Yao, Yao",
+    "Liu, Linxin",
+    "Guo, G.",
+    "Zeng, Yipeng",
+    "Ji, John S"
+  ],
+  "doi": "10.2139/ssrn.3672349",
+  "url": "https://www.semanticscholar.org/paper/7dd36adc0ac3b62720c8e80c345bdae6d32052b3",
+  "provider": "semantic_scholar",
+  "year": 2020,
+  "venue": "Social Science Research Network",
+  "citation_count": 0,
+  "abstract": "Background: The SIRT1 gene was associated with the lifespan in several organisms through inflammatory and oxidative stress pathways. Long-term air particulate matter (PM) is detrimental to health through the same pathways.\n\nMethods: We used the Chinese Longitudinal Healthy Longevity Survey (CLHLS) to investigate whether there is a gene-environment (G×E) interaction of SIRT1 and air pollution on mortality in an older cohort in China. Among 7,083 participants with a mean age of 81.1 years, we genotyped the SIRT1 alleles for each participant and assessed PM2.5 concentration using 3-year average concentrations around each participant's residence. We used Cox-proportional hazards models to estimate the independent and joint effects of SIRT1 polymorphisms and PM2.5 exposure on all-cause mortality, adjusting for a set of confounders.\n\nFindings: There were 2,843 deaths over 42,852 person-years. The mortality hazard ratio (HR) and 95% confidence interval (CI) for each 10 μg/m³ increase in PM2·5 was 1.08 (1.05-1.11); for SIRT1_391 was 0.77 (0.61, 0.98) in the recessive model after adjustment. In stratified analyses, participants carrying two SIRT1_391 minor alleles had a significantly higher HR for each 10 μg/m³ increase in PM2.5 than those carrying one or none minor allele (1.336 [1.079-1.653] vs. 1.078 [1.049-1.107]; p for interaction = 0.012). Moreover, the interaction of SIRT1 and air pollution on mortality is significant among women but not among men. We did not see significant relationships for SIRT1_366, SIRT1_773, and SIRT1_720.\n\nInterpretation: We found a gene-environment interaction of SIRT1 and air pollution on mortality, possibly through the inflammation modulating mechanism of SIRT1 polymorphisms.\n\nFunding Statement: This work was supported by Bill & Melinda Gates Foundation, National Institute of Health of the United States (2P01AG031719), National Key R&D Program of China (2018YFC2000400) and National Natural Sciences Foundation of China (71490732, 81903392, 81941021), China Postdoctoral Science Foundation funded project (2019M650359).\n\nDeclaration of Interests: None reported.\n\nEthics Approval Statement: CLHLS was approved by the Institutional Review Board, Duke University (Pro00062871), and the Biomedical Ethics Committee, Peking University (IRB00001052–13074). All participants or their legal representatives signed written consent forms to participate in the baseline and followup surveys. This study followed the Strengthening the Reporting of Observational Studies in Epidemiology (STROBE) reporting guidelines.",
+  "type": "academic",
+  "pdf_url": ""
+}

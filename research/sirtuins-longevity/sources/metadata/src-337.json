@@ -1,0 +1,17 @@
+{
+  "id": "src-337",
+  "title": "Epigenetic Determinants of Cancer",
+  "authors": [
+    "Baylin, Stephen B.",
+    "Jones, Peter A."
+  ],
+  "doi": "10.1101/cshperspect.a019505",
+  "url": "https://openalex.org/W2403874820",
+  "provider": "openalex",
+  "year": 2016,
+  "venue": "Cold Spring Harbor Perspectives in Biology",
+  "citation_count": 1319,
+  "abstract": "SUMMARYEpigenetic changes are present in all human cancers and are now known to cooperate with genetic alterations to drive the cancer phenotype. These changes involve DNA methylation, histone modifiers and readers, chromatin remodelers, microRNAs, and other components of chromatin. Cancer genetics and epigenetics are inextricably linked in generating the malignant phenotype; epigenetic changes can cause mutations in genes, and, conversely, mutations are frequently observed in genes that modify the epigenome. Epigenetic therapies, in which the goal is to reverse these changes, are now one standard of care for a preleukemic disorder and form of lymphoma. The application of epigenetic therapies in the treatment of solid tumors is also emerging as a viable therapeutic route.",
+  "type": "academic",
+  "pdf_url": "http://cshperspectives.cshlp.org/content/8/9/a019505.full.pdf"
+}

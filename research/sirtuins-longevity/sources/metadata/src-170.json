@@ -1,0 +1,27 @@
+{
+  "id": "src-170",
+  "title": "A reduced form of nicotinamide riboside defines a new path for NAD+ biosynthesis and acts as an orally bioavailable NAD+ precursor",
+  "authors": [
+    "Giroud‐Gerbetant, Judith",
+    "Joffraud, Magali",
+    "Giner, Maria Pilar",
+    "Cercillieux, Angelique",
+    "Bártová, Simona",
+    "Makarov, Mikhail V.",
+    "Zapata‐Pérez, Rubén",
+    "Sánchez, José Luis",
+    "Houtkooper, Riekelt H.",
+    "Migaud, Marie E.",
+    "Moco, Sofia",
+    "Cantó, Carles"
+  ],
+  "doi": "10.1016/j.molmet.2019.09.013",
+  "url": "https://openalex.org/W2978252541",
+  "provider": "openalex",
+  "year": 2019,
+  "venue": "Molecular Metabolism",
+  "citation_count": 131,
+  "abstract": "Our data identify a new pathway for NAD<sup>+</sup> synthesis and classify NRH as a promising new therapeutic strategy to enhance NAD<sup>+</sup> levels.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.1016/j.molmet.2019.09.013"
+}

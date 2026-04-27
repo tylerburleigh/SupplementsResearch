@@ -1,0 +1,30 @@
+{
+  "id": "src-137",
+  "title": "Multi-omics reveals 2-bromo-4,6-dinitroaniline (BDNA)-induced hepatotoxicity and the role of the gut-liver axis in rats.",
+  "authors": [
+    "Deng, F.",
+    "Qin, Guangqiu",
+    "Chen, Yuanyuan",
+    "Zhang, Xu",
+    "Zhu, Mu",
+    "Hou, M.",
+    "Yao, Qiao",
+    "Gu, W.",
+    "Wang, Chao",
+    "Yang, Hui",
+    "Jia, X.",
+    "Wu, Chongming",
+    "Peng, Hui",
+    "Du, Huamao",
+    "Tang, Song"
+  ],
+  "doi": "10.1016/j.jhazmat.2023.131760",
+  "url": "https://www.semanticscholar.org/paper/48d26284d2a6c09f75335510cc445b33abdef2a2",
+  "provider": "semantic_scholar",
+  "year": 2023,
+  "venue": "Journal of Hazardous Materials",
+  "citation_count": 16,
+  "abstract": "2-Bromo-4, 6-dinitroaniline (BDNA) is a widespread azo-dye-related hazardous pollutant. However, its reported adverse effects are limited to mutagenicity, genotoxicity, endocrine disruption, and reproductive toxicity. We systematically assessed the hepatotoxicity of BDNA exposure via pathological and biochemical examinations and explored the underlying mechanisms via integrative multi-omics analyses of the transcriptome, metabolome, and microbiome in rats. After 28 days of oral administration, compared with the control group, 100 mg/kg BDNA significantly triggered hepatotoxicity, upregulated toxicity indicators (e.g., HSI, ALT, and ARG1), and induced systemic inflammation (e.g., G-CSF, MIP-2, RANTES, and VEGF), dyslipidemia (e.g., TC and TG), and bile acid (BA) synthesis (e.g., CA, GCA, and GDCA). Transcriptomic and metabolomic analyses revealed broad perturbations in gene transcripts and metabolites involved in the representative pathways of liver inflammation (e.g., Hmox1, Spi1, L-methionine, valproic acid, and choline), steatosis (e.g., Nr0b2, Cyp1a1, Cyp1a2, Dusp1, Plin3, arachidonic acid, linoleic acid, and palmitic acid), and cholestasis (e.g., FXR/Nr1h4, Cdkn1a, Cyp7a1, and bilirubin). Microbiome analysis revealed reduced relative abundances of beneficial gut microbial taxa (e.g., Ruminococcaceae and Akkermansia muciniphila), which further contributed to the inflammatory response, lipid accumulation, and BA synthesis in the enterohepatic circulation. The observed effect concentrations here were comparable to the highly contaminated wastewaters, showcasing BDNA's hepatotoxic effects at environmentally relevant concentrations. These results shed light on the biomolecular mechanism and important role of the gut-liver axis underpinning BDNA-induced cholestatic liver disorders in vivo.",
+  "type": "academic",
+  "pdf_url": ""
+}

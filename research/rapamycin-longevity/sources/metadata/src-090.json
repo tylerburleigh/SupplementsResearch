@@ -1,0 +1,33 @@
+{
+  "id": "src-090",
+  "title": "Multiplex Apolipoprotein Panel Improves Cardiovascular Event Prediction and Cardiovascular Outcome by Identifying Patients Who Benefit From Targeted PCSK9 Inhibitor Therapy.",
+  "authors": [
+    "Reijnders, Esther",
+    "Bossuyt, Patrick M",
+    "Jukema, J Wouter",
+    "Ruhaak, L Renee",
+    "Romijn, Fred P H T M",
+    "Szarek, Michael",
+    "Trompet, Stella",
+    "Bhatt, Deepak L",
+    "Bittner, Vera A",
+    "Diaz, Rafael",
+    "Fazio, Sergio",
+    "Stevanovic, Irena",
+    "Goodman, Shaun G",
+    "Harrington, Robert A",
+    "White, Harvey D",
+    "Steg, Philippe Gabriel",
+    "Schwartz, Gregory G",
+    "Cobbaert, Christa M"
+  ],
+  "doi": "10.1161/atvbaha.124.322336",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40995631",
+  "provider": "pubmed",
+  "year": 2025,
+  "venue": "Arteriosclerosis, thrombosis, and vascular biology",
+  "citation_count": 0,
+  "abstract": "BACKGROUND: Residual cardiovascular risk remains, despite achieving low-density lipoprotein cholesterol targets with high-intensity statins. Traditional risk scores are suboptimal. This study evaluated the prognostic utility of a 9-plex apolipoprotein panel in recent patients with acute coronary syndrome on statins and its role in predicting treatment benefit by alirocumab, a PCSK9 (proprotein convertase subtilisin/kexin type 9) inhibitor, enabling precision medicine.\nMETHODS: Baseline serum samples from 11 843 participants in the ODYSSEY OUTCOMES trial (https://www.clinicaltrials.gov; Unique identifier: NCT01663402) were analyzed using mass spectrometry to measure Apo(a), ApoA-I, ApoA-II, ApoA-IV, ApoB, ApoC-I, ApoC-II, ApoC-III, and ApoE. Using logistic regression, probabilities of major adverse cardiovascular events (MACE) and all-cause death over a median follow-up of 2.9 years were estimated based on baseline apolipoproteins and lipid concentrations. Clinical performance was assessed by comparing the area under the curve (AUC) of 3 models: the apolipoprotein panel, the lipid panel (total cholesterol, high-density lipoprotein cholesterol, and triglycerides), and a combination. In addition, prediction models estimating the treatment benefit of alirocumab by the apolipoprotein panel were developed.\nRESULTS: The prognostic performance of the apolipoprotein panel for MACE showed an AUC (95% CI) of 0.648 (0.626-0.670), compared with 0.579 (0.557-0.602) for the lipid panel. For all-cause death, the apolipoprotein panel had an AUC of 0.699 (0.664-0.733), while the lipid panel had an AUC of 0.599 (0.564-0.635). Adding the apolipoprotein panel significantly improved the performance of the conventional lipid panel (P<0.0001): AUC, 0.659 (0.637-0.681) for MACE and 0.724 (0.691-0.756) for all-cause death. Higher risk for MACE based on the baseline apolipoprotein panel was found to predict greater treatment benefit with alirocumab.\nCONCLUSIONS: A multiplex apolipoprotein panel led to better prediction of MACE and all-cause death, beyond lipids, in patients with postacute coronary syndrome on optimized statin therapy. The panel also predicts the treatment benefit of alirocumab. Further validation of this approach is now needed, and if confirmed and improved, it could lead to better disease prediction and management in the future.",
+  "type": "academic",
+  "pdf_url": ""
+}

@@ -1,0 +1,32 @@
+{
+  "id": "src-350",
+  "title": "Insulin-like growth factor receptor signaling regulates working memory, mitochondrial metabolism, and amyloid-β uptake in astrocytes",
+  "authors": [
+    "Logan, Sreemathi",
+    "Pharaoh, Gavin",
+    "Marlin, M.",
+    "Masser, Dustin R",
+    "Matsuzaki, S.",
+    "Wronowski, Benjamin",
+    "Yeganeh, Alexander",
+    "Parks, E.",
+    "Premkumar, Pavithra",
+    "Farley, Julie A.",
+    "Owen, Daniel B.",
+    "Humphries, Kenneth M.",
+    "Kinter, M.",
+    "Freeman, W.",
+    "Szweda, L.",
+    "Remmen, H. Van",
+    "Sonntag, W."
+  ],
+  "doi": "10.1016/j.molmet.2018.01.013",
+  "url": "https://www.semanticscholar.org/paper/7ea3e02ddc9e7350bdf0f5f1db89ea005b852148",
+  "provider": "semantic_scholar",
+  "year": 2018,
+  "venue": "Molecular Metabolism",
+  "citation_count": 136,
+  "abstract": "Objective A decline in mitochondrial function and biogenesis as well as increased reactive oxygen species (ROS) are important determinants of aging. With advancing age, there is a concomitant reduction in circulating levels of insulin-like growth factor-1 (IGF-1) that is closely associated with neuronal aging and neurodegeneration. In this study, we investigated the effect of the decline in IGF-1 signaling with age on astrocyte mitochondrial metabolism and astrocyte function and its association with learning and memory. Methods Learning and memory was assessed using the radial arm water maze in young and old mice as well as tamoxifen-inducible astrocyte-specific knockout of IGFR (GFAP-CreTAM/igfrf/f). The impact of IGF-1 signaling on mitochondrial function was evaluated using primary astrocyte cultures from igfrf/f mice using AAV-Cre mediated knockdown using Oroboros respirometry and Seahorse assays. Results Our results indicate that a reduction in IGF-1 receptor (IGFR) expression with age is associated with decline in hippocampal-dependent learning and increased gliosis. Astrocyte-specific knockout of IGFR also induced impairments in working memory. Using primary astrocyte cultures, we show that reducing IGF-1 signaling via a 30–50% reduction IGFR expression, comparable to the physiological changes in IGF-1 that occur with age, significantly impaired ATP synthesis. IGFR deficient astrocytes also displayed altered mitochondrial structure and function and increased mitochondrial ROS production associated with the induction of an antioxidant response. However, IGFR deficient astrocytes were more sensitive to H2O2-induced cytotoxicity. Moreover, IGFR deficient astrocytes also showed significantly impaired glucose and Aβ uptake, both critical functions of astrocytes in the brain. Conclusions Regulation of astrocytic mitochondrial function and redox status by IGF-1 is essential to maintain astrocytic function and coordinate hippocampal-dependent spatial learning. Age-related astrocytic dysfunction caused by diminished IGF-1 signaling may contribute to the pathogenesis of Alzheimer's disease and other age-associated cognitive pathologies.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.1016/j.molmet.2018.01.013"
+}

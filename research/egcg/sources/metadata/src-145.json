@@ -1,0 +1,25 @@
+{
+  "id": "src-145",
+  "title": "Assessing immune hepatotoxicity of troglitazone with a versatile liver-immune-microphysiological-system",
+  "authors": [
+    "Deng, Quanfeng",
+    "Yang, Youlong",
+    "Liu, Yuangui",
+    "Zou, Mengting",
+    "Huang, Guiyuan",
+    "Yang, Shiqi",
+    "Li, Lingyu",
+    "Qu, Yueyang",
+    "Luo, Yong",
+    "Zhang, Xiuli"
+  ],
+  "doi": "10.3389/fphar.2024.1335836",
+  "url": "https://www.semanticscholar.org/paper/2c41f0fe65b66b64b6525d104b0b76ce872cd716",
+  "provider": "semantic_scholar",
+  "year": 2024,
+  "venue": "Frontiers in Pharmacology",
+  "citation_count": 8,
+  "abstract": "Drug-induced liver injury is a prevalent adverse event associated with pharmaceutical agents. More significantly, there are certain drugs that present severe hepatotoxicity only during the clinical phase, consequently leading to the termination of drug development during clinical trials or the withdrawal from the market after approval. The establishment of an evaluation model that can sensitively manifest such hepatotoxicity has always been a challenging aspect in drug development. In this study, we build a liver-immune-microphysiological-system (LIMPS) to fully demonstrate the liver injury triggered by troglitazone (TGZ), a drug that was withdrawn from the market due to hepatotoxicity. Leveraging the capabilities of organ-on-chip technology allows for the dynamic modulation of cellular immune milieu, as well as the synergistic effects between drugs, hepatocytes and multiple immune cells. Through the LIMPS, we discovered that 1) TGZ can promote neutrophils to adhered hepatocytes, 2) the presence of TGZ enhances the crosstalk between macrophages and neutrophils, 3) the induction of damage in hepatocytes by TGZ at clinically relevant blood concentrations not observed in other in vitro experiments, 4) no hepatotoxicity was observed in LIMPS when exposed to rosiglitazone and pioglitazone, structurally similar analogs of TGZ, even at the higher multiples of blood drug concentration levels. As an immune-mediated liver toxicity assessment method, LIMPS is simple to operate and can be used to test multiple drug candidates to detect whether they will cause severe liver toxicity in clinical settings as early as possible.",
+  "type": "academic",
+  "pdf_url": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2024.1335836/pdf"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "src-030",
+  "title": "Reported Awareness and Use of Pyridoxal-5′-Phosphate Supplementation in Alanine Aminotransferase and Aspartate Aminotransferase Assay Reagents: A Survey by the College of American Pathologists Clinical Chemistry Committee",
+  "authors": [
+    "Chambliss, Allison B.",
+    "Souers, Rhona J.",
+    "Genzen, Jonathan R.",
+    "Manthei, David M."
+  ],
+  "year": 2025,
+  "abstract": "Context.—\nAlanine aminotransferase (ALT) and aspartate aminotransferase (AST) assay reagents are available both with and without supplementation with pyridoxal-5'-phosphate (P5P; the active form of vitamin B6), a catalytic cofactor required for their enzymatic reactions. Nonsupplemented assays may miss ALT or AST elevations in patients with vitamin B6 deficiency.\n\nObjective.—\nTo assess awareness and adoption of ALT and AST reagents that are supplemented with P5P.\n\nDesign.—\nA 4-question survey about ALT and AST reagent supplementation with P5P was included in the College of American Pathologists General Chemistry and Therapeutic Drugs (C program) proficiency testing 2023 B mailing.\n\nResults.—\nOverall, 38% (1651 of 4304) of responding laboratories reported using ALT and/or AST reagent supplemented with P5P. P5P supplementation was more common for nonacademic hospital/medical center laboratories (44%; 713 of 1629) relative to other settings. Of the laboratories that reported not using P5P-supplemented reagents, few (5%; 141 of 2611) cited plans to convert in the future. Despite the availability of P5P-supplemented reagents from several major assay manufacturers, the most common stated barrier for adoption was that the laboratory’s reagent manufacturer does not provide P5P-supplemented reagents.\n\nConclusions.—\nThere is a lack of awareness of the existence and benefits of P5P-supplemented ALT and AST reagents. There is a need for ALT and AST assay manufacturers to clarify and standardize the P5P status of ALT and AST reagents.",
+  "doi": "10.5858/arpa.2024-0097-cp",
+  "url": "https://doi.org/10.5858/arpa.2024-0097-cp",
+  "pdf_url": "",
+  "venue": "Archives of Pathology &amp; Laboratory Medicine",
+  "citation_count": 3,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-20T16:01:28.276413+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-030.md",
+  "quality_details": {
+    "content_length": 15021,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

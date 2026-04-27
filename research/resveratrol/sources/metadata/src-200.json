@@ -1,0 +1,20 @@
+{
+  "id": "src-200",
+  "title": "Mechanisms of Obesity-Induced Inflammation and Insulin Resistance: Insights into the Emerging Role of Nutritional Strategies",
+  "authors": [
+    "McArdle, Maeve A.",
+    "Finucane, Orla M.",
+    "Connaughton, Ruth M.",
+    "McMorrow, Aoibheann M.",
+    "Roche, Helen M."
+  ],
+  "doi": "10.3389/fendo.2013.00052",
+  "url": "https://openalex.org/W1967161323",
+  "provider": "openalex",
+  "year": 2013,
+  "venue": "Frontiers in Endocrinology",
+  "citation_count": 512,
+  "abstract": "Obesity and associated chronic inflammation initiate a state of insulin resistance (IR). The secretion of chemoattractants such as MCP-1 and MIF and of cytokines IL-6, TNF-α, and IL-1β, draw immune cells including dendritic cells, T cells, and macrophages into adipose tissue (AT). Dysfunctional AT lipid metabolism leads to increased circulating free fatty acids, initiating inflammatory signaling cascades in the population of infiltrating cells. A feedback loop of pro-inflammatory cytokines exacerbates this pathological state, driving further immune cell infiltration and cytokine secretion and disrupts the insulin signaling cascade. Disruption of normal AT function is causative of defects in hepatic and skeletal muscle glucose homeostasis, resulting in systemic IR and ultimately the development of type 2 diabetes. Pharmaceutical strategies that target the inflammatory milieu may have some potential; however there are a number of safety concerns surrounding such pharmaceutical approaches. Nutritional anti-inflammatory interventions could offer a more suitable long-term alternative; whilst they may be less potent than some pharmaceutical anti-inflammatory agents, this may be advantageous for long-term therapy. This review will investigate obese AT biology, initiation of the inflammatory, and insulin resistant environment; and the mechanisms through which dietary anti-inflammatory components/functional nutrients may be beneficial.",
+  "type": "academic",
+  "pdf_url": "https://www.frontiersin.org/articles/10.3389/fendo.2013.00052/pdf"
+}

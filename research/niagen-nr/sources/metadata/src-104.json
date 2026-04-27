@@ -1,0 +1,29 @@
+{
+  "id": "src-104",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/8449423",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-20T20:48:39.915918+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-104.md",
+  "quality_details": {
+    "content_length": 67158,
+    "alpha_ratio": 0.744,
+    "sentence_count": 998,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

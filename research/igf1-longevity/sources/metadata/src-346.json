@@ -1,0 +1,27 @@
+{
+  "id": "src-346",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "",
+  "pdf_url": "https://www.mcgill.ca/pollak-lab/files/pollak-lab/mtor_as_a_central_regulator_of_lifespan_and_aging_edited_1.pdf",
+  "venue": "",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "",
+  "fetched_at": "2026-04-23T22:39:25.804142+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-346.md",
+  "quality_details": {
+    "content_length": 132669,
+    "alpha_ratio": 0.726,
+    "sentence_count": 1392,
+    "reasons": []
+  }
+}

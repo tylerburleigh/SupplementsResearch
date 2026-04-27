@@ -1,0 +1,19 @@
+{
+  "id": "src-254",
+  "title": "Regulation of Nrf2/ARE Pathway by Dietary Flavonoids: A Friend or Foe for Cancer Management?",
+  "authors": [
+    "Suraweera, Tharindu L.",
+    "Rupasinghe, H.P. Vasantha",
+    "Dellaire, Graham",
+    "Xu, Zhaolin"
+  ],
+  "doi": "10.3390/antiox9100973",
+  "url": "https://openalex.org/W3091818267",
+  "provider": "openalex",
+  "year": 2020,
+  "venue": "Antioxidants",
+  "citation_count": 178,
+  "abstract": "The nuclear factor erythroid 2-related factor 2 (Nrf2)/antioxidant response element (ARE) pathway is an important cell signaling mechanism in maintaining redox homeostasis in humans. The role of dietary flavonoids in activating Nrf2/ARE in relation to cancer chemoprevention or cancer promotion is not well established. Here we summarize the dual effects of flavonoids in cancer chemoprevention and cancer promotion with respect to the regulation of the Nrf2/ARE pathway, while underlying the possible cellular mechanisms. Luteolin, apigenin, quercetin, myricetin, rutin, naringenin, epicatechin, and genistein activate the Nrf2/ARE pathway in both normal and cancer cells. The hormetic effect of flavonoids has been observed due to their antioxidant or prooxidant activity, depending on the concentrations. Reported in vitro and in vivo investigations suggest that the activation of the Nrf2/ARE pathway by either endogenous or exogenous stimuli under normal physiological conditions contributes to redox homeostasis, which may provide a mechanism for cancer chemoprevention. However, some flavonoids, such as luteolin, apigenin, myricetin, quercetin, naringenin, epicatechin, genistein, and daidzein, at low concentrations (1.5 to 20 µM) facilitate cancer cell growth and proliferation in vitro. Paradoxically, some flavonoids, including luteolin, apigenin, and chrysin, inhibit the Nrf2/ARE pathway in vitro. Therefore, even though flavonoids play a major role in cancer chemoprevention, due to their possible inducement of cancer cell growth, the effects of dietary flavonoids on cancer pathophysiology in patients or appropriate experimental animal models should be investigated systematically.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2076-3921/9/10/973/pdf?version=1602406704"
+}

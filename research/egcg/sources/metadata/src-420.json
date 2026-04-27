@@ -1,0 +1,16 @@
+{
+  "id": "src-420",
+  "title": "Therapeutic Modulation of Virus‐Induced Oxidative Stress via the Nrf2‐Dependent Antioxidative Pathway",
+  "authors": [
+    "Lee, Choongho"
+  ],
+  "doi": "10.1155/2018/6208067",
+  "url": "https://openalex.org/W2899319752",
+  "provider": "openalex",
+  "year": 2018,
+  "venue": "Oxidative Medicine and Cellular Longevity",
+  "citation_count": 143,
+  "abstract": "Virus-induced oxidative stress plays a critical role in the viral life cycle as well as the pathogenesis of viral diseases. In response to reactive oxygen species (ROS) generation by a virus, a host cell activates an antioxidative defense system for its own protection. Particularly, a nuclear factor erythroid 2p45-related factor 2 (Nrf2) pathway works in a front-line for cytoprotection and detoxification. Recently, a series of studies suggested that a group of clinically relevant viruses have the capacity for positive and negative regulations of the Nrf2 pathway. This virus-induced modulation of the host antioxidative response turned out to be a crucial determinant for the progression of several viral diseases. In this review, virus-specific examples of positive and negative modulations of the Nrf2 pathway will be summarized first. Then a number of successful genetic and pharmacological manipulations of the Nrf2 pathway for suppression of the viral replication and the pathogenesis-associated oxidative damage will be discussed later. Understanding of the interplay between virus-induced oxidative stress and antioxidative host response will aid in the discovery of potential antiviral supplements for better management of viral diseases.",
+  "type": "academic",
+  "pdf_url": "http://downloads.hindawi.com/journals/omcl/2018/6208067.pdf"
+}

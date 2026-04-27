@@ -1,0 +1,26 @@
+{
+  "id": "src-232",
+  "title": "Selenium nanoparticles ameliorate lumbar disc degeneration by restoring GPX1-mediated redox homeostasis and mitochondrial function of nucleus pulposus cells.",
+  "authors": [
+    "He, Wei",
+    "Tian, Xin",
+    "Zhou, Quan",
+    "Lv, Jiaheng",
+    "Li, Yangfeng",
+    "Jin, Chenyang",
+    "Liu, Hao",
+    "Yang, Huiling",
+    "Xu, Yong",
+    "He, Fan",
+    "Liu, Tao"
+  ],
+  "doi": "10.1186/s12951-024-02890-x",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39420311",
+  "provider": "pubmed",
+  "year": 2024,
+  "venue": "Journal of nanobiotechnology",
+  "citation_count": 0,
+  "abstract": "Intervertebral disc degeneration (IVDD) is a prevalent musculoskeletal disorder that involves the excessive accumulation of reactive oxygen species (ROS), resulting in mitochondrial dysfunction and matrix metabolism imbalance in nucleus pulposus cells (NPCs). Selenium, an indispensable trace element, plays a crucial role in maintaining mitochondrial redox homeostasis by being incorporated into antioxidant selenoproteins as selenocysteine. In this study, we employed a straightforward synthesis method to produce selenium nanoparticles (SeNPs) with consistent size and distribution, and evaluated their potential protective effects in ameliorating IVDD. In a simulated inflammatory environment induced by interleukin-1beta (IL-1β) in vitro, SeNPs demonstrated a protective effect on the matrix synthesis capacity of NPCs through the up-regulation of aggrecan and type II collagen, while concurrently suppressing the expression of matrix degradation enzymes including MMP13 and ADAMTS5. Additionally, SeNPs preserved mitochondrial integrity and restored impaired mitochondrial energy metabolism by activating glutathione peroxidase1 (GPX1) to rebalance redox homeostasis. In a rat lumbar disc model induced by puncture, the local administration of SeNPs preserved the hydration of nucleus pulposus tissue, promoted matrix deposition, and effectively mitigated the progression of IVDD. Our results indicate that the enhancement of GPX1 by SeNPs may offer a promising therapeutic approach for IVDD by restoring mitochondrial function and redox homeostasis.",
+  "type": "academic",
+  "pdf_url": ""
+}

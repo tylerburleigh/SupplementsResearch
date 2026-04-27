@@ -1,0 +1,24 @@
+{
+  "id": "src-087",
+  "title": "First-time oral administration of resveratrol-loaded layer-by-layer nanoparticles to rats – a pharmacokinetics study",
+  "authors": [
+    "Paiva‐Santos, Ana Cláudia",
+    "Veiga, Francisco",
+    "Sequeira, Joana A.D.",
+    "Fortuna, Ana",
+    "Falcão, Amílcar",
+    "Pereira, Irina",
+    "Pattekari, Pravin",
+    "Ribeiro, Carlos",
+    "Ribeiro, António J."
+  ],
+  "doi": "10.1039/c8an01998c",
+  "url": "https://openalex.org/W2909699802",
+  "provider": "openalex",
+  "year": 2019,
+  "venue": "The Analyst",
+  "citation_count": 34,
+  "abstract": "trans-Resveratrol (RSV) is a plant-derived polyphenol endowed with a broad spectrum of promising therapeutic activities. The applicability of RSV in vivo has, however, had limited success so far, largely due to its inefficient systemic delivery resulting from its low water solubility. Layer-by-Layer (LbL) nanotechnology constitutes an innovative formulation strategy to address this concern, and is based on the design of tunable onion-like multilayered nanoarchitectures on the surface of low solubility drug nanocores, such as RSV. The purpose of this study was the investigation of the bioavailability of an LbL nanoformulation composed of 5.5 bilayers of polyallylamine hydrochloride (PAH) and dextran sulfate (DS) (LbL NPs) by pharmacokinetic studies following oral dosing to Wistar rats (20 mg kg<sup>-1</sup>). The systemic exposure of LbL NPs was compared to the respective nanoformulation without LbL coatings (RSV nanocores) and the free RSV suspension. The results demonstrated that both LbL NPs and RSV nanocores significantly enhanced, respectively, 1.76-fold and 2.74-fold the systemic exposure of RSV compared to the free RSV suspension, emphasizing their biopharmaceutical advantage. Surprisingly, besides the modified drug release potential of the LbL NPs, these exhibited a slightly lower systemic exposure (0.36-fold) in comparison with non-LbL modified RSV nanocores. These results were justified only by the electrostatic interactions composition of the LbL shell composition, requiring further research towards the application of stronger interactions. For this study, due to the key role of the bioanalytical method in the in vivo data acquisition, a rapid, selective, and sensitive HPLC-DAD method has been successfully optimized and fully validated to confidently quantify RSV levels in the rat plasma matrix, together with the optimization of the sample preparation procedure. Moreover, the chemical stability of RSV was evaluated for 24 h in simulated gastric and intestinal fluids with enzymes. Overall, our findings suggest that LbL NPs should be given great attention, representing a potential drug delivery system for RSV in view of the application of RSV not solely as a supplement but also as a therapeutic drug.",
+  "type": "academic",
+  "pdf_url": ""
+}

@@ -1,0 +1,21 @@
+{
+  "id": "src-171",
+  "title": "Mitochondrial bioenergetics-SASP crosstalk determines senolytic efficacy in therapy-induced senescence",
+  "authors": [
+    "Llop-Hernández, Àngela",
+    "Verdura, S.",
+    "López, Júlia",
+    "Martín-Castillo, B.",
+    "Menendez, Javier A.",
+    "Cuyás, E."
+  ],
+  "doi": "10.1038/s41420-026-02967-6",
+  "url": "https://www.semanticscholar.org/paper/7002a18be35ebfc81dbdbd33fdaf51041892cf02",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "Cell Death Discovery",
+  "citation_count": 0,
+  "abstract": "Mitochondria integrate senescence and apoptotic fates, yet it is unclear whether their ability to oxidize different fuels for energy production influences their vulnerability to senolytics in therapy-induced senescence (TIS). Using MitoPlates™ technology, we functionally mapped the mitophenotypes of TIS cancer cells by quantifying electron transport chain (ETC) flux from various NADH/FADH2 substrates. We then related these profiles to the responsiveness of TIS cancer cells to BCL-xL-targeting BH3 senolytics, as well as to inflammatory SASP signaling sensed by an NF-κB/miR-146a reporter. Mechanistically distinct senogenic stressors produced markedly different bioenergetic outputs and substrate diversity, establishing mitochondria as an emergent, stress-encoded property of TIS phenomena. Increased mitochondrial bioenergetic flexibility corresponded with senolytic permissiveness within each cell lineage. However, the magnitude of the senolytic response was largely limited by the pre-senescent bioenergetic configuration of the parental mitochondria, and baseline succinate oxidation served as a functional indicator of this inherited threshold. TIS SASPs were restricted by the secretome of the cell-of-origin, but only the miR146a-positive, fatty acid β-oxidation-related inflammatory SASP states were senolytically responsive. Inflachromene, an inhibitor of the chromatin remodelers HMGB1/2, decoupled mitochondrial bioenergetics from senolytic susceptibility, yielding SASP-null/miR146a-negative senescent cancer cells that were completely resistant to ABT-263/navitoclax and A1331852 despite extensive mitochondrial reprogramming. Thus, the senolytic response is governed by a layered circuit in which mitochondrial bioenergetic heritage establishes the senolytic ceiling, TIS-acquired bioenergetic flexibility fine-tunes the amplitude of the senolytic response, and establishing a mitochondria-inflammatory SASP crosstalk is required for BH3-mediated senolysis. These results support using functional readouts that integrate mitochondrial metabolic flexibility and inflammatory SASP to predict and potentially enhance senolytic efficacy in TIS cancer cells.",
+  "type": "academic",
+  "pdf_url": ""
+}

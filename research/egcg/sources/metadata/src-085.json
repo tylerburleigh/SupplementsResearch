@@ -1,0 +1,18 @@
+{
+  "id": "src-085",
+  "title": "Updates of mTOR inhibitors.",
+  "authors": [
+    "Zhou, Hongyu",
+    "Luo, Yan",
+    "Huang, Shile"
+  ],
+  "doi": "10.2174/187152010793498663",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/20812900",
+  "provider": "pubmed",
+  "year": 2010,
+  "venue": "Anti-cancer agents in medicinal chemistry",
+  "citation_count": 0,
+  "abstract": "Mammalian target of rapamycin (mTOR) is a central controller of cell growth, proliferation, metabolism and angiogenesis. mTOR signaling is often dysregulated in various human diseases and thus attracts great interest in developing drugs that target mTOR. Currently it is known that mTOR functions as two complexes, mTOR complex 1/2 (mTORC1/2). Rapamycin and its analogs (all termed rapalogs) first form a complex with the intracellular receptor FK506 binding protein 12 (FKBP12) and then bind a domain separated from the catalytic site of mTOR, blocking mTOR function. Rapalogs are selective for mTORC1 and effective as anticancer agents in various preclinical models. In clinical trials, rapalogs have demonstrated efficacy against certain types of cancer. Recently, a new generation of mTOR inhibitors, which compete with ATP in the catalytic site of mTOR and inhibit both mTORC1 and mTORC2 with a high degree of selectivity, have been developed. Besides, some natural products, such as epigallocatechin gallate (EGCG), caffeine, curcumin and resveratrol, have been found to inhibit mTOR as well. Here, we summarize the current findings regarding mTOR signaling pathway and review the updated data about mTOR inhibitors as anticancer agents.",
+  "type": "academic",
+  "pdf_url": ""
+}

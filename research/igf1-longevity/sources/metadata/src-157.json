@@ -1,0 +1,26 @@
+{
+  "id": "src-157",
+  "title": "Temporal transcriptomic profiling reveals distinct age-associated gene expression signatures in gonads under reduced insulin/IGF-1 signaling in Caenorhabditis elegans",
+  "authors": [
+    "Kaushik, N.",
+    "Rastogi, Soumya",
+    "Kapadia, Shivani",
+    "Jain, Vaibhav",
+    "Verma, Sonia",
+    "Pandey, Deepak",
+    "Sharma, Mona",
+    "Gupta, Surabhi",
+    "Halder, Ashutosh",
+    "Gregory, Simon",
+    "Kumar, Neeraj"
+  ],
+  "doi": "10.1186/s12964-025-02510-7",
+  "url": "https://www.semanticscholar.org/paper/533b6e253dea8d70d711181ad0e88679db829478",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "Cell Communication and Signaling",
+  "citation_count": 0,
+  "abstract": "Age-related decline in reproductive function is a hallmark of organismal aging, yet the molecular mechanisms driving this process remain incompletely understood. The insulin/IGF-1 signaling (IIS) pathway is highly conserved and influences both lifespan and reproductive aging in Caenorhabditis elegans, where reduced IIS extends reproductive span. While prior studies have examined isolated tissues or time points, a comprehensive temporal analysis of gonadal transcriptional dynamics under reduced IIS has been lacking. Here, we compared IIS-dependent regulation of the gonadal transcriptome with that of other somatic tissues to uncover tissue-specific mechanisms of reproductive aging. Bulk RNA sequencing was performed on distal gonads dissected above the spermatheca from wild-type N2 and daf-2(e1370) mutant animals, a well-established model of reduced IIS. Samples were collected at four physiologically relevant adult stages—Day 1 (young adult), Day 2, Day 6, and Day 10—covering early to late reproductive periods. In parallel, whole-worm RNA-seq was conducted for N2 and daf-2 at Day 1 and Day 10 to enable systemic comparisons. Differential gene expression analyses identified IIS-responsive transcripts that were either gonad-specific or non-gonadal. Expression datasets were further analyzed using self-organizing maps (SOMs) with hierarchical clustering. Gene network construction, functional enrichment, transcription factor enrichment, and conservation analyses were performed, and differential expression profiles were integrated with publicly available germline-, gamete-, and somatic tissue-enriched datasets. Temporal transcriptomic profiling revealed distinct IIS-dependent expression trajectories in gonadal versus non-gonadal datasets. SOM-based clustering resolved temporally regulated expression modules, while network and enrichment analyses uncovered a multilayered regulatory architecture within the gonad. Gonadal expression was enriched for structural, extracellular matrix, and signaling pathway genes, whereas non-gonadal data showed enrichment for stress response and longevity-associated pathways. Integration with germline-, gamete-, and somatic tissue-enriched datasets distinguished tissue-specific regulatory signatures. Importantly, IIS-regulated gonadal components included genes highly conserved with human orthologs. This study provides a high-resolution temporal map of the gonadal transcriptome under reduced IIS and highlights gene modules potentially critical for reproductive maintenance. These findings offer a resource for dissecting tissue-specific aging programs and insulin-dependent regulation of reproductive health. As animals age, fertility naturally declines—but the biological reasons behind this are complex. A key player in aging and reproduction is the insulin/IGF-1 signaling (IIS) pathway, which influences how long organisms stay fertile. In this study, we wanted to understand how IIS affects the activity of genes in the reproductive organs over time. To do this, we studied the roundworm Caenorhabditis elegans, a common model for aging research. We collected reproductive tissue and whole-body samples from worms with normal and reduced IIS at different stages of adulthood. We then analyzed which genes were turned on or off at each stage. Our results revealed that gene activity changes significantly with age, and that these changes look very different in reproductive tissues compared to the rest of the body. Some genes were found to be tightly regulated by IIS and may help preserve reproductive health as animals age. This study provides a valuable gene expression map that helps explain how reproductive tissues age under different insulin signaling conditions. It offers a foundation for future research into how to slow reproductive aging through targeted gene regulation.",
+  "type": "academic",
+  "pdf_url": ""
+}

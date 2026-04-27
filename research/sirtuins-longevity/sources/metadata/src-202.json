@@ -1,0 +1,16 @@
+{
+  "id": "src-202",
+  "title": "Sirtuins in Aging and Disease",
+  "authors": [
+    "Guarente, Leonard"
+  ],
+  "doi": "10.1101/sqb.2007.72.024",
+  "url": "https://openalex.org/W2032983681",
+  "provider": "openalex",
+  "year": 2007,
+  "venue": "Cold Spring Harbor Symposia on Quantitative Biology",
+  "citation_count": 372,
+  "abstract": "Sirtuin genes function as anti-aging genes in yeast, Caenorhabditis elegans, and Drosophila. The NAD requirement for sirtuin function indicates a link between aging and metabolism, and a boost in sirtuin activity may in part explain how calorie restriction extends life span. In mammals, one of the substrates of the SIR2 ortholog, SIRT1, is a regulator of mitochondrial biogenesis, PGC-1alpha. Indeed, the putative SIRT1 activator resveratrol has been shown to stimulate mitochondrial biogenesis and deliver health benefits in treated mice. I explore here how mitochondrial biogenesis may have beneficial effects on aging and, perhaps, diseases of aging. In particular, I speculate that SIRT1-mediated mitochondrial biogenesis may reduce the production of reactive oxygen species, a possible cause of aging, and offer two possible mechanisms for this effect. An understanding of how calorie restriction works may lead to novel drugs to combat diseases of aging.",
+  "type": "academic",
+  "pdf_url": "http://symposium.cshlp.org/content/72/483.full.pdf"
+}

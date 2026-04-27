@@ -1,0 +1,49 @@
+3	2	Original Article
+10	1	International Osteoporosis Foundation and National Osteoporosis Foundation 2015
+11	2	Abstract
+56	2	2 EpidStat Institute, Evergreen, CO, USA
+57	2	3 Cancer Epidemiology Program, University of Hawaii Cancer Center,
+59	2	4 Jean Mayer USDA Human Nutrition Research Center on Aging,
+61	2	5 School of Nursing, Creighton University, Omaha, NE, USA
+62	2	6 School of Medicine, Creighton University, Omaha, NE, USA
+63	2	7 Skeletal Health and Osteoporosis Center and Bone Density Unit,
+69	2	9 Division of Health and Nutrition Examination Statistics, National
+74	2	11 Department of Nutrition and Food Studies, George Mason
+76	2	12 Department of Public Health and Community Medicine, Tufts
+93	2	Introduction
+150	2	Methods
+359	2	Results
+479	2	Discussion
+653	2	References
+667	2	5. Chung M, Balk EM, Brendel M, Ip S, Lau J, Lee J, Lichtenstein A,
+681	2	9. Jackson RD, LaCroix AZ, Gass M, Wallace RB, Robbins J,
+694	2	10. Prentice RL, Pettinger MB, Jackson RD, Wactawski-Wende J,
+703	2	12. Bischoff-Ferrari HA, Willett WC, Orav EJ, Lips P , Meunier PJ,
+716	2	15. Bonjour JP , Benoit V , Pourchaire O, Rousseau B,
+721	2	16. Bosworth C, de Boer IH, Targher G, Kendrick J, Smits G,
+726	2	17. Cauley JA, Chlebowski RT, Wactawski-Wende J, Robbins JA,
+735	2	18. Crandall CJ, Yildiz VO, Wactawski-Wende J, Johnson KC, Chen Z,
+740	2	19. Gaffney-Stomberg E, Lutz LJ, Rood JC, Cable SJ, Pasiakos SM,
+748	2	21. Kaste SC, Qi A, Smith K, Surprise H, Lovorn E, Boyett J, Ferry RJ
+754	2	22. Kruger MC, Ha PC, Todd JM, Kuhn-Sherlock B, Schollum LM,
+765	2	25. Moschonis G, Kanellakis S, Papaioannou N, Schaafsma A, Manios
+770	2	26. Neelemaat F, Lips P , Bosmans JE, Thijs A, Seidell JC, van
+774	2	27. Norenstedt S, Pernow Y , Zedenius J, Nordenstrom J, Saaf M,
+778	2	28. Rizzoli R, Dawson-Hughes B, Kaufman JM, Fardellone P , Brandi
+782	2	29. Robbins JA, Aragaki A, Crandall CJ, Manson JE, Carbone L,
+786	2	30. Shapses SA, Sukumar D, Schneider SH, Schlussel Y , Sherrell RM,
+797	2	33. Trautvetter U, Neef N, Leiterer M, Kiehntopf M, Kratzsch J, Jahreis
+802	2	34. Chapuy MC, Arlot ME, Duboeuf F, Brun J, Crouzet B, Arnaud S,
+807	2	35. Chapuy MC, Pamphile R, Paris E, Kempf C, Schlichting M,
+815	2	37. Flicker L, MacInnis RJ, Stein MS, Scherer SC, Mead KE, Nowson
+819	2	38. Grant AM, Avenell A, Campbell MK, McDonald AM, MacLennan
+830	2	40. Komulainen MH, Kroger H, Tuppurainen MT, Heikkinen AM,
+834	2	41. Pfeifer M, Begerow B, Minne HW, Abrams C, Nachtigall D,
+838	2	42. Porthouse J, Cockayne S, King C, Saxon L, Steele E, Aspray T,
+843	2	43. Salovaara K, Tuppurainen M, Karkkainen M, Rikkonen T, Sandini
+854	2	46. Wright NC, Looker AC, Saag KG, Curtis JR, Delzell ES, Randall S,
+859	2	47. Burge R, Dawson-Hughes B, Solomon DH, Wong JB, King A,
+863	2	48. Bailey RL, Dodd KW, Goldman JA, Gahche JJ, Dwyer JT,
+874	2	50. Blumberg J, Heaney RP , Huncharek M, Scholl T, Stampfer M,
+880	2	52. Abrahamsen B, Masud T, Avenell A, Anderson F, Meyer HE,
+891	2	54. LeBoff MS, Y ue A Y , Copeland T, Cook N, Buring JE, Manson JE

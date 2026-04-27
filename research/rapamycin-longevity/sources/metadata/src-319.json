@@ -1,0 +1,25 @@
+{
+  "id": "src-319",
+  "title": "Low-dose rapamycin prevents Ang-II-induced toxicity in Leydig cells and testicular dysfunction in hypertensive SHR model.",
+  "authors": [
+    "Kuo, Wei-Wen",
+    "Baskaran, Rathinasamy",
+    "Lin, Jing-Ying",
+    "Day, Cecilia Hsuan",
+    "Lin, Yueh-Min",
+    "Ho, Tsung-Jung",
+    "Chen, Ray-Jade",
+    "Lin, Mei-Yi",
+    "Padma, Viswanadha Vijaya",
+    "Huang, Chih-Yang"
+  ],
+  "doi": "10.1002/jbt.23128",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35698875",
+  "provider": "pubmed",
+  "year": 2022,
+  "venue": "Journal of biochemical and molecular toxicology",
+  "citation_count": 0,
+  "abstract": "Hypertension is a common chronic cardiovascular disease reported among both men and women. Hypertension in males affects the testis and reproduction function; however, the pathogenesis is poorly understood. Rapamycin has been reported to have a variety of beneficial pharmacological effects; however, high-doses rapamycin does have side effects such as immunosuppression. The present study investigates whether low-dose rapamycin can reduce the damage caused by hypertension to the testis of spontaneously hypertensive rats (SHRs) and further examines molecular mechanism of low-dose rapamycin in preventing testicular toxicity induced by angiotensin II (Ang II). Low rapamycin dose restores the testicle size, histological alterations, 3β-hydroxysteroid dehydrogenase (3β-HSD) expression, and prevents apoptosis in SHR rats. Ang II downregulates angiotensin-converting enzyme-2 (ACE2) expression through AT1R, p-ERK, and MAS receptor in LC-540 Leydig cells in a dose-dependent manner. Low doses of rapamycin effectively upregulate steroidogenic enzymes, steroidogenic acute regulatory protein and 3β-HSD expression in Leydig cells. Rapamycin upregulates ACE2 expression through p-PKAc and p-PI3k in Ang II-treated cells. Further, rapamycin curbs mitochondrial superoxide generation and depleted mitochondrial membrane potential induced by Ang II through activation of Nrf2-mediated Gpx4 and superoxide dismutase 2 expression. Our results revealed the involvement of ACE2, AT1R, AT2R, PKAc, and oxidative stress in Ang-II-induced testicular toxicity, suggesting low-dose rapamycin could be a potential therapeutic candidate to attenuate testicular toxicity.",
+  "type": "academic",
+  "pdf_url": ""
+}

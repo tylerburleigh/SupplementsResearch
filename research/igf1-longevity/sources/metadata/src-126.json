@@ -1,0 +1,16 @@
+{
+  "id": "src-126",
+  "title": "Insulin and IGF-1 extend the lifespan of Caenorhabditis elegans by inhibiting insulin/insulin-like signaling and mTOR signaling pathways: C. elegans - Focused cancer research.",
+  "authors": [
+    "Berk, Ş."
+  ],
+  "doi": "10.1016/j.bbrc.2024.150347",
+  "url": "https://www.semanticscholar.org/paper/84110fa7350b2c04e7c9a68c8d4e49a332f6ffc9",
+  "provider": "semantic_scholar",
+  "year": 2024,
+  "venue": "Biochemical and Biophysical Research Communications - BBRC",
+  "citation_count": 7,
+  "abstract": "The mutations in Caenorhabditis elegans (C. elegans) that extend lifespan slow down aging by interfering with several signaling pathways, including the insulin/IGF-1 signaling (IIS) pathway, AMP-activated protein kinase (AMPK), and mechanistic target of rapamycin (mTOR). The tumor suppressor pRb (retinoblastoma protein) is believed to be involved in almost all human cancers. Lin-35, the C. elegans orthologue of the tumor suppressor pRb, was included in the study to explore the effects of insulin and IGF-1 because it has been linked to cancer-related pRb function in mammals and exhibits a tumor suppressor effect by inhibiting mTOR or IIS signaling. According to our results, IGF-1 or insulin increased the lifespan of lin-35 worms compared to N2 worms by increasing fertilization efficiency, also causing a significant increase in body size. It was concluded that the expression of daf-2 and rsks-1 decreased after insulin or IGF-1 administration, thus extending the lifespan of C. elegans lin-35 worms through both IIS and mTOR-dependent mechanisms. This suggests that it was mediated by the combined effect of the TOR and IIS pathways. These results, especially obtained in cancer-associated mutant lin-35 worms, will be useful in elucidating the C. elegans cancer model in the future.",
+  "type": "academic",
+  "pdf_url": ""
+}

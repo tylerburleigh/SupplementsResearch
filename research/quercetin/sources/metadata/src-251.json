@@ -1,0 +1,27 @@
+{
+  "id": "src-251",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "",
+  "pdf_url": "https://ar.iiarjournals.org/content/anticanres/33/8/2989.full.pdf",
+  "venue": "",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "",
+  "fetched_at": "2026-04-22T17:15:53.279365+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-251.md",
+  "quality_details": {
+    "content_length": 38216,
+    "alpha_ratio": 0.778,
+    "sentence_count": 292,
+    "reasons": []
+  }
+}

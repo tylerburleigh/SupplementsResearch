@@ -1,0 +1,27 @@
+{
+  "id": "src-185",
+  "title": "Broccoli-Derived Nanoparticle Inhibits Mouse Colitis by Activating Dendritic Cell AMP-Activated Protein Kinase.",
+  "authors": [
+    "Deng, Zhongbin",
+    "Rong, Yuan",
+    "Teng, Yun",
+    "Mu, Jingyao",
+    "Zhuang, Xiaoying",
+    "Tseng, Michael",
+    "Samykutty, Abhilash",
+    "Zhang, Lifeng",
+    "Yan, Jun",
+    "Miller, Donald",
+    "Suttles, Jill",
+    "Zhang, Huang-Ge"
+  ],
+  "doi": "10.1016/j.ymthe.2017.01.025",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/28274798",
+  "provider": "pubmed",
+  "year": 2017,
+  "venue": "Molecular therapy : the journal of the American Society of Gene Therapy",
+  "citation_count": 0,
+  "abstract": "The intestinal immune system is continuously exposed to massive amounts of nanoparticles derived from food. Whether nanoparticles from plants we eat daily have a role in maintaining intestinal immune homeostasis is poorly defined. Here, we present evidence supporting our hypothesis that edible nanoparticles regulate intestinal immune homeostasis by targeting dendritic cells (DCs). Using three mouse colitis models, our data show that orally given nanoparticles isolated from broccoli extracts protect mice against colitis. Broccoli-derived nanoparticle (BDN)-mediated activation of adenosine monophosphate-activated protein kinase (AMPK) in DCs plays a role in not only prevention of DC activation but also induction of tolerant DCs. Adoptively transferring DCs pre-pulsed with total BDN lipids, but not sulforaphane (SFN)-depleted BDN lipids, prevented DSS-induced colitis in C57BL/6 (B6) mice, supporting the role of BDN SFN in the induction of DC tolerance. Adoptively transferring AMPK+/+, but not AMPK-/-, DCs pre-pulsed with SFN prevented DSS-induced colitis in B6 mice, further supporting the DC AMPK role in SFN-mediated prevention of DSS-induced colitis. This finding could open new preventive or therapeutic avenues to address intestinal-related inflammatory diseases via activating AMPK.",
+  "type": "academic",
+  "pdf_url": ""
+}

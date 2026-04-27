@@ -1,0 +1,18 @@
+{
+  "id": "src-373",
+  "title": "Oxidants, antioxidants, and the degenerative diseases of aging.",
+  "authors": [
+    "Ames, B N",
+    "Shigenaga, Mark K.",
+    "Hagen, Tory M."
+  ],
+  "doi": "10.1073/pnas.90.17.7915",
+  "url": "https://openalex.org/W2023677185",
+  "provider": "openalex",
+  "year": 1993,
+  "venue": "Proceedings of the National Academy of Sciences",
+  "citation_count": 5967,
+  "abstract": "Metabolism, like other aspects of life, involves tradeoffs. Oxidant by-products of normal metabolism cause extensive damage to DNA, protein, and lipid. We argue that this damage (the same as that produced by radiation) is a major contributor to aging and to degenerative diseases of aging such as cancer, cardiovascular disease, immune-system decline, brain dysfunction, and cataracts. Antioxidant defenses against this damage include ascorbate, tocopherol, and carotenoids. Dietary fruits and vegetables are the principal source of ascorbate and carotenoids and are one source of tocopherol. Low dietary intake of fruits and vegetables doubles the risk of most types of cancer as compared to high intake and also markedly increases the risk of heart disease and cataracts. Since only 9% of Americans eat the recommended five servings of fruits and vegetables per day, the opportunity for improving health by improving diet is great.",
+  "type": "academic",
+  "pdf_url": "https://pnas.org/doi/full/10.1073/pnas.90.17.7915"
+}

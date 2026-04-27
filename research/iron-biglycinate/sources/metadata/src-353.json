@@ -1,0 +1,30 @@
+{
+  "id": "src-353",
+  "title": "Faecalibacterium prausnitzii prevents age-related heart failure by suppressing ferroptosis in cardiomyocytes through butyrate-mediated LCN2 regulation",
+  "authors": [
+    "Zhang, Yun",
+    "Wei, Ying",
+    "Han, Xuejie",
+    "Shi, Ling",
+    "Yu, Hui",
+    "Ji, Xuanrui",
+    "Gao, Yunlong",
+    "Gao, Qianhui",
+    "Zhang, Linwei",
+    "Duan, Yu",
+    "Li, Wenpeng",
+    "Yuan, Yue",
+    "Shi, Jing",
+    "Cheng, Liang",
+    "Li, Yue"
+  ],
+  "doi": "10.1080/19490976.2025.2505119",
+  "url": "https://www.semanticscholar.org/paper/e77085f712aa319897c005737618519ed1d0b4eb",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "Gut microbes",
+  "citation_count": 16,
+  "abstract": "ABSTRACT Aging is a primary driver of the escalating prevalence of heart failure (HF). Age-associated gut microbiota dysbiosis has been implicated in various age-related diseases, yet its role in age-related HF remains largely unexplored. In this study, we sought to explore the potential link between age-related gut microbiota alterations and HF in the elderly. We analyzed a publicly available single-cell sequencing dataset, which revealed markedly increased ferroptosis activity in cardiac myocytes of elderly individuals compared to their younger counterparts. Notably, treatment with the ferroptosis inhibitor, ferrostatin-1, mitigated cardiac ferroptosis and prevented cardiac dysfunction in aging rats. Furthermore, fecal microbiota transplantation from elderly HF patients significantly increased cardiac ferroptosis activity and induced cardiac dysfunction in healthy recipient rats. Integrated 16S rRNA sequencing and PCR quantification revealed a marked depletion of Faecalibacterium prausnitzii (F. prausnitzii) in elderly individuals, with a more pronounced decline in elderly patients with HF. Oral administration of F. prausnitzii or its metabolite butyrate effectively attenuated age-related HF through inhibiting ferroptosis. Additionally, gene-editing techniques were employed to generate F. prausnitzii BCoAT mutant deficient in butyrate production. Intriguingly, the protective effect was lost in the butyrate-deficient F. prausnitzii strain. Mechanistically, butyrate reduced intracellular iron accumulation and suppressed ferroptosis by downregulating LCN2 expression in senescent cardiomyocytes. Our findings highlight the critical role of aged microbiota-induced ferroptosis in HF and propose F. prausnitzii or butyrate may serve as potential targets for the prevention and treatment of age-related HF.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.1080/19490976.2025.2505119"
+}

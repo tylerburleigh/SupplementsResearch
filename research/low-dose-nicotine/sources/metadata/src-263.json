@@ -1,0 +1,23 @@
+{
+  "id": "src-263",
+  "title": "Neuronal Nicotinic Receptors and Neuroprotection: Newer Ligands May Help us Understand their Role in Neurodegeneration",
+  "authors": [
+    "O’Neill, Mark",
+    "Astles, Peter C.",
+    "Dell, C. P.",
+    "Keenan, Martine",
+    "Murray, Thomas",
+    "Lakics, Viktor",
+    "Visanji, Naomi P.",
+    "Duty, Susan"
+  ],
+  "doi": "10.2174/156720305775009616",
+  "url": "https://openalex.org/W2003321361",
+  "provider": "openalex",
+  "year": 2005,
+  "venue": "Medicinal Chemistry Reviews - Online",
+  "citation_count": 4,
+  "abstract": "In the last five-six years there has been a rapid increase in publications reporting that neuronal nicotinic acetylcholine receptors (nAChR) play a role in neurodegenerative disorders. Furthermore, there is a well-established loss in nAChR in post-mortem brains from patients with Alzheimers disease, Parkinsons disease and a range of other disorders. In the present review we discuss (1) the new pharmacological ligands for studying neuronal nicotinic receptors and (2) evidence that nicotine and subtype selective nAChR ligands can provide neuroprotection in vitro in cell culture systems and in vivo using animal models of such disorders. This review is an up-dated and revised version of an earlier review published in Current Drug Targets - CNS and Neurological Disorders 4, 399-411, 2002. In terms of developing new drugs for nicotinic receptors, researchers at Abbott Laboratories have discovered a series of pyridyl ether analogues that are potent, full agonists of the α4β2 receptor. Sanofi-Synthelabo reported that SSR 591813 is a novel and selective partial α4β2 agonist, while Targacept have extensively evaluated the SAR of nicotine and metanicotine in their laboratories and developed a novel ligand, TC-2559. The α4β2 partial agonist profile of cytisine has led researchers at Pfizer to explore the potential of cytisine analogues in the treatment of addiction, in particular smoking cessation. These efforts have led to the discovery of CP-526555 (7,8,9,10-tetrahydro-6,10-methano-6H-pyrazino[2,3-h] [3]benzazepine (2R,3R)-2,3-dihydroxybutanedioate, varenicline). There has also been a huge increase in the patent literature on α7 selective ligands. In the present review we summarise work from Astra, Pharmacia, Sanofi-Synthelabo and Bayer. Whilst in vitro data pertaining to a protective effect of nicotine against nigral neurotoxins like MPTP is less robust, most studies agree that nicotine is protective against glutamate and β-amyloid toxicity in various culture systems. This effect appears to be mediated by α7 subtype nAChR since the protection is blocked by α-bungarotoxin and is mimicked by α7 selective agonists. In vivo studies indicate that α7 receptors play a critical role in protection from cholinergic lesions and enhancing cognitive function. The exact subtype involved in the neuroprotectant effects seen in animal models of Parkinsons disease is not clear, but in general broad spectrum nAChR agonists appear to provide protection, while α4β2 receptor agonists appear to provide symptomatic improvements. Evidence favouring a protectant effect of nicotine against acute degenerative conditions is less strong, though some protection has been observed with nicotine pre-treatment in global ischaemia models. A variety of cellular mechanisms ranging from the production of growth factors through to inactivation of toxins and antioxidant actions of nicotine have been proposed to underlie the nAChR-mediated neuroprotection in vitro and in vivo. In summary, although until recently the lack of subtype selective ligands has hampered progress, it is clear that in the future neuronal nAChR agonists could provide functional improvements and slow or halt the progress of several crippling degenerative diseases.",
+  "type": "academic",
+  "pdf_url": ""
+}

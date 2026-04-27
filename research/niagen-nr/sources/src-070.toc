@@ -1,0 +1,25 @@
+12	2	Abstract
+52	2	Background
+110	2	Methods
+164	2	2. Developed AKI during the h ospitalization, defined by
+171	2	3. Adequate hematological and liver function, as
+178	2	4. Able to provide written informed consent in
+184	2	2. Known allergy to any of the study drugs or their
+188	2	4. Unstable or clinically significant concurrent medical
+198	2	6. Any malignancy with the exception of cervical
+274	2	Results
+396	2	Discussion
+527	2	Conclusion
+546	2	Acknowledgements
+572	2	Competing Interests
+583	2	References
+600	2	7. Tran MT, Zsengeller ZK, Berg AH, Khankin EV, Bhasin MK, Kim W, Clish CB,
+607	2	9. Poyan Mehr A, Tran MT, Ralto KM, Leaf DE, Washco V, Messmer J, Lerner A,
+610	2	10. Dellinger RW, Santos SR, Morris M, Evans M, Alminana D, Guarente L,
+614	2	11. Trammell SA, Schmidt MS, Weidemann BJ, Redpath P, Jaksch F, Dellinger
+619	2	13. Cheng Y, Di S, Fan C, Cai L, Gao C, Jiang P, Hu W, Ma Z, Jiang S, Dong Y,
+625	2	15. Martens CR, Denman BA, Mazzo MR, Armstrong ML, Reisdorph N, McQueen
+629	2	16. Dollerup OL, Christensen B, Svart M, Schmidt MS, Sulek K, Ringgaard S,
+634	2	17. Dolopikou CF, Kourtzidis IA, Margaritelis NV, Vrabas IS, Koidou I, Kyparos A,
+638	2	18. Elhassan YS, Kluckova K, Fletcher RS, Schmidt MS, Garten A, Doig CL,
+649	2	21. Lameire NH, Bagga A, Cruz D, De Maeseneer J, Endre Z, Kellum JA, Liu KD,

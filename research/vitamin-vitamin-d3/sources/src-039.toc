@@ -1,0 +1,17 @@
+8	2	Abstract
+39	2	Introduction
+68	2	Materials And Methods
+142	2	Results
+238	2	Participants
+317	2	Participants
+397	2	Participants
+566	2	Discussion
+725	2	800 IU daily or less was found to be more favorable than a
+734	2	Author Contributions
+739	2	References
+776	2	11. Bischoff-Ferrari HA, Dawson-Hughes B, Staehelin HB, Orav JE, Stuck
+815	2	21. Avenell A, MacLennan GS, Jenkinson DJ, McPherson GC, McDonald
+824	2	23. Sanders KM, Stuart AL, Williamson EJ, Simpson JA, Kotowicz MA et
+838	2	26. Lappe JM, Travers-Gustafson D, Davies KM, Recker RR, Heaney RP
+891	2	38. Witham MD, Crighton LJ, Gillespie ND, Struthers AD, McMurdo ME
+1014	2	65. Bischoff-Ferrari HA, Dawson-Hughes B, Staehelin HB, Orav JE, Stuck

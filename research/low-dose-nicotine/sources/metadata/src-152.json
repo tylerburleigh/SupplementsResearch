@@ -1,0 +1,19 @@
+{
+  "id": "src-152",
+  "title": "Using C. elegans to discover therapeutic compounds for ageing-associated neurodegenerative diseases",
+  "authors": [
+    "Chen, Xi",
+    "Barclay, Jeff W.",
+    "Burgoyne, Robert D.",
+    "Morgan, Alan"
+  ],
+  "doi": "10.1186/s13065-015-0143-y",
+  "url": "https://openalex.org/W2177770219",
+  "provider": "openalex",
+  "year": 2015,
+  "venue": "Chemistry Central Journal",
+  "citation_count": 120,
+  "abstract": "Age-associated neurodegenerative disorders such as Alzheimer's disease are a major public health challenge, due to the demographic increase in the proportion of older individuals in society. However, the relatively few currently approved drugs for these conditions provide only symptomatic relief. A major goal of neurodegeneration research is therefore to identify potential new therapeutic compounds that can slow or even reverse disease progression, either by impacting directly on the neurodegenerative process or by activating endogenous physiological neuroprotective mechanisms that decline with ageing. This requires model systems that can recapitulate key features of human neurodegenerative diseases that are also amenable to compound screening approaches. Mammalian models are very powerful, but are prohibitively expensive for high-throughput drug screens. Given the highly conserved neurological pathways between mammals and invertebrates, Caenorhabditis elegans has emerged as a powerful tool for neuroprotective compound screening. Here we describe how C. elegans has been used to model various human ageing-associated neurodegenerative diseases and provide an extensive list of compounds that have therapeutic activity in these worm models and so may have translational potential.",
+  "type": "academic",
+  "pdf_url": "https://bmcchem.biomedcentral.com/track/pdf/10.1186/s13065-015-0143-y"
+}

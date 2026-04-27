@@ -1,0 +1,17 @@
+{
+  "id": "src-074",
+  "title": "Psychedelics as a Treatment for Alzheimer’s Disease Dementia",
+  "authors": [
+    "Jones, Simon Vann",
+    "O’Kelly, Allison"
+  ],
+  "doi": "10.3389/fnsyn.2020.00034",
+  "url": "https://openalex.org/W3080361799",
+  "provider": "openalex",
+  "year": 2020,
+  "venue": "Frontiers in Synaptic Neuroscience",
+  "citation_count": 59,
+  "abstract": "Currently, there are no disease-modifying treatments for Alzheimer's disease (AD) or any other dementia subtype. The renaissance in psychedelic research in recent years, in particular studies involving psilocybin and lysergic acid diethylamide (LSD), coupled with anecdotal reports of cognitive benefits from micro-dosing, suggests that they may have a therapeutic role in a range of psychiatric and neurological conditions due to their potential to stimulate neurogenesis, provoke neuroplastic changes and reduce neuroinflammation. This inevitably makes them interesting candidates for therapeutics in dementia. This mini-review will look at the basic science and current clinical evidence for the role of psychedelics in treating dementia, especially early AD, with a particular focus on micro-dosing of the classical psychedelics LSD and psilocybin.",
+  "type": "academic",
+  "pdf_url": "https://www.frontiersin.org/articles/10.3389/fnsyn.2020.00034/pdf"
+}

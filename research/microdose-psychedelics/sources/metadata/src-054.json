@@ -1,0 +1,35 @@
+{
+  "id": "src-054",
+  "title": "Modulation of long-term potentiation following microdoses of LSD captured by thalamo-cortical modelling in a randomised, controlled trial",
+  "authors": [
+    "Murphy, Robin J.",
+    "Godfrey, Kate",
+    "Shaw, Alexander D.",
+    "Muthukumaraswamy, Suresh",
+    "Sumner, Rachael L."
+  ],
+  "year": 2024,
+  "abstract": "Abstract\nBackground\nMicrodosing psychedelics is a phenomenon with claimed cognitive benefits that are relatively untested clinically. Pre-clinically, psychedelics have demonstrated enhancing effects on neuroplasticity, which cannot be measured directly in humans, but may be indexed by non-invasive electroencephalography (EEG) paradigms. This study used a visual long-term potentiation (LTP) EEG paradigm to test the effects of microdosed lysergic acid diethylamide (LSD) on neural plasticity, both acutely while on the drug and cumulatively after microdosing every third day for six weeks. Healthy adult males (n = 80) completed the visual LTP paradigm at baseline, 2.5 h following a dose of 10 µg of LSD or inactive placebo, and 6 weeks later after taking 14 repeated microdoses. Visually induced LTP was used as indirect index of neural plasticity. Surface level event-related potential (ERPs) based analyses are presented alongside dynamic causal modelling of the source localised data using a generative thalamocortical model (TCM) of visual cortex to elucidate underlying synaptic circuitry.\n\nResults\nEvent-related potential (ERP) analyses of N1b and P2 components did not show evidence of changes in visually induced LTP by LSD either acutely or after 6 weeks of regular dosing. However modelling the complete timecourse of the ERP with the TCM demonstrated changes in laminar connectivity in primary visual cortex. This primarily included changes to self-gain and inhibitory input parameters acutely. Layer 2/3 to layer 5 excitatory connectivity was also different between LSD and placebo groups. After regular dosing only excitatory input from layer 2/3 into layer 5 and inhibitory input into layer 4 were different between groups.\n\nConclusions\nWithout modulation of the ERPs it is difficult to relate the findings to other studies visually inducing LTP. It also indicates the classic peak analysis may not be sensitive enough to demonstrate evidence for changes in LTP plasticity in humans at such low doses. The TCM provides a more sensitive approach to assessing changes to plasticity as differences in plasticity mediated laminar connectivity were found between the LSD and placebo groups.\nTrial registration: ANZCTR registration number ACTRN12621000436875; Registered 16/04/2021 https://www.anzctr.org.au/Trial/Registration/TrialReview.aspx?id=381476.",
+  "doi": "10.1186/s12868-024-00844-5",
+  "url": "https://doi.org/10.1186/s12868-024-00844-5",
+  "pdf_url": "",
+  "venue": "BMC Neuroscience",
+  "citation_count": 13,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-26T10:45:34.348636+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-054.md",
+  "quality_details": {
+    "content_length": 61414,
+    "alpha_ratio": 0.76,
+    "sentence_count": 549,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

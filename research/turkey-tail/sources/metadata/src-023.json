@@ -1,0 +1,17 @@
+{
+  "id": "src-023",
+  "title": "Pharmacokinetics of Monoclonal Antibodies.",
+  "authors": [
+    "Ryman, Josiah T",
+    "Meibohm, Bernd"
+  ],
+  "doi": "10.1002/psp4.12224",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/28653357",
+  "provider": "pubmed",
+  "year": 2017,
+  "venue": "CPT: pharmacometrics & systems pharmacology",
+  "citation_count": 0,
+  "abstract": "Monoclonal antibodies (mAbs) have developed in the last two decades into the backbone of pharmacotherapeutic interventions in a variety of indications, with currently more than 40 mAbs approved by the US Food and Drug Administration, and several dozens more in clinical development. This tutorial will review major drug disposition processes relevant for mAbs, and will highlight product-specific and patient-specific factors that modulate their pharmacokinetic (PK) behavior and need to be considered for successful clinical therapy.",
+  "type": "academic",
+  "pdf_url": ""
+}

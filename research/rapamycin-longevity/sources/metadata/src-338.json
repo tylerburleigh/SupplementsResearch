@@ -1,0 +1,26 @@
+{
+  "id": "src-338",
+  "title": "Bruceine D inhibits hepatocellular carcinoma by regulating the STAT3 signaling pathway through HSP70",
+  "authors": [
+    "Chen, Pu",
+    "Xu, Qing",
+    "Wu, Shuling",
+    "Zhu, F.",
+    "Zhou, Yi",
+    "Lin, Qingqing",
+    "Zhao, Min",
+    "Yang, Ju",
+    "Zhao, Haiyang",
+    "Zhou, Bin",
+    "Zhao, Chengguang"
+  ],
+  "doi": "10.1186/s40001-025-03270-3",
+  "url": "https://www.semanticscholar.org/paper/731b9d0685dad371224b55923dfa0ab75418e96e",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "European Journal of Medical Research",
+  "citation_count": 0,
+  "abstract": "Hepatocellular carcinoma (HCC) is a leading cause of cancer-related mortality worldwide, with limited effective therapies and poor prognosis. Although sorafenib and lenvatinib are approved for advanced HCC, their clinical efficacy is often compromised by drug resistance and adverse effects. Bruceine D (BD) has shown antitumor potential in several cancers, but its mechanisms in HCC remain poorly defined. The effects of BD on HCC cell proliferation, apoptosis, and migration were assessed by MTT, colony formation, EdU incorporation, flow cytometry, wound healing, and transwell assays. Differentially expressed genes were identified by RNA sequencing and validated by RT-qPCR, with particular focus on Hsp70 family members. Protein expression and interactions were analyzed using Western blotting, co-immunoprecipitation (Co-IP), and Cellular Thermal Shift Assay (CETSA). Molecular docking was performed to predict BD binding sites on Hsp70. The antitumor efficacy and safety of BD were further evaluated in BALB/c nude mouse xenograft models. BD significantly inhibited HCC cell growth, induced apoptosis, and suppressed migration in a dose-dependent manner in vitro study. Transcriptomic profiling revealed downregulation of Hsp70 family members (HspA1A, HspA1B, HspA8), confirmed by RT-qPCR and Western blotting. Molecular docking suggested hydrogen bond interactions of BD with multiple residues in the Hsp70 domain. Co-IP assays demonstrated that Hsp70 binds STAT3, and BD disrupted this interaction, resulting in reduced STAT3 phosphorylation and suppression of downstream effectors (MCL-1, survivin). CETSA proved BD protected HSP70 at various temperature gradients in HCC cells. In vivo, BD markedly reduced tumor volume without affecting body weight or causing histopathological abnormalities in major organs. This study demonstrates that BD exerts potent antitumor effects against HCC by inhibiting proliferation, inducing apoptosis, and suppressing migration, primarily through disruption of the Hsp70/STAT3 signaling axis. With its favorable safety profile, BD represents a promising candidate for further development as a therapeutic agent in HCC.",
+  "type": "academic",
+  "pdf_url": ""
+}

@@ -1,0 +1,34 @@
+{
+  "id": "src-067",
+  "title": "Efficacy and safety of vitamin K2 for postmenopausal women with osteoporosis at a long-term follow-up: meta-analysis and systematic review",
+  "authors": [
+    "Zhou, Ming",
+    "Han, Shiliang",
+    "Zhang, Wenpeng",
+    "Wu, Dan"
+  ],
+  "year": 2022,
+  "abstract": "",
+  "doi": "10.1007/s00774-022-01342-6",
+  "url": "https://doi.org/10.1007/s00774-022-01342-6",
+  "pdf_url": "",
+  "venue": "Journal of Bone and Mineral Metabolism",
+  "citation_count": 21,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T10:57:37.191340+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-067.md",
+  "quality_details": {
+    "content_length": 14480,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

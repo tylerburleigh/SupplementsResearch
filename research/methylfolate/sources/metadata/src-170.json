@@ -1,0 +1,18 @@
+{
+  "id": "src-170",
+  "title": "The relationship of dietary folate, folic acid, and childhood cancer.",
+  "authors": [
+    "Xiang, Yijin",
+    "Wiemels, Joseph L",
+    "Nickels, Eric M"
+  ],
+  "doi": "10.1016/j.cppeds.2025.101820",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41338873",
+  "provider": "pubmed",
+  "year": 2025,
+  "venue": "Current problems in pediatric and adolescent health care",
+  "citation_count": 0,
+  "abstract": "Folate (vitamin B9) is an essential micronutrient and plays a critical role in one-carbon metabolism, DNA synthesis, and epigenetic regulation, particularly during early embryonic development. While the preventive role of maternal periconceptional folate intake against neural tube defects as well as other birth defects is well established, growing evidence suggests that folate status may also influence childhood cancer risk. In this review, we examine the biological mechanisms linking folate to childhood cancer, with a focus on acute lymphoblastic leukemia (ALL). We synthesize findings from population-wide natural experiments, observational studies, and meta-analyses, with particular attention to timing, dosage, and source of folate intake. Meta-analyses consistently report protective associations between maternal folic acid supplementation and childhood ALL, while evidence for natural dietary folate is more limited and less consistent. Genetic variants in folate metabolism pathways, particularly in the MTHFR gene, may modify these associations, and gene-environment interactions are increasingly recognized as important. Maternal folate status during the periconceptional period has also been linked to changes in offspring DNA methylation and potentially to long-term health outcomes, including at specific epigenetic loci such as IGF2 and ZFP57, as well as across the epigenome. The overall evidence supports the continued promotion of adequate maternal folate intake. Future research should prioritize causal inference methods, epigenome-wide analyses, and greater inclusion of underrepresented populations to clarify the role of folate in childhood cancer etiology.",
+  "type": "academic",
+  "pdf_url": ""
+}

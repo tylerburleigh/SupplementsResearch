@@ -1,0 +1,20 @@
+{
+  "id": "src-036",
+  "title": "Nicotinamide Mononucleotide (NMN) Works in Type 2 Diabetes through Unexpected Effects in Adipose Tissue, Not by Mitochondrial Biogenesis",
+  "authors": [
+    "Popescu, R.",
+    "Dinischiotu, A.",
+    "Soare, Teodoru",
+    "Vlase, Ene",
+    "Marinescu, G."
+  ],
+  "doi": "10.3390/ijms25052594",
+  "url": "https://www.semanticscholar.org/paper/95c35491bcc16e227eca31026f97a086e2cf3d27",
+  "provider": "semantic_scholar",
+  "year": 2024,
+  "venue": "International Journal of Molecular Sciences",
+  "citation_count": 8,
+  "abstract": "Nicotinamide mononucleotide (NMN) has emerged as a promising therapeutic intervention for age-related disorders, including type 2 diabetes. In this study, we confirmed the previously observed effects of NMN treatment on glucose uptake and investigated its underlying mechanisms in various tissues and cell lines. Through the most comprehensive proteomic analysis to date, we discovered a series of novel organ-specific effects responsible for glucose uptake as measured by the IPGTT: adipose tissue growing (suggested by increased protein synthesis and degradation and mTOR proliferation signaling upregulation). Notably, we observed the upregulation of thermogenic UCP1, promoting enhanced glucose conversion to heat in intermuscular adipose tissue while showing a surprising repressive effect on mitochondrial biogenesis in muscle and the brain. Additionally, liver and muscle cells displayed a unique response, characterized by spliceosome downregulation and concurrent upregulation of chaperones, proteasomes, and ribosomes, leading to mildly impaired and energy-inefficient protein synthesis machinery. Furthermore, our findings revealed remarkable metabolic rewiring in the brain. This involved increased production of ketone bodies, downregulation of mitochondrial OXPHOS and TCA cycle components, as well as the induction of well-known fasting-associated effects. Collectively, our data elucidate the multifaceted nature of NMN action, highlighting its organ-specific effects and their role in improving glucose uptake. These findings deepen our understanding of NMN’s therapeutic potential and pave the way for novel strategies in managing metabolic disorders.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/1422-0067/25/5/2594/pdf?version=1708680499"
+}

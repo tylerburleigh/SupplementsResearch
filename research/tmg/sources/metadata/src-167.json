@@ -1,0 +1,30 @@
+{
+  "id": "src-167",
+  "title": "Influence of the microbiome, diet and genetics on inter-individual variation in the human plasma metabolome",
+  "authors": [
+    "Chen, Lianmin",
+    "Zhernakova, Daria V.",
+    "Kurilshikov, Alexander",
+    "Andreu‐Sánchez, Sergio",
+    "Wang, Daoming",
+    "Augustijn, Hannah E.",
+    "Vila, Arnau Vich",
+    "Study, Lifelines Cohort",
+    "Weersma, Rinse K.",
+    "Medema, Marnix H.",
+    "Netea, Mihai G.",
+    "Kuipers, Folkert",
+    "Wijmenga, Cisca",
+    "Zhernakova, Alexandra",
+    "Fu, Jingyuan"
+  ],
+  "doi": "10.1038/s41591-022-02014-8",
+  "url": "https://openalex.org/W4304084108",
+  "provider": "openalex",
+  "year": 2022,
+  "venue": "Nature Medicine",
+  "citation_count": 290,
+  "abstract": "The levels of the thousands of metabolites in the human plasma metabolome are strongly influenced by an individual's genetics and the composition of their diet and gut microbiome. Here, by assessing 1,183 plasma metabolites in 1,368 extensively phenotyped individuals from the Lifelines DEEP and Genome of the Netherlands cohorts, we quantified the proportion of inter-individual variation in the plasma metabolome explained by different factors, characterizing 610, 85 and 38 metabolites as dominantly associated with diet, the gut microbiome and genetics, respectively. Moreover, a diet quality score derived from metabolite levels was significantly associated with diet quality, as assessed by a detailed food frequency questionnaire. Through Mendelian randomization and mediation analyses, we revealed putative causal relationships between diet, the gut microbiome and metabolites. For example, Mendelian randomization analyses support a potential causal effect of Eubacterium rectale in decreasing plasma levels of hydrogen sulfite-a toxin that affects cardiovascular function. Lastly, based on analysis of the plasma metabolome of 311 individuals at two time points separated by 4 years, we observed a positive correlation between the stability of metabolite levels and the amount of variance in the levels of that metabolite that could be explained in our analysis. Altogether, characterization of factors that explain inter-individual variation in the plasma metabolome can help design approaches for modulating diet or the gut microbiome to shape a healthy metabolome.",
+  "type": "academic",
+  "pdf_url": "https://www.nature.com/articles/s41591-022-02014-8.pdf"
+}

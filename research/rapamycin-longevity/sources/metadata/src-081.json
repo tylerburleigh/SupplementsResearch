@@ -1,0 +1,32 @@
+{
+  "id": "src-081",
+  "title": "Ribosome dysregulation and intervention in age-related infertility.",
+  "authors": [
+    "Li, Jie",
+    "Wang, Honghong",
+    "Zhu, Pengfei",
+    "Chen, Haixia",
+    "Zuo, Haiyang",
+    "Liu, Chang",
+    "Liu, Linlin",
+    "Ye, Xiaoying",
+    "Feng, Guofeng",
+    "Wu, Yiwei",
+    "Liu, Qinli",
+    "Yang, Tao",
+    "Keefe, David L",
+    "Bai, Xiaohong",
+    "Shang, Wei",
+    "Wu, Xueqing",
+    "Liu, Lin"
+  ],
+  "doi": "10.1016/j.xcrm.2025.102424",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41151579",
+  "provider": "pubmed",
+  "year": 2025,
+  "venue": "Cell reports. Medicine",
+  "citation_count": 0,
+  "abstract": "Fertility in women decreases with age, but the molecular basis for age-related, unexplained infertility remains elusive. Here, we reveal distinct transcriptome changes in oocytes and surrounding cumulus cells from women in their mid-thirties, as evidenced by notably increased transcription of ribosome genes. Additionally, meiosis genes and actin and cohesin components are downregulated in oocytes with age. Lysosomes and proteostasis are also disrupted in cumulus cells. Moreover, DNA hypomethylation and altered heterochromatin deposition at specific genomic loci are linked to increased transcription of ribosome genes. Rapamycin effectively reduces translation and promotes protein homeostasis in cumulus cells. Remarkably, short-term rapamycin allows patients who fail repeated in vitro fertilization cycles with embryo developmental arrest to achieve high-quality blastocysts that yield successful pregnancy and live birth. These data suggest a causal role for elevated transcription of ribosome genes in aging oocytes and cumulus cells and identify rapamycin as a promising treatment for age-related infertility. This study is registered at Chinese Clinical Trial Registry (ChiCTR2300069828).",
+  "type": "academic",
+  "pdf_url": ""
+}

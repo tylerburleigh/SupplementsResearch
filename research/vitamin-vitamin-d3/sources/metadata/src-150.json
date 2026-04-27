@@ -1,0 +1,32 @@
+{
+  "id": "src-150",
+  "title": "Is calcifediol better than cholecalciferol for vitamin D supplementation?",
+  "authors": [
+    "Quesada-Gomez, J. M.",
+    "Bouillon, R."
+  ],
+  "year": 2018,
+  "abstract": "",
+  "doi": "10.1007/s00198-018-4520-y",
+  "url": "https://doi.org/10.1007/s00198-018-4520-y",
+  "pdf_url": "",
+  "venue": "Osteoporosis International",
+  "citation_count": 171,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T21:23:00.455648+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-150.md",
+  "quality_details": {
+    "content_length": 36003,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

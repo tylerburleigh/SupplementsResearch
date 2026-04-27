@@ -1,0 +1,29 @@
+{
+  "id": "src-044",
+  "title": "Association of Serum Pyridoxal Phosphate Levels with Established Status Epilepticus.",
+  "authors": [
+    "Rubinos, Clio",
+    "Bruzzone, Maria Jose",
+    "Blodgett, Courtney",
+    "Tsai, Carolyn",
+    "Patel, Puja",
+    "Hianik, Rachel",
+    "Jadav, Rakesh",
+    "Boudesseul, Jordane",
+    "Liu, Chuning",
+    "Zhu, Hongtu",
+    "Wilson, Susan E",
+    "Olm-Shipman, Casey",
+    "Meeker, Rick",
+    "Hirsch, Lawrence J"
+  ],
+  "doi": "10.1007/s12028-022-01579-z",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36071331",
+  "provider": "pubmed",
+  "year": 2023,
+  "venue": "Neurocritical care",
+  "citation_count": 0,
+  "abstract": "BACKGROUND: The objective of this study was to determine the prevalence of pyridoxine deficiency, measured by pyridoxal phosphate (PLP) levels, in patients admitted to the hospital with established (benzodiazepine-resistant) status epilepticus (SE) (eSE) and to compare to three control groups: intensive care unit (ICU) patients without SE (ICU-noSE), non-ICU inpatients without SE (non-ICU), and outpatients with or without a history of epilepsy (outpatient).\nMETHODS: This retrospective cohort study was conducted at the University of North Carolina Hospitals and Yale New Haven Hospital. Participants included inpatients and outpatients who had serum PLP levels measured during clinical care between January 2018 and March 2021. The first PLP level obtained was categorized as normal (> 30 nmol/L), marginal (≤ 30 nmol/L), deficient (≤ 20 nmol/L), and severely deficient (≤ 5 nmol/L).\nRESULTS: A total of 293 patients were included (52 eSE, 40 ICU-noSE, 44 non-ICU, and 157 outpatient). The median age was 55 (range 19-99) years. The median PLP level of the eSE group (12 nmol/L) was lower than that of the ICU-noSE (22 nmol/L, p = 0.003), non-ICU (16 nmol/L, p = 0.05), and outpatient groups (36 nmol/L, p < 0.001). Patients with eSE had a significantly higher prevalence of marginal and deficient PLP levels (90 and 80%, respectively) than patients in each of the other three groups (ICU-noSE: 70, 50%; non-ICU: 63, 54%; outpatient: 38, 21%). This significantly higher prevalence persisted after correcting for critical illness severity and timing of PLP level collection.\nCONCLUSIONS: Our study confirms previous findings indicating a high prevalence of pyridoxine deficiency (as measured by serum PLP levels) in patients with eSE, including when using a more restricted definition of pyridoxine deficiency. Prevalence is higher in patients with eSE than in patients in all three control groups (ICU-noSE, non-ICU, and outpatient). Considering the role of pyridoxine, thus PLP, in the synthesis of γ-aminobutyric acid and its easy and safe administration, prospective studies on pyridoxine supplementation in patients with eSE are needed.",
+  "type": "academic",
+  "pdf_url": ""
+}

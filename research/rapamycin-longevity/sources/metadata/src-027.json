@@ -1,0 +1,35 @@
+{
+  "id": "src-027",
+  "title": "Health Benefits of Anti-aging Drugs",
+  "authors": [
+    "Piskovatska, Veronika",
+    "Strilbytska, Olha",
+    "Koliada, Alexander",
+    "Vaiserman, Alexander",
+    "Lushchak, Oleh"
+  ],
+  "year": 2019,
+  "abstract": "",
+  "doi": "10.1007/978-981-13-3681-2_13",
+  "url": "https://doi.org/10.1007/978-981-13-3681-2_13",
+  "pdf_url": "",
+  "venue": "Subcellular Biochemistry",
+  "citation_count": 49,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-26T22:38:38.417100+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-027.md",
+  "quality_details": {
+    "content_length": 85224,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

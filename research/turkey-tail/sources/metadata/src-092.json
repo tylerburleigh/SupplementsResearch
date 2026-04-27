@@ -1,0 +1,16 @@
+{
+  "id": "src-092",
+  "title": "The Mushroom Glucans: Molecules of High Biological and Medicinal Importance",
+  "authors": [
+    "Vetter, Jänos"
+  ],
+  "doi": "10.3390/foods12051009",
+  "url": "https://openalex.org/W4322504793",
+  "provider": "openalex",
+  "year": 2023,
+  "venue": "Foods",
+  "citation_count": 98,
+  "abstract": "Carbohydrates, including polysaccharide macromolecules, are the main constituents of the fungal cell wall. Among these, the homo- or heteropolymeric glucan molecules are decisive, as they not only protect fungal cells but also have broad, positive biological effects on the animal and human bodies. In addition to the beneficial nutritional properties of mushrooms (mineral elements, favorable proteins, low fat and energy content, pleasant aroma, and flavor), they have a high glucan content. Folk medicine (especially in the Far East) used medicinal mushrooms based on previous experience. At the end of the 19th century, but mainly since the middle of the 20th century, progressively more scientific information has been published. Glucans from mushrooms are polysaccharides that contain sugar chains, sometimes of only one kind (glucose), sometimes having several monosaccharide units, and they have two (α and β) anomeric forms (isomers). Their molecular weights range from 10<sup>4</sup> to 10<sup>5</sup> Da, and rarely 10<sup>6</sup> Da. X-ray diffraction studies were the first to determine the triple helix configuration of some glucans. It seems that the existence and integrity of the triple helix structure are criteria for their biological effects. Different glucans can be isolated from different mushroom species, and several glucan fractions can be obtained. The biosynthesis of glucans takes place in the cytoplasm, the processes of initiation and then chain extension take place with the help of the glucan synthase enzyme complex (EC 2.4.1.34), and the sugar units are provided by sugar donor UDPG molecules. The two methods used today for glucan determination are the enzymatic and Congo red methods. True comparisons can only be made using the same method. Congo red dye reacts with the tertiary triple helix structure, and the resulting glucan content better reflects the biological value of glucan molecules. The biological effect of β-glucan molecules is proportional to the integrity of the tertiary structure. The glucan contents of the stipe exceed the values of the caps. The glucan levels of individual fungal taxa (including varieties) differ quantitatively and qualitatively. This review presents in more detail the glucans of lentinan (from <i>Lentinula edodes</i>), pleuran (from <i>Pleurotus ostreatus</i>), grifolan (from <i>Grifola frondose</i>), schizophyllan (from <i>Schizophyllum commune</i>), and krestin (from <i>Trametes versicolor</i>), along with their main biological effects.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2304-8158/12/5/1009/pdf?version=1677486627"
+}

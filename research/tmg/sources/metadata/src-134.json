@@ -1,0 +1,19 @@
+{
+  "id": "src-134",
+  "title": "A biomimetic natural sciences approach to understanding the mechanisms of ageing in burden of lifestyle diseases",
+  "authors": [
+    "Dai, Lu",
+    "Schurgers, Leon J.",
+    "Shiels, Paul G.",
+    "Stenvinkel, Peter"
+  ],
+  "doi": "10.1042/cs20201452",
+  "url": "https://openalex.org/W3165148012",
+  "provider": "openalex",
+  "year": 2021,
+  "venue": "Clinical Science",
+  "citation_count": 11,
+  "abstract": "The worldwide landscape of an ageing population and age-related disease brings with it huge socio-economic and public healthcare concerns across nations. Correspondingly, monumental human and financial resources have been invested in biomedical research, with a mission to decode the mechanisms of ageing and how these contribute to age-related disease. Multiple hallmarks of ageing have been identified that are common across taxa, highlighting their fundamental importance. These include dysregulated mitochondrial metabolism and telomeres biology, epigenetic modifications, cell-matrix interactions, proteostasis, dysregulated nutrient sensing, stem cell exhaustion, inflammageing and immuno-senescence. While our understanding of the molecular basis of ageing is improving, it remains a complex and multifactorial process that remains to be fully understood. A key aspect of the shortfall in our understanding of the ageing process lies in translating data from standard animal models to humans. Consequently, we suggest that a 'biomimetic' and comparative approach, integrating knowledge from species in the wild, as opposed to inbred genetically homogenous laboratory animals, can provide powerful insights into human ageing processes. Here we discuss some particularities and comparative patterns among several species from the animal kingdom, endowed with longevity or short lifespans and unique metabolic profiles that could be potentially exploited to the understanding of ageing and age-related diseases. Based upon lessons from nature, we also highlight several avenues for renewed focus in the pathophysiology of ageing and age-related disease (i.e. diet-microbiome-health axis, oxidative protein damage, adaptive homoeostasis and planetary health). We propose that a biomimetic alliance with collaborative research from different disciplines can improve our understanding of ageing and age-related diseases with long-term sustainable utility.",
+  "type": "academic",
+  "pdf_url": "https://portlandpress.com/clinsci/article-pdf/135/10/1251/912855/cs-2020-1452c.pdf"
+}

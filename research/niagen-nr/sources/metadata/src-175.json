@@ -1,0 +1,27 @@
+{
+  "id": "src-175",
+  "title": "Oral supplementation with Nicotinamide Riboside treatment protects RGCs in DBA/2J mouse model.",
+  "authors": [
+    "Zhang, Nan",
+    "Li, Ying",
+    "Zhang, Xian",
+    "Chrenek, Micah A",
+    "Wang, Jiaxing",
+    "Girardot, Preston E",
+    "Sellers, Jana T",
+    "Brenner, Charles",
+    "Cui, Xiangqin",
+    "Geisert, Eldon E",
+    "Nickerson, John",
+    "Boatright, Jeffrey H"
+  ],
+  "doi": "10.1101/2024.12.03.626460",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39677633",
+  "provider": "pubmed",
+  "year": 2024,
+  "venue": "bioRxiv : the preprint server for biology",
+  "citation_count": 0,
+  "abstract": "PURPOSE: The aim of this study was to test whether oral administration of nicotinamide riboside (NR), the nicotinamide adenine dinucleotide (NAD+) precursors, protect retina ganglion cells (RGCs) from neurodegeneration in DBA/2J (D2) mice, which is a widely used mouse model of age-related inherited glaucoma.\nMETHOD: Oral NR or NAM administration (NR low dose: 1150mg/kg; NR high dose: 4200mg/kg; NAM low dose group: 500mg/kg; NAM high dose: 2000mg/kg of body weight per day) essentially started when D2 mice were 4 or 9 months old and continued up to 12 months old. Control cohort identically received food/water without NAM or NR. Intraocular pressure (IOP) was measured every month until experiment completion. Pattern electroretinography (PERG) was recorded. Retinas were harvested for whole mount immunofluorescence staining with RGCs marker Brn3a and imaged by fluorescent confocal microscopy. Optic nerves were harvested for axon staining and quantification. Retinal NAD+ levels were enzymatically assayed.\nRESULTS: NR oral supplementary treatment started at 4 months old robustly increased retinal NAD+ levels in D2 mice (NRHigh vs. vehicle: 273.7±23.59% vs. 108.70±12.10%, p<0.001). In aged vehicle group (12 months old), there was significantly diminution of the P1 and N2 components of PERG response compare with naïve group (naïve vs. vehicle: P1: 7.82± 0.70uV vs 1.63± 0.17uV, p<0.0001; N2: -13.29± 0.83uV vs. -3.22± 0.27uV, p<0.0001; Kruskal-Wallis test with Dunn's multiple comparison test). NR treatment preserved aged D2 visual function when mice were 9 and 12 months old. In addition, long-term NR high dose treatment significantly protected against total RGCs loss and optic nerve atrophy (RGC: NRHigh vs. vehicle: 1412±62.00vs 475.2±94.68 cells/field, p<0.00001; axon numbers: NRHigh vs. vehicle: 23990±1159 vs 8573±1160, n=41-53, p<0.0001). Furthermore, long-term NR supplementation prevent iris depigmentation and delayed IOP elevation.\nCONCLUSION: NR oral supplementary treatment significantly preserved RGC and axon numbers, potentially preserves retinal function via elevated retinal NAD+ level in aged D2 mice. Interestingly, NR treatment also prevented iris atrophy, delayed IOP elevation associated with this glaucoma model. NR oral supplementation thus treated several aspects of murine pigment dispersion glaucoma. Given parallels between this model and glaucoma in human, out data indicate that NR is worth exploring as a therapeutic candidate in treatment of glaucoma.",
+  "type": "academic",
+  "pdf_url": ""
+}

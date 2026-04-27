@@ -1,0 +1,20 @@
+{
+  "id": "src-335",
+  "title": "Large Language Models for Adverse Drug Events: A Clinical Perspective",
+  "authors": [
+    "Zitu, M.",
+    "Owen, D.",
+    "Manne, A.",
+    "Wei, Pingtao",
+    "Li, Lang"
+  ],
+  "doi": "10.3390/jcm14155490",
+  "url": "https://www.semanticscholar.org/paper/474884cea92953f406eb0fb86407dc3517c350b0",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "Journal of Clinical Medicine",
+  "citation_count": 8,
+  "abstract": "Adverse drug events (ADEs) significantly impact patient safety and health outcomes. Manual ADE detection from clinical narratives is time-consuming, labor-intensive, and costly. Recent advancements in large language models (LLMs), including transformer-based architectures such as Bidirectional Encoder Representations from Transformers (BERT) and Generative Pretrained Transformer (GPT) series, offer promising methods for automating ADE extraction from clinical data. These models have been applied to various aspects of pharmacovigilance and clinical decision support, demonstrating potential in extracting ADE-related information from real-world clinical data. Additionally, chatbot-assisted systems have been explored as tools in clinical management, aiding in medication adherence, patient engagement, and symptom monitoring. This narrative review synthesizes the current state of LLMs in ADE detection from a clinical perspective, organizing studies into categories such as human-facing decision support tools, immune-related ADE detection, cancer-related and non-cancer-related ADE surveillance, and personalized decision support systems. In total, 39 articles were included in this review. Across domains, LLM-driven methods have demonstrated promising performances, often outperforming traditional approaches. However, critical limitations persist, such as domain-specific variability in model performance, interpretability challenges, data quality and privacy concerns, and infrastructure requirements. By addressing these challenges, LLM-based ADE detection could enhance pharmacovigilance practices, improve patient safety outcomes, and optimize clinical workflows.",
+  "type": "academic",
+  "pdf_url": ""
+}

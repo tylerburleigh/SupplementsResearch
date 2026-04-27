@@ -1,0 +1,31 @@
+{
+  "id": "src-023",
+  "title": "Supplementation of pyridoxal-5′-phosphate in aminotransferase reagents: a matter of patient safety",
+  "authors": [
+    "Panteghini, Mauro"
+  ],
+  "year": 2025,
+  "abstract": "Abstract\nAs aminotransferases represent the first-level tests to detect individuals with hepatocellular damage, standardization of their measurements is a priority need for patient care. The obtaining of the harmonization in aminotransferase results is however strongly dependent on supplementation of pyridoxal-5′-phosphate (P-5-P) in aminotransferase reagents as this exclusively enables reporting of measured values on clinical samples that are traceable to the IFCC reference measurements procedures, representing the highest metrological level defining the respective measurable enzyme quantity. The lack of P-5-P addition in the employed commercial reagents is the most frequent cause of unacceptably biased results of aminotransferases, which opposes to consistency of results across laboratories and commercial assays. Nevertheless, only about one-third of medical laboratories include P-5-P in their aminotransferase measurements. This demonstrates a lack of awareness of the clinical benefits of P-5-P supplementation, which is not just an analytical preference, but it represents a laboratory priority for providing a high-quality service in pertinent clinical situations.",
+  "doi": "10.1515/cclm-2025-0947",
+  "url": "https://doi.org/10.1515/cclm-2025-0947",
+  "pdf_url": "",
+  "venue": "Clinical Chemistry and Laboratory Medicine (CCLM)",
+  "citation_count": 1,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-20T16:00:15.770327+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-023.md",
+  "quality_details": {
+    "content_length": 17386,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

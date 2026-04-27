@@ -1,0 +1,21 @@
+{
+  "id": "src-199",
+  "title": "Gut microbiota and its metabolites in depression: from pathogenesis to treatment",
+  "authors": [
+    "Liu, Lanxiang",
+    "Wang, Haiyang",
+    "Chen, Xueyi",
+    "Zhang, Yangdong",
+    "Zhang, Hanping",
+    "Xie, Peng"
+  ],
+  "doi": "10.1016/j.ebiom.2023.104527",
+  "url": "https://openalex.org/W4353109589",
+  "provider": "openalex",
+  "year": 2023,
+  "venue": "EBioMedicine",
+  "citation_count": 573,
+  "abstract": "Major depressive disorder is one of the most disabling mental disorders worldwide. Increasing preclinical and clinical studies have highlighted that compositional and functional (e.g., metabolite) changes in gut microbiota, known as dysbiosis, are associated with the onset and progression of depression via regulating the gut-brain axis. However, the gut microbiota and their metabolites present a double-edged sword in depression. Dysbiosis is involved in the pathogenesis of depression while, at the same time, offering a novel therapeutic target. In this review, we describe the association between dysbiosis and depression, drug-microbiota interactions in antidepressant treatment, and the potential health benefits of microbial-targeted therapeutics in depression, including dietary interventions, fecal microbiota transplantation, probiotics, prebiotics, synbiotics, and postbiotics. With the emergence of microbial research, we describe a new direction for future research and clinical treatment of depression.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.1016/j.ebiom.2023.104527"
+}

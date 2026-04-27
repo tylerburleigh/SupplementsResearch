@@ -1,0 +1,17 @@
+{
+  "id": "src-382",
+  "title": "Apigenin: a natural molecule at the intersection of sleep and aging",
+  "authors": [
+    "Kramer, Daniel J.",
+    "Johnson, Adiv A."
+  ],
+  "doi": "10.3389/fnut.2024.1359176",
+  "url": "https://openalex.org/W4392199714",
+  "provider": "openalex",
+  "year": 2024,
+  "venue": "Frontiers in Nutrition",
+  "citation_count": 33,
+  "abstract": "NAD<sup>+</sup>, a pivotal coenzyme central to metabolism, exhibits a characteristic decline with age. In mice, NAD<sup>+</sup> levels can be elevated via treatment with apigenin, a natural flavonoid that inhibits the NAD<sup>+</sup>-consuming glycoprotein CD38. In animal models, apigenin positively impacts both sleep and longevity. For example, apigenin improves learning and memory in older mice, reduces tumor proliferation in a mouse xenograft model of triple-negative breast cancer, and induces sedative effects in mice and rats. Moreover, apigenin elongates survival in fly models of neurodegenerative disease and apigenin glycosides increase lifespan in worms. Apigenin's therapeutic potential is underscored by human clinical studies using chamomile extract, which contains apigenin as an active ingredient. Collectively, chamomile extract has been reported to alleviate anxiety, improve mood, and relieve pain. Furthermore, dietary apigenin intake positively correlates with sleep quality in a large cohort of adults. Apigenin's electron-rich flavonoid structure gives it strong bonding capacity to diverse molecular structures across receptors and enzymes. The effects of apigenin extend beyond CD38 inhibition, encompassing agonistic and antagonistic modulation of various targets, including GABA and inflammatory pathways. Cumulatively, a large body of evidence positions apigenin as a unique molecule capable of influencing both aging and sleep. Further studies are warranted to better understand apigenin's nuanced mechanisms and clinical potential.",
+  "type": "academic",
+  "pdf_url": "https://www.frontiersin.org/articles/10.3389/fnut.2024.1359176/pdf?isPublishedV2=False"
+}

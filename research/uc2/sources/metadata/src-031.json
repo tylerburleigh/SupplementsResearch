@@ -1,0 +1,37 @@
+{
+  "id": "src-031",
+  "title": "Safety and efficacy of undenatured type II collagen in the treatment of osteoarthritis of the knee: a clinical trial",
+  "authors": [
+    "Crowley, David C.",
+    "Lau, Francis C.",
+    "Sharma, Prachi",
+    "Evans, Malkanthi",
+    "Guthrie, Najla",
+    "Bagchi, Manashi",
+    "Bagchi, Debasis",
+    "Dey, Dipak K.",
+    "Raychaudhuri, Siba P."
+  ],
+  "year": 2009,
+  "abstract": "",
+  "doi": "10.7150/ijms.6.312",
+  "url": "https://doi.org/10.7150/ijms.6.312",
+  "pdf_url": "",
+  "venue": "International Journal of Medical Sciences",
+  "citation_count": 92,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-19T13:40:47.817976+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-031.md",
+  "quality_details": {
+    "content_length": 39588,
+    "alpha_ratio": 0.74,
+    "sentence_count": 357,
+    "reasons": []
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "src-349",
+  "title": "Pigmentation Levels Affect Melanoma Responses to Coriolus versicolor Extract and Play a Crucial Role in Melanoma-Mononuclear Cell Crosstalk.",
+  "authors": [
+    "Pawlikowska, Małgorzata",
+    "Jędrzejewski, Tomasz",
+    "Slominski, Andrzej T",
+    "Brożyna, Anna A",
+    "Wrotek, Sylwia"
+  ],
+  "doi": "10.3390/ijms22115735",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34072104",
+  "provider": "pubmed",
+  "year": 2021,
+  "venue": "International journal of molecular sciences",
+  "citation_count": 0,
+  "abstract": "Melanoma, the malignancy originating from pigment-producing melanocytes, is the most aggressive form of skin cancer and has a poor prognosis once the disease starts to metastasize. The process of melanin synthesis generates an immunosuppressive and mutagenic environment, and can increase melanoma cell resistance to different treatment modalities, including chemo-, radio- or photodynamic therapy. Recently, we have shown that the presence of melanin pigment inhibits the melanoma cell response to bioactive components of Coriolus versicolor (CV) Chinese fungus. Herein, using the same human melanoma cell line in which the level of pigmentation can be controlled by the L-tyrosine concentration in culture medium, we tested the effect of suppression of melanogenesis on the melanoma cell response to CV extract and investigated the cell death pathway induced by fungus extract in sensitized melanoma cells. Our data showed that susceptibility to CV-induced melanoma cell death is significantly increased after cell depigmentation. To the best of our knowledge, we are the first to demonstrate that CV extract can induce RIPK1/RIPK3/MLKL-mediated necroptosis in depigmented melanoma cells. Moreover, using the co-culture system, we showed that inhibition of the tyrosinase activity in melanoma cells modulates cytokine expression in co-cultured mononuclear cells, indicating that depigmentation of melanoma cells may activate immune cells and thereby influence a host anticancer response.",
+  "type": "academic",
+  "pdf_url": ""
+}

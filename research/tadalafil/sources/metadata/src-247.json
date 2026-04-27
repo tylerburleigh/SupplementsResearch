@@ -1,0 +1,19 @@
+{
+  "id": "src-247",
+  "title": "Artificial Intelligence to Guide Repurposing of Drugs.",
+  "authors": [
+    "Fu, Zhimin",
+    "Yang, Yuxin",
+    "Chung, Mina K",
+    "Cheng, Feixiong"
+  ],
+  "doi": "10.1146/annurev-med-050224-122802",
+  "url": "https://www.semanticscholar.org/paper/bc0426d719ebdfc8a16da06844b54e15e8ef5108",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "Annual Review of Medicine",
+  "citation_count": 0,
+  "abstract": "With the pharmacokinetics, dosing, safety, and manufacturing of approved or investigational drugs already well-characterized, drug repurposing and repositioning offer emerging strategies to rapidly develop effective treatments for various challenging diseases. However, the growing mass of genetic and multiomics data has not been effectively explored by the drug repurposing community due to a lack of accurate approaches. This review aims to be an authoritative, critical, and accessible review and discussion of general interest to the drug repurposing community concerning the use of artificial intelligence (AI) and machine learning (ML) tools. Emerging questions include what is achievable with AI in this domain and what its impact will be, what AI and ML embrace, and how we, as geneticists, pharmacologists, and computational scientists, can contribute to the discovery of new, inexpensive, and affordable repurposable medicines. The fast growth of genetics and multiomics data (genomics, transcriptomics, proteomics, metabolomics, and radiomics) and electronic health records in diverse populations contributes to answering questions, including how to rapidly identify effective repurposable medicines, what a clinically meaningful effect size in trials is, and what the potential implications for precision medicine are. This review discusses AI and ML for drug repurposing in the context of genetics, multiomics, real-world data collection, and crowdsourcing of knowledge. We conclude by considering questions on how AI and ML methodologies can unite the diverse aspects of translational medicine for emerging treatment development in human-challenging diseases.",
+  "type": "academic",
+  "pdf_url": ""
+}

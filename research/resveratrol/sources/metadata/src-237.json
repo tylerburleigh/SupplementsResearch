@@ -1,0 +1,17 @@
+{
+  "id": "src-237",
+  "title": "Role of Oxidative Modifications in Atherosclerosis",
+  "authors": [
+    "Stocker, Roland",
+    "Keaney, John F."
+  ],
+  "doi": "10.1152/physrev.00047.2003",
+  "url": "https://openalex.org/W1976616659",
+  "provider": "openalex",
+  "year": 2004,
+  "venue": "Physiological Reviews",
+  "citation_count": 2587,
+  "abstract": "This review focuses on the role of oxidative processes in atherosclerosis and its resultant cardiovascular events. There is now a consensus that atherosclerosis represents a state of heightened oxidative stress characterized by lipid and protein oxidation in the vascular wall. The oxidative modification hypothesis of atherosclerosis predicts that low-density lipoprotein (LDL) oxidation is an early event in atherosclerosis and that oxidized LDL contributes to atherogenesis. In support of this hypothesis, oxidized LDL can support foam cell formation in vitro, the lipid in human lesions is substantially oxidized, there is evidence for the presence of oxidized LDL in vivo, oxidized LDL has a number of potentially proatherogenic activities, and several structurally unrelated antioxidants inhibit atherosclerosis in animals. An emerging consensus also underscores the importance in vascular disease of oxidative events in addition to LDL oxidation. These include the production of reactive oxygen and nitrogen species by vascular cells, as well as oxidative modifications contributing to important clinical manifestations of coronary artery disease such as endothelial dysfunction and plaque disruption. Despite these abundant data however, fundamental problems remain with implicating oxidative modification as a (requisite) pathophysiologically important cause for atherosclerosis. These include the poor performance of antioxidant strategies in limiting either atherosclerosis or cardiovascular events from atherosclerosis, and observations in animals that suggest dissociation between atherosclerosis and lipoprotein oxidation. Indeed, it remains to be established that oxidative events are a cause rather than an injurious response to atherogenesis. In this context, inflammation needs to be considered as a primary process of atherosclerosis, and oxidative stress as a secondary event. To address this issue, we have proposed an \"oxidative response to inflammation\" model as a means of reconciling the response-to-injury and oxidative modification hypotheses of atherosclerosis.",
+  "type": "academic",
+  "pdf_url": ""
+}

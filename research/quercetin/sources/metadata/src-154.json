@@ -1,0 +1,24 @@
+{
+  "id": "src-154",
+  "title": "Mechanical Stress Induced NOX2 Promotes Endothelial Dysfunction in Ventilator-Induced Lung Injury: Potential Treatment with Quercetin.",
+  "authors": [
+    "Jiang, Tao",
+    "Zhang, Yabing",
+    "Guo, Zhiye",
+    "Ren, He",
+    "Hu, Weiyi",
+    "Yao, Qingping",
+    "Huo, Yunlong",
+    "Qi, Yingxin",
+    "Huang, Kai"
+  ],
+  "doi": "10.1002/advs.202502639",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40391857",
+  "provider": "pubmed",
+  "year": 2025,
+  "venue": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+  "citation_count": 0,
+  "abstract": "Mechanical ventilation (MV) is a treatment that helps people who are unable to breathe on their own. However, the use of MV leads to the development of ventilator-induced lung injury (VILI). Here, it is found that VILI with endothelial barrier disruption is accompanied by elevated reactive oxygen species (ROS) in mice. NADPH oxidase 2 (NOX2, also known as CYBB or gp91phox) is first examined to be the main source of ROS to repress endothelial junction. Besides, 20%-0.5 Hz high cyclic stretch (high CS) significantly increases NOX2 expression and inhibits endothelial junction protein expression. NOX2 activates the downstream Calcium-calmodulin (CaM)-dependent protein kinase II (CaMKII)/ Extracellular signal-regulated protein kinase 1/2 (ERK1/2) signaling pathway through the regulation of ROS. This pathway is confirmed by high MV stimulation in vivo and high CS in vitro. Of note, quercetin, as an antioxidant, is effective in preventing mechanical stretch-induced endothelial dysfunction by scavenging ROS. Omics data indicated that there is a similar gene expression pattern in cecal ligation and puncture (CLP) and VILI. Pre-administration of quercetin significantly improves the survival rate of mice via inactivating ROS/CaMKII/ERK1/2 axis. Quercetin pre-treatment not only preventes MV-induced lung injury but also attenuates existing inflammation-induced lung injury.",
+  "type": "academic",
+  "pdf_url": ""
+}

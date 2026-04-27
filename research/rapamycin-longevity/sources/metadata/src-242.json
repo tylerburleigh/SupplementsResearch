@@ -1,0 +1,19 @@
+{
+  "id": "src-242",
+  "title": "Immune Ageing Clocks: A Methods-Oriented Review of Tasks, Modalities, Models, and Recalibration.",
+  "authors": [
+    "Yu, Gengchen",
+    "Shao, Zeyu",
+    "Zhuo, Jingyu",
+    "Chen, Zixuan"
+  ],
+  "doi": "10.3390/cells15050421",
+  "url": "https://www.semanticscholar.org/paper/c2a48a0358e9a600b47061462bafbee5b1b27610",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "Cells",
+  "citation_count": 0,
+  "abstract": "Population ageing and the growing burden of immune-mediated disease have prompted efforts to quantify immunosenescence with clinically usable biomarkers. Immune ageing clocks have been built from immunophenotyping, transcriptomics, proteomics, epigenomics and adaptive receptor repertoires, but heterogeneous task definitions, assay protocols and evaluation criteria limit comparability and translation. We review major immune data modalities and outline an end-to-end workflow from cohort design and assay standardisation to preprocessing, feature engineering, model development, validation and recalibration. We propose a task-modality-model taxonomy separating (i) chronological age clocks, (ii) outcome-anchored risk clocks and (iii) cell lineage/state clocks, while treating bulk blood transcriptomics (whole blood or PBMC) as a molecular-layer modality that can support either age-scale or outcome-anchored tasks depending on supervision. Across studies, common limitations include batch effects, compositional confounding, endpoint mismatch, scarce external validation and limited mechanistic anchoring. We conclude with priorities for the field, including multimodal integration, longitudinal designs with digital phenotypes, tissue- and cell-type-specific models, and pathway-grounded clocks that can be linked to interventions.",
+  "type": "academic",
+  "pdf_url": ""
+}

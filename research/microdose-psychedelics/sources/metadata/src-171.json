@@ -1,0 +1,29 @@
+{
+  "id": "src-171",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://doi.org/10.1038/s41386-022-01297-2",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-26T10:53:20.024434+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-171.md",
+  "quality_details": {
+    "content_length": 51640,
+    "alpha_ratio": 0.768,
+    "sentence_count": 450,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

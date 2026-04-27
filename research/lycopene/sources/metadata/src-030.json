@@ -1,0 +1,40 @@
+{
+  "id": "src-030",
+  "title": "Nutraceutical treatment and prevention of benign prostatic hyperplasia and prostate cancer",
+  "authors": [
+    "Cicero, Arrigo F.G.",
+    "Allkanjari, Olta",
+    "Busetto, Gian Maria",
+    "Cai, Tommaso",
+    "Larganà, Gaetano",
+    "Magri, Vittorio",
+    "Perletti, Gianpaolo",
+    "Robustelli Della Cuna, Francesco Saverio",
+    "Russo, Giorgio Ivan",
+    "Stamatiou, Kostantinos",
+    "Trinchieri, Alberto",
+    "Vitalone, Annabella"
+  ],
+  "year": 2019,
+  "abstract": "During the last years, pharmaceutical innovations in primary care are dramatically less frequent and will be even more rare in the next future. In this context, preclinical and clinical research oriented their interest toward natural compounds efficacy and safety, supporting the development of a new “nutraceutical” science. Medicinal plants, in the form of plant parts or extracts of them, are commonly used for the treatment of prostate diseases such as benign hypertrophy, prostatitis and chronic pelvic pain syndrome. The pharmacological properties searched for the treatment of prostatic diseases are anti-androgenic, anti-estrogenic, antiproliferative, antioxidant and anti-inflammatory. The most studied and used medicinal plants are Serenoa repens, Pygeum africanum and Urtica dioica. Other promising plants are Cucurbita pepo, Epilobium spp, Lycopersum esculentum, Secale cereale, Roystonea regia, Vaccinium macrocarpon. In parallel, epidemiological studies demonstrated that diet may play an important role on incidence and development of prostatic diseases. The Mediterranean diet is rich of elements with anti-oxidant properties that act as a protective factor for prostatic cancer. Similarly, low intake of animal protein, high intake of fruits and vegetable, lycopene and zinc are a protective factor for benign prostatic hyperplasia (BPH). Serenoa repens in the treatment of symptoms of BPH has been tested either alone or, more frequently, in combination with other medicinal plants, alpha-blockers and inhibitors of 5- alpha reductase (5-ARI). Recent meta-analyses found the effectiveness of Serenoa repens similar or inferior of that of finasteride and tamsulosin but clearly higher than that of placebo in the treatment of mild and moderate low urinary tract symptoms (LUTS), nocturia and discomfort. Clinical trials showed potential synergistic effect of Serenoa repens with other medicinal plants and drugs. In addition to Serenoa repens, there are many other medicinal plants for which clinical evidence is still controversial. Urtica dioica, Pygeum africanum and Curcubita pepo can be considered as an adjunct to the common therapies and their use is supported by studies showing improvement of symptoms and flowmetric indices. Lycopene and selenium are natural products with antioxidant and anti-inflammatory action. The combination of lycopene and selenium with Serenoa repens was able to reduce inflammation in histological prostate sections and to further improve symptom scores and urinary flow in patients with BPH on tamsulosin treatment. Similar effects could be obtained with the use of other carotenoids, such as astaxanthin, and/or zinc. Efficacy on symptoms of patients with BPH of some polyphenols such as quercitin, equol and curcumin have been demonstrated by clinical studies. Pollen extract is a mixture of natural components able to inhibit several cytokines and prostaglandin and leukotriene synthesis resulting in a potent anti-inflammatory effect. Pollen extracts significantly improve symptoms, pain, and quality of life in patients affected by chronic pelvic pain syndrome and chronic prostatitis. Beta-sitosterol is a sterol able to improve urinary symptoms and flow measures, but not to reduce the size of the prostate gland. Palmitoylethanolamide (PEA) is an endogenous fatty acid amide-signaling molecule with anti-inflammatory and neuroprotective effects that can have an interesting role in the management of chronic pelvic pain syndrome and chronic urological pain. Finally, several plant-based products have been subjected to preclinical, in vitro and in vivo, investigations for their potential pharmacological activity against prostate cancer. Some epidemiological studies or clinical trials evaluated the effects of beverages, extracts or food preparations on the risk of prostate cancer. Some plant species deserved more intense investigation, such as Camelia sinensis (green or black tea), Solanum lycopersicum (common tomato), Punica granatum (pomegranate), Glycine max (common soy) and Linum usitatissimum (linen).",
+  "doi": "10.4081/aiua.2019.3.139",
+  "url": "https://doi.org/10.4081/aiua.2019.3.139",
+  "pdf_url": "",
+  "venue": "Archivio Italiano di Urologia e Andrologia",
+  "citation_count": 116,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-19T18:30:50.133265+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-030.md",
+  "quality_details": {
+    "content_length": 83870,
+    "alpha_ratio": 0.752,
+    "sentence_count": 842,
+    "reasons": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "src-223",
+  "title": "Clinical Monograph for Drug Formulary Review: Erectile Dysfunction Agents",
+  "authors": [
+    "Campbell, Helen"
+  ],
+  "doi": "10.18553/jmcp.2005.11.2.151",
+  "url": "https://openalex.org/W2167824903",
+  "provider": "openalex",
+  "year": 2005,
+  "venue": "Journal of Managed Care Pharmacy",
+  "citation_count": 53,
+  "abstract": "A large amount of clinical efficacy and safety data has been published since the market launch of sildenafil in 1998. Sildenafil has the greatest body of efficacy and safety evidence. No comparative studies have been conducted with any of the PDE5 inhibitors. Differences in study populations, primary end points, and measurement tools make comparisons difficult. However, all PDE5 inhibitors appear to be roughly equivalent in efficacy, with minor differences in adverse event profiles. Until more comparative data are available, economic considerations will be a significant factor in choosing ERD products for formulary inclusion.",
+  "type": "academic",
+  "pdf_url": "https://www.jmcp.org/doi/pdf/10.18553/jmcp.2005.11.2.151"
+}

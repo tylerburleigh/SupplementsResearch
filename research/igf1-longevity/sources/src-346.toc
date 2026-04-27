@@ -1,0 +1,42 @@
+12	2	Review
+30	2	Abstract
+113	2	Introduction
+1103	2	Acknowledgements
+1120	2	5. Heitman J, Movva NR, Hall MN: Targets for cell cycle arrest by the
+1166	2	17. Kwiatkowski DJ, Manning BD: Tuberous sclerosis: A GAP at the crossroads
+1179	2	21. Roux PP, Topisirovic I: Signaling Pathways Involved in the Regulation of mRNA
+1231	2	36.  Jia K, Chen D, Riddle DL: The TOR pathway interacts with the insulin
+1287	2	51. Selman C, Partridge L, Withers DJ: Replication of extended lifespan phenotype
+1313	2	57. Anderson RM, Le Couteur DG, de Cabo R: Caloric Restriction Research: New
+1317	2	58. Gems D, Partridge L: Genetics of longevity in model organisms: debates and
+1323	2	60. Lee C, Longo V: Dietary restriction with and without caloric restriction for
+1361	2	70. Mirzaei H, Suarez JA, Longo VD: Protein and amino acid restriction, aging and
+1376	2	74. Segall PE, Timiras PS: Patho-physiologic findings after chronic tryptophan
+1387	2	77. Ooka H, Segall PE, Timiras PS: Histology and survival in age-delayed low-
+1399	2	80. De Marte ML, Enesco HE: Influence of low tryptophan diet on survival and
+1434	2	89. Hardie DG, Ross FA, Hawley SA: AMPK: a nutrient and energy sensor that
+1471	2	99.  Petit CS, Roczniak-Ferguson A, Ferguson SM: Recruitment of folliculin to
+1516	2	112. Peng M, Yin N, Li MO: Sestrins function as guanine nucleotide dissociation
+1602	2	136. Koga H, Kaushik S, Cuervo AM: Protein homeostasis and aging: The importance
+1608	2	138. Gonskikh Y, Polacek N: Alterations of the translation apparatus during aging
+1622	2	141. Rousseau A, Bertolotti A: An evolutionarily conserved pathway controls
+1630	2	144. Hetz C: The unfolded protein response: controlling cell fate decisions under
+1645	2	148. Hetz C, Chevet E, Oakes SA: Proteostasis control by the unfolded protein
+1656	2	151.  Walter P, Ron D: The unfolded protein response: from stress pathway to
+1720	2	167. Baker DJ, Peleg S: Biphasic Modeling of Mitochondrial Metabolism
+1723	2	168. Dhillon RS, Denu JM: Using comparative biology to understand how aging
+1743	2	173. Kim I, Rodriguez-Enriquez S, Lemasters JJ: Selective degradation of
+1758	2	177.  Wiley CD, Campisi J: From Ancient Pathways to Aging Cells-Connecting
+1773	2	181. Sapieha P, Mallette FA: Cellular Senescence in Postmitotic Cells: Beyond
+1788	2	184.  Karlseder J, Smogorzewska A, de Lange T: Senescence induced by altered
+1791	2	185. Mallette FA, Gaumont-Leclerc MF, Ferbeyre G: The DNA damage signaling
+1849	2	201. Schultz MB, Sinclair DA: When stem cells grow old: phenotypes and
+1859	2	204. Oh J, Lee YD, Wagers AJ: Stem cell aging: Mechanisms, regulators and
+1914	2	219. Hoeffer CA, Klann E: mTOR signaling: At the crossroads of plasticity, memory
+1921	2	221. Perluigi M, Di Domenico F, Butterfield DA: mTOR signaling in aging and
+1960	2	230. Chouchani ET, Kazak L, Spiegelman BM: New Advances in Adaptive
+1967	2	232. Rothwell NJ, Stock MJ: A role for brown adipose tissue in diet-induced
+1974	2	234. Fawcett DW: Differences in Physiological Activity in Brown and White Fat as
+2039	2	252. Blagosklonny MV: Revisiting the antagonistic pleiotropy theory of aging: TOR-
+2116	2	272. Pollak MN: Investigating metformin for cancer prevention and treatment: the
+2119	2	273. Dowling RJ, Goodwin PJ, Stambolic V: Understanding the benefit of metformin

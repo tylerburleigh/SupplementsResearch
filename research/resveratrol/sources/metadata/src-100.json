@@ -1,0 +1,21 @@
+{
+  "id": "src-100",
+  "title": "Curcumin, Inflammation, and Chronic Diseases: How Are They Linked?",
+  "authors": [
+    "He, Yan",
+    "Yue, Yuan",
+    "Zheng, Xi",
+    "Zhang, Kun",
+    "Chen, Shaohua",
+    "Du, Zhiyun"
+  ],
+  "doi": "10.3390/molecules20059183",
+  "url": "https://openalex.org/W1588145958",
+  "provider": "openalex",
+  "year": 2015,
+  "venue": "Molecules",
+  "citation_count": 587,
+  "abstract": "It is extensively verified that continued oxidative stress and oxidative damage may lead to chronic inflammation, which in turn can mediate most chronic diseases including cancer, diabetes, cardiovascular, neurological, inflammatory bowel disease and pulmonary diseases. Curcumin, a yellow coloring agent extracted from turmeric, shows strong anti-oxidative and anti-inflammatory activities when used as a remedy for the prevention and treatment of chronic diseases. How oxidative stress activates inflammatory pathways leading to the progression of chronic diseases is the focus of this review. Thus, research to date suggests that chronic inflammation, oxidative stress, and most chronic diseases are closely linked, and the antioxidant properties of curcumin can play a key role in the prevention and treatment of chronic inflammation diseases.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/1420-3049/20/5/9183/pdf?version=1432109829"
+}

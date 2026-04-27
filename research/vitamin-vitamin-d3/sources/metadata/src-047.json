@@ -1,0 +1,32 @@
+{
+  "id": "src-047",
+  "title": "Vitamin D supplementations and mortality among patients with moderate/severe COVID-19: A meta-analysis of randomized controlled trials",
+  "authors": [
+    "Mirghani, Hyder",
+    "Begum, Shamina"
+  ],
+  "year": 2024,
+  "abstract": "Background:\nVitamin D deficiency is associated with severe COVID 19 and poor outcomes. However, the role of Vitamin D supplementation on mortality is controversial. The current meta analysis aimed to investigate the same among patients with COVID 19.\n\nMaterials and Methods:\nWe searched six databases from inception up to July 2023. The keywords used were COVID 19, SARS COV 2, mortality, Vitamin D, calcitriol, cholecalciferol, Calcifediol, survival, death, small dose, and high dose. Eight hundred and sixteen studies were retrieved, 103 full texts were screened, and 14 randomized controlled trials were included in the meta analysis. A structured checklist was used to gather the author’s name, country, year of publication, Vitamin D dose, age, sex, number of patients, mortality, and comorbidities. The Cochrane system for meta analysis (RevMan, version 5.4) was used for the data analysis.\n\nResults:\nNo association was found between Vitamin D supplementation and mortality among patients with COVID 19, odd ratio, 1.16, 95% confidence interval (CI), 0.84–1.59, and P = 0.36. No difference between high and low dose Vitamin D supplementation, odd ratio, 0.65, 95% CI, 0.37–1.57, and P = 0.13. In a sub analysis, no significant statistical difference was found between low dose Vitamin D supplementation versus placebo, and when considering patients who were Vitamin D deficient, odd ratio, 1.10, 95% CI, 0.74–1.63. The P = 0.64 and, odd ratio, 0.99, 95% CI, 0.71–1.40, and P = 0.97 respectively.\n\nConclusion:\nNo association was evident between Vitamin D supplementation and mortality among patients with COVID 19 irrespective of doses and Vitamin D status. Further studies are needed to address the timing and frequency of Vitamin D supplementations.",
+  "doi": "10.4103/jrms.jrms_591_23",
+  "url": "https://doi.org/10.4103/jrms.jrms_591_23",
+  "pdf_url": "",
+  "venue": "Journal of Research in Medical Sciences",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T20:53:53.879196+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-047.md",
+  "quality_details": {
+    "content_length": 33055,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "src-343",
+  "title": "Regulation of epithelial-mesenchymal transition through epigenetic and post-translational modifications",
+  "authors": [
+    "Serrano‐Gómez, Silvia J.",
+    "Maziveyi, Mazvita",
+    "Alahari, Suresh K."
+  ],
+  "doi": "10.1186/s12943-016-0502-x",
+  "url": "https://openalex.org/W2286612125",
+  "provider": "openalex",
+  "year": 2016,
+  "venue": "Molecular Cancer",
+  "citation_count": 816,
+  "abstract": "The epithelial to mesenchymal transition (EMT) is a biological process in which a non-motile epithelial cell changes to a mesenchymal phenotype with invasive capacities. This phenomenon has been well documented in multiple biological processes including embryogenesis, fibrosis, tumor progression and metastasis. The hallmark of EMT is the loss of epithelial surface markers, most notably E-cadherin, and the acquisition of mesenchymal markers including vimentin and N-cadherin. The downregulation of E-cadherin during EMT can be mediated by its transcriptional repression through the binding of EMT transcription factors (EMT-TFs) such as SNAIL, SLUG and TWIST to E-boxes present in the E-cadherin promoter. Additionally, EMT-TFs can also cooperate with several enzymes to repress the expression of E-cadherin and regulate EMT at the epigenetic and post- translational level. In this review, we will focus on epigenetic and post- translational modifications that are important in EMT. In addition, we will provide an overview of the various therapeutic approaches currently being investigated to undermine EMT and hence, the metastatic progression of cancer as well.",
+  "type": "academic",
+  "pdf_url": "https://molecular-cancer.biomedcentral.com/track/pdf/10.1186/s12943-016-0502-x"
+}

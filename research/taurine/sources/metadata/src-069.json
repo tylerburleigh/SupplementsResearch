@@ -1,0 +1,38 @@
+{
+  "id": "src-069",
+  "title": "Taurine status and response to intravenous taurine supplementation in adults with short-bowel syndrome undergoing long-term parenteral nutrition: a pilot study",
+  "authors": [
+    "Schneider, Stéphane M.",
+    "Joly, Françoise",
+    "Gehrardt, Marie-France",
+    "Badran, Abdul M.",
+    "Myara, Anne",
+    "Thuillier, François",
+    "Coudray-Lucas, Colette",
+    "Cynober, Luc",
+    "Trivin, François",
+    "Messing, Bernard"
+  ],
+  "year": 2006,
+  "abstract": "Taurine deficiency in patients on long-term parenteral nutrition may be involved in cholestasis. We aimed to assess plasma taurine and tauro-conjugated bile acids in adults with short-bowel syndrome and their response to intravenous taurine. Thirty-two adult patients, who had been on taurine-free parenteral nutrition for a mean of 59(SE14) months for short-bowel syndrome, were studied retrospectively. In a second study, a subgroup of ten patients with chronic cholestasis received taurine-enriched (6·0(SE0·6)mg/kg per d) parenteral nutrition for 55(SE13) months. Post-absorptive plasma taurine and bile acid concentrations were measured and liver function tests routinely sampled. At baseline, plasma taurine was lower in patients with a jejunal length of less than 35cm (group A,n16) than in those with a jejunal length of 35cm or more (group B,n16): 43(SE3)v. 58(SE4)μmol/l (P=0·01). The groups were no different in terms of chronic cholestasis (1/6v.1/6 patients), total bile acids (26(SE13)v.14(SE5)μmol/l) or the ratio of tauro-conjugated:glyco-conjugated bile acids (5(SE2)v.8(SE 4)%, usual range 30–60%). After supplementation, there was an increase in plasma taurine level (63(SE8)v. 43(SE4),P=0·007) but was no change in either total bile acids or the ratio of tauro-conjugated: glyco-conjugated bile acids. There was a significant decrease in aspartate aminotransferase level. Long-term parenteral nutrition for short-bowel syndrome is associated with an impaired tauro-conjugation of bile acids (enterohepatic pool), irrespective of plasma taurine level (systemic pool) and despite long-term taurine intravenous supplementation.",
+  "doi": "10.1079/bjn20061826",
+  "url": "https://doi.org/10.1079/bjn20061826",
+  "pdf_url": "",
+  "venue": "British Journal of Nutrition",
+  "citation_count": 31,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-19T11:34:25.204561+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-069.md",
+  "quality_details": {
+    "content_length": 32780,
+    "alpha_ratio": 0.752,
+    "sentence_count": 241,
+    "reasons": []
+  }
+}

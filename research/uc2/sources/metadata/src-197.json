@@ -1,0 +1,17 @@
+{
+  "id": "src-197",
+  "title": "The ‘microflora hypothesis’ of allergic diseases",
+  "authors": [
+    "Noverr, Mairi C.",
+    "Hu, Biao"
+  ],
+  "doi": "10.1111/j.1365-2222.2005.02379.x",
+  "url": "https://openalex.org/W2159590190",
+  "provider": "openalex",
+  "year": 2005,
+  "venue": "Clinical & Experimental Allergy",
+  "citation_count": 388,
+  "abstract": "Increasingly, epidemiologic and clinical data support the hypothesis that perturbations in the gastrointestinal (GI) microbiota because of antibiotic use and dietary differences in 'industrialized' countries have disrupted the normal microbiota-mediated mechanisms of immunological tolerance in the mucosa, leading to an increase in the incidence of allergic airway disease. The data supporting this 'microflora hypothesis' includes correlations between allergic airway disease and (1) antibiotic use early in life, (2) altered fecal microbiota and (3) dietary changes over the past two decades. Our laboratory has recently demonstrated that mice can develop allergic airway responses to allergens if their endogenous microbiota is altered at the time of first allergen exposure. These experimental and clinical observations are consistent with other studies demonstrating that the endogenous microbiota plays a significant role in shaping the development of the immune system. Data are beginning to accumulate that a 'balanced' microbiota plays a positive role in maintaining mucosal immunologic tolerance long after post-natal development. Other studies have demonstrated that even small volumes delivered to the nasopharynx largely end up in the GI tract, suggesting that airway tolerance and oral tolerance may operate simultaneously. The mechanism of microbiota modulation of host immunity is not known; however, host and microbial oxylipins are one potential set of immunomodulatory molecules that may control mucosal tolerance. The cumulative data are beginning to support the notion that probiotic and prebiotic strategies be considered for patients coming off of antibiotic therapy.",
+  "type": "academic",
+  "pdf_url": "https://hdl.handle.net/2027.42/73451"
+}

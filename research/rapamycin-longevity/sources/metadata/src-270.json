@@ -1,0 +1,18 @@
+{
+  "id": "src-270",
+  "title": "PINK1 and Parkin mitochondrial quality control: a source of regional vulnerability in Parkinson’s disease",
+  "authors": [
+    "Ge, Preston",
+    "Dawson, Valina L.",
+    "Dawson, Ted M."
+  ],
+  "doi": "10.1186/s13024-020-00367-7",
+  "url": "https://openalex.org/W3011802680",
+  "provider": "openalex",
+  "year": 2020,
+  "venue": "Molecular Neurodegeneration",
+  "citation_count": 476,
+  "abstract": "That certain cell types in the central nervous system are more likely to undergo neurodegeneration in Parkinson's disease is a widely appreciated but poorly understood phenomenon. Many vulnerable subpopulations, including dopamine neurons in the substantia nigra pars compacta, have a shared phenotype of large, widely distributed axonal networks, dense synaptic connections, and high basal levels of neural activity. These features come at substantial bioenergetic cost, suggesting that these neurons experience a high degree of mitochondrial stress. In such a context, mechanisms of mitochondrial quality control play an especially important role in maintaining neuronal survival. In this review, we focus on understanding the unique challenges faced by the mitochondria in neurons vulnerable to neurodegeneration in Parkinson's and summarize evidence that mitochondrial dysfunction contributes to disease pathogenesis and to cell death in these subpopulations. We then review mechanisms of mitochondrial quality control mediated by activation of PINK1 and Parkin, two genes that carry mutations associated with autosomal recessive Parkinson's disease. We conclude by pinpointing critical gaps in our knowledge of PINK1 and Parkin function, and propose that understanding the connection between the mechanisms of sporadic Parkinson's and defects in mitochondrial quality control will lead us to greater insights into the question of selective vulnerability.",
+  "type": "academic",
+  "pdf_url": "https://molecularneurodegeneration.biomedcentral.com/track/pdf/10.1186/s13024-020-00367-7"
+}

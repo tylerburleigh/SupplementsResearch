@@ -1,0 +1,38 @@
+{
+  "id": "src-052",
+  "title": "Nicotinamide riboside and pterostilbene reduces markers of hepatic inflammation in NAFLD: A double‐blind, placebo‐controlled clinical trial",
+  "authors": [
+    "Dellinger, Ryan W.",
+    "Holmes, Holly E.",
+    "Hu‐Seliger, Tina",
+    "Butt, Rodney W.",
+    "Harrison, Stephen A.",
+    "Mozaffarian, Dariush",
+    "Chen, Oliver",
+    "Guarente, Leonard"
+  ],
+  "year": 2023,
+  "abstract": "Background and Aims:\nThe prevalence of NAFLD is increasing globally and on a path to becoming the most frequent cause of chronic liver disease. Strategies for the prevention and treatment of NAFLD are urgently needed.\n\nApproach and Results:\nA 6‐month prospective, randomized, double‐blind, placebo‐controlled clinical trial was conducted to assess the efficacy of daily NRPT (commercially known as Basis, a combination of nicotinamide riboside and pterostilbene) supplementation in 111 adults with NAFLD. The study consisted of three arms: placebo, recommended daily dose of NRPT (NRPT 1×), and a double dose of NRPT (NRPT 2×). NRPT appeared safe and well tolerated. At the end of the study, no significant change was seen in the primary endpoint of hepatic fat fraction with respect to placebo. However, among prespecified secondary outcomes, a time‐dependent decrease in the circulating levels of the liver enzymes alanine aminotransferase (ALT) and gamma‐glutamyltransferase (GGT) was observed in the NRPT 1× group, and this decrease was significant with respect to placebo. Furthermore, a significant decrease in the circulating levels of the toxic lipid ceramide 14:0 was also observed in the NRPT 1× group versus placebo, and this decrease was associated with a decrease in ALT in individuals of this group. A dose‐dependent effect was not observed with respect to ALT, GGT, or ceramide 14:0 in the NRPT 2× group.\n\nConclusions:\nThis study demonstrates that NRPT at the recommended dose is safe and may hold promise in lowering markers of hepatic inflammation in patients with NAFLD.",
+  "doi": "10.1002/hep.32778",
+  "url": "https://doi.org/10.1002/hep.32778",
+  "pdf_url": "",
+  "venue": "Hepatology",
+  "citation_count": 42,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-20T20:26:06.524092+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-052.md",
+  "quality_details": {
+    "content_length": 3494,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

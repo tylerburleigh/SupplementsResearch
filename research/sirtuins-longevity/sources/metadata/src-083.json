@@ -1,0 +1,19 @@
+{
+  "id": "src-083",
+  "title": "Glucocorticoid-Mediated Skeletal Muscle Atrophy: Molecular Mechanisms and Potential Therapeutic Targets.",
+  "authors": [
+    "Permpoon, Uttapol",
+    "Moon, Jiyeong",
+    "Kim, Chul Young",
+    "Nam, Tae-Gyu"
+  ],
+  "doi": "10.3390/ijms26157616",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40806744",
+  "provider": "pubmed",
+  "year": 2025,
+  "venue": "International journal of molecular sciences",
+  "citation_count": 0,
+  "abstract": "Skeletal muscle atrophy is a critical health issue affecting the quality of life of elderly individuals and patients with chronic diseases. These conditions induce dysregulation of glucocorticoid (GC) secretion. GCs play a critical role in maintaining homeostasis in the stress response and glucose metabolism. However, prolonged exposure to GC is directly linked to muscle atrophy, which is characterized by a reduction in muscle size and weight, particularly affecting fast-twitch muscle fibers. The GC-activated glucocorticoid receptor (GR) decreases protein synthesis and facilitates protein breakdown. Numerous antagonists have been developed to mitigate GC-induced muscle atrophy, including 11β-HSD1 inhibitors and myostatin and activin receptor blockers. However, the clinical trial results have fallen short of the expected efficacy. Recently, several emerging pathways and targets have been identified. For instance, GC-induced sirtuin 6 isoform (SIRT6) expression suppresses AKT/mTORC1 signaling. Lysine-specific demethylase 1 (LSD1) cooperates with the GR for the transcription of atrogenes. The kynurenine pathway and indoleamine 2,3-dioxygenase 1 (IDO-1) also play crucial roles in protein synthesis and energy production in skeletal muscle. Therefore, a deeper understanding of the complexities of GR transactivation and transrepression will provide new strategies for the discovery of novel drugs to overcome the detrimental effects of GCs on muscle tissues.",
+  "type": "academic",
+  "pdf_url": ""
+}

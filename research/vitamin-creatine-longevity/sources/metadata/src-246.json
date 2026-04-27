@@ -1,0 +1,40 @@
+{
+  "id": "src-246",
+  "title": "The effects of creatine supplementation on cognitive performance—a randomised controlled study",
+  "authors": [
+    "Sandkühler, Julia Fabienne",
+    "Kersting, Xenia",
+    "Faust, Annika",
+    "Königs, Eva Kathrin",
+    "Altman, George",
+    "Ettinger, Ulrich",
+    "Lux, Silke",
+    "Philipsen, Alexandra",
+    "Müller, Helge",
+    "Brauner, Jan"
+  ],
+  "year": 2023,
+  "abstract": "Abstract\n\nBackground\nCreatine is an organic compound that facilitates the recycling of energy-providing adenosine triphosphate (ATP) in muscle and brain tissue. It is a safe, well-studied supplement for strength training. Previous studies have shown that supplementation increases brain creatine levels, which might increase cognitive performance. The results of studies that have tested cognitive performance differ greatly, possibly due to different populations, supplementation regimens, and cognitive tasks. This is the largest study on the effect of creatine supplementation on cognitive performance to date.\n\nMethods\nOur trial was preregistered, cross-over, double-blind, placebo-controlled, and randomised, with daily supplementation of 5 g for 6 weeks each. We tested participants on Raven’s Advanced Progressive Matrices (RAPM) and on the Backward Digit Span (BDS). In addition, we included eight exploratory cognitive tests. About half of our 123 participants were vegetarians and half were omnivores.\n\nResults\n\nBayesian evidence supported a small beneficial effect of creatine. The creatine effect bordered significance for BDS (\np\n= 0.064,\nη\n2\nP\n= 0.029) but not RAPM (\np\n= 0.327,\nη\n2\nP\n= 0.008). There was no indication that creatine improved the performance of our exploratory cognitive tasks. Side effects were reported significantly more often for creatine than for placebo supplementation (\np\n= 0.002, RR = 4.25). Vegetarians did not benefit more from creatine than omnivores.\n\nConclusions\nOur study, in combination with the literature, implies that creatine might have a small beneficial effect. Larger studies are needed to confirm or rule out this effect. Given the safety and broad availability of creatine, this is well worth investigating; a small effect could have large benefits when scaled over time and over many people.\n\nTrial registration\n\nThe trial was prospectively registered (drks.de identifier: DRKS00017250,\nhttps://osf.io/xpwkc/\n).",
+  "doi": "10.1186/s12916-023-03146-5",
+  "url": "https://doi.org/10.1186/s12916-023-03146-5",
+  "pdf_url": "",
+  "venue": "BMC Medicine",
+  "citation_count": 20,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T14:14:16.999132+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-246.md",
+  "quality_details": {
+    "content_length": 77744,
+    "alpha_ratio": 0.74,
+    "sentence_count": 811,
+    "reasons": [
+      "paywall_page (access this article)"
+    ]
+  }
+}

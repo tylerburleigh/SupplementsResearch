@@ -1,0 +1,50 @@
+{
+  "id": "src-086",
+  "title": "Senolytic therapy in mild Alzheimer’s disease: a phase 1 feasibility trial",
+  "authors": [
+    "Gonzales, Mitzi M.",
+    "Garbarino, Valentina R.",
+    "Kautz, Tiffany F.",
+    "Palavicini, Juan Pablo",
+    "Lopez-Cruzan, Marisa",
+    "Dehkordi, Shiva Kazempour",
+    "Mathews, Julia J.",
+    "Zare, Habil",
+    "Xu, Peng",
+    "Zhang, Bin",
+    "Franklin, Crystal",
+    "Habes, Mohamad",
+    "Craft, Suzanne",
+    "Petersen, Ronald C.",
+    "Tchkonia, Tamara",
+    "Kirkland, James L.",
+    "Salardini, Arash",
+    "Seshadri, Sudha",
+    "Musi, Nicolas",
+    "Orr, Miranda E."
+  ],
+  "year": 2023,
+  "abstract": "",
+  "doi": "10.1038/s41591-023-02543-w",
+  "url": "https://doi.org/10.1038/s41591-023-02543-w",
+  "pdf_url": "",
+  "venue": "Nature Medicine",
+  "citation_count": 216,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-22T20:06:27.475612+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-086.md",
+  "quality_details": {
+    "content_length": 28899,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

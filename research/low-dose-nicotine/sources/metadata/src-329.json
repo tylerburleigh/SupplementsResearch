@@ -1,0 +1,23 @@
+{
+  "id": "src-329",
+  "title": "Nicotine improves probabilistic reward learning in wildtype but not alpha7 nAChR null mutants, yet alpha7 nAChR agonists do not improve probabilistic learning.",
+  "authors": [
+    "Milienne-Petiot, Morgane",
+    "Higa, K.",
+    "Grim, A.",
+    "Deben, D.",
+    "Groenink, L.",
+    "Twamley, E.",
+    "Geyer, M.",
+    "Young, J."
+  ],
+  "doi": "10.1016/j.euroneuro.2018.08.005",
+  "url": "https://www.semanticscholar.org/paper/c589daf5ef8432e3f5268767a77dcc897a46350f",
+  "provider": "semantic_scholar",
+  "year": 2018,
+  "venue": "European Neuropsychopharmacology",
+  "citation_count": 8,
+  "abstract": "Cognitive impairments, e.g., reward learning, are present in various psychiatric disorders and warrant treatment. Improving reward-related learning could synergistically enhance psychosocial treatments and cognition generally. A critical first step is to understand the mechanisms underlying reward learning. The dopamine system has been implicated in such learning, but less known is how indirect activation of this system may affect reward learning. We determined the role of alpha7 nicotinic acetylcholine receptors (nAChR) on a probabilistic reversal learning task (PRLT) in mice that includes reward and punishment. Male alpha7 knockout (KO), heterozygous (HT), and wildtype (WT) littermate mice (n = 84) were treated with vehicle, 0.03, or 0.3 mg/kg nicotine. Two cohorts of C57BL/6NJ male mice were treated with various alpha7 nAChR ligands, including the full agonists PNU282877 and AR-R-17779, the positive allosteric modulator CCMI, the partial agonist SSR180711, and the antagonist methyllycaconitine. All mice were then tested in the PRLT. Nicotine (0.3 mg/kg) significantly improved initial reward learning in alpha7 WT and HT mice but did not improve learning in KO mice, suggesting an involvement of the alpha7 nAChR in the pro-learning effects of nicotine. Neither alpha7 nAChR treatments (PNU282987, AR-R-17779, CCMI, SSR180711, nor methyllycaconitine) affected mouse PRLT performance however. Nicotine improved reward learning via a mechanism that may include alpha7 nAChRs. This improvement unlikely relied solely on alpha7 nAChRs however, since no alpha7 nAChR ligand improved reward learning in normal mice. Future assessments of the effects of other nAChR subtypes on reward learning are needed.",
+  "type": "academic",
+  "pdf_url": "https://dspace.library.uu.nl/bitstream/handle/1874/375321/1_s2.0_S0924977X18303079_main.pdf?sequence=1&isAllowed=y"
+}

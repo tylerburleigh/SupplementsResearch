@@ -1,0 +1,19 @@
+{
+  "id": "src-024",
+  "title": "Chemical and molecular mechanisms of antioxidants: experimental approaches and model systems",
+  "authors": [
+    "Lü, Jinhu",
+    "Lin, Peter H.",
+    "Yao, Qizhi",
+    "Chen, Changyi"
+  ],
+  "doi": "10.1111/j.1582-4934.2009.00897.x",
+  "url": "https://openalex.org/W2146002095",
+  "provider": "openalex",
+  "year": 2009,
+  "venue": "Journal of Cellular and Molecular Medicine",
+  "citation_count": 1272,
+  "abstract": "Free radicals derived from oxygen, nitrogen and sulphur molecules in the biological system are highly active to react with other molecules due to their unpaired electrons. These radicals are important part of groups of molecules called reactive oxygen/nitrogen species (ROS/RNS), which are produced during cellular metabolism and functional activities and have important roles in cell signalling, apoptosis, gene expression and ion transportation. However, excessive ROS attack bases in nucleic acids, amino acid side chains in proteins and double bonds in unsaturated fatty acids, and cause oxidative stress, which can damage DNA, RNA, proteins and lipids resulting in an increased risk for cardiovascular disease, cancer, autism and other diseases. Intracellular antioxidant enzymes and intake of dietary antioxidants may help to maintain an adequate antioxidant status in the body. In the past decades, new molecular techniques, cell cultures and animal models have been established to study the effects and mechanisms of antioxidants on ROS. The chemical and molecular approaches have been used to study the mechanism and kinetics of antioxidants and to identify new potent antioxidants. Antioxidants can decrease the oxidative damage directly via reacting with free radicals or indirectly by inhibiting the activity or expression of free radical generating enzymes or enhancing the activity or expression of intracellular antioxidant enzymes. The new chemical and cell-free biological system has been applied in dissecting the molecular action of antioxidants. This review focuses on the research approaches that have been used to study oxidative stress and antioxidants in lipid peroxidation, DNA damage, protein modification as well as enzyme activity, with emphasis on the chemical and cell-free biological system.",
+  "type": "academic",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1582-4934.2009.00897.x"
+}

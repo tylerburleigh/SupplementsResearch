@@ -1,0 +1,39 @@
+{
+  "id": "src-076",
+  "title": "A human-origin probiotic cocktail ameliorates aging-related leaky gut and inflammation via modulating the microbiota/taurine/tight junction axis",
+  "authors": [
+    "Ahmadi, Shokouh",
+    "Wang, Shaohua",
+    "Nagpal, Ravinder",
+    "Wang, Bo",
+    "Jain, Shalini",
+    "Razazan, Atefeh",
+    "Mishra, Sidharth P.",
+    "Zhu, Xuewei",
+    "Wang, Zhan",
+    "Kavanagh, Kylie",
+    "Yadav, Hariom"
+  ],
+  "year": 2020,
+  "abstract": "",
+  "doi": "10.1172/jci.insight.132055",
+  "url": "https://doi.org/10.1172/jci.insight.132055",
+  "pdf_url": "",
+  "venue": "JCI Insight",
+  "citation_count": 210,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-19T11:49:11.408123+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-076.md",
+  "quality_details": {
+    "content_length": 77494,
+    "alpha_ratio": 0.764,
+    "sentence_count": 698,
+    "reasons": []
+  }
+}

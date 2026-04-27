@@ -1,0 +1,30 @@
+{
+  "id": "src-239",
+  "title": "Efectos en la función renal de la suplementación de creatina con fines deportivos",
+  "authors": [
+    "Vega, Jorge",
+    "Huidobro E., Juan Pablo"
+  ],
+  "year": 2019,
+  "abstract": "",
+  "doi": "10.4067/s0034-98872019000500628",
+  "url": "https://doi.org/10.4067/s0034-98872019000500628",
+  "pdf_url": "",
+  "venue": "Revista médica de Chile",
+  "citation_count": 20,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T14:14:01.354712+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-239.md",
+  "quality_details": {
+    "content_length": 24771,
+    "alpha_ratio": 0.755,
+    "sentence_count": 235,
+    "reasons": []
+  }
+}

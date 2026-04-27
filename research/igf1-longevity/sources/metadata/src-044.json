@@ -1,0 +1,32 @@
+{
+  "id": "src-044",
+  "title": "RNA surveillance via nonsense-mediated mRNA decay is crucial for longevity in daf-2/insulin/IGF-1 mutant C. elegans",
+  "authors": [
+    "Son, H.",
+    "Seo, Mihwa",
+    "Ham, Seokjin",
+    "Hwang, Wooseon",
+    "Lee, Dongyeop",
+    "An, S. W.",
+    "Artan, Murat",
+    "Seo, Keunhee",
+    "Kaletsky, Rachel",
+    "Arey, R.",
+    "Ryu, Youngjae",
+    "Ha, C.",
+    "Kim, Yoon Ki",
+    "Murphy, C.",
+    "Roh, Tae-Young",
+    "Nam, H.",
+    "Lee, Seung-Jae V."
+  ],
+  "doi": "10.1038/ncomms14749",
+  "url": "https://www.semanticscholar.org/paper/2d588e49bd48c4a60e0ef5b3cab6c7e877224dd8",
+  "provider": "semantic_scholar",
+  "year": 2017,
+  "venue": "Nature Communications",
+  "citation_count": 73,
+  "abstract": "Long-lived organisms often feature more stringent protein and DNA quality control. However, whether RNA quality control mechanisms, such as nonsense-mediated mRNA decay (NMD), which degrades both abnormal as well as some normal transcripts, have a role in organismal aging remains unexplored. Here we show that NMD mediates longevity in C. elegans strains with mutations in daf-2/insulin/insulin-like growth factor 1 receptor. We find that daf-2 mutants display enhanced NMD activity and reduced levels of potentially aberrant transcripts. NMD components, including smg-2/UPF1, are required to achieve the longevity of several long-lived mutants, including daf-2 mutant worms. NMD in the nervous system of the animals is particularly important for RNA quality control to promote longevity. Furthermore, we find that downregulation of yars-2/tyrosyl-tRNA synthetase, an NMD target transcript, by daf-2 mutations contributes to longevity. We propose that NMD-mediated RNA surveillance is a crucial quality control process that contributes to longevity conferred by daf-2 mutations. The decline of DNA and protein quality control contributes to organismal ageing. Here, Sonet al. report that nonsense-mediated mRNA decay, a RNA quality control mechanism, is enhanced in long-lived daf-2 mutant worms and contributes to their longevity by regulating expression of the yars-2/tyrosyl tRNA synthetase.",
+  "type": "academic",
+  "pdf_url": "https://www.nature.com/articles/ncomms14749.pdf"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "src-261",
+  "title": "Wide tolerance to amino acids substitutions in the OCTN1 ergothioneine transporter.",
+  "authors": [
+    "Frigeni, Marta",
+    "Iacobazzi, Francesco",
+    "Yin, Xue",
+    "Longo, Nicola"
+  ],
+  "doi": "10.1016/j.bbagen.2016.03.021",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/26994919",
+  "provider": "pubmed",
+  "year": 2016,
+  "venue": "Biochimica et biophysica acta",
+  "citation_count": 0,
+  "abstract": "BACKGROUND: Organic cation transporters transfer solutes with a positive charge across the plasma membrane. The novel organic cation transporter 1 (OCTN1) and 2 (OCTN2) transport ergothioneine and carnitine, respectively. Mutations in the SLC22A5 gene encoding OCTN2 cause primary carnitine deficiency, a recessive disorders resulting in low carnitine levels and defective fatty acid oxidation. Variations in the SLC22A4 gene encoding OCTN1 are associated with rheumatoid arthritis and Crohn disease.\nMETHODS: Here we evaluate the functional properties of the OCTN1 transporter using chimeric transporters constructed by fusing different portion of the OCTN1 and OCTN2 cDNAs. Their relative abundance and subcellular distribution was evaluated through western blot analysis and confocal microscopy.\nRESULTS: Substitutions of the C-terminal portion of OCTN1 with the correspondent residues of OCTN2 generated chimeric OCTN transporters more active than wild-type OCTN1 in transporting ergothioneine. Additional single amino acid substitutions introduced in chimeric OCTN transporters further increased ergothioneine transport activity. Kinetic analysis indicated that increased transport activity was due to an increased V(max), with modest changes in K(m) toward ergothioneine.\nCONCLUSIONS: Our results indicate that the OCTN1 transporter is tolerant to extensive amino acid substitutions. This is in sharp contrast to the OCTN2 carnitine transporter that has been selected for high functional activity through evolution, with almost all substitutions reducing carnitine transport activity.\nGENERAL SIGNIFICANCE: The widespread tolerance of OCTN1 to amino acid substitutions suggests that the corresponding SLC22A4 gene may have derived from a recent duplication of the SLC22A5 gene and might not yet have a defined physiological role.",
+  "type": "academic",
+  "pdf_url": ""
+}

@@ -1,0 +1,43 @@
+{
+  "id": "src-084",
+  "title": "Redefining Chronic Inflammation in Aging and Age-Related Diseases: Proposal of the Senoinflammation Concept",
+  "authors": [
+    "Chung, Hae Young",
+    "Kim, Dae Hyun",
+    "Lee, Eun Kyeong",
+    "Chung, Ki Wung",
+    "Chung, Sangwoon",
+    "Lee, Bonggi",
+    "Seo, Arnold Y.",
+    "Chung, Jae Heun",
+    "Jung, Young Suk",
+    "Im, Eunok",
+    "Lee, Jaewon",
+    "Kim, Nam Deuk",
+    "Choi, Yeon Ja",
+    "Im, Dong Soon",
+    "Yu, Byung Pal"
+  ],
+  "year": 2019,
+  "abstract": "",
+  "doi": "10.14336/ad.2018.0324",
+  "url": "https://doi.org/10.14336/ad.2018.0324",
+  "pdf_url": "",
+  "venue": "Aging and disease",
+  "citation_count": 429,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-24T01:08:55.562190+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-084.md",
+  "quality_details": {
+    "content_length": 83960,
+    "alpha_ratio": 0.715,
+    "sentence_count": 775,
+    "reasons": []
+  }
+}

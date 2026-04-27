@@ -1,0 +1,21 @@
+{
+  "id": "src-186",
+  "title": "DEL-1 is an endogenous senolytic protein that inhibits senescence-associated bone loss 9361",
+  "authors": [
+    "Lim, Jong-Hyung",
+    "Sirisereephap, Kridtapat",
+    "Chung, Kyoung-Jin",
+    "Maekawa, T.",
+    "Chavakis, T.",
+    "Hajishengallis, G."
+  ],
+  "doi": "10.1093/jimmun/vkaf283.2772",
+  "url": "https://www.semanticscholar.org/paper/7ca87b8e2353b89d0e389e6125df18a939677937",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "Journal of Immunology",
+  "citation_count": 0,
+  "abstract": "Accumulation of senescent cells in the bone microenvironment, including bone marrow mesenchymal stem cells (BMSCs), contributes to aging-related bone degeneration and chronic inflammation. We herein describe DEL-1, the expression of which declines in old age, as an endogenous secreted senolytic protein. DEL-1 promoted apoptosis of senescent BMSCs via a β3 integrin/CD73/adenosine/p38 MAPK pathway, thereby leading to their clearance by macrophages. DEL-1-deficiency displayed increased abundance of β3 integrin-rich CD73+ senescent BMSCs and higher chemotherapy-induced or aging-related senescence-associated bone loss and inflammation. Conversely, mice with endothelial-specific overexpression of DEL-1 (EC-Del1) had decreased numbers of senescent BMSCs and diminished senescence-associated bone loss. CD73-deficiency reversed the reduction in senescent BMSC numbers in EC-Del1 mice. Administration of DEL-1 (or a DEL-1-inducing macrolide) caused a reduction in senescence markers and reversed aging-related periodontitis. Therefore, DEL-1 may be harnessed as an endogenous senolytic to prevent senescent cell buildup, mitigate inflammation, and senescence-associated bone loss.\n\nNIH (DE028561, DE026152 and DE029436), the Saxon State Ministry of Science, Culture and Tourism-SMWK (Unterstützung profilbestimmender Struktureinheiten der TU Dresden), the JSPS KAKENHI (23KK0160 and 23K24525 to T.M.), the Mochida Memorial Foundation (J23G0194), AMED (JP23ym0126801), and Deutsche Forschungsgemeinschaft (LI 3493/1-1 and the Collaborative Research Centre TRR369, project C03).\n\nCellular Adhesion, Migration, and Inflammation (CAM)",
+  "type": "academic",
+  "pdf_url": ""
+}

@@ -1,0 +1,30 @@
+{
+  "id": "src-007",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://centenary.day/blog/article/c-reactive-protein-your-key-to-tracking-inflammation-and-longevity",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-24T00:59:57.265599+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-007.md",
+  "quality_details": {
+    "content_length": 118,
+    "alpha_ratio": 0.712,
+    "sentence_count": 0,
+    "reasons": [
+      "content too short (118 chars < 500)",
+      "few sentences detected (0 < 3)"
+    ]
+  }
+}

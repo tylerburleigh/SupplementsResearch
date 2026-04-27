@@ -1,0 +1,26 @@
+{
+  "id": "src-222",
+  "title": "Mitochondrial Deacetylase Sirt3 Reduces Vascular Dysfunction and Hypertension While Sirt3 Depletion in Essential Hypertension Is Linked to Vascular Inflammation and Oxidative Stress",
+  "authors": [
+    "Dikalova, Anna",
+    "Pandey, Arvind K.",
+    "Xiao, Liang",
+    "Arslanbaeva, Liaisan",
+    "Sidorova, Tatiana N.",
+    "Lopez, Marcos G.",
+    "Billings, Frederic T.",
+    "Verdin, Eric",
+    "Auwerx, Johan",
+    "Harrison, David G.",
+    "Dikalov, Sergey"
+  ],
+  "doi": "10.1161/circresaha.119.315767",
+  "url": "https://openalex.org/W2995253764",
+  "provider": "openalex",
+  "year": 2019,
+  "venue": "Circulation Research",
+  "citation_count": 356,
+  "abstract": "We suggest that Sirt3 depletion in hypertension promotes endothelial dysfunction, vascular hypertrophy, vascular inflammation, and end-organ damage. Our data support a therapeutic potential of targeting Sirt3 expression in vascular dysfunction and hypertension.",
+  "type": "academic",
+  "pdf_url": "https://www.ahajournals.org/doi/pdf/10.1161/CIRCRESAHA.119.315767"
+}

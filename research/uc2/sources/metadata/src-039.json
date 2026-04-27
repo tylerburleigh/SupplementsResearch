@@ -1,0 +1,36 @@
+{
+  "id": "src-039",
+  "title": "Niacinamide and undenatured type II collagen modulates the inflammatory response in rats with monoiodoacetate-induced osteoarthritis",
+  "authors": [
+    "Sahin, Kazim",
+    "Kucuk, Osman",
+    "Orhan, Cemal",
+    "Tuzcu, Mehmet",
+    "Durmus, Ali Said",
+    "Ozercan, Ibrahim Hanifi",
+    "Sahin, Nurhan",
+    "Juturu, Vijaya"
+  ],
+  "year": 2021,
+  "abstract": "AbstractThe current work aimed to examine the properties of oral supplementation of niacinamide and undenatured type II collagen (UCII) on the inflammation and joint pain behavior of rats with osteoarthritis (OA). Forty-nine Wistar rats were allocated into seven groups; control (no MIA), MIA as a non-supplemental group with monosodium iodoacetate (MIA)-induced knee osteoarthritis, MIA + undenatured type II collagen (UCII) at 4 mg/kg BW, MIA + Niacinamide at 40 mg/kg BW (NA40), MIA + Niacinamide at 200 mg/kg BW (NA200), MIA + UCII + NA40 and MIA + UCII + NA200. Serum IL‐1β, IL‐6, TNF-α, COMP, and CRP increased in rats with OA and decreased in UCII and NA groups (p &lt; 0.05). Rats with osteoarthritis had greater serum MDA and knee joint MMP-3, NF-κB, and TGβ protein levels and decreased in treated groups with UCII and NA (p &lt; 0.05). The rats with OA also bore elevated joint diameters with joint pain behavior measured as decreased the stride lengths, the paw areas, and the paw widths, and increased the Kellgren-Lawrence and the Mankin scores (p &lt; 0.05) and decreased in UCII treated groups. These results suggest the combinations with the UCII + NA supplementation as being most effective and reduce the inflammation responses for most OA symptoms in rats.",
+  "doi": "10.1038/s41598-021-94142-3",
+  "url": "https://doi.org/10.1038/s41598-021-94142-3",
+  "pdf_url": "",
+  "venue": "Scientific Reports",
+  "citation_count": 32,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-19T13:41:39.329239+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-039.md",
+  "quality_details": {
+    "content_length": 59011,
+    "alpha_ratio": 0.711,
+    "sentence_count": 725,
+    "reasons": []
+  }
+}

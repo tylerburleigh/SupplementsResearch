@@ -1,0 +1,29 @@
+{
+  "id": "src-006",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://genomind.com/providers/mthfr-gene-spotlight",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-20T12:20:14.017239+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-006.md",
+  "quality_details": {
+    "content_length": 9325,
+    "alpha_ratio": 0.767,
+    "sentence_count": 98,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

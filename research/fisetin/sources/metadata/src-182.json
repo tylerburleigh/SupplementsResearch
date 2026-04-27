@@ -1,0 +1,30 @@
+{
+  "id": "src-182",
+  "title": "p16(Ink4a) and senescence-associated β-galactosidase can be induced in macrophages as part of a reversible response to physiological stimuli",
+  "authors": [
+    "Hall, Brandon M",
+    "Balan, V.",
+    "Gleiberman, A.",
+    "Strom, Evguenia",
+    "Krasnov, Peter",
+    "Virtuoso, Lauren P.",
+    "Rydkina, E.",
+    "Vujcic, S.",
+    "Balan, Karina",
+    "Gitlin, I.",
+    "Leonova, K.",
+    "Consiglio, C.",
+    "Gollnick, S.",
+    "Chernova, O.",
+    "Gudkov, A."
+  ],
+  "doi": "10.18632/aging.101268",
+  "url": "https://www.semanticscholar.org/paper/6e319996f34df0aa6c30345d7bbef7076fce17ba",
+  "provider": "semantic_scholar",
+  "year": 2017,
+  "venue": "Aging",
+  "citation_count": 346,
+  "abstract": "Constitutive p16Ink4a expression, along with senescence-associated β-galactosidase (SAβG), are commonly accepted biomarkers of senescent cells (SCs). Recent reports attributed improvement of the healthspan of aged mice following p16Ink4a-positive cell killing to the eradication of accumulated SCs. However, detection of p16Ink4a/SAβG-positive macrophages in the adipose tissue of old mice and in the peritoneal cavity of young animals following injection of alginate-encapsulated SCs has raised concerns about the exclusivity of these markers for SCs. Here we report that expression of p16Ink4a and SAβG in macrophages is acquired as part of a physiological response to immune stimuli rather than through senescence, consistent with reports that p16Ink4a plays a role in macrophage polarization and response. Unlike SCs, p16Ink4a/SAβG-positive macrophages can be induced in p53-null mice. Macrophages, but not mesenchymal SCs, lose both markers in response to M1- [LPS, IFN-α, Poly(I:C)] and increase their expression in response to M2-inducing stimuli (IL-4, IL-13). Moreover, interferon-inducing agent Poly(I:C) dramatically reduced p16Ink4a expression in vivo in our alginate bead model and in the adipose tissue of aged mice. These observations suggest that the antiaging effects following eradication of p16Ink4a-positive cells may not be solely attributed to SCs but also to non-senescent p16Ink4a/SAβG-positive macrophages.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.18632/aging.101268"
+}

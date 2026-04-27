@@ -1,0 +1,32 @@
+{
+  "id": "src-068",
+  "title": "Senolytics in the treatment of diabetic retinopathy",
+  "authors": [
+    "Hassan, Jannah Waled",
+    "Bhatwadekar, Ashay D."
+  ],
+  "year": 2022,
+  "abstract": "Diabetic retinopathy (DR) is the most common complication of diabetes. DR is characterized by damage to retinal vasculature resulting in vision impairment and, if untreated, could eventually lead to blindness. The pathogenic mechanism of DR is complex; emerging studies suggest that premature senescence of retinal cells and subsequent secretion of inflammatory cytokines exacerbate DR disease state by stimulating paracrine senescence, pathological angiogenesis, and reparative vascular regeneration. Senolytics are a new class of drugs that can selectively clear out senescent cells from the retina, thus holding a significant promise in DR treatment and prevention. In this review, we discuss the critical role of cellular senescence in DR’s pathogenesis; A literature review was conducted in September of 2021 to explore the therapeutic potential of senolytics in the treatment of DR. Studies that were relevant to the research topic were selected through multiple keyword searches in the search engine, PubMed and thoroughly reviewed using abstracts and full-text articles. We present evidence from animal models for studying cellular senescence in DR and discuss multiple pathogenic mechanisms in cellular senescence and its involvement in DR. We also discuss the current state of pharmaceutical development at preclinical and clinical stages focusing on the senolytic drugs navitoclax, 17-DMAG, piperlongumine, UBX-1325, dasatinib quercetin, and fisetin. In particular, UBX-1325 holds a promising prospect for DR treatment based on the positive outcome of early clinical studies in individuals with diabetic macular edema (DME) and wet age-related macular degeneration.",
+  "doi": "10.3389/fphar.2022.896907",
+  "url": "https://doi.org/10.3389/fphar.2022.896907",
+  "pdf_url": "",
+  "venue": "Frontiers in Pharmacology",
+  "citation_count": 35,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-24T12:49:48.226776+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-068.md",
+  "quality_details": {
+    "content_length": 45908,
+    "alpha_ratio": 0.742,
+    "sentence_count": 700,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

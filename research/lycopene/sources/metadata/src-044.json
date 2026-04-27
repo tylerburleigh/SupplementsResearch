@@ -1,0 +1,37 @@
+{
+  "id": "src-044",
+  "title": "Insufficient Lycopene Intake Is Associated With High Risk of Prostate Cancer: A Cross-Sectional Study From the National Health and Nutrition Examination Survey (2003–2010)",
+  "authors": [
+    "Lu, You",
+    "Edwards, Andrea",
+    "Chen, Zhong",
+    "Tseng, Tung-Sung",
+    "Li, Mirandy",
+    "Gonzalez, Gabrielle V.",
+    "Zhang, Kun"
+  ],
+  "year": 2021,
+  "abstract": "Although lycopene intake and risk of prostate cancer have been explored for decades, recent studies show that Non-Hispanic Black Prostate Cancer (PCa) patients benefit less than Non-Hispanic White patients from a lycopene intake intervention program. This study examined whether a lycopene intake-related racial disparity exists in reducing the risk of PCa in healthy adults. Data on healthy, cancer-free Non-Hispanic Black (NHB) men (n = 159) and Non-Hispanic White (NHW) men (n = 478) from the 2003 to 2010 NHANES dataset were analyzed. Total lycopene intake from daily diet, age, living status, race/ethnicity, education level, poverty income ratio, body mass index, and smoking status were studied as independent variables. The combination of total Prostate-Specific Antigen (PSA) level and the ratio of free PSA was set as criteria for evaluating the risk of PCa. Multivariable logistic regression was used in race-stratified analyses to compute odds ratios (OR) and 95% confidence intervals (95% CI) comparing high PCa risk with low PCa risk. We found, in the whole population, race/ethnicity was the only factor that influenced lycopene intake from the daily diet. NHB men consumed less lycopene than NHW men (3,716 vs. 6,487 (mcg), p = 0.01). Sufficient lycopene intake could reduce the risk of PCa (OR: 0.40, 95% CI: 0.18–0.85, p = 0.02). Men aged between 66 and 70 had high PCa risk (OR: 3.32, 95% CI: 1.12–9.85, p = 0.03). Obesity served as a protective factor against the high risk of PCa (OR: 0.25, 95% CI: 0.12–0.54, p = 0.001). NHW men aged between 66 and 70 had a high risk of PCa (OR: 4.01, 95% CI: 1.02–15.73, p = 0.05). Obese NHW men also had lower risk of PCa (OR: 0.18, 95% CI: 0.07–0.47 p = 0.001). NHB men had a high risk of PCa compared to NHW men (OR: 2.27, 95% CI: 1.35–3.81 p = 0.004). NHB men who were living without partners experienced an even higher risk of PCa (OR: 3.35, 95% CI: 1.01–11.19 p = 0.07). Sufficient lycopene intake from daily food could serve as a protector against PCa. Such an association was only observed in NHW men. Further studies are needed to explore the dose-response relationship between lycopene intake and the association of PCa risk in NHB men.",
+  "doi": "10.3389/fpubh.2021.792572",
+  "url": "https://doi.org/10.3389/fpubh.2021.792572",
+  "pdf_url": "",
+  "venue": "Frontiers in Public Health",
+  "citation_count": 14,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-19T18:33:36.519895+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-044.md",
+  "quality_details": {
+    "content_length": 42636,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

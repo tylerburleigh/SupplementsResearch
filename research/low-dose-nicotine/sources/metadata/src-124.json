@@ -1,0 +1,21 @@
+{
+  "id": "src-124",
+  "title": "Ketone bodies: from enemy to friend and guardian angel",
+  "authors": [
+    "Kolb, Hubert",
+    "Kempf, Kerstin",
+    "Röhling, Martin",
+    "Lenzen-Schulte, Martina",
+    "Schloot, Nanette C.",
+    "Martin, Stéphan"
+  ],
+  "doi": "10.1186/s12916-021-02185-0",
+  "url": "https://openalex.org/W4200456656",
+  "provider": "openalex",
+  "year": 2021,
+  "venue": "BMC Medicine",
+  "citation_count": 328,
+  "abstract": "During starvation, fasting, or a diet containing little digestible carbohydrates, the circulating insulin levels are decreased. This promotes lipolysis, and the breakdown of fat becomes the major source of energy. The hepatic energy metabolism is regulated so that under these circumstances, ketone bodies are generated from β-oxidation of fatty acids and secreted as ancillary fuel, in addition to gluconeogenesis. Increased plasma levels of ketone bodies thus indicate a dietary shortage of carbohydrates. Ketone bodies not only serve as fuel but also promote resistance to oxidative and inflammatory stress, and there is a decrease in anabolic insulin-dependent energy expenditure. It has been suggested that the beneficial non-metabolic actions of ketone bodies on organ functions are mediated by them acting as a ligand to specific cellular targets. We propose here a major role of a different pathway initiated by the induction of oxidative stress in the mitochondria during increased ketolysis. Oxidative stress induced by ketone body metabolism is beneficial in the long term because it initiates an adaptive (hormetic) response characterized by the activation of the master regulators of cell-protective mechanism, nuclear factor erythroid 2-related factor 2 (Nrf2), sirtuins, and AMP-activated kinase. This results in resolving oxidative stress, by the upregulation of anti-oxidative and anti-inflammatory activities, improved mitochondrial function and growth, DNA repair, and autophagy. In the heart, the adaptive response to enhanced ketolysis improves resistance to damage after ischemic insults or to cardiotoxic actions of doxorubicin. Sodium-dependent glucose co-transporter 2 (SGLT2) inhibitors may also exert their cardioprotective action via increasing ketone body levels and ketolysis. We conclude that the increased synthesis and use of ketone bodies as ancillary fuel during periods of deficient food supply and low insulin levels causes oxidative stress in the mitochondria and that the latter initiates a protective (hormetic) response which allows cells to cope with increased oxidative stress and lower energy availability. KEYWORDS: Ketogenic diet, Ketone bodies, Beta hydroxybutyrate, Insulin, Obesity, Type 2 diabetes, Inflammation, Oxidative stress, Cardiovascular disease, SGLT2, Hormesis.",
+  "type": "academic",
+  "pdf_url": "https://bmcmedicine.biomedcentral.com/track/pdf/10.1186/s12916-021-02185-0"
+}

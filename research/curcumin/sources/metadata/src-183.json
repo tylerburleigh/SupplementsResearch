@@ -1,0 +1,22 @@
+{
+  "id": "src-183",
+  "title": "Potential therapeutic benefits of curcumin in depression or anxiety induced by chronic diseases: a systematic review of mechanistic and clinical evidence.",
+  "authors": [
+    "Yuan, Jiyuan",
+    "Pi, Chao",
+    "Shen, Hongping",
+    "Zhou, Bi",
+    "Wei, Yumeng",
+    "Dechsupa, Nathupakorn",
+    "Zhao, Ling"
+  ],
+  "doi": "10.3389/fphar.2025.1638645",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40918536",
+  "provider": "pubmed",
+  "year": 2025,
+  "venue": "Frontiers in pharmacology",
+  "citation_count": 0,
+  "abstract": "INTRODUCTION: Depression and anxiety are prevalent comorbidities in individuals with chronic diseases, significantly impairing their quality of life and complicating disease management. Curcumin, derived from turmeric (Curcuma longa), has garnered attention for its potential therapeutic benefits in alleviating symptoms of depression and anxiety. However, its specific effects on depressive or anxiety symptoms associated with chronic diseases (DACD) remain unclear.\nMETHODS: This review aims to comprehensively evaluate curcumin's efficacy and underlying mechanisms through a meta-analysis of human clinical trials supplemented by findings from animal studies. A systematic literature search was conducted in PubMed, EMBASE, Web of Science, Cochrane Library, EBSCO, and OVID databases (until 25 October 2024), with PROSPERO registration number CRD42024602837. Fifteen randomized controlled trials (RCTs) involving 1,123 adult participants were included.\nRESULTS: Meta-analysis showed a statistically significant effect of curcumin on depressive symptoms (SMD: -0.65, P = 0.01, 95% CI: -1.16 to -0.13, I2 = 93%) and anxiety symptoms (SMD: -0.22, P = 0.01, 95% CI: -0.40 to -0.05, I2 = 0%). Preclinical studies identified several mechanistic pathways through which curcumin may alleviate DACD, including anti-inflammatory and antioxidant effects via NF-κB, NLRP3, AKAP150/PKA/PP2B, miR-146a-5p/ERK, BDNF/TrkB, ROS-ERK1/2, GABA receptors, Keap1-Nrf2-ARE, and regulation of intestinal flora.\nDISCUSSION: These findings highlight curcumin's potential in alleviating DACD. However, the conclusions should be interpreted with caution due to considerable heterogeneity across studies, limited sample size, variations in curcumin formulations and dosages, and potential publication bias. Nevertheless, this review provides a comprehensive overview of the current clinical and mechanistic evidence supporting curcumin's role as an adjunctive treatment for depression and anxiety associated with various chronic diseases such as type 2 diabetes, obesity, migraines, arthritis, coronary heart disease, irritable bowel syndrome, inflammatory bowel disease, and metabolic syndromes.\nSYSTEMATIC REVIEW REGISTRATION: https://www.crd.york.ac.uk/prospero/display_record.php?ID=CRD42024602837, identifier CRD42024602837.",
+  "type": "academic",
+  "pdf_url": ""
+}

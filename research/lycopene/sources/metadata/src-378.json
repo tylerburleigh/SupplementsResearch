@@ -1,0 +1,27 @@
+{
+  "id": "src-378",
+  "title": "Lack of Effect of Long-Term Supplementation with Beta Carotene on the Incidence of Malignant Neoplasms and Cardiovascular Disease",
+  "authors": [
+    "Hennekens, Charles H.",
+    "Buring, Julie E.",
+    "Manson, JoAnn E.",
+    "Stampfer, Meir J.",
+    "Rosner, Bernard",
+    "Cook, Nancy R.",
+    "Belanger, Charlene",
+    "LaMotte, Frances",
+    "Gaziano, J. Michael",
+    "Ridker, Paul M.",
+    "Willett, Walter C.",
+    "Peto, Richard"
+  ],
+  "doi": "10.1056/nejm199605023341801",
+  "url": "https://openalex.org/W2315403385",
+  "provider": "openalex",
+  "year": 1996,
+  "venue": "New England Journal of Medicine",
+  "citation_count": 2408,
+  "abstract": "In this trial among healthy men, 12 years of supplementation with beta carotene produced neither benefit nor harm in terms of the incidence of malignant neoplasms, cardiovascular disease, or death from all causes.",
+  "type": "academic",
+  "pdf_url": "https://www.nejm.org/doi/pdf/10.1056/NEJM199605023341801?articleTools=true"
+}

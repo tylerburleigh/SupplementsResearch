@@ -1,0 +1,25 @@
+{
+  "id": "src-159",
+  "title": "Cellular rejuvenation: molecular mechanisms and potential therapeutic interventions for diseases",
+  "authors": [
+    "Ji, Shuaifei",
+    "Xiong, Mingchen",
+    "Chen, Huating",
+    "Liu, Yiqiong",
+    "Zhou, Laixian",
+    "Hong, Yiyue",
+    "Wang, Mengyang",
+    "Wang, Chunming",
+    "Fu, Xiaobing",
+    "Sun, Xiaoyan"
+  ],
+  "doi": "10.1038/s41392-023-01343-5",
+  "url": "https://openalex.org/W4324149058",
+  "provider": "openalex",
+  "year": 2023,
+  "venue": "Signal Transduction and Targeted Therapy",
+  "citation_count": 137,
+  "abstract": "The ageing process is a systemic decline from cellular dysfunction to organ degeneration, with more predisposition to deteriorated disorders. Rejuvenation refers to giving aged cells or organisms more youthful characteristics through various techniques, such as cellular reprogramming and epigenetic regulation. The great leaps in cellular rejuvenation prove that ageing is not a one-way street, and many rejuvenative interventions have emerged to delay and even reverse the ageing process. Defining the mechanism by which roadblocks and signaling inputs influence complex ageing programs is essential for understanding and developing rejuvenative strategies. Here, we discuss the intrinsic and extrinsic factors that counteract cell rejuvenation, and the targeted cells and core mechanisms involved in this process. Then, we critically summarize the latest advances in state-of-art strategies of cellular rejuvenation. Various rejuvenation methods also provide insights for treating specific ageing-related diseases, including cellular reprogramming, the removal of senescence cells (SCs) and suppression of senescence-associated secretory phenotype (SASP), metabolic manipulation, stem cells-associated therapy, dietary restriction, immune rejuvenation and heterochronic transplantation, etc. The potential applications of rejuvenation therapy also extend to cancer treatment. Finally, we analyze in detail the therapeutic opportunities and challenges of rejuvenation technology. Deciphering rejuvenation interventions will provide further insights into anti-ageing and ageing-related disease treatment in clinical settings.",
+  "type": "academic",
+  "pdf_url": "https://www.nature.com/articles/s41392-023-01343-5.pdf"
+}

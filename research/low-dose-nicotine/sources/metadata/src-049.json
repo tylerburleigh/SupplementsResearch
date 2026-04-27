@@ -1,0 +1,24 @@
+{
+  "id": "src-049",
+  "title": "Acute nicotine administration effects on fractional anisotropy of cerebral white matter and associated attention performance",
+  "authors": [
+    "Kochunov, P.",
+    "Du, Xiaoming",
+    "Moran, Lauren V.",
+    "Sampath, H.",
+    "Wijtenburg, S. A.",
+    "Yang, Yihong",
+    "Rowland, Laura M.",
+    "Stein, Elliot A.",
+    "Hong, L."
+  ],
+  "doi": "10.3389/fphar.2013.00117",
+  "url": "https://www.semanticscholar.org/paper/f85e5be662e66b203de5185ecb951a6c54f56b2b",
+  "provider": "semantic_scholar",
+  "year": 2013,
+  "venue": "Frontiers in Pharmacology",
+  "citation_count": 32,
+  "abstract": "Introduction: Nicotinic acetylcholine receptors are present in the cerebral white matter (WM). We hypothesized that WM response to nicotine can be detected by diffusion tensor imaging (DTI); and that such responses may be associated with nicotine-led cognitive enhancement in sustained attention. Methods: A randomized, nicotine-placebo patch, crossover, double-blind clinical trial in two non-overlapping cohorts of smokers was used to test the hypothesis. The discovery cohort consisted of 39 subjects (N = 20/19 controls/schizophrenic patients, age = 36.8 ± 10.1 years) and the replication cohorts consisted of 38 healthy smokers (31.7 ± 10.5 years). WM integrity was measured by fractional anisotropy (FA) values for the whole brain and nine preselected WM tracts using tract-based-spatial-statistics. Results: Nicotine significantly enhanced FA values for the genu of corpus callosum compared with placebo (ΔFAgenu) (p = 0.01) in smokers with low recent smoking exposure as measured by low average cotinine level. This finding was replicated in the second cohort (p = 0.02). ΔFAgenu values explained 22% of variance in performance of a sustained attention task during the nicotine session (p = 0.006). However, this effect was limited to schizophrenia patients (r = 0.62 and 0.09; p = 0.003 and 0.7 for patients and controls, respectively). Conclusion: Acute pharmacological influence of nicotine patch on WM integrity appeared present, but was dependent on nicotine intake from recent smoking. Change in the WM integrity in the genu of corpus callosum was associated with a significant proportion of variability of nicotine-led changes in sustained attention/working memory of the smokers. Further studies will be necessary to understand biophysical underpinning of the nicotine-related changes in FA.",
+  "type": "academic",
+  "pdf_url": "https://www.frontiersin.org/articles/10.3389/fphar.2013.00117/pdf"
+}

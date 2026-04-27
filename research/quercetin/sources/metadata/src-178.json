@@ -1,0 +1,21 @@
+{
+  "id": "src-178",
+  "title": "Cellular senescence: a key therapeutic target in aging and diseases",
+  "authors": [
+    "Zhang, Lei",
+    "Pitcher, Louise E.",
+    "Yousefzadeh, Matthew J.",
+    "Niedernhofer, Laura J.",
+    "Robbins, Paul D.",
+    "Zhu, Yi"
+  ],
+  "doi": "10.1172/jci158450",
+  "url": "https://openalex.org/W4289028880",
+  "provider": "openalex",
+  "year": 2022,
+  "venue": "Journal of Clinical Investigation",
+  "citation_count": 549,
+  "abstract": "Cellular senescence is a hallmark of aging defined by stable exit from the cell cycle in response to cellular damage and stress. Senescent cells (SnCs) can develop a characteristic pathogenic senescence-associated secretory phenotype (SASP) that drives secondary senescence and disrupts tissue homeostasis, resulting in loss of tissue repair and regeneration. The use of transgenic mouse models in which SnCs can be genetically ablated has established a key role for SnCs in driving aging and age-related disease. Importantly, senotherapeutics have been developed to pharmacologically eliminate SnCs, termed senolytics, or suppress the SASP and other markers of senescence, termed senomorphics. Based on extensive preclinical studies as well as small clinical trials demonstrating the benefits of senotherapeutics, multiple clinical trials are under way. This Review discusses the role of SnCs in aging and age-related diseases, strategies to target SnCs, approaches to discover and develop senotherapeutics, and preclinical and clinical advances of senolytics.",
+  "type": "academic",
+  "pdf_url": "http://www.jci.org/articles/view/158450/files/pdf"
+}

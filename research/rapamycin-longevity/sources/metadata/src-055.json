@@ -1,0 +1,17 @@
+{
+  "id": "src-055",
+  "title": "β-Hydroxybutyrate: A Signaling Metabolite",
+  "authors": [
+    "Newman, John C.",
+    "Verdin, Eric"
+  ],
+  "doi": "10.1146/annurev-nutr-071816-064916",
+  "url": "https://openalex.org/W2747163024",
+  "provider": "openalex",
+  "year": 2017,
+  "venue": "Annual Review of Nutrition",
+  "citation_count": 813,
+  "abstract": "Various mechanisms in the mammalian body provide resilience against food deprivation and dietary stress. The ketone body β-hydroxybutyrate (BHB) is synthesized in the liver from fatty acids and represents an essential carrier of energy from the liver to peripheral tissues when the supply of glucose is too low for the body's energetic needs, such as during periods of prolonged exercise, starvation, or absence of dietary carbohydrates. In addition to its activity as an energetic metabolite, BHB is increasingly understood to have cellular signaling functions. These signaling functions of BHB broadly link the outside environment to epigenetic gene regulation and cellular function, and their actions may be relevant to a variety of human diseases as well as human aging.",
+  "type": "academic",
+  "pdf_url": "https://www.annualreviews.org/doi/pdf/10.1146/annurev-nutr-071816-064916"
+}

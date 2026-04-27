@@ -1,0 +1,80 @@
+19	2	3 National Center for Geriatrics and Gerontology, Aichi, Japan
+24	2	8 Egusa Genshi Clinic, Hiroshima, Japan
+25	2	9 Department of Cardiovascular Medicine, Juntendo University, T okyo, Japan
+27	2	11 Biomedical Informatics, Osaka University, Osaka, Japan
+32	2	16 Department of Vascular Surgery, Saitama Medical Center, Saitama, Japan
+34	2	18 Department of Pediatrics, Showa University School of Medicine, T okyo, Japan
+35	2	19 Department of Neurology, Kita-Harima Medical Center, Hyogo, Japan
+38	2	22 Tsukasa Health Care Hospital, Kagoshima, Japan
+42	2	26 Department of Medical Statistics, T oho University, T okyo, Japan
+46	2	30 Department of Obstetrics and Gynecology, Aichi Medical University, Aichi, Japan
+49	2	32 Rinku General Medical Center, Osaka, Japan
+173	2	2. Calculation of Absolute Risk
+185	2	3. Addition of High-Risk Conditions
+190	2	4. Stricter LDL-C Control in High-Risk Conditions for Secondary Prevention
+194	2	5. Elaborating on FH
+198	2	6. Evidence Levels and Recommendation Levels
+209	2	1 Other RCT
+215	2	4 Cross-sectional studies and case series
+316	2	1. Clinical Diagnosis of Atherosclerosis
+356	2	2.  Comprehensive Risk Assessment
+447	2	0 Low risk Moderate risk Low risk Moderate risk
+448	2	1 Moderate risk High risk Low risk Moderate risk
+490	2	7. Impaired glucose
+492	2	8. Family history of
+622	2	3. Primary Dyslipidemias
+713	2	4.  The Elderly, Women, and Children
+725	2	1. Morphological Examinations
+926	2	3.  Predicting the Risk for ASCVD by
+1001	2	1. Risk Factor Assessment
+1153	2	Cad
+1723	2	Cad
+1804	2	Cvd
+1924	2	Ras
+2164	2	Cad
+2235	2	Cad
+2469	2	2. Disease Concept and Diagnostic Criteria for Metabolic Syndrome
+2519	2	Cad
+2540	2	Cad
+2608	2	2. According to a recent large-scale
+2735	2	Jphc
+3161	2	2. Lifestyle Modification
+3359	2	25. Rapid weight loss resulting from extensive calorie
+3819	2	Pufa
+4367	2	Ascvd
+4517	2	19 Very, very hard
+4519	2	17 Very hard
+4521	2	15 Hard
+4523	2	13 Somewhat hard
+4525	2	11 Fairly light
+4527	2	9 Very light
+4529	2	7 Very, very light
+4607	2	3. Drug Therapy
+5460	2	21 RCTs
+5926	2	4. Managing Major High-Risk Conditions
+6233	2	Cards
+6416	2	Cad
+6768	2	5. Implementation of Comprehensive Risk Assessment and Management
+6794	2	Ldl
+7394	2	3. Diagnosis of FH
+7431	2	1.  Pathophysiology and Clinical Features
+7457	2	2. Causative Genes of FH
+7522	2	4. Treatment of Heterozygous FH
+7581	2	5. Treatment of Homozygous FH
+7724	2	6. Treatment of Pediatric HeFH
+7846	2	3. Familial Type III Hyperlipidemia
+7857	2	1.  Primary Hyperlipidemias other than
+7877	2	2. FCHL
+7995	2	4. Other primary dyslipidemias
+8117	2	1.  Relationship between Dyslipidemia
+8266	2	2.  The Efficacy of LDL-C Lowering
+8404	2	3. Care of the Elderly
+8503	2	2.  Relationship between Risk Factors
+8548	2	1.  Current Status of ASCVD in Japanese
+8633	2	3.  Primary and Secondary ASCVD
+8931	2	1. Early Detection of Dyslipidemia
+8943	2	2. Criteria for Dyslipidemia in Children
+8968	2	3. Primary Dyslipidemia
+9023	2	4. Secondary Dyslipidemia
+9060	2	5.  Maintaining Proper Body Weight with
+9084	2	References

@@ -1,0 +1,21 @@
+{
+  "id": "src-319",
+  "title": "Role of Notch signaling in cell-fate determination of human mammary stem/progenitor cells",
+  "authors": [
+    "Dontu, Gabriela",
+    "Jackson, Kyle W.",
+    "McNicholas, Erin",
+    "Kawamura, Mari",
+    "Abdallah, Wissam",
+    "Wicha, Max S."
+  ],
+  "doi": "10.1186/bcr920",
+  "url": "https://openalex.org/W2146074268",
+  "provider": "openalex",
+  "year": 2004,
+  "venue": "Breast Cancer Research",
+  "citation_count": 746,
+  "abstract": "These studies suggest that Notch signaling plays a critical role in normal human mammary development by acting on both stem cells and progenitor cells, affecting self-renewal and lineage-specific differentiation. Based on these findings we propose that abnormal Notch signaling may contribute to mammary carcinogenesis by deregulating the self-renewal of normal mammary stem cells.",
+  "type": "academic",
+  "pdf_url": "https://breast-cancer-research.biomedcentral.com/counter/pdf/10.1186/bcr920"
+}

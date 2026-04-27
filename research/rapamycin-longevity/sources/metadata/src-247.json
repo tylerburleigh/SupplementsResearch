@@ -1,0 +1,24 @@
+{
+  "id": "src-247",
+  "title": "Activated T cells degrade extracellular proteins to enhance effector functions.",
+  "authors": [
+    "Yin, Yunxue",
+    "Lin, Xiaorong",
+    "Li, Linlin",
+    "Kan, Shuo",
+    "Jiang, Wenrong",
+    "Han, Yuchen",
+    "Wang, Lixin",
+    "Wang, Shiwen",
+    "Jin, Jun"
+  ],
+  "doi": "10.1016/j.celrep.2025.116797",
+  "url": "https://www.semanticscholar.org/paper/ed863c0a262f17eafc7efc2b6207a3c1bc440dd1",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "Cell Reports",
+  "citation_count": 0,
+  "abstract": "Proteins are the most abundant source of amino acids in body fluids. However, the potential contribution of extracellular protein catabolism to the regulation of T cell immunity remains poorly understood. In this study, we show that endocytosed extracellular proteins function as an amino acid source in activated T cells, maintaining mTORC1 activity and sustaining cytokine production following T cell activation. Genetic ablation of Tfe3 impairs the activation-induced upregulation of lysosomal genes and disrupts extracellular protein catabolism, resulting in attenuated mTORC1 signaling and compromised anti-viral and anti-tumor T cell responses. The TFE3-protein-mTORC1 signaling axis demonstrates clinical relevance. CD8+PD-1+ tumor-infiltrating T cells from older patients with lung cancer display reduced lysosomal degradation capacity and impaired cytokine secretion compared to their middle-aged counterparts. This functional defect is rescued by treatment with Vismodegib, a TFE3-inducing drug. Our findings reveal lysosome-mediated extracellular protein catabolism as an important metabolic pathway supporting T cell immunity.",
+  "type": "academic",
+  "pdf_url": ""
+}

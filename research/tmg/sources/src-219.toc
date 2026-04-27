@@ -1,0 +1,9 @@
+7	2	Abstract
+37	2	Results
+46	2	Introduction
+151	2	Methods
+259	2	Results
+835	2	Discussion
+1376	2	Conclusion
+1449	2	12 Kluijtmans LAJ, Kastelein JJP, Lindemans J, Boers GH, Heil SG, Bruschke
+1472	2	20 Kluijtmans LAJ, Boers GHD, Kraus JP, van den Henvel LPWJ, Cruysberg

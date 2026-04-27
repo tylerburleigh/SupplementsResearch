@@ -1,0 +1,27 @@
+{
+  "id": "src-244",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "",
+  "pdf_url": "https://www.fisiogenomica.com/assets/Blog/pdf/franceschi2018%20nature%20inflammaging.pdf",
+  "venue": "",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "",
+  "fetched_at": "2026-04-23T22:39:20.219263+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-244.md",
+  "quality_details": {
+    "content_length": 110203,
+    "alpha_ratio": 0.761,
+    "sentence_count": 1429,
+    "reasons": []
+  }
+}

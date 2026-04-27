@@ -1,0 +1,38 @@
+{
+  "id": "src-040",
+  "title": "Oral nicotinamide riboside raises <scp>NAD</scp>+ and lowers biomarkers of neurodegenerative pathology in plasma extracellular vesicles enriched for neuronal origin",
+  "authors": [
+    "Vreones, Michael",
+    "Mustapic, Maja",
+    "Moaddel, Ruin",
+    "Pucha, Krishna A.",
+    "Lovett, Jacqueline",
+    "Seals, Douglas R.",
+    "Kapogiannis, Dimitrios",
+    "Martens, Christopher R."
+  ],
+  "year": 2023,
+  "abstract": "AbstractDeclining nicotinamide adenine dinucleotide (NAD+) concentration in the brain during aging contributes to metabolic and cellular dysfunction and is implicated in the pathogenesis of aging‐associated neurological disorders. Experimental therapies aimed at boosting brain NAD+ levels normalize several neurodegenerative phenotypes in animal models, motivating their clinical translation. Dietary intake of NAD+ precursors, such as nicotinamide riboside (NR), is a safe and effective avenue for augmenting NAD+ levels in peripheral tissues in humans, yet evidence supporting their ability to raise NAD+ levels in the brain or engage neurodegenerative disease pathways is lacking. Here, we studied biomarkers in plasma extracellular vesicles enriched for neuronal origin (NEVs) from 22 healthy older adults who participated in a randomized, placebo‐controlled crossover trial (NCT02921659) of oral NR supplementation (500 mg, 2x /day, 6 weeks). We demonstrate that oral NR supplementation increases NAD+ levels in NEVs and decreases NEV levels of Aβ42, pJNK, and pERK1/2 (kinases involved in insulin resistance and neuroinflammatory pathways). In addition, changes in NAD(H) correlated with changes in canonical insulin–Akt signaling proteins and changes in pERK1/2 and pJNK. These findings support the ability of orally administered NR to augment neuronal NAD+ levels and modify biomarkers related to neurodegenerative pathology in humans. Furthermore, NEVs offer a new blood‐based window into monitoring the physiologic response of NR in the brain.",
+  "doi": "10.1111/acel.13754",
+  "url": "https://doi.org/10.1111/acel.13754",
+  "pdf_url": "",
+  "venue": "Aging Cell",
+  "citation_count": 60,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-20T20:24:31.552691+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-040.md",
+  "quality_details": {
+    "content_length": 34119,
+    "alpha_ratio": 0.66,
+    "sentence_count": 669,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

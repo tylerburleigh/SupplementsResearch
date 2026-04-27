@@ -1,0 +1,15 @@
+{
+  "id": "src-199",
+  "title": "A Role for Sirtuins in Maintaining Mammalian Lifespan and Healthspan",
+  "authors": [
+    "Giblin Jr, William"
+  ],
+  "url": "https://core.ac.uk/works/43131866",
+  "provider": "core",
+  "year": 2017,
+  "venue": "",
+  "citation_count": 0,
+  "abstract": "Epigenetic alterations are a conserved feature of biological aging in diverse organisms, and have been designated as a “hallmark of aging”. Chromatin organization – in particular, diminished heterochromatinization of repetitive regions – is progressively lost during cellular and organismal aging. Experimentally, work in S. cerevisiae has revealed an age-associated loss of chromatin structure, and elucidated its deleterious impacts on gene expression and genomic stability. The first example of age-associated heterochromatin perturbation in mammals was identified in a seminal study 25 years ago. This work focused on the Major Satellite Repeats (MSRs), pericentromeric repeats in the mouse that ensure proper chromosomal segregation and maintenance of euploidy. This study showed that MSR repression is lost during aging specifically in mouse myocardium. The mechanistic basis for this effect has never been elucidated.\n\nI have found that MSR derepression is not associated with decreases in levels of the canonical repressive marks – DNA methylation, H3K9me3, or H3K56me3 – at the MSRs. Instead, levels of the activating marks, acH3K9 and acH4K16, targets of the SIRT1 deacetylase, increase during aging in the heart. These findings have led to the hypothesis that loss of SIRT1 activity contributes to derepression of MSR loci in aged myocardium. Consistent with this hypothesis, I have found that Sirt1 deletion results in increased MSR expression in heart tissue. I then present data that suggests that SIRT1 activity maintains chromatin structure and transcriptional silencing at the MSRs, using aged muscle-specific SIRT1 overexpressors.\n\nMelanoma is the most lethal skin cancer, with an estimated 73,870 new melanoma cases occurring in the US in 2015. I have found that SIRT5 is critical in melanoma cell survival. SIRT5 removes succinyl, malonyl, and glutaryl modifications from lysines on diverse protein targets, primarily in the mitochondrial matrix, thereby regulating multiple metabolic pathways. In 10/10 human melanoma cell lines tested, SIRT5 knockdown resulted in rapid loss of proliferative potential and cell death. Likewise, I have found that SIRT5 loss impeded melanoma xenograft formation in mice, and SIRT5 knockdown results in increased apoptotic cell death, which can be partially rescued by overexpressing anti-apoptotic BCL2. Lastly, via metabolomics, SIRT5 regulates glucose and glutamine metabolism in melanoma.PHDHuman GeneticsUniversity of Michigan, Horace H. Rackham School of Graduate Studieshttps://deepblue.lib.umich.edu/bitstream/2027.42/137136/1/wgiblin_1.pd",
+  "type": "academic",
+  "pdf_url": "http://deepblue.lib.umich.edu/bitstream/2027.42/137136/1/wgiblin_1.pdf"
+}

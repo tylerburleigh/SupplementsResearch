@@ -1,0 +1,20 @@
+{
+  "id": "src-237",
+  "title": "Pulmonary arterial hypertension drugs can partially restore altered angiogenic capacities in bmpr2-silenced human lung microvascular endothelial cells.",
+  "authors": [
+    "Tielemans, Birger",
+    "Wagenaar, Allard",
+    "Belge, Catharina",
+    "Delcroix, Marion",
+    "Quarck, Rozenn"
+  ],
+  "doi": "10.1002/pul2.12293",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37790139",
+  "provider": "pubmed",
+  "year": 2023,
+  "venue": "Pulmonary circulation",
+  "citation_count": 0,
+  "abstract": "Mutations in the bone morphogenetic protein receptor type 2 (bmpr2) gene and signaling pathway impairment are observed in heritable and idiopathic pulmonary arterial hypertension (PAH). In PAH, endothelial dysfunction is currently handled by drugs targeting the endothelin-1 (ET-1), nitric oxide (NO), and prostacyclin (PGI2) pathways. The role of angiogenesis in the disease process and the effect of PAH therapies on dysregulated angiogenesis remain inconclusive. We aim to investigate in vitro whether (i) bmpr2 silencing can impair angiogenic capacity of human lung microvascular endothelial cells (HLMVECs) and (ii) PAH therapies can restore them. The effects of macitentan (ET-1), tadalafil (NO), and selexipag (PGI2), on BMPRII pathway activation, endothelial barrier function, and angiogenesis were investigated in bmpr2-silenced HLMVECs. Stable bmpr2 silencing resulted in impaired migration and tube formation in vitro capacity. Inhibition of ET-1 pathway was able to partially restore tube formation in bmpr2-silenced HLMVECs, whereas none of the therapies was able to restore endothelial barrier function, no deleterious effects were observed. Our findings highlight the potential role of BMPRII signaling pathway in driving pulmonary endothelial cell angiogenesis. In addition, PAH drugs display limited effects on endothelial function when BMPRII is impaired, suggesting that innovative therapeutic strategies targeting BMPRII signaling are needed to better rescue endothelial dysfunction in PAH.",
+  "type": "academic",
+  "pdf_url": ""
+}

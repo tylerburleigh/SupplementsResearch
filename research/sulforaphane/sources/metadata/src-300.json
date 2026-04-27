@@ -1,0 +1,25 @@
+{
+  "id": "src-300",
+  "title": "Oxidative Stress and NRF2/KEAP1/ARE Pathway in Diabetic Kidney Disease (DKD): New Perspectives",
+  "authors": [
+    "Tănase, Daniela Maria",
+    "Gosav, Evelina Maria",
+    "Anton, Madalina Ioana",
+    "Floria, Mariana",
+    "Isac, Petronela Nicoleta Seritean",
+    "Hurjui, Loredana Liliana",
+    "Tărniceriu, Claudia Cristina",
+    "Costea, Claudia Florida",
+    "Ciocoiu, Manuela",
+    "Rezuș, Ciprian"
+  ],
+  "doi": "10.3390/biom12091227",
+  "url": "https://openalex.org/W4294989725",
+  "provider": "openalex",
+  "year": 2022,
+  "venue": "Biomolecules",
+  "citation_count": 167,
+  "abstract": "Diabetes mellitus (DM) is one of the most debilitating chronic diseases worldwide, with increased prevalence and incidence. In addition to its macrovascular damage, through its microvascular complications, such as Diabetic Kidney Disease (DKD), DM further compounds the quality of life of these patients. Considering DKD is the main cause of end-stage renal disease (ESRD) in developed countries, extensive research is currently investigating the matrix of DKD pathophysiology. Hyperglycemia, inflammation and oxidative stress (OS) are the main mechanisms behind this disease. By generating pro-inflammatory factors (e.g., IL-1,6,18, TNF-α, TGF-β, NF-κB, MCP-1, VCAM-1, ICAM-1) and the activation of diverse pathways (e.g., PKC, ROCK, AGE/RAGE, JAK-STAT), they promote a pro-oxidant state with impairment of the antioxidant system (NRF2/KEAP1/ARE pathway) and, finally, alterations in the renal filtration unit. Hitherto, a wide spectrum of pre-clinical and clinical studies shows the beneficial use of NRF2-inducing strategies, such as NRF2 activators (e.g., Bardoxolone methyl, Curcumin, Sulforaphane and their analogues), and other natural compounds with antioxidant properties in DKD treatment. However, limitations regarding the lack of larger clinical trials, solubility or delivery hamper their implementation for clinical use. Therefore, in this review, we will discuss DKD mechanisms, especially oxidative stress (OS) and NRF2/KEAP1/ARE involvement, while highlighting the potential of therapeutic approaches that target DKD via OS.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2218-273X/12/9/1227/pdf?version=1662113532"
+}

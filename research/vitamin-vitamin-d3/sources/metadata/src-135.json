@@ -1,0 +1,35 @@
+{
+  "id": "src-135",
+  "title": "Efficacy of vitamin and antioxidant supplements in prevention of cardiovascular disease: systematic review and meta-analysis of randomised controlled trials",
+  "authors": [
+    "Myung, S.-K.",
+    "Ju, W.",
+    "Cho, B.",
+    "Oh, S.-W.",
+    "Park, S. M.",
+    "Koo, B.-K.",
+    "Park, B.-J."
+  ],
+  "year": 2013,
+  "abstract": "",
+  "doi": "10.1136/bmj.f10",
+  "url": "https://doi.org/10.1136/bmj.f10",
+  "pdf_url": "",
+  "venue": "BMJ",
+  "citation_count": 383,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T20:54:49.304859+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-135.md",
+  "quality_details": {
+    "content_length": 76622,
+    "alpha_ratio": 0.727,
+    "sentence_count": 734,
+    "reasons": []
+  }
+}

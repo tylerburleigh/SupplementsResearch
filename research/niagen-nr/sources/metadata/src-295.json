@@ -1,0 +1,21 @@
+{
+  "id": "src-295",
+  "title": "Immunosenescence in aging and neurodegenerative diseases: evidence, key hallmarks, and therapeutic implications",
+  "authors": [
+    "Chen, Zhichun",
+    "Mao, Zixu",
+    "Tang, Weiting",
+    "Shi, Yuxuan",
+    "Liu, Jun",
+    "You, Yong"
+  ],
+  "doi": "10.1186/s40035-025-00517-1",
+  "url": "https://openalex.org/W4416773054",
+  "provider": "openalex",
+  "year": 2025,
+  "venue": "Translational Neurodegeneration",
+  "citation_count": 8,
+  "abstract": "Aging is a multifaceted biological process affecting various organ systems. Immunosenescence, a key feature of aging, markedly increases susceptibility to infections, cancers, autoimmune diseases, and also neurodegenerative disorders. Immunosenescence not only accelerates normal aging but also drives the progression of neurodegenerative diseases, including Alzheimer's disease (AD) and Parkinson's disease (PD). However, the lack of a consensus on the mechanistic hallmarks of immunosenescence presents a major barrier to the development and validation of anti-aging therapies. In this review, we propose 11 hallmarks of immunosenescence: genomic instability, telomere attrition, epigenetic dysregulation, stem cell exhaustion, loss of proteostasis, deregulated nutrient-sensing, mitochondrial dysfunction, cellular senescence, chronic inflammation, altered intercellular communication, and microbiome dysbiosis. We also elucidate the intricate interplay between immunosenescence and both normal brain aging and neurodegenerative pathologies, highlighting the pivotal involvement of age-related immune dysregulation in the pathogenesis of neurodegenerative disorders. This mechanistic connection is particularly evident in prototypical neurodegenerative conditions such as AD and PD, where immunosenescence appears to significantly contribute to disease progression and phenotypic manifestations. Given that the ultimate goal of immune aging research is to prevent or alleviate age-related diseases, we also discuss potential hallmark-targeting anti-immunosenescence strategies to delay or even reverse normal aging and neurodegeneration.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.1186/s40035-025-00517-1"
+}

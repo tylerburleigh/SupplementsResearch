@@ -1,0 +1,4 @@
+26	1	Lead contact  23
+1368	2	Nes
+1373	2	Gsea
+1374	2	Ora

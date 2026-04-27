@@ -1,0 +1,29 @@
+{
+  "id": "src-015",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://ragefitnessyyc.ca/pages/all-about-creatine-supplementation",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-21T12:54:24.241044+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-015.md",
+  "quality_details": {
+    "content_length": 11392,
+    "alpha_ratio": 0.804,
+    "sentence_count": 107,
+    "reasons": [
+      "paywall_page (USD)"
+    ]
+  }
+}

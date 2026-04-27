@@ -1,0 +1,33 @@
+7	2	Original Article
+51	2	Introduction
+363	2	Statistical Analysis
+370	2	Results
+607	2	Discussion
+901	2	References
+902	2	1. Sung H, Ferlay J, Siegel RL, Laversanne M, Soerjomata-
+916	2	4. Maajani K, Jalali A, Alipour S, Khodadost M, Tohidinik
+926	2	6. Hoppe RT, Advani RH, Ai WZ, Ambinder RF, Armand P,
+930	2	7. Gradishar WJ, Anderson BO, Abraham J, Aft R, Agnese
+937	2	9. Spears N, Lopes F, Stefansdottir A, Rossi V, De Felici
+941	2	10. Demeestere I, Racape J, Dechene J, Dupuis J,
+947	2	11. Tuppi M, Kehrloesser S, Coutandin DW, Rossi V, Luh
+961	2	13. Niringiyumukiza JD, Cai H, Chen L, Li Y, Wang
+967	2	14. Kropp J, Roti Roti EC, Ringelstetter A, Khatib H, Abbott
+982	2	18. Calcinotto A, Kohli J, Zagato E, Pellegrini L, Demaria
+986	2	19. Zhu Y, Tchkonia T, Pirtskhalava T, Gower AC, Ding H,
+990	2	20. Xu M, Pirtskhalava T, Farr JN, Weigand BM, Palmer AK,
+994	2	21. Ogrodnik M, Evans SA, Fielder E, Victorelli S, Kruger
+999	2	22. Novais EJ, Tran VA, Johnston SN, Darris KR, Roupas AJ,
+1004	2	23. Yousefzadeh MJ, Zhu Y, McGowan SJ, Angelini L, Fuhr-
+1026	2	28. Iske J, Seyda M, Heinbokel T, Maenosono R, Minami K,
+1036	2	30. Bernstein LR, Mackenzie ACL, Kraemer DC, Morley JE,
+1062	2	35. Aljobaily N, Viereckl MJ, Hydock DS, Aljobaily H, Wu
+1067	2	36. Yang HL, Hsieh PL, Hung CH, Cheng HC, Chou WC,
+1073	2	37. Overbeek A, van den Berg MH, van Leeuwen FE, Kaspers
+1083	2	38. Webber L, Davies M, Anderson R, Bartlett J, Braat D,
+1087	2	39. Marino Gammazza A, Campanella C, Barone R, Caruso
+1098	2	41. Farr JN, Xu M, Weivoda MM, Monroe DG, Fraser DG,
+1102	2	42. Palmer AK, Xu M, Zhu Y, Pirtskhalava T, Weivoda MM,
+1113	2	45. Saito Y, Miyajima M, Yamamoto S, Sato T, Miura N,
+1127	2	48. Justice JN, Nambiar AM, Tchkonia T, LeBrasseur NK, Pas-
+1131	2	49. Hickson LJ, Langhi Prata LGP, Bobart SA, Evans TK,

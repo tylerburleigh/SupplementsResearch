@@ -1,0 +1,29 @@
+{
+  "id": "src-019",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2913621",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-24T01:00:54.939986+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-019.md",
+  "quality_details": {
+    "content_length": 32667,
+    "alpha_ratio": 0.694,
+    "sentence_count": 365,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

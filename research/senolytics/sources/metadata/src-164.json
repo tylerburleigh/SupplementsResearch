@@ -1,0 +1,17 @@
+{
+  "id": "src-164",
+  "title": "Protective Role of Polyphenols against Vascular Inflammation, Aging and Cardiovascular Disease",
+  "authors": [
+    "Serino, Alexa",
+    "Salazar, Gloria"
+  ],
+  "doi": "10.3390/nu11010053",
+  "url": "https://openalex.org/W2908013872",
+  "provider": "openalex",
+  "year": 2018,
+  "venue": "Nutrients",
+  "citation_count": 246,
+  "abstract": "Aging is a major risk factor in the development of chronic diseases affecting various tissues including the cardiovascular system, muscle and bones. Age-related diseases are a consequence of the accumulation of cellular damage and reduced activity of protective stress response pathways leading to low-grade systemic inflammation and oxidative stress. Both inflammation and oxidative stress are major contributors to cellular senescence, a process in which cells stop proliferating and become dysfunctional by secreting inflammatory molecules, reactive oxygen species (ROS) and extracellular matrix components that cause inflammation and senescence in the surrounding tissue. This process is known as the senescence associated secretory phenotype (SASP). Thus, accumulation of senescent cells over time promotes the development of age-related diseases, in part through the SASP. Polyphenols, rich in fruits and vegetables, possess antioxidant and anti-inflammatory activities associated with protective effects against major chronic diseases, such as cardiovascular disease (CVD). In this review, we discuss molecular mechanisms by which polyphenols improve anti-oxidant capacity, mitochondrial function and autophagy, while reducing oxidative stress, inflammation and cellular senescence in vascular smooth muscle cells (VSMCs) and endothelial cells (ECs). We also discuss the therapeutic potential of polyphenols in reducing the effects of the SASP and the incidence of CVD.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2072-6643/11/1/53/pdf?version=1545976285"
+}

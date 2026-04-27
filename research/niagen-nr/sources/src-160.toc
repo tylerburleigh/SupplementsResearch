@@ -1,0 +1,66 @@
+3	2	Article
+91	2	Results
+476	2	2000 ADPR
+498	2	Nad
+528	2	Nampt
+529	2	Nnmt
+530	2	Wrn
+532	2	Pnp
+542	2	Blq Blq
+546	2	Nmn Nad
+803	2	50 Uninfected
+866	2	Nmn
+869	2	Nmn
+888	2	Nmn
+891	2	Nmn
+1061	2	Cellular Response To Glucose Starvation
+1062	2	Cellular Metabolic Process
+1063	2	Mitochondrion Organization
+1064	2	Mitochondrial Translation
+1065	2	Mitochondrial Large Ribosomal Subunit
+1068	2	Dauer Entry
+1070	2	Cholesterol Homeostasis
+1071	2	Response To Food
+1072	2	Response To Oxidative Stress
+1073	2	Proton Transport
+1074	2	Cellular Lipid Metabolic Process
+1075	2	Positive Regulation Of Growth Rate
+1077	2	Oxidoreductase Activity
+1078	2	Lipid Binding
+1080	2	Trehalose Metabolic Process
+1082	2	Metabolic Process
+1083	2	Protein Catabolic Process
+1085	2	Positive Reg Of Multicellular Organism Growth
+1086	2	Growth
+1087	2	Carbohydrate Phosphorylation
+1088	2	Peptide Catabolic Process
+1089	2	Negative Regulation Of Tor Signaling Cascade
+1207	2	Nmn
+1210	2	Nmn
+1303	2	Wrn
+1309	2	Discussion
+1385	2	Acs Cpt
+1386	2	Acdh
+1387	2	Sdh
+1390	2	Scs
+1392	2	Idh
+1396	2	Gapdh
+1408	2	Mdh
+1412	2	Acly
+1414	2	Fasn
+1487	2	90 Gy IR
+1568	2	Methods
+1711	2	81. Nematode rearing
+1810	2	85. Using ImageJ
+1826	2	21. Three independent biological samples of the worms were collected for
+1861	2	Nad
+1889	2	89. The autosampler
+1898	2	Nam Nad
+1962	3	0.1. The p-values were not adjusted in favor of subsequent manual inspection and
+1971	2	21. Both control and drug treated worms
+2036	2	90. Primer sequences used in
+2072	2	Data Availability
+2081	2	References
+2329	2	Acknowledgements
+2351	2	Author Contributions
+2358	2	Competing Interests

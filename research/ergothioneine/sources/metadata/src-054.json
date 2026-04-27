@@ -1,0 +1,21 @@
+{
+  "id": "src-054",
+  "title": "Examining the health effects and bioactive components in Agaricus bisporus mushrooms: a scoping review",
+  "authors": [
+    "Blumfield, Michelle",
+    "Abbott, Kylie",
+    "Duve, Emily",
+    "Cassettari, Tim",
+    "Marshall, Skye",
+    "Fayet‐Moore, Flávia"
+  ],
+  "doi": "10.1016/j.jnutbio.2020.108453",
+  "url": "https://openalex.org/W3035573943",
+  "provider": "openalex",
+  "year": 2020,
+  "venue": "The Journal of Nutritional Biochemistry",
+  "citation_count": 85,
+  "abstract": "There is evidence from both in vitro and animal models that the consumption of edible mushrooms has beneficial effects on health. It is unclear whether similar effects exist in humans and which bioactive compounds are present. This review synthesises the evidence on the world's most commonly consumed mushroom, Agaricus bisporus to (i) examine its effect on human health outcomes; and (ii) determine the nutrient density of its bioactive compounds, which may explain their health effects. A systematic literature search was conducted on the consumption of A. bisporus, without date and study design limits. Bioactive compounds included ergosterol, ergothioneine, flavonoids, glucans and chitin. Two authors independently identified studies for inclusion and assessed methodological quality. Beneficial effects of A. bisporus on metabolic syndrome, immune function, gastrointestinal health and cancer, with the strongest evidence for the improvement in Vitamin D status in humans, were found. Ultraviolet B (UVB) exposed mushrooms may increase and maintain serum 25(OH)D levels to a similar degree as vitamin D supplements. A. bisporus contain beta-glucans, ergosterol, ergothioneine, vitamin D and an antioxidant compound usually reported as flavonoids; with varying concentrations depending on the type of mushroom, cooking method and duration, and UVB exposure. Further research is required to fully elucidate the bioactive compounds in mushrooms using vigorous analytical methods and expand the immunological markers being tested. To enable findings to be adopted into clinical practice and public health initiatives, replication of existing studies in different population groups is required to confirm the impact of A. bisporus on human health.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.1016/j.jnutbio.2020.108453"
+}

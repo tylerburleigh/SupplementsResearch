@@ -1,0 +1,16 @@
+{
+  "id": "src-205",
+  "title": "The Mitochondrial Basis of Aging and Age-Related Disorders",
+  "authors": [
+    "Srivastava, Sarika"
+  ],
+  "doi": "10.3390/genes8120398",
+  "url": "https://openalex.org/W2780539753",
+  "provider": "openalex",
+  "year": 2017,
+  "venue": "Genes",
+  "citation_count": 406,
+  "abstract": "Aging is a natural phenomenon characterized by progressive decline in tissue and organ function leading to increased risk of disease and mortality. Among diverse factors that contribute to human aging, the mitochondrial dysfunction has emerged as one of the key hallmarks of aging process and is linked to the development of numerous age-related pathologies including metabolic syndrome, neurodegenerative disorders, cardiovascular diseases and cancer. Mitochondria are central in the regulation of energy and metabolic homeostasis, and harbor a complex quality control system that limits mitochondrial damage to ensure mitochondrial integrity and function. The intricate regulatory network that balances the generation of new and removal of damaged mitochondria forms the basis of aging and longevity. Here, I will review our current understanding on how mitochondrial functional decline contributes to aging, including the role of somatic mitochondrial DNA (mtDNA) mutations, reactive oxygen species (ROS), mitochondrial dynamics and quality control pathways. I will further discuss the emerging evidence on how dysregulated mitochondrial dynamics, mitochondrial biogenesis and turnover mechanisms contribute to the pathogenesis of age-related disorders. Strategies aimed to enhance mitochondrial function by targeting mitochondrial dynamics, quality control, and mitohormesis pathways might promote healthy aging, protect against age-related diseases, and mediate longevity.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2073-4425/8/12/398/pdf?version=1513678068"
+}

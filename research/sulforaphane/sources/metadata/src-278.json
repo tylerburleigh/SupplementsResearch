@@ -1,0 +1,21 @@
+{
+  "id": "src-278",
+  "title": "Pharmacological Targeting of the Transcription Factor Nrf2 at the Basal Ganglia Provides Disease Modifying Therapy for Experimental Parkinsonism",
+  "authors": [
+    "Jaźwa, Agnieszka",
+    "Rojo, Ana I.",
+    "Innamorato, Nadia G.",
+    "Hesse, Marlen",
+    "Fernández‐Ruíz, Javier",
+    "Cuadrado, Antonio"
+  ],
+  "doi": "10.1089/ars.2010.3731",
+  "url": "https://openalex.org/W1971573216",
+  "provider": "openalex",
+  "year": 2011,
+  "venue": "Antioxidants and Redox Signaling",
+  "citation_count": 324,
+  "abstract": "Current therapies for motor symptoms of Parkinson's disease (PD) are based on dopamine replacement. However, the disease progression remains unaffected, because of continuous dopaminergic neuron loss. Since oxidative stress is actively involved in neuronal death in PD, pharmacological targeting of the antioxidant machinery may have therapeutic value. Here, we analyzed the relevance of the antioxidant phase II response mediated by the transcription factor NF-E2-related factor 2 (Nrf2) on brain protection against the parkinsonian toxin methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP). Intraperitoneal administration of the potent Nrf2 activator sulforaphane (SFN) increased Nrf2 protein levels in the basal ganglia and led to upregulation of phase II antioxidant enzymes heme oxygenase-1 (HO-1) and NAD(P)H quinone oxidoreductase (NQO1). In wild-type mice, but not in Nrf2-knockout mice, SFN protected against MPTP-induced death of nigral dopaminergic neurons. The neuroprotective effects were accompanied by a decrease in astrogliosis, microgliosis, and release of pro-inflammatory cytokines. These results provide strong pharmacokinetic and biochemical evidence for activation of Nrf2 and phase II genes in the brain and also offer a neuroprotective strategy that may have clinical relevance for PD therapy.",
+  "type": "academic",
+  "pdf_url": "https://ruj.uj.edu.pl/xmlui/handle/item/60850"
+}

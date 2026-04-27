@@ -1,0 +1,28 @@
+{
+  "id": "src-083",
+  "title": "Betaine and Folate Status as Cooperative Determinants of Plasma Homocysteine in Humans",
+  "authors": [
+    "Holm, Pål I.",
+    "Ueland, Per M.",
+    "Vollset, Stein Emil",
+    "Midttun, Øivind",
+    "Blom, Henk J.",
+    "Keijzer, Miranda B.A.J.",
+    "den Heijer, Martin"
+  ],
+  "year": 2005,
+  "abstract": "Objective—\n\nTwo published studies have demonstrated that betaine in the circulation is a determinant of plasma total homocysteine, but none had sufficient power to investigate the possible effect modification by folate status.\n\nMethods and Results—\n\nWe measured homocysteine, betaine, folate, vitamin B\n6\n, and related compounds in serum/plasma from 500 healthy men and women aged 34 to 69 years before (fasting levels) and 6 hours after a standard methionine loading test. Choline, dimethylglycine, and folate were determinants of plasma betaine in a multiple regression model adjusting for age and sex. The increase in homocysteine after loading showed a strong inverse association with plasma betaine and a weaker inverse association with folate and vitamin B\n6\n. Fasting homocysteine showed a strong inverse relation to folate, a weak relation to plasma betaine, and no relation to vitamin B\n6\n. Notably, adjusted (for age and sex) dose-response curves for the postmethionine increase in homocysteine or fasting homocysteine versus betaine showed that the inverse associations were most pronounced at low serum folate, an observation that was confirmed by analyses of interaction.\n\nConclusions—\n\nCollectively, these results show that plasma betaine is a strong determinant of increase in homocysteine after methionine loading, particularly in subjects with low folate status.",
+  "doi": "10.1161/01.atv.0000151283.33976.e6",
+  "url": "https://doi.org/10.1161/01.atv.0000151283.33976.e6",
+  "pdf_url": "",
+  "venue": "Arteriosclerosis, Thrombosis, and Vascular Biology",
+  "citation_count": 69,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-20T18:47:17.392157+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok"
+}

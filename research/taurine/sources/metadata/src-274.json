@@ -1,0 +1,24 @@
+{
+  "id": "src-274",
+  "title": "Gold-Modified Covalent Organic Frameworks-Assisted Laser Desorption/Ionization Mass Spectrometry for Analysis of Metabolites Induced by Triclosan Exposure",
+  "authors": [
+    "Jin, Yingxue",
+    "Chen, Jiajing",
+    "Xie, Wen",
+    "Zhang, Jinni",
+    "Yan, Jingjing",
+    "Chen, Canrong",
+    "Lin, Jiashi",
+    "Cai, Zongwei",
+    "Lin, Zian"
+  ],
+  "doi": "10.1021/acsami.4c16044",
+  "url": "https://openalex.org/W4406534173",
+  "provider": "openalex",
+  "year": 2025,
+  "venue": "ACS Applied Materials & Interfaces",
+  "citation_count": 8,
+  "abstract": "Matrix-assisted laser desorption/ionization (MALDI) mass spectrometry (MS) holds great promise for the rapid and sensitive detection of biomolecules, but its precise detection of small molecule metabolites is hindered by severe background interference from the organic matrix in the low molecular weight range. To address this issue, nanomaterials have commonly been utilized as substrates in LDI-MS. Among them, covalent organic frameworks (COFs), known for their unique optical absorption and structural properties, have garnered significant attention. Despite these advantages, their low ionization efficiency remains a challenge. Herein, a composite material of COF-S@Au nanoparticles (NPs), by incorporating Au NPs into a sulfur-functionalized COF (COF-S) through postsynthetic modification, was designed and adopted as substrates. This hybrid material leverages the synergistic effects of COF-S and Au NPs to improve the desorption/ionization efficiency and minimize background interference. The COF-S@Au NPs demonstrated a 5-16-fold improvement in MS signals of small biomolecules along with a clean background and excellent resistance to salt and protein interference. Their corresponding limits of detection (LODs) were achieved at ∼pmol. Furthermore, the COF-S@Au NPs were applied to analyze metabolites in a triclosan (TCS)-exposed mouse model, successfully identifying 10 differential metabolites associated with TCS toxicity. This work provides a foundation for developing advanced LDI-MS materials for high-performance metabolic analysis and offers valuable insights into TCS metabolic toxicity with potential applications in environmental toxicology.",
+  "type": "academic",
+  "pdf_url": ""
+}

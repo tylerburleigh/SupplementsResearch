@@ -1,0 +1,29 @@
+{
+  "id": "src-015",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://www.nutraceuticalbusinessreview.com/undenatured-type-II-collagen-joint-health-study",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-19T13:39:27.212704+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-015.md",
+  "quality_details": {
+    "content_length": 2551,
+    "alpha_ratio": 0.815,
+    "sentence_count": 16,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

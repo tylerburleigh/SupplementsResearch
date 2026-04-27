@@ -1,0 +1,19 @@
+{
+  "id": "src-328",
+  "title": "Methionine gamma lyase: Structure-activity relationships and therapeutic applications.",
+  "authors": [
+    "Raboni, Samanta",
+    "Faggiano, Serena",
+    "Bettati, Stefano",
+    "Mozzarelli, Andrea"
+  ],
+  "doi": "10.1016/j.bbapap.2023.140991",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38147934",
+  "provider": "pubmed",
+  "year": 2024,
+  "venue": "Biochimica et biophysica acta. Proteins and proteomics",
+  "citation_count": 0,
+  "abstract": "Methionine gamma lyase (MGL) is a bacterial and plant enzyme that catalyzes the conversion of methionine in methanthiol, 2-oxobutanoate and ammonia. The enzyme belongs to fold type I of the pyridoxal 5'-dependent family. The catalytic mechanism and the structure of wild type MGL and variants were determined in the presence of the natural substrate as well as of many sulfur-containing derivatives. Structure-function relationship studies were pivotal for MGL exploitation in the treatment of cancer, bacterial infections, and other diseases. MGL administration to cancer cells leads to methionine starvation, thus decreasing cells viability and increasing their vulnerability towards other drugs. In antibiotic therapy, MGL acts by transforming prodrugs in powerful drugs. Numerous strategies have been pursued for the delivering of MGL in vivo to prolong its bioavailability and decrease its immunogenicity. These include conjugation with polyethylene glycol and encapsulation in synthetic or natural vesicles, eventually decorated with tumor targeting molecules, such as the natural phytoestrogens daidzein and genistein. The scientific achievements in studying MGL structure, function and perspective therapeutic applications came from the efforts of many talented scientists, among which late Tatyana Demidkina to whom we dedicate this review.",
+  "type": "academic",
+  "pdf_url": ""
+}

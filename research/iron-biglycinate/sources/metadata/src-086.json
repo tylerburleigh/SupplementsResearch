@@ -1,0 +1,29 @@
+{
+  "id": "src-086",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "",
+  "pdf_url": "https://fshn.ifas.ufl.edu/media/fshnifasufledu/fshn-website/extension/extension-faculty/BJH_OralIronTherapy_Review.pdf",
+  "venue": "",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "",
+  "fetched_at": "2026-04-21T18:19:32.925686+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-086.md",
+  "quality_details": {
+    "content_length": 93937,
+    "alpha_ratio": 0.745,
+    "sentence_count": 837,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

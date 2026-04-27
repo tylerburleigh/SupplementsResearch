@@ -1,0 +1,20 @@
+{
+  "id": "src-238",
+  "title": "Senolytic therapy combining Dasatinib and Quercetin restores the chondrogenic phenotype of human osteoarthritic chondrocytes by the release of pro‐anabolic mediators",
+  "authors": [
+    "Maurer, Svenja",
+    "Kirsch, Valeria",
+    "Ruths, L.",
+    "Brenner, Rolf E.",
+    "Riegger, J."
+  ],
+  "doi": "10.1101/2024.04.04.588076",
+  "url": "https://www.semanticscholar.org/paper/c1352860409c79977b0ec7b3a4c979e1cf9cbae4",
+  "provider": "semantic_scholar",
+  "year": 2024,
+  "venue": "bioRxiv",
+  "citation_count": 26,
+  "abstract": "Cellular senescence is associated with various age-related disorders and is assumed to play a major role in the pathogenesis of osteoarthritis (OA). Based on this, we tested a senolytic combination therapy using Dasatinib (D) and Quercetin (Q) on aged isolated human articular chondrocytes (hACs), as well as in OA-affected cartilage tissue (OARSI grade 1-2). Stimulation with D+Q selectively eliminated senescent cells in both, cartilage explants and isolated hAC. Furthermore, the therapy significantly promoted chondroanabolism, as demonstrated by increased gene expression levels of COL2A1, ACAN, and SOX9, as well as elevated collagen type II and glycosaminoglycan biosynthesis. Additionally, D+Q treatment significantly reduced the release of SASP factors (IL6, CXCL1). RNA sequencing analysis revealed an upregulation of the anabolic factors, inter alia, FGF18, IGF1, and TGFB2, as well as inhibitory effects on cytokines and the YAP-1 signaling pathway, explaining the underlying mechanism of the chondroanabolic promotion upon senolytic treatment. Accordingly, stimulation of untreated hAC with conditioned medium of D+Q-treated cells similarly induced the expression of chondrogenic markers. Detailed analyses demonstrated that chondroanabolic effects could be mainly attributed to Dasatinib, while monotherapeutical application of Quercetin or Navitoclax did not promote the chondroanabolism. Overall, D+Q therapy restored the chondrogenic phenotype in OA hAC most likely by creating a pro-chondroanabolic environment through the reduction of SASP factors and upregulation of growth factors. This senolytic approach could therefore be a promising candidate for further testing as a disease-modifying osteoarthritis drug.",
+  "type": "academic",
+  "pdf_url": "https://www.biorxiv.org/content/biorxiv/early/2024/04/08/2024.04.04.588076.full.pdf"
+}

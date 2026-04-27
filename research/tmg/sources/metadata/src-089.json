@@ -1,0 +1,20 @@
+{
+  "id": "src-089",
+  "title": "Betaine Improves Intestinal Functions by Enhancing Digestive Enzymes, Ameliorating Intestinal Morphology, and Enriching Intestinal Microbiota in High-salt stressed Rats",
+  "authors": [
+    "Wang, Haichao",
+    "Li, Sisi",
+    "Fang, Shenglin",
+    "Yang, Xiaojing",
+    "Feng, Jie"
+  ],
+  "doi": "10.3390/nu10070907",
+  "url": "https://openalex.org/W2884544504",
+  "provider": "openalex",
+  "year": 2018,
+  "venue": "Nutrients",
+  "citation_count": 63,
+  "abstract": "To investigate the role of betaine in the intestinal functions of high-salt stressed rats, 32 four-week-old male Sprague⁻Dawley rats weighing 128.0 (SD 5.06) g were randomly allotted to four groups. The control group was fed with standard chow diet (0.4% NaCl), while the treatment groups were fed a high-salt diet (4.0% NaCl) supplemented with betaine at 0.0%, 0.5%, and 1.0%, respectively. The experiment lasted 28 days. The results showed that rats in the high-salt stressed groups had a significant increase in both water intake and kidney index (<i>p</i> < 0.05). The level of cortisol (COR) was increased in the high-salt stressed rats (<i>p</i> < 0.05), and returned to normal levels with betaine supplementation (<i>p</i> < 0.05). Aldosterone (ALD) was decreased in all high-salt diet groups (<i>p</i> < 0.05). Betaine supplementation decreased antidiuretic hormone (ADH) levels significantly (<i>p</i> < 0.05). High salt stress decreased the activities of amylase, lipase, trypsin, and chymotrypsin in the small intestinal luminal contents (<i>p</i> < 0.05), however, these activities increased with betaine supplementation (<i>p</i> < 0.05). The gut villus height of small intestine was significantly decreased in the high-salt diet group (<i>p</i> < 0.05). However, they were higher in the betaine supplementation groups than in the control group (<i>p</i> < 0.05). A similar result was observed in the ratio of villus height to crypt depth (<i>p</i> < 0.05). Both alpha diversity indexes and beta diversity indexes showed that high salt stress decreased the diversity of intestinal microbiota, while supplementation with betaine counteracted the negative effect. In conclusion, the results indicate that betaine improves intestinal function by enhancing the digestive enzymes, ameliorating intestinal morphology, and enriching intestinal microbiota of high-salt stressed rats.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2072-6643/10/7/907/pdf?version=1531731725"
+}

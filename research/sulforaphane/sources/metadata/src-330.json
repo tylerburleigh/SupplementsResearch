@@ -1,0 +1,19 @@
+{
+  "id": "src-330",
+  "title": "The Keap1–Nrf2–ARE Pathway As a Potential Preventive and Therapeutic Target: An Update",
+  "authors": [
+    "Lu, Mengchen",
+    "Ji, Jianai",
+    "Jiang, Zhengyu",
+    "You, Qidong"
+  ],
+  "doi": "10.1002/med.21396",
+  "url": "https://openalex.org/W2401030213",
+  "provider": "openalex",
+  "year": 2016,
+  "venue": "Medicinal Research Reviews",
+  "citation_count": 774,
+  "abstract": "The Keap1-Nrf2-ARE ((Kelch-like ECH-Associating protein 1) nuclear factor erythroid 2 related factor 2-antioxidant response element) pathway is one of the most important defense mechanisms against oxidative and/or electrophilic stresses, and it is closely associated with inflammatory diseases, including cancer, neurodegenerative diseases, cardiovascular diseases, and aging. In recent years, progress has been made in strategies aimed at modulating the Keap1-Nrf2-ARE pathway. The Nrf2 activator DMF (Dimethylfumarates) has been approved by the FDA as a new first-line oral drug to treat patients with relapsing forms of multiple sclerosis, while a phase 3 study of another promising candidate, CDDO-Me, was terminated for safety reasons. Directly inhibiting Keap1-Nrf2 protein-protein interactions as a novel Nrf2-modulating strategy has many advantages over using electrophilic Nrf2 activators. The development of Keap1-Nrf2 protein-protein interaction inhibitors has become a topic of intense research, and potent inhibitors of this target have been identified. In addition, inhibiting Nrf2 activity has attracted an increasing amount of attention because it may provide an alternative cancer therapy. This review summarizes the molecular mechanisms and biological functions of the Keap1-Nrf2-ARE system. The main focus of this review is on recent progress in studies of agents that target the Keap1-Nrf2-ARE pathway and the therapeutic applications of such agents.",
+  "type": "academic",
+  "pdf_url": ""
+}

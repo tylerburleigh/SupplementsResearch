@@ -1,0 +1,40 @@
+{
+  "id": "src-029",
+  "title": "Microdosing psilocybin for major depressive disorder: study protocol for a phase II double-blind placebo-controlled randomised partial crossover trial",
+  "authors": [
+    "Beidas, Zeina",
+    "Ragnhildstveit, Anya",
+    "Blackman, Adam",
+    "Anderson, Thomas",
+    "Fewster, Emily",
+    "Syed, Omer A.",
+    "Sobolenko, Valentyne",
+    "Kanca, Ismail Kaan",
+    "Jaglinska, Magdalena",
+    "Son, Tatiana",
+    "Farb, Norman",
+    "Petranker, Rotem"
+  ],
+  "year": 2026,
+  "abstract": "Background\nMajor depressive disorder (MDD) is the leading cause of disability worldwide, affecting roughly 322 million people. Recently, doses of psilocybin have shown promise in treating mood disorders, sparking interest in other dosing practices. According to anecdotal reports and observational studies, microdosing psilocybin yields benefits to mental health; however, rigorously controlled trials have failed to produce compelling evidence for this.\n\nAims\nTo conduct a phase II, double-blind, placebo-controlled, randomised partial crossover trial to compare microdosing psilocybin to placebo for MDD, evaluating its safety, tolerability and preliminary antidepressant effects.\n\nMethod\nForty adults with MDD will be randomised to four doses of psilocybin (2 mg) or placebo (maltodextrin) once weekly over 4 weeks, then four doses of psilocybin (2 mg) once weekly for an additional 4 weeks. The primary efficacy end-point will be change in depression symptoms, as measured at baseline (0 weeks), after the experimental phase (4 weeks), and after the open-label phase (8 weeks). A battery of mood, well-being, attention, creativity, mindfulness and pro-sociality measures will be administered at each time point. Follow-ups will occur every 6 months for up to 2 years after the trial start date, as part of a long-term extension study.\n\nResults\nThe results of the primary outcome of this trial will be published as a manuscript in a peer-reviewed science or medical journal regardless of the magnitude or direction of effect.\n\nConclusions\nFindings will inform future research on microdosing psilocybin for MDD, regarding dose regimens, effect sizes and expectancy bias. Findings will also facilitate discussions on the comparable benefits of sub- versus threshold doses of psilocybin and the therapeutic value of radically altered perception.\n\nTrial registration\nClinicalTrials.gov identifier: NCT05259943.",
+  "doi": "10.1192/bjo.2025.10968",
+  "url": "https://doi.org/10.1192/bjo.2025.10968",
+  "pdf_url": "",
+  "venue": "BJPsych Open",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-26T10:42:01.146008+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-029.md",
+  "quality_details": {
+    "content_length": 58055,
+    "alpha_ratio": 0.791,
+    "sentence_count": 493,
+    "reasons": []
+  }
+}

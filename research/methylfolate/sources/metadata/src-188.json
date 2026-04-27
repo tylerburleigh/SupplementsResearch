@@ -1,0 +1,28 @@
+{
+  "id": "src-188",
+  "title": "Homocysteine in the Cardiovascular Setting: What to Know, What to Do, and What Not to Do",
+  "authors": [
+    "D’Elia, Saverio",
+    "Morello, Mariarosaria",
+    "Titolo, Gisella",
+    "Caso, Valentina Maria",
+    "Solimene, Achille",
+    "Luisi, Ettore",
+    "Serpico, Chiara",
+    "Morello, Andrea",
+    "Mura, Lucia La",
+    "Loffredo, Francesco S.",
+    "Natale, Francesco",
+    "Golino, Paolo",
+    "Cimmino, Giovanni"
+  ],
+  "doi": "10.3390/jcdd12100383",
+  "url": "https://openalex.org/W4414592578",
+  "provider": "openalex",
+  "year": 2025,
+  "venue": "Journal of Cardiovascular Development and Disease",
+  "citation_count": 4,
+  "abstract": "Homocysteine has long been studied as a potential cardiovascular risk factor due to its biochemical role in endothelial dysfunction, oxidative stress, inflammation, and thrombogenesis. Despite strong epidemiological and mechanistic support, the translation of homocysteine-lowering interventions into clinical benefit remains controversial. This non-systematic review aims to clarify the current understanding of homocysteine in the cardiovascular setting by distinguishing between well-established facts, clinically relevant interventions, and persistent misconceptions. We first revisit the historical emergence of homocysteine as a cardiovascular biomarker and explore its pathophysiological mechanisms, including endothelial damage, atherosclerosis progression, and prothrombotic effects-supported by in vitro and animal model studies. Subsequently, we evaluate evidence-based interventions such as B-vitamin supplementation (folate, B6, B12), lifestyle modifications, and the clinical relevance of homocysteine monitoring in specific populations (e.g., MTHFR mutations, chronic kidney disease). We then discuss common pitfalls, including the overinterpretation of genetic variants, the inappropriate use of supplementation, and the overreliance on surrogate biomarkers in clinical trials. Although elevated homocysteine remains a reproducible biomarker of cardiovascular risk, current evidence does not support routine intervention in unselected populations. A precision medicine approach-targeting high-risk subgroups and integrating homocysteine into broader cardiometabolic management-may help unlock its therapeutic relevance. Future pharmacological strategies should prioritize mechanistic insight, patient stratification, and clinically meaningful endpoints.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2308-3425/12/10/383/pdf?version=1758959240"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "src-193",
+  "title": "High-dose vitamin D supplementation and prostate cancer progression: a phase II randomised trial in localised prostate cancer cases with intermediate risk of progression (ProsD)",
+  "authors": [
+    "Nair-Shalliker, Visalini",
+    "Smith, David P.",
+    "Gebski, Val",
+    "Patel, Manish I.",
+    "Frydenberg, Mark",
+    "Yaxley, John",
+    "Gardiner, Robert ‘Frank’",
+    "Espinoza, David",
+    "Kimlin, Michael G.",
+    "Dhillon, Varinderpal",
+    "Leifert, Wayne",
+    "Gillatt, David",
+    "Woo, Henry",
+    "Rasiah, Krishan",
+    "Awad, Nader",
+    "Symons, James",
+    "Wells, Jadon K.",
+    "Pickett, Hilda A.",
+    "Fenech, Michael",
+    "Anderson, Paul H.",
+    "Armstrong, Bruce K.",
+    "Gurney, Howard"
+  ],
+  "year": 2026,
+  "abstract": "",
+  "doi": "10.1038/s41416-025-03278-w",
+  "url": "https://doi.org/10.1038/s41416-025-03278-w",
+  "pdf_url": "",
+  "venue": "British Journal of Cancer",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T21:06:33.791208+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-193.md",
+  "quality_details": {
+    "content_length": 27940,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

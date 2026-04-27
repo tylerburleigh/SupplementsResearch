@@ -1,0 +1,22 @@
+{
+  "id": "src-211",
+  "title": "Sulforaphane protects against acetaminophen-induced hepatotoxicity.",
+  "authors": [
+    "Noh, Jung-Ran",
+    "Kim, Yong-Hoon",
+    "Hwang, Jung Hwan",
+    "Choi, Dong-Hee",
+    "Kim, Kyoung-Shim",
+    "Oh, Won-Keun",
+    "Lee, Chul-Ho"
+  ],
+  "doi": "10.1016/j.fct.2015.03.020",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/25818464",
+  "provider": "pubmed",
+  "year": 2015,
+  "venue": "Food and chemical toxicology : an international journal published for the British Industrial Biological Research Association",
+  "citation_count": 0,
+  "abstract": "Oxidative stress is closely associated with acetaminophen (APAP)-induced toxicity. Heme oxygenase-1 (HO-1), an antioxidant defense enzyme, has been shown to protect against oxidant-induced tissue injury. This study investigated whether sulforaphane (SFN), as a HO-1 inducer, plays a protective role against APAP hepatotoxicity in vitro and in vivo. Pretreatment of primary hepatocyte with SFN induced nuclear factor E2-factor related factor (Nrf2) target gene expression, especially HO-1 mRNA and protein expression, and suppressed APAP-induced glutathione (GSH) depletion and lipid peroxidation, which eventually leads to hepatocyte cell death. A comparable effect was observed in mice treated with APAP. Mice were treated with 300 mg/kg APAP 30 min after SFN (5 mg/kg) administration and were then sacrificed after 6 h. APAP alone caused severe liver injuries as characterized by increased plasma AST and ALT levels, GSH depletion, apoptosis, and 4-hydroxynonenal (4-HNE) formations. This APAP-induced liver damage was significantly attenuated by pretreatment with SFN. Furthermore, while hepatic reactive oxygen species (ROS) levels were increased by APAP exposure, pretreatment with SFN completely blocked ROS formation. These results suggest that SFN plays a protective role against APAP-mediated hepatotoxicity through antioxidant effects mediated by HO-1 induction. SFN has preventive action in oxidative stress-mediated liver injury.",
+  "type": "academic",
+  "pdf_url": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "src-299",
+  "title": "Nicotine alleviates MPTP-induced nigrostriatal damage through modulation of JNK and ERK signaling pathways in the mice model of Parkinson’s disease",
+  "authors": [
+    "Ruan, Sisi",
+    "Xie, Jiqing",
+    "Wang, Linhai",
+    "Guo, Lulu",
+    "Li, Yan",
+    "Fan, Wu",
+    "Ji, Rong",
+    "Gong, Zhen",
+    "Xu, Yan",
+    "Mao, Jian",
+    "Xie, Jianping"
+  ],
+  "doi": "10.3389/fphar.2023.1088957",
+  "url": "https://www.semanticscholar.org/paper/08f95c9bf984ab4b71c19127211cd595be0f3c5d",
+  "provider": "semantic_scholar",
+  "year": 2023,
+  "venue": "Frontiers in Pharmacology",
+  "citation_count": 26,
+  "abstract": "Introduction: Nicotine (Nic) has previously been proven to reduce neurodegeneration in the models of Parkinson’s disease (PD). The present study is intended to investigate the detailed mechanisms related to the potential neuroprotective effects of Nic in vivo. Methods: We established a PD model using 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP)-induced C57BL6 mice (25 mg/kg/d, 5 d, i.p.) to investigate the neuropharmacological modulation of Nic pretreatment (2.5 mg/kg/d, 5 d, i.p., 30 min before MPTP injection) from the perspectives of neurobehavioral assessment, the pathological alterations, microglial cell inflammation and MAPK signaling pathways in specific brain regions. Results: The open field test, elevated plus maze, rotarod and traction test suggested that Nic pretreatment could significantly improve MPTP-induced motor impairment and had an anxiolytic effect. Nic was found to improve neuroapoptosis, enhance tyrosine hydroxylase activity, and reduce the accumulation of the phosphorylated α-synuclein in the substantia nigra and striatal regions of PD mice by TUNEL and immunohistochemical assays. Immuno-fluorescent method for labeling Iba1 and CD68 indicated that Nic remarkably alleviates the activation of microglia which represents the M1 polarization state in the mice brain under MPTP stimulation. No significant difference in the expression of p38/MAPK pathway was found in the nigrostriatal regions, while Nic could significantly inhibit the elevated p-JNK/JNK ratio and increase the declined p-ERK/ERK ratio in the substantia nigra of MPTP-exposed brains, which was further confirmed by the pretreatment of CYP2A5 inhibitor to decline the metabolic activity of Nic. Discussion: The molecular signaling mechanism by which Nic exerts its neuroprotective effects against PD may be achieved by regulating the JNK and ERK signaling pathways in the nigra-striatum related brain regions.",
+  "type": "academic",
+  "pdf_url": "https://www.frontiersin.org/articles/10.3389/fphar.2023.1088957/pdf"
+}

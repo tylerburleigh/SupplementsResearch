@@ -1,0 +1,27 @@
+{
+  "id": "src-139",
+  "title": "Appraising the causal relevance of maternal red blood cell folate and congenital heart disease in offspring: 2-sample Mendelian randomization.",
+  "authors": [
+    "Chen, Hongyan",
+    "Chen, Xiaotian",
+    "Yao, Qinyu",
+    "Xin, Jibin",
+    "Zhang, Yi",
+    "Huang, Xiangyuan",
+    "Wang, Dingmei",
+    "Li, Mengru",
+    "Zhang, Tiansong",
+    "Tillmann, Taavi",
+    "Yan, Weili",
+    "Huang, Guoying"
+  ],
+  "doi": "10.1016/j.annepidem.2025.04.010",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40233869",
+  "provider": "pubmed",
+  "year": 2025,
+  "venue": "Annals of epidemiology",
+  "citation_count": 0,
+  "abstract": "PURPOSE: We performed a 2-sample Mendelian randomization (MR) using maternal MTHFR C677T as the genetic instrument to validate the causal association between maternal red blood cell (RBC) folate and offspring congenital heart disease (CHD) risk.\nMETHODS: We obtained the genetic association for RBC folate through pooling data from 2 genome-wide association studies (the Trinity Student Study [n = 2229]) and Shanghai Preconception sub-cohort [n = 980]). We performed a meta-analysis of genetic studies to obtain the association for CHD (35 studies; 6141 CHDs and 14078 controls) and used the Wald ratio method for the 2-sample MR.\nRESULTS: Maternal MTHFR C677T variant was associated with lower RBC folate (-116 nmol/L per risk allele) and higher CHD risk (odds ratio [OR], 1.32 per allele; 95 % CI, 1.18-1.47). Per 100-nmol/L genetically determined higher RBC folate was associated with 21 % lower CHD risk (OR, 0.79 [0.70-0.90]). The association was evident in the Asian populations (0.72 [0.61-0.85]) and regions with low folate status (0.76 [0.65-0.88]) but not in the Caucasian populations (0.96 [0.89-1.04]) or regions with fortification (0.92 [0.79-1.06]).\nCONCLUSIONS: Our findings support a causal role of maternal folate in offspring CHD risk, mainly confined to Asian populations and regions with low folate status.",
+  "type": "academic",
+  "pdf_url": ""
+}

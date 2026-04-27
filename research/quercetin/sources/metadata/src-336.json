@@ -1,0 +1,22 @@
+{
+  "id": "src-336",
+  "title": "Senolytic effect of triterpenoid complex from Ganoderma lucidum on adriamycin-induced senescent human hepatocellular carcinoma cells model in vitro and in vivo",
+  "authors": [
+    "Abdelmoaty, Ahmed Attia Ahmed",
+    "Chen, Jing",
+    "Zhang, Kun",
+    "Wu, Chang-hui",
+    "Li, Ye",
+    "Li, Peng",
+    "Xu, Jian-hua"
+  ],
+  "doi": "10.3389/fphar.2024.1422363",
+  "url": "https://www.semanticscholar.org/paper/9553a211841ac81d816290db087685be4b602683",
+  "provider": "semantic_scholar",
+  "year": 2024,
+  "venue": "Frontiers in Pharmacology",
+  "citation_count": 7,
+  "abstract": "Background Ganoderma lucidum (G. lucidum) is a famous medicinal mushroom that has been reported to prevent and treat a variety of diseases. Different extractions from G. lucidum have been used to manage age-related diseases, including cancer. Nevertheless, the senolytic activity of G. lucidum against senescent cancer cells has not been investigated. Although cellular senescence causes tumor growth inhibition, senescent cells promote the growth of the neighboring tumor cells through paracrine effects. Therefore, the elimination of senescent cells is a new strategy for cancer treatment. Methods In this study, senescence was triggered in HCC cells by the chemotherapeutic agent Adriamycin (ADR), and subsequently, cells were treated with TC to assess its senolytic activity. Results We found for the first time that the triterpenoid complex (TC) from G. lucidum had senolytic effect, which could selectively eliminate adriamycin (ADR)-induced senescent cells (SCs) of hepatocellular carcinoma (HCC) cells via caspase-dependent and mitochondrial pathways-mediated apoptosis and reduce the levels of senescence markers, thereby inhibiting the progression of cancers caused by SCs. TC could block autophagy at the late stage in SCs, resulting in a significant activation of TC-induced apoptosis. Furthermore, TC inhibited the senescence-associated secretory phenotype (SASP) in SCs through the inhibition of NF-κB, TFEB, P38, ERK, and mTOR signaling pathways and reducing the number of SCs. Sequential administration of ADR and TC in vivo significantly reduced tumor growth and reversed the toxicity of ADR. Conclusion A triterpenoid complex isolated from G. lucidum may serve as a novel senolytic agent against SCs, and its combination with chemotherapeutic agents may enhance their antitumor efficacy.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.3389/fphar.2024.1422363"
+}

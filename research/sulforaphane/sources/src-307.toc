@@ -1,0 +1,46 @@
+92	2	Materials And Methods
+158	2	1. The criteria of the intensity scoring system
+161	2	2. The criteria of percentage scoring system
+170	2	Results
+238	2	Discussion
+412	2	Acknowledgements
+416	2	References
+417	2	1 Jemal A, Bray F, Center MM, Ferlay J, Ward E and Forman D:
+419	2	2 Hottenrott C: Predictive medicine and esophageal cancer
+425	2	3 Schepers AG, Snippert HJ, Stange DE, van den Born M, van Es
+429	2	4 Driessens G, Beck B, Caauwe A, Simons BD and Blanpain C:
+432	2	5 Chen J, Li Y , Yu TS, McKay RM, Burns DK, Kernie SG and
+442	2	7 Visvader JE and Lindeman GJ: Cancer stem cells: current status
+444	2	8 Clarke MF, Dick JE, Dirks PB, Eaves CJ, Jamieson CH, Jones
+449	2	9 Eyler CE and Rich JN: Survival of the fittest: cancer stem cells
+452	2	10 Sladek NE: Human aldehyde dehydrogenases: potential
+459	2	12 Li J, Feng ZC, Yeung FS, Wong MR, Oakie A, Fellows GF,
+464	2	13 De Brot M, Rocha RM, Soares FA and Gobbi H: Prognostic
+468	2	14 Ohi Y , Umekita Y , Yoshioka T, Souda M, Rai Y , Sagara Y , Sagara
+477	2	16 Wang YC, Yo YT, Lee HY , Liao YP, Chao TK, Su PH and Lai
+492	2	19 Kahlert C, Bergmann F, Beck J, Welsch T, Mogler C, Herpel E,
+497	2	20 Chang B, Liu G, Xue F, Rosen DG, Xiao L, Wang X and Liu J:
+500	2	21 Sobin LH and Wittekind C: UICC: TNM Classification of
+503	2	22 Al-Hajj M and Clarke MF: Self-renewal and solid tumor stem
+505	2	23 Dean M, Fojo T and Bates S: Tumour stem cells and drug
+509	2	25 Jamieson CH, Ailles LE, Dylla SJ, Muijtjens M, Jones C,
+515	2	27 Moreb JS, Baker HV , Chang LJ, Amaya M, Lopez MC, Ostmark
+519	2	28 Ginestier C, Wicinski J, Cervera N, Monoille F, Finetti P,
+523	2	29 Hess DA, Meyerrose TE, Wirthlin L, Craft TP, Herrbrich PE,
+528	2	30 Hess DA, Wirthlin L, Craft TP, Herrbrich PE, Hohm SA, Lahey
+533	2	31 Deng S, Yang X, Lassus H, Liang S, Kaur S, Ye Q, Li C, Wang
+539	2	32 Michifuri Y , Hirohashi Y , Torigoe T, Miyazaki A, Kobayashi J,
+548	2	33 Ginestier C, Hur MH, Charafe-Jauffret E, Monville F, Dutcher
+554	2	34 Mizuno T, Suzuki N, Makino H, Furui T, Morii E, Aoki H,
+561	2	35 Yasuda K, Torigoe T, Morita R, Kuroda T, Takahashi A,
+566	2	36 Kim IG, Kim SY , Choi SI, Lee JH, Kim KC and Cho EW:
+570	2	37. Hessman CJ, Bubbers EJ, Billingsley KG, Herzig DO and Wong
+577	2	39 Tanei T, Morimoto K, Shimazu K, Kim SJ, Tanji Y , Taguchi T,
+582	2	40 Nalwoga H, Arnes JB, Wabinga H and Akslen LA: Expression
+586	2	41 Tsang JY , Huang YH, Luo MH, Ni YB, Chan SK, Lui PC, Yu
+591	2	42 Ajani JA, Wang X, Song S, Suzuki A, Taketa T, Sudo K,
+598	2	43 Minato T, Yamamoto Y , Seike J, Yoshida T, Yamai H, Takechi H,
+603	2	44 Wang Y , Zhe H, Gao P, Zhang N, Li G and Qin J: Cancer stem
+608	2	45 Reaetkova E, Reis-Filho JS, Jain PK, Mehta R, Thorat MA,
+612	2	46 Woodward W A, Krishnamurthy S, Lodhi A, Xiao L, Gong Y ,
+618	2	47 Phillips T, Murray G, Wakamiya K, Askaa J, Huang D, Welcher

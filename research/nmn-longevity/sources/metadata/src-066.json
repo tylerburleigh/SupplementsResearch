@@ -1,0 +1,25 @@
+{
+  "id": "src-066",
+  "title": "Therapeutic effect of nicotinamide mononucleotide on Alzheimer's disease through activating autophagy and anti-oxidative stress.",
+  "authors": [
+    "Ma, Ruiyang",
+    "Li, Li",
+    "Yang, Huiwen",
+    "Zou, B.",
+    "Ma, Rui-Xia",
+    "Zhang, Yue",
+    "Wu, Miao-Miao",
+    "Chen, Peng",
+    "Yao, Yao",
+    "Li, Juan"
+  ],
+  "doi": "10.1016/j.biopha.2024.117199",
+  "url": "https://www.semanticscholar.org/paper/86c56e93484d62ae7a860fd7f09fbd9e7e3f5a21",
+  "provider": "semantic_scholar",
+  "year": 2024,
+  "venue": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+  "citation_count": 23,
+  "abstract": "Alzheimer's disease (AD) is a neurodegenerative disorder characterized by the deposition of β-amyloid (Aβ) plaques and neurofibrillary tangles composed of tau protein in the brain. These neuropathological hallmarks contribute to cognitive impairment by inducing neuronal loss in the cerebral cortex and hippocampus. Unfortunately, current therapeutic approaches only target symptomatic relief and do not impede disease progression. Nicotinamide mononucleotide (NMN), a precursor of nicotinamide adenine dinucleotide (NAD+), has emerged as a promising candidate for the treatment of age-related neurodegenerative disorders. NMN supplementation could restore NAD+ levels, thereby alleviating neuronal damage and slowing the progression of AD and other aging-associated diseases. AD is closely associated with autophagic impairment and oxidative stress. Our in vivo experiments demonstrated that NMN could ameliorate pathological and behavioral impairments in AD mice. Specifically, NMN enhanced autophagy and promoted p-tau clearance. Meanwhile, NMN could activate the Nrf2/Keap1/NQO1 pathway, thereby reducing the oxidative stress. Immunofluorescence results demonstrated that NMN could alleviate neuronal damage in AD mice. Furthermore, in vitro results showed that the p-tau clearance and antioxidant stress effects of NMN were suppressed by autophagy inhibitor, chloroquine (CQ) or bafilomycin A1 (BafA1), in Aβ-induced PC12 cells. Lastly, when Nrf2 was knocked down, the antioxidant stress, autophagy enhancement, and p-tau clearance effects of NMN were all inhibited. In conclusion, our research indicates that NMN exerts therapeutic effect against AD by activating autophagy and the Nrf2/Keap1/NQO1 pathway through a mutual regulating mechanism of autophagy and antioxidative stress. These findings highlight the promising potential of NMN for the treatment of AD.",
+  "type": "academic",
+  "pdf_url": ""
+}

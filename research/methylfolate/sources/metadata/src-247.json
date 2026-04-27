@@ -1,0 +1,15 @@
+{
+  "id": "src-247",
+  "title": "The utilization of artificial intelligence in studying the impact of dietary supplements on cardiovascular diseases",
+  "authors": [
+    "Kuster, Blaž"
+  ],
+  "url": "https://openalex.org/W7140244011",
+  "provider": "openalex",
+  "year": 2026,
+  "venue": "Repository of the University of Ljubljana (University of Ljubljana)",
+  "citation_count": 0,
+  "abstract": "Bolezni srca in ožilja (BSO) ostajajo vodilni vzrok smrti, pri čemer je nadzor dejavnikov tveganja, kot so povišan krvni pritisk, moten lipidni profil, endotelijska disfunkcija in oksidativni stres ter vnetje, ključnega pomena. Na trgu je na voljo množica pogosto nasprotujočih si informacij o prehranskih dopolnilih, zato je namen magistrskega dela združiti preverjene znanstvene vire in jih obdelati s pomočjo umetne inteligence (UI) – orodja NotebookLM – da bi podali celovit in z dokazi podprt pregled vpliva prehranskih dopolnil na glavne BSO. V ta namen je bil oblikovan jezikovni model, ki je analiziral 296 ročno zbranih znanstvenih člankov (s poudarkom na meta-analizah in sistematičnih pregledih literature), izluščil glavne ugotovitve in jih ustrezno kategoriziral. Glede na analizo podatkov so dolgoverižne večkrat nenasičene omega-3 MK (MK) statistično značilno znižale trigliceride v krvi za približno 0,25 mmol/L in krvni pritisk za približno –1,5/–1,0 mmHg, hkrati pa znižujejo tudi tveganja za smrt zaradi BSO za 12 %. Dodatek vitamina D zniža sistolični krvni pritisk (SKT) za –4,01 mmHg pri starejših osebah in izboljša lipidni profil (znižanje skupnega holesterola za –3,7 mg/dL in trigliceridov za –6,9 mg/dL). Vitamini skupine B (B₆, B₉, B₁₂) učinkovito znižujejo homocistein, kar je povezano z zmernim, a statistično značilnim zmanjšanjem tveganja za možgansko kap za 12 %, v primerjavi s kontrolo. Magnezij (300–400 mg/dan) zniža SKT za –2,00 do –4,18 mmHg in izboljša endotelijsko funkcijo (povečanje s pretokom-posredovane dilatacije za 2,97 %). Koencim Q10 zniža SKT za 4,77 mmHg, medtem ko probiotiki (≥ 10¹⁰ CFU/dan, ≥ 8–12 tednov) ugodno vplivajo na znižanje trigliceridov (−19,1 mg/dl) in prav tako znižujejo SKT za –1,96 do −3,8 mmHg. UI omogoča sistematičen, celovit in uporabniku dostopen pregled učinkov prehranskih dopolnil na zdravje srca in ožilja, pri čemer so ugodni učinki najizrazitejši pri ciljno usmerjenem dopolnjevanju posameznikov z ugotovljenim pomanjkanjem in presnovnimi motnjami.",
+  "type": "academic",
+  "pdf_url": "https://repozitorij.uni-lj.si/IzpisGradiva.php?id=180887"
+}

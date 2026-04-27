@@ -1,0 +1,25 @@
+{
+  "id": "src-226",
+  "title": "Oxidative Stress and Inflammation in Acute and Chronic Lung Injuries",
+  "authors": [
+    "Bezerra, Frank Silva",
+    "Lanzetti, Manuella",
+    "Nesi, Renata Tiscoski",
+    "Nagato, Akinori Cardozo",
+    "Silva, Cyntia Pecli e",
+    "Kennedy-Feitosa, Emanuel",
+    "Melo, Adriana Correa",
+    "Cattani‐Cavalieri, Isabella",
+    "Pôrto, Luís Cristóvão",
+    "Valença, Samuel Santos"
+  ],
+  "doi": "10.3390/antiox12030548",
+  "url": "https://openalex.org/W4321495943",
+  "provider": "openalex",
+  "year": 2023,
+  "venue": "Antioxidants",
+  "citation_count": 283,
+  "abstract": "Acute and chronic lung injuries are among the leading causes of mortality worldwide. Lung injury can affect several components of the respiratory system, including the airways, parenchyma, and pulmonary vasculature. Although acute and chronic lung injuries represent an enormous economic and clinical burden, currently available therapies primarily focus on alleviating disease symptoms rather than reversing and/or preventing lung pathology. Moreover, some supportive interventions, such as oxygen and mechanical ventilation, can lead to (further) deterioration of lung function and even the development of permanent injuries. Lastly, sepsis, which can originate extrapulmonary or in the respiratory system itself, contributes to many cases of lung-associated deaths. Considering these challenges, we aim to summarize molecular and cellular mechanisms, with a particular focus on airway inflammation and oxidative stress that lead to the characteristic pathophysiology of acute and chronic lung injuries. In addition, we will highlight the limitations of current therapeutic strategies and explore new antioxidant-based drug options that could potentially be effective in managing acute and chronic lung injuries.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2076-3921/12/3/548/pdf?version=1677205979"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "src-100",
+  "title": "Reactive Oxygen Species Drive Epigenetic Changes in Radiation-Induced Fibrosis",
+  "authors": [
+    "Shrishrimal, Shashank",
+    "Kosmacek, Elizabeth A.",
+    "Oberley‐Deegan, Rebecca E."
+  ],
+  "doi": "10.1155/2019/4278658",
+  "url": "https://openalex.org/W2913964857",
+  "provider": "openalex",
+  "year": 2019,
+  "venue": "Oxidative Medicine and Cellular Longevity",
+  "citation_count": 84,
+  "abstract": "Radiation-induced fibrosis (RIF) develops months to years after initial radiation exposure. RIF occurs when normal fibroblasts differentiate into myofibroblasts and lay down aberrant amounts of extracellular matrix proteins. One of the main drivers for developing RIF is reactive oxygen species (ROS) generated immediately after radiation exposure. Generation of ROS is known to induce epigenetic changes and cause differentiation of fibroblasts to myofibroblasts. Several antioxidant compounds have been shown to prevent radiation-induced epigenetic changes and the development of RIF. Therefore, reviewing the ROS-linked epigenetic changes in irradiated fibroblast cells is essential to understand the development and prevention of RIF.",
+  "type": "academic",
+  "pdf_url": "https://downloads.hindawi.com/journals/omcl/2019/4278658.pdf"
+}

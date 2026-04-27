@@ -1,0 +1,29 @@
+{
+  "id": "src-134",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://www.tctmd.com/news/acc-its-time-clinicians-address-inflammation-cvd",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-24T01:12:55.874234+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-134.md",
+  "quality_details": {
+    "content_length": 10606,
+    "alpha_ratio": 0.802,
+    "sentence_count": 69,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

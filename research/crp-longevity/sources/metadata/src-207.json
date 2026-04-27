@@ -1,0 +1,27 @@
+{
+  "id": "src-207",
+  "title": "IL-6 and IL-8 are likely associated with psychological status in treatment naïve general population.",
+  "authors": [
+    "Liu, Xiao",
+    "Huang, Jingjing",
+    "Jiang, Yuan",
+    "Cao, Zhengyu",
+    "Wu, Maoxiong",
+    "Sun, R.",
+    "Chen, Zhiteng",
+    "Yu, P.",
+    "Ma, Jianyong",
+    "Chen, Yangxin",
+    "Zhang, Yuling",
+    "Wang, Jingfeng"
+  ],
+  "doi": "10.1016/j.jad.2021.10.042",
+  "url": "https://www.semanticscholar.org/paper/03df1d12fd1ac95588bad04f91293f2628e75e02",
+  "provider": "semantic_scholar",
+  "year": 2021,
+  "venue": "Journal of Affective Disorders",
+  "citation_count": 15,
+  "abstract": "BACKGROUND\nLevels of inflammatory markers are elevated in patients with psychological disorders. However, anti-psychological drugs have an effect on proinflammatory cytokine production and disturb their relationship. Limited evidence focuses on the inflammatory marker profile of psychological status before treatment. This study aimed to investigate the inflammatory biomarker profiles of psychological treatment-naive individuals.\n\nMETHODS\nWe included 790 psychological treatment-naive individuals from a longitudinal cohort study of Midlife in the United States (MIDUS). Symptoms of depression, anxiety, and stress were assessed by the Center for Epidemiologic Studies Depression Scale (CES-D) subscales, the Social Anxiety Scale (STAI), and Liebowitz Social Anxiety Scale (LSAS), the Perceived Stress Scale (PSS), respectively.\n\nRESULTS\nSpearman correlation analysis showed that a higher CESD total score was correlated with higher CRP (p=0.009), IL-6 (p=0.007), fibrinogen (p=0.036), E-selectin (p=0.018), ICAM-1 (p=0.013), and IL-8 (p=0.05) levels. Multivariate linear regression analysis showed that the CESD total score was positively associated with the levels of IL-6 (p=0.024) after adjustments. Moreover, the perceived stress score (PSS) was negatively associated with the levels of IL-8 (p=0.025). However, these associations were not significant after multiple testing (p =0.088, 0.091, respectively).\n\nLIMITATIONS\nThe casual relationship cannot be drawn due to the cross-sectional design CONCLUSION: Overall, our results suggested IL-6 and IL-8 might play a role in the pathogenesis of psychological disorder. Larger and longitude studies are needed to confirm our results..",
+  "type": "academic",
+  "pdf_url": ""
+}

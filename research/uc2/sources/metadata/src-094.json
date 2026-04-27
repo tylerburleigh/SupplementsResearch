@@ -1,0 +1,20 @@
+{
+  "id": "src-094",
+  "title": "Nutraceutical supplements in management of pain and disability in osteoarthritis: a systematic review and meta-analysis of randomized clinical trials",
+  "authors": [
+    "Aghamohammadi, Dawood",
+    "Dolatkhah, Neda",
+    "Bakhtiari, Fahimeh",
+    "Eslamian, Fariba",
+    "Hashemian, Maryam"
+  ],
+  "doi": "10.1038/s41598-020-78075-x",
+  "url": "https://openalex.org/W3110473665",
+  "provider": "openalex",
+  "year": 2020,
+  "venue": "Scientific Reports",
+  "citation_count": 32,
+  "abstract": "This study designed to evaluate the effect of nutraceutical supplementation on pain intensity and physical function in patients with knee/hip OA. The MEDLINE, Web of Science, Cochrane Library, Scopus, EMBASE, Google Scholar, Science direct, and ProQuest in addition to SID, Magiran, and Iranmedex were searched up to March 2020. Records (n = 465) were screened via the PICOS criteria: participants were patients with hip or knee OA; intervention was different nutritional supplements; comparator was any comparator; the outcome was pain intensity (Visual analogue scale [VAS]) and physical function (Western Ontario and McMaster Universities Arthritis [WOMAC] index); study type was randomized controlled trials. The random effects model was used to pool the calculated effect sizes. The standardized mean difference (SMD) of the outcome changes was considered as the effect size. The random effects model was used to combine the effect sizes. Heterogeneity between studies was assessed by Cochran's (Q) and I2 statistics. A total of 42 RCTs were involved in the meta-analysis. Nutritional supplementation were found to improve total WOMAC index (SMD = - 0.23, 95% CI - 0.37 to - 0.08), WOMAC pain (SMD = - 0.36, 95% CI - 0.62 to - 0.10) and WOMAC stiffness (SMD = - 0.47, 95% CI - 0.71 to - 0.23) subscales and VAS (SMD = - 0.79, 95% CI - 1.05 to - 0.05). Results of subgroup analysis according to the supplementation duration showed that the pooled effect size in studies with < 10 months, 10-20 months and > 20 months supplementation duration were 0.05, 0.27, and 0.36, respectively for WOMAC total score, 0.14, 0.55 and 0.05, respectively for WOAMC pain subscale, 0.59, 0.47 and 0.41, respectively for WOMAC stiffness subscale, 0.05, 0.57 and 0.53, respectively for WOMAC physical function subscale and 0.65, 0.99 and 0.12, respectively for VAS pain. The result suggested that nutraceutical supplementation of patients with knee/hip OA may lead to an improvement in pain intensity and physical function.",
+  "type": "academic",
+  "pdf_url": "https://www.nature.com/articles/s41598-020-78075-x.pdf"
+}

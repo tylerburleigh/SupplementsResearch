@@ -1,0 +1,23 @@
+{
+  "id": "src-191",
+  "title": "Aspirin plus Clopidogrel as Secondary Prevention after Stroke or Transient Ischemic Attack: A Systematic Review and Meta-Analysis",
+  "authors": [
+    "Zhang, Qinghua",
+    "Wang, Chao",
+    "Zheng, Maoyong",
+    "Li, Yanxia",
+    "Li, Jincun",
+    "Zhang, Liping",
+    "Shang, Xiao",
+    "Yan, Chuanzhu"
+  ],
+  "doi": "10.1159/000369778",
+  "url": "https://openalex.org/W1480729244",
+  "provider": "openalex",
+  "year": 2014,
+  "venue": "Cerebrovascular Diseases",
+  "citation_count": 11554,
+  "abstract": "Compared with monotherapy, short-term aspirin in combination with clopidogrel is more effective as secondary prevention of stroke or TIA without increasing the risk of hemorrhagic stroke and major bleeding events. Long-term combination therapy does not reduce the risk of stroke recurrence, and is associated with increased major bleeding events. The clinical applicability of the findings of this systematic review, however, needs to be confirmed in future clinical trials.",
+  "type": "academic",
+  "pdf_url": "https://karger.com/ced/article-pdf/39/1/13/2352815/000369778.pdf"
+}

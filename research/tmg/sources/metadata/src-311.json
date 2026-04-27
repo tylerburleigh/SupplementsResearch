@@ -1,0 +1,20 @@
+{
+  "id": "src-311",
+  "title": "Mitochondrial Metabolism in Astrocytes Regulates Brain Bioenergetics, Neurotransmission and Redox Balance",
+  "authors": [
+    "Rose, Jordan",
+    "Brian, Christian",
+    "Pappa, Aglaia",
+    "Panayiotidis, Mihalis I.",
+    "Franco, Rodrigo"
+  ],
+  "doi": "10.3389/fnins.2020.536682",
+  "url": "https://openalex.org/W3094724728",
+  "provider": "openalex",
+  "year": 2020,
+  "venue": "Frontiers in Neuroscience",
+  "citation_count": 211,
+  "abstract": "In the brain, mitochondrial metabolism has been largely associated with energy production, and its dysfunction is linked to neuronal cell loss. However, the functional role of mitochondria in glial cells has been poorly studied. Recent reports have demonstrated unequivocally that astrocytes do not require mitochondria to meet their bioenergetics demands. Then, the question remaining is, what is the functional role of mitochondria in astrocytes? In this work, we review current evidence demonstrating that mitochondrial central carbon metabolism in astrocytes regulates overall brain bioenergetics, neurotransmitter homeostasis and redox balance. Emphasis is placed in detailing carbon source utilization (glucose and fatty acids), anaplerotic inputs and cataplerotic outputs, as well as carbon shuttles to neurons, which highlight the metabolic specialization of astrocytic mitochondria and its relevance to brain function.",
+  "type": "academic",
+  "pdf_url": "https://www.frontiersin.org/articles/10.3389/fnins.2020.536682/pdf"
+}

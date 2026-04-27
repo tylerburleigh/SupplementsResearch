@@ -1,0 +1,27 @@
+{
+  "id": "src-307",
+  "title": "Vascular Niches Are the Primary Hotspots in Cardiac Aging.",
+  "authors": [
+    "Rodriguez Morales, David",
+    "Larcher, Veronica",
+    "Ruz Jurado, Mariano",
+    "Arifaj, Denada",
+    "Tombor, Lukas S",
+    "Zanders, Lukas",
+    "Zeiher, Andreas M",
+    "Kuppe, Christoph",
+    "John, David",
+    "Wagner, Julian U G",
+    "Schulz, Marcel H",
+    "Dimmeler, Stefanie"
+  ],
+  "doi": "10.1161/circresaha.125.327060",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41090219",
+  "provider": "pubmed",
+  "year": 2025,
+  "venue": "Circulation research",
+  "citation_count": 0,
+  "abstract": "BACKGROUND: Aging is a major, yet unmodifiable, cardiovascular risk factor and is associated with vascular alterations, increased cardiac fibrosis, and inflammation, all of which contribute to impaired cardiac function. However, the microenvironment inciting age-related alterations within the multicellular architecture of the cardiac tissue is unknown.\nMETHODS: We investigated local microenvironments in aged mice hearts by applying an integrative approach combining single-nucleus RNA sequencing and spatial transcriptomics of 3- and 18-month-old mice. We defined distinct cardiac niches and studied changes in their cellular composition and functional characteristics. We treated mice with broad-spectrum senolytics dasatinib and quercetin, and endothelial-specific senolytic fisetin and studied their effects on senescence and macrophage populations.\nRESULTS: Integration of spatial transcriptomics data across 3- and 18-month-old hearts allowed the identification of 11 cardiac niches, which were characterized by distinct cellular composition and functional signatures. Aging did not alter the overall proportions of cardiac niches but led to distinct regional changes, particularly in the left ventricle. While cardiomyocyte-enriched niches showed disrupted circadian clock gene expression, vascular niches showed major changes in proinflammatory and profibrotic signatures and altered cellular composition. We particularly identified larger vessel-associated cellular niches as key hotspots for activated fibroblasts and bone marrow-derived Lyve1- (lymphatic vessel endothelial hyaluronan receptor 1) and resident Lyve1+ macrophages in aged hearts, with interactions of both cell types through the C3:C3ar1 (complement C3 and Complement C3a receptor 1) axis. These niches were also enriched in senescent cells exhibiting high expression of immune evasion mechanisms that may impair senescent cell clearance. Removal of senescent cells by senolytics reduced the presence of Lyve1- macrophages.\nCONCLUSIONS: Our findings indicate that the perivascular microenvironment is particularly susceptible to age-related changes and serves as a primary site for inflammation-driven aging, so-called inflammaging. This study provides new insights into how aging reshapes cardiac cellular architecture, highlighting vessel-associated niches as potential therapeutic targets for age-related cardiac dysfunction.",
+  "type": "academic",
+  "pdf_url": ""
+}

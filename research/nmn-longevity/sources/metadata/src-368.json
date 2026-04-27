@@ -1,0 +1,22 @@
+{
+  "id": "src-368",
+  "title": "Ferroptosis: mechanisms and links with diseases",
+  "authors": [
+    "Yan, Hong-Fa",
+    "Zou, Ting",
+    "Tuo, Qing‐zhang",
+    "Xu, Shuo",
+    "Li, Hua",
+    "Belaidi, Abdel Ali",
+    "Lei, Peng"
+  ],
+  "doi": "10.1038/s41392-020-00428-9",
+  "url": "https://openalex.org/W3127839532",
+  "provider": "openalex",
+  "year": 2021,
+  "venue": "Signal Transduction and Targeted Therapy",
+  "citation_count": 1384,
+  "abstract": "Ferroptosis is an iron-dependent cell death, which is different from apoptosis, necrosis, autophagy, and other forms of cell death. The process of ferroptotic cell death is defined by the accumulation of lethal lipid species derived from the peroxidation of lipids, which can be prevented by iron chelators (e.g., deferiprone, deferoxamine) and small lipophilic antioxidants (e.g., ferrostatin, liproxstatin). This review summarizes current knowledge about the regulatory mechanism of ferroptosis and its association with several pathways, including iron, lipid, and cysteine metabolism. We have further discussed the contribution of ferroptosis to the pathogenesis of several diseases such as cancer, ischemia/reperfusion, and various neurodegenerative diseases (e.g., Alzheimer's disease and Parkinson's disease), and evaluated the therapeutic applications of ferroptosis inhibitors in clinics.",
+  "type": "academic",
+  "pdf_url": "https://www.nature.com/articles/s41392-020-00428-9.pdf"
+}

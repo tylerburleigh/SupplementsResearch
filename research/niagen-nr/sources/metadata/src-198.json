@@ -1,0 +1,23 @@
+{
+  "id": "src-198",
+  "title": "Nicotinamide mononucleotide supplementation reverses vascular dysfunction and oxidative stress with aging in mice",
+  "authors": [
+    "Picciotto, Natalie E. de",
+    "Gano, Lindsey B.",
+    "Johnson, Lawrence C.",
+    "Martens, Christopher R.",
+    "Sindler, Amy L.",
+    "Mills, Kathryn F.",
+    "Imai, Shin‐ichiro",
+    "Seals, Douglas R."
+  ],
+  "doi": "10.1111/acel.12461",
+  "url": "https://openalex.org/W2296761075",
+  "provider": "openalex",
+  "year": 2016,
+  "venue": "Aging Cell",
+  "citation_count": 384,
+  "abstract": "We tested the hypothesis that supplementation of nicotinamide mononucleotide (NMN), a key NAD(+) intermediate, increases arterial SIRT1 activity and reverses age-associated arterial dysfunction and oxidative stress. Old control mice (OC) had impaired carotid artery endothelium-dependent dilation (EDD) (60 ± 5% vs. 84 ± 2%), a measure of endothelial function, and nitric oxide (NO)-mediated EDD (37 ± 4% vs. 66 ± 6%), compared with young mice (YC). This age-associated impairment in EDD was restored in OC by the superoxide (O2-) scavenger TEMPOL (82 ± 7%). OC also had increased aortic pulse wave velocity (aPWV, 464 ± 31 cm s(-1) vs. 337 ± 3 cm s(-1) ) and elastic modulus (EM, 6407 ± 876 kPa vs. 3119 ± 471 kPa), measures of large elastic artery stiffness, compared with YC. OC had greater aortic O2- production (2.0 ± 0.1 vs. 1.0 ± 0.1 AU), nitrotyrosine abundance (a marker of oxidative stress), and collagen-I, and reduced elastin and vascular SIRT1 activity, measured by the acetylation status of the p65 subunit of NFκB, compared with YC. Supplementation with NMN in old mice restored EDD (86 ± 2%) and NO-mediated EDD (61 ± 5%), reduced aPWV (359 ± 14 cm s(-1) ) and EM (3694 ± 315 kPa), normalized O2- production (0.9 ± 0.1 AU), decreased nitrotyrosine, reversed collagen-I, increased elastin, and restored vascular SIRT1 activity. Acute NMN incubation in isolated aortas increased NAD(+) threefold and manganese superoxide dismutase (MnSOD) by 50%. NMN supplementation may represent a novel therapy to restore SIRT1 activity and reverse age-related arterial dysfunction by decreasing oxidative stress.",
+  "type": "academic",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/acel.12461"
+}

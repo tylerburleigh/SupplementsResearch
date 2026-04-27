@@ -1,0 +1,16 @@
+{
+  "id": "src-206",
+  "title": "Mixed Enzyme Systems for Delignification of Lignocellulosic Biomass",
+  "authors": [
+    "Woolridge, Elisa M."
+  ],
+  "doi": "10.3390/catal4010001",
+  "url": "https://openalex.org/W2113210820",
+  "provider": "openalex",
+  "year": 2014,
+  "venue": "Catalysts",
+  "citation_count": 64,
+  "abstract": "The application of enzymes such as laccase and xylanase for the preparation of cellulose from lignocellulosic material is an option for those industries seeking to reduce the use of chlorine-containing bleach agents, thus minimizing the environmental impact of their processes. Mixed hydrolytic and oxidative enzyme systems have been well described in the context of biopulping, and thus provide good precedent regarding effectiveness, despite the susceptibility of xylanase to inactivation by laccase-generated oxidants. This paper examines the progress towards development of sequential and simultaneous mixed enzyme systems to accomplish delignification.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2073-4344/4/1/1/pdf?version=1389011653"
+}

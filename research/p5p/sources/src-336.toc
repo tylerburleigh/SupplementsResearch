@@ -1,0 +1,6 @@
+15	2	1 Department of Rheumatology and Immunology, Xiangya Hospital, Central South
+17	2	2 Department of Cardiology, Xiangya Hospital, Central South University, Changsha,
+19	2	3 Department of Emergency Medicine, Xiangya Hospital, Central South University,
+330	2	Acknowledgments
+347	2	References
+355	2	3. Samarakoon N, Chang T, Gunasekara V , Ratnayake P ,

@@ -1,0 +1,23 @@
+{
+  "id": "src-101",
+  "title": "Nobiletin potentially reduce lipid accumulation by up-regulating the SIRT1-AMPK signaling pathway in HepG2 hepatocarcinoma cells.",
+  "authors": [
+    "Shokri-Afra, Hajar",
+    "Yousefi Abdolmaleki, Elham",
+    "Mousavi Sadr Jadidi, Elnaz Sadat",
+    "Oladi, Ziaeddin",
+    "Moradi-Sardareh, Hemen",
+    "Nabi Afjadi, Mohsen",
+    "Ilbeigi, Davod",
+    "Barmaki, Haleh"
+  ],
+  "doi": "10.1007/s11033-025-10587-z",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40413677",
+  "provider": "pubmed",
+  "year": 2025,
+  "venue": "Molecular biology reports",
+  "citation_count": 0,
+  "abstract": "BACKGROUND: The prevalence of nonalcoholic fatty liver disease (NAFLD) is rising at an alarming rate, making it a major global public health problem. The main pathophysiology of NAFLD is elevated de novo lipogenesis (DNL) in hepatocytes which leads to lipid accumulation. Because of their function in controlling DNL, sirtuin 1 (SIRT1) and AMP-activated protein kinase (AMPK) have been considered viable therapy targets for reduce lipid accumulation.\nMETHODS AND RESULTS: We examined the impact of the citrus flavonoid nobiletin (NOB) on the SIRT1-AMPK signaling pathway. This study involved incubating HepG2 cells with varying concentrations of NOB, measuring SIRT1 gene expression using qRT-PCR, assessing SIRT1 enzyme activity using a fluorometric assay, determining SIRT1 protein and AMPK phosphorylation levels by Western blotting, and measuring the lipid profile using semi- and quantitative assays. The results demonstrated that NOB significantly induced SIRT1 mRNA, protein expression, and activity similar to resveratrol (RSV) (as positive controls); additionally, NOB increased the phosphorylation of AMPK. EX-527 (negative control) significantly reversed the stimulatory effect of NOB on SIRT1 and AMPK. On the other hand, NOB decreased total lipid accumulation in cells exposed to oleic acid (OA) and reduced TG content to a normal level. However, the observed results on lipid profile were counteracted in the presence of EX-527.\nCONCLUSIONS: NOB might be a new therapeutic approach for lipid accumulation management due to inducing the SIRT1-AMPK signaling pathway, however, it requires further investigations.",
+  "type": "academic",
+  "pdf_url": ""
+}

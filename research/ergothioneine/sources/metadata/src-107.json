@@ -1,0 +1,31 @@
+{
+  "id": "src-107",
+  "title": "Prospective study of dietary mushroom intake and risk of mortality: results from continuous National Health and Nutrition Examination Survey (NHANES) 2003-2014 and a meta-analysis",
+  "authors": [
+    "Ba, Djibril M.",
+    "Gao, Xiang",
+    "Al-Shaar, Laila",
+    "Muscat, Joshua",
+    "Chinchilli, Vernon M.",
+    "Ssentongo, Paddy",
+    "Zhang, Xinyuan",
+    "Liu, Guodong",
+    "Beelman, Robert B.",
+    "Richie, John P."
+  ],
+  "year": 2021,
+  "abstract": "Abstract\nBackground\nWhether mushroom consumption, which is a rich source of potent antioxidants ergothioneine and glutathione, vitamins, and minerals (e.g., selenium &amp; copper), is associated with a lower mortality risk is not well understood. This study aimed to examine the association between mushroom consumption and risk of mortality in a prospective cohort study and a meta-analysis of prospective cohort studies.\n\nMethods\nWe followed 30,378 participants from the continuous National Health and Nutrition Examination Survey (NHANES) extant data (2003-2014). Dietary mushroom intake was assessed using up to two 24-h recalls. Mortality was evaluated in all participants linked to the National Death Index mortality data through December 31, 2015. We used Cox proportional hazards regression models to calculate multivariable-adjusted hazard ratios (HRs) and 95% confidence intervals (95% CIs). We also conducted a meta-analysis, including results from our present study and 4 other cohort studies.\n\nResults\nDuring a mean (SD) of 6.7 (3.4) years of follow-up, a total of 2855 death cases were documented among NHANES participants. In our analysis of continuous NHANES, we found a non-significant association between mushroom consumption and all-cause mortality (adjusted hazard ratio (HR) = 0.84; 95% CI: 0.67-1.06) after adjusting for demographic, major lifestyle factors, overall diet quality, and other dietary factors, including total energy. The meta-analysis of prospective cohort studies, including 601,893 individuals, showed that mushroom consumption was associated with a lower risk of all-cause mortality (pooled risk ratio: 0.94; 95% CI: 0.91, 0.98).\n\nConclusion\nIn a meta-analysis of prospective cohort studies, mushroom consumption was associated with a lower risk of all-cause mortality.",
+  "doi": "10.1186/s12937-021-00738-w",
+  "url": "https://doi.org/10.1186/s12937-021-00738-w",
+  "pdf_url": "",
+  "venue": "Nutrition Journal",
+  "citation_count": 27,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-20T00:20:33.830207+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok"
+}

@@ -1,0 +1,21 @@
+13	2	Abstract
+37	2	1 INTRODUCTION
+240	2	2 THEORETICAL FRAMEWORK
+291	2	2 On a fundamental level, the mixing seen in the numerical
+304	2	3 In practice, the mixing region contains a broad distributio n of
+382	2	4 There is some controversy in the literature over whether the
+462	2	3 COSMOLOGICALLY MOTIV ATED STREAM
+463	2	Proper Ties
+538	2	2. Assuming the stream and the hot halo are in pressure
+733	2	4 STREAM EVOLUTION AND ENERGY
+734	2	Dissip Ation In Dark Matter Halos
+751	3	4.1 Stream Survival in Halos
+850	3	4.2 Scaling of Properties Within the Halo
+962	3	4.3 Equations of Motion
+1072	3	4.4 Energy Dissipation and Radiation
+1199	3	4.5 Example Solutions
+1208	2	10. Cyan, red, and blue curves show solutions for
+1511	2	5 LIMITATIONS OF THE CURRENT MODEL
+1636	2	6 SUMMAR Y AND CONCLUSIONS
+1696	2	Acknowledgments
+1727	2	References

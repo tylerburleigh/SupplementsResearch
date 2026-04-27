@@ -1,0 +1,20 @@
+{
+  "id": "src-223",
+  "title": "The curcumin analog EF24 is a novel senolytic agent",
+  "authors": [
+    "Li, Wen",
+    "He, Yonghan",
+    "Zhang, Rongping",
+    "Zheng, Guangrong",
+    "Zhou, Daohong"
+  ],
+  "doi": "10.18632/aging.101787",
+  "url": "https://www.semanticscholar.org/paper/56abf2544de8b8d0da8d374ba70339e9a9c17636",
+  "provider": "semantic_scholar",
+  "year": 2019,
+  "venue": "Aging",
+  "citation_count": 136,
+  "abstract": "Cellular senescence is a hallmark of aging because senescent cells (SCs) accumulate with aging and play a causative role in age-related diseases. Selectively eliminating SCs has been emerging as a new strategy for treating age-related diseases and extending healthspan. Curcumin and its analogs have some anti-aging activities. However, the mechanisms of their action have not been fully elucidated. In the present study, we investigated whether various curcumin analogs can function as a senolytic agent. The results from our studies show that among these curcumin analogs EF24 is the most potent and broad-spectrum senolytic agent. Mechanistically, EF24 selectively kills SCs by inducing SC apoptosis in a reactive oxygen species (ROS) production independent manner but associated with an increase in the proteasome degradation of the Bcl-2 anti-apoptotic protein family proteins known to play an important role in protecting SCs from apoptosis. In addition, EF24 can synergistically kill SCs with ABT-263, a Bcl-2 and Bcl-xl inhibitor and a known senolytic agent. These findings provide new insights into the mechanisms by which curcumin analogs function as an anti-aging agent and suggest that the curcumin analog EF24 has the potential to be used as a novel senolytic agent for the treatment of age-related diseases.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.18632/aging.101787"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "src-256",
+  "title": "Creatine Supplementation During Resistance Training Does Not Lead to Greater Bone Mineral Density in Older Humans: A Brief Meta-Analysis",
+  "authors": [
+    "Forbes, Scott C.",
+    "Chilibeck, Philip D.",
+    "Candow, Darren G."
+  ],
+  "year": 2018,
+  "abstract": "",
+  "doi": "10.3389/fnut.2018.00027",
+  "url": "https://doi.org/10.3389/fnut.2018.00027",
+  "pdf_url": "",
+  "venue": "Frontiers in Nutrition",
+  "citation_count": 21,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T14:15:10.277079+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-256.md",
+  "quality_details": {
+    "content_length": 32468,
+    "alpha_ratio": 0.741,
+    "sentence_count": 321,
+    "reasons": []
+  }
+}

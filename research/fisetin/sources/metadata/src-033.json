@@ -1,0 +1,23 @@
+{
+  "id": "src-033",
+  "title": "Tubular cell senescence promotes maladaptive kidney repair and chronic kidney disease after cisplatin nephrotoxicity.",
+  "authors": [
+    "Li, Siyao",
+    "Livingston, Man J",
+    "Ma, Zhengwei",
+    "Hu, Xiaoru",
+    "Wen, Lu",
+    "Ding, Han-Fei",
+    "Zhou, Daohong",
+    "Dong, Zheng"
+  ],
+  "doi": "10.1172/jci.insight.166643",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36917180",
+  "provider": "pubmed",
+  "year": 2023,
+  "venue": "JCI insight",
+  "citation_count": 0,
+  "abstract": "Cisplatin is a widely used chemotherapy drug; however, it induces both acute and chronic kidney diseases (CKD) in patients with cancer. The pathogenesis of cisplatin-induced CKD is unclear, and effective renoprotective approaches are not available. Here, we report that repeated low-dose cisplatin (RLDC) treatment of C57BL/6 mice induced chronic cellular senescence in kidney tubules, accompanied with tubular degeneration and profibrotic phenotype transformation that culminated in maladaptive repair and renal fibrosis. Suppression of tubular senescence by senolytic drugs ABT-263 and Fisetin attenuated renal fibrosis and improved tubular repair, as indicated by restoration of tubular regeneration and renal function. In vitro, RLDC also induced senescence in mouse proximal tubular (BUMPT) cells. ABT-263 eliminated senescent BUMPT cells following RLDC treatment, reversed the profibrotic phenotype of the cells, and increased their clonogenic activity. Moreover, ABT-263 alleviated the paracrine effect of RLDC-treated BUMPT cells on fibroblasts for fibrosis. Consistently, knockdown of p16 suppressed post-RLDC senescence and fibrotic changes in BUMPT cells and alleviated their paracrine effects on renal fibroblast proliferation. These results indicate that persistent induction of tubular senescence plays an important role in promoting cisplatin-induced CKD. Targeting senescent tubular cells may be efficient for improvement of kidney repair and for the prevention and treatment of cisplatin-induced CKD.",
+  "type": "academic",
+  "pdf_url": ""
+}

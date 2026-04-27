@@ -1,0 +1,29 @@
+{
+  "id": "src-009",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://insights.tessmed.com/joint-curcumin-supplement-tsr",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-22T14:30:59.152494+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-009.md",
+  "quality_details": {
+    "content_length": 7409,
+    "alpha_ratio": 0.815,
+    "sentence_count": 57,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "src-032",
+  "title": "Autophagy in healthy aging and disease",
+  "authors": [
+    "Aman, Yahyah",
+    "Schmauck-Medina, Tomas",
+    "Hansen, Malene",
+    "Morimoto, Richard I.",
+    "Simon, Anna Katharina",
+    "Bjedov, Ivana",
+    "Palikaras, Konstantinos",
+    "Simonsen, Anne",
+    "Johansen, Terje",
+    "Tavernarakis, Nektarios",
+    "Rubinsztein, David C.",
+    "Partridge, Linda",
+    "Kroemer, Guido",
+    "Labbadia, John",
+    "Fang, Evandro F."
+  ],
+  "year": 2021,
+  "abstract": "",
+  "doi": "10.1038/s43587-021-00098-4",
+  "url": "https://doi.org/10.1038/s43587-021-00098-4",
+  "pdf_url": "",
+  "venue": "Nature Aging",
+  "citation_count": 1127,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-26T22:38:38.416786+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-032.md",
+  "quality_details": {
+    "content_length": 59314,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

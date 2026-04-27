@@ -1,0 +1,29 @@
+{
+  "id": "src-008",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://www.tandfonline.com/doi/full/10.1080/13685538.2017.1367922",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-25T14:52:42.428620+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-008.md",
+  "quality_details": {
+    "content_length": 24899,
+    "alpha_ratio": 0.768,
+    "sentence_count": 239,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

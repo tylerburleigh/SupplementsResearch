@@ -1,0 +1,28 @@
+{
+  "id": "src-346",
+  "title": "(-)-Epigallocatechin 3-gallate protects pancreatic β-cell against excessive autophagy-induced injury through promoting FTO degradation",
+  "authors": [
+    "Shao, Yixue",
+    "Zhang, Yuhan",
+    "Zou, Suyun",
+    "Wang, Jianan",
+    "Li, Xirui",
+    "Qin, Miao",
+    "Sun, Liangjun",
+    "Yin, Wenyue",
+    "Chang, X.",
+    "Wang, Shusen",
+    "Han, Xiao",
+    "Wu, Tijun",
+    "Chen, Fang"
+  ],
+  "doi": "10.1080/15548627.2024.2370751",
+  "url": "https://www.semanticscholar.org/paper/1441cf99349bb031e21cab3c57216e4046faca01",
+  "provider": "semantic_scholar",
+  "year": 2024,
+  "venue": "Autophagy",
+  "citation_count": 22,
+  "abstract": "ABSTRACT Excessive macroautophagy/autophagy leads to pancreatic β-cell failure that contributes to the development of diabetes. Our previous study proved that the occurrence of deleterious hyperactive autophagy attributes to glucolipotoxicity-induced NR3C1 activation. Here, we explored the potential protective effects of (-)-epigallocatechin 3-gallate (EGCG) on β-cell-specific NR3C1 overexpression mice in vivo and NR3C1-enhanced β cells in vitro. We showed that EGCG protects pancreatic β cells against NR3C1 enhancement-induced failure through inhibiting excessive autophagy. RNA demethylase FTO (FTO alpha-ketoglutarate dependent dioxygenase) caused diminished m6A modifications on mRNAs of three pro-oxidant genes (Tlr4, Rela, Src) and, hence, oxidative stress occurs; by contrast, EGCG promotes FTO degradation by the ubiquitin-proteasome system in NR3C1-enhanced β cells, which alleviates oxidative stress, and thereby prevents excessive autophagy. Moreover, FTO overexpression abolishes the beneficial effects of EGCG on β cells against NR3C1 enhancement-induced damage. Collectively, our results demonstrate that EGCG protects pancreatic β cells against NR3C1 enhancement-induced excessive autophagy through suppressing FTO-stimulated oxidative stress, which provides novel insights into the mechanisms for the anti-diabetic effect of EGCG. Abbreviation 3-MA: 3-methyladenine; AAV: adeno-associated virus; Ad: adenovirus; ALD: aldosterone; AUC: area under curve; βNR3C1 mice: pancreatic β-cell-specific NR3C1 overexpression mice; Ctrl: control; CHX: cycloheximide; DEX: dexamethasone; DHE: dihydroethidium; EGCG: (-)-epigallocatechin 3-gallate; FTO: FTO alpha-ketoglutarate dependent dioxygenase; GSIS: glucose-stimulated insulin secretion; HFD: high-fat diet; HG: high glucose; i.p.: intraperitoneal; IOD: immunofluorescence optical density; KSIS: potassium-stimulated insulin secretion; m6A: N6-methyladenosine; MeRIP-seq: methylated RNA immunoprecipitation sequencing; NO: nitric oxide; NR3C1/GR: nuclear receptor subfamily 3, group C, member 1; NR3C1-Enhc.: NR3C1-enhancement; NAC: N-acetylcysteine; NC: negative control; PBS: phosphate-buffered saline; PI: propidium iodide; OCR: oxygen consumption rate; Palm.: palmitate; RELA: v-rel reticuloendotheliosis viral oncogene homolog A (avian); RNA-seq: RNA sequencing; O2.-: superoxide anion; SRC: Rous sarcoma oncogene; ROS: reactive oxygen species; T2D: type 2 diabetes; TEM: transmission electron microscopy; TLR4: toll-like receptor 4; TUNEL: terminal dUTP nick-end labeling; UTR: untranslated region; WT: wild-type.",
+  "type": "academic",
+  "pdf_url": ""
+}

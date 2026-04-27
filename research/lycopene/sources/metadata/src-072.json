@@ -1,0 +1,38 @@
+{
+  "id": "src-072",
+  "title": "Associations Between Polymorphisms in Genes Related to Oxidative Stress and DNA Repair, Interactions With Serum Antioxidants, and Prostate Cancer Risk: Results From the Prostate Cancer Prevention Trial",
+  "authors": [
+    "Gong, Zhihong",
+    "Platek, Mary E.",
+    "Till, Cathee",
+    "Goodman, Phyllis J.",
+    "Tangen, Catherine M.",
+    "Platz, Elizabeth A.",
+    "Neuhouser, Marian L.",
+    "Thompson, Ian M.",
+    "Santella, Regina M.",
+    "Ambrosone, Christine B."
+  ],
+  "year": 2022,
+  "abstract": "Study of polymorphisms in genes related to the generation and removal of oxidative stress and repair of oxidative DNA damage will lead to new insights into the genetic basis of prostate cancer. In the Prostate Cancer Prevention Trial (PCPT), a double-blind, randomized controlled trial testing finasteride versus placebo for prostate cancer prevention, we intend to investigate the role of oxidative stress/DNA repair mechanisms in prostate cancer etiology and whether these polymorphisms modify prostate cancer risk by interacting with antioxidant status in both placebo and finasteride arms. We evaluated associations of selected candidate polymorphisms in genes in these pathways, and interactions with pre-diagnostic serum antioxidants, and the risk of prostate cancer among 1,598 cases and 1,706 frequency-matched controls enrolled in the PCPT. Odds ratios (ORs) and 95% confidence intervals (CIs) were estimated using multivariable-adjusted logistic regression models. While there were no statistically significant associations observed in the placebo arm, several SNPs were associated with prostate cancer in the finasteride arm. Specifically, APEX1-rs1760944 was associated with increased risk of total prostate cancer (per minor allele: p-trend=0.04). OGG1-rs1052133 was positively (CG/GG vs. CC: OR=1.32, 95% CI: 1.01-1.73) and NOS3-rs1799983 was inversely (per minor allele: p-trend=0.04) associated with risk of low-grade prostate cancer. LIG3-rs1052536 and XRCC1-rs25489 were suggestively associated with reduced risk of high-grade prostate cancer (per minor allele: both p-trend=0.04). In the placebo arm, significant associations were observed among men with higher serum lycopene for APEX1-rs1760944 and NQO1-rs1800566, or higher serum β-cryptoxanthin for ERCC4-rs1800067. In the finasteride arm, stronger associations were observed among men with lower serum lycopene for NOS3-rs1799983, higher serum α-carotene, β-carotene, and β-cryptoxanthin for LIG3-rs1052536, or lower serum retinol for SOD2-rs1799725. These results suggest that germline variations in oxidative stress and DNA repair pathways may contribute to prostate carcinogenesis and that these associations may differ by intraprostatic sex steroid hormone status and be further modified by antioxidant status. Findings provide insights into the complex role of gene, gene-antioxidant and -finasteride interactions in prostate cancer etiology, and thus may lead to the development of preventative strategies.",
+  "doi": "10.3389/fonc.2021.808715",
+  "url": "https://doi.org/10.3389/fonc.2021.808715",
+  "pdf_url": "",
+  "venue": "Frontiers in Oncology",
+  "citation_count": 11,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-19T18:37:44.900540+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-072.md",
+  "quality_details": {
+    "content_length": 49213,
+    "alpha_ratio": 0.692,
+    "sentence_count": 438,
+    "reasons": []
+  }
+}

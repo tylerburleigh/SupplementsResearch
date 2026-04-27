@@ -1,0 +1,18 @@
+{
+  "id": "src-045",
+  "title": "Evaluating the Protective Role of Vitamin A Supplementation in Periodontal Health: A Comprehensive Systematic Review and Meta-Analysis",
+  "authors": [
+    "Luca, M.",
+    "Buzatu, Roxana",
+    "Bumbu, B. A."
+  ],
+  "doi": "10.3390/jcm13164775",
+  "url": "https://www.semanticscholar.org/paper/ac030e91ffce8eb4e54b96bac8b41c5aa57f880b",
+  "provider": "semantic_scholar",
+  "year": 2024,
+  "venue": "Journal of Clinical Medicine",
+  "citation_count": 6,
+  "abstract": "Background: Recent studies suggest a potential role for vitamin A supplementation in improving periodontal health, though evidence remains inconclusive. This systematic review and meta-analysis aimed to evaluate the protective role of vitamin A supplementation on periodontal health, focusing on outcomes such as gingival inflammation, pocket depth reduction, and alveolar bone preservation. Methods: A literature search was conducted in PubMed, Scopus, and Web of Science up until May 2024, adhering to strict inclusion criteria that required studies to involve human participants diagnosed with periodontal diseases and to assess the impact of vitamin A through dietary intake or supplementation. This review excluded studies not explicitly focused on vitamin A and those lacking clear, quantifiable outcomes. The risk of bias was assessed using the Newcastle–Ottawa Scale for observational studies and the Cochrane Collaboration’s tool for randomized controlled trials. Meta-analysis was performed to synthesize data and quantify the effectiveness of vitamin A on periodontal health outcomes. Results: A total of six studies were included in the final analysis with a total of 50,722 participants. The meta-analysis revealed a pooled odds ratio (OR) of 0.97 (95% CI: 0.94–1.00) for the association between vitamin A supplementation and periodontal health, indicating a slight protective effect. Notably, two high-quality studies reported ORs of 0.92 (95% CI: 0.85–1.00) and 0.83 (95% CI: 0.69–1.00), respectively, suggesting a potential reduction in periodontal disease risk with sufficient vitamin A levels. However, high heterogeneity (I2 = 86.93%) across studies indicates variability in outcomes, possibly influenced by demographic and lifestyle factors. Conclusions: Vitamin A supplementation may offer a marginal protective effect against periodontal disease, although results vary significantly across different populations and study designs. Further research is needed to clarify these relationships and to explore the mechanisms through which vitamin A influences periodontal health, considering the high degree of observed heterogeneity.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.3390/jcm13164775"
+}

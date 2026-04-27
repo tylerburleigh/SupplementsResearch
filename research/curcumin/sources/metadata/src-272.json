@@ -1,0 +1,23 @@
+{
+  "id": "src-272",
+  "title": "Chronic diseases, inflammation, and spices: how are they linked?",
+  "authors": [
+    "Kunnumakkara, Ajaikumar B.",
+    "Sailo, Bethsebie Lalduhsaki",
+    "Banik, Kishore",
+    "Harsha, Choudhary",
+    "Prasad, Sahdeo",
+    "Gupta, Subash C.",
+    "Bharti, Alok C.",
+    "Aggarwal, Bharat B."
+  ],
+  "doi": "10.1186/s12967-018-1381-2",
+  "url": "https://openalex.org/W2792738411",
+  "provider": "openalex",
+  "year": 2018,
+  "venue": "Journal of Translational Medicine",
+  "citation_count": 330,
+  "abstract": "Extensive research within the last several decades has revealed that the major risk factors for most chronic diseases are infections, obesity, alcohol, tobacco, radiation, environmental pollutants, and diet. It is now well established that these factors induce chronic diseases through induction of inflammation. However, inflammation could be either acute or chronic. Acute inflammation persists for a short duration and is the host defense against infections and allergens, whereas the chronic inflammation persists for a long time and leads to many chronic diseases including cancer, cardiovascular diseases, neurodegenerative diseases, respiratory diseases, etc. Numerous lines of evidence suggest that the aforementioned risk factors induced cancer through chronic inflammation. First, transcription factors NF-κB and STAT3 that regulate expression of inflammatory gene products, have been found to be constitutively active in most cancers; second, chronic inflammation such as pancreatitis, prostatitis, hepatitis etc. leads to cancers; third, activation of NF-κB and STAT3 leads to cancer cell proliferation, survival, invasion, angiogenesis and metastasis; fourth, activation of NF-κB and STAT3 leads to resistance to chemotherapy and radiation, and hypoxia and acidic conditions activate these transcription factors. Therefore, targeting these pathways may provide opportunities for both prevention and treatment of cancer and other chronic diseases. We will discuss in this review the potential of various dietary agents such as spices and its components in the suppression of inflammatory pathways and their roles in the prevention and therapy of cancer and other chronic diseases. In fact, epidemiological studies do indicate that cancer incidence in countries such as India where spices are consumed daily is much lower (94/100,000) than those where spices are not consumed such as United States (318/100,000), suggesting the potential role of spices in cancer prevention.",
+  "type": "academic",
+  "pdf_url": "https://translational-medicine.biomedcentral.com/track/pdf/10.1186/s12967-018-1381-2"
+}

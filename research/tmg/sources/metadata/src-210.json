@@ -1,0 +1,16 @@
+{
+  "id": "src-210",
+  "title": "Homocysteine and cardiovascular disease: a review of the evidence",
+  "authors": [
+    "Wierzbicki, Anthony S."
+  ],
+  "doi": "10.3132/dvdr.2007.033",
+  "url": "https://openalex.org/W2144393300",
+  "provider": "openalex",
+  "year": 2007,
+  "venue": "Diabetes and Vascular Disease Research",
+  "citation_count": 288,
+  "abstract": "Elevated homocysteine (HCY) levels can be caused by a number of factors, including folate and B-vitamin deficiency, pre-existing atherosclerotic disease, diabetes and various drugs. Epidemiological evidence, as well as data from retrospective and prospective studies, supports an association between elevated HCY levels and increased risk of cardiovascular disease (CVD). However, whether lowering HCY levels by administration of folate and vitamins B6 and B12 is associated with any significant decrease in vascular risk remains the subject of ongoing debate. Although the major studies that have reported to date show that vitamin supplementation was associated with a decrease in HCY levels, this failed to have any significant effect on cardiovascular risk. Furthermore, although some lipid-modifying treatments have been shown to increase HCY levels, there is no evidence that this attenuates or compromises the beneficial effects of such treatments on cardiovascular risk. Taken together, these data suggest that HCY is a marker, rather than a cause, of CVD and therefore do not provide support for routine screening for and treatment of elevated HCY to prevent CVD. Data from ongoing clinical trials are awaited to clarify this issue.",
+  "type": "academic",
+  "pdf_url": ""
+}

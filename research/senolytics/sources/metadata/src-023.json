@@ -1,0 +1,37 @@
+{
+  "id": "src-023",
+  "title": "A human neuron Alzheimer’s disease model reveals barriers to senolytic translatability",
+  "authors": [
+    "Walton, Chaska C.",
+    "Wang, Ellen",
+    "Lee, Suckwon",
+    "Siebrand, Cynthia J.",
+    "Bergo, Nicholas J.",
+    "Mayeri, Zachary",
+    "Andersen, Julie K."
+  ],
+  "year": 2025,
+  "abstract": "",
+  "doi": "10.1186/s13195-025-01822-7",
+  "url": "https://doi.org/10.1186/s13195-025-01822-7",
+  "pdf_url": "",
+  "venue": "Alzheimer's Research &amp; Therapy",
+  "citation_count": 6,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-22T19:48:09.285311+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-023.md",
+  "quality_details": {
+    "content_length": 139940,
+    "alpha_ratio": 0.701,
+    "sentence_count": 1720,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "src-239",
+  "title": "Sequential multi-omics analysis identifies clinical phenotypes and predictive biomarkers for long COVID",
+  "authors": [
+    "Wang, Kaiming",
+    "Khoramjoo, Mobin",
+    "Srinivasan, Karthik K.",
+    "Gordon, Paul M. K.",
+    "Mandal, Rupasri",
+    "Jackson, D. Michael",
+    "Sligl, Wendy",
+    "Grant, Maria B.",
+    "Penninger, Josef",
+    "Borchers, Christoph H.",
+    "Wishart, David S.",
+    "Prasad, Vinay",
+    "Oudit, Gavin Y."
+  ],
+  "doi": "10.1016/j.xcrm.2023.101254",
+  "url": "https://openalex.org/W4387996831",
+  "provider": "openalex",
+  "year": 2023,
+  "venue": "Cell Reports Medicine",
+  "citation_count": 66,
+  "abstract": "The post-acute sequelae of COVID-19 (PASC), also known as long COVID, is often associated with debilitating symptoms and adverse multisystem consequences. We obtain plasma samples from 117 individuals during and 6 months following their acute phase of infection to comprehensively profile and assess changes in cytokines, proteome, and metabolome. Network analysis reveals sustained inflammatory response, platelet degranulation, and cellular activation during convalescence accompanied by dysregulation in arginine biosynthesis, methionine metabolism, taurine metabolism, and tricarboxylic acid (TCA) cycle processes. Furthermore, we develop a prognostic model composed of 20 molecules involved in regulating T cell exhaustion and energy metabolism that can reliably predict adverse clinical outcomes following discharge from acute infection with 83% accuracy and an area under the curve (AUC) of 0.96. Our study reveals pertinent biological processes during convalescence that differ from acute infection, and it supports the development of specific therapies and biomarkers for patients suffering from long COVID.",
+  "type": "academic",
+  "pdf_url": "http://www.cell.com/article/S2666379123004317/pdf"
+}

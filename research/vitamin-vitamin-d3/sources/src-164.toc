@@ -1,0 +1,12 @@
+8	2	Abstract
+28	2	Introduction
+85	2	Methods
+191	2	Results
+228	2	Discussion
+308	2	Analysis
+429	2	Acknowledgements
+449	2	Competing Interests
+461	2	References
+462	2	1. Pittas AG, Dawson-Hughes B, Li T, Van Dam RM, Willett WC, Manson JE,
+465	2	2. Pittas AG, Dawson-Hughes B, Sheehan P, Ware JH, Knowler WC, Aroda VR,
+476	2	6. Verdoia M, Schaffer A, Barbieri L, Di Giovine G, Marino P, Suryapranata H,

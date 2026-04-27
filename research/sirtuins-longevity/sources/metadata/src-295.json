@@ -1,0 +1,23 @@
+{
+  "id": "src-295",
+  "title": "Mitochondrial clearance and increased HSF-1 activity are coupled to promote longevity in fasted Caenorhabditis elegans",
+  "authors": [
+    "Tataridas-Pallas, Nikolaos",
+    "Aman, Yahyah",
+    "Williams, Rhianna",
+    "Chapman, H.",
+    "Cheng, Kevin J.H.",
+    "Gomez-Paredes, Casandra",
+    "Bates, Gillian P.",
+    "Labbadia, Johnathan"
+  ],
+  "doi": "10.1016/j.isci.2024.109834",
+  "url": "https://www.semanticscholar.org/paper/bfd4efd6b102b0835ffc13e0a855a387a5425a10",
+  "provider": "semantic_scholar",
+  "year": 2024,
+  "venue": "iScience",
+  "citation_count": 2,
+  "abstract": "Summary Fasting has emerged as a potent means of preserving tissue function with age in multiple model organisms. However, our understanding of the relationship between food removal and long-term health is incomplete. Here, we demonstrate that in the nematode worm Caenorhabditis elegans, a single period of early-life fasting is sufficient to selectively enhance HSF-1 activity, maintain proteostasis capacity and promote longevity without compromising fecundity. These effects persist even when food is returned, and are dependent on the mitochondrial sirtuin, SIR-2.2 and the H3K27me3 demethylase, JMJD-3.1. We find that increased HSF-1 activity upon fasting is associated with elevated SIR-2.2 levels, decreased mitochondrial copy number and reduced H3K27me3 levels at the promoters of HSF-1 target genes. Furthermore, consistent with our findings in worms, HSF-1 activity is also enhanced in muscle tissue from fasted mice, suggesting that the potentiation of HSF-1 is a conserved response to food withdrawal.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.1016/j.isci.2024.109834"
+}

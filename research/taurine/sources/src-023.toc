@@ -1,0 +1,12 @@
+6	2	Abstract
+30	2	Background
+470	2	Materials And Methods
+772	2	Discussion
+1464	2	Conclusions
+1606	2	Acknowledgements
+1626	2	Competing Interests
+1634	2	References
+1712	2	24. Ghandforoush-Sattari M, Mashayekhi S, Krishna CV, Thompson JP, Routledge
+1821	2	60. Ribeiro RA, Vanzela EC, Oliveira CAM, Bonfleur ML, Boschero AC, Carneiro
+1847	2	68. Shimomura Y, Inaguma A, Watanabe S, Yamamoto Y, Muramatsu Y, Bajotto
+1880	2	77. Vettorazzi JF, Ribeiro RA, Santos-Silva JC, Borck PC, Batista TM, Nardelli TR,

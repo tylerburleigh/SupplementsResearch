@@ -1,0 +1,20 @@
+{
+  "id": "src-124",
+  "title": "Nanocarrier Drug Delivery Systems: Characterization, Limitations, Future Perspectives and Implementation of Artificial Intelligence",
+  "authors": [
+    "Alshawwa, Samar Zuhair",
+    "Kassem, Abeer Ahmed",
+    "Farid, Ragwa M.",
+    "Mostafa, Shaimaa K.",
+    "Labib, Gihan S."
+  ],
+  "doi": "10.3390/pharmaceutics14040883",
+  "url": "https://openalex.org/W4224214472",
+  "provider": "openalex",
+  "year": 2022,
+  "venue": "Pharmaceutics",
+  "citation_count": 430,
+  "abstract": "There has been an increasing demand for the development of nanocarriers targeting multiple diseases with a broad range of properties. Due to their tiny size, giant surface area and feasible targetability, nanocarriers have optimized efficacy, decreased side effects and improved stability over conventional drug dosage forms. There are diverse types of nanocarriers that have been synthesized for drug delivery, including dendrimers, liposomes, solid lipid nanoparticles, polymersomes, polymer-drug conjugates, polymeric nanoparticles, peptide nanoparticles, micelles, nanoemulsions, nanospheres, nanocapsules, nanoshells, carbon nanotubes and gold nanoparticles, etc. Several characterization techniques have been proposed and used over the past few decades to control and predict the behavior of nanocarriers both in vitro and in vivo. In this review, we describe some fundamental in vitro, ex vivo, in situ and in vivo characterization methods for most nanocarriers, emphasizing their advantages and limitations, as well as the safety, regulatory and manufacturing aspects that hinder the transfer of nanocarriers from the laboratory to the clinic. Moreover, integration of artificial intelligence with nanotechnology, as well as the advantages and problems of artificial intelligence in the development and optimization of nanocarriers, are also discussed, along with future perspectives.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/1999-4923/14/4/883/pdf?version=1650350771"
+}

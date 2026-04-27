@@ -1,0 +1,19 @@
+{
+  "id": "src-348",
+  "title": "Analysis of the nischarin expression across human tumor types reveals its context-dependent role and a potential as a target for drug repurposing in oncology",
+  "authors": [
+    "Ostojić, Marija",
+    "Đurić, Ana",
+    "Živić, K.",
+    "Grahovac, Jelena"
+  ],
+  "doi": "10.1371/journal.pone.0299685",
+  "url": "https://www.semanticscholar.org/paper/e05d45f75cf4e9617219a10072ecec8fd61ff2d3",
+  "provider": "semantic_scholar",
+  "year": 2024,
+  "venue": "PLoS ONE",
+  "citation_count": 1,
+  "abstract": "Nischarin was reported to be a tumor suppressor that plays a critical role in breast cancer initiation and progression, and a positive prognostic marker in breast, ovarian and lung cancers. Our group has found that nischarin had positive prognostic value in female melanoma patients, but negative in males. This opened up a question whether nischarin has tumor type-specific and sex-dependent roles in cancer progression. In this study, we systematically examined in the public databases the prognostic value of nischarin in solid tumors, regulation of its expression and associated signaling pathways. We also tested the effects of a nischarin agonist rilmenidine on cancer cell viability in vitro. Nischarin expression was decreased in tumors compared to the respective healthy tissues, most commonly due to the deletions of the nischarin gene and promoter methylation. Unlike in healthy tissues where it was located in the cytoplasm and at the membrane, in tumor tissues nischarin could also be observed in the nuclei, implying that nuclear translocation may also account for its cancer-specific role. Surprisingly, in several cancer types high nischarin expression was a negative prognostic marker. Gene set enrichment analysis showed that in tumors in which high nischarin expression was a negative prognostic marker, signaling pathways that regulate stemness were enriched. In concordance with the findings that nischarin expression was negatively associated with pathways that control cancer growth and progression, nischarin agonist rilmenidine decreased the viability of cancer cells in vitro. Taken together, our study lays a ground for functional studies of nischarin in a context-dependent manner and, given that nischarin has several clinically approved agonists, provides rationale for their repurposing, at least in tumors in which nischarin is predicted to be a positive prognostic marker.",
+  "type": "academic",
+  "pdf_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0299685&type=printable"
+}

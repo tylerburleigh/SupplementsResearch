@@ -1,0 +1,21 @@
+{
+  "id": "src-363",
+  "title": "The origin of ferritin reference intervals: a systematic review.",
+  "authors": [
+    "Truong, Judy",
+    "Naveed, Kanza",
+    "Beriault, Daniel",
+    "Lightfoot, David",
+    "Fralick, Michael",
+    "Sholzberg, Michelle"
+  ],
+  "doi": "10.1016/s2352-3026(24)00103-0",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38937026",
+  "provider": "pubmed",
+  "year": 2024,
+  "venue": "The Lancet. Haematology",
+  "citation_count": 0,
+  "abstract": "Iron deficiency is a highly prevalent condition, which contributes to unnecessary morbidity, mortality, and health inequity. A serum ferritin concentration of less than 30 μg/L has a high specificity and sensitivity for diagnosing iron deficiency in adults, but the laboratory reported lower limit of normal (LLN) is typically lower. These LLNs might not be rooted in rigorous scientific evidence and might be contributing to structural underdiagnosis of iron deficiency. A systematic review was done per systematic reviews and meta-analysis guidelines with the use of medical literature databases from inception of each database to Nov 30, 2021, to identify studies that determined ferritin reference intervals in healthy adults and grey literature search for the five most common ferritin assays (registration number CRD42022268844). The objectives were to systematically summarise the ferritin reference intervals and to do a methodological quality assessment of the included studies. 2306 studies were screened and 61 full texts were included. 37 studies were eligible for analysis of the ferritin LLN in the general population. The population the sample was comprised of was a total of 21 882 females and 23 650 males participants. The ferritin LLN was a median of 8 μg/L (IQR 5-15) and mean of 9 μg/L (SD 11) in females and a median of 25 μg/L (IQR 16-44) and mean of 25 μg/L (SD 29) in males. 30 (49%) of 61 studies did not explicitly screen for patients at risk of iron deficiency, and 32 (52%) did not refer to a reference interval establishment guideline (eg, guideline recommended by Clinical and Laboratory Standards Institute). The five most used commercial ferritin laboratory assays reported reference intervals with a median LLN of 11 (IQR 9-12) and mean of 9 μg/L (SD 4) for females and median of 22 (IQR 22-24) and mean of 23 μg/L (SD 4) for males. In the literature, serum ferritin reference intervals in healthy adults consistently report a LLN of less than 30 μg/L. Data driving these ferritin reference intervals are at high risk of bias, given no exclusion of individuals at risk for iron deficiency in the presumed normal population sample and no adherence to reference interval establishment standards. We suggest the use of evidence-based laboratory clinical decision limits to diagnose iron deficiency.",
+  "type": "academic",
+  "pdf_url": ""
+}

@@ -1,0 +1,40 @@
+{
+  "id": "src-082",
+  "title": "Interleukin-6 and C-reactive protein, successful aging, and mortality: the PolSenior study",
+  "authors": [
+    "Puzianowska-Kuźnicka, Monika",
+    "Owczarz, Magdalena",
+    "Wieczorowska-Tobis, Katarzyna",
+    "Nadrowski, Pawel",
+    "Chudek, Jerzy",
+    "Slusarczyk, Przemyslaw",
+    "Skalska, Anna",
+    "Jonas, Marta",
+    "Franek, Edward",
+    "Mossakowska, Malgorzata"
+  ],
+  "year": 2016,
+  "abstract": "",
+  "doi": "10.1186/s12979-016-0076-x",
+  "url": "https://doi.org/10.1186/s12979-016-0076-x",
+  "pdf_url": "",
+  "venue": "Immunity &amp; Ageing",
+  "citation_count": 377,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-24T01:08:52.704091+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-082.md",
+  "quality_details": {
+    "content_length": 58863,
+    "alpha_ratio": 0.669,
+    "sentence_count": 485,
+    "reasons": [
+      "paywall_page (access this article)"
+    ]
+  }
+}

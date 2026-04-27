@@ -1,0 +1,18 @@
+{
+  "id": "src-237",
+  "title": "Does the High Prevalence of Vitamin D Deficiency in African Americans Contribute to Health Disparities?",
+  "authors": [
+    "Ames, Bruce N.",
+    "Grant, William B.",
+    "Willett, Walter C."
+  ],
+  "doi": "10.3390/nu13020499",
+  "url": "https://openalex.org/W3127225653",
+  "provider": "openalex",
+  "year": 2021,
+  "venue": "Nutrients",
+  "citation_count": 130,
+  "abstract": "African Americans have higher incidence of, and mortality from, many health-related problems than European Americans. They also have a 15 to 20-fold higher prevalence of severe vitamin D deficiency. Here we summarize evidence that: (i) this health disparity is partly due to insufficient vitamin D production, caused by melanin in the skin blocking the UVB solar radiation necessary for its synthesis; (ii) the vitamin D insufficiency is exacerbated at high latitudes because of the combination of dark skin color with lower UVB radiation levels; and (iii) the health of individuals with dark skin can be markedly improved by correcting deficiency and achieving an optimal vitamin D status, as could be obtained by supplementation and/or fortification. Moderate-to-strong evidence exists that high 25-hydroxyvitamin D levels and/or vitamin D supplementation reduces risk for many adverse health outcomes including all-cause mortality rate, adverse pregnancy and birth outcomes, cancer, diabetes mellitus, Alzheimer's disease and dementia, multiple sclerosis, acute respiratory tract infections, COVID-19, asthma exacerbations, rickets, and osteomalacia. We suggest that people with low vitamin D status, which would include most people with dark skin living at high latitudes, along with their health care provider, consider taking vitamin D<sub>3</sub> supplements to raise serum 25-hydroxyvitamin D levels to 30 ng/mL (75 nmol/L) or possibly higher.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2072-6643/13/2/499/pdf?version=1612425860"
+}

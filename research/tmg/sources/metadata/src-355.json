@@ -1,0 +1,28 @@
+{
+  "id": "src-355",
+  "title": "Dietary Intervention Modifies DNA Methylation Age Assessed by the Epigenetic Clock",
+  "authors": [
+    "Sae‐Lee, Chanachai",
+    "Corsi, Sarah",
+    "Barrow, Timothy M.",
+    "Kuhnle, Gunter G. C.",
+    "Bollati, Valentina",
+    "Mathers, John C.",
+    "Byun, Hyang‐Min"
+  ],
+  "year": 2018,
+  "abstract": "ScopeAlterations in DNA methylation patterns are correlated with aging, environmental exposures, and disease pathophysiology; the possibility of reverting or preventing these processes through dietary intervention is gaining momentum. In particular, methyl donors that provide S‐adenosyl‐methionine for one‐carbon metabolism and polyphenols such as flavanols that inhibit the activity of DNA methyltransferases (DNMTs) can be key modifiers of epigenetic patterns.Methods and resultsDNA methylation patterns are assessed in publicly available Illumina Infinium 450K methylation datasets from intervention studies with either folic acid + vitamin B12 (GSE74548) or monomeric and oligomeric flavanols (MOF) (GSE54690) in 44 and 13 participants, respectively. Global DNA methylation levels are increased in unmethylated regions such as CpG islands and shores following folic acid + vitamin B12 supplementation and decreased in highly methylated regions, including shelves and open‐seas, following intervention with MOF. After supplementation with folic acid + vitamin B12, epigenetic age, estimated by the Horvath “epigenetic clock” model, is reduced in women with the MTHFR 677CC genotype.ConclusionsThe effects of supplementation with folic acid + vitamin B12 and MOF on DNA methylation age are dependent upon gender and MTHFR genotype. Additionally, the findings demonstrate the potential for these dietary factors to modulate global DNA methylation profiles.",
+  "doi": "10.1002/mnfr.201800092",
+  "url": "https://doi.org/10.1002/mnfr.201800092",
+  "pdf_url": "",
+  "venue": "Molecular Nutrition &amp; Food Research",
+  "citation_count": 111,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-20T18:56:56.848515+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok"
+}

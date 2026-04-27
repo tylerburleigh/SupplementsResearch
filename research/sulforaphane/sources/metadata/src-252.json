@@ -1,0 +1,21 @@
+{
+  "id": "src-252",
+  "title": "Iron homeostasis and ferroptosis in human diseases: mechanisms and therapeutic prospects",
+  "authors": [
+    "Ru, Qin",
+    "Li, Yusheng",
+    "Chen, Lin",
+    "Wu, Yuxiang",
+    "Min, Junxia",
+    "Wang, Fudi"
+  ],
+  "doi": "10.1038/s41392-024-01969-z",
+  "url": "https://openalex.org/W4403369705",
+  "provider": "openalex",
+  "year": 2024,
+  "venue": "Signal Transduction and Targeted Therapy",
+  "citation_count": 476,
+  "abstract": "Iron, an essential mineral in the body, is involved in numerous physiological processes, making the maintenance of iron homeostasis crucial for overall health. Both iron overload and deficiency can cause various disorders and human diseases. Ferroptosis, a form of cell death dependent on iron, is characterized by the extensive peroxidation of lipids. Unlike other kinds of classical unprogrammed cell death, ferroptosis is primarily linked to disruptions in iron metabolism, lipid peroxidation, and antioxidant system imbalance. Ferroptosis is regulated through transcription, translation, and post-translational modifications, which affect cellular sensitivity to ferroptosis. Over the past decade or so, numerous diseases have been linked to ferroptosis as part of their etiology, including cancers, metabolic disorders, autoimmune diseases, central nervous system diseases, cardiovascular diseases, and musculoskeletal diseases. Ferroptosis-related proteins have become attractive targets for many major human diseases that are currently incurable, and some ferroptosis regulators have shown therapeutic effects in clinical trials although further validation of their clinical potential is needed. Therefore, in-depth analysis of ferroptosis and its potential molecular mechanisms in human diseases may offer additional strategies for clinical prevention and treatment. In this review, we discuss the physiological significance of iron homeostasis in the body, the potential contribution of ferroptosis to the etiology and development of human diseases, along with the evidence supporting targeting ferroptosis as a therapeutic approach. Importantly, we evaluate recent potential therapeutic targets and promising interventions, providing guidance for future targeted treatment therapies against human diseases.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.1038/s41392-024-01969-z"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "src-235",
+  "title": "Vitamin A and Vitamin E: Will the Real Antioxidant Please Stand Up?",
+  "authors": [
+    "Blaner, William S.",
+    "Shmarakov, Igor",
+    "Traber, Maret G."
+  ],
+  "doi": "10.1146/annurev-nutr-082018-124228",
+  "url": "https://openalex.org/W3169089391",
+  "provider": "openalex",
+  "year": 2021,
+  "venue": "Annual Review of Nutrition",
+  "citation_count": 174,
+  "abstract": "Vitamin A, acting through its metabolite, all-<i>trans</i>-retinoic acid, is a potent transcriptional regulator affecting expression levels of hundreds of genes through retinoic acid response elements present within these genes. However, the literature is replete with claims that consider vitamin A to be an antioxidant vitamin, like vitamins C and E. This apparent contradiction in the understanding of how vitamin A acts mechanistically within the body is a major focus of this review. Vitamin E, which is generally understood to act as a lipophilic antioxidant protecting polyunsaturated fatty acids present in membranes, is often proposed to be a transcriptional regulator. The evaluation of this claim is another focus of the review. We conclude that vitamin A is an indirect antioxidant, whose indirect function is to transcriptionally regulate a number of genes involved in mediating the body's canonical antioxidant responses. Vitamin E, in addition to being a direct antioxidant, prevents the increase of peroxidized lipids that alter both metabolic pathways and gene expression profiles within tissues and cells. However, there is little compelling evidence that vitamin E has a direct transcriptional mechanism like that of vitamin A. Thus, we propose that the term antioxidant not be applied to vitamin A, and we discourage the use of the term transcriptional mediator when discussing vitamin E.",
+  "type": "academic",
+  "pdf_url": "https://www.annualreviews.org/doi/pdf/10.1146/annurev-nutr-082018-124228"
+}

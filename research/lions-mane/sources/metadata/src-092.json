@@ -1,0 +1,39 @@
+{
+  "id": "src-092",
+  "title": "Genomic and transcriptomic analyses reveal differential regulation of diverse terpenoid and polyketides secondary metabolites in Hericium erinaceus",
+  "authors": [
+    "Chen, Juan",
+    "Zeng, Xu",
+    "Yang, Yan Long",
+    "Xing, Yong Mei",
+    "Zhang, Qi",
+    "Li, Jia Mei",
+    "Ma, Ke",
+    "Liu, Hong Wei",
+    "Guo, Shun Xing"
+  ],
+  "year": 2017,
+  "abstract": "AbstractThe lion’s mane mushroomHericium erinaceusis a famous traditional medicinal fungus credited with anti-dementia activity and a producer of cyathane diterpenoid natural products (erinacines) useful against nervous system diseases. To date, few studies have explored the biosynthesis of these compounds, although their chemical synthesis is known. Here, we report the first genome and tanscriptome sequence of the medicinal fungusH. erinaceus. The size of the genome is 39.35 Mb, containing 9895 gene models. The genome ofH.erinaceusreveals diverse enzymes and a large family of cytochrome P450 (CYP) proteins involved in the biosynthesis of terpenoid backbones, diterpenoids, sesquiterpenes and polyketides. Three gene clusters related to terpene biosynthesis and one gene cluster for polyketides biosynthesis (PKS) were predicted. Genes involved in terpenoid biosynthesis were generally upregulated in mycelia, while the PKS gene was upregulated in the fruiting body. Comparative genome analysis of 42 fungal species of Basidiomycota revealed that most edible and medicinal mushroom show many more gene clusters involved in terpenoid and polyketide biosynthesis compared to the pathogenic fungi. None of the gene clusters for terpenoid or polyketide biosynthesis were predicted in the poisonous mushroomAmanita muscaria. Our findings may facilitate future discovery and biosynthesis of bioactive secondary metabolites fromH. erinaceusand provide fundamental information for exploring the secondary metabolites in other Basidiomycetes.",
+  "doi": "10.1038/s41598-017-10376-0",
+  "url": "https://doi.org/10.1038/s41598-017-10376-0",
+  "pdf_url": "",
+  "venue": "Scientific Reports",
+  "citation_count": 48,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-23T16:17:02.711414+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-092.md",
+  "quality_details": {
+    "content_length": 56222,
+    "alpha_ratio": 0.758,
+    "sentence_count": 795,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

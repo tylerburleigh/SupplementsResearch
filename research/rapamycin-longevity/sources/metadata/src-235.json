@@ -1,0 +1,25 @@
+{
+  "id": "src-235",
+  "title": "A Cellular and Transcriptomic Atlas of the Aged Mouse Hematopoietic System",
+  "authors": [
+    "White, Ryan R.",
+    "Xiong, Kun",
+    "Wakai, M.",
+    "Surian, Allison",
+    "Adler, Christina",
+    "Negron, Nicole",
+    "Ni, Min",
+    "Shavlakadze, T.",
+    "Bai, Yu",
+    "Glass, David J."
+  ],
+  "doi": "10.1111/acel.70394",
+  "url": "https://www.semanticscholar.org/paper/a19cc88f7b5c2f02b7b252356ac23e9d207486aa",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "Aging Cell",
+  "citation_count": 1,
+  "abstract": "Aging is a dominant risk factor for chronic diseases characterized by the functional decline of tissues and organs. During aging, the hematopoietic system declines in regenerative capacity—seemingly attributable to increases in DNA damage, replicative stress, and autophagic flux—resulting in skewing towards a myeloid lineage and away from a lymphoid lineage. Here, we characterized the transcriptomic and cellular landscape of the aged C57Bl/6J mouse hematopoietic system using a combination of bulk RNAseq and single cell RNAseq (scRNAseq). We show that aging leads to global transcriptional alterations in bulk peripheral blood mononuclear cells (PBMCs), lineage marker‐depleted bone marrow cells (Lin‐BM), and in hematopoietic stem and progenitor cells (HSPCs), immunophenotypically lineage marker negative (Lin‐) Sca1+ cKit+ (LSK+). These changes indicate widespread activation of inflammatory processes, namely in PBMCs and Lin‐BM cells. Interestingly, there is also a downregulation of cell cycle genes in HSPCs during aging. ScRNAseq across 39 hematopoietic cell types revealed age‐related skewing in cell composition. Aged PBMCs showed significant decreases in CD4 and CD8 naïve cells concomitant with increases in CD4/8 memory and CD8 exhausted T cell populations. Lin‐BM cells showed significant myeloid skewing in common myeloid progenitor (CMP) cells, as well as in the HSC population. We also identified a unique HSC population marked by increased Vwf, Wwtr1, and Clca3a1 expression that does not exist in young HSCs, thus likely marking true aged HSCs. Collectively, this work should serve as a useful resource for understanding and therapeutically targeting the aged hematopoietic system.",
+  "type": "academic",
+  "pdf_url": ""
+}

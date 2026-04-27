@@ -1,0 +1,20 @@
+{
+  "id": "src-100",
+  "title": "Emerging Strategies to Combat ESKAPE Pathogens in the Era of Antimicrobial Resistance: A Review",
+  "authors": [
+    "Mulani, Mansura S.",
+    "Kamble, Ekta E.",
+    "Kumkar, Shital N.",
+    "Tawre, Madhumita S.",
+    "Pardesi, Karishma R."
+  ],
+  "doi": "10.3389/fmicb.2019.00539",
+  "url": "https://openalex.org/W2934656438",
+  "provider": "openalex",
+  "year": 2019,
+  "venue": "Frontiers in Microbiology",
+  "citation_count": 1601,
+  "abstract": "The acronym ESKAPE includes six nosocomial pathogens that exhibit multidrug resistance and virulence: <i>Enterococcus faecium, Staphylococcus aureus, Klebsiella pneumoniae, Acinetobacter baumannii, Pseudomonas aeruginosa</i>, and <i>Enterobacter</i> spp. Persistent use of antibiotics has provoked the emergence of multidrug resistant (MDR) and extensively drug resistant (XDR) bacteria, which render even the most effective drugs ineffective. Extended spectrum β-lactamase (ESBL) and carbapenemase producing Gram negative bacteria have emerged as an important therapeutic challenge. Development of novel therapeutics to treat drug resistant infections, especially those caused by ESKAPE pathogens is the need of the hour. Alternative therapies such as use of antibiotics in combination or with adjuvants, bacteriophages, antimicrobial peptides, nanoparticles, and photodynamic light therapy are widely reported. Many reviews published till date describe these therapies with respect to the various agents used, their dosage details and mechanism of action against MDR pathogens but very few have focused specifically on ESKAPE. The objective of this review is to describe the alternative therapies reported to treat ESKAPE infections, their advantages and limitations, potential application <i>in vivo</i>, and status in clinical trials. The review further highlights the importance of a combinatorial approach, wherein two or more therapies are used in combination in order to overcome their individual limitations, additional studies on which are warranted, before translating them into clinical practice. These advances could possibly give an alternate solution or extend the lifetime of current antimicrobials.",
+  "type": "academic",
+  "pdf_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2019.00539/pdf"
+}

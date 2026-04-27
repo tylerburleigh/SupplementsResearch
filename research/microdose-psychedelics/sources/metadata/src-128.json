@@ -1,0 +1,25 @@
+{
+  "id": "src-128",
+  "title": "Hypersensitivity of Zebrafish htr2b Mutant Embryos to Sertraline Indicates a Role for Serotonin Signaling in Cardiac Development",
+  "authors": [
+    "Kent, Mitchell E.",
+    "Hu, Bo",
+    "Eggleston, Timothy",
+    "Squires, R.",
+    "Zimmerman, Kathy A.",
+    "Weiss, Robert M.",
+    "Roghair, R.",
+    "Lin, Fang",
+    "Cornell, R.",
+    "Haskell, Sarah E."
+  ],
+  "doi": "10.1097/fjc.0000000000001297",
+  "url": "https://www.semanticscholar.org/paper/bc3223d3ac963d6ffdcbd1b19dd897e700949377",
+  "provider": "semantic_scholar",
+  "year": 2022,
+  "venue": "Journal of Cardiovascular Pharmacology",
+  "citation_count": 3,
+  "abstract": "Supplemental Digital Content is Available in the Text. Abstract: Selective serotonin reuptake inhibitors (SSRIs) are antidepressants prescribed in 10% of pregnancies in the United States. Maternal use of SSRIs has been linked to an elevated rate of congenital heart defects, but the exact mechanism of pathogenesis is unknown. Previously, we have shown a decrease in cardiomyocyte proliferation, left ventricle size, and reduced cardiac expression of the serotonin receptor 5-HT2B in offspring of mice exposed to the SSRI sertraline during pregnancy, relative to offspring of untreated mice. These results suggest that disruption of serotonin signaling leads to heart defects. Supporting this conclusion, we show here that zebrafish embryos exposed to sertraline develop with a smaller ventricle, reduced cardiomyocyte number, and lower cardiac expression of htr2b relative to untreated embryos. Moreover, zebrafish embryos homozygous for a nonsense mutation of htr2b (htr2bsa16649) were sensitized to sertraline treatment relative to wild-type embryos. Specifically, the ventricle area was reduced in the homozygous htr2b mutants treated with sertraline compared with wild-type embryos treated with sertraline and homozygous htr2b mutants treated with vehicle control. Whereas long-term effects on left ventricle shortening fraction and stroke volume were observed by echocardiography in adult mice exposed to sertraline in utero, echocardiograms of adult zebrafish exposed to sertraline as embryos were normal. These results implicate the 5-HT2B receptor functions in heart development and suggest zebrafish are a relevant animal model that can be used to investigate the connection between maternal SSRI use and elevated risk of congenital heart defects.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.1097/fjc.0000000000001297"
+}

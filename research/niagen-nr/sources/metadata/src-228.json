@@ -1,0 +1,26 @@
+{
+  "id": "src-228",
+  "title": "Nicotinamide mononucleotide increases muscle insulin sensitivity in prediabetic women",
+  "authors": [
+    "Yoshino, Mihoko",
+    "Yoshino, Jun",
+    "Kayser, Brandon D.",
+    "Patti, Gary J.",
+    "Franczyk, Michael P.",
+    "Mills, Kathryn F.",
+    "Sindelar, Miriam",
+    "Pietka, Terri",
+    "Patterson, Bruce W.",
+    "Imai, Shin‐ichiro",
+    "Klein, Samuel"
+  ],
+  "doi": "10.1126/science.abe9985",
+  "url": "https://openalex.org/W3156374487",
+  "provider": "openalex",
+  "year": 2021,
+  "venue": "Science",
+  "citation_count": 391,
+  "abstract": "In rodents, obesity and aging impair nicotinamide adenine dinucleotide (NAD<sup>+</sup>) biosynthesis, which contributes to metabolic dysfunction. Nicotinamide mononucleotide (NMN) availability is a rate-limiting factor in mammalian NAD<sup>+</sup> biosynthesis. We conducted a 10-week, randomized, placebo-controlled, double-blind trial to evaluate the effect of NMN supplementation on metabolic function in postmenopausal women with prediabetes who were overweight or obese. Insulin-stimulated glucose disposal, assessed by using the hyperinsulinemic-euglycemic clamp, and skeletal muscle insulin signaling [phosphorylation of protein kinase AKT and mechanistic target of rapamycin (mTOR)] increased after NMN supplementation but did not change after placebo treatment. NMN supplementation up-regulated the expression of platelet-derived growth factor receptor β and other genes related to muscle remodeling. These results demonstrate that NMN increases muscle insulin sensitivity, insulin signaling, and remodeling in women with prediabetes who are overweight or obese (clinicaltrial.gov NCT03151239).",
+  "type": "academic",
+  "pdf_url": "https://www.science.org/cms/asset/d92dd1ea-d8f4-4875-b9d9-af3578fdc402/pap.pdf"
+}

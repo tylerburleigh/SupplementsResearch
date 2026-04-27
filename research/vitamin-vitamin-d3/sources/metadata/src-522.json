@@ -1,0 +1,19 @@
+{
+  "id": "src-522",
+  "title": "Rising trend in vitamin D status from 1993 to 2013: dual concerns for the future.",
+  "authors": [
+    "McKenna, Malachi J",
+    "Murray, Barbara F",
+    "O'Keane, Myra",
+    "Kilbane, Mark T"
+  ],
+  "doi": "10.1530/ec-15-0037",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/26034120",
+  "provider": "pubmed",
+  "year": 2015,
+  "venue": "Endocrine connections",
+  "citation_count": 0,
+  "abstract": "BACKGROUND: The Institute of Medicine 2011 Report on Dietary Reference Intakes for Calcium and Vitamin D specified higher intakes for all age groups compared to the 1997 report, but also cautioned against spurious claims about an epidemic of vitamin D deficiency and against advocates of higher intake requirements. Over 40 years, we have noted marked improvement in vitamin D status but we are concerned about hypervitaminosis D.\nOBJECTIVE: We sought to evaluate the 25-hydroxyvitamin D (25OHD) trend over 20 years.\nDESIGN: We retrieved all results of serum 25OHD from 1993 to 2013 (n=69 012) that was trimmed to one sample per person (n=43 782). We conducted a time series analysis of the monthly averages for 25OHD using a simple sequence chart and a running median smoothing function. We modelled the data using univariate auto-regressive integrated moving average (ARIMA) and forecast 25OHD levels up to 2016.\nRESULTS: The time series sequence chart and smoother function demonstrated a steady upward trend with seasonality. The yearly average 25OHD increased from 36.1 nmol/l in 1993 to 57.3 nmol/l in 2013. The ARIMA model was a good fit for the 25OHD time series; it forecasted monthly average 25OHD up to the end of 2016 with a positive stationary R(2) of 0.377.\nCONCLUSIONS: Vitamin D status improved over the past 40 years, but there remains a dual problem: there are groups at risk of vitamin D deficiency who need public health preventative measures; on the other hand, random members of the population are taking unnecessarily high vitamin D intakes for unsubstantiated claims.",
+  "type": "academic",
+  "pdf_url": ""
+}

@@ -1,0 +1,25 @@
+{
+  "id": "src-151",
+  "title": "Glucoraphanin and sulforaphane biosynthesis by melatonin mediating nitric oxide in hairy roots of broccoli (Brassica oleracea L. var. italica Planch): insights from transcriptome data.",
+  "authors": [
+    "Ma, Shaoying",
+    "Bao, Jinyu",
+    "Lu, Yaqi",
+    "Lu, Xu",
+    "Tian, Peng",
+    "Zhang, Xiaoling",
+    "Yang, Jie",
+    "Shi, Xiaotong",
+    "Pu, Zhihui",
+    "Li, Sheng"
+  ],
+  "doi": "10.1186/s12870-022-03747-x",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35974315",
+  "provider": "pubmed",
+  "year": 2022,
+  "venue": "BMC plant biology",
+  "citation_count": 0,
+  "abstract": "Glucoraphanin (GRA) is present in the seeds and nutrient organs of broccoli and is the precursor of the anti-cancer compound sulforaphane (SF). The hairy roots obtained by infecting broccoli (Brassica oleracea L. var. Italic Planch) leaves with Agrobacterium rhizogenes (ATCC15834) are phytohormonally autonomous, genetically stable, and can produce large amounts of the anti-cancer substance SF. Melatonin (MT) is a natural hormone widely found in plants. Studies have shown that melatonin can regulate the synthesis of secondary metabolites of downstream targets by mediating the synthesis of signal molecules. However, whether MT regulates the synthesis of NO and H2O2 and mediates the synthesis mechanism of secondary metabolites, GRA and SF, is not yet clear. In this study, the hairy roots of broccoli were treated with 500 μmol/L MT, and the genome of broccoli (Brassica oleracea L. var. botrytis L) was used as the reference genome for transcriptome analysis. By this approach, we found that MT regulates the synthesis of NO and H2O2 and mediates the synthesis of secondary metabolites GRA and SF. GO annotations indicated that DEGs involved in the MT treatment of broccoli hairy roots were mainly related to catalytic activity, cells, and metabolic processes; the KEGG pathway analysis indicated that MT treatment likely affects the hormone signal transduction process in broccoli hairy roots; broccoli hairy roots were treated with 500 μmol/L MT for 0, 6, 12, 20, and 32 h, respectively; compared with 0 h, the yield of GRA and SF increased under the other treatments. The highest yields of GRA and SF occurred at 12 h. The NO content was the highest at 12 h, and the H2O2 content was positively correlated with MT concentration. The content of NO and H2O2 were regulated, and the content of GRA and SF was increased under MT treatment. NO synthase inhibitor (L-NAME and TUN) could effectively inhibit the content of NO in broccoli hairy roots and reduce GRA and SF yield; MT could regulate NO levels by regulating NO synthesis-related enzymes and could alleviate the reduction of NO content in tissue cells caused by NO synthase inhibitor and promote NO synthesis. These results have important theoretical implications for understanding the regulation of GRA and SF synthesis events by NO and H2O2.",
+  "type": "academic",
+  "pdf_url": ""
+}

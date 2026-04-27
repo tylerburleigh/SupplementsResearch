@@ -1,0 +1,24 @@
+4	2	Research Article
+30	2	Introduction
+65	2	Research Article
+95	2	Results
+121	2	Research Article
+178	2	Research Article
+211	2	Research Article
+236	2	Research Article
+266	2	Research Article
+285	2	Research Article
+303	2	Discussion
+323	2	Research Article
+340	2	Research Article
+360	2	Research Article
+417	2	Research Article
+449	2	Methods
+473	2	Research Article
+530	2	Research Article
+587	2	Research Article
+634	2	Author Contributions
+643	2	Research Article
+644	2	Acknowledgments
+707	2	Research Article
+778	2	Research Article

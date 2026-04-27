@@ -1,0 +1,19 @@
+{
+  "id": "src-135",
+  "title": "An Immune-Liver Microphysiological System Method for Evaluation and Quality Control of Hepatotoxicity Induced by Polygonum multiflorum Thunb. Extract.",
+  "authors": [
+    "Deng, Quanfeng",
+    "Qu, Yueyang",
+    "Luo, Yong",
+    "Zhang, Xiuli"
+  ],
+  "doi": "10.1016/j.jep.2025.119633",
+  "url": "https://www.semanticscholar.org/paper/8c1bc513e3886a68085dad2993957cba207d2e27",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "Journal of Ethnopharmacology",
+  "citation_count": 6,
+  "abstract": "ETHNOPHARMACOLOGICAL RELEVANCE\nClinical applications of Polygonum multiflorum Thunb. (PMT) have occasionally reported adverse effects on liver function, linking these instances of hepatotoxicity to PMT samples. Evaluating the hepatotoxicity of PMT, given its intricate composition and mechanisms, presents a notable challenge. Notably, three toxic components display additive/synergistic effects, further complicating the establishment of a toxicological quality control method.\n\nAIM OF THE STUDY\nThis study aims to develop a biology-based quality control method that can reflect the multi-mechanistic hepatotoxicity of PMT.\n\nMATERIALS AND METHODS\nWe designed a microphysiological system tailored for the immune-liver interplay, termed the i-LOC, featuring three-cell channels. This i-LOC integrates hepatic cells with two distinct immune cell types to mimic inflammatory cell infiltration. As a control, a liver-on-chip devoid of immune cells was utilized to characterize hepatotoxicity induced by inflammatory stress.\n\nRESULTS\nThe i-LOC system exhibited remarkable sensitivity in detecting both direct and inflammation-mediated hepatotoxic effects of the three PMT toxic components. This system significantly reduced the sample size requirements by thousandfold compared to animal models, presenting a cost-effective and attractive alternative for PMT toxicological assessments. Intriguingly, the system identified the present of previously unknown PMT compounds with potential hepatotoxic properties, emphasizing the need for a comprehensive biological evaluation method.\n\nCONCLUSION\nThis study successfully developed an i-LOC method for effectively evaluating PMT's hepatotoxicity, overcoming the complexities posed by its intricate composition and mechanisms.",
+  "type": "academic",
+  "pdf_url": ""
+}

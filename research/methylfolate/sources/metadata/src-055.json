@@ -1,0 +1,35 @@
+{
+  "id": "src-055",
+  "title": "5,10-methylenetetrahydrofolate reductase (MTHFR) 677C→T and 1298A→C mutations are associated with DNA hypomethylation",
+  "authors": [
+    "Castro, R",
+    "Rivera, I",
+    "Ravasco, P",
+    "Camilo, M E",
+    "Jakobs, C",
+    "Blom, H J",
+    "de Almeida, I T"
+  ],
+  "year": 2004,
+  "abstract": "",
+  "doi": "10.1136/jmg.2003.017244",
+  "url": "https://doi.org/10.1136/jmg.2003.017244",
+  "pdf_url": "",
+  "venue": "Journal of Medical Genetics",
+  "citation_count": 215,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-20T13:39:29.722287+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-055.md",
+  "quality_details": {
+    "content_length": 76580,
+    "alpha_ratio": 0.687,
+    "sentence_count": 1125,
+    "reasons": []
+  }
+}

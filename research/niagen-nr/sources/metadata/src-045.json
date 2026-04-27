@@ -1,0 +1,46 @@
+{
+  "id": "src-045",
+  "title": "Exercise training and NR supplementation to improve muscle mass and fitness in adolescent and young adult hematopoietic cell transplant survivors: a randomized controlled trial {1}",
+  "authors": [
+    "Song, Minkeun",
+    "Armenian, Saro H.",
+    "Bhandari, Rusha",
+    "Lee, Kyuwan",
+    "Ness, Kirsten",
+    "Putt, Mary",
+    "Lindenfeld, Lanie",
+    "Manoukian, Saro",
+    "Wade, Kristin",
+    "Dedio, Anna",
+    "Guzman, Tati",
+    "Hampton, Isabella",
+    "Lin, Kimberly",
+    "Baur, Joseph",
+    "McCormack, Shana",
+    "Mostoufi-Moab, Sogol"
+  ],
+  "year": 2022,
+  "abstract": "AbstractBackgroundAdvances in hematopoietic cell transplantation (HCT) have led to marked improvements in survival. However, adolescents and young adults (AYAs) who undergo HCT are at high risk of developing sarcopenia (loss of skeletal muscle mass) due to the impact of HCT-related exposures on the developing musculoskeletal system. HCT survivors who have sarcopenia also have excess lifetime risk of non-relapse mortality. Therefore, interventions that increase skeletal muscle mass, metabolism, strength, and function are needed to improve health in AYA HCT survivors. Skeletal muscle is highly reliant on mitochondrial energy production, as reflected by oxidative phosphorylation (OXPHOS) capacity. Exercise is one approach to target skeletal muscle mitochondrial OXPHOS, and in turn improve muscle function and strength. Another approach is to use “exercise enhancers”, such as nicotinamide riboside (NR), a safe and well-tolerated precursor of nicotinamide adenine dinucleotide (NAD+), a cofactor that in turn impacts muscle energy production. Interventions combining exercise with exercise enhancers like NR hold promise, but have not yet been rigorously tested in AYA HCT survivors.Methods/designWe will perform a randomized controlled trial testing 16 weeks of in-home aerobic and resistance exercise and NR in AYA HCT survivors, with a primary outcome of muscle strength via dynamometry and a key secondary outcome of cardiovascular fitness via cardiopulmonary exercise testing. We will also test the effects of these interventions on i) muscle mass via dual energy x-ray absorptiometry; ii) muscle mitochondrial OXPHOS via an innovative non-invasive MRI-based technique, and iii) circulating correlates of NAD+metabolism via metabolomics. Eighty AYAs (ages 15-30y) will be recruited 6–24 months post-HCT and randomized to 1 of 4 arms: exercise + NR, exercise alone, NR alone, or control. Outcomes will be collected at baseline and after the 16-week intervention.DiscussionWe expect that exercise with NR will produce larger changes than exercise alone in key outcomes, and that changes will be mediated by increases in muscle OXPHOS. We will apply the insights gained from this trial to develop individualized, evidence-supported precision initiatives that will reduce chronic disease burden in high-risk cancer survivors.Trial registrationClinicalTrials.gov, NCT05194397. Registered January 18, 2022,https://clinicaltrials.gov/ct2/show/NCT05194397{2a}.",
+  "doi": "10.1186/s12885-022-09845-1",
+  "url": "https://doi.org/10.1186/s12885-022-09845-1",
+  "pdf_url": "",
+  "venue": "BMC Cancer",
+  "citation_count": 15,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-20T20:24:45.970934+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-045.md",
+  "quality_details": {
+    "content_length": 79146,
+    "alpha_ratio": 0.765,
+    "sentence_count": 607,
+    "reasons": [
+      "paywall_page (access this article)"
+    ]
+  }
+}

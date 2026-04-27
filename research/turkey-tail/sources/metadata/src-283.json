@@ -1,0 +1,19 @@
+{
+  "id": "src-283",
+  "title": "Therapeutic Effects of Medicinal Mushrooms on Gastric, Breast, and Colorectal Cancer: A Scoping Review",
+  "authors": [
+    "Dan, Amit",
+    "Swain, Robyn",
+    "Belonce, Seigna",
+    "Jacobs, Robin J."
+  ],
+  "doi": "10.7759/cureus.37574",
+  "url": "https://openalex.org/W4366716378",
+  "provider": "openalex",
+  "year": 2023,
+  "venue": "Cureus",
+  "citation_count": 13,
+  "abstract": "Cancer is the leading cause of mortality globally. With anticancer medications causing severe adverse effects, understanding the role of alternative and efficacious anticancer treatments with minimal or no side effects can be beneficial. Edible mushrooms have been associated with certain health benefits and exhibit a broad range of pharmacological activities, including anti-inflammatory and immunomodulating activities. The anticancer potential of different mushrooms is now being tested. The goal of this scoping review was to discuss the most recent and available evidence on the therapeutic uses of medicinal mushrooms in cancer treatment, specifically those cancers with some of the highest mortality rates (i.e., gastric, breast, and colorectal cancer). Randomly controlled trials, clinical trials, and retrospective cohort studies (with placebo group) with human subjects published between 2012-2023 were searched using the databases Embase, Ovid MEDLINE, Cumulative Index to Nursing and Allied Health Literature (CINHAL), and Alt HealthWatch. The initial search yielded 2,202 articles. After removing 853 duplicate citations, 1,349 articles remained and were screened for study eligibility and accessibility, leaving 26 articles. The inclusion and exclusion criteria were then used to assess the remaining 26 full-text articles and nine articles were selected for the final review. The characteristics of the nine studies reported the efficacy of medicinal mushrooms <i>Lentinus edodes</i> (Shiitake), <i>Coriolus versicolor</i> (Turkey Tail), and <i>Agaricus Sylvaticus</i> (Scaly Wood), in treating symptoms, medication side effects, anti-tumor effects, and survival outcomes in gastric, breast, and colorectal cancers. Findings from this review suggest that medicinal mushrooms have the potential to prevent lymph node metastasis, prolong overall survival, decrease chemotherapy-induced side effects (e.g., diarrhea, vomiting), affect the immune system, and help maintain immune function and quality of life in patients with certain cancers. More research is needed with human subjects using RCTs with larger samples to ensure accurate outcomes and ascertain the most efficacious dosages.",
+  "type": "academic",
+  "pdf_url": "https://assets.cureus.com/uploads/review_article/pdf/148546/20230414-26751-gqtovx.pdf"
+}

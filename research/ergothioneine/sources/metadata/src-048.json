@@ -1,0 +1,24 @@
+{
+  "id": "src-048",
+  "title": "Insights to SARS-CoV-2 life cycle, pathophysiology, and rationalized treatments that target COVID-19 clinical complications",
+  "authors": [
+    "Trougakos, Ioannis P.",
+    "Stamatelopoulos, Κimon",
+    "Terpos, Evangelos",
+    "Tsitsilonis, Ourania",
+    "Aivalioti, Evmorfia",
+    "Paraskevis, Dimitrios",
+    "Kastritis, Efstathios",
+    "Pavlakis, George N.",
+    "Dimopoulos, Meletios Α."
+  ],
+  "doi": "10.1186/s12929-020-00703-5",
+  "url": "https://openalex.org/W3120389648",
+  "provider": "openalex",
+  "year": 2021,
+  "venue": "Journal of Biomedical Science",
+  "citation_count": 268,
+  "abstract": "Here we discuss SARS-CoV-2 life cycle and a number of approaches aiming to suppress viral infection rates or propagation; increase virus antigen presentation in order to activate a robust and durable adaptive immune response from the host, and/or mitigate the ARDS-related \"cytokine storm\" and collateral tissue damage that triggers the severe life-threatening complications of COVID-19.",
+  "type": "academic",
+  "pdf_url": "https://jbiomedsci.biomedcentral.com/counter/pdf/10.1186/s12929-020-00703-5"
+}

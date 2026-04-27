@@ -1,0 +1,30 @@
+{
+  "id": "src-130",
+  "title": "The role of resistance training and creatine supplementation on oxidative stress, antioxidant defense, muscle strength, and quality of life in older adults",
+  "authors": [
+    "Amiri, Ehsan",
+    "Sheikholeslami-Vatani, Dariush"
+  ],
+  "year": 2023,
+  "abstract": "BackgroundThe aim of this study was to evaluate the effect of resistance training (RT) with creatine monohydrate supplementation (CS) on serum levels of 8-hydroxydeoxyguanosine (8-OHdG), malondialdehyde (MDA), glutathione peroxidase (GPX), and total antioxidant capacity (TAC) in older adults.ObjectivesThis study evaluated the effect of resistance training with creatine monohydrate supplementation on oxidative stress and antioxidant defense, muscle strength and quality of life in older adults.MethodsWe examined 45 non-athlete volunteer older men and women (mean, 68.1 ± 7.2  years old), were randomly selected and divided into three groups of 15: RT with creatine supplementation (RT + CS), RT with placebo (RT + P) and control group. RT protocol was performed for 10  weeks, three sessions per week. Creatine supplement was taken daily at a dose of 0.1 g/kg of body weight, while the placebo group consumed the same amount of starch. Fasting blood samples were taken before the start of program and at the end of the RT period.ResultsIn the training groups, after 10  weeks of RT, a significant decrease in MDA and 8 - OHDG as well as a significant increase in serum levels of GPX and TAC were observed (in all cases, p =  0.001). In addition, creatinine levels were enhanced in the RT + CS (p =  0.014). Training intervention also improved quality of life and muscle strength in the experimental groups (p =  0.001), although muscle strength changes were more visible in the RT + CS group than in the RT + P group (p &amp;lt;  0/05).ConclusionRegular resistance training can be recommended as a very suitable non-pharmacological approach to strengthen the body’s antioxidant system, muscle strength and quality of life in older adults. There are no definite findings on the role of creatine on the antioxidant system and quality of life in older adults, but the use of this supplement in addition to RT can double the amount of strength gained from resistance training.",
+  "doi": "10.3389/fpubh.2023.1062832",
+  "url": "https://doi.org/10.3389/fpubh.2023.1062832",
+  "pdf_url": "",
+  "venue": "Frontiers in Public Health",
+  "citation_count": 36,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T13:56:44.159106+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-130.md",
+  "quality_details": {
+    "content_length": 36997,
+    "alpha_ratio": 0.709,
+    "sentence_count": 355,
+    "reasons": []
+  }
+}

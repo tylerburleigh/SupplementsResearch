@@ -1,0 +1,39 @@
+{
+  "id": "src-191",
+  "title": "THE IMPACT OF CREATINE SUPPLEMENTATION ON HEALTH AND PERFORMANCE IN PHYSICALLY ACTIVE ADULTS: A NARRATIVE REVIEW",
+  "authors": [
+    "Grzegorz Jałoszyński",
+    "Bruno Makowski",
+    "Oliwia Marciniak",
+    "Maciej Makarewicz",
+    "Marcin Patryk Barbachowski",
+    "Sebastian Konecki",
+    "Natalia Bylak",
+    "Maria Kurt",
+    "Norbert Gromadzki",
+    "Anna Gwizdek",
+    "Dawid Szczepański"
+  ],
+  "year": 2026,
+  "abstract": "Creatine supplementation is widely used among physically active adults as a nutritional strategy to enhance exercise performance and support various health outcomes. This narrative review aims to synthesize current evidence on the physiological mechanisms of creatine, its impact on physical performance metrics, and potential health effects in active populations. A comprehensive search of peer reviewed literature was conducted across major databases, prioritizing studies involving healthy, physically active adult participants. Findings indicate that creatine enhances high intensity exercise performance and muscular strength, particularly in resistance training contexts, through its role in rapid adenosine triphosphate (ATP) resynthesis and muscle energetics. However, evidence regarding its effects on endurance performance remains mixed, with some studies showing minimal influence on aerobic capacity (e.g., non significant effects in trained endurance populations). Creatine supplementation also appears to have a favorable safety profile, with no substantial adverse effects on renal or hepatic function reported at standard dosages. Emerging research suggests potential cognitive and metabolic benefits, though these require further investigation. This review highlights that while creatine is an effective ergogenic aid for specific performance outcomes, variability exists based on training modality, sex, and individual characteristics. Future studies should address under researched subgroups and long term health implications to refine supplementation recommendations.",
+  "doi": "10.31435/ijitss.1(49).2026.4964",
+  "url": "https://doi.org/10.31435/ijitss.1(49).2026.4964",
+  "pdf_url": "",
+  "venue": "International Journal of Innovative Technologies in Social Science",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T14:05:53.474437+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-191.md",
+  "quality_details": {
+    "content_length": 39611,
+    "alpha_ratio": 0.774,
+    "sentence_count": 395,
+    "reasons": []
+  }
+}

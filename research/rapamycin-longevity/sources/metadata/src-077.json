@@ -1,0 +1,27 @@
+{
+  "id": "src-077",
+  "title": "mTOR inhibition improves immune function in the elderly.",
+  "authors": [
+    "Mannick, Joan B",
+    "Del Giudice, Giuseppe",
+    "Lattanzi, Maria",
+    "Valiante, Nicholas M",
+    "Praestgaard, Jens",
+    "Huang, Baisong",
+    "Lonetto, Michael A",
+    "Maecker, Holden T",
+    "Kovarik, John",
+    "Carson, Simon",
+    "Glass, David J",
+    "Klickstein, Lloyd B"
+  ],
+  "doi": "10.1126/scitranslmed.3009892",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/25540326",
+  "provider": "pubmed",
+  "year": 2014,
+  "venue": "Science translational medicine",
+  "citation_count": 0,
+  "abstract": "Inhibition of the mammalian target of rapamycin (mTOR) pathway extends life span in all species studied to date, and in mice delays the onset of age-related diseases and comorbidities. However, it is unknown if mTOR inhibition affects aging or its consequences in humans. To begin to assess the effects of mTOR inhibition on human aging-related conditions, we evaluated whether the mTOR inhibitor RAD001 ameliorated immunosenescence (the decline in immune function during aging) in elderly volunteers, as assessed by their response to influenza vaccination. RAD001 enhanced the response to the influenza vaccine by about 20% at doses that were relatively well tolerated. RAD001 also reduced the percentage of CD4 and CD8 T lymphocytes expressing the programmed death-1 (PD-1) receptor, which inhibits T cell signaling and is more highly expressed with age. These results raise the possibility that mTOR inhibition may have beneficial effects on immunosenescence in the elderly.",
+  "type": "academic",
+  "pdf_url": ""
+}

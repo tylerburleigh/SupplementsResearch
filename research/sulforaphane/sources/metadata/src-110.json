@@ -1,0 +1,23 @@
+{
+  "id": "src-110",
+  "title": "Molecular docking as a tool for the discovery of molecular targets of nutraceuticals in diseases management",
+  "authors": [
+    "Agu, Peter Chinedu",
+    "Afiukwa, Celestine Azubuike",
+    "Orji, O.U.",
+    "Ezeh, Ernest Mbamalu",
+    "Ofoke, Ifeanyi Harrison",
+    "Ogbu, Cyprian O.",
+    "Ugwuja, Emmanuel Ike",
+    "Aja, Patrick Maduabuchi"
+  ],
+  "doi": "10.1038/s41598-023-40160-2",
+  "url": "https://openalex.org/W4385950555",
+  "provider": "openalex",
+  "year": 2023,
+  "venue": "Scientific Reports",
+  "citation_count": 992,
+  "abstract": "Molecular docking is a computational technique that predicts the binding affinity of ligands to receptor proteins. Although it has potential uses in nutraceutical research, it has developed into a formidable tool for drug development. Bioactive substances called nutraceuticals are present in food sources and can be used in the management of diseases. Finding their molecular targets can help in the creation of disease-specific new therapies. The purpose of this review was to explore molecular docking's application to the study of dietary supplements and disease management. First, an overview of the fundamentals of molecular docking and the various software tools available for docking was presented. The limitations and difficulties of using molecular docking in nutraceutical research are also covered, including the reliability of scoring functions and the requirement for experimental validation. Additionally, there was a focus on the identification of molecular targets for nutraceuticals in numerous disease models, including those for sickle cell disease, cancer, cardiovascular, gut, reproductive, and neurodegenerative disorders. We further highlighted biochemistry pathways and models from recent studies that have revealed molecular mechanisms to pinpoint new nutraceuticals' effects on disease pathogenesis. It is convincingly true that molecular docking is a useful tool for identifying the molecular targets of nutraceuticals in the management of diseases. It may offer information about how nutraceuticals work and support the creation of new therapeutics. Therefore, molecular docking has a bright future in nutraceutical research and has a lot of potentials to lead to the creation of brand-new medicines for the treatment of disease.",
+  "type": "academic",
+  "pdf_url": "https://www.nature.com/articles/s41598-023-40160-2.pdf"
+}

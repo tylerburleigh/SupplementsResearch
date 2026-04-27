@@ -1,0 +1,19 @@
+{
+  "id": "src-103",
+  "title": "Aging Hallmarks and the Role of Oxidative Stress",
+  "authors": [
+    "Maldonado, Edio",
+    "Morales, Sebastián",
+    "Urbina, Fabiola",
+    "Solari, Aldo"
+  ],
+  "doi": "10.3390/antiox12030651",
+  "url": "https://openalex.org/W4323318796",
+  "provider": "openalex",
+  "year": 2023,
+  "venue": "Antioxidants",
+  "citation_count": 365,
+  "abstract": "Aging is a complex biological process accompanied by a progressive decline in the physical function of the organism and an increased risk of age-related chronic diseases such as cardiovascular diseases, cancer, and neurodegenerative diseases. Studies have established that there exist nine hallmarks of the aging process, including (i) telomere shortening, (ii) genomic instability, (iii) epigenetic modifications, (iv) mitochondrial dysfunction, (v) loss of proteostasis, (vi) dysregulated nutrient sensing, (vii) stem cell exhaustion, (viii) cellular senescence, and (ix) altered cellular communication. All these alterations have been linked to sustained systemic inflammation, and these mechanisms contribute to the aging process in timing not clearly determined yet. Nevertheless, mitochondrial dysfunction is one of the most important mechanisms contributing to the aging process. Mitochondria is the primary endogenous source of reactive oxygen species (ROS). During the aging process, there is a decline in ATP production and elevated ROS production together with a decline in the antioxidant defense. Elevated ROS levels can cause oxidative stress and severe damage to the cell, organelle membranes, DNA, lipids, and proteins. This damage contributes to the aging phenotype. In this review, we summarize recent advances in the mechanisms of aging with an emphasis on mitochondrial dysfunction and ROS production.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2076-3921/12/3/651/pdf?version=1678076785"
+}

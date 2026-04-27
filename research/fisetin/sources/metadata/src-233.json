@@ -1,0 +1,23 @@
+{
+  "id": "src-233",
+  "title": "Insights into vaccines for elderly individuals: from the impacts of immunosenescence to delivery strategies",
+  "authors": [
+    "Hou, Yingying",
+    "Chen, Min",
+    "Bian, Yuan",
+    "Hu, Yuan",
+    "Chuan, Jun-Lan",
+    "Zhong, Lei",
+    "Zhu, Yuxuan",
+    "Tong, Rongsheng"
+  ],
+  "doi": "10.1038/s41541-024-00874-4",
+  "url": "https://openalex.org/W4394688809",
+  "provider": "openalex",
+  "year": 2024,
+  "venue": "npj Vaccines",
+  "citation_count": 79,
+  "abstract": "Immunosenescence increases the risk and severity of diseases in elderly individuals and leads to impaired vaccine-induced immunity. With aging of the global population and the emerging risk of epidemics, developing adjuvants and vaccines for elderly individuals to improve their immune protection is pivotal for healthy aging worldwide. Deepening our understanding of the role of immunosenescence in vaccine efficacy could accelerate research focused on optimizing vaccine delivery for elderly individuals. In this review, we analyzed the characteristics of immunosenescence at the cellular and molecular levels. Strategies to improve vaccination potency in elderly individuals are summarized, including increasing the antigen dose, preparing multivalent antigen vaccines, adding appropriate adjuvants, inhibiting chronic inflammation, and inhibiting immunosenescence. We hope that this review can provide a review of new findings with regards to the impacts of immunosenescence on vaccine-mediated protection and inspire the development of individualized vaccines for elderly individuals.",
+  "type": "academic",
+  "pdf_url": "https://www.nature.com/articles/s41541-024-00874-4.pdf"
+}

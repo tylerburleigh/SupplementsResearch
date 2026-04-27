@@ -1,0 +1,21 @@
+{
+  "id": "src-194",
+  "title": "The senolytic agent ABT263 ameliorates osteoporosis caused by active vitamin D insufficiency through selective clearance of senescent skeletal cells",
+  "authors": [
+    "Yang, Cuicui",
+    "Qiao, Wanxin",
+    "Xue, Qi",
+    "Goltzman, David",
+    "Miao, Dengshun",
+    "Dong, Zhan"
+  ],
+  "doi": "10.1016/j.jot.2024.08.012",
+  "url": "https://www.semanticscholar.org/paper/11164cd0890bb233a5611346630f0882c2024bdc",
+  "provider": "semantic_scholar",
+  "year": 2024,
+  "venue": "Journal of Orthopaedic Translation",
+  "citation_count": 13,
+  "abstract": "Background/Objective Active vitamin D insufficiency accelerates the development of osteoporosis, with senescent bone cells and the senescence-associated secretory phenotype (SASP) playing crucial roles. This study aimed to investigate whether the senolytic agent ABT263 could correct osteoporosis caused by active vitamin D insufficiency by selectively clearing senescent cells. Methods Bone marrow mesenchymal stem cells (BM-MSCs) from young and aged mice were treated with ABT263 in vitro, and 1,25(OH)2D-insufficient (Cyp27b1+/−) mice were administered ABT263 in vivo. Cellular, molecular, imaging, and histopathological analyses were performed to compare treated cells and mice with control groups. Results ABT263 induced apoptosis in senescent BM-MSCs by downregulating Bcl2 and upregulating Bax expression. It also induced apoptosis in senescent BM-MSCs from 1,25(OH)2D-insufficient mice. ABT263 administration corrected bone loss caused by 1,25(OH)2D insufficiency by increasing bone density, bone volume, trabecular number, trabecular thickness, and collagen synthesis. It also enhanced osteoblastic bone formation and reduced osteoclastic bone resorption in vivo. ABT263 treatment corrected the impaired osteogenic action of BM-MSCs by promoting their proliferation and osteogenic differentiation. Furthermore, it corrected oxidative stress and DNA damage caused by 1,25(OH)2D insufficiency by increasing SOD-2 and decreasing γ-H2A.X expression. Finally, ABT263 corrected bone cell senescence and SASP caused by 1,25(OH)2D insufficiency by reducing the expression of senescence and SASP-related genes and proteins. Conclusion ABT263 can correct osteoporosis caused by active vitamin D insufficiency by selectively clearing senescent skeletal cells, reducing oxidative stress, DNA damage, and SASP, and promoting bone formation while inhibiting bone resorption. These findings provide new insights into the potential therapeutic application of senolytic agents in the treatment of osteoporosis associated with active vitamin D insufficiency. The translational potential of this article This study highlights the therapeutic potential of ABT263, a senolytic compound, in treating osteoporosis caused by active vitamin D insufficiency. By selectively eliminating senescent bone cells and their associated SASP, ABT263 intervention demonstrates the ability to restore bone homeostasis, prevent further bone loss, and promote bone formation. These findings contribute to the growing body of research supporting the use of senolytic therapies for the prevention and treatment of age-related bone disorders. The translational potential of this study lies in the development of novel therapeutic strategies targeting cellular senescence to combat osteoporosis, particularly in cases where vitamin D insufficiency is a contributing factor. Further clinical studies are warranted to validate the efficacy and safety of ABT263 and other senolytic agents in the treatment of osteoporosis in humans.",
+  "type": "academic",
+  "pdf_url": ""
+}

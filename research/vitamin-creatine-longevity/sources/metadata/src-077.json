@@ -1,0 +1,38 @@
+{
+  "id": "src-077",
+  "title": "The Impact of Creatine Supplementation on Physical Function and Brain Health in the Aging Population: A Review Article",
+  "authors": [
+    "Ważny, Maria",
+    "Gancarz, Agnieszka",
+    "Żak, Agata",
+    "Adamczyk, Aleksandra",
+    "Gut, Michał",
+    "Toporowska-Kaźmierak, Joanna",
+    "Sowińska, Marta",
+    "Tworek, Miłosz",
+    "Banasik, Mateusz",
+    "Bezara, Damian"
+  ],
+  "year": 2026,
+  "abstract": "Introduction. Rising global longevity is leading to a significant increase in the proportion of older adults worldwide. Inherent to this aging process are physiological and neurological declines, such as reduced muscle mass, diminished strength, and impaired cognitive functions. As a key driver of cellular energy production, creatine supplementation may represent a promising strategy to mitigate these deficits and preserve functional independence in older adults.\nAim of the study. The aim of this review is to synthesize current evidence on the effects of creatine supplementation on physical performance and cognitive function in older adults.\nMaterials and methods. A systematic review was executed across the PubMed and Google Scholar platforms. The following keywords were used: creatine, aging, geriatrics, sarcopenia, muscle strength, bone density, rehabilitation, cognitive function, memory, fall prevention, resistance training.\nResults. Creatine supplementation improves both physical and mental health in older adults. It aids in the prevention of sarcopenia, the maintenance of muscle mass and strength, may positively influence bone health, and reduces the risk of falls. Additionally, it has a positive impact on cognitive functions, specifically improving memory and mental processing.\nConclusions. Creatine should be considered a key part of nutrition for the geriatric population to support healthy aging. Because it helps both the body and the brain, it is an important tool for improving quality of life. Future research should focus on determining the most effective doses for long-term health.",
+  "doi": "10.12775/qs.2026.49.67815",
+  "url": "https://doi.org/10.12775/qs.2026.49.67815",
+  "pdf_url": "",
+  "venue": "Quality in Sport",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T13:41:49.063337+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-077.md",
+  "quality_details": {
+    "content_length": 32076,
+    "alpha_ratio": 0.721,
+    "sentence_count": 566,
+    "reasons": []
+  }
+}

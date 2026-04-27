@@ -1,0 +1,24 @@
+{
+  "id": "src-056",
+  "title": "Protective effects of nicotinamide mononucleotide on DNA damage and cell death in A549 cells and aging in C. elegans caused by hydrogen peroxide.",
+  "authors": [
+    "He, Chuncao",
+    "Sun, Xueying",
+    "Xu, Ting",
+    "Hu, Xiaoqiang",
+    "Han, Jinyi",
+    "Xu, Kexin",
+    "Song, Qin",
+    "Duan, Ting",
+    "Yang, Jun"
+  ],
+  "doi": "10.1016/j.mrgentox.2025.503885",
+  "url": "https://www.semanticscholar.org/paper/1bdca196f0aabfbbe53d9f99cb13ba6ea3ab203e",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "Mutation Research. Genetic Toxicology and Environmental Mutagenesis",
+  "citation_count": 0,
+  "abstract": "Oxidative stress is a major factor for aging. Nicotinamide mononucleotide (NMN) is a naturally occurring bioactive nucleotide and a precursor for nicotinamide adenine dinucleotide (NAD+), and accumulating evidences have shown that NMN is a promising anti-aging agent, however, the underlying molecular mechanisms remain to be elucidated. Therefore, in the current study, the protective effects of NMN on oxidative stress-induced damage to cells, in particular, the various types of cell death induced by oxidative stress, were evaluated. It was found that NMN inhibited hydrogen peroxide (H2O2)-induced decrease in A549 cell viability·H2O2-triggered reactive oxygen species (ROS) production was also diminished by NMN. Furthermore, results from 8-hydoxy 2 deoxyguanosine (8-OHdG) level, alkaline comet assay, and γ-H2AX foci formation indicated that NMN protected cells from H2O2-induced DNA damage. Detailed cell death analysis revealed that H2O2 caused A549 cell death mainly through apoptosis and ferroptosis, but not necroptosis or parthanatos, and NMN could effectively inhibit the apoptosis and ferroptosis pathways, thus protected cells from H2O2-induced cell death. Finally, we validated NMN protected against H2O2-induced organismal senescence in C. elegans. Taken together, these results suggests that NMN is a potent agent against oxidative stress, which could contribute to its anti-aging effects.",
+  "type": "academic",
+  "pdf_url": ""
+}

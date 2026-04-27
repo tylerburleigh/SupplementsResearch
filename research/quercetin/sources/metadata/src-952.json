@@ -1,0 +1,22 @@
+{
+  "id": "src-952",
+  "title": "Acute effects of caffeine or quercetin ingestion on motor unit firing pattern before and after resistance exercise.",
+  "authors": [
+    "Nishikawa, Taichi",
+    "Hirono, Tetsuya",
+    "Holobar, Aleš",
+    "Kunugi, Shun",
+    "Okudaira, Masamichi",
+    "Ohya, Toshiyuki",
+    "Watanabe, Kohei"
+  ],
+  "doi": "10.1007/s00421-023-05376-0",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38193908",
+  "provider": "pubmed",
+  "year": 2024,
+  "venue": "European journal of applied physiology",
+  "citation_count": 0,
+  "abstract": "The aim of the present study was to investigate the acute effect of caffeine or quercetin ingestion on motor unit firing patterns and muscle contractile properties before and after resistance exercise. High-density surface electromyography (HDs-EMG) during submaximal contractions and electrically elicited torque in knee extensor muscles were measured before (PRE) and 60 min after (POST1) ingestion of caffeine, quercetin glycosides, or placebo, and after resistance exercise (POST2) in ten young males. The Convolution Kernel Compensation technique was used to identify individual motor units of the vastus lateralis muscle for the recorded HDs-EMG. Ingestion of caffeine or quercetin induced significantly greater decreases in recruitment thresholds (RTs) from PRE to POST1 compared with placebo (placebo: 94.8 ± 9.7%, caffeine: 84.5 ± 16.2%, quercetin: 91.9 ± 36.7%), and there were significant negative correlations between the change in RTs (POST1-PRE) and RT at PRE for caffeine (rs = - 0.448, p < 0.001) and quercetin (rs =  - 0.415, p = 0.003), but not placebo (rs =  - 0.109, p = 0.440). Significant positive correlations between the change in firing rates (POST2-POST1) and RT at PRE were noted with placebo (rs = 0.380, p = 0.005) and quercetin (rs = 0.382, p = 0.007), but not caffeine (rs = 0.069, p = 0.606). No significant differences were observed in electrically elicited torque among the three conditions. These results suggest that caffeine or quercetin ingestion alters motor unit firing patterns after resistance exercise in different threshold-dependent manners in males.",
+  "type": "academic",
+  "pdf_url": ""
+}

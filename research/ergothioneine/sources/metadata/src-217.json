@@ -1,0 +1,18 @@
+{
+  "id": "src-217",
+  "title": "Diet-Derived Antioxidants: The Special Case of Ergothioneine",
+  "authors": [
+    "Halliwell, Barry",
+    "Tang, Richard M. Y.",
+    "Cheah, Irwin K."
+  ],
+  "doi": "10.1146/annurev-food-060822-122236",
+  "url": "https://openalex.org/W4313856418",
+  "provider": "openalex",
+  "year": 2023,
+  "venue": "Annual Review of Food Science and Technology",
+  "citation_count": 83,
+  "abstract": "This article reviews what is presently known about the biological roles of the diet-derived compound ergothioneine (ET). ET seems important to humans because it is rapidly taken up from the diet by a transporter largely or completely specific for ET, and once taken up it is retained within the body for weeks or months. The various possible functions of ET in vivo are explored. Much emphasis has been placed on the antioxidant properties of ET, but although these are well established in vitro, the evidence that antioxidant activity is the principal function of ET in vivo is weak. ET is not unique in this: The evidence for the antioxidant roles of vitamin C and polyphenols such as the flavonoids in vivo is also weak. By contrast, α-tocopherol has demonstrated in vivo antioxidant effects in humans.",
+  "type": "academic",
+  "pdf_url": "https://www.annualreviews.org/doi/pdf/10.1146/annurev-food-060822-122236"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "src-117",
+  "title": "Lipid-Based Nanoparticles for Drug/Gene Delivery: An Overview of the Production Techniques and Difficulties Encountered in Their Industrial Development",
+  "authors": [
+    "Mehta, Meenu",
+    "Bùi, Thuỳ Anh",
+    "Yang, Xinpu",
+    "Aksoy, Yagiz Alp",
+    "Goldys, Ewa M.",
+    "Deng, Wei"
+  ],
+  "doi": "10.1021/acsmaterialsau.3c00032",
+  "url": "https://openalex.org/W4386030674",
+  "provider": "openalex",
+  "year": 2023,
+  "venue": "ACS Materials Au",
+  "citation_count": 535,
+  "abstract": "Over the past decade, the therapeutic potential of nanomaterials as novel drug delivery systems complementing conventional pharmacology has been widely acknowledged. Among these nanomaterials, lipid-based nanoparticles (LNPs) have shown remarkable pharmacological performance and promising therapeutic outcomes, thus gaining substantial interest in preclinical and clinical research. In this review, we introduce the main types of LNPs used in drug formulations such as liposomes, nanoemulsions, solid lipid nanoparticles, nanostructured lipid carriers, and lipid polymer hybrid nanoparticles, focusing on their main physicochemical properties and therapeutic potential. We discuss computational studies and modeling techniques to enhance the understanding of how LNPs interact with therapeutic cargo and to predict the potential effectiveness of such interactions in therapeutic applications. We also analyze the benefits and drawbacks of various LNP production techniques such as nanoprecipitation, emulsification, evaporation, thin film hydration, microfluidic-based methods, and an impingement jet mixer. Additionally, we discuss the major challenges associated with industrial development, including stability and sterilization, storage, regulatory compliance, reproducibility, and quality control. Overcoming these challenges and facilitating regulatory compliance represent the key steps toward LNP's successful commercialization and translation into clinical settings.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.1021/acsmaterialsau.3c00032"
+}

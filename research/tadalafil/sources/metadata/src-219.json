@@ -1,0 +1,21 @@
+{
+  "id": "src-219",
+  "title": "Endothelin Receptor Antagonists: Status Quo and Future Perspectives for Targeted Therapy",
+  "authors": [
+    "Enevoldsen, Frederik Cosedis",
+    "Sahana, Jayashree",
+    "Wehland, Markus",
+    "Grimm, Daniela",
+    "Infanger, Manfred",
+    "Krüger, Marcus"
+  ],
+  "doi": "10.3390/jcm9030824",
+  "url": "https://openalex.org/W3011105676",
+  "provider": "openalex",
+  "year": 2020,
+  "venue": "Journal of Clinical Medicine",
+  "citation_count": 117,
+  "abstract": "The endothelin axis, recognized for its vasoconstrictive action, plays a central role in the pathology of pulmonary arterial hypertension (PAH). Treatment with approved endothelin receptor antagonists (ERAs), such as bosentan, ambrisentan, or macitentan, slow down PAH progression and relieves symptoms. Several findings have indicated that endothelin is further involved in the pathogenesis of certain other diseases, making ERAs potentially beneficial in the treatment of various conditions. In addition to PAH, this review summarizes the use and perspectives of ERAs in cancer, renal disease, fibrotic disorders, systemic scleroderma, vasospasm, and pain management. Bosentan has proven to be effective in systemic sclerosis PAH and in decreasing the development of vasospasm-related digital ulcers. The selective ERA clazosentan has been shown to be effective in preventing cerebral vasospasm and delaying ischemic neurological deficits and new infarcts. Furthermore, in the SONAR (Study Of Diabetic Nephropathy With Atrasentan) trial, the selective ERA atrasentan reduced the risk of renal events in patients with diabetes and chronic kidney disease. These data suggest atrasentan as a new therapy in the treatment of diabetic nephropathy and possibly other renal diseases. Preclinical studies regarding heart failure, cancer, and fibrotic diseases have demonstrated promising effects, but clinical trials have not yet produced measurable results. Nevertheless, the potential benefits of ERAs may not be fully realized.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2077-0383/9/3/824/pdf?version=1584535145"
+}

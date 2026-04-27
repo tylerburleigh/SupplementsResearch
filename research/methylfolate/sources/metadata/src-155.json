@@ -1,0 +1,23 @@
+{
+  "id": "src-155",
+  "title": "Prospective study of methylenetetrahydrofolate reductase (MTHFR) variant C677T and risk of all-cause and cardiovascular disease mortality among 6000 US adults.",
+  "authors": [
+    "Yang, Quanhe",
+    "Bailey, Lynn",
+    "Clarke, Robert",
+    "Flanders, W Dana",
+    "Liu, Tiebin",
+    "Yesupriya, Ajay",
+    "Khoury, Muin J",
+    "Friedman, Jan M"
+  ],
+  "doi": "10.3945/ajcn.111.022384",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/22492374",
+  "provider": "pubmed",
+  "year": 2012,
+  "venue": "The American journal of clinical nutrition",
+  "citation_count": 0,
+  "abstract": "BACKGROUND: The association between blood homocysteine concentration and the risk of cardiovascular disease (CVD) remains controversial, but few studies have examined the association between MTHFR C677T (a proxy for high homocysteine concentration) and death from CVD.\nOBJECTIVE: The objective was to examine associations of MTHFR C677T, a proxy for high homocysteine concentrations, with CVD mortality and with all-cause mortality in a national representative prospective cohort of the US adult population before the introduction of mandatory folic acid fortification of flour.\nDESIGN: We used Mendelian randomization to examine the association of MTHFR C677T with cause-specific mortality in 5925 participants by accessing the NHANES III (1991-1994) Linked Mortality File (through 2006).\nRESULTS: A comparison of homozygotes at baseline showed that individuals with a TT genotype had a 2.2-μmol/L higher homocysteine and a 1.4-ng/mL lower folate concentration, respectively, than did those with a CC genotype. The TT genotype frequency varied from 1.2% (95% CI: 0.7, 2.0) in non-Hispanic blacks and 11.6% (95% CI: 9.6, 14.0) in non-Hispanic whites to 19.4% (95% CI: 16.7, 22.3) in Mexican Americans. After adjustment for ethnic group and other CVD risk factors, the MTHFR C677T TT genotype was associated with significantly lower CVD mortality (HR: 0.69; 95% CI: 0.50, 0. 95) but had no significant effect on all-cause mortality (HR: 0.79; 95% CI: 0.59, 1.05). After stratification by period of follow-up, the inverse association of MTHFR with CVD mortality was significant only in the period after introduction of mandatory folic acid fortification.\nCONCLUSION: The inverse association of MTHFR with CVD mortality was unexpected and highlights the need for caution in interpretation of Mendelian randomization studies, which, like other observational studies, can be influenced by chance, bias, or confounding.",
+  "type": "academic",
+  "pdf_url": ""
+}

@@ -1,0 +1,19 @@
+{
+  "id": "src-196",
+  "title": "Phosphodiesterase inhibitors for the treatment of pulmonary hypertension",
+  "authors": [
+    "Wilkins, Martin R.",
+    "Wharton, John",
+    "Grimminger, Friedrich",
+    "Ghofrani, Hossein Ardeschir"
+  ],
+  "doi": "10.1183/09031936.00124007",
+  "url": "https://openalex.org/W2078855026",
+  "provider": "openalex",
+  "year": 2008,
+  "venue": "European Respiratory Journal",
+  "citation_count": 149,
+  "abstract": "The pulmonary vascular bed is both a source of and target for a number of vasoactive factors. Among the most important for pulmonary vascular homeostasis are factors that utilise cyclic guanosine monophosphate (cGMP) as an intracellular second messenger. These include nitric oxide and the natriuretic peptide family (atrial, brain and C-type natriuretic peptides). In the search for therapeutic strategies that engage the cGMP signalling pathway for the treatment of pulmonary arterial hypertension (PAH), inhibition of cGMP metabolism by phosphodiesterase type 5 (PDE5)-targeted compounds has proven most successful to date. One PDE5 inhibitor, sildenafil, has been shown to improve pulmonary haemodynamics and exercise capacity in patients with PAH and is now an approved treatment. Others are under investigation. An interesting, although still tentative, observation is the potential of sildenafil to reduce pulmonary vascular resistance without adversely affecting ventilation-perfusion matching. Another is the expression of phosphodiesterase type 5 in the hypertrophied right ventricle. These data suggest that phosphodiesterase type 5 inhibitors may have effects that distinguish them from other treatments for pulmonary hypertension and merit further study.",
+  "type": "academic",
+  "pdf_url": "https://erj.ersjournals.com/content/erj/32/1/198.full.pdf"
+}

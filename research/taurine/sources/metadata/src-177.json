@@ -1,0 +1,17 @@
+{
+  "id": "src-177",
+  "title": "Macronutrient metabolism by the human gut microbiome: major fermentation by-products and their impact on host health",
+  "authors": [
+    "Oliphant, Kaitlyn",
+    "Allen‐Vercoe, Emma"
+  ],
+  "doi": "10.1186/s40168-019-0704-8",
+  "url": "https://openalex.org/W2952437732",
+  "provider": "openalex",
+  "year": 2019,
+  "venue": "Microbiome",
+  "citation_count": 1315,
+  "abstract": "The human gut microbiome is a critical component of digestion, breaking down complex carbohydrates, proteins, and to a lesser extent fats that reach the lower gastrointestinal tract. This process results in a multitude of microbial metabolites that can act both locally and systemically (after being absorbed into the bloodstream). The impact of these biochemicals on human health is complex, as both potentially beneficial and potentially toxic metabolites can be yielded from such microbial pathways, and in some cases, these effects are dependent upon the metabolite concentration or organ locality. The aim of this review is to summarize our current knowledge of how macronutrient metabolism by the gut microbiome influences human health. Metabolites to be discussed include short-chain fatty acids and alcohols (mainly yielded from monosaccharides); ammonia, branched-chain fatty acids, amines, sulfur compounds, phenols, and indoles (derived from amino acids); glycerol and choline derivatives (obtained from the breakdown of lipids); and tertiary cycling of carbon dioxide and hydrogen. Key microbial taxa and related disease states will be referred to in each case, and knowledge gaps that could contribute to our understanding of overall human wellness will be identified.",
+  "type": "academic",
+  "pdf_url": "https://microbiomejournal.biomedcentral.com/track/pdf/10.1186/s40168-019-0704-8"
+}

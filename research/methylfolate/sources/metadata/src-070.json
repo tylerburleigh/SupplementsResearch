@@ -1,0 +1,29 @@
+{
+  "id": "src-070",
+  "title": "Elevated Plasma Homocysteine Was Associated With Hemorrhagic and Ischemic Stroke, but Methylenetetrahydrofolate Reductase Gene C677T Polymorphism Was a Risk Factor for Thrombotic Stroke",
+  "authors": [
+    "Li, Zhaohui",
+    "Sun, Li",
+    "Zhang, Hongye",
+    "Liao, Yuhua",
+    "Wang, Dao Wen",
+    "Bingrang, Zhao",
+    "Zhu, Zhiming",
+    "Zhao, Jizong",
+    "Ma, Aiqun",
+    "Han, Yu",
+    "Wang, Yibo",
+    "Shi, Yi",
+    "Ye, Jue",
+    "Hui, Rutai"
+  ],
+  "doi": "10.1161/01.str.0000086753.00555.0d",
+  "url": "https://openalex.org/W2121756636",
+  "provider": "openalex",
+  "year": 2003,
+  "venue": "Stroke",
+  "citation_count": 195,
+  "abstract": "The C677T polymorphism of the MTHFR gene was associated with increased risk of cerebral thrombotic stroke in Chinese. Total plasma homocysteine was correlated with both ischemic and hemorrhagic stroke, suggesting potential initiation of homocysteine-lowering therapy in this population.",
+  "type": "academic",
+  "pdf_url": "https://www.ahajournals.org/doi/pdf/10.1161/01.STR.0000086753.00555.0D"
+}

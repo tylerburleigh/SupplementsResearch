@@ -1,0 +1,30 @@
+{
+  "id": "src-006",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://ivcjournal.com/tag/curcumin-bioavailability-dogs",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-22T14:30:57.801234+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-006.md",
+  "quality_details": {
+    "content_length": 188,
+    "alpha_ratio": 0.798,
+    "sentence_count": 0,
+    "reasons": [
+      "content too short (188 chars < 500)",
+      "few sentences detected (0 < 3)"
+    ]
+  }
+}

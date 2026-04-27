@@ -1,0 +1,20 @@
+{
+  "id": "src-057",
+  "title": "Effect of changes in potassium intake on blood pressure: a dose–response meta-analysis of randomized clinical trials (2000–2024)",
+  "authors": [
+    "Granal, M.",
+    "Sourd, V.",
+    "Burnier, M.",
+    "Fauvel, J.-P.",
+    "Gougeon, Arthur"
+  ],
+  "doi": "10.1093/ckj/sfaf173",
+  "url": "https://www.semanticscholar.org/paper/1ced7c017fbb0b88cd5c6b8f6f28d48e76fe9988",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "Clinical Kidney Journal",
+  "citation_count": 1,
+  "abstract": "ABSTRACT Background Over the past three decades, the prevalence of hypertension in adults has doubled worldwide, surging from 650 million to 1.3 billion cases between 1990 and 2019. Sodium reduction is a cornerstone of non-pharmacological strategies for managing hypertension. However, recent guidelines increasingly emphasize the importance of boosting potassium intake, supported by robust evidence of its cardiovascular benefits. Despite this, the precise dose-dependent effects of potassium on blood pressure (BP) remain inadequately defined. Methods We conducted a systematic review of randomized controlled trials (RCTs) published between 2000 and 2024 to evaluate the impact of potassium supplementation alone—assessed solely via 24-h urinary potassium excretion—on BP. A dose–response meta-analysis was performed using linear, quadratic, and one-stage cubic spline regression models. Subgroup analyses were carried out based on subjects with or without hypertension. Results Our meta-analysis included 10 RCTs, comprising 4 studies on subjects without hypertension and 6 studies on subjects with hypertension. The dose–response relationship varied according to BP status. In subjects without hypertension, potassium supplementation had a modest negative linear effect on BP. In contrast, subjects with hypertension exhibited a markedly higher reduction in BP. Specifically, a 50 mmol/day increase in urinary potassium excretion was associated with a 0.5 mmHg reduction in systolic BP (SBP) and a 0.12 mmHg reduction in diastolic BP (DBP) in subjects without hypertension, and a 5.3 mmHg reduction in SBP and a 3.62 mmHg reduction in DBP in subjects with hypertension. Conclusion This meta-analysis highlights the dose–response relationship between potassium supplementation and BP reduction, particularly in subjects with hypertension. While the findings offer valuable insights for refining dietary guidelines, caution is warranted due to the limited number of RCTs included in the analysis.",
+  "type": "academic",
+  "pdf_url": ""
+}

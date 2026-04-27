@@ -1,0 +1,22 @@
+{
+  "id": "src-252",
+  "title": "Vitamin D, Marine n-3 Fatty Acids, and Primary Prevention of Cardiovascular Disease Current Evidence",
+  "authors": [
+    "Manson, JoAnn E.",
+    "Bassuk, Shari S.",
+    "Cook, Nancy R.",
+    "Lee, I‐Min",
+    "Mora, Samia",
+    "Albert, Christine M.",
+    "Buring, Julie E."
+  ],
+  "doi": "10.1161/circresaha.119.314541",
+  "url": "https://openalex.org/W2998564566",
+  "provider": "openalex",
+  "year": 2020,
+  "venue": "Circulation Research",
+  "citation_count": 70,
+  "abstract": "Whether marine omega-3 fatty acid (n-3 FA) or vitamin D supplementation can prevent cardiovascular disease (CVD) in general populations at usual risk for this outcome is unknown. A major goal of VITAL (Vitamin D and Omega-3 Trial) was to fill this knowledge gap. In this article, we review the results of VITAL, discuss relevant mechanistic studies regarding n-3 FAs, vitamin D, and vascular disease, and summarize recent meta-analyses of the randomized trial evidence on these agents. VITAL was a nationwide, randomized, placebo-controlled, 2×2 factorial trial of marine n-3 FAs (1 g/d) and vitamin D<sub>3</sub> (2000 IU/d) in the primary prevention of CVD and cancer among 25 871 US men aged ≥50 and women aged ≥55 years, including 5106 blacks. Median treatment duration was 5.3 years. Supplemental n-3 FAs did not significantly reduce the primary cardiovascular end point of major CVD events (composite of myocardial infarction, stroke, and CVD mortality; hazard ratio [HR], 0.92 [95% CI, 0.80-1.06]) but were associated with significant reductions in total myocardial infarction (HR, 0.72 [95% CI, 0.59-0.90]), percutaneous coronary intervention (HR, 0.78 [95% CI, 0.63-0.95]), and fatal myocardial infarction (HR, 0.50 [95% CI, 0.26-0.97]) but not stroke or other cardiovascular end points. For major CVD events, a treatment benefit was seen in those with dietary fish intake below the cohort median of 1.5 servings/wk (HR, 0.81 [95% CI, 0.67-0.98]) but not in those above (<i>P</i> interaction=0.045). For myocardial infarction, the greatest risk reductions were in blacks (HR, 0.23 [95% CI, 0.11-0.47]; <i>P</i> interaction by race, 0.001). Vitamin D supplementation did not reduce major CVD events (HR, 0.97 [95% CI, 0.85-1.12]) or other cardiovascular end points. Updated meta-analyses that include VITAL and other recent trials document coronary risk reduction from supplemental marine n-3 FAs but no clear CVD risk reduction from supplemental vitamin D. Additional research is needed to determine which individuals may be most likely to derive net benefit from supplementation. Clinical Trial Registration: URL: http://www.clinicaltrials.gov. Unique identifier: NCT01169259.",
+  "type": "academic",
+  "pdf_url": "https://www.ahajournals.org/doi/pdf/10.1161/CIRCRESAHA.119.314541"
+}

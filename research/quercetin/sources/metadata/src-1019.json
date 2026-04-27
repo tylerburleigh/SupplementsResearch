@@ -1,0 +1,21 @@
+{
+  "id": "src-1019",
+  "title": "Inflammation and atherosclerosis: signaling pathways and therapeutic intervention",
+  "authors": [
+    "Kong, Peng",
+    "Cui, Ziyang",
+    "Huang, Xiao-Fu",
+    "Zhang, Dandan",
+    "Guo, Rui‐Juan",
+    "Han, Mei"
+  ],
+  "doi": "10.1038/s41392-022-00955-7",
+  "url": "https://openalex.org/W4224251997",
+  "provider": "openalex",
+  "year": 2022,
+  "venue": "Signal Transduction and Targeted Therapy",
+  "citation_count": 1036,
+  "abstract": "Atherosclerosis is a chronic inflammatory vascular disease driven by traditional and nontraditional risk factors. Genome-wide association combined with clonal lineage tracing and clinical trials have demonstrated that innate and adaptive immune responses can promote or quell atherosclerosis. Several signaling pathways, that are associated with the inflammatory response, have been implicated within atherosclerosis such as NLRP3 inflammasome, toll-like receptors, proprotein convertase subtilisin/kexin type 9, Notch and Wnt signaling pathways, which are of importance for atherosclerosis development and regression. Targeting inflammatory pathways, especially the NLRP3 inflammasome pathway and its regulated inflammatory cytokine interleukin-1β, could represent an attractive new route for the treatment of atherosclerotic diseases. Herein, we summarize the knowledge on cellular participants and key inflammatory signaling pathways in atherosclerosis, and discuss the preclinical studies targeting these key pathways for atherosclerosis, the clinical trials that are going to target some of these processes, and the effects of quelling inflammation and atherosclerosis in the clinic.",
+  "type": "academic",
+  "pdf_url": "https://www.nature.com/articles/s41392-022-00955-7.pdf"
+}

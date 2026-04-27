@@ -1,0 +1,35 @@
+{
+  "id": "src-037",
+  "title": "Sulforaphane as a potential therapeutic agent: a comprehensive analysis of clinical trials and mechanistic insights",
+  "authors": [
+    "Saito, Atsushi",
+    "Ishikawa, Shoichi",
+    "Yang, Kun",
+    "Sawa, Akira",
+    "Ishizuka, Koko"
+  ],
+  "year": 2025,
+  "abstract": "Abstract\nSulforaphane (SFN), a bioactive compound derived from glucoraphanin in cruciferous vegetables such as broccoli, has been extensively studied for its therapeutic potential across diverse disease categories. SFN exerts its effects through well-characterised pathways, including the Keap1/Nrf2 axis, which regulates phase II detoxification enzymes, and epigenetic mechanisms such as histone deacetylase inhibition. This review evaluates clinical trials registered on ClinicalTrials.gov, focusing on those using SFN or broccoli-derived extracts.\nAs a result, we identified 84 trials, of which 39 have been published. Results suggest SFN’s potential in regulating redox and inflammatory pathways, improving metabolic and cardiovascular outcomes, and exerting anti-cancer and neuroprotective effects. For healthy subjects, SFN enhanced detoxification and reduced inflammation. In cancer patients, SFN showed promise in early-stage prostate and breast cancer, particularly in GSTM1-positive individuals, but had limited effects in advanced cases. For brain disorders, SFN demonstrated symptomatic improvements in autism spectrum disorder and cognitive benefits in schizophrenia but lacked robust biomarker integration. SFN had minimal impact on respiratory diseases but showed supportive roles in allergic rhinitis therapy. Metabolic disease studies revealed glycaemic control improvements in type 2 diabetes but no benefits for hypertension. Approximately 50% of completed trials remain unpublished, raising concerns about publication bias. While published results highlight SFN’s therapeutic potential, limited sample sizes and inconsistent outcomes underscore the need for more extensive, stratified trials. This review emphasises the importance of integrating mechanistic insights and precision medicine approaches to maximise SFN’s clinical utility.",
+  "doi": "10.1017/jns.2025.10033",
+  "url": "https://doi.org/10.1017/jns.2025.10033",
+  "pdf_url": "",
+  "venue": "Journal of Nutritional Science",
+  "citation_count": 8,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-18T23:19:49.810248+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-037.md",
+  "quality_details": {
+    "content_length": 58523,
+    "alpha_ratio": 0.741,
+    "sentence_count": 508,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

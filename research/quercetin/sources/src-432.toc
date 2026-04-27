@@ -1,0 +1,181 @@
+3	2	Article In Press
+41	2	1. Department of Surgery, McGill University, Montreal, QC, Canada
+42	2	2. Research Institute McGill University Health Centre, Montreal QC,
+44	2	3. Orthopaedic Research Laboratory, McGill University, Montreal,
+46	2	4. Research Unit of Orthopaedic and Trauma Surgery, Department of
+49	2	5. Department of Orthopedic Surgery, University of Connecticut
+51	2	6. Shriners Hospital for Children, Montreal QC, Canada
+55	2	Accepted Manuscript
+56	2	Article In Pressarticle In Press
+63	2	Abstract
+79	2	Accepted Manuscript
+80	2	Article In Pressarticle In Press
+105	2	Accepted Manuscript
+106	2	Article In Pressarticle In Press
+119	2	1. Introduction
+129	2	Accepted Manuscript
+130	2	Article In Pressarticle In Press
+154	2	Accepted Manuscript
+155	2	Article In Pressarticle In Press
+180	2	Accepted Manuscript
+181	2	Article In Pressarticle In Press
+205	2	Accepted Manuscript
+206	2	Article In Pressarticle In Press
+210	2	2. Methods
+211	3	2.1. Study Design and Protocol
+229	2	Accepted Manuscript
+230	2	Article In Pressarticle In Press
+234	3	2.2. Search Strategy
+243	3	2.3. Eligibility Criteria
+253	2	Accepted Manuscript
+254	2	Article In Pressarticle In Press
+258	3	2.4. Study Selection and Data Collection
+274	3	2.5. Risk of Bias Assessment
+277	2	Accepted Manuscript
+278	2	Article In Pressarticle In Press
+301	2	Accepted Manuscript
+302	2	Article In Pressarticle In Press
+304	3	2.6. Data Synthesis
+318	2	3. Results
+319	3	3.1. Study Selection
+325	2	Accepted Manuscript
+326	2	Article In Pressarticle In Press
+333	3	3.2. Study Characteristics
+350	2	Accepted Manuscript
+351	2	Article In Pressarticle In Press
+356	3	3.3. Interventions, Routes and Dosages
+375	2	Accepted Manuscript
+376	2	Article In Pressarticle In Press
+401	2	Accepted Manuscript
+402	2	Article In Pressarticle In Press
+414	3	3.4. Risk of Bias within Studies
+426	2	Accepted Manuscript
+427	2	Article In Pressarticle In Press
+438	3	3.5. Tumor Burden and Survival Outcomes
+446	4	3.5.1. Tumor Volume
+450	2	Accepted Manuscript
+451	2	Article In Pressarticle In Press
+461	2	Accepted Manuscript
+462	2	Article In Pressarticle In Press
+464	4	3.5.2. Tumor Weight
+478	4	3.5.3. Survival
+486	2	Accepted Manuscript
+487	2	Article In Pressarticle In Press
+493	3	3.6. Mechanistic Outcomes
+506	4	3.6.1. Senescence
+510	2	Accepted Manuscript
+511	2	Article In Pressarticle In Press
+529	4	3.6.2. SASP
+535	2	Accepted Manuscript
+536	2	Article In Pressarticle In Press
+550	4	3.6.3 Proliferation, Apoptosis and DNA damage
+560	2	Accepted Manuscript
+561	2	Article In Pressarticle In Press
+579	3	3.7. Toxicity and Risk Profile Data
+585	2	Accepted Manuscript
+586	2	Article In Pressarticle In Press
+611	2	Accepted Manuscript
+612	2	Article In Pressarticle In Press
+630	2	4. Discussion
+631	3	4.1. Background and Main Findings
+635	2	Accepted Manuscript
+636	2	Article In Pressarticle In Press
+660	2	Accepted Manuscript
+661	2	Article In Pressarticle In Press
+682	3	4.2. Establishment of Senescence and Early Oncologic Applications
+685	2	Accepted Manuscript
+686	2	Article In Pressarticle In Press
+709	2	Accepted Manuscript
+710	2	Article In Pressarticle In Press
+712	3	4.3. Senescence Beyond Oncology
+731	3	4.4. Clinical Translation and Future Direction
+734	2	Accepted Manuscript
+735	2	Article In Pressarticle In Press
+758	2	Accepted Manuscript
+759	2	Article In Pressarticle In Press
+765	3	4.5. Limitations
+780	2	5. Conclusion
+781	2	Accepted Manuscript
+782	2	Article In Pressarticle In Press
+805	2	Accepted Manuscript
+806	2	Article In Pressarticle In Press
+826	2	Accepted Manuscript
+827	2	Article In Pressarticle In Press
+847	2	Accepted Manuscript
+848	2	Article In Pressarticle In Press
+869	2	Accepted Manuscript
+870	2	Article In Pressarticle In Press
+890	2	Accepted Manuscript
+891	2	Article In Pressarticle In Press
+896	2	References
+932	2	Accepted Manuscript
+933	2	Article In Pressarticle In Press
+979	2	Accepted Manuscript
+980	2	Article In Pressarticle In Press
+1028	2	Accepted Manuscript
+1029	2	Article In Pressarticle In Press
+1077	2	Accepted Manuscript
+1078	2	Article In Pressarticle In Press
+1124	2	Accepted Manuscript
+1125	2	Article In Pressarticle In Press
+1170	2	Accepted Manuscript
+1171	2	Article In Pressarticle In Press
+1187	2	Accepted Manuscript
+1188	2	Article In Pressarticle In Press
+1220	2	Accepted Manuscript
+1221	2	Article In Pressarticle In Press
+1225	2	Accepted Manuscript
+1226	2	Article In Pressarticle In Press
+1229	2	Inclusion Criteria
+1236	2	Exclusion Criteria
+1242	2	Accepted Manuscript
+1243	2	Article In Pressarticle In Press
+1328	2	Accepted Manuscript
+1329	2	Article In Pressarticle In Press
+1422	2	Accepted Manuscript
+1423	2	Article In Pressarticle In Press
+1491	2	Accepted Manuscript
+1492	2	Article In Pressarticle In Press
+1550	2	Accepted Manuscript
+1551	2	Article In Pressarticle In Press
+1606	2	Accepted Manuscript
+1607	2	Article In Pressarticle In Press
+1609	2	Accepted Manuscript
+1610	2	Article In Pressarticle In Press
+1679	2	Accepted Manuscript
+1680	2	Article In Pressarticle In Press
+1788	2	Accepted Manuscript
+1789	2	Article In Pressarticle In Press
+1848	2	Ivis
+1905	2	Accepted Manuscript
+1906	2	Article In Pressarticle In Press
+2000	2	Accepted Manuscript
+2001	2	Article In Pressarticle In Press
+2028	2	Accepted Manuscript
+2029	2	Article In Pressarticle In Press
+2065	2	Accepted Manuscript
+2066	2	Article In Pressarticle In Press
+2101	2	Accepted Manuscript
+2102	2	Article In Pressarticle In Press
+2119	2	Accepted Manuscript
+2120	2	Article In Pressarticle In Press
+2195	2	Accepted Manuscript
+2196	2	Article In Pressarticle In Press
+2293	2	Accepted Manuscript
+2294	2	Article In Pressarticle In Press
+2354	2	Accepted Manuscript
+2355	2	Article In Pressarticle In Press
+2467	2	Accepted Manuscript
+2468	2	Article In Pressarticle In Press
+2583	2	Accepted Manuscript
+2584	2	Article In Pressarticle In Press
+2692	2	Accepted Manuscript
+2693	2	Article In Pressarticle In Press
+2822	2	Accepted Manuscript
+2823	2	Article In Pressarticle In Press
+2908	2	Accepted Manuscript
+2909	2	Article In Pressarticle In Press
+2913	2	Accepted Manuscript
+2914	2	Article In Pressarticle In Press
+2916	2	Accepted Manuscript
+2917	2	Article In Pressarticle In Press

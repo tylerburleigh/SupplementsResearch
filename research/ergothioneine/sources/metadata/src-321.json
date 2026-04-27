@@ -1,0 +1,10 @@
+{
+  "id": "src-321",
+  "title": "Discovery of the ergothioneine transporter - PubMed",
+  "authors": [],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/15795384",
+  "provider": "perplexity",
+  "year": 2005,
+  "abstract": "Variants of the SLC22A4 gene are associated with susceptibility to rheumatoid arthritis and Crohn's disease.\nSLC22A4 codes for an integral membrane protein, OCTN1, that has been presumed to carry organic cations like tetraethylammonium across the plasma membrane.\nHere, we show that the key substrate of this transporter is in fact ergothioneine (ET).\nHuman OCTN1 was expressed in 293 cells.\nA substrate lead, stachydrine (alias proline betaine), was identified by liquid chromatography MS difference shading, a new substrate search strategy.\nAnalysis of transport efficiency of stachydrine-related solutes, affinity, and Na+ dependence indicates that the physiological substrate is ET.\nEfficiency of transport of ET was as high as 195 microl per min per mg of protein.\nBy contrast, the carnitine transporter OCTN2 from rat did not transport ET at all.\nBecause ET is transported >100 times more efficiently than tetraethylammonium and carnitine, we propose the functional name ETT (ET transporter) instead of OCTN1.",
+  "type": "web"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "src-042",
+  "title": "Effects of human concurrent aerobic and resistance training on cognitive health: A systematic review with meta-analysis",
+  "authors": [
+    "Zhang, Mingyang",
+    "Fang, Wang",
+    "Wang, Jiahong"
+  ],
+  "doi": "10.1016/j.ijchp.2025.100559",
+  "url": "https://www.semanticscholar.org/paper/58c8814a788461c2c7cc6780c8cae0404e9204fc",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "International Journal of Clinical and Health Psychology",
+  "citation_count": 13,
+  "abstract": "Background The rising prevalence of cognitive decline and neurodegenerative diseases, projected to affect 150 million individuals by 2050, highlights the urgent need to enhance neurocognitive health. While both aerobic and resistance training are recognized as effective strategies, their combined effects on cognition remain underexplored. Objective This study aimed to determine if concurrent aerobic and resistance training (CT) is effective in enhancing cognitive function. Methods Seven English and three Chinese databases were searched from inception to August 2024. Randomised controlled trials (RCTs) examining the effects of CT on global cognition across diverse populations were included. A meta-analysis was performed using a random-effects model in R and Stata, supplemented by subgroup and meta-regression analyses to explore variability. Results The meta-analysis included 35 RCTs with 5,734 participants, revealing a positive effect of CT on global cognition (g = 0.32, 95% CI: 0.17–0.46, p < 0.001). Notably, older adults (≥65 years) exhibited greater cognitive benefits (g = 0.33; 95% CI: 0.14–0.51, p < 0.05) compared to younger populations. Significant effects were also observed in clinical populations (g = 0.28; 95% CI: 0.11–0.46, p < 0.001). Exercise frequency and duration positively influenced outcomes, with medium-length interventions (13–26 weeks) demonstrating significant effects (g = 0.21; 95% CI: 0.05–0.37, p = 0.011). Conclusion The findings indicate that CT significantly enhances cognitive health, particularly in older adults and clinical populations. Prioritizing strength training, implementing short- to medium-term interventions (4–26 weeks), and maintaining session durations of 30–60 minutes are crucial for optimizing cognitive benefits.",
+  "type": "academic",
+  "pdf_url": ""
+}

@@ -1,0 +1,24 @@
+{
+  "id": "src-390",
+  "title": "PGC-1α Methylation, miR-23a, and miR-30e Expression as Biomarkers for Exercise- and Diet-Induced Mitochondrial Biogenesis in Capillary Blood from Healthy Individuals: A Single-Arm Intervention",
+  "authors": [
+    "Krammer, Ulrike",
+    "Sommer, Alexandra",
+    "Tschida, Sylvia",
+    "Mayer, Anna",
+    "Lilja, Stephanie",
+    "Switzeny, Olivier J.",
+    "Hippe, Berit",
+    "Rust, Petra",
+    "Haslberger, Alexander G."
+  ],
+  "doi": "10.3390/sports10050073",
+  "url": "https://openalex.org/W4229376402",
+  "provider": "openalex",
+  "year": 2022,
+  "venue": "Sports",
+  "citation_count": 11,
+  "abstract": "Healthy mitochondria and their epigenetic control are essential to maintaining health, extending life expectancy, and improving cardiovascular performance. Strategies to maintain functional mitochondria during aging include training; cardiovascular exercise has been suggested as the best method, but strength training has also been identified as essential to health and healthy aging. We therefore investigated the effects of concurrent exercise training and dietary habits on epigenetic mechanisms involved in mitochondrial (mt) functions and biogenesis. We analyzed epigenetic biomarkers that directly target the key regulator of mitochondrial biogenesis, PGC-1α, and mtDNA content. Thirty-six healthy, sedentary participants completed a 12-week concurrent training program. Before and after the intervention, dried blood spot samples and data on eating habits, lifestyle, and body composition were collected. MiR-23a, miR-30e expression, and mtDNA content were analyzed using real-time quantitative polymerase chain reaction (qPCR) analysis. PGC-1α methylation was analyzed using bisulfite pyrosequencing. MiR-23a, miR-30e expression, and PGC-1α methylation decreased after the intervention (p < 0.05). PGC-1α methylation increased with the consumption of red and processed meat, and mtDNA content increased with the ingestion of cruciferous vegetables (p < 0.05). Our results indicate that concurrent training could improve mitochondrial biogenesis and functions by altering the epigenetic regulation. These alterations can also be detected outside of the skeletal muscle and could potentially affect athletic performance.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2075-4663/10/5/73/pdf?version=1651832163"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "src-370",
+  "title": "Science-Driven Nutritional Interventions for the Prevention and Treatment of Cancer",
+  "authors": [
+    "Montégut, Léa",
+    "Cabo, Rafael de",
+    "Zitvogel, Laurence",
+    "Kroemer, Guido"
+  ],
+  "doi": "10.1158/2159-8290.cd-22-0504",
+  "url": "https://openalex.org/W4292731398",
+  "provider": "openalex",
+  "year": 2022,
+  "venue": "Cancer Discovery",
+  "citation_count": 38,
+  "abstract": "The avoidance of intrinsically hypercaloric and toxic diets contributes to the prevention and cure of cancer. In addition, specific diet-induced molecules such as ketone bodies and micronutrients, including specific vitamins, have drug-like effects that are clearly demonstrable in preclinical models, mostly in the context of immunotherapies. Multiple trials are underway to determine the clinical utility of such molecules.",
+  "type": "academic",
+  "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10749912/pdf/nihms-1923764.pdf"
+}

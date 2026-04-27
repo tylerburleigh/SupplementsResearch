@@ -1,0 +1,23 @@
+{
+  "id": "src-325",
+  "title": "Vitamin K for Vascular Calcification in Kidney Patients: Still Alive and Kicking, but Still a Lot to Learn",
+  "authors": [
+    "Neofytou, Ioannis",
+    "Stamou, Aikaterini",
+    "Demopoulos, Antonia",
+    "Roumeliotis, Stefanos",
+    "Zebekakis, Pantelis",
+    "Liakopoulos, Vassilios",
+    "Stamellou, Eleni",
+    "Dounousi, Evangelia"
+  ],
+  "doi": "10.3390/nu16121798",
+  "url": "https://openalex.org/W4399430361",
+  "provider": "openalex",
+  "year": 2024,
+  "venue": "Nutrients",
+  "citation_count": 11,
+  "abstract": "Patients with chronic kidney disease (CKD) suffer disproportionately from a high burden of cardiovascular disease, which, despite recent scientific advances, remains partly understood. Vascular calcification (VC) is the result of an ongoing process of misplaced calcium in the inner and medial layers of the arteries, which has emerged as a critical contributor to cardiovascular events in CKD. Beyond its established role in blood clotting and bone health, vitamin K appears crucial in regulating VC via vitamin K-dependent proteins (VKDPs). Among these, the matrix Gla protein (MGP) serves as both a potent inhibitor of VC and a valuable biomarker (in its inactive form) for reflecting circulating vitamin K levels. CKD patients, especially in advanced stages, often present with vitamin K deficiency due to dietary restrictions, medications, and impaired intestinal absorption in the uremic environment. Epidemiological studies confirm a strong association between vitamin K levels, inactive MGP, and increased CVD risk across CKD stages. Based on the promising results of pre-clinical data, an increasing number of clinical trials have investigated the potential benefits of vitamin K supplementation to prevent, delay, or even reverse VC, but the results have remained inconsistent.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2072-6643/16/12/1798/pdf?version=1717761959"
+}

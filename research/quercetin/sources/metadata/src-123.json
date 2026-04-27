@@ -1,0 +1,22 @@
+{
+  "id": "src-123",
+  "title": "Supramolecular Strategy for the Design of Nanocarriers for Drugs and Natural Bioactives: Current State of the Art (A Review)",
+  "authors": [
+    "Zakharova, L. Ya.",
+    "Maganova, Faniya",
+    "Sinyashin, Kirill",
+    "Gaynanova, Gulnara A.",
+    "Mirgorodskaya, A. B.",
+    "Vasilieva, Elmira A.",
+    "Sinyashin, Оleg G."
+  ],
+  "doi": "10.1134/s1070363223070253",
+  "url": "https://openalex.org/W4386227843",
+  "provider": "openalex",
+  "year": 2023,
+  "venue": "Russian Journal of General Chemistry",
+  "citation_count": 26,
+  "abstract": "Abstract The review focuses on the lipid based nanocarriers, with special attention paid to natural bioactive payloads. First, micelles and microemulsions are considered as very attractive colloidal nanocontainers that allow for marked improving the solubility of hydrophobic bioactives. Further, liposomal vehicles are reviewed, with both advantages and limitations discussed. Literature assay covers up-to-date information of about last three to five years, although brief background is given on the pioneer works addressing the liposomes and their evolution from bench to bedside. Final part of the review is devoted to the modern modifications of vesicular nanocarriers which can be adapted to specific administration way due to improved targeting properties, permeability, mucoadhesiveness and possibility to cross biological barriers. Therein, such kinds of nanocarriers as transfersomes, niosomes, ethosomes, chitosomes are evaluated; and separate sections focus on the natural based formulations, i.e., phytosomes and invasomes.",
+  "type": "academic",
+  "pdf_url": "https://link.springer.com/content/pdf/10.1134/S1070363223070253.pdf"
+}

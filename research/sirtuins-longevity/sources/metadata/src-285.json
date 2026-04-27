@@ -1,0 +1,17 @@
+{
+  "id": "src-285",
+  "title": "Regulation and targeting of SREBP-1 in hepatocellular carcinoma",
+  "authors": [
+    "Su, Fengting",
+    "Koeberle, Andreas"
+  ],
+  "doi": "10.1007/s10555-023-10156-5",
+  "url": "https://openalex.org/W4389241169",
+  "provider": "openalex",
+  "year": 2023,
+  "venue": "Cancer and Metastasis Reviews",
+  "citation_count": 84,
+  "abstract": "Hepatocellular carcinoma (HCC) is an increasing burden on global public health and is associated with enhanced lipogenesis, fatty acid uptake, and lipid metabolic reprogramming. De novo lipogenesis is under the control of the transcription factor sterol regulatory element-binding protein 1 (SREBP-1) and essentially contributes to HCC progression. Here, we summarize the current knowledge on the regulation of SREBP-1 isoforms in HCC based on cellular, animal, and clinical data. Specifically, we (i) address the overarching mechanisms for regulating SREBP-1 transcription, proteolytic processing, nuclear stability, and transactivation and (ii) critically discuss their impact on HCC, taking into account (iii) insights from pharmacological approaches. Emphasis is placed on cross-talk with the phosphatidylinositol-3-kinase (PI3K)-protein kinase B (Akt)-mechanistic target of rapamycin (mTOR) axis, AMP-activated protein kinase (AMPK), protein kinase A (PKA), and other kinases that directly phosphorylate SREBP-1; transcription factors, such as liver X receptor (LXR), peroxisome proliferator-activated receptors (PPARs), proliferator-activated receptor γ co-activator 1 (PGC-1), signal transducers and activators of transcription (STATs), and Myc; epigenetic mechanisms; post-translational modifications of SREBP-1; and SREBP-1-regulatory metabolites such as oxysterols and polyunsaturated fatty acids. By carefully scrutinizing the role of SREBP-1 in HCC development, progression, metastasis, and therapy resistance, we shed light on the potential of SREBP-1-targeting strategies in HCC prevention and treatment.",
+  "type": "academic",
+  "pdf_url": "https://link.springer.com/content/pdf/10.1007/s10555-023-10156-5.pdf"
+}

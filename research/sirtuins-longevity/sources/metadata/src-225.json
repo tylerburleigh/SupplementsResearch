@@ -1,0 +1,23 @@
+{
+  "id": "src-225",
+  "title": "MULTIOMIC SYSTEMS ANALYSIS OF LIFESPAN-EXTENDING INTERVENTIONS IN MOUSE TISSUES",
+  "authors": [
+    "Watanabe, Kengo",
+    "Wilmanski, T.",
+    "Baloni, P.",
+    "Robinson, Max",
+    "Fiehn, Oliver",
+    "Moritz, Robert",
+    "Miller, Richard",
+    "Rappaport, N."
+  ],
+  "doi": "10.1093/geroni/igad104.3000",
+  "url": "https://www.semanticscholar.org/paper/d6883464f24538ff15cc593f8362ea30af66386b",
+  "provider": "semantic_scholar",
+  "year": 2023,
+  "venue": "Innovation in aging",
+  "citation_count": 0,
+  "abstract": "Abstract Aging is associated with dysregulation of molecular, cellular, and physiological processes. Nutritional and pharmacological interventions with different postulated modes of action have been shown to extend lifespan and delay aging-related diseases in model organisms, suggesting the existence of core cellular processes that mediate the effect on lifespan and healthspan. However, these underlying molecular processes remain largely uncharacterized. In this study, we analyzed multiomic tissue-derived data of lifespan-extending interventions in mice including metabolomics and proteomics from the NIA Longevity Consortium and previously reported transcriptomics. We applied three systems techniques, differential rank conservation (DIRAC) analysis, weighted gene co-expression network analysis (WGCNA), and mouse genome-scale metabolic model (GEM) reconstruction, to the mouse liver proteomic and transcriptomic datasets of lifespan-extending interventions (e.g., acarbose, 17α-estradiol, and rapamycin). We found that these interventions generally strengthen the rank conservation of biological processes and shift metabolic fluxes, with fatty acid metabolism emerging as a common process affected by multiple interventions. We then applied these approaches to an expanded experimental data with additional interventions (e.g., canagliflozin) and tissues (e.g., kidney, muscle, and plasma), confirming our results and further observing varied inter-omic and inter-tissue patterns exerted by lifespan-extending interventions. Our findings highlight the potential of integrative systems analysis to elucidate common and unique cellular and physiological changes relating to aging and lifespan-extending interventions, which have translational potential as preventive and prognostic measures to improve human health.",
+  "type": "academic",
+  "pdf_url": "https://academic.oup.com/innovateage/article-pdf/7/Supplement_1/934/54745265/igad104.3000.pdf"
+}

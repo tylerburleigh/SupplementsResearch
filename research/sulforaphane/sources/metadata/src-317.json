@@ -1,0 +1,21 @@
+{
+  "id": "src-317",
+  "title": "Treatment of Disseminated Germ-Cell Tumors with Cisplatin, Bleomycin, and either Vinblastine or Etoposide",
+  "authors": [
+    "Williams, Stephen D.",
+    "Birch, Robert",
+    "Einhorn, Lawrence H.",
+    "Irwin, Linda",
+    "Greco, F. Anthony",
+    "Loehrer, Patrick J."
+  ],
+  "doi": "10.1056/nejm198706043162302",
+  "url": "https://openalex.org/W2323139555",
+  "provider": "openalex",
+  "year": 1987,
+  "venue": "New England Journal of Medicine",
+  "citation_count": 1180,
+  "abstract": "Standard chemotherapy for disseminated germ-cell tumors includes a combination of cisplatin, vinblastine, and bleomycin, but this regimen produces substantial neuromuscular toxicity. In a randomized clinical trial in 261 men with disseminated germ-cell tumors, we substituted etoposide for the vinblastine in this regimen in half the patients to compare the efficacy and toxicity of the two treatments. Among 244 patients who could be evaluated for a response, 74 percent of those receiving the regimen including vinblastine and 83 percent of those receiving the regimen including etoposide became disease-free with or without subsequent surgery (P not significant). Among the 157 patients with high tumor volume, 61 percent became disease-free on the regimen that included vinblastine, as compared with 77 percent on the regimen that included etoposide (P less than 0.05). Survival among the patients who received etoposide was higher (P = 0.048). The regimens were similar in terms of myelosuppressive effects and pulmonary toxicity. However, the etoposide regimen caused substantially fewer paresthesias (P = 0.02), abdominal cramps (P = 0.0008), and myalgias (P = 0.00002). We conclude that etoposide with cisplatin and bleomycin is superior to vinblastine with cisplatin and bleomycin in the treatment of disseminated germ-cell tumors because of diminished neuromuscular toxicity and, among patients with advanced disease, better efficacy.",
+  "type": "academic",
+  "pdf_url": ""
+}

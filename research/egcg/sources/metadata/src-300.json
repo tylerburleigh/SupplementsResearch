@@ -1,0 +1,22 @@
+{
+  "id": "src-300",
+  "title": "EGCG attenuates the neurotoxicity of methylglyoxal via regulating MAPK and the downstream signaling pathways and inhibiting advanced glycation end products formation.",
+  "authors": [
+    "He, Yin",
+    "Yang, Zhijun",
+    "Pi, Jingwen",
+    "Cai, Tiange",
+    "Xia, Ying",
+    "Cao, Xiangyu",
+    "Liu, Jianli"
+  ],
+  "doi": "10.1016/j.foodchem.2022.132358",
+  "url": "https://www.semanticscholar.org/paper/816123f519c5584e5f467d2a780d31d9f86d335d",
+  "provider": "semantic_scholar",
+  "year": 2022,
+  "venue": "Food Chemistry",
+  "citation_count": 33,
+  "abstract": "Methylglyoxal (MGO), a reactive α-oxoaldehyde formed in many foods and beverages during processing and storage, has neurotoxicity. The purpose of this study was to investigate the inhibition mechanism of (-)-epigallocatechin-3-gallate (EGCG) on MGO-induced PC12 cells damage. Cell apoptosis and reactive oxygen species (ROS) level were measured with fluorescent staining methods. Western blotting was used to detect the signal transduction mechanism. The results indicated that EGCG decreased ROS level, inhibited apoptosis and increased the expression of brain-derived neurotrophic factor. Pathways analysis revealed that the neuroprotective mechanism of EGCG might rely on regulating mitogen-activated protein kinase (MAPK) and downstream pathways. Multi-spectroscopy and molecular docking indicated that EGCG inhibited MGO-derived advanced glycation end products (AGEs) formation. Moreover, the neurotoxicity of AGEs could be alleviated by EGCG. These results suggested that EGCG could attenuate MGO-induced nerve damage via regulating MAPK and downstream pathways and inhibiting AGEs formation.",
+  "type": "academic",
+  "pdf_url": ""
+}

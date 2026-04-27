@@ -1,0 +1,33 @@
+{
+  "id": "src-891",
+  "title": "Quercetin and Endurance Exercise Capacity",
+  "authors": [
+    "KRESSLER, JOCHEN",
+    "MILLARD-STAFFORD, MELINDA",
+    "WARREN, GORDON L."
+  ],
+  "year": 2011,
+  "abstract": "",
+  "doi": "10.1249/mss.0b013e31822495a7",
+  "url": "https://doi.org/10.1249/mss.0b013e31822495a7",
+  "pdf_url": "",
+  "venue": "Medicine &amp; Science in Sports &amp; Exercise",
+  "citation_count": 88,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-22T18:14:22.268109+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-891.md",
+  "quality_details": {
+    "content_length": 43702,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "src-341",
+  "title": "Research on vitamin D metabolic regulation in the pathogenesis of related diseases",
+  "authors": [
+    "Ji, Yumeng",
+    "Bi, Ruru",
+    "Wang, Lin"
+  ],
+  "doi": "10.3389/fendo.2026.1762302",
+  "url": "https://www.semanticscholar.org/paper/025e9d11ba69ffa2e1c4f256d8c218304957d11a",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "Frontiers in Endocrinology",
+  "citation_count": 0,
+  "abstract": "Vitamin D is a group of fat-soluble vitamins that plays critical roles in calcium-phosphate homeostasis, bone health, and immune regulation. The metabolic pathway of vitamin D involves two key enzymatic steps: hepatic 25-hydroxylation to produce 25-hydroxyvitamin D [25(OH)D] and renal 1α-hydroxylation to generate the biologically active form 1,25-dihydroxyvitamin D [1,25(OH)2D]. 25(OH)D serves as the gold standard biomarker for assessing vitamin D status due to its high circulating concentration, long half-life, and stable levels. This metabolic process is precisely regulated by parathyroid hormone (PTH), fibroblast growth factor 23 (FGF23), and negative feedback mechanisms mediated by the vitamin D receptor (VDR). Recent studies have demonstrated that CYP27B1, the gene encoding 1α-hydroxylase, is also widely expressed in extrarenal tissues including prostate, breast, placenta, and macrophages, suggesting important roles for vitamin D in local paracrine and autocrine regulation. Dysregulation of vitamin D metabolism is closely associated with the pathogenesis of various diseases, including vitamin D-dependent rickets type 1A (VDDR-1A), chronic kidney disease-mineral and bone disorder (CKD-MBD), tumor-induced osteomalacia (TIO), granulomatous diseases, and CYP24A1 deficiency-related hypercalcemia. Notably, 24,25-dihydroxyvitamin D [24,25(OH)2D], traditionally considered an inactive metabolic end-product, may possess independent biological functions, and its ratio to 1,25(OH)2D can serve as a novel biomarker for assessing vitamin D metabolic status. This review systematically examines the metabolic pathways and regulatory mechanisms of vitamin D, elucidates their associations with disease pathogenesis, and provides theoretical foundation for personalized clinical diagnosis and precision therapy. Future research should establish standardized multi-parameter detection protocols to advance the clinical application of vitamin D metabolomics in precision medicine.",
+  "type": "academic",
+  "pdf_url": ""
+}

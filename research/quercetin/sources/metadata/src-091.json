@@ -1,0 +1,29 @@
+{
+  "id": "src-091",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "",
+  "pdf_url": "https://files-scs.pstatic.net/2025/11/27/m1oshGodda/Curcumin%20Formulations%20for%20Better%20Bioavailability.pdf",
+  "venue": "",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "",
+  "fetched_at": "2026-04-22T17:11:20.814341+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-091.md",
+  "quality_details": {
+    "content_length": 205190,
+    "alpha_ratio": 0.717,
+    "sentence_count": 3934,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

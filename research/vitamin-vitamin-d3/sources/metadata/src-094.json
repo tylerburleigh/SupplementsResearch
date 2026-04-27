@@ -1,0 +1,35 @@
+{
+  "id": "src-094",
+  "title": "Nutritional supplementation for hip fracture aftercare in older people",
+  "authors": [
+    "Avenell, Alison",
+    "Smith, Toby O",
+    "Curtain, James P",
+    "Mak, Jenson CS",
+    "Myint, Phyo K"
+  ],
+  "year": 2016,
+  "abstract": "",
+  "doi": "10.1002/14651858.cd001880.pub6",
+  "url": "https://doi.org/10.1002/14651858.cd001880.pub6",
+  "pdf_url": "",
+  "venue": "Cochrane Database of Systematic Reviews",
+  "citation_count": 48,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T21:41:43.917958+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-094.md",
+  "quality_details": {
+    "content_length": 155485,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

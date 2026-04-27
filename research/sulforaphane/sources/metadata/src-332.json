@@ -1,0 +1,18 @@
+{
+  "id": "src-332",
+  "title": "Small Molecule Modulators of <scp>K</scp>eap1‐<scp>N</scp>rf2‐<scp>ARE</scp> Pathway as Potential Preventive and Therapeutic Agents",
+  "authors": [
+    "Magesh, Sadagopan",
+    "Chen, Yu",
+    "Hu, Longqin"
+  ],
+  "doi": "10.1002/med.21257",
+  "url": "https://openalex.org/W1767659454",
+  "provider": "openalex",
+  "year": 2012,
+  "venue": "Medicinal Research Reviews",
+  "citation_count": 751,
+  "abstract": "Kelch-like ECH-associated protein 1 (Keap1)-nuclear factor erythroid 2-related factor 2 (Nrf2)-antioxidant response elements (ARE) pathway represents one of the most important cellular defense mechanisms against oxidative stress and xenobiotic damage. Activation of Nrf2 signaling induces the transcriptional regulation of ARE-dependent expression of various detoxifying and antioxidant defense enzymes and proteins. Keap1-Nrf2-ARE signaling has become an attractive target for the prevention and treatment of oxidative stress-related diseases and conditions including cancer, neurodegenerative, cardiovascular, metabolic, and inflammatory diseases. Over the last few decades, numerous Nrf2 inducers have been developed and some of them are currently undergoing clinical trials. Recently, overactivation of Nrf2 has been implicated in cancer progression as well as in drug resistance to cancer chemotherapy. Thus, Nrf2 inhibitors could potentially be used to improve the effectiveness of cancer therapy. Herein, we review the signaling mechanism of Keap1-Nrf2-ARE pathway, its disease relevance, and currently known classes of small molecule modulators. We also discuss several aspects of Keap1-Nrf2 interaction, Nrf2-based peptide inhibitor design, and the screening assays currently used for the discovery of direct inhibitors of Keap1-Nrf2 interaction.",
+  "type": "academic",
+  "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/3393814"
+}

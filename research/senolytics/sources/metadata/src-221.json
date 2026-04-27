@@ -1,0 +1,21 @@
+{
+  "id": "src-221",
+  "title": "Abstract 208: Peposertib-induced senescence primes irradiated p53 wild-type cancer cells for clearance by both immune cells and senolytic drugs",
+  "authors": [
+    "Carr, Michael I.",
+    "Sun, Qing",
+    "Lee, Chien-Fei",
+    "Zenke, F.",
+    "Blaukat, A.",
+    "Vassilev, L."
+  ],
+  "doi": "10.1158/1538-7445.am2022-208",
+  "url": "https://www.semanticscholar.org/paper/eda42b5addc5594611875ff6cf300e93698be9e6",
+  "provider": "semantic_scholar",
+  "year": 2022,
+  "venue": "Cancer Research",
+  "citation_count": 1,
+  "abstract": "Peposertib (previously known as M3814) is a potent and selective DNA-PK inhibitor in early-stage clinical development. It effectively blocks the non-homologous end-joining pathway for repair of DNA double-strand breaks (DSB) and has shown strong synergy with ionizing radiation (IR) and DSB-inducing chemotherapy. We recently reported that M3814 overactivates the ATM/p53 signaling axis, reinforces cell cycle checkpoint arrest, and promotes durable premature senescence in irradiated p53 wild-type cancer cells. This unique property of peposertib permits to turn the bulk of irradiated cancer cells into nearly uniform senescent cell population. Using this experimental model, we examined the immunological effects and potential therapeutic applications of IR+peposertib induced senescence. Gene expression analyses of IR+peposertib treated A549 cells showed activation of multiple immune-related genes in the senescent cells, consistent with a strong STING-driven inflammatory response. Multiple secreted cytokines were found substantially elevated in culture media compared to IR controls. Co-culture of IR+peposertib induced senescent cells with PBMCs from healthy volunteers coupled with FACS analyses and live imaging revealed stimulation of the T-cell compartment and killing of senescent but not control cells. Further co-culture experiments with isolated NK cells showed accelerated killing of the senescent IR+peposertib treated A549 cells as compared to controls. These results indicated that IR+peposertib induced inflammatory signaling in senescent A549 cells can stimulate an immune response in vitro, resulting in the effective elimination of both treated and naive A549 cells. We also explored a pharmacological \"two-hit\" approach. Viability assays and time-lapse imaging showed that the senescent, IR+peposertib treated A549 cells were sensitive to several reported senolytic agents. Of those, the BCL-XL inhibitor A-1331852 was most effective at killing peposertib-promoted senescent A549 cells. Our experiments revealed that selective inhibition of DNA-PK in irradiated p53 wild-type cancer cells provides a powerful mechanism for induction of senescent cancer cells with an immunostimulatory secretory phenotype in vitro. In addition, these cells can be selectively targeted by senolytic agents, suggesting that triple combination radiotherapy with DNA-PK inhibitors and senolytics could offer a potential new approach to the treatment of locally advanced tumors.\nCitation Format: Michael Carr, Qing Sun, Chien-Fei Lee, Frank T. Zenke, Andree Blaukat, Lyubomir T. Vassilev. Peposertib-induced senescence primes irradiated p53 wild-type cancer cells for clearance by both immune cells and senolytic drugs [abstract]. In: Proceedings of the American Association for Cancer Research Annual Meeting 2022; 2022 Apr 8-13. Philadelphia (PA): AACR; Cancer Res 2022;82(12_Suppl):Abstract nr 208.",
+  "type": "academic",
+  "pdf_url": ""
+}

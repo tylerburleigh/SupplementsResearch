@@ -1,0 +1,13 @@
+53	2	Abstract
+354	2	4 SIR genes involved in transcriptional silencing
+464	2	Pepck
+994	2	Conclusions
+1008	2	References
+1083	2	5.  Malavasi F, Deaglio S, Funaro A, Ferrero E, Horenstein AL, Ortolan E,
+1149	2	32.  Dioum EM,  Chen R,  Alexander MS,  Zhang Q,  Hogg RT, Gerard RD,
+1152	2	33. Maxwell MM, Tomkinson EM, Nobles J, Wizeman JW, Amore AM,
+1162	2	37. Yang X, Park SH, Chang HC, Shapiro JS, Vassilopoulos A, Sawicki KT,
+1183	2	45.  Mathias  RA, Greco  TM, Oberstein A,  Budayeva  HG, Chakrabarti  R,
+1277	2	78.  Barbosa MT, Soares SM,  Novak CM,  Sinclair D,  Levine JA, Aksoy P ,
+1309	2	89.  Mills  KF,  Y oshida  S,  Stein  LR,  Grozio  A,  Kubota  S,  Sasaki  Y ,
+1316	2	91.  Martens CR,  Denman BA,  Mazzo MR,  Armstrong ML,  Reisdorph N,

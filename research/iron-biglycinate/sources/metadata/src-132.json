@@ -1,0 +1,21 @@
+{
+  "id": "src-132",
+  "title": "Evaluation of serum ferritin for prediction of severity and mortality in COVID-19- A cross sectional study",
+  "authors": [
+    "Ahmed, Sibtain",
+    "Ahmed, Zeeshan Ansar",
+    "Siddiqui, I.",
+    "Rashid, Naveed Haroon",
+    "Mansoor, Maheen",
+    "Jafri, L."
+  ],
+  "doi": "10.1016/j.amsu.2021.02.009",
+  "url": "https://www.semanticscholar.org/paper/40f0d275093c7332196f9959a9219617a8c765d4",
+  "provider": "semantic_scholar",
+  "year": 2021,
+  "venue": "Annals of Medicine and Surgery",
+  "citation_count": 79,
+  "abstract": "Background Ferritin even though widely recognized as a representative of total body iron stores, its prognostic utility is linked with COVID-19. This study was aimed at evaluation of the association of ferritin with severity in Coronavirus disease 2019 (COVID-19), hospitalized patients and to test the hypothesis that it is an independent predictor of mortality. Material and methods This study was conducted at Chemical Pathology, Department of Pathology and Laboratory Medicine, Aga Khan University (AKU), Karachi. Medical records of all in-patients including both genders, and all age groups with documented COVID-19 from 1st March to 10th August 2020 were reviewed. The subjects were divided into two categories severe and non-severe COVID-19; and survivors and non-survivors. The details were recorded on a pre-structured performa. Between-group differences were tested using the Mann–Whitney's U-test. The receiver operating characteristic curve was plotted for ferritin with severity and mortality. A binary logistic regression was used to identify variables independently associated with mortality. The data was analyzed using Statistical Package for the Social Sciences (SPSS). Results A total of 336 in patients were reviewed as declared COVID-19 positive during the study duration, and 157 were included in the final analysis including 108 males and 49 females. Statistically significant difference in ferritin was found in the two categories based on severity and mortality. Binary logistic regression showed ferritin to be an independent predictor of all-cause mortality supplemented with an AUC of 0.69 on ROC analysis. Conclusions Serum ferritin concentration is a promising predictor of mortality in COVID-19 cases.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.1016/j.amsu.2021.02.009"
+}

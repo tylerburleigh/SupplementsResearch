@@ -1,0 +1,17 @@
+{
+  "id": "src-267",
+  "title": "#2131 Frailty, sarcopenia and mortality risk in patients with chronic kidney disease: a nationally representative analysis",
+  "authors": [
+    "Yang, Changyuan",
+    "Su, Guobin"
+  ],
+  "doi": "10.1093/ndt/gfaf116.051",
+  "url": "https://www.semanticscholar.org/paper/4825cf8bd6fcae4b943254c1355c46a8d942f1ea",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "Nephrology, Dialysis and Transplantation",
+  "citation_count": 0,
+  "abstract": "Frailty and sarcopenia are prevalent and could independently predict the adverse outcomes in patients maintaining dialysis. However, their coexistence profile and the interactive effect on mortality in non-dialysis dependent chronic kidney disease (ND-CKD) remains uncertain.\n\nThis observational study analyzed data from the National Health and Nutrition Examination Survey. Frailty was evaluated by a validated 36-item frailty index, while sarcopenia was defined by appendicular skeletal muscle (ASM)/body mass index (BMI). Associations between frailty, sarcopenia, and their combination with mortality were examined using Cox proportional hazards models adjusted for potential covariates, presented as hazard ratios (HRs) and 95% confidence intervals (CI). Restricted cubic splines were applied to explore non-linear associations between the frailty index, sarcopenia score (defined as ASM/BMI) and mortality. Interaction effects between frailty and sarcopenia were assessed through interaction terms. Patients were followed from examination date at baseline until the occurrence of death or end of follow-up (December 31, 2019).\n\nA total of 1711 adult patients (median age 72 years, 42% men) with ND-CKD were included. The prevalence of frailty, sarcopenia and their co-occurrence was 37.6%, 29.6%, and 12.9%, respectively. Over a median follow-up of 10 years, 1,316 participants (76.9%) died. Frailty (HR: 1.51, 95% CI: 1.30–1.76), rather than sarcopenia (HR: 1.15, 95% CI: 0.96–1.37), was associated with an increased risk of all-cause mortality (Fig. 1). A linear relationship between the frailty index and all-cause mortality was observed (p for nonlinearity =0.86) (Fig. 2). There is no interaction effect between frailty and sarcopenia on mortality risk. Patients with both conditions did not show a significantly higher mortality risk compared to those with frailty alone (HR: 1.67 vs. 1.53, p for difference =0.6). Results were consistent in subgroup analyses, including age, sex and several comorbidities.\n\nThere is no interaction effect between frailty and sarcopenia on mortality risk. Frailty, rather than sarcopenia, was associated with mortality in patients with ND-CKD. Future research should prioritize frailty screening in this population.",
+  "type": "academic",
+  "pdf_url": ""
+}

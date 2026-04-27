@@ -1,0 +1,35 @@
+{
+  "id": "src-163",
+  "title": "Chronic Supplementation of Curcumin Enhances the Efficacy of Antidepressants in Major Depressive Disorder",
+  "authors": [
+    "Yu, Jing-Jie",
+    "Pei, Liu-Bao",
+    "Zhang, Yong",
+    "Wen, Zi-Yu",
+    "Yang, Jian-Li"
+  ],
+  "year": 2015,
+  "abstract": "",
+  "doi": "10.1097/jcp.0000000000000352",
+  "url": "https://doi.org/10.1097/jcp.0000000000000352",
+  "pdf_url": "",
+  "venue": "Journal of Clinical Psychopharmacology",
+  "citation_count": 120,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-22T14:38:45.213686+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-163.md",
+  "quality_details": {
+    "content_length": 3145,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

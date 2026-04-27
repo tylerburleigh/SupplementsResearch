@@ -1,0 +1,22 @@
+{
+  "id": "src-136",
+  "title": "Inflammaging and Oxidative Stress in Human Diseases: From Molecular Mechanisms to Novel Treatments",
+  "authors": [
+    "Zuo, Li",
+    "Prather, Evan R.",
+    "Stetskiv, Mykola",
+    "Garrison, Davis E.",
+    "Meade, James R.",
+    "Peace, Timotheus I.",
+    "Zhou, Tingyang"
+  ],
+  "doi": "10.3390/ijms20184472",
+  "url": "https://openalex.org/W2972702965",
+  "provider": "openalex",
+  "year": 2019,
+  "venue": "International Journal of Molecular Sciences",
+  "citation_count": 511,
+  "abstract": "It has been proposed that a chronic state of inflammation correlated with aging known as inflammaging, is implicated in multiple disease states commonly observed in the elderly population. Inflammaging is associated with over-abundance of reactive oxygen species in the cell, which can lead to oxidation and damage of cellular components, increased inflammation, and activation of cell death pathways. This review focuses on inflammaging and its contribution to various age-related diseases such as cardiovascular disease, cancer, neurodegenerative diseases, chronic obstructive pulmonary disease, diabetes, and rheumatoid arthritis. Recently published mechanistic details of the roles of reactive oxygen species in inflammaging and various diseases will also be discussed. Advancements in potential treatments to ameliorate inflammaging, oxidative stress, and consequently, reduce the morbidity of multiple disease states will be explored.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/1422-0067/20/18/4472/pdf?version=1568200092"
+}

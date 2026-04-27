@@ -1,0 +1,33 @@
+{
+  "id": "src-279",
+  "title": "Metabolite profiles and the risk of developing diabetes",
+  "authors": [
+    "Wang, Thomas J.",
+    "Larson, Martin G.",
+    "Vasan, Ramachandran S.",
+    "Cheng, Susan",
+    "Rhee, Eugene P.",
+    "McCabe, Elizabeth L.",
+    "Lewis, Gregory D.",
+    "Fox, Caroline S.",
+    "Jacques, Paul F.",
+    "Fernandez, Céline",
+    "O’Donnell, Christopher J.",
+    "Carr, Stephen A.",
+    "Mootha, Vamsi K.",
+    "Florez, José C.",
+    "Souza, Amanda",
+    "Melander, Olle",
+    "Clish, Clary B.",
+    "Gerszten, Robert E."
+  ],
+  "doi": "10.1038/nm.2307",
+  "url": "https://openalex.org/W2017771330",
+  "provider": "openalex",
+  "year": 2011,
+  "venue": "Nature Medicine",
+  "citation_count": 3115,
+  "abstract": "",
+  "type": "academic",
+  "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/3126616"
+}

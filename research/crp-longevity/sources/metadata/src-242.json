@@ -1,0 +1,24 @@
+{
+  "id": "src-242",
+  "title": "Duration of vitamin D supplementation modulates the association between cardiovascular disease and high-sensitivity C-reactive protein across body mass index strata.",
+  "authors": [
+    "Koufakis, T.",
+    "Georgiadis, Theofylaktos",
+    "Kourti, Areti",
+    "Thisiadou, K.",
+    "Karalazou, P.",
+    "Kokkinos, A.",
+    "Doumas, Michael",
+    "Kotsa, K.",
+    "Makedou, K."
+  ],
+  "doi": "10.1016/j.steroids.2025.109690",
+  "url": "https://www.semanticscholar.org/paper/21e5337a6e720376a570356c2836757122f5abb5",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "Steroids",
+  "citation_count": 1,
+  "abstract": "BACKGROUND\nCardiovascular disease (CVD) and higher body mass index (BMI) are linked to chronic low-grade inflammation. It is unclear whether vitamin D modifies the association between CVD and inflammatory biomarkers uniformly across BMI strata. We therefore tested whether vitamin D status and supplementation modify the CVD-biomarker association and whether any modification differs by BMI category.\n\nMETHODS\nIn a cross-sectional cohort of adults free of acute infection (N = 88; 20 with normal BMI, 34 with overweight, and 34 with obesity), four inflammatory biomarkers were assessed: high-sensitivity C-reactive protein (hs-CRP), presepsin, ferritin, and β-defensin-2. Outcomes were modeled on the natural-log scale with age and sex as covariates. We tested the interaction between BMI and CVD and evaluated whether vitamin D variables [25(OH)D concentrations, supplementation status, supplementation duration, sufficiency category] modified the CVD-biomarker relationship, including prespecified three-way interactions among CVD, vitamin D, and BMI.\n\nRESULTS\nNo interaction between BMI and CVD was detected for any biomarker. For hs-CRP, a significant three-way interaction among CVD, vitamin D supplementation duration, and BMI was observed (p = 0.008) and was robust to sensitivity analyses [duration capped at three or six months; additional adjustment for 25(OH)D and supplementation status]. With longer supplementation, the CVD-hs-CRP difference widened in the moderate-BMI category and attenuated in the higher-BMI category. Other biomarkers showed no comparable interactions.\n\nCONCLUSION\nVitamin D exposure-particularly supplementation duration-may modulate CVD-related inflammation in a BMI-dependent manner. Replication in larger studies is warranted.",
+  "type": "academic",
+  "pdf_url": ""
+}

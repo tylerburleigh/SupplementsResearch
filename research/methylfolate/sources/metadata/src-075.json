@@ -1,0 +1,18 @@
+{
+  "id": "src-075",
+  "title": "Genetics of human neural tube defects",
+  "authors": [
+    "Greene, Nicholas D. E.",
+    "Stanier, Philip",
+    "Copp, Andrew J."
+  ],
+  "doi": "10.1093/hmg/ddp347",
+  "url": "https://openalex.org/W2103953947",
+  "provider": "openalex",
+  "year": 2009,
+  "venue": "Human Molecular Genetics",
+  "citation_count": 312,
+  "abstract": "Neural tube defects (NTDs) are common, severe congenital malformations whose causation involves multiple genes and environmental factors. Although more than 200 genes are known to cause NTDs in mice, there has been rather limited progress in delineating the molecular basis underlying most human NTDs. Numerous genetic studies have been carried out to investigate candidate genes in cohorts of patients, with particular reference to those that participate in folate one-carbon metabolism. Although the homocysteine remethylation gene MTHFR has emerged as a risk factor in some human populations, few other consistent findings have resulted from this approach. Similarly, attention focused on the human homologues of mouse NTD genes has contributed only limited positive findings to date, although an emerging association between genes of the non-canonical Wnt (planar cell polarity) pathway and NTDs provides candidates for future studies. Priorities for the next phase of this research include: (i) larger studies that are sufficiently powered to detect significant associations with relatively minor risk factors; (ii) analysis of multiple candidate genes in groups of well-genotyped individuals to detect possible gene-gene interactions; (iii) use of high throughput genomic technology to evaluate the role of copy number variants and to detect 'private' and regulatory mutations, neither of which have been studied to date; (iv) detailed analysis of patient samples stratified by phenotype to enable, for example, hypothesis-driven testing of candidates genes in groups of NTDs with specific defects of folate metabolism, or in groups of fetuses with well-defined phenotypes such as craniorachischisis.",
+  "type": "academic",
+  "pdf_url": "https://academic.oup.com/hmg/article-pdf/18/R2/R113/1654949/ddp347.pdf"
+}

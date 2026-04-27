@@ -1,0 +1,19 @@
+{
+  "id": "src-189",
+  "title": "Suppression of diabetes in nonobese diabetic mice by oral administration of porcine insulin.",
+  "authors": [
+    "Zhang, Z J",
+    "Davidson, Lance E.",
+    "Eisenbarth, George S.",
+    "Weiner, H L"
+  ],
+  "doi": "10.1073/pnas.88.22.10252",
+  "url": "https://openalex.org/W2160738923",
+  "provider": "openalex",
+  "year": 1991,
+  "venue": "Proceedings of the National Academy of Sciences",
+  "citation_count": 564,
+  "abstract": "Nonobese diabetic (NOD) mice spontaneously develop an autoimmune form of diabetes associated with insulitis. A number of immunomodulatory therapies have been investigated as a treatment for the disease process. Oral administration of the autoantigens myelin basic protein and collagen type II suppresses experimental models of encephalomyelitis and arthritis. We have now found that oral administration of insulin delays the onset and reduces the incidence of diabetes in NOD mice over a 1-year period in animals administered 1 mg of porcine insulin orally twice a week for 5 weeks and then weekly until 1 year of age. As expected, orally administered insulin had no metabolic effect on blood glucose levels. The severity of lymphocytic infiltration of pancreatic islets was also reduced by oral administration of insulin. Furthermore, splenic T cells from animals orally treated with insulin adoptively transfer protection against diabetes, demonstrating that oral insulin administration generates active cellular mechanisms that suppress disease. These results show that oral insulin affects diabetes and the pancreatic cellular inflammatory process in the NOD mouse and raise the possibility that oral administration of insulin or other pancreatic autoantigens may provide a new approach for the treatment of autoimmune diabetes.",
+  "type": "academic",
+  "pdf_url": ""
+}

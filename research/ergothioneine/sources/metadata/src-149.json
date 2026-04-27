@@ -1,0 +1,22 @@
+{
+  "id": "src-149",
+  "title": "OCTN1 (SLC22A4) displays two different transport pathways for organic cations or zwitterions.",
+  "authors": [
+    "Pochini, Lorena",
+    "Barone, Francesca",
+    "Console, Lara",
+    "Brunocilla, Chiara",
+    "Galluccio, Michele",
+    "Scalise, Mariafrancesca",
+    "Indiveri, Cesare"
+  ],
+  "doi": "10.1016/j.bbamem.2023.184263",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38092232",
+  "provider": "pubmed",
+  "year": 2024,
+  "venue": "Biochimica et biophysica acta. Biomembranes",
+  "citation_count": 0,
+  "abstract": "BACKGROUND: OCTN1 belongs to the SLC22 family, which includes transporters for cationic, zwitterionic, and anionic substrates. OCTN1 function and role in cells are still poorly understood. Not only cations, such as TEA, but also zwitterions, such as carnitine and ergothioneine, figure among transported molecules.\nMETHODS: In this work, we carried out transport assays measuring [14C]-TEA and [3H]-Carnitine in proteoliposomes reconstituted with the recombinant human OCTN1 in the presence of Na+ or other cations. The homology model of OCTN1 was built using the structure of OCT3 as a template for docking analysis.\nRESULTS: TEA and carnitine did not inhibit each other. Moreover, carnitine uptake was not affected by the presence of Na+ and TEBA, whereas TEA was strongly inhibited by both compounds. Computational data revealed that TEA, Na+, and carnitine can interact with E381 in the OCTN1 substrate site. Differently from TEA, in the presence of Na+, carnitine is still able to interact with the binding site via R469.\nCONCLUSIONS: The lack of mutual inhibition of the two prototype substrates, the different effect of Na+ and TEBA on their transport reaction, together with the computational analysis supports the existence of two transport pathways for cations and zwitterions.\nGENERAL SIGNIFICANCE: The results shed new light on the transport mechanisms of OCTN1, helping to get further insights into the structure/function relationships. The described results correlate well with previous and very recent findings on the polyspecificity of the OCT group of transporters belonging to the same family.",
+  "type": "academic",
+  "pdf_url": ""
+}

@@ -1,0 +1,18 @@
+{
+  "id": "src-205",
+  "title": "Nitrite in pulmonary arterial hypertension: therapeutic avenues in the setting of dysregulated arginine/nitric oxide synthase signalling",
+  "authors": [
+    "Zuckerbraun, Brian S.",
+    "George, M. Patricia",
+    "Gladwin, Mark T."
+  ],
+  "doi": "10.1093/cvr/cvq370",
+  "url": "https://openalex.org/W2154323560",
+  "provider": "openalex",
+  "year": 2010,
+  "venue": "Cardiovascular Research",
+  "citation_count": 98,
+  "abstract": "Pulmonary arterial hypertension (PAH) is an insidious disease of the small pulmonary arteries that is progressive in nature and results in right heart strain/hypertrophy and eventually failure. The aetiologies may vary but several common pathophysiological changes result in this phenotype, including vasoconstriction, thrombosis, and vascular proliferation. Data suggest that nitric oxide (NO) signalling is vasoprotective in the setting of PAH. The classic arginine-NO synthase (NOS)-NO signalling pathway may represent an adaptive response that is eventually dysregulated during disease progression. Dysregulation occurs secondary to NOS enzyme down-regulation, enzymatic uncoupling, and arginine catabolism by vascular and red cell arginases and by direct NO inactivation via catabolic reactions with superoxide or cell-free plasma haemoglobin (in the case of haemolytic disease). The anion nitrite, which has recently been recognized as a source of NO that circumvents the arginine-NOS pathway, may serve as an additional adaptive signalling pathway that is now appreciated to have a vasoregulatory role in the pulmonary and systemic vasculature. Inhaled nebulized sodium nitrite is a relatively potent pulmonary vasodilator in the setting of hypoxia and is also anti-proliferative in multiple experimental models of pulmonary hypertension. Multiple nitrite reductases have been shown to be relevant in the conversion of nitrite to metabolically active NO, including deoxy-haemoglobin and myoglobin in the circulation and heart, respectively, and xanthine oxidoreductase in the lung parenchyma.",
+  "type": "academic",
+  "pdf_url": "https://academic.oup.com/cardiovascres/article-pdf/89/3/542/932781/cvq370.pdf"
+}

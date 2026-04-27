@@ -1,0 +1,22 @@
+{
+  "id": "src-168",
+  "title": "Comparing lycopene's impact on mortality in adults with or without obesity.",
+  "authors": [
+    "Han, Xiaorong",
+    "Liu, Jinxing",
+    "Gu, Yingzhen",
+    "Li, Yifan",
+    "Zhang, Wei",
+    "Lv, Naqiang",
+    "Dang, Aimin"
+  ],
+  "doi": "10.1039/d3fo04533a",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38465419",
+  "provider": "pubmed",
+  "year": 2024,
+  "venue": "Food & function",
+  "citation_count": 0,
+  "abstract": "Objective: Given lycopene's anti-inflammatory and antioxidant properties, we investigated its mortality impact in individuals with and without obesity, confirming distinct effects. Methods: This study analyzes the National Health and Nutrition Examination Survey (NHANES) data from 2003-2006 and 2017-2018, linking lycopene levels to all-cause and cardiovascular mortality. Using various statistical methods, three models are sequentially adjusted for confounders, investigating the lycopene-outcome relationship. Results: We studied 11 737 adults for 162 months and found 1537 all-cause deaths (13.1%) and 443 cardiovascular deaths (3.8%). For those without obesity, serum lycopene had an \"L\" shape relationship with all-cause mortality, being harmful at very low levels but protective above a certain threshold. It consistently protects against cardiovascular mortality. In individuals with obesity, the relationship with all-cause mortality formed a \"U\" shape, with increased risk at very low and very high lycopene levels and protection in the middle range. Cardiovascular mortality showed a similar pattern in individuals with obesity. Interestingly, dietary lycopene intake had protective effects in both groups. Conclusion: This study reveals that lycopene exhibits distinct associations with all-cause and cardiovascular mortality in populations with or without obesity, emphasizing the importance of considering individual health profiles when assessing its benefits.",
+  "type": "academic",
+  "pdf_url": ""
+}

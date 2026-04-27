@@ -1,0 +1,19 @@
+{
+  "id": "src-161",
+  "title": "NAD <sup>+</sup> homeostasis in human health and disease",
+  "authors": [
+    "Zapata‐Pérez, Rubén",
+    "Wanders, Ronald J. A.",
+    "Karnebeek, Clara D.M. van",
+    "Houtkooper, Riekelt H."
+  ],
+  "doi": "10.15252/emmm.202113943",
+  "url": "https://openalex.org/W3165186859",
+  "provider": "openalex",
+  "year": 2021,
+  "venue": "EMBO Molecular Medicine",
+  "citation_count": 238,
+  "abstract": "Depletion of nicotinamide adenine dinucleotide (NAD<sup>+</sup> ), a central redox cofactor and the substrate of key metabolic enzymes, is the causative factor of a number of inherited and acquired diseases in humans. Primary deficiencies of NAD<sup>+</sup> homeostasis are the result of impaired biosynthesis, while secondary deficiencies can arise due to other factors affecting NAD<sup>+</sup> homeostasis, such as increased NAD<sup>+</sup> consumption or dietary deficiency of its vitamin B3 precursors. NAD<sup>+</sup> depletion can manifest in a wide variety of pathological phenotypes, ranging from rare inherited defects, characterized by congenital malformations, retinal degeneration, and/or encephalopathy, to more common multifactorial, often age-related, diseases. Here, we discuss NAD<sup>+</sup> biochemistry and metabolism and provide an overview of the etiology and pathological consequences of alterations of the NAD<sup>+</sup> metabolism in humans. Finally, we discuss the state of the art of the potential therapeutic implications of NAD<sup>+</sup> repletion for boosting health as well as treating rare and common diseases, and the possibilities to achieve this by means of the different NAD<sup>+</sup> -enhancing agents.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.15252/emmm.202113943"
+}

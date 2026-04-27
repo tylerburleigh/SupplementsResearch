@@ -1,0 +1,11 @@
+3	2	Review
+19	2	Abstract
+32	2	Introduction
+50	2	Jns
+51	2	Journal Of Nutritional Science
+181	2	Statistical Analysis
+366	2	Results
+555	2	Discussion
+695	2	Conclusion
+701	2	Supplementary Material
+721	2	References

@@ -1,0 +1,16 @@
+{
+  "id": "src-149",
+  "title": "Cytoplasmic and Mitochondrial NADPH-Coupled Redox Systems in the Regulation of Aging",
+  "authors": [
+    "Bradshaw, Patrick C."
+  ],
+  "doi": "10.3390/nu11030504",
+  "url": "https://openalex.org/W2916333363",
+  "provider": "openalex",
+  "year": 2019,
+  "venue": "Nutrients",
+  "citation_count": 170,
+  "abstract": "The reduced form of nicotinamide adenine dinucleotide phosphate (NADPH) protects against redox stress by providing reducing equivalents to antioxidants such as glutathione and thioredoxin. NADPH levels decline with aging in several tissues, but whether this is a major driving force for the aging process has not been well established. Global or neural overexpression of several cytoplasmic enzymes that synthesize NADPH have been shown to extend lifespan in model organisms such as <i>Drosophila</i> suggesting a positive relationship between cytoplasmic NADPH levels and longevity. Mitochondrial NADPH plays an important role in the protection against redox stress and cell death and mitochondrial NADPH-utilizing thioredoxin reductase 2 levels correlate with species longevity in cells from rodents and primates. Mitochondrial NADPH shuttles allow for some NADPH flux between the cytoplasm and mitochondria. Since a decline of nicotinamide adenine dinucleotide (NAD⁺) is linked with aging and because NADP⁺ is exclusively synthesized from NAD⁺ by cytoplasmic and mitochondrial NAD⁺ kinases, a decline in the cytoplasmic or mitochondrial NADPH pool may also contribute to the aging process. Therefore pro-longevity therapies should aim to maintain the levels of both NAD⁺ and NADPH in aging tissues.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2072-6643/11/3/504/pdf?version=1551260859"
+}

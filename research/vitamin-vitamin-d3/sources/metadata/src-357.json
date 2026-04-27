@@ -1,0 +1,27 @@
+{
+  "id": "src-357",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://diabeticstudies.org/index.php/RDS/article/view/1665/1484",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "pdf",
+  "provider": "",
+  "fetched_at": "2026-04-21T21:27:47.826387+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-357.md",
+  "quality_details": {
+    "content_length": 23982,
+    "alpha_ratio": 0.701,
+    "sentence_count": 219,
+    "reasons": []
+  }
+}

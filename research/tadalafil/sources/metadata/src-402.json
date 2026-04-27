@@ -1,0 +1,18 @@
+{
+  "id": "src-402",
+  "title": "Pathological Ventricular Remodeling",
+  "authors": [
+    "Xie, Min",
+    "Burchfield, Jana",
+    "Hill, Joseph A."
+  ],
+  "doi": "10.1161/circulationaha.113.001879",
+  "url": "https://openalex.org/W2142473560",
+  "provider": "openalex",
+  "year": 2013,
+  "venue": "Circulation",
+  "citation_count": 146,
+  "abstract": "C urrent therapies targeting pathological ventricular remodeling 1,2 manifest significant effectiveness in reducing morbidity and mortality in patients with systolic heart failure (HF). 3 However, in many instances, disease progression continues unabated. Whereas novel disease targets are continually being discovered, most innovative therapies do not demonstrate consistent efficacy in patients; indeed, many prove to be ineffective, even deleterious, before reaching phase III clinical trials. Here, we review therapeutic strategies targeting cellular pathways governing left ventricular remodeling in the 2 major types of HF, HF with reduced systolic function (HFrEF) and HF with preserved systolic function (HFpEF). In an accompanying article, we highlight recent advances in our understanding of mechanisms underlying pathological ventricular remodeling. dvances in this field are conditioned by the highly heterogeneous nature of HF. Notably, within the 2 broad categories of HFrEF and HFpEF, a wide variety of disease types dictate pathogenesis. In other words, HF, a syndrome defined on clinical terms, derives from numerous different diseases such as myocardial infarction, hypertension, cytokine or neuroendocrine dyscrasias, genetic disorders, and more. It seems likely that the therapies that have emerged with efficacy are those targeting features that are shared among these disorders. As a corollary, it is conceivable that some of the therapies that have failed in clinical trials target relevant elements of pathogenesis that are not common to all. As personalized medicine emerges in the discipline of HF, we envision therapies tailored to the specifics of molecular and cellular pathogenesis.",
+  "type": "academic",
+  "pdf_url": "https://www.ahajournals.org/doi/pdf/10.1161/CIRCULATIONAHA.113.001879"
+}

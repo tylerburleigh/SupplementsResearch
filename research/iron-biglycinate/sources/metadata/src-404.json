@@ -1,0 +1,23 @@
+{
+  "id": "src-404",
+  "title": "Gestational diabetes mellitus affects placental iron homeostasis: Mechanism and clinical implications.",
+  "authors": [
+    "Zaugg, Jonas",
+    "Melhem, Hassan",
+    "Huang, Xiao",
+    "Wegner, Malgorzata",
+    "Baumann, Marc",
+    "Surbek, Daniel",
+    "Körner, Meike",
+    "Albrecht, Christiane"
+  ],
+  "doi": "10.1096/fj.201903054r",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/32285992",
+  "provider": "pubmed",
+  "year": 2020,
+  "venue": "FASEB journal : official publication of the Federation of American Societies for Experimental Biology",
+  "citation_count": 0,
+  "abstract": "Clinical studies suggest that pregnant women with elevated iron levels are more vulnerable to develop gestational diabetes mellitus (GDM), but the causes and underlying mechanisms are unknown. We hypothesized that hyperglycemia induces cellular stress responses leading to dysregulated placental iron homeostasis. Hence, we compared the expression of genes/proteins involved in iron homeostasis in placentae from GDM and healthy pregnancies (n = 11 each). RT-qPCR and LC-MS/MS analyses revealed differential regulation of iron transporters/receptors (DMT1/FPN1/ZIP8/TfR1), iron sensors (IRP1), iron regulators (HEPC), and iron oxidoreductases (HEPH/Zp). To identify the underlying mechanisms, we adapted BeWo trophoblast cells to normoglycemic (N), hyperglycemic (H), and hyperglycemic-hyperlipidemic (HL) conditions and assessed Fe3+ -uptake, expression patterns, and cellular pathways involving oxidative stress (OS), ER-stress, and autophagy. H and HL induced alterations in cellular morphology, differential iron transporter expression, and reduced Fe3+ -uptake confirming the impact of hyperglycemia on iron transport observed in GDM patients. Pathway analysis and rescue experiments indicated that dysregulated OS and disturbed autophagy processes contribute to the reduced placental iron transport under hyperglycemic conditions. These adaptations could represent a protective mechanism preventing the oxidative damage for both fetus and placenta caused by highly oxidative iron. In pregnancies with risk for GDM, antioxidant treatment, and controlled iron supplementation could help to balance placental OS levels protecting mother and fetus from impaired iron homeostasis.",
+  "type": "academic",
+  "pdf_url": ""
+}

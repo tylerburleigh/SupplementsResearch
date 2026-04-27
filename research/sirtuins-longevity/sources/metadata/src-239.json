@@ -1,0 +1,18 @@
+{
+  "id": "src-239",
+  "title": "Endoplasmic reticulum stress orchestrates cGAS-STING activation in lipid metabolism-associated disorders.",
+  "authors": [
+    "Chen, Qian",
+    "Zhang, Minghui",
+    "Xia, Sheng"
+  ],
+  "doi": "10.1016/j.intimp.2025.115968",
+  "url": "https://www.semanticscholar.org/paper/a0e1b59009d6084c3fc9b2d2dd455e89a775cecf",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "International Immunopharmacology",
+  "citation_count": 0,
+  "abstract": "Lipid metabolism-associated disorders are pathological states characterized by abnormal levels of lipids and their metabolites, which serve as key drivers of metabolic diseases such as atherosclerosis and diabetes. The endoplasmic reticulum (ER) is primarily recognized for its roles in protein folding and lipid synthesis, and maintaining its homeostasis is crucial for proper cellular function. Emerging evidence indicates that lipid metabolism-associated disorders can disrupt ER homeostasis through multiple mechanisms, leading to ER stress. Persistent ER stress triggers chronic inflammatory responses, thereby accelerating the development of diseases associated with lipid metabolism. Recent studies have demonstrated that chronic inflammation and metabolic dysfunction may be linked to persistent activation of the cyclic GMP-AMP synthase (cGAS)-stimulator of interferon genes (STING) signaling pathway. Moreover, crosstalk between ER stress and the cGAS-STING signaling pathway has been observed in various metabolic diseases. In this review, we summarize the molecular mechanisms by which lipid metabolism-associated disorders induce ER stress and discuss the regulatory role of ER stress in modulating the STING signaling pathway. Our aim is to provide novel insights into the potential of targeting the ER stress-STING axis for the treatment of metabolic diseases.",
+  "type": "academic",
+  "pdf_url": ""
+}

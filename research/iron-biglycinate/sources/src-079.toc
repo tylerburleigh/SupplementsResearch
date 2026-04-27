@@ -1,0 +1,11 @@
+48	2	Open
+61	2	Materials And Methods
+237	2	Statistical Analysis
+249	2	Results
+383	2	Discussion
+584	2	Conclusions
+597	2	Data Availability
+600	2	References
+680	2	Acknowledgements
+683	2	Author Contributions
+694	2	Competing Interests

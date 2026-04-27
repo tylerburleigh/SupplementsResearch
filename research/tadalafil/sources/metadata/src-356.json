@@ -1,0 +1,19 @@
+{
+  "id": "src-356",
+  "title": "Uncovering the Potential Mechanisms of Ergothioneine in Neuroinflammation Through Network Pharmacology, Molecular Docking, Molecular Dynamics Simulation, and In Vitro Validation.",
+  "authors": [
+    "Cao, Deyou",
+    "Jia, Jingxuan",
+    "Yin, Yishu",
+    "Lu, Weihong"
+  ],
+  "doi": "10.3390/ijms27052179",
+  "url": "https://www.semanticscholar.org/paper/e01afe65a46d799031fbc169e9525281158b6338",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "International Journal of Molecular Sciences",
+  "citation_count": 0,
+  "abstract": "Neuroinflammation is a critical pathological process implicated in several neurological disorders. It arises from complex interactions among immune cells and the excessive release of pro-inflammatory mediators, ultimately leading to neuronal damage. Ergothioneine (EGT), a naturally occurring antioxidant, has attracted attention for its potential anti-inflammatory role in neuroinflammation, although it remains poorly understood. We employed a comprehensive strategy combining network pharmacology, molecular docking, molecular dynamics simulations, and in vitro experiments to explore how EGT influences neuroinflammatory pathways. Computational analyses indicated that EGT might regulate several inflammation-related signaling cascades by targeting key molecules such as Tumor Necrosis Factor (TNF), AKT Serine/Threonine Kinase 1 (AKT1), Caspase 3 (CASP3), and Interleukin 6 (IL-6). Docking and dynamics simulations confirmed strong and stable binding between EGT and these targets. Experiments using lipopolysaccharide-stimulated BV2 microglia cells demonstrated that EGT significantly reduced pro-inflammatory cytokine production, primarily through modulation of the phosphoinositide 3-kinase (PI3K)/protein kinase B (AKT) and nuclear factor kappa-light-chain-enhancer of activated B cells (NF-κB) signaling pathways. By integrating multi-omics approaches with cellular validation, this study sheds light on the molecular mechanisms underlying EGT's anti-inflammatory effect and supports its potential application as a functional food ingredient for managing neuroinflammation.",
+  "type": "academic",
+  "pdf_url": ""
+}

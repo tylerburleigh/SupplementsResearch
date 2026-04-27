@@ -1,0 +1,44 @@
+{
+  "id": "src-110",
+  "title": "Microbiome-based therapeutics towards healthier aging and longevity",
+  "authors": [
+    "Kadyan, Saurabh",
+    "Park, Gwoncheol",
+    "Singh, Tejinder P.",
+    "Patoine, Cole",
+    "Singar, Saiful",
+    "Heise, Teresa",
+    "Domeier, Christin",
+    "Ray, Chester",
+    "Kumar, Manoj",
+    "Behare, Pradip V.",
+    "Chakrabarty, Paramita",
+    "Efron, Philip",
+    "Sheffler, Julia",
+    "Nagpal, Ravinder"
+  ],
+  "year": 2025,
+  "abstract": "",
+  "doi": "10.1186/s13073-025-01493-x",
+  "url": "https://doi.org/10.1186/s13073-025-01493-x",
+  "pdf_url": "",
+  "venue": "Genome Medicine",
+  "citation_count": 31,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-19T11:56:28.962748+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-110.md",
+  "quality_details": {
+    "content_length": 90494,
+    "alpha_ratio": 0.775,
+    "sentence_count": 705,
+    "reasons": [
+      "paywall_page (access this article)"
+    ]
+  }
+}

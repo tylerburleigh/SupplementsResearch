@@ -1,0 +1,22 @@
+{
+  "id": "src-180",
+  "title": "MTHFR Gene Polymorphisms: A Single Gene with Wide-Ranging Clinical Implications—A Review",
+  "authors": [
+    "Araszkiewicz, Antoni F.",
+    "Jańczak, Krzysztof",
+    "Wójcik, Paweł",
+    "Białecki, Bartłomiej",
+    "Kubiak, Szymon",
+    "Szczechowski, Michał",
+    "Januszkiewicz‐Lewandowska, Danuta"
+  ],
+  "doi": "10.3390/genes16040441",
+  "url": "https://openalex.org/W4409279866",
+  "provider": "openalex",
+  "year": 2025,
+  "venue": "Genes",
+  "citation_count": 17,
+  "abstract": "The enzyme 5,10-methylenetetrahydrofolate reductase (MTHFR) catalyzes the conversion of 5,10-methylenetetrahydrofolate to 5-methyltetrahydrofolate, a process essential for the methylation of homocysteine to methionine. Polymorphisms in the MTHFR gene can reduce enzyme activity, disrupting the folate cycle and leading to hyperhomocysteinemia. The two most common polymorphisms associated with this gene are 667C>T (rs1801133) and 1298A>C (rs1801131). <b>Background:</b> This review provides a comprehensive summary of the current knowledge regarding MTHFR polymorphisms, with a particular focus on their potential impact on disease susceptibility. We hope this review will serve as a valuable resource for understanding the significance of MTHFR polymorphisms and their complex relationships with various diseases. <b>Methods:</b> For this review, we prioritized recent evidence, focusing on reviews and meta-analyses published between 2015 and 2025, sourced from PubMed and Google Scholar. <b>Results:</b> We explore the connection between these polymorphisms and a broad spectrum of medical conditions, including cardiovascular diseases and oxidative stress pathology; neurological and psychiatric disorders, such as Autism Spectrum Disorder, Alzheimer's disease, Schizophrenia, and Major Depressive Disorder; fertility, pregnancy, and neonatal complications, including recurrent pregnancy loss, pre-eclampsia, preterm birth, low birth weight, and neural tube defects; metabolic disorders, such as diabetes mellitus, inflammatory bowel disease, and non-alcoholic fatty liver disease; and oncological conditions, including breast, prostate, and ovarian cancers; as well as leukemia, and autoimmune diseases, particularly rheumatoid arthritis. <b>Conclusions:</b> While some diseases have a well-established association with MTHFR polymorphisms, others require further investigation. Our analysis highlights the crucial role of environmental factors, such as ethnic background and dietary folate intake, in influencing study outcomes.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2073-4425/16/4/441/pdf?version=1744177062"
+}

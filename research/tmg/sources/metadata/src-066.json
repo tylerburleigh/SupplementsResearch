@@ -1,0 +1,18 @@
+{
+  "id": "src-066",
+  "title": "Trimethylamine and Trimethylamine N-Oxide, a Flavin-Containing Monooxygenase 3 (FMO3)-Mediated Host-Microbiome Metabolic Axis Implicated in Health and Disease",
+  "authors": [
+    "Fennema, Diede",
+    "Phillips, Ian",
+    "Shephard, Elizabeth A."
+  ],
+  "doi": "10.1124/dmd.116.070615",
+  "url": "https://openalex.org/W2397682060",
+  "provider": "openalex",
+  "year": 2016,
+  "venue": "Drug Metabolism and Disposition",
+  "citation_count": 353,
+  "abstract": "Flavin-containing monooxygenase 3 (FMO3) is known primarily as an enzyme involved in the metabolism of therapeutic drugs. On a daily basis, however, we are exposed to one of the most abundant substrates of the enzyme trimethylamine (TMA), which is released from various dietary components by the action of gut bacteria. FMO3 converts the odorous TMA to nonodorous TMA N-oxide (TMAO), which is excreted in urine. Impaired FMO3 activity gives rise to the inherited disorder primary trimethylaminuria (TMAU). Affected individuals cannot produce TMAO and, consequently, excrete large amounts of TMA. A dysbiosis in gut bacteria can give rise to secondary TMAU. Recently, there has been much interest in FMO3 and its catalytic product, TMAO, because TMAO has been implicated in various conditions affecting health, including cardiovascular disease, reverse cholesterol transport, and glucose and lipid homeostasis. In this review, we consider the dietary components that can give rise to TMA, the gut bacteria involved in the production of TMA from dietary precursors, the metabolic reactions by which bacteria produce and use TMA, and the enzymes that catalyze the reactions. Also included is information on bacteria that produce TMA in the oral cavity and vagina, two key microbiome niches that can influence health. Finally, we discuss the importance of the TMA/TMAO microbiome-host axis in health and disease, considering factors that affect bacterial production and host metabolism of TMA, the involvement of TMAO and FMO3 in disease, and the implications of the host-microbiome axis for management of TMAU.",
+  "type": "academic",
+  "pdf_url": "https://dmd.aspetjournals.org/content/dmd/44/11/1839.full.pdf"
+}

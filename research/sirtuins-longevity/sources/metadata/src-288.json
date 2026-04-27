@@ -1,0 +1,23 @@
+{
+  "id": "src-288",
+  "title": "Systemic Aging Fuels Heart Failure: Molecular Mechanisms and Therapeutic Avenues",
+  "authors": [
+    "Fang, Zhuyubing",
+    "Raza, Umar",
+    "Song, Jia",
+    "Lu, Junyan",
+    "Yao, Shun",
+    "Liu, Xiaohong",
+    "Zhang, Wei",
+    "Li, Shujuan"
+  ],
+  "doi": "10.1002/ehf2.14947",
+  "url": "https://openalex.org/W4400892026",
+  "provider": "openalex",
+  "year": 2024,
+  "venue": "ESC Heart Failure",
+  "citation_count": 72,
+  "abstract": "Systemic aging influences various physiological processes and contributes to structural and functional decline in cardiac tissue. These alterations include an increased incidence of left ventricular hypertrophy, a decline in left ventricular diastolic function, left atrial dilation, atrial fibrillation, myocardial fibrosis and cardiac amyloidosis, elevating susceptibility to chronic heart failure (HF) in the elderly. Age-related cardiac dysfunction stems from prolonged exposure to genomic, epigenetic, oxidative, autophagic, inflammatory and regenerative stresses, along with the accumulation of senescent cells. Concurrently, age-related structural and functional changes in the vascular system, attributed to endothelial dysfunction, arterial stiffness, impaired angiogenesis, oxidative stress and inflammation, impose additional strain on the heart. Dysregulated mechanosignalling and impaired nitric oxide signalling play critical roles in the age-related vascular dysfunction associated with HF. Metabolic aging drives intricate shifts in glucose and lipid metabolism, leading to insulin resistance, mitochondrial dysfunction and lipid accumulation within cardiomyocytes. These alterations contribute to cardiac hypertrophy, fibrosis and impaired contractility, ultimately propelling HF. Systemic low-grade chronic inflammation, in conjunction with the senescence-associated secretory phenotype, aggravates cardiac dysfunction with age by promoting immune cell infiltration into the myocardium, fostering HF. This is further exacerbated by age-related comorbidities like coronary artery disease (CAD), atherosclerosis, hypertension, obesity, diabetes and chronic kidney disease (CKD). CAD and atherosclerosis induce myocardial ischaemia and adverse remodelling, while hypertension contributes to cardiac hypertrophy and fibrosis. Obesity-associated insulin resistance, inflammation and dyslipidaemia create a profibrotic cardiac environment, whereas diabetes-related metabolic disturbances further impair cardiac function. CKD-related fluid overload, electrolyte imbalances and uraemic toxins exacerbate HF through systemic inflammation and neurohormonal renin-angiotensin-aldosterone system (RAAS) activation. Recognizing aging as a modifiable process has opened avenues to target systemic aging in HF through both lifestyle interventions and therapeutics. Exercise, known for its antioxidant effects, can partly reverse pathological cardiac remodelling in the elderly by countering processes linked to age-related chronic HF, such as mitochondrial dysfunction, inflammation, senescence and declining cardiomyocyte regeneration. Dietary interventions such as plant-based and ketogenic diets, caloric restriction and macronutrient supplementation are instrumental in maintaining energy balance, reducing adiposity and addressing micronutrient and macronutrient imbalances associated with age-related HF. Therapeutic advancements targeting systemic aging in HF are underway. Key approaches include senomorphics and senolytics to limit senescence, antioxidants targeting mitochondrial stress, anti-inflammatory drugs like interleukin (IL)-1β inhibitors, metabolic rejuvenators such as nicotinamide riboside, resveratrol and sirtuin (SIRT) activators and autophagy enhancers like metformin and sodium-glucose cotransporter 2 (SGLT2) inhibitors, all of which offer potential for preserving cardiac function and alleviating the age-related HF burden.",
+  "type": "academic",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ehf2.14947"
+}

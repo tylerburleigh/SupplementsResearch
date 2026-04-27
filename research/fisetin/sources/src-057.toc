@@ -1,0 +1,7 @@
+7	2	Original Article
+67	2	Usa
+79	2	Introduction
+187	2	100. Tissue was immediately flash frozen and stored
+313	2	Statistical Analysis
+325	2	Results
+1071	2	References

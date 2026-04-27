@@ -1,0 +1,22 @@
+6	2	Original Contribution
+15	2	Abstract
+35	2	Introduction
+112	2	Methodology
+292	2	Statistical Analysis
+326	2	Results
+503	2	Discussion
+606	1	Indicates a significant interaction between the metabolite and intervention group
+787	2	Conclusion
+851	2	References
+1094	2	65. United Nations Department of Economic and Social Affairs
+1105	2	1 Liggins Institute, University of Auckland, Auckland,
+1107	2	2 Riddet Institute, Palmerston North, New Zealand
+1108	2	3 Research Platform Active Ageing, University of Vienna,
+1110	2	4 Department of Sports Medicine, Exercise Physiology
+1112	2	5 Internal Medicine III, Division of Rheumatology, Medical
+1114	2	6 Institute for Physical Medicine and Rehabilitation, Kaiser
+1117	2	7 Food, Nutrition and Health, AgResearch, Hamilton,
+1119	2	8 The High-Value Nutrition National Science Challenge,
+1121	2	9 Department of Human Nutrition, University of Otago,
+1123	2	10 Singapore Institute for Clinical Sciences, Agency for Science,
+1125	2	11 Department of Nutritional Sciences, University of Vienna,

@@ -1,0 +1,18 @@
+{
+  "id": "src-142",
+  "title": "Cartilage Oligomeric Matrix Protein (COMP): A Biomarker of Arthritis",
+  "authors": [
+    "Tseng, Susan",
+    "Reddi, A. Hari",
+    "Cesare, Paul E. Di"
+  ],
+  "doi": "10.4137/bmi.s645",
+  "url": "https://openalex.org/W1523661940",
+  "provider": "openalex",
+  "year": 2009,
+  "venue": "Biomarker Insights",
+  "citation_count": 196,
+  "abstract": "Arthritis is a chronic disease with a significant impact on the population. It damages the cartilage, synovium, and bone of the joints causing pain, impairment, and disability in patients. Current methods for diagnosis of and monitoring the disease are only able to detect clinical manifestations of arthritis late in the process. However, with the recent onset of successful treatments for rheumatoid arthritis and osteoarthritis, it becomes important to identify prognostic factors that can predict the evolution of arthritis. This is especially critical in the early phases of disease so that these treatments can be started as soon as possible to slow down progression of the disease. A valuable approach to monitor arthritis would be by measuring biological markers of cartilage degradation and repair to reflect variations in joint remodeling. One such potential biological marker of arthritis is cartilage oligomeric matrix protein (COMP). In various studies, COMP has shown promise as a diagnostic and prognostic indicator and as a marker of the disease severity and the effect of treatment. This review highlights the progress in the utilization of COMP as a biomarker of arthritis.",
+  "type": "academic",
+  "pdf_url": "https://journals.sagepub.com/doi/pdf/10.4137/BMI.S645"
+}

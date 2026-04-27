@@ -1,0 +1,18 @@
+{
+  "id": "src-079",
+  "title": "Regulation of and challenges in targeting NAD+ metabolism.",
+  "authors": [
+    "Migaud, Marie E",
+    "Ziegler, Mathias",
+    "Baur, Joseph A"
+  ],
+  "doi": "10.1038/s41580-024-00752-w",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39026037",
+  "provider": "pubmed",
+  "year": 2024,
+  "venue": "Nature reviews. Molecular cell biology",
+  "citation_count": 0,
+  "abstract": "Nicotinamide adenine dinucleotide, in its oxidized (NAD+) and reduced (NADH) forms, is a reduction-oxidation (redox) co-factor and substrate for signalling enzymes that have essential roles in metabolism. The recognition that NAD+ levels fall in response to stress and can be readily replenished through supplementation has fostered great interest in the potential benefits of increasing or restoring NAD+ levels in humans to prevent or delay diseases and degenerative processes. However, much about the biology of NAD+ and related molecules remains poorly understood. In this Review, we discuss the current knowledge of NAD+ metabolism, including limitations of, assumptions about and unappreciated factors that might influence the success or contribute to risks of NAD+ supplementation. We highlight several ongoing controversies in the field, and discuss the role of the microbiome in modulating the availability of NAD+ precursors such as nicotinamide riboside (NR) and nicotinamide mononucleotide (NMN), the presence of multiple cellular compartments that have distinct pools of NAD+ and NADH, and non-canonical NAD+ and NADH degradation pathways. We conclude that a substantial investment in understanding the fundamental biology of NAD+, its detection and its metabolites in specific cells and cellular compartments is needed to support current translational efforts to safely boost NAD+ levels in humans.",
+  "type": "academic",
+  "pdf_url": ""
+}

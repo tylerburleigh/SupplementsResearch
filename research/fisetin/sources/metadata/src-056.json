@@ -1,0 +1,34 @@
+{
+  "id": "src-056",
+  "title": "Targeting the FOXO4-p53 axis by retro-inverso peptide senolytic agents: a pharmacological strategy to mitigate brain aging and cognitive decline",
+  "authors": [
+    "Alameen, Ayman Ali Mohammed",
+    "Al-Kuraishy, Hayder M.",
+    "Fawzy, Mohamed N.",
+    "Batiha, Gaber El-Saber"
+  ],
+  "year": 2026,
+  "abstract": "",
+  "doi": "10.1007/s00210-026-05309-6",
+  "url": "https://doi.org/10.1007/s00210-026-05309-6",
+  "pdf_url": "",
+  "venue": "Naunyn-Schmiedeberg's Archives of Pharmacology",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-24T12:48:10.519209+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-056.md",
+  "quality_details": {
+    "content_length": 47048,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

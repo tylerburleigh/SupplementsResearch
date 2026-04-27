@@ -1,0 +1,25 @@
+{
+  "id": "src-086",
+  "title": "LLL 44 – Module 3: Micronutrients in Chronic disease",
+  "authors": [
+    "Lepp, Hanna-Liis",
+    "Amrein, Karin",
+    "Dizdar, Oğuzhan Sıtkı",
+    "Casaer, Michael P.",
+    "Gündoğan, Kürşat",
+    "Man, A.",
+    "Rezzi, Serge",
+    "Zanten, Arthur R.H. van",
+    "Shenkin, Alan",
+    "Berger, Mette M."
+  ],
+  "doi": "10.1016/j.clnesp.2024.05.009",
+  "url": "https://openalex.org/W4399332056",
+  "provider": "openalex",
+  "year": 2024,
+  "venue": "Clinical Nutrition ESPEN",
+  "citation_count": 9,
+  "abstract": "Micronutrients (MN), i.e. trace elements and vitamins, are essential organic molecules, which are required in the diet in relatively small amounts in any form of nutrition (oral, enteral, parenteral). The probability of MN depletion or deficiencies should be considered in all chronic illnesses, especially in those that can interfere with intake, digestion, or intestinal absorption. Low socio-economic status and food deprivation are recognized as the most prevalent reasons for MN deficiencies world-wide. Elderly multimorbid patients with multimodal therapy, as well as patients with long-lasting menu restrictions, are at high risk for both disease related malnutrition as well as multiple MN deficiencies, needing careful specific follow-up. The importance of monitoring MN blood levels along with CRP is essential for optimal care. Drug interactions are also highlighted. In patients with chronic conditions depending on medical nutrition therapy, the provision of adequate dietary reference intakes (DRI) of MN doses and monitoring of their adequacy belongs to standard of care.",
+  "type": "academic",
+  "pdf_url": "http://clinicalnutritionespen.com/article/S2405457724001281/pdf"
+}

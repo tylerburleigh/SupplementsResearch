@@ -1,0 +1,19 @@
+{
+  "id": "src-134",
+  "title": "Glucosamine and Chondroitin for Treatment of Osteoarthritis",
+  "authors": [
+    "McAlindon, Timothy E.",
+    "LaValley, Michael P.",
+    "Gulin, Julián Ernesto Nicolás",
+    "Felson, David T."
+  ],
+  "doi": "10.1001/jama.283.11.1469",
+  "url": "https://openalex.org/W2124790232",
+  "provider": "openalex",
+  "year": 2000,
+  "venue": "JAMA",
+  "citation_count": 847,
+  "abstract": "Trials of glucosamine and chondroitin preparations for OA symptoms demonstrate moderate to large effects, but quality issues and likely publication bias suggest that these effects are exaggerated. Nevertheless, some degree of efficacy appears probable for these preparations.",
+  "type": "academic",
+  "pdf_url": ""
+}

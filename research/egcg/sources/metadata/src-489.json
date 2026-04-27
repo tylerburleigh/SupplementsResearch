@@ -1,0 +1,29 @@
+{
+  "id": "src-489",
+  "title": "An Overview of Plant Phenolic Compounds and Their Importance in Human Nutrition and Management of Type 2 Diabetes",
+  "authors": [
+    "Lin, Derong",
+    "Xiao, Mengshi",
+    "Zhao, Jingjing",
+    "Li, Zhuohao",
+    "Xing, Baoshan",
+    "Li, Xindan",
+    "Kong, Maozhu",
+    "Li, Liangyu",
+    "Zhang, Qing",
+    "Liu, Yaowen",
+    "Chen, Hong",
+    "Qin, Wen",
+    "Wu, Hejun",
+    "Chen, Saiyan"
+  ],
+  "doi": "10.3390/molecules21101374",
+  "url": "https://openalex.org/W2532110735",
+  "provider": "openalex",
+  "year": 2016,
+  "venue": "Molecules",
+  "citation_count": 1051,
+  "abstract": "In this paper, the biosynthesis process of phenolic compounds in plants is summarized, which include the shikimate, pentose phosphate and phenylpropanoid pathways. Plant phenolic compounds can act as antioxidants, structural polymers (lignin), attractants (flavonoids and carotenoids), UV screens (flavonoids), signal compounds (salicylic acid, flavonoids) and defense response chemicals (tannins, phytoalexins). From a human physiological standpoint, phenolic compounds are vital in defense responses, such as anti-aging, anti-inflammatory, antioxidant and anti-proliferative activities. Therefore, it is beneficial to eat such plant foods that have a high antioxidant compound content, which will cut down the incidence of certain chronic diseases, for instance diabetes, cancers and cardiovascular diseases, through the management of oxidative stress. Furthermore, berries and other fruits with low-amylase and high-glucosidase inhibitory activities could be thought of as candidate food items in the control of the early stages of hyperglycemia associated with type 2 diabetes.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/1420-3049/21/10/1374/pdf?version=1477104552"
+}

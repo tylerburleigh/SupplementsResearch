@@ -1,0 +1,20 @@
+{
+  "id": "src-267",
+  "title": "Vitamin D and human health: evidence from Mendelian randomization studies.",
+  "authors": [
+    "Fang, Aiping",
+    "Zhao, Yue",
+    "Yang, Ping",
+    "Zhang, Xuehong",
+    "Giovannucci, Edward L"
+  ],
+  "doi": "10.1007/s10654-023-01075-4",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38214845",
+  "provider": "pubmed",
+  "year": 2024,
+  "venue": "European journal of epidemiology",
+  "citation_count": 0,
+  "abstract": "We summarized the current evidence on vitamin D and major health outcomes from Mendelian randomization (MR) studies. PubMed and Embase were searched for original MR studies on vitamin D in relation to any health outcome from inception to September 1, 2022. Nonlinear MR findings were excluded due to concerns about the validity of the statistical methods used. A meta-analysis was preformed to synthesize study-specific estimates after excluding overlapping samples, where applicable. The methodological quality of the included studies was evaluated according to the STROBE-MR checklist. A total of 133 MR publications were eligible for inclusion in the analyses. The causal association between vitamin D status and 275 individual outcomes was examined. Linear MR analyses showed genetically high 25-hydroxyvitamin D (25(OH)D) concentrations were associated with reduced risk of multiple sclerosis incidence and relapse, non-infectious uveitis and scleritis, psoriasis, femur fracture, leg fracture, amyotrophic lateral sclerosis, anorexia nervosa, delirium, heart failure, ovarian cancer, non-alcoholic fatty liver disease, dyslipidemia, and bacterial pneumonia, but increased risk of Behçet's disease, Graves' disease, kidney stone disease, fracture of radium/ulna, basal cell carcinoma, and overall cataracts. Stratified analyses showed that the inverse association between genetically predisposed 25(OH)D concentrations and multiple sclerosis risk was significant and consistent regardless of the genetic instruments GIs selected. However, the associations with most of the other outcomes were only pronounced when using genetic variants not limited to those in the vitamin D pathway as GIs. The methodological quality of the included MR studies was substantially heterogeneous. Current evidence from linear MR studies strongly supports a causal role of vitamin D in the development of multiple sclerosis. Suggestive support for a number of other health conditions could help prioritize conditions where vitamin D may be beneficial or harmful.",
+  "type": "academic",
+  "pdf_url": ""
+}

@@ -1,0 +1,9 @@
+{
+  "id": "src-194",
+  "title": "A Science-Based Review of the World's Best-Selling Book on Aging",
+  "authors": [],
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9669175",
+  "provider": "tavily",
+  "abstract": "According to the book, Sinclair discovered genes called sirtuins that extend lifespan in organisms from yeasts to humans and he found sirtuin activators in red wine and elsewhere. Whereas *Lifespan* claims that sirtuins are dominantly acting longevity genes from yeast to humans (Sinclair and LaPlante, 2019), analysis of the work reveals that in yeast, sirtuin genes help 1 in 5 million cells live longer in one model of aging whereas they shorten lifespan for the entire culture (Brenner, 2022b). Moreover, while the general public is now relatively aware of CRISPR technologies and may think that it will be simple to modify our genome to increase our lifespan, they do not understand that there are no known dominantly acting mammalian longevity genes (and in fact Sinclair’s book implies sirtuins are just such genes despite the fact that they don’t extend lifespan). Lifespan, a book by Harvard scientist David Sinclair, has become an influential source of misinformation on longevity, featuring counterfactual claims about longevity genes being conserved between yeast and humans, the existence of supposed activators of these genes, and claimed successful age reversal in mice based on partial reprogramming.",
+  "type": "web"
+}

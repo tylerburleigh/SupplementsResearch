@@ -1,0 +1,29 @@
+{
+  "id": "src-065",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "",
+  "pdf_url": "https://adaa.org/sites/default/files/DeGregorio-Hallucinogens-JNeuro2021.pdf",
+  "venue": "",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "",
+  "fetched_at": "2026-04-26T10:52:50.699753+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-065.md",
+  "quality_details": {
+    "content_length": 73726,
+    "alpha_ratio": 0.746,
+    "sentence_count": 661,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

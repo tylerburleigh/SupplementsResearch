@@ -1,0 +1,29 @@
+{
+  "id": "src-369",
+  "title": "Iron Deficiency Definitions in Heart Failure Across Ejection Fraction Phenotypes: Prevalence, Symptoms, and Cause-Specific Outcomes.",
+  "authors": [
+    "Lindberg, Felix",
+    "Cabrera, Carin Corovic",
+    "Benson, Lina",
+    "Löfström, Ulrika",
+    "Lindmark, Krister",
+    "Hage, Camilla",
+    "Ferrannini, Giulia",
+    "Ljungman, Charlotta",
+    "Von Haehling, Stephan",
+    "Butler, Javed",
+    "Cleland, John G F",
+    "Anker, Stefan D",
+    "Lund, Lars H",
+    "Savarese, Gianluigi"
+  ],
+  "doi": "10.1016/j.jchf.2025.102662",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41045907",
+  "provider": "pubmed",
+  "year": 2025,
+  "venue": "JACC. Heart failure",
+  "citation_count": 0,
+  "abstract": "BACKGROUND: How iron deficiency (ID) is defined in heart failure (HF) may affect ID prevalence, associated prognosis, and achievable intravenous iron benefit.\nOBJECTIVES: This study assessed 4 definitions of ID in heart failure with reduced ejection fraction (HFrEF), heart failure with mildly reduced ejection fraction (HFmrEF), and heart failure with preserved ejection fraction (HFpEF) and evaluated prevalence, associated health-related quality of life (HR-QoL), symptoms, and cause-specific morbidity and mortality.\nMETHODS: Patients enrolled in the Swedish HF Registry from 2017 to 2023 were included. ID was defined as follows: 1) in current HF guidelines; 2) in the IRONMAN (Intravenous Iron Treatment in Patients With Heart Failure and Iron Deficiency) trial; 3) with transferrin saturation (TSAT) <20%; and 4) with a ferritin value <100 μg/L.\nRESULTS: Of 20,673 patients (median age 74 years [Q1-Q3: 65-80 years]; 32% female), 49% fulfilled guideline ID criteria (HFrEF, 48%; HFmrEF, 48%; HFpEF, 54%), 53% fulfilled IRONMAN criteria (HFrEF, 52%; HFmrEF, 52%; HFpEF, 59%), 36% had TSAT <20% (HFrEF, 36%; HFmrEF, 34%; HFpEF, 41%), and 37% has a ferritin level <100 μg/L (HFrEF, 35%; HFmrEF, 37%; HFpEF, 42%). All definitions were independently associated with worse symptoms, and all except ferritin <100 μg/L were associated with worse HR-QoL. TSAT <20% and IRONMAN ID criteria were independently associated with a higher risk of all outcomes, including cardiovascular or all-cause death and HF or all-cause/cardiovascular/noncardiovascular hospitalizations. Guidelines-defined ID was independently associated only with outcomes containing HF hospitalizations or total all-cause hospitalizations, and ferritin <100 μg/L was associated with no outcome. TSAT <20% and IRONMAN ID criteria had stronger associations in HFpEF for outcomes containing HF hospitalization (P interaction < 0.05). TSAT <20% showed the greatest prognostic associations and discrimination.\nCONCLUSIONS: Irrespective of definition, ID was highly prevalent (highest in HFpEF) and independently associated with worse symptoms or HR-QoL. ID defined as TSAT <20% showed the strongest associations with outcomes, including mortality and HF or cardiovascular/noncardiovascular hospitalizations, likely representing the preferred definition with which to enroll a higher-risk group in trials.",
+  "type": "academic",
+  "pdf_url": ""
+}

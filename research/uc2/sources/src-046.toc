@@ -1,0 +1,16 @@
+3	2	Original Research
+64	2	Introduction
+120	2	Materials And Methods
+133	2	Experimental Design
+295	2	Resul Ts
+387	2	Discussion
+562	2	Conclusion
+582	2	Data Availability Statement
+585	2	Ethics Statement
+588	2	Author Contributions
+594	2	Funding
+604	2	References
+605	2	1. Mobasheri A, Rayman MP , Gualillo O, Sellam J, van der Kraan P , Fearon
+608	2	2. Glyn-Jones S, Palmer AJR, Agricola R, Price AJ, Vincent TL,
+644	2	13. Stevenson GW, Mercer H, Cormier J, Dunbar C, Benoit L, Adams
+652	2	15. Aravinthan A, Hossain MA, Kim B, Kang C-W, Kim NS, Hwang K-C,

@@ -1,0 +1,23 @@
+{
+  "id": "src-046",
+  "title": "Overexpression of Atg5 in mice activates autophagy and extends lifespan",
+  "authors": [
+    "Pyo, Jong-Ok",
+    "Yoo, Seung-Min",
+    "Ahn, Hye-Hyun",
+    "Nah, Jihoon",
+    "Hong, Se-Hoon",
+    "Kam, Tae‐In",
+    "Jung, Sunmin",
+    "Jung, Yong‐Keun"
+  ],
+  "doi": "10.1038/ncomms3300",
+  "url": "https://openalex.org/W2130682212",
+  "provider": "openalex",
+  "year": 2013,
+  "venue": "Nature Communications",
+  "citation_count": 696,
+  "abstract": "Autophagy has been implicated in the ageing process, but whether autophagy activation extends lifespan in mammals is unknown. Here we show that ubiquitous overexpression of Atg5, a protein essential for autophagosome formation, extends median lifespan of mice by 17.2%. We demonstrate that moderate overexpression of Atg5 in mice enhances autophagy, and that Atg5 transgenic mice showed anti-ageing phenotypes, including leanness, increased insulin sensitivity and improved motor function. Furthermore, mouse embryonic fibroblasts cultured from Atg5 transgenic mice are more tolerant to oxidative damage and cell death induced by oxidative stress, and this tolerance was reversible by treatment with an autophagy inhibitor. Our observations suggest that the leanness and lifespan extension in Atg5 transgenic mice may be the result of increased autophagic activity.",
+  "type": "academic",
+  "pdf_url": "https://www.nature.com/articles/ncomms3300.pdf"
+}

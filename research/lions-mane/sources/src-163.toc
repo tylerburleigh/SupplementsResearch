@@ -1,0 +1,16 @@
+5	2	Paper
+36	2	1. Introduction
+60	2	12 However, human
+132	2	22 Similarly, acute supplementation
+156	2	2. Materials and methods
+220	2	Procedure
+293	2	27 Subjective Mental
+319	2	35 Ratings of smell and taste were worded
+356	2	Statistical Analysis
+386	2	3. Results
+658	2	4. Discussion
+828	2	5. Conclusion
+840	2	Author Contributions
+855	2	Data Availability
+860	2	Acknowledgements
+873	2	References

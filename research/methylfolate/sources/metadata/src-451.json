@@ -1,0 +1,20 @@
+{
+  "id": "src-451",
+  "title": "Associations of circulating folate, vitamin B12 and homocysteine concentrations in early pregnancy and cord blood with epigenetic gestational age: the Generation R Study.",
+  "authors": [
+    "Monasso, Giulietta S",
+    "Küpers, Leanne K",
+    "Jaddoe, Vincent W V",
+    "Heil, Sandra G",
+    "Felix, Janine F"
+  ],
+  "doi": "10.1186/s13148-021-01065-x",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/33926538",
+  "provider": "pubmed",
+  "year": 2021,
+  "venue": "Clinical epigenetics",
+  "citation_count": 0,
+  "abstract": "BACKGROUND: Circulating folate, vitamin B12 and homocysteine concentrations during fetal development have been associated with health outcomes in childhood. Changes in fetal DNA methylation may be an underlying mechanism. This may be reflected in altered epigenetic aging of the fetus, as compared to chronological aging. The difference between gestational age derived in clinical practice and gestational age predicted from neonatal DNA methylation data is referred to as gestational age acceleration. Differences in circulating folate, vitamin B12 and homocysteine concentrations during fetal development may be associated with gestational age acceleration.\nRESULTS: Up to 1346 newborns participating in the Generation R Study, a population-based prospective cohort study, had both cord blood DNA methylation data available and information on plasma folate, serum total and active B12 and plasma homocysteine concentrations, measured in early pregnancy and/or in cord blood. A subgroup of 380 newborns had mothers with optimal pregnancy dating based on a regular menstrual cycle and a known date of last menstrual period. For comparison, gestational age acceleration was calculated based the method of both Bohlin and Knight. In the total study population, which was more similar to Bohlin's training population, one standard deviation score (SDS) higher maternal plasma homocysteine concentrations was nominally associated with positive gestational age acceleration [0.07 weeks, 95% confidence interval (CI) 0.02, 0.13] by Bohlin's method. In the subgroup with pregnancy dating based on last menstrual period, the method that was also used in Knight's training population, one SDS higher cord serum total and active B12 concentrations were nominally associated with negative gestational age acceleration [(- 0.16 weeks, 95% CI - 0.30, - 0.02) and (- 0.15 weeks, 95% CI - 0.29, - 0.01), respectively] by Knight's method.\nCONCLUSIONS: We found some evidence to support associations of higher maternal plasma homocysteine concentrations with positive gestational age acceleration, suggesting faster epigenetic than clinical gestational aging. Cord serum vitamin B12 concentrations may be associated with negative gestational age acceleration, indicating slower epigenetic than clinical gestational aging. Future studies could examine whether altered fetal epigenetic aging underlies the associations of circulating homocysteine and vitamin B12 blood concentrations during fetal development with long-term health outcomes.",
+  "type": "academic",
+  "pdf_url": ""
+}

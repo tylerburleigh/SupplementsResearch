@@ -1,0 +1,22 @@
+{
+  "id": "src-254",
+  "title": "New biosensors and transgenic mice for multiplex cGMP imaging.",
+  "authors": [
+    "Wolters, Markus",
+    "Thunemann, Martin",
+    "Birk, Barbara",
+    "Feil, Susanne",
+    "Nikolaev, Viacheslav O.",
+    "Lehners, Moritz",
+    "Feil, Robert"
+  ],
+  "doi": "10.1111/bph.70193",
+  "url": "https://www.semanticscholar.org/paper/1b6ce1910fe7ea1654377878c2cd5e52b7d40067",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "British Journal of Pharmacology",
+  "citation_count": 1,
+  "abstract": "BACKGROUND AND PURPOSE\nCyclic guanosine monophosphate (cGMP) is a versatile second messenger that is important for human (patho-)physiology and pharmacotherapy. Live-cell imaging of cGMP with biosensors allows to elucidate its spatiotemporal dynamics in real time under close-to-native conditions. However, to monitor two separate cGMP pools or cGMP/cAMP crosstalk in the same cell, the respective biosensors must be spectrally compatible.\n\nEXPERIMENTAL APPROACH\nWe describe two new Förster/fluorescence resonance energy transfer (FRET)-based cGMP indicators, membrane-targeted mcGi500 and red-shifted cytosolic red-cGi500, as well as two transgenic mouse lines for global and cell type-specific expression of mcGi500. The performance of the new biosensors was characterised in permeabilised and intact primary vascular smooth muscle cells and compared side-by-side with existing cGMP sensors.\n\nKEY RESULTS\nBoth mcGi500 and red-cGi500 had a high selectivity for cGMP over cAMP and detected cGMP with about 3 times higher sensitivity than the current 'gold standard', cytosolic cGi500. Red-cGi500 allowed robust detection of cGMP in intact vascular smooth muscle cells. By combining red-cGi500 with the 'green' cAMP sensor Epac1-camps, cGMP and cAMP could be co-imaged in the same cells.\n\nCONCLUSIONS AND IMPLICATIONS\nTogether, our data suggest that red-cGi500 and mcGi500 as well as the mcGi500 transgenic mouse lines are useful tools for advanced cGMP imaging, including multiplex imaging of potential cGMP compartments and crosstalk between cGMP and other signalling molecules.",
+  "type": "academic",
+  "pdf_url": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "src-071",
+  "title": "Cardiovascular safety of naltrexone and bupropion therapy: Systematic review and meta-analyses.",
+  "authors": [
+    "Sposito, Andrei C",
+    "Bonilha, Isabella",
+    "Luchiari, Beatriz",
+    "Benchimol, Alexander",
+    "Hohl, Alexandre",
+    "Moura, Fabio",
+    "Cercato, Cíntia",
+    "Geloneze, Bruno",
+    "Nadruz, Wilson",
+    "Aguilar-Salinas, Carlos",
+    "Carvalho, Luiz Sergio F"
+  ],
+  "doi": "10.1111/obr.13224",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/33847068",
+  "provider": "pubmed",
+  "year": 2021,
+  "venue": "Obesity reviews : an official journal of the International Association for the Study of Obesity",
+  "citation_count": 0,
+  "abstract": "Despite being approved for clinical use, evidence of cardiovascular safety (CV) is lacking for treatment with bupropion, naltrexone, or their combination (B-N). The purpose of the study is to determine the relationship between these treatments and the risk of major cardiovascular adverse events (MACE). Phase 3 randomized clinical trials (RCT) evaluating bupropion, naltrexone, or B-N versus control with reported incidence of MACE. The meta-analysis included 12 RCTs, 69% for weight loss and 29% for smoking cessation, with 19,176 patients and 7354 patient-years who were randomized to an active treatment (bupropion [n = 2965] or B-N [n = 6980] or naltrexone [n = 249]) versus control (placebo [n = 6968] or nicotine patch [n = 2014]). The mean age was 54 ± 8 years (55% female), and the baseline BMI was 32 ± 5 kg/m2 . The additive network meta-analysis model for random effects showed no association between bupropion, B-N, or naltrexone and MACE (odds ratio [OR] = 0.90 [95%CI 0.65-1.25], p = 0.52; OR = 0.97 [95%CI 0.75-1.24], p = 0.79; OR = 1.08 [95%CI 0.71-1.63], p = 0.73, respectively; I2 = 0%, p = 0.86). Meta-regression analyses showed no significant association between MACE and potential confounders from RCT demographic disparities (p = 0.58). The statistical power (post hoc two-tailed) for non-inferiority was 91%, giving a strong probability of validity. Naltrexone, bupropion, or B-N is not associated with the incidence of MACE as compared with placebo.",
+  "type": "academic",
+  "pdf_url": ""
+}

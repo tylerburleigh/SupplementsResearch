@@ -1,0 +1,17 @@
+{
+  "id": "src-133",
+  "title": "Mammalian/mechanistic target of rapamycin (mTOR) complexes in neurodegeneration",
+  "authors": [
+    "Querfurth, Henry",
+    "Lee, Hankyu"
+  ],
+  "doi": "10.1186/s13024-021-00428-5",
+  "url": "https://openalex.org/W3174082797",
+  "provider": "openalex",
+  "year": 2021,
+  "venue": "Molecular Neurodegeneration",
+  "citation_count": 283,
+  "abstract": "Novel targets to arrest neurodegeneration in several dementing conditions involving misfolded protein accumulations may be found in the diverse signaling pathways of the Mammalian/mechanistic target of rapamycin (mTOR). As a nutrient sensor, mTOR has important homeostatic functions to regulate energy metabolism and support neuronal growth and plasticity. However, in Alzheimer's disease (AD), mTOR alternately plays important pathogenic roles by inhibiting both insulin signaling and autophagic removal of β-amyloid (Aβ) and phospho-tau (ptau) aggregates. It also plays a role in the cerebrovascular dysfunction of AD. mTOR is a serine/threonine kinase residing at the core in either of two multiprotein complexes termed mTORC1 and mTORC2. Recent data suggest that their balanced actions also have implications for Parkinson's disease (PD) and Huntington's disease (HD), Frontotemporal dementia (FTD) and Amyotrophic Lateral Sclerosis (ALS). Beyond rapamycin; an mTOR inhibitor, there are rapalogs having greater tolerability and micro delivery modes, that hold promise in arresting these age dependent conditions.",
+  "type": "academic",
+  "pdf_url": "https://molecularneurodegeneration.biomedcentral.com/counter/pdf/10.1186/s13024-021-00428-5"
+}

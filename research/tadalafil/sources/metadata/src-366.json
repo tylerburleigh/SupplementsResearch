@@ -1,0 +1,22 @@
+{
+  "id": "src-366",
+  "title": "The role for artificial intelligence in identifying combination therapies for Alzheimer’s disease",
+  "authors": [
+    "Cheng, Feixiong",
+    "Sha, Zhendong",
+    "Zhou, Yadi",
+    "Hou, Yuan",
+    "Zhang, Pengyue",
+    "Pieper, Andrew A.",
+    "Cummings, Jeffrey"
+  ],
+  "doi": "10.1016/j.tjpad.2025.100366",
+  "url": "https://www.semanticscholar.org/paper/be90fa4c3a14a16bfec1e6a7eee4f2acd102bfa3",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "The journal of prevention of Alzheimer's disease",
+  "citation_count": 3,
+  "abstract": "Despite substantial investment in biomedical and pharmaceutical research over the past two decades, the global prevalence of Alzheimer’s disease (AD) and AD-related dementias (AD/ADRD) is still rising. This underscores the significant unmet need for identifying effective disease-modifying therapies. Here, we provide a critical perspective on the application of data science and artificial intelligence (AI) to the rational design of drug combinations in AD and ADRD, addressing their potential to transform therapeutic development. We examine AI’s current and prospective capabilities in therapeutic discovery, identify areas where AI-driven strategies can enhance drug combination development, and outline how multidisciplinary professionals in the field, including clinical trialists, neuropsychiatrists, pharmacologists, medicinal chemists, and computational scientists, can leverage these tools to address therapeutic gaps. We also highlight AI’s role in synthesizing the rapidly growing amount of biomedical data in the field of AD/ADRD, especially clinical trials, biomarkers, multi-omics data (genomics, transcriptomics, proteomics, metabolomics, interactomics, and radiomics), and real-world patient data. We further explore AI’s utility in prioritizing potential drug combination regimens and estimating clinical effect size in combination therapy trials for AD/ADRD. Lastly, we emphasize AI-powered network medicine methodologies for prioritizing drug combinations targeting AD/ADRD co-pathologies and summarize the challenges of their translation to clinical practice.",
+  "type": "academic",
+  "pdf_url": ""
+}

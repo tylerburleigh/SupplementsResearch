@@ -1,0 +1,18 @@
+{
+  "id": "src-038",
+  "title": "The Biology of Lactoferrin, an Iron-Binding Protein That Can Help Defend Against Viruses and Bacteria",
+  "authors": [
+    "Kell, Douglas B.",
+    "Heyden, Eugene L.",
+    "Pretorius, Etheresia"
+  ],
+  "doi": "10.3389/fimmu.2020.01221",
+  "url": "https://openalex.org/W3029931381",
+  "provider": "openalex",
+  "year": 2020,
+  "venue": "Frontiers in Immunology",
+  "citation_count": 443,
+  "abstract": "Lactoferrin is a nutrient classically found in mammalian milk. It binds iron and is transferred via a variety of receptors into and between cells, serum, bile, and cerebrospinal fluid. It has important immunological properties, and is both antibacterial and antiviral. In particular, there is evidence that it can bind to at least some of the receptors used by coronaviruses and thereby block their entry. Of importance are Heparan Sulfate Proteoglycans (HSPGs) and the host receptor angiotensin-converting enzyme 2 (ACE2), as based on other activities lactoferrin might prevent severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) from attaching to the host cells. Lactoferrin (and more specifically enteric-coated LF because of increased bioavailability) may consequently be of preventive and therapeutic value during the present COVID-19 pandemic.",
+  "type": "academic",
+  "pdf_url": "https://www.frontiersin.org/articles/10.3389/fimmu.2020.01221/pdf"
+}

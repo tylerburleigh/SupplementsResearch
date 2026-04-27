@@ -1,0 +1,17 @@
+{
+  "id": "src-173",
+  "title": "In vitro senescence and senolytic functional assays.",
+  "authors": [
+    "Ryan, Patrick",
+    "Lee, Jungwoo"
+  ],
+  "doi": "10.1039/d4bm01684j",
+  "url": "https://www.semanticscholar.org/paper/cee53f27d22b1ea3deabaa34ee319de34383ee28",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "Biomaterials Science",
+  "citation_count": 4,
+  "abstract": "A detailed understanding of aging biology and the development of anti-aging therapeutic strategies remain imperative yet inherently challenging due to the protracted nature of aging. Cellular senescence arises naturally through replicative exhaustion and is accelerated by clinical treatments or environmental stressors. The accumulation of senescent cells-defined by a loss of mitogenic potential, resistance to apoptosis, and acquisition of a pro-inflammatory secretory phenotype-has been implicated as a key driver of chronic disease, tissue degeneration, and organismal aging. Recent studies have highlighted the therapeutic promise of senolytic drugs, which selectively eliminate senescent cells. Compelling results from preclinical animal studies and ongoing clinical trials underscore this potential. However, the clinical translation of senolytics requires further pharmacological validation to refine selectivity, minimize toxicity, and determine optimal dosing. Equally important is the evaluation of senolytics' potential to restore tissue structure and function by reducing the senescent cell burden. In vitro tissue culture models offer a powerful platform to advance these efforts. This review summarizes the current landscape of in vitro systems used for inducing cellular senescence-referred to as \"senescence assays\"-and for screening senolytic drugs-referred to as \"senolytic assays\". We conclude by discussing key challenges to improving mechanistic insight, predictive accuracy, and clinical relevance in senolytic drug development, as well as emerging applications of senolytic therapies.",
+  "type": "academic",
+  "pdf_url": ""
+}

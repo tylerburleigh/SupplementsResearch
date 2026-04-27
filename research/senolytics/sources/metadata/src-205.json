@@ -1,0 +1,21 @@
+{
+  "id": "src-205",
+  "title": "A phase II randomized double-blind placebo-controlled study of fisetin to improve physical function in frail older breast cancer survivors (TROFFi).",
+  "authors": [
+    "Ji, Jingran",
+    "Bae, Marie",
+    "Wong, F. L.",
+    "Crespi, C. M.",
+    "Yee, Lisa D.",
+    "Sedrak, M."
+  ],
+  "doi": "10.1200/jco.2024.42.16_suppl.tps1645",
+  "url": "https://www.semanticscholar.org/paper/9f269513512b27dd377c0ae84ce6f71dd5539b6e",
+  "provider": "semantic_scholar",
+  "year": 2024,
+  "venue": "Journal of Clinical Oncology",
+  "citation_count": 2,
+  "abstract": "TPS1645 Background: Among postmenopausal breast cancer survivors treated with chemotherapy, one-third experience a persistent decline in physical function even 12 months after completing treatment. This decline has been associated with loss of independence, disability, and death. One mechanism that is thought to drive chemotherapy-related decline in physical function is cellular senescence, a state of terminal growth arrest. Chemotherapy increases the burden of senescent cells (Sncs), which develop a senescence-associated secretory phenotype (SASP) that over time leads to functional decline. Preclinical mouse studies have demonstrated that eliminating chemotherapy-induced Sncs in mice led to reductions in SASP and improved physical activity. In patients with stage I-III breast cancer treated with chemotherapy, expression of p16INK4a (p16), a known Snc marker, rapidly increased after chemotherapy and persisted over time. Higher levels of pretreatment p16 have also been associated with increased frailty in older breast cancer survivors. Novel senolytic agents have been developed to eliminate Sncs. Among existing senolytics, fisetin is a natural dietary supplement with a favorable safety profile and preclinical efficacy to reduce Snc burden and alleviate frailty in mice. There are multiple ongoing studies of this plant flavonoid in humans, but few are studying the effects of fisetin on chemotherapy-related functional decline in breast cancer survivors. Therefore, we hypothesize that targeting Sncs with fisetin after chemotherapy will improve physical function in frail older breast cancer survivors by reducing systemic Snc burden. Methods: This phase II randomized, placebo-controlled study will enroll 88 postmenopausal women with stage I-III breast cancer who experience physical functional decline after completing neo/adjuvant chemotherapy. Key eligibility criteria include being postmenopausal and within 12 months of completing neo/adjuvant chemotherapy at the time of enrollment. All participants must have evidence of physical functional decline, as measured by a 6-minute walk distance (6MWD) <400 meters, prior to enrollment. Participants will be randomized 1:1 to either placebo or oral fisetin (20mg/kg) on days 1-3 of 14-day cycles for a total of 4 cycles. The primary objective is to determine the effect of fisetin on physical function, as assessed by the change in 6MWD from baseline to end of treatment. Secondary objectives include studying the effect of fisetin on quality of life and additional measures of function including fatigue, cognition, and neuropathy. We will also determine the effect of fisetin on biomarkers of aging, including circulating markers of senescence, as well as the safety of and adherence to fisetin. Enrolment on this study began March 2023 and is currently ongoing. Clinical trial information: NCT05595499 .",
+  "type": "academic",
+  "pdf_url": ""
+}

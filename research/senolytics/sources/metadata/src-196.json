@@ -1,0 +1,26 @@
+{
+  "id": "src-196",
+  "title": "Abstract 4364300: The Senolytic Navitoclax (ABT263) Reduces Coronary Atherosclerosis and Upregulates Plaque Stability in Atherosclerotic Pigs",
+  "authors": [
+    "Sukhanov, S.",
+    "Higashi, Yusuke",
+    "Danchuk, S.",
+    "Lott, C.",
+    "Li, Mingqiao",
+    "Landry, Noah",
+    "Scarborough, Amy",
+    "Lazartigues, Eric",
+    "Rozenbaum, Z.",
+    "Jenkins, J.",
+    "Delafontaine, P."
+  ],
+  "doi": "10.1161/circ.152.suppl_3.4364300",
+  "url": "https://www.semanticscholar.org/paper/fb132e075ae2e4e4ba8077ae632a2bedc9377488",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "Circulation",
+  "citation_count": 1,
+  "abstract": "Background:\nCell senescence is an irreversible cell proliferation arrest associated with aging, tumorigenesis, and atherogenesis. The senolytic Navitoclax (ABT263) is an FDA-approved drug for testing in Phase I-III cancer clinical trials. ABT263 induces clearance of senescent cells\nin vitro\nand\nin vivo.\n\nHypothesis:\nIt is unknown whether depletion of senescent cells is sufficient to inhibit atherogenesis. We hypothesized that clearance of senescent cells using ABT263 would reduce the atherosclerotic burden in a pre-clinical model of atherosclerosis, pigs with familial hypercholesterolemia (FH pigs).\n\nMethods:\nABT263 (or mock, control) was administered to FH pigs fed with pre-existing atherosclerosis (N=5/group). The protocol for ABT263 administration mimicked the drug regimen used for patients. The coronary plaque volume was assessed\nin vivo\nby intravascular ultrasound at time zero and at sacrifice, after 3 months of ABT263 administration. Plaque cross-sectional area (CSA) and composition were assessed with Trichrome-stained sections.\n\nResults:\nABT263 was detected in plasma only in FH pigs in the ABT group (liquid chromatography-mass spectrometry, 226.4±43.4 ng/ml). As reported ABT263 may induce mild thrombocytopenia and neutropenia in patients. We found no significant changes in platelet and neutrophil counts in ABT-treated vs. mock pigs. Senolytic administration did not change levels of circulating immune cells (spectral flow cytometry), including B cells, natural killer cells, and subtypes of T cells and monocytes. Plaque volume was increased by 3.0-fold in the right coronary artery (RCA) and by 3.6-fold in the left anterior descending artery (LAD) in the mock group and by 2.1-fold and by 2.8-fold in ABT-treated pigs (RCA and LAD, respectively) suggesting that ABT263 inhibited plaque progression. ABT263 reduced plaque CSA in RCA (40±6% decrease compared to control, P<0.05) and in LAD (23±4% decrease, P<0.05). Senolytic administration decreased plaque necrotic core area (P<0.05 vs. control) and increased fibrous cap thickness suggesting upregulated features of plaque stability.\n\nConclusions:\nWe tested the effect of Navitoclax (ABT263) on progression of coronary atherosclerosis in FH pigs. ABT263 inhibited the time-dependent increase in atherosclerotic burden and promoted features of a stable plaque phenotype. The results of this trial provide critical experimental background for testing senolytics as innovative anti-atherogenic drugs.",
+  "type": "academic",
+  "pdf_url": ""
+}

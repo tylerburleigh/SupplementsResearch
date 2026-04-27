@@ -1,0 +1,31 @@
+{
+  "id": "src-061",
+  "title": "Human-Algorithmic Interaction Using a Large Language Model-Augmented Artificial Intelligence Clinical Decision Support System",
+  "authors": [
+    "Rajashekar, Niroop",
+    "Shin, Yeo Eun",
+    "Pu, Yuan",
+    "Chung, Sunny",
+    "You, Kisung",
+    "Giuffrè, Mauro",
+    "Chan, Colleen E.",
+    "Saarinen, Theo",
+    "Hsiao, Allen",
+    "Sekhon, Jasjeet",
+    "Wong, Ambrose H",
+    "Evans, Leigh V",
+    "Kizilcec, René F.",
+    "Laine, Loren",
+    "Mccall, Terika",
+    "Shung, Dennis L."
+  ],
+  "doi": "10.1145/3613904.3642024",
+  "url": "https://www.semanticscholar.org/paper/47dbce63f439fff0d9b12dc09ae938c2ad3e96b2",
+  "provider": "semantic_scholar",
+  "year": 2024,
+  "venue": "International Conference on Human Factors in Computing Systems",
+  "citation_count": 69,
+  "abstract": "Integration of artificial intelligence (AI) into clinical decision support systems (CDSS) poses a socio-technological challenge that is impacted by usability, trust, and human-computer interaction (HCI). AI-CDSS interventions have shown limited benefit in clinical outcomes, which may be due to insufficient understanding of how health-care providers interact with AI systems. Large language models (LLMs) have the potential to enhance AI-CDSS, but haven’t been studied in either simulated or real-world clinical scenarios. We present findings from a randomized controlled trial deploying AI-CDSS for the management of upper gastrointestinal bleeding (UGIB) with and without an LLM interface within realistic clinical simulations for physician and medical student participants. We find evidence that LLM augmentation improves ease-of-use, that LLM-generated responses with citations improve trust, and HCI varies based on clinical expertise. Qualitative themes from interviews suggest the perception of LLM-augmented AI-CDSS as a team-member used to confirm initial clinical intuitions and help evaluate borderline decisions.",
+  "type": "academic",
+  "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3613904.3642024"
+}

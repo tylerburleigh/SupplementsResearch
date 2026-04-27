@@ -1,0 +1,39 @@
+{
+  "id": "src-050",
+  "title": "Modifiable risk factors for subsequent lethal prostate cancer among men with an initially negative prostate biopsy",
+  "authors": [
+    "Feng, Xiaoshuang",
+    "Zhang, Yiwen",
+    "Vaselkiv, J. Bailey",
+    "Li, Ruifeng",
+    "Nguyen, Paul L.",
+    "Penney, Kathryn L.",
+    "Giovannucci, Edward L.",
+    "Mucci, Lorelei A.",
+    "Stopsack, Konrad H."
+  ],
+  "year": 2023,
+  "abstract": "",
+  "doi": "10.1038/s41416-023-02472-y",
+  "url": "https://doi.org/10.1038/s41416-023-02472-y",
+  "pdf_url": "",
+  "venue": "British Journal of Cancer",
+  "citation_count": 1,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-19T18:34:45.069535+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-050.md",
+  "quality_details": {
+    "content_length": 21282,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

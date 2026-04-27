@@ -1,0 +1,18 @@
+{
+  "id": "src-339",
+  "title": "Cellular Senescence as a Mechanism and Target in Chronic Lung Diseases.",
+  "authors": [
+    "Barnes, P.",
+    "Baker, J.",
+    "Donnelly, L."
+  ],
+  "doi": "10.1164/rccm.201810-1975tr",
+  "url": "https://www.semanticscholar.org/paper/0196a382606fd65ee3a2f0923523ad79cb85638d",
+  "provider": "semantic_scholar",
+  "year": 2019,
+  "venue": "American Journal of Respiratory and Critical Care Medicine",
+  "citation_count": 410,
+  "abstract": "Cellular senescence is now considered an important driving mechanism for chronic lung diseases, particularly COPD and idiopathic pulmonary fibrosis. Cellular senescence is due to replicative and stress-related senescence with activation of p53 and p16INK4a respectively, leading to activation of p21CIP1 and cell cycle arrest. Senescent cells secrete multiple inflammatory proteins known as the senescence-associated secretory phenotype (SASP), leading to low grade chronic inflammation, which further drives senescence. Loss of key anti-aging molecules sirtuin-1 and sirtuin-6 may be important in acceleration of aging and arises from oxidative stress reducing phosphatase PTEN, thereby activating PI3K (phosphoinositide-3-kinase) and mTOR (mammalian target of rapamycin). MicroRNA-34a, which is regulated by PI3K-mTOR signaling, plays a pivotal role in reducing sirtuin-1/6 and its inhibition with an antagomir results in their restoration, reducing markers of senescence, reducing SASP and reversing cell cycle arrest in epithelial cells from peripheral airways of COPD patients. MiR-570 is also involved in reduction of sirtuin-1 and cellular senescence and is activated by p38 MAP kinase. These miRNAs may be released from cells in extracellular vesicles that are taken up by other cells, thereby spreading senescence locally within the lung but outside the lung through the circulation; this may account for comorbidities of COPD and other lung diseases. Understanding the mechanisms of cellular senescence may result in new treatments for chronic lung disease, either by inhibiting PI3K-mTOR signaling, by inhibiting specific miRNAs or by deletion of senescent cells with senolytic therapies, already shown to be effective in experimental lung fibrosis.",
+  "type": "academic",
+  "pdf_url": ""
+}

@@ -1,0 +1,20 @@
+{
+  "id": "src-167",
+  "title": "Association of sleep duration with risk of all-cause mortality and poor quality of dying in oldest-old people: a community-based longitudinal study",
+  "authors": [
+    "Hou, C.",
+    "Lin, Yinan",
+    "Zimmer, Z.",
+    "Tse, L.",
+    "Fang, X."
+  ],
+  "doi": "10.1186/s12877-020-01759-6",
+  "url": "https://www.semanticscholar.org/paper/ae8d2186f1bc74cfdcb5911db7ffbfdfaeae7e5a",
+  "provider": "semantic_scholar",
+  "year": 2020,
+  "venue": "BMC Geriatrics",
+  "citation_count": 15,
+  "abstract": "Background While sleep duration has been shown to be associated with health outcomes, few studies have been conducted among the oldest old. In addition, the impact of sleep duration on quality of dying is unknown. We aimed to evaluate how sleep duration affects all-cause mortality and quality of dying in people aged 80 + . Methods This community-based longitudinal study was performed by using data from 15,048 individuals aged ≥80 with information on sleep duration in the Chinese Longitudinal Healthy Longevity Survey. Cox and logistic regression models with penalized splines were applied to explore the shape of the association between sleep duration and all-cause mortality and poor quality of dying respectively and identify the interval of sleep duration resulting in the lowest risk of both. Results During a median follow-up of 3.1 years, 11,582 deaths including 4116 individuals who experienced poor quality of dying were recorded. Sleep duration showed a U-shaped association with all-cause mortality and sleeping about 8 h had the minimum risk of death; a J-shaped association was found between sleep duration and poor quality of dying. Compared with sleep duration of 7–9 h, the adjusted hazard ratio of total deaths was 1.08 (95% CI 1.03–1.13) for short duration (< 7 h) and 1.12 (95% CI 1.07–1.17) for long duration (> 9 h); the adjusted odds ratio of poor QOD was 1.10 (95% CI 1.01–1.21) for long duration, but this association was restricted to those with baseline unhealthy status (P-interaction = 0.04). Conclusions Sleeping a little longer may be better for individuals over 80 years old, and sleep duration of 7–9 h per day is optimal for both survival and good quality of life near death.",
+  "type": "academic",
+  "pdf_url": "https://bmcgeriatr.biomedcentral.com/track/pdf/10.1186/s12877-020-01759-6"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "src-158",
+  "title": "Discovery of senolytics using machine learning",
+  "authors": [
+    "Smer-Barreto, Vanessa",
+    "Quintanilla, Andrea",
+    "Elliott, Richard",
+    "Dawson, John C.",
+    "Sun, Jiugeng",
+    "Campa, Víctor M.",
+    "Lorente‐Macías, Álvaro",
+    "Unciti‐Broceta, Asier",
+    "Carragher, Neil O.",
+    "Acosta, Juan Carlos",
+    "Oyarzún, Diego A."
+  ],
+  "doi": "10.1038/s41467-023-39120-1",
+  "url": "https://openalex.org/W4380152694",
+  "provider": "openalex",
+  "year": 2023,
+  "venue": "Nature Communications",
+  "citation_count": 113,
+  "abstract": "Cellular senescence is a stress response involved in ageing and diverse disease processes including cancer, type-2 diabetes, osteoarthritis and viral infection. Despite growing interest in targeted elimination of senescent cells, only few senolytics are known due to the lack of well-characterised molecular targets. Here, we report the discovery of three senolytics using cost-effective machine learning algorithms trained solely on published data. We computationally screened various chemical libraries and validated the senolytic action of ginkgetin, periplocin and oleandrin in human cell lines under various modalities of senescence. The compounds have potency comparable to known senolytics, and we show that oleandrin has improved potency over its target as compared to best-in-class alternatives. Our approach led to several hundred-fold reduction in drug screening costs and demonstrates that artificial intelligence can take maximum advantage of small and heterogeneous drug screening data, paving the way for new open science approaches to early-stage drug discovery.",
+  "type": "academic",
+  "pdf_url": "https://www.nature.com/articles/s41467-023-39120-1.pdf"
+}

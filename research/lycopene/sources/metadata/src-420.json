@@ -1,0 +1,20 @@
+{
+  "id": "src-420",
+  "title": "Prospective Study of Sex Hormone Levels and Risk of Prostate Cancer",
+  "authors": [
+    "Gann, Peter H.",
+    "Hennekens, Charles H.",
+    "Ma, Jing",
+    "Longcope, C.",
+    "Stampfer, Meir J."
+  ],
+  "doi": "10.1093/jnci/88.16.1118",
+  "url": "https://openalex.org/W2116544030",
+  "provider": "openalex",
+  "year": 1996,
+  "venue": "JNCI Journal of the National Cancer Institute",
+  "citation_count": 798,
+  "abstract": "High levels of circulating testosterone and low levels of SHBG-both within normal endogenous ranges-are associated with increased risks of prostate cancer. Low levels of circulating estradiol may represent an additional risk factor. Circulating levels of DHT and AAG do not appear to be strongly related to prostate cancer risk.",
+  "type": "academic",
+  "pdf_url": "https://academic.oup.com/jnci/article-pdf/88/16/1118/7811044/88-16-1118.pdf"
+}

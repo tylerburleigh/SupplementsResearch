@@ -1,0 +1,34 @@
+{
+  "id": "src-188",
+  "title": "Curcuminoids for Metabolic Syndrome: Meta-Analysis Evidences Toward Personalized Prevention and Treatment Management",
+  "authors": [
+    "Nurcahyanti, Agustina Dwi Retno",
+    "Cokro, Fonny",
+    "Wulanjati, Martha P.",
+    "Mahmoud, Mona F.",
+    "Wink, Michael",
+    "Sobeh, Mansour"
+  ],
+  "year": 2022,
+  "abstract": "The metabolic syndrome (MS) is a multifactorial syndrome associated with a significant economic burden and healthcare costs. MS management often requires multiple treatments (polydrug) to ameliorate conditions such as diabetes mellitus, insulin resistance, obesity, cardiovascular diseases, hypertension, and non-alcoholic fatty liver disease (NAFLD). However, various therapeutics and possible drug-drug interactions may also increase the risk of MS by altering lipid and glucose metabolism and promoting weight gain. In addition, the medications cause side effects such as nausea, flatulence, bloating, insomnia, restlessness, asthenia, palpitations, cardiac arrhythmias, dizziness, and blurred vision. Therefore, is important to identify and develop new safe and effective agents based on a multi-target approach to treat and manage MS. Natural products, such as curcumin, have multi-modalities to simultaneously target several factors involved in the development of MS. This review discusses the recent preclinical and clinical findings, and up-to-date meta-analysis from Randomized Controlled Trials regarding the effects of curcumin on MS, as well as the metabonomics and a pharma-metabolomics outlook considering curcumin metabolites, the gut microbiome, and environment for a complementary personalized prevention and treatment for MS management.",
+  "doi": "10.3389/fnut.2022.891339",
+  "url": "https://doi.org/10.3389/fnut.2022.891339",
+  "pdf_url": "",
+  "venue": "Frontiers in Nutrition",
+  "citation_count": 33,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-22T14:39:57.503136+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-188.md",
+  "quality_details": {
+    "content_length": 114796,
+    "alpha_ratio": 0.733,
+    "sentence_count": 1239,
+    "reasons": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "src-300",
+  "title": "A biohybrid nanovesicle hijacks inflammatory chemotaxis to deliver colchicine for myocardial infarction therapy",
+  "authors": [
+    "Hu, Xiangyong",
+    "Du, Liping",
+    "Xiang, Hongju",
+    "Li, Yuyu",
+    "Liao, Zhixiong",
+    "Yu, Jiaqi"
+  ],
+  "doi": "10.3389/fbioe.2026.1751640",
+  "url": "https://www.semanticscholar.org/paper/e7c80fa1b14dedeb1868f8f775e7afa819cc6b3a",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "Frontiers in Bioengineering and Biotechnology",
+  "citation_count": 0,
+  "abstract": "Myocardial infarction (MI) triggers an excessive inflammatory response that drives adverse cardiac remodeling. Although colchicine has shown clinical promise, its narrow therapeutic window and lack of target specificity limit its efficacy. To address these limitations, we developed a biohybrid nanovesicle (MM‐LP@COL) that encapsulates colchicine, aiming to leverage natural inflammatory tropism for site-specific drug delivery.\n\nMM‐LP@COL nanovesicles were fabricated by fusing macrophage membranes with liposomes. Physicochemical characterization was performed using DLS, TEM, and FRET analysis. Cytokine‐scavenging capacity was evaluated\nin vitro\nby ELISA. In a murine MI model, mice were treated with PBS, free colchicine, LP@COL, or MM‐LP@COL. Immune cell populations in blood, bone marrow, and spleen were analyzed by high‐dimensional flow cytometry (UMAP). Cardiac function and tissue remodeling were assessed by echocardiography and histology.\n\nMM‐LP@COL formed uniform spherical nanovesicles (∼200 nm) and demonstrated potent, dose‐dependent neutralization of multiple pro‐inflammatory cytokines\nin vitro\n, along with reduced circulating cytokine levels in MI mice. High‐dimensional cytometric analysis revealed that treatment significantly reduced neutrophil infiltration across key immune organs, including blood, bone marrow, and spleen. These effects translated into improved left ventricular function, reduced myocardial inflammation, and attenuated cardiomyocyte hypertrophy.\n\nThis study demonstrates that the macrophage-inspired nanovesicle system constitutes a potent and targeted combinatorial therapy for post-infarction inflammation and repair.",
+  "type": "academic",
+  "pdf_url": ""
+}

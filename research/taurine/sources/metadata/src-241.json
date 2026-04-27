@@ -1,0 +1,21 @@
+{
+  "id": "src-241",
+  "title": "An insight into role of amino acids as antioxidants via NRF2 activation",
+  "authors": [
+    "Egbujor, Melford C.",
+    "Olaniyan, Olugbemi T.",
+    "Emeruwa, Chigbundu N.",
+    "Saha, Sarmistha",
+    "Saso, Luciano",
+    "Tucci, Paolo"
+  ],
+  "doi": "10.1007/s00726-024-03384-8",
+  "url": "https://openalex.org/W4393004310",
+  "provider": "openalex",
+  "year": 2024,
+  "venue": "Amino Acids",
+  "citation_count": 54,
+  "abstract": "Oxidative stress can affect the protein, lipids, and DNA of the cells and thus, play a crucial role in several pathophysiological conditions. It has already been established that oxidative stress has a close association with inflammation via nuclear factor erythroid 2-related factor 2 (NRF2) signaling pathway. Amino acids are notably the building block of proteins and constitute the major class of nitrogen-containing natural products of medicinal importance. They exhibit a broad spectrum of biological activities, including the ability to activate NRF2, a transcription factor that regulates endogenous antioxidant responses. Moreover, amino acids may act as synergistic antioxidants as part of our dietary supplementations. This has aroused research interest in the NRF2-inducing activity of amino acids. Interestingly, amino acids' activation of NRF2-Kelch-like ECH-associated protein 1 (KEAP1) signaling pathway exerts therapeutic effects in several diseases. Therefore, the present review will discuss the relationship between different amino acids and activation of NRF2-KEAP1 signaling pathway pinning their anti-inflammatory and antioxidant properties. We also discussed amino acids formulations and their applications as therapeutics. This will broaden the prospect of the therapeutic applications of amino acids in a myriad of inflammation and oxidative stress-related diseases. This will provide an insight for designing and developing new chemical entities as NRF2 activators.",
+  "type": "academic",
+  "pdf_url": "https://link.springer.com/content/pdf/10.1007/s00726-024-03384-8.pdf"
+}

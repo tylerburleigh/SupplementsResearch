@@ -1,0 +1,27 @@
+{
+  "id": "src-276",
+  "title": "Phase I Dose Escalation Pharmacokinetic Study in Healthy Volunteers of Resveratrol, a Potential Cancer Chemopreventive Agent",
+  "authors": [
+    "Boocock, David J.",
+    "Faust, Guy",
+    "Patel, Ketan",
+    "Schinas, Anna Maria",
+    "Brown, Victoria",
+    "Ducharme, Murray P.",
+    "Booth, Tristan D.",
+    "Crowell, James A.",
+    "Perloff, Marjorie",
+    "Gescher, Andreas J.",
+    "Steward, William P.",
+    "Brenner, Dean E."
+  ],
+  "doi": "10.1158/1055-9965.epi-07-0022",
+  "url": "https://openalex.org/W2155590575",
+  "provider": "openalex",
+  "year": 2007,
+  "venue": "Cancer Epidemiology Biomarkers & Prevention",
+  "citation_count": 812,
+  "abstract": "The red grape constituent resveratrol possesses cancer chemopreventive properties in rodents. The hypothesis was tested that, in healthy humans, p.o. administration of resveratrol is safe and results in measurable plasma levels of resveratrol. A phase I study of oral resveratrol (single doses of 0.5, 1, 2.5, or 5 g) was conducted in 10 healthy volunteers per dose level. Resveratrol and its metabolites were identified in plasma and urine by high-performance liquid chromatography-tandem mass spectrometry and quantitated by high-performance liquid chromatography-UV. Consumption of resveratrol did not cause serious adverse events. Resveratrol and six metabolites were recovered from plasma and urine. Peak plasma levels of resveratrol at the highest dose were 539 +/- 384 ng/mL (2.4 micromol/L, mean +/- SD; n = 10), which occurred 1.5 h post-dose. Peak levels of two monoglucuronides and resveratrol-3-sulfate were 3- to 8-fold higher. The area under the plasma concentration curve (AUC) values for resveratrol-3-sulfate and resveratrol monoglucuronides were up to 23 times greater than those of resveratrol. Urinary excretion of resveratrol and its metabolites was rapid, with 77% of all urinary agent-derived species excreted within 4 h after the lowest dose. Cancer chemopreventive effects of resveratrol in cells in vitro require levels of at least 5 micromol/L. The results presented here intimate that consumption of high-dose resveratrol might be insufficient to elicit systemic levels commensurate with cancer chemopreventive efficacy. However, the high systemic levels of resveratrol conjugate metabolites suggest that their cancer chemopreventive properties warrant investigation.",
+  "type": "academic",
+  "pdf_url": ""
+}

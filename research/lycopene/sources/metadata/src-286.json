@@ -1,0 +1,20 @@
+{
+  "id": "src-286",
+  "title": "Lycopene induces antiproliferative effects through apoptosis, autophagy, and oxidative DNA damage in the HeLa cells.",
+  "authors": [
+    "Parlak, Mesut",
+    "Joha, Ziad",
+    "Yulak, Fatih",
+    "Mendil, Ali Sefa",
+    "Taştemur, Yaşar"
+  ],
+  "doi": "10.1080/10799893.2024.2426516",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39506337",
+  "provider": "pubmed",
+  "year": 2024,
+  "venue": "Journal of receptor and signal transduction research",
+  "citation_count": 0,
+  "abstract": "BACKGROUND: This study explores the role of apoptosis, autophagy, and oxidative DNA damage in influencing the cytotoxic impact of lycopene on HeLa cells.\nMATERIAL AND METHODS: Cell viability following exposure to varying lycopene concentrations was determined using an XTT assay. ELISA measured key cell death proteins (Bax, BCL-2, etc.), while immunofluorescence staining visualized LC3β (autophagy) and 8-oxo-dG (DNA damage).\nRESULTS: Lycopene significantly killed HeLa cells in a dose-dependent way (IC50 = 10 μM). Subsequent examinations conducted with the IC50 dose of lycopene demonstrated a notable elevation in the expression levels of apoptotic proteins, such as cleaved caspase 3, cleaved PARP, and Bax (p < 0.001). Additionally, treatment with this substance led to an increase in the levels of 8-oxo-dG (p < 0.001), a widely acknowledged biomarker indicative of oxidative DNA damage. Furthermore, a significant rise (p < 0.05) in LC3β protein levels, a well-established indicator of autophagy activation, was noted.\nCONCLUSION: This study suggests lycopene's potential to fight cervical cancer by triggering programmed cell death (apoptosis) and cellular self-digestion (autophagy). These findings highlight lycopene as a promising candidate for future cervical cancer treatments.",
+  "type": "academic",
+  "pdf_url": ""
+}

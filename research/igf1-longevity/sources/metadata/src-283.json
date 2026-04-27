@@ -1,0 +1,26 @@
+{
+  "id": "src-283",
+  "title": "Reduced IGF-1 signaling fails to limit Alzheimer’s disease progression in a novel rat model of IGF-1R haploinsufficiency",
+  "authors": [
+    "Narayan, Sushma",
+    "Mao, Kai",
+    "Williams-Medina, Alberto R",
+    "Richmann, Todd",
+    "Gal, Maya",
+    "Engel, Matthew G",
+    "Zhang, Yongwei",
+    "Graff, Sarah",
+    "Sidoli, Simone",
+    "Barzilai, N.",
+    "Huffman, Derek M."
+  ],
+  "doi": "10.1038/s41598-025-31601-1",
+  "url": "https://www.semanticscholar.org/paper/3772aad62e2ce32e743947dfdd97938261bc0f7c",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "Scientific Reports",
+  "citation_count": 1,
+  "abstract": "The growth hormone/insulin-like growth factor-1 (GH/IGF-1) signaling pathway has been strongly implicated in the aging process. Lifespan is profoundly increased in both male and female dwarf mice, while low IGF-1 signaling per se leads to more modest improvements in female lifespan. However, as opposed to the consistency offered by studies in dwarf mice, nuances in the relationship of this axis with health and disease have also been observed, including in rat models of low GH/IGF-1 signaling. This complexity further extends to cognitive decline and Alzheimer’s disease (AD), where this relationship has proven to be nuanced. To help address these gap, we have generated a new rat model of Igf1r+/− haploinsufficiency, to assess effects on metabolic health and AD. Similar to mice, we find that constitutively reduced IGF-1R levels leads to ~ 15% reduced adult body size in male and female rats, while not impairing insulin sensitivity. However, when crossed with TgF344-AD rats, lowering IGF-1 signaling per se failed to confer protection against AD-related pathology, including amyloid burden, phosphorylated tau or neuroinflammation in male and female TgF344-AD rats, and even appeared to exacerbate facets of disease in females, including an increase in cortical small amyloid plaques. Moreover, a unique hippocampal proteomic signature emerges in female Het/AD rats, including lower levels of proteins involved in redox balance. Overall, these data suggest a nuanced relationship of IGF-1R tone and AD exists and that better defining a more precise role of growth factor signaling in CNS health and disease throughout the life course is warranted.",
+  "type": "academic",
+  "pdf_url": ""
+}

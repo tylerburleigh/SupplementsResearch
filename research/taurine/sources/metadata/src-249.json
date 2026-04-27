@@ -1,0 +1,22 @@
+{
+  "id": "src-249",
+  "title": "Taurine Alleviates Experimental Colitis by Enhancing Intestinal Barrier Function and Inhibiting Inflammatory Response through TLR4/NF-κB Signaling",
+  "authors": [
+    "Zheng, Jiaming",
+    "Zhang, Jinglin",
+    "Zhou, Yewen",
+    "Zhang, Di",
+    "Guo, Hongzhou",
+    "Li, Bin",
+    "Cui, Sheng"
+  ],
+  "doi": "10.1021/acs.jafc.4c00662",
+  "url": "https://openalex.org/W4397031183",
+  "provider": "openalex",
+  "year": 2024,
+  "venue": "Journal of Agricultural and Food Chemistry",
+  "citation_count": 38,
+  "abstract": "Taurine (Tau) is a semiessential amino acid in mammals with preventive and therapeutic effects on several intestinal disorders. However, the exact function of taurine in ulcerative colitis (UC) is still largely unclear. In this study, we used two taurine-deficient mouse models (CSAD<sup>-/-</sup> and TauT<sup>-/-</sup> mice) to explore the influence of taurine on the progression of UC in both dextran sulfate sodium (DSS)-induced colitis and LPS-stimulated Caco-2 cells. We found that cysteine sulfinic acid decarboxylase (CSAD) and taurine transporter (TauT) expressions and taurine levels were markedly reduced in colonic tissues of mice treated with DSS. The CSAD and TauT knockouts exacerbated DSS-induced clinical symptoms and pathological damage and aggravated the intestinal barrier dysfunction and the colonic mucosal inflammatory response. Conversely, taurine pretreatment enhanced the intestinal barrier functions by increasing goblet cells and upregulating tight junction protein expression. Importantly, taurine bound with TLR4 and inhibited the TLR4/NF-κB pathway, ultimately reducing proinflammatory factors (TNF-α and IL-6) and oxidative stress. Our findings highlight the essential role of taurine in maintaining the intestinal barrier integrity and inhibiting intestinal inflammation, indicating that taurine is a promising supplement for colitis treatment.",
+  "type": "academic",
+  "pdf_url": ""
+}

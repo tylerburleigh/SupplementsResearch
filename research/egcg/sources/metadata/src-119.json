@@ -1,0 +1,23 @@
+{
+  "id": "src-119",
+  "title": "Epigallocatechin gallate enhances sympathetic heart rate variability and decreases blood pressure in obese subjects: a randomized control trial.",
+  "authors": [
+    "Wilasrusmee, Kittikorn Tommy",
+    "Sitticharoon, Chantacha",
+    "Keadkraichaiwat, Issarawan",
+    "Maikaew, Pailin",
+    "Pongwattanapakin, Kitchaya",
+    "Chatree, Saimai",
+    "Sririwichitchai, Rungnapa",
+    "Churintaraphan, Malika"
+  ],
+  "doi": "10.1038/s41598-024-72269-3",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39285220",
+  "provider": "pubmed",
+  "year": 2024,
+  "venue": "Scientific reports",
+  "citation_count": 0,
+  "abstract": "This study aimed to investigate effects of epigallocatechin gallate (EGCG) on blood pressure (BP) and autonomic nervous system, indicated by 5-min heart rate variability (HRV) measurement in obese subjects, and determine correlations of BP with metabolic factors. In a double-blind, randomized controlled trial, obese subjects (n = 30) were randomly allocated to receive 150 mg EGCG (n = 15) or placebo (n = 15) twice a day without dietary restrictions. After 8-week EGCG treatment, systolic blood pressure (SBP), diastolic blood pressure (DBP), and mean arterial pressure (MAP) significantly decreased, while the low-frequency (LF) to high-frequency power (HF) ratio (LF/HF ratio) significantly increased (P < 0.05 all), indicating a shift toward sympathetic dominance, either directly or indirectly after BP lowering. SBP had positive correlations with obesity parameters, leptin, insulin, and insulin resistance but had a negative correlation with insulin sensitivity. DBP was positively correlated with age and HF in normalized unit, but negatively correlated with height and LF in ms2. High-density lipoprotein cholesterol (HDL-C) was negatively correlated with SBP, DBP, and MAP reflecting its protective effect against elevated BP. In conclusion, the 8-week EGCG treatment decreased BP and increased the LF/HF ratio, reflecting increased sympathetic activity, either a direct EGCG effect or an indirect compensatory response following BP reduction.",
+  "type": "academic",
+  "pdf_url": ""
+}

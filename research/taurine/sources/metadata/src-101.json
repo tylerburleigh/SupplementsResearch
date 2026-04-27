@@ -1,0 +1,30 @@
+{
+  "id": "src-101",
+  "title": "Coordinated Activities of Multiple Myc-dependent and Myc-independent Biosynthetic Pathways in Hepatoblastoma",
+  "authors": [
+    "Wang, Huabo",
+    "Lu, Jie",
+    "Edmunds, Lia R.",
+    "Kulkarni, Sucheta",
+    "Dolezal, James M.",
+    "Tao, Junyan",
+    "Ranganathan, Sarangarajan",
+    "Jackson, L. Elizabeth",
+    "Fromherz, Marc",
+    "Beer–Stolz, Donna",
+    "Uppala, Radha",
+    "Bharathi, Sivakama S.",
+    "Monga, Satdarshan P.",
+    "Goetzman, Eric S.",
+    "Prochownik, Edward V."
+  ],
+  "doi": "10.1074/jbc.m116.754218",
+  "url": "https://openalex.org/W2531779082",
+  "provider": "openalex",
+  "year": 2016,
+  "venue": "Journal of Biological Chemistry",
+  "citation_count": 65,
+  "abstract": "Hepatoblastoma (HB) is associated with aberrant activation of the β-catenin and Hippo/YAP signaling pathways. Overexpression of mutant β-catenin and YAP in mice induces HBs that express high levels of c-Myc (Myc). In light of recent observations that Myc is unnecessary for long-term hepatocyte proliferation, we have now examined its role in HB pathogenesis using the above model. Although Myc was found to be dispensable for in vivo HB initiation, it was necessary to sustain rapid tumor growth. Gene expression profiling identified key molecular differences between myc<sup>+/+</sup> (WT) and myc<sup>-/-</sup> (KO) hepatocytes and HBs that explain these behaviors. In HBs, these included both Myc-dependent and Myc-independent increases in families of transcripts encoding ribosomal proteins, non-structural factors affecting ribosome assembly and function, and enzymes catalyzing glycolysis and lipid bio-synthesis. In contrast, transcripts encoding enzymes involved in fatty acid β-oxidation were mostly down-regulated. Myc-independent metabolic changes associated with HBs included dramatic reductions in mitochondrial mass and oxidative function, increases in ATP content and pyruvate dehydrogenase activity, and marked inhibition of fatty acid β-oxidation (FAO). Myc-dependent metabolic changes included higher levels of neutral lipid and acetyl-CoA in WT tumors. The latter correlated with higher histone H3 acetylation. Collectively, our results indicate that the role of Myc in HB pathogenesis is to impose mutually dependent changes in gene expression and metabolic reprogramming that are unattainable in non-transformed cells and that cooperate to maximize tumor growth.",
+  "type": "academic",
+  "pdf_url": "http://www.jbc.org/article/S0021925820344483/pdf"
+}

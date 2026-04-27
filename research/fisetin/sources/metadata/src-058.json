@@ -1,0 +1,30 @@
+{
+  "id": "src-058",
+  "title": "New Perspectives for Fisetin",
+  "authors": [
+    "Grynkiewicz, Grzegorz",
+    "Demchuk, Oleg M."
+  ],
+  "year": 2019,
+  "abstract": "",
+  "doi": "10.3389/fchem.2019.00697",
+  "url": "https://doi.org/10.3389/fchem.2019.00697",
+  "pdf_url": "",
+  "venue": "Frontiers in Chemistry",
+  "citation_count": 136,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-24T12:48:35.463891+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-058.md",
+  "quality_details": {
+    "content_length": 46541,
+    "alpha_ratio": 0.711,
+    "sentence_count": 921,
+    "reasons": []
+  }
+}

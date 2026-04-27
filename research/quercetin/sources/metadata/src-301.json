@@ -1,0 +1,21 @@
+{
+  "id": "src-301",
+  "title": "Ensemble of Time-Evolving SASP Gene Sets Identifies IGFBP7 and CDKN1A as a Potential Marker Pair for Senescent Fibroblast Subpopulations Across Tissues",
+  "authors": [
+    "Kim, Hyunsoo",
+    "Kummerfeld, E.",
+    "Niedernhofer, L.",
+    "Aliferis, Constantin",
+    "Robbins, P. D.",
+    "Wang, Jinhua"
+  ],
+  "doi": "10.3390/ijms27073012",
+  "url": "https://www.semanticscholar.org/paper/731ce93b0ad9f6e51a80340f1f421248aa8e2ca0",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "International Journal of Molecular Sciences",
+  "citation_count": 0,
+  "abstract": "The senescence-associated secretory phenotype (SASP) is a hallmark of senescent cells and plays a critical role in the development and progression of various age-related diseases, including cancer, cardiovascular disorders, and neurodegenerative diseases. In this study, we characterize SASP heterogeneity using single-cell RNA sequencing (scRNA-seq) data, focusing on the transcriptional signatures associated with elevated expression of individual SASP genes in mature senescent cells, as well as time-dependent variation in SASP expression across the early and mature senescent states in the WI-38 human lung fibroblast cell line. We generated multiple gene sets, each representing the transcriptional landscape linked to high expression of a specific SASP gene, and integrated them into an ensemble that reflects the temporal dynamics of SASP gene expression. Applying SASP scores derived from this ensemble of gene sets (SASP scores/EGS) to publicly available scRNA-seq datasets from human lung, skin, and eye tissues enabled the identification of senescent fibroblasts and revealed IGFBP7 as a consistently upregulated marker in p21+ or p16+ fibroblasts across diverse human tissues. Our framework supports improved detection of both early and mature fibroblast replicative senescent cells, offering valuable insights into aging and age-related disease research.",
+  "type": "academic",
+  "pdf_url": ""
+}

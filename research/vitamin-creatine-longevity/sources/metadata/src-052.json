@@ -1,0 +1,32 @@
+{
+  "id": "src-052",
+  "title": "Creatine and strength training in older adults: an update",
+  "authors": [
+    "Forbes, Scott C.",
+    "Candow, Darren G."
+  ],
+  "year": 2024,
+  "abstract": "Abstract\nAging is associated with numerous physiological, musculoskeletal, and neurological impairments including a loss of muscle, strength, function, bone mineral, and cognition. Strength training is an effective intervention to counter these age-associated declines. In addition, creatine supplementation is purported to enhance strength training gains in lean tissue mass, muscular strength, and function. There is emerging evidence that creatine combined with strength training can alter bone geometry and cognitive performance. The purpose of this review is to update previous meta-analyses examining creatine combined with strength training on lean tissue mass and bone density compared to strength training and placebo. A secondary purpose was to explore the effects of creatine and strength training on cognition. Updated meta-analyses revealed that creatine enhances lean tissue mass (mean difference [MD]: 1.18 kg, 95 % CI: 0.70–1.67; p&lt;0.00001) and upper body muscular strength (standard mean difference [SMD]: 0.24, 95 % CI: 0.05–0.43; p=0.02) compared to strength training and placebo. Creatine combined with strength training had no greater effects compared to strength training and placebo on lower body muscular strength (SMD: 0.17, 95 % CI: −0.03–0.38; p=0.09), whole-body (MD: −0.00 g cm−2; 95 % CI: −0.01–0.00, p=0.32), femoral neck (MD: −0.00 g cm−2; 95 % CI: −0.01–0.00, p=1.00), or lumbar bone mineral density (MD: 0.00 g cm−2, 95 % CI: −0.01–0.01; p=045). There is preliminary evidence that combining strength training and creatine is an effective strategy to improve bone geometry in postmenopausal females and cognitive function in older adults. Overall, the combination of creatine and strength training has favorable effects on lean tissue mass and upper body strength. In contrast, creatine combined with strength training does not enhance lower-body strength or bone mineral.",
+  "doi": "10.1515/teb-2024-0019",
+  "url": "https://doi.org/10.1515/teb-2024-0019",
+  "pdf_url": "",
+  "venue": "Translational Exercise Biomedicine",
+  "citation_count": 8,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T13:38:34.165323+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-052.md",
+  "quality_details": {
+    "content_length": 42205,
+    "alpha_ratio": 0.753,
+    "sentence_count": 442,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

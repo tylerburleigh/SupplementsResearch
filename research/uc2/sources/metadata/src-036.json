@@ -1,0 +1,33 @@
+{
+  "id": "src-036",
+  "title": "Efficacy of combined undenatured type II collagen and hydrolysed collagen supplementation in knee osteoarthritis: a randomised controlled trial",
+  "authors": [
+    "Yuenyongviwat, Varah",
+    "Anusitviwat, Chirathit",
+    "Tuntarattanapong, Pakjai",
+    "Hongnaparak, Theerawit",
+    "Iamthanaporn, Khanin"
+  ],
+  "year": 2025,
+  "abstract": "",
+  "doi": "10.1038/s41598-025-17505-0",
+  "url": "https://doi.org/10.1038/s41598-025-17505-0",
+  "pdf_url": "",
+  "venue": "Scientific Reports",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-19T13:41:10.020606+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-036.md",
+  "quality_details": {
+    "content_length": 29353,
+    "alpha_ratio": 0.727,
+    "sentence_count": 340,
+    "reasons": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "src-142",
+  "title": "Different Effects of Iron Indices on Mortality in Patients With Autosomal Dominant Polycystic Kidney Disease After Long-Term Hemodialysis: A Nationwide Population-Based Study.",
+  "authors": [
+    "Yeh, Shu-Ching",
+    "Lin, Yi‐Chun",
+    "Hong, Ying‐Chung",
+    "Hsu, Chih-Cheng",
+    "Lin, Yen-Chung",
+    "Wu, Mai-Szu"
+  ],
+  "doi": "10.1053/j.jrn.2018.11.004",
+  "url": "https://www.semanticscholar.org/paper/1acdc8ef92f97350808c7aa3b742f93deca10718",
+  "provider": "semantic_scholar",
+  "year": 2019,
+  "venue": "Journal of renal nutrition",
+  "citation_count": 8,
+  "abstract": "OBJECTIVE\nIron supplementation and erythropoietin stimulating agents (ESAs) are essential for maintaining hemoglobin levels in hemodialysis patients. However, patients with autosomal-dominant polycystic kidney disease (PKD) have higher endogenous erythropoietin levels, so their recommended iron indices for hemodialysis patients may differ. This study evaluated iron profiles, including ferritin levels and transferrin saturation (TSAT) to identify factors affecting mortality in patients on dialysis, and those associated with mortality in patients with and without PKD.\n\nDESIGN\nThis cohort study from the Taiwan Renal Registry Data System stratified mortality risk by the presence of PKD recorded as the underlying disease.\n\nSUBJECTS\nWe enrolled 1346 hemodialysis patients with PKD and 82,873 hemodialysis patients without PKD.\n\nMAIN OUTCOME MEASURE\nThe primary outcome was 3-year all-cause mortality. Predictors included time-averaged and baseline serum ferritin levels and TSAT. Multivariate Cox regression analysis adjusting for age, comorbidities, and relevant laboratory parameters was used to estimate the all-cause hazard ratios (HRs) for mortality.\n\nRESULTS\nThe mean ages of patients with and without PKD were 56.2±13.2 and 61.7±13.5 years and the median follow-up time was 37 (15-76) months. The adjusted mortality risks for time-averaged ferritin levels >800 ng/mL (HR=1.52; 95% confidence interval: 1.40-1.65) or TSAT levels >50% (HR=1.46; 95% confidence interval: 1.30-1.65) were significantly higher among patients without PKD than those for patients with normal iron indices. However, a U-shaped curve of mortality against ferritin/TSAT levels was not observed in patients with PKD. In the sensitivity test, there was no difference among PKD patients who underwent regular ESA therapy and those who did not.\n\nCONCLUSION\nIron indices have different effects on mortality among patients with and without PKD. Iron supplementation, recommended serum ferritin levels, or TSAT should be monitored in hemodialysis patients, especially those without PKD. Clinicians should consider treating anemia in hemodialysis patients individually, especially in PKD.",
+  "type": "academic",
+  "pdf_url": "http://www.jrnjournal.org/article/S1051227618302723/pdf"
+}

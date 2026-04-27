@@ -1,0 +1,21 @@
+{
+  "id": "src-323",
+  "title": "CRISPR-based chemogenomic profiling reveals redox vulnerabilities to epigallocatechin-3-gallate and green tea polyphenol extract",
+  "authors": [
+    "Akla, Naoufal",
+    "Boudah, Anes",
+    "Bertomeu, Thierry",
+    "Chatr-aryamontri, Andrew",
+    "Desjarlais, Michel",
+    "Annabi, B."
+  ],
+  "doi": "10.1016/j.redox.2026.104047",
+  "url": "https://www.semanticscholar.org/paper/3a1b9793d49abd743c606925810bcc615b424d58",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "Redox Biology",
+  "citation_count": 0,
+  "abstract": "Green tea polyphenols, particularly epigallocatechin-3-gallate (EGCG), are widely recognized for their beneficial preventive effects against chronic diseases including cancer and obesity. These effects are traditionally attributed to EGCG's antioxidant, anti-inflammatory, and metabolic regulatory properties. In conditions characterized by persistent oxidative stress, the disrupted redox signaling further creates a unique vulnerability that EGCG may exploit through a dual redox mechanism. Emerging evidence therefore suggests that EGCG not only mitigates oxidative damage but could also induce selective pro-oxidant stress in cancer cells, enhancing its therapeutic potential. To investigate this duality, we performed a genome-wide CRISPR/Cas9 knockout screen to identify genetic determinants of EGCG sensitivity and resistance. Our chemogenomic analysis revealed that loss of key antioxidant genes, including PRDX1, CAT, GSS, GCLM, and GCLC, significantly heightened cellular susceptibility to EGCG and green tea extract (GTE), underscoring the critical role of glutathione biosynthesis and redox homeostasis in mediating cytotoxicity. In contrast, knockouts of Kelch-like ECH-associated Protein 1 (KEAP1) and peroxisome-associated PEX genes conferred resistance, implicating in part NRF2 (also known as nuclear factor erythroid-derived 2-like 2; NFE2L2) activation and peroxisomal reactive oxygen species clearance in protective responses. Comparative profiling with gallic acid (GA), which lacks EGCG's catechin structure, further highlighted the gallate moiety's contribution to glutathione-dependent antioxidant mechanisms. Altogether, these findings illuminate the complex redox biology of EGCG and identify novel genetic vulnerabilities that may be leveraged to enhance its anticancer efficacy, particularly in obesity-associated cancers. Clinically, this work could support the development of EGCG-based interventions tailored to individual redox profiles, offering a precise chemopreventive strategy for patients at high risk of malignancies driven by metabolic and oxidative dysregulation. Furthermore, the identification of new genetic markers of EGCG sensitivity and resistance may inform future exploration of patient stratification.",
+  "type": "academic",
+  "pdf_url": ""
+}

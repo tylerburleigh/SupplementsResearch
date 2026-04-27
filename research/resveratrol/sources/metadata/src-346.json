@@ -1,0 +1,20 @@
+{
+  "id": "src-346",
+  "title": "Redox control of multidrug resistance and Its possible modulation by antioxidants",
+  "authors": [
+    "Cort, A.",
+    "De Luca, C.",
+    "Korkina, L.",
+    "Ozben, T.",
+    "Saso, Luciano"
+  ],
+  "doi": "10.1155/2016/4251912",
+  "url": "https://doi.org/10.1155/2016/4251912",
+  "provider": "core",
+  "year": 2016,
+  "venue": "Oxidative Medicine and Cellular Longevity",
+  "citation_count": 0,
+  "abstract": "Clinical efficacy of anticancer chemotherapies is dramatically hampered by multidrug resistance (MDR) dependent on inherited traits, acquired defence against toxins, and adaptive mechanisms mounting in tumours. There is overwhelming evidence that molecular events leading to MDR are regulated by redox mechanisms. For example, chemotherapeutics which overrun the first obstacle of redox-regulated cellular uptake channels (MDR1, MDR2, and MDR3) induce a concerted action of phase I/II metabolic enzymes with a temporal redox-regulated axis. This results in rapid metabolic transformation and elimination of a toxin. This metabolic axis is tightly interconnected with the inducible Nrf2-linked pathway, a key switch-on mechanism for upregulation of endogenous antioxidant enzymes and detoxifying systems. As a result, chemotherapeutics and cytotoxic by-products of their metabolism (ROS, hydroperoxides, and aldehydes) are inactivated and MDR occurs. On the other hand, tumour cells are capable of mounting an adaptive antioxidant response against ROS produced by chemotherapeutics and host immune cells. The multiple redox-dependent mechanisms involved in MDR prompted suggesting redox-active drugs (antioxidants and prooxidants) or inhibitors of inducible antioxidant defence as a novel approach to diminish MDR. Pitfalls and progress in this direction are discussed",
+  "type": "academic",
+  "pdf_url": "https://core.ac.uk/download/74320865.pdf"
+}

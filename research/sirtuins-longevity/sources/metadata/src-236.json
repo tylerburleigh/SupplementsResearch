@@ -1,0 +1,19 @@
+{
+  "id": "src-236",
+  "title": "Ingenol‐Mediated SIRT1‐LXRα Signaling Reduces Lipid Accumulation and Alleviates Postmenopausal Liver Damage",
+  "authors": [
+    "Liu, Meijing",
+    "Li, Shuang",
+    "Yao, Jiawei",
+    "Wang, Xiaogang"
+  ],
+  "doi": "10.1002/ptr.70195",
+  "url": "https://www.semanticscholar.org/paper/d8fd5beb3c35d0fb30a20e9a7e6729345433c3ed",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "Phytotherapy Research",
+  "citation_count": 0,
+  "abstract": "Postmenopausal metabolic syndrome and its associated liver injury have attracted considerable research interest, yet their underlying mechanisms and treatment strategies remain insufficiently elucidated. This study aimed to investigate the relationship between aberrant lipid metabolism and hepatic injury in ovariectomized (OVX) females and to evaluate the therapeutic potential of ingenol (Ing), a natural diterpenoid, via the SIRT1–LXRα signaling pathway. Data from 3047 females in NHANES (2017–2020) were analyzed to compare serum triglyceride (TG) and liver injury markers between OVX and non‐OVX women. An OVX mouse model was established to examine hepatic lipid metabolism and SIRT1 expression. Molecular docking, dual luciferase assays, and SIRT1 silencing were performed to evaluate Ing‐SIRT1 binding and regulation. HepG2 cells were used to assess Ing's effects on lipid levels and expression of LXRα, CYP39A1, CPT1, and ACOX1. In vivo studies in OVX mice confirmed the therapeutic effects of Ing and further investigated its mechanism via the SIRT1‐LXRα pathway. NHANES data indicated that OVX women had significantly higher serum TG levels and more severe liver injury. OVX mice exhibited downregulated SIRT1 expression and disrupted lipid homeostasis. Ing showed high binding affinity to SIRT1, outperforming several known agonists. In HepG2 cells, Ing reduced intracellular TG and total cholesterol (TC), while upregulating LXRα, CYP39A1, CPT1, and ACOX1. In OVX mice, Ing treatment notably attenuated weight gain, reduced TG and TC levels, and ameliorated liver histopathological damage. These effects were mediated through the SIRT1‐LXRα pathway. Ing effectively mitigates OVX‐induced liver injury by activating SIRT1 and modulating downstream LXRα‐mediated lipid metabolic pathways. These results support Ing as a promising therapeutic candidate for liver injury in postmenopausal or OVX women.",
+  "type": "academic",
+  "pdf_url": ""
+}

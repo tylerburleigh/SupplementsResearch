@@ -1,0 +1,29 @@
+{
+  "id": "src-021",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://www.mthfrsupport.com.au/2015/05/folic-acid-vs-5-mthf-debate",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-20T12:20:48.988877+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-021.md",
+  "quality_details": {
+    "content_length": 25388,
+    "alpha_ratio": 0.772,
+    "sentence_count": 220,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

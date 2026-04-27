@@ -1,0 +1,50 @@
+{
+  "id": "src-084",
+  "title": "Identification of HSP90 inhibitors as a novel class of senolytics",
+  "authors": [
+    "Fuhrmann-Stroissnigg, Heike",
+    "Ling, Yuan Yuan",
+    "Zhao, Jing",
+    "McGowan, Sara J.",
+    "Zhu, Yi",
+    "Brooks, Robert W.",
+    "Grassi, Diego",
+    "Gregg, Siobhan Q.",
+    "Stripay, Jennifer L.",
+    "Dorronsoro, Akaitz",
+    "Corbo, Lana",
+    "Tang, Priscilla",
+    "Bukata, Christina",
+    "Ring, Nadja",
+    "Giacca, Mauro",
+    "Li, Xuesen",
+    "Tchkonia, Tamara",
+    "Kirkland, James L.",
+    "Niedernhofer, Laura J.",
+    "Robbins, Paul D."
+  ],
+  "year": 2017,
+  "abstract": "AbstractAging is the main risk factor for many chronic degenerative diseases and cancer. Increased senescent cell burden in various tissues is a major contributor to aging and age-related diseases. Recently, a new class of drugs termed senolytics were demonstrated to extending healthspan, reducing frailty and improving stem cell function in multiple murine models of aging. To identify novel and more optimal senotherapeutic drugs and combinations, we established a senescence associated β-galactosidase assay as a screening platform to rapidly identify drugs that specifically affect senescent cells. We used primary Ercc1−/− murine embryonic fibroblasts with reduced DNA repair capacity, which senesce rapidly if grown at atmospheric oxygen. This platform was used to screen a small library of compounds that regulate autophagy, identifying two inhibitors of the HSP90 chaperone family as having significant senolytic activity in mouse and human cells. Treatment of Ercc1−/∆ mice, a mouse model of a human progeroid syndrome, with the HSP90 inhibitor 17-DMAG extended healthspan, delayed the onset of several age-related symptoms and reduced p16INK4a expression. These results demonstrate the utility of our screening platform to identify senotherapeutic agents as well as identified HSP90 inhibitors as a promising new class of senolytic drugs.",
+  "doi": "10.1038/s41467-017-00314-z",
+  "url": "https://doi.org/10.1038/s41467-017-00314-z",
+  "pdf_url": "",
+  "venue": "Nature Communications",
+  "citation_count": 624,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-24T12:52:43.677233+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-084.md",
+  "quality_details": {
+    "content_length": 82070,
+    "alpha_ratio": 0.734,
+    "sentence_count": 1077,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

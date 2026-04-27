@@ -1,0 +1,29 @@
+{
+  "id": "src-005",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://www.jinfiniti.com/ergothioneine-benefits",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-20T00:12:13.344586+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-005.md",
+  "quality_details": {
+    "content_length": 25119,
+    "alpha_ratio": 0.789,
+    "sentence_count": 176,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

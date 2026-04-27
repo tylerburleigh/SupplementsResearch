@@ -1,0 +1,24 @@
+{
+  "id": "src-343",
+  "title": "Relationship between Serum IGF-1 and BMI differs by Age.",
+  "authors": [
+    "Sherlala, Rehab A.",
+    "Kammerer, C.",
+    "Kuipers, A.",
+    "Wojczynski, M.",
+    "Ukraintseva, S.",
+    "Feitosa, M.",
+    "Mengel-From, J.",
+    "Zmuda, J.",
+    "Minster, R."
+  ],
+  "doi": "10.1093/gerona/glaa282",
+  "url": "https://www.semanticscholar.org/paper/b80e4f86c030fce01f03c1a3135fdbf59700f6bf",
+  "provider": "semantic_scholar",
+  "year": 2020,
+  "venue": "The journals of gerontology. Series A, Biological sciences and medical sciences",
+  "citation_count": 24,
+  "abstract": "BACKGROUND\nSerum levels of insulin-like growth factor 1 (IGF-1) and body mass index (BMI) are both associated with susceptibility to age-related diseases. Reports on the correlation between them have been conflicting, with both positive to negative correlations reported. However, the age ranges of the participants varied widely among these studies.\n\nMETHODS\nUsing data on 4,241 participants (aged 24-110) from the Long Life Family Study, we investigated the relationship between IGF-1 and BMI by age groups using regression analysis.\n\nRESULTS\nWhen stratified by age quartile, the relationship between IGF-1 and BMI varied: in the 1st quartile (Q1, 20 y-58 y) the relationship was negative (β = -0.2, P = 0.002); in Q2 (58 y-66 y) and Q3 (67 y-86 y) the relationship was negative (β = -0.07, β = -0.01, respectively) but non-significant; and in Q4 (87 y-110 y) the relationship was positive (β = 0.31, P = 0.0002). This pattern did not differ by sex. We observed a similar age-related pattern between IGF-1 and BMI among participants in the third National Health and Nutritional Examination Survey.\n\nCONCLUSIONS\nOur results, that the relationship between IGF-1 and BMI differs by age, may explain some of the inconsistency in reports about their relationship and encourage additional studies to understand the mechanisms underlying it.",
+  "type": "academic",
+  "pdf_url": "https://europepmc.org/articles/pmc8202150?pdf=render"
+}

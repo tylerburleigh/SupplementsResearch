@@ -1,0 +1,29 @@
+{
+  "id": "src-166",
+  "title": "Curcumin’s Nanomedicine Formulations for Therapeutic Application in Neurological Diseases",
+  "authors": [
+    "Salehi, Bahare",
+    "Călina, Daniela",
+    "Docea, Anca Oana",
+    "Koirala, Niranjan",
+    "Aryal, Sushant",
+    "Lombardo, Domenico",
+    "Pasqua, Luigi",
+    "Taheri, Yasaman",
+    "Castillo, Carla Marina Salgado",
+    "Martorell, Miquel",
+    "Martins, Natália",
+    "Iriti, Marcello",
+    "Suleria, Hafiz Ansar Rasul",
+    "Sharifi‐Rad, Javad"
+  ],
+  "doi": "10.3390/jcm9020430",
+  "url": "https://openalex.org/W3004954692",
+  "provider": "openalex",
+  "year": 2020,
+  "venue": "Journal of Clinical Medicine",
+  "citation_count": 185,
+  "abstract": "The brain is the body's control center, so when a disease affects it, the outcomes are devastating. Alzheimer's and Parkinson's disease, and multiple sclerosis are brain diseases that cause a large number of human deaths worldwide. Curcumin has demonstrated beneficial effects on brain health through several mechanisms such as antioxidant, amyloid β-binding, anti-inflammatory, tau inhibition, metal chelation, neurogenesis activity, and synaptogenesis promotion. The therapeutic limitation of curcumin is its bioavailability, and to address this problem, new nanoformulations are being developed. The present review aims to summarize the general bioactivity of curcumin in neurological disorders, how functional molecules are extracted, and the different types of nanoformulations available.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2077-0383/9/2/430/pdf?version=1582811013"
+}

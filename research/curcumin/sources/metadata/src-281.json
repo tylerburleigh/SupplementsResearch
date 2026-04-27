@@ -1,0 +1,21 @@
+{
+  "id": "src-281",
+  "title": "Effect of the presence of berberine/curcumin on the binding of limonin to human serum albumin and antitumor activity in vitro.",
+  "authors": [
+    "Xu, Liang",
+    "Zhou, Xin-Yi",
+    "Ju, Wan-Ting",
+    "Ge, Ying-Di",
+    "Xing, Mei-Yi",
+    "Wang, Xin"
+  ],
+  "doi": "10.1016/j.saa.2024.124929",
+  "url": "https://www.semanticscholar.org/paper/a7fd510e1bd2d45f12c300947468fe0e800f2c4b",
+  "provider": "semantic_scholar",
+  "year": 2024,
+  "venue": "Spectrochimica Acta Part A - Molecular and Biomolecular Spectroscopy",
+  "citation_count": 2,
+  "abstract": "The competition among drugs for binding to plasma proteins is regarded as a pharmacokinetic drug interaction. Competition between antitumor agents and other drugs for plasma protein binding can alter the free concentration of the drug, potentially impacting its efficacy and increasing the risk of toxic side effects. Through a range of spectroscopic techniques, this study examined the interaction between limonin and human serum albumin (HSA) in the context of berberine (Ber) and curcumin (Cur) under physiological conditions to clarify the binding mechanisms of binary and ternary systems at the molecular level. As demonstrated by fluorescence quenching experiments, Static quenching was identified as the mechanism of interaction between HSA and limonin. The results of site competition experiments indicated that the binding site between limonin and HSA was site I, a result further supported by molecular docking simulations. Through the use of thermodynamic data calculations, it was determined that limonin forms a stable complex with HSA by establishing hydrogen bonds and van der Waals forces. Circular dichroism (CD) spectroscopy, three-dimensional (3D) fluorescence spectroscopy, and synchronous fluorescence spectroscopy (SFS) employed to validate the notion that limonin perturbed the microenvironment of amino acids and induced conformational changes in HSA. What's more, the presence of Ber or Cur was found to have further modified the alterations observed in the interaction between the original HSA-limonin binary system. In vitro cellular experiments showed that interaction with HSA reduced the antitumor activity of limonin. In contrast, adding Ber or Cur increased the inhibition rate of tumor cells. The coexistence of both Ber and Cur significantly diminished limonin's binding affinity to HSA. The current investigation enhances comprehension regarding the binding characteristics and interaction mechanisms involving limonin, Ber, Cur, and HSA. It explores the potential of HSA as a versatile drug carrier and furnishes theoretical underpinnings for co-administrative strategies.",
+  "type": "academic",
+  "pdf_url": ""
+}

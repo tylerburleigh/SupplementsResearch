@@ -1,0 +1,19 @@
+{
+  "id": "src-255",
+  "title": "Flavonoids as Anticancer Agents",
+  "authors": [
+    "Kopustinskienė, Dalia M.",
+    "Jakštas, Valdas",
+    "Savickas, Arūnas",
+    "Bernatonienė, Jurga"
+  ],
+  "doi": "10.3390/nu12020457",
+  "url": "https://openalex.org/W3005533031",
+  "provider": "openalex",
+  "year": 2020,
+  "venue": "Nutrients",
+  "citation_count": 1222,
+  "abstract": "Flavonoids are polyphenolic compounds subdivided into 6 groups: isoflavonoids, flavanones, flavanols, flavonols, flavones and anthocyanidins found in a variety of plants. Fruits, vegetables, plant-derived beverages such as green tea, wine and cocoa-based products are the main dietary sources of flavonoids. Flavonoids have been shown to possess a wide variety of anticancer effects: they modulate reactive oxygen species (ROS)-scavenging enzyme activities, participate in arresting the cell cycle, induce apoptosis, autophagy, and suppress cancer cell proliferation and invasiveness. Flavonoids have dual action regarding ROS homeostasis-they act as antioxidants under normal conditions and are potent pro-oxidants in cancer cells triggering the apoptotic pathways and downregulating pro-inflammatory signaling pathways. This article reviews the biochemical properties and bioavailability of flavonoids, their anticancer activity and its mechanisms of action.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2072-6643/12/2/457/pdf?version=1582890041"
+}

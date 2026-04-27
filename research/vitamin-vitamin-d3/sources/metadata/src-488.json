@@ -1,0 +1,36 @@
+{
+  "id": "src-488",
+  "title": "An Evidence-Based Review of Vitamin D for Common and High-Mortality Conditions",
+  "authors": [
+    "Michael, William",
+    "Couture, Allison Diane",
+    "Swedlund, Matthew",
+    "Hampton, Adrienne",
+    "Eglash, Anne",
+    "Schrager, Sarina"
+  ],
+  "year": 2022,
+  "abstract": "",
+  "doi": "10.3122/jabfm.2022.220115r1",
+  "url": "https://doi.org/10.3122/jabfm.2022.220115r1",
+  "pdf_url": "",
+  "venue": "The Journal of the American Board of Family Medicine",
+  "citation_count": 12,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T21:00:50.644204+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-488.md",
+  "quality_details": {
+    "content_length": 63063,
+    "alpha_ratio": 0.736,
+    "sentence_count": 707,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

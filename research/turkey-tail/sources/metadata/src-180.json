@@ -1,0 +1,21 @@
+{
+  "id": "src-180",
+  "title": "Current and emerging therapeutic approaches for colorectal cancer: A comprehensive review",
+  "authors": [
+    "Kumar, Anil",
+    "Gautam, Vipasha",
+    "Sandhu, Arushi",
+    "Rawat, Kajal",
+    "Sharma, Antika",
+    "Saha, Lekha"
+  ],
+  "doi": "10.4240/wjgs.v15.i4.495",
+  "url": "https://openalex.org/W4366764189",
+  "provider": "openalex",
+  "year": 2023,
+  "venue": "World Journal of Gastrointestinal Surgery",
+  "citation_count": 215,
+  "abstract": "Colorectal cancer (CRC) affects 1 in 23 males and 1 in 25 females, making it the third most common cancer. With roughly 608000 deaths worldwide, CRC accounts for 8% of all cancer-related deaths, making it the second most common cause of death due to cancer. Standard and conventional CRC treatments include surgical expurgation for resectable CRC and radiotherapy, chemotherapy, immunotherapy, and their combinational regimen for non-resectable CRC. Despite these tactics, nearly half of patients develop incurable recurring CRC. Cancer cells resist the effects of chemotherapeutic drugs in a variety of ways, including drug inactivation, drug influx and efflux modifications, and ATP-binding cassette transporter overexpression. These constraints necessitate the development of new target-specific therapeutic strategies. Emerging therapeutic approaches, such as targeted immune boosting therapies, non-coding RNA-based therapies, probiotics, natural products, oncolytic viral therapies, and biomarker-driven therapies, have shown promising results in preclinical and clinical studies. We tethered the entire evolutionary trends in the development of CRC treatments in this review and discussed the potential of new therapies and how they might be used in conjunction with conventional treatments as well as their advantages and drawbacks as future medicines.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.4240/wjgs.v15.i4.495"
+}

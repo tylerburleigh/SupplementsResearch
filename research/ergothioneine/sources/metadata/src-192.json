@@ -1,0 +1,18 @@
+{
+  "id": "src-192",
+  "title": "Cancer related cognitive impairment: a downside of cancer treatment",
+  "authors": [
+    "Demos-Davies, Kimberly",
+    "Lawrence, Jessica",
+    "Seelig, Davis"
+  ],
+  "doi": "10.3389/fonc.2024.1387251",
+  "url": "https://openalex.org/W4395045843",
+  "provider": "openalex",
+  "year": 2024,
+  "venue": "Frontiers in Oncology",
+  "citation_count": 30,
+  "abstract": "Cancer treatment is associated with long lasting cognitive impairment in cancer survivors. This cognitive impairment is often termed cancer related cognitive impairment (CRCI). Cancer survivors treated for tumors outside the central nervous system are increasingly diagnosed with CRCI. The development of strategies to mitigate the negative effects of cancer treatment on the brain are crucial. Although neuroimaging research has proposed several candidate mechanisms, the pathogenic underpinnings of CRCI remain uncertain. As such, preventative and treatment strategies have not been identified. To fill these gaps, animal models play a vital role in isolating underlying contributing mechanisms that promote CRCI and in testing new therapeutic approaches.",
+  "type": "academic",
+  "pdf_url": "https://www.frontiersin.org/journals/oncology/articles/10.3389/fonc.2024.1387251/pdf"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "src-557",
+  "title": "Endothelial dysfunction and vascular disease - a 30th anniversary update",
+  "authors": [
+    "Vanhoutte, Paul M.",
+    "Shimokawa, Hiroaki",
+    "Félétou, Michel",
+    "Tang, Eva H.C."
+  ],
+  "doi": "10.1111/apha.12646",
+  "url": "https://openalex.org/W2290846307",
+  "provider": "openalex",
+  "year": 2015,
+  "venue": "Acta Physiologica",
+  "citation_count": 899,
+  "abstract": "The endothelium can evoke relaxations of the underlying vascular smooth muscle, by releasing vasodilator substances. The best-characterized endothelium-derived relaxing factor (EDRF) is nitric oxide (NO) which activates soluble guanylyl cyclase in the vascular smooth muscle cells, with the production of cyclic guanosine monophosphate (cGMP) initiating relaxation. The endothelial cells also evoke hyperpolarization of the cell membrane of vascular smooth muscle (endothelium-dependent hyperpolarizations, EDH-mediated responses). As regards the latter, hydrogen peroxide (H<sub>2</sub> O<sub>2</sub> ) now appears to play a dominant role. Endothelium-dependent relaxations involve both pertussis toxin-sensitive G<sub>i</sub> (e.g. responses to α<sub>2</sub> -adrenergic agonists, serotonin, and thrombin) and pertussis toxin-insensitive G<sub>q</sub> (e.g. adenosine diphosphate and bradykinin) coupling proteins. New stimulators (e.g. insulin, adiponectin) of the release of EDRFs have emerged. In recent years, evidence has also accumulated, confirming that the release of NO by the endothelial cell can chronically be upregulated (e.g. by oestrogens, exercise and dietary factors) and downregulated (e.g. oxidative stress, smoking, pollution and oxidized low-density lipoproteins) and that it is reduced with ageing and in the course of vascular disease (e.g. diabetes and hypertension). Arteries covered with regenerated endothelium (e.g. following angioplasty) selectively lose the pertussis toxin-sensitive pathway for NO release which favours vasospasm, thrombosis, penetration of macrophages, cellular growth and the inflammatory reaction leading to atherosclerosis. In addition to the release of NO (and EDH, in particular those due to H<sub>2</sub> O<sub>2</sub> ), endothelial cells also can evoke contraction of the underlying vascular smooth muscle cells by releasing endothelium-derived contracting factors. Recent evidence confirms that most endothelium-dependent acute increases in contractile force are due to the formation of vasoconstrictor prostanoids (endoperoxides and prostacyclin) which activate TP receptors of the vascular smooth muscle cells and that prostacyclin plays a key role in such responses. Endothelium-dependent contractions are exacerbated when the production of nitric oxide is impaired (e.g. by oxidative stress, ageing, spontaneous hypertension and diabetes). They contribute to the blunting of endothelium-dependent vasodilatations in aged subjects and essential hypertensive and diabetic patients. In addition, recent data confirm that the release of endothelin-1 can contribute to endothelial dysfunction and that the peptide appears to be an important contributor to vascular dysfunction. Finally, it has become clear that nitric oxide itself, under certain conditions (e.g. hypoxia), can cause biased activation of soluble guanylyl cyclase leading to the production of cyclic inosine monophosphate (cIMP) rather than cGMP and hence causes contraction rather than relaxation of the underlying vascular smooth muscle.",
+  "type": "academic",
+  "pdf_url": ""
+}

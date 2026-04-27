@@ -1,0 +1,27 @@
+{
+  "id": "src-159",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://www.nature.com/articles/s42255-025-01421-8.pdf",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "pdf",
+  "provider": "",
+  "fetched_at": "2026-04-20T20:48:20.626320+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-159.md",
+  "quality_details": {
+    "content_length": 83251,
+    "alpha_ratio": 0.719,
+    "sentence_count": 1016,
+    "reasons": []
+  }
+}

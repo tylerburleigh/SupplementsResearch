@@ -1,0 +1,27 @@
+{
+  "id": "src-145",
+  "title": "Association between Body Iron Status and Cognitive Task Performance in a Nationally Representative Sample of Older Adults",
+  "authors": [
+    "Peng, Jianying",
+    "Liu, Buyun",
+    "Tan, Wei",
+    "Hu, Shouzhang",
+    "Li, Benchao",
+    "Zhou, Jin",
+    "Xu, Guifeng",
+    "Sun, Yangbo",
+    "Snetselaar, Linda G.",
+    "Wallace, Robert B.",
+    "Rong, Shuang",
+    "Bao, Wei"
+  ],
+  "doi": "10.14336/ad.2019.0064",
+  "url": "https://www.semanticscholar.org/paper/348cab5a4179ae399d04373b042d85661eb01f64",
+  "provider": "semantic_scholar",
+  "year": 2024,
+  "venue": "Aging and Disease",
+  "citation_count": 5,
+  "abstract": "Iron is an essential micronutrient that is necessary for proper cognitive function. However, the dose-response relationship between body iron status and cognitive function remains unclear. The objective of this study was to investigate the association between serum ferritin concentrations, an indicator of body iron status, and cognitive function in older adults. Based on the National Health and Nutrition Examination Survey (NHANES) 1999-2002 in the United States, nationally representative data was collected from 2,567 adults aged 60 years and older who had objectively measured serum ferritin levels and cognitive performance. High ferritin levels were defined as a serum ferritin level >200 ng/mL in women and >300 ng/mL in men. Low ferritin levels were defined as a serum ferritin level <30 ng/mL. The digit symbol substitution test (DSST) was employed to assess cognitive function. Multivariable logistic regression analyses with survey weights were performed after the DSST was dichotomized at the median score. The weighted prevalence of adults with normal, low, and high serum ferritin levels were 73.98%, 9.12%, and 16.91%, respectively. A U-shaped association between serum ferritin concentrations and cognitive task performance was observed. After adjusting for demographic, socioeconomic, lifestyle, and C-reactive protein factors, the odds ratio (95% confidence intervals) for lower cognitive performance was 1.39 (1.11, 1.74) in adults with high ferritin levels and 1.38 (0.86, 2.22) in adults with low ferritin levels, compared with those with normal ferritin levels. The association between serum ferritin levels and lower cognitive performance was stronger in adults aged 60 to 69 years old than those aged 70 years and older. In conclusion, in a nationally representative sample of older adults in the United States, a high serum ferritin level was significantly associated with worse cognitive task performance. Thus, the relationship between low serum ferritin concentrations and cognitive task performance warrants further investigation.",
+  "type": "academic",
+  "pdf_url": "https://www.aginganddisease.org/EN/PDF/10.14336/AD.2019.0064"
+}

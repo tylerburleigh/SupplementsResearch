@@ -1,0 +1,37 @@
+{
+  "id": "src-093",
+  "title": "Systemic Neuroprotection by Chlorogenic Acid: Antioxidant and Anti-inflammatory Evaluation in Early Neurodegeneration Induced by 3-Nitropropionic Acid in Mice",
+  "authors": [
+    "Cantero-Téllez, Angélica",
+    "Moreno-Fierros, Leticia",
+    "Gutiérrez-Ospina, Gabriel",
+    "Santiago-Prieto, Ana Cecilia",
+    "Juárez, Imelda",
+    "Rodríguez-Sosa, Miriam",
+    "Hernández-Echeagaray, Elizabeth"
+  ],
+  "year": 2025,
+  "abstract": "Abstract\nNeurodegeneration is characterized by the progressive loss of neurons commonly attributed to neurological causes. Studies published over the past two decades suggest that neurodegeneration may occur due to systemic diseases that compromise energy metabolism throughout the body. This metabolic imbalance develops over decades before neurodegeneration is clinically documented or inferred. It is now accepted that long-lasting oxidative stress and inflammation link neurodegeneration with altered energy metabolism in the body. Systemic prevention of these factors may reduce the odds of developing neurodegeneration and delay or prevent its progression as individuals age. Chlorogenic acid (CGA) is a polyphenol prevalent in fruits and vegetables that exhibits antioxidant and anti-inflammatory properties. It may serve as a systemic neuroprotectant when consumed regularly before the onset of neurodegeneration. To test this possibility, an experimental model of striatal early neurodegeneration induced by systemic administration of 3-nitropropionic acid (3-NP) was used. This toxin inhibits succinate dehydrogenase (SDH), disrupts electron flow and leads to increased production of reactive oxygen species (ROS) and a pro-inflammatory environment. The severity of symptoms induced by 3-NP varies depending on dosage, duration of exposure and administration route. In the brain, 3-NP affects striatal medium spiny neurons in the basal ganglia and in less degree pyramidal neurons from frontal cortex, a feature observed in Huntington’s disease (HD). The aim of this study was to investigate the antioxidant and anti-inflammatory properties of CGA in the 3-NP-induced model of early neurodegeneration. Systemic administration of CGA significantly reduced lipid peroxidation and promoted an anti-inflammatory profile in the brain when co-administered with 3-NP. These results support that CGA could serve as a systemic neuroprotectant in individuals challenged by environmental toxins that disrupt mitochondrial function.\n\nGraphical Abstract\n\nOxidative stress, induced in the striatum and frontal cortex by 3-NP treatment is avoided by CGA co-treatment, while the inflammatory response is relatively prevented in the 3-NP + CGA co-treatment.",
+  "doi": "10.1007/s11064-025-04356-4",
+  "url": "https://doi.org/10.1007/s11064-025-04356-4",
+  "pdf_url": "",
+  "venue": "Neurochemical Research",
+  "citation_count": 5,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T13:46:35.399546+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-093.md",
+  "quality_details": {
+    "content_length": 62545,
+    "alpha_ratio": 0.71,
+    "sentence_count": 495,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "src-024",
+  "title": "Effects of betaine supplementation on cardiovascular markers: A systematic review and Meta-analysis",
+  "authors": [
+    "Ashtary-Larky, Damoon",
+    "Bagheri, Reza",
+    "Ghanavati, Matin",
+    "Asbaghi, Omid",
+    "Tinsley, Grant M.",
+    "Mombaini, Delsa",
+    "Kooti, Wesam",
+    "Kashkooli, Sara",
+    "Wong, Alexei"
+  ],
+  "year": 2022,
+  "abstract": "",
+  "doi": "10.1080/10408398.2021.1902938",
+  "url": "https://doi.org/10.1080/10408398.2021.1902938",
+  "pdf_url": "",
+  "venue": "Critical Reviews in Food Science and Nutrition",
+  "citation_count": 35,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-20T18:54:48.679028+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-024.md",
+  "quality_details": {
+    "content_length": 1803,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

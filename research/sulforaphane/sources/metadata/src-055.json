@@ -1,0 +1,35 @@
+{
+  "id": "src-055",
+  "title": "Effects of sulforaphane intake on processing speed and negative moods in healthy older adults: Evidence from a randomized controlled trial",
+  "authors": [
+    "Nouchi, Rui",
+    "Hu, Qingqiang",
+    "Ushida, Yusuke",
+    "Suganuma, Hiroyuki",
+    "Kawashima, Ryuta"
+  ],
+  "year": 2022,
+  "abstract": "BackgroundRecent studies have reported that sulforaphane (SFN) intake with cognitive training had positive effects on cognitive functions. However, it is still unknown whether SFN intake alone has beneficial effects on cognition as well as mood. We investigated whether a SFN intake intervention improved cognitive performance and mood states in healthy older adults.MethodsIn a 12-week, double-blinded, randomized controlled trial (RCT), we randomly assigned 144 older adults to a SFN group or a placebo group. We asked the participants to take a supplement (SFN or placebo) for 12 weeks. We measured several cognitive functions, mood states, and biomarkers before and after the intervention period.ResultsThe SFN group showed improvement in processing speed and a decrease in negative mood compared to the placebo group. In addition, the SFN group exhibited a higher SFN-N-acetyl-L-cysteine (NAC) level compared to the placebo group. However, there were no significant results in other biomarkers of oxidant stress, inflammation, or neural plasticity.DiscussionThese results indicate that nutrition interventions using SFN can have positive effects on cognitive functioning and mood in healthy older adults.",
+  "doi": "10.3389/fnagi.2022.929628",
+  "url": "https://doi.org/10.3389/fnagi.2022.929628",
+  "pdf_url": "",
+  "venue": "Frontiers in Aging Neuroscience",
+  "citation_count": 10,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-18T23:22:10.419710+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-055.md",
+  "quality_details": {
+    "content_length": 52277,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

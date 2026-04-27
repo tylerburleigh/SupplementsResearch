@@ -1,0 +1,19 @@
+{
+  "id": "src-245",
+  "title": "United States Pharmacopeia (USP) Safety Review of Gamma-Aminobutyric Acid (GABA)",
+  "authors": [
+    "Oketch‐Rabah, Hellen",
+    "Madden, Emily F.",
+    "Roe, Amy L.",
+    "Betz, Joseph M."
+  ],
+  "doi": "10.3390/nu13082742",
+  "url": "https://openalex.org/W3187669107",
+  "provider": "openalex",
+  "year": 2021,
+  "venue": "Nutrients",
+  "citation_count": 130,
+  "abstract": "<i>Gamma</i>-amino butyric acid (GABA) is marketed in the U.S. as a dietary supplement. USP conducted a comprehensive safety evaluation of GABA by assessing clinical studies, adverse event information, and toxicology data. Clinical studies investigated the effect of pure GABA as a dietary supplement or as a natural constituent of fermented milk or soy matrices. Data showed no serious adverse events associated with GABA at intakes up to 18 g/d for 4 days and in longer studies at intakes of 120 mg/d for 12 weeks. Some studies showed that GABA was associated with a transient and moderate drop in blood pressure (<10% change). No studies were available on effects of GABA during pregnancy and lactation, and no case reports or spontaneous adverse events associated with GABA were found. Chronic administration of GABA to rats and dogs at doses up to 1 g/kg/day showed no signs of toxicity. Because some studies showed that GABA was associated with decreases in blood pressure, it is conceivable that concurrent use of GABA with anti-hypertensive medications could increase risk of hypotension. Caution is advised for pregnant and lactating women since GABA can affect neurotransmitters and the endocrine system, i.e., increases in growth hormone and prolactin levels.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2072-6643/13/8/2742/pdf?version=1628595304"
+}

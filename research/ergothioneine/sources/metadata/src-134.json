@@ -1,0 +1,27 @@
+{
+  "id": "src-134",
+  "title": "Rational multienzyme architecture design with iMARS.",
+  "authors": [
+    "Wang, Jiawei",
+    "Ouyang, Xingyu",
+    "Meng, Shiyu",
+    "Zhao, Bowen",
+    "Liu, Liangxu",
+    "Li, Chaofeng",
+    "Li, Hengrun",
+    "Zheng, Haotian",
+    "Liu, Yihan",
+    "Shi, Ting",
+    "Zhao, Yi-Lei",
+    "Ni, Jun"
+  ],
+  "doi": "10.1016/j.cell.2024.12.029",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39855196",
+  "provider": "pubmed",
+  "year": 2025,
+  "venue": "Cell",
+  "citation_count": 0,
+  "abstract": "Biocatalytic cascades with spatial proximity can orchestrate multistep pathways to form metabolic highways, which enhance the overall catalytic efficiency. However, the effect of spatial organization on catalytic activity is poorly understood, and multienzyme architectural engineering with predictable performance remains unrealized. Here, we developed a standardized framework, called iMARS, to rapidly design the optimal multienzyme architecture by integrating high-throughput activity tests and structural analysis. The approach showed potential for industrial-scale applications, with artificial fusion enzymes designed by iMARS significantly improving the production of resveratrol by 45.1-fold and raspberry ketone by 11.3-fold in vivo, as well as enhancing ergothioneine synthesis in fed-batch fermentation. In addition, iMARS greatly enhanced the in vitro catalytic efficiency of the multienzyme complexes for PET plastic depolymerization and vanillin biosynthesis. As a generalizable and flexible strategy at molecular level, iMARS could greatly facilitate green chemistry, synthetic biology, and biomanufacturing.",
+  "type": "academic",
+  "pdf_url": ""
+}

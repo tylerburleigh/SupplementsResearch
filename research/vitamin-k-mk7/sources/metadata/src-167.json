@@ -1,0 +1,22 @@
+{
+  "id": "src-167",
+  "title": "Antimicrobial activity of mesenchymal stem cells against Staphylococcus aureus",
+  "authors": [
+    "Yagi, Haruyo",
+    "Chen, Antonia F.",
+    "Hirsch, David",
+    "Rothenberg, Adam C.",
+    "Tan, Jian",
+    "Alexander, Peter G.",
+    "Tuan, Rocky S."
+  ],
+  "doi": "10.1186/s13287-020-01807-3",
+  "url": "https://openalex.org/W3042749451",
+  "provider": "openalex",
+  "year": 2020,
+  "venue": "Stem Cell Research & Therapy",
+  "citation_count": 62,
+  "abstract": "Our findings clearly demonstrate the antimicrobial activity of adult ASCs against S. aureus and implicate a key regulatory role for vitamin D. Further testing in in vivo models is being pursued to assess the potential application of ASCs as a biocompatible, adjunct treatment for musculoskeletal infections.",
+  "type": "academic",
+  "pdf_url": "https://stemcellres.biomedcentral.com/track/pdf/10.1186/s13287-020-01807-3"
+}

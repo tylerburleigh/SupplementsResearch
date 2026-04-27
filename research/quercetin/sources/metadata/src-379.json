@@ -1,0 +1,20 @@
+{
+  "id": "src-379",
+  "title": "Involvement of multiple cytochrome P450 isoenzymes in drug interactions between ritonavir and direct oral anticoagulants.",
+  "authors": [
+    "Tamemoto, Yuta",
+    "Shibata, Yukihiro",
+    "Hashimoto, Natsumi",
+    "Sato, Hiromi",
+    "Hisaka, A."
+  ],
+  "doi": "10.1016/j.dmpk.2023.100498",
+  "url": "https://www.semanticscholar.org/paper/5025e151a0dd4fa39a42eda345822db06882a526",
+  "provider": "semantic_scholar",
+  "year": 2023,
+  "venue": "Drug Metabolism and Pharmacokinetics",
+  "citation_count": 10,
+  "abstract": "Herein, we aimed to determine the significance of drug interactions (DIs) between ritonavir and direct oral anticoagulants (DOACs) and identify the involved cytochrome P450 (CYP) isoenzymes. Using an in vitro cocktail method with human liver microsomes (HLM), we observed that ritonavir strongly inhibited CYPs in the following order: CYP3A, CYP2C8, CYP2D6, CYP2C9, CYP2C19, CYP2B6, and CYP2J2 (IC50: 0.023-6.79 μM). The degree of CYP2J2 inhibition was inconclusive, given the substantial discrepancy between the HLM and human expression system. Selective inhibition of CYP3A decreased the O-demethylation of apixaban by only 13.4%, and the involvement of multiple CYP isoenzymes was suggested, all of which were inhibited by ritonavir. Multiple CYP isoenzymes contributed also to the metabolism of rivaroxaban. Replacement of the incubation medium with phosphate buffer instead of HEPES enhanced apixaban hydroxylation. On surveying the FDA Adverse Event Reporting System, we detected that the signal of the proportional reporting ratio of \"death\" and found increase for \"hemoglobin decreased\" (12.5-fold) and \"procedural hemorrhage\" (201.9-fold) on administering apixaban with ritonavir; these were far less significant for other CYP3A inhibitors. Overall, these findings suggest that co-administration of ritonavir-boosted drugs with DOACs may induce serious DIs owing to the simultaneous inhibition of multiple CYP isoenzymes.",
+  "type": "academic",
+  "pdf_url": ""
+}

@@ -1,0 +1,9 @@
+31	2	1. Introduction
+313	2	4. Factors Determining Immune-Stimulatory Activities of Mushrooms Polysaccharides
+401	2	5. Immune Cell Receptors of Mushrooms Polysaccharides
+450	2	6. Response of Mushrooms Polysaccharides on Immune System
+467	2	7. Effects on the Innate Immune System
+502	2	8. Effects on Adaptive Immune System
+531	2	9. Conclusions
+559	2	Acknowledgments
+563	2	References

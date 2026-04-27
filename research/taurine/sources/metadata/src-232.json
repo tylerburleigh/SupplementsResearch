@@ -1,0 +1,21 @@
+{
+  "id": "src-232",
+  "title": "Blood-brain barrier permeability and physical exercise",
+  "authors": [
+    "Małkiewicz, Marta A.",
+    "Szarmach, Arkadiusz",
+    "Sabisz, Agnieszka",
+    "Cubała, Wiesław Jerzy",
+    "Szurowska, Edyta",
+    "Winklewski, Paweł J."
+  ],
+  "doi": "10.1186/s12974-019-1403-x",
+  "url": "https://openalex.org/W2924301109",
+  "provider": "openalex",
+  "year": 2019,
+  "venue": "Journal of Neuroinflammation",
+  "citation_count": 260,
+  "abstract": "In this narrative review, a theoretical framework on the crosstalk between physical exercise and blood-brain barrier (BBB) permeability is presented. We discuss the influence of physical activity on the factors affecting BBB permeability such as systemic inflammation, the brain renin-angiotensin and noradrenergic systems, central autonomic function and the kynurenine pathway. The positive role of exercise in multiple sclerosis and Alzheimer's disease is described. Finally, the potential role of conditioning as well as the effect of exercise on BBB tight junctions is outlined. There is a body of evidence that regular physical exercise diminishes BBB permeability as it reinforces antioxidative capacity, reduces oxidative stress and has anti-inflammatory effects. It improves endothelial function and might increase the density of brain capillaries. Thus, physical training can be emphasised as a component of prevention programs developed for patients to minimise the risk of the onset of neuroinflammatory diseases as well as an augmentation of existing treatment. Unfortunately, despite a sound theoretical background, it remains unclear as to whether exercise training is effective in modulating BBB permeability in several specific diseases. Further research is needed as the impact of exercise is yet to be fully elucidated.",
+  "type": "academic",
+  "pdf_url": "https://jneuroinflammation.biomedcentral.com/track/pdf/10.1186/s12974-019-1403-x"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "src-202",
+  "title": "Meta-analysis of novel biomarkers and advanced inflammatory markers as predictors of cardiovascular diseases in clinical practice",
+  "authors": [
+    "Rahul, Kumar",
+    "Kumar, Bhupendra",
+    "Tewarson, Vivek",
+    "Kumar, Sarvesh",
+    "Singh, Sushil Kumar",
+    "Chaudhary, Vandana",
+    "Kumar, Satish"
+  ],
+  "year": 2025,
+  "abstract": "Abstract:\nCardiovascular disease (CVD) remains the leading cause of mortality worldwide. Early detection of at-risk individuals is crucial for effective management. This systematic review aimed to evaluate the efficacy of advanced inflammatory markers, such as fibrinogen (FIB), interleukin-6 (IL-6), and galectin-3 (Gal-3), in predicting CVD outcomes, compared to traditional markers such as high-sensitivity C-reactive protein (hs-CRP). A systematic review was conducted according to the Preferred Reporting Items for Systematic Review and Meta-analyses guidelines. Electronic databases, including PubMed, Embase, the Cochrane Library, and Google Scholar, were searched for relevant studies published between 2019 and 2023. Inclusion criteria were adults (≥18 years) with CVD; assessed the prediction of CVD using CRP, FIB, IL-6, and Gal-3 to achieve favorable cardiovascular outcomes; and randomized controlled trials, observational studies, or meta-analyses. Two independent reviewers performed data extraction and risk of bias assessment. From the initial 2181 records, seven studies were included, demonstrating the superior predictive power of advanced markers over traditional markers. IL-6 showed a stronger correlation with immediate cardiovascular events than hs-CRP. FIB levels provided additional insights into blood clotting, aiding in the prediction of cardiovascular events. Gal-3 has been identified as a crucial predictor of heart failure, outperforming the classical inflammatory markers. Advanced inflammatory markers, particularly IL-6, FIB, and Gal-3, exhibit higher predictive accuracy for CVD risk than traditional markers, such as hs-CRP. These markers enhance early detection and enable more targeted interventions, potentially improving patient outcomes and resource utilization in health care. Longitudinal and mechanistic research is expected to confirm the prognostic power of advanced inflammatory markers, and consequently, discover how biological innovations could be therapeutic targets.",
+  "doi": "10.4103/jcc.jcc_16_25",
+  "url": "https://doi.org/10.4103/jcc.jcc_16_25",
+  "pdf_url": "",
+  "venue": "Journal of Current Cardiology",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-24T01:21:02.009032+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-202.md",
+  "quality_details": {
+    "content_length": 32159,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

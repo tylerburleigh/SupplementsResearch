@@ -1,0 +1,20 @@
+{
+  "id": "src-064",
+  "title": "Therapeutic applications of mushrooms and their biomolecules along with a glimpse of in silico approach in neurodegenerative diseases.",
+  "authors": [
+    "Rai, Sachchida Nand",
+    "Mishra, Divya",
+    "Singh, Payal",
+    "Vamanu, Emanuel",
+    "Singh, M P"
+  ],
+  "doi": "10.1016/j.biopha.2021.111377",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/33601145",
+  "provider": "pubmed",
+  "year": 2021,
+  "venue": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+  "citation_count": 0,
+  "abstract": "Neurodegenerative diseases (NDs) represent a common neurological pathology that determines a progressive deterioration of the brain or the nervous system. For treating NDs, comprehensive and alternative medicines have attracted scientific researchers' attention recently. Edible mushrooms are essential for preventing several age-based neuronal dysfunctions such as Parkinson's and Alzheimer's diseases. Mushroom such as Grifola frondosa, Lignosus rhinocerotis, Hericium erinaceus, may improve cognitive functions. It has also been reported that edible mushrooms (basidiocarps/mycelia extracts or isolated bioactive compounds) may reduce beta-amyloid-induced neurotoxicity. Medicinal mushrooms are being used for novel and natural compounds that help modulate immune responses and possess anti-cancer, anti-microbial, and anti-oxidant properties. Compounds such as polyphenols, terpenoids, alkaloids, sesquiterpenes, polysaccharides, and metal chelating agents are validated in different ND treatments. This review aims to assess mushrooms' role and their biomolecules utilization for treating different kinds of NDs. The action mechanisms, presented here, including reducing oxidative stress, neuroinflammation, and modulation of acetylcholinesterase activity, protecting neurons or stimulation, and regulating neurotrophins synthesis. We also provide background about neurodegenerative diseases and in-silico techniques of the drug research. High costs associated with experiments and current ethical law imply efficient alternatives with limited cost value. In silico approaches provide an alternative method with low cost that has been successfully implemented to cure ND disorders in recent days. We also describe the applications of computational procedures such as molecular docking, virtual high-throughput screening, molecular dynamic (MD) simulation, quantum-mechanical methods for drug design. They were reported against various targets in NDs.",
+  "type": "academic",
+  "pdf_url": ""
+}

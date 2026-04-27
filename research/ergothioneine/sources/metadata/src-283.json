@@ -1,0 +1,19 @@
+{
+  "id": "src-283",
+  "title": "Dealing With Dietary Measurement Error in Nutritional Cohort Studies",
+  "authors": [
+    "Freedman, Laurence S.",
+    "Schatzkin, Arthur",
+    "Midthune, Douglas",
+    "Kipnis, Victor"
+  ],
+  "doi": "10.1093/jnci/djr189",
+  "url": "https://openalex.org/W2113645052",
+  "provider": "openalex",
+  "year": 2011,
+  "venue": "JNCI Journal of the National Cancer Institute",
+  "citation_count": 462,
+  "abstract": "Dietary measurement error creates serious challenges to reliably discovering new diet-disease associations in nutritional cohort studies. Such error causes substantial underestimation of relative risks and reduction of statistical power for detecting associations. On the basis of data from the Observing Protein and Energy Nutrition Study, we recommend the following approaches to deal with these problems. Regarding data analysis of cohort studies using food-frequency questionnaires, we recommend 1) using energy adjustment for relative risk estimation; 2) reporting estimates adjusted for measurement error along with the usual relative risk estimates, whenever possible (this requires data from a relevant, preferably internal, validation study in which participants report intakes using both the main instrument and a more detailed reference instrument such as a 24-hour recall or multiple-day food record); 3) performing statistical adjustment of relative risks, based on such validation data, if they exist, using univariate (only for energy-adjusted intakes such as densities or residuals) or multivariate regression calibration. We note that whereas unadjusted relative risk estimates are biased toward the null value, statistical significance tests of unadjusted relative risk estimates are approximately valid. Regarding study design, we recommend increasing the sample size to remedy loss of power; however, it is important to understand that this will often be an incomplete solution because the attenuated signal may be too small to distinguish from unmeasured confounding in the model relating disease to reported intake. Future work should be devoted to alleviating the problem of signal attenuation, possibly through the use of improved self-report instruments or by combining dietary biomarkers with self-report instruments.",
+  "type": "academic",
+  "pdf_url": "https://academic.oup.com/jnci/article-pdf/103/14/1086/17310983/djr189.pdf"
+}

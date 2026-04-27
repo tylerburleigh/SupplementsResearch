@@ -1,0 +1,55 @@
+41	2	Open Access
+42	2	Edited By
+45	2	Reviewed By
+62	2	Citation
+73	2	Copyright
+102	2	Keywords
+104	2	1 Introduction
+166	2	2 Methods
+174	3	2.1 Literature search strategy
+198	3	2.2 Research selection
+216	3	2.3 Data extraction and quality assessment
+237	3	2.4 Statistical analysis
+262	2	3 Results
+263	3	3.1 Selection of trials
+273	3	3.2 Research characteristics
+284	3	3.3 Risk of bias
+293	3	3.4 Results of the meta-analysis
+294	4	3.4.1 Waist circumference
+334	2	Iii
+350	2	Iii
+358	2	Iii
+364	2	Iii
+375	2	Iii
+388	2	Iii
+393	2	Iii
+397	2	Iii
+410	4	3.4.2 Fasting blood sugar
+417	4	3.4.3 Blood pressure
+429	4	3.4.4 Triglycerides
+440	4	3.4.5 High-density lipoprotein cholesterol
+470	4	3.4.7 Oxidative stress marker
+477	3	3.5 Adverse events
+482	3	3.6 Publication bias
+488	3	3.7 Sensitivity analysis
+506	3	3.8 Subgroup analysis
+517	3	3.9 GRADE assessment
+525	2	4 Discussion
+679	2	Participants
+757	2	5 Conclusion
+769	2	Author Contributions
+792	2	Supplementary Material
+796	2	References
+836	2	15. Lukkunaprasit T, Tansawet A, Boonmanunt S, Sobhonslidsuk A, McKay GJ,
+840	2	16. Musazadeh V, Golandam F, Faghfouri AH, Abdoli Shadbad M, Keramati M,
+844	2	17. Musazadeh V, Roshanravan N, Mohammadizadeh M, Kavyani Z, Dehghan P,
+848	2	18. Unhapipatpong C, Polruang N, Shantavasinkul PC, Julanon N, Numthavaj P,
+881	2	26. Wedell-Neergaard AS, Krogh-Madsen R, Petersen GL, Hansen AM, Pedersen
+889	2	28. Karimi A, Naeini F, Niazkar HR, Tutunchi H, Musazadeh V, Mahmoodpoor A,
+894	2	29. Mokgalaboni K, Ntamo Y, Ziqubu K, Nyambuya TM, Nkambule BB, Mazibuko-
+932	2	40. Panahi Y, Hosseini MS, Khalili N, Naimi E, Simental-Mendia LE, Majeed M,
+936	2	41. Saberi-Karimian M, Parizadeh SMR, Ghayour-Mobarhan M, Salahshooh MM, Dizaji
+952	2	46. Armstrong A, Jungbluth Rodriguez K, Sabag A, Mavros Y, Parker HM, Keating
+956	2	47. Ramirez-Manent JI, Jover AM, Martinez CS, Tomas-Gil P, Marti-Lliteras P,
+975	2	52. Jazayeri-Tehrani SA, Rezayat SM, Mansouri S, Qorbani M, Alavian SM,
+995	2	59. Unamuno X, Gomez-Ambrosi J, Rodriguez A, Becerril S, Fruhbeck G, Catalan

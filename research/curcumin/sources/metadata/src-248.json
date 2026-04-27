@@ -1,0 +1,19 @@
+{
+  "id": "src-248",
+  "title": "Structural Insights into the Redox Potential of Curcumin Derivatives in Litopenaeus vannamei",
+  "authors": [
+    "Sousa, Damião Sampaio de",
+    "Lima, João Miguel Lopes de Melo",
+    "Salmito‐Vanderley, C.",
+    "Marinho, Emanuelle Machado"
+  ],
+  "doi": "10.3390/ddc5020024",
+  "url": "https://www.semanticscholar.org/paper/c69c3df75a915c67a393439e9a3b7750de12f77c",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "Drugs and Drug Candidates",
+  "citation_count": 0,
+  "abstract": "Background/Objectives: Curcumin derivatives have attracted interest due to their redox-modulating properties and potential applications in aquatic organisms, yet their molecular interactions and environmental safety remain insufficiently characterized. This study aimed to evaluate the redox-related molecular behavior and ecotoxicological profile of curcumin derivatives, with emphasis on their interaction with glutathione S-transferase from L. vannamei. Methods: Molecular docking and molecular dynamics simulations were performed to assess binding stability and interaction patterns between the derivatives and LvGSTmu. In parallel, computational predictions were used to estimate environmental persistence, bioaccumulation (BCF/BAF), and acute and chronic aquatic toxicity across multiple trophic levels. Results: Docking and dynamics analyses indicated stable ligand–protein interactions, particularly for CURNO, which showed favorable binding behavior without destabilizing the protein structure. Ecotoxicological predictions suggested low bioaccumulation potential and limited persistence for most derivatives, with CURH and CURNO showing higher sediment persistence. Toxicity responses varied by organism and exposure time but did not differ significantly among derivatives relative to curcumin. Conclusions: The derivatives retained redox-related molecular features while presenting an overall acceptable predicted environmental profile. CURNO emerged as a promising candidate, although its environmental behavior supports the need for further monitoring and experimental validation.",
+  "type": "academic",
+  "pdf_url": ""
+}

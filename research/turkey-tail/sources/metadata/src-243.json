@@ -1,0 +1,26 @@
+{
+  "id": "src-243",
+  "title": "Unique Versus Redundant Functions of IL-1α and IL-1β in the Tumor Microenvironment",
+  "authors": [
+    "Voronov, E.",
+    "Dotan, S.",
+    "Krelin, Y.",
+    "Song, Xiaoping",
+    "Elkabets, Moshe",
+    "Carmi, Y.",
+    "Rider, Peleg",
+    "Cohen, Idan",
+    "Romzova, M.",
+    "Kaplanov, I.",
+    "Apte, R."
+  ],
+  "doi": "10.3389/fimmu.2013.00177",
+  "url": "https://www.semanticscholar.org/paper/63ddb38d71ec51f60e87d4348baa3c3fe67a61c7",
+  "provider": "semantic_scholar",
+  "year": 2013,
+  "venue": "Frontiers in Immunology",
+  "citation_count": 123,
+  "abstract": "Interleukin-1 (IL-1) is a major “alarm” upstream pro-inflammatory cytokine that also affects immunity and hematopoiesis by inducing cytokine cascades. In the tumor arena, IL-1 is produced by malignant or microenvironmental cells. As a pleiotropic cytokine, IL-1 is involved in tumorigenesis and tumor invasiveness but also in the control of anti-tumor immunity. IL-1α and IL-1β are the major agonists of IL-1, while IL-1Ra is a physiological inhibitor of pre-formed IL-1. In their secreted form, IL-1α and IL-1β bind to the same receptors and induce the same biological functions, but IL-1α and IL-1β differ in their compartmentalization within the producing cell or the microenvironment. IL-1β is only active in its processed, secreted form, and mediates inflammation, which promotes carcinogenesis, tumor invasiveness, and immunosuppression, whereas IL-1α is mainly cell-associated and in the tumor context, when expressed on the cell membrane, it stimulates anti-tumor cell immunity manifested by tumor regression. In the tumor milieu, extracellular levels of IL-1α are usually low and do not stimulate broad inflammation that promotes progression. Immunosuppression induced by IL-1β in the tumor microenvironment, mainly through MDSC induction, usually inhibits or masks anti-tumor cell immunity induced by cell-associated IL-1α. However, in different tumor systems, redundant or unique patterns of IL-1α and IL-1β expression and function have been observed. Recent breakthroughs in inflammasome biology and IL-1β processing/secretion have spurred the development of novel anti-IL-1 agents, which are being used in clinical trials in patients with diverse inflammatory diseases. Better understanding of the integrative role of IL-1α and IL-1β in distinct malignancies will facilitate the application of novel IL-1 modulation approaches at the bedside, in cancer patients with minimal residual disease (MRD), as an adjunct to conventional approaches to reduce the tumor burden.",
+  "type": "academic",
+  "pdf_url": "https://www.frontiersin.org/articles/10.3389/fimmu.2013.00177/pdf"
+}

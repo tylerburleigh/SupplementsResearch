@@ -1,0 +1,33 @@
+{
+  "id": "src-047",
+  "title": "Efficacy and tolerability of sulforaphane in the therapeutic management of cancers: a systematic review of randomized controlled trials",
+  "authors": [
+    "ElKhalifa, Dana",
+    "Al-Ziftawi, Nour",
+    "Awaisu, Ahmed",
+    "Alali, Feras",
+    "Khalil, Ashraf"
+  ],
+  "year": 2023,
+  "abstract": "ObjectivesThis paper presents a systematic review aimed at assessing the therapeutic potential of sulforaphane (SFN) in the treatment of diverse cancer types.MethodsFollowing Cochrane guidelines for systematic reviews, we conducted an exhaustive search of electronic databases up to May 12, 2023, encompassing PubMed, Cochrane, Embase, Web of Science, Google Scholar, Natural Medicines, ProQuest, ClinicalTrials.gov, and ICTRP. Studies were included if they were human-based RCTs involving cancer patients where SFN was the primary experimental treatment. The Cochrane Risk of Bias tool for RCTs (RoB2) was used for quality assessment.ResultsEight studies investigating the efficacy and safety of SFN in prostate cancer (PCa), breast cancer, pancreatic cancer, and melanoma were identified and included in the review. The dosing regimens were variable and inconsistent across the studies. SFN treatment led to statistically significant alterations in several vital genes and histological biomarkers across the studies. However, it did not impact some other key genes. Although not statistically significant, SFN improved overall survival in pancreatic cancer patients. The results on prostate-specific antigen (PSA) were inconsistent in PCa. None of the studies reported significant differences between SFN and comparative controls in terms of adverse events.ConclusionSFN has emerged as a promising and safe therapeutic agent for diverse cancer types. Nevertheless, the high levels of methodological and clinical heterogeneity across the included studies precluded the possibility of conducting meta-analyses. Further robust clinical investigations to conclusively ascertain the chemotherapeutic potential of SFN in the management of various cancer forms are needed.Systematic review registrationhttps://www.crd.york.ac.uk/prospero/display_record.php?ID=CRD42022323788, identifier CRD42022323788.",
+  "doi": "10.3389/fonc.2023.1251895",
+  "url": "https://doi.org/10.3389/fonc.2023.1251895",
+  "pdf_url": "",
+  "venue": "Frontiers in Oncology",
+  "citation_count": 12,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-18T23:20:18.113689+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-047.md",
+  "quality_details": {
+    "content_length": 76514,
+    "alpha_ratio": 0.743,
+    "sentence_count": 640,
+    "reasons": []
+  }
+}

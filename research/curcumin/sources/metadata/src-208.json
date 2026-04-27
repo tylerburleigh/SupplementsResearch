@@ -1,0 +1,37 @@
+{
+  "id": "src-208",
+  "title": "Curcumin and Curcuma longa Extract in the Treatment of 10 Types of Autoimmune Diseases: A Systematic Review and Meta-Analysis of 31 Randomized Controlled Trials",
+  "authors": [
+    "Zeng, Liuting",
+    "Yang, Tiejun",
+    "Yang, Kailin",
+    "Yu, Ganpeng",
+    "Li, Jun",
+    "Xiang, Wang",
+    "Chen, Hua"
+  ],
+  "year": 2022,
+  "abstract": "ObjectiveTo evaluate the randomized controlled trials (RCTs) of Curcumin and Curcuma longa Extract in the treatment of autoimmune diseases.MethodsDatabases such as Embase, Web of Science, PubMed and The Cochrane Library were searched from the database establishment to February 2022 to collect RCTs of Curcumin and Curcuma longa Extract in the treatment of autoimmune diseases. Then the literature was screened and the data were extracted. Meta-analysis was performed using RevMan 5.3 software.ResultsA total of 34 records were included, involving 31 RCTs and 10 types of autoimmune disease. Among them, ankylosing spondylitis (AS) involves one RCT, Behcet ‘s disease (BD) involves one RCT, Crohn ‘s disease involves two RCTs, multiple sclerosis (MS) involves two RCTs, oral lichen planus involves six RCTs, psoriasis involves two RCTs, rheumatoid arthritis (RA) involves five RCTs, systemic lupus erythematosus (SLE) involves two RCTs, arteritis involves one RCT, ulcerative colitis (UC) involves nine RCTs. Among them, most of the RCTs of ulcerative colitis (UC), oral lichen planus, RA showed that curcumin and curcumin extracts improved clinical or laboratory results. Crohn ‘ s disease, MS, SLE, psoriasis included two RCTs; they all showed improvements (at least one RCT reported improvements in clinical outcomes). AS, BD and arteritis included only one RCT, and the clinical results showed improvement. However, due to the small number of RCTs and the small number of patients involved in each disease, there is still a need for more high-quality RCTs.ConclusionCurcumin and Curcuma longa Extract had good clinical efficacy in the treatment of Psoriasis, UC and RA, so Curcumin and Curcuma longa Extract could be used in the treatment of the above diseases in the future. The results of Meta-analysis showed that Curcumin and Curcuma longa Extract did not show efficacy in the treatment of oral lichen planus, while Takayasu arteritis, SLE, MS, AS, BD and CD did not report sufficient clinical data for meta-analysis. Therefore, large-sample, multi-center clinical trials are still needed for revision or validation.",
+  "doi": "10.3389/fimmu.2022.896476",
+  "url": "https://doi.org/10.3389/fimmu.2022.896476",
+  "pdf_url": "",
+  "venue": "Frontiers in Immunology",
+  "citation_count": 60,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-22T14:45:14.735765+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-208.md",
+  "quality_details": {
+    "content_length": 113998,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

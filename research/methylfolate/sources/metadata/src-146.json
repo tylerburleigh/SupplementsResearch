@@ -1,0 +1,19 @@
+{
+  "id": "src-146",
+  "title": "Using Mendelian Randomization studies to Assess Causality and Identify New Therapeutic Targets in Cardiovascular Medicine.",
+  "authors": [
+    "Zhao, Wei",
+    "Lee, Jung-Jin",
+    "Rasheed, Asif",
+    "Saleheen, Danish"
+  ],
+  "doi": "10.1007/s40142-016-0103-4",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/29082115",
+  "provider": "pubmed",
+  "year": 2016,
+  "venue": "Current genetic medicine reports",
+  "citation_count": 0,
+  "abstract": "Integration of knowledge generated from genetic studies on intermediate biomarkers and CHD can provide a reliable approach to help assess causal pathways in coronary heart disease. Mendelian Randomization (MR) studies are a powerful tool to assess causal relevance of a range of pathways. These analyses use genetic variants as proxies for soluble biomarkers in association studies of disease risk. MR studies can provide unbiased estimates of causal effects and avoid distortions due to confounding factors arising later in life, because genetic variants are fixed at conception. MR studies have provided evidence pointing towards the likelihood of a causal relevance of a range of pathways in CHD, including LDL-C, triglycerides, lipoprotein (a), and interleukin-6 receptor. On the other hand, MR studies have refuted the causal relevance of a number of biomarkers, including C-reactive protein (CRP), fibrinogen, uric acid, LpPLA2 activity, and homocysteine. Carefully conducted MR studies should overcome the limitations that are inherent to other observational studies (e.g., residual confounding and reverse causality) to help assess causal relevance of a range of pathways in CHD.",
+  "type": "academic",
+  "pdf_url": ""
+}

@@ -1,0 +1,23 @@
+{
+  "id": "src-287",
+  "title": "Insights from in silico exploration of major curcumin analogs targeting human dipeptidyl peptidase IV",
+  "authors": [
+    "Roney, Miah",
+    "Dubey, Amit",
+    "Issahaku, A. R.",
+    "Uddin, Md. Nazim",
+    "Tufail, Aisha",
+    "Wilhelm, Anke",
+    "Zamri, N.",
+    "Aluwi, M."
+  ],
+  "doi": "10.1080/07391102.2024.2306197",
+  "url": "https://www.semanticscholar.org/paper/31877a2f5d956cf401a72fc00edfd7bc7372b837",
+  "provider": "semantic_scholar",
+  "year": 2024,
+  "venue": "Journal of Biomolecular Structure and Dynamics",
+  "citation_count": 8,
+  "abstract": "Abstract The goal of this work is to use a variety of in-silico techniques to identify anti-diabetic agents against DPP-IV enzyme from five main curcumin analogues. To produce the successful molecules, five main curcumin analogues were docked into the active site of DPP-IV enzyme. In comparison to the control molecule (Saxagliptin, −6.9 kcal/mol), all the compounds have the highest binding affinity (-7.6 to −7.7 kcal/mol) for the DPP-IV enzyme. These compounds underwent further testing for studies on drug-likeness, pharmacokinetics, and acute toxicity to see the efficacy and safety of compounds. To assess the stability of the docking complex and the binding posture identified during the docking experiment, our study got THC as the lead compound, which was then exposed to 200 ns of molecular dynamic simulation and PCA analysis. Additionally, DFT calculations were conducted to determine the thermodynamic, molecular orbital, and electrostatic potential characteristics of lead compound. Overall, the lead chemical has shown strong drug-like properties, is non-toxic, and has a sizable affinity for the DPP-IV enzyme.",
+  "type": "academic",
+  "pdf_url": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "src-137",
+  "title": "Improved HPLC method for total plasma homocysteine detection and quantification.",
+  "authors": [
+    "Sawuła, Wojciech",
+    "Banecka-Majkutewicz, Zyta",
+    "Kadziński, Leszek",
+    "Jakóbkiewicz‐Banecka, Joanna",
+    "Węgrzyn, Grzegorz",
+    "Nyka, Walenty M.",
+    "Banecki, Bogdan"
+  ],
+  "doi": "10.18388/abp.2008_3161",
+  "url": "https://openalex.org/W2129693763",
+  "provider": "openalex",
+  "year": 2008,
+  "venue": "Acta Biochimica Polonica",
+  "citation_count": 44,
+  "abstract": "Recent clinical research has pointed at hyperhomocysteinemia as an independent risk factor in a number of cardiovascular and neurological diseases. We have improved a chromatographic method of total plasma homocysteine measurements in order to obtain higher sensitivity, reliability and reproducibility. The method demonstrates excellent linearity (R=0.999), range (<2-100 microM), precision (instrumental RSD 0.06 and method RSD 1.17), accuracy (recovery of 99.92 and RSD 1.27), reproducibility, quantification limit and ruggedness (e.g. pH from 2.0 to 2.5). Because even a small increase in homocysteine level can be a significant risk factor of cardiovascular diseases, such a precise method is required. The constructed method allows the measurement of plasma pyridoxal phosphate, PLP, the co-enzyme form of vitamin B(6), on the same column and similar reagents. The developed method has been successfully applied to measure both total plasma and serum homocysteine in a group of acute stroke patients.",
+  "type": "academic",
+  "pdf_url": "https://ojs.ptbioch.edu.pl/index.php/abp/article/download/3161/2221"
+}

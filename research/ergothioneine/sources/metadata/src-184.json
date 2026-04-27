@@ -1,0 +1,28 @@
+{
+  "id": "src-184",
+  "title": "Dietary biomarkers—an update on their validity and applicability in epidemiological studies",
+  "authors": [
+    "Landberg, Rikard",
+    "Karra, Prasoona",
+    "Hoobler, Rachel",
+    "Loftfield, Erikka",
+    "Huybrechts, Inge",
+    "Rattner, Jodi",
+    "Noerman, Stefania",
+    "Claeys, Liesel",
+    "Neveu, Vanessa",
+    "Vidkjær, Nanna Hjort",
+    "Savolainen, Otto",
+    "Playdon, Mary C.",
+    "Scalbert, Augustin"
+  ],
+  "doi": "10.1093/nutrit/nuad119",
+  "url": "https://openalex.org/W4387326395",
+  "provider": "openalex",
+  "year": 2023,
+  "venue": "Nutrition Reviews",
+  "citation_count": 52,
+  "abstract": "The aim of this literature review was to identify and provide a summary update on the validity and applicability of the most promising dietary biomarkers reflecting the intake of important foods in the Western diet for application in epidemiological studies. Many dietary biomarker candidates, reflecting intake of common foods and their specific constituents, have been discovered from intervention and observational studies in humans, but few have been validated. The literature search was targeted for biomarker candidates previously reported to reflect intakes of specific food groups or components that are of major importance in health and disease. Their validity was evaluated according to 8 predefined validation criteria and adapted to epidemiological studies; we summarized the findings and listed the most promising food intake biomarkers based on the evaluation. Biomarker candidates for alcohol, cereals, coffee, dairy, fats and oils, fruits, legumes, meat, seafood, sugar, tea, and vegetables were identified. Top candidates for all categories are specific to certain foods, have defined parent compounds, and their concentrations are unaffected by nonfood determinants. The correlations of candidate dietary biomarkers with habitual food intake were moderate to strong and their reproducibility over time ranged from low to high. For many biomarker candidates, critical information regarding dose response, correlation with habitual food intake, and reproducibility over time is yet unknown. The nutritional epidemiology field will benefit from the development of novel methods to combine single biomarkers to generate biomarker panels in combination with self-reported data. The most promising dietary biomarker candidates that reflect commonly consumed foods and food components for application in epidemiological studies were identified, and research required for their full validation was summarized.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.1093/nutrit/nuad119"
+}

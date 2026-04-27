@@ -1,0 +1,29 @@
+{
+  "id": "src-135",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://inpharmd.com/inquiries/a768270122980086bcd689a8787689e984007c694ca8937ce5924b87b3666e04",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-23T16:17:25.291454+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-135.md",
+  "quality_details": {
+    "content_length": 3864,
+    "alpha_ratio": 0.824,
+    "sentence_count": 22,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

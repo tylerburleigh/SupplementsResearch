@@ -1,0 +1,28 @@
+{
+  "id": "src-099",
+  "title": "SLC29A1 and SLC29A2 are human nicotinamide cell membrane transporters.",
+  "authors": [
+    "Chen, Mingyang",
+    "Yuan, Luexiang",
+    "Chen, Binxin",
+    "Chang, Hui",
+    "Luo, Jun",
+    "Zhang, Hengbin",
+    "Chen, Zhongjian",
+    "Kong, Jiao",
+    "Yi, Yaodong",
+    "Bai, Mengru",
+    "Dong, Minlei",
+    "Zhou, Hui",
+    "Jiang, Huidi"
+  ],
+  "doi": "10.1038/s41467-025-56402-y",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39885119",
+  "provider": "pubmed",
+  "year": 2025,
+  "venue": "Nature communications",
+  "citation_count": 0,
+  "abstract": "Nicotinamide (NAM), a main precursor of NAD+, is essential for cellular fuel respiration, energy production, and other cellular processes. Transporters for other precursors of NAD+ such as nicotinic acid and nicotinamide mononucleotide (NMN) have been identified, but the cellular transporter of nicotinamide has not been elucidated. Here, we demonstrate that equilibrative nucleoside transporter 1 and 2 (ENT1 and 2, encoded by SLC29A1 and 2) drive cellular nicotinamide uptake and establish nicotinamide metabolism homeostasis. In addition, ENT1/2 exhibits a strong capacity to change the cellular metabolite composition and the transcript, especially those related to nicotinamide. We further observe that ENT1/2 regulates cellular respiration and senescence, contributing by altering the NAD+ pool level and mitochondrial status. Changes to cellular respiration, mitochondrial status and senescence by ENT1/2 knockdown are reversed by NMN supplementation. Together, ENT1 and ENT2 act as both cellular nicotinamide-level keepers and nicotinamide biological regulators through their NAM transport functions.",
+  "type": "academic",
+  "pdf_url": ""
+}

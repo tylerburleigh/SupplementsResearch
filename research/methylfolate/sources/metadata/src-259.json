@@ -1,0 +1,20 @@
+{
+  "id": "src-259",
+  "title": "Is there a causal link between folate status and schizophrenia? Evidence from genetic association studies",
+  "authors": [
+    "Kent, Monique Potvin",
+    "Little, Julian",
+    "McNulty, Helene",
+    "Montazeri, Azita",
+    "Yoo, Samantha"
+  ],
+  "doi": "10.1080/1028415x.2024.2436822",
+  "url": "https://doi.org/10.1080/1028415x.2024.2436822",
+  "provider": "core",
+  "year": 2024,
+  "venue": "",
+  "citation_count": 0,
+  "abstract": "Folate and vitamin B 12 status, through their critical involvement in DNA synthesis and methylation, may be causally related to the risk of schizophrenia. However, associations with blood status measures may reflect reverse causation or inadequate control for confounders. We aimed to synthesize evidence on the possible causal link between folate/vitamin B 12 status and schizophrenia using genetic variants as instrumental variables. MEDLINE, Embase, PsycINFO, and the Cochrane Database of Systematic Reviews were searched for Mendelian Randomization studies that investigated a causal relationship between genetic instruments for folate/vitamin B 12 status and schizophrenia onset or progression. We assessed the risk of bias using the Newcastle Ottawa Scale. Odds ratios and 95% confidence intervals were estimated using random effects models. We found 34 case–control studies. None used a formal instrumental variable analysis. Most of the studies had high methodological quality for assessing genetic association. The methylenetetrahydrofolate reductase (MTHFR) polymorphisms (C677T, A1298C) were most studied and homozygosity for the variants showed significant positive associations with the risk of schizophrenia (OR 677TT vs 677CC= 1.26 (1.03, 1.55) and OR 1298CC vs 1298AA= 1.58 (1.17, 2.13)). Heterozygosity for the variants showed attenuated associations in the same direction as homozygosity. Subgroups of age, sex, ethnicity, and folic acid fortification implementation were mostly underpowered to detect effects with precision. Evidence on the association of MTHFR polymorphisms with schizophrenia symptoms or the relationship between other gene polymorphisms and the risk of schizophrenia was severely limited. We identified significant associations between the MTHFR C677T and A1298C polymorphisms and the risk of schizophrenia at an aggregate level.</p",
+  "type": "academic",
+  "pdf_url": "https://core.ac.uk/download/639320949.pdf"
+}

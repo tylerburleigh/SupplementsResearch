@@ -1,0 +1,17 @@
+{
+  "id": "src-334",
+  "title": "Histone Modifications and Cancer",
+  "authors": [
+    "Audia, James E.",
+    "Campbell, Robert M."
+  ],
+  "doi": "10.1101/cshperspect.a019521",
+  "url": "https://openalex.org/W2323939601",
+  "provider": "openalex",
+  "year": 2016,
+  "venue": "Cold Spring Harbor Perspectives in Biology",
+  "citation_count": 1060,
+  "abstract": "Histone posttranslational modifications represent a versatile set of epigenetic marks involved not only in dynamic cellular processes, such as transcription and DNA repair, but also in the stable maintenance of repressive chromatin. In this article, we review many of the key and newly identified histone modifications known to be deregulated in cancer and how this impacts function. The latter part of the article addresses the challenges and current status of the epigenetic drug development process as it applies to cancer therapeutics.",
+  "type": "academic",
+  "pdf_url": "http://cshperspectives.cshlp.org/content/8/4/a019521.full.pdf"
+}

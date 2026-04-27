@@ -1,0 +1,26 @@
+{
+  "id": "src-257",
+  "title": "Nrf2 signaling pathway: current status and potential therapeutic targetable role in human cancers",
+  "authors": [
+    "Li, Lin",
+    "Wu, Qing",
+    "Lu, Feifei",
+    "Lei, Jiaming",
+    "Zhou, Yanhong",
+    "Liu, Yifei",
+    "Zhu, Ni",
+    "You, Yu",
+    "Ning, Zhifeng",
+    "She, Tonghui",
+    "Hu, Meichun"
+  ],
+  "doi": "10.3389/fonc.2023.1184079",
+  "url": "https://openalex.org/W4386960349",
+  "provider": "openalex",
+  "year": 2023,
+  "venue": "Frontiers in Oncology",
+  "citation_count": 108,
+  "abstract": "Cancer is a borderless global health challenge that continues to threaten human health. Studies have found that oxidative stress (OS) is often associated with the etiology of many diseases, especially the aging process and cancer. Involved in the OS reaction as a key transcription factor, Nrf2 is a pivotal regulator of cellular redox state and detoxification. Nrf2 can prevent oxidative damage by regulating gene expression with antioxidant response elements (ARE) to promote the antioxidant response process. OS is generated with an imbalance in the redox state and promotes the accumulation of mutations and genome instability, thus associated with the establishment and development of different cancers. Nrf2 activation regulates a plethora of processes inducing cellular proliferation, differentiation and death, and is strongly associated with OS-mediated cancer. What’s more, Nrf2 activation is also involved in anti-inflammatory effects and metabolic disorders, neurodegenerative diseases, and multidrug resistance. Nrf2 is highly expressed in multiple human body parts of digestive system, respiratory system, reproductive system and nervous system. In oncology research, Nrf2 has emerged as a promising therapeutic target. Therefore, certain natural compounds and drugs can exert anti-cancer effects through the Nrf2 signaling pathway, and blocking the Nrf2 signaling pathway can reduce some types of tumor recurrence rates and increase sensitivity to chemotherapy. However, Nrf2’s dual role and controversial impact in cancer are inevitable consideration factors when treating Nrf2 as a therapeutic target. In this review, we summarized the current state of biological characteristics of Nrf2 and its dual role and development mechanism in different tumor cells, discussed Keap1/Nrf2/ARE signaling pathway and its downstream genes, elaborated the expression of related signaling pathways such as AMPK/mTOR and NF-κB. Besides, the main mechanism of Nrf2 as a cancer therapeutic target and the therapeutic strategies using Nrf2 inhibitors or activators, as well as the possible positive and negative effects of Nrf2 activation were also reviewed. It can be concluded that Nrf2 is related to OS and serves as an important factor in cancer formation and development, thus provides a basis for targeted therapy in human cancers.",
+  "type": "academic",
+  "pdf_url": "https://www.frontiersin.org/articles/10.3389/fonc.2023.1184079/pdf?isPublishedV2=False"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "src-129",
+  "title": "Effect of taurine supplementation on fat and energy absorption in cystic fibrosis.",
+  "authors": [
+    "De Curtis, M",
+    "Santamaria, F",
+    "Ercolini, P",
+    "Vittoria, L",
+    "De Ritis, G",
+    "Garofalo, V",
+    "Ciccimarra, F"
+  ],
+  "year": 1992,
+  "abstract": "",
+  "doi": "10.1136/adc.67.9.1082",
+  "url": "https://doi.org/10.1136/adc.67.9.1082",
+  "pdf_url": "",
+  "venue": "Archives of Disease in Childhood",
+  "citation_count": 10,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-19T11:58:07.894005+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-129.md",
+  "quality_details": {
+    "content_length": 364,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

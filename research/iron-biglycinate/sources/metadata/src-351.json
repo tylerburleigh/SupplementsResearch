@@ -1,0 +1,18 @@
+{
+  "id": "src-351",
+  "title": "CMS121, a Novel Drug Candidate for the Treatment of Alzheimer’s Disease and Age-Related Dementia",
+  "authors": [
+    "Currais, A.",
+    "Raschke, W.",
+    "Maher, P."
+  ],
+  "doi": "10.3233/jad-231062",
+  "url": "https://www.semanticscholar.org/paper/4f369543528e066050425b42114b7717918c82f4",
+  "provider": "semantic_scholar",
+  "year": 2024,
+  "venue": "Journal of Alzheimer's Disease",
+  "citation_count": 1,
+  "abstract": "Old age is the major risk factor for sporadic Alzheimer’s disease (AD). However, old age-related changes in brain physiology have generally not been taken into consideration in developing drug candidates for the treatment of AD. This is at least partly because the role of these age-related processes in the development and progression of AD are still not well understood. Nevertheless, we and others have described an association between the oxytosis/ferroptosis non-apoptotic regulated cell death pathway and aging. Based on this association, we incorporated protection against this pathway as part of a cell-based phenotypic screening approach to identify novel drug candidates for the treatment of AD. Using this approach, we identified the fisetin derivative CMS121 as a potent neuroprotective molecule that is able to maintain cognitive function in multiple pre-clinical models of AD. Furthermore, we identified a key target of CMS121 as fatty acid synthase, a protein which had not been previously considered in the context of AD. Herein, we provide a comprehensive description of the development of CMS121, its preclinical activities, and the results of the toxicology testing that led to its IND approval.",
+  "type": "academic",
+  "pdf_url": ""
+}

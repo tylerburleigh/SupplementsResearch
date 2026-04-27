@@ -1,0 +1,23 @@
+{
+  "id": "src-148",
+  "title": "The Interplay of Reactive Oxygen Species, Hypoxia, Inflammation, and Sirtuins in Cancer Initiation and Progression",
+  "authors": [
+    "Tafani, Marco",
+    "Sansone, Luigi",
+    "Limana, Federica",
+    "Arcangeli, Tania",
+    "Santis, Elena De",
+    "Polese, Milena",
+    "Fini, Massimo",
+    "Russo, Matteo Antonio"
+  ],
+  "doi": "10.1155/2016/3907147",
+  "url": "https://openalex.org/W2177051273",
+  "provider": "openalex",
+  "year": 2015,
+  "venue": "Oxidative Medicine and Cellular Longevity",
+  "citation_count": 365,
+  "abstract": "The presence of ROS is a constant feature in living cells metabolizing O2. ROS concentration and compartmentation determine their physiological or pathological effects. ROS overproduction is a feature of cancer cells and plays several roles during the natural history of malignant tumor. ROS continuously contribute to each step of cancerogenesis, from the initiation to the malignant progression, acting directly or indirectly. In this review, we will (a) underline the role of ROS in the pathway leading a normal cell to tumor transformation and progression, (b) define the multiple roles of ROS during the natural history of a tumor, (c) conciliate many conflicting data about harmful or beneficial effects of ROS, (d) rethink the importance of oncogene and tumor suppressor gene mutations in relation to the malignant progression, and (e) collocate all the cancer hallmarks in a mechanistic sequence which could represent a \"physiological\" response to the initial growth of a transformed stem/pluripotent cell, defining also the role of ROS in each hallmark. We will provide a simplified sketch about the relationships between ROS and cancer. The attention will be focused on the contribution of ROS to the signaling of HIF, NFκB, and Sirtuins as a leitmotif of cancer initiation and progression.",
+  "type": "academic",
+  "pdf_url": "http://downloads.hindawi.com/journals/omcl/2016/3907147.pdf"
+}

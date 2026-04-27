@@ -1,0 +1,17 @@
+{
+  "id": "src-060",
+  "title": "Drugs for treating severe hypertension in pregnancy: a network meta-analysis and trial sequential analysis of randomized clinical trials.",
+  "authors": [
+    "Sridharan, Kannan",
+    "Sequeira, Reginald P"
+  ],
+  "doi": "10.1111/bcp.13649",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/29974489",
+  "provider": "pubmed",
+  "year": 2018,
+  "venue": "British journal of clinical pharmacology",
+  "citation_count": 0,
+  "abstract": "AIMS: Several antihypertensive drugs are used in the treatment of severe hypertension in pregnancy. The present study is a network meta-analysis comparing the efficacy and safety of these drugs.\nMETHODS: Electronic databases were searched for randomized clinical trials comparing drugs used in the treatment of severe hypertension in pregnancy. The number of women achieving the target blood pressure (BP) was the primary outcome. Doses required and time taken for achieving the target BP, failure rate, and incidences of maternal tachycardia, palpitation, hypotension, headache, and neonatal death and stillbirth were the secondary outcomes. Mixed treatment comparison pooled estimates were generated using a random-effects model. Odds ratios for the categorical and mean difference for the numerical outcomes were the effect estimates.\nRESULTS: Fifty-one studies were included in the systematic review and 46 in the meta-analysis. No significant differences in the number of patients achieving target BP was observed between any of the drugs. Diazoxide [-15 (-20.6, -9.4)], nicardipine [-11.8 (-22.3, -1.2)], nifedipine/celastrol [-19.3 (-27.4, -11.1)], nifedipine/vitamin D [-17.1 (-25.7, -9.7)], nifedipine/resveratrol [-13.9 (-22.6, -5.2)] and glyceryl trinitrate [-33.8 (-36.7, -31)] were observed to achieve the target BP (in minutes) more rapidly than hydralazine. Nifedipine required fewer doses than hydralazine for achieving the target BP. Glyceryl trinitrate and labetalol were associated with fewer incidences of tachycardia and palpitation respectively than hydralazine. Trial sequential analysis concluded adequate evidence for hydralazine and nifedipine compared with labetalol. Moderate quality of evidence was observed for direct comparison estimate between labetalol and hydralazine but was either low or very low for other comparisons.\nCONCLUSION: The present evidence suggests similar efficacy between nifedipine, hydralazine and labetalol in the treatment of severe hypertension in pregnancy. Subtle differences may exist in their safety profile. The evidence is inadequate for other drugs.",
+  "type": "academic",
+  "pdf_url": ""
+}

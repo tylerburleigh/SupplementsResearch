@@ -1,0 +1,34 @@
+{
+  "id": "src-152",
+  "title": "Ototoxic Effect of Nicotinamide Riboside",
+  "authors": [
+    "Ivanov, S. A.",
+    "Podyacheva, E. Yu.",
+    "Zhuravskii, S. G.",
+    "Toropova, Ya. G."
+  ],
+  "year": 2024,
+  "abstract": "",
+  "doi": "10.1007/s10517-024-06240-7",
+  "url": "https://doi.org/10.1007/s10517-024-06240-7",
+  "pdf_url": "",
+  "venue": "Bulletin of Experimental Biology and Medicine",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-20T21:11:08.803944+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-152.md",
+  "quality_details": {
+    "content_length": 8032,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

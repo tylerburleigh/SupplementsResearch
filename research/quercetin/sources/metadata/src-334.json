@@ -1,0 +1,19 @@
+{
+  "id": "src-334",
+  "title": "Senolytics: charting a new course or enhancing existing anti-tumor therapies?",
+  "authors": [
+    "Czajkowski, Konrad",
+    "Herbet, Mariola",
+    "Murias, M.",
+    "Piątkowska-Chmiel, I."
+  ],
+  "doi": "10.1007/s13402-024-01018-5",
+  "url": "https://www.semanticscholar.org/paper/2011b66db9a06a69704593f75c1055a4a183bd64",
+  "provider": "semantic_scholar",
+  "year": 2024,
+  "venue": "Cellular Oncology",
+  "citation_count": 20,
+  "abstract": "Cell senescence is a natural response within our organisms. Initially, it was considered an effective anti-tumor mechanism. However, it is now believed that while cell senescence initially acts as a robust barrier against tumor initiation, the subsequent accumulation of senescent cells can paradoxically promote cancer recurrence and cause damage to neighboring tissues. This intricate balance between cell proliferation and senescence plays a pivotal role in maintaining tissue homeostasis. Moreover, senescence cells secrete many bioactive molecules collectively termed the senescence-associated secretory phenotype (SASP), which can induce chronic inflammation, alter tissue architecture, and promote tumorigenesis through paracrine signaling. Among the myriads of compounds, senotherapeutic drugs have emerged as exceptionally promising candidates in anticancer treatment. Their ability to selectively target senescent cells while sparing healthy tissues represents a paradigm shift in therapeutic intervention, offering new avenues for personalized oncology medicine. Senolytics have introduced new therapeutic possibilities by enabling the targeted removal of senescent cells. As standalone agents, they can clear tumor cells in a senescent state and, when combined with chemo- or radiotherapy, eliminate residual senescent cancer cells after treatment. This dual approach allows for the intentional use of lower-dose therapies or the removal of unintended senescent cells post-treatment. Additionally, by targeting non-cancerous senescent cells, senolytics may help reduce tumor formation risk, limit recurrence, and slow disease progression. This article examines the mechanisms of cellular senescence, its role in cancer treatment, and the importance of senotherapy, with particular attention to the therapeutic potential of senolytic drugs.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.1007/s13402-024-01018-5"
+}

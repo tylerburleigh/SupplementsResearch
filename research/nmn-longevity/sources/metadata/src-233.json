@@ -1,0 +1,22 @@
+{
+  "id": "src-233",
+  "title": "Application of NMRK immobilized enzymes in the synthesis of NMN",
+  "authors": [
+    "Yang, Shan",
+    "Xiang, Ting",
+    "Qian, Jinchun",
+    "Sun, Wei",
+    "Liu, Wenjun",
+    "Yi, Nengwen",
+    "Qin, Zheng-hong"
+  ],
+  "doi": "10.1371/journal.pone.0335646",
+  "url": "https://www.semanticscholar.org/paper/ce489fa6c0587b0050ef57ad816a34767d36cb04",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "PLoS ONE",
+  "citation_count": 0,
+  "abstract": "The purpose of the study is to provide a method for mass production of nicotinamide mononucleotide (NMN) using an immobilized nicotinamide riboside kinase (NMRK). We synthesized a gene sequence comprising the gene encoding the enzyme. At the 3’ end of this NMRK-encoding gene, an optimized cellulose-binding domain (CBD) sequence was linked via a linker-encoding gene segment.Using the pET-32a plasmid as the vector and Escherichia coli BL21(DE3) as the host cell, the recombinant E. coli strain BL21/pET-32a-nmrk-1 was constructed and cultivated. This recombinant strain BL21/pET-32a-nmrk-1 secreted a significantly higher yield of the NMRK enzyme protein (32 mg/mL), and the secreted recombinant NMRK enzyme exhibited superior activity (80 U/g). Activated microcrystalline cellulose was mixed with the crude enzyme solution containing the recombinant NMRK enzyme. Following processing, the immobilized NMRK enzyme was obtained. This immobilized enzyme catalyzed the synthesis of NMN from 0.07 mol/L nicotinamide riboside (NR), achieving a conversion rate of 90% and a purity of 33%. The recombinant NMRK enzyme retained good activity after immobilization onto the carrier, enabling its reuse for more than 10 cycles. The initial activity of the immobilized NMRK enzyme was 540 U/g. After 11 cycles of use, the activity was 390 U/g, representing only a 27.8% decline in activity. This approach enhances the utilization efficiency of the NMRK enzyme while simultaneously reducing the production cost of NMN.",
+  "type": "academic",
+  "pdf_url": ""
+}

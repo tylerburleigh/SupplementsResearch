@@ -1,0 +1,18 @@
+{
+  "id": "src-050",
+  "title": "Remote Health Monitoring in Clinical Trial using Machine Learning Techniques: A Conceptual Framework",
+  "authors": [
+    "Abiodun, T.",
+    "Okunbor, D.",
+    "Osamor, V."
+  ],
+  "doi": "10.1007/s12553-022-00652-z",
+  "url": "https://www.semanticscholar.org/paper/34cedb3ec472503fe6ce5a269fe27934cdd4547d",
+  "provider": "semantic_scholar",
+  "year": 2022,
+  "venue": "Health technology",
+  "citation_count": 9,
+  "abstract": "Monitoring any process is crucial and very necessary, this is to ensure that standard protocols and procedures are strictly adhered to, monitoring clinical trials is not an exception. It is one of the most crucial processes that should be monitored because human subjects are involved. In trying to monitor clinical trial, information and communication technology techniques can be deployed to facilitate the process and hence improve accuracy. This research formulates a new conceptual framework for monitoring clinical trial using Support Vector Machine and Artificial Neural Network classifiers with physiological datasets from a wearable device. The proposed framework prototype consists of data collection module, data transmission module, and data analysis and prediction module. The data analytic and prediction module is the core section of the proposed framework tailored with data analysis. These datasets are preprocessed and transformed and then used to train and test the system, through different experimental analysis including bagging Support Vector Machine (SVM) and Artificial Neural Network (ANN). The outcome of the analysis presents classification into three different categories, such as fit, unfit, and undecided participants. These various classifications are used to determine if a participant should be allowed to continue in the trial or not. This research provides a framework that is useful in monitoring clinical trial remotely, thereby informing the decision-making process of the research team.",
+  "type": "academic",
+  "pdf_url": "https://link.springer.com/content/pdf/10.1007/s12553-022-00652-z.pdf"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "src-097",
+  "title": "Advances of Non-Ionic Surfactant Vesicles (Niosomes) and Their Application in Drug Delivery",
+  "authors": [
+    "Ge, Xuemei",
+    "Wei, Minyan",
+    "He, Suna",
+    "Yuan, Weien"
+  ],
+  "doi": "10.3390/pharmaceutics11020055",
+  "url": "https://openalex.org/W2914096421",
+  "provider": "openalex",
+  "year": 2019,
+  "venue": "Pharmaceutics",
+  "citation_count": 541,
+  "abstract": "Non-Ionic surfactant based vesicles, also known as niosomes, have attracted much attention in pharmaceutical fields due to their excellent behavior in encapsulating both hydrophilic and hydrophobic agents. In recent years, it has been discovered that these vesicles can improve the bioavailability of drugs, and may function as a new strategy for delivering several typical of therapeutic agents, such as chemical drugs, protein drugs and gene materials with low toxicity and desired targeting efficiency. Compared with liposomes, niosomes are much more stable during the formulation process and storage. The required pharmacokinetic properties can be achieved by optimizing components or by surface modification. This novel delivery system is also easy to prepare and scale up with low production costs. In this paper, we summarize the structure, components, formulation methods, quality control of niosome and its applications in chemical drugs, protein drugs and gene delivery.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/1999-4923/11/2/55/pdf?version=1549102036"
+}

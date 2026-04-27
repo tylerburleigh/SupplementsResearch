@@ -1,0 +1,25 @@
+{
+  "id": "src-287",
+  "title": "Unraveling the liver metabolomic profile of ADB-BUTINACA-induced hepatotoxicity",
+  "authors": [
+    "Fan, Yilei",
+    "Huang, Yingyu",
+    "Zhou, Yi",
+    "Xing, Ke",
+    "Tian, Yimei",
+    "Zheng, Siyue",
+    "Sun, Yang",
+    "Huang, Zhongping",
+    "Zhou, Jing",
+    "Wu, Li"
+  ],
+  "doi": "10.1016/j.ecoenv.2024.117375",
+  "url": "https://openalex.org/W4404733513",
+  "provider": "openalex",
+  "year": 2024,
+  "venue": "Ecotoxicology and Environmental Safety",
+  "citation_count": 5,
+  "abstract": "ADB-BUTINACA, as a new psychoactive substance, can induce physical and psychological dependence. However, the systemic biological impact of ADB-BUTINACA on hepatic metabolomics remains uncertain. The metabolic spectrum in rat livers following exposure to three varying doses of ADB-BUTINACA (0.1, 1, and 5 mg/kg·bw) were analyzed using ultra-high-performance liquid chromatography coupled with high-resolution quadrupole-orbitrap mass spectrometry and molecular docking techniques. Non-target metabolomic technology demonstrated that ADB-BUTINACA induced significant changes in 42 metabolites and disturbed 11 metabolic pathways especially the taurine and hypotaurine metabolism, β-alanine metabolism, and arachidonic acid metabolism, implicates the potential for ADB-BUTINACA to induce not merely cardiac dysfunction but also neurological anomalies. Molecular docking into the hepatotoxic targets of ADB-BUTINACA unveiled its potential for competitive binding with pantetheinase. This interaction may disrupt the coenzyme A (CoA) synthesis pathway, resulting in energy and lipid metabolism imbalances, and ultimately causing hepatotoxic effects. Cellular experiments confirmed reduced HepG2 cell viability and elevated reactive oxygen species (ROS) levels in HepG2 and Huh7 cells. These findings align with our metabolomic findings, supporting the hypothesis that ADB-BUTINACA induces hepatotoxicity via oxidative stress, as well as disruptions in energy and lipid metabolism. This work not only broadens the knowledge of ADB-BUTINACA' toxicological profile but also contributes to efforts aimed at diagnosing and preventing ADB-BUTINACA-induced hepatotoxicity.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.1016/j.ecoenv.2024.117375"
+}

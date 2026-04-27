@@ -1,0 +1,20 @@
+{
+  "id": "src-181",
+  "title": "Sulforaphane in Cancer Prevention and Therapy: A State-of-the-Art Review of Epidemiological Evidence, Molecular Mechanisms, and Translational Challenges.",
+  "authors": [
+    "Jang, Jung Yoon",
+    "Kim, Donghwan",
+    "Lee, Na Kyeong",
+    "Im, Eunok",
+    "Kim, Nam Deuk"
+  ],
+  "doi": "10.3390/ijms27042028",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41752163",
+  "provider": "pubmed",
+  "year": 2026,
+  "venue": "International journal of molecular sciences",
+  "citation_count": 0,
+  "abstract": "Sulforaphane (SFN), an aliphatic isothiocyanate derived from cruciferous vegetables such as broccoli, has emerged as a chemopreventive dietary agent. SFN exerts multifaceted anticancer effects through the activation of the nuclear factor erythroid 2-related factor 2 (Nrf2)-antioxidant response element (ARE) pathways, inhibition of histone deacetylases (HDACs) and hypoxia-inducible factor-1α (HIF-1α), and regulation of apoptosis and autophagy. Epidemiological studies have consistently associated cruciferous vegetable intake with reduced cancer risk, while mechanistic research has elucidated the capacity of SFN to modulate redox balance, detoxification pathways, and epigenetic processes. Recent clinical trials have further demonstrated its potential to reduce carcinogenic biomarker levels and support metabolic detoxification. This review integrates evidence from epidemiological observations, molecular mechanisms, and clinical studies to provide a comprehensive understanding of the role of SFN in cancer prevention and therapy. Finally, translational challenges, including limited bioavailability, dose optimization, and standardization of broccoli-derived preparations, are discussed as critical factors for successfully translating SFN therapies from bench to bedside.",
+  "type": "academic",
+  "pdf_url": ""
+}

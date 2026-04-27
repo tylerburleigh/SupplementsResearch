@@ -1,0 +1,29 @@
+{
+  "id": "src-004",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://www.frontiersin.org/journals/endocrinology/articles/10.3389/fendo.2019.00027/full",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-23T22:35:18.501320+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-004.md",
+  "quality_details": {
+    "content_length": 69922,
+    "alpha_ratio": 0.736,
+    "sentence_count": 754,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

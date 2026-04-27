@@ -1,0 +1,24 @@
+{
+  "id": "src-371",
+  "title": "Ferroptosis and gastric cancer: from molecular mechanisms to clinical implications.",
+  "authors": [
+    "Zhao, Hongyu",
+    "Ao, Limei",
+    "Sorina",
+    "Wei, Yuxia",
+    "Yin, Hong Zhen",
+    "Zhang, Nan",
+    "Lee, Xiao Qing",
+    "Du, Feng Li",
+    "Zhou, Gai Lan"
+  ],
+  "doi": "10.3389/fimmu.2025.1581928",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40861444",
+  "provider": "pubmed",
+  "year": 2025,
+  "venue": "Frontiers in immunology",
+  "citation_count": 0,
+  "abstract": "Gastric cancer, one of the leading causes of cancer-related mortality globally, faces challenges in treatment due to limitations in surgery, chemotherapy resistance, and high recurrence rates. Ferroptosis, an iron-dependent form of cell death, induces cell membrane rupture through dysregulated iron metabolism, lipid peroxidation, and the accumulation of reactive oxygen species (ROS), offering a promising therapeutic avenue for gastric cancer treatment. This article systematically explores the core mechanisms of ferroptosis, including iron overload catalyzing lipid peroxidation via the Fenton reaction, dysregulation of antioxidant systems (such as GPX4 and FSP1), and their associations with gastric cancer cell proliferation, metastasis, and resistance. Studies indicate that abnormalities in iron metabolism in gastric cancer cells, such as upregulation of TFR1 and dysregulated ferritin storage, significantly promote ferroptosis sensitivity, while ferroptosis inducers (such as Erastin and RSL3) can enhance chemotherapy sensitivity and reverse resistance by inhibiting GPX4 or system Xc-. Preclinical experiments confirm that targeting ferroptosis-related pathways (such as the USP7/SCD axis and ABCC2-mediated glutathione efflux) effectively inhibits tumor growth and metastasis. However, the dual-edged effect of ferroptosis warrants caution regarding its oxidative damage risk to normal tissues and potential pro-metastatic mechanisms. This article further proposes the potential of ferroptosis biomarkers (such as 4-HNE and GPX4) in early diagnosis and prognosis assessment of gastric cancer and emphasizes the need for precision medicine to optimize ferroptosis-targeted strategies, balancing efficacy and safety. Ferroptosis opens a new avenue for gastric cancer treatment, but its clinical translation still requires in-depth mechanistic exploration and personalized treatment plan design.",
+  "type": "academic",
+  "pdf_url": ""
+}

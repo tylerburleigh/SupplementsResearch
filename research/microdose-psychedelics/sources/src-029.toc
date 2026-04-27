@@ -1,0 +1,24 @@
+10	2	Background
+24	2	Method
+36	2	Results
+41	2	Conclusions
+159	2	Method
+186	2	39 It also allows us to test the role of the
+193	2	Pbo Ip
+230	2	40 The severity of depression will be
+239	2	41 Further,
+248	2	43 Individuals taking psychotropics, opioids,
+764	2	Discussion
+814	2	Supplementary Material
+816	2	Data Availability
+819	2	Author Contributions
+844	2	References
+869	2	7 Anderson T, Petranker R, Rosenbaum D, Weissman CR, Dinh-Williams LA,
+880	2	11 Rootman JM, Kryskow P, Harvey K, Stamets P, Santos-Brault E, Kuypers KPC,
+888	2	14 Rosenbaum D, Weissman C, Anderson T, Petranker R, Dinh-Williams LA, Hui K,
+918	2	25 Anderson T, Petranker R, Christopher A, Rosenbaum D, Weissman C, Dinh-
+929	2	29 Kaertner LS, Steinborn MB, Kettner H, Spriggs MJ, Roseman L, Buchborn T,
+945	2	34 Cavanna F, Muller S, de la Fuente LA, Zamberlan F, Palmucci M, Janeckova L,
+950	2	35 Cavanna F, Muller S, de la Fuente LA, Zamberlan F, Palmucci M, Janeckova L,
+960	2	40 Shabani A, Masoumian S, Zamirinejad S, Hejri M, Pirmorad T, Yaghmaeezadeh
+973	2	45 Griffiths RR, Johnson MW, Carducci MA, Umbricht A, Richards WA, Richards

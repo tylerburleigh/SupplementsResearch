@@ -1,0 +1,15 @@
+{
+  "id": "src-183",
+  "title": "Cooperation between subcellular NAD pools in the maintenance of NAD-dependent processes",
+  "authors": [
+    "Tolås, Ingvill"
+  ],
+  "url": "https://core.ac.uk/works/135012768",
+  "provider": "core",
+  "year": 2018,
+  "venue": "The University of Bergen",
+  "citation_count": 0,
+  "abstract": "Nicotinamide adenine dinucleotide (NAD) is needed as a cofactor in several processes throughout the cell, and its availability is decisive for the activity of many NAD-dependent enzymes. Owing to the membrane barriers in the compartmentalized eukaryotic cell, NAD cannot move freely. Understanding how subcellular NAD pools are established and maintained, as well as how they communicate with each other, is therefore crucial to understanding how NAD dependent processes are regulated in the eukaryotic cell.\n\nIn this study we aimed at determining the role of the hitherto uncharacterized peroxisomal NAD pool. Moreover, we addressed experimentally the question as to how subcellular NAD pools communicate and cooperate upon altered NAD homeostasis. To do so we studied the consequences of excessive NAD+ consumption in the peroxisomes, cytosol or mitochondria using cell lines constitutively expressing the catalytic domain of PARP1 (PARP1cd) targeted to these organelles. The activity of the constructs was confirmed by PAR detection and a 30-40% decline in cellular NAD+ content. The excessive NAD+ consumption in peroxisomes did not severely affect the cellular phenotype, and peroxisomal processes were largely maintained. In line with this, upregulated expression of solute carrier SLC25A17 in these cells suggested that import of NAD+ into peroxisomes was increased to compensate for the excessive consumption. Interestingly, acetylation state of sirtuin targets in various compartments appeared unaltered. Thus, increased import of NAD+ into peroxisomes seemingly occurred without affecting NAD+-dependent deacetylation in other organelles. This is likely facilitated by the observed adjustment of the expression of NAD biosynthetic enzymes, NMNATs, and sirtuins in these cells.\n\nLikewise, excessive NAD+ consumption in the cytosol, and to a lesser extent, mitochondria, was also accompanied by altered expression of NMNATs and sirtuins combined with maintained acetylation state. This indicated that increased local NAD biosynthesis together with altered flux through sirtuins can maintain NAD+-dependent deacetylation despite significantly lowered cellular NAD+ content. In sum, our findings suggest that the maintenance of the peroxisomal pool might be more important than previously assumed. Moreover, we propose the existence of an interorganellar compensatory response capable of shifting the distribution of NAD within the cells upon compartment specific increase in NAD+ consumption. Maintenance of NAD+-dependent signaling in the affected or donating organelle(s) is proposed to occur via altered expression of local NAD producers and consumers",
+  "type": "academic",
+  "pdf_url": "https://core.ac.uk/download/544027786.pdf"
+}

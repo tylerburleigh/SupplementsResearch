@@ -1,0 +1,29 @@
+{
+  "id": "src-022",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://www.focusherb.com/blog/what-is-curcumin-benefits-bioavailability-commercial-uses",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-22T14:32:06.714014+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-022.md",
+  "quality_details": {
+    "content_length": 17112,
+    "alpha_ratio": 0.83,
+    "sentence_count": 101,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

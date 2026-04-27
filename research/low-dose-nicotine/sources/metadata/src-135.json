@@ -1,0 +1,27 @@
+{
+  "id": "src-135",
+  "title": "Novel Role of the SIRT1 in Endocrine and Metabolic Diseases",
+  "authors": [
+    "Lu, Chenxi",
+    "Zhao, Huadong",
+    "Liu, Yanqing",
+    "Yang, Zhi",
+    "Yao, Hairong",
+    "Liu, Tong",
+    "Gou, Tiantian",
+    "Wang, Lı",
+    "Zhang, Juan",
+    "Tian, Ye",
+    "Yang, Yang",
+    "Zhang, Huan"
+  ],
+  "doi": "10.7150/ijbs.78654",
+  "url": "https://openalex.org/W4311863315",
+  "provider": "openalex",
+  "year": 2022,
+  "venue": "International Journal of Biological Sciences",
+  "citation_count": 127,
+  "abstract": "Silent information regulator 1 (SIRT1), a highly conserved NAD<sup>+</sup>-dependent deacetylase, is a cellular regulator that has received extensive attention in recent years and regarded as a sensor of cellular energy and metabolism. The accumulated evidence suggests that SIRT1 is involved in the development of endocrine and metabolic diseases. In a variety of organisms, SIRT1 regulates gene expression through the deacetylation of histone, transcription factors, and lysine residues of other modified proteins including several metabolic and endocrine signal transcription factors, thereby enhancing the therapeutic effects of endocrine and metabolic diseases. These evidences indicate that targeting SIRT1 has promising applications in the treatment of endocrine and metabolic diseases. This review focuses on the role of SIRT1 in endocrine and metabolic diseases. First, we describe the background and structure of SIRT1. Then, we outline the role of SIRT1 in endocrine and metabolic diseases such as hyperuricemia, diabetes, hypertension, hyperlipidemia, osteoporosis, and polycystic ovarian syndrome. Subsequently, the SIRT1 agonists and inhibitors in the above diseases are summarized and future research directions are proposed. Overall, the information presents here may highlight the potential of SIRT1 as a future biomarker and therapeutic target for endocrine and metabolic diseases.",
+  "type": "academic",
+  "pdf_url": "https://www.ijbs.com/v19p0484.pdf"
+}

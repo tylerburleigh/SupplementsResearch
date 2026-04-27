@@ -1,0 +1,32 @@
+{
+  "id": "src-086",
+  "title": "Mitochondrial dysfunction in cell senescence and aging",
+  "authors": [
+    "Miwa, Satomi",
+    "Kashyap, Sonu",
+    "Chini, Eduardo",
+    "von Zglinicki, Thomas"
+  ],
+  "year": 2022,
+  "abstract": "",
+  "doi": "10.1172/jci158447",
+  "url": "https://doi.org/10.1172/jci158447",
+  "pdf_url": "",
+  "venue": "Journal of Clinical Investigation",
+  "citation_count": 872,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-24T12:53:06.583440+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-086.md",
+  "quality_details": {
+    "content_length": 68244,
+    "alpha_ratio": 0.745,
+    "sentence_count": 744,
+    "reasons": []
+  }
+}

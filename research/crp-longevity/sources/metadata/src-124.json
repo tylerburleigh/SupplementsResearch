@@ -1,0 +1,48 @@
+{
+  "id": "src-124",
+  "title": "Aging and chronic inflammation: highlights from a multidisciplinary workshop",
+  "authors": [
+    "Saavedra, Danay",
+    "Añé-Kourí, Ana Laura",
+    "Barzilai, Nir",
+    "Caruso, Calogero",
+    "Cho, Kyung-Hyun",
+    "Fontana, Luigi",
+    "Franceschi, Claudio",
+    "Frasca, Daniela",
+    "Ledón, Nuris",
+    "Niedernhofer, Laura J.",
+    "Pereira, Karla",
+    "Robbins, Paul D.",
+    "Silva, Alexa",
+    "Suarez, Gisela M.",
+    "Berghe, Wim Vanden",
+    "von Zglinicki, Thomas",
+    "Pawelec, Graham",
+    "Lage, Agustín"
+  ],
+  "year": 2023,
+  "abstract": "AbstractAging is a gradual, continuous series of natural changes in biological, physiological, immunological, environmental, psychological, behavioral, and social processes. Aging entails changes in the immune system characterized by a decrease in thymic output of naïve lymphocytes, an accumulated chronic antigenic stress notably caused by chronic infections such as cytomegalovirus (CMV), and immune cell senescence with acquisition of an inflammatory senescence-associated secretory phenotype (SASP). For this reason, and due to the SASP originating from other tissues, aging is commonly accompanied by low-grade chronic inflammation, termed “inflammaging”. After decades of accumulating evidence regarding age-related processes and chronic inflammation, the domain now appears mature enough to allow an integrative reinterpretation of old data. Here, we provide an overview of the topics discussed in a recent workshop “Aging and Chronic Inflammation” to which many of the major players in the field contributed. We highlight advances in systematic measurement and interpretation of biological markers of aging, as well as their implications for human health and longevity and the interventions that can be envisaged to maintain or improve immune function in older people.",
+  "doi": "10.1186/s12979-023-00352-w",
+  "url": "https://doi.org/10.1186/s12979-023-00352-w",
+  "pdf_url": "",
+  "venue": "Immunity &amp; Ageing",
+  "citation_count": 120,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-24T01:10:27.039190+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-124.md",
+  "quality_details": {
+    "content_length": 59300,
+    "alpha_ratio": 0.765,
+    "sentence_count": 519,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "src-080",
+  "title": "The effects of collagen peptide supplementation on body composition, collagen synthesis, and recovery from joint injury and exercise: a systematic review",
+  "authors": [
+    "Khatri, Mishti",
+    "Naughton, Robert J.",
+    "Clifford, Tom",
+    "Harper, Liam D.",
+    "Corr, Liam"
+  ],
+  "year": 2021,
+  "abstract": "AbstractCollagen peptide supplementation (COL), in conjunction with exercise, may be beneficial for the management of degenerative bone and joint disorders. This is likely due to stimulatory effects of COL and exercise on the extracellular matrix of connective tissues, improving structure and load-bearing capabilities. This systematic review aims to evaluate the current literature available on the combined impact of COL and exercise. Following Preferred Reporting Items for Systematic Reviews and Meta-analyses guidelines, a literature search of three electronic databases—PubMed, Web of Science and CINAHL—was conducted in June 2020. Fifteen randomised controlled trials were selected after screening 856 articles. The study populations included 12 studies in recreational athletes, 2 studies in elderly participants and 1 in untrained pre-menopausal women. Study outcomes were categorised into four topics: (i) joint pain and recovery from joint injuries, (ii) body composition, (iii) muscle soreness and recovery from exercise, and (iv) muscle protein synthesis (MPS) and collagen synthesis. The results indicated that COL is most beneficial in improving joint functionality and reducing joint pain. Certain improvements in body composition, strength and muscle recovery were present. Collagen synthesis rates were elevated with 15 g/day COL but did not have a significant impact on MPS when compared to isonitrogenous higher quality protein sources. Exact mechanisms for these adaptations are unclear, with future research using larger sample sizes, elite athletes, female participants and more precise outcome measures such as muscle biopsies and magnetic imagery.",
+  "doi": "10.1007/s00726-021-03072-x",
+  "url": "https://doi.org/10.1007/s00726-021-03072-x",
+  "pdf_url": "",
+  "venue": "Amino Acids",
+  "citation_count": 97,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-19T13:47:46.060662+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-080.md",
+  "quality_details": {
+    "content_length": 59889,
+    "alpha_ratio": 0.726,
+    "sentence_count": 467,
+    "reasons": []
+  }
+}

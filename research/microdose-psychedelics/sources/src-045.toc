@@ -1,0 +1,25 @@
+22	2	Abstract
+589	2	1 Concepts and Sources of Meaning: Introduction and Overview
+591	2	2 Cancer and Meaning: Identity Before and After Cancer Diagnosis
+600	2	5 Creative Sources of Meaning: Engaging in Life via Creativity and Responsibility
+605	2	7 Transitions: Reflections and Hopes for the Future
+1030	2	Discussion
+1238	2	Competing Interests
+1241	2	1 Department of Psychological Medicine, Faculty of Medical and Health Sci-
+1245	2	3 Cancer Support Service, Te Toka Tumai Auckland, Auckland City Hospital, Te
+1260	2	References
+1261	2	1. Holland JC, Andersen B, Breitbart WS, Dabrowski M, Dudley MM, Fleish-
+1327	2	22. Breitbart W, Pessin H, Rosenfeld B, Applebaum AJ, Lichtenthal WG, Li Y,
+1354	2	31. Griffiths RR, Johnson MW, Carducci MA, Umbricht A, Richards WA, Rich-
+1366	2	35. Hutten NRPW, Mason NL, Dolder PC, Theunissen EL, Holze F, Liechti ME,
+1372	2	37. Yanakieva S, Polychroni N, Family N, Williams LTJJ, Luke DP , Terhune
+1376	2	38. Hutten NRPW, Mason NL, Dolder PC, Theunissen EL, Holze F, Liechti
+1408	2	46. Family N, Maillet EL, Williams LTJ, Krediet E, Carhart-Harris RL, Williams
+1414	2	48. Murphy RJ, Sumner RL, Evans W, Menkes D, Lambrecht I, Ponton
+1418	2	49. Kaertner LS, Steinborn MB, Kettner H, Spriggs MJ, Roseman L, Buch-
+1421	2	50. Anderson T, Petranker R, Christopher A, Rosenbaum D, Weissman C,
+1424	2	51. Anderson T, Petranker R, Rosenbaum D, Weissman CR, Dinh-Williams
+1439	2	55. Jacobsen PB, Donovan KA, Trask PC, Fleishman SB, Zabora J, Baker
+1471	2	64. Rosenfeld B, Breitbart W, Galietta M, Kaim M, Funesti-Esch J, Pessin
+1489	2	69. Shedden-Mora MC, Alberts J, Petrie KJ, Laferton JAC, von Blanckenburg
+1510	2	76. Reynolds LM, Akroyd A, Sundram F, Stack A, Muthukumaraswamy S,

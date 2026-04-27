@@ -1,0 +1,17 @@
+3	2	Original Investigation
+23	2	1 School of Pharmacy, Faculty of Medical and Health
+25	2	2 Centre for Psychedelic Research, Division of Psychiatry,
+28	2	3 School of Psychology, Faculty of Science, University of
+30	2	4 Centre for Brain Research, University of Auckland,
+32	2	5 Department of Psychological Medicine, Faculty of Medical
+35	2	Abstract
+300	2	Methods
+434	2	2. Flexibility: the number of different categories of
+436	2	3. Elaboration: the degree to which the participant elabo -
+452	2	Statistical Analysis
+486	2	Results
+487	2	Participants
+643	2	Discussion
+903	2	Limitations
+974	2	References
+1041	2	Conclusions

@@ -1,0 +1,19 @@
+{
+  "id": "src-088",
+  "title": "The Gut Microbial Bile Acid Modulation and Its Relevance to Digestive Health and Diseases",
+  "authors": [
+    "Fogelson, Kelly",
+    "Dorrestein, Pieter C.",
+    "Zarrinpar, Amir",
+    "Knight, Rob"
+  ],
+  "doi": "10.1053/j.gastro.2023.02.022",
+  "url": "https://openalex.org/W4321794491",
+  "provider": "openalex",
+  "year": 2023,
+  "venue": "Gastroenterology",
+  "citation_count": 130,
+  "abstract": "The human gut microbiome has been linked to numerous digestive disorders, but its metabolic products have been much less well characterized, in part due to the expense of untargeted metabolomics and lack of ability to process the data. In this review, we focused on the rapidly expanding information about the bile acid repertoire produced by the gut microbiome, including the impacts of bile acids on a wide range of host physiological processes and diseases, and discussed the role of short-chain fatty acids and other important gut microbiome-derived metabolites. Of particular note is the action of gut microbiome-derived metabolites throughout the body, which impact processes ranging from obesity to aging to disorders traditionally thought of as diseases of the nervous system, but that are now recognized as being strongly influenced by the gut microbiome and the metabolites it produces. We also highlighted the emerging role for modifying the gut microbiome to improve health or to treat disease, including the \"engineered native bacteria'' approach that takes bacterial strains from a patient, modifies them to alter metabolism, and reintroduces them. Taken together, study of the metabolites derived from the gut microbiome provided insights into a wide range of physiological and pathophysiological processes, and has substantial potential for new approaches to diagnostics and therapeutics of disease of, or involving, the gastrointestinal tract.",
+  "type": "academic",
+  "pdf_url": "http://www.gastrojournal.org/article/S0016508523001610/pdf"
+}

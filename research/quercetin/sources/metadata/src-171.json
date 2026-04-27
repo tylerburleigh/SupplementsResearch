@@ -1,0 +1,21 @@
+{
+  "id": "src-171",
+  "title": "Inflammation and aging: signaling pathways and intervention therapies",
+  "authors": [
+    "Li, Xia",
+    "Li, Chentao",
+    "Zhang, Wanying",
+    "Wang, Yanan",
+    "Qian, Pengxu",
+    "Huang, He"
+  ],
+  "doi": "10.1038/s41392-023-01502-8",
+  "url": "https://openalex.org/W4379966446",
+  "provider": "openalex",
+  "year": 2023,
+  "venue": "Signal Transduction and Targeted Therapy",
+  "citation_count": 1174,
+  "abstract": "Aging is characterized by systemic chronic inflammation, which is accompanied by cellular senescence, immunosenescence, organ dysfunction, and age-related diseases. Given the multidimensional complexity of aging, there is an urgent need for a systematic organization of inflammaging through dimensionality reduction. Factors secreted by senescent cells, known as the senescence-associated secretory phenotype (SASP), promote chronic inflammation and can induce senescence in normal cells. At the same time, chronic inflammation accelerates the senescence of immune cells, resulting in weakened immune function and an inability to clear senescent cells and inflammatory factors, which creates a vicious cycle of inflammation and senescence. Persistently elevated inflammation levels in organs such as the bone marrow, liver, and lungs cannot be eliminated in time, leading to organ damage and aging-related diseases. Therefore, inflammation has been recognized as an endogenous factor in aging, and the elimination of inflammation could be a potential strategy for anti-aging. Here we discuss inflammaging at the molecular, cellular, organ, and disease levels, and review current aging models, the implications of cutting-edge single cell technologies, as well as anti-aging strategies. Since preventing and alleviating aging-related diseases and improving the overall quality of life are the ultimate goals of aging research, our review highlights the critical features and potential mechanisms of inflammation and aging, along with the latest developments and future directions in aging research, providing a theoretical foundation for novel and practical anti-aging strategies.",
+  "type": "academic",
+  "pdf_url": "https://www.nature.com/articles/s41392-023-01502-8.pdf"
+}

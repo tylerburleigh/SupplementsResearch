@@ -1,0 +1,23 @@
+{
+  "id": "src-056",
+  "title": "Clinical Effects of Polyphenolic Compounds on Allergic Rhinitis: A Systematic Review and Meta-Analysis.",
+  "authors": [
+    "Lai, Yun-Ru",
+    "Liao, Yi-Hsueh",
+    "Huang, Li",
+    "Linh, Huynh Ba Phuong",
+    "Utami, Fasty Arum",
+    "Giudice, M. M. del",
+    "Ciprandi, Giorgio",
+    "Chen, Yang-Ching"
+  ],
+  "doi": "10.1016/j.jaip.2025.06.032",
+  "url": "https://www.semanticscholar.org/paper/97e450d4e82a88b1ead1b1d386df4385db024153",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "Journal of Allergy and Clinical Immunology: In Practice",
+  "citation_count": 2,
+  "abstract": "BACKGROUND\nPolyphenolic compounds (e.g., catechins or quercetin) may reduce hypersensitivity and allergic symptoms, but clinical evidence remains inconsistent.\n\nOBJECTIVE\nTo evaluate the therapeutic potential of polyphenolic compounds for managing allergic rhinitis (AR).\n\nMETHODS\nA systematic review and meta-analysis of randomized controlled trials assessed the effects of polyphenolic compounds on AR symptoms and quality of life (QoL).\n\nRESULTS\nThirteen RCTs (823 participants) were included: seven enrolling patients with seasonal AR, and six with perennial AR. In seasonal AR, polyphenolic compounds significantly reduced total nasal symptom scores (standardized mean difference [SMD] = 0.75, p = 0.0001; I2 = 52.8%), sneezing (SMD = 0.58, p = 0.0042; I2 = 45.6%), and nasal itching (SMD = 0.54, p = 0.011; I2 = 41.7%). In perennial AR, total nasal symptom scores improved, while individual symptoms were inconclusive. The combined analysis of seasonal and perennial AR, along with a sensitivity analysis excluding two outlier trials, yielded a more conservative and robust estimate, showing reductions in total nasal symptom scores (SMD = 0.73, p < 0.0001; I2 = 38.1%), nasal obstruction (SMD = 0.50; p = 0.0003; I2 = 36.4%), and sneezing (SMD = 0.57; p < 0.0001; I2 = 25.7%). Overall certainty of evidence for key nasal symptom outcomes was low to very low due to inconsistency and risk of bias. Effects on QoL were not significant.\n\nCONCLUSION\nPolyphenolic compounds may serve as a complementary option for alleviating nasal symptoms in patients with AR, but findings should be interpreted cautiously. Future large-scale, rigorous RCTs are needed.",
+  "type": "academic",
+  "pdf_url": ""
+}

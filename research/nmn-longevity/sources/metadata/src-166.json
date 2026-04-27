@@ -1,0 +1,16 @@
+{
+  "id": "src-166",
+  "title": "Emerging therapeutic roles for NAD+ metabolism in mitochondrial and age-related disorders",
+  "authors": [
+    "Srivastava, Sarika"
+  ],
+  "doi": "10.1186/s40169-016-0104-7",
+  "url": "https://doi.org/10.1186/s40169-016-0104-7",
+  "provider": "core",
+  "year": 2016,
+  "venue": "Clinical and Translational Medicine",
+  "citation_count": 0,
+  "abstract": "Nicotinamide adenine dinucleotide (NAD(+)) is a central metabolic cofactor in eukaryotic cells that plays a critical role in regulating cellular metabolism and energy homeostasis. NAD(+) in its reduced form (i.e. NADH) serves as the primary electron donor in mitochondrial respiratory chain, which involves adenosine triphosphate production by oxidative phosphorylation. The NAD(+)/NADH ratio also regulates the activity of various metabolic pathway enzymes such as those involved in glycolysis, Kreb’s cycle, and fatty acid oxidation. Intracellular NAD(+) is synthesized de novo from l-tryptophan, although its main source of synthesis is through salvage pathways from dietary niacin as precursors. NAD(+) is utilized by various proteins including sirtuins, poly ADP-ribose polymerases (PARPs) and cyclic ADP-ribose synthases. The NAD(+) pool is thus set by a critical balance between NAD(+) biosynthetic and NAD(+) consuming pathways. Raising cellular NAD(+) content by inducing its biosynthesis or inhibiting the activity of PARP and cADP-ribose synthases via genetic or pharmacological means lead to sirtuins activation. Sirtuins modulate distinct metabolic, energetic and stress response pathways, and through their activation, NAD(+) directly links the cellular redox state with signaling and transcriptional events. NAD(+) levels decline with mitochondrial dysfunction and reduced NAD(+)/NADH ratio is implicated in mitochondrial disorders, various age-related pathologies as well as during aging. Here, I will provide an overview of the current knowledge on NAD(+) metabolism including its biosynthesis, utilization, compartmentalization and role in the regulation of metabolic homoeostasis. I will further discuss how augmenting intracellular NAD(+) content increases oxidative metabolism to prevent bioenergetic and functional decline in multiple models of mitochondrial diseases and age-related disorders, and how this knowledge could be translated to the clinic for human relevance",
+  "type": "academic",
+  "pdf_url": "https://core.ac.uk/download/pdf/81539178.pdf"
+}

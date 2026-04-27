@@ -1,0 +1,29 @@
+{
+  "id": "src-212",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "http://infoscience.epfl.ch/record/276079",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-20T20:48:40.609780+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-212.md",
+  "quality_details": {
+    "content_length": 1273,
+    "alpha_ratio": 0.778,
+    "sentence_count": 8,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

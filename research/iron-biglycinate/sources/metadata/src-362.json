@@ -1,0 +1,23 @@
+{
+  "id": "src-362",
+  "title": "Redefining Iron Deficiency in Patients With Chronic Heart Failure.",
+  "authors": [
+    "Packer, Milton",
+    "Anker, Stefan D",
+    "Butler, Javed",
+    "Cleland, John G F",
+    "Kalra, Paul R",
+    "Mentz, Robert J",
+    "Ponikowski, Piotr",
+    "Talha, Khawaja M"
+  ],
+  "doi": "10.1161/circulationaha.124.068883",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38733252",
+  "provider": "pubmed",
+  "year": 2024,
+  "venue": "Circulation",
+  "citation_count": 0,
+  "abstract": "A serum ferritin level <15 to 20 μg/L historically identified patients who had absent bone marrow iron stores, but serum ferritin levels are distorted by the systemic inflammatory states seen in patients with chronic kidney disease or heart failure. As a result, nearly 25 years ago, the diagnostic ferritin threshold was increased 5- to 20-fold in patients with chronic kidney disease (ie, iron deficiency was identified if the serum ferritin level was <100 μg/L, regardless of transferrin saturation [TSAT], or 100 to 299 μg/L if TSAT was <20%). This guidance was motivated not by the findings of studies of total body or tissue iron depletion, but by a desire to encourage the use of iron supplements to potentiate the response to erythropoiesis-stimulating agents in patients with renal anemia. However, in patients with heart failure, this definition does not reliably identify patients with an absolute or functional iron-deficiency state, and it includes individuals with TSATs (≥20%) and serum ferritin levels in the normal range (20-100 mg/L) who are not iron deficient, have an excellent prognosis, and do not respond favorably to iron therapy. Furthermore, serum ferritin levels may be distorted by the use of both neprilysin and sodium-glucose cotransporter 2 inhibitors, both of which may act to mobilize endogenous iron stores. The most evidence-based and trial-tested definition of iron deficiency is the presence of hypoferremia, as reflected by as a TSAT <20%. These hypoferremic patients are generally iron deficient on bone marrow examination, and after intravenous iron therapy, they exhibit an improvement in exercise tolerance and functional capacity (when meaningfully impaired) and show the most marked reduction (ie, 20%-30%) in the risk of cardiovascular death or total heart failure hospitalizations. Therefore, we propose that the current ferritin-driven definition of iron deficiency in heart failure should be abandoned and that a definition based on hypoferremia (TSAT <20%) should be adopted.",
+  "type": "academic",
+  "pdf_url": ""
+}

@@ -1,0 +1,17 @@
+{
+  "id": "src-147",
+  "title": "Homocysteine and Vascular Disease: Nature or Nurture?",
+  "authors": [
+    "Meleady, R.",
+    "Graham, Ian"
+  ],
+  "doi": "10.1177/174182679800500405",
+  "url": "https://openalex.org/W2162687535",
+  "provider": "openalex",
+  "year": 1998,
+  "venue": "European Journal of Cardiovascular Prevention & Rehabilitation",
+  "citation_count": 15,
+  "abstract": "There is now abundant evidence that elevated plasma total homocysteine is a risk factor for vascular disease in general and for cardiovascular disease in particular. Plasma concentrations of homocysteine are modulated by both genetic and environmental factors, among which inherited enzymatic defects and nutritional deficiencies respectively, are probably the most important. Other environmental factors such as smoking, also influence plasma homocysteine concentrations. The role of nutritional and other environmental factors had been underestimated until recently, when a final examination of the contribution of inherited defects became possible with the advent of DNA isolation and sequencing of large population samples. There is now consistent evidence from many studies that plasma homocysteine levels are inversely correlated with plasma folate, pyridoxal 5'-phosphate and cobalamin levels. This finding, together with that of significant lowering of homocysteine levels achieved with folate supplementation, constitutes a basis for optimism in reducing cardiovascular risk. As yet, no randomised control trial has been carried out to test this hypothesis.",
+  "type": "academic",
+  "pdf_url": "https://academic.oup.com/eurjpc/article-pdf/5/4/233/34344773/eurjpc0233.pdf"
+}

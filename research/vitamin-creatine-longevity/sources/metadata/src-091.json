@@ -1,0 +1,35 @@
+{
+  "id": "src-091",
+  "title": "Tangeretin offers neuroprotection against colchicine-induced memory impairment in Wistar rats by modulating the antioxidant milieu, inflammatory mediators and oxidative stress in the brain tissue",
+  "authors": [
+    "Ogunro, Olalekan Bukunmi",
+    "Karigidi, Mojisola Esther",
+    "Gyebi, Gideon Ampoma",
+    "Turkistani, Areej",
+    "Almehmadi, Ahmad H."
+  ],
+  "year": 2025,
+  "abstract": "",
+  "doi": "10.1186/s12906-025-04769-2",
+  "url": "https://doi.org/10.1186/s12906-025-04769-2",
+  "pdf_url": "",
+  "venue": "BMC Complementary Medicine and Therapies",
+  "citation_count": 8,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T13:46:05.825126+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-091.md",
+  "quality_details": {
+    "content_length": 84610,
+    "alpha_ratio": 0.751,
+    "sentence_count": 753,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

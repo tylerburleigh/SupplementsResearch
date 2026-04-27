@@ -1,0 +1,19 @@
+{
+  "id": "src-136",
+  "title": "FXR as a pivotal role linking JNK and G0s2 mitigates triptolide-induced hepatotoxicity through the regulation of metabolic disorder of liver.",
+  "authors": [
+    "Li, Qinmei",
+    "Huang, Jianfeng",
+    "Zhao, Qi",
+    "Li, Fei"
+  ],
+  "doi": "10.1016/j.phrs.2025.107738",
+  "url": "https://www.semanticscholar.org/paper/e273d4650553ce0f84d0143b7a8d15892a38ee16",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "Pharmacological Research",
+  "citation_count": 6,
+  "abstract": "Triptolide (TP), as a principal bioactive compound derived from Tripterygium wilfordii Hook. f., exhibits significant anti-tumor, anti-inflammatory, and immunomodulatory properties. However, the serious adverse reactions and hepatotoxicity of TP limit its clinical application. Therefore, in this study, an intraperitoneal injection was employed to establish a TP-induced hepatotoxicity model, characterized by elevated levels of transaminases (AST and ALT) and metabolic disorders. The administration of the JNK inhibitor SP600125 effectively mitigated the elevated transaminases and inflammation induced by TP. The resistance of SP600125 to metabolic disturbances induced by TP was contingent upon Fxr, as demonstrated through the use of Fxr knockout mice. Supplementation of GW4064 restored the concentrations of bile acids, long-chain fatty acids, and carnitine disrupted by TP. Transcriptomic data suggested that G0s2 was one of the genes most severely disrupted by TP, and the ameliorative effects of SP600125 and GW4064 were accompanied by the upregulation of G0s2. The expression of G0s2 was disrupted by siRNA in vitro, thereby intensifying the cytotoxicity of TP. A comparative analysis of the impact of TP on the G0s2 gene in two mouse models revealed that a smaller reduction in wild-type mice compared to Fxr-/- mice, indicating that Fxr mitigates the inhibitory effect of TP on G0s2. The aberrant JNK/Fxr/G0s2 signaling plays a key role in TP-induced hepatotoxicity. Targeting Fxr might be a potential strategy for alleviating the liver toxicity of TP.",
+  "type": "academic",
+  "pdf_url": ""
+}

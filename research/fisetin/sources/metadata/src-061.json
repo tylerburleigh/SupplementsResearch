@@ -1,0 +1,39 @@
+{
+  "id": "src-061",
+  "title": "Fisetin: hormesis accounts for many of its chemoprotective effects",
+  "authors": [
+    "Calabrese, Edward J.",
+    "Pressman, Peter",
+    "Hayes, A. Wallace",
+    "Agathokleous, Evgenios",
+    "Dhawan, Gaurav",
+    "Kapoor, Rachna",
+    "Parmar, Japjee",
+    "Mssillou, Ibrahim",
+    "Calabrese, Vittorio"
+  ],
+  "year": 2025,
+  "abstract": "",
+  "doi": "10.1007/s10522-025-10230-1",
+  "url": "https://doi.org/10.1007/s10522-025-10230-1",
+  "pdf_url": "",
+  "venue": "Biogerontology",
+  "citation_count": 6,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-24T12:48:38.988604+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-061.md",
+  "quality_details": {
+    "content_length": 31908,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

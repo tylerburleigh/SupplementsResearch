@@ -1,0 +1,20 @@
+{
+  "id": "src-164",
+  "title": "Vitamins and Minerals for Energy, Fatigue and Cognition: A Narrative Review of the Biochemical and Clinical Evidence",
+  "authors": [
+    "Tardy, Anne-Laure",
+    "Pouteau, Etienne",
+    "Márquez, Daniel",
+    "Yilmaz, Cansu",
+    "Scholey, Andrew"
+  ],
+  "doi": "10.3390/nu12010228",
+  "url": "https://openalex.org/W3000061404",
+  "provider": "openalex",
+  "year": 2020,
+  "venue": "Nutrients",
+  "citation_count": 488,
+  "abstract": "Vitamins and minerals are essential to humans as they play essential roles in a variety of basic metabolic pathways that support fundamental cellular functions. In particular, their involvement in energy-yielding metabolism, DNA synthesis, oxygen transport, and neuronal functions makes them critical for brain and muscular function. These, in turn, translate into effects on cognitive and psychological processes, including mental and physical fatigue. This review is focused on B vitamins (B1, B2, B3, B5, B6, B8, B9 and B12), vitamin C, iron, magnesium and zinc, which have recognized roles in these outcomes. It summarizes the biochemical bases and actions of these micronutrients at both the molecular and cellular levels and connects them with cognitive and psychological symptoms, as well as manifestations of fatigue that may occur when status or supplies of these micronutrients are not adequate.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2072-6643/12/1/228/pdf"
+}

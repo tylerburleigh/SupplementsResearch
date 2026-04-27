@@ -1,0 +1,26 @@
+{
+  "id": "src-366",
+  "title": "Drug Interaction Potential of Osilodrostat (LCI699) Based on Its Effect on the Pharmacokinetics of Probe Drugs of Cytochrome P450 Enzymes in Healthy Adults",
+  "authors": [
+    "Armani, S.",
+    "Ting, Lillian S. L.",
+    "Sauter, N.",
+    "Darstein, C.",
+    "Tripathi, A.",
+    "Wang, Lai",
+    "Zhu, B.",
+    "Gu, Helen",
+    "Chun, D. Y.",
+    "Einolf, H.",
+    "Kulkarni, S."
+  ],
+  "doi": "10.1007/s40261-017-0497-0",
+  "url": "https://www.semanticscholar.org/paper/fae9c01186ffac1b7aa53c3ab74385167591c126",
+  "provider": "semantic_scholar",
+  "year": 2017,
+  "venue": "Clinical drug investigation",
+  "citation_count": 30,
+  "abstract": "Background and ObjectivesOsilodrostat (LCI699) is an adrenal steroidogenesis inhibitor currently in late-phase clinical development as a potential treatment for Cushing’s disease. This study evaluated the inhibitory effect of osilodrostat on the pharmacokinetics of probe substrates of the cytochrome P450 (CYP) enzymes CYP1A2, CYP2C19, CYP2D6, and CYP3A4.MethodsHealthy adult volunteers received single-dose cocktail probe substrates [caffeine (100 mg), omeprazole (20 mg), dextromethorphan (30 mg), and midazolam (2 mg)] followed by a 6-day washout. Subjects then received a single dose of osilodrostat 50 mg followed by a single dose of cocktail probe substrates.ResultsNineteen of twenty subjects (ten were male) completed the study. Mean age, body weight, and body mass index were 41.8 years, 73.0 kg, and 24.4 kg/m2. Geometric mean ratio of the area under the concentration-time curve from time zero to the last measureable concentration and 90% confidence intervals of probe substrate exposure with osilodrostat were: caffeine (CYP1A2 probe substrate), 2.33 (2.10–2.59); omeprazole (CYP2C19), 1.91 (1.74–2.11); dextromethorphan (CYP2D6), 1.48 (1.34–1.63); and midazolam (CYP3A4/5), 1.50 (1.41–1.60). Corresponding values for geometric mean ratio of maximum plasma concentration (90% confidence interval) for the change in substrate exposure were 1.07 (0.988–1.15), 1.61 (1.40–1.84), 1.35 (1.21–1.50), and 1.47 (1.32–1.62).ConclusionsOsilodrostat is a moderate inhibitor of CYP1A2 and CYP2C19 and a weak inhibitor of CYP2D6 and the most clinically important CYP enzyme, CYP3A4. Osilodrostat is unlikely to significantly increase the exposures of other medications cleared by CYP3A4. These findings are clinically relevant given that Cushing’s disease is a chronic condition often requiring multiple medications and that most other therapies have significant drug interaction potential.",
+  "type": "academic",
+  "pdf_url": "https://link.springer.com/content/pdf/10.1007%2Fs40261-017-0497-0.pdf"
+}

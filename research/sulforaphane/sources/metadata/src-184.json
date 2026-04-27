@@ -1,0 +1,23 @@
+{
+  "id": "src-184",
+  "title": "Hormesis determines lifespan.",
+  "authors": [
+    "Calabrese, Edward J",
+    "Nascarella, Marc",
+    "Pressman, Peter",
+    "Hayes, A Wallace",
+    "Dhawan, Gaurav",
+    "Kapoor, Rachna",
+    "Calabrese, Vittorio",
+    "Agathokleous, Evgenios"
+  ],
+  "doi": "10.1016/j.arr.2023.102181",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38182079",
+  "provider": "pubmed",
+  "year": 2024,
+  "venue": "Ageing research reviews",
+  "citation_count": 0,
+  "abstract": "This paper addresses how long lifespan can be extended via multiple interventions, such as dietary supplements [e.g., curcumin, resveratrol, sulforaphane, complex phytochemical mixtures (e.g., Moringa, Rhodiola)], pharmaceutical agents (e.g., metformin), caloric restriction, intermittent fasting, exercise and other activities. This evaluation was framed within the context of hormesis, a biphasic dose response with specific quantitative features describing the limits of biological/phenotypic plasticity for integrative biological endpoints (e.g., cell proliferation, memory, fecundity, growth, tissue repair, stem cell population expansion/differentiation, longevity). Evaluation of several hundred lifespan extending agents using yeast, nematode (Caenorhabditis elegans), multiple insect and other invertebrate and vertebrate models (e.g., fish, rodents), revealed they responded in a manner [average (mean/median) and maximum lifespans] consistent with the quantitative features [i.e., 30-60% greater at maximum (Hormesis Rule)] of the hormetic dose response. These lifespan extension features were independent of biological model, inducing agent, endpoints measured and mechanism. These findings indicate that hormesis describes the capacity to extend life via numerous agents and activities and that the magnitude of lifespan extension is modest, in the percentage, not fold, range. These findings have important implications for human aging, genetic diseases/environmental stresses and lifespan extension, as well as public health practices and long-term societal resource planning.",
+  "type": "academic",
+  "pdf_url": ""
+}

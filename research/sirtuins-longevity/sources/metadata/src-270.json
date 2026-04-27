@@ -1,0 +1,34 @@
+{
+  "id": "src-270",
+  "title": "The Biochemistry of Sirtuins",
+  "authors": [
+    "Sauve, Anthony A.",
+    "Wolberger, Cynthia",
+    "Schramm, Vern L.",
+    "Boeke, Jef D."
+  ],
+  "year": 2006,
+  "abstract": "Sirtuins are a family of NAD+-dependent protein deacetylases widely distributed in all phyla of life. Accumulating evidence indicates that sirtuins are important regulators of organism life span. In yeast, these unique enzymes regulate gene silencing by histone deacetylation and via formation of the novel compound 2′-O-acetyl-ADP-ribose. In multicellular organisms, sirtuins deacetylate histones and transcription factors that regulate stress, metabolism, and survival pathways. The chemical mechanism of sirtuins provides novel opportunities for signaling and metabolic regulation of protein deacetylation. The biological, chemical, and structural characteristics of these unusual enzymes are discussed in this review.",
+  "doi": "10.1146/annurev.biochem.74.082803.133500",
+  "url": "https://doi.org/10.1146/annurev.biochem.74.082803.133500",
+  "pdf_url": "",
+  "venue": "Annual Review of Biochemistry",
+  "citation_count": 655,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-23T11:22:45.673996+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-270.md",
+  "quality_details": {
+    "content_length": 3700,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

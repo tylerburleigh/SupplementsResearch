@@ -1,0 +1,26 @@
+{
+  "id": "src-156",
+  "title": "Resveratrol induces ferroptosis in triple-negative breast cancer through NEDD4L-mediated GPX4 ubiquitination and degradation.",
+  "authors": [
+    "Zhang, Erhao",
+    "Wang, Yichao",
+    "Zhang, Hongli",
+    "Li, Xiaomin",
+    "Su, Yijing",
+    "Cui, Jianan",
+    "Xu, Rui",
+    "Mao, Xue",
+    "Sang, Mengmeng",
+    "Lin, Zenghua",
+    "Zhou, Xiaorong"
+  ],
+  "doi": "10.1016/j.freeradbiomed.2025.04.052",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40316059",
+  "provider": "pubmed",
+  "year": 2025,
+  "venue": "Free radical biology & medicine",
+  "citation_count": 0,
+  "abstract": "Triple-negative breast cancer (TNBC) has no expression on estrogen receptor (ER), progesterone receptor (PR) and human epidermal growth factor receptor 2 (HER2), resulting in an ineffective treatment using current therapeutic therapies. As a heterogeneous disease, the notable refractory, high recurrence rate and unfavorable prognosis facilitate some researches to further elaborate novel insights into the biology of TNBC and formulate the precision treatment. Ferroptosis is a unique regulated-cell-death modality characterized by the excessive accumulation of the lipid peroxides on cellular membranes in an iron-dependent manner. Resveratrol (RES), a natural antioxidant that possesses biological activities, has various potential benefits for many diseases through regulating the cell activity. RES has been reported to markedly inhibit the tumor progression, yet its role in ferroptosis pathway of TNBC and the underlying mechanism remain unclear. In this study, we found that RES suppressed cell viabilities, consisting of cell migration, cell colony formation, and induced the cell apoptosis, along with mitochondrial structure damage, intracellular iron overload, increasing reactive oxygen species (ROS) and lipid peroxidation accumulation, malondialdehyde (MDA) production, and glutathione (GSH) depletion, interestingly, which was reversed by ferroptosis inhibitors. Next, the protein level of GPX4 was significantly suppressed in RES-treated TNBC cells in vitro and in vivo, facilitating the cancer cell ferroptosis. Our data confirm that RES suppresses GPX4 protein by increasing the NEDD4L-mediated ubiquitination attributed from the enhanced interactions between NEDD4L and GPX4 through the inhibition of the ERK1/2/SGK1/NEDD4L/GPX4 pathway in vitro and in vivo. In conclusion, our study identified the mechanism by which RES could exert ferroptosis in TNBC, finally providing a novel strategy for TNBC treatment.",
+  "type": "academic",
+  "pdf_url": ""
+}

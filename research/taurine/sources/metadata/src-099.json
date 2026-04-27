@@ -1,0 +1,20 @@
+{
+  "id": "src-099",
+  "title": "The contradictory role of branched-chain amino acids in lifespan and insulin resistance",
+  "authors": [
+    "He, Yao",
+    "Li, Kai",
+    "Wei, Jie",
+    "Lin, Yajun",
+    "Liu, Yinghua"
+  ],
+  "doi": "10.3389/fnut.2023.1189982",
+  "url": "https://openalex.org/W4381335093",
+  "provider": "openalex",
+  "year": 2023,
+  "venue": "Frontiers in Nutrition",
+  "citation_count": 36,
+  "abstract": "Branched-chain amino acids (BCAAs; a mixture of leucine, valine and isoleucine) have important regulatory effects on glucose and lipid metabolism, protein synthesis and longevity. Many studies have reported that circulating BCAA levels or dietary intake of BCAAs is associated with longevity, sarcopenia, obesity, and diabetes. Among them, the influence of BCAAs on aging and insulin resistance often present different benefits or harmful effects in the elderly and in animals. Considering the nonobvious correlation between circulating BCAA levels and BCAA uptake, as well as the influence of diseases, diet and aging on the body, some of the contradictory conclusions have been drawn. The regulatory mechanism of the remaining contradictory role may be related to endogenous branched-chain amino acid levels, branched-chain amino acid metabolism and mTOR-related autophagy. Furthermore, the recent discovery that insulin resistance may be independent of longevity has expanded the research thinking related to the regulatory mechanism among the three. However, the negative effects of BCAAs on longevity and insulin resistance were mostly observed in high-fat diet-fed subjects or obese individuals, while the effects in other diseases still need to be studied further. In conclusion, there is still no definite conclusion on the specific conditions under which BCAAs and insulin resistance extend life, shorten life, or do not change lifespan, and there is still no credible and comprehensive explanation for the different effects of BCAAs and insulin resistance on lifespan.",
+  "type": "academic",
+  "pdf_url": "https://www.frontiersin.org/articles/10.3389/fnut.2023.1189982/pdf"
+}

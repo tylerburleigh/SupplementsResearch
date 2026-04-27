@@ -1,0 +1,46 @@
+35	2	Keywords
+37	2	Open Access
+38	2	Edited By
+41	2	Reviewed By
+55	2	Citation
+63	2	Copyright
+86	2	1 Introduction
+148	2	2 Materials and methods
+152	3	2.1 Data retrieval and literature search
+165	3	2.2 Inclusion and exclusion criteria
+183	3	2.3 Study outcomes
+192	3	2.4 Data extraction
+205	3	2.5 Quality assessment and publication bias
+218	3	2.6 Statistical analysis
+235	2	3 Results
+236	3	3.1 Search results
+250	3	3.2 Study characteristics
+261	2	7 RCTs between the effects of vitamin D and standard of care,
+286	3	3.3 Risk of bias and quality assessment
+310	3	3.4 Results of meta-analysis
+316	4	3.4.1 ICU admission
+340	4	3.4.2 Mechanical ventilation
+352	2	Covid
+385	2	127 Standard-Dose:
+407	2	269 Standard of care Until
+426	2	26 Standard of care Until
+447	2	44 Moderate-Dose:
+448	2	2000 IU of
+496	2	99 Placebo Until
+541	2	Covid
+574	2	103 Placebo Until
+592	2	118 Placebo Until
+611	2	24 Placebo Until
+629	2	33 Standard of care
+677	2	58 Standard dose of
+710	2	44 Moderate-Dose:
+736	4	3.4.3 Mortality
+758	4	3.4.4 Length of hospitalization
+785	2	Covid
+841	3	3.5 Sensitivity analysis
+846	2	4 Discussion
+912	2	Icu
+1160	2	5 Conclusion
+1181	2	Author Contributions
+1213	2	Supplementary Material
+1217	2	References

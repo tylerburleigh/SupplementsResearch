@@ -1,0 +1,30 @@
+{
+  "id": "src-019",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://cunninghamclinicstore.com/product/biote-senolytic-complex-30-capsules",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-24T12:44:36.303367+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-019.md",
+  "quality_details": {
+    "content_length": 349,
+    "alpha_ratio": 0.797,
+    "sentence_count": 0,
+    "reasons": [
+      "content too short (349 chars < 500)",
+      "few sentences detected (0 < 3)"
+    ]
+  }
+}

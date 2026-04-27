@@ -1,0 +1,18 @@
+{
+  "id": "src-261",
+  "title": "Dietary phenolics: chemistry, bioavailability and effects on health",
+  "authors": [
+    "Crozier, Alan",
+    "Jaganath, Indu Bala",
+    "Clifford, Michael N."
+  ],
+  "doi": "10.1039/b802662a",
+  "url": "https://openalex.org/W2163388941",
+  "provider": "openalex",
+  "year": 2009,
+  "venue": "Natural Product Reports",
+  "citation_count": 1935,
+  "abstract": "There is much epidemiological evidence that diets rich in fruit and vegetables can reduce the incidence of non-communicable diseases such as cardiovascular diseases, diabetes, cancer and stroke. These protective effects are attributed, in part, to phenolic secondary metabolites. This review summarizes the chemistry, biosynthesis and occurrence of the compounds involved, namely the C6-C3-C6 flavonoids-anthocyanins, dihydrochalcones, flavan-3-ols, flavanones, flavones, flavonols and isoflavones. It also includes tannins, phenolic acids, hydroxycinnamates and stilbenes and the transformation of plant phenols associated with food processing (for example, production of black tea, roasted coffee and matured wines), these latter often being the major dietary sources. Events that occur following ingestion are discussed, in particular, the deglycosylation, glucuronidation, sulfation and methylation steps that occur at various points during passage through the wall of the small intestine into the circulatory system and subsequent transport to the liver in the portal vein.We also summarise the fate of compounds that are not absorbed in the small intestine, but which pass into the large intestine where they are degraded by the colonic microflora to phenolic acids, which can be absorbed into the circulatory system and subjected to phase II metabolism prior to excretion. Initially, the protective effect of dietary phenolics was thought to be due to their antioxidant properties which resulted in a lowering of the levels of free radicals within the body.However, there is now emerging evidence that themetabolites of dietary phenolics,which appear in the circulatory systemin nmol/L to low mmol/L concentrations, exertmodulatory effects in cells through selective actions on different components of the intracellular signalling cascades vital for cellular functions such as growth, proliferation and apoptosis. In addition, the intracellular concentrations required to affect cell signalling pathways are considerably lower than those required to impact on antioxidant capacity. The mechanisms underlying these processes are discussed.",
+  "type": "academic",
+  "pdf_url": ""
+}

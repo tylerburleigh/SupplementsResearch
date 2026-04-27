@@ -1,0 +1,21 @@
+{
+  "id": "src-180",
+  "title": "Senolytic Prodrugs: A Promising Approach to Enhancing Senescence‐Targeting Intervention",
+  "authors": [
+    "Chang, Mengyang",
+    "Dong, Yue",
+    "Cruickshank-Taylor, Alexis B.",
+    "Gnawali, Giri",
+    "Bi, Fangchao",
+    "Wang, Wei"
+  ],
+  "doi": "10.1002/cbic.202400355",
+  "url": "https://www.semanticscholar.org/paper/eb702756098fbe5bba58ae2e834826da990548cd",
+  "provider": "semantic_scholar",
+  "year": 2024,
+  "venue": "ChemBioChem",
+  "citation_count": 11,
+  "abstract": "Cellular senescence has emerged as a potential therapeutic target for aging and a wide range of age‐related disorders. Despite the encouraging therapeutic impact of senolytic agents on improving lifespan and the outcomes of pharmacological intervention, the senolytic induced side effects pose barriers to clinical application. There is a pressing need for selective ablation of senescent cells (SnCs). The design of senolytic prodrugs has been demonstrated as a promising approach to addressing these issues. These prodrugs are generally designed via modification of senolytics with a cleavable galactose moiety to respond to the senescent biomarker ‐ senescence‐associated β‐galactosidase (SA‐β‐gal) to restore their therapeutic effects. In this Concept, we summarize the developments by categorizing these prodrugs into two classes: 1) galactose‐modified senolytic prodrugs, in which sensing unit galactose is either directly conjugated to the drug or via a self‐immolative linker and 2) bioorthogonal activation of senolytic prodrugs. In the bioorthogonal prodrug design, galactose is incorporated into dihydrotetrazine to sense SA‐β‐gal for click activation. Notably, in addition to repurposed chemotherapeutics and small molecule inhibitors, PROTACs and photodynamic therapy have been introduced as new senolytics in the prodrug design. It is expected that the senolytic prodrugs would facilitate translating small‐molecule senolytics into clinical use.",
+  "type": "academic",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/cbic.202400355"
+}

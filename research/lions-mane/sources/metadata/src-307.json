@@ -1,0 +1,22 @@
+{
+  "id": "src-307",
+  "title": "Antioxidant Therapy in Inflammatory Bowel Diseases: How Far Have We Come and How Close Are We?",
+  "authors": [
+    "Xavier, Lylian Ellen Militão dos Santos",
+    "Reis, T.",
+    "Martins, Amylly Sanuelly da Paz",
+    "Santos, Juliana Célia de Farias",
+    "Bueno, Nassib Bezerra",
+    "Goulart, Marília Oliveira Fonseca",
+    "Moura, Fabiana Andréa"
+  ],
+  "doi": "10.3390/antiox13111369",
+  "url": "https://openalex.org/W4404283246",
+  "provider": "openalex",
+  "year": 2024,
+  "venue": "Antioxidants",
+  "citation_count": 3,
+  "abstract": "Inflammatory bowel diseases (IBD) pose a growing public health challenge with unclear etiology and limited efficacy of traditional pharmacological treatments. Alternative therapies, particularly antioxidants, have gained scientific interest. This systematic review analyzed studies from MEDLINE, Cochrane, Web of Science, EMBASE, and Scopus using keywords like \"Inflammatory Bowel Diseases\" and \"Antioxidants.\" Initially, 925 publications were identified, and after applying inclusion/exclusion criteria-covering studies from July 2015 to June 2024 using murine models or clinical trials in humans and evaluating natural or synthetic substances affecting oxidative stress markers-368 articles were included. This comprised 344 animal studies and 24 human studies. The most investigated antioxidants were polyphenols and active compounds from medicinal plants (n = 242; 70.3%). The review found a strong link between oxidative stress and inflammation in IBD, especially in studies on nuclear factor kappa B and nuclear factor erythroid 2-related factor 2 pathways. However, it remains unclear whether inflammation or oxidative stress occurs first in IBD. Lipid peroxidation was the most studied oxidative damage, followed by DNA damage. Protein damage was rarely investigated. The relationship between antioxidants and the gut microbiota was examined in 103 animal studies. Human studies evaluating oxidative stress markers were scarce, reflecting a major research gap in IBD treatment. PROSPERO registration: CDR42022335357 and CRD42022304540.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.3390/antiox13111369"
+}

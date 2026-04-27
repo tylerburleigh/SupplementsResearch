@@ -1,0 +1,26 @@
+{
+  "id": "src-129",
+  "title": "Association of iron status with all-cause and cause-specific mortality in individuals with diabetes.",
+  "authors": [
+    "Shen, Chongrong",
+    "Yuan, Miaomiao",
+    "Zhao, Shaoqian",
+    "Chen, Yufei",
+    "Xu, Min",
+    "Zhang, Yifei",
+    "Gu, W.",
+    "Wang, Weiqing",
+    "Liu, Ruixin",
+    "Wang, Jiqiu",
+    "Hong, Jie"
+  ],
+  "doi": "10.1016/j.diabres.2023.111058",
+  "url": "https://www.semanticscholar.org/paper/2f77b57c78fe67386ea7bd0cd46f52a80686ac42",
+  "provider": "semantic_scholar",
+  "year": 2023,
+  "venue": "Diabetes Research and Clinical Practice",
+  "citation_count": 2,
+  "abstract": "AIMS\nCurrent evidence regarding iron status and mortality risk among patients with diabetes is scarce. This study aimed to evaluate association of iron indices with all-cause and cause-specific mortality risk among patients with diabetes.\n\nMETHODS\nThe current study included 2080 (with ferritin data), 1974 (with transferrin saturation(Tsat) data), and 1106 (with soluble transferrin receptor(sTfR) data) adults with diabetes from NHANES 1999-2018. Death outcomes were obtained from National Death Index through December 31, 2019. Cox regression models were employed to calculate hazard ratios and 95% confidence intervals for mortality.\n\nRESULTS\nAssociation with all-cause mortality was demonstrated to be J-shaped for serum ferritin (Pnonlinearity <0.01), U-shaped for Tsat (Pnonlinearity <0.01) and linear for sTfR (Plinearity <0.01). Ferritin 300-500 ng/mL possessed lower all-cause mortality risk than ferritin≤100 ng/mL, 100-300 ng/mL, and >500 ng/mL. Tsat 25-32% showed a protective effect on all-cause mortality risk compared with Tsat≤20%, 20-25%, and >32%. Individuals with sTfR<4 mg/L were associated with a lower risk of all-cause mortality than those with higher sTfR.\n\nCONCLUSIONS\nModerate levels of serum ferritin (300-500 ng/mL), Tsat (25%-32%) and a lower concentration of sTfR (<4 mg/L) identified adults with diabetes with lower all-cause mortality risk, adding novel modifiers to diabetes management.",
+  "type": "academic",
+  "pdf_url": ""
+}

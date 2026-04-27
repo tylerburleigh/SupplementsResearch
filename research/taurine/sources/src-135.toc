@@ -1,0 +1,59 @@
+14	2	Abstract
+34	2	Introduction
+56	2	3 Department of Biochemistry, Faculty of Pharmacy, Misr International
+113	2	Materials And Methods
+142	2	Experimental Design
+216	2	Statistical Analysis
+224	2	Results
+313	2	Discussion
+544	2	Conclusion
+558	2	Competing Interests
+579	2	Acknowledgements
+587	2	References
+592	2	2. Segal MS, Gollub ES, Johnson RJ: Is the Fructose Index more relevant
+595	2	3. Girard A, Madani S, Boukortt F, Cher kaoui-Malki M, Belleville J, Prost J:
+599	2	4. Avramoglu RK, Basciano H, Adeli K: Lipid and lipoprotein dysregulation
+605	2	7. Najib s, Sanchez-Margalet V: Homocysteine thiolactone inhibits insulin-
+609	2	8. Fonseca VA, Fink LM, Kern PA: Insulin sensitivity and plasma
+612	2	9. Oron-Herman M, Rosenthal T, Sela BA: Hyperhomocysteinemia as a
+614	2	10. Uehara SK, Rosa G: Association of homocysteinemia with high
+618	2	11. Patterson S, Flatt PR, Brennan L, Newsholme P, McClenaghan NH:
+624	2	13. Boujendar S, Arany E, Hill  D, Remacle C, Reusens B: Taurine
+628	2	14. Cherif H, Reusen B, Ahn MT, Hoet JJ, Remacle C: Effects of taurine on the
+631	2	15. Lapson WG, Kramer JH, Schaffer SW: Potentiation of the actions of
+633	2	16. Kaniuk NA, Kiraly M, Bates H, Vr anic M, Volchuck A, Brumell JH:
+641	2	18. Hung CR: Effect of taurine on gastric oxidative stress and hemorrhagic
+643	2	19. Shimoda I, Koizumi M, Shimosegawa T, Shishido T, Ono T, Sato K, Ishizuka
+648	2	20. Barham D, Trinder P: An improved colour reagent for the determination
+651	2	21. Matthews DR, Hosker JP, Rudenski AS, Naylor BA, Treacher DF, Turner RC:
+655	2	22. Nagele U, Hagele EO, Sauer G, Wied emann E, Lehmann P, Wahlefeld WA,
+659	2	23. Fasce CF: Enzymatic colorimetric method determination of total
+661	2	24. Assmann G, Jabs HU, Kohnert U, Nolte W, Scheriewer H: LDL-cholesterol
+667	2	26. Koracevic D, Koracevic G, Djordjevic V, Andrejevic S, Cosic V: Method for
+670	2	27. Gan KN, Smolen A, Eckerson HW, La Du BN: Purification of human serum
+673	2	28. Miranda KM, Espey MG, Wink DA: A, rapid simple spectrophotometric
+676	2	29. Ogbera AO, Azenabor AO: Hyperuricaemia and the metabolic
+678	2	30. Mangat C, Goel NK, Walia DK, Agarwal N, Sharma MK, Kaur J, Singh R,
+683	2	31. Kannappan S, Anuradha CV: Insulin sensitizing actions of fenugreek
+686	2	32. Yadav H, Jain S, Yadav M, Sinha PR, Prasad GB, Marotta F: Epigenomic
+694	2	35. Stanhope KL, Havel PJ: Fructose consumption: potential mechanisms
+697	2	36. Bergman RN, Van Citters GW, Mittel man SD, Dea MK, Hamilton-Wessler M,
+708	2	40. Nandhini A, Thirunavukkarasu V, Anuradha CV: Taurine modifies insulin
+711	2	41. Adiels M, Boren J, Casl ake MJ, Stewart P, Soro A, Westerbacka J, Wennberg
+722	2	42. Matsuzaka T, Shimano H, Yahagi N, Amamiya-Kudo M, Okazaki H, Tamura
+727	2	43. Aragno M, Tomasinelli CE, Vercellinatt o I, Catalano MG, Collino M, Fantozzi
+731	2	44. Yamori Y, Murakami S, Ikeda K, Nara Y: Fish and lifestyle-related disease
+735	2	45. Lam NV, Chen W, Suruga K, Nishimura N, Goda T, Yokogoshi H: Enhancing
+738	2	46. Yang SF, Tzang BS, Yang KT, Hsiao YC, Chang YY, Chan CH, Fu SG, Chen YC:
+741	2	47. Riederer M, Erwa W, Zimmermann R, Frank S, Zechner R: Adipose tissue
+744	2	48. Sonoki K, Iwase M, Sasaki N, Ohdo  S, Higuchi S, Matsuyama N, Iida M:
+752	2	50. Bajnok L, Csongradi E, Seres I, Varga Z,  Jeges S, Peti A, Karanyi Z, Juhasz A,
+755	2	51. Kelley GL, Allan G, Azhar S: wHigh dietary fructose induces a hepatic
+763	2	53. Upchurch GR, Welch GN, Fabian AJ, Freedman JE, Johnson JL, Keaney JF,
+767	2	54. Stralin P, Karlsson K, Johansson BO, Marklund SL: The interstitium of the
+770	2	55. Tyagi N, Sedoris KC, Steed M, Ovechkin AV, Moshal KS, Tyagi SC:
+773	2	56. Dedon PC, Tannenbaum SR: Reactive nitrogen species in the chemical
+775	2	57. Sahoo R, Bhattacharjee A, Majumdar U, Ray SS, Dutta T, Ghosh S: A novel
+778	2	58. Winiarska K, Szymanski K, Gorniak P, Dudziak M, Bryla J: Hypoglycaemic,
+781	2	59. Hsu TC, Chen YC, Tsai CC, Wu JH, Li SL, Tzang BS: Protective effects of
+784	2	60. Wang BS, Yu HM, Chang LW, Yen WJ, Duh PD: Protective effects of pu-erh

@@ -1,0 +1,13 @@
+41	2	Abstract
+63	2	1. Introduction
+84	2	2. Methods
+91	2	3. Creatine Supplementation
+92	3	3.1 Metabolic role
+115	3	3.2 Sources of creatine and supplementation
+135	2	4. Impact of Creatine Supplementation on Cognitive Functions
+161	2	5. Impact of Creatine Supplementation on Mood
+192	2	6. Safety and Side Effects
+222	2	7. Discussion
+254	2	8. Conclusion
+324	2	16. Comparison between creatine monohydrate and creatine HCl on body composition and
+397	2	44. The Potential of Ginkgo biloba as a Source of Biologically Active Compounds—A

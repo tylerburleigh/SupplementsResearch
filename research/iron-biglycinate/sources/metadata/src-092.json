@@ -1,0 +1,24 @@
+{
+  "id": "src-092",
+  "title": "Is Ferric the Same as Ferrous? Effect of Nutritionally Relevant Iron Species in C. elegans: Bioavailability, Iron Homeostasis, Oxidative Stress, and Cell Death.",
+  "authors": [
+    "Gremme, Anna",
+    "Flaih, Zainab Al-Timimi Safa",
+    "Scholz, Johannes",
+    "Gerisch, Emely",
+    "Thiel, Alicia",
+    "McColl, Gawain",
+    "Hayen, H.",
+    "Michalke, Bernhard",
+    "Bornhorst, J."
+  ],
+  "doi": "10.1021/acs.jafc.4c10463",
+  "url": "https://www.semanticscholar.org/paper/24f151211d982437078993b8bf1549d4591af375",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "Journal of Agricultural and Food Chemistry",
+  "citation_count": 3,
+  "abstract": "Iron (Fe) is present in foods and food supplements in a wide variety of Fe species. Caution needs to be paid in the case of overdosing on this essential trace element as adverse effects like neurodegenerative diseases are associated with increased iron levels in the brain. However, knowledge regarding the species-specific effects of nutritionally relevant Fe species is limited. Therefore, we treated the nematode Caenorhabditis elegans (C. elegans) with an overdose of the Fe species iron(III) ammonium citrate (FAC), iron(II) gluconate (FeGlu), and iron(II) chloride (FeCl2) for 5 and 24 h. While the bioavailability of Fe was highest with FeCl2 and lowest with FAC, the effects on tested endpoints, such as superoxide dismutase activity, translocation of the transcription factor daf-16 (human FOXO3), mitochondrial reactive oxygen and nitrogen species, and apoptotic cells were similar. This study provides further insights into Fe-species-specific effects on genes related to Fe homeostasis of C. elegans by studying gene expression and investigating C. elegans mutants lacking smf-3, ftn-1, ftn-2, dcytb (f55h2.5), and cp (f21d5.3). Thus, these findings underline the significance of the oxidation state and ligand of Fe species with respect to bioavailability while also identifying the key genes involved in Fe homeostasis in C. elegans.",
+  "type": "academic",
+  "pdf_url": ""
+}

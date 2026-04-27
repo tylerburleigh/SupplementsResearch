@@ -1,0 +1,17 @@
+{
+  "id": "src-326",
+  "title": "Wolbachia and the insect immune system: what reactive oxygen species can tell us about the mechanisms of Wolbachia–host interactions",
+  "authors": [
+    "Zug, Roman",
+    "Hammerstein, Peter"
+  ],
+  "doi": "10.3389/fmicb.2015.01201",
+  "url": "https://openalex.org/W1851515435",
+  "provider": "openalex",
+  "year": 2015,
+  "venue": "Frontiers in Microbiology",
+  "citation_count": 146,
+  "abstract": "Wolbachia are intracellular bacteria that infect a vast range of arthropod species, making them one of the most prevalent endosymbionts in the world. Wolbachia's stunning evolutionary success is mostly due to their reproductive parasitism but also to mutualistic effects such as increased host fecundity or protection against pathogens. However, the mechanisms underlying Wolbachia phenotypes, both parasitic and mutualistic, are only poorly understood. Moreover, it is unclear how the insect immune system is involved in these phenotypes and why it is not more successful in eliminating the bacteria. Here we argue that reactive oxygen species (ROS) are likely to be key in elucidating these issues. ROS are essential players in the insect immune system, and Wolbachia infection can affect ROS levels in the host. Based on recent findings, we elaborate a hypothesis that considers the different effects of Wolbachia on the oxidative environment in novel vs. native hosts. We propose that newly introduced Wolbachia trigger an immune response and cause oxidative stress, whereas in coevolved symbioses, infection is not associated with oxidative stress, but rather with restored redox homeostasis. Redox homeostasis can be restored in different ways, depending on whether Wolbachia or the host is in charge. This hypothesis offers a mechanistic explanation for several of the observed Wolbachia phenotypes.",
+  "type": "academic",
+  "pdf_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2015.01201/pdf"
+}

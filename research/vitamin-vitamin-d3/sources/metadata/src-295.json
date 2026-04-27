@@ -1,0 +1,29 @@
+{
+  "id": "src-295",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://endocrinenews.endocrine.org/to-d-or-not-to-d-what-questions-does-the-latest-endocrine-society-guideline-answer-about-vitamin-d-supplements",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-21T21:00:19.912902+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-295.md",
+  "quality_details": {
+    "content_length": 9835,
+    "alpha_ratio": 0.81,
+    "sentence_count": 51,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

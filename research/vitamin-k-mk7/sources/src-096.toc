@@ -1,0 +1,10 @@
+9	2	Abstract
+48	2	Background
+102	2	Methods
+226	2	Statistical Analysis
+282	2	Results
+369	2	Discussion
+545	2	Conclusion
+567	2	Acknowledgements
+586	2	Competing Interests
+608	2	References

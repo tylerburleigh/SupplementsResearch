@@ -1,0 +1,16 @@
+{
+  "id": "src-097",
+  "title": "Dietary factors affecting polyphenol bioavailability",
+  "authors": [
+    "Bohn, Torsten"
+  ],
+  "doi": "10.1111/nure.12114",
+  "url": "https://openalex.org/W2145937849",
+  "provider": "openalex",
+  "year": 2014,
+  "venue": "Nutrition Reviews",
+  "citation_count": 540,
+  "abstract": "While many epidemiological studies have associated the consumption of polyphenols within fruits and vegetables with a decreased risk of developing several chronic diseases, intervention studies have generally not confirmed these beneficial effects. The reasons for this discrepancy are not fully understood but include potential differences in dosing, interaction with the food matrix, and differences in polyphenol bioavailability. In addition to endogenous factors such as microbiota and digestive enzymes, the food matrix can also considerably affect bioaccessibility, uptake, and further metabolism of polyphenols. While dietary fiber (such as hemicellulose), divalent minerals, and viscous and protein-rich meals are likely to cause detrimental effects on polyphenol bioaccessibility, digestible carbohydrates, dietary lipids (especially for hydrophobic polyphenols, e.g., curcumin), and additional antioxidants may enhance polyphenol availability. Following epithelial uptake, polyphenols such as flavonoids may reduce phase II metabolism and excretion, enhancing polyphenol bioavailability. Furthermore, polyphenols may act synergistically due to their influence on efflux transporters such as p-glycoprotein. In order to understand polyphenol bioactivity, increased knowledge of the factors affecting polyphenol bioavailability, including dietary factors, is paramount.",
+  "type": "academic",
+  "pdf_url": "https://academic.oup.com/nutritionreviews/article-pdf/72/7/429/24137081/nutritionreviews72-0429.pdf"
+}

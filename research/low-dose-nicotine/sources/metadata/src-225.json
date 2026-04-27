@@ -1,0 +1,19 @@
+{
+  "id": "src-225",
+  "title": "Role of Cholinergic Signaling in Alzheimer’s Disease",
+  "authors": [
+    "Chen, Zhi-ru",
+    "Huang, Jiabao",
+    "Yang, Shu‐Long",
+    "Hong, Fen‐Fang"
+  ],
+  "doi": "10.3390/molecules27061816",
+  "url": "https://openalex.org/W4220945110",
+  "provider": "openalex",
+  "year": 2022,
+  "venue": "Molecules",
+  "citation_count": 748,
+  "abstract": "Acetylcholine, a neurotransmitter secreted by cholinergic neurons, is involved in signal transduction related to memory and learning ability. Alzheimer's disease (AD), a progressive and commonly diagnosed neurodegenerative disease, is characterized by memory and cognitive decline and behavioral disorders. The pathogenesis of AD is complex and remains unclear, being affected by various factors. The cholinergic hypothesis is the earliest theory about the pathogenesis of AD. Cholinergic atrophy and cognitive decline are accelerated in age-related neurodegenerative diseases such as AD. In addition, abnormal central cholinergic changes can also induce abnormal phosphorylation of ttau protein, nerve cell inflammation, cell apoptosis, and other pathological phenomena, but the exact mechanism of action is still unclear. Due to the complex and unclear pathogenesis, effective methods to prevent and treat AD are unavailable, and research to explore novel therapeutic drugs is various and active in the world. This review summaries the role of cholinergic signaling and the correlation between the cholinergic signaling pathway with other risk factors in AD and provides the latest research about the efficient therapeutic drugs and treatment of AD.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/1420-3049/27/6/1816/pdf?version=1646990378"
+}

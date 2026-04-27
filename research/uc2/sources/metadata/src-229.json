@@ -1,0 +1,25 @@
+{
+  "id": "src-229",
+  "title": "Genkwanin alleviates intervertebral disc degeneration via regulating ITGA2/PI3K/AKT pathway and inhibiting apoptosis and senescence.",
+  "authors": [
+    "Li, Mengwei",
+    "Yu, Xiaojun",
+    "Chen, Xin",
+    "Jiang, Yongqiao",
+    "Zeng, Yunqian",
+    "Ren, Ranyue",
+    "Nie, Mingbo",
+    "Zhang, Ziyang",
+    "Bao, Yuan",
+    "Kang, Hao"
+  ],
+  "doi": "10.1016/j.intimp.2024.112101",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38640717",
+  "provider": "pubmed",
+  "year": 2024,
+  "venue": "International immunopharmacology",
+  "citation_count": 0,
+  "abstract": "Intervertebral disc degeneration (IVDD) is a progressive degenerative disease influenced by various factors. Genkwanin, a known anti-inflammatory flavonoid, has not been explored for its potential in IVDD management. This study aims to investigate the effects and mechanisms of genkwanin on IVDD. In vitro, cell experiments revealed that genkwanin dose-dependently inhibited Interleukin-1β-induced expression levels of inflammatory factors (Interleukin-6, inducible nitric oxide synthase, cyclooxygenase-2) and degradation metabolic protein (matrix metalloproteinase-13). Concurrently, genkwanin upregulated the expression of synthetic metabolism genes (type II collagen, aggrecan). Moreover, genkwanin effectively reduced the phosphorylation of phosphatidylinositol 3-kinase (PI3K)/AKT/mammalian target of rapamycin, mitogen-activated protein kinase (MAPK), and nuclear factor-κB (NF-κB) pathways. Transcriptome sequencing analysis identified integrin α2 (ITGA2) as a potential target of genkwanin, and silencing ITGA2 reversed the activation of PI3K/AKT pathway induced by Interleukin-1β. Furthermore, genkwanin alleviated Interleukin-1β-induced senescence and apoptosis in nucleus pulposus cells. In vivo animal experiments demonstrated that genkwanin mitigated the progression of IVDD in the rat model through imaging and histological examinations. In conclusion, This study suggest that genkwanin inhibits inflammation in nucleus pulposus cells, promotes extracellular matrix remodeling, suppresses cellular senescence and apoptosis, through the ITGA2/PI3K/AKT, NF-κB and MAPK signaling pathways. These findings indicate that genkwanin may be a promising therapeutic candidate for IVDD.",
+  "type": "academic",
+  "pdf_url": ""
+}

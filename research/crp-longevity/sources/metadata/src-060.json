@@ -1,0 +1,33 @@
+{
+  "id": "src-060",
+  "title": "Conventional and Bidirectional Genetic Evidence on Resting Heart Rate and Cardiometabolic Traits.",
+  "authors": [
+    "Huang, Tao",
+    "Wang, Wenxiu",
+    "Wang, Jingjia",
+    "Lv, Jun",
+    "Yu, Canqing",
+    "Guo, Yu",
+    "Pei, Pei",
+    "Huang, Ninghao",
+    "Yang, Ling",
+    "Millwood, Iona Y",
+    "Walters, Robin G",
+    "Chen, Yiping",
+    "Du, Huaidong",
+    "Su, Jian",
+    "Chen, Junshi",
+    "Chen, Zhengming",
+    "Tang, Yida",
+    "Li, Liming"
+  ],
+  "doi": "10.1210/clinem/dgab847",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34850013",
+  "provider": "pubmed",
+  "year": 2022,
+  "venue": "The Journal of clinical endocrinology and metabolism",
+  "citation_count": 0,
+  "abstract": "CONTEXT: Observational studies have suggested that higher resting heart rate (RHR) may be associated with increased cardiometabolic risk. However, causal associations are not fully understood.\nOBJECTIVE: We aimed to examine the direction, strength, and causality of the associations of RHR with cardiometabolic traits.\nMETHODS: We assessed the strength of associations between measured RHR and cardiometabolic traits in 506 211 and 372 452 participants from China Kadoorie Biobank (CKB) and UK Biobank (UKB). Mendelian randomization (MR) analyses were used to make causal inferences in 99 228 and 371 508 participants from CKB and UKB, respectively.\nRESULTS: We identified significant directionally concordant observational associations between RHR and higher total cholesterol, triglycerides (TG), low-density lipoprotein, C-reactive protein (CRP), glucose, body mass index, waist-hip ratio (WHR), systolic blood pressure (SBP), and diastolic blood pressure (DBP) after the Bonferroni correction. MR analyses showed that 10 beat/min higher genetically predicted RHR was trans-ethnically associated with a higher DBP (beta 2.059 [95% CI 1.544, 2.574] mmHg in CKB; 2.037 [1.845, 2.229] mmHg in UKB), higher CRP (0.180 [0.057, 0.303] log mg/L in CKB; 0.154 [0.134, 0.174] log mg/L in UKB), higher TG (0.052 [-0.009, 0.113] log mmol/L in CKB; 0.020 [0.010, 0.030] log mmol/L in UKB) and higher WHR (0.218 [-0.033, 0.469] % in CKB; 0.225 [0.111, 0.339] % in UKB). In the opposite direction, higher genetically predicted SBP, TG, glucose, and WHR, and lower high-density lipoprotein, were associated with elevated RHR.\nCONCLUSION: Our large-scale analyses provide causal evidence for associations between RHR and cardiometabolic traits, highlighting the importance of monitoring heat rate as a means of alleviating the adverse effects of metabolic disorders.",
+  "type": "academic",
+  "pdf_url": ""
+}

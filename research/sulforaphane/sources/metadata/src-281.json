@@ -1,0 +1,17 @@
+{
+  "id": "src-281",
+  "title": "Polyphenols as Modulator of Oxidative Stress in Cancer Disease: New Therapeutic Strategies",
+  "authors": [
+    "Mileo, Anna Maria",
+    "Miccadei, Stefania"
+  ],
+  "doi": "10.1155/2016/6475624",
+  "url": "https://openalex.org/W1822921369",
+  "provider": "openalex",
+  "year": 2015,
+  "venue": "Oxidative Medicine and Cellular Longevity",
+  "citation_count": 275,
+  "abstract": "Cancer onset and progression have been linked to oxidative stress by increasing DNA mutations or inducing DNA damage, genome instability, and cell proliferation and therefore antioxidant agents could interfere with carcinogenesis. It is well known that conventional radio-/chemotherapies influence tumour outcome through ROS modulation. Since these antitumour treatments have important side effects, the challenge is to develop new anticancer therapeutic strategies more effective and less toxic for patients. To this purpose, many natural polyphenols have emerged as very promising anticancer bioactive compounds. Beside their well-known antioxidant activities, several polyphenols target epigenetic processes involved in cancer development through the modulation of oxidative stress. An alternative strategy to the cytotoxic treatment is an approach leading to cytostasis through the induction of therapy-induced senescence. Many anticancer polyphenols cause cellular growth arrest through the induction of a ROS-dependent premature senescence and are considered promising antitumour therapeutic tools. Furthermore, one of the most innovative and interesting topics is the evaluation of efficacy of prooxidant therapies on cancer stem cells (CSCs). Several ROS inducers-polyphenols can impact CSCs metabolisms and self-renewal related pathways. Natural polyphenol roles, mainly in chemoprevention and cancer therapies, are described and discussed in the light of the current literature data.",
+  "type": "academic",
+  "pdf_url": "http://downloads.hindawi.com/journals/omcl/2016/6475624.pdf"
+}

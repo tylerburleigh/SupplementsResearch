@@ -1,0 +1,25 @@
+{
+  "id": "src-030",
+  "title": "Associations between modifiable risk factors and frailty: a Mendelian randomisation study.",
+  "authors": [
+    "Zhang, Nan",
+    "Jia, Ziheng",
+    "Gu, Tianshu",
+    "Zheng, Yi",
+    "Zhang, Yunpeng",
+    "Song, Wenhua",
+    "Chen, Ziliang",
+    "Li, Guangping",
+    "Tse, Gary",
+    "Liu, Tong"
+  ],
+  "doi": "10.1136/jech-2023-220882",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37604674",
+  "provider": "pubmed",
+  "year": 2023,
+  "venue": "Journal of epidemiology and community health",
+  "citation_count": 0,
+  "abstract": "BACKGROUND: Early identification of modifiable risk factors is essential for the prevention of frailty. This study aimed to explore the causal relationships between a spectrum of genetically predicted risk factors and frailty.\nMETHODS: Univariable and multivariable Mendelian randomisation (MR) analyses were performed to explore the relationships between 22 potential risk factors and frailty, using summary genome-wide association statistics. Frailty was accessed by the frailty index.\nRESULTS: Genetic liability to coronary artery disease (CAD), type 2 diabetes mellitus (T2DM), ischaemic stroke, atrial fibrillation and regular smoking history, as well as genetically predicted 1-SD increase in body mass index, systolic blood pressure, diastolic blood pressure, low-density lipoprotein cholesterol, triglycerides, alcohol intake frequency and sleeplessness were significantly associated with increased risk of frailty (all p<0.001). In addition, there was a significant inverse association between genetically predicted college or university degree with risk of frailty (beta -0.474; 95% CI (-0.561 to -0.388); p<0.001), and a suggestive inverse association between high-density lipoprotein cholesterol level with risk of frailty (beta -0.032; 95% CI (-0.055 to -0.010); p=0.004). However, no significant causal associations were observed between coffee consumption, tea consumption, serum level of total testosterone, oestradiol, 25-hydroxyvitamin D, C reactive protein or moderate to vigorous physical activity level with frailty (all p>0.05). Results of the reverse directional MR suggested bidirectional causal associations between T2DM and CAD with frailty.\nCONCLUSIONS: This study provided genetic evidence for the causal associations between several modifiable risk factors with lifetime frailty risk. A multidimensional approach targeting these factors may hold a promising prospect for prevention frailty.",
+  "type": "academic",
+  "pdf_url": ""
+}

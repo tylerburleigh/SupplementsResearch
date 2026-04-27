@@ -1,0 +1,35 @@
+{
+  "id": "src-037",
+  "title": "Psychedelic medicines for mood disorders: current evidence and clinical considerations",
+  "authors": [
+    "Sarris, Jerome",
+    "Pinzon Rubiano, Diego",
+    "Day, Kimberley",
+    "Galvão-Coelho, Nicole L.",
+    "Perkins, Daniel"
+  ],
+  "year": 2022,
+  "abstract": "Purpose of review\nDespite advances in treatment modalities for mood disorders over recent decades, further therapeutic options are still required. Increased research is occurring, with the pursuit of psychedelic-based pharmacotherapies for a range of mood disorders and other conditions.\n\nRecent findings\nSerotonergic psychedelics have been found to modulate brain networks underlying various psychiatric disorders, as well promoting neurogenesis and neuroplasticity. Randomized placebo-controlled trials have found psilocybin with psychological support effective at treating depression, including treatment-resistant depression; with emergent research also signalling N,N-dimethyltryptamine/ayahuasca also as a potential option for the treatment of depression. Lysergic acid diethylamide has been found to have anxiolytic effects, whereas 3,4-methylenedioxymethamphetamine (MDMA) has been used effectively to treat post-traumatic stress disorder (PTSD), with Phase III clinical trial evidence. Microdosing of psychedelics is a growing phenomenon that has shown benefits in some preclinical data; however, a recent self-directed controlled trial reported no evidence of improved mood.\n\nSummary\nCurrent research with medicinal psychedelics, usually as an adjunct to psychotherapy, has shown encouraging results in treating mood disorders. However, there are challenges regarding blinding and sample sizes remain small, and there have been no definitive Phase III studies (aside from MDMA for PTSD). Further work exploring novel formulations, interface with pharmacogenomics and the microbiome, and inflammatory pathways can be advised.",
+  "doi": "10.1097/yco.0000000000000759",
+  "url": "https://doi.org/10.1097/yco.0000000000000759",
+  "pdf_url": "",
+  "venue": "Current Opinion in Psychiatry",
+  "citation_count": 20,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-26T10:43:03.470551+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-037.md",
+  "quality_details": {
+    "content_length": 2827,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

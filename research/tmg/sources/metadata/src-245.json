@@ -1,0 +1,17 @@
+{
+  "id": "src-245",
+  "title": "The Role of Insulin Resistance in Nonalcoholic Fatty Liver Disease",
+  "authors": [
+    "Utzschneider, Kristina M.",
+    "Kahn, Steven E."
+  ],
+  "doi": "10.1210/jc.2006-0587",
+  "url": "https://openalex.org/W2160832007",
+  "provider": "openalex",
+  "year": 2006,
+  "venue": "The Journal of Clinical Endocrinology & Metabolism",
+  "citation_count": 858,
+  "abstract": "Insulin resistance is a major feature of NAFLD that, in some patients, can progress to steatohepatitis. Treatments aimed at reducing insulin resistance have had some success, but larger placebo-controlled studies are needed to fully establish the efficacy of these interventions and possibly others in reducing the deleterious effects of fat accumulation in the liver.",
+  "type": "academic",
+  "pdf_url": "https://academic.oup.com/jcem/article-pdf/91/12/4753/9059249/jcem4753.pdf"
+}

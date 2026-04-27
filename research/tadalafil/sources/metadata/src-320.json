@@ -1,0 +1,19 @@
+{
+  "id": "src-320",
+  "title": "Targeting angiogenesis in Duchenne muscular dystrophy",
+  "authors": [
+    "Podkalicka, Paulina",
+    "Mucha, Olga",
+    "Dulak, Józef",
+    "Łoboda, Agnieszka"
+  ],
+  "doi": "10.1007/s00018-019-03006-7",
+  "url": "https://openalex.org/W2911312069",
+  "provider": "openalex",
+  "year": 2019,
+  "venue": "Cellular and Molecular Life Sciences",
+  "citation_count": 61,
+  "abstract": "Duchenne muscular dystrophy (DMD) represents one of the most devastating types of muscular dystrophies which affect boys already at early childhood. Despite the fact that the primary cause of the disease, namely the lack of functional dystrophin is known already for more than 30 years, DMD still remains an incurable disease. Thus, an enormous effort has been made during recent years to reveal novel mechanisms that could provide therapeutic targets for DMD, especially because glucocorticoids treatment acts mostly symptomatic and exerts many side effects, whereas the effectiveness of genetic approaches aiming at the restoration of functional dystrophin is under the constant debate. Taking into account that dystrophin expression is not restricted to muscle cells, but is present also in, e.g., endothelial cells, alterations in angiogenesis process have been proposed to have a significant impact on DMD progression. Indeed, already before the discovery of dystrophin, several abnormalities in blood vessels structure and function have been revealed, suggesting that targeting angiogenesis could be beneficial in DMD. In this review, we will summarize current knowledge about the angiogenesis status both in animal models of DMD as well as in DMD patients, focusing on different organs as well as age- and sex-dependent effects. Moreover, we will critically discuss some approaches such as modulation of vascular endothelial growth factor or nitric oxide related pathways, to enhance angiogenesis and attenuate the dystrophic phenotype. Additionally, we will suggest the potential role of other mediators, such as heme oxygenase-1 or statins in those processes.",
+  "type": "academic",
+  "pdf_url": "https://link.springer.com/content/pdf/10.1007/s00018-019-03006-7.pdf"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "src-140",
+  "title": "Endothelium-specific SIRT7 targeting ameliorates pulmonary hypertension through Krüpple-like factor 4 deacetylation.",
+  "authors": [
+    "Zhang, Jin",
+    "Xu, Chenzhong",
+    "Tang, Xiaolong",
+    "Sun, Shimin",
+    "Liu, Siqi",
+    "Yang, Langmei",
+    "Chen, Yuqin",
+    "Yang, Qifeng",
+    "Wei, Tong-You Wade",
+    "Wu, Xiaojing",
+    "Wang, Jian",
+    "Wang, Chen",
+    "Yan, Xiaosong",
+    "Yang, Lei",
+    "Niu, Yanqin",
+    "Gou, Deming",
+    "Shyy, John Y J",
+    "Liu, Baohua"
+  ],
+  "doi": "10.1093/cvr/cvae011",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38198357",
+  "provider": "pubmed",
+  "year": 2024,
+  "venue": "Cardiovascular research",
+  "citation_count": 0,
+  "abstract": "AIMS: Pulmonary hypertension (PH) is a pulmonary vascular disease characterized by a high mortality rate. Pulmonary arterial endothelium cells (PAECs) serve as a primary sensor of various environmental cues, such as shear stress and hypoxia, but PAEC dysfunction may trigger vascular remodelling during the onset of PH. This study aimed to illustrate the role of Sirtuin 7 (SIRT7) in endothelial dysfunction during PH and explore the potential therapeutic strategy for PH.\nMETHODS AND RESULTS: SIRT7 levels were measured in human and murine experimental PH samples. Bioinformatic analysis, immunoprecipitation, and deacetylation assay were used to identify the association between SIRT7 and Krüpple-like factor 4 (KLF4), a key transcription factor essential for endothelial cell (EC) homeostasis. Sugen5416 + hypoxia (SuHx)-induced PH mouse models and cell cultures were used for the study of the therapeutic effect of SIRT7 for PH. SIRT7 level was significantly reduced in lung tissues and PAECs from PH patients and the SuHx-induced PH mouse model as compared with healthy controls. Pulmonary endothelium-specific depletion of Sirt7 increased right ventricular systolic pressure and exacerbated right ventricular hypertrophy in the SuHx-induced PH model. At the molecular level, we identified KLF4 as a downstream target of SIRT7, which deacetylated KLF4 at K228 and inhibited the ubiquitination-proteasome degradation. Thus, the SIRT7/KLF4 axis maintained PAEC homeostasis by regulating proliferation, migration, and tube formation. PAEC dysfunction was reversed by adeno-associated virus type 1 vector-mediated endothelial overexpression of Sirt7 or supplementation with nicotinamide adenine dinucleotide (NAD)+ intermediate nicotinamide riboside which activated Sirt7; both approaches successfully reversed PH phenotypes.\nCONCLUSION: The SIRT7/KLF4 axis ensures PAEC homeostasis, and pulmonary endothelium-specific SIRT7 targeting might constitute a PH therapeutic strategy.",
+  "type": "academic",
+  "pdf_url": ""
+}

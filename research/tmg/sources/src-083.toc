@@ -1,0 +1,20 @@
+14	2	6. Fasting homocysteine showed a strong inverse
+40	2	3 Strong predictors of
+104	2	Methods
+150	2	Results
+373	2	Discussion
+393	2	20 This has
+496	2	37 Thus, in some species at least,
+525	2	39 This suggests that plasma betaine is under strict
+532	2	Acknowledgments
+539	2	References
+543	2	2. Refsum H, Smith AD, Ueland PM, Nexo E, Clarke R, McPartlin J,
+559	2	8. Schwab U, Torronen A, Toppinen L, Alfthan G, Saarinen M, Aro A,
+567	2	10. McGregor DO, Dellow WJ, Robson RA, Lever M, George PM, Chambers
+573	2	12. Schwahn BC, Chen Z, Laryea MD, Wendel U, Lussier-Cacan S, Genest
+577	2	13. Holm PI, Bleie O, Ueland PM, Lien EA, Refsum H, Nordrehaug JE,
+616	2	24. McGregor DO, Dellow WJ, Lever M, George PM, Robson RA, Chambers
+627	2	28. Ubbink JB, van der Merwe A, Delport R, Allen RH, Stabler SP, Riezler
+647	2	33. Sassi S, Cosmi B, Palareti G, Legnani C, Grossi G, Musolesi S, Coccheri
+650	2	34. Fokkema MR, Dijck-Brouwer DA, van Doormaal JJ, Reijngoud DJ,
+659	2	37. Emmert JL, Webel DM, Biehl RR, Griffiths MA, Garrow LS, Garrow

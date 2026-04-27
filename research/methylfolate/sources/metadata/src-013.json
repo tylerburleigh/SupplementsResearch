@@ -1,0 +1,29 @@
+{
+  "id": "src-013",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://alpha01.co.uk/blog/l-methylfolate",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-20T12:20:24.725987+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-013.md",
+  "quality_details": {
+    "content_length": 5884,
+    "alpha_ratio": 0.795,
+    "sentence_count": 55,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

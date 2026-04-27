@@ -1,0 +1,29 @@
+{
+  "id": "src-055",
+  "title": "Anti-SARS-CoV-2 Repurposing Drug Database: Clinical Pharmacology Considerations.",
+  "authors": [
+    "Zhang, Xinyuan",
+    "Yang, Yuching",
+    "Grimstein, Manuela",
+    "Liu, Guansheng",
+    "Kitabi, Eliford",
+    "Fan, Jianghong",
+    "Wang, Ying-Hong",
+    "Earp, Justin",
+    "Weaver, James L",
+    "Zhu, Hao",
+    "Liu, Jiang",
+    "Reynolds, Kellie S",
+    "Huang, Shiew-Mei",
+    "Wang, Yaning"
+  ],
+  "doi": "10.1002/psp4.12681",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34218521",
+  "provider": "pubmed",
+  "year": 2021,
+  "venue": "CPT: pharmacometrics & systems pharmacology",
+  "citation_count": 0,
+  "abstract": "A critical step to evaluate the potential in vivo antiviral activity of a drug is to connect the in vivo exposure to its in vitro antiviral activity. The Anti-SARS-CoV-2 Repurposing Drug Database is a database that includes both in vitro anti-SARS-CoV-2 activity and in vivo pharmacokinetic data to facilitate the extrapolation from in vitro antiviral activity to potential in vivo antiviral activity for a large set of drugs/compounds. In addition to serving as a data source for in vitro anti-SARS-CoV-2 activity and in vivo pharmacokinetic information, the database is also a calculation tool that can be used to compare the in vitro antiviral activity with in vivo drug exposure to identify potential anti-SARS-CoV-2 drugs. Continuous development and expansion are feasible with the public availability of this database.",
+  "type": "academic",
+  "pdf_url": ""
+}

@@ -1,0 +1,9 @@
+{
+  "id": "src-530",
+  "title": "NRF2 activation induces NADH-reductive stress, providing a metabolic vulnerability in lung cancer: Cell Metabolism",
+  "authors": [],
+  "url": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(23)00012-8",
+  "provider": "linkup",
+  "abstract": "Thus, we reveal how over-activation of an antioxidant signaling pathway leads to a reduced cellular state that can create “oxidative addiction” and synthetic lethal opportunities within a subset of lung cancers.\nA subset of lung cancer cell lines is sensitive to activation of the transcription factor NRF2. The metabolic state of a cancer cell dictates sensitivity to NRF2, whose activation results in a NADH/NAD+ imbalance. As a result, the blockade of mitochondrial Complex I is a synthetic lethality in NRF2-activated lung cancers.\nTo date, a significant body of our knowledge about the role of the NRF2-KEAP1 pathway in cancer comes from the discovery that NRF2 functions as an oncogene in the context of KEAP1 mutations in lung cancer.31,45,46,47,48,49,50 We hypothesized that NRF2 activity might benefit the proliferation of NSCLCs when KEAP1 is not mutated.\nThus, we reveal how over-activation of an antioxidant signaling pathway leads to a reduced cellular state that can create “oxidative addiction” and synthetic lethal opportunities within a subset of lung cancers. Multiple studies have identified a proliferation benefit from NRF2 activation in the context of KEAP1-mutant NSCLC cell lines.44,45,46,51 We hypothesized that additional NSCLC cell lines that are KEAP1-wildtype (WT) would also gain a proliferative advantage following NRF2 activation.\nOur study identifies a previously unappreciated role for NRF2 in NADH-reductive stress. Herein, we provide one explanation for the metabolic cost that cancer must pay to harbor high NRF2 activity, providing the metabolic context required to support this pathway.",
+  "type": "web"
+}

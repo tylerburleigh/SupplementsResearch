@@ -1,0 +1,22 @@
+{
+  "id": "src-202",
+  "title": "Serum α-Tocopherol and γ-Tocopherol Concentrations and Prostate Cancer Risk in the PLCO Screening Trial: A Nested Case-Control Study",
+  "authors": [
+    "Weinstein, Stephanie J.",
+    "Peters, Ulrike",
+    "Ahn, Jiyoung",
+    "Friesen, Marlin D.",
+    "Ríboli, Elio",
+    "Hayes, Richard B.",
+    "Albanes, Demetrius"
+  ],
+  "doi": "10.1371/journal.pone.0040204",
+  "url": "https://openalex.org/W2044160912",
+  "provider": "openalex",
+  "year": 2012,
+  "venue": "PLoS ONE",
+  "citation_count": 36,
+  "abstract": "Our findings indicate higher α-tocopherol status is associated with decreased risk of developing prostate cancer, particularly among smokers. Although two recent controlled trials did not substantiate an earlier finding of lower prostate cancer incidence and mortality in response to supplementation with a relatively low dose of α-tocopherol, higher α-tocopherol status may be beneficial with respect to prostate cancer risk among smokers. Determining what stage of prostate cancer development is impacted by vitamin E, the underlying mechanisms, and how smoking modifies the association, is needed for a more complete understanding of the vitamin E-prostate cancer relation.",
+  "type": "academic",
+  "pdf_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0040204&type=printable"
+}

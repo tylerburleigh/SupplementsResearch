@@ -1,0 +1,24 @@
+{
+  "id": "src-038",
+  "title": "L-Lactate Protects Skin Fibroblasts against Aging-Associated Mitochondrial Dysfunction<i>via</i>Mitohormesis",
+  "authors": [
+    "Zelenka, Jaroslav",
+    "Dvořák, Aleš",
+    "Alán, Lukáš"
+  ],
+  "year": 2015,
+  "abstract": "A moderate elevation of reactive oxygen species (ROS) production and a mild inhibition of mitochondrial respiratory chain have been associated with a health promotion and a lifespan extension in several animal models of aging. Here, we tested whether this phenomenon called mitohormesis could be mediated byL-lactate. The treatment with 5 mML-lactate significantly increased H2O2production and slightly inhibited the respiration in cultured skin fibroblasts and in isolated mitochondria. TheL-lactate exposure was associated with oxidation of intracellular glutathione, phosphorylation of 5′AMP-activated protein kinase (AMPK), and induction of peroxisome proliferator-activated receptor gamma coactivator 1<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" id=\"M1\"><mml:mrow><mml:mi>α</mml:mi></mml:mrow></mml:math>(PGC1<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" id=\"M2\"><mml:mrow><mml:mi>α</mml:mi></mml:mrow></mml:math>) transcription. A replicative aging of fibroblasts (L0) with a constant (LC), or intermittent 5 mML-lactate (LI) in media showed that the high-passage LI fibroblasts have higher respiration, lower H2O2release, and lower secretion ofL-lactate compared to L0 and LC. This protection against mitochondrial dysfunction in LI cells was associated with lower activity of mechanistic target of rapamycin complex 1 (mTORC1), less signs of cellular senescence, and increased autophagy compared to L0 and LC. In conclusion, we demonstrated that intermittent but not constant exposure toL-lactate triggers mitohormesis, prevents aging-associated mitochondrial dysfunction, and improves other markers of aging.",
+  "doi": "10.1155/2015/351698",
+  "url": "https://doi.org/10.1155/2015/351698",
+  "pdf_url": "",
+  "venue": "Oxidative Medicine and Cellular Longevity",
+  "citation_count": 29,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-26T22:58:01.663203+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok"
+}

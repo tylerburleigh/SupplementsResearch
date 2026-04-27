@@ -1,0 +1,25 @@
+{
+  "id": "src-271",
+  "title": "Mitochondrial dysfunction: mechanisms and advances in therapy",
+  "authors": [
+    "Yao, Zong",
+    "Li, Hao",
+    "Liao, Peng",
+    "Chen, Long",
+    "Pan, Yao",
+    "Zheng, Yongqiang",
+    "Zhang, Changqing",
+    "Liu, Delin",
+    "Zheng, Minghao",
+    "Gao, Junjie"
+  ],
+  "doi": "10.1038/s41392-024-01839-8",
+  "url": "https://openalex.org/W4396936983",
+  "provider": "openalex",
+  "year": 2024,
+  "venue": "Signal Transduction and Targeted Therapy",
+  "citation_count": 859,
+  "abstract": "Mitochondria, with their intricate networks of functions and information processing, are pivotal in both health regulation and disease progression. Particularly, mitochondrial dysfunctions are identified in many common pathologies, including cardiovascular diseases, neurodegeneration, metabolic syndrome, and cancer. However, the multifaceted nature and elusive phenotypic threshold of mitochondrial dysfunction complicate our understanding of their contributions to diseases. Nonetheless, these complexities do not prevent mitochondria from being among the most important therapeutic targets. In recent years, strategies targeting mitochondrial dysfunction have continuously emerged and transitioned to clinical trials. Advanced intervention such as using healthy mitochondria to replenish or replace damaged mitochondria, has shown promise in preclinical trials of various diseases. Mitochondrial components, including mtDNA, mitochondria-located microRNA, and associated proteins can be potential therapeutic agents to augment mitochondrial function in immunometabolic diseases and tissue injuries. Here, we review current knowledge of mitochondrial pathophysiology in concrete examples of common diseases. We also summarize current strategies to treat mitochondrial dysfunction from the perspective of dietary supplements and targeted therapies, as well as the clinical translational situation of related pharmacology agents. Finally, this review discusses the innovations and potential applications of mitochondrial transplantation as an advanced and promising treatment.",
+  "type": "academic",
+  "pdf_url": "https://www.nature.com/articles/s41392-024-01839-8.pdf"
+}

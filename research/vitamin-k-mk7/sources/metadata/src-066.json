@@ -1,0 +1,33 @@
+{
+  "id": "src-066",
+  "title": "Should We Recommend Vitamin K2 Supplement to Prevent Coronary Artery Calcification for Patients Receiving Statins and/or Warfarin?",
+  "authors": [
+    "Zhang, Allan Jean",
+    "Ballantyne, Christie M.",
+    "Birnbaum, Yochai"
+  ],
+  "year": 2025,
+  "abstract": "",
+  "doi": "10.1007/s10557-024-07661-2",
+  "url": "https://doi.org/10.1007/s10557-024-07661-2",
+  "pdf_url": "",
+  "venue": "Cardiovascular Drugs and Therapy",
+  "citation_count": 1,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T10:56:45.869359+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-066.md",
+  "quality_details": {
+    "content_length": 15288,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

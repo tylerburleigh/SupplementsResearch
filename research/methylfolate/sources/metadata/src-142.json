@@ -1,0 +1,30 @@
+{
+  "id": "src-142",
+  "title": "Periconception Red Blood Cell Folate and Offspring Congenital Heart Disease : Nested Case-Control and Mendelian Randomization Studies.",
+  "authors": [
+    "Chen, Hongyan",
+    "Zhang, Yi",
+    "Wang, Dingmei",
+    "Chen, Xiaotian",
+    "Li, Mengru",
+    "Huang, Xiangyuan",
+    "Jiang, Yuan",
+    "Dou, Yalan",
+    "Wang, Yin",
+    "Ma, Xiaojing",
+    "Sheng, Wei",
+    "Jia, Bing",
+    "Yan, Weili",
+    "Huang, Guoying",
+    "Group, SPCC (Shanghai Preconception Cohort)"
+  ],
+  "doi": "10.7326/m22-0741",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35994746",
+  "provider": "pubmed",
+  "year": 2022,
+  "venue": "Annals of internal medicine",
+  "citation_count": 0,
+  "abstract": "BACKGROUND: Periconception folic acid supplementation has been suggested to protect against congenital heart disease (CHD), but the association between maternal red blood cell (RBC) folate, the gold-standard biomarker of folate exposure, and subsequent offspring CHD risk is lacking.\nOBJECTIVE: To quantify the association between periconception maternal RBC folate and offspring CHD risk.\nDESIGN: Prospective, nested, case-control study and 1-sample Mendelian randomization. (ClinicalTrials.gov: NCT02737644).\nSETTING: 29 maternity institutions in 12 districts of Greater Shanghai, China.\nPARTICIPANTS: All 197 mothers of offspring with CHD and 788 individually matched mothers of unaffected offspring from the SPCC (Shanghai Preconception Cohort).\nMEASUREMENTS: Maternal RBC folate was measured before or at early pregnancy. Odds ratios [ORs] were estimated using conditional logistic regression after adjustment for covariates. Mendelian randomization was done using the methylenetetrahydrofolate reductase (MTHFR) C677T as the genetic instrument.\nRESULTS: Case patients had lower median maternal RBC folate concentrations than control participants (714 nmol/L [interquartile range, 482 to 1008 nmol/L] vs. 788 nmol/L [557 to 1094 nmol/L]). Maternal RBC folate concentrations were inversely associated with offspring CHD (adjusted OR per 100 nmol/L, 0.93 [95% CI, 0.89 to 0.99]). The adjusted OR for mothers with periconception RBC folate of 906 nmol/L or more (vs. <906 nmol/L) was 0.61 (CI, 0.40 to 0.93). Mendelian randomization showed that each 100-nmol increase in maternal RBC folate concentrations was significantly associated with reduced offspring CHD risk (OR, 0.75 [CI, 0.61 to 0.92]).\nLIMITATION: Potential confounding due to unmeasured covariates in the nested case-control study.\nCONCLUSION: Higher maternal RBC folate is associated with reduced offspring CHD risk. For primary CHD prevention, higher target RBC folate levels than currently recommended for neural tube defect prevention may be needed and warrant further study.\nPRIMARY FUNDING SOURCE: National Key Research and Development Program of China, National Natural Science Foundation of China, China Postdoctoral Science Foundation, and Chinese Academy of Medical Sciences Innovation Fund for Medical Sciences.",
+  "type": "academic",
+  "pdf_url": ""
+}

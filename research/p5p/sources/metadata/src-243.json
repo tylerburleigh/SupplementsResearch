@@ -1,0 +1,18 @@
+{
+  "id": "src-243",
+  "title": "The mammalian aldehyde oxidase gene family",
+  "authors": [
+    "Garattini, Enrico",
+    "Fratelli, Maddalena",
+    "Terao, Mineko"
+  ],
+  "doi": "10.1186/1479-7364-4-2-119",
+  "url": "https://openalex.org/W2164428202",
+  "provider": "openalex",
+  "year": 2009,
+  "venue": "Human Genomics",
+  "citation_count": 108,
+  "abstract": "Aldehyde oxidases (EC 1.2.3.1) are a small group of structurally conserved cytosolic proteins represented in both the animal and plant kingdoms. In vertebrates, aldehyde oxidases constitute the small sub-family of molybdo-flavoenzymes, along with the evolutionarily and structurally related protein, xanthine oxidoreductase. These enzymes require a molybdo-pterin cofactor (molybdenum cofactor, MoCo) and flavin adenine dinucleotide for their catalytic activity. Aldehyde oxidases have broad substrate specificity and catalyse the hydroxylation of N-heterocycles and the oxidation of aldehydes to the corresponding acid. In humans, a single aldehyde oxidase gene ( AOX1 ) and two pseudogenes clustering on a short stretch of chromosome 2q are known. In other mammals, a variable number of structurally conserved aldehyde oxidase genes has been described. Four genes ( Aox1 , Aox3 , Aox4 and Aox3l1 ), coding for an equivalent number of catalytically active enzymes, are present in the mouse and rat genomes. Although human AOX1 and its homologous proteins are best known as drug metabolising enzymes, the physiological substrate(s) and function(s) are as yet unknown. The present paper provides an update of the available information on the evolutionary history, tissue- and cell-specific distribution and function of mammalian aldehyde oxidases.",
+  "type": "academic",
+  "pdf_url": "https://humgenomics.biomedcentral.com/track/pdf/10.1186/1479-7364-4-2-119"
+}

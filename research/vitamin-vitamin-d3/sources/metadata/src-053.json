@@ -1,0 +1,34 @@
+{
+  "id": "src-053",
+  "title": "Long-term supplementation with 3200 to 4000 IU of vitamin D daily and adverse events: a systematic review and meta-analysis of randomized controlled trials",
+  "authors": [
+    "Zittermann, Armin",
+    "Trummer, Christian",
+    "Theiler-Schwetz, Verena",
+    "Pilz, Stefan"
+  ],
+  "year": 2023,
+  "abstract": "Abstract\nPurpose\nThe upper tolerable intake level for vitamin D in the general population has been set at 4000 international units (IU) daily, but considerable uncertainty remains. We summarized reported harmful effects of a daily vitamin D supplement of 3200–4000 IU in trials lasting ≥ 6 months.\n\nMethods\nWe performed a systematic review and meta-analysis of randomized controlled trials in several databases and identified 22 trials reporting safety data. Parameters of calcium metabolism, falls, hospitalization, and mortality were assessed.\n\nResults\nThe selected trials comprised a total number of 12,952 participants. All trials used supplemental vitamin D3. The relative risk (RR) of hypercalcemia in the vitamin D vs. control arm was 2.21 (95%CI: 1.26–3.87; 10 studies), with a vitamin D-induced frequency of hypercalcemia of 4 cases per 1000 individuals. Subgroup analysis in trials with &gt; 100 and ≤ 100 study participants revealed an RR of 2.63 (95%CI: 1.30–5.30; 7 studies) and 0.80 (95%CI: 0.24–2.62; 3 studies), respectively (Pinteraction = 0.06). Risks of falls and hospitalization were also significantly increased in the vitamin D arm with an RR of 1.25 (95%CI: 1.01–1.55; 4 studies) and 1.16 (95%CI: 1.01–1.33; 7 studies), respectively. Risks of hypercalciuria, kidney stones, and mortality did not differ significantly between study arms. Quality assessment revealed high risk of incomplete reporting of safety-related outcome data.\n\nConclusion\nSupplemental vitamin D doses of 3200–4000 IU/d appear to increase the risk of hypercalcemia and some other adverse events in a small proportion of individuals, indicating that this dose is not completely safe. In future studies, rigorous reporting of safety-related outcomes is needed when using moderately high doses of vitamin D.",
+  "doi": "10.1007/s00394-023-03124-w",
+  "url": "https://doi.org/10.1007/s00394-023-03124-w",
+  "pdf_url": "",
+  "venue": "European Journal of Nutrition",
+  "citation_count": 31,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T20:53:53.879032+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-053.md",
+  "quality_details": {
+    "content_length": 54035,
+    "alpha_ratio": 0.71,
+    "sentence_count": 404,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "src-002",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://drdavidbilstrom.com/the-essential-role-of-tmg-in-boosting-your-b-vitamin-formula",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-20T18:22:22.697774+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-002.md",
+  "quality_details": {
+    "content_length": 293,
+    "alpha_ratio": 0.754,
+    "sentence_count": 5,
+    "reasons": [
+      "content too short (293 chars < 500)"
+    ]
+  }
+}

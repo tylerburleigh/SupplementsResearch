@@ -1,0 +1,38 @@
+{
+  "id": "src-210",
+  "title": "The Potential Role of Creatine Supplementation in Glycemic Control and Insulin Resistance: A Literature Review",
+  "authors": [
+    "Królikowska, Klaudia",
+    "Sikora, Jakub",
+    "Knychalska, Karolina",
+    "Łabuda, Mikołaj",
+    "Słojewska, Aleksandra",
+    "Kotkowiak, Agata",
+    "Sowińska, Teresa",
+    "Mentel, Oliwia",
+    "Bogucka, Adrianna",
+    "Szema, Agnieszka"
+  ],
+  "year": 2025,
+  "abstract": "Introduction and purposeType 2 diabetes mellitus (T2DM) is a severe metabolic disorder characterized by insulin resistance and persistent hyperglycemia, leading to serious cardiometabolic complications. Recent studies suggest that creatine supplementation may influence glucose metabolism and insulin sensitivity. This review aims to summarize the current knowledge on the effects of creatine on glucose regulation and its potential therapeutic implications for metabolic disorders.\n\nDescription of the state of knowledgeCreatine is a non-protein amino acid primarily stored in muscle cells as phosphocreatine, which is essential for ATP resynthesis. Beyond its role in energy metabolism, creatine exhibits pleiotropic effects, including modulation of glycogen stores, oxidative stress, inflammatory responses, and insulin signaling. Studies indicate that creatine supplementation can enhance glucose uptake by increasing GLUT-4 translocation and activating AMPK, mimicking the mechanisms induced by exercise. Moreover, some findings suggest that creatine may improve glycemic control, particularly when combined with physical activity. However, while animal studies demonstrate a reduction in hyperglycemia, clinical studies report inconsistent results regarding insulin secretion and overall metabolic effects.\nConclusionsCreatine supplementation appears promising as an adjunct therapy for improving insulin sensitivity and glucose homeostasis, particularly in combination with exercise. However, the exact mechanisms and long-term metabolic outcomes remain to be fully elucidated. Further randomized controlled trials are needed to determine its clinical applicability in T2DM and other metabolic disorders.",
+  "doi": "10.12775/jehs.2025.80.59992",
+  "url": "https://doi.org/10.12775/jehs.2025.80.59992",
+  "pdf_url": "",
+  "venue": "Journal of Education, Health and Sport",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T14:10:07.504146+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-210.md",
+  "quality_details": {
+    "content_length": 48804,
+    "alpha_ratio": 0.709,
+    "sentence_count": 494,
+    "reasons": []
+  }
+}

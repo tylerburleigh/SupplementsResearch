@@ -1,0 +1,23 @@
+{
+  "id": "src-090",
+  "title": "Exposure to 77PD quinone inhibits longevity and healthspan via affecting mitochondrial signals in Caenorhabditis elegans.",
+  "authors": [
+    "Shu, Chengjie",
+    "Hu, Dayu",
+    "Cao, Shengqi",
+    "Hou, Beiwei",
+    "Gu, Shunlin",
+    "Fu, Lei",
+    "Zhang, Fenglun",
+    "Wang, Dayong"
+  ],
+  "doi": "10.1016/j.ecoenv.2026.119767",
+  "url": "https://www.semanticscholar.org/paper/fb845bf3d34dc9bbb0f692a977a54b7756204c25",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "Ecotoxicology and Environmental Safety",
+  "citation_count": 1,
+  "abstract": "The 77PD quinone (77PDQ), a member of PPDQs family, can be frequently detected in environment and bioavailable to organisms. In nematodes, toxicity of 77PDQ on longevity and healthspan and underlying mechanism were determined. Exposure to 0.1-10 μg/L 77PDQ reduced lifespan and inhibited healthspan indicated by change of locomotion behavior during the aging. 77PDQ was accumulated in mitochondrion, and caused mitochondrial dysfunction. Activities of mitochondrial complex I/II and expression of component genes for complex I/II were inhibited by 77PDQ, and RNAi of component genes of gas-1 and mev-1 strengthened 77PDQ toxicity on longevity and healthspan. Additionally, expressions of hsp-6/60, mitochondrial UPR (mt UPR) marker genes, were inhibited by 10 μg/L 77PDQ, suggesting induction of suppression in mt UPR. 77PDQ toxicity on longevity and healthspan was also exacerbated by hsp-6/60 RNAi. Pharmacological treatment with cuminaldehyde inhibited 77PDQ toxicity on longevity and healthspan and in causing suppression in mt UPR. This beneficial effect of cuminaldehyde could be disrupted by gas-1, mev-1, hsp-6, and hsp-60 RNAi, which further confirmed role of these mitochondrial signals in controlling 77PDQ toxicity. Therefore, risk of 77PDQ exposure in inhibiting longevity and healthspan was suggested, which was associated with dysregulation of mitochondrial signals.",
+  "type": "academic",
+  "pdf_url": ""
+}

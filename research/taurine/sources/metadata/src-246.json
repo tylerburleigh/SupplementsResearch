@@ -1,0 +1,25 @@
+{
+  "id": "src-246",
+  "title": "Programmable Food-Derived Peptide Coassembly Strategies for Boosting Targeted Colitis Therapy by Enhancing Oral Bioavailability and Restoring Gut Microenvironment Homeostasis",
+  "authors": [
+    "Yang, Meng",
+    "Liu, Jingbo",
+    "Liu, Chunmei",
+    "Zhang, Hui",
+    "Li, Shanglin",
+    "Zhang, Ting",
+    "Yu, Zhipeng",
+    "Chi, Xiannian",
+    "Zhang, Zhihui",
+    "Du, Zhiyang"
+  ],
+  "doi": "10.1021/acsnano.4c11108",
+  "url": "https://openalex.org/W4405988875",
+  "provider": "openalex",
+  "year": 2025,
+  "venue": "ACS Nano",
+  "citation_count": 45,
+  "abstract": "Orally targeting nanostrategies of multiple nutraceuticals have attracted increasing attention in ulcerative colitis (UC) therapy for superior patient compliance, cost-effectiveness, and biocompatibility. However, the actual targeting delivery and bioefficacy of nutraceuticals are extremely restricted by their poor solubility, interior gastrointestinal retention, and base permeability. Herein, we developed controllable colon-targeting nanoparticles (NPs) composed of a quaternary ammonium chitosan (HTCC) shell and succinic acid-modified γ-cyclodextrin (SACD) core for precise UC treatment. Egg white-derived peptides (EWDP, typical food-derived peptides) could not only function as potential cross-linkers to induce the differential coassembly with the above biopolymers but also aid the hydrophobic curcumin (Cur) solubility as well as nutrition enhancers for oral synergism of colitis therapy. More specifically, NPs with higher EWDP coassembly efficiency exhibited better pH-sensitive colloidal tunability (e.g., smaller size, higher rigidity, and roughness) and robust nutraceuticals (EWDP/Cur) coloading capacity (24.0-33.2% ≫ 10%, pH 2.0-7.0). Compared with pure nutraceuticals, NPs exhibited excellent cellular absorption (almost 10 times) and oral bioavailability (4.19-5.05 times) enhancement via faster mucus permeation and macropinocytosis transport, indirectly regulating the systemic inflammatory response. The sustainable sequential release and targeted accumulation profiles of NPs directly facilitated the interactions with the colonic microenvironment, verified by the intestinal barrier recovery and gut microbiota restoration. Moreover, the critical role of amino acid metabolism reconfirmed the importance of EWDP coassembly efficiency in maintaining intestinal homeostasis. Overall, this study would provide a facile, quantitative, and versatile perspective into the programmable design of food-derived peptide (e.g., EWDP) coassembled nanoplatforms for oral targeted therapy of UC.",
+  "type": "academic",
+  "pdf_url": ""
+}

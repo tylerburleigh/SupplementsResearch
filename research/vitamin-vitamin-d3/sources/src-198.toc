@@ -1,0 +1,27 @@
+34	2	Keywords
+37	2	1 Introduction
+44	2	Open Access
+45	2	Edited By
+48	2	Reviewed By
+69	2	Citation
+78	2	Copyright
+139	2	2 Materials and methods
+140	3	2.1 Study design and participant selection
+170	3	2.2 Anthropometric and laboratory
+194	3	2.3 Outcome assessment
+209	3	2.4 Definition of diabetes status
+216	3	2.5 Calculation of Indices
+223	3	2.6 Statistical analysis
+230	4	2.6.1 Multivariate linear regression
+264	4	2.6.3 Mediation analyses
+290	2	3 Results
+291	3	3.1 Baseline characteristics of participants
+339	3	3.3 Vitamin D and total mortality
+353	3	3.4 Mediation analyses of lipids,
+484	2	4 Discussion
+671	2	Ade
+915	2	Ade
+1121	2	Author Contributions
+1142	2	Acknowledgments
+1165	2	References
+1232	2	22. Oczkowicz M, Szymczyk B, Swiatkiewicz M, Furgal-Dzierzuk I, Koseniuk A,

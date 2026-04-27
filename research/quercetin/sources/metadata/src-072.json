@@ -1,0 +1,26 @@
+{
+  "id": "src-072",
+  "title": "The effects of guar gum supplementation on glycemic control, body mass and blood pressure in adults: a GRADE-assessed systematic review and meta-analysis of randomized clinical trials.",
+  "authors": [
+    "Alaeian, Mohammad Javad",
+    "Pourreza, Sanaz",
+    "Yousefi, Mohsen",
+    "Golalipour, Elnaz",
+    "Setayesh, L.",
+    "Khosroshahi, M. Zeinali",
+    "Bagheri, R.",
+    "Ashtary-Larky, D.",
+    "Wong, A.",
+    "Zamani, Mohammad",
+    "Asbaghi, Omid"
+  ],
+  "doi": "10.1016/j.diabres.2023.110604",
+  "url": "https://www.semanticscholar.org/paper/975467ae2a654b60467cddd364b2079015eb0d9d",
+  "provider": "semantic_scholar",
+  "year": 2023,
+  "venue": "Diabetes Research and Clinical Practice",
+  "citation_count": 10,
+  "abstract": "BACKGROUND\nThis systematic review and meta-analysis sought to evaluate the effects ofguar gum supplementation on glycemic control, blood pressure, and body mass in adults.\n\nMETHODS\nRelevant studies were obtained by searching the PubMed, SCOPUS, Embase, and Web of Science databases (from inception to January 2022). Weighted mean differences (WMD) and 95% confidence intervals (CIs) were pooled using a random-effects model. Heterogeneity, sensitivity analysis, and publication bias were reported using standard methods.\n\nRESULTS\nPooled analysis of 14 randomized controlled trials (RCTs) revealed that guar gum supplementation led to significant reductions in hemoglobin A1c (HbA1c) (WMD: -0.47 mg/dL, 95% CI: -0.75, -0.18, p = 0.001). However, there was no effect on fasting blood sugar (FBS), systolic and diastolic blood pressure, and body mass among adults in comparison with the control group. A subgroup analysis demonstrated that intervention in patients with type 2 diabetes (T2DM), and high supplementation dosages (>15 g/d) significantly decreased FBS concentrations, but not in other subgroups.\n\nCONCLUSION\nGuar gum supplementation may yield a beneficial effect on glycemic control in T2DM patients. However, the extant clinical trials, thus far, are not sufficient enough to form guidelines for clinical practice.",
+  "type": "academic",
+  "pdf_url": ""
+}

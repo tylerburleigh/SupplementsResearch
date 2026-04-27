@@ -1,0 +1,31 @@
+{
+  "id": "src-312",
+  "title": "Oral MIB-626 (β Nicotinamide Mononucleotide) Safely Raises Blood Nicotinamide Adenine Dinucleotide Levels in Hospitalized Patients With COVID-19 and Acute Kidney Injury: A Randomized Controlled Trial.",
+  "authors": [
+    "Pencina, Karol M",
+    "Leaf, David E",
+    "Valderrabano, Rodrigo J",
+    "Waikar, Sushrut S",
+    "Mehta, Tapan S",
+    "Shang, Yili Valentine",
+    "Latham, Nancy K",
+    "John, Tejossy",
+    "Volpi, Elena",
+    "Fusco, Dahlene",
+    "Memish-Beleva, Yusnie",
+    "Krishnamurthy, Shobana",
+    "Lavu, Siva",
+    "Karmi, Salma",
+    "Livingston, David J",
+    "Bhasin, Shalender"
+  ],
+  "doi": "10.1096/fba.2025-00014",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40746868",
+  "provider": "pubmed",
+  "year": 2025,
+  "venue": "FASEB bioAdvances",
+  "citation_count": 0,
+  "abstract": "Nicotinamide adenine dinucleotide (NAD+) plays an important role in the innate immune response and is depleted during SARS-CoV-2 infection due to increased turnover. It is unknown whether treatment with NAD+ precursors can safely raise NAD+ levels in patients with COVID-19. To determine whether MIB-626 (β-nicotinamide mononucleotide), an NAD+ precursor, can safely increase blood NAD+ levels and attenuate acute kidney injury (AKI) and inflammation in hospitalized patients with COVID-19, 42 adults, ≥ 18 years, hospitalized with COVID-19 and AKI, were randomized in a 3:2 ratio to MIB-626 1.0-g or placebo tablets twice daily for 14 days. Circulating NAD+ and its metabolites, markers of AKI, inflammation, and disease severity, were assessed. MIB-626 treatment significantly but gradually raised blood NAD+ levels to a peak between 5 to 14 days (16.0 ± 6.9, 25.5 ± 12.6, and 42.6 ± 25.6 μg/mL at baseline, days 5 and 14) and raised plasma concentrations of NAD+ metabolites 1-methylnicotinamide, N-methyl, 2-pyridone, 4-carboxamide rapidly to a peak by day 3. Changes in serum creatinine, cystatin-C, and serum markers of AKI did not differ significantly between groups. Serum CRP, IL-6, and TNFα and indices of disease severity also did not differ between groups. MIB-626 treatment of patients with COVID-19 and AKI safely and substantially raised blood NAD+ and plasma concentrations of NAD+ metabolites. Markers of AKI, inflammation, and disease severity did not differ between groups, likely due to the slow rise in NAD+ levels. Future studies should assess whether a rapid increase in NAD+ by parenteral administration can attenuate disease severity and AKI. Trial Registration: ClinicalTrials.gov Identifier: NCT05038488.",
+  "type": "academic",
+  "pdf_url": ""
+}

@@ -1,0 +1,27 @@
+{
+  "id": "src-149",
+  "title": "Prognosis Research Strategy (PROGRESS) 2: Prognostic Factor Research",
+  "authors": [
+    "Riley, Richard D",
+    "Hayden, Jill A.",
+    "Steyerberg, Ewout W.",
+    "Moons, Karel G.M.",
+    "Abrams, Keith R.",
+    "Kyzas, P.",
+    "Malats, Núria",
+    "Briggs, Andrew",
+    "Schroter, Sara",
+    "Altman, Douglas G.",
+    "Hemingway, Harry",
+    "Group, for the PROGRESS"
+  ],
+  "doi": "10.1371/journal.pmed.1001380",
+  "url": "https://openalex.org/W2100741073",
+  "provider": "openalex",
+  "year": 2013,
+  "venue": "PLoS Medicine",
+  "citation_count": 797,
+  "abstract": "Prognostic factor research aims to identify factors associated with subsequent clinical outcome in people with a particular disease or health condition. In this article, the second in the PROGRESS series, the authors discuss the role of prognostic factors in current clinical practice, randomised trials, and developing new interventions, and explain why and how prognostic factor research should be improved.",
+  "type": "academic",
+  "pdf_url": "https://journals.plos.org/plosmedicine/article/file?id=10.1371/journal.pmed.1001380&type=printable"
+}

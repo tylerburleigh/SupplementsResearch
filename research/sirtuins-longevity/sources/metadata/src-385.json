@@ -1,0 +1,20 @@
+{
+  "id": "src-385",
+  "title": "Advances in the Synthesis and Physiological Metabolic Regulation of Nicotinamide Mononucleotide",
+  "authors": [
+    "Zheng, Chuxiong",
+    "Li, Yumeng",
+    "Wu, X.",
+    "Gao, Le",
+    "Chen, Xiaoyi"
+  ],
+  "doi": "10.3390/nu16142354",
+  "url": "https://openalex.org/W4400879769",
+  "provider": "openalex",
+  "year": 2024,
+  "venue": "Nutrients",
+  "citation_count": 21,
+  "abstract": "Nicotinamide mononucleotide (NMN), the direct precursor of nicotinamide adenine dinucleotide (NAD<sup>+</sup>), is involved in the regulation of many physiological and metabolic reactions in the body. NMN can indirectly affect cellular metabolic pathways, DNA repair, and senescence, while also being essential for maintaining tissues and dynamic metabolic equilibria, promoting healthy aging. Therefore, NMN has found many applications in the food, pharmaceutical, and cosmetics industries. At present, NMN synthesis strategies mainly include chemical synthesis and biosynthesis. Despite its potential benefits, the commercial production of NMN by organic chemistry approaches faces environmental and safety problems. With the rapid development of synthetic biology, it has become possible to construct microbial cell factories to produce NMN in a cost-effective way. In this review, we summarize the chemical and biosynthetic strategies of NMN, offering an overview of the recent research progress on host selection, chassis cell optimization, mining of key enzymes, metabolic engineering, and adaptive fermentation strategies. In addition, we also review the advances in the role of NMN in aging, metabolic diseases, and neural function. This review provides comprehensive technical guidance for the efficient biosynthesis of NMN as well as a theoretical basis for its application in the fields of food, medicine, and cosmetics.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2072-6643/16/14/2354/pdf?version=1721466703"
+}

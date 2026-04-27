@@ -1,0 +1,33 @@
+{
+  "id": "src-296",
+  "title": "Identification of Serum Metabolites Associated With Risk of Type 2 Diabetes Using a Targeted Metabolomic Approach",
+  "authors": [
+    "Floegel, Anna",
+    "Stefan, Norbert",
+    "Yu, Zhonghao",
+    "Mühlenbruch, Kristin",
+    "Drogan, Dagmar",
+    "Joost, Hans‐Georg",
+    "Fritsche, Andreas",
+    "Häring, Hans‐Ulrich",
+    "Angelis, Martin Hrabě de",
+    "Peters, Annette",
+    "Roden, Michael",
+    "Prehn, Cornelia",
+    "Wang‐Sattler, Rui",
+    "Illig, Thomas",
+    "Schulze, Matthias B.",
+    "Adamski, Jerzy",
+    "Boeing, Heiner",
+    "Pischon, Tobias"
+  ],
+  "doi": "10.2337/db12-0495",
+  "url": "https://openalex.org/W2158958532",
+  "provider": "openalex",
+  "year": 2012,
+  "venue": "Diabetes",
+  "citation_count": 1010,
+  "abstract": "Metabolomic discovery of biomarkers of type 2 diabetes (T2D) risk may reveal etiological pathways and help to identify individuals at risk for disease. We prospectively investigated the association between serum metabolites measured by targeted metabolomics and risk of T2D in the European Prospective Investigation into Cancer and Nutrition (EPIC)-Potsdam (27,548 adults) among all incident cases of T2D (n = 800, mean follow-up 7 years) and a randomly drawn subcohort (n = 2,282). Flow injection analysis tandem mass spectrometry was used to quantify 163 metabolites, including acylcarnitines, amino acids, hexose, and phospholipids, in baseline serum samples. Serum hexose; phenylalanine; and diacyl-phosphatidylcholines C32:1, C36:1, C38:3, and C40:5 were independently associated with increased risk of T2D and serum glycine; sphingomyelin C16:1; acyl-alkyl-phosphatidylcholines C34:3, C40:6, C42:5, C44:4, and C44:5; and lysophosphatidylcholine C18:2 with decreased risk. Variance of the metabolites was largely explained by two metabolite factors with opposing risk associations (factor 1 relative risk in extreme quintiles 0.31 [95% CI 0.21-0.44], factor 2 3.82 [2.64-5.52]). The metabolites significantly improved T2D prediction compared with established risk factors. They were further linked to insulin sensitivity and secretion in the Tübingen Family study and were partly replicated in the independent KORA (Cooperative Health Research in the Region of Augsburg) cohort. The data indicate that metabolic alterations, including sugar metabolites, amino acids, and choline-containing phospholipids, are associated early on with a higher risk of T2D.",
+  "type": "academic",
+  "pdf_url": "https://diabetes.diabetesjournals.org/content/diabetes/62/2/639.full.pdf"
+}

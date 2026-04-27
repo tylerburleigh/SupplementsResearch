@@ -1,0 +1,26 @@
+{
+  "id": "src-166",
+  "title": "The mTOR pathway is necessary for survival of mice with short telomeres",
+  "authors": [
+    "Ferrara-Romeo, Iole",
+    "Martínez, Paula",
+    "Saraswati, S.",
+    "Whittemore, Kurt",
+    "Graña-Castro, Osvaldo",
+    "Poluha, Lydia Thelma",
+    "Serrano, Rosa",
+    "Hernández-Encinas, Elena",
+    "Blanco-Aparicio, C.",
+    "Flores, Juana Maria",
+    "Blasco, M."
+  ],
+  "doi": "10.1038/s41467-020-14962-1",
+  "url": "https://www.semanticscholar.org/paper/85ce055826a174f82e386ed05ae11caf3e7504ef",
+  "provider": "semantic_scholar",
+  "year": 2020,
+  "venue": "Nature Communications",
+  "citation_count": 60,
+  "abstract": "Telomerase deficiency leads to age-related diseases and shorter lifespans. Inhibition of the mechanistic target of rapamycin (mTOR) delays aging and age-related pathologies. Here, we show that telomerase deficient mice with short telomeres (G2-Terc−/−) have an hyper-activated mTOR pathway with increased levels of phosphorylated ribosomal S6 protein in liver, skeletal muscle and heart, a target of mTORC1. Transcriptional profiling confirms mTOR activation in G2-Terc−/− livers. Treatment of G2-Terc−/− mice with rapamycin, an inhibitor of mTORC1, decreases survival, in contrast to lifespan extension in wild-type controls. Deletion of mTORC1 downstream S6 kinase 1 in G3-Terc−/− mice also decreases longevity, in contrast to lifespan extension in single S6K1−/− female mice. These findings demonstrate that mTOR is important for survival in the context of short telomeres, and that its inhibition is deleterious in this setting. These results are of clinical interest in the case of human syndromes characterized by critically short telomeres. Telomerase deficiency leads to age-related diseases and shortened lifespan, while inhibition of the mTOR pathway delays aging. Here, the authors show that inhibition of mTORC1 signaling shortens the lifespan of telomerase deficient mice.",
+  "type": "academic",
+  "pdf_url": "https://www.nature.com/articles/s41467-020-14962-1.pdf"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "src-195",
+  "title": "Guidelines for the Primary Prevention of Stroke",
+  "authors": [
+    "Meschia, James F.",
+    "Bushnell, Cheryl",
+    "Boden-Albala, Bernadette",
+    "Braun, Lynne T.",
+    "Bravata, Dawn M.",
+    "Chaturvedi, Seemant",
+    "Creager, Mark A.",
+    "Eckel, Robert H.",
+    "Elkind, Mitchell S.V.",
+    "Fornage, Myriam",
+    "Goldstein, Larry B.",
+    "Greenberg, Steven M.",
+    "Horvath, Susanna E.",
+    "Iadecola, Costantino",
+    "Jauch, Edward C.",
+    "Moore, Wesley S.",
+    "Wilson, John A."
+  ],
+  "doi": "10.1161/str.0000000000000046",
+  "url": "https://openalex.org/W2114635452",
+  "provider": "openalex",
+  "year": 2014,
+  "venue": "Stroke",
+  "citation_count": 2647,
+  "abstract": "The aim of this updated statement is to provide comprehensive and timely evidence-based recommendations on the prevention of stroke among individuals who have not previously experienced a stroke or transient ischemic attack. Evidence-based recommendations are included for the control of risk factors, interventional approaches to atherosclerotic disease of the cervicocephalic circulation, and antithrombotic treatments for preventing thrombotic and thromboembolic stroke. Further recommendations are provided for genetic and pharmacogenetic testing and for the prevention of stroke in a variety of other specific circumstances, including sickle cell disease and patent foramen ovale.",
+  "type": "academic",
+  "pdf_url": "https://www.ahajournals.org/doi/pdf/10.1161/STR.0000000000000046"
+}

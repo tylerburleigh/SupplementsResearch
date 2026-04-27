@@ -1,0 +1,36 @@
+{
+  "id": "src-425",
+  "title": "Evaluation of the Effect of Zinc, Quercetin, Bromelain and Vitamin C on COVID-19 Patients",
+  "authors": [
+    "Kamel, Amr",
+    "Abdelseed, Heba",
+    "Albalawi, Yousef",
+    "Aslsalameen, Eman",
+    "Almutairi, Yousef",
+    "Alkattan, Abdullah"
+  ],
+  "year": 2020,
+  "abstract": "Abstract\nCoronavirus disease 2019 (COVID-19) is an infectious disease caused by a new strain of coronavirus. There are three phases of COVID-19: early infection stage, pulmonary stage and hyper-inflammation stage respectively. It is important to prevent lung or other organs injuries by preventing phase-II and phase-III via pharmacological or non-pharmacological treatments. This was a case series study done on twenty-two patients confirmed to be infected with SARS-CoV-2 and diagnosed with COVID-19. Patients in this study have been used quercetin 800 mg, bromelain 165 mg, zinc acetate 50 mg and ascorbic acid 1 g once daily as supplements for 3 to 5 days during SARS-CoV-2 infection. The aim of this study is to evaluate the safety and efficacy of quercetin, bromelain, zinc and ascorbic acid combination supplements on patients with COVID-19. The mean levels of WBC, ANC, ALC, AMC and AST were normal among all included patients before and after taking quercetin, bromelain, zinc and ascorbic acid supplements (P-value &gt; 0.05). Quercetin 800 mg, bromelain 165 mg, zinc acetate 50 mg and ascorbic acid 1 g once daily supplements were safe for patients infected with SARS-CoV-2 and may prevent poor prognosis. Randomized clinical trials needed in the future to ensure the efficacy of quercetin, bromelain, zinc and vitamin c combination.",
+  "doi": "10.1101/2020.12.22.20245993",
+  "url": "https://doi.org/10.1101/2020.12.22.20245993",
+  "pdf_url": "",
+  "venue": "medRxiv",
+  "citation_count": 6,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-22T18:14:42.951824+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-425.md",
+  "quality_details": {
+    "content_length": 7964,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

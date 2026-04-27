@@ -1,0 +1,40 @@
+{
+  "id": "src-039",
+  "title": "Multicenter Randomized Controlled Trial of Vitamin K Antagonist Replacement by Rivaroxaban with or without Vitamin K2 in Hemodialysis Patients with Atrial Fibrillation: the Valkyrie Study",
+  "authors": [
+    "De Vriese, An S.",
+    "Caluwé, Rogier",
+    "Pyfferoen, Lotte",
+    "De Bacquer, Dirk",
+    "De Boeck, Koen",
+    "Delanote, Joost",
+    "De Surgeloose, Didier",
+    "Van Hoenacker, Piet",
+    "Van Vlem, Bruno",
+    "Verbeke, Francis"
+  ],
+  "year": 2020,
+  "abstract": "Significance Statement\nFunctional vitamin K deficiency, exacerbated by the use of vitamin K antagonists (VKAs), is thought to contribute to the rapid progression of vascular calcifications in patients on dialysis. We randomized patients receiving chronic hemodialysis with atrial fibrillation to VKAs, rivaroxaban, or rivaroxaban with high-dose vitamin K2 supplements. During 18 months of follow-up, vitamin K status improved significantly by withdrawal of VKAs and vitamin K2 supplementation. Nevertheless, changes in coronary artery, thoracic aorta, and cardiac valve calcium scores and pulse wave velocity were not different among the treatment arms. Replacement of VKAs by rivaroxaban was safe and potentially associated with less life-threatening and major bleeding. Further studies should determine whether earlier and multitargeted intervention can halt the progression of vascular calcifications in dialysis.\n\nBackground\nVitamin K antagonists (VKAs), although commonly used to reduce thromboembolic risk in atrial fibrillation, have been incriminated as probable cause of accelerated vascular calcification (VC) in patients on hemodialysis. Functional vitamin K deficiency may further contribute to their susceptibility for VC. We investigated the effect of vitamin K status on VC progression in 132 patients on hemodialysis with atrial fibrillation treated with VKAs or qualifying for anticoagulation.\n\nMethods\n\nPatients were randomized to VKAs with target INR 2–3, rivaroxaban 10 mg daily, or rivaroxaban 10 mg daily plus vitamin K2 2000\nµ\ng thrice weekly during 18 months. Systemic dp-ucMGP levels were quantified to assess vascular vitamin K status. Cardiac and thoracic aorta calcium scores and pulse wave velocity were measured to evaluate VC progression.\n\nResults\nBaseline dp-ucMGP was severely elevated in all groups. Initiation or continuation of VKAs further increased dp-ucMGP, whereas levels decreased in the rivaroxaban group and to a larger extent in the rivaroxaban+vitamin K2 group, but remained nevertheless elevated. Changes in coronary artery, thoracic aorta, and cardiac valve calcium scores and pulse wave velocity were not significantly different among the treatment arms. All cause death, stroke, and cardiovascular event rates were similar between the groups. Bleeding outcomes were not significantly different, except for a lower number of life-threatening and major bleeding episodes in the rivaroxaban arms versus the VKA arm.\n\nConclusions\nWithdrawal of VKAs and high-dose vitamin K2 improve vitamin K status in patients on hemodialysis, but have no significant favorable effect on VC progression. Severe bleeding complications may be lower with rivaroxaban than with VKAs.",
+  "doi": "10.1681/asn.2019060579",
+  "url": "https://doi.org/10.1681/asn.2019060579",
+  "pdf_url": "",
+  "venue": "Journal of the American Society of Nephrology",
+  "citation_count": 147,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T10:53:54.368830+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-039.md",
+  "quality_details": {
+    "content_length": 3809,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

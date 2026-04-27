@@ -1,0 +1,26 @@
+{
+  "id": "src-255",
+  "title": "Potential Applications of NRF2 Modulators in Cancer Therapy",
+  "authors": [
+    "Panieri, Emiliano",
+    "Djordjević, Aleksandra Buha",
+    "Telkoparan‐Akillilar, Pelin",
+    "Cevik, Dilek",
+    "Kouretas, Demetrios",
+    "Veskoukis, Aristidis S.",
+    "Skaperda, Zoi",
+    "Tsatsakis, Aristidis",
+    "Wallace, David R.",
+    "Süzen, Síbel",
+    "Saso, Luciano"
+  ],
+  "doi": "10.3390/antiox9030193",
+  "url": "https://openalex.org/W3008752357",
+  "provider": "openalex",
+  "year": 2020,
+  "venue": "Antioxidants",
+  "citation_count": 154,
+  "abstract": "The nuclear factor erythroid 2-related factor 2 (NRF2)-Kelch-like ECH-associated protein 1 (KEAP1) regulatory pathway plays an essential role in protecting cells and tissues from oxidative, electrophilic, and xenobiotic stress. By controlling the transactivation of over 500 cytoprotective genes, the NRF2 transcription factor has been implicated in the physiopathology of several human diseases, including cancer. In this respect, accumulating evidence indicates that NRF2 can act as a double-edged sword, being able to mediate tumor suppressive or pro-oncogenic functions, depending on the specific biological context of its activation. Thus, a better understanding of the mechanisms that control NRF2 functions and the most appropriate context of its activation is a prerequisite for the development of effective therapeutic strategies based on NRF2 modulation. In line of principle, the controlled activation of NRF2 might reduce the risk of cancer initiation and development in normal cells by scavenging reactive-oxygen species (ROS) and by preventing genomic instability through decreased DNA damage. In contrast however, already transformed cells with constitutive or prolonged activation of NRF2 signaling might represent a major clinical hurdle and exhibit an aggressive phenotype characterized by therapy resistance and unfavorable prognosis, requiring the use of NRF2 inhibitors. In this review, we will focus on the dual roles of the NRF2-KEAP1 pathway in cancer promotion and inhibition, describing the mechanisms of its activation and potential therapeutic strategies based on the use of context-specific modulation of NRF2.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2076-3921/9/3/193/pdf?version=1585271434"
+}

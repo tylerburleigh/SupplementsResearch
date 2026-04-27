@@ -1,0 +1,33 @@
+{
+  "id": "src-229",
+  "title": "Vitamin K, vertebral fractures, vascular calcifications, and mortality: VItamin K Italian (VIKI) dialysis study",
+  "authors": [
+    "Fusaro, Maria",
+    "Noale, Marianna",
+    "Viola, Valentina",
+    "Galli, Francesco",
+    "Tripepi, Giovanni",
+    "Vajente, Nicola",
+    "Plebani, Mario",
+    "Zaninotto, Martina",
+    "Guglielmi, Giuseppe",
+    "Miotto, Diego",
+    "Carbonare, Luca Dalle",
+    "D’Angelo, Angela",
+    "Naso, A",
+    "Grimaldi, Cristina",
+    "Miozzo, Davide",
+    "Giannini, Sandro",
+    "Gallieni, Maurizio",
+    "Investigators, for the VItamin K Italian (VIKI) Dialysis Study"
+  ],
+  "doi": "10.1002/jbmr.1677",
+  "url": "https://openalex.org/W2092720786",
+  "provider": "openalex",
+  "year": 2012,
+  "venue": "Journal of Bone and Mineral Research",
+  "citation_count": 136,
+  "abstract": "Vitamin K (vitamin K1 or phylloquinone and vitamin K2, a series of menaquinones [MKs]) is involved in the production of bone and matrix amino acid γ-carboxy-glutamic acid (Gla) proteins, regulating bone and vascular calcification. Low vitamin K concentrations are associated with increased risks of fractures and vascular calcification, and frequent complications in hemodialysis patients. We carried out an observational study to establish the prevalence of vitamin K deficiency and to assess the relationship between vitamin K status, vertebral fractures, vascular calcification, and survival in 387 patients on hemodialysis for ≥1 year. We determined plasma levels of vitamin K compound, bone-Gla-protein, matrix-Gla-protein, and routine biochemistry. Vertebral fractures (reduction in vertebral body height by ≥20%) and aortic and iliac calcifications were also investigated in a spine (D(5) -L(4)) radiograph. Three-year patient survival was analyzed. Important proportions of patients had deficiency of MK7 (35.4%), vitamin K1 (23.5%), and MK4 (14.5%). A total of 55.3% of patients had vertebral fractures, 80.6% had abdominal aorta calcification, and 56.1% had iliac calcification. Vitamin K1 deficiency was the strongest predictor of vertebral fractures (odds ratio [OR], 2.94; 95% confidence interval [CI], 1.38-6.26). MK4 deficiency was a predictor of aortic calcification (OR, 2.82; 95% CI, 1.14-7.01), whereas MK5 deficiency actually protected against it (OR, 0.38; 95% CI, 0.15-0.95). MK7 deficiency was a predictor of iliac calcification (OR, 1.64; 95% CI, 1.03-2.60). The presence of vertebral fractures was also a predictor of vascular calcifications (OR, 1.76; 95% CI, 1.00-3.08). Increased alkaline phosphatase and C reactive protein (CRP), age, and cerebrovascular events were predictors of mortality. Our study suggests that the vitamin K system may be important for preserving bone mass and avoiding vascular calcification in hemodialysis patients, pointing out a possible role of vitamin K in bone and vascular health. Based on our results, we suggest that the general population should also be studied for vitamin K deficiency as a possible cause of both vertebral fractures and vascular calcification.",
+  "type": "academic",
+  "pdf_url": ""
+}

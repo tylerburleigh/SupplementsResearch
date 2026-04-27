@@ -1,0 +1,26 @@
+{
+  "id": "src-509",
+  "title": "Methionine metabolism in chronic liver diseases: an update on molecular mechanism and therapeutic implication",
+  "authors": [
+    "Li, Zhanghao",
+    "Wang, Feixia",
+    "Liang, Baoyu",
+    "Su, Ying",
+    "Sun, Sumin",
+    "Xia, Siwei",
+    "Shao, Jiangjuan",
+    "Zhang, Zili",
+    "Hong, Min",
+    "Zhang, Feng",
+    "Zheng, Shizhong"
+  ],
+  "doi": "10.1038/s41392-020-00349-7",
+  "url": "https://openalex.org/W3106570377",
+  "provider": "openalex",
+  "year": 2020,
+  "venue": "Signal Transduction and Targeted Therapy",
+  "citation_count": 134,
+  "abstract": "As one of the bicyclic metabolic pathways of one-carbon metabolism, methionine metabolism is the pivot linking the folate cycle to the transsulfuration pathway. In addition to being a precursor for glutathione synthesis, and the principal methyl donor for nucleic acid, phospholipid, histone, biogenic amine, and protein methylation, methionine metabolites can participate in polyamine synthesis. Methionine metabolism disorder can aggravate the damage in the pathological state of a disease. In the occurrence and development of chronic liver diseases (CLDs), changes in various components involved in methionine metabolism can affect the pathological state through various mechanisms. A methionine-deficient diet is commonly used for building CLD models. The conversion of key enzymes of methionine metabolism methionine adenosyltransferase (MAT) 1 A and MAT2A/MAT2B is closely related to fibrosis and hepatocellular carcinoma. In vivo and in vitro experiments have shown that by intervening related enzymes or downstream metabolites to interfere with methionine metabolism, the liver injuries could be reduced. Recently, methionine supplementation has gradually attracted the attention of many clinical researchers. Most researchers agree that adequate methionine supplementation can help reduce liver damage. Retrospective analysis of recently conducted relevant studies is of profound significance. This paper reviews the latest achievements related to methionine metabolism and CLD, from molecular mechanisms to clinical research, and provides some insights into the future direction of basic and clinical research.",
+  "type": "academic",
+  "pdf_url": "https://www.nature.com/articles/s41392-020-00349-7.pdf"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "src-278",
+  "title": "Synergistic Enhancement of 5-Fluorouracil Chemotherapeutic Efficacy by Taurine in Colon Cancer Rat Model",
+  "authors": [
+    "Jornada, Daniela Hartmann",
+    "Boreski, Diogo",
+    "Chiba, Diego Eidy",
+    "Ligeiro, Denise",
+    "Luz, Marcus Alexandre Mendes",
+    "Gabriel, Edmo Atique",
+    "Scarim, Cauê Benito",
+    "Andrade, Cléverton Roberto de",
+    "Chin, Chung Man"
+  ],
+  "doi": "10.3390/nu16183047",
+  "url": "https://openalex.org/W4402395897",
+  "provider": "openalex",
+  "year": 2024,
+  "venue": "Nutrients",
+  "citation_count": 8,
+  "abstract": "Colorectal cancer (CRC) is one of the top 10 most common cancers worldwide and caused approximately 10 million deaths in 2022. CRC mortality has increased by 10% since 2020 and 52.000 deaths will occur in 2024, highlighting the limitations of current treatments due to ineffectiveness, toxicity, or non-adherence. The widely used chemotherapeutic agent, 5-fluorouracil (5-FU), is associated with several adverse effects, including renal, cardiac, and hepatic toxicity; mucositis; and resistance. Taurine (TAU), an essential β-amino acid with potent antioxidant, antimutagenic, and anti-inflammatory properties, has demonstrated protective effects against tissue toxicity from chemotherapeutic agents like doxorubicin and cisplatin. Taurine deficiency is linked to aging and cancers such as breast and colon cancer. This study hypothesized that TAU may mitigate the adverse effects of 5-fluorouracil (5-FU). Carcinogenesis was chemically induced in rats using 1,2-dimethylhydrazine (DMH). Following five months of cancer progression, taurine (100 mg/kg) was administered orally for 8 days, and colon tissues were analyzed. The results showed 80% of adenocarcinoma (AC) in DMH-induced control animals. Notably, the efficacy of 5-FU showed 70% AC and TAU 50% while, in the 5-FU + TAU group, no adenocarcinoma was observed. No differences were observed in the inflammatory infiltrate or the expression of genes such as K-ras, p53, and Ki-67 among the cancer-induced groups whereas APC/β-catenin expression was increased in the 5FU + TAU-treated group. The mitotic index and dysplasia were increased in the induced 5-FU group and when associated with TAU, the levels returned to normal. These data suggest that 5-FU exhibits a synergic anticancer effect when combined with taurine.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2072-6643/16/18/3047/pdf?version=1725949226"
+}

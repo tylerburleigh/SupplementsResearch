@@ -1,0 +1,19 @@
+{
+  "id": "src-218",
+  "title": "Homocysteine and vascular disease: review of published results of the homocysteine‐lowering trials",
+  "authors": [
+    "Clarke, Robert",
+    "Halsey, Jim",
+    "Bennett, Derrick",
+    "Lewington, Sarah"
+  ],
+  "doi": "10.1007/s10545-010-9235-y",
+  "url": "https://openalex.org/W2005016697",
+  "provider": "openalex",
+  "year": 2010,
+  "venue": "Journal of Inherited Metabolic Disease",
+  "citation_count": 101,
+  "abstract": "Moderately elevated homocysteine levels have been associated with a higher risk of cardiovascular disease in observational studies, but whether these associations are causal is uncertain. Randomized trials of dietary supplementation with B vitamins were set up to assess whether lowering homocysteine levels could reduce the risk of vascular disease. This review is based on a meta-analysis of published results of eight homocysteine-lowering trials for preventing vascular disease. The eight trials comprised a total of 37,485 individuals and provided comparisons of the effects of B vitamins on 5,074 coronary heart disease (CHD) events, 1,483 stroke events, 2,692 incident cancer events, and 5,128 deaths. Our meta-analysis assessed the effects of lowering homocysteine levels by about 25% for about 5 years. Allocation to B vitamins had no beneficial effects on any cardiovascular events, with hazard ratios (95% confidence intervals) of 1.01 (0.96-1.07) for CHD and 0.96 (0.87-1.07) for stroke. Moreover, allocation to B vitamins had no significant adverse effects on cancer [1.08 (0.99-1.17)], or for death from any cause [1.02 (0.97-1.07)]. Thus, supplementation with B vitamins had no statistically significant effects on the risks of cardiovascular events, total mortality rates, or cancer. A meta-analysis based on individual participant data from all available trials will assess the effects of lowering homocysteine levels on a broader range of outcomes, overall and in all relevant subgroups. However, available evidence does not support the routine use of B vitamins to prevent cardiovascular disease.",
+  "type": "academic",
+  "pdf_url": ""
+}

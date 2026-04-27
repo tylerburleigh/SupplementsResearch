@@ -1,0 +1,17 @@
+{
+  "id": "src-151",
+  "title": "Lipoprotein (a) as a cause of cardiovascular disease: insights from epidemiology, genetics, and biology",
+  "authors": [
+    "Nordestgaard, Børge G.",
+    "Langsted, Anne"
+  ],
+  "doi": "10.1194/jlr.r071233",
+  "url": "https://openalex.org/W2526556731",
+  "provider": "openalex",
+  "year": 2016,
+  "venue": "Journal of Lipid Research",
+  "citation_count": 560,
+  "abstract": "Human epidemiologic and genetic evidence using the Mendelian randomization approach in large-scale studies now strongly supports that elevated lipoprotein (a) [Lp(a)] is a causal risk factor for cardiovascular disease, that is, for myocardial infarction, atherosclerotic stenosis, and aortic valve stenosis. The Mendelian randomization approach used to infer causality is generally not affected by confounding and reverse causation, the major problems of observational epidemiology. This approach is particularly valuable to study causality of Lp(a), as single genetic variants exist that explain 27-28% of all variation in plasma Lp(a). The most important genetic variant likely is the kringle IV type 2 (KIV-2) copy number variant, as the apo(a) product of this variant influences fibrinolysis and thereby thrombosis, as opposed to the Lp(a) particle per se. We speculate that the physiological role of KIV-2 in Lp(a) could be through wound healing during childbirth, infections, and injury, a role that, in addition, could lead to more blood clots promoting stenosis of arteries and the aortic valve, and myocardial infarction. Randomized placebo-controlled trials of Lp(a) reduction in individuals with very high concentrations to reduce cardiovascular disease are awaited. Recent genetic evidence documents elevated Lp(a) as a cause of myocardial infarction, atherosclerotic stenosis, and aortic valve stenosis.",
+  "type": "academic",
+  "pdf_url": "http://www.jlr.org/content/57/11/1953.full.pdf"
+}

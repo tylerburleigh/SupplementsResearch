@@ -1,0 +1,22 @@
+{
+  "id": "src-185",
+  "title": "Olive mill solid waste induces beneficial mushroom-specialized metabolite diversity revealed by computational metabolomics strategies",
+  "authors": [
+    "Khatib, S.",
+    "Pereman, Idan",
+    "Kostanda, Elizabeth",
+    "Zdouc, Mitja M.",
+    "Ezov, N.",
+    "Schweitzer, R.",
+    "Hooft, J. V. D. van der"
+  ],
+  "doi": "10.1007/s11306-025-02257-9",
+  "url": "https://www.semanticscholar.org/paper/d8520bafc68b673090b9a9306fdc4dd7d9c0ea08",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "bioRxiv",
+  "citation_count": 2,
+  "abstract": "Introduction Mushrooms contain besides proteins a diverse pallet of specialized metabolites bioactive in either beneficial or harmful manner. Therefore, mushrooms have been exploited by humans for centuries for dietary or medical purposes. For example, the edible and medicinal mushrooms Hericium erinaceus and Pleurotus eryngii are grown commercially around the world. In nature, H. erinaceus grows on old or dead tree trunks, and P. eryngii grows on Apiaceae plant roots, whereas in cultivation, they grow on substrates mainly consisting of dry wood chips, straw, and cereals. To make their farming more sustainable, supplements such as olive mill solid waste (OMSW) have been added to support mushroom development. However, so far, the impact of substrate additives on the edible mushroom metabolic content has not been assessed. Methods Here, we examined the effect of different proportions of OMSW added to the substrate on the metabolic profiles of the fruiting body (FB) and mycelium of H. erinaceus and P. eryngii mushrooms. We used computational metabolomics strategies including GNPS molecular networking, MS2Query, and the FERMO dashboard, to organize, annotate, and prioritize metabolite features from the untargeted Q-Exactive Plus HR-LC-MS/MS metabolomics data. Following chromatography-based fractionation, the metabolite annotation of four metabolite features was further validated or fine-tuned using 1H-NMR, to resolve structural isomers. Results & Discussion Our computational metabolomics strategies showed several annotated metabolite features to be affected by OSMW concentration. In general, the methanolic extracts of H. erinaceus FB and mycelium were more highly enriched with specialized metabolites than those of P. eryngii. Interestingly, OMSW increased several hericenone analogues in the H. erinaceus FB, to which beneficial properties, such as anti-inflammatory, anticancer and neuroprotective properties are assigned, as well as several erinacerin metabolites from the mycelium. In addition, high concentrations of OMSW decreased the toxic enniatin metabolite abundance. In conclusion, we demonstrate how a change in substrate composition affects the mushroom’s specialized metabolome and can induce beneficial mushroom metabolite diversity. These results highlight the importance of including computational metabolomic strategies to investigate new sustainable growth options for edible mushrooms and other natural foods.",
+  "type": "academic",
+  "pdf_url": ""
+}

@@ -1,0 +1,20 @@
+{
+  "id": "src-289",
+  "title": "Sirtuin family in autoimmune diseases",
+  "authors": [
+    "Tao, Zhengjie",
+    "Jin, Zihan",
+    "Wu, Jiabiao",
+    "Cai, Gaojun",
+    "Yu, Xiaolong"
+  ],
+  "doi": "10.3389/fimmu.2023.1186231",
+  "url": "https://openalex.org/W4383377664",
+  "provider": "openalex",
+  "year": 2023,
+  "venue": "Frontiers in Immunology",
+  "citation_count": 63,
+  "abstract": "In recent years, epigenetic modifications have been widely researched. As humans age, environmental and genetic factors may drive inflammation and immune responses by influencing the epigenome, which can lead to abnormal autoimmune responses in the body. Currently, an increasing number of studies have emphasized the important role of epigenetic modification in the progression of autoimmune diseases. Sirtuins (SIRTs) are class III nicotinamide adenine dinucleotide (NAD)-dependent histone deacetylases and SIRT-mediated deacetylation is an important epigenetic alteration. The SIRT family comprises seven protein members (namely, SIRT1-7). While the catalytic core domain contains amino acid residues that have remained stable throughout the entire evolutionary process, the N- and C-terminal regions are structurally divergent and contribute to differences in subcellular localization, enzymatic activity and substrate specificity. SIRT1 and SIRT2 are localized in the nucleus and cytoplasm. SIRT3, SIRT4, and SIRT5 are mitochondrial, and SIRT6 and SIRT7 are predominantly found in the nucleus. SIRTs are key regulators of various physiological processes such as cellular differentiation, apoptosis, metabolism, ageing, immune response, oxidative stress, and mitochondrial function. We discuss the association between SIRTs and common autoimmune diseases to facilitate the development of more effective therapeutic strategies.",
+  "type": "academic",
+  "pdf_url": "https://www.frontiersin.org/articles/10.3389/fimmu.2023.1186231/pdf"
+}

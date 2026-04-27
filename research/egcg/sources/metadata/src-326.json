@@ -1,0 +1,21 @@
+{
+  "id": "src-326",
+  "title": "Effects of Green Tea Extract Supplementation on Inflammatory Cytokines Among Postmenopausal Women with Overweight or Obesity—A Secondary Analysis of a Randomized Controlled Trial",
+  "authors": [
+    "Cunningham, Anca",
+    "Gomes, Allison",
+    "Meng, L.",
+    "Shapses, Sue",
+    "Byham-Gray, L.",
+    "Samavat, Hamed"
+  ],
+  "doi": "10.3390/nu18010143",
+  "url": "https://www.semanticscholar.org/paper/2d28b006e0018c22e46cef5c400ef0f612453416",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "Nutrients",
+  "citation_count": 0,
+  "abstract": "Background: Excess adiposity induces low-grade inflammation, including increased C-reactive protein (CRP), interleukin-6 (IL-6), and tumor necrosis factor-alpha (TNF-α). Green tea contains epigallocatechin gallate (EGCG), with anti-inflammatory potential. EGCG metabolism is influenced by individual variations in catechol-O-methyltransferase (COMT) genotypes. Objectives: To evaluate the effect of green tea extract (GTE) supplementation on circulating inflammatory cytokines among postmenopausal women with overweight or obesity and differing COMT genotypes. Methods: This study is a secondary analysis of a random subset (N = 97) from the Minnesota Green Tea Trial (MGTT), a randomized double-blinded placebo-controlled trial. The intervention was a high-dose GTE supplement (843 ± 44 mg EGCG/day) or placebo for 1 year. Serum CRP, TNF-α, and IL-6 were measured at 0, 6, and 12 months. Absolute changes in inflammatory cytokines from baseline to month 12 were evaluated using linear mixed-effects models adjusted for age, body mass index (BMI), smoking history, physical activity, and vitamin supplement use. Results: The changes from month 0 to month 12 were not statistically different between the groups for any of the inflammatory cytokines measured. The overall treatment effect was not statistically significant for CRP (p = 0.24), IL-6 (p = 0.59), TNF-α (p = 0.36), nor for the interaction between treatment group and time (all Ps > 0.40). There was no significant interaction between treatment group and COMT genotype for the stated markers. Conclusions: A high-dose GTE supplement consumed daily for one year did not significantly decrease inflammatory cytokines among postmenopausal women with overweight or obesity. The COMT genotype did not modify the effects of GTE supplementation on inflammatory cytokines. Future studies with a larger sample size among those at high risk of systemic inflammation are warranted.",
+  "type": "academic",
+  "pdf_url": ""
+}

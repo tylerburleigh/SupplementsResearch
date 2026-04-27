@@ -1,0 +1,20 @@
+{
+  "id": "src-166",
+  "title": "Cellular Senescence and the Kidney: Potential Therapeutic Targets and Tools",
+  "authors": [
+    "Knoppert, Sebastian N.",
+    "Valentijn, Floris A.",
+    "Nguyen, Tri Q.",
+    "Goldschmeding, Roel",
+    "Falke, Lucas L."
+  ],
+  "doi": "10.3389/fphar.2019.00770",
+  "url": "https://openalex.org/W2951703275",
+  "provider": "openalex",
+  "year": 2019,
+  "venue": "Frontiers in Pharmacology",
+  "citation_count": 83,
+  "abstract": "Chronic kidney disease (CKD) is an increasing health burden (affecting approximately 13.4% of the population). Currently, no curative treatment options are available and treatment is focused on limiting the disease progression. The accumulation of senescent cells has been implicated in the development of kidney fibrosis by limiting tissue rejuvenation and through the secretion of pro-fibrotic and pro-inflammatory mediators termed as the senescence-associated secretory phenotype. The clearance of senescent cells in aging models results in improved kidney function, which shows promise for the options of targeting senescent cells in CKD. There are several approaches for the development of \"senotherapies\", the most rigorous of which is the elimination of senescent cells by the so-called senolytic drugs either newly developed or repurposed for off-target effects in terms of selectively inducing apoptosis in senescent cells. Several chemotherapeutics and checkpoint inhibitors currently used in daily oncological practice show senolytic properties. However, the applicability of such senolytic compounds for the treatment of renal diseases has hardly been investigated. A serious concern is that systemic side effects will limit the use of senolytics for kidney fibrosis. Specifically targeting senescent cells and/or targeted drug delivery to the kidney might circumvent these side effects. In this review, we discuss the connection between CKD and senescence, the pharmacological options for targeting senescent cells, and the means to specifically target the kidney.",
+  "type": "academic",
+  "pdf_url": "https://www.frontiersin.org/articles/10.3389/fphar.2019.00770/pdf"
+}

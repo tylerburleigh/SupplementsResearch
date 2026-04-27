@@ -1,0 +1,24 @@
+{
+  "id": "src-288",
+  "title": "Aging Gut Microbiota at the Cross-Road between Nutrition, Physical Frailty, and Sarcopenia: Is There a Gut–Muscle Axis?",
+  "authors": [
+    "Ticinesi, Andrea",
+    "Lauretani, Fulvio",
+    "Milani, Christian",
+    "Nouvenne, Antonio",
+    "Tana, Claudio",
+    "Rio, Daniele Del",
+    "Maggio, Marcello",
+    "Ventura, Marco",
+    "Meschi, Tiziana"
+  ],
+  "doi": "10.3390/nu9121303",
+  "url": "https://openalex.org/W2774437822",
+  "provider": "openalex",
+  "year": 2017,
+  "venue": "Nutrients",
+  "citation_count": 367,
+  "abstract": "Inadequate nutrition and physical inactivity are the mainstays of primary sarcopenia-physiopathology in older individuals. Gut microbiota composition is strongly dependent on both of these elements, and conversely, can also influence the host physiology by modulating systemic inflammation, anabolism, insulin sensitivity, and energy production. The bacterial metabolism of nutrients theoretically influences skeletal muscle cell functionality through producing mediators that drive all of these systemic effects. In this study, we review the scientific literature supporting the concept of the involvement of gut microbiota in primary sarcopenia physiopathology. First, we examine studies associating fecal microbiota alterations with physical frailty, i.e., the loss of muscle performance and normal muscle mass. Then, we consider studies exploring the effects of exercise on gut microbiota composition. Finally, we examine studies demonstrating the possible effects of mediators produced by gut microbiota on skeletal muscle, and intervention studies considering the effects of prebiotic or probiotic administration on muscle function. Even if there is no evidence of a distinct gut microbiota composition in older sarcopenic patients, we conclude that the literature supports the possible presence of a \"gut-muscle axis\", whereby gut microbiota may act as the mediator of the effects of nutrition on muscle cells.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2072-6643/9/12/1303/pdf?version=1512042076"
+}

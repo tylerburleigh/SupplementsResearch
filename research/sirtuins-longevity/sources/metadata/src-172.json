@@ -1,0 +1,30 @@
+{
+  "id": "src-172",
+  "title": "AMP-Activated Protein Kinase–Deficient Mice Are Resistant to the Metabolic Effects of Resveratrol",
+  "authors": [
+    "Um, Jee-Hyun",
+    "Park, Sung-Jun",
+    "Kang, Hyeog",
+    "Yang, Shutong",
+    "Foretz, Marc",
+    "McBurney, Michael W.",
+    "Kim, Myung K.",
+    "Viollet, Benoit",
+    "Chung, Jay H."
+  ],
+  "year": 2010,
+  "abstract": "OBJECTIVE\nResveratrol, a natural polyphenolic compound that is found in grapes and red wine, increases metabolic rate, insulin sensitivity, mitochondrial biogenesis, and physical endurance and reduces fat accumulation in mice. Although it is thought that resveratrol targets Sirt1, this is controversial because resveratrol also activates 5′ AMP-activated protein kinase (AMPK), which also regulates insulin sensitivity and mitochondrial biogenesis. Here, we use mice deficient in AMPKα1 or -α2 to determine whether the metabolic effects of resveratrol are mediated by AMPK.\n\nRESEARCH DESIGN AND METHODS\nMice deficient in the catalytic subunit of AMPK (α1 or α2) and wild-type mice were fed a high-fat diet or high-fat diet supplemented with resveratrol for 13 weeks. Body weight was recorded biweekly and metabolic parameters were measured. We also used mouse embryonic fibroblasts deficient in AMPK to study the role of AMPK in resveratrol-mediated effects in vitro.\n\nRESULTS\nResveratrol increased the metabolic rate and reduced fat mass in wild-type mice but not in AMPKα1−/− mice. In the absence of either AMPKα1 or -α2, resveratrol failed to increase insulin sensitivity, glucose tolerance, mitochondrial biogenesis, and physical endurance. Consistent with this, the expression of genes important for mitochondrial biogenesis was not induced by resveratrol in AMPK-deficient mice. In addition, resveratrol increased the NAD-to-NADH ratio in an AMPK-dependent manner, which may explain how resveratrol may activate Sirt1 indirectly.\n\nCONCLUSIONS\nWe conclude that AMPK, which was thought to be an off-target hit of resveratrol, is the central target for the metabolic effects of resveratrol.",
+  "doi": "10.2337/db09-0482",
+  "url": "https://doi.org/10.2337/db09-0482",
+  "pdf_url": "",
+  "venue": "Diabetes",
+  "citation_count": 552,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-23T11:23:22.079325+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok"
+}

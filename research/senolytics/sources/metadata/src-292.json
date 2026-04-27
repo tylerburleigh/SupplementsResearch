@@ -1,0 +1,23 @@
+{
+  "id": "src-292",
+  "title": "Telomere dysfunction is associated with exacerbated intermittent hypoxia-induced cognitive deficits and nerve damage",
+  "authors": [
+    "Guo, Ying",
+    "Miao, Yuyang",
+    "Tan, Jin",
+    "Zhao, Rui",
+    "Jiang, Duo",
+    "Zou, Minghui",
+    "Wang, Feng",
+    "Zhang, Qiang"
+  ],
+  "doi": "10.3389/fnagi.2026.1758688",
+  "url": "https://www.semanticscholar.org/paper/e5fecee61eaec8fb8bd303e20a93cdcc247247e6",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "Frontiers in Aging Neuroscience",
+  "citation_count": 0,
+  "abstract": "Cognitive impairment associated with obstructive sleep apnea (OSA) is more prevalent and severe in the elderly, possibly due to age-related increases in neuronal susceptibility to intermittent hypoxia (IH). As telomere dysfunction is a key driver of cellular aging, this study aimed to characterize the interaction between telomere dysfunction and IH, and to explore the associated molecular alterations. Using telomere-damaged PC12 cells and G3 Tert−/− progeria mice exposed to IH, we assessed cellular stress responses, apoptosis, cognitive function, and hippocampal structural changes. The effects of the senolytic agent fisetin (in vivo) and the mTOR inhibitor rapamycin (in vitro) were evaluated. Transcriptomic analysis was performed on cells. IH-exposed G3 Tert−/− mice displayed exacerbated cognitive deficits and hippocampal atrophy compared to wild-type controls, which were significantly ameliorated by fisetin treatment (vs. IH-G3 Tert−/−: cognitive deficit, p = 0.028; hippocampal atrophy, p < 0.01). Correspondingly, telomere-damaged PC12 cells exhibited a heightened stress response to IH, manifested by increased p21, SA-β-gal and apoptosis upon IH, an effect also mitigated by rapamycin. RNA sequencing of these cells revealed a distinct inflammatory signature under IH, with enrichment in pathways like TNF and IL-17 signaling and identification of IL-6, CXCL10, and ICAM1 as key hub genes. Our findings indicate that telomere dysfunction is associated with exacerbated IH-induced cognitive deficits and nerve damage. We identify a corresponding inflammatory transcriptomic signature and provide preliminary evidence that interventions targeting these senescence-associated pathways can confer protection. This provides a new mechanistic perspective on aging-related susceptibility and outlines a translational roadmap for future investigation into OSA-related cognitive decline.",
+  "type": "academic",
+  "pdf_url": ""
+}

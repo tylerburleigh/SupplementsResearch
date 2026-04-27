@@ -1,0 +1,18 @@
+{
+  "id": "src-123",
+  "title": "Poly(ADP-ribosyl)ation by PARP-1: `PAR-laying' NAD<sup>+</sup> into a nuclear signal",
+  "authors": [
+    "Kim, Mi Young",
+    "Zhang, Tong",
+    "Kraus, W. Lee"
+  ],
+  "doi": "10.1101/gad.1331805",
+  "url": "https://openalex.org/W2168268248",
+  "provider": "openalex",
+  "year": 2005,
+  "venue": "Genes & Development",
+  "citation_count": 802,
+  "abstract": "Poly(ADP-ribose) (PAR) and the PAR polymerases (PARPs) that catalyze its synthesis from donor nicotinamide adenine dinucleotide (NAD+) molecules have received considerable attention in the recent literature. Poly(ADP-ribosyl)ation (PARylation) plays diverse roles in many molecular and cellular processes, including DNA damage detection and repair, chromatin modification, transcription, cell death pathways, insulator function, and mitotic apparatus function. These processes are critical for many physiological and pathophysiological outcomes, including genome maintenance, carcinogenesis, aging, inflammation, and neuronal function. This review highlights recent work on the biochemistry, molecular biology, physiology, and pathophysiology of PARylation, focusing on the activity of PARP-1, the most abundantly expressed member of a family of PARP proteins. In addition, connections between nuclear NAD+ metabolism and nuclear signaling through PARP-1 are discussed.",
+  "type": "academic",
+  "pdf_url": "http://genesdev.cshlp.org/content/19/17/1951.full.pdf"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "src-391",
+  "title": "Dehydroevodiamine Alleviates Ulcerative Colitis by Inhibiting the PI3K/AKT/NF-κB Signaling Pathway via Targeting AKT1 and Regulating Gut Microbes and Serum Metabolism.",
+  "authors": [
+    "Ma, Xiao",
+    "Hu, Qichao",
+    "Jiang, Tao",
+    "Chen, Yuan",
+    "Zhang, Wenwen",
+    "Gao, Pan",
+    "Zeng, Jinhao",
+    "Efferth, Thomas"
+  ],
+  "doi": "10.3390/molecules29174031",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39274878",
+  "provider": "pubmed",
+  "year": 2024,
+  "venue": "Molecules (Basel, Switzerland)",
+  "citation_count": 0,
+  "abstract": "Ulcerative colitis (UC) is a typical inflammatory bowel disease (IBD), impairing the quality of life of patients. Dehydroevodiamine (DHE) is an active alkaloid isolated from Tetradium ruticarpum that exerts significant anti-inflammatory effects in gastrointestinal diseases. However, the effect and mechanisms of DHE on UC remain unclear. We performed a DSS-induced experimental UC rat model to reveal the efficacy and potential mechanisms of DHE on UC. HE and AB-PAS staining were used for the evaluation of pathologies, and 16S rRNA sequencing was used to detect changes in gut microbes. Metabolomics was used to detect changes in serum metabolites. Network pharmacology and transcriptomics were conducted to reveal the underlying mechanisms of DHE for UC. HuProt proteome microarrays, molecular docking, and SPR were used to reveal the targets of action of DHE. WB, RT-qPCR, and IHC were used to assess the action effects of DHE. DHE demonstrated significant alleviation of DSS-induced colitis symptoms in rats by suppressing inflammatory and oxidative stress responses, amending colonic barrier injury, and inhibiting apoptosis. In terms of gut microbial modulation, DHE decreased the abundance of Allobaculum, Clostridium, Escherichia, Enterococcus, and Barnesiella and increased the abundance of Lactobacillus, Bifidobacterium, and SMB5. Moreover, metabolomics suggested that the regulation of DHE in DSS-induced UC rats mainly involved aminoacyl-tRNA biosynthesis, vitamin B6 metabolism, phenylalanine, tyrosine, and so on. Mechanically, DHE alleviated UC in rats by targeting AKT1, thereby inhibiting the PI3K/AKT/NF-κB signaling pathway.",
+  "type": "academic",
+  "pdf_url": ""
+}

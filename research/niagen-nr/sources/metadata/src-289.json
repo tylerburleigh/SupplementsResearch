@@ -1,0 +1,18 @@
+{
+  "id": "src-289",
+  "title": "Metabolomics in Parkinson’s Disease and Correlation with Disease State",
+  "authors": [
+    "Ostrakhovitch, Elena A.",
+    "Ono, Kenjiro",
+    "Yamasaki, Tritia R."
+  ],
+  "doi": "10.3390/metabo15030208",
+  "url": "https://openalex.org/W4408570223",
+  "provider": "openalex",
+  "year": 2025,
+  "venue": "Metabolites",
+  "citation_count": 13,
+  "abstract": "Changes in the level of metabolites, small molecules that are intermediates produced by metabolism or catabolism, are associated with developing diseases. Metabolite signatures in body fluids such as plasma, cerebrospinal fluid, urine, and saliva are associated with Parkinson's disease. Here, we discuss alteration of metabolites in the TCA cycle, pentose phosphate pathway, kynurenic network, and redox system. We also summarize the efforts of many research groups to differentiate between metabolite profiles that characterize PD motor progression and dyskinesia, gait and balance, and non-motor symptoms such as depression and cognitive decline. Understanding how changes in metabolites lead to progression in PD may allow for the identification of individuals at the earliest stage of the disease and the development of new therapeutic strategies.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2218-1989/15/3/208/pdf?version=1742297257"
+}

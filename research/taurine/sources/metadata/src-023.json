@@ -1,0 +1,34 @@
+{
+  "id": "src-023",
+  "title": "Taurine in sports and exercise",
+  "authors": [
+    "Kurtz, Jennifer A.",
+    "VanDusseldorp, Trisha A.",
+    "Doyle, J. Andrew",
+    "Otis, Jeffrey S."
+  ],
+  "year": 2021,
+  "abstract": "",
+  "doi": "10.1186/s12970-021-00438-0",
+  "url": "https://doi.org/10.1186/s12970-021-00438-0",
+  "pdf_url": "",
+  "venue": "Journal of the International Society of Sports Nutrition",
+  "citation_count": 87,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-19T11:26:13.713641+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-023.md",
+  "quality_details": {
+    "content_length": 104748,
+    "alpha_ratio": 0.746,
+    "sentence_count": 865,
+    "reasons": [
+      "paywall_page (access this article)"
+    ]
+  }
+}

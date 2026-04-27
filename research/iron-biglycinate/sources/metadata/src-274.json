@@ -1,0 +1,27 @@
+{
+  "id": "src-274",
+  "title": "Bifidobacterium animalis subsp. lactis Ca360 Promotes Oral Iron Repletion, Alters the Gut Microbiota, and Regulates Host Metabolism and Inflammatory Status in a Murine Model of Iron Deficiency Anemia Caused by a Low-Iron Diet",
+  "authors": [
+    "Jiang, P.",
+    "Yang, Jing",
+    "Mao, Yuejian",
+    "Wu, Linjun",
+    "Li, Xiaoqiong",
+    "Bian, Xiangyu",
+    "Kuang, Jian",
+    "Li, Jianqiang",
+    "Shi, Fangshu",
+    "Han, Xiaoqiang",
+    "Li, Jinjun",
+    "Sun, Haibiao"
+  ],
+  "doi": "10.3390/nu18060900",
+  "url": "https://www.semanticscholar.org/paper/2069f3049da19877ca460559048928f7e7c56025",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "Nutrients",
+  "citation_count": 0,
+  "abstract": "Background/Objectives: Iron deficiency anemia (IDA) is a widespread nutritional disorder characterized by impaired iron absorption, inflammation-associated iron restriction, and disrupted iron homeostasis. Increasing evidence suggests that gut microbiota play an important role in iron metabolism; however, the mechanisms underlying probiotic-assisted iron supplementation remain unclear. Our research group previously conducted in vitro fermentation screening experiments and obtained a bacterial strain, B. lactis Ca360, which possesses iron absorption-enhancing activity. Methods: In this study, an IDA mouse model induced by a low-iron diet was used to investigate whether B. lactis Ca360 could synergistically improve iron metabolism when combined with iron supplementation. Mice were treated with FeSO4 alone or FeSO4 combined with B. lactis Ca360, and hematological parameters, organ indices, serum iron-related markers, histopathological changes, duodenal iron metabolism-related gene expression, hepatic inflammatory responses, gut microbiota composition, short-chain fatty acid (SCFA) levels, and correlation networks were analyzed. Results: Iron deficiency induced typical anemia phenotypes, multi-organ dysfunction, intestinal iron absorption dysregulation, hepatic inflammation, and gut microbiota dysbiosis. Compared with FeSO4 alone, the combined intervention more effectively improved hematological parameters, reduced organ indices, restored liver and spleen histological integrity, normalized intestinal iron metabolism-related gene expression, and alleviated hepatic inflammation. In addition, B. lactis Ca360 markedly reshaped gut microbiota composition, enriching SCFA-producing anaerobic genera, including Ruminococcus, Roseburia, Acetatifactor, Intestinimonas, Eubacterium_coprostanoligenes_group_unclassified, and Oscillibacter, accompanied by increased acetate, propionate, and butyrate levels. Spearman correlation analysis further revealed close associations between gut microbiota remodeling, improved iron metabolism, reduced inflammatory status, and recovery of anemia-related phenotypes. Conclusions: Overall, these findings demonstrate that B. lactis Ca360 enhances the efficacy of iron supplementation by modulating SCFA-producing and anti-inflammatory gut microbiota, thereby coordinately regulating intestinal iron absorption, inflammation, and systemic iron homeostasis, supporting probiotic-assisted iron supplementation as a promising nutritional strategy for IDA management.",
+  "type": "academic",
+  "pdf_url": ""
+}

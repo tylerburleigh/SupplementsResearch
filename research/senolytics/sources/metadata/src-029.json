@@ -1,0 +1,35 @@
+{
+  "id": "src-029",
+  "title": "Design of a Randomized Placebo-Controlled Trial to Evaluate the Anti-inflammatory and Senolytic Effects of Quercetin in Patients Undergoing Coronary Artery Bypass Graft Surgery",
+  "authors": [
+    "Dagher, Olina",
+    "Mury, Pauline",
+    "Noly, Pierre-Emmanuel",
+    "Fortier, Annik",
+    "Lettre, Guillaume",
+    "Thorin, Eric",
+    "Carrier, Michel"
+  ],
+  "year": 2021,
+  "abstract": "Background: Following an acute coronary syndrome, patients display an elevated inflammatory profile, promoted in part by cellular senescence. For patients requiring a coronary artery bypass (CABG) surgery, exposure to the surgical intervention and cardiopulmonary bypass further exacerbate their residual inflammation. Experimental evidence identified quercetin, a natural senolytic drug, as a cardioprotective agent against inflammatory injuries. The Q-CABG study aims to explore the efficacy of quercetin to reduce inflammation, myocardial injury and senescence in patients undergoing CABG following an acute coronary syndrome.Methods: Q-CABG is a phase II, prospectively registered, randomized, double-blind and placebo-controlled clinical trial. Recruited patients awaiting CABG surgery at the Montreal Heart Institute (n = 100) will be randomly assigned in a 1:1 ratio to receive either quercetin supplementation (500 mg twice daily) or placebo, starting 2 days before surgery and until the seventh postoperative day. The primary endpoint examines the effects of quercetin on blood inflammatory cytokines and markers of myocardial injury and senescence in this patient population. Blood samples will be taken at four time points: baseline, postoperative day 1, postoperative day 4 and at hospital discharge, or after a maximum of seven postoperative days. The secondary endpoint is the assessment of endothelial (dys) function by looking at ex vivo vascular reactivity and mRNA expression of endothelial cells from the wall of discarded segments of internal mammary artery.Discussion: The preventive intake of quercetin supplementation may help limit the vigorous inflammatory response triggered by CABG and subsequent postoperative complications in patients suffering from an acute coronary syndrome. In an exploratory way, quercetin supplementation could also improve endothelial function by eliminating senescent vascular endothelial cells. The results of this trial should provide valuable information regarding a novel approach to improve biological, and potentially clinical, outcomes post CABG.Clinical Trial Registration:ClinicalTrials.gov, Identifier NCT04907253.",
+  "doi": "10.3389/fcvm.2021.741542",
+  "url": "https://doi.org/10.3389/fcvm.2021.741542",
+  "pdf_url": "",
+  "venue": "Frontiers in Cardiovascular Medicine",
+  "citation_count": 22,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-22T19:55:48.677086+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-029.md",
+  "quality_details": {
+    "content_length": 56881,
+    "alpha_ratio": 0.765,
+    "sentence_count": 496,
+    "reasons": []
+  }
+}

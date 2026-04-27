@@ -1,0 +1,37 @@
+{
+  "id": "src-192",
+  "title": "Effect of Curcumin on Serum Cathepsin D in Patients with Metabolic Syndrome",
+  "authors": [
+    "Shirmohammadi, Leila",
+    "Ghayour-Mobarhan, Majid",
+    "Saberi-Karimian, Maryam",
+    "Iranshahi, Mehrdad",
+    "Tavallaie, Shima",
+    "Emamian, Marzieh",
+    "Sahebkar, Amirhossein"
+  ],
+  "year": 2020,
+  "abstract": "Background:\nInflammation has been shown to accompany Metabolic Syndrome (MetS)\nand its features. Cathepsin D is one of a proinflammatory mediator. In the current study, we aimed\nto investigate the effect of curcumin supplementation on serum cathepsin D levels in patients with\nMetS.\n\nMethods:\nThe current study was conducted on 18-65 years old individuals with MetS diagnosed\naccording to the International Diabetes Federation guidelines. A total of 80 participants were\nrandomly divided into treatment and control groups. The first group (n=40) was given 2 capsules\ncontaining 500 mg of phosphatidylcholine complex of curcumin, and the other group (n=40) was\ngiven two 500 mg placebo capsules for 6 weeks. Before (week 0) and after (week 6) the intervention,\nanthropometric indices and blood pressure were measured and blood samples were taken.\nSerum cathepsin D was measured using an ELISA kit.\n\nResults:\nThere was no significant difference between treatment and control groups in terms of\nweight, body mass index, waist circumference and serum cathepsin D levels before and after the\nintervention. In addition, there was no significant difference between pre- and post-trial values of\nserum cathepsin D.\n\nConclusion:\nThe present results do not suggest any effect of curcumin on cathepsin D levels in\npatients with MetS.",
+  "doi": "10.2174/1871529x19666190919110652",
+  "url": "https://doi.org/10.2174/1871529x19666190919110652",
+  "pdf_url": "",
+  "venue": "Cardiovascular &amp; Hematological Disorders-Drug Targets",
+  "citation_count": 9,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-22T14:40:45.135163+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-192.md",
+  "quality_details": {
+    "content_length": 21036,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

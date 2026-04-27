@@ -1,0 +1,21 @@
+{
+  "id": "src-031",
+  "title": "Effects of carnitine supplementation on glycemic markers in women with overweight and obesity: A systematic review and meta-analysis of randomized controlled trials.",
+  "authors": [
+    "Liu, Huiyun",
+    "Zhang, Hongjun",
+    "Zhao, Bin",
+    "Prabahar, K.",
+    "Kord-Varkaneh, Hamed",
+    "Liu, Xia"
+  ],
+  "doi": "10.1016/j.diabres.2025.112981",
+  "url": "https://www.semanticscholar.org/paper/420e83910da96c20388aecca512f0f6ad16d8694",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "Diabetes Research and Clinical Practice",
+  "citation_count": 1,
+  "abstract": "Women with overweight or obesity face heightened risks of insulin resistance, metabolic syndrome, and type 2 diabetes. L-carnitine, a key mediator of mitochondrial fatty acid transport, has been proposed to improve glycemic regulation, yet evidence in this subgroup remains unclear. We conducted a systematic review and meta-analysis of randomized controlled trials (RCTs) assessing the effects of carnitine supplementation versus placebo on glycemic markers in overweight or obese women. Major databases were searched through October 2025. Weighted mean differences (WMDs) with 95 % confidence intervals (CIs) were calculated using random-effects models. Predefined subgroup analyses explored dose and intervention duration effects. A total of eight studies comprising nine randomized controlled trial (RCT) arms were included. Carnitine supplementation significantly reduced fasting blood sugar (FBS; WMD -2.93 mg/dL, 95 % CI -5.20 to -0.65), fasting insulin (WMD -3.54 μU/mL, 95 % CI -7.00 to -0.07), and HOMA-IR (WMD -0.69, 95 % CI -1.26 to -0.13), but had no significant effect on QUICKI. Subgroup analyses indicated stronger effects at higher doses (≥2000 mg/day) and longer durations (≥12 weeks). Sensitivity analyses confirmed the robustness of findings, with no evidence of publication bias. Carnitine supplementation yields modest but clinically meaningful improvements in fasting glucose, insulin levels, and insulin resistance among overweight and obese women, particularly with higher dosages and longer interventions. These results highlight carnitine's potential as an adjunctive nutritional strategy.",
+  "type": "academic",
+  "pdf_url": ""
+}

@@ -1,0 +1,28 @@
+{
+  "id": "src-259",
+  "title": "Pathogenic Pathways and Therapeutic Approaches Targeting Inflammation in Diabetic Nephropathy",
+  "authors": [
+    "Rayego‐Mateos, Sandra",
+    "Morgado‐Pascual, José Luis",
+    "Opazo-Ríos, Lucas",
+    "Guerrero‐Hue, Melania",
+    "García‐Caballero, Cristina",
+    "Vázquez‐Carballo, Cristina",
+    "Mas, Sebastián",
+    "Sanz, Ana B.",
+    "Herencia, Carmen",
+    "Mezzano, Sergio",
+    "Gómez‐Guerrero, Carmen",
+    "Moreno, Juan Antonio",
+    "Egido, Jesús"
+  ],
+  "doi": "10.3390/ijms21113798",
+  "url": "https://openalex.org/W3032465091",
+  "provider": "openalex",
+  "year": 2020,
+  "venue": "International Journal of Molecular Sciences",
+  "citation_count": 334,
+  "abstract": "Diabetic nephropathy (DN) is associated with an increased morbidity and mortality, resulting in elevated cost for public health systems. DN is the main cause of chronic kidney disease (CKD) and its incidence increases the number of patients that develop the end-stage renal disease (ESRD). There are growing epidemiological and preclinical evidence about the close relationship between inflammatory response and the occurrence and progression of DN. Several anti-inflammatory strategies targeting specific inflammatory mediators (cell adhesion molecules, chemokines and cytokines) and intracellular signaling pathways have shown beneficial effects in experimental models of DN, decreasing proteinuria and renal lesions. A number of inflammatory molecules have been shown useful to identify diabetic patients at high risk of developing renal complications. In this review, we focus on the key role of inflammation in the genesis and progression of DN, with a special interest in effector molecules and activated intracellular pathways leading to renal damage, as well as a comprehensive update of new therapeutic strategies targeting inflammation to prevent and/or retard renal injury.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.3390/ijms21113798"
+}

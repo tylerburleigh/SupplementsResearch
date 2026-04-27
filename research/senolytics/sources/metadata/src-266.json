@@ -1,0 +1,20 @@
+{
+  "id": "src-266",
+  "title": "Tubulointerstitial inflammation in glomerular diseases: mechanistic pathways, prognostic value, and translational therapeutic targets",
+  "authors": [
+    "Jiang, Zhiwei",
+    "Zhou, Yi-dong",
+    "Lin, Ruoni",
+    "Liu, Yue-ming",
+    "Zhu, Bin"
+  ],
+  "doi": "10.1080/0886022x.2026.2646426",
+  "url": "https://www.semanticscholar.org/paper/d5b2cddd7380e9a1fc9d68f5d1d14fb0d766d711",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "Renal Failure",
+  "citation_count": 0,
+  "abstract": "Abstract Tubulointerstitial inflammation (TII) serves as a critical nexus connecting glomerular injury, interstitial fibrosis, and kidney function decline, and is commonly observed across various glomerular diseases. Pathogenic drivers and crosstalk along the glomerulus–tubule–interstitium axis promote a persistent interstitial inflammatory microenvironment, wherein chemokines, cytokines, and adhesion molecules activate specific pathways to recruit immune cells. Despite increasing attention, the independent prognostic significance of TII remains inconsistent across different diseases and populations. Moreover, glomerulus-centric therapies have failed to halt disease progression in a substantial subset of patients, highlighting the limitations of strategies focused solely on the glomerulus. Methodological variations – such as denominator definitions (total cortex vs. non-fibrotic cortex), scoring systems (percentage-based vs. count/semi-quantitative methods), and inconsistent covariate adjustment – largely account for these discrepancies. This review systematically synthesizes current evidence on the pathogenic mechanisms, prognostic relevance, and translational limitations of TII in glomerular diseases. We further highlight emerging advances in AI-augmented digital pathology, spatial transcriptomics, noninvasive biomarkers, and imaging modalities, which collectively enable more refined spatial and quantitative characterization of interstitial immune–fibrotic niches. Finally, we advocate a conceptual shift from a glomerulus-centric framework toward a glomerulo-interstitial systems perspective, emphasizing standardized quantification, integrative modeling, and external validation as prerequisites for precision medicine approaches. Understanding the glomerulo-interstitial inflammatory axis not only refines CKD prognostication but also delineates therapeutic targets for precision nephrology, bridging pathology with clinical intervention.",
+  "type": "academic",
+  "pdf_url": ""
+}

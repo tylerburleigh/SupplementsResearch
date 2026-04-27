@@ -1,0 +1,17 @@
+{
+  "id": "src-127",
+  "title": "Senescence and the SASP: many therapeutic avenues",
+  "authors": [
+    "Birch, Jodie",
+    "Gil, Jesús"
+  ],
+  "doi": "10.1101/gad.343129.120",
+  "url": "https://openalex.org/W3107344158",
+  "provider": "openalex",
+  "year": 2020,
+  "venue": "Genes & Development",
+  "citation_count": 1077,
+  "abstract": "Cellular senescence is a stress response that elicits a permanent cell cycle arrest and triggers profound phenotypic changes such as the production of a bioactive secretome, referred to as the senescence-associated secretory phenotype (SASP). Acute senescence induction protects against cancer and limits fibrosis, but lingering senescent cells drive age-related disorders. Thus, targeting senescent cells to delay aging and limit dysfunction, known as \"senotherapy,\" is gaining momentum. While drugs that selectively kill senescent cells, termed \"senolytics\" are a major focus, SASP-centered approaches are emerging as alternatives to target senescence-associated diseases. Here, we summarize the regulation and functions of the SASP and highlight the therapeutic potential of SASP modulation as complimentary or an alternative to current senolytic approaches.",
+  "type": "academic",
+  "pdf_url": "http://genesdev.cshlp.org/content/34/23-24/1565.full.pdf"
+}

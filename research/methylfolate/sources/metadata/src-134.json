@@ -1,0 +1,23 @@
+{
+  "id": "src-134",
+  "title": "Plasma homocysteine levels and risk of congestive heart failure or cardiomyopathy: A Mendelian randomization study.",
+  "authors": [
+    "Wang, Xinyi",
+    "Chen, Zhuo",
+    "Tian, Wende",
+    "Zhang, Jie",
+    "Li, Qiuyi",
+    "Ju, Jianqing",
+    "Xu, Hao",
+    "Chen, Keji"
+  ],
+  "doi": "10.3389/fcvm.2023.1030257",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36776266",
+  "provider": "pubmed",
+  "year": 2023,
+  "venue": "Frontiers in cardiovascular medicine",
+  "citation_count": 0,
+  "abstract": "BACKGROUND: Although observational studies have demonstrated associations between elevated plasma homocysteine levels and the risk of cardiovascular diseases, controversy remains.\nOBJECTIVE: This study investigated the causal association of plasma homocysteine levels with congestive heart failure and cardiomyopathy risk.\nMETHODS: We performed a two-sample Mendelian randomization (MR) study of congestive heart failure (n = 218,792), cardiomyopathy (n = 159,811), and non-ischemic cardiomyopathy (n = 187,152). Genetic summary data on the association of single-nucleotide polymorphisms with homocysteine were extracted from the most extensive genome-wide association study of 44,147 individuals. MR analyses, including the random-effect inverse variance-weighted (IVW) meta-analysis, weighted median, simple median, maximum likelihood, penalized weighted median, MR-PRESSO, and MR-Egger regression, were used to estimate the associations between the selected single-nucleotide polymorphisms and congestive heart failure or cardiomyopathy.\nRESULTS: The MR analyses revealed no causal role of higher genetically predicted plasma homocysteine levels with congestive heart failure risk (random-effect IVW, odds ratio [OR] per standard deviation (SD) increase in homocysteine levels = 1.753, 95% confidence interval [CI] = 0.674-4.562, P = 0.250), cardiomyopathy (random-effect IVW, OR per SD increase in homocysteine levels = 0.805, 95% CI = 0.583 to 1.020, P = 0.189), or non-ischemic cardiomyopathy (random-effect IVW, OR per SD increase in homocysteine levels = 1.064, 95% CI = 0.927-1.222, P = 0.379). The results were consistent with other analytical methods and sensitivity analyses.\nCONCLUSION: Genetically predicted homocysteine level was not associated with congestive heart failure or cardiomyopathy risk. It is unlikely that homocysteine-lowering therapy decreases the incidence or improves the outcomes of congestive heart failure and cardiomyopathy.",
+  "type": "academic",
+  "pdf_url": ""
+}

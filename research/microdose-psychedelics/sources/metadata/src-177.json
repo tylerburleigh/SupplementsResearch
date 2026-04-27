@@ -1,0 +1,24 @@
+{
+  "id": "src-177",
+  "title": "The Hallucinogenic Serotonin2A Receptor Agonist, 2,5-Dimethoxy-4-Iodoamphetamine, Promotes cAMP Response Element Binding Protein-Dependent Gene Expression of Specific Plasticity-Associated Genes in the Rodent Neocortex",
+  "authors": [
+    "Desouza, Lynette A.",
+    "Benekareddy, Madhurima",
+    "Fanibunda, Sashaina E",
+    "Mohammad, Farhan",
+    "Janakiraman, Balaganesh",
+    "Ghai, Utkarsha",
+    "Gur, T.",
+    "Blendy, J.",
+    "Vaidya, V."
+  ],
+  "doi": "10.3389/fnmol.2021.790213",
+  "url": "https://www.semanticscholar.org/paper/42044130d630cfaeea735896c32cea54bf0e84fe",
+  "provider": "semantic_scholar",
+  "year": 2021,
+  "venue": "Frontiers in Molecular Neuroscience",
+  "citation_count": 38,
+  "abstract": "Psychedelic compounds that target the 5-HT2A receptor are reported to evoke psychoplastogenic effects, including enhanced dendritic arborization and synaptogenesis. Transcriptional regulation of neuronal plasticity-associated genes is implicated in the cytoarchitectural effects of serotonergic psychedelics, however, the transcription factors that drive this regulation are poorly elucidated. Here, we addressed the contribution of the transcription factor cyclic adenosine monophosphate (cAMP)-response element binding protein (CREB) in the regulation of neuronal plasticity-associated genes by the hallucinogenic 5-HT2A receptor agonist, 2,5-dimethoxy-4-iodoamphetamine (DOI). In vitro studies with rat cortical neurons indicated that DOI enhances the phosphorylation of CREB (pCREB) through mitogen-activated protein (MAP) kinase and calcium/calmodulin dependent kinase II (CaMKII) pathways, with both cascades contributing to the DOI-evoked upregulation of Arc, Bdnf1, Cebpb, and Egr2 expression, whilst the upregulation of Egr1 and cFos mRNA involved the MAP kinase and CaMKII pathway respectively. We observed a robust DOI-evoked increase in the expression of several neuronal plasticity-associated genes in the rat neocortex in vivo. This DOI-evoked upregulation of neuronal plasticity-associated genes was completely blocked by the 5-HT2A receptor antagonist MDL100,907 in vitro and was also abrogated in the neocortex of 5-HT2A receptor deficient mice. Further, 5-HT2A receptor stimulation enhanced pCREB enrichment at putative cAMP response element (CRE) binding sites in the Arc, Bdnf1, Cebpb, cFos, but not Egr1 and Egr2, promoters in the rodent neocortex. The DOI-mediated transcriptional induction of Arc, cFos and Cebpb was significantly attenuated in the neocortex of CREB deficient/knockout (CREBαδ KO) mice. Collectively, these results indicate that the hallucinogenic 5-HT2A receptor agonist DOI leads to a rapid transcriptional upregulation of several neuronal plasticity-associated genes, with a subset of them exhibiting a CREB-dependent regulation. Our findings raise the intriguing possibility that similar to slow-acting classical antidepressants, rapid-action serotonergic psychedelics that target the 5-HT2A receptor may also recruit the transcription factor CREB to enhance the expression of neuronal plasticity-associated genes in the neocortex, which could in turn contribute to the rapid psychoplastogenic changes evoked by these compounds.",
+  "type": "academic",
+  "pdf_url": "https://www.frontiersin.org/articles/10.3389/fnmol.2021.790213/pdf"
+}

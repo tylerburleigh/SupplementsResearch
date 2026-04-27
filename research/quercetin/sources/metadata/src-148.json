@@ -1,0 +1,18 @@
+{
+  "id": "src-148",
+  "title": "Quercetin Attenuates Acute Kidney Injury Caused by Cisplatin by Inhibiting Ferroptosis and Cuproptosis.",
+  "authors": [
+    "Shi, Mengqi",
+    "Mobet, Youchaou",
+    "Shen, Hong"
+  ],
+  "doi": "10.1007/s12013-024-01379-6",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39026057",
+  "provider": "pubmed",
+  "year": 2024,
+  "venue": "Cell biochemistry and biophysics",
+  "citation_count": 0,
+  "abstract": "Ferroptosis, an iron- and ROS-dependent form of regulated cell death. Cuproptosis is a novel form of cellular demise mode. Quercetin, a natural flavonoid, has demonstrated a range of pharmacological activities, including anti-cancer, anti-inflammatory, and antioxidant properties. In this research, we investigated the quercetin effect on cisplatin-induced acute kidney and its mechanism associated ferroptosis and cuproptosis. The HK-2 cells were used in this research. Cell viability was evaluated using the CCK-8 assay. Acute kidney injury (AKI) models were established to perform in vivo experiments. Renal tissue homogenate was used to determine ROS, LPO, MDA, PA, etc., to assess ferroptosis and cuproptosis. To perform bioinformatic analysis, microarray data from the GEO database was utilized. Real-time PCR analysis and ELISA was explored the mechanism of ferroptosis and cuproptosis. We found that ferroptosis and cuproptosis in AKI were abnormally activated caused by cisplatin, and that quercetin attenuated AKI by inhibiting ferroptosis and cuproptosis. QCT suppressed ferroptosis by reducing malondialdehyde (MDA) and ROS levels and increasing glutathione (GSH) levels and alleviated cuproptosis by reducing copper ion, pyruvate (PA) and HSP70 levels. Moreover, bioinformatic analysis revealed that the ferroptosis-related gene SLC7A11 and the cuproptosis-related genes ATP7B and GLS were the differential expression genes. And QCT significantly increased the expression or activity of SLC7A11, GPX4, ATP7B, and GLS in Cis-AKI mice. Our findings highlight the clinical importance of quercetin, which guards against cisplatin-induced acute kidney injury by suppressing ferroptosis and cuproptosis.",
+  "type": "academic",
+  "pdf_url": ""
+}

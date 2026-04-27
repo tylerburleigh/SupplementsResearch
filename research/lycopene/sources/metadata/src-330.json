@@ -1,0 +1,26 @@
+{
+  "id": "src-330",
+  "title": "Vitamin C—Sources, Physiological Role, Kinetics, Deficiency, Use, Toxicity, and Determination",
+  "authors": [
+    "Doseděl, Martin",
+    "Jirkovský, Eduard",
+    "Macáková, Kateřina",
+    "Krčmová, Lenka Kujovská",
+    "Javorská, Lenka",
+    "Pourová, Jana",
+    "Mercolini, Laura",
+    "Remião, Fernando",
+    "Nováková, Lucie",
+    "Mladěnka, Přemysl",
+    "OEMONOM, on behalf of The"
+  ],
+  "doi": "10.3390/nu13020615",
+  "url": "https://openalex.org/W3132713966",
+  "provider": "openalex",
+  "year": 2021,
+  "venue": "Nutrients",
+  "citation_count": 493,
+  "abstract": "Vitamin C (L-ascorbic acid) has been known as an antioxidant for most people. However, its physiological role is much larger and encompasses very different processes ranging from facilitation of iron absorption through involvement in hormones and carnitine synthesis for important roles in epigenetic processes. Contrarily, high doses act as a pro-oxidant than an anti-oxidant. This may also be the reason why plasma levels are meticulously regulated on the level of absorption and excretion in the kidney. Interestingly, most cells contain vitamin C in millimolar concentrations, which is much higher than its plasma concentrations, and compared to other vitamins. The role of vitamin C is well demonstrated by miscellaneous symptoms of its absence-scurvy. The only clinically well-documented indication for vitamin C is scurvy. The effects of vitamin C administration on cancer, cardiovascular diseases, and infections are rather minor or even debatable in the general population. Vitamin C is relatively safe, but caution should be given to the administration of high doses, which can cause overt side effects in some susceptible patients (e.g., oxalate renal stones). Lastly, analytical methods for its determination with advantages and pitfalls are also discussed in this review.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2072-6643/13/2/615/pdf?version=1614069109"
+}

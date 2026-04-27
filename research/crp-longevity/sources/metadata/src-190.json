@@ -1,0 +1,40 @@
+{
+  "id": "src-190",
+  "title": "Dose-dependent effects of omega-3 polyunsaturated fatty acids on C-reactive protein concentrations in cardiometabolic disorders: a dose–response meta-analysis of randomized clinical trials",
+  "authors": [
+    "Amlashi, Manoochehr Amin",
+    "Payahoo, Atefeh",
+    "Maskouni, Saber Jafari",
+    "Dehghani, Elaheh",
+    "Talandashti, Mahtab Karami",
+    "Ghelichi, Yeganeh",
+    "Nikoumanesh, Mahya",
+    "Rezvani, Soroush",
+    "Shahinfar, Hossein",
+    "Shidfar, Farzad"
+  ],
+  "year": 2025,
+  "abstract": "",
+  "doi": "10.1007/s10787-025-01744-8",
+  "url": "https://doi.org/10.1007/s10787-025-01744-8",
+  "pdf_url": "",
+  "venue": "Inflammopharmacology",
+  "citation_count": 5,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-24T01:20:25.937947+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-190.md",
+  "quality_details": {
+    "content_length": 35824,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

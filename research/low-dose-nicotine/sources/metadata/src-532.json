@@ -1,0 +1,10 @@
+{
+  "id": "src-532",
+  "title": "Selection of experience for memory by hippocampal sharp wave ...",
+  "authors": [],
+  "url": "https://www.science.org/doi/10.1126/science.adk8261",
+  "provider": "perplexity",
+  "year": 2024,
+  "abstract": "Editor's summary\nIn everyday life, there are many potential events to be remembered.\nHowever, only a small fraction are retained.\nSimultaneously recording large numbers of neurons from the hippocampus, Yang et al. found that their population activity differentiated not only the position of the animal in a maze but also the exact trial number in a memory task.\nAfter some trials, sharp wave ripples (SPW-Rs) occurred during reward consummation.\nThe spike content of these SPW-Rs replayed the population activity during the maze run on that trial.\nLater, SPW-Rs occurred during non–rapid eye movement sleep, and these sleep SPW-Rs replayed mainly the sequences that were tagged by the waking SPW-Rs in the maze.\nThis is a candidate tagging mechanism that determines which waking experience(s) will undergo long-term consolidation.\n—Peter Stern\nAbstract\nExperiences need to be tagged during learning for further consolidation.\nHowever, neurophysiological mechanisms that select experiences for lasting memory are not known.\nBy combining large-scale neural recordings in mice with dimensionality reduction techniques, we observed that successive maze traversals were tracked by continuously drifting populations of neurons, providing neuronal signatures of both places visited and events encountered.\nWhen the brain state changed during reward consumption, sharp wave ripples (SPW-Rs) occurred on some trials, and their specific spike content decoded the trial blocks that surrounded them.\nDuring postexperience sleep, SPW-Rs continued to replay those trial blocks that were reactivated most frequently during waking SPW-Rs.\nReplay content of awake SPW-Rs may thus provide a neurophysiological tagging mechanism to select aspects of experience that are preserved and consolidated for future use.",
+  "type": "web"
+}

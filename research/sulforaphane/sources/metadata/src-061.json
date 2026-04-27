@@ -1,0 +1,48 @@
+{
+  "id": "src-061",
+  "title": "Efficacy of Sulforaphane in Treatment of Children with Autism Spectrum Disorder: A Randomized Double-Blind Placebo-Controlled Multi-center Trial",
+  "authors": [
+    "Ou, Jianjun",
+    "Smith, Robert C.",
+    "Tobe, Russell H.",
+    "Lin, Jingjing",
+    "Arriaza, Jen",
+    "Fahey, Jed W.",
+    "Liu, Ruiting",
+    "Zeng, Ying",
+    "Liu, Yanan",
+    "Huang, Lian",
+    "Shen, Yidong",
+    "Li, Yamin",
+    "Cheng, Daomeng",
+    "Cornblatt, Brian",
+    "Davis, John M.",
+    "Zhao, Jingping",
+    "Wu, Renrong",
+    "Jin, Hua"
+  ],
+  "year": 2024,
+  "abstract": "",
+  "doi": "10.1007/s10803-022-05784-9",
+  "url": "https://doi.org/10.1007/s10803-022-05784-9",
+  "pdf_url": "",
+  "venue": "Journal of Autism and Developmental Disorders",
+  "citation_count": 20,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-18T23:22:47.831994+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-061.md",
+  "quality_details": {
+    "content_length": 20950,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

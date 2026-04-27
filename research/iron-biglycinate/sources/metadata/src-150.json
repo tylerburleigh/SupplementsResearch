@@ -1,0 +1,21 @@
+{
+  "id": "src-150",
+  "title": "Dose-Dependent Relationship between Iron Metabolism and Perioperative Myocardial Injury in Cardiac Surgery with Cardiopulmonary Bypass: A Retrospective Analysis",
+  "authors": [
+    "Li, Qian",
+    "Lv, Hong",
+    "Chen, Yuye",
+    "Shen, Jingjia",
+    "Shi, Jia",
+    "Zhou, Chenghui"
+  ],
+  "doi": "10.1159/000541213",
+  "url": "https://www.semanticscholar.org/paper/4a8b5f6cd4f916c6e837031ef4421d8147d75dd4",
+  "provider": "semantic_scholar",
+  "year": 2024,
+  "venue": "The Cardiology",
+  "citation_count": 0,
+  "abstract": "Abstract Introduction: We sought to comprehensively explore the potential linear and nonlinear relationship between preoperative iron metabolism and perioperative myocardial injury (PMI) following cardiac surgery with cardiopulmonary bypass (CPB). Methods: Patients who underwent cardiac surgery with CPB between December 2018 and April 2021 were retrospectively collected. The measurements of iron metabolism included serum iron (SI), serum ferritin (SF), transferrin (TRF), transferrin saturation (TS), and total iron-binding capacity (TIBC). Logistic regression and restricted cubic spline (RCS) models were used for linear and nonlinear analysis. The primary outcome was PMI with a 100× upper reference limit. Results: Of 2,420 patients screened, 744 eligible patients were enrolled for the final analysis. The incidence of PMI was 25.7%. No significant linear relationship was observed. In the RCS models adjusted with age (median: 56), female, and history of diabetes, a statistically significant difference was detected between TRF (p for nonlinear 0.0152) or TIBC (p for nonlinear 0.0477) and PMI. The gentle U-shaped relationship observed between TRF, TIBC, and PMI suggests that when TRF and TIBC increase, the risk decreases, reaching its lowest point when TRF = 2.4 and TIBC = 54. Nevertheless, as TRF and TIBC continue to increase, the risk starts to rise again. Subgroup analyses yielded consistent findings, with a notable emphasis on older patients who were more susceptible to variations in iron metabolism. Conclusion: Iron metabolism, including TRF, and TIBC, exhibited a nonlinear relationship with PMI by the RCS model adjusted by age, gender, and history of diabetes.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.1159/000541213"
+}

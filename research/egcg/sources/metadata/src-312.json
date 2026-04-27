@@ -1,0 +1,17 @@
+{
+  "id": "src-312",
+  "title": "Pharmacological modulation of stress granules via G3BP1/2: A pathway to treat cancer, inflammatory disease, and neurodegeneration",
+  "authors": [
+    "Yang, Jinhua",
+    "Gao, Fenfei"
+  ],
+  "doi": "10.3389/fphar.2026.1780146",
+  "url": "https://www.semanticscholar.org/paper/591d4d34bc277a06523d52365b60eb9b7b8dee1c",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "Frontiers in Pharmacology",
+  "citation_count": 0,
+  "abstract": "Stress granules (SGs) are membraneless ribonucleoprotein condensates formed by liquid–liquid phase separation of non-translating mRNAs under stress, acting as dynamic platforms for translational reprogramming and cytoprotection. Ras-GAP SH3 domain-binding proteins 1 and 2 (G3BP1/2) are core nucleators of mammalian SGs–their dual knockout almost abolishes SG assembly, while G3BP1 overexpression alone can drive SG assembly. By sensing cytosolic RNA, G3BP1/2 couple the cyclic GMP–AMP synthase (cGAS)–STING innate immune pathway to stress signaling in cancer and neurodegeneration, positioning these proteins as central hubs linking stress-responsive translation control to disease phenotypes. Recent years have witnessed growing interest in targeting the G3BP–SG axis pharmacologically. Small molecules and peptides that bind G3BP1/2 have revealed that manipulating SG assembly/disassembly is feasible and can modulate downstream stress pathways. However, existing reviews have primarily covered G3BP structure, signaling, and pathology, without a unified focus on direct pharmacological modulators. Here, we present a comprehensive review of G3BP1/2 as druggable stress granule hubs, summarizing all currently reported direct inhibitors and activators, comparing their mechanisms, selectivity and limitations, and discussing translational opportunities and challenges across cancer, viral infection, and neurodegenerative disease contexts. By integrating these findings, we aim to provide an up-to-date framework that not only highlights the novelty of recent G3BP-directed modulators but also addresses prior reviewer concerns regarding overlap with existing literature–emphasizing how our synthesis uniquely compiles both SG inhibitors and “agonists” in one analysis. Ultimately, leveraging the G3BP1/2–SG axis may enable multi-pathway reprogramming of stress responses for therapeutic benefit.",
+  "type": "academic",
+  "pdf_url": ""
+}

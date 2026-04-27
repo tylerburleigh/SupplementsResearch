@@ -1,0 +1,26 @@
+{
+  "id": "src-154",
+  "title": "In Vitro Insights into the Dietary Role of Glucoraphanin and Its Metabolite Sulforaphane in Celiac Disease.",
+  "authors": [
+    "Sonzogni, Elisa",
+    "Martinelli, Giulia",
+    "Fumagalli, Marco",
+    "Maranta, Nicole",
+    "Pozzoli, Carola",
+    "Bani, Corinne",
+    "Marrari, Luigi Alberto",
+    "Di Lorenzo, Chiara",
+    "Sangiovanni, Enrico",
+    "Dell'Agli, Mario",
+    "Piazza, Stefano"
+  ],
+  "doi": "10.3390/nu16162743",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39203879",
+  "provider": "pubmed",
+  "year": 2024,
+  "venue": "Nutrients",
+  "citation_count": 0,
+  "abstract": "Sulforaphane is considered the bioactive metabolite of glucoraphanin after dietary consumption of broccoli sprouts. Although both molecules pass through the gut lumen to the large intestine in stable form, their biological impact on the first intestinal tract is poorly described. In celiac patients, the function of the small intestine is affected by celiac disease (CD), whose severe outcomes are controlled by gluten-free dietary protocols. Nevertheless, pathological signs of inflammation and oxidative stress may persist. The aim of this study was to compare the biological activity of sulforaphane with its precursor glucoraphanin in a cellular model of gliadin-induced inflammation. Human intestinal epithelial cells (CaCo-2) were stimulated with a pro-inflammatory combination of cytokines (IFN-γ, IL-1β) and in-vitro-digested gliadin, while oxidative stress was induced by H2O2. LC-MS/MS analysis confirmed that sulforaphane from broccoli sprouts was stable after simulated gastrointestinal digestion. It inhibited the release of all chemokines selected as inflammatory read-outs, with a more potent effect against MCP-1 (IC50 = 7.81 µM). On the contrary, glucoraphanin (50 µM) was inactive. The molecules were unable to counteract the oxidative damage to DNA (γ-H2AX) and catalase levels; however, the activity of NF-κB and Nrf-2 was modulated by both molecules. The impact on epithelial permeability (TEER) was also evaluated in a Transwell® model. In the context of a pro-inflammatory combination including gliadin, TEER values were recovered by neither sulforaphane nor glucoraphanin. Conversely, in the context of co-culture with activated macrophages (THP-1), sulforaphane inhibited the release of MCP-1 (IC50 = 20.60 µM) and IL-1β (IC50 = 1.50 µM) only, but both molecules restored epithelial integrity at 50 µM. Our work suggests that glucoraphanin should not merely be considered as just an inert precursor at the small intestine level, thus suggesting a potential interest in the framework of CD. Its biological activity might imply, at least in part, molecular mechanisms different from sulforaphane.",
+  "type": "academic",
+  "pdf_url": ""
+}

@@ -1,0 +1,24 @@
+{
+  "id": "src-315",
+  "title": "Intelligent transdermal nanoparticles as synergizing advanced delivery systems for precision therapeutics",
+  "authors": [
+    "Guo, Zhouying",
+    "Zhang, Yi'nan",
+    "Zhao, Man",
+    "Zhang, Wenyuan",
+    "Li, Xiaofang",
+    "Zhou, Fang",
+    "Peng, Haisheng",
+    "Wang, Qun",
+    "Chen, Zhiwei"
+  ],
+  "doi": "10.1016/j.mtbio.2025.102220",
+  "url": "https://www.semanticscholar.org/paper/494075ab696006cb04d488ed2a0a6ec241445187",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "Materials Today Bio",
+  "citation_count": 5,
+  "abstract": "Transdermal drug delivery systems (TDDS) represent a non-invasive approach to achieve controlled drug release through the skin barrier, offering stable plasma concentrations while avoiding gastrointestinal and hepatic metabolism. However, the skin barrier poses physical challenges, making it difficult for most drugs to penetrate deep tissues using TDDS. This review systematically summarizes the research progress in nanocarrier design, physical technology application, and artificial intelligence (AI)-driven TDDS optimization design aimed at overcoming the key problem of skin barrier penetration. An in-depth analysis of nanocarriers, such as soft vesicles, nanoemulsions, rigid nanoparticles, and physically assisted enhancement technologies, and AI-driven research on skin penetration enhancement in TDDS was summarized. An integrated technical framework demonstrates how microneedle arrays, iontophoresis, electroporation, and photoporation synergize with nanoparticles to achieve spatiotemporally controlled transdermal drug delivery. Additionally, the review emphasizes the clinical application potential of these integrated technologies and offers a comprehensive, multidimensional perspective to advance innovation in TDDS.",
+  "type": "academic",
+  "pdf_url": ""
+}

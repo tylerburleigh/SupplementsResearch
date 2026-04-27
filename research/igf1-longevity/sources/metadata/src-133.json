@@ -1,0 +1,23 @@
+{
+  "id": "src-133",
+  "title": "A Phase I Trial of IGF-1R Inhibitor Cixutumumab and mTOR Inhibitor Temsirolimus in Metastatic Castration-resistant Prostate Cancer.",
+  "authors": [
+    "McHugh, D.",
+    "Chudow, J.",
+    "DeNunzio, Mia",
+    "Slovin, S.",
+    "Danila, D.",
+    "Morris, M.",
+    "Scher, H.",
+    "Rathkopf, D."
+  ],
+  "doi": "10.1016/j.clgc.2019.10.013",
+  "url": "https://www.semanticscholar.org/paper/abc41cc7da94cf64092a6539602f265ca4d33e5d",
+  "provider": "semantic_scholar",
+  "year": 2020,
+  "venue": "Clinical Genitourinary Cancer",
+  "citation_count": 26,
+  "abstract": "BACKGROUND\nDespite frequent PTEN (phosphatase and tensin homologue) loss and Akt/mammalian target of rapamycin (mTOR) signaling in prostate cancer, the disease is insensitive to single-agent mTOR inhibition. Insulin-like growth factor-1 receptor inhibition might mitigate the feedback inhibition by Torc1 inhibitors, suppressing downstream Akt activation and, thus, potentiating the antitumor activity of mTOR inhibition.\n\nPATIENTS AND METHODS\nIn the present phase I study, patients with metastatic castration-resistant prostate cancer received 6 mg/kg cixutumumab and 25 mg temsirolimus intravenously each week. The primary objective was safety and tolerability. Temsirolimus was decreased if ≥ 2 dose-limiting toxicities (DLTs) were observed in 6 patients. The correlative analyses included measurement of circulating tumor cells, [18F]-fluoro-2-deoxyglucose positron emission tomography, 16β-[18F]-fluoro-α-dihydrotestosterone positron emission tomography, and tumor biopsy.\n\nRESULTS\nA total of 16 patients were enrolled across 3 cohorts (1, -1, -2). Two DLTs (grade 3 oral mucositis) were observed in cohort 1 (temsirolimus, 25 mg), and 1 DLT (grade 3 lipase) in cohort -1 (temsirolimus, 20 mg). The most common adverse events included hyperglycemia (100%; 31% grade 3), oral mucositis (63%; 19% grade 3), and diarrhea (44%; 0 grade 3). Low-grade pneumonitis occurred in 7 of 11 patients (44%; 0 grade 3), prompting the opening of a 3-weekly cohort (temsirolimus, 20 mg/kg), without pneumonitis events. No patient had a >50% decline in prostate-specific antigen from baseline. The best radiographic response was stable disease, with median study duration of 22 weeks (range, 7-63 weeks).\n\nCONCLUSIONS\nDespite a strong scientific rationale for the combination, temsirolimus plus cixutumumab demonstrated limited antitumor activity and a greater than expected incidence of toxicity, including low-grade pneumonitis and hyperglycemia. Hence, the trial was stopped in favor of alternative androgen receptor/phosphatidylinositol 3-kinase-directed combinatorial therapies.",
+  "type": "academic",
+  "pdf_url": "http://www.clinical-genitourinary-cancer.com/article/S1558767319303179/pdf"
+}

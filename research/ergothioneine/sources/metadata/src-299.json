@@ -1,0 +1,32 @@
+{
+  "id": "src-299",
+  "title": "The role of Ergothioneine in cognition and age-related neurodegenerative disease: a systematic review",
+  "authors": [
+    "Takhor, Nurfarah Hazwani",
+    "Phan, Chia Wei"
+  ],
+  "year": 2025,
+  "abstract": "",
+  "doi": "10.1007/s10787-025-01746-6",
+  "url": "https://doi.org/10.1007/s10787-025-01746-6",
+  "pdf_url": "",
+  "venue": "Inflammopharmacology",
+  "citation_count": 8,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-20T00:26:33.084600+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-299.md",
+  "quality_details": {
+    "content_length": 30647,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

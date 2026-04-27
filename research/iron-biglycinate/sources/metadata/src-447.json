@@ -1,0 +1,32 @@
+{
+  "id": "src-447",
+  "title": "Blood donor populations reveal a clear association between ferritin and change in haemoglobin levels.",
+  "authors": [
+    "Meulenbeld, Amber",
+    "Turkulainen, Esa V",
+    "Li, Wanjin",
+    "Pothast, Mart R",
+    "Qi, Hongchao",
+    "Allara, Elias",
+    "Di Angelantonio, Emanuele",
+    "Group, INTERVAL Trial",
+    "Swanevelder, Ronél",
+    "Brits, Tinus",
+    "Paalvast, Yared",
+    "van den Hurk, Katja",
+    "Matlung, Hanke L",
+    "Swinkels, Dorine W",
+    "Russell, W Alton",
+    "Arvas, Mikko",
+    "Janssen, Mart P"
+  ],
+  "doi": "10.1111/bjh.70066",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40770905",
+  "provider": "pubmed",
+  "year": 2025,
+  "venue": "British journal of haematology",
+  "citation_count": 0,
+  "abstract": "Many blood establishments worldwide monitor serum ferritin alongside mandatory haemoglobin (Hb) screening to better protect donors from iron deficiency and anaemia. However, the relationship between ferritin and Hb, and the ferritin level that indicates iron deficiency, remains unclear. Whole blood donation results in significant iron loss, and repeated donations can deplete iron stores. This study analysed over 1 million whole-blood donations from four countries to explore the association between Hb change and ferritin levels. Hb change was defined relative to a donor's initial Hb level. A consistent two-phase relationship emerged: At low ferritin levels, Hb change is linearly associated with log ferritin; above a certain threshold, this association disappears as donors recover their reference Hb. The transition point and slope of this association differ by population. These results suggest that ferritin thresholds for identifying limited Hb recovery are not universal but population-specific, influenced by biological and procedural differences, including ferritin assay variability. While the overall pattern is consistent, the absence of standardized procedures and assays limits the ability to define global ferritin thresholds for donor care. This underscores the importance of localized approaches to ferritin-based donor management and the need for harmonized methodologies across blood services.",
+  "type": "academic",
+  "pdf_url": ""
+}

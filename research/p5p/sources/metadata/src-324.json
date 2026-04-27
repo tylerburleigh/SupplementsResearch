@@ -1,0 +1,19 @@
+{
+  "id": "src-324",
+  "title": "Geometry and UV-Vis Spectra of Au3+ Complexes with Hydrazones Derived from Pyridoxal 5'-Phosphate: A DFT Study.",
+  "authors": [
+    "Pimenov, Oleg A",
+    "Grazhdan, Konstantin V",
+    "Zavalishin, Maksim N",
+    "Gamov, George A"
+  ],
+  "doi": "10.3390/ijms24098412",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37176119",
+  "provider": "pubmed",
+  "year": 2023,
+  "venue": "International journal of molecular sciences",
+  "citation_count": 0,
+  "abstract": "Gold(III) complexes with different ligands can provide researchers with a measure against pathogenic microorganisms with antibiotic resistance. We reported in our previous paper that the UV-Vis spectra of different protonated species of complexes formed by gold(III) and five hydrazones derived from pyridoxal 5'-phosphate are similar to each other and to the spectra of free protonated hydrazones. The present paper focuses on the reasons of the noted similarity in electron absorption spectra. The geometry of different protonated species of complexes of gold(III) and hydrazones (15 structures in total) was optimized using the density functional theory (DFT). The coordination polyhedron of gold(III) bond critical points were further studied to identify the symmetry of the gold coordination sphere and the type of interactions that hold the complex together. The UV-Vis spectra were calculated using TD DFT methods. The molecular orbitals were analyzed to interpret the calculated spectra.",
+  "type": "academic",
+  "pdf_url": ""
+}

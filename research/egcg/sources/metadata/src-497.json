@@ -1,0 +1,49 @@
+{
+  "id": "src-497",
+  "title": "Green tea consumption and mortality in Japanese men and women: a pooled analysis of eight population-based cohort studies in Japan",
+  "authors": [
+    "Abe, Sarah Krull",
+    "Saito, Eiko",
+    "Sawada, Norie",
+    "Tsugane, Shoichiro",
+    "Ito, Hidemi",
+    "Lin, Yingsong",
+    "Tamakoshi, Akiko",
+    "Sado, Junya",
+    "Kitamura, Yuri",
+    "Sugawara, Yumi",
+    "Tsuji, Ichiro",
+    "Nagata, Chisato",
+    "Sadakane, Atsuko",
+    "Shimazu, Taichi",
+    "Mizoue, Tetsuya",
+    "Matsuo, Keitaro",
+    "Naito, Mariko",
+    "Tanaka, Keitaro",
+    "Inoue, Manami"
+  ],
+  "year": 2019,
+  "abstract": "",
+  "doi": "10.1007/s10654-019-00545-y",
+  "url": "https://doi.org/10.1007/s10654-019-00545-y",
+  "pdf_url": "",
+  "venue": "European Journal of Epidemiology",
+  "citation_count": 47,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-23T01:39:35.550362+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-497.md",
+  "quality_details": {
+    "content_length": 24150,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

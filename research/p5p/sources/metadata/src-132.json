@@ -1,0 +1,16 @@
+{
+  "id": "src-132",
+  "title": "Public Health Significance of Elevated Homocysteine",
+  "authors": [
+    "Selhub, Jacob"
+  ],
+  "doi": "10.1177/15648265080292s116",
+  "url": "https://openalex.org/W3184321",
+  "provider": "openalex",
+  "year": 2008,
+  "venue": "Food and Nutrition Bulletin",
+  "citation_count": 125,
+  "abstract": "Homocysteine is a sulfur amino acid whose metabolism stands at the intersection of two pathways: remethylation, which requires folic acid and vitamin B12 coenzymes; and transsulfuration, which requires pyridoxal-5'-phosphate, the vitamin B6 coenzyme. Data from a number of laboratories suggest that mild elevations of homocysteine in plasma are a risk factor for occlusive vascular disease. In the Framingham studies, we have shown that plasma homocysteine concentration is inversely related to the intake and plasma levels of folate and vitamin B6 as well as vitamin B12 plasma levels. Almost two-thirds of the prevalence of high homocysteine is attributable to low vitamin status or intake. Elevated homocysteine concentrations in plasma are a risk factor for prevalence of extracranial carotid-artery stenosis > or = 25% in both men and women. Prospectively elevated plasma homocysteine is associated with increased total and cardiovascular mortality, increased incidence of stroke, increased incidence of dementia and Alzheimer's disease, increased incidence of bone fracture, and higher prevalence of chronic heart failure. It was also shown that elevated plasma homocysteine is a risk factor for preeclampsia and maybe neural tube defects (NTD). This multitude of relationships between elevated plasma homocysteine and diseases that afflict the elderly, pregnant women, and the embryo points to the existence ofa common denominator which may be responsible for these diseases. Whether this denominator is homocysteine itself or homocysteine is merely a marker, remains to be determined.",
+  "type": "academic",
+  "pdf_url": ""
+}

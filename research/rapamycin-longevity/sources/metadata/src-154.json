@@ -1,0 +1,30 @@
+{
+  "id": "src-154",
+  "title": "Accumulation of prelamin A induces premature aging through mTOR overactivation",
+  "authors": [
+    "Pan, Xumeng",
+    "Jiang, Bo",
+    "Wu, Xuan",
+    "Xu, Hongde",
+    "Cao, Sunrun",
+    "Bai, Ning",
+    "Li, Xiaoman",
+    "Yi, Fei",
+    "Guo, Qiqiang",
+    "Guo, Wendong",
+    "Song, Xiaoyu",
+    "Meng, Fang",
+    "Li, Xining",
+    "Liu, Yi",
+    "Cao, Liu"
+  ],
+  "doi": "10.1096/fj.201903048rr",
+  "url": "https://www.semanticscholar.org/paper/3459f32c0da1d4dde09e13a17a087c995932ac8f",
+  "provider": "semantic_scholar",
+  "year": 2020,
+  "venue": "The FASEB Journal",
+  "citation_count": 13,
+  "abstract": "Hutchinson‐Gilford progeria syndrome (HGPS) arises when a truncated form of farnesylated prelamin A accumulates at the nuclear envelope, leading to misshapen nuclei. Previous studies of adult Zmpste24‐deficient mice, a mouse model of progeria, have reported a metabolic response involving inhibition of the mTOR (mammalian target of rapamycin) kinase and activation of autophagy. However, exactly how mTOR or autophagy is involved in progeria remains unclear. Here, we investigate this question by crossing Zmpste24+/− mice with mice hypomorphic in mTOR (mTOR△/+), or mice heterozygous in autophagy‐related gene 7 (Atg7+/−). We find that accumulation of prelamin A induces premature aging through mTOR overactivation and impaired autophagy in newborn Zmpste24−/− mice. Zmpste24−/− mice with genetically reduced mTOR activity, but not heterozygosity in Atg7, show extended lifespan. Moreover, mTOR inhibition partially restores autophagy and S6K1 activity. We also show that progerin interacts with the Akt phosphatase to promote full activation of the Akt/mTOR signaling pathway. Finally, although we find that genetic reduction of mTOR postpones premature aging in Zmpste24 KO mice, frequent embryonic lethality occurs. Together, our findings show that over‐activated mTOR contributes to premature aging in Zmpste24−/− mice, and suggest a potential strategy in treating HGPS patients with mTOR inhibitors.",
+  "type": "academic",
+  "pdf_url": ""
+}

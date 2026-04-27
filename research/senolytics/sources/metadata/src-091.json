@@ -1,0 +1,19 @@
+{
+  "id": "src-091",
+  "title": "Restoration of hair follicle inductive properties by depletion of senescent cells.",
+  "authors": [
+    "Pappalardo, Alberto",
+    "Kim, Jin Yong",
+    "Abaci, Hasan Erbil",
+    "Christiano, Angela M"
+  ],
+  "doi": "10.1111/acel.14353",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39614601",
+  "provider": "pubmed",
+  "year": 2025,
+  "venue": "Aging cell",
+  "citation_count": 0,
+  "abstract": "Senescent cells secrete a senescence-associated secretory phenotype (SASP), which can induce senescence in neighboring cells. Human dermal papilla (DP) cells lose their original hair inductive properties when expanded in vitro, and rapidly accumulate senescent cells in culture. Protein and RNA-seq analysis revealed an accumulation of DP-specific SASP factors including IL-6, IL-8, MCP-1, and TIMP-2. We found that combined senolytic treatment of dasatinib and quercetin depleted senescent cells, and reversed SASP accumulation and SASP-mediated repressive interactions in human DP culture, resulting in an increased Wnt-active cell population. In hair reconstitution assays, senolytic-depleted DP cells exhibited restored hair inductive properties by regenerating de novo hair follicles (HFs) compared to untreated DP cells. In 3D skin constructs, senolytic-depleted DP cells enhanced inductive potential and hair lineage specific differentiation of keratinocytes. These data revealed that senolytic treatment of cultured human DP cells markedly increased their inductive potency in HF regeneration, providing a new rationale for clinical applications of senolytic treatment in combination with cell-based therapies.",
+  "type": "academic",
+  "pdf_url": ""
+}

@@ -1,0 +1,36 @@
+{
+  "id": "src-105",
+  "title": "Recent Progress in Hydrogen-mediated Neuroprotection via Modulation of Mitochondrial Quality Control Mechanisms in Brain Injury",
+  "authors": [
+    "Jiang, Xue",
+    "Xia, Chao",
+    "Zhao, Ruping",
+    "Xiong, Chenlu",
+    "Duan, Xinyuan",
+    "Xie, Fei"
+  ],
+  "year": 2025,
+  "abstract": "Brain injury is a leading cause of mortality and long-term disability worldwide, characterized\nby energy metabolism dysfunction, oxidative stress, inflammatory responses, and programmed\ncell death, with mitochondrial dysfunction serving as a central pathological nexus. In\nrecent years, hydrogen, as an emerging gaseous signaling molecule, has demonstrated remarkable\nneuroprotective effects in various experimental models of brain injury owing to its unique\nbiological properties, including selective antioxidant, anti-inflammatory, anti-apoptotic, and mitochondrial-\nprotective activities. This review comprehensively summarizes the protective effects\nand underlying molecular mechanisms of hydrogen in ischemic stroke, traumatic brain injury,\nhypoxic-ischemic encephalopathy, intracerebral hemorrhage, subarachnoid hemorrhage, chronic\ncerebral hypoperfusion, and toxic encephalopathy. Special emphasis is placed on hydrogen's\nability to modulate mitochondrial quality control networks, encompassing antioxidative membrane\nprotection, precise regulation of mitophagy, remodeling of mitochondrial dynamics, and\nmetabolic reprogramming, thereby improving neuronal survival and functional recovery. Moreover,\nthis review has discussed current limitations, unresolved scientific questions, and major\nchallenges, while proposing future directions, such as multi-omics integration, advanced structural\nbiology investigations, innovative experimental model optimization, and systematic clinical\ntranslational research. Collectively, hydrogen holds great promise as a novel mitochondriatargeted\nneuroprotective strategy for brain injury, offering not only a solid theoretical foundation\nbut also a potential personalized and precise therapeutic avenue for future clinical applications in\nneurological disorders.",
+  "doi": "10.2174/0115672026430179251224095358",
+  "url": "https://doi.org/10.2174/0115672026430179251224095358",
+  "pdf_url": "",
+  "venue": "Current Neurovascular Research",
+  "citation_count": 1,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T13:50:01.799949+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-105.md",
+  "quality_details": {
+    "content_length": 48257,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

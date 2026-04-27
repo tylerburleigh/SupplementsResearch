@@ -1,0 +1,6 @@
+12	2	1 Faculty of Medicine, Universitas Pembangunan Nasional Veteran Jawa Timur
+21	2	Abstract
+54	2	Introduction
+169	2	Discussion
+267	2	Conclusion
+289	2	References

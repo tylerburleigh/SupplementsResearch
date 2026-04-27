@@ -1,0 +1,29 @@
+{
+  "id": "src-139",
+  "title": "TET2-Driven Clonal Hematopoiesis and Response to Canakinumab: An Exploratory Analysis of the CANTOS Randomized Clinical Trial.",
+  "authors": [
+    "Svensson, E.",
+    "Madar, Aviv",
+    "Campbell, C. D.",
+    "He, Yunsheng",
+    "Sultan, M.",
+    "Healey, M.-L.",
+    "Xu, Huilei",
+    "D’Aco, Katie",
+    "Fernandez, Anita",
+    "Wache-Mainier, Clarisse",
+    "Libby, P.",
+    "Ridker, P.",
+    "Beste, Michael T",
+    "Basson, C."
+  ],
+  "doi": "10.1001/jamacardio.2022.0386",
+  "url": "https://www.semanticscholar.org/paper/7771eb4077e03063c9fc313eac5038bd57286da5",
+  "provider": "semantic_scholar",
+  "year": 2022,
+  "venue": "JAMA cardiology",
+  "citation_count": 296,
+  "abstract": "Importance\nClonal hematopoiesis of indeterminate potential (CHIP) is associated with increased risk of atherosclerotic cardiovascular disease, and mouse experiments suggest that CHIP related to Tet2 loss of function in myeloid cells accelerates atherosclerosis via augmented interleukin (IL) 1β signaling.\n\nObjective\nTo assess whether individuals with CHIP have greater cardiovascular event reduction in response to IL-1β neutralization in the Canankinumab Anti-inflammatory Thrombosis Outcomes Trial (CANTOS).\n\nDesign, Setting, and Participants\nThis randomized clinical trial took place from April 2011 to June 2017 at more than 1000 clinical sites in 39 countries. Targeted deep sequencing of genes previously associated with CHIP in a subset of trial participants using genomic DNA prepared from baseline peripheral blood samples were analyzed. All participants had prior myocardial infarction and elevated high-sensitivity C-reactive protein level above 0.20 mg/dL. Analysis took place between June 2017 and December 2021.\n\nInterventions\nCanakinumab, an anti-IL-1β antibody, given at doses of 50, 150, and 300 mg once every 3 months.\n\nMain Outcomes and Measures\nMajor adverse cardiovascular events (MACE).\n\nResults\nA total of 338 patients (8.6%) were identified in this subset with evidence for clonal hematopoiesis. As expected, the incidence of CHIP increased with age; the mean (SD) age of patients with CHIP was 66.3 (9.2) years and 61.5 (9.6) years in patients without CHIP. Unlike other populations that were not preselected for elevated C-reactive protein, in the CANTOS population variants in TET2 were more common than DNMT3A (119 variants in 103 patients vs 86 variants in 85 patients). Placebo-treated patients with CHIP showed a nonsignificant increase in the rate of MACE compared with patients without CHIP using a Cox proportional hazard model (hazard ratio, 1.32 [95% CI, 0.86-2.04]; P = .21). Exploratory analyses of placebo-treated patients with a somatic variant in either TET2 or DNMT3A (n = 58) showed an equivocal risk for MACE (hazard ratio, 1.65 [95% CI, 0.97-2.80]; P = .06). Patients with CHIP due to somatic variants in TET2 also had reduced risk for MACE while taking canakinumab (hazard ratio, 0.38 [95% CI, 0.15-0.96]) with equivocal difference compared with others (P for interaction = .14).\n\nConclusions and Relevance\nThese results are consistent with observations of increased risk for cardiovascular events in patients with CHIP and raise the possibility that those with TET2 variants may respond better to canakinumab than those without CHIP. Future studies are required to further substantiate this hypothesis.\n\nTrial Registration\nClinicalTrials.gov Identifier: NCT01327846.",
+  "type": "academic",
+  "pdf_url": "https://jamanetwork.com/journals/jamacardiology/articlepdf/2790670/jamacardiology_svensson_2022_oi_220009_1651705066.042.pdf"
+}

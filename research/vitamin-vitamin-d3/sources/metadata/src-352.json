@@ -1,0 +1,24 @@
+{
+  "id": "src-352",
+  "title": "Age-Dependent Effects of Heavy Metals on the Hypothalamic–Pituitary–Testicular Axis-Related Hormones in Men",
+  "authors": [
+    "Mei, Yayuan",
+    "Yan, Yongfu",
+    "Ke, Shenglan",
+    "Su, Weihui",
+    "Luo, Zhangjia",
+    "Chen, Xiaobao",
+    "Xu, Hui",
+    "Su, Weitao",
+    "Li, Ang"
+  ],
+  "doi": "10.3390/toxics14010055",
+  "url": "https://www.semanticscholar.org/paper/19ab37c48bb0567379cbd8862543ef486e6487fd",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "Toxics",
+  "citation_count": 0,
+  "abstract": "The effect of heavy metals on male hormonal regulation—particularly the hypothalamic–pituitary–testicular (HPT) axis—remains poorly characterized. We aim to investigate associations between heavy metal exposure and HPT axis-related hormones. We analyzed data, including male participants aged 3–80 years, from a nationally representative survey. Five metals and twelve sex hormones were measured. We used multivariate linear regression and restricted cubic splines to assess associations and dose–response relationships. Mixture effects were quantified using quantile-based g computation. The modifying effects of vitamin D and folate were examined. The underlying mechanisms were explored through a narrative review and integrative bioinformatics analysis. A total of 6547 males were included. Metal exposure was predominantly associated with hormonal perturbations in adolescents and older adults. Specifically, metal mixture was associated with hormones in adolescent males [effect range: −5.10% (95% CI: −9.24, −0.76) to 18.12% (95% CI: 9.80, 27.07)] and older males [effect range: 3.17% (95% CI: 0.07, 6.37) to 10.94% (95% CI: 4.82, 17.43)]. Effect modifications were observed for vitamin D in children and adolescents, and for folate across all age groups. The PI3K-Akt signaling pathway was identified as a potential mechanism. Our findings provide novel insights into the association and potential pathway between heavy metals and male hormonal disturbance.",
+  "type": "academic",
+  "pdf_url": ""
+}

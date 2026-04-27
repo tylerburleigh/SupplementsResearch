@@ -1,0 +1,26 @@
+{
+  "id": "src-290",
+  "title": "Racial or ethnic differences in allele frequencies of single-nucleotide polymorphisms in the methylenetetrahydrofolate reductase gene and their influence on response to methotrexate in rheumatoid arthritis",
+  "authors": [
+    "Hughes, Laura B.",
+    "Beasley, T. Mark",
+    "Patel, Hailee",
+    "Tiwari, Hemant K.",
+    "Morgan, Sarah",
+    "Baggott, Joseph E.",
+    "Saag, Kenneth G.",
+    "McNicholl, J",
+    "Moreland, Larry W.",
+    "Alarcón, Graciela S.",
+    "Bridges, S. Louis"
+  ],
+  "doi": "10.1136/ard.2005.046797",
+  "url": "https://openalex.org/W2025633840",
+  "provider": "openalex",
+  "year": 2006,
+  "venue": "Annals of the Rheumatic Diseases",
+  "citation_count": 126,
+  "abstract": ": These results, although preliminary, highlight racial or ethnic differences in frequencies of common MTHFR SNPs. The MTHFR 1298 A and the rs4846051 C alleles were associated with MTX-related adverse events in Caucasians and African-Americans, respectively, but these findings should be replicated in larger studies. The rs4846051 SNP, which is far more common in African-Americans than in Caucasians, can also be proved to be a useful ancestry informative marker in future studies on genetic admixture.",
+  "type": "academic",
+  "pdf_url": "https://ard.bmj.com/content/annrheumdis/65/9/1213.full.pdf"
+}

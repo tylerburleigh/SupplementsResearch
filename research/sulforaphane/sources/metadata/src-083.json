@@ -1,0 +1,41 @@
+{
+  "id": "src-083",
+  "title": "Therapeutic targeting of the NRF2 and KEAP1 partnership in chronic diseases",
+  "authors": [
+    "Cuadrado, Antonio",
+    "Rojo, Ana I.",
+    "Wells, Geoffrey",
+    "Hayes, John D.",
+    "Cousin, Sharon P.",
+    "Rumsey, William L.",
+    "Attucks, Otis C.",
+    "Franklin, Stephen",
+    "Levonen, Anna-Liisa",
+    "Kensler, Thomas W.",
+    "Dinkova-Kostova, Albena T."
+  ],
+  "year": 2019,
+  "abstract": "",
+  "doi": "10.1038/s41573-018-0008-x",
+  "url": "https://doi.org/10.1038/s41573-018-0008-x",
+  "pdf_url": "",
+  "venue": "Nature Reviews Drug Discovery",
+  "citation_count": 1249,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-18T23:23:51.445013+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-083.md",
+  "quality_details": {
+    "content_length": 85056,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

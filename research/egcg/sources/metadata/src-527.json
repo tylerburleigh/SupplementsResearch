@@ -1,0 +1,18 @@
+{
+  "id": "src-527",
+  "title": "Epigallocatechin Gallate Targeting of Membrane Type 1 Matrix Metalloproteinase-mediated Src and Janus Kinase/Signal Transducers and Activators of Transcription 3 Signaling Inhibits Transcription of Colony-stimulating Factors 2 and 3 in Mesenchymal Stromal Cells*",
+  "authors": [
+    "Zgheib, Alain",
+    "Lamy, Sylvie",
+    "Annabi, B."
+  ],
+  "doi": "10.1074/jbc.m113.456533",
+  "url": "https://www.semanticscholar.org/paper/11753e642a7abb88cf748f4580061f99eb873995",
+  "provider": "semantic_scholar",
+  "year": 2013,
+  "venue": "Journal of Biological Chemistry",
+  "citation_count": 46,
+  "abstract": "Background: CSF-2 and CSF-3 confer proangiogenic and immunomodulatory properties to mesenchymal stromal cells (MSCs). Results: Transcriptional regulation of CSF-2 and CSF-3 in concanavalin A-activated MSCs requires MT1-MMP signaling and is inhibited by EGCG. Conclusion: The chemopreventive properties of diet-derived EGCG alter MT1-MMP-mediated intracellular signaling. Significance: Pharmacological targeting of MSCs proangiogenic functions may prevent their contribution to tumor development. Epigallocatechin gallate (EGCG), a major form of tea catechins, possesses immunomodulatory and antiangiogenic effects, both of which contribute to its chemopreventive properties. In this study, we evaluated the impact of EGCG treatment on the expression of colony-stimulating factors (CSF) secreted from human bone marrow-derived mesenchymal stromal cells (MSCs), all of which also contribute to the immunomodulatory and angiogenic properties of these cells. MSCs were activated with concanavalin A (ConA), a Toll-like receptor (TLR)-2 and TLR-6 agonist as well as a membrane type 1 matrix metalloproteinase (MT1-MMP) inducer, which increased granulocyte macrophage-CSF (GM-CSF, CSF-2), granulocyte CSF (G-CSF, CSF-3), and MT1-MMP gene expression. EGCG antagonized the ConA-induced CSF-2 and CSF-3 gene expression, and this process required an MT1-MMP-mediated sequential activation of the Src and JAK/STAT pathways. Gene silencing of MT1-MMP expression further demonstrated its requirement in the phosphorylation of Src and STAT3, whereas overexpression of a nonphosphorylatable MT1-MMP mutant (Y573F) abrogated CSF-2 and CSF-3 transcriptional increases. Given that MSCs are recruited within vascularizing tumors and are believed to contribute to tumor angiogenesis, possibly through secretion of CSF-2 and CSF-3, our study suggests that diet-derived polyphenols such as EGCG may exert chemopreventive action through pharmacological targeting of the MT1-MMP intracellular signaling.",
+  "type": "academic",
+  "pdf_url": "https://europepmc.org/articles/pmc3650376?pdf=render"
+}

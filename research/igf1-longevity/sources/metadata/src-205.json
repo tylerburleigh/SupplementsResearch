@@ -1,0 +1,31 @@
+{
+  "id": "src-205",
+  "title": "Long-term high-protein diet intake accelerates adipocyte senescence through macrophage CD38-mediated NAD+ depletion",
+  "authors": [
+    "Yang, Xiaohan",
+    "Hua, Lun",
+    "Gao, Dengfeng",
+    "Wu, Yanni",
+    "Yang, Yi",
+    "Jin, Xianyang",
+    "Jiang, Xuemei",
+    "Jin, Chao",
+    "Feng, B.",
+    "Che, L.",
+    "Xu, Shengyu",
+    "Lin, Yan",
+    "Jin, Long",
+    "Zhuo, Y.",
+    "Li, Mingzhou",
+    "Wu, De"
+  ],
+  "doi": "10.1016/j.molmet.2025.102306",
+  "url": "https://www.semanticscholar.org/paper/129beb9cb81c29927b040b1ec822d540200d852a",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "Molecular Metabolism",
+  "citation_count": 0,
+  "abstract": "High-protein (HP) diets are widely adopted in Western societies for body-weight management; yet, they exacerbate senescence-associated metabolic deterioration, posing an unresolved pathophysiological conundrum. Here, we demonstrate that long-term HP intake mediates adipocyte-specific NAD+ depletion and mitochondrial dysfunction in white adipose tissue (WAT). Single-nucleus transcriptomic analyses revealed adipocyte-restricted senescence signatures in HP-fed mice. Mechanistically, HP intake triggers macrophage-specific upregulation of CD38 (a key NAD+ hydrolase), which depletes adipocyte NAD+ pools and thereby accelerates cellular senescence. Restoration of NAD+ levels, either via supplementation with NAD+ precursor or pharmacological inhibition of CD38 activity, alleviated the senescence-associated metabolic sequelae induced by HP diets. Our findings establish macrophage-adipocyte NAD+ crosstalk as a central axis linking dietary protein excess to WAT aging, providing actionable targets for the prevention and treatment of age-related metabolic disorders.",
+  "type": "academic",
+  "pdf_url": ""
+}

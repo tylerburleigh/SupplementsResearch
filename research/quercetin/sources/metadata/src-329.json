@@ -1,0 +1,19 @@
+{
+  "id": "src-329",
+  "title": "Cellular Senescence in Liver Diseases: From Molecular Drivers to Therapeutic Targeting.",
+  "authors": [
+    "Du, Kuo",
+    "Umbaugh, David S.",
+    "Ren, Niansheng",
+    "Diehl, A. M."
+  ],
+  "doi": "10.1016/j.jhep.2025.08.021",
+  "url": "https://www.semanticscholar.org/paper/6a8b1e1348b5bb0517d3b8bafa36dead72d3c6b6",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "Journal of Hepatology",
+  "citation_count": 13,
+  "abstract": "Obesity, metabolic syndrome, and aging are major contributors to the rising global burden of chronic liver diseases. Among these, aging remains an often underrecognized driver that intersects with other metabolic and environmental insults to exacerbate liver dysfunction. Cellular senescence, a key hallmark of aging, is increasingly implicated as a central mechanism linking these risk factors to liver pathophysiology. Senescent cells accumulate across diverse hepatic cell types and influence disease progression and systemic health through their senescence-associated secretory phenotype (SASP). While senotherapeutic strategies, including senolytics and senomorphics, show promise, their efficacy and safety remain highly dependent on cell type, disease context, and agent specificity. Recent advances, such as multi-omics profiling, multi-marker gene signatures, and targeted modalities including PROTACs and CAR-T cell therapies, offer new opportunities for precision interventions. This review synthesizes emerging insights into the molecular mechanisms of liver senescence, evaluates the current landscape of senotherapies, and outlines key challenges and future directions for safely and effectively targeting senescence in chronic liver disease.",
+  "type": "academic",
+  "pdf_url": ""
+}

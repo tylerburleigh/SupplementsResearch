@@ -1,0 +1,27 @@
+{
+  "id": "src-170",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://www.fda.gov/files/food/published/GRAS-Notice-000586---Taurine.pdf",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "pdf",
+  "provider": "",
+  "fetched_at": "2026-04-19T12:03:28.099408+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-170.md",
+  "quality_details": {
+    "content_length": 141636,
+    "alpha_ratio": 0.694,
+    "sentence_count": 1739,
+    "reasons": []
+  }
+}

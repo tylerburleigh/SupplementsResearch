@@ -1,0 +1,19 @@
+{
+  "id": "src-324",
+  "title": "Potential activities and mechanisms of extracellular polysaccharopeptides from fermented Trametes versicolor on regulating glucose homeostasis in insulin-resistant HepG2 cells",
+  "authors": [
+    "Teng, Ju-Fang",
+    "Lee, Chien‐Hsing",
+    "Hsu, Tai‐Hao",
+    "Lo, Hui‐Chen"
+  ],
+  "doi": "10.1371/journal.pone.0201131",
+  "url": "https://openalex.org/W2883000028",
+  "provider": "openalex",
+  "year": 2018,
+  "venue": "PLoS ONE",
+  "citation_count": 18,
+  "abstract": "Polysaccharides derived from mushrooms have potential to control blood sugar, reduce insulin resistance and prevent diabetic complications. The intracellular polysaccharopeptides of Trametes versicolor (TV) have been used as immunologic and oncologic adjuvants. The aim of this study was to investigate the potential activities and mechanisms of extracellular polysaccharopeptides (ePSP) obtained from TV strain LH-1 on regulating glucose homeostasis. Human hepatoma HepG2 cells incubated with normal glucose (5.5 mM, NG model), high glucose (33 mM, HG model), or high glucose (33 mM) plus high insulin (10-7 M, HGI model) concentrations were administered with TV LH-1 ePSP (50, 100, and 1000 μg/ml) for 24 hr. Glucose uptake of HepG2 cells, determined by flow cytometry, was significantly decreased in the HG and HGI models with insulin stimulation, suggesting insulin resistance of these cells; however, ePSP reversed this decrease in a dose-dependent manner (one-way ANOVA, p<0.05). In the HG and HGI models, ePSP significantly increased glycogen content, insulin receptor substrate-2 protein and phosphorylated AMP-activated protein kinase (AMPK), as determined by western blot analysis. In addition, ePSP significantly increased glucokinase in the NG and HG models, increased membrane glucose transporter-1 and decreased glycogen synthase kinase-3β in the HGI model, and increased glucose-6-phosphatase in the NG and HGI models (one-way ANOVA, p<0.05). In summary, TV LH-1 ePSP may elevate cellular glucose uptake to regulate glucose homeostasis via the activation of AMPK and glycogen synthesis in an insulin-independent manner. These results suggest that TV LH-1 ePSP may be a nutraceutical with anti-hyperglycemic activity.",
+  "type": "academic",
+  "pdf_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0201131&type=printable"
+}

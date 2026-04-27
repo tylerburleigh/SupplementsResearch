@@ -1,0 +1,35 @@
+{
+  "id": "src-048",
+  "title": "The effect of oral administration of undenatured type II collagen on monosodium iodoacetate-induced osteoarthritis in young and old rats",
+  "authors": [
+    "Sahin, Emre",
+    "Orhan, Cemal",
+    "Erten, Fusun",
+    "Saiyed, Zainulabedin",
+    "Azari, Elnaz Karimian",
+    "Durkee, Shane",
+    "Sahin, Kazim"
+  ],
+  "year": 2023,
+  "abstract": "AbstractWe investigated whether different doses of undenatured type II collagen (undenatured collagen, UC-II) help improve monosodium iodoacetate (MIA)-induced (osteoarthritis) OA in young and old rats. A total of 70 rats were divided into five groups: (1) control; (2) MIA (a single intra-articular injection of MIA); (3)–(5) MIA+ Undenatured Collagen with various oral doses (0.66, 1.33, and 2 mg/kg). The results showed that all doses of undenatured collagen in both age groups reduced knee diameter, while the two higher doses (1.33 mg/kg and 2 mg/kg) reduced the Mankin score and increased most gait measurements as early as day 14 compared to the MIA rats. However, the 2 mg/kg dose showed the best efficacy in improving Mankin score and gait measurements by 28 days post-OA induction. In young but not old rats, all doses of undenatured collagen reduced the Kellgren-Lawrence score compared to the MIA group. Undenatured collagen reduced the levels of most inflammatory and cartilage breakdown markers in serum and knee joint cartilage in both age groups. In conclusion, this data suggests that while all doses of undenatured collagen supplementation may ameliorate MIA-induced OA symptoms, the higher doses showed faster improvement in gait measurements and were more efficacious for overall joint health in rats.",
+  "doi": "10.1038/s41598-023-33763-2",
+  "url": "https://doi.org/10.1038/s41598-023-33763-2",
+  "pdf_url": "",
+  "venue": "Scientific Reports",
+  "citation_count": 13,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-19T13:43:00.729181+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-048.md",
+  "quality_details": {
+    "content_length": 60313,
+    "alpha_ratio": 0.699,
+    "sentence_count": 904,
+    "reasons": []
+  }
+}

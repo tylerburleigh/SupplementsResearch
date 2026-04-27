@@ -1,0 +1,18 @@
+{
+  "id": "src-280",
+  "title": "Fluorine-19 nuclear magnetic resonance characterization of ternary complexes of folate derivatives, 5-fluorodeoxyuridylate and Lactobacillus.",
+  "authors": [
+    "Lewis, C A",
+    "Ellis, P D",
+    "Dunlap, R B"
+  ],
+  "doi": "10.1021/bi00511a032",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/6786329",
+  "provider": "pubmed",
+  "year": 1981,
+  "venue": "Biochemistry",
+  "citation_count": 0,
+  "abstract": "Numerous biochemical techniques have been employed to characterize the covalent inhibitory ternary complex of thymidylate synthetase consisting of enzyme, 5-fluorodeoxyuridylate, and 5,10-methylenetetrahydrofolate. 19F NMR studies of this covalent ternary complex reveal a single, broad resonance centered at 12.7 ppm to higher shielding of free nucleotide, while the 5-fluorodexyuridylate-enzyme binary complex exhibits two resonances to higher shielding of free nucleotide, one at 1.4 ppm representing noncovalently bound ligand and the other at 34.5 ppm indicative of covalently bound 5,6-dihydro-5-fluorodeoxyuridylate. In order to follow the transformation of the latter binary complex to a ternary complex, we have employed 19F NMR to profile changes in the environment of the nucleotide which result from the interaction of folates with the coenzyme binding site. At low molar excesses of folates (5-fold), the effects observed in the 19F NMR spectrum fall into three major classes. (1) 5-Methyltetrahydrofolate exhibited a weak interaction with the binary complex. (2) Methotrexate and aminopterin, antifolate drugs, were observed to increase the exchange rate among the species detected in the 19F NMR spectrum of the binary complex. (3) Folate, dihydrofolate, and a series of tetrahydrofolate derivatives were found to shift the equilibrium of the binary complex toward the covalent 5,6-dihydro-5-fluorodeoxyuridylate-enzyme complex. With the latter folates the chemical shifts for the covalent species of these ternary complexes were found in the range of 35-40 ppm to higher shielding and are interpreted to reflect subtle differences in the strength and steric nature of the interaction of the folate ligand with the binary complex. These data illustrate that the latter folates promote the conversion of the enzyme-bound nucleotide to a species which would be poised to form the second covalent bond of the ternary complex, namely the linkage of the methylene group of the coenzyme with carbon 5 of the nucleotide.",
+  "type": "academic",
+  "pdf_url": ""
+}

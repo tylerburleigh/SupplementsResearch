@@ -1,0 +1,18 @@
+{
+  "id": "src-258",
+  "title": "Polyphenols and Glycemic Control",
+  "authors": [
+    "Kim, Yoona",
+    "Keogh, Jennifer",
+    "Clifton, Peter"
+  ],
+  "doi": "10.3390/nu8010017",
+  "url": "https://openalex.org/W2223868498",
+  "provider": "openalex",
+  "year": 2016,
+  "venue": "Nutrients",
+  "citation_count": 533,
+  "abstract": "Growing evidence from animal studies supports the anti-diabetic properties of some dietary polyphenols, suggesting that dietary polyphenols could be one dietary therapy for the prevention and management of Type 2 diabetes. This review aims to address the potential mechanisms of action of dietary polyphenols in the regulation of glucose homeostasis and insulin sensitivity based on in vitro and in vivo studies, and to provide a comprehensive overview of the anti-diabetic effects of commonly consumed dietary polyphenols including polyphenol-rich mixed diets, tea and coffee, chocolate and cocoa, cinnamon, grape, pomegranate, red wine, berries and olive oil, with a focus on human clinical trials. Dietary polyphenols may inhibit α-amylase and α-glucosidase, inhibit glucose absorption in the intestine by sodium-dependent glucose transporter 1 (SGLT1), stimulate insulin secretion and reduce hepatic glucose output. Polyphenols may also enhance insulin-dependent glucose uptake, activate 5' adenosine monophosphate-activated protein kinase (AMPK), modify the microbiome and have anti-inflammatory effects. However, human epidemiological and intervention studies have shown inconsistent results. Further intervention studies are essential to clarify the conflicting findings and confirm or refute the anti-diabetic effects of dietary polyphenols.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2072-6643/8/1/17/pdf?version=1452067849"
+}

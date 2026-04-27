@@ -1,0 +1,35 @@
+{
+  "id": "src-038",
+  "title": "Neuroprotective Effects of Dehydroepiandrosterone and Hericium erinaceus in Scopolamine-induced Alzheimer’s Diseases-like Symptoms in Male Rats",
+  "authors": [
+    "Shirvani, Majid",
+    "Nouri, Fatemeh",
+    "Sarihi, Abodrahman",
+    "Habibi, Parisa",
+    "Mohammadi, Mojdeh"
+  ],
+  "year": 2024,
+  "abstract": "",
+  "doi": "10.1007/s12013-024-01400-y",
+  "url": "https://doi.org/10.1007/s12013-024-01400-y",
+  "pdf_url": "",
+  "venue": "Cell Biochemistry and Biophysics",
+  "citation_count": 8,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-23T15:35:05.108960+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-038.md",
+  "quality_details": {
+    "content_length": 29719,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

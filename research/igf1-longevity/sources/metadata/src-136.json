@@ -1,0 +1,20 @@
+{
+  "id": "src-136",
+  "title": "Serum IGF-1 and IGFBP-3 levels in healthy Korean men aged 19–40 years: a cross-sectional analysis of reference ranges and seasonal variation",
+  "authors": [
+    "Jung, Soo-Min",
+    "Lee, S.",
+    "Lee, Hyoeun",
+    "Kim, Eun Na",
+    "Bae, K."
+  ],
+  "doi": "10.12793/tcp.2025.33.e13",
+  "url": "https://www.semanticscholar.org/paper/0bb0c05a9661ac3351909b93b16176cc3ddf7fbe",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "Translational and Clinical Pharmacology",
+  "citation_count": 1,
+  "abstract": "Serum insulin-like growth factor 1 (IGF-1) and insulin-like growth factor binding protein 3 (IGFBP-3) levels are regulated by growth hormone, nutritional status, and other endocrine factors, and are implicated in aging, metabolic disorders, and malignancies. Establishing appropriate reference ranges for these biomarkers is essential for safety monitoring and pharmacodynamic assessments in clinical trials. Although various detection methods—including enzyme-linked immunosorbent assay, chemiluminescence immunoassay, radioimmunoassay, and immunoradiometric assay (IRMA)—are available, defining reliable reference intervals remains challenging due to variability linked to age, sex, season, and assay methodology. IRMA manufacturers typically provide generalized reference values and recommend that laboratories establish context-specific ranges; however, data from healthy adult populations are limited. We analyzed data from 255 self-reported healthy Korean men aged 19–40 years using the IRMA method and R software. Age-specific reference ranges and standardized centile curves for serum IGF-1 and IGFBP-3 were established. Both biomarkers demonstrated significant seasonal variation, with notable differences observed among spring, autumn, and winter groups. This study presents a method for establishing institution-specific reference ranges and highlights the importance of considering seasonal variations to help reduce unnecessary dropouts during clinical trials.",
+  "type": "academic",
+  "pdf_url": ""
+}

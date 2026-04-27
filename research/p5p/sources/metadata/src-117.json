@@ -1,0 +1,28 @@
+{
+  "id": "src-117",
+  "title": "Lysozyme association with circulating RNA, extracellular vesicles, and chronic stress.",
+  "authors": [
+    "Abey, Sarah K",
+    "Yuana, Yuana",
+    "Joseph, Paule V",
+    "Kenea, Natnael D",
+    "Fourie, Nicolaas H",
+    "Sherwin, LeeAnne B",
+    "Gonye, Gregory E",
+    "Smyser, Paul A",
+    "Stempinski, Erin S",
+    "Boulineaux, Christina M",
+    "Weaver, Kristen R",
+    "Bleck, Christopher K E",
+    "Henderson, Wendy A"
+  ],
+  "doi": "10.1016/j.bbacli.2016.12.003",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/28053879",
+  "provider": "pubmed",
+  "year": 2017,
+  "venue": "BBA clinical",
+  "citation_count": 0,
+  "abstract": "BACKGROUND: Stress has demonstrated effects on inflammation though underlying cell-cell communication mechanisms remain unclear. We hypothesize that circulating RNAs and extracellular vesicles (EVs) in patients with chronic stress contain signals with functional roles in cell repair.\nMETHODS: Blood transcriptome from patients with Irritable Bowel Syndrome versus controls were compared to identify signaling pathways and effectors. Plasma EVs were isolated (size-exclusion chromatography) and characterized for effectors' presence (immunogold labelling-electron microscopy). Based on transcriptome pathways and EV-labelling, lysozyme's effects on cell migration were tested in human colon epithelial CRL-1790 cells and compared to the effects of CXCL12, a migration inducer (wound assay). The effect of lysozyme on immune-linked mRNA and protein levels in cells which survived following serum starvation and scratch wound were investigated (NanoString).\nRESULTS: Blood transcriptomes revealed pyridoxal 5'phosphate salvage, pyrimidine ribonucleotides salvage pathways, atherosclerosis, and cell movement signaling with membrane CD9 and extracellular lysozyme as effectors. Plasma EVs showed labelling with CD9, mucins, and lysozyme. This is the first identification of lysozyme on plasma EVs. In CRL-1790 cells, lysozyme induced migration and repaired scratch wound as well as CXCL12. Immune mRNA and protein expressions were altered in cells which survived following serum starvation and scratch wound, with or without lysozyme in serum-free media post-wounding: CD9, IL8, IL6 mRNAs and CD9, NT5E, PD-L1 proteins.\nCONCLUSIONS: Repair and inflammatory signals are identified in plasma EVs and circulating RNAs in chronic stress. Registered clinicaltrials.gov #NCT00824941.\nGENERAL SIGNIFICANCE: This study highlights the role of circulating RNAs and EVs in stress.",
+  "type": "academic",
+  "pdf_url": ""
+}

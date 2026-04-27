@@ -1,0 +1,27 @@
+{
+  "id": "src-179",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "",
+  "pdf_url": "https://bvsms.saude.gov.br/bvs/htai/documentos/736%20CMRB.pdf",
+  "venue": "",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "",
+  "fetched_at": "2026-04-21T11:02:51.527577+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-179.md",
+  "quality_details": {
+    "content_length": 8467,
+    "alpha_ratio": 0.715,
+    "sentence_count": 69,
+    "reasons": []
+  }
+}

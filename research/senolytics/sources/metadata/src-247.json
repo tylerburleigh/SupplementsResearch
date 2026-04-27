@@ -1,0 +1,18 @@
+{
+  "id": "src-247",
+  "title": "Cellular Senescence in Health, Disease, and Lens Aging",
+  "authors": [
+    "Qin, Ying",
+    "Liu, Haoxin",
+    "Wu, Hongli"
+  ],
+  "doi": "10.3390/ph18020244",
+  "url": "https://www.semanticscholar.org/paper/c5a49344d1ac5119824820783ac181296e6589f7",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "Pharmaceuticals",
+  "citation_count": 29,
+  "abstract": "Background: Cellular senescence is a state of irreversible cell cycle arrest that serves as a critical regulator of tissue homeostasis, aging, and disease. While transient senescence contributes to development, wound healing, and tumor suppression, chronic senescence drives inflammation, tissue dysfunction, and age-related pathologies, including cataracts. Lens epithelial cells (LECs), essential for maintaining lens transparency, are particularly vulnerable to oxidative stress-induced senescence, which accelerates lens aging and cataract formation. This review examines the dual role of senescence in LEC function and its implications for age-related cataractogenesis, alongside emerging senotherapeutic interventions. Methods: This review synthesizes findings on the molecular mechanisms of senescence, focusing on oxidative stress, mitochondrial dysfunction, and the senescence-associated secretory phenotype (SASP). It explores evidence linking LEC senescence to cataract formation, highlighting key studies on stress responses, DNA damage, and antioxidant defense. Recent advances in senotherapeutics, including senolytics and senomorphics, are analyzed for their potential to mitigate LEC senescence and delay cataract progression. Conclusions: LEC senescence is driven by oxidative damage, mitochondrial dysfunction, and impaired redox homeostasis. These factors activate senescence path-ways, including p53/p21 and p16/Rb, resulting in cell cycle arrest and SASP-mediated inflammation. The accumulation of senescent LECs reduces regenerative capacity, disrupts lens homeostasis, and contributes to cataractogenesis. Emerging senotherapeutics, such as dasatinib, quercetin, and metformin, show promise in reducing the senescent cell burden and modulating the SASP to preserve lens transparency.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.3390/ph18020244"
+}

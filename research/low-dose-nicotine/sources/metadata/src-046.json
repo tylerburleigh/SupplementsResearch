@@ -1,0 +1,29 @@
+{
+  "id": "src-046",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "",
+  "pdf_url": "https://med.stanford.edu/content/dam/sm/scsnl/documents/time_varying_functional.pdf",
+  "venue": "",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "",
+  "fetched_at": "2026-04-23T21:37:42.093331+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-046.md",
+  "quality_details": {
+    "content_length": 61721,
+    "alpha_ratio": 0.754,
+    "sentence_count": 554,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

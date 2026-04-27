@@ -1,0 +1,29 @@
+3	2	Review
+63	2	Introduction
+296	2	Pla
+350	2	Pla
+378	2	Men And Women Studies
+436	2	Pla
+928	2	Conclusions
+949	2	Author Contributions
+956	2	References
+987	2	11. Dent E, Morley JE, Cruz-Jentoft AJ, Arai H, Kritchevsky SB, Guraln ik
+1015	2	20. Kreider RB, Kalman DS, Antonio J, Ziegenfuss TN, Wildman R, Colli ns
+1025	2	23. Alves CR, Merege Filho CA, Benatti FB, Brucki S, Pereira RM, de Sa Pinto AL,
+1029	2	24. Aguiar AF , Januario RS, Junior RP , Gerage AM, Pina FL, do Nas cimento MA,
+1033	2	25. Chilibeck PD, Candow DG, Landeryou T , Kaviani M, Paus-Jens sen
+1052	2	30. Candow DG, Little JP , Chilibeck PD, Abeysekara S, Zello GA, Kaz achkov
+1059	2	32. Cooke MB, Brabham B, Buford TW, Shelmadine BD, McPheeters M, Hu dson
+1063	2	33. Eijnde BO, V an Leemputte M, Goris M, Labarque V , Taes Y , Verbes sem
+1092	2	40. Gualano B, de Salles Painneli V , Roschel H, Artioli GG, Neves M, de
+1108	2	44. Mazzetti SA, Kraemer WJ, Volek JS, Duncan ND, Ratamess NA, Gome z
+1133	2	52. Solis MY , Artioli GG, Otaduy MCG, Leite CDC, Arruda W, Veiga
+1143	2	55. Burke DG, Chilibeck PD, Parise G, Candow DG, Mahoney D, Tarnopo lsky
+1150	2	57. Tarnopolsky M, Parise G, Fu MH, Brose A, Parshad A, Speer O,
+1179	2	65. Aguiar AF , Vechetti-Junior IJ, Alves de Souza RW, Castan EP , Milanezi-Aguiar
+1201	2	71. Snijders T , Verdijk LB, Smeets JS, McKay BR, Senden JM, Hartg ens
+1205	2	72. Burke DG, Candow DG, Chilibeck PD, MacNeil LG, Roy BD, Tarnopo lsky
+1217	2	75. Snijders T , Bell KE, Nederveen JP , Saddler NI, Mazara N, Kumbh are DA,
+1249	2	83. Barbieri E, Guescini M, Calcabrini C, V allorani L, Diaz AR, Fimog nari
+1279	2	92. Schoenfeld BJ, Contreras B, Krieger J, Grgic J, Delcastillo K, Be lliard
+1296	2	96. Lobo DM, Tritto AC, da Silva LR, de Oliveira PB, Benatti FB, Ros chel

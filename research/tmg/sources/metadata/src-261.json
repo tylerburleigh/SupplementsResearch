@@ -1,0 +1,33 @@
+{
+  "id": "src-261",
+  "title": "Management of <i>Helicobacter pylori</i> infection—the Maastricht V/Florence Consensus Report",
+  "authors": [
+    "Malfertheiner, Peter",
+    "Mégraud, Françis",
+    "O’Morain, Colm",
+    "Gisbert, Javier P.",
+    "Kuipers, Ernst J.",
+    "Axon, Anthony",
+    "Bazzoli, Franco",
+    "Gasbarrini, Antonio",
+    "Atherton, J.",
+    "Graham, David Y.",
+    "Hunt, Richard H.",
+    "Moayyedi, Paul",
+    "Rokkas, Theodore",
+    "Rugge, Massimo",
+    "Selgrad, Michael",
+    "Suerbaum, Sebastian",
+    "Sugano, Kentaro",
+    "El‐Omar, Emad"
+  ],
+  "doi": "10.1136/gutjnl-2016-312288",
+  "url": "https://openalex.org/W2527848138",
+  "provider": "openalex",
+  "year": 2016,
+  "venue": "Gut",
+  "citation_count": 2902,
+  "abstract": "Important progress has been made in the management of Helicobacter pylori infection and in this fifth edition of the Maastricht Consensus Report, key aspects related to the clinical role of H. pylori were re-evaluated in 2015. In the Maastricht V/Florence Consensus Conference, 43 experts from 24 countries examined new data related to H. pylori in five subdivided workshops: (1) Indications/Associations, (2) Diagnosis, (3) Treatment, (4) Prevention/Public Health, (5) H. pylori and the Gastric Microbiota. The results of the individual workshops were presented to a final consensus voting that included all participants. Recommendations are provided on the basis of the best available evidence and relevance to the management of H. pylori infection in the various clinical scenarios.",
+  "type": "academic",
+  "pdf_url": "https://gut.bmj.com/content/gutjnl/66/1/6.full.pdf"
+}

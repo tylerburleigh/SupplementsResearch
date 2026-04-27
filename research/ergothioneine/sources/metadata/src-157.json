@@ -1,0 +1,33 @@
+{
+  "id": "src-157",
+  "title": "Solute Transporter OCTN1/Slc22a4 Affects Disease Severity and Response to Infliximab in Experimental Colitis: Role of Gut Microbiota and Immune Modulation.",
+  "authors": [
+    "Del Chierico, Federica",
+    "Masi, Letizia",
+    "Petito, Valentina",
+    "Baldelli, Valerio",
+    "Puca, Pierluigi",
+    "Benvenuto, Roberta",
+    "Fidaleo, Marco",
+    "Palucci, Ivana",
+    "Lopetuso, Loris Riccardo",
+    "Caristo, Maria Emiliana",
+    "Carrozza, Cinzia",
+    "Giustiniani, Maria Cristina",
+    "Nakamichi, Noritaka",
+    "Kato, Yukio",
+    "Putignani, Lorenza",
+    "Gasbarrini, Antonio",
+    "Pani, Giovambattista",
+    "Scaldaferri, Franco"
+  ],
+  "doi": "10.1093/ibd/izae135",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38944815",
+  "provider": "pubmed",
+  "year": 2024,
+  "venue": "Inflammatory bowel diseases",
+  "citation_count": 0,
+  "abstract": "BACKGROUND: Inflammatory bowel diseases are chronic disabling conditions with a complex and multifactorial etiology, still incompletely understood. OCTN1, an organic cation transporter, could have a role in modulating the inflammatory response, and some genetic polymorphisms of this molecule have been associated with increased risk of inflammatory bowel diseases. Until now, limited information exists on its potential in predicting/modulating patient's response to therapies. The aim of this study was to evaluate the role of OCTN1 in modifying gut microbiota and mucosal immunity in response to infliximab therapy in murine colitis.\nMETHODS: A dextran sodium sulphate model of colitis was used to assess the clinical efficacy of infliximab administered intravenously in ocnt1 gene knockout mice and their C57BL/6 controls. Stool, colon, and mesenteric lymph node samples were collected to evaluate differences in gut microbiota composition, histology, and T cell populations, respectively.\nRESULTS: Octn1 -/- influences the microbiota profile and is associated with a worse dysbiosis in mice with colitis. Infliximab treatment attenuates colitis-associated dysbiosis, with an increase of bacterial richness and evenness in both strains. In comparison with wild type, octn1-/- mice have milder disease and a higher baseline percentage of Treg, Tmemory, Th2 and Th17 cells.\nCONCLUSIONS: Our data support the murine model to study OCTN1 genetic contribution to inflammatory bowel diseases. This could be the first step towards the recognition of this membrane transporter as a biomarker in inflammatory conditions and a predictor of response to therapies.",
+  "type": "academic",
+  "pdf_url": ""
+}

@@ -7,12 +7,26 @@ properties:
     displayName: Status
   evidence_level:
     displayName: Evidence
+  mechanistic_evidence:
+    displayName: Mechanistic
+  animal_evidence:
+    displayName: Animal
+  human_evidence:
+    displayName: Human
+  translational_status:
+    displayName: Translational Status
   supplements:
     displayName: Supplements
   pathways:
     displayName: Pathways
   outcomes:
     displayName: Outcomes
+  population:
+    displayName: Population
+  genetic_context:
+    displayName: Genetic Context
+  effect_direction:
+    displayName: Effect Direction
   updated:
     displayName: Updated
 views:
@@ -22,9 +36,16 @@ views:
       - file.name
       - hypothesis_status
       - evidence_level
+      - translational_status
+      - mechanistic_evidence
+      - animal_evidence
+      - human_evidence
       - supplements
       - pathways
       - outcomes
+      - population
+      - genetic_context
+      - effect_direction
       - updated
     groupBy:
       property: hypothesis_status
@@ -37,8 +58,46 @@ views:
     order:
       - file.name
       - evidence_level
+      - translational_status
+      - mechanistic_evidence
+      - animal_evidence
+      - human_evidence
       - supplements
       - pathways
       - outcomes
+      - population
+      - genetic_context
+      - effect_direction
     summaries:
       evidence_level: Average
+  - type: table
+    name: By Effect Direction
+    order:
+      - file.name
+      - effect_direction
+      - hypothesis_status
+      - evidence_level
+      - translational_status
+      - population
+      - genetic_context
+      - supplements
+      - outcomes
+    groupBy:
+      property: effect_direction
+      direction: ASC
+  - type: table
+    name: Mechanism-Led Open Claims
+    filters:
+      and:
+        - 'translational_status == "mechanism-led"'
+        - 'hypothesis_status == "open"'
+    order:
+      - file.name
+      - mechanistic_evidence
+      - animal_evidence
+      - human_evidence
+      - effect_direction
+      - population
+      - genetic_context
+      - supplements
+      - outcomes

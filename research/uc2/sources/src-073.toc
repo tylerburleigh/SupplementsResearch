@@ -1,0 +1,6 @@
+4	2	Meditsinskiy Sovet
+63	2	Abstract
+173	2	Meditsinskiy Sovet
+409	2	Meditsinskiy Sovet
+652	2	Meditsinskiy Sovet
+948	2	Meditsinskiy Sovet

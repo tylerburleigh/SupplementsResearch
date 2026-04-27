@@ -1,0 +1,28 @@
+{
+  "id": "src-377",
+  "title": "LXR/CD38 activation drives cholesterol-induced macrophage senescence and neurodegeneration via NAD+ depletion",
+  "authors": [
+    "Terao, Ryo",
+    "Lee, Tae Jun",
+    "Colasanti, Jason",
+    "Pfeifer, Charles W.",
+    "Lin, Joseph B.",
+    "Santeford, Andrea",
+    "Hase, Keitaro",
+    "Yamaguchi, Shinobu",
+    "Du, Daniel",
+    "Sohn, Brian S.",
+    "Sasaki, Yo",
+    "Yoshida, Mitsukuni",
+    "Apte, Rajendra S."
+  ],
+  "doi": "10.1016/j.celrep.2024.114102",
+  "url": "https://openalex.org/W4394893765",
+  "provider": "openalex",
+  "year": 2024,
+  "venue": "Cell Reports",
+  "citation_count": 43,
+  "abstract": "Although dysregulated cholesterol metabolism predisposes aging tissues to inflammation and a plethora of diseases, the underlying molecular mechanism remains poorly defined. Here, we show that metabolic and genotoxic stresses, convergently acting through liver X nuclear receptor, upregulate CD38 to promote lysosomal cholesterol efflux, leading to nicotinamide adenine dinucleotide (NAD<sup>+</sup>) depletion in macrophages. Cholesterol-mediated NAD<sup>+</sup> depletion induces macrophage senescence, promoting key features of age-related macular degeneration (AMD), including subretinal lipid deposition and neurodegeneration. NAD<sup>+</sup> augmentation reverses cellular senescence and macrophage dysfunction, preventing the development of AMD phenotype. Genetic and pharmacological senolysis protect against the development of AMD and neurodegeneration. Subretinal administration of healthy macrophages promotes the clearance of senescent macrophages, reversing the AMD disease burden. Thus, NAD<sup>+</sup> deficit induced by excess intracellular cholesterol is the converging mechanism of macrophage senescence and a causal process underlying age-related neurodegeneration.",
+  "type": "academic",
+  "pdf_url": "http://www.cell.com/article/S2211124724004303/pdf"
+}

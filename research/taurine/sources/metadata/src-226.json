@@ -1,0 +1,20 @@
+{
+  "id": "src-226",
+  "title": "Curcumin Formulations for Better Bioavailability: What We Learned from Clinical Trials Thus Far?",
+  "authors": [
+    "Hegde, Mangala",
+    "Girisa, Sosmitha",
+    "BharathwajChetty, Bandari",
+    "Vishwa, Ravichandran",
+    "Kunnumakkara, Ajaikumar B."
+  ],
+  "doi": "10.1021/acsomega.2c07326",
+  "url": "https://openalex.org/W4324029158",
+  "provider": "openalex",
+  "year": 2023,
+  "venue": "ACS Omega",
+  "citation_count": 238,
+  "abstract": "Curcumin has been credited with a wide spectrum of pharmacological properties for the prevention and treatment of several chronic diseases such as arthritis, autoimmune diseases, cancer, cardiovascular diseases, diabetes, hemoglobinopathies, hypertension, infectious diseases, inflammation, metabolic syndrome, neurological diseases, obesity, and skin diseases. However, due to its weak solubility and bioavailability, it has limited potential as an oral medication. Numerous factors including low water solubility, poor intestinal permeability, instability at alkaline pH, and fast metabolism contribute to curcumin's limited oral bioavailability. In order to improve its oral bioavailability, different formulation techniques such as coadministration with piperine, incorporation into micelles, micro/nanoemulsions, nanoparticles, liposomes, solid dispersions, spray drying, and noncovalent complex formation with galactomannosides have been investigated with in vitro cell culture models, in vivo animal models, and humans. In the current study, we extensively reviewed clinical trials on various generations of curcumin formulations and their safety and efficacy in the treatment of many diseases. We also summarized the dose, duration, and mechanism of action of these formulations. We have also critically reviewed the advantages and limitations of each of these formulations compared to various placebo and/or available standard care therapies for these ailments. The highlighted integrative concept embodied in the development of next-generation formulations helps to minimize bioavailability and safety issues with least or no adverse side effects and the provisional new dimensions presented in this direction may add value in the prevention and cure of complex chronic diseases.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.1021/acsomega.2c07326"
+}

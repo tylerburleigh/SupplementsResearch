@@ -1,0 +1,30 @@
+{
+  "id": "src-456",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://www.naturalwellness.com/products/vitamin-d3-k2-supplement",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-21T21:35:43.702680+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-456.md",
+  "quality_details": {
+    "content_length": 80,
+    "alpha_ratio": 0.812,
+    "sentence_count": 1,
+    "reasons": [
+      "content too short (80 chars < 500)",
+      "few sentences detected (1 < 3)"
+    ]
+  }
+}

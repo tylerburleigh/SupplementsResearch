@@ -1,0 +1,30 @@
+{
+  "id": "src-104",
+  "title": "Senolytics dasatinib and quercetin in idiopathic pulmonary fibrosis: results of a phase I, single-blind, single-center, randomized, placebo-controlled pilot trial on feasibility and tolerability.",
+  "authors": [
+    "Nambiar, Anoop",
+    "Kellogg, Dean",
+    "Justice, Jaime",
+    "Goros, Martin",
+    "Gelfond, Jonathan",
+    "Pascual, Rodolfo",
+    "Hashmi, Shahrukh",
+    "Masternak, Michal",
+    "Prata, Larissa",
+    "LeBrasseur, Nathan",
+    "Limper, Andrew",
+    "Kritchevsky, Stephen",
+    "Musi, Nicolas",
+    "Tchkonia, Tamara",
+    "Kirkland, James"
+  ],
+  "doi": "10.1016/j.ebiom.2023.104481",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36857968",
+  "provider": "pubmed",
+  "year": 2023,
+  "venue": "EBioMedicine",
+  "citation_count": 0,
+  "abstract": "BACKGROUND: Idiopathic pulmonary fibrosis (IPF) is an age-related, chronic, irreversible fibrotic lung disease. IPF is associated with increased senescent cells burden, which may be alleviated with administration of senescent cell targeting drugs termed 'senolytics'. We previously conducted an open-label single-arm pilot study of the senolytic combination of dasatinib and quercetin (D + Q) in patients with IPF but lack of control group limited interpretation and next-stage trial planning. The primary objective of this confirmatory randomized placebo-controlled pilot trial (RCT; NCT02874989) was to report adverse events with D + Q and inform study feasibility for future efficacy trials.\nMETHODS: Twelve participants with IPF aged >50 years were blinded and randomized at a 1:1 ratio to either receive three weeks of D + Q (D: 100 mg/d and Q: 1250 mg/d, three consecutive days per week) or matching placebo.\nFINDINGS: All participants completed the scheduled drug dosing regimen (108/108 doses) and planned assessments (60/60). While the placebo arm reported fewer overall non-serious AEs (65 vs 22), there were no serious adverse events related to D + Q. Most AEs in the D + Q arm are common in IPF patients or anticipated side effects of D. Sleep disturbances and anxiety were disproportionately represented in the D + Q arm (4/6 vs 0/6). Frailty, pulmonary, or physical function were explored before and after intermittent D + Q; though under-powered to evaluate change, these measures do not appear to differ meaningfully between groups.\nINTERPRETATION: Intermittently-dosed D + Q in patients with IPF is feasible and generally well-tolerated. Further prospective studies, such as a larger RCT, are needed to confirm the safety and efficacy of D + Q in patients with IPF.\nFUNDING: This work was supported by National Institutes of Health grants R33AG61456 (JLK, TT), Robert and Arlene Kogod (JLK, TT), the Connor Fund (JLK, TT), Robert J. and Theresa W. Ryan (JLK, TT), and the Noaber Foundation (JLK, TT) San Antonio Claude D. Pepper Older Americans Independence Center's (OAIC)Pilot/Exploratory Studies Core (PESC) Grant (AMN, NM); NIHK01 AG059837 (JNJ), P30 AG021332 (SBK, JNJ); NIHR37 AG013925 (JLK), the Connor Group (JLK), Glenn/AFAR BIG Award (JLK), Robert J. and Theresa W. Ryan (JLK), and the Noaber and Ted Nash Long Life Foundations (JLK).",
+  "type": "academic",
+  "pdf_url": ""
+}

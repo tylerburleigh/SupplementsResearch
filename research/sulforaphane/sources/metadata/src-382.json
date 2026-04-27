@@ -1,0 +1,20 @@
+{
+  "id": "src-382",
+  "title": "Understanding the role of the cytoprotective transcription factor nuclear factor erythroid 2-related factor 2—lessons from evolution, the animal kingdom and rare progeroid syndromes",
+  "authors": [
+    "Stenvinkel, Peter",
+    "Meyer, Colin J.",
+    "Block, Geoffrey A.",
+    "Chertow, Glenn M.",
+    "Shiels, Paul G."
+  ],
+  "doi": "10.1093/ndt/gfz120",
+  "url": "https://openalex.org/W2961829627",
+  "provider": "openalex",
+  "year": 2019,
+  "venue": "Nephrology Dialysis Transplantation",
+  "citation_count": 70,
+  "abstract": "The cytoprotective transcriptor factor nuclear factor erythroid 2- related factor 2 (NRF2) is part of a complex regulatory network that responds to environmental cues. To better understand its role in a cluster of inflammatory and pro-oxidative burden of lifestyle diseases that accumulate with age, lessons can be learned from evolution, the animal kingdom and progeroid syndromes. When levels of oxygen increased in the atmosphere, mammals required ways to protect themselves from the metabolic toxicity that arose from the production of reactive oxygen species. The evolutionary origin of the NRF2-Kelch-like ECH-associated protein 1 (KEAP1) signalling pathway from primitive origins has been a prerequisite for a successful life on earth, with checkpoints in antioxidant gene expression, inflammation, detoxification and protein homoeostasis. Examples from the animal kingdom suggest that superior antioxidant defense mechanisms with enhanced NRF2 expression have been developed during evolution to protect animals during extreme environmental conditions, such as deep sea diving, hibernation and habitual hypoxia. The NRF2-KEAP1 signalling pathway is repressed in progeroid (accelerated ageing) syndromes and a cluster of burden of lifestyle disorders that accumulate with age. Compelling links exist between tissue hypoxia, senescence and a repressed NRF2 system. Effects of interventions that activate NRF2, including nutrients, and more potent (semi)synthetic NRF2 agonists on clinical outcomes are of major interest. Given the broad-ranging actions of NRF2, we need to better understand the mechanisms of activation, biological function and regulation of NRF2 and its inhibitor, KEAP1, in different clinical conditions to ensure that modulation of this thiol-based system will not result in major adverse effects. Lessons from evolution, the animal kingdom and conditions of accelerated ageing clarify a major role of a controlled NRF2-KEAP1 system in healthy ageing and well-being.",
+  "type": "academic",
+  "pdf_url": "https://academic.oup.com/ndt/article-pdf/35/12/2036/34696650/gfz120.pdf"
+}

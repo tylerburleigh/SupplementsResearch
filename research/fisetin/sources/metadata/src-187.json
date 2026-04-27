@@ -1,0 +1,19 @@
+{
+  "id": "src-187",
+  "title": "Senescence associated macrophages and “macroph-aging”: are they pieces of the same puzzle?",
+  "authors": [
+    "Prattichizzo, F.",
+    "Bonafè, M.",
+    "Olivieri, F.",
+    "Franceschi, C."
+  ],
+  "doi": "10.18632/aging.101133",
+  "url": "https://www.semanticscholar.org/paper/4642772a7dd4e8e50dba01b89a8963f44e296a90",
+  "provider": "semantic_scholar",
+  "year": 2016,
+  "venue": "Aging",
+  "citation_count": 64,
+  "abstract": "aging is characterized by a failure to maintain tissue homeostasis. Mounting evidence suggests that the accumulation of senescent cells (SCs) is a causal agent in this process, highlighting the relationship between increased SC burden, loss of homeostasis, and heightened risk of developing age-related diseases (ARDs) [1]. Exploring the mechanisms that link SCs and tissue homeostasis is essential to devise effective strategies to slow down the age-related decline and degeneration of human tissues. Cellular senescence is known to be induced by the activation of compensatory/ antagonistic responses to the age-related cellular damage caused by a number of stressors, like radiations and oncogenes activation. SCs activate a pro-inflammatory program characterized by release of a number of soluble factors—hence the name senescence-associated secretory phenotype (SASP)—whose main goal is to achieve the immune-mediated clearance of SCs [2]. Intriguingly, the SASP can transmit senescence to bystander cells, resulting in an increased number of SCs and perpetuation of the chronic, low-grade, age-related inflammatory state that some years ago we have defined \" inflammaging \" [3]. Different phenomena seem to be involved in the age-related increase in the SC burden associated with inflammaging, including faster spread of senescence in older compared with younger organisms and less efficient SC clearance during aging. The two mechanisms are not mutually exclusive; indeed, the most likely hypothesis is that they coexist, although convincing data have yet to be provided. Now, Hall and co-workers have demonstrated that SCs can spread senescence to immune cells [4]. By implanting into the peritoneal cavity of SCID mice senescent fibroblasts capable of releasing a small bioluminescent protein, the authors showed that acquired immunity is not mandatory for SC clearance. Inoculation of alginate bead-embedded SCs into p16LUC mice (which have normal immunity) indicated that SCs attracted immune cells, including macrophages. Since alginate coating allows only effusion of the soluble molecules released from SCs (i.e. SASP factors), these soluble components can attract immune cells. Surprisingly, this secretome induced acquisition by young mouse macrophages of a senescence-like phenotype characterized by an increased expression of tumor suppressor p16(Ink4a) Commentary and activity of β-galactosidase (β-gal) at pH 6.0 (β-galpH6), two markers of senescence that have proved highly reliable in vitro and in vivo studies. Moreover, the p16+/β-gal+ cell subset was found to be the population identified as SCs in chronologically aged p16LUC mice. A considerable fraction of these cells were cleared by liposomal clodronate, which kills cells with phagocytic activity. These …",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.18632/aging.101133"
+}

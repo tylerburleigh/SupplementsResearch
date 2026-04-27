@@ -1,0 +1,41 @@
+{
+  "id": "src-288",
+  "title": "Optimal methods of vitamin D supplementation to prevent acute respiratory infections: a systematic review, dose–response and pairwise meta-analysis of randomized controlled trials",
+  "authors": [
+    "Wang, Chih-Hung",
+    "Porta, Lorenzo",
+    "Yang, Ting-Kai",
+    "Wang, Yu-Hsiang",
+    "Wu, Tsung-Hung",
+    "Qian, Frank",
+    "Han, Yin-Yi",
+    "Sheng, Wang-Huei",
+    "Chen, Shyr-Chyr",
+    "Lee, Chien-Chang",
+    "Chang, Shan-Chwen"
+  ],
+  "year": 2024,
+  "abstract": "Abstract\nBackground\nVitamin D supplementation may prevent acute respiratory infections (ARIs). This study aimed to identify the optimal methods of vitamin D supplementation.\n\nMethods\nPubMed, Embase, Cochrane Central Register of Controlled Trials, Web of Science, and the ClinicalTrials.gov registry were searched from database inception through July 13, 2023. Randomized-controlled trials (RCTs) were included. Data were pooled using random-effects model. The primary outcome was the proportion of participants with one or more ARIs.\n\nResults\nThe analysis included 43 RCTs with 49320 participants. Forty RCTs were considered to be at low risk for bias. The main pairwise meta-analysis indicated there were no significant preventive effects of vitamin D supplementation against ARIs (risk ratio [RR]: 0.99, 95% confidence interval [CI]: 0.97 to 1.01, I2 = 49.6%). The subgroup dose–response meta-analysis indicated that the optimal vitamin D supplementation doses ranged between 400–1200 IU/day for both summer-sparing and winter-dominant subgroups. The subgroup pairwise meta-analysis also revealed significant preventive effects of vitamin D supplementation in subgroups of daily dosing (RR: 0.92, 95% CI: 0.85 to 0.99, I2 = 55.7%, number needed to treat [NNT]: 36), trials duration &lt; 4 months (RR: 0.81, 95% CI: 0.67 to 0.97, I2 = 48.8%, NNT: 16), summer-sparing seasons (RR: 0.85, 95% CI: 0.74 to 0.98, I2 = 55.8%, NNT: 26), and winter-dominant seasons (RR: 0.79, 95% CI: 0.71 to 0.89, I2 = 9.7%, NNT: 10).\n\nConclusion\nVitamin D supplementation may slightly prevent ARIs when taken daily at doses between 400 and 1200 IU/d during spring, autumn, or winter, which should be further examined in future clinical trials.",
+  "doi": "10.1186/s12937-024-00990-w",
+  "url": "https://doi.org/10.1186/s12937-024-00990-w",
+  "pdf_url": "",
+  "venue": "Nutrition Journal",
+  "citation_count": 7,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T20:52:41.438821+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-288.md",
+  "quality_details": {
+    "content_length": 91304,
+    "alpha_ratio": 0.618,
+    "sentence_count": 833,
+    "reasons": [
+      "paywall_page (access this article)"
+    ]
+  }
+}

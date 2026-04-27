@@ -1,0 +1,25 @@
+{
+  "id": "src-241",
+  "title": "Environment Dictates Dependence on Mitochondrial Complex I for NAD+ and Aspartate Production and Determines Cancer Cell Sensitivity to Metformin",
+  "authors": [
+    "Bush, Lauren N.",
+    "Davidson, Shawn M",
+    "Freinkman, Elizaveta",
+    "Gitego, Nadege",
+    "Gui, Dan Yi",
+    "Hosios, Aaron Marc",
+    "Luengo, Alba",
+    "Sullivan, Lucas Bryan",
+    "Thomas, Craig J.",
+    "Vander Heiden, Matthew G."
+  ],
+  "doi": "10.1016/j.cmet.2016.09.006",
+  "url": "https://doi.org/10.1016/j.cmet.2016.09.006",
+  "provider": "core",
+  "year": 2018,
+  "venue": "Cell Metabolism",
+  "citation_count": 0,
+  "abstract": "Metformin use is associated with reduced cancer mortality, but how metformin impacts cancer outcomes is controversial. Although metformin can act on cells autonomously to inhibit tumor growth, the doses of metformin that inhibit proliferation in tissue culture are much higher than what has been described in vivo. Here, we show that the environment drastically alters sensitivity to metformin and other complex I inhibitors. We find that complex I supports proliferation by regenerating nicotinamide adenine dinucleotide (NAD)+, and metformin's anti-proliferative effect is due to loss of NAD+/NADH homeostasis and inhibition of aspartate biosynthesis. However, complex I is only one of many inputs that determines the cellular NAD+/NADH ratio, and dependency on complex I is dictated by the activity of other pathways that affect NAD+ regeneration and aspartate levels. This suggests that cancer drug sensitivity and resistance are not intrinsic properties of cancer cells, and demonstrates that the environment can dictate sensitivity to therapies that impact cell metabolism. Keywords:\ncancer metabolism; metformin; biguanide; NAD+/NADH ratio; drug sensitivity; complex I; mitochondria; aspartateNational Institutes of Health (U.S.) (Grant P30CA1405141)National Institutes of Health (U.S.) (Grant GG006413)National Institutes of Health (U.S.) (Grant R01 CA168653)National Institutes of Health (U.S.) (Grant R01 CA201276",
+  "type": "academic",
+  "pdf_url": "https://core.ac.uk/download/159548711.pdf"
+}

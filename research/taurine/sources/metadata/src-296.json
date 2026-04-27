@@ -1,0 +1,20 @@
+{
+  "id": "src-296",
+  "title": "Secondary Bile Acids and Short Chain Fatty Acids in the Colon: A Focus on Colonic Microbiome, Cell Proliferation, Inflammation, and Cancer",
+  "authors": [
+    "Zeng, Huawei",
+    "Umar, Shahid",
+    "Rust, Bret",
+    "Lazarova, Darina L.",
+    "Bordonaro, Michael"
+  ],
+  "doi": "10.3390/ijms20051214",
+  "url": "https://openalex.org/W2921460411",
+  "provider": "openalex",
+  "year": 2019,
+  "venue": "International Journal of Molecular Sciences",
+  "citation_count": 467,
+  "abstract": "Secondary bile acids (BAs) and short chain fatty acids (SCFAs), two major types of bacterial metabolites in the colon, cause opposing effects on colonic inflammation at chronically high physiological levels. Primary BAs play critical roles in cholesterol metabolism, lipid digestion, and host⁻microbe interaction. Although BAs are reabsorbed via enterohepatic circulation, primary BAs serve as substrates for bacterial biotransformation to secondary BAs in the colon. High-fat diets increase secondary BAs, such as deoxycholic acid (DCA) and lithocholic acid (LCA), which are risk factors for colonic inflammation and cancer. In contrast, increased dietary fiber intake is associated with anti-inflammatory and anticancer effects. These effects may be due to the increased production of the SCFAs acetate, propionate, and butyrate during dietary fiber fermentation in the colon. Elucidation of the molecular events by which secondary BAs and SCFAs regulate colonic cell proliferation and inflammation will lead to a better understanding of the anticancer potential of dietary fiber in the context of high-fat diet-related colon cancer. This article reviews the current knowledge concerning the effects of secondary BAs and SCFAs on the proliferation of colon epithelial cells, inflammation, cancer, and the associated microbiome.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/1422-0067/20/5/1214/pdf?version=1552286642"
+}

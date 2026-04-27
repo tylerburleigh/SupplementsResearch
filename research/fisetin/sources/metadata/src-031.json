@@ -1,0 +1,45 @@
+{
+  "id": "src-031",
+  "title": "IL-23R is a senescence-linked circulating and tissue biomarker of aging",
+  "authors": [
+    "Carver, Chase M.",
+    "Rodriguez, Sonia L.",
+    "Atkinson, Elizabeth J.",
+    "Dosch, Andrew J.",
+    "Asmussen, Niels C.",
+    "Gomez, Paul T.",
+    "Leitschuh, Ethan A.",
+    "Espindola-Netto, Jair M.",
+    "Jeganathan, Karthik B.",
+    "Whaley, Madison G.",
+    "Kamenecka, Theodore M.",
+    "Baker, Darren J.",
+    "Haak, Andrew J.",
+    "LeBrasseur, Nathan K.",
+    "Schafer, Marissa J."
+  ],
+  "year": 2024,
+  "abstract": "",
+  "doi": "10.1038/s43587-024-00752-7",
+  "url": "https://doi.org/10.1038/s43587-024-00752-7",
+  "pdf_url": "",
+  "venue": "Nature Aging",
+  "citation_count": 23,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-24T12:46:13.759164+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-031.md",
+  "quality_details": {
+    "content_length": 98324,
+    "alpha_ratio": 0.721,
+    "sentence_count": 1183,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

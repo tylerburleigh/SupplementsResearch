@@ -1,0 +1,21 @@
+{
+  "id": "src-273",
+  "title": "Broad-Purpose Solutions of N-Chlorotaurine: A Convenient Synthetic Approach and Comparative Evaluation of Stability and Antimicrobial Activity",
+  "authors": [
+    "Murashevych, Bohdan",
+    "Girenko, Dmitry",
+    "Koshova, Iryna",
+    "Maslak, Hanna",
+    "Burmistrov, K. S.",
+    "Stepanskyi, Dmytro"
+  ],
+  "doi": "10.1155/2024/8959915",
+  "url": "https://openalex.org/W4393852586",
+  "provider": "openalex",
+  "year": 2024,
+  "venue": "Journal of Chemistry",
+  "citation_count": 12,
+  "abstract": "Solutions of N-chlorotaurine (NCT) are effective microbiocidal agents with a broad spectrum of pharmacological activity and outstanding tolerability. The main problem limiting their medical use is their instability, which is generally inherent in solutions of all chlorine-active compounds. In this work, we developed a new synthetic approach to the synthesis of such solutions, which consists in the activation of granular and fibrous polymeric materials with immobilized N-chlorosulfonamide groups, which act here as a chlorinating agent. It was shown that when such polymers are added to taurine solutions, NCT solutions with a chemical composition suitable for immediate medical use can be obtained. The stability of such solutions under various conditions was analyzed in comparison with NCTs obtained by the classical method from sodium hypochlorite. It was confirmed that the process of decomposition of all studied solutions obeys the kinetic laws of the first-order reaction. It was proven that solutions obtained from granular polymers are more stable both in terms of active chlorine concentration and in terms of pH, and their additional buffering is not needed. The stability of solutions decreases when they are stored in the presence of polymers used, with an increase in the excess of taurine and with acidification. The high sensitivity of all obtained solutions to UV radiation was also noted. The antimicrobial properties of NCT solutions obtained from polymers are not inferior to those obtained from sodium hypochlorite at the same concentration of active chlorine. Considering the stability and compactness of the initial chlorine-active polymers, as well as the possibility of their multiple regeneration, the developed method can form the basis of the technology for obtaining multifunctional NCT solutions for medical purposes with the desired physical and chemical properties without using special equipment or specific reagents.",
+  "type": "academic",
+  "pdf_url": "https://downloads.hindawi.com/journals/jchem/2024/8959915.pdf"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "src-265",
+  "title": "Systematic review of potential health risks posed by pharmaceutical, occupational and consumer exposures to metallic and nanoscale aluminum, aluminum oxides, aluminum hydroxide and its soluble salts",
+  "authors": [
+    "Willhite, Calvin C.",
+    "Karyakina, Nataliya A.",
+    "Yokel, Robert A.",
+    "Yenugadhati, Nagarajkumar",
+    "Wısnıewskı, Thomas",
+    "Arnold, Ian M. F.",
+    "Momoli, Franco",
+    "Krewski, Daniel"
+  ],
+  "doi": "10.3109/10408444.2014.934439",
+  "url": "https://openalex.org/W2008505856",
+  "provider": "openalex",
+  "year": 2014,
+  "venue": "Critical Reviews in Toxicology",
+  "citation_count": 397,
+  "abstract": "Abstract Aluminum (Al) is a ubiquitous substance encountered both naturally (as the third most abundant element) and intentionally (used in water, foods, pharmaceuticals, and vaccines); it is also present in ambient and occupational airborne particulates. Existing data underscore the importance of Al physical and chemical forms in relation to its uptake, accumulation, and systemic bioavailability. The present review represents a systematic examination of the peer-reviewed literature on the adverse health effects of Al materials published since a previous critical evaluation compiled by Krewski et al. (2007) . Challenges encountered in carrying out the present review reflected the experimental use of different physical and chemical Al forms, different routes of administration, and different target organs in relation to the magnitude, frequency, and duration of exposure. Wide variations in diet can result in Al intakes that are often higher than the World Health Organization provisional tolerable weekly intake (PTWI), which is based on studies with Al citrate. Comparing daily dietary Al exposures on the basis of \"total Al\"assumes that gastrointestinal bioavailability for all dietary Al forms is equivalent to that for Al citrate, an approach that requires validation. Current occupational exposure limits (OELs) for identical Al substances vary as much as 15-fold. The toxicity of different Al forms depends in large measure on their physical behavior and relative solubility in water. The toxicity of soluble Al forms depends upon the delivered dose of Al(+3) to target tissues. Trivalent Al reacts with water to produce bidentate superoxide coordination spheres [Al(O2)(H2O4)(+2) and Al(H2O)6 (+3)] that after complexation with O2(•-), generate Al superoxides [Al(O2(•))](H2O5)](+2). Semireduced AlO2(•) radicals deplete mitochondrial Fe and promote generation of H2O2, O2 (•-) and OH(•). Thus, it is the Al(+3)-induced formation of oxygen radicals that accounts for the oxidative damage that leads to intrinsic apoptosis. In contrast, the toxicity of the insoluble Al oxides depends primarily on their behavior as particulates. Aluminum has been held responsible for human morbidity and mortality, but there is no consistent and convincing evidence to associate the Al found in food and drinking water at the doses and chemical forms presently consumed by people living in North America and Western Europe with increased risk for Alzheimer's disease (AD). Neither is there clear evidence to show use of Al-containing underarm antiperspirants or cosmetics increases the risk of AD or breast cancer. Metallic Al, its oxides, and common Al salts have not been shown to be either genotoxic or carcinogenic. Aluminum exposures during neonatal and pediatric parenteral nutrition (PN) can impair bone mineralization and delay neurological development. Adverse effects to vaccines with Al adjuvants have occurred; however, recent controlled trials found that the immunologic response to certain vaccines with Al adjuvants was no greater, and in some cases less than, that after identical vaccination without Al adjuvants. The scientific literature on the adverse health effects of Al is extensive. Health risk assessments for Al must take into account individual co-factors (e.g., age, renal function, diet, gastric pH). Conclusions from the current review point to the need for refinement of the PTWI, reduction of Al contamination in PN solutions, justification for routine addition of Al to vaccines, and harmonization of OELs for Al substances.",
+  "type": "academic",
+  "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/4997813"
+}

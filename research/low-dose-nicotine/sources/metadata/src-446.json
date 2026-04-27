@@ -1,0 +1,20 @@
+{
+  "id": "src-446",
+  "title": "Parkinson’s disease and cancer: a systematic review and meta-analysis of over 17 million participants",
+  "authors": [
+    "Zhang, Xinyuan",
+    "Guarin, David",
+    "Mohammadzadehhonarvar, Niyaz",
+    "Chen, Xiqun",
+    "Gao, Xiang"
+  ],
+  "doi": "10.1136/bmjopen-2020-046329",
+  "url": "https://www.semanticscholar.org/paper/788301387883eca2f740df84a2bac1294b64a29e",
+  "provider": "semantic_scholar",
+  "year": 2021,
+  "venue": "BMJ Open",
+  "citation_count": 36,
+  "abstract": "Objective To systematically review and qualitatively evaluate epidemiological evidence on associations between Parkinson’s disease (PD) and cancer via meta-analysis. Data sources MEDLINE via PubMed, Web of Science and EMBASE, until March 2021. Study selection Included were publications that (1) were original epidemiological studies on PD and cancer; (2) reported risk estimates; (3) were in English. Exclusion criteria included: (1) review/comments; (2) biological studies; (3) case report/autopsy studies; (4) irrelevant exposure/outcome; (5) treated cases; (6) no measure of risk estimates; (7) no confidence intervals/exact p values and (8) duplicates. Data extraction and synthesis PRISMA and MOOSE guidelines were followed in data extraction. Two-step screening was performed by two authors blinded to each other. A random-effects model was used to calculate pooled relative risk (RR). Main outcomes and measures We included publications that assessed the risk of PD in individuals with vs without cancer and the risk of cancer in individuals with vs without PD. Results A total of 63 studies and 17 994 584 participants were included. Meta-analysis generated a pooled RR of 0.82 (n=33; 95% CI 0.76 to 0.88; p<0.001) for association between PD and total cancer, 0.76 (n=21; 95% CI 0.67 to 0.85; p<0.001) for PD and smoking-related cancer and 0.92 (n=19; 95% CI 0.84 to 0.99; p=0.03) for non-smoking-related cancer. PD was associated with an increased risk of melanoma (n=29; pooled RR=1.75; 95% CI 1.43 to 2.14; p<0.001) but not for other skin cancers (n=17; pooled RR=0.90; 95% CI 0.60 to 1.34; p=0.60). Conclusions PD and total cancer were inversely associated. This inverse association persisted for both smoking-related and non-smoking-related cancers. PD was positively associated with melanoma. These results provide evidence for further investigations for possible mechanistic associations between PD and cancer. Prospero registration number CRD42020162103.",
+  "type": "academic",
+  "pdf_url": "https://bmjopen.bmj.com/content/bmjopen/11/7/e046329.full.pdf"
+}

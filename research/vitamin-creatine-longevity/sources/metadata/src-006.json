@@ -1,0 +1,30 @@
+{
+  "id": "src-006",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://healthinkwell.com/creatine-side-effects-in-women",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-21T12:54:02.303917+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-006.md",
+  "quality_details": {
+    "content_length": 132,
+    "alpha_ratio": 0.818,
+    "sentence_count": 2,
+    "reasons": [
+      "content too short (132 chars < 500)",
+      "few sentences detected (2 < 3)"
+    ]
+  }
+}

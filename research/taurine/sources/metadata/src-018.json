@@ -1,0 +1,29 @@
+{
+  "id": "src-018",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://www.cnn.com/2023/06/08/health/taurine-longevity-wellness/index.html",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-19T11:26:11.301400+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-018.md",
+  "quality_details": {
+    "content_length": 10259,
+    "alpha_ratio": 0.797,
+    "sentence_count": 69,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

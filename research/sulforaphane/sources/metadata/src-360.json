@@ -1,0 +1,18 @@
+{
+  "id": "src-360",
+  "title": "Sulforaphane's Role in Osteosarcoma Treatment: A Systematic Review and Meta-Analysis of Preclinical Studies.",
+  "authors": [
+    "Louka, Polymnia",
+    "Ferreira, Nuno",
+    "Sophocleous, Antonia"
+  ],
+  "doi": "10.3390/biomedicines13051048",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40426874",
+  "provider": "pubmed",
+  "year": 2025,
+  "venue": "Biomedicines",
+  "citation_count": 0,
+  "abstract": "Background/Objectives: Osteosarcoma (OSA) is the most common bone cancer, characterized by rapid progression and poor prognosis. The isothiocyanate sulforaphane (SFN), has gained scientific interest because of its potent anticancer properties. The aim of this study was to conduct a systematic review of research examining the effectiveness of SFN as a treatment for OSA. Methods: A literature search was conducted using MEDLINE, EMBASE, and Web of Science. Studies evaluating the therapeutic efficacy of SFN on OSA were included, while studies examining the effects of isothiocyanates other than SFN were excluded. The quality of the studies was evaluated using the OHAT risk of bias rating tool, and the meta-analysis was conducted using RevMan. Cancer-related outcomes evaluated included cell viability/migration/invasion, cell cycle arrest, apoptosis induction, antioxidant activity, colony formation, and tumour size. A protocol describing the review plan was registered to INPLASY (INPLASY202530001). Results: Ten articles were considered eligible for qualitative synthesis and meta-analysis. All articles included in vitro studies, with two also incorporating in vivo studies, utilizing a combination of human, canine, and murine OSA cell lines. This review indicates that SFN could be beneficial in the treatment of OSA, particularly by reducing cell viability, inducing apoptosis, arresting the cell cycle, and decreasing invasiveness and migration. It emphasizes dose-dependent effects, the need for human trials, and highlights limitations like study heterogeneity and SFN's bioavailability challenges. Conclusions: This review explores SFN's potential in OSA at the preclinical stage, focusing on cell apoptosis and proliferation. It highlights promising evidence but calls for more human trials. This research received no external funding.",
+  "type": "academic",
+  "pdf_url": ""
+}

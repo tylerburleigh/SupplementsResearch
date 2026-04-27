@@ -1,0 +1,38 @@
+{
+  "id": "src-039",
+  "title": "Self-blinding citizen science to explore psychedelic microdosing",
+  "authors": [
+    "Szigeti, Balázs",
+    "Kartner, Laura",
+    "Blemings, Allan",
+    "Rosas, Fernando",
+    "Feilding, Amanda",
+    "Nutt, David J",
+    "Carhart-Harris, Robin L",
+    "Erritzoe, David"
+  ],
+  "year": 2021,
+  "abstract": "Microdosing is the practice of regularly using low doses of psychedelic drugs. Anecdotal reports suggest that microdosing enhances well-being and cognition; however, such accounts are potentially biased by the placebo effect. This study used a ‘self-blinding’ citizen science initiative, where participants were given online instructions on how to incorporate placebo control into their microdosing routine without clinical supervision. The study was completed by 191 participants, making it the largest placebo-controlled trial on psychedelics to-date. All psychological outcomes improved significantly from baseline to after the 4 weeks long dose period for the microdose group; however, the placebo group also improved and no significant between-groups differences were observed. Acute (emotional state, drug intensity, mood, energy, and creativity) and post-acute (anxiety) scales showed small, but significant microdose vs. placebo differences; however, these results can be explained by participants breaking blind. The findings suggest that anecdotal benefits of microdosing can be explained by the placebo effect.",
+  "doi": "10.7554/elife.62878",
+  "url": "https://doi.org/10.7554/elife.62878",
+  "pdf_url": "",
+  "venue": "eLife",
+  "citation_count": 153,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-26T10:43:17.836490+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-039.md",
+  "quality_details": {
+    "content_length": 91564,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "src-165",
+  "title": "NAMPT and NAPRT: Two Metabolic Enzymes With Key Roles in Inflammation",
+  "authors": [
+    "Audrito, Valentina",
+    "Messana, Vincenzo Gianluca",
+    "Deaglio, Silvia"
+  ],
+  "doi": "10.3389/fonc.2020.00358",
+  "url": "https://openalex.org/W3011117765",
+  "provider": "openalex",
+  "year": 2020,
+  "venue": "Frontiers in Oncology",
+  "citation_count": 189,
+  "abstract": "Nicotinamide phosphoribosyltransferase (NAMPT) and nicotinate phosphoribosyltransferase (NAPRT) are two intracellular enzymes that catalyze the first step in the biosynthesis of NAD from nicotinamide and nicotinic acid, respectively. By fine tuning intracellular NAD levels, they are involved in the regulation/reprogramming of cellular metabolism and in the control of the activity of NAD-dependent enzymes, including sirtuins, PARPs, and NADases. However, during evolution they both acquired novel functions as extracellular endogenous mediators of inflammation. It is well-known that cellular stress and/or damage induce release in the extracellular milieu of endogenous molecules, called alarmins or damage-associated molecular patterns (DAMPs), which modulate immune functions through binding pattern recognition receptors (PRRs), such as Toll-like receptors (TLRs), and activate inflammatory responses. Increasing evidence suggests that extracellular (e)NAMPT and eNAPRT are novel soluble factors with cytokine/adipokine/DAMP-like actions. Elevated eNAMPT were reported in several metabolic and inflammatory disorders, including obesity, diabetes, and cancer, while eNAPRT is emerging as a biomarker of sepsis and septic shock. This review will discuss available data concerning the dual role of this unique family of enzymes.",
+  "type": "academic",
+  "pdf_url": "https://www.frontiersin.org/articles/10.3389/fonc.2020.00358/pdf"
+}

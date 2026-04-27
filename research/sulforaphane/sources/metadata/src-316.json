@@ -1,0 +1,23 @@
+{
+  "id": "src-316",
+  "title": "Hedgehog Signaling and Bmi-1 Regulate Self-renewal of Normal and Malignant Human Mammary Stem Cells",
+  "authors": [
+    "Liu, Suling",
+    "Dontu, Gabriela",
+    "Mantle, Ilia D.",
+    "Patel, Shivani",
+    "Ahn, Nam-shik",
+    "Jackson, Kyle W.",
+    "Suri, Prerna",
+    "Wicha, Max S."
+  ],
+  "doi": "10.1158/0008-5472.can-06-0054",
+  "url": "https://openalex.org/W2170086508",
+  "provider": "openalex",
+  "year": 2006,
+  "venue": "Cancer Research",
+  "citation_count": 1228,
+  "abstract": "The epithelial components of the mammary gland are thought to arise from stem cells with a capacity for self-renewal and multilineage differentiation. Furthermore, these cells and/or their immediate progeny may be targets for transformation. We have used both in vitro cultivation and a xenograft mouse model to examine the role of hedgehog signaling and Bmi-1 in regulating self-renewal of normal and malignant human mammary stem cells. We show that hedgehog signaling components PTCH1, Gli1, and Gli2 are highly expressed in normal human mammary stem/progenitor cells cultured as mammospheres and that these genes are down-regulated when cells are induced to differentiate. Activation of hedgehog signaling increases mammosphere-initiating cell number and mammosphere size, whereas inhibition of the pathway results in a reduction of these effects. These effects are mediated by the polycomb gene Bmi-1. Overexpression of Gli2 in mammosphere-initiating cells results in the production of ductal hyperplasia, and modulation of Bmi-1 expression in mammosphere-initiating cells alters mammary development in a humanized nonobese diabetic-severe combined immunodeficient mouse model. Furthermore, we show that the hedgehog signaling pathway is activated in human breast \"cancer stem cells\" characterized as CD44+CD24-/lowLin-. These studies support a cancer stem cell model in which the hedgehog pathway and Bmi-1 play important roles in regulating self-renewal of normal and tumorigenic human mammary stem cells.",
+  "type": "academic",
+  "pdf_url": "https://aacrjournals.org/cancerres/article-pdf/66/12/6063/2864035/6063.pdf"
+}

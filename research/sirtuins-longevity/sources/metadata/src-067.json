@@ -1,0 +1,17 @@
+{
+  "id": "src-067",
+  "title": "Abstract 131: Enhanced feeder-free expansion, survival, potency and post manufacture stability of NK cells for CAR-NK therapies using human platelet lysate.",
+  "authors": [
+    "Alonso-Camino, Vanesa",
+    "Sullivan, A."
+  ],
+  "doi": "10.1158/1538-7445.am2026-131",
+  "url": "https://www.semanticscholar.org/paper/3987201caeddc2bc56568d1db1e19727ee6d4e21",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "Cancer Research",
+  "citation_count": 0,
+  "abstract": "Natural killer (NK) cells have emerged as a promising platform for chimeric antigen receptor (CAR) engineering, offering inherent anti-tumor activity and a favorable safety profile compared to CAR-T cells. Unlike T cells, NK cells belong to the innate immune system and do not require prior antigen sensitization, making them attractive for “off-the-shelf” allogeneic therapies. Clinical interest in CAR-NK cells has surged, with over 50 trials registered globally, driven by their reduced risk of cytokine release syndrome and graft-versus-host disease. Despite these advantages, the widespread adoption of CAR-NK therapies faces two major challenges: achieving clinically relevant NK cell numbers and ensuring post-manufacturing stability. NK cells are less abundant than T cells, exhibit limited in vitro expansion capacity, and have a short lifespan. Traditional methods rely on feeder cell co-culture, often using tumor-derived lines, which introduces technical and regulatory hurdles and yields inconsistent results. To address these limitations, we developed a feeder-free expansion protocol using human platelet lysate (hPL), enabling robust NK cell proliferation while preserving phenotype and cytotoxic function. Beyond expansion, we focused on a critical bottleneck in CAR-NK manufacturing—cryopreservation. Using proprietary cryopreservation solutions and protocols following hPL-based culture, we achieved significantly improved NK cell survival, maintenance of activating receptor expression, and retention of anti-tumor potency post-thaw. This advancement mitigates the logistical challenges of CAR-NK production, supporting scalable, ready-to-use cell therapy products. Our integrated approach—combining efficient feeder-free expansion with optimized cryopreservation—represents a major step toward reliable, high-quality CAR-NK therapies for clinical application.\n\nVanesa Alonso-Camino, Andrew Sullivan. Enhanced feeder-free expansion, survival, potency and post manufacture stability of NK cells for CAR-NK therapies using human platelet lysate [abstract]. In: Proceedings of the American Association for Cancer Research Annual Meeting 2026; Part 1 (Regular Abstracts); 2026 Apr 17-22; San Diego, CA. Philadelphia (PA): AACR; Cancer Res 2026;86(7 Suppl):Abstract nr 131.",
+  "type": "academic",
+  "pdf_url": ""
+}

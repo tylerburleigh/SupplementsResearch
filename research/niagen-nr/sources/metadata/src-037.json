@@ -1,0 +1,39 @@
+{
+  "id": "src-037",
+  "title": "NR-SAFE: a randomized, double-blind safety trial of high dose nicotinamide riboside in Parkinson’s disease",
+  "authors": [
+    "Berven, Haakon",
+    "Kverneng, Simon",
+    "Sheard, Erika",
+    "Søgnen, Mona",
+    "Af Geijerstam, Solveig Amdahl",
+    "Haugarvoll, Kristoffer",
+    "Skeie, Geir-Olve",
+    "Dölle, Christian",
+    "Tzoulis, Charalampos"
+  ],
+  "year": 2023,
+  "abstract": "AbstractNicotinamide adenine dinucleotide (NAD) replenishment therapy using nicotinamide riboside (NR) shows promise for Parkinson’s disease (PD) and other neurodegenerative disorders. However, the optimal dose of NR remains unknown, and doses exceeding 2000 mg daily have not been tested in humans. To evaluate the safety of high-dose NR therapy, we conducted a single-center, randomized, placebo-controlled, double-blind, phase I trial on 20 individuals with PD, randomized 1:1 on NR 1500 mg twice daily (n = 10) or placebo (n = 10) for four weeks. The trial was conducted at the Department of Neurology, Haukeland University Hospital, Bergen, Norway. The primary outcome was safety, defined as the frequency of moderate and severe adverse events. Secondary outcomes were tolerability defined as frequency of mild adverse events, change in the whole blood and urine NAD metabolome, and change in the clinical severity of PD, measured by MDS-UPDRS. All 20 participants completed the trial. The trial met all prespecified outcomes. NR therapy was well tolerated with no moderate or severe adverse events, and no significant difference in mild adverse events. NR therapy was associated with clinical improvement of total MDS-UPDRS scores. However, this change was also associated with a shorter interval since the last levodopa dose. NR greatly augmented the blood NAD metabolome with up to 5-fold increase in blood NAD+ levels. While NR-recipients exhibited a slight initial rise in serum homocysteine levels, the integrity of the methyl donor pool remained intact. Our results support extending the dose range of NR in phase II clinical trials to 3000 mg per day, with appropriate safety monitoring. Clinicaltrials.gov identifier: NCT05344404.",
+  "doi": "10.1038/s41467-023-43514-6",
+  "url": "https://doi.org/10.1038/s41467-023-43514-6",
+  "pdf_url": "",
+  "venue": "Nature Communications",
+  "citation_count": 56,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-20T20:24:34.441269+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-037.md",
+  "quality_details": {
+    "content_length": 72711,
+    "alpha_ratio": 0.718,
+    "sentence_count": 864,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

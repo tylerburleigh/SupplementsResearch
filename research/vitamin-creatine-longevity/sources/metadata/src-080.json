@@ -1,0 +1,29 @@
+{
+  "id": "src-080",
+  "title": "Muscle Health Matters – Navigating the Landscape of Sarcopenia from Diagnosis to Management",
+  "authors": [
+    "Daly, R.M."
+  ],
+  "year": 2025,
+  "abstract": "Sarcopenia is a skeletal muscle disease characterised by low muscle mass, strength and/or impaired physical function that is associated with a wide range of adverse outcomes including osteoporosis, falls, fractures, disability, hospitalization, loss of independence and quality of life and mortality, if left untreated.(1, 2) This is also growing evidence linking sarcopenia to many other chronic conditions, including type 2 diabetes, fatty liver disease, cognitive impairment and dementia, certain cancers (and post- treatment outcomes), cardiovascular disease and impaired immunity.(3–4) Despite its significant impact, awareness and knowledge about this disease amongst healthcare professionals (and the general public), including how to identify and treat/manage sarcopenia, remains low. There are currently no approved pharmacological agents for the treatment sarcopenia, but there is moderate-to-high level evidence informing clinical practice guidelines that multifaceted interventions incorporating resistance-based training with adequate nutrition focusing on high quality protein or multi-nutrient protein-based supplements can prevent and manage this disease.(1, 5–6) Meta-analyses of randomised controlled trials consistently demonstrate that progressive resistance training (at least twice weekly) is the most effective approach to elicit gains in muscle mass and strength (independent of age), with the provision of dietary protein or multi- nutrient protein-based supplements providing small added benefits(7). Emerging evidence also indicates that minimal dose exercise strategies (e.g., resistance/strength “snacking” activities) and limiting sedentary behaviours (breaking up prolonged sitting) may help to attenuate age-related muscle loss. With regards to nutritional factors, most guidelines for older adults recommend a protein intake of 1.2 to 1.6 g/kg/d (25-30g of protein per meal) incorporating 3-4g of leucine to support muscle health. However, the benefits of protein alone on muscle-related outcomes are modest and appear mostly limited to those with insufficient (deficient) intakes (levels) and/or who are sarcopenic, frail and/or malnourished. A wide range of other nutritional-related factors (with and without exercise) have been investigated, including β-hydroxy β-methylbutyrate (HMB), vitamin D, creatine, antioxidants, omega-3 fatty acids, and phospholipids, as well as multi-nutrient supplements and various diets (Mediterranean diet), dietary patterns and foods (dairy products). There is also growing evidence that altering the gut microbiota and the use of probiotics, prebiotics and synbiotics may enhance muscle health. This presentation will provide an update of the evidence related to these factors to help guide decision making for clinical management and provide an overview of the current criteria used to identify poor muscle health and sarcopenia, including a new muscle health monitoring and management algorithm we have developed.",
+  "doi": "10.1017/s0029665125100311",
+  "url": "https://doi.org/10.1017/s0029665125100311",
+  "pdf_url": "",
+  "venue": "Proceedings of the Nutrition Society",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T13:42:36.863938+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-080.md",
+  "quality_details": {
+    "content_length": 4481,
+    "alpha_ratio": 0.766,
+    "sentence_count": 32,
+    "reasons": []
+  }
+}

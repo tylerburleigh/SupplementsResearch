@@ -1,0 +1,18 @@
+{
+  "id": "src-166",
+  "title": "The Bioavailability, Transport, and Bioactivity of Dietary Flavonoids: A Review from a Historical Perspective",
+  "authors": [
+    "Williamson, Gary",
+    "Kay, Colin D.",
+    "Crozier, Alan"
+  ],
+  "doi": "10.1111/1541-4337.12351",
+  "url": "https://openalex.org/W2857010441",
+  "provider": "openalex",
+  "year": 2018,
+  "venue": "Comprehensive Reviews in Food Science and Food Safety",
+  "citation_count": 555,
+  "abstract": "Flavonoids are plant-derived dietary components with a substantial impact on human health. Research has expanded massively since it began in the 1930s, and the complex pathways involved in bioavailability of flavonoids in the human body are now well understood. In recent years, it has been appreciated that the gut microbiome plays a major role in flavonoid action, but much progress still needs to be made in this area. Since the first publications on the health effects of flavonoids, their action is understood to protect against various stresses, but the mechanism of action has evolved from the now debunked simple direct antioxidant hypothesis into an understanding of the complex effects on molecular targets and enzymes in specific cell types. This review traces the development of the field over the past 8 decades, and indicates the current state of the art, and how it was reached. Future recommendations based on this historical analysis are (a) to focus on key areas of flavonoid action, (b) to perform human intervention studies focusing on bioavailability and protective effects, and (c) to carry out cellular in vitro experiments using appropriate cells together with the chemical form of the flavonoid found at the site of action; this could be the native form of compounds found in the food for studies on digestion and the intestine, the conjugated metabolites found in the blood after absorption in the small intestine for studies on cells, or the chemical forms found in the blood and tissues after catabolism by the gut microbiota.",
+  "type": "academic",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1541-4337.12351"
+}

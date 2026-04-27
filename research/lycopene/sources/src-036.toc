@@ -1,0 +1,25 @@
+3	2	Research Article
+15	2	Abstract
+16	2	Background
+19	2	Methods
+25	2	Results
+36	2	Open Access
+44	2	United States
+62	2	Conclusions
+65	2	Introduction
+100	2	Materials And Methods
+153	2	Results
+231	2	Participants
+339	2	Participants
+350	2	Clue
+358	2	Clue
+360	2	Clue
+364	2	Clue
+367	2	Clue
+369	2	Clue
+371	2	Clue
+467	2	Participants
+560	2	Participants
+1227	2	Discussion
+1336	2	Author Contributions
+1340	2	References

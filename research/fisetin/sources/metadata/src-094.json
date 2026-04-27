@@ -1,0 +1,34 @@
+{
+  "id": "src-094",
+  "title": "Heterogeneity of Cellular Senescence, Senotyping, and Targeting by \nSenolytics and Senomorphics in Lung Diseases",
+  "authors": [
+    "Ozdemir, Said Ali",
+    "Faizan, Md Imam",
+    "Kaur, Gagandeep",
+    "Shaikh, Sadiya Bi",
+    "Ganaie, Khursheed Ul Islam",
+    "Rahman, Irfan"
+  ],
+  "year": 2025,
+  "abstract": "Cellular senescence, a state of stable cell cycle arrest accompanied by a complex senescence-associated secretory phenotype (SASP), is a fundamental biological process implicated as a key driver of lung aging and lung age-related diseases (LARDs). This review provides a comprehensive overview of the rapidly evolving field of senotyping based on cellular heterogeneity in lung development and senotherapeutics in the field of lung biology and disease e.g. stages of COPD and IPF, which aim to mitigate the detrimental effects of senescent cell (SnC) accumulation. It also delves into the molecular mechanisms driving senescence and SASP production, highlighting pathways such as p53/p21, p16INK4a/RB, mTOR, and p38 MAPK as therapeutic targets. The involvement of various novel SASP proteins, such as GDP15, cytokines/chemokines, growth factors, and DNA damage response proteins. It also outlines two main therapeutic approaches: senolytics, which selectively trigger apoptosis in senescent cells (SnCs), and senomorphics (also known as senostatics), which mitigate the detrimental effects of the SASP without necessarily removing the senescent cells. It discusses various classes of senolytic and senomorphic agents and their deliveries, including natural products (e.g., quercetin, fisetin, resveratrol), repurposed drugs (e.g., dasatinib, navitoclax, metformin, rapamycin), and innovative approaches like HSP90 inhibitors, senolytic CAR-T cells, Antibody drug conjugate and galactose-modified prodrugs. Preclinical evidence and emerging data from early-phase human clinical trials, particularly with the combinatorial approach of Dasatinib &amp;amp; Quercetin (D+Q) and fisetin, demonstrate the therapeutic promise of these interventions in improving tissue function, alleviating LARDs, and potentially extending healthspan. The review also highlighted significant challenges, including SnC heterogeneity, immunosenescence, drug delivery, target specificity, long-term safety, and the need for robust biomarkers. Future perspectives, such as advanced delivery systems, and combination therapies, are considered critical for translating the potential of senotherapeutics into effective clinical applications for age-related pulmonary diseases/conditions.",
+  "doi": "10.20944/preprints202508.1331.v1",
+  "url": "https://doi.org/10.20944/preprints202508.1331.v1",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 3,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-24T12:57:19.326415+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-094.md",
+  "quality_details": {
+    "content_length": 62365,
+    "alpha_ratio": 0.681,
+    "sentence_count": 986,
+    "reasons": []
+  }
+}

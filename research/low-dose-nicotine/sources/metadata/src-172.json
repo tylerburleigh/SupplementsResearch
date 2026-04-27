@@ -1,0 +1,22 @@
+{
+  "id": "src-172",
+  "title": "Evidence for Schizophrenia-Specific Pathophysiology of Nicotine Dependence",
+  "authors": [
+    "Ward, Heather",
+    "Beermann, Adam",
+    "Nawaz, Uzma",
+    "Halko, M.",
+    "Janes, A.",
+    "Moran, Lauren V.",
+    "Brady, R."
+  ],
+  "doi": "10.3389/fpsyt.2022.804055",
+  "url": "https://www.semanticscholar.org/paper/215382702e1ff58fda9299cfca4043591b8ac46a",
+  "provider": "semantic_scholar",
+  "year": 2022,
+  "venue": "Frontiers in Psychiatry",
+  "citation_count": 23,
+  "abstract": "Tobacco use is the top preventable cause of early mortality in schizophrenia. Over 60% of people with schizophrenia smoke, three times the general prevalence. The biological basis of this increased risk is not understood, and existing interventions do not target schizophrenia-specific pathology. We therefore used a connectome-wide analysis to identify schizophrenia-specific circuits of nicotine addiction. We reanalyzed data from two studies: In Cohort 1, 35 smokers (18 schizophrenia, 17 control) underwent resting-state fMRI and clinical characterization. A multivariate pattern analysis of whole-connectome data was used to identify the strongest links between cigarette use and functional connectivity. In Cohort 2, 12 schizophrenia participants and 12 controls were enrolled in a randomized, controlled crossover study of nicotine patch with resting-state fMRI. We correlated change in network functional connectivity with nicotine dose. In Cohort 1, the strongest (p < 0.001) correlate between connectivity and cigarette use was driven by individual variation in default mode network (DMN) topography. In individuals with greater daily cigarette consumption, we observed a pathological expansion of the DMN territory into the identified parieto-occipital region, while in individuals with lower daily cigarette consumption, this region was external to the DMN. This effect was entirely driven by schizophrenia participants. Given the relationship between DMN topography and nicotine use we observed in Cohort 1, we sought to directly test the impact of nicotine on this network using an independent second cohort. In Cohort 2, nicotine reduced DMN connectivity in a dose-dependent manner (R = −0.50; 95% CI −0.75 to −0.12, p < 0.05). In the placebo condition, schizophrenia subjects had hyperconnectivity compared to controls (p < 0.05). Nicotine administration normalized DMN hyperconnectivity in schizophrenia. We here provide direct evidence that the biological basis of nicotine dependence is different in schizophrenia and in non-schizophrenia populations. Our results suggest the high prevalence of nicotine use in schizophrenia may be an attempt to correct a network deficit known to interfere with cognition.",
+  "type": "academic",
+  "pdf_url": "https://www.frontiersin.org/articles/10.3389/fpsyt.2022.804055/pdf"
+}

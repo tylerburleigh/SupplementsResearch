@@ -1,0 +1,44 @@
+{
+  "id": "src-113",
+  "title": "Nicotinamide riboside Induced Energy Stress and Metabolic Reprogramming in BEAS-2B Cells",
+  "authors": [
+    "Cordeiro, Everson Willian Fialho",
+    "Marzola, Elisabete Leide",
+    "Maekawa, Ricardo Soei",
+    "Santos, Matheus Relvas dos",
+    "Assunção, Lucas Gade",
+    "Massafera, Mariana Pereira",
+    "Oliveira, Joseana de",
+    "Batista, Thainá Gomes Cury",
+    "Sales, Maria Cármen Oliveira Pinho de",
+    "Maria-Engler, Silvya Stuchi",
+    "Di Mascio, Paolo",
+    "Medeiros, Marisa Helena Gennari de",
+    "Ronsein, Graziella Eliza",
+    "Loureiro, Ana Paula de Melo"
+  ],
+  "year": 2024,
+  "abstract": "",
+  "doi": "10.1021/acs.chemrestox.3c00312",
+  "url": "https://doi.org/10.1021/acs.chemrestox.3c00312",
+  "pdf_url": "",
+  "venue": "Chemical Research in Toxicology",
+  "citation_count": 5,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-20T21:02:42.432473+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-113.md",
+  "quality_details": {
+    "content_length": 256739,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

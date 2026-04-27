@@ -1,0 +1,16 @@
+{
+  "id": "src-097",
+  "title": "A Caenorhabditis Elegans Model Challenges Meclizine Potential as a Lifespan-Extending mTORC1 Inhibitor",
+  "authors": [
+    "Vijay, Aradhya"
+  ],
+  "doi": "10.1109/isec64801.2025.11460339",
+  "url": "https://www.semanticscholar.org/paper/3b9dc3a53a54aa27595f54845ec7c08ad81d0761",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "International Symposium on Electronic Commerce",
+  "citation_count": 0,
+  "abstract": "Aging research aims to uncover interventions that can extend lifespan and improve healthspan. Meclizine, an antihistamine and mTORC1 inhibitor, has shown potential as a longevity-promoting agent in mammalian studies, but its effects on other organisms are unclear. This study investigates whether meclizine can extend the lifespan of Caenorhabditis elegans (C. elegans), a well-established model organism in aging research. C. elegans at the L4 larval stage were divided into two groups: one treated with 3 uM meclizine and a control group treated with 0.25% DMSO. Survival was monitored daily, and lifespan data were analyzed using the Log Rank (Mantel-Cox) and Gehan-Breslow-Wilcoxon tests. Statistical analysis revealed no significant difference in survival between the meclizine-treated and control groups (p = 0.1920, Log Rank; p = 0.0834, Gehan-Breslow). Hazard ratios and median survival comparisons similarly showed no significant impact of meclizine on C. elegans lifespan. The study concludes that meclizine does not significantly extend the lifespan of C. elegans under the conditions tested. These findings suggest that meclizine’s potential as a lifespan-extending compound may be species-specific or dose-dependent, however, further investigation is needed to fully elucidate its effects.",
+  "type": "academic",
+  "pdf_url": ""
+}

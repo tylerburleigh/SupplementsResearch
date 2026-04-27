@@ -1,0 +1,18 @@
+{
+  "id": "src-292",
+  "title": "T cell metabolism drives immunity",
+  "authors": [
+    "Buck, Michael D.",
+    "O’Sullivan, David",
+    "Pearce, Erika L."
+  ],
+  "doi": "10.1084/jem.20151159",
+  "url": "https://openalex.org/W2116676186",
+  "provider": "openalex",
+  "year": 2015,
+  "venue": "The Journal of Experimental Medicine",
+  "citation_count": 1133,
+  "abstract": "Lymphocytes must adapt to a wide array of environmental stressors as part of their normal development, during which they undergo a dramatic metabolic remodeling process. Research in this area has yielded surprising findings on the roles of diverse metabolic pathways and metabolites, which have been found to regulate lymphocyte signaling and influence differentiation, function and fate. In this review, we integrate the latest findings in the field to provide an up-to-date resource on lymphocyte metabolism.",
+  "type": "academic",
+  "pdf_url": "https://rupress.org/jem/article-pdf/212/9/1345/1014448/jem_20151159.pdf"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "src-099",
+  "title": "Graves’ Disease",
+  "authors": [
+    "Smith, Terry J.",
+    "Hegedüs, László"
+  ],
+  "doi": "10.1056/nejmra1510030",
+  "url": "https://openalex.org/W4246035014",
+  "provider": "openalex",
+  "year": 2016,
+  "venue": "New England Journal of Medicine",
+  "citation_count": 1208,
+  "abstract": "Graves' disease is an autoimmune disorder in which the thyroid is activated by antibodies to the thyrotropin receptor. The hyperthyroidism that develops is one of many somatic and psychiatric manifestations of the disease that can affect the quality and length of life.",
+  "type": "academic",
+  "pdf_url": "https://findresearcher.sdu.dk/ws/files/128446579/Graves_Disease.pdf"
+}

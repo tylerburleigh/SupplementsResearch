@@ -1,0 +1,37 @@
+{
+  "id": "src-079",
+  "title": "Comparative study of the effects of different iron sources on bioavailability and gastrointestinal tolerability in iron-deficient rats",
+  "authors": [
+    "Mariné-Casadó, Roger",
+    "Tobajas, Yaiza",
+    "Antolín, Anna",
+    "Negra, Teresa",
+    "Connolly, Alan",
+    "Alcaide-Hidalgo, Juan María",
+    "Caimari, Antoni"
+  ],
+  "year": 2025,
+  "abstract": "",
+  "doi": "10.1038/s41598-025-07202-3",
+  "url": "https://doi.org/10.1038/s41598-025-07202-3",
+  "pdf_url": "",
+  "venue": "Scientific Reports",
+  "citation_count": 2,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T18:12:14.040049+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-079.md",
+  "quality_details": {
+    "content_length": 62159,
+    "alpha_ratio": 0.754,
+    "sentence_count": 765,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "src-200",
+  "title": "Integrating supervised and unsupervised machine learning for behavior segmentation reveals latent frailty signatures and improves aging clocks in isogenic and outbred mice",
+  "authors": [
+    "Sabnis, Gautam S.",
+    "Miao, Dustin M.",
+    "Kumar, Vivek"
+  ],
+  "doi": "10.64898/2026.03.23.713050",
+  "url": "https://www.semanticscholar.org/paper/023b2a8c6c2ca92ca4de793a030990713e9e675d",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "bioRxiv",
+  "citation_count": 0,
+  "abstract": "Manual frailty index (FI) assessment in mice is a strong predictor of morbidity and mortality, and is frequently used in mechanistic and translational geroscience. However, it is labor-intensive, requires expert training, and is vulnerable to scorer variability. We previously developed a visual frailty index (vFI) that objectively predicts age and frailty using expert-defined, supervised behavioral features extracted from open-field videos. However, relying solely on human-defined features may miss subtle, latent behavioral signatures of aging. Here, we test whether unsupervised behavioral discovery using Keypoint-MoSeq (KPMS) could uncover these hidden signatures and improve the prediction of aging-related outcomes. Using a large dataset of isogenic C57BL/6J (B6J) and genetically diverse Diversity Outbred (DO) mice, we find that unsupervised features are highly predictive of chronological age, biological frailty, and the proportion of life lived. Notably, while supervised features overall outperformed unsupervised features in these tasks, combining both feature sets yielded the highest predictive accuracy across all outcomes. Despite these improvements, models trained on either feature set failed to generalize across strains, confirming that behavioral manifestations of aging are strongly population-specific. These findings demonstrate that supervised and unsupervised machine vision provide complementary information, establishing a highly sensitive, scalable, and non-invasive framework for objective and scalable geroscience in rodents.",
+  "type": "academic",
+  "pdf_url": ""
+}

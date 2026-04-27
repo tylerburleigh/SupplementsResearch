@@ -1,0 +1,20 @@
+{
+  "id": "src-026",
+  "title": "Randomised controlled trial comparing percutaneous radiofrequency thermal ablation, percutaneous ethanol injection, and percutaneous acetic acid injection to treat hepatocellular carcinoma of 3 cm or less",
+  "authors": [
+    "Lin, S-M",
+    "Lin, C-J",
+    "Lin, C-C",
+    "Hsu, C-W",
+    "Chen, Y-C"
+  ],
+  "doi": "10.1136/gut.2004.045203",
+  "url": "https://openalex.org/W2096376421",
+  "provider": "openalex",
+  "year": 2005,
+  "venue": "Gut",
+  "citation_count": 590,
+  "abstract": "RFTA was superior to PEI and PAI with respect to local recurrence, overall survival, and cancer free survival rates, but RFTA also caused more major complications.",
+  "type": "academic",
+  "pdf_url": "https://gut.bmj.com/content/gutjnl/54/8/1151.full.pdf"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "src-045",
+  "title": "PAM trial protocol: a randomised feasibility study of psychedelic microdosing–assisted meaning-centred psychotherapy in advanced stage cancer patients",
+  "authors": [
+    "Wells, Alesha",
+    "Muthukumaraswamy, A. P. Suresh",
+    "Morunga, Eva",
+    "Evans, Will",
+    "Cavadino, Alana",
+    "Bansal, Mahima",
+    "Lawrence, Nicola J.",
+    "Ashley, Amanda",
+    "Hoeh, Nicholas R.",
+    "Sundram, Frederick",
+    "Applebaum, Allison J.",
+    "Parkinson, Hineatua",
+    "Reynolds, Lisa"
+  ],
+  "year": 2024,
+  "abstract": "Abstract\nBackground\nAn advanced cancer diagnosis can be associated with a significant profile of distress. Psychedelic compounds have shown clinically significant effects in the treatment of psychological distress in patients with advanced-stage cancer. Given the challenges of delivering timely and effective intervention in the advanced cancer context, it is possible that an alternative, more pragmatic, approach lies in psychedelic ‘microdosing’. Microdosing refers to repeated administration of psychedelics in sub-hallucinogenic doses. The purpose of this study is to evaluate the feasibility of conducting a full-scale randomised controlled trial comparing psychedelic microdose-assisted–meaning-centred psychotherapy (PA-MCP) to standard meaning-centred psychotherapy (MCP) in New Zealand indigenous (Māori) and non-indigenous people with advanced cancer and symptoms of anxiety and/or depression. Although MCP is a well-established psychotherapeutic treatment in advanced cancer populations, the potential efficacy and effectiveness of this therapy when delivered alongside a standardised microdose regimen of a psychedelic compound have not been investigated.\n\nMethods\nParticipants with advanced-stage cancer and symptoms of anxiety and/or depression (N = 40; 20 Māori, 20 non-Māori) will be randomised under double-blind conditions to receive 7 sessions of MCP alongside 13 doses of either an LSD microdose (4–20 µg) (PA–MCP) or inactive placebo (placebo-MCP). The feasibility, acceptability, and safety of this intervention and physiological and psychological measures will be recorded at baseline, at each session of MCP, and at a 1-month and 6-month follow-up.\n\nDiscussion\nOur findings will evaluate the feasibility, acceptability, and safety of a larger randomised controlled trial and provide an initial indication of the potential benefits of psychedelic microdosing for psychological distress in advanced-stage indigenous and non-indigenous cancer patients.\n\nTrial Registration\nNZCTR, ACTRN12623000478617. Registered 11 May 2023. https://www.anzctr.org.au/Trial/Registration/TrialReview.aspx?id=385810&amp;isReview=true.",
+  "doi": "10.1186/s40814-024-01449-9",
+  "url": "https://doi.org/10.1186/s40814-024-01449-9",
+  "pdf_url": "",
+  "venue": "Pilot and Feasibility Studies",
+  "citation_count": 8,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-26T10:44:12.534616+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-045.md",
+  "quality_details": {
+    "content_length": 87033,
+    "alpha_ratio": 0.766,
+    "sentence_count": 660,
+    "reasons": []
+  }
+}

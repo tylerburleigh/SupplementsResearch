@@ -1,0 +1,23 @@
+{
+  "id": "src-033",
+  "title": "Consistent signatures in the human gut microbiome of longevous populations.",
+  "authors": [
+    "Chen, Shu",
+    "Zhang, Zhao",
+    "Liu, Sanxin",
+    "Chen, Tao",
+    "Lu, Zhengqi",
+    "Zhao, Wenjing",
+    "Mou, Xiangyu",
+    "Liu, Sheng"
+  ],
+  "doi": "10.1080/19490976.2024.2393756",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39197040",
+  "provider": "pubmed",
+  "year": 2024,
+  "venue": "Gut microbes",
+  "citation_count": 0,
+  "abstract": "Gut microbiota of centenarians has garnered significant attention in recent years, with most studies concentrating on the analysis of microbial composition. However, there is still limited knowledge regarding the consistent signatures of specific species and their biological functions, as well as the potential causal relationship between gut microbiota and longevity. To address this, we performed the fecal metagenomic analysis of eight longevous populations at the species and functional level, and employed the Mendelian randomization (MR) analysis to infer the causal associations between microbial taxa and longevity-related traits. We observed that several species including Eisenbergiella tayi, Methanobrevibacter smithii, Hungatella hathewayi, and Desulfovibrio fairfieldensis were consistently enriched in the gut microbiota of long-lived individuals compared to younger elderly and young adults across multiple cohorts. Analysis of microbial pathways and enzymes indicated that E. tayi plays a role in the protein N-glycosylation, while M. smithii is involved in the 3-dehydroquinate and chorismate biosynthesis. Furthermore, H. hathewayi makes a distinct contribution to the purine nucleobase degradation I pathway, potentially assisting the elderly in maintaining purine homeostasis. D. fairfieldensis contributes to the menaquinone (vitamin K2) biosynthesis, which may help prevent age-related diseases such as osteoporosis-induced fractures. According to MR results, Hungatella was significantly positively correlated with parental longevity, and Desulfovibrio also exhibited positive associations with lifespan and multiple traits related to parental longevity. Additionally, Alistipes and Akkermansia muciniphila were consistently enriched in the gut microbiota of the three largest cohorts of long-lived individuals, and MR analysis also suggests their potential causal relationships with longevity. Our findings reveal longevity-associated gut microbial signatures, which are informative for understanding the role of microbiota in regulating longevity and aging.",
+  "type": "academic",
+  "pdf_url": ""
+}

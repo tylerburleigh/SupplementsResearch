@@ -1,0 +1,23 @@
+{
+  "id": "src-219",
+  "title": "High-Fat, Western-Style Diet, Systemic Inflammation, and Gut Microbiota: A Narrative Review",
+  "authors": [
+    "Malesza, Ida",
+    "Malesza, Michał",
+    "Walkowiak, Jarosław",
+    "Mussin, Nadiar M.",
+    "Walkowiak, Dariusz",
+    "Aringazina, Raisa",
+    "Bartkowiak-Wieczorek, Joanna",
+    "Mądry, Edyta"
+  ],
+  "doi": "10.3390/cells10113164",
+  "url": "https://openalex.org/W3212031021",
+  "provider": "openalex",
+  "year": 2021,
+  "venue": "Cells",
+  "citation_count": 699,
+  "abstract": "The gut microbiota is responsible for recovering energy from food, providing hosts with vitamins, and providing a barrier function against exogenous pathogens. In addition, it is involved in maintaining the integrity of the intestinal epithelial barrier, crucial for the functional maturation of the gut immune system. The Western diet (WD)-an unhealthy diet with high consumption of fats-can be broadly characterized by overeating, frequent snacking, and a prolonged postprandial state. The term WD is commonly known and intuitively understood. However, the strict digital expression of nutrient ratios is not precisely defined. Based on the US data for 1908-1989, the calory intake available from fats increased from 32% to 45%. Besides the metabolic aspects (hyperinsulinemia, insulin resistance, dyslipidemia, sympathetic nervous system and renin-angiotensin system overstimulation, and oxidative stress), the consequences of excessive fat consumption (high-fat diet-HFD) comprise dysbiosis, gut barrier dysfunction, increased intestinal permeability, and leakage of toxic bacterial metabolites into the circulation. These can strongly contribute to the development of low-grade systemic inflammation. This narrative review highlights the most important recent advances linking HFD-driven dysbiosis and HFD-related inflammation, presents the pathomechanisms for these phenomena, and examines the possible causative relationship between pro-inflammatory status and gut microbiota changes.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2073-4409/10/11/3164/pdf?version=1637029375"
+}

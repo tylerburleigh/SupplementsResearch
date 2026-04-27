@@ -1,0 +1,21 @@
+{
+  "id": "src-354",
+  "title": "Context-dependent activation of Wnt signaling by tumor suppressor RUNX3 in gastric cancer cells",
+  "authors": [
+    "Ju, Xiaoli",
+    "Ishikawa, T.",
+    "Naka, K.",
+    "Ito, Kosei",
+    "Ito, Yoshiaki",
+    "Oshima, M."
+  ],
+  "doi": "10.1111/cas.12356",
+  "url": "https://www.semanticscholar.org/paper/2be4661996d567b59eb001219213b0baa8d77d6d",
+  "provider": "semantic_scholar",
+  "year": 2014,
+  "venue": "Cancer Science",
+  "citation_count": 34,
+  "abstract": "RUNX3 is a tumor suppressor for a variety of cancers. RUNX3 suppresses the canonical Wnt signaling pathway by binding to the TCF4/β‐catenin complex, resulting in the inhibition of binding of the complex to the Wnt target gene promoter. Here, we confirmed that RUNX3 suppressed Wnt signaling activity in several gastric cancer cell lines; however, we found that RUNX3 increased the Wnt signaling activity in KatoIII and SNU668 gastric cancer cells. Notably, RUNX3 expression increased the ratio of the Wnt signaling‐high population in the KatoIII cells. although the maximum Wnt activation level of individual cells was similar to that in the control. As found previously, RUNX3 also binds to TCF4 and β‐catenin in KatoIII cells, suggesting that these molecules form a ternary complex. Moreover, the ChIP analyses revealed that TCF4, β‐catenin and RUNX3 bind the promoter region of the Wnt target genes, Axin2 and c‐Myc, and the occupancy of TCF4 and β‐catenin in these promoter regions is increased by the RUNX3 expression. These results suggest that RUNX3 stabilizes the TCF4/β‐catenin complex on the Wnt target gene promoter in KatoIII cells, leading to activation of Wnt signaling. Although RUNX3 increased the Wnt signaling activity, its expression resulted in suppression of tumorigenesis of KatoIII cells, indicating that RUNX3 plays a tumor‐suppressing role in KatoIII cells through a Wnt‐independent mechanism. These results indicate that RUNX3 can either suppress or activate the Wnt signaling pathway through its binding to the TCF4/β‐catenin complex by cell context‐dependent mechanisms.",
+  "type": "academic",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/cas.12356"
+}

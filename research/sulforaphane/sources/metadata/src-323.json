@@ -1,0 +1,19 @@
+{
+  "id": "src-323",
+  "title": "A Novel Mechanism of Chemoprotection by Sulforaphane",
+  "authors": [
+    "Myzak, Melinda C.",
+    "Karplus, P. Andrew",
+    "Chung, Fung‐Lung",
+    "Dashwood, Roderick H."
+  ],
+  "doi": "10.1158/0008-5472.can-04-1326",
+  "url": "https://openalex.org/W2157607726",
+  "provider": "openalex",
+  "year": 2004,
+  "venue": "Cancer Research",
+  "citation_count": 493,
+  "abstract": "Sulforaphane (SFN), a compound found at high levels in broccoli and broccoli sprouts, is a potent inducer of phase 2 detoxification enzymes and inhibits tumorigenesis in animal models. SFN also has a marked effect on cell cycle checkpoint controls and cell survival and/or apoptosis in various cancer cells, through mechanisms that are poorly understood. We tested the hypothesis that SFN acts as an inhibitor of histone deacetylase (HDAC). In human embryonic kidney 293 cells, SFN dose-dependently increased the activity of a beta-catenin-responsive reporter (TOPflash), without altering beta-catenin or HDAC protein levels. Cytoplasmic and nuclear extracts from these cells had diminished HDAC activity, and both global and localized histone acetylation was increased, compared with untreated controls. Studies with SFN and with media from SFN-treated cells indicated that the parent compound was not responsible for the inhibition of HDAC, and this was confirmed using an inhibitor of glutathione S-transferase, which blocked the first step in the metabolism of SFN, via the mercapturic acid pathway. Whereas SFN and its glutathione conjugate (SFN-GSH) had little or no effect, the two major metabolites SFN-cysteine and SFN-N-acetylcysteine were effective HDAC inhibitors in vitro. Finally, several of these findings were recapitulated in HCT116 human colorectal cancer cells: SFN dose-dependently increased TOPflash reporter activity and inhibited HDAC activity, there was an increase in acetylated histones and in p21(Cip1/Waf1), and chromatin immunoprecipitation assays revealed an increase in acetylated histones bound to the P21 promoter. Collectively, these findings suggest that SFN may be effective as a tumor-suppressing agent and as a chemotherapeutic agent, alone or in combination with other HDAC inhibitors currently undergoing clinical trials.",
+  "type": "academic",
+  "pdf_url": ""
+}

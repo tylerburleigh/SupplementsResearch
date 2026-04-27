@@ -1,0 +1,19 @@
+{
+  "id": "src-136",
+  "title": "Oral tolerance",
+  "authors": [
+    "Weiner, Howard L.",
+    "Cunha, Andre Pires da",
+    "Quintana, Francisco J.",
+    "Wu, Henry"
+  ],
+  "doi": "10.1111/j.1600-065x.2011.01017.x",
+  "url": "https://openalex.org/W4211035899",
+  "provider": "openalex",
+  "year": 2011,
+  "venue": "Immunological Reviews",
+  "citation_count": 522,
+  "abstract": "The gut-associated lymphoid tissue is the largest immune organ in the body and is the primary route by which we are exposed to antigens. Tolerance induction is the default immune pathway in the gut, and the type of tolerance induced relates to the dose of antigen fed: anergy/deletion (high dose) or regulatory T-cell (Treg) induction (low dose). Conditioning of gut dendritic cells (DCs) by gut epithelial cells and the gut flora, which itself has a major influence on gut immunity, induces CD103(+) retinoic acid-dependent DC that induces Tregs. A number of Tregs are induced at mucosal surfaces. Th3 type Tregs are transforming growth factor-β dependent and express latency-associated peptide (LAP) on their surface and were discovered in the context of oral tolerance. Tr1 type Tregs (interleukin-10 dependent) are induced by nasal antigen and forkhead box protein 3(+) iTregs are induced by oral antigen and by oral administration of aryl hydrocarbon receptor ligands. Oral or nasal antigen ameliorates autoimmune and inflammatory diseases in animal models by inducing Tregs. Furthermore, anti-CD3 monoclonal antibody is active at mucosal surfaces and oral or nasal anti-CD3 monoclonal antibody induces LAP(+) Tregs that suppresses animal models (experimental autoimmune encephalitis, type 1 and type 2 diabetes, lupus, arthritis, atherosclerosis) and is being tested in humans. Although there is a large literature on treatment of animal models by mucosal tolerance and some positive results in humans, this approach has yet to be translated to the clinic. The successful translation will require defining responsive patient populations, validating biomarkers to measure immunologic effects, and using combination therapy and immune adjuvants to enhance Treg induction. A major avenue being investigated for the treatment of autoimmunity is the induction of Tregs and mucosal tolerance represents a non-toxic, physiologic approach to reach this goal.",
+  "type": "academic",
+  "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/3296283"
+}

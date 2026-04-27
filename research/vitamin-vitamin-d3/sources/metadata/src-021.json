@@ -1,0 +1,42 @@
+{
+  "id": "src-021",
+  "title": "Efficacy of vitamin D supplementation on the incidence of preeclampsia: a systematic review and meta-analysis",
+  "authors": [
+    "Moghib, Khaled",
+    "Ghanm, Thoria I.",
+    "Abunamoos, Abdallah",
+    "Rajabi, Munia",
+    "Moawad, Shehab M.",
+    "Mohsen, Ahmed",
+    "Kasem, Said",
+    "Elsayed, Khalid",
+    "Sayed, Moaaz",
+    "Dawoud, Ali I.",
+    "Salomon, Izere",
+    "Elmaghreby, Alaaeldin",
+    "Ismail, Mohamed",
+    "Amer, Ahmed"
+  ],
+  "year": 2024,
+  "abstract": "",
+  "doi": "10.1186/s12884-024-07081-y",
+  "url": "https://doi.org/10.1186/s12884-024-07081-y",
+  "pdf_url": "",
+  "venue": "BMC Pregnancy and Childbirth",
+  "citation_count": 13,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T21:02:06.591600+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-021.md",
+  "quality_details": {
+    "content_length": 67657,
+    "alpha_ratio": 0.726,
+    "sentence_count": 619,
+    "reasons": []
+  }
+}

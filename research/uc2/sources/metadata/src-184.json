@@ -1,0 +1,18 @@
+{
+  "id": "src-184",
+  "title": "Oral tolerance to myelin basic protein and natural recovery from experimental autoimmune encephalomyelitis are associated with downregulation of inflammatory cytokines and differential upregulation of transforming growth factor beta, interleukin 4, and prostaglandin E expression in the brain.",
+  "authors": [
+    "Khoury, Samia J.",
+    "Hancock, Wayne W.",
+    "Weiner, Howard L."
+  ],
+  "doi": "10.1084/jem.176.5.1355",
+  "url": "https://openalex.org/W1992985178",
+  "provider": "openalex",
+  "year": 1992,
+  "venue": "The Journal of Experimental Medicine",
+  "citation_count": 719,
+  "abstract": "Experimental autoimmune encephalomyelitis (EAE) in the Lewis rat is a self-limited inflammatory process localized to the central nervous system that is induced by the injection of myelin basic protein (MBP) in adjuvant. Oral administration of MBP suppresses EAE, and this suppression is mediated by CD8+ T cells that adoptively transfer protection and suppress both in vitro and in vivo by the release of transforming growth factor (TGF) beta after antigen-specific triggering. Furthermore, oral tolerance to MBP is enhanced by the concomitant oral administration of lipopolysaccharide (LPS). The present study was undertaken to determine whether the disease course in EAE and its suppression by oral tolerization to MBP is associated with distinct patterns of cytokine expression in the target organ. Detailed immunohistology of the brain was performed at the peak of clinical disease (day 14 after immunization) and after recovery (day 18) in control (ovalbumin [OVA]-fed), MBP-fed, and MBP plus LPS-fed animals. Brains from OVA-fed animals at the peak of disease showed perivascular infiltration with activated mononuclear cells which secreted the inflammatory cytokines interleukins (IL) 1, 2, 6, 8, TNF-alpha, and interferon gamma. The inhibitory cytokines TGF-beta and IL-4, and prostaglandin E2 (PGE2) were absent. In MBP orally tolerized animals there was a marked reduction of the perivascular infiltrate and downregulation of all inflammatory cytokines. In addition, there was upregulation of the inhibitory cytokine TGF-beta. In MBP plus LPS orally tolerized animals, in addition to upregulation of TGF-beta and reduction of inflammatory cytokines, there was enhanced expression of IL-4 and PGE2, presumably secondary to activation of an additional population of immunoregulatory cells. In OVA-fed animals that had recovered (day 18), staining for inflammatory cytokines diminished, and there was the appearance of TGF-beta and IL-4. These results suggest that suppression of EAE, either induced by oral tolerization or that which occurs during natural recovery is related to the secretion of inhibitory cytokines or factors that actively suppress the inflammatory process in the target organ.",
+  "type": "academic",
+  "pdf_url": "https://rupress.org/jem/article-pdf/176/5/1355/1103128/1355.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "src-022",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://www.nad.com/news/new-oxford-study-powerful-longevity-drug-rapamycin-targets-cell-senescence",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-26T22:38:09.626664+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-022.md",
+  "quality_details": {
+    "content_length": 503,
+    "alpha_ratio": 0.829,
+    "sentence_count": 3,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

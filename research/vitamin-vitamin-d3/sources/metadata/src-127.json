@@ -1,0 +1,26 @@
+{
+  "id": "src-127",
+  "title": "Skeletal and Extraskeletal Actions of Vitamin D: Current Evidence and Outstanding Questions",
+  "authors": [
+    "Bouillon, Roger",
+    "Marcocci, Claudio",
+    "Carmeliet, Geert",
+    "Bikle, Daniel D.",
+    "White, John H.",
+    "Dawson‐Hughes, Bess",
+    "Lips, Paul",
+    "Munns, Craig F.",
+    "Lazaretti‐Castro, Marise",
+    "Giustina, Andrea",
+    "Bilezikian, John P."
+  ],
+  "doi": "10.1210/er.2018-00126",
+  "url": "https://openalex.org/W2896178057",
+  "provider": "openalex",
+  "year": 2018,
+  "venue": "Endocrine Reviews",
+  "citation_count": 1082,
+  "abstract": "The etiology of endemic rickets was discovered a century ago. Vitamin D is the precursor of 25-hydroxyvitamin D and other metabolites, including 1,25(OH)2D, the ligand for the vitamin D receptor (VDR). The effects of the vitamin D endocrine system on bone and its growth plate are primarily indirect and mediated by its effect on intestinal calcium transport and serum calcium and phosphate homeostasis. Rickets and osteomalacia can be prevented by daily supplements of 400 IU of vitamin D. Vitamin D deficiency (serum 25-hydroxyvitamin D <50 nmol/L) accelerates bone turnover, bone loss, and osteoporotic fractures. These risks can be reduced by 800 IU of vitamin D together with an appropriate calcium intake, given to institutionalized or vitamin D-deficient elderly subjects. VDR and vitamin D metabolic enzymes are widely expressed. Numerous genetic, molecular, cellular, and animal studies strongly suggest that vitamin D signaling has many extraskeletal effects. These include regulation of cell proliferation, immune and muscle function, skin differentiation, and reproduction, as well as vascular and metabolic properties. From observational studies in human subjects, poor vitamin D status is associated with nearly all diseases predicted by these extraskeletal actions. Results of randomized controlled trials and Mendelian randomization studies are supportive of vitamin D supplementation in reducing the incidence of some diseases, but, globally, conclusions are mixed. These findings point to a need for continued ongoing and future basic and clinical studies to better define whether vitamin D status can be optimized to improve many aspects of human health. Vitamin D deficiency enhances the risk of osteoporotic fractures and is associated with many diseases. We review what is established and what is plausible regarding the health effects of vitamin D.",
+  "type": "academic",
+  "pdf_url": "https://academic.oup.com/edrv/article-pdf/40/4/1109/28933998/er.2018-00126.pdf"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "src-049",
+  "title": "An assessment of cord ferritin concentration and its predictors among a cohort of Canadian preterm and term infants",
+  "authors": [
+    "Pei, Lulu X.",
+    "Hutcheon, Jennifer A.",
+    "Karakochuk, Crystal D."
+  ],
+  "year": 2025,
+  "abstract": "AbstractLow iron (Fe) stores at birth may adversely influence child cognitive and motor development. The aims of this study were to assess cord blood Fe levels and explore maternal and neonatal factors associated with Fe status. Cord blood specimens (n 46) were obtained from the BC Children’s Hospital BioBank in Vancouver, Canada. The primary outcome was cord plasma ferritin, measured using sandwich-ELISA. Predictors of interest included maternal age, gestational age, gravidity, infant sex, birth weight and delivery method. Median (interquartile range (IQR)) maternal age and gestational age at delivery was 33·5 (29·3–35·8) years and 36·5 (30·0–39·0) weeks, respectively, and 44 % of infants were female. Median (IQR) cord ferritin was 100·4 (75·7–128·9) µg/l, and 26 % had low Fe status (ferritin &lt;76 µg/l). Among preterm deliveries, a 1-week increase in gestational age was associated with a 6·22 (95 % CI (1·10, 9·52)) µg/l increase in median cord ferritin. However, among term deliveries, a negative trend was observed (–2·38 µg/l per week of gestation (95 % CI (–34·8, 0·78))), indicating a potential non-linear relationship between gestational age and cord ferritin. Female term infants had higher cord ferritin compared with males (β (95 % CI): 30·3 (18·4, 57·9) µg/l), suggesting sex-specific differences in Fe transfer, acquisition and utilisation. Cord ferritin was higher with vaginal deliveries compared with caesarean sections (β (95 % CI): 39·1 (29·0, 51·5) µg/l). Low Fe status may be a concern among infants in Canada; however, further research is needed to inform appropriate thresholds to define optimal Fe status in cord blood.",
+  "doi": "10.1017/s0007114524003362",
+  "url": "https://doi.org/10.1017/s0007114524003362",
+  "pdf_url": "",
+  "venue": "British Journal of Nutrition",
+  "citation_count": 2,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T18:05:09.460614+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-049.md",
+  "quality_details": {
+    "content_length": 31146,
+    "alpha_ratio": 0.75,
+    "sentence_count": 263,
+    "reasons": []
+  }
+}

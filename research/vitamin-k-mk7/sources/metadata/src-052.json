@@ -1,0 +1,38 @@
+{
+  "id": "src-052",
+  "title": "Association of vitamin K with cardiovascular events and all-cause mortality: a systematic review and meta-analysis",
+  "authors": [
+    "Chen, Heng-Gui",
+    "Sheng, Li-Ting",
+    "Zhang, Yan-Bo",
+    "Cao, An-Lan",
+    "Lai, Yu-Wei",
+    "Kunutsor, Setor K.",
+    "Jiang, Limiao",
+    "Pan, An"
+  ],
+  "year": 2019,
+  "abstract": "",
+  "doi": "10.1007/s00394-019-01998-3",
+  "url": "https://doi.org/10.1007/s00394-019-01998-3",
+  "pdf_url": "",
+  "venue": "European Journal of Nutrition",
+  "citation_count": 73,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T10:56:17.792762+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-052.md",
+  "quality_details": {
+    "content_length": 26055,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

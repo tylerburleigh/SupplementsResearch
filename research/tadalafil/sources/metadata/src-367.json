@@ -1,0 +1,28 @@
+{
+  "id": "src-367",
+  "title": "ComplexDnet: A Network-Based Strategy to Discover Critical Targets and Screen Active Compounds for Complex Diseases.",
+  "authors": [
+    "Pan, Fei",
+    "Xu, Zhaomin",
+    "Liu, Zefeng",
+    "Chen, Caiyue",
+    "Yu, Jing",
+    "Wu, Zeng-rui",
+    "Wang, Ze",
+    "Chen, Long",
+    "Yue, Chengyuan",
+    "Li, Wei-Hua",
+    "Liu, Guixia",
+    "Huang, Jin",
+    "Tang, Yun"
+  ],
+  "doi": "10.1021/acs.jmedchem.5c01682",
+  "url": "https://www.semanticscholar.org/paper/0eb064d2c6da98db7e48a1a969d428f7c5dc9d2f",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "Journal of Medicinal Chemistry",
+  "citation_count": 1,
+  "abstract": "The etiology of complex diseases such as metabolic-associated steatohepatitis (MASH) presents significant challenges for therapeutic discovery. Here, we developed ComplexDnet, a transcriptome- and network-integrated framework to prioritize disease-relevant targets. Applied across eight cancer types, ComplexDnet achieved an average recall of 77.63%, outperforming four advanced methods by 10-40%. Then, we applied ComplexDnet in MASH and revealed retinoid-related orphan receptor γt (RORγt) as a central regulator of MASH-associated inflammatory and fibrotic cascades. Network-based virtual screening revealed panaxatriol (PXT) as a potent RORγt inverse agonist (IC50 = 0.01 μM), confirmed via X-ray crystallography (2.8 Å). PXT was further shown to significantly attenuate fibrosis in murine models. These findings demonstrated the utility of ComplexDnet in discovering functionally and structurally relevant targets and accelerating drug discovery. Finally, we integrated this pipeline into an open-source software (https://github.com/sirpan/ComplexDnet), which would benefit the drug discovery community for complex diseases.",
+  "type": "academic",
+  "pdf_url": ""
+}

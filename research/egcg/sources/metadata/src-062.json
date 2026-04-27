@@ -1,0 +1,30 @@
+{
+  "id": "src-062",
+  "title": "A randomized placebo-controlled trial of vitamin D supplementation for reduction of mortality and cancer: Statistical analysis plan for the D-Health Trial",
+  "authors": [
+    "Waterhouse, M.",
+    "English, D.",
+    "Armstrong, B.",
+    "Baxter, C.",
+    "Romero, B. D. Duarte",
+    "Ebeling, P.",
+    "Hartel, G.",
+    "Kimlin, M.",
+    "McLeod, D.",
+    "O’Connell, R.",
+    "Pols, J. C. van der",
+    "Venn, A.",
+    "Webb, P.",
+    "Whiteman, D.",
+    "Neale, R."
+  ],
+  "doi": "10.1016/j.conctc.2019.100333",
+  "url": "https://www.semanticscholar.org/paper/de707f596cee2000ded57fb06af2c35f9105563c",
+  "provider": "semantic_scholar",
+  "year": 2019,
+  "venue": "Contemporary Clinical Trials Communications",
+  "citation_count": 21,
+  "abstract": "Background Many observational studies have reported an association between vitamin D and non-skeletal health outcomes. The D-Health Trial was launched to determine if supplementing the older population with high monthly doses of Vitamin D can prevent cancer and premature mortality. The intervention is ongoing but here we provide a detailed statistical analysis plan for the primary and secondary outcomes of the D-Health Trial. Methods/design The D-Health Trial is a double-blind, randomized, placebo-controlled trial. Between February 2014 and May 2015, 21,315 people were randomized in a 1:1 ratio to receive monthly doses of either 60,000 IU of cholecalciferol (vitamin D3) or placebo for five years. The primary outcome is all-cause mortality and the secondary outcomes are total cancer incidence and colorectal cancer incidence. These will be ascertained via linkage to death and cancer registries. The primary analysis for each outcome will follow an intention-to-treat approach; we will use flexible parametric survival models to investigate the association between supplementation and time to an event. We describe in detail sophisticated secondary analyses that consider non-compliance and contamination due to off-study supplementation. Conclusions Publication of this statistical analysis plan in advance of the intervention's completion, and adherence to it, will avoid data-driven analyses of the primary and secondary outcomes and ensure robust reporting of outcomes. Clinical trial registration number Australian New Zealand Clinical Trials Registry: ACTRN12613000743763. Registered on 4 July 2013.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.1016/j.conctc.2019.100333"
+}

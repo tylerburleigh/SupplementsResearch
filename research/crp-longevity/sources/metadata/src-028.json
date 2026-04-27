@@ -1,0 +1,43 @@
+{
+  "id": "src-028",
+  "title": "Inflammatory markers link triglyceride-glucose index and obesity indicators with adverse cardiovascular events in patients with hypertension: insights from three cohorts",
+  "authors": [
+    "Huang, Yanqiu",
+    "Zhou, Yi",
+    "Xu, Yadan",
+    "Wang, Xiaoyu",
+    "Zhou, Ziyi",
+    "Wu, Kang",
+    "Meng, Qiqi",
+    "Wang, Liao",
+    "Yang, Yang",
+    "Gao, Hong",
+    "Ji, Juan",
+    "Jiang, Xu",
+    "Yang, Yang",
+    "Hao, Lipeng",
+    "Wang, Hui"
+  ],
+  "year": 2025,
+  "abstract": "",
+  "doi": "10.1186/s12933-024-02571-x",
+  "url": "https://doi.org/10.1186/s12933-024-02571-x",
+  "pdf_url": "",
+  "venue": "Cardiovascular Diabetology",
+  "citation_count": 71,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-24T01:03:31.316162+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-028.md",
+  "quality_details": {
+    "content_length": 69591,
+    "alpha_ratio": 0.699,
+    "sentence_count": 602,
+    "reasons": []
+  }
+}

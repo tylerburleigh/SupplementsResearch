@@ -1,0 +1,5 @@
+118	2	Abstract
+170	2	Introduction
+596	2	Conclusions
+930	2	97. Sharov VG, Saks VA, Kupriyanov VV, Lakomkin VL, Kapelko VI, Steinschneider AYa
+934	2	98. Sharov VG, Afonskaya NI, Ruda MY, Cherpachenko NM, Pozin EYa  null, Markosyan

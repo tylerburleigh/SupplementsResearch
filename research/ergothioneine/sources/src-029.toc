@@ -1,0 +1,14 @@
+7	2	2800 Kongens Lyngby, Denmark
+17	2	Abstract
+28	2	Introduction
+866	2	Erg
+955	2	1. Lipid peroxidation
+956	2	2. Protein oxidation
+957	2	3. GSH oxidation
+1050	2	Conclusions
+1087	2	Acknowledgements
+1105	2	References
+1954	2	255. Nakajima S, Satoh Y, Yanashima K,
+2772	2	489. Goodman M, Bostick RM, Kucuk O,
+2816	2	502. Mendes-da-Silva RF, Lopes-de-Morais AA, Bandim-da-Silva
+3155	2	8. Ergothioneine as a normal constituent of boar seminal

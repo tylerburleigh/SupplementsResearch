@@ -1,0 +1,16 @@
+{
+  "id": "src-339",
+  "title": "Homocysteine Modification in Protein Structure/Function and Human Disease",
+  "authors": [
+    "Jakubowski, Hieronim"
+  ],
+  "doi": "10.1152/physrev.00003.2018",
+  "url": "https://openalex.org/W2901393568",
+  "provider": "openalex",
+  "year": 2018,
+  "venue": "Physiological Reviews",
+  "citation_count": 301,
+  "abstract": "Epidemiological studies established that elevated homocysteine, an important intermediate in folate, vitamin B<sub>12</sub>, and one carbon metabolism, is associated with poor health, including heart and brain diseases. Earlier studies show that patients with severe hyperhomocysteinemia, first identified in the 1960s, exhibit neurological and cardiovascular abnormalities and premature death due to vascular complications. Although homocysteine is considered to be a nonprotein amino acid, studies over the past 2 decades have led to discoveries of protein-related homocysteine metabolism and mechanisms by which homocysteine can become a component of proteins. Homocysteine-containing proteins lose their biological function and acquire cytotoxic, proinflammatory, proatherothrombotic, and proneuropathic properties, which can account for the various disease phenotypes associated with hyperhomocysteinemia. This review describes mechanisms by which hyperhomocysteinemia affects cellular proteostasis, provides a comprehensive account of the biological chemistry of homocysteine-containing proteins, and discusses pathophysiological consequences and clinical implications of their formation.",
+  "type": "academic",
+  "pdf_url": ""
+}

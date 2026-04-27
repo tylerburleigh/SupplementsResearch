@@ -1,0 +1,22 @@
+{
+  "id": "src-297",
+  "title": "Association between dietary niacin intake and risk of Parkinson’s disease in US adults: cross-sectional analysis of survey data from NHANES 2005–2018",
+  "authors": [
+    "Zhang, Ling",
+    "Yang, Shaojie",
+    "Liu, Xiaoyan",
+    "Wang, Chunxia",
+    "Tan, Ge",
+    "Wang, Xueping",
+    "Liu, Ling"
+  ],
+  "doi": "10.3389/fnut.2024.1387802",
+  "url": "https://openalex.org/W4400792251",
+  "provider": "openalex",
+  "year": 2024,
+  "venue": "Frontiers in Nutrition",
+  "citation_count": 7,
+  "abstract": "Parkinson's disease (PD) is one of the most common neurodegenerative diseases and involves various pathogenic mechanisms, including oxidative stress and neuroinflammation. Niacin, an important cofactor in mitochondrial energy metabolism, may play a key role in the pathogenesis of PD. An in-depth exploration of the relationship between niacin and mitochondrial energy metabolism may provide new targets for the treatment of PD. The present study was designed to examine the association between dietary niacin intake and the risk of PD in US adults. Data from adults aged 40 years and older collected during cycles of the United States (US) National Health and Nutrition Examination Survey (NHANES) from 2005 to 2018 were used. A multiple logistic regression model was used to analyze the relationship between dietary niacin intake and the risk of PD. Further linear tests using restricted cubic splines (RCS) were performed to explore the shape of the dose-response relationship. Subgroup stratification and interaction analyses were conducted according to years of education, marital status, smoking, and hypertension to evaluate the stability of the association between different subgroups. A total of 20,211 participants were included in this study, of which 192 were diagnosed with PD. In the fully adjusted multiple logistic regression model, dietary niacin intake was negatively associated with the risk of PD (OR: 0.77, 95%CI: 0.6-0.99; <i>p</i> = 0.042). In the RCS linear test, the occurrence of PD was negatively correlated with dietary niacin intake (nonlinearity: <i>p</i> = 0.232). In stratified analyses, dietary niacin intake was more strongly associated with PD and acted as an important protective factor in patients with fewer years of education (OR: 0.35, 95%CI: 0.13-0.93), married or cohabitating (OR: 0.71, 95%CI: 0.5-0.99), taking dietary supplements (OR: 0.6, 95%CI: 0.37 0.97), non-smokers (OR: 0.57, 95%CI: 0.39-0.85), those with hypertension (OR: 0.63, 95%CI: 0.63-0.95), coronary artery disease (OR: 0.77, 95%CI: 0.6-1), and stroke (OR: 0.75, 95%CI: 0.88-0.98), but the interaction was not statistically significant in all subgroups. Dietary niacin intake was inversely associated with PD risk in US adults, with a 23% reduction in risk for each 10 mg increase in niacin intake.",
+  "type": "academic",
+  "pdf_url": "https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2024.1387802/pdf"
+}

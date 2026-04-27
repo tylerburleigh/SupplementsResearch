@@ -1,0 +1,22 @@
+{
+  "id": "src-232",
+  "title": "Proteolysis-targeting chimera (PROTAC): a promising senolytic strategy.",
+  "authors": [
+    "Fan, Gang",
+    "Zhang, Qingping",
+    "Guo, Weiming",
+    "Liu, Miao",
+    "Tan, Dong",
+    "Tang, Zhihan",
+    "Yang, Jing"
+  ],
+  "doi": "10.1016/j.arr.2026.103027",
+  "url": "https://www.semanticscholar.org/paper/efbc9d688040efcef52c978472e82101846ad267",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "Ageing Research Reviews",
+  "citation_count": 1,
+  "abstract": "Senescent cells (SCs) accumulate with aging and contribute to the development of age-related pathologies. These cells evade apoptosis through upregulation of senescent cell anti-apoptotic pathways (SCAPs), making their selective elimination, a strategy termed senolysis, a promising therapeutic avenue. Proteolysis-targeting chimeras (PROTACs) represent an emerging class of bifunctional molecules that exploit the ubiquitin-proteasome system to degrade specific target proteins. By concurrently binding a protein of interest and an E3 ubiquitin ligase, PROTACs catalyze the degradation of SCAP components, offering a novel pharmacological approach to clear SCs. This review summarizes the principles and recent advances in PROTAC technology, with a focus on its application as a senolytic strategy. We highlight how PROTACs can overcome limitations of conventional inhibitors, such as targeting \"undruggable\" SCAP proteins, and provide a comparative analysis of major PROTAC classes targeting BCL-2 family members, p53, BRD4, SA-β-gal, and other emerging senescence regulators. Furthermore, we also discuss the aging-specific biological and translational challenges, including altered proteasomal activity, pharmacokinetics, tissue microenvironment, and immune clearance, that must be addressed to advance PROTAC senolytics toward clinical use in age-related diseases.",
+  "type": "academic",
+  "pdf_url": ""
+}

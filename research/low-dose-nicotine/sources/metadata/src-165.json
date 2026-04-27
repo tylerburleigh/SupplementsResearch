@@ -1,0 +1,21 @@
+{
+  "id": "src-165",
+  "title": "Heat Shock Proteins and Autophagy Pathways in Neuroprotection: From Molecular Bases to Pharmacological Interventions",
+  "authors": [
+    "Penke, Botond",
+    "Bogár, Ferenc",
+    "Crul, Tim",
+    "Sántha, Miklós",
+    "Tóth, Melinda E.",
+    "Vı́gh, László"
+  ],
+  "doi": "10.3390/ijms19010325",
+  "url": "https://openalex.org/W2794290841",
+  "provider": "openalex",
+  "year": 2018,
+  "venue": "International Journal of Molecular Sciences",
+  "citation_count": 104,
+  "abstract": "Neurodegenerative diseases (NDDs) such as Alzheimer's disease, Parkinson's disease and Huntington's disease (HD), amyotrophic lateral sclerosis, and prion diseases are all characterized by the accumulation of protein aggregates (amyloids) into inclusions and/or plaques. The ubiquitous presence of amyloids in NDDs suggests the involvement of disturbed protein homeostasis (proteostasis) in the underlying pathomechanisms. This review summarizes specific mechanisms that maintain proteostasis, including molecular chaperons, the ubiquitin-proteasome system (UPS), endoplasmic reticulum associated degradation (ERAD), and different autophagic pathways (chaperon mediated-, micro-, and macro-autophagy). The role of heat shock proteins (Hsps) in cellular quality control and degradation of pathogenic proteins is reviewed. Finally, putative therapeutic strategies for efficient removal of cytotoxic proteins from neurons and design of new therapeutic targets against the progression of NDDs are discussed.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/1422-0067/19/1/325/pdf?version=1516762627"
+}

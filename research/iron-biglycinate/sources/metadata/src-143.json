@@ -1,0 +1,22 @@
+{
+  "id": "src-143",
+  "title": "Relationship between biological ageing, premature mortality, life expectancy, and number of live births: a prospective cohort study of the UK women",
+  "authors": [
+    "Guo, Huanyu",
+    "Liu, Yuqing",
+    "Yang, Ruiming",
+    "Li, Xuebing",
+    "Teng, Y.",
+    "Wei, Wei",
+    "Zhang, Dandan"
+  ],
+  "doi": "10.1186/s12889-025-24534-x",
+  "url": "https://www.semanticscholar.org/paper/14aba7dc9e083e2b610ce9b77880da6734056ca3",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "BMC Public Health",
+  "citation_count": 1,
+  "abstract": "There are varying perspectives on the impact of the number of live births on health, and few studies have explored whether the number of live births is associated with female aging. Given the global impact of age-related diseases and premature death, this study aimed to evaluate the associations of the number of live births with the biological ageing, premature mortality and life expectancy of women. A total of 272,494 participants from the UK Biobank who completed the questionnaire on the number of Live births between 2006 and 2010 at baseline were enrolled. Participants were categorized into 6 groups based on the number of live births, and participants with one live birth composed the reference group. A general linear regression model and Cox proportional hazards model were used to evaluate the associations of the number of live births with biological ageing and premature mortality in women. A restricted cubic spline (RCS) was used to visualize the dose‒response relationship. Moreover, the latest Office for National Statistics life tables were used to calculate life expectancy. During a median follow-up of 12.7 years, 10,992 cases of all-cause premature death were documented. After adjustment for potential confounders, compared to women who had one live birth, women who had no live births had a greater risk of premature death (hazard ratio, HR = 1.17, 95% CI: 1.09–1.25), whereas women with two or three live births had a lower risk of premature death (HR = 0.88, 95% CI: 0.83–0.93, HR = 0.88, 95% CI: 0.83–0.95), which showed a U-shaped relationship (P < 0.05 for nonlinearity). Furthermore, at age 40, women who had no Live births had a 1.40-year lower Life expectancy, and women who had two or three Live births had a 1.13-year higher life expectancy. Moreover, compared to women who had one live birth, women who had two or three live births had lower corrected estimated values for the frailty index (FI), ΔKDM-biological age and homeostatic disorder (HD), and women with five or more live births had higher corrected estimated values for the FI, ΔKDM-biological age, and HD (all P < 0.05). There was a U-shaped relationship between the number of live births and the biological ageing, premature mortality and life expectancy of women. Women who had no live births or five or more live births were more likely to experience accelerated biological ageing, with a higher risk of premature death and a lower life expectancy. Based on these evidence, it is recommended that healthcare providers focus on guiding women towards a balanced reproductive strategy that optimizes both health outcomes and longevity.",
+  "type": "academic",
+  "pdf_url": ""
+}

@@ -1,0 +1,19 @@
+{
+  "id": "src-024",
+  "title": "Safety and efficacy of antioxidant therapy in children and adolescents with attention deficit hyperactivity disorder: A systematic review and network meta-analysis.",
+  "authors": [
+    "Zhou, Peike",
+    "Yu, Xiaohui",
+    "Song, Tao",
+    "Hou, Xiaoli"
+  ],
+  "doi": "10.1371/journal.pone.0296926",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38547138",
+  "provider": "pubmed",
+  "year": 2024,
+  "venue": "PloS one",
+  "citation_count": 0,
+  "abstract": "OBJECTIVE: To systematically evaluate the safety and efficacy of antioxidant therapy in children and adolescents with attention deficit hyperactivity disorder (ADHD).\nMETHODS: Randomized controlled trials and prospective studies on antioxidant therapy in children and adolescents with ADHD were searched in PubMed, Embase, and Cochrane Library from the inception of databases to November 12, 2022. Two investigators independently screened the literature, extracted data, and evaluated the quality of the included studies. Network meta-analysis (PROSPERO registration number CRD 42023382824) was carried out by using R Studio 4.2.1.\nRESULTS: 48 studies involving 12 antioxidant drugs (resveratrol, pycnogenol, omega-3, omega-6, quercetin, phosphatidylserine, almond, vitamin D, zinc, folic acid, ginkgo biloba, Acetyl-L-carnitine) were finally included, with 3,650 patients. Network meta-analysis showed that omega-6 (0.18), vitamin D (0.19), and quercetin (0.24) were the top three safest drugs according to SUCRA. The omega-3 (SUCRA 0.35), pycnogenol (SUCRA 0.36), and vitamin D (SUCRA 0.27) were the most effective in improving attention, hyperactivity, and total score of Conners' parent rating scale (CPRS), respectively. In terms of improving attention, hyperactivity, and total score of Conners' teacher rating scale (CTRS), pycnogenol (SUCRA 0.32), phosphatidylserine+omega-3 (SUCRA 0.26), and zinc (SUCRA 0.34) were the most effective, respectively. In terms of improving attention, hyperactivity and total score of ADHD Rating Scale-Parent, the optimal agents were phosphatidylserine (SUCRA 0.39), resveratrol+MPH (SUCRA 0.24), and phosphatidylserine (SUCRA 0.34), respectively. In terms of improving attention, hyperactivity and total score of ADHD Rating Scale-Teacher, pycnogenol (SUCRA 0.32), vitamin D (SUCRA 0.31) and vitamin D (SUCRA 0.18) were the optimal agents, respectively. The response rate of omega-3+6 was the highest in CGI (SUCRA 0.95) and CPT (SUCRA 0.42).\nCONCLUSION: The rankings of safety and efficacy of the 12 antioxidants vary. Due to the low methodological quality of the included studies, the probability ranking cannot fully explain the clinical efficacy, and the results need to be interpreted with caution. More high-quality studies are still needed to verify our findings.",
+  "type": "academic",
+  "pdf_url": ""
+}

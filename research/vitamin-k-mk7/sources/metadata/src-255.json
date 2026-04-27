@@ -1,0 +1,30 @@
+{
+  "id": "src-255",
+  "title": "Vitamins D and K as Factors Associated with Osteopathy in Chronic Pancreatitis: A Prospective Multicentre Study (P-BONE Study)",
+  "authors": [
+    "Stigliano, Serena",
+    "Waldthaler, Alexander",
+    "Martínez-Moneo, Emma",
+    "Lionetto, Luana",
+    "Robinson, Stuart",
+    "Malvik, Marko",
+    "Hedström, Aleksandra",
+    "Kaczka, Aleksandra",
+    "Scholdei, Marius",
+    "Haas, Stephan",
+    "Simmaco, Maurizio",
+    "Fave, Gianfranco Delle",
+    "Löhr, Matthias",
+    "Simon, Péter",
+    "Capurso, Gabriele"
+  ],
+  "doi": "10.1038/s41424-018-0066-8",
+  "url": "https://openalex.org/W2896038722",
+  "provider": "openalex",
+  "year": 2018,
+  "venue": "Clinical and Translational Gastroenterology",
+  "citation_count": 63,
+  "abstract": "The present data confirm a high rate of osteopathy in CP patients and highlight the relevance of vitamin K deficiency as only factor associated with osteoporosis in male patients for the first time.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.1038/s41424-018-0066-8"
+}

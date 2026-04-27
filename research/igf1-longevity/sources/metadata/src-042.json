@@ -1,0 +1,21 @@
+{
+  "id": "src-042",
+  "title": "ATGL-1 mediates the effect of dietary restriction and the insulin/IGF-1 signaling pathway on longevity in C. elegans",
+  "authors": [
+    "Zaarur, N.",
+    "Desevin, Kathleen",
+    "Mackenzie, J.",
+    "Lord, Avery",
+    "Grishok, A.",
+    "Kandror, K."
+  ],
+  "doi": "10.1016/j.molmet.2019.07.001",
+  "url": "https://www.semanticscholar.org/paper/bcd5d9248aa0ceef208b585f18b37f6bda2b5d8e",
+  "provider": "semantic_scholar",
+  "year": 2019,
+  "venue": "Molecular Metabolism",
+  "citation_count": 32,
+  "abstract": "Objective Animal lifespan is controlled through genetic pathways that are conserved from nematodes to humans. Lifespan-promoting conditions in nematodes include fasting and a reduction of insulin/IGF signaling. Here we aimed to investigate the input of the Caenorhabditis elegans homologue of the mammalian rate-limiting lipolytic enzyme Adipose Triglyceride Lipase, ATGL-1, in longevity control. Methods We used a combination of genetic and biochemical approaches to determine the role of ATGL-1 in accumulation of triglycerides and regulation of longevity. Results We found that expression of ATGL is increased in the insulin receptor homologue mutant daf-2 in a FoxO/DAF-16-dependent manner. ATGL-1 is also up-regulated by fasting and in the eat-2 loss-of-function mutant strain. Overexpression of ATGL-1 increases basal and maximal oxygen consumption rate and extends lifespan in C. elegans. Reduction of ATGL-1 function suppresses longevity of the long-lived mutants eat-2 and daf-2. Conclusion Our results demonstrate that ATGL is required for extended lifespan downstream of both dietary restriction and reduced insulin/IGF signaling.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.1016/j.molmet.2019.07.001"
+}

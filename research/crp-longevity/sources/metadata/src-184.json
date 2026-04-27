@@ -1,0 +1,32 @@
+{
+  "id": "src-184",
+  "title": "Chia seed supplementation and inflammatory biomarkers: a systematic review and meta-analysis",
+  "authors": [
+    "Pam, Pedram",
+    "Asemani, Sanaz",
+    "Azizi, Mohammad Hesam",
+    "Jamilian, Parmida"
+  ],
+  "year": 2024,
+  "abstract": "Abstract\nChia seeds have gained attention for their potential anti-inflammatory properties, which may be attributed to their high content of omega-3 fatty acids, dietary fibre, and antioxidants. This study aims to provide an overview of the current understanding regarding the effects of chia seeds on inflammatory markers, specifically C-reactive protein (CRP), interleukin-6 (IL-6), and tumour necrosis factor-alpha (TNF-α). A comprehensive literature search was conducted on PubMed, Scopus, Web of Science, Cochrane, and Google Scholar up to June 2024. Randomized controlled trials (RCTs) assessing the effect of chia seed on CRP or/and IL-6 or/and TNF-α. Data were extracted and analysed using a random-effects model, and reported as weighted mean differences (WMD) with 95% confidence intervals (CI). Subgroup and sensitivity analyses were also performed. Four RCTs involving 210 participants were included in the meta-analysis. The results showed that chia consumption significantly decreased CRP (WMD: –0.64 mg/dl; 95% CI: –1.24, –0.04; P = 0.03). But it had no significant effect on IL-6 (WMD: 0.29 pg/dl; 95% CI: –0.40, 0.98; P = 0.41), and TNF-α (WMD: 0.05%; 95% CI: –0.21 to 0.30; P = 0.72). Chia consumption can significantly decrease CRP, but no significant effect was observed on IL-6 and TNF-α. To prove our findings, more studies with a larger sample size are needed.",
+  "doi": "10.1017/jns.2024.70",
+  "url": "https://doi.org/10.1017/jns.2024.70",
+  "pdf_url": "",
+  "venue": "Journal of Nutritional Science",
+  "citation_count": 4,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-24T01:20:25.938160+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-184.md",
+  "quality_details": {
+    "content_length": 38039,
+    "alpha_ratio": 0.737,
+    "sentence_count": 381,
+    "reasons": []
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "src-269",
+  "title": "Association between cardiometabolic index and stroke risk: insights from the CHARLS cohort study",
+  "authors": [
+    "Liu, Tian",
+    "Xu, Chen",
+    "Chen, Hangjun",
+    "Chen, Fuhua",
+    "Feng, Bei",
+    "Tao, Xiaoying",
+    "Zhou, Yibo"
+  ],
+  "doi": "10.3389/fneur.2025.1548977",
+  "url": "https://www.semanticscholar.org/paper/f68d22334975adc9fa4e409d9445c8499176187c",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "Frontiers in Neurology",
+  "citation_count": 2,
+  "abstract": "Background Stroke is a leading global health challenge, significantly burdening individuals and healthcare systems. The Cardiometabolic Index (CMI), a novel metric combining triglycerides, HDL cholesterol, and waist-to-height ratio, has shown promise in predicting metabolic diseases but its relationship with stroke risk is underexplored. Methods This study analyzed data from 9,079 participants in the China Health and Retirement Longitudinal Study (CHARLS). Participants were stratified by CMI quintiles with the following ranges: Q1 (0.074–0.602), Q2 (0.602–0.935), Q3 (0.935–1.402), Q4 (1.402–2.327), and Q5 (2.327–74.326). Stroke incidence over a 7.8-year follow-up period was assessed. Cox proportional hazard models and restricted cubic spline regression were used to evaluate the association between baseline CMI and stroke risk, adjusting for confounders. Results Higher CMI levels were significantly associated with increased stroke risk, with a 21% higher risk per 1-unit increase in CMI after adjustment (HR: 1.21, 95% CI: 1.11–1.32). Stroke incidence showed a dose–response relationship, particularly above a CMI threshold of 1.6. Conclusion Elevated CMI is a strong independent predictor of stroke risk, highlighting its potential as a clinical tool for early risk stratification and prevention. Further large-scale studies are needed to validate its utility.",
+  "type": "academic",
+  "pdf_url": ""
+}

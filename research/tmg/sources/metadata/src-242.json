@@ -1,0 +1,17 @@
+{
+  "id": "src-242",
+  "title": "Dietary lipids, gut microbiota and lipid metabolism",
+  "authors": [
+    "Schoeler, Marc",
+    "Caesar, Robert"
+  ],
+  "doi": "10.1007/s11154-019-09512-0",
+  "url": "https://openalex.org/W2984669963",
+  "provider": "openalex",
+  "year": 2019,
+  "venue": "Reviews in Endocrine and Metabolic Disorders",
+  "citation_count": 1123,
+  "abstract": "The gut microbiota is a central regulator of host metabolism. The composition and function of the gut microbiota is dynamic and affected by diet properties such as the amount and composition of lipids. Hence, dietary lipids may influence host physiology through interaction with the gut microbiota. Lipids affect the gut microbiota both as substrates for bacterial metabolic processes, and by inhibiting bacterial growth by toxic influence. The gut microbiota has been shown to affect lipid metabolism and lipid levels in blood and tissues, both in mice and humans. Furthermore, diseases linked to dyslipidemia, such as non-alcoholic liver disease and atherosclerosis, are associated with changes in gut microbiota profile. The influence of the gut microbiota on host lipid metabolism may be mediated through metabolites produced by the gut microbiota such as short-chain fatty acids, secondary bile acids and trimethylamine and by pro-inflammatory bacterially derived factors such as lipopolysaccharide. Here we will review the association between gut microbiota, dietary lipids and lipid metabolism.",
+  "type": "academic",
+  "pdf_url": "https://link.springer.com/content/pdf/10.1007/s11154-019-09512-0.pdf"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "src-365",
+  "title": "Iron status and cardiometabolic risk in children.",
+  "authors": [
+    "Suárez-Ortegón, Milton Fabian",
+    "Prats-Puig, Anna",
+    "Bassols, Judit",
+    "Carreras-Badosa, Gemma",
+    "McLachlan, Stela",
+    "Wild, Sarah H",
+    "López-Bermejo, Abel",
+    "Fernández-Real, Jose Manuel"
+  ],
+  "doi": "10.1016/j.diabres.2023.110795",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37355100",
+  "provider": "pubmed",
+  "year": 2023,
+  "venue": "Diabetes research and clinical practice",
+  "citation_count": 0,
+  "abstract": "AIM: We aimed to evaluate associations between serum ferritin and transferrin and variables related to the metabolic syndrome (MetS) in children.\nMETHODS: Cross-sectional and longitudinal study in prepubertal children (n = 832) aged 3-14 years. A subset (n = 203) were re-examined after a mean follow-up of 3.7 ± 0.8 years[range 2-6]. Outcomes were MetS and MetS components scores, glycosylated haemoglobin (HbA1c), and their follow-up change.\nRESULTS: Children with low ferritin had increased HbA1c Z scores (ANCOVA, P = 0.003). Ferritin was inversely associated with glycaemia [fully adjusted β (95% confidence interval): -2.35(-4.36 to -0.34)]. Transferrin was associated with diastolic blood pressure [β: 0.02(0.01-0.04)] and log-HOMA-IR [β:0.001(0.0005-0.002)]. MetS risk score worsened during follow-up in children with the lowest baseline ferritin levels. In contrast, at baseline ferritin was positively associated with all (except glycaemia) the MetS-related variables but adjustments for inflammatory, hepatic function, and body mass markers attenuated those associations (P > 0.05).\nCONCLUSIONS: Lower iron status was independently associated with glycaemic markers and MetS in children, whereas higher ferritin levels were related to other cardiometabolic risk markers under the influence of inflammation, hepatic injury and body mass. Research is required to study whether this mixed pattern is part of an early risk or would be explained by a normal transition during growth and development.",
+  "type": "academic",
+  "pdf_url": ""
+}

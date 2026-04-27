@@ -1,0 +1,31 @@
+{
+  "id": "src-258",
+  "title": "Targeting Nrf2‐Mediated Oxidative Stress Response in Traumatic Brain Injury: Therapeutic Perspectives of Phytochemicals",
+  "authors": [
+    "Wu, Anguo",
+    "Yong, Yuan-Yuan",
+    "Pan, Yi-Ru",
+    "Zhang, Li",
+    "Wu, Jianming",
+    "Zhang, Yue",
+    "Tang, Yong",
+    "Wei, Jing",
+    "Yu, Lu",
+    "Law, Betty Yuen Kwan",
+    "Yu, Chong‐Lin",
+    "Liu, Jian",
+    "Lan, Cai",
+    "Xu, Ruxiang",
+    "Zhou, Xiaogang",
+    "Qin, Dalian"
+  ],
+  "doi": "10.1155/2022/1015791",
+  "url": "https://openalex.org/W4226019111",
+  "provider": "openalex",
+  "year": 2022,
+  "venue": "Oxidative Medicine and Cellular Longevity",
+  "citation_count": 82,
+  "abstract": "Traumatic brain injury (TBI), known as mechanical damage to the brain, impairs the normal function of the brain seriously. Its clinical symptoms manifest as behavioral impairment, cognitive decline, communication difficulties, etc. The pathophysiological mechanisms of TBI are complex and involve inflammatory response, oxidative stress, mitochondrial dysfunction, blood-brain barrier (BBB) disruption, and so on. Among them, oxidative stress, one of the important mechanisms, occurs at the beginning and accompanies the whole process of TBI. Most importantly, excessive oxidative stress causes BBB disruption and brings injury to lipids, proteins, and DNA, leading to the generation of lipid peroxidation, damage of nuclear and mitochondrial DNA, neuronal apoptosis, and neuroinflammatory response. Transcription factor NF-E2 related factor 2 (Nrf2), a basic leucine zipper protein, plays an important role in the regulation of antioxidant proteins, such as oxygenase-1(HO-1), NAD(P)H Quinone Dehydrogenase 1 (NQO1), and glutathione peroxidase (GPx), to protect against oxidative stress, neuroinflammation, and neuronal apoptosis. Recently, emerging evidence indicated the knockout (KO) of Nrf2 aggravates the pathology of TBI, while the treatment of Nrf2 activators inhibits neuronal apoptosis and neuroinflammatory responses via reducing oxidative damage. Phytochemicals from fruits, vegetables, grains, and other medical herbs have been demonstrated to activate the Nrf2 signaling pathway and exert neuroprotective effects in TBI. In this review, we emphasized the contributive role of oxidative stress in the pathology of TBI and the protective mechanism of the Nrf2-mediated oxidative stress response for the treatment of TBI. In addition, we summarized the research advances of phytochemicals, including polyphenols, terpenoids, natural pigments, and otherwise, in the activation of Nrf2 signaling and their potential therapies for TBI. Although there is still limited clinical application evidence for these natural Nrf2 activators, we believe that the combinational use of phytochemicals such as Nrf2 activators with gene and stem cell therapy will be a promising therapeutic strategy for TBI in the future.",
+  "type": "academic",
+  "pdf_url": "https://downloads.hindawi.com/journals/omcl/2022/1015791.pdf"
+}

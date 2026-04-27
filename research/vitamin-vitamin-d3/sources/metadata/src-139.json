@@ -1,0 +1,31 @@
+{
+  "id": "src-139",
+  "title": "Vitamin D for the prevention of diseases in children: A rebuttal to the  2024 Endocrine Society Clinical Practice Guideline",
+  "authors": [
+    "Nwosu, Benjamin Udoka"
+  ],
+  "year": 2025,
+  "abstract": "The recent 2024 Endocrine Society Clinical Practice Guideline on Vitamin D for the prevention of diseases has become a source of controversy among medical professionals and the lay public. This Review rebuts the recommendations from this Guideline for infants, children, adolescents, pregnant women, and dark-skinned individuals. It rejects the one-size-fits-all recommendations and provides the data for precision-medicine-guided vitamin D screening and supplementation in these populations.",
+  "doi": "10.3389/fendo.2025.1578609",
+  "url": "https://doi.org/10.3389/fendo.2025.1578609",
+  "pdf_url": "",
+  "venue": "Frontiers in Endocrinology",
+  "citation_count": 1,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T20:52:07.330529+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-139.md",
+  "quality_details": {
+    "content_length": 25566,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "src-246",
+  "title": "Light-activated photosensitizer/quercetin co-loaded extracellular vesicles for precise oral squamous cell carcinoma therapy.",
+  "authors": [
+    "Liu, Qian",
+    "Jiang, Dandan",
+    "Zhang, Shasha",
+    "Ru, Yi",
+    "Li, Jing",
+    "Guo, Pengda",
+    "Jiao, Weijuan",
+    "Miao, J.",
+    "Sun, Libing",
+    "Chen, Miaomiao",
+    "Yu, Yafeng",
+    "Li, Ming",
+    "Liu, Biao"
+  ],
+  "doi": "10.1016/j.ijpharm.2025.125224",
+  "url": "https://www.semanticscholar.org/paper/5269bfdd8150391d5c5943b78981ceb103a60982",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "International journal of pharmaceutics",
+  "citation_count": 7,
+  "abstract": "Oral squamous cell carcinoma (OSCC) is the most common subtype of head and neck malignancies, characterized by a five-year survival rate that remains persistently below 50%, indicative of limited progress in therapeutic interventions. There is an urgent imperative to develop innovative therapeutic strategies, warranting the investigation of advanced treatment modalities. Nanocarriers offer a promising avenue by significantly enhancing drug properties and pharmacokinetics. Extracellular vesicles (EVs) are naturally occurring nanocarriers produced by cells and have become a focal point in drug delivery research. Quercetin, one of the most abundant dietary flavonoids, exhibits potent anticancer effects. However, its pharmaceutical application is hampered by poor water solubility, instability under physiological conditions, and low bioavailability. To overcome these obstacles, we propose using bio-derived EVs as carriers to co-encapsulate quercetin with the photosensitizer chlorin e6. This strategy leverages the intrinsic targeting capabilities of EVs for precise drug delivery to tumors, along with light-activated drug release, enabling rapid quercetin release under near-infrared light, effectively inhibiting cellular proliferation and inducing apoptosis in tumor cells. In vivo studies demonstrated that drug-loaded EVs exhibited robust tumor-targeting efficacy, resulting in effective and selective tumor ablation upon photoactivation in mice bearing subcutaneous MOC2 tumors.",
+  "type": "academic",
+  "pdf_url": ""
+}

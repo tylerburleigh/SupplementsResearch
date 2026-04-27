@@ -1,0 +1,17 @@
+{
+  "id": "src-299",
+  "title": "Lifespan‐Extending Endogenous Metabolites",
+  "authors": [
+    "Jiang, Yizhou",
+    "Han, Jing‐Dong"
+  ],
+  "doi": "10.1111/acel.70371",
+  "url": "https://openalex.org/W7123347359",
+  "provider": "openalex",
+  "year": 2026,
+  "venue": "Aging Cell",
+  "citation_count": 0,
+  "abstract": "Aging is a multifactorial process influenced by genetic, environmental, and metabolic factors. Dysregulated nutrient sensing and metabolic dysfunction are hallmarks of aging, and reduction of insulin/IGF-1 signaling or metabolic interventions such as caloric restriction extend lifespan across species. Endogenous metabolites reflect and mediate these metabolic cues, linking nutrient status to epigenetic and transcriptional programs by serving as cofactors for chromatin-modifying enzymes or as allosteric modulators of transcription factors. Some metabolites have emerged as key regulators of longevity, integrating into networks to concurrently influence multiple aging-related pathways. In this review, we summarize evidence supporting the lifespan-extending effects of key endogenous metabolites across diverse model organisms and discuss their mechanisms of action. These insights underscore the potential of targeting metabolic networks as a multifaceted strategy to delay aging. Finally, we consider the translational promise of metabolite-based interventions to extend healthspan while minimizing adverse effects, and we note remaining challenges such as optimal dosing, context-specific effects, and demonstrating efficacy in humans.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.1111/acel.70371"
+}

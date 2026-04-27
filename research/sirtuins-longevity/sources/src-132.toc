@@ -1,0 +1,24 @@
+3	2	Article
+146	2	Results
+215	2	Ohoh
+269	2	Adpr
+273	2	Nadk
+279	2	Nampt
+280	2	Pnp
+282	2	Pnp
+286	2	Nnmt
+295	2	Nmnnaadnamn
+303	2	Nar
+305	2	Nadph
+309	2	Ohoh
+318	2	Adp
+331	2	Nadk
+544	2	Nad
+800	1	†
+1451	2	Discussion
+1543	2	Methods
+1711	2	9. In blood cells, group A analytes were separated on a
+1716	2	9. Murine liver and heart extracts
+1762	2	References
+1917	2	Acknowledgements
+1923	2	Author Contributions

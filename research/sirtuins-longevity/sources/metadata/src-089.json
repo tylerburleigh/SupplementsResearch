@@ -1,0 +1,25 @@
+{
+  "id": "src-089",
+  "title": "Apoptotic vesicles derived from bone marrow mesenchymal stem cells increase angiogenesis in a hind limb ischemia model via the NAMPT/SIRT1/FOXO1 axis.",
+  "authors": [
+    "Chen, Jinxing",
+    "Shen, Zekun",
+    "Chen, Bingyi",
+    "Liu, Shuang",
+    "Mei, Yifan",
+    "Li, Kai",
+    "Peng, Ziyang",
+    "Feng, Chaoshuai",
+    "Wang, Weiyi",
+    "Lu, Shaoying"
+  ],
+  "doi": "10.1186/s13287-025-04245-1",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40025506",
+  "provider": "pubmed",
+  "year": 2025,
+  "venue": "Stem cell research & therapy",
+  "citation_count": 0,
+  "abstract": "BACKGROUND: Chronic limb-threatening ischemia (CLTI) is the most severe form of peripheral arterial disease (PAD). Mesenchymal stem cell (MSC) transplantation holds promise as a treatment for CLTI; however, the harsh local environment poses challenges to its effectiveness. Apoptotic vesicles (ApoVs) are extracellular vesicles produced by cells undergoing apoptosis, and they can carry various biomolecules from their parent cells, including proteins, RNA, DNA, lipids, ions, and gas neurotransmitters. ApoVs play significant roles in anti-inflammatory responses, anti-tumor activities, and tissue regeneration through intercellular communication, and they have demonstrated potential as drug carriers. In this study, we investigated the potential of bone marrow stem cell (BMSC)-derived ApoVs for treating CLTI.\nMETHODS: In vivo, we explored the therapeutic effect of ApoVs on a hindlimb ischemia model through Laser Doppler, matrigel plug assay, and histological analysis. In vitro, we analyzed the effects of ApoVs on the proliferation, migration, and angiogenesis of HUVECs and explored the uptake process of ApoVs. In addition, Proteomic analysis, western blotting, quantitative real-time PCR, shRNA, and siRNA were used to analyze ApoVs-induced HUVECs activation and downstream signaling pathways.\nRESULTS: BMSCs transplantation showed improvement in a hind limb ischemia model, and this effect still exists after apoptosis of BMSCs. Subsequently, ApoVs of BMSCs were isolated and found to improve mouse hind limb ischemia in vivo. In vitro, ApoVs can be ingested by HUVECs through dynamin-, clathrin-, and caveolin-mediated endocytosis and promote its proliferation, migration, and angiogenesis. Mechanistically, ApoVs transferred NAMPT to HUVECs, therefore activating the NAMPT/SIRT1/FOXO1 axis, influencing the transcriptional activity of FOXO1, and promoting angiogenesis.\nCONCLUSIONS: Our results demonstrate that the transplanted BMSCs can ameliorate hindlimb ischemia by releasing ApoVs during apoptosis. The main mechanism of this effect is promoting the proliferation, migration, and angiogenesis of HUVECs through the NAMPT/SIRT1/FOXO1 axis. This study provides different insights into the therapeutic mechanisms through BMSCs and suggests a promising direction for ApoVs transplantation.\nCLINICAL TRIAL NUMBER: Not applicable.",
+  "type": "academic",
+  "pdf_url": ""
+}

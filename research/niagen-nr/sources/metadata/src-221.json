@@ -1,0 +1,17 @@
+{
+  "id": "src-221",
+  "title": "The diverse functionality of NQO1 and its roles in redox control",
+  "authors": [
+    "Ross, David",
+    "Siegel, David"
+  ],
+  "doi": "10.1016/j.redox.2021.101950",
+  "url": "https://openalex.org/W3137878085",
+  "provider": "openalex",
+  "year": 2021,
+  "venue": "Redox Biology",
+  "citation_count": 439,
+  "abstract": "In this review, we summarize the multiple functions of NQO1, its established roles in redox processes and potential roles in redox control that are currently emerging. NQO1 has attracted interest due to its roles in cell defense and marked inducibility during cellular stress. Exogenous substrates for NQO1 include many xenobiotic quinones. Since NQO1 is highly expressed in many solid tumors, including via upregulation of Nrf2, the design of compounds activated by NQO1 and NQO1-targeted drug delivery have been active areas of research. Endogenous substrates have also been proposed and of relevance to redox stress are ubiquinone and vitamin E quinone, components of the plasma membrane redox system. Established roles for NQO1 include a superoxide reductase activity, NAD<sup>+</sup> generation, interaction with proteins and their stabilization against proteasomal degradation, binding and regulation of mRNA translation and binding to microtubules including the mitotic spindles. We also summarize potential roles for NQO1 in regulation of glucose and insulin metabolism with relevance to diabetes and the metabolic syndrome, in Alzheimer's disease and in aging. The conformation and molecular interactions of NQO1 can be modulated by changes in the pyridine nucleotide redox balance suggesting that NQO1 may function as a redox-dependent molecular switch.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.1016/j.redox.2021.101950"
+}

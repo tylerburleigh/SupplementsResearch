@@ -1,0 +1,19 @@
+{
+  "id": "src-161",
+  "title": "Mendelian randomization: where are we now and where are we going?",
+  "authors": [
+    "Burgess, Stephen",
+    "Timpson, Nicholas J.",
+    "Ebrahim, S",
+    "Smith, George Davey"
+  ],
+  "doi": "10.1093/ije/dyv108",
+  "url": "https://openalex.org/W2143685991",
+  "provider": "openalex",
+  "year": 2015,
+  "venue": "International Journal of Epidemiology",
+  "citation_count": 356,
+  "abstract": "The methodology and application of Mendelian randomization to study causal mechanisms in health and disease has developed dramatically over the last decade. New methods, large-scale genome-wide analyses, molecular epigenetics, and other new -omics technologies are all providing exceptional opportunities for the exploitation of Mendelian randomization approaches to understand causes of complex traits and disease outcomes. This research has the potential to identify new approaches for the prevention and treatment of common conditions.",
+  "type": "academic",
+  "pdf_url": "https://academic.oup.com/ije/article-pdf/44/2/379/2270981/dyv108.pdf"
+}

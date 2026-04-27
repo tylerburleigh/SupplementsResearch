@@ -1,0 +1,25 @@
+{
+  "id": "src-313",
+  "title": "Quercetin protects cadmium-induced renal injuries in mice by inhibiting cell pyroptosis",
+  "authors": [
+    "Wang, Juyu",
+    "Yang, Jieyan",
+    "Liu, Kai-His",
+    "Qu, W.",
+    "Wang, Kuanbo",
+    "Zhao, Yu",
+    "Zhou, Yaxiong",
+    "Liu, Xiang",
+    "Zhang, Limei",
+    "Gu, Xiaolong"
+  ],
+  "doi": "10.3389/fvets.2023.1319857",
+  "url": "https://www.semanticscholar.org/paper/41d566483067ef46843411effff318709318f35a",
+  "provider": "semantic_scholar",
+  "year": 2023,
+  "venue": "Frontiers in Veterinary Science",
+  "citation_count": 1,
+  "abstract": "The toxic heavy metal cadmium (Cd) has a significant impact on kidney health. Documents manifested that non-toxic flavonoid quercetin can reduce Cd-induced kidney damage by reducing oxidative stress and inhibiting apoptosis, while the effect of quercetin on Cd-induced renal cell pyroptosis has not been elucidated. In this study, we established a model of Cd poisoning treated with quercetin both in vitro and in vivo. Results revealed that quercetin effectively reversed the decrease in Cd-induced cell viability. Furthermore, Cd increased blood urea nitrogen while reducing GPX and SOD levels, caused histopathological injuries in kidney with a significantly elevated cell pyroptosis characterized by enhanced levels of proteins representing assembly (NLRP3) and activation (pro IL-1β, cleaved IL-1β, and IL-18) of NLRP3 inflammasome as well as pyroptosis executor (pro caspase-1, cleaved caspase-1). However, quercetin administration alleviated kidney injuries above by decreasing cell pyroptosis. Overall, it suggests that kidney cells are susceptible to pyroptotic cell death due to Cd exposure; while quercetin exhibits protective effects through cell pyroptosis inhibition.",
+  "type": "academic",
+  "pdf_url": "https://www.frontiersin.org/articles/10.3389/fvets.2023.1319857/pdf?isPublishedV2=False"
+}

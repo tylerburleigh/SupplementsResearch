@@ -1,0 +1,21 @@
+{
+  "id": "src-068",
+  "title": "Efficient Conversion of Nicotinamide Mononucleotide Based on Elucidation of the Limitations in Multienzyme Cascade Reactions",
+  "authors": [
+    "Yu, Feng",
+    "Li, Hongwen",
+    "Li, Xianglong",
+    "Shi, Jianping",
+    "Feng, Yanbin",
+    "Xue, Song"
+  ],
+  "doi": "10.1002/biot.202400707",
+  "url": "https://www.semanticscholar.org/paper/aba1b0659212c6b6b1578c4a70b7f00471668951",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "Biotechnology Journal",
+  "citation_count": 3,
+  "abstract": "Nicotinamide mononucleotide (NMN), a precursor of nicotinamide adenine dinucleotide (NAD), provides a direct method for maintaining NAD levels, which may alleviate aging and metabolic disorders. However, the enzymatic conversion of NMN in cascade reactions is limited by intermediate product inhibition, and quantitative insights into these limitations remain scarce. Here, an efficient multienzyme cascade system was developed by quantifying intermediate inhibition, which synthesizes NMN from D‐ribose in three tandem reactions with an Adenosine Triphosphate (ATP) regeneration system and pyrophosphatase (PPase). A critical Adenosine Diphosphate (ADP) concentration of 0.5 mM was determined, which inhibits phosphoribosyl pyrophosphate synthetase (Prs) at 0.08 µM. The incorporation of an ATP regeneration system and PPase markedly increased the NMN yield to 81.3%. The intermediate phosphoribosyl pyrophosphate (PRPP) hydrolysis rate was measured at 3 µM/min. The highly active nicotinamide phosphoribosyltransferase (Nampt) could compete with PRPP hydrolysis, thereby increasing the yield of NMN. This research facilitates large‐scale, efficient NMN manufacturing.",
+  "type": "academic",
+  "pdf_url": ""
+}

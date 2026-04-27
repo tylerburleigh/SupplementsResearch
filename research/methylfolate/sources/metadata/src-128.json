@@ -1,0 +1,18 @@
+{
+  "id": "src-128",
+  "title": "Homocysteine and small vessel stroke: A mendelian randomization analysis.",
+  "authors": [
+    "Larsson, Susanna C",
+    "Traylor, Matthew",
+    "Markus, Hugh S"
+  ],
+  "doi": "10.1002/ana.25440",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/30785218",
+  "provider": "pubmed",
+  "year": 2019,
+  "venue": "Annals of neurology",
+  "citation_count": 0,
+  "abstract": "OBJECTIVE: Trials of B vitamin therapy to lower blood total homocysteine (tHcy) levels for prevention of stroke are inconclusive. Secondary analyses of trial data and epidemiological studies suggest that tHcy levels may be particularly associated with small vessel stroke (SVS). We assessed whether circulating tHcy and B vitamin levels are selectively associated with SVS, but not other stroke subtypes, using Mendelian randomization.\nMETHODS: We used summary statistics data for single-nucleotide polymorphisms (SNPs) associated with tHcy (n = 18), folate (n = 3), vitamin B6 (n = 1), and vitamin B12 (n = 14) levels, and the corresponding data for stroke from the MEGASTROKE consortium (n = 16,952 subtyped ischemic stroke cases and 404,630 noncases).\nRESULTS: Genetically predicted tHcy was associated with SVS, with an odds ratio of 1.34 (95% confidence interval [CI], 1.13-1.58; p = 6.7 × 10-4 ) per 1 standard deviation (SD) increase in genetically predicted tHcy levels, but was not associated with large artery or cardioembolic stroke. The association was mainly driven by SNPs at or near the MTHFR and MUT genes. The odds ratios of SVS per 1 SD increase in genetically predicted folate and vitamin B6 levels were 0.49 (95% CI, 0.34-0.71; p = 1.3 × 10-4 ) and 0.70 (95% CI, 0.52-0.94; p = 0.02), respectively. Genetically higher vitamin B12 levels were not associated with any stroke subtype.\nINTERPRETATION: These findings suggest that any effect of homocysteine-lowering treatment in preventing stroke will be confined to the SVS subtype. Whether genetic variants at or near the MTHFR and MUT genes influence SVS risk through pathways other than homocysteine levels and downstream effects require further investigation. Ann Neurol 2019;85:495-501.",
+  "type": "academic",
+  "pdf_url": ""
+}

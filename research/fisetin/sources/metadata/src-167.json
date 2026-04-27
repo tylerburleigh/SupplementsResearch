@@ -1,0 +1,29 @@
+{
+  "id": "src-167",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "",
+  "pdf_url": "https://repository.unar.ac.id/jspui/bitstream/123456789/8626/1/39.pdf",
+  "venue": "",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "",
+  "fetched_at": "2026-04-24T13:01:20.368070+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-167.md",
+  "quality_details": {
+    "content_length": 57333,
+    "alpha_ratio": 0.787,
+    "sentence_count": 568,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

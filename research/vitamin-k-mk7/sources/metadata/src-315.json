@@ -1,0 +1,22 @@
+{
+  "id": "src-315",
+  "title": "Comparison of Acalabrutinib, A Selective Bruton Tyrosine Kinase Inhibitor, with Ibrutinib in Chronic Lymphocytic Leukemia Cells",
+  "authors": [
+    "Patel, Viralkumar",
+    "Balakrishnan, Kumudha",
+    "Бибикова, Елена",
+    "Ayres, Mary",
+    "Keating, Michael J.",
+    "Wierda, William G.",
+    "Gandhi, Varsha"
+  ],
+  "doi": "10.1158/1078-0432.ccr-16-1446",
+  "url": "https://openalex.org/W2561449166",
+  "provider": "openalex",
+  "year": 2016,
+  "venue": "Clinical Cancer Research",
+  "citation_count": 145,
+  "abstract": "Abstract Purpose: Ibrutinib inhibits Bruton tyrosine kinase (BTK) by irreversibly binding to the Cys-481 residue in the enzyme. However, ibrutinib also inhibits several other enzymes that contain cysteine residues homologous to Cys-481 in BTK. Patients with relapsed/refractory or previously untreated chronic lymphocytic leukemia (CLL) demonstrate a high overall response rate to ibrutinib with prolonged survival. Acalabrutinib, a selective BTK inhibitor developed to minimize off-target activity, has shown promising overall response rates in patients with relapsed/refractory CLL. A head-to-head comparison of ibrutinib and acalabrutinib in CLL cell cultures and healthy T cells is needed to understand preclinical biologic and molecular effects. Experimental Design: Using samples from patients with CLL, we compared the effects of both BTK inhibitors on biologic activity, chemokine production, cell migration, BTK phosphorylation, and downstream signaling in primary CLL lymphocytes and on normal T-cell signaling to determine the effects on other kinases. Results: Both BTK inhibitors induced modest cell death accompanied by cleavage of PARP and caspase-3. Production of CCL3 and CCL4 chemokines and pseudoemperipolesis were inhibited by both drugs to a similar degree. These drugs also showed similar inhibitory effects on the phosphorylation of BTK and downstream S6 and ERK kinases. In contrast, off-target effects on SRC-family kinases were more pronounced with ibrutinib than acalabrutinib in healthy T lymphocytes. Conclusions: Both BTK inhibitors show similar biological and molecular profile in primary CLL cells but appear different on their effect on normal T cells. Clin Cancer Res; 23(14); 3734–43. ©2016 AACR.",
+  "type": "academic",
+  "pdf_url": "https://clincancerres.aacrjournals.org/content/clincanres/23/14/3734.full.pdf"
+}

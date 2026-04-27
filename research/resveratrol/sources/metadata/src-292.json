@@ -1,0 +1,25 @@
+{
+  "id": "src-292",
+  "title": "The role and modulation of autophagy in experimental models of myocardial ischemia-reperfusion injury.",
+  "authors": [
+    "Chen-Scarabelli, Carol",
+    "Agrawal, Prabhat",
+    "Saravolatz, Louis D.",
+    "Abuniat, Cadigia",
+    "Scarabelli, G.",
+    "Stephanou, Anastasis",
+    "Loomba, Leena",
+    "Narula, Jagat",
+    "Scarabelli, Tiziano M.",
+    "Knight, Richard"
+  ],
+  "doi": "10.11909/j.issn.1671-5411.2014.01.009",
+  "url": "https://openalex.org/W2097001275",
+  "provider": "openalex",
+  "year": 2014,
+  "venue": "PubMed",
+  "citation_count": 31,
+  "abstract": "A physiological sequence called autophagy qualitatively determines cellular viability by removing protein aggregates and damaged cytoplasmic constituents, and contributes significantly to the degree of myocardial ischemia-reperfusion (I/R) injury. This tightly orchestrated catabolic cellular 'housekeeping' process provides cells with a new source of energy to adapt to stressful conditions. This process was first described as a pro-survival mechanism, but increasing evidence suggests that it can also lead to the demise of the cell. Autophagy has been implicated in the pathogenesis of multiple cardiac conditions including myocardial I/R injury. However, a debate persists as to whether autophagy acts as a protective mechanism or contributes to the injurious effects of I/R injury in the heart. This controversy may stem from several factors including the variability in the experimental models and species, and the methodology used to assess autophagy. This review provides updated knowledge on the modulation and role of autophagy in isolated cardiac cells subjected to I/R, and the growing interest towards manipulating autophagy to increase the survival of cardiac myocytes under conditions of stress-most notably being I/R injury. Perturbation of this evolutionarily conserved intracellular cleansing autophagy mechanism, by targeted modulation through, among others, mammalian target of rapamycin (mTOR) inhibitors, adenosine monophosphate-activated protein kinase (AMPK) modulators, calcium lowering agents, resveratrol, longevinex, sirtuin activators, the proapoptotic gene Bnip3, IP3 and lysosome inhibitors, may confer resistance to heart cells against I/R induced cell death. Thus, therapeutic manipulation of autophagy in the challenged myocardium may benefit post-infarction cardiac healing and remodeling.",
+  "type": "academic",
+  "pdf_url": ""
+}

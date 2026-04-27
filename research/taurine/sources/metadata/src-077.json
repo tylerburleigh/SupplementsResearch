@@ -1,0 +1,27 @@
+{
+  "id": "src-077",
+  "title": "Methionine Restriction Extends Lifespan in Progeroid Mice and Alters Lipid and Bile Acid Metabolism",
+  "authors": [
+    "Bárcena, Clea",
+    "Quirós, Pedro M.",
+    "Durand, Sylvère",
+    "Mayoral, Pablo",
+    "Rodríguez, Francisco",
+    "Caravia, Xurde M.",
+    "Mariño, Guillermo",
+    "Garabaya, Cecilia",
+    "Fernández‐García, María Teresa",
+    "Kroemer, Guido",
+    "Freije, José M.P.",
+    "López-Otı́n, Carlos"
+  ],
+  "doi": "10.1016/j.celrep.2018.07.089",
+  "url": "https://openalex.org/W2888868369",
+  "provider": "openalex",
+  "year": 2018,
+  "venue": "Cell Reports",
+  "citation_count": 183,
+  "abstract": "Dietary intervention constitutes a feasible approach for modulating metabolism and improving the health span and lifespan. Methionine restriction (MR) delays the appearance of age-related diseases and increases longevity in normal mice. However, the effect of MR on premature aging remains to be elucidated. Here, we describe that MR extends lifespan in two different mouse models of Hutchinson-Gilford progeria syndrome (HGPS) by reversing the transcriptome alterations in inflammation and DNA-damage response genes present in this condition. Further, MR improves the lipid profile and changes bile acid levels and conjugation, both in wild-type and in progeroid mice. Notably, treatment with cholic acid improves the health span and lifespan in vivo. These results suggest the existence of a metabolic pathway involved in the longevity extension achieved by MR and support the possibility of dietary interventions for treating progeria.",
+  "type": "academic",
+  "pdf_url": "http://www.cell.com/article/S2211124718312221/pdf"
+}

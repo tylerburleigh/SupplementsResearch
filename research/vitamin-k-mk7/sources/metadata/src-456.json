@@ -1,0 +1,23 @@
+{
+  "id": "src-456",
+  "title": "Emerging connections between gut microbiome bioenergetics and chronic metabolic diseases",
+  "authors": [
+    "Daisley, Brendan A.",
+    "Koenig, David W.",
+    "Engelbrecht, Kathleen",
+    "Doney, Liz",
+    "Hards, Kiel",
+    "Al, Kait F.",
+    "Reid, Gregor",
+    "Burton, Jeremy P."
+  ],
+  "doi": "10.1016/j.celrep.2021.110087",
+  "url": "https://openalex.org/W4200303709",
+  "provider": "openalex",
+  "year": 2021,
+  "venue": "Cell Reports",
+  "citation_count": 79,
+  "abstract": "The conventional viewpoint of single-celled microbial metabolism fails to adequately depict energy flow at the systems level in host-adapted microbial communities. Emerging paradigms instead support that distinct microbiomes develop interconnected and interdependent electron transport chains that rely on cooperative production and sharing of bioenergetic machinery (i.e., directly involved in generating ATP) in the extracellular space. These communal resources represent an important subset of the microbial metabolome, designated here as the \"pantryome\" (i.e., pantry or external storage compartment), that critically supports microbiome function and can exert multifunctional effects on host physiology. We review these interactions as they relate to human health by detailing the genomic-based sharing potential of gut-derived bacterial and archaeal reference strains. Aromatic amino acids, metabolic cofactors (B vitamins), menaquinones (vitamin K2), hemes, and short-chain fatty acids (with specific emphasis on acetate as a central regulator of symbiosis) are discussed in depth regarding their role in microbiome-related metabolic diseases.",
+  "type": "academic",
+  "pdf_url": "http://www.cell.com/article/S2211124721015783/pdf"
+}

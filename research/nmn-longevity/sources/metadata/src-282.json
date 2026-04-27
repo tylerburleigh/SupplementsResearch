@@ -1,0 +1,28 @@
+{
+  "id": "src-282",
+  "title": "Abstract PO4-13-06: Effect of neoadjuvant dose-dense dose-intense chemotherapy timing infusion on complete histological response rate among patients with triple negative breast cancer (SIMCLOCK)",
+  "authors": [
+    "Bouchez, Clémentine",
+    "Catozzi, Simona",
+    "Cuvier, C.",
+    "Someil, L.",
+    "Bazelaire, C. de",
+    "Miquel, Catherine",
+    "Mhamdi, Nozha",
+    "Teixeira, Luis",
+    "Espié, M.",
+    "Moati, Emilie",
+    "Droin, Leonor",
+    "Ballesta, Annabelle",
+    "Giacchetti, S."
+  ],
+  "doi": "10.1158/1538-7445.sabcs23-po4-13-06",
+  "url": "https://www.semanticscholar.org/paper/1f88b973d9021bf4864dff85f787305f5567d062",
+  "provider": "semantic_scholar",
+  "year": 2024,
+  "venue": "Cancer Research",
+  "citation_count": 1,
+  "abstract": "Background:\nTriple-negative breast cancers (TNBC) exhibit major responses to dose-dense, dose-intense (DD-DI) neoadjuvant chemotherapy (NAC) (1). Although chronomodulated chemotherapy has shown efficacy and reducing toxicity in other cancers, there are no data in breast cancers (2). We report here a series of patients with TNBC treated with DD-DI NAC and analyzed the association between chemotherapy time infusion and pathological complete response rate (pCR) and residual tumor burden (RCB).\nPatients and Methods:\nPatients with non-metastatic TNBC treated at breast cancer disease center, St Louis hospital (Paris, France), with neoadjuvant DD-DI cyclophosphamide (1200 mg/m2 d1) – epirubicin (75 mg/m2 d1) q2w (SIM regimen) followed by 12 injections of paclitaxel (80 mg/m2) qw were included. Starting time of each chemotherapy infusion were systematically recorded. Primary endpoint was pCR defined as no residual invasive tumor in breast and in lymph nodes. Patients were dichotomized into “morning” and “afternoon” infusion groups, independently for “SIM” and “paclitaxel” regimens. Two timing cut-offs were defined according to: 1) median time of all infusions 2) cut-off maximizing morning/afternoon differences of RCB. Statistical differences between the two patient groups were assessed for metabolic response at 2 courses at Pet scan (breast delta SUVmax), RCB class (0-1 vs 2-3), pCR, dose reduction rate and 24-months event-free survival (24-months EFS).\nResults:\nBetween January 2018 and January 2022, 93 patients were included. Median age was 51 (28-74). Majority of SIM administrations occurred between 12:00 and 15:00 and Paclitaxel administrations between 11:20 and 14:30. Median follow-up was 32.4 months. Main characteristics between “morning group” or “afternoon” groups in the SIM or paclitaxel were similar. pCR was obtained in 48.9% of the whole population. Regardless of cut-offs defined, no difference in pCR rate was observed. Similarly, no differences were observed between morning and afternoon groups in terms of either metabolic response, dose reduction rate or 24-months EFS (table 1).\nConclusion:\nTime of DD-DI NAC infusion is not associated with differences in pCR rate nor in RCB, toxicity and EFS in patients with early TNBC. As immunotherapy combined with NAC is a new standard in TNBC, the impact of immunotherapy infusion time combined with NAC is under evaluation.\nReferences:\n1. Giacchetti S et al. Long-term survival of advanced triple-negative breast cancers with a dose-intense cyclophosphamide/anthracycline neoadjuvant regimen. Br J Cancer. 2014;110(6):1413-9.\n2. Printezi MI et al. Toxicity and efficacy of chronomodulated chemotherapy: a systematic review. The Lancet Oncology. mars 2022;23(3)\nTable 1: Differences between “morning” and “afternoon” groups in SIM and paclitaxel regimen, with two timing infusion cut-offs. “SIM morning” Group “SIM afternoon” Group p-value “SIM morning” Group “SIM afternoon” Group p-value “Paclitaxel morning” Group “Paclitaxel afternoon” Group p-value “Paclitaxel morning” Group “Paclitaxel afternoon” Group p-value Median time infusion RCB differences Median time infusion RCB differences Chosen cut-off time 13:38 12:09 12:55 13:33 Number of patients n=48 n=45 n=22 n=71 n=47 n=46 n=56 n=37 pCR rate (%) 48.9 48.9 p=1.000 45.5 50.0 p=0.899 46.8 51.1 p=0.838 50.0 47.2 p=0.963 RCB class 0-1 vs 2-3 63.8 vs 36.2 62.2 vs 37.8 p=0.822 59.1 vs 40.9 64.3 vs 35.8 p=0.870 61.7 vs 38.3 64.4 vs 35.5 p=0.748 66.1 vs 33.9 58.3 vs 41.7 p=0.531 Metabolic response (%) -54.9 -54.3 p = 0.919 -54.7 -54.6 p = 0.981 -53.9 -55.3 p = 0.809 -52.8 -57.5 p= 0.415 Dose reduction rate (%) 20.8 37.8 p=0.116 27.3 29.6 p=1.000 25.5 32.6 p=0.601 25.0 35.1 p=0.412 24-months EFS (%) 92.9 87.7 p=0.76 97.9 82.6 p=0.34 84.5 92.1 p=0.15 94.2 84.4 p=0.53\nCitation Format: Clementine Bouchez, Simona Catozzi, Caroline Cuvier, Laetitia Someil, Cedric De Bazelaire, Catherine Miquel, Nozha Mhamdi, Luis Teixeira, Marc Espie, Emilie Moati, Leonor Droin, Annabelle Ballesta, Sylvie Giacchetti. Effect of neoadjuvant dose-dense dose-intense chemotherapy timing infusion on complete histological response rate among patients with triple negative breast cancer (SIMCLOCK) [abstract]. In: Proceedings of the 2023 San Antonio Breast Cancer Symposium; 2023 Dec 5-9; San Antonio, TX. Philadelphia (PA): AACR; Cancer Res 2024;84(9 Suppl):Abstract nr PO4-13-06.",
+  "type": "academic",
+  "pdf_url": ""
+}

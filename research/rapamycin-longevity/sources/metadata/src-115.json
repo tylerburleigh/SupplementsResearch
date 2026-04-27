@@ -1,0 +1,30 @@
+{
+  "id": "src-115",
+  "title": "Rapamycin Prevents Surgery-Induced Immune Dysfunction in Patients with Bladder Cancer.",
+  "authors": [
+    "Svatek, Robert S",
+    "Ji, Niannian",
+    "de Leon, Essel",
+    "Mukherjee, Neelam Z",
+    "Kabra, Aashish",
+    "Hurez, Vincent",
+    "Nicolas, Marlo",
+    "Michalek, Joel E",
+    "Javors, Martin",
+    "Wheeler, Karen",
+    "Sharp, Z Dave",
+    "Livi, Carolina B",
+    "Shu, Zhen-Ju",
+    "Henkes, David",
+    "Curiel, Tyler J"
+  ],
+  "doi": "10.1158/2326-6066.cir-18-0336",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/30563829",
+  "provider": "pubmed",
+  "year": 2019,
+  "venue": "Cancer immunology research",
+  "citation_count": 0,
+  "abstract": "The mechanistic target of rapamycin (mTOR) integrates environmental inputs to regulate cellular growth and metabolism in tumors. However, mTOR also regulates T-cell differentiation and activation, rendering applications of mTOR inhibitors toward treating cancer complex. Preclinical data support distinct biphasic effects of rapamycin, with higher doses directly suppressing tumor cell growth and lower doses enhancing T-cell immunity. To address the translational relevance of these findings, the effects of the mTOR complex 1 (mTORC1) inhibitor, rapamycin, on tumor and T cells were monitored in patients undergoing cystectomy for bladder cancer. MB49 syngeneic murine bladder cancer models were tested to gain mechanistic insights. Surgery-induced T-cell exhaustion in humans and mice and was associated with increased pulmonary metastasis and decreased PD-L1 antibody efficacy in mouse bladder cancer. At 3 mg orally daily, rapamycin concentrations were 2-fold higher in bladder tissues than in blood. Rapamycin significantly inhibited tumor mTORC1, shown by decreased rpS6 phosphorylation in treated versus control patients (P = 0.008). Rapamycin reduced surgery-induced T-cell exhaustion in patients, evidenced by a significant decrease in the prevalence of dysfunctional programmed death-1 (PD-1)-expressing T cells. Grade 3 to 4 adverse event rates were similar between groups, but rapamycin-treated patients had a higher rate of wound complications versus controls. In conclusion, surgery promoted bladder cancer metastasis and decreased the efficacy of postoperative bladder cancer immunotherapy. Low-dose (3 mg daily) oral rapamycin has favorable pharmacodynamic and immune modulating activity in surgical patients and has the potential to decrease surgery-induced immune dysfunction.",
+  "type": "academic",
+  "pdf_url": ""
+}

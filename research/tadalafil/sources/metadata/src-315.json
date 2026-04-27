@@ -1,0 +1,18 @@
+{
+  "id": "src-315",
+  "title": "Vascular-targeted therapies for Duchenne muscular dystrophy",
+  "authors": [
+    "Ennen, James P.",
+    "Verma, Mayank",
+    "Asakura, Atsushi"
+  ],
+  "doi": "10.1186/2044-5040-3-9",
+  "url": "https://openalex.org/W2106301643",
+  "provider": "openalex",
+  "year": 2013,
+  "venue": "Skeletal Muscle",
+  "citation_count": 56,
+  "abstract": "Duchenne muscular dystrophy (DMD) is the most common muscular dystrophy and an X-linked recessive, progressive muscle wasting disease caused by the absence of a functional dystrophin protein. Dystrophin has a structural role as a cytoskeletal stabilization protein and protects cells against contraction-induced damage. Dystrophin also serves a signaling role through mechanotransduction of forces and localization of neuronal nitric oxide synthase (nNOS), which produces nitric oxide (NO) to facilitate vasorelaxation. In DMD, the signaling defects produce inadequate tissue perfusion caused by functional ischemia due to a diminished ability to respond to shear stress induced endothelium-dependent dilation. Additionally, the structural defects seen in DMD render myocytes with an increased susceptibility to mechanical stress. The combination of both defects is necessary to generate myocyte damage, which induces successive rounds of myofiber degeneration and regeneration, loss of calcium homeostasis, chronic inflammatory response, fibrosis, and myonecrosis. In individuals with DMD, these processes inevitably cause loss of ambulation shortly after the first decade and an abbreviated life with death in the third or fourth decade due to cardio-respiratory anomalies. There is no known cure for DMD, and although the culpable gene has been identified for more than twenty years, research on treatments has produced few clinically relevant results. Several recent studies on novel DMD therapeutics are vascular targeted and focused on attenuating the inherent functional ischemia. One approach improves vasorelaxation capacity through pharmaceutical inhibition of either phosphodiesterase 5 (PDE5) or angiotensin-converting enzyme (ACE). Another approach increases the density of the underlying vascular network by inducing angiogenesis, and this has been accomplished through either direct delivery of vascular endothelial growth factor (VEGF) or by downregulating the VEGF decoy-receptor type 1 (VEGFR-1 or Flt-1). The pro-angiogenic approaches also seem to be pro-myogenic and could resolve the age-related decline in satellite cell (SC) quantity seen in mdx models through expansion of the SC juxtavascular niche. Here we review these four vascular targeted treatment strategies for DMD and discuss mechanisms, proof of concept, and the potential for clinical relevance associated with each therapy.",
+  "type": "academic",
+  "pdf_url": "https://skeletalmusclejournal.biomedcentral.com/counter/pdf/10.1186/2044-5040-3-9"
+}

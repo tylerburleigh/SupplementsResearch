@@ -1,0 +1,22 @@
+{
+  "id": "src-173",
+  "title": "Prebiotic Potential of Culinary Spices Used to Support Digestion and Bioabsorption",
+  "authors": [
+    "Peterson, Christine Tara",
+    "Rodionov, Dmitry A.",
+    "Iablokov, Stanislav N.",
+    "Pung, Meredith A.",
+    "Chopra, Deepak",
+    "Mills, Paul J.",
+    "Peterson, Scott N."
+  ],
+  "doi": "10.1155/2019/8973704",
+  "url": "https://openalex.org/W2947233331",
+  "provider": "openalex",
+  "year": 2019,
+  "venue": "Evidence-based Complementary and Alternative Medicine",
+  "citation_count": 35,
+  "abstract": "Although the impact of medicinal and culinary herbs on health and disease has been studied to varying extents, scarcely little is known about the impact of these herbs on gut microbiota and how such effects might contribute to their health benefits. We applied <i>in vitro</i> anaerobic cultivation of human fecal microbiota followed by 16S rRNA sequencing to study the modulatory effects of 4 culinary spices: <i>Curcuma longa</i> (turmeric), <i>Zingiber officinale</i> (ginger), <i>Piper longum</i> (pipli or long pepper), and <i>Piper nigrum</i> (black pepper). All herbs analyzed possessed substantial power to modulate fecal bacterial communities to include potential prebiotic and beneficial repressive effects. We additionally analyzed the sugar composition of each herb by mass spectrometry and conducted genome reconstruction of 11 relevant sugar utilization pathways, glycosyl hydrolase gene representation, and both butyrate and propionate biosynthesis potential to facilitate our ability to functionally interpret microbiota profiles. Results indicated that sugar composition is not predictive of the taxa responding to each herb; however, glycosyl hydrolase gene representation is strongly modulated by each herb, suggesting that polysaccharide substrates present in herbs provide selective potential on gut communities. Additionally, we conclude that catabolism of herbs by gut communities primarily involves sugar fermentation at the expense of amino acid metabolism. Among the herbs analyzed, only turmeric induced changes in community composition that are predicted to increase butyrate-producing taxa. Our data suggests that substrates present in culinary spices may drive beneficial alterations in gut communities thereby altering their collective metabolism to contribute to the salubrious effects on digestive efficiency and health. These results support the potential value of further investigations in human subjects to delineate whether the metabolism of these herbs contributes to documented and yet to be discovered health benefits.",
+  "type": "academic",
+  "pdf_url": "https://downloads.hindawi.com/journals/ecam/2019/8973704.pdf"
+}

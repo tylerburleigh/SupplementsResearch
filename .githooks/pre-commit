@@ -1,0 +1,12 @@
+#!/bin/sh
+# Tracked pre-commit hook. Enable with:
+#   git config core.hooksPath .githooks
+
+ROOT="$(git rev-parse --show-toplevel 2>/dev/null)" || exit 0
+cd "$ROOT" || exit 1
+
+if command -v python3 >/dev/null 2>&1; then
+  exec python3 wiki/scripts/lint.py --quiet
+fi
+
+exec python wiki/scripts/lint.py --quiet

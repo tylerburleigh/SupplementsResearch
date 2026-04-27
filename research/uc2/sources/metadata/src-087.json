@@ -1,0 +1,26 @@
+{
+  "id": "src-087",
+  "title": "Molecular Classification of Knee Osteoarthritis",
+  "authors": [
+    "Lv, Zhongyang",
+    "Yang, Yannick Xiaofan",
+    "Li, Jiawei",
+    "Fei, Yuxiang",
+    "Guo, Hu",
+    "Sun, Ziying",
+    "Lü, Jun",
+    "Xu, Xingquan",
+    "Jiang, Qing",
+    "Ikegawa, Shiro",
+    "Shi, Dongquan"
+  ],
+  "doi": "10.3389/fcell.2021.725568",
+  "url": "https://openalex.org/W3198272621",
+  "provider": "openalex",
+  "year": 2021,
+  "venue": "Frontiers in Cell and Developmental Biology",
+  "citation_count": 83,
+  "abstract": "Knee osteoarthritis (KOA) is the most common form of joint degeneration with increasing prevalence and incidence in recent decades. KOA is a molecular disorder characterized by the interplay of numerous molecules, a considerable number of which can be detected in body fluids, including synovial fluid, urine, and blood. However, the current diagnosis and treatment of KOA mainly rely on clinical and imaging manifestations, neglecting its molecular pathophysiology. The mismatch between participants' molecular characteristics and drug therapeutic mechanisms might explain the failure of some disease-modifying drugs in clinical trials. Hence, according to the temporal alteration of representative molecules, we propose a novel molecular classification of KOA divided into pre-KOA, early KOA, progressive KOA, and end-stage KOA. Then, progressive KOA is furtherly divided into four subtypes as cartilage degradation-driven, bone remodeling-driven, inflammation-driven, and pain-driven subtype, based on the major pathophysiology in patient clusters. Multiple clinical findings of representatively investigated molecules in recent years will be reviewed and categorized. This molecular classification allows for the prediction of high-risk KOA individuals, the diagnosis of early KOA patients, the assessment of therapeutic efficacy, and in particular, the selection of homogenous patients who may benefit most from the appropriate therapeutic agents.",
+  "type": "academic",
+  "pdf_url": "https://www.frontiersin.org/articles/10.3389/fcell.2021.725568/pdf"
+}

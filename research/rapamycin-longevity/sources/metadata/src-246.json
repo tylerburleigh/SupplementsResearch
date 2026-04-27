@@ -1,0 +1,18 @@
+{
+  "id": "src-246",
+  "title": "Atrial myocyte senescence as a driver of atrial fibrillation: mechanisms and therapeutic implications",
+  "authors": [
+    "Wei, Zhaoyang",
+    "Li, Zhixiong",
+    "Quan, N."
+  ],
+  "doi": "10.3389/fcell.2025.1702207",
+  "url": "https://www.semanticscholar.org/paper/1360ab130e26342b1268ae8cdd5f3f957c68a961",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "Frontiers in Cell and Developmental Biology",
+  "citation_count": 0,
+  "abstract": "Atrial fibrillation (AF) is the most common type of arrhythmia encountered in the clinical setting, and its occurrence is influenced by various factors, particularly aging. Senescence of atrial myocytes plays an important role in the development of AF, although the precise mechanisms underlying this association remain unclear. This review explores the pivotal role of atrial myocyte senescence in AF pathogenesis, moving beyond chronological age. It provides evidence that aging creates a pro-arrhythmic substrate via three interconnected mechanisms: 1) inflammatory activation (mitochondrial ROS, NLRP3, and SASP), 2) dysregulated calcium handling (RyR2 and SERCA2), and 3) cell cycle disruption (p16, p21, and p53). These pathways, compounded by epigenetic changes and SIRT1/mTOR signaling dysregulation, drive the electrical and structural remodeling that triggers and sustains AF. The review highlights promising therapeutic targets such as SIRT1 activators and NLRP3 inhibitors, proposing an integrated “senescence–AF axis” model, while identifying key research gaps in cell-type specificity and clinical translation. This comprehensive review outlines current progress in research in this area and future research directions and provides valuable references for forthcoming studies.",
+  "type": "academic",
+  "pdf_url": ""
+}

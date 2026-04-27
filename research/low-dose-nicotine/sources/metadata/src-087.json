@@ -1,0 +1,20 @@
+{
+  "id": "src-087",
+  "title": "Nicotinic modulation of salience network connectivity and centrality in schizophrenia.",
+  "authors": [
+    "Smucny, Jason",
+    "Wylie, Korey P",
+    "Kronberg, Eugene",
+    "Legget, Kristina T",
+    "Tregellas, Jason R"
+  ],
+  "doi": "10.1016/j.jpsychires.2017.01.018",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/28193583",
+  "provider": "pubmed",
+  "year": 2017,
+  "venue": "Journal of psychiatric research",
+  "citation_count": 0,
+  "abstract": "Although functional abnormalities of the salience network are associated with schizophrenia, the acute effects of nicotine on its function and network dynamics during the resting state in patients are poorly understood. In this study, the effects of a 7 mg nicotine patch (vs. placebo) on salience network connectivity were examined in 17 patients with schizophrenia and 19 healthy subjects. We hypothesized abnormal connectivity between the salience network and other major networks (e.g. executive network) in patients under placebo administration and amelioration of this difference after nicotine. We also examined effects of nicotine on betweenness centrality (a measure of the influence of a region on information transfer throughout the brain) and local efficiency (a measure of local information transfer) of the network. A hybrid independent component analysis (ICA)/seed-based connectivity approach was implemented in which the salience network was extracted by ICA and cortical network peaks (anterior cingulate cortex (ACC), left and right insula) were used as seeds for whole-brain seed-to-voxel connectivity analysis. Significant drug X diagnosis interactions were observed between the ACC seed and superior parietal lobule and ventrolateral prefrontal cortex. A significant interaction effect was also observed between the left insula seed and middle cingulate cortex. During placebo conditions, abnormal connectivity predicted negative symptom severity and lower global functioning in patients. A significant drug X diagnosis interaction was also observed for betweenness centrality of the ACC. These results suggest that nicotine may target abnormalities in functional connectivity between salience and executive network areas in schizophrenia as well as affect the ability of the salience network to act as an integrator of global signaling in the disorder.",
+  "type": "academic",
+  "pdf_url": ""
+}

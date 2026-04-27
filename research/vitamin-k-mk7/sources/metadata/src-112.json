@@ -1,0 +1,20 @@
+{
+  "id": "src-112",
+  "title": "Vitamin K Supplementation for the Prevention of Cardiovascular Disease: Where Is the Evidence? A Systematic Review of Controlled Trials",
+  "authors": [
+    "Vlasschaert, Caitlyn",
+    "Goss, Chloe J.",
+    "Pilkey, Nathan G.",
+    "McKeown, Sandra",
+    "Holden, Rachel M."
+  ],
+  "doi": "10.3390/nu12102909",
+  "url": "https://openalex.org/W3088377738",
+  "provider": "openalex",
+  "year": 2020,
+  "venue": "Nutrients",
+  "citation_count": 49,
+  "abstract": "Matrix gla protein (MGP) is an important vitamin K-dependent inhibitor of vascular calcification. High levels of uncarboxylated, dephosphorylated MGP have been associated with vascular calcification and are responsive to vitamin K treatment. In this systematic review, we summarize the available evidence examining whether vitamin K supplementation improves surrogate measures of cardiovascular disease including artery and valve calcification, atherosclerosis and artery stiffening. Data from controlled trials of adults were obtained by searching Ovid MEDLINE, Embase, the Cochrane Central Register of Controlled Trials and the Web of Science Core Collection. We identified nine randomized controlled trials for review, including trials of vitamin K<sub>1</sub> or vitamin K<sub>2</sub> supplementation, that assessed a surrogate measure of cardiovascular disease including arterial calcification, atherosclerosis or arterial stiffening. For each trial, the risk of bias was assessed applying Cochrane Collaboration methodology. The findings indicate that vitamin K does not consistently prevent progression of calcification, atherosclerosis or arterial stiffness. There may be some benefit in people with calcification at study entry. Studies were heterogenous, with relatively short follow-up and outcome measures were varied. While vitamin K supplementation clearly improves the carboxylation of dephosphoylated MGP, its role in mitigating vascular calcification is uncertain, based on current evidence.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2072-6643/12/10/2909/pdf?version=1600996653"
+}

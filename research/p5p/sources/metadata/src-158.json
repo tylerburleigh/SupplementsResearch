@@ -1,0 +1,24 @@
+{
+  "id": "src-158",
+  "title": "Targeted metabolomics and mathematical modeling demonstrate that vitamin B-6 restriction alters one-carbon metabolism in cultured HepG2 cells",
+  "authors": [
+    "Silva, Vanessa R. da",
+    "Ralat, Maria",
+    "Quinlivan, Eoin P.",
+    "DeRatt, Barbara",
+    "Garrett, Timothy J.",
+    "Chi, Yueh‐Yun",
+    "Nijhout, H. Frederik",
+    "Reed, Michael C.",
+    "Gregory, Jesse F."
+  ],
+  "doi": "10.1152/ajpendo.00697.2013",
+  "url": "https://openalex.org/W2164717935",
+  "provider": "openalex",
+  "year": 2014,
+  "venue": "American Journal of Physiology-Endocrinology and Metabolism",
+  "citation_count": 15,
+  "abstract": "Low vitamin B-6 nutritional status is associated with increased risk for cardiovascular disease and certain cancers. Pyridoxal 5'-phosphate (PLP) serves as a coenzyme in many cellular processes, including several reactions in one-carbon (1C) metabolism and the transsulfuration pathway of homocysteine catabolism. To assess the effect of vitamin B-6 deficiency on these processes and associated pathways, we conducted quantitative analysis of 1C metabolites including tetrahydrofolate species in HepG2 cells cultured in various concentrations of pyridoxal. These results were compared with predictions of a mathematical model of 1C metabolism simulating effects of vitamin B-6 deficiency. In cells cultured in vitamin B-6-deficient medium (25 or 35 nmol/l pyridoxal), we observed >200% higher concentrations of betaine (P < 0.05) and creatinine (P < 0.05) and >60% lower concentrations of creatine (P < 0.05) and 5,10-methenyltetrahydrofolate (P < 0.05) compared with cells cultured in medium containing intermediate (65 nmol/l) or the supraphysiological 2,015 nmol/l pyridoxal. Cystathionine, cysteine, glutathione, and cysteinylglycine, which are components of the transsulfuration pathway and subsequent reactions, exhibited greater concentrations at the two lower vitamin B-6 concentrations. Partial least squares discriminant analysis showed differences in overall profiles between cells cultured in 25 and 35 nmol/l pyridoxal vs. those in 65 and 2,015 nmol/l pyridoxal. Mathematical model predictions aligned with analytically derived results. These data reveal pronounced effects of vitamin B-6 deficiency on 1C-related metabolites, including previously unexpected secondary effects on creatine. These results complement metabolomic studies in humans demonstrating extended metabolic effects of vitamin B-6 insufficiency.",
+  "type": "academic",
+  "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/4080146"
+}

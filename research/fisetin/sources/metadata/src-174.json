@@ -1,0 +1,23 @@
+{
+  "id": "src-174",
+  "title": "Inflammatory characteristics induced by cellular senescence in the junctional epithelium of aged mice.",
+  "authors": [
+    "Sunaga, Masaru",
+    "Yukimori, Akane",
+    "Tanaka, J.",
+    "Aizawa, R.",
+    "Okada, Koki",
+    "Saito, Daisuke",
+    "Mishima, Kenji",
+    "Yamamoto, Matsuo"
+  ],
+  "doi": "10.1016/j.job.2026.100748",
+  "url": "https://www.semanticscholar.org/paper/6ac4863524b3cfdf76b5899fd724d42ea70bb1d5",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "Journal of Oral Biosciences",
+  "citation_count": 0,
+  "abstract": "OBJECTIVES\nThe junctional epithelium (JE) is a specialized barrier that maintains periodontal tissue homeostasis. Although age-related changes have been reported in other epithelial tissues, the mechanisms underlying age-associated dysfunction in the JE remain largely unknown. In this study, the aims were to determine whether there is cellular senescence in the JE during natural aging, and to elucidate the underlying molecular mechanisms.\n\nMETHODS\nJE was harvested from the maxillae of young (eight-week-old) and aged (72-week-old) male mice, and tissue sections were prepared. To evaluate age-related changes, histological analyses, including hematoxylin-eosin (HE) staining, immunofluorescence staining, and TUNEL assays, as well as bulk RNA sequencing (RNA-seq) for gene expression profiling, were performed. Differentially expressed genes (DEGs) were identified from the RNA-seq data, followed by Gene Ontology (GO) and Kyoto Encyclopedia of Genes and Genomes (KEGG) pathway analyses.\n\nRESULTS\nHistological examination revealed no overt morphological differences in the JE between young and aged mice. However, the JE from aged mice had significantly fewer Ki67-positive cells and more TUNEL-positive apoptotic cells. RNA-seq identified DEGs in the JE of aged mice. GO and KEGG analyses indicated significant enrichment of inflammation- and aging-related pathways. RT-qPCR confirmed the increased expression of p16, Lcn2, and Defb3 in the JE of aged mice. Immunostaining also revealed increased numbers of γ-H2AX, p-STAT3, 8-OHdG, and 4-HNE positive cells in the JE of aged mice.\n\nCONCLUSIONS\nThe JE of aged mice had molecular hallmarks of cellular senescence. These findings highlight the role of senescence in the aging of periodontal barrier tissue.",
+  "type": "academic",
+  "pdf_url": ""
+}

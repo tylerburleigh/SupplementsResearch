@@ -1,0 +1,28 @@
+{
+  "id": "src-365",
+  "title": "Yangxue Qingnao Wan ameliorates cognitive impairment in scopolamine-induced AD mice via modulating neuropeptide signaling pathways and suppressing neuroinflammation.",
+  "authors": [
+    "Zhang, Xiaolian",
+    "Yang, Jinna",
+    "Xiao, Meng",
+    "Zhang, Jieqi",
+    "Cai, C.",
+    "Wei, Wentao",
+    "Fang, Shuhuan",
+    "Ren, Xiaxia",
+    "Guo, Kaimin",
+    "Yang, Pengcheng",
+    "Wang, Wenjia",
+    "Hu, Yunhui",
+    "Fang, Jiansong"
+  ],
+  "doi": "10.1016/j.phymed.2025.157602",
+  "url": "https://www.semanticscholar.org/paper/279691bb394bca697a8754d17403cf449dcb6c1c",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "Phytomedicine",
+  "citation_count": 1,
+  "abstract": "BACKGROUND\nAlzheimer's disease (AD), a fatal neurodegenerative disorder with increasing incidence worldwide, remains a significant therapeutic challenge. Yangxue Qingnao Wan (YXQNW), a traditional Chinese medicine, has shown promise in AD treatment. However, its intricate mechanism of action necessitates further investigation. Clarifying YXQNW's active components and molecular targets could advance novel therapeutic strategies for AD.\n\nPURPOSE\nThis research aimed to identify anti-AD bioactive compounds in YXQNW and investigate their mechanisms using transcriptomic profiling and network proximity analysis.\n\nMETHODS\nThe neuroprotective effects of YXQNW were evaluated in scopolamine (SCOP)-induced AD mice through behavioral tests, histopathological assessments, and biochemical analyses (acetylcholinesterase activity, oxidative stress markers and pro-inflammatory cytokines). Transcriptomic analysis was employed to explore YXQNW's regulatory targets and pathways. Key targets were validated by RT-qPCR, immunofluorescence (IF) and Western blot. Network proximity was used to predict anti-AD components, followed by in vitro mechanism validation in SCOP-induced HT22 cells using Gpr139 agonist and antagonist.\n\nRESULTS\nYXQNW ameliorated spatial memory deficits, cholinergic dysfunction, oxidative stress, and neuroinflammation in vivo. Transcriptomics analysis uncovered significantly modulation of neuropeptide signaling pathways, including upregulation of Gpr139 and downregulation of Gal/Galr1, mitigating cognitive impairment. Network proximity identified 8 anti-AD components, with Palmatine, Ligustilide, and Obtusifolin demonstrating efficacy in reducing oxidative stress, inflammation, and neuronal damage in vitro, and could also regulate the expression of neuropeptides. Moreover, Palmatine inhibits neuroinflammation via regulating Gpr139 protein expression.\n\nCONCLUSIONS\nYXQNW alleviates AD-like pathology by restoring cholinergic homeostasis, suppressing oxidative stress and neuroinflammation, and regulating neuropeptide signaling. And its active ingredient (Palmatine) can inhibit inflammatory response by regulating the expression of Gpr139 protein. This study supports YXQNW's clinical application and provides novel insights for AD drug discovery.",
+  "type": "academic",
+  "pdf_url": ""
+}

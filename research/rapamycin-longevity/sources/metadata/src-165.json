@@ -1,0 +1,17 @@
+{
+  "id": "src-165",
+  "title": "The Multifaceted Role of Nutrient Sensing and mTORC1 Signaling in Physiology and Aging",
+  "authors": [
+    "Fernandes, S.",
+    "Demetriades, C."
+  ],
+  "doi": "10.3389/fragi.2021.707372",
+  "url": "https://www.semanticscholar.org/paper/f957550ea36131252893add0f31906585db5a1c3",
+  "provider": "semantic_scholar",
+  "year": 2021,
+  "venue": "Frontiers in Aging",
+  "citation_count": 86,
+  "abstract": "The mechanistic Target of Rapamycin (mTOR) is a growth-related kinase that, in the context of the mTOR complex 1 (mTORC1), touches upon most fundamental cellular processes. Consequently, its activity is a critical determinant for cellular and organismal physiology, while its dysregulation is commonly linked to human aging and age-related disease. Presumably the most important stimulus that regulates mTORC1 activity is nutrient sufficiency, whereby amino acids play a predominant role. In fact, mTORC1 functions as a molecular sensor for amino acids, linking the cellular demand to the nutritional supply. Notably, dietary restriction (DR), a nutritional regimen that has been shown to extend lifespan and improve healthspan in a broad spectrum of organisms, works via limiting nutrient uptake and changes in mTORC1 activity. Furthermore, pharmacological inhibition of mTORC1, using rapamycin or its analogs (rapalogs), can mimic the pro-longevity effects of DR. Conversely, nutritional amino acid overload has been tightly linked to aging and diseases, such as cancer, type 2 diabetes and obesity. Similar effects can also be recapitulated by mutations in upstream mTORC1 regulators, thus establishing a tight connection between mTORC1 signaling and aging. Although the role of growth factor signaling upstream of mTORC1 in aging has been investigated extensively, the involvement of signaling components participating in the nutrient sensing branch is less well understood. In this review, we provide a comprehensive overview of the molecular and cellular mechanisms that signal nutrient availability to mTORC1, and summarize the role that nutrients, nutrient sensors, and other components of the nutrient sensing machinery play in cellular and organismal aging.",
+  "type": "academic",
+  "pdf_url": "https://www.frontiersin.org/articles/10.3389/fragi.2021.707372/pdf"
+}

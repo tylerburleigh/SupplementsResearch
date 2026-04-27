@@ -1,0 +1,26 @@
+{
+  "id": "src-085",
+  "title": "Hericerin derivatives from <i>Hericium erinaceus</i> exert BDNF-like neurotrophic activity in central hippocampal neurons and enhance memory",
+  "authors": [
+    "Martínez‐Mármol, Ramón",
+    "Chai, YeJin",
+    "Khan, Zahra",
+    "Kim, Seon Beom",
+    "Hong, Seong Min",
+    "Gormal, Rachel S.",
+    "Lee, Dae Hee",
+    "Lee, Jae Kang",
+    "Lee, Mi Kyeong",
+    "Kim, Sun Yeou",
+    "Meunier, Frédéric A."
+  ],
+  "doi": "10.1101/2020.08.28.271676",
+  "url": "https://openalex.org/W3082288229",
+  "provider": "openalex",
+  "year": 2020,
+  "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+  "citation_count": 3,
+  "abstract": "Abstract The traditional medicinal mushroom Hericium erinaceus has long been known for enhancing the peripheral nerve regeneration through targeting nerve growth factor (NGF) neurotrophic activity. It was also reported to protect against ageing-dependent cognitive decline in wildtype and in Alzheimer’s disease mouse models suggesting a yet to be defined action on neurons of the central nervous system. Here, we purified and identified biologically active compounds from H. erinaceus , based on their ability to promote neurite outgrowth in hippocampal neurons. N -de phenylethyl isohericerin (NDPIH), an isoindoline compound from this mushroom together with its hydrophobic derivative hericene A, were highly potent in inducing extensive axon outgrowth and neurite branching in the absence of serum demonstrating high neurotropic activity. NDPIH also induced enlarged growth cones suggestive of a brain-derived neurotrophic factor (BDNF)-like activity. Pharmacological inhibition of tropomyosin receptor kinase B (TrkB) by ANA12 prevented NDPIH-induced neurotrophic activity providing evidence that NDPIH acts via TrkB receptors to mediate its neurotrophic effect in central neurons. Finally, in vivo treatment with H. erinaceus crude extract and hericene A significantly increased BDNF and downstream pathway and enhanced learning and memory in the novel object recognition memory test. Our results suggest that hericene A can promote BDNF-like activity in neurons in vitro and in vivo thereby enhancing recognition memory.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.1101/2020.08.28.271676"
+}

@@ -1,0 +1,505 @@
+24	2	1. Please see:
+599	2	Ptsd
+661	2	Ptsd
+1152	2	345  Comanche  Trail
+1155	2	References
+2350	2	Participants
+3770	2	Abstract
+4551	2	Participants
+4611	2	Participants
+4874	2	Soaa
+5327	2	120 State Capitol
+5666	2	45. Two quick fixes you should make before final submission
+5684	2	1. A Study of Psychedelics in Healthy Older Adults With Low Well-being
+5686	2	3. Mindfulness-based Psilocybin Therapy for PTSD
+5687	2	4. Investigation to Understand and Optimize Psilocybin
+5688	2	5. Neurobehavioral Mechanisms of Psilocybin-assisted Treatment for AUD
+5689	2	6. Antidepressant Response of DMT Masked With Propofol
+5693	2	10. A Randomized Neuroimaging Trial of Psilocybin in Depression
+5695	2	12. Psilocybin or Ketamine for Alcohol Use Disorder: An Active Comparator Trial
+5696	2	13. Subjective Experience Following Psilocybin
+5697	2	14. The ENHANCE Study: taVNS and Psilocybin
+5698	2	15. Investigation of Psychedelic Effects in Psychoactive Substances
+5701	2	18. Open-Label Psilocybin Study in Transdiagnostic Population
+5703	2	20. MDMA for Co-occurring PTSD and OUD After Childbirth
+5706	2	22. The Acute Effects of Psilocybin on Cognition, Memory, and Brain Function
+5707	2	23. Mindfulness-assisted Psychedelic Therapy
+5708	2	24. Effects of Repeated Psilocybin Dosing in OCD
+5709	2	25. Psilocybin-Assisted Therapy in Treatment-Resistant Depression
+5710	2	26. Psychedelic Healing: Adjunct Therapy Harnessing Opened Malleability
+5711	2	27. Psilocybin for Methamphetamine Addiction
+5717	2	33. Psilocybin-Assisted Therapy for Physician Well-Being and Burnout
+5718	2	34. Adjunctive Effects of Psilocybin and a Formulation of Buprenorphine
+5723	2	Ptsd
+5726	2	41. Psilocybin-assisted Therapy for Alcohol Use Disorder
+5727	2	42. The Impact of Psilocybin on Pain in Fibromyalgia Patients
+5730	2	45. Comparing the Effects of Psilocin and Psilocybin in Healthy Adults
+5731	2	46. Psilocybin Therapy for Depression in Bipolar II Disorder
+5732	2	47. Psilocybin-facilitated Treatment for Cocaine Use
+5734	2	49. Effects of Hallucinogens and Other Drugs on Mood and Performance
+5738	2	53. Role of Serotonin in Acute and Subacute MDMA Effects
+5739	2	54. Psilocybin rTMS for Treatment Resistant Depression
+5740	2	55. Psilocybin-Assisted Therapy for Intergenerational Trauma
+5741	2	56. Microdosing LSD in Women With Premenstrual Disorders
+5742	2	57. MDMA-Assisted Therapy for Mental Healthcare Providers
+5749	2	63. Psilocybin Microdosing on Cognition, Mood and Quality of Life
+5752	2	66. Psilocybin to Treat Depression in Spinal Cord Injury
+5753	2	67. Music as an Adjunct to Ketamine Therapy for Chronic Pain
+5755	2	69. Pragmatic Trial of Psilocybin Therapy in Palliative Care
+5758	2	71. Resting-state Imaging and Chronic Consumption of Non-Nutritive SweetenerS
+5760	2	73. Neurobiological Effects of Psilocybin in Treatment Resistant Bipolar Depression
+5761	2	74. Psilocybin for Hospitalized Patients with Treatment-resistant Depression
+5765	2	78. Esketamine With or Without Integration Therapy for Treatment-Resistant Depression
+5774	2	85. Psilocybin for the Treatment of Veterans With Post-Traumatic Stress Disorder
+5775	2	86. Effect of Psychedelic VR-augmented Therapy on Patients With Clinical Depression
+5776	2	87. Drug Effects on Mood and Behavior - Expectancy
+5779	2	89. Ketamine to Treat Patients With Post-comatose Disorders of Consciousness
+5780	2	90. Psilocybin-Enhanced Psychotherapy for Methamphetamine Use Disorder
+5781	2	91. Psychedelic Virtual Reality
+5782	2	92. Neural and Physiological Correlates of Psychedelic Sub-states
+5788	2	96. Psychedelic-assisted Group Program for First Responders
+5789	2	97. Social Anxiety MDMA-Assisted Therapy Investigation
+5795	2	100. Low-Income Group Psilocybin Assisted Therapy for Depression
+5798	2	102. Effects of Psilocybin in Post-Treatment Lyme Disease
+5801	2	105. Consciousness, Psilocybin, and Well-Being
+5802	2	106. Microdosing Psychedelics to Improve Mood
+5803	2	107. Psilocybin in Alcohol Use Disorder With Comorbid Depression
+5804	2	108. Salivary Oxytocin as a Biomarker in Psychedelic Assisted Psychotherapy
+5805	2	109. Efficacy and Safety of Psilocybin in Treatment-Resistant Major Depression
+5807	2	111. Psilocybin in Adults With and Without Autism Spectrum Disorder
+5809	2	113. Psilocybin for Treatment of Alcohol Use Disorder: a Feasibility Study
+5810	2	114. Frontline Clinician Psilocybin Study
+5811	2	115. Psilocybin-assisted Therapy for Phantom Limb Pain
+5812	2	116. Effects of SERT Inhibition on the Subjective Response to LSD in Healthy Subjects
+5814	2	118. Psilocybin for Treatment of Obsessive Compulsive Disorder
+5816	2	120. Mindfulness and Psychedelics
+5817	2	121. Clinical and Mechanistic Effects of Psilocybin in Alcohol Addicted Patients
+5822	2	125. Psilocybin for Treatment-Resistant Depression
+5823	2	126. Safety and Tolerability of DMT in Healthy Adults
+5826	2	129. Perceptions of MDMA-Assisted Therapy Among Veterans With PTSD
+5827	2	130. Precision Functional Brain Mapping in Psilocybin
+5829	2	132. Study of Psilocybin Enhanced Group Psychotherapy in Patients With Cancer
+5831	2	134. Evaluation of Psilocybin in Anorexia Nervosa: Safety and Efficacy
+5832	2	135. Prophylactic Effects of Psilocybin on Chronic Cluster Headache
+5835	2	137. Entheogen Resurgence
+5836	2	138. Naturalistic Study of Microdosing With Psilocybin
+5837	2	139. Psilocybin vs Escitalopram for Major Depressive Disorder: Comparative Mechanisms
+5839	2	141. Psilocybin Cancer Anxiety Study
+5917	2	2. Blended Trauma-Focused Cognitive Behavioral Therapy With Compassion
+5921	2	6. Exercise Intervention in Children Living in a Container City
+5922	2	7. Behavioral Health Collaborative Care Model in Post-ICU Clinic Family Pilot
+5923	2	8. Effect of Aquatic Therapy and Subsequent Training on Veterans With PTSD
+5924	2	9. Behavioral Health Collaborative Care Model in an ICU Recovery Clinic
+5926	2	11. The BEAR Program for Women With Trauma Who Have Suicidal Thoughts
+5930	2	14. Psilocybin-Assisted Randomized Therapy
+5934	2	17. Stepped-Care for Suicidal Youth and Children
+5939	2	21. Feasibility of Group-Based Metacognitive Therapy for PTSD
+5940	2	22. MDMA-Assisted Massed Exposure Therapy for PTSD
+5943	2	24. Deaf CBT-TS to Reduce Suicide Risk
+5944	2	25. REVEAL Study - Diagnostic Testing for PTSD Using the Senseye Diagnostic Tool
+5949	2	30. Targeted Accelerated TMS for Post-Traumatic Stress Disorder
+5953	2	33. Psilocybin Intervention for Veterans Overcoming Treatment-Resistant Depression
+5954	2	34. Integrated PTSD and Chronic Pain Treatment
+5957	2	37. Neuropsychiatric Outcomes and Disrupted Sleep Following Acquired Brain Injury
+5958	2	38. Adaptation of the STAIR-NT for First Responders
+5961	2	41. Recovering Sleep After Trauma
+5966	2	46. Yoga and Female Concussion
+5976	2	54. Arts-based Social Prescribing for Mental Health
+5977	2	55. Mpata Yathu Trial for Young Women in Zambia
+5978	2	56. The Family Foundations Trial
+5979	2	57. Implementing a Therapy for Complex Trauma in French-Speaking Settings
+5991	2	65. AI-assisted GNW on Adolescent Emotional Distress
+5992	2	66. Mindfulness-based Psilocybin Therapy for PTSD
+5993	2	67. Solomiya App - CBT-based Self-help Intervention
+5996	2	70. Efficacy of Cervical Sympathetic Blocks for PTSD
+5997	2	71. Testing the Insomnia Coach Mobile App With Veterans With Insomnia and PTSD
+5998	2	72. Recovery in Telling Life Stories
+6003	2	75. Accelerated Treatment for Co-occurring Insomnia, Nightmares, and PTSD
+6004	2	76. Potential Benefits of Sonic Augmentation Technology in Music
+6005	2	77. Building Healthy Eating and Self-Esteem Together for University Students
+6007	2	79. Accelerated TMS for Seizure-Type Functional Neurologic Disorders
+6008	2	80. Transauricular Vagus Nerve Stimulation for Chronic Whiplash Associated Disorders
+6014	2	86. Multifaceted Intervention to Restore Resilience and Overcome Risk
+6021	2	92. A Pilot Study on Animal-Assisted Intervention in Correctional Settings
+6022	2	93. Weyera Mental Health Pilot Intervention
+6024	2	95. Shared Decision Making in PTSD Treatment
+6025	2	96. Preventing Maternal Mood, Anxiety, and Trauma Symptoms After Cesarean Delivery
+6029	2	99. Suicide Preventive Psychosocial Treatment for Youths
+6031	2	101. Recovery Finance: Financial Health and Mental Health After Incarceration
+6032	2	102. Ketamine for Pain, Opioid Use, and Mental Health in Orthopedic Trauma Patients
+6033	2	103. Psilocybin-Assisted Therapy for Sexual Assault-Related PTSD
+6036	2	106. Yoga Nidra for Insomnia and Posttraumatic Stress Symptoms
+6037	2	107. Parental Well-being After Childbirth in Switzerland
+6040	2	110. Pilot Neurobehavioral Therapy for Functional Neurological Disorder
+6042	2	112. Families Left Behind
+6048	2	116. Morphine or Ketamine for Analgesia
+6057	2	124. Evaluation of a Trauma-Informed Partner Violence Intervention Program
+6060	2	127. Behavioral Health Technician Delivered Written Exposure Therapy
+6061	2	128. Multi-level Child Mental Health Interventions in Azerbaijan
+6063	2	130. A Study of a Novel EEG Neurofeedback System for PTSD Treatment
+6075	2	139. Depressive Symptoms After Cardiac Surgery
+6078	2	141. Virtual Reality and Post Traumatic Stress
+6084	2	147. Mindful Self-Compassion to Address PTSD and Substance Use in Unhoused Women
+6088	2	150. ICU-VR Prior to ICU Admission
+6091	2	152. Improving Mental Health in Forcibly Displaced Populations
+6095	2	155. UK Prevalence of Mental Health After SCI
+6100	2	159. Ketamine, SGB and Combination Treatment for TBI
+6102	2	161. Early Support After Exposure to Trauma
+6106	2	164. HVIP Outcomes and Stakeholder Insights
+6108	2	166. Atomoxetine and Executive Function in PTSD
+6110	2	168. Written Exposure Therapy to Improve Recovery Among Sexual Assault Survivors
+6112	2	170. Integrated Case Management for Burns Care in Pakistan
+6114	2	172. Evaluating Interventions for Intimate Partner Violence Use in Washington State
+6115	2	173. The APS Phenotyping Study
+6116	2	174. Altitudes: A Digital Intervention to Support Caregivers
+6118	2	176. Post-Intensive Care Transitional Care, Rehabilitation, and Family-Support
+6120	2	178. Resilience Among Trauma Survivors
+6123	2	180. Internet-based Treatment for Depression
+6129	2	184. Cannabidiol After Multi-Trauma for Pain and Opioid Therapy
+6130	2	185. Open-Label Psilocybin Study in Transdiagnostic Population
+6131	2	186. MamaConecta: Digital Tool for Maternal Mental Health
+6134	2	188. Intergenerational Study of War-Affected Youth
+6136	2	190. Written Exposure Therapy for Nurses
+6138	2	192. The Effect of Outpatient Ketamine Infusion on Chronic Neuropathic Pain and PTSD
+6139	2	193. Silexan in the Treatment Of Posttraumatic Stress Disorder Trial
+6141	2	195. A Study of Psilocybin for PTSD
+6143	2	196. EASE-SOT Pilot Study
+6148	2	201. Psychotrauma Prevention Algorithm : Randomized, Controlled Pilot Study
+6150	2	203. MDMA-Assisted Psychotherapy for Treatment Resistant PTSD in Adolescents
+6151	2	204. Adapting Treatment Delivery to Improve Retention in Evidence-Based PTSD Treatment
+6153	2	206. Survivor Mom Companion Comparison Study
+6155	2	208. Schema Therapy for Treatment-resistant Anxiety Disorders
+6156	2	209. The Relationship Between Internet-use Behavior and Mental Health in Youth
+6157	2	210. Testing a Transdiagnostic TMS Treatment Target
+6159	2	212. Targeted Plasticity Therapy for PTSD
+6163	2	215. REWRITALIZE Your Recovery - Evaluation of a Creative Writing Group Intervention
+6166	2	217. Financial Incentives for Veteran Therapy Completion
+6168	2	219. Ketamine Treatment for PTSD and MDD in TBI
+6169	2	220. CIH Stepped Care for Co-occurring Chronic Pain and PTSD
+6170	2	221. Women Focused Encounters for Resilience Independence Strength and Eudaimonia
+6171	2	222. EMDR Versus Imagery Rescripting for Trauma-Related Intrusions
+6172	2	223. An Evaluation of the Safety and Efficacy of Methylone for the Treatment of PTSD
+6174	2	225. Optimizing and Advancing SBIRT in Schools
+6176	2	227. Efficacy of Internet-delivered Trauma-focused CBT for Young People With PTSD
+6177	2	228. Effect of Ketamine and Etomidate During RSI on Long Term Outcomes
+6181	2	232. Ultrasonic Neuromodulation for Treatment of PTSD
+6186	2	236. MDMA-assisted Massed Prolonged Exposure for PTSD
+6187	2	237. Pilot Study of Neurofeedback for Photosensitivity in Mild Traumatic Brain Injury
+6188	2	238. Gerofit and Cognition
+6189	2	239. The Effectiveness of Pharmacopuncture on Psychological Stress
+6192	2	242. Enhancing PTSD Treatment Outcomes by Improving Patient-Provider Communication
+6193	2	243. Father-Focused Intervention for Reducing Family Violence and Symptoms in Children
+6194	2	244. RIVER At Home Ketamine Protocols
+6196	2	246. Long-Term Opioid Therapy in Chronic Non-Cancer Pain: Risks and Benefits
+6197	2	247. HMP for Addictions Study
+6199	2	249. MDMA-Assisted CBCT for PTSD vs CBCT RCT
+6203	2	252. CBITS - Treat Trauma in Child Welfare
+6204	2	253. Self-Management Interventions After an ICD Shock
+6205	2	254. Promoting Positive Emotional Functioning in Police and Military Populations
+6206	2	255. Cognitive-Behavioral Therapy for Children With Nightmares
+6207	2	256. Peer-led Trauma Therapy for Re-entry
+6212	2	261. An Efficient Treatment for Posttraumatic Injury for Firefighters
+6214	2	263. Psychiatric Orders in Psychoanalytic Treatment of ASD
+6223	2	269. Reconsolidation Blockade of Intrusive Trauma- and Cocaine-related Memories
+6230	2	274. Effect of Baclofen to Prevent Post-Traumatic Stress Disorder
+6231	2	275. Intervention for Virologic Suppression in Youth
+6232	2	276. Trauma-Focused Intervention With Women Experiencing Homelessness
+6233	2	277. Concussion Treatment in Older Adults
+6238	2	281. Problem-Solving Training for Concussion
+6241	2	283. RESILIENT : A Self-Managed Online Platform for Victims of Sexual Assault
+6243	2	285. Non-Inferiority Trial of TrIGR for PTSD
+6246	2	288. The Role of Social Determinants in Cardiovascular Health and Vascular Function
+6247	2	289. Investigating a Novel Sensory-based Program for Veterans With PTSD
+6251	2	292. A Study to Assess the Use of Methylone in the Treatment of PTSD
+6252	2	293. Stepping Together for Children After Trauma, Norway
+6253	2	294. Enhancing Week-long Psychological Treatment for PTSD With Ketamine
+6254	2	295. Alexithymia Intervention for Suicide
+6257	2	298. Preventing the Development of Chronic Pain: Treating PTSD at Acute Pain Onset
+6260	2	301. Cognitive Processing Therapy in Syrian Women Exposed to IPV
+6265	2	306. Interest of a Short Early Psychological Care in Women With Miscarriage
+6266	2	307. Perinatal Mental Health for Refugee Women
+6268	2	309. A Precision Medicine Approach to Target Engagement for Emotion Regulation
+6269	2	310. Pranayama for Posttraumatic Stress Disorder
+6271	2	312. Virtual Reality Intervention for Patients Undergoing BMT
+6275	2	316. Brief Internet-delivered CBT After ACS
+6279	2	320. Examining the Effectiveness of EAL
+6283	2	324. Written Exposure Therapy for PTSD in a Virtual, Group-based Format
+6284	2	325. Efficacy of a Multi-level School Intervention for LGBTQ Youth
+6288	2	328. Risk and Resiliency Factors in the RCMP: A Prospective Investigation
+6292	2	332. Remote Mindfulness Training Following Early Life Adversity
+6294	2	334. Interned-delivered Intervention Based on Acceptance Principles
+6298	2	337. Exercise Reset for Concussion in a Military Environment
+6299	2	338. The Efficacy and Safety of Sandbag Self Walking-MSAT on Acute Low Back Pain
+6303	2	341. Early Psychological Intervention After Rape
+6322	2	353. Multi-session fMRI-Neurofeedback in PTSD
+6326	2	357. PTSD Treatment for Incarcerated Men and Women: WPP
+6333	2	362. EMDR Therapy in Young Children, a Double-blinded Randomized Controlled Trial
+6335	2	364. STAIR for Trauma and Emotion Dysregulation
+6337	2	366. Effects of Stellate Ganglion Block in Post-traumatic Stress Disorder
+6338	2	367. Addressing Intimate Partner Violence, Mental Health, and HIV in Antenatal Care
+6339	2	368. Written Exposure Therapy to Improve Lives After Stress Exposure
+6340	2	369. Post-stroke Psychosocial Recovery
+6342	2	371. Using Mobile Technology to Address the Trauma Mental Health Treatment Gap
+6345	2	374. Treating Nightmares in Posttraumatic Stress Disorder With Clonidine and Doxazosin
+6346	2	375. The Pitt Center for Emergency Responder Wellness
+6349	2	377. Trajectories of Resilience and Bariatric Surgery Outcomes
+6352	2	380. Perioperative Longitudinal Study of Complications and Long-term Outcomes
+6355	2	383. Ketamine and Epigenetic Aging
+6356	2	384. Family Support Intervention in Intensive Care Units
+6366	2	393. Transdiagnostic Versus Diagnosis-specific Cognitive-behavioral Therapy
+6368	2	395. ERP to Improve Functioning in Veterans With OCD
+6371	2	398. Focused Ultrasound Amygdala Neuromodulation
+6373	2	399. Bio-Experiential Spaces for Mental Health in Healthworkers
+6376	2	401. Using the Multiphase Optimization Strategy to Adapt Cognitive Processing Therapy
+6378	2	403. Biological Markers for Post-Traumatic Stress Disorder
+6379	2	404. Trauma Intervention to Optimize PrEP Among Women Who Inject Drugs
+6380	2	405. Psychological Trauma and Resilience After Critical Illness
+6386	2	410. Frontline Clinician Psilocybin Study
+6387	2	411. Study of Atomoxetine in the Prevention of Vasovagal Syncope
+6397	2	420. Symptom-Targeted Approach to Rehabilitation for Concussion
+6405	2	427. Gaze-Contingent Music Reward Treatment for PTSD
+6410	2	431. Cognitive Processing Therapy for Syrian Patients With PTSD
+6411	2	432. Feasibility Study of a Group Intervention for Youth Wellbeing
+6415	2	435. Telemedicine Optimized Burn Intervention
+6416	2	436. Feasibility Study for Abused Chinese Immigrant Women
+6419	2	439. A Multimodal Parent-focused Intervention for Vulnerable Populations in the Bronx
+6423	2	442. Online Mental Health Program for Female College Students
+6424	2	443. Toolkit for Optimal Recovery After Orthopedic Injury
+6426	2	445. Evaluation of the PE Coach Mobile Application Among Veterans With PTSD
+6429	2	448. A Mobile Health Solution for Homework During CBT
+6431	2	450. Integrated Supportive and Palliative Care for Older Adults in the ICU
+6433	2	452. Theta Burst Stimulation for Headaches After Traumatic Brain Injury
+6434	2	453. Repurposing Low-Dose Clonidine for PTSD in Veterans
+6435	2	454. Further Development and Initial Testing of RESTORE in Frontline Workers
+6437	2	456. Acupuncture and Mindfulness Based Stress Reduction for Wellness
+6447	2	464. Hot Water Immersion Therapy for Mental Health
+6448	2	465. Combined Ketamine and eCBT Intervention for PTSD
+6453	2	468. Safe Mothers, Safe Children Initiative
+6458	2	472. Testing FIRST in Youth Outpatient Psychotherapy
+6459	2	473. Integrated Intervention Post-Sexual Assault
+6460	2	474. Physical Exercise for Treatment of Depression and Anxiety - RCT
+6461	2	475. Antidepressant Response in Older Adults With Comorbid PTSD and MDD
+6462	2	476. Cognitive Behavioural Therapy for Complicated Grief Reactions in Old Age
+6464	2	478. Positive Processes and Transition to Health
+6465	2	479. The Effect of Neuropathic Pain in Patients With Combat-related Extremity Injury
+6466	2	480. Mechanistic Interventions and Neuroscience of Dissociation
+6467	2	481. Brief, High-dose rTMS for Depression
+6468	2	482. Auricular Acupuncture as an add-on Treatment for Symptoms of Anxiety
+6470	2	484. Increasing Treatment Efficacy Using SMART Methods for Personalizing Care
+6471	2	485. PRotEin Provision in Critical IllneSs
+6474	2	488. PEER Interactive to Inform the Prescription of Medications
+6475	2	489. Finding Wellness in the Pandemic
+6476	2	490. Mindfulness-based Intervention to Address PTSD in Trauma-exposed, Homeless Women
+6477	2	491. Sequenced Treatment Effectiveness for Posttraumatic Stress
+6478	2	492. Transdiagnostic Treatment Personalization
+6482	2	495. Psychotherapy for PTSD Among Veterans Also Receiving Drug or Alcohol Treatment
+6483	2	496. Early Intervention Following Sexual Assault
+6486	2	499. Collaboration Leading to Addiction Treatment and Recovery From Other Stresses
+6494	2	505. MISSION-CJ for Justice-Involved Homeless Veterans
+6497	2	507. Safety Aid Reduction Treatment for PTSD Among Veterans
+6505	2	514. Prevalence of the Traumatic Events in Women With Fibromyalgia
+6513	2	521. The Effects of Light Therapy to Treat Cancer-related Side Effects
+6514	2	522. A Case Formulation Approach to Cognitive Processing Therapy
+6518	2	525. Primary Care Intervention for PTSD in Ethiopia
+6519	2	526. Nitrous Oxide for PTSD
+6525	2	531. Global Mental Health of Urban Mothers
+6531	2	535. Trauma Informed Treatment Algorithms for Novel Outcomes
+6532	2	536. Regulation of Amygdala Via Neurofeedback in PTSD After Childhood Sexual Abuse
+6536	2	539. Building Resilience In Caregivers of Trauma Survivors
+6539	2	541. Brief Peer Supported webSTAIR Compared to Enhanced Wait List
+6540	2	542. Mindfulness-Based Relapse Prevention for Opioid and Alcohol Use Disorders
+6544	2	546. MDMA-Assisted Psychotherapy in Veterans With Combat-Related, Refractory PTSD
+6545	2	547. Interactive Decision Aid for Men Diagnosed With Prostate Cancer
+6551	2	552. Photobiomodulation to Improve Cognition in TBI, With fMRI
+6557	2	557. Chart Review of Patients Undergoing Ketamine Infusions
+6558	2	558. Transcranial Magnetic Stimulation to Improve Functioning in Veterans With PTSD
+6560	2	560. Exercise Training to Improve PTSD Symptoms and Health in Older Veterans
+6561	2	561. Simple Cognitive Task After Trauma EKUT RCT
+6562	2	562. Predicting SSRI Efficacy in Veterans With PTSD
+6563	2	563. RCT Investigating EMDR for Suicidal Ideation
+6569	2	567. Decision Aid Feasibility Trial for Families of Critically Ill Stroke Patients
+6570	2	568. Better Sleep in Psychiatric Care - Depression, Anxiety and PTSD
+6571	2	569. Ketamine for Acute Pain Management After Trauma
+6572	2	570. Group-based Mindfulness for Chronic Pain in the Primary Care Setting
+6573	2	571. Examining Changes in Microbiota Over the Course of PTSD Treatment
+6574	2	572. Prolonged Exposure Therapy for PTSD and Opioid Use Disorder
+6576	2	574. Augmentation of EMDR With tDCS in the Treatment of Fibromyalgia
+6577	2	575. Therapeutic Termination of Pregnancy and Psychiatric Implications
+6580	2	577. The Norwegian Stepped-Care TF-CBT Study
+6581	2	578. RRT for PTSD Symptoms in Survivors of Sexual Violence
+6583	2	580. Targeted Plasticity Therapy for Posttraumatic Stress Disorder
+6584	2	581. Physical Activity Intervention for Trauma Afflicted Refugees
+6586	2	583. The Experiences of Children and Caregivers Given PICU Storybooks
+6587	2	584. Feasibility of a Multi-Level School Intervention for LGBTQ Youth
+6589	2	586. Online and Mobile Mindfulness Intervention to Reduce Distress
+6590	2	587. Repeated Ketamine Infusions for Comorbid PTSD and MDD in Veterans
+6595	2	590. Remotely Supervised tDCS for Persistent Post-traumatic Headache
+6596	2	591. Neural and Behavioral Sequelae of Blast-Related Traumatic Brain Injury
+6598	2	593. Creating Resilient Workplaces Study
+6599	2	594. Administration of Prazosin to Prevent PTSD in Adult Women After Sexual Assault
+6601	2	596. Comparing Group Therapies for Veterans With Depression and PTSD
+6602	2	597. Low Intensity Family Support for Refugees in an LMIC
+6604	2	598. Understanding Trauma Nightmares Using In-Home Measurement
+6605	2	599. Neuroendocrine Risk for PTSD in Women
+6606	2	600. RCT Comparing EMDR and CBT for Treatment of Resistant Depression
+6610	2	604. Ketamine Infusion Therapy for the Treatment of PTSD in Paramedics
+6611	2	605. Outcomes Mandate National Integration With Cannabis as Medicine
+6613	2	607. Online PTSD Treatment for Young People and Carers - Case Series
+6614	2	608. Multi-site Confirmatory Efficacy Treatment Trial of Combat-related PTSD
+6615	2	609. The Weaving Healthy Families Program
+6616	2	610. Primary-Care Based Mindfulness Intervention
+6626	2	620. Mindfulness-Based Relapse Prevention for Methadone Maintenance
+6627	2	621. MAPLES Pilot Study for Low Mood in ABI
+6628	2	622. Train Your Brain: Neurofeedback Intervention for PTSD
+6631	2	625. DELPhI Evaluation of Psychiatric Conditions
+6634	2	Bpd
+6636	2	Cpd
+6637	2	629. Scaling-up Psychological Interventions With Syrian Refugees in Switzerland
+6638	2	630. A Pilot Evaluation of the Insomnia Coach Mobile App
+6641	2	633. Sexual Dysfunction in Gynecologic Oncology Patients
+6642	2	634. Neurosteroids for PTSD in Veterans
+6643	2	635. IPT-A for Adolescents With PTSD Symptoms
+6645	2	637. Clinical Characteristics and Pathophysiology of Post-Traumatic Headache
+6646	2	638. Stress, Sex, and the Generalization of Fear
+6647	2	639. Dialectical Behavioral Therapy in High Risk OrthopaedicTrauma Patients
+6650	2	642. Terrorist Attack - Continuity of Care
+6652	2	644. A Novel Posttraumatic Stress Disorder Treatment for Veterans With Moral Injury
+6653	2	645. Enhanced Problem-Solving Training
+6654	2	646. Music-instruction Intervention for Treatment of Post-traumatic Stress Disorder
+6655	2	647. Post-Traumatic Stress Disorder Focused Psychodynamic Psychotherapy
+6659	2	651. Health and Quality of Life Among Resettled Syrians in Norway
+6663	2	654. Implementing PTSD Treatment in FQHCs for Michigan Medicaid Enrollees
+6664	2	655. Trauma Informed Prevention for Substance Use and Risky Sex
+6665	2	656. Chaplain Family Project Trial
+6666	2	657. Network Dysregulation Among Individuals With Comorbid Tinnitus and PTSD
+6667	2	658. Assessment and Treatment of Cognitive Functioning Deficits in Veterans With PTSD
+6671	2	662. National Adaptive Trial for PTSD Related Insomnia
+6672	2	663. Pathophysiological Mechanism Behind Prolonged Whiplash Associated Disorders
+6673	2	664. EMDR in Psychiatric Inpatients With Severe Mental Disorder
+6675	2	666. Neurotechnology Following Traumatic Brain Injury
+6676	2	667. Exercise Maintenance in Chronic Pain and PTSD
+6679	2	670. Predictive Factors of PTSD in Adults Admitted to an Emergency Service
+6686	2	676. Self Help Plus for Asylum Seekers and Refugees in Europe
+6687	2	677. The Effects of MBSR on Patients With TBI and Chronic Insomnia
+6689	2	679. Sleep Impairments in Refugees Diagnosed With PTSD
+6695	2	684. Simple Cognitive Task After Trauma
+6696	2	685. Yoga and Physical Activity for Veterans
+6697	2	686. Trauma-focused Group Music and Imagery With Traumatized Women
+6698	2	687. Neurosteroids in PTSD - Biomarkers to Therapeutics
+6700	2	689. Peer Social Support During In Vivo Exposure for PTSD
+6701	2	690. Perioperative Research Into Memory: Cognitive Outcome Following Major Burns
+6707	2	695. Deep Brain Stimulation for Treatment Refractory PTSD
+6709	2	697. Shortened Prolonged Exposure Therapy for Chronic PTSD in Taiwanese Adults
+6710	2	698. Internet-based Self-help for Negative Life Events
+6715	2	701. Comorbid Mental Disease and Heart Disease in Men
+6716	2	702. Grief and Communication Family Intervention
+6719	2	705. Improving Quality of Care in Child Mental Health Service Settings
+6720	2	706. RCT: Fentanyl Plus Ketamine Versus Fentanyl Alone for Acute Burn Pain
+6722	2	708. Guanfacine Extended Release and Mindfulness Skills Therapy
+6723	2	709. Care Outcomes for Chiropractic Outpatient Veterans
+6724	2	710. Transcranial Electrical Stimulation for mTBI
+6726	2	712. PRIME: Cognitive Outcome Following Major Burns
+6727	2	713. A Self-Management Program for Completers of Trauma-Focused Therapy for PTSD
+6728	2	714. Myasthenia Gravis and Psyche
+6729	2	715. Online Therapy for Posttraumatic Stress Symptoms in WTC Responders and Survivors
+6732	2	718. McLean and Genomind Prospective Study
+6733	2	719. Accelerated TMS to a Novel Brain Target in MDD and PTSD
+6737	2	722. Examining the Effects of Reduced Environmental Stimulation on Anxiety
+6741	2	726. Low Dose Naltrexone for Chronic Pain From Arthritis
+6742	2	727. NET for SGBV Survivors in Eastern DR Congo
+6744	2	729. Development of a Patient Centered Mental Health Intervention for Recent Veterans
+6745	2	730. Yoga Online Feasibility to Reduce PTSD
+6748	2	733. Evaluation of Web-Based CBT for Women Veterans With PTSD
+6749	2	734. The Treatment of Depression With Yoga and Walking
+6760	2	742. Mental Health Screenings in Adolescents With Type I Diabetes
+6764	2	745. Rehabilitation Enhanced by Partial Arterial Inflow Restrictions
+6765	2	746. Study to Promote Innovation in Rural Integrated Telepsychiatry
+6770	2	751. Study of Nerve Repair and Reconstruction Associated With Major Extremity Trauma
+6773	2	753. Mobile Mindfulness to Improve Psychological Distress After Critical Illness
+6775	2	755. An RCT of a Primary Care-Based PTSD Intervention: Clinician-Supported PTSD Coach
+6777	2	757. Tapering Off Antidepressants
+6778	2	758. Take Charge of Burn Pain
+6780	2	760. A Policy Relevant US Trauma Care System Pragmatic Trial for PTSD and Comorbidity
+6781	2	761. CAP-Ketamine for Antidepressant Resistant PTSD
+6782	2	762. Vortioxetine for Posttraumatic Stress Disorder
+6785	2	765. Ketamine Infusions for PTSD and Treatment-Resistant Depression
+6787	2	767. Transdiagnostic Treatment for Early Stage Mental Health Problems in Youth
+6788	2	768. Stepped Care for Children After Trauma: Optimizing Treatment
+6789	2	769. Trauma Informed Guilt Reduction Therapy
+6790	2	770. Decreasing Youth Involvement in Violence in Burundi
+6796	2	776. PTSD Coach App Evaluation
+6801	2	780. Supported Employment in Patient Aligned Care Teams
+6810	2	787. A Comparative Effectiveness Trial of Optimal Patient-Centered Care
+6813	2	790. Cognitive Training for Mood and Anxiety Disorders
+6819	2	794. Mind-Body Intervention for Veterans With PTSD
+6821	2	796. CENTER-TBI: Collaborative European NeuroTrauma Effectiveness Research in TBI
+6823	2	798. Whole Body Hyperthermia Registry Study
+6827	2	802. Iwankapiya-Healing: Historical Trauma Practice and Group IPT for American Indians
+6830	2	805. Prevention of PTSD III: Neurocognitive Training of Emotional Regulation
+6835	2	809. Increasing Engagement in Evidence-Based PTSD Therapy for Primary Care Veterans
+6837	2	811. Loving-Kindness Meditation for PTSD
+6840	2	814. Improving Functions in MTBI Patients With Headache by rTMS
+6841	2	815. Transdiagnostic Psychotherapy for Veterans With Mood and Anxiety Disorders
+6842	2	816. Comparative Effectiveness Research in Veterans With PTSD
+6848	2	821. Get Moving and Get Well - Pilot Study
+6849	2	822. Analyzing Female Trauma Exposed Responses to a Medication
+6851	2	824. Effects of Early Abuse on Adult Intimate Relationships
+6853	2	826. Dose-Response Study of MDMA-assisted Psychotherapy in People With PTSD
+6856	2	829. Adoption-specific Treatment Prevention Pilot Trial
+6857	2	830. Managing Sleep Symptoms and Modifying Mechanisms of Traumatic Stress
+6859	2	832. NET in Iranian Women Suffering From Post Traumatic Stress Symptoms
+6861	2	834. The Congestive Heart Failure Adherence Redesign Trial
+6864	2	837. Phase I: At-Home Support for Rural Women Using Group Video Calling
+6865	2	838. Rivastigmine Patch in Veterans With Cognitive Impairment Following TBI
+6870	2	842. Family-Based Treatment for Parental Substance Abuse and Child Maltreatment
+6876	2	847. Randomized Control Trial on Trauma Focused CBT in Zambia
+6877	2	848. Coherence Training for Military Personnel
+6878	2	849. Stress Resilience Training System
+6879	2	850. Bringing What Works to Youth in Corrections: A Trauma Intervention
+6880	2	851. Pilot Study of Behavioral Activation for Prolonged Grief
+6881	2	852. Brain Training to Enhance Frontal Lobe Reasoning
+6882	2	853. Meditation Interventions for Treatment of PTSD in Veterans
+6887	2	858. Computerized Tailored Intervention for Behavioral Sequelae of PTSD in Veterans
+6888	2	859. Mantram Repetition Meditation for Veterans With PTSD
+6892	2	863. Long-term Consequences of Bereavement in Children, Adolescents and Young Adults
+6897	2	867. The Influence of the Menstrual Cycle on Lithium and Sertraline Blood Levels
+6905	2	875. Dental Status of Patients With Severe Mental Illness
+6906	2	876. Advanced MRI In Acute Military TBI
+6907	2	877. Study of Quality of Life in Freeman-Sheldon Syndrome and Related Conditions
+6908	2	878. Structural and Functional Neuroimaging Studies of Combat Veterans
+6912	2	881. Effects of Escitalopram on Autonomic Reactivity in Post Traumatic Stress Disorder
+6914	2	883. Guitars for Vets: Evaluating Psychological Outcome of a Novel Music Therapy
+6915	2	884. Efficacy of a Brief Nightmare Treatment for Veterans
+6919	2	887. Combined Mirtazapine and SSRI Treatment of PTSD: A Placebo-Controlled Trial
+6920	2	888. Innovative Service Delivery for Secondary Prevention of PTSD
+6924	2	892. Project SERVE: Post Deployment Functioning
+6926	2	894. Treating PTSD in Patients With Borderline Personality Disorder
+6929	2	897. National Guard Outreach and Linkage to Treatment
+6936	2	903. Preventing Long Term Psychiatric Disability Among Those With Major Burn Injuries
+6940	2	906. Intervention for Veterans With Depression, Substance Disorder, and Trauma
+6941	2	907. Psychophysiologic Predictors of Post-deployment Mental Health Outcomes
+6942	2	908. Cognitive Training to Enhance VA Work Program Outcomes
+6944	2	910. Advanced MRI in Blast-related TBI
+6945	2	911. Team Based Initiative Support
+6951	2	917. Cranial Electrotherapy Stimulation in Burned Patients
+6953	2	919. Quetiapine in Co-Morbid Depressive and Anxiety Disorders
+6955	2	921. Veterans Telemedicine Outreach for PTSD Services
+6958	2	924. Adjunctive Pregnenolone in Veterans With Mild TBI
+6960	2	926. Treatment of Older Veterans With Chronic Posttraumatic Stress Disorder
+6964	2	929. Aripiprazole Augmentation of Antidepressants in PTSD
+6965	2	930. Exposure Therapy for Chronic PTSD: Efficacy and Mechanisms
+6966	2	931. Regional Anesthesia Military Battlefield Pain Outcomes Study
+6967	2	932. Neuroimmunological Model of Traumatic Memory
+6968	2	933. Treatment for Veterans With Military Sexual Trauma
+6970	2	935. Group Intervention for Interpersonal Trauma
+6972	2	937. The Impact of Vocational Rehabilitation on Mentally III Veterans
+6973	2	938. Acupuncture for the Treatment of Posttraumatic Stress Among Military Personnel
+6974	2	939. Quetiapine Augmentation for Treatment-resistant PTSD
+6978	2	943. Fibromyalgia in Men Suffering From PTSD
+6980	2	945. Short Course Glucocorticoid Treatment for PTSD
+6982	2	947. Comparison of Two Treatments for Post-Traumatic Stress Disorder
+6983	2	948. Expanding and Testing VA Collaborative Care Models for Depression
+6988	2	951. Telephone Care as a Substitute for Routine Psychiatric Medication
+6989	2	952. Evaluation Study of TIDES Depression Care Quality Improvement Intervention
+6990	2	953. Effects of Hydrocortisone in Patients With Post-Traumatic Stress Disorder
+6992	2	955. Brain Function in Mentally Ill Adolescents

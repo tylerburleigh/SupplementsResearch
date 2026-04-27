@@ -1,0 +1,25 @@
+{
+  "id": "src-957",
+  "title": "Quercetin ameliorates SIRT1-mediated oxidative stress and inflammation to attenuate ciliary muscle remodeling in experimental myopia.",
+  "authors": [
+    "Yang, Yuanting",
+    "Zhang, Miao",
+    "Zhang, Ruixue",
+    "Wu, Mengke",
+    "Hao, Jiawen",
+    "Ma, Zhongyu",
+    "Yang, Zhaohui",
+    "Zhang, Yinqiao",
+    "Guo, Dadong",
+    "Bi, Hongsheng"
+  ],
+  "doi": "10.1016/j.bcp.2026.117698",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41519402",
+  "provider": "pubmed",
+  "year": 2026,
+  "venue": "Biochemical pharmacology",
+  "citation_count": 0,
+  "abstract": "This study aimed to investigate the role of quercetin in myopic ciliary muscle remodeling through the regulation of SIRT1 expression. To this end, a randomized controlled trial was conducted using negative lens-induced myopic (LIM) guinea pig models for durations of 4 weeks and 6 weeks, with subjects administered quercetin (QUE) or SRT1720. Changes in axial lengths and refractive errors were measured at 4 and 6 weeks. Subsequently, protein expression (e.g., SIRT1, KEAP1, NRF2, MMP-2, and TIMP-2) in ciliary muscles was analyzed by Western blotting, while the expression of inflammatory cytokines (e.g., TNF-α, IL-6, and IL-10) was quantified via ELISA, and ciliary muscle morphologies were assessed using hematoxylin and eosin (H&E) staining and optical coherence tomography (OCT). Calcium fluxes, reactive oxygen species (ROS) levels, and mitochondrial membrane potentials (ΔΨm) were measured via noninvasive microtests and flow cytometry. Compared with the LIM group, the QUE and SIRT1 activator (SRT1720) intervention groups presented significantly reduced axial elongation amounts and refractive errors (P < 0.01), along with thickened ciliary muscles and improved fiber alignments. Additionally, the calcium influx and ROS levels were significantly reduced, and the ΔΨm levels were partially restored. Furthermore, Western blotting revealed upregulated SIRT1, NRF2, and TIMP-2 expression but downregulated KEAP1 and MMP-2 expression in the intervention groups, and ELISA revealed decreased inflammatory responses. In conclusion,quercetin could play a protective role by increasing the expression of SIRT1, which in turn alleviated KEAP1/NRF2-induced oxidative stress and mitigated NF-κB-driven inflammatory damage, thereby ameliorating ciliary muscle remodeling and potentially delaying the progression of myopia.",
+  "type": "academic",
+  "pdf_url": ""
+}

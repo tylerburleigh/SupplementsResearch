@@ -1,0 +1,28 @@
+{
+  "id": "src-119",
+  "title": "Biochemical, physiological and clinical effects of l-methylfolate in schizophrenia: a randomized controlled trial.",
+  "authors": [
+    "Roffman, J L",
+    "Petruzzi, L J",
+    "Tanner, A S",
+    "Brown, H E",
+    "Eryilmaz, H",
+    "Ho, N F",
+    "Giegold, M",
+    "Silverstein, N J",
+    "Bottiglieri, T",
+    "Manoach, D S",
+    "Smoller, J W",
+    "Henderson, D C",
+    "Goff, D C"
+  ],
+  "doi": "10.1038/mp.2017.41",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/28289280",
+  "provider": "pubmed",
+  "year": 2018,
+  "venue": "Molecular psychiatry",
+  "citation_count": 0,
+  "abstract": "Folic acid supplementation confers modest benefit in schizophrenia, but its effectiveness is influenced by common genetic variants in the folate pathway that hinder conversion to its active form. We examined physiological and clinical effects of l-methylfolate, the fully reduced and bioactive form of folate, in schizophrenia. In this randomized, double-blind trial, outpatients with schizophrenia (n=55) received l-methylfolate 15 mg or placebo for 12 weeks. Patients were maintained on stable doses of antipsychotic medications. The pre-defined primary outcome was change in plasma methylfolate at 12 weeks. Secondary outcomes included change in symptoms (Positive and Negative Syndrome Scale (PANSS), Scale for Assessment of Negative Symptoms, Calgary Depression Scale for Schizophrenia), cognition (Measurement and Treatment Research to Improve Cognition in Schizophrenia composite) and three complementary magnetic resonance imaging measures (working memory-related activation, resting connectivity, cortical thickness). Primary, mixed model, intent-to-treat analyses covaried for six genetic variants in the folate pathway previously associated with symptom severity and/or response to folate supplementation. Analyses were repeated without covariates to evaluate dependence on genotype. Compared with placebo, l-methylfolate increased plasma methylfolate levels (d=1.00, P=0.0009) and improved PANSS Total (d=0.61, P=0.03) as well as PANSS Negative and General Psychopathology subscales. Although PANSS Total and General Psychopathology changes were influenced by genotype, significant PANSS Negative changes occurred regardless of genotype. No treatment differences were seen in other symptom rating scales or cognitive composite scores. Patients receiving l-methylfolate exhibited convergent changes in ventromedial prefrontal physiology, including increased task-induced deactivation, altered limbic connectivity and increased cortical thickness. In conclusion, l-methylfolate supplementation was associated with salutary physiological changes and selective symptomatic improvement in this study of schizophrenia patients, warranting larger clinical trials. ClinicalTrials.gov, NCT01091506.",
+  "type": "academic",
+  "pdf_url": ""
+}

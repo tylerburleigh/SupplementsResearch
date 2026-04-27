@@ -1,0 +1,25 @@
+{
+  "id": "src-348",
+  "title": "Chemical Chaperones Improve Protein Secretion and Rescue Mutant Factor VIII in Mice with Hemophilia A.",
+  "authors": [
+    "Abriss, Daniela",
+    "Milanov, Peter",
+    "Pepperkok, Rainer",
+    "Quade-Lyssy, Patricia",
+    "Roth, Stefanie D.",
+    "Schüttrumpf, Jörg",
+    "Seifried, Erhard",
+    "Simpson, Jeremy C.",
+    "Tonn, Torsten",
+    "Ungerer, Christopher"
+  ],
+  "doi": "10.1371/journal.pone.0044505",
+  "url": "https://doi.org/10.1371/journal.pone.0044505",
+  "provider": "core",
+  "year": 2012,
+  "venue": "PLoS ONE",
+  "citation_count": 0,
+  "abstract": "nefficient intracellular protein trafficking is a critical issue in the pathogenesis of a variety of diseases and in recombinant protein production. Here we investigated the trafficking of factor VIII (FVIII), which is affected in the coagulation disorder hemophilia A. We hypothesized that chemical chaperones may be useful to enhance folding and processing of FVIII in recombinant protein production, and as a therapeutic approach in patients with impaired FVIII secretion. A tagged B-domain-deleted version of human FVIII was expressed in cultured Chinese Hamster Ovary cells to mimic the industrial production of this important protein. Of several chemical chaperones tested, the addition of betaine resulted in increased secretion of FVIII, by increasing solubility of intracellular FVIII aggregates and improving transport from endoplasmic reticulum to Golgi. Similar results were obtained in experiments monitoring recombinant full-length FVIII. Oral betaine administration also increased FVIII and factor IX (FIX) plasma levels in FVIII or FIX knockout mice following gene transfer. Moreover, in vitro and in vivo applications of betaine were also able to rescue a trafficking-defective FVIII mutant (FVIIIQ305P). We conclude that chemical chaperones such as betaine might represent a useful treatment concept for hemophilia and other diseases caused by deficient intracellular protein trafficking",
+  "type": "academic",
+  "pdf_url": "https://core.ac.uk/download/14526118.pdf"
+}

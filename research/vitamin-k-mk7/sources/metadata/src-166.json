@@ -1,0 +1,16 @@
+{
+  "id": "src-166",
+  "title": "Vitamin K2 stimulates osteoblastogenesis and suppresses osteoclastogenesis by suppressing NF-κB activation",
+  "authors": [
+    "Yamaguchi, Masayoshi"
+  ],
+  "doi": "10.3892/ijmm.2010.562",
+  "url": "https://openalex.org/W2016070180",
+  "provider": "openalex",
+  "year": 2010,
+  "venue": "International Journal of Molecular Medicine",
+  "citation_count": 113,
+  "abstract": "Several bone protective factors are reported to exhibit stimulatory activities on bone formation coupled with inhibitory effects on bone resorption; one such factor is vitamin K2. Vitamin K species [K1 (phylloquinone) and K2 (menaquinone)] have long been associated with bone protective activities and are receiving intense interest as nutritional supplements for the prevention or amelioration of bone disease in humans. However, the mechanisms of vitamin K action on the skeleton are poorly defined. Activation of the nuclear factor κB (NF-κB) signal transduction pathway is essential for osteoclast formation and resorption. By contrast, NF-κB signaling potently antagonizes osteoblast differentiation and function, prompting us to speculate that NF-κB antagonists may represent a novel class of dual anti-catabolic and pro-anabolic agents. We now show that vitamin K2 action on osteoblast and osteoclast formation and activity is accomplished by down-regulating basal and cytokine-induced NF-κB activation, by increasing IκB mRNA, in a γ-carboxylation-independent manner. Furthermore, vitamin K2 prevented repression by tumor necrosis factor α (TNFα) of SMAD signaling induced by either transforming growth factor ß (TGFß) or bone morphogenetic protein-2 (BMP-2). Vitamin K2 further antagonized receptor activator of NF-κB (RANK) ligand (RANKL)-induced NF-κB activation in osteoclast precursors. Our data provide a novel mechanism to explain the dual pro-anabolic and anti-catabolic activities of vitamin K2, and may further support the concept that pharmacological modulation of NF-κB signal transduction may constitute an effective mechanism for ameliorating pathological bone loss and for promoting bone health.",
+  "type": "academic",
+  "pdf_url": "https://www.spandidos-publications.com/10.3892/ijmm.2010.562/download"
+}

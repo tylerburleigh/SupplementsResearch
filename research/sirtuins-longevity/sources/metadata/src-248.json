@@ -1,0 +1,23 @@
+{
+  "id": "src-248",
+  "title": "SIRT7 Is a Lysine Deacylase with a Preference for Depropionylation and Demyristoylation",
+  "authors": [
+    "Kibria, M.",
+    "Yoshizawa, Tatsuya",
+    "Zhang, Tianli",
+    "Ono, Katsuhiko",
+    "Mizumoto, Tomoya",
+    "Sato, Yoshifumi",
+    "Sawa, Tomohiro",
+    "Yamagata, Kazuya"
+  ],
+  "doi": "10.3390/ijms26073153",
+  "url": "https://www.semanticscholar.org/paper/6bc0998c5be64f3c7db4d8d5d2ceb9a9bf2ce02d",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "International Journal of Molecular Sciences",
+  "citation_count": 4,
+  "abstract": "Sirtuins are nicotinamide adenine dinucleotide (NAD+)-dependent deacylases that remove acyl groups from lysine residues on target proteins, releasing nicotinamide. SIRT7 is associated with aging and a number of age-related diseases, but the enzymatic properties of SIRT7 are largely unknown. In the present study, we investigated the biochemical activity of SIRT7 by performing a series of in vitro kinetic studies in the presence of different acyl substrates. The binding affinity of SIRT7 for NAD+ was dependent on the acyl substrate, and SIRT7 showed a preference for depropionylation and demyristoylation. Nicotinamide, the end-product of the sirtuin reaction, inhibits the activity of SIRT1-6. We also found that the sensitivity of SIRT7 to nicotinamide inhibition also depended on the chain length of the acylated peptides and that nicotinamide was a poor inhibitor of SIRT7 with non-acetylated substrates. These findings may provide insights into the development of novel SIRT7 modulators for the treatment of age-related diseases.",
+  "type": "academic",
+  "pdf_url": ""
+}

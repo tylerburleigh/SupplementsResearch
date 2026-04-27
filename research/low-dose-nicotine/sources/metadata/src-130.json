@@ -1,0 +1,20 @@
+{
+  "id": "src-130",
+  "title": "The Critical Role of SIRT1 in Parkinson’s Disease: Mechanism and Therapeutic Considerations",
+  "authors": [
+    "Xuan, Li",
+    "Feng, Ya",
+    "Wang, Xixi",
+    "Truong, Daniel",
+    "Wu, Yun‐Cheng"
+  ],
+  "doi": "10.14336/ad.2020.0216",
+  "url": "https://openalex.org/W3106829333",
+  "provider": "openalex",
+  "year": 2020,
+  "venue": "Aging and Disease",
+  "citation_count": 127,
+  "abstract": "Silence information regulator 1 (SIRT1), a member of the sirtuin family, targets histones and many non-histone proteins and participates in various physiological functions. The enzymatic activity of SIRT1 is decreased in patients with Parkinson's disease (PD), which may reduce their ability to resist neuronal damage caused by various neurotoxins. As far as we know, SIRT1 can induce autophagy by regulating autophagy related proteins such as AMP-activated protein kinase, light chain 3, mammalian target of rapamycin, and forkhead transcription factor 1. Furthermore, SIRT1 can regulate mitochondrial function and inhibit oxidative stress mainly by maintaining peroxisome proliferator-activated receptor-γ coactivator-1α (PGC-1α) in a deacetylated state and thus maintaining a constant level of PGC-1α. Other studies have demonstrated that SIRT1 may play a role in the pathophysiology of PD by regulating neuroinflammation. SIRT1 deacetylases nuclear factor-kappa B and thus reduces its transcriptional activity, inhibits inducible nitric oxide synthase expression, and decreases tumor necrosis factor-alpha and interleukin-6 levels. SIRT1 can also upregulate heat shock protein 70 by deacetylating heat shock factor 1 to increase the degradation of α-synuclein oligomers. Few studies have focused on the relationship between SIRT1 single nucleotide polymorphisms and PD risk, so this topic requires further research. Based on the neuroprotective effects of SIRT1 on PD, many in vitro and in vivo experiments have demonstrated that some SIRT1 activators, notably resveratrol, have potential neuroprotective effects against dopaminergic neuronal damage caused by various neurotoxins. Thus, SIRT1 plays a critical role in PD development and might be a potential target for PD therapy.",
+  "type": "academic",
+  "pdf_url": "http://www.aginganddisease.org/EN/article/downloadArticleFile.do?attachType=PDF&id=147931"
+}

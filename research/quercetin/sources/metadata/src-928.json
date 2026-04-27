@@ -1,0 +1,23 @@
+{
+  "id": "src-928",
+  "title": "Leveraging Vitamin C to Augment Nanoenabled Photothermal Immunotherapy.",
+  "authors": [
+    "Deng, Wuxian",
+    "Wang, Yiyuan",
+    "Wang, Junyu",
+    "Su, Yitan",
+    "Li, Mingyang",
+    "Qu, Kun",
+    "Wang, Yucai",
+    "Li, Min"
+  ],
+  "doi": "10.1021/acsnano.4c17080",
+  "url": "https://www.semanticscholar.org/paper/5d8bce4b1e884cf48543e73944316e673eb46601",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "ACS Nano",
+  "citation_count": 6,
+  "abstract": "Photothermal immunotherapy (PTI) is valuable for precise tumor targeting and immune activation. However, its efficacy is hindered by insufficient immune response, elevated antioxidant levels within tumor, and intrinsic tumor resistance mechanisms. This study introduces Vitamin C (VC), a widely available dietary nutrient, as an effective enhancer for PTI. High-dose VC induces oxidative imbalance in tumor cells, making them more susceptible to nanoenabled near-infrared-II photothermal therapy (NIR-II PTT) with the photosensitizer IR1080. The combination of VC and NIR-II PTT significantly amplifies antitumor immunity by upregulating CXCL16 expression and promoting CXCR6+ T cell infiltration. Clinical data reveal that higher CXCL16 and CXCR6 levels in human tumors correlate with improved survival and T cell infiltration, underscoring the translational potential of this approach. This study positions VC as a safe, accessible, and cost-effective dietary enhancer for PTI, reshaping the role of dietary nutrients in cancer therapy and offering a strategy for overcoming treatment resistance.",
+  "type": "academic",
+  "pdf_url": ""
+}

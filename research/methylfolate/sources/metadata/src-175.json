@@ -1,0 +1,21 @@
+{
+  "id": "src-175",
+  "title": "Metabolomics and Microbiomes as Potential Tools to Evaluate the Effects of the Mediterranean Diet",
+  "authors": [
+    "Jin, Qi",
+    "Black, Alicen",
+    "Kales, Stefanos N.",
+    "Vattem, Dhiraj",
+    "Ruiz‐Canela, Miguel",
+    "Sotos‐Prieto, Mercedes"
+  ],
+  "doi": "10.3390/nu11010207",
+  "url": "https://openalex.org/W2910716440",
+  "provider": "openalex",
+  "year": 2019,
+  "venue": "Nutrients",
+  "citation_count": 95,
+  "abstract": "The approach to studying diet⁻health relationships has progressively shifted from individual dietary components to overall dietary patterns that affect the interaction and balance of low-molecular-weight metabolites (metabolome) and host-enteric mic{Citation}robial ecology (microbiome). Even though the Mediterranean diet (MedDiet) has been recognized as a powerful strategy to improve health, the accurate assessment of exposure to the MedDiet has been a major challenge in epidemiological and clinical studies. Interestingly, while the effects of individual dietary components on the metabolome have been described, studies investigating metabolomic profiles in response to overall dietary patterns (including the MedDiet), although limited, have been gaining attention. Similarly, the beneficial effects of the MedDiet on cardiometabolic outcomes may be mediated through gut microbial changes. Accumulating evidence linking food ingestion and enteric microbiome alterations merits the evaluation of the microbiome-mediated effects of the MedDiet on metabolic pathways implicated in disease. In this narrative review, we aimed to summarize the current evidence from observational and clinical trials involving the MedDiet by (1) assessing changes in the metabolome and microbiome for the measurement of diet pattern adherence and (2) assessing health outcomes related to the MedDiet through alterations to human metabolomics and/or the microbiome.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2072-6643/11/1/207/pdf?version=1548138567"
+}

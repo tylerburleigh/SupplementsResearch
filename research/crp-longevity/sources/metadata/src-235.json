@@ -1,0 +1,19 @@
+{
+  "id": "src-235",
+  "title": "Investigating the Inflammatory Link Between Vitamin D and Hidradenitis Suppurativa: A Systematic Review and Causal Inference Analysis",
+  "authors": [
+    "Spiteri, Jasmine",
+    "Grech, Laura",
+    "Mintoff, D.",
+    "Pace, N."
+  ],
+  "doi": "10.3390/ijms27062895",
+  "url": "https://www.semanticscholar.org/paper/e6d612bdbca499081b38dd5949edd6da39ce2bca",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "International Journal of Molecular Sciences",
+  "citation_count": 0,
+  "abstract": "An inverse correlation between serum vitamin D levels and hidradenitis suppurativa (HS) severity is frequently reported, yet the causal nature and direction of this association remain unresolved. A systematic review was conducted following PRISMA guidelines, identifying 12 relevant studies. A two-sample Mendelian randomization (MR) analysis using the inverse-variance weighted (IVW) method was subsequently performed using genetic instruments for vitamin D from the UK Biobank (n = 417,580) and HS summary statistics from FinnGen (n = 1420). The systematic review confirmed a high prevalence of vitamin D deficiency (<20 ng mL−1) among HS patients (weighted mean 17.90 ng mL−1) and identified inverse correlations between vitamin D levels and disease severity, active lesions, and C-reactive protein (CRP), while supplementation improved clinical outcomes. A null MR estimate consistent with the absence of a detectable average linear causal effect of lifelong genetically predicted 25(OH)D levels on HS risk in the analyzed population was observed. Sensitivity analyses yielded consistent null results with no significant horizontal pleiotropy. The results suggest that hypovitaminosis D is likely a marker of the systemic inflammatory state rather than a direct causative factor. The observed clinical benefits of vitamin D supplementation warrant further interventional studies to define its potential therapeutic role.",
+  "type": "academic",
+  "pdf_url": ""
+}

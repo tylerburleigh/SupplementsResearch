@@ -1,0 +1,20 @@
+{
+  "id": "src-165",
+  "title": "Hematologic, biochemical and immune biomarker abnormalities associated with severe illness and mortality in coronavirus disease 2019 (COVID-19): a meta-analysis",
+  "authors": [
+    "Henry, Brandon Michael",
+    "Oliveira, Maria Helena Santos de",
+    "Benoit, Stefanie W.",
+    "Plebani, Mario",
+    "Lippi, Giuseppe"
+  ],
+  "doi": "10.1515/cclm-2020-0369",
+  "url": "https://openalex.org/W3016127406",
+  "provider": "openalex",
+  "year": 2020,
+  "venue": "Clinical Chemistry and Laboratory Medicine (CCLM)",
+  "citation_count": 2039,
+  "abstract": "Background As coronavirus disease 2019 (COVID-19) pandemic rages on, there is urgent need for identification of clinical and laboratory predictors for progression towards severe and fatal forms of this illness. In this study we aimed to evaluate the discriminative ability of hematologic, biochemical and immunologic biomarkers in patients with and without the severe or fatal forms of COVID-19. Methods An electronic search in Medline (PubMed interface), Scopus, Web of Science and China National Knowledge Infrastructure (CNKI) was performed, to identify studies reporting on laboratory abnormalities in patients with COVID-19. Studies were divided into two separate cohorts for analysis: severity (severe vs. non-severe and mortality, i.e. non-survivors vs. survivors). Data was pooled into a meta-analysis to estimate weighted mean difference (WMD) with 95% confidence interval (95% CI) for each laboratory parameter. Results A total number of 21 studies was included, totaling 3377 patients and 33 laboratory parameters. While 18 studies (n = 2984) compared laboratory findings between patients with severe and non-severe COVID-19, the other three (n = 393) compared survivors and non-survivors of the disease and were thus analyzed separately. Patients with severe and fatal disease had significantly increased white blood cell (WBC) count, and decreased lymphocyte and platelet counts compared to non-severe disease and survivors. Biomarkers of inflammation, cardiac and muscle injury, liver and kidney function and coagulation measures were also significantly elevated in patients with both severe and fatal COVID-19. Interleukins 6 (IL-6) and 10 (IL-10) and serum ferritin were strong discriminators for severe disease. Conclusions Several biomarkers which may potentially aid in risk stratification models for predicting severe and fatal COVID-19 were identified. In hospitalized patients with respiratory distress, we recommend clinicians closely monitor WBC count, lymphocyte count, platelet count, IL-6 and serum ferritin as markers for potential progression to critical illness.",
+  "type": "academic",
+  "pdf_url": "https://www.degruyter.com/document/doi/10.1515/cclm-2020-0369/pdf?licenseType=free"
+}

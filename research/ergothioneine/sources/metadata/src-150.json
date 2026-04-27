@@ -1,0 +1,23 @@
+{
+  "id": "src-150",
+  "title": "Homostachydrine is a Xenobiotic Substrate of OCTN1/SLC22A4 and Potentially Sensitizes Pentylenetetrazole-Induced Seizures in Mice.",
+  "authors": [
+    "Nishiyama, Misa",
+    "Nakamichi, Noritaka",
+    "Yoshimura, Tomoyuki",
+    "Masuo, Yusuke",
+    "Komori, Tomoe",
+    "Ishimoto, Takahiro",
+    "Matsuo, Jun-Ichi",
+    "Kato, Yukio"
+  ],
+  "doi": "10.1007/s11064-020-03118-8",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/32844295",
+  "provider": "pubmed",
+  "year": 2020,
+  "venue": "Neurochemical research",
+  "citation_count": 0,
+  "abstract": "Understanding of the underlying mechanism of epilepsy is desired since some patients fail to control their seizures. The carnitine/organic cation transporter OCTN1/SLC22A4 is expressed in brain neurons and transports food-derived antioxidant ergothioneine (ERGO), L-carnitine, and spermine, all of which may be associated with epilepsy. This study aimed to clarify the possible association of this transporter with epileptic seizures. In both pentylenetetrazole (PTZ)-induced acute seizure and kindling models, ocnt1 gene knockout mice (octn1-/-) showed lower seizure scores compared with wild-type mice. Up-regulation of the epilepsy-related genes, c-fos and Arc, and the neurotrophic factor BDNF following PTZ administration was observed in the hippocampus of wild-type, but not octn1-/- mice. To find the OCTN1 substrate associated with the seizure, untargeted metabolomics analysis using liquid chromatography-quadrupole time-of-flight mass spectrometry was conducted on extracts from the hippocampus, frontal cortex, and plasma of both strains, leading to the identification of a plant alkaloid homostachydrine as a compound present in a lower concentration in octn1-/- mice. OCTN1-mediated uptake of deuterium-labeled homostachydrine was confirmed in OCTN1-transfected HEK293 cells, suggesting that this compound is a substrate of OCTN1. Homostachydrine administration increased PTZ-induced acute seizure scores and the expression of Arc in the hippocampus and that of Arc, Egr1, and BDNF in the frontal cortex. Conversely, administration of the OCTN1 substrate/inhibitor ERGO inhibited PTZ-induced kindling and reduced the plasma homostachydrine concentration. Thus, these results suggest that OCTN1 is at least partially associated with PTZ-induced seizures, which is potentially deteriorated by treatment with homostachydrine, a newly identified food-derived OCTN1 substrate.",
+  "type": "academic",
+  "pdf_url": ""
+}

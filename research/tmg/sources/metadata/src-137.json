@@ -1,0 +1,15 @@
+{
+  "id": "src-137",
+  "title": "Genetic regulation of the cellular and organismal response to hypertonic stress in C. elegans",
+  "authors": [
+    "Urso, Sarel J."
+  ],
+  "url": "https://openalex.org/W3161048813",
+  "provider": "openalex",
+  "year": 2021,
+  "venue": "D-Scholarship@Pitt (University of Pittsburgh)",
+  "citation_count": 0,
+  "abstract": "Virtually all cells must maintain osmotic homeostasis in order to survive. Changes in extracellular osmolarity due to both physiological and pathophysiological conditions disrupt osmotic homeostasis and elicit rapid cellular responses. In particular, increased extracellular osmolarity (hypertonic stress, HTS) causes a rapid decrease in cell volume leading to increased intracellular ionic strength. One major pathway cells activate to counteract HTS involves the upregulation of genes that facilitate accumulation of small organic solutes called compatible osmolytes. Compatible osmolytes restore cell volume, decrease intracellular ionic strength, and promote proper protein folding. The mechanisms by which animals detect HTS and activate osmoprotective gene expression, including genes involved in osmolyte accumulation, remain poorly understood. Similarly to humans, Caenorhabditis elegans responds to HTS by synthesizing compatible osmolytes from glucose metabolic products. C. elegans synthesizes the compatible osmolyte glycerol by transcriptionally upregulating the enzyme that catalyzes the rate-limiting step in glycerol biosynthesis, glycerol-3-phosphate dehydrogenase (GPDH-1). To understand how the hypertonic stress response (HTSR) is coordinated in animals, I conducted a genetic screen to identify mutants with no induction of osmolyte biosynthesis gene expression (Nio mutants). In this screen I discovered ten loss-of-function (LOF) recessive single-gene mutants with impaired hypertonic induction of a gpdh-1 reporter. In addition to a Nio phenotype, four of these mutants were unable to adapt to HTS. The phenotype-causing mutations in two of these mutants were distinct nonsense single nucleotide polymorphisms in the conserved O-GlcNAc transferase OGT-1. The phenotype-causing mutations in the other two mutants were LOF missense mutations in interacting components of the 3’ mRNA cleavage and polyadenylation complex. Upon further characterization, I found that ogt-1 is required in an osmosensitive hypodermal cell signaling pathway for the post-transcriptional induction of gpdh-1. Surprisingly, OGT-1 does not function through its well-studied enzymatic O-GlcNAcylation activity in this pathway. Additionally, my data suggest that OGT-1 and the 3’ cleavage and polyadenylation complex function through separate cellular pathways to regulate the HTSR. The results from my thesis project not only describe novel functions of conserved and well-studied proteins, but they also identify unusual paradigms of gene regulation that may be applicable to physiological contexts outside of the HTSR.",
+  "type": "academic",
+  "pdf_url": "http://d-scholarship.pitt.edu/41015/1/Urso_dissertation_2021_final_revised.pdf"
+}

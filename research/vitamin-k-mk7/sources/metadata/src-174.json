@@ -1,0 +1,28 @@
+{
+  "id": "src-174",
+  "title": "The Effect of Vitamin D on Falls: A Systematic Review and Meta-Analysis",
+  "authors": [
+    "Murad, M. Hassan",
+    "Elamin, Khalid B.",
+    "Elnour, Nisrin O. Abu",
+    "Elamin, Mohamed B.",
+    "Alkatib, Aziz A.",
+    "Fatourechi, Mitra M.",
+    "Almandoz, Jaime P.",
+    "Mullan, Rebecca J.",
+    "Lane, Melanie A.",
+    "Liu, Hau",
+    "Erwin, Patricia J.",
+    "Hensrud, Donald D.",
+    "Montori, Víctor M."
+  ],
+  "doi": "10.1210/jc.2011-1193",
+  "url": "https://openalex.org/W2101237572",
+  "provider": "openalex",
+  "year": 2011,
+  "venue": "The Journal of Clinical Endocrinology & Metabolism",
+  "citation_count": 389,
+  "abstract": "Vitamin D combined with calcium reduces the risk of falls. The reduction in studies without calcium coadministration did not reach statistical significance. The majority of the evidence is derived from trials enrolling elderly women.",
+  "type": "academic",
+  "pdf_url": "https://academic.oup.com/jcem/article-pdf/96/10/2997/9110010/jcem2997.pdf"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "src-054",
+  "title": "Examination of Physiologically-Based Pharmacokinetic Models of Rosuvastatin.",
+  "authors": [
+    "Bowman, Christine M",
+    "Ma, Fang",
+    "Mao, Jialin",
+    "Chen, Yuan"
+  ],
+  "doi": "10.1002/psp4.12571",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/33220025",
+  "provider": "pubmed",
+  "year": 2021,
+  "venue": "CPT: pharmacometrics & systems pharmacology",
+  "citation_count": 0,
+  "abstract": "Physiologically-based pharmacokinetic (PBPK) modeling is increasingly used to predict drug disposition and drug-drug interactions (DDIs). However, accurately predicting the pharmacokinetics of transporter substrates and transporter-mediated DDIs (tDDIs) is still challenging. Rosuvastatin is a commonly used substrate probe in DDI risk assessment for new molecular entities (NMEs) that are potential organic anion transporting polypeptide 1B or breast cancer resistance protein transporter inhibitors, and as such, several rosuvastatin PBPK models have been developed to try to predict the clinical DDI and support NME drug labeling. In this review, we examine five representative PBPK rosuvastatin models, discuss common challenges that the models have come across, and note remaining gaps. These shared learnings will help with the continuing efforts of rosuvastatin model validation, provide more information to understand transporter-mediated drug disposition, and increase confidence in tDDI prediction.",
+  "type": "academic",
+  "pdf_url": ""
+}

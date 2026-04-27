@@ -1,0 +1,20 @@
+{
+  "id": "src-273",
+  "title": "Decoupling AMPK from fatty acid synthesis allows maintenance of fitness late in life",
+  "authors": [
+    "Hadj-Moussa, Hanane",
+    "Ulusan, Megan",
+    "Horkai, Dorottya",
+    "Mirza, Mohammed Kamran Afzal",
+    "Houseley, J."
+  ],
+  "doi": "10.1101/2025.03.27.645766",
+  "url": "https://www.semanticscholar.org/paper/6cfcca39c87db49074aa87aa9ce7bd9b18a54758",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "bioRxiv",
+  "citation_count": 0,
+  "abstract": "Although lifespan has long been the focus of ageing research, preventing functional decline late in life is a more pressing societal need. Here, we investigate the basis of senescence and declining fitness during replicative ageing in budding yeast, and describe a metabolic perturbation that preserves late-life fitness even on an unrestricted glucose diet. We show that senescence can be prevented by constitutive activation of AMPK, though only for approximately half the ageing population, and use genetic and functional assays to link this heterogeneous response with differences in cytosolic acetyl coenzyme A (Acetyl-CoA) metabolism. In one class of ageing cell, AMPK activity maintains fitness late-in-life through pathways that transport cytosolic Acetyl-CoA into mitochondria, but AMPK also inhibits fatty acid synthesis which leads to lipid starvation in the other class of ageing cell. Therefore, AMPK activity has both positive and negative effects, but we show that constitutive AMPK activity uncoupled from fatty acid synthesis inhibition (the A2A mutant) suppresses senescence and maintains fitness in both classes of ageing cell. We further implicate lipid starvation and excess acetyl coenzyme A availability as major drivers of senescence in replicatively aged wild-type yeast. Our work shows that ageing is not intrinsically associated with declining fitness, at least in yeast, and that re-engineering highly conserved metabolic pathways allows fitness to be preserved very late in life. Graphical abstract",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.1101/2025.03.27.645766"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "src-087",
+  "title": "Identification of a novel senolytic agent, navitoclax, targeting the Bcl-2 family of anti-apoptotic factors.",
+  "authors": [
+    "Zhu, Yi",
+    "Tchkonia, Tamara",
+    "Fuhrmann-Stroissnigg, Heike",
+    "Dai, Haiming M",
+    "Ling, Yuanyuan Y",
+    "Stout, Michael B",
+    "Pirtskhalava, Tamar",
+    "Giorgadze, Nino",
+    "Johnson, Kurt O",
+    "Giles, Cory B",
+    "Wren, Jonathan D",
+    "Niedernhofer, Laura J",
+    "Robbins, Paul D",
+    "Kirkland, James L"
+  ],
+  "doi": "10.1111/acel.12445",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/26711051",
+  "provider": "pubmed",
+  "year": 2016,
+  "venue": "Aging cell",
+  "citation_count": 0,
+  "abstract": "Clearing senescent cells extends healthspan in mice. Using a hypothesis-driven bioinformatics-based approach, we recently identified pro-survival pathways in human senescent cells that contribute to their resistance to apoptosis. This led to identification of dasatinib (D) and quercetin (Q) as senolytics, agents that target some of these pathways and induce apoptosis preferentially in senescent cells. Among other pro-survival regulators identified was Bcl-xl. Here, we tested whether the Bcl-2 family inhibitors, navitoclax (N) and TW-37 (T), are senolytic. Like D and Q, N is senolytic in some, but not all types of senescent cells: N reduced viability of senescent human umbilical vein epithelial cells (HUVECs), IMR90 human lung fibroblasts, and murine embryonic fibroblasts (MEFs), but not human primary preadipocytes, consistent with our previous finding that Bcl-xl siRNA is senolytic in HUVECs, but not preadipocytes. In contrast, T had little senolytic activity. N targets Bcl-2, Bcl-xl, and Bcl-w, while T targets Bcl-2, Bcl-xl, and Mcl-1. The combination of Bcl-2, Bcl-xl, and Bcl-w siRNAs was senolytic in HUVECs and IMR90 cells, while combination of Bcl-2, Bcl-xl, and Mcl-1 siRNAs was not. Susceptibility to N correlated with patterns of Bcl-2 family member proteins in different types of human senescent cells, as has been found in predicting response of cancers to N. Thus, N is senolytic and acts in a potentially predictable cell type-restricted manner. The hypothesis-driven, bioinformatics-based approach we used to discover that dasatinib (D) and quercetin (Q) are senolytic can be extended to increase the repertoire of senolytic drugs, including additional cell type-specific senolytic agents.",
+  "type": "academic",
+  "pdf_url": ""
+}

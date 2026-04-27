@@ -1,0 +1,19 @@
+{
+  "id": "src-072",
+  "title": "From psychiatry to neurology: Psychedelics as prospective therapeutics for neurodegenerative disorders",
+  "authors": [
+    "Kozłowska, Urszula",
+    "Nichols, Charles D.",
+    "Wiatr, Kalina",
+    "Figiel, Maciej"
+  ],
+  "doi": "10.1111/jnc.15509",
+  "url": "https://openalex.org/W3201526264",
+  "provider": "openalex",
+  "year": 2021,
+  "venue": "Journal of Neurochemistry",
+  "citation_count": 72,
+  "abstract": "The studies of psychedelics, especially psychedelic tryptamines like psilocybin, are rapidly gaining interest in neuroscience research. Much of this interest stems from recent clinical studies demonstrating that they have a unique ability to improve the debilitating symptoms of major depressive disorder (MDD) long-term after only a single treatment. Indeed, the Food and Drug Administration (FDA) has recently designated two Phase III clinical trials studying the ability of psilocybin to treat forms of MDD with \"Breakthrough Therapy\" status. If successful, the use of psychedelics to treat psychiatric diseases like depression would be revolutionary. As more evidence appears in the scientific literature to support their use in psychiatry to treat MDD on and substance use disorders (SUD), recent studies with rodents revealed that their therapeutic effects might extend beyond treating MDD and SUD. For example, psychedelics may have efficacy in the treatment and prevention of brain injury and neurodegenerative diseases such as Alzheimer's Disease. Preclinical work has highlighted psychedelics' ability to induce neuroplasticity and synaptogenesis, and neural progenitor cell proliferation. Psychedelics may also act as immunomodulators by reducing levels of proinflammatory biomarkers, including IL-1β, IL-6, and tumor necrosis factor-α (TNF-α). Their exact molecular mechanisms, and induction of cellular interactions, especially between neural and glial cells, leading to therapeutic efficacy, remain to be determined. In this review, we discuss recent findings and information on how psychedelics may act therapeutically on cells within the central nervous system (CNS) during brain injuries and neurodegenerative diseases.",
+  "type": "academic",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/jnc.15509"
+}

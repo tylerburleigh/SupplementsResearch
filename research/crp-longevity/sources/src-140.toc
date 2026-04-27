@@ -1,0 +1,15 @@
+10	2	Summary
+46	2	Introduction
+62	2	3 Specifically, in CANTOS, random allocation
+78	2	Appendix
+103	2	900 Commonwealth Avenue,
+130	2	Methods
+222	2	Statistical Analysis
+455	2	Results
+867	2	3 In on-treatment analyses, the incidence
+881	2	Discussion
+1176	2	3 However, as shown in the
+1202	2	22 Last, we believe the clinical approach of
+1227	2	Acknowledgments
+1229	2	References
+1281	2	11 Giugliano RP, Pedersen TR, P

@@ -1,0 +1,38 @@
+{
+  "id": "src-105",
+  "title": "Chemopreventive Effect of PSP Through Targeting of Prostate Cancer Stem Cell-Like Population",
+  "authors": [
+    "Luk, Sze-Ue",
+    "Lee, Terence Kin-Wah",
+    "Liu, Ji",
+    "Lee, Davy Tak-Wing",
+    "Chiu, Yung-Tuen",
+    "Ma, Stephanie",
+    "Ng, Irene Oi-Lin",
+    "Wong, Yong-Chuan",
+    "Chan, Franky Leung",
+    "Ling, Ming-Tat"
+  ],
+  "year": 2011,
+  "abstract": "",
+  "doi": "10.1371/journal.pone.0019804",
+  "url": "https://doi.org/10.1371/journal.pone.0019804",
+  "pdf_url": "",
+  "venue": "PLoS ONE",
+  "citation_count": 37,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-23T18:37:33.029679+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-105.md",
+  "quality_details": {
+    "content_length": 38144,
+    "alpha_ratio": 0.764,
+    "sentence_count": 333,
+    "reasons": []
+  }
+}

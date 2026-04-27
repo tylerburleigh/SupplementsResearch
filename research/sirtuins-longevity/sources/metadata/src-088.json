@@ -1,0 +1,22 @@
+{
+  "id": "src-088",
+  "title": "Aerobic exercise alleviates statin-induced PCSK9 upregulation by increasing epoxyeicosatrienoic acid levels through the FoxO3a-Sirt6 axis.",
+  "authors": [
+    "Hu, Jiahui",
+    "Lei, Hao",
+    "Chen, Jingyuan",
+    "Liu, Leiling",
+    "Gui, Yajun",
+    "Sun, Kaijun",
+    "Xu, Danyan"
+  ],
+  "doi": "10.1016/j.jshs.2024.101007",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39510317",
+  "provider": "pubmed",
+  "year": 2025,
+  "venue": "Journal of sport and health science",
+  "citation_count": 0,
+  "abstract": "BACKGROUND: Statins are the cornerstone of low-density lipoprotein cholesterol (LDL-C)-lowering therapy; however, the therapeutic efficacy of statins in countering atherosclerotic cardiovascular disease (ASCVD) is compromised by the concurrent elevation of proprotein convertase subtilisin/kexin type 9 (PCSK9), a pivotal molecule that increases LDL-C levels. Aerobic exercise lowers PCSK9 levels, but the underlying mechanism remains unclear. Therefore, we investigated how aerobic exercise can ameliorate statin-induced increases in PCSK9 levels.\nMETHODS: Three-week-old male American Institute of Cancer Research (ICR) mice were fed a high-fat-cholesterol diet (HFD) for 12 weeks and then administered atorvastatin alone or atorvastatin combined with aerobic exercise (Statin + Ex). Moreover, a total of 165 participants with stable coronary heart disease (CHD) enrolled at the Inpatient and Outpatient Departments of the Second Xiangya Hospital of Central South University, China, from January 2018 to July 2020 were randomized into the Statin group (male/female = 51/33) and Statin + Ex group (male/female = 52/29). Patients in the Statin + Ex group underwent treadmill exercise of 45-60 min/day for 7 days.\nRESULTS: Aerobic exercise effectively alleviated statin-induced PCSK9 upregulation in human patients with CHD and hypercholesterolemic ICR mice (all p < 0.05). Mechanistically, our findings revealed that aerobic exercise induced elevated epoxyeicosatrienoic acids (EETs) plasma levels while concurrently reducing the activity of soluble epoxide hydrolase (sEH) (all p < 0.05), an enzyme responsible for EETs degradation. Further, EETs significantly suppressed PCSK9 expression, subsequently reducing the LDL-C levels (all p < 0.05); this effect was mediated via the activation of the forkhead box O3a-silent mating type information regulation 2 homolog 6 (FoxO3a-Sirt6) axis, with no impact on the sterol regulatory element binding protein 2 and 3-hydroxy-3-methylglutaryl-CoA reductase (SREBP2-HMGCR) pathway.\nCONCLUSION: Our study sheds light on the paradigm of \"Exercise is Medicine\", providing evidence to support the use of statins combined with exercise in reducing LDL-C levels, and unveils potential avenues for clinical applications of sEH inhibitors, presenting novel prospects for therapeutic interventions in ASCVD.",
+  "type": "academic",
+  "pdf_url": ""
+}

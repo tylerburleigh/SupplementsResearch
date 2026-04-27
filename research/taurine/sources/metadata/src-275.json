@@ -1,0 +1,16 @@
+{
+  "id": "src-275",
+  "title": "The Review on Adverse Effects of Energy Drinks and Their Potential Drug Interactions",
+  "authors": [
+    "Dobrek, Łukasz"
+  ],
+  "doi": "10.3390/nu17152435",
+  "url": "https://openalex.org/W4413095856",
+  "provider": "openalex",
+  "year": 2025,
+  "venue": "Nutrients",
+  "citation_count": 8,
+  "abstract": "<b>Background:</b> Energy drinks (EDs) are non-alcoholic, functional beverages sold worldwide in more than 165 countries. These products are very popular and often consumed by children, teenagers, and young adults to improve physical performance, reduce drowsiness, and improve memory and concentration with increased intellectual effort. However, their consumption is associated with an increased risk of various health consequences. <b>Objectives:</b> The purpose of this non-systematic review was to discuss the components of EDs and their effects, summarize the AEs reported in the literature associated with the consumption of EDs, and briefly characterize the possible ED-related drug interactions. <b>Methods</b>: Scientific evidence was extracted by searching the databases PubMed and Google Scholar. In addition, the reference lists of the retrieved papers were reviewed and cross-referenced to reveal additional relevant scientific evidence. <b>Results:</b> The most common ingredients in EDs are caffeine, taurine, glucuronolactone, B vitamins, the vitamin-like compound inositol, and sweeteners (sugar, fructose, glucose-fructose syrup or artificial sweeteners). Although it is difficult to conclusively prove a cause-and-effect relationship between the consumption of EDs and the observed pathophysiological abnormalities, most scientific evidence (mostly clinical case reports) indicates that both occasional and especially chronic use of EDs is associated with the occurrence of numerous adverse effects (AEs). Among these, the best documented AEs are those on the cardiovascular system. It should also be noted that the components of EDs (primarily caffeine) may have drug interactions; therefore, EDs may be an important factor influencing the safety of pharmacotherapy in patients consuming EDs. <b>Conclusions:</b> Consuming energy drinks lead to various health problems and may interfere with pharmacotherapy due to the potential development of drug interactions. Due to the widespread availability of EDs, their suggestive advertising aimed at the youngest customers, and ambiguous regulations, new legislative policies are required to limit the widespread consumption of such products and their negative health effects.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2072-6643/17/15/2435/pdf?version=1753841005"
+}

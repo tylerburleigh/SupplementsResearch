@@ -1,0 +1,20 @@
+{
+  "id": "src-045",
+  "title": "The role of Lactobacillus in inflammatory bowel disease: from actualities to prospects",
+  "authors": [
+    "Li, C.-L.",
+    "Peng, Kaixin",
+    "Xiao, Siqi",
+    "Long, Yuanyuan",
+    "Yu, Qin"
+  ],
+  "doi": "10.1038/s41420-023-01666-w",
+  "url": "https://openalex.org/W4387187785",
+  "provider": "openalex",
+  "year": 2023,
+  "venue": "Cell Death Discovery",
+  "citation_count": 171,
+  "abstract": "Inflammatory Bowel Disease (IBD), a chronic nonspecific intestinal inflammatory disease, is comprised of Ulcerative Colitis (UC) and Crohn's Disease (CD). IBD is closely related to a systemic inflammatory reaction and affects the progression of many intestinal and extraintestinal diseases. As one of the representative bacteria for probiotic-assisted therapy in IBD, multiple strains of Lactobacillus have been proven to alleviate intestinal damage and strengthen the intestinal immunological barrier, epithelial cell barrier, and mucus barrier. Lactobacillus also spares no effort in the alleviation of IBD-related diseases such as Colitis-associated Colorectal cancer (CAC), Alzheimer's Disease (AD), Depression, Anxiety, Autoimmune Hepatitis (AIH), and so on via gut-brain axis and gut-liver axis. This article aims to discuss the role of Lactobacillus in IBD and IBD-related diseases, including its underlying mechanisms and related curative strategies from the present to the future.",
+  "type": "academic",
+  "pdf_url": "https://www.nature.com/articles/s41420-023-01666-w.pdf"
+}

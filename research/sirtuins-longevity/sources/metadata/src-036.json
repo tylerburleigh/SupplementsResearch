@@ -1,0 +1,21 @@
+{
+  "id": "src-036",
+  "title": "Abstract 7250: Serial assessment of GEN2, a retroviral vector for gene transfer of an optimized thymidine kinase and GM-CSF, for genomic integration into peripheral blood mononuclear cells (PBMCs) in a Phase 1 clinical trial in adult patients with solid tumors",
+  "authors": [
+    "Hannah, Alison L.",
+    "Kasahara, N.",
+    "Liu, Li",
+    "Wang, Allen",
+    "McNulty, Joe",
+    "Johnson, Robert G."
+  ],
+  "doi": "10.1158/1538-7445.am2024-7250",
+  "url": "https://www.semanticscholar.org/paper/967c18583b27ee3914d25d916c1e12614b512d0e",
+  "provider": "semantic_scholar",
+  "year": 2024,
+  "venue": "Cancer Research",
+  "citation_count": 0,
+  "abstract": "GEN2 is a non-replicating retroviral gene transfer vector encoding a sequence-optimized herpes simplex thymidine kinase (HSV-TK), which activates the antiherpetic pro-drug ganciclovir (GCV), resulting in chain termination during DNA replication, triggering cancer cell apoptosis and release of neoantigens (NA). GEN2 also encodes hGM-CSF, which may augment antitumor immunity by enhancing NA presentation to immune effector cells. GEN2 in combination with valganciclovir (an oral formulation of GCV) was evaluated in a dose-escalating Phase 1 clinical trial in 61 adult patients (pts) with an advanced solid tumor (NCT04313868), with serial assessment of PBMCs to detect any GEN2 integration and replication competent retrovirus (RCR). Methods: PBMCs were obtained in Cycle 1 (following 1st/3rd dose), prior to and 2 hours after Cycle 2, and thereafter at 6-month intervals for 15 years, or until death or withdrawal of consent. Digital droplet PCR (ddPCR) for psi and envelope gene sequences in extracted genomic DNA from PBMCs was used to detect vector genome integration and replication competent retrovirus (RCR), respectively. Results: All 82 samples obtained from the intravenous cohorts 1-12 were below LOD (Limit of Detection) for RCR. All results for integration were BLOQ (Below Limit of Quantitation), whereas 4 samples collected at two hours following the end of infusion were above LOD, likely resulting from non-integrated cDNA. GEN2 continues to be studied in clinical trials in adult patients with solid tumors. Per the 2020 FDA Guidance for Industry (Long Term Follow-Up After Administration of Human Gene Therapy Products), serial assessment of vector integration is mandated throughout a pt’s participation in a gene therapy clinical trial and for 15 years following the last dose. These guidance documents were originally conceived when gene therapy was developed for treatment of rare hereditary diseases in pediatric pts; however, adult pts enrolled in early-stage clinical trials for cancer typically do not have a prolonged life expectancy (BMC Cancer 2011 11:426). In the context of proper and warranted usage of pts’ blood for testing, attention should be drawn to the limited expectation for a 2nd malignancy within the lifespan of this pt population, and the absence of detectable RCR in cancer patients receiving retroviral vectors over decades. A recent review noted no evidence of RCR in 1,595 post-treatment PBMCs obtained from 60 clinical trials (Mol Ther 2023 31(3):801). Our results confirm that GEN2 also shows negligible genotoxic risk for gene therapy of cancer at doses tested to date.\nCitation Format: Alison L. Hannah, Noriyuki Kasahara, Li Liu, Allen Wang, Joe McNulty, Robert G. Johnson. Serial assessment of GEN2, a retroviral vector for gene transfer of an optimized thymidine kinase and GM-CSF, for genomic integration into peripheral blood mononuclear cells (PBMCs) in a Phase 1 clinical trial in adult patients with solid tumors [abstract]. In: Proceedings of the American Association for Cancer Research Annual Meeting 2024; Part 1 (Regular Abstracts); 2024 Apr 5-10; San Diego, CA. Philadelphia (PA): AACR; Cancer Res 2024;84(6_Suppl):Abstract nr 7250.",
+  "type": "academic",
+  "pdf_url": ""
+}

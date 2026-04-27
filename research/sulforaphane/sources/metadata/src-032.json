@@ -1,0 +1,35 @@
+{
+  "id": "src-032",
+  "title": "The efficacy and safety of sulforaphane as an adjuvant in the treatment of bipolar depressive disorder",
+  "authors": [
+    "Wu, Congchong",
+    "Chen, Xingyang",
+    "Lai, Jianbo",
+    "Xu, Yi",
+    "Hu, Shaohua"
+  ],
+  "year": 2020,
+  "abstract": "Abstract\n\nBackground:\nBipolar disorder (BD) is a chronic and disabling psychiatric disorder. The treatment of BD still remains a significant clinical challenge due to the complex nature of the disease. Nutraceutical therapy as adjunctive role is a promising therapy for BD. Sulforaphane (SFN), a broccoli extract, was reported to be effective for emotional problems and cognitive impairment. However, clinical research of SFN in the treatment of BD was rare. Therefore, this study is designed to evaluate the adjuvant role of SFN in the treatment of BD.\n\nMethods:\nThis is a randomized, double-blinded, placebo-controlled, parallel-group clinical trial. A total of 100 patients who meet inclusion criteria will be assigned to receive quetiapine plus SFN or quetiapine plus placebo in a 1:1 ratio. The total duration of the study will be 12 weeks including 5 follow ups. The primary outcome is in the Montgomery–Asberg depression rating scale. The secondary outcomes are the quick inventory of depressive symptomatology—self report, Hamilton anxiety rating scale, young mania rating scale, cognitive function, inflammatory factors, and intestinal flora. Any adverse events will be recorded throughout the trial.\n\nDiscussion:\nThis trial will provide evidences to evaluate the efficacy and safety of SFN combined with quetiapine in the treatment of BD patients, as well as the adjuvant role of SFN in combination.\n\nTrial registration:\nThis study protocol was registered at the Chinese clinical trial registry (ChiCTR2000028706).",
+  "doi": "10.1097/md.0000000000020981",
+  "url": "https://doi.org/10.1097/md.0000000000020981",
+  "pdf_url": "",
+  "venue": "Medicine",
+  "citation_count": 5,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-18T23:19:19.202708+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-032.md",
+  "quality_details": {
+    "content_length": 23248,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

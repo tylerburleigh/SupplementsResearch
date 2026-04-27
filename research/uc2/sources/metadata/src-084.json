@@ -1,0 +1,33 @@
+{
+  "id": "src-084",
+  "title": "Role of Collagen Derivatives in Osteoarthritis and Cartilage Repair: A Systematic Scoping Review With Evidence Mapping",
+  "authors": [
+    "Honvo, Germain",
+    "Lengelé, Laetitia",
+    "Charles, Alexia",
+    "Reginster, Jean-Yves",
+    "Bruyère, Olivier"
+  ],
+  "year": 2020,
+  "abstract": "",
+  "doi": "10.1007/s40744-020-00240-5",
+  "url": "https://doi.org/10.1007/s40744-020-00240-5",
+  "pdf_url": "",
+  "venue": "Rheumatology and Therapy",
+  "citation_count": 46,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-19T13:54:43.805902+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-084.md",
+  "quality_details": {
+    "content_length": 111723,
+    "alpha_ratio": 0.773,
+    "sentence_count": 697,
+    "reasons": []
+  }
+}

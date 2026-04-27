@@ -1,0 +1,19 @@
+13	2	Undenatured Collagen Type Ii For The
+14	2	Treatment Of Osteoarthritis Of The Knee
+16	2	Tratamento Da Osteoartrite Do Joelho
+23	2	Abstract
+44	2	Resumo
+65	2	Introduction
+182	2	Materials And Methods
+229	2	Results
+248	2	Discussion
+292	2	Bmi
+299	2	Vas
+313	2	Womac
+375	2	Womac
+385	2	Womac
+395	2	Womac
+447	2	Conclusion
+463	2	References
+492	2	9. Van Baarsen LGM, Lebre MC, Van der Coelen D, Aarrass S, Tang MW,
+504	2	12. Van Vijven JPJ, Luijsterburg PAJ, Verhagen AP, van Osch GJVM, Kloppenburg

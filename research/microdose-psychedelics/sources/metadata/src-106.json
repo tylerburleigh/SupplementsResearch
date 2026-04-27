@@ -1,0 +1,17 @@
+{
+  "id": "src-106",
+  "title": "Preclinical models of treatment-resistant depression: challenges and perspectives",
+  "authors": [
+    "Kolasa, Magdalena",
+    "Faron‐Górecka, Agata"
+  ],
+  "doi": "10.1007/s43440-023-00542-9",
+  "url": "https://openalex.org/W4387949493",
+  "provider": "openalex",
+  "year": 2023,
+  "venue": "Pharmacological Reports",
+  "citation_count": 17,
+  "abstract": "Treatment-resistant depression (TRD) is a subgroup of major depressive disorder in which the use of classical antidepressant treatments fails to achieve satisfactory treatment results. Although there are various definitions and grading models for TRD, common criteria for assessing TRD have still not been established. However, a common feature of any TRD model is the lack of response to at least two attempts at antidepressant pharmacotherapy. The causes of TRD are not known; nevertheless, it is estimated that even 60% of TRD patients are so-called pseudo-TRD patients, in which multiple biological factors, e.g., gender, age, and hormonal disturbances are concomitant with depression and involved in antidepressant drug resistance. Whereas the phenomenon of TRD is a complex disorder difficult to diagnose and successfully treat, the search for new treatment strategies is a significant challenge of modern pharmacology. It seems that despite the complexity of the TRD phenomenon, some useful animal models of TRD meet the construct, the face, and the predictive validity criteria. Based on the literature and our own experiences, we will discuss the utility of animals exposed to the stress paradigm (chronic mild stress, CMS), and the Wistar Kyoto rat strain representing an endogenous model of TRD. In this review, we will focus on reviewing research on existing and novel therapies for TRD, including ketamine, deep brain stimulation (DBS), and psychedelic drugs in the context of preclinical studies in representative animal models of TRD.",
+  "type": "academic",
+  "pdf_url": "https://link.springer.com/content/pdf/10.1007/s43440-023-00542-9.pdf"
+}

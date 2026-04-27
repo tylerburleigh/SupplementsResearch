@@ -1,0 +1,19 @@
+{
+  "id": "src-226",
+  "title": "Inflammation in CNS neurodegenerative diseases",
+  "authors": [
+    "Stephenson, Jodie",
+    "Nutma, Erik",
+    "Valk, Paul van der",
+    "Amor, Sandra"
+  ],
+  "doi": "10.1111/imm.12922",
+  "url": "https://openalex.org/W2792813804",
+  "provider": "openalex",
+  "year": 2018,
+  "venue": "Immunology",
+  "citation_count": 930,
+  "abstract": "Neurodegenerative diseases, the leading cause of morbidity and disability, are gaining increased attention as they impose a considerable socioeconomic impact, due in part to the ageing community. Neuronal damage is a pathological hallmark of Alzheimer's and Parkinson's diseases, amyotrophic lateral sclerosis, Huntington's disease, spinocerebellar ataxia and multiple sclerosis, although such damage is also observed following neurotropic viral infections, stroke, genetic white matter diseases and paraneoplastic disorders. Despite the different aetiologies, for example, infections, genetic mutations, trauma and protein aggregations, neuronal damage is frequently associated with chronic activation of an innate immune response in the CNS. The growing awareness that the immune system is inextricably involved in shaping the brain during development as well as mediating damage, but also regeneration and repair, has stimulated therapeutic approaches to modulate the immune system in neurodegenerative diseases. Here, we review the current understanding of how astrocytes and microglia, as well as neurons and oligodendrocytes, shape the neuroimmune response during development, and how aberrant responses that arise due to genetic or environmental triggers may predispose the CNS to neurodegenerative diseases. We discuss the known interactions between the peripheral immune system and the brain, and review the current concepts on how immune cells enter and leave the CNS. A better understanding of neuroimmune interactions during development and disease will be key to further manipulating these responses and the development of effective therapies to improve quality of life, and reduce the impact of neuroinflammatory and degenerative diseases.",
+  "type": "academic",
+  "pdf_url": "https://research.vumc.nl/en/publications/4b5f27e5-eaae-4b1c-b42e-1c76c61a072d"
+}

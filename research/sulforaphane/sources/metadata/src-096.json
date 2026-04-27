@@ -1,0 +1,19 @@
+{
+  "id": "src-096",
+  "title": "Aflatoxin: A 50-Year Odyssey of Mechanistic and Translational Toxicology",
+  "authors": [
+    "Kensler, Thomas W.",
+    "Roebuck, Bill D.",
+    "Wogan, Gerald N.",
+    "Groopman, John D."
+  ],
+  "doi": "10.1093/toxsci/kfq283",
+  "url": "https://openalex.org/W2114426273",
+  "provider": "openalex",
+  "year": 2010,
+  "venue": "Toxicological Sciences",
+  "citation_count": 672,
+  "abstract": "Since their discovery 50 years ago, the aflatoxins have become recognized as ubiquitous contaminants of the human food supply throughout the economically developing world. The adverse toxicological consequences of these compounds in populations are quite varied because of a wide range of exposures leading to acute effects, including rapid death, and chronic outcomes such as hepatocellular carcinoma. Furthermore, emerging studies describe a variety of general adverse health effects associated with aflatoxin, such as impaired growth in children. Aflatoxin exposures have also been demonstrated to multiplicatively increase the risk of liver cancer in people chronically infected with hepatitis B virus (HBV) illustrating the deleterious impact that even low toxin levels in the diet can pose for human health. The public health impact of aflatoxin exposure is pervasive. Aflatoxin biomarkers of internal and biologically effective doses have been integral to the establishment of the etiologic role of this toxin in human disease through better estimates of exposure, expanded knowledge of the mechanisms of disease pathogenesis, and as tools for implementing and evaluating preventive interventions.",
+  "type": "academic",
+  "pdf_url": "https://academic.oup.com/toxsci/article-pdf/120/suppl_1/S28/4573647/kfq283.pdf"
+}

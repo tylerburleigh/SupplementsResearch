@@ -1,0 +1,25 @@
+{
+  "id": "src-065",
+  "title": "Diet, Stress and Mental Health",
+  "authors": [
+    "Bremner, J. Douglas",
+    "Moazzami, Kasra",
+    "Wittbrodt, Matthew T.",
+    "Nye, Jonathon A.",
+    "Lima, Bruno B.",
+    "Gillespie, Charles F.",
+    "Rapaport, Mark Hyman",
+    "Pearce, Bradley D.",
+    "Shah, Amit",
+    "Vaccarino, Viola"
+  ],
+  "doi": "10.3390/nu12082428",
+  "url": "https://openalex.org/W3048544321",
+  "provider": "openalex",
+  "year": 2020,
+  "venue": "Nutrients",
+  "citation_count": 353,
+  "abstract": "Understanding the relationship between diet, stress and mood and behavior could have important implications for the treatment of both stress-related mental disorders and obesity.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2072-6643/12/8/2428/pdf?version=1597315530"
+}

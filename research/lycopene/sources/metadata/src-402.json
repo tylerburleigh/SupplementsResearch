@@ -1,0 +1,20 @@
+{
+  "id": "src-402",
+  "title": "Overweight as an avoidable cause of cancer in Europe",
+  "authors": [
+    "Bergström, Anna",
+    "Pisani, Paola",
+    "Tenet, Vanessa",
+    "Wolk, A.",
+    "Adami, Hans‐Olov"
+  ],
+  "doi": "10.1002/1097-0215(200002)9999:9999<::aid-ijc1053>3.0.co;2-t",
+  "url": "https://openalex.org/W1972685913",
+  "provider": "openalex",
+  "year": 2001,
+  "venue": "International Journal of Cancer",
+  "citation_count": 750,
+  "abstract": "There is growing evidence that excess body weight increases the risk of cancer at several sites, including kidney, endometrium, colon, prostate, gallbladder and breast in post-menopausal women. The proportion of all cancers attributable to overweight has, however, never been systematically estimated. We reviewed the epidemiological literature and quantitatively summarised, by meta-analysis, the relationship between excess weight and the risk of developing cancer at the 6 sites listed above. Estimates were then combined with sex-specific estimates of the prevalence of overweight [body mass index (BMI) 25-29 kg/m(2)] and obesity (BMI > or = 30 kg/m(2)) in each country in the European Union to obtain the proportion of cancers attributable to excess weight. Overall, excess body mass accounts for 5% of all cancers in the European Union, 3% in men and 6% in women, corresponding to 27,000 male and 45,000 female cancer cases yearly. The attributable proportion varied, in men, between 2.1% for Greece and 4.9% for Germany and, in women, between 3.9% for Denmark and 8.8% for Spain. The highest attributable proportions were obtained for cancers of the endometrium (39%), kidney (25% in both sexes) and gallbladder (25% in men and 24% in women). The largest number of attributable cases was for colon cancer (21,500 annual cases), followed by endometrium (14,000 cases) and breast (12,800 cases). Some 36,000 cases could be avoided by halving the prevalence of overweight and obese people in Europe.",
+  "type": "academic",
+  "pdf_url": ""
+}

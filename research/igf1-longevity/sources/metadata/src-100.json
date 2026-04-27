@@ -1,0 +1,29 @@
+{
+  "id": "src-100",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "",
+  "pdf_url": "https://www.unifal-mg.edu.br/ppgnl/wp-content/uploads/sites/133/2021/02/Artigo-para-arguicoes.pdf",
+  "venue": "",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "",
+  "fetched_at": "2026-04-23T22:38:23.577719+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-100.md",
+  "quality_details": {
+    "content_length": 100932,
+    "alpha_ratio": 0.72,
+    "sentence_count": 932,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "src-232",
+  "title": "Norepinephrine weaning guided by the Hypotension Prediction Index in vasoplegic shock after cardiac surgery: protocol for a single-centre, open-label randomised controlled trial – the NORAHPI study",
+  "authors": [
+    "Beyls, C.",
+    "Lefebvre, Thomas",
+    "Mollet, Nicolas",
+    "Boussault, Annabelle",
+    "Meynier, J.",
+    "Abou-Arab, O.",
+    "Mahjoub, Y."
+  ],
+  "doi": "10.1136/bmjopen-2024-084499",
+  "url": "https://www.semanticscholar.org/paper/fd8bbb75e987a91ea7eeb2e797e0600a6c55953b",
+  "provider": "semantic_scholar",
+  "year": 2024,
+  "venue": "BMJ Open",
+  "citation_count": 2,
+  "abstract": "Introduction Norepinephrine (NE) is the first-line recommended vasopressor for restoring mean arterial pressure (MAP) in vasoplegic syndrome (vs) following cardiac surgery with cardiopulmonary bypass. However, solely focusing on target MAP values can lead to acute hypotension episodes during NE weaning. The Hypotension Prediction Index (HPI) is a machine learning algorithm embedded in the Acumen IQ device, capable of detecting hypotensive episodes before their clinical manifestation. This study evaluates the clinical benefits of an NE weaning strategy guided by the HPI. Material and analysis The Norahpi trial is a prospective, open-label, single-centre study that randomises 142 patients. Inclusion criteria encompass adult patients scheduled for on-pump cardiac surgery with postsurgical NE administration for vs patient randomisation occurs once they achieve haemodynamic stability (MAP>65 mm Hg) for at least 4 hours on NE. Patients will be allocated to the intervention group (n=71) or the control group (n=71). In the intervention group, the NE weaning protocol is based on MAP>65 mmHg and HPI<80 and solely on MAP>65 mm Hg in the control group. Successful NE weaning is defined as achieving NE weaning within 72 hours of inclusion. An intention-to-treat analysis will be performed. The primary endpoint will compare the duration of NE administration between the two groups. The secondary endpoints will include the prevalence, frequency and time of arterial hypotensive events monitored by the Acumen IQ device. Additionally, we will assess cumulative diuresis, the total dose of NE, and the number of protocol weaning failures. We also aim to evaluate the occurrence of postoperative complications, the length of stay and all-cause mortality at 30 days. Ethics and dissemination Ethical approval has been secured from the Institutional Review Board (IRB) at the University Hospital of Amiens (IRB-ID:2023-A01058-37). The findings will be shared through peer-reviewed publications and presentations at national and international conferences. Trial registration number NCT05922982.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.1136/bmjopen-2024-084499"
+}

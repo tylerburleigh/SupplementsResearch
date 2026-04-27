@@ -1,0 +1,23 @@
+{
+  "id": "src-490",
+  "title": "Green tea consumption and cause-specific mortality: Results from two prospective cohort studies in China.",
+  "authors": [
+    "Zhao, Long-Gang",
+    "Li, Hong-Lan",
+    "Sun, Jiang-Wei",
+    "Yang, Yang",
+    "Ma, Xiao",
+    "Shu, Xiao-Ou",
+    "Zheng, Wei",
+    "Xiang, Yong-Bing"
+  ],
+  "doi": "10.1016/j.je.2016.08.004",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/28135196",
+  "provider": "pubmed",
+  "year": 2017,
+  "venue": "Journal of epidemiology",
+  "citation_count": 0,
+  "abstract": "BACKGROUND: Green tea is one of the most widely consumed beverages in Asia. While a possible protective role of green tea against various chronic diseases has been suggested in experimental studies, evidence from human studies remains controversial.\nMETHODS: We conducted this study using data from Shanghai Men's Health Study (SMHS) and Shanghai Women's Health Study (SWHS), two population-based prospective cohorts of middle-aged and elderly Chinese adults in urban Shanghai, China. Hazard ratios (HR) and 95% confidence intervals (CI) for risk of all-cause and cause-specific mortality associated with green tea intake were estimated using Cox proportional hazards regression models.\nRESULTS: During a median follow-up of 8.3 and 14.2 years for men and women, respectively, 6517 (2741 men and 3776 women) deaths were documented. We found that green tea consumption was inversely associated with risk of all-cause mortality (HR 0.95; 95% CI, 0.90-1.01), particularly among never-smokers (HR 0.89; 95% CI, 0.82-0.96). The inverse association with cardiovascular disease (CVD) mortality (HR 0.86; 95% CI, 0.77-0.97) was slightly stronger than that with all-cause mortality. No significant association was observed between green tea intake and cancer mortality (HR 1.01; 95% CI, 0.93-1.10).\nCONCLUSIONS: Green tea consumption may be inversely associated with risk of all-cause and CVD mortality in middle-aged and elderly Chinese adults, especially among never smokers.",
+  "type": "academic",
+  "pdf_url": ""
+}

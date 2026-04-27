@@ -1,0 +1,22 @@
+{
+  "id": "src-032",
+  "title": "Characterization of Human Senescent Cell Biomarkers for Clinical Trials",
+  "authors": [
+    "Farr, J.",
+    "Monroe, D.",
+    "Atkinson, Elizabeth J.",
+    "Froemming, Mitchell N.",
+    "Ruan, Ming",
+    "LeBrasseur, Nathan K.",
+    "Khosla, Sundeep"
+  ],
+  "doi": "10.1111/acel.14489",
+  "url": "https://www.semanticscholar.org/paper/9b86b448dd47e86fd84b14ac21b0017439148be3",
+  "provider": "semantic_scholar",
+  "year": 2024,
+  "venue": "medRxiv",
+  "citation_count": 11,
+  "abstract": "There is an increasing need for biomarkers of senescent cell burden to facilitate the selection of participants for clinical trials. p16Ink4a is encoded by the CDKN2A locus, which produces five variant transcripts in humans, two of which encode homologous p16 proteins: p16Inka4a, encoded by p16_variant 1, and p16ɣ, encoded by p16_variant 5. While distinct quantitative polymerase chain reaction primers can be designed for p16_variant 5, primers for p16_variant 1 also measure p16_variant 5 (p16_variant 1 + 5). In a recent clinical trial evaluating the effects of the senolytic combination, dasatinib + quercetin (D + Q), on bone metabolism in postmenopausal women, we found that women in the highest tertile for T‐cell expression of p16_variant 5 had the most robust skeletal responses to D + Q. Importantly, the assessment of p16_variant 5 was more predictive of these responses than p16_variant 1 + 5. Here, we demonstrate that in vitro, p16_variant 1 + 5 increased rapidly (Week 1) following the induction of DNA damage, whereas p16_variant 5 increased later (Week 4), suggesting that p16_variant 5 becomes detectable only when the abundance of senescent cells reaches some threshold. Further analysis identified a SASP panel in plasma that performed as well in identifying postmenopausal women with a positive skeletal response to D + Q. Collectively, our findings provide further support for the T‐cell p16_variant 5 assay as a biomarker for selecting participants in clinical trials of senolytic interventions. In addition, our data indicate that correlated plasma SASP markers could be used in lieu of the more technically challenging T‐cell p16 assay.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.1111/acel.14489"
+}

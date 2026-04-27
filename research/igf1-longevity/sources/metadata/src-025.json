@@ -1,0 +1,28 @@
+{
+  "id": "src-025",
+  "title": "Shorter Men Live Longer: Association of Height with Longevity and FOXO3 Genotype in American Men of Japanese Ancestry",
+  "authors": [
+    "He, Qimei",
+    "Morris, B.",
+    "Grove, J.",
+    "Petrovitch, H.",
+    "Ross, W.",
+    "Masaki, K.",
+    "Rodríguez, B.",
+    "Chen, Randi",
+    "Donlon, T.",
+    "Willcox, D.",
+    "Willcox, B.",
+    "Heart, Honolulu",
+    "Study, H."
+  ],
+  "doi": "10.1371/journal.pone.0094385",
+  "url": "https://www.semanticscholar.org/paper/3a498f81ca797ea69bccb27c41e5f80ccccfa6db",
+  "provider": "semantic_scholar",
+  "year": 2014,
+  "venue": "PLoS ONE",
+  "citation_count": 92,
+  "abstract": "Objectives To determine the relation between height, FOXO3 genotype and age of death in humans. Methods Observational study of 8,003 American men of Japanese ancestry from the Honolulu Heart Program/Honolulu-Asia Aging Study (HHP/HAAS), a genetically and culturally homogeneous cohort followed for over 40 years. A Cox regression model with age as the time scale, stratified by year of birth, was used to estimate the effect of baseline height on mortality during follow-up. An analysis of height and longevity-associated variants of the key regulatory gene in the insulin/IGF-1 signaling (IIS) pathway, FOXO3, was performed in a HHP-HAAS subpopulation. A study of fasting insulin level and height was conducted in another HHP-HAAS subpopulation. Results A positive association was found between baseline height and all-cause mortality (RR = 1.007; 95% CI 1.003–1.011; P = 0.002) over the follow-up period. Adjustments for possible confounding variables reduced this association only slightly (RR = 1.006; 95% CI 1.002–1.010; P = 0.007). In addition, height was positively associated with all cancer mortality and mortality from cancer unrelated to smoking. A Cox regression model with time-dependent covariates showed that relative risk for baseline height on mortality increased as the population aged. Comparison of genotypes of a longevity-associated single nucleotide polymorphism in FOXO3 showed that the longevity allele was inversely associated with height. This finding was consistent with prior findings in model organisms of aging. Height was also positively associated with fasting blood insulin level, a risk factor for mortality. Regression analysis of fasting insulin level (mIU/L) on height (cm) adjusting for the age both data were collected yielded a regression coefficient of 0.26 (95% CI 0.10–0.42; P = 0.001). Conclusion Height in mid-life is positively associated with mortality, with shorter stature predicting longer lifespan. Height was, moreover, associated with fasting insulin level and the longevity genotype of FOXO3, consistent with a mechanistic role for the IIS pathway.",
+  "type": "academic",
+  "pdf_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0094385&type=printable"
+}

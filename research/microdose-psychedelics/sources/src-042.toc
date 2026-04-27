@@ -1,0 +1,18 @@
+3	2	Original Investigation
+9	1	The Author(s) 2018
+10	2	Abstract
+25	2	Introduction
+57	2	2 Eleusis Pharmaceuticals Ltd, London, UK
+58	2	3 Centre for Psychiatry, Division of Brain Sciences, Imperial College
+62	2	5 Department of Experimental Psychology, University of Oxford,
+149	2	Methods
+150	2	Participants
+261	2	Procedure
+390	2	Results
+440	2	40 Perceptual distortions
+450	2	40 Unusual thoughts
+460	2	40 Feeling high
+482	2	Lsd
+664	2	Discussion
+717	2	Lsd
+994	2	References

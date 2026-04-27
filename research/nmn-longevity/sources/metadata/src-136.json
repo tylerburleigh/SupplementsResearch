@@ -1,0 +1,29 @@
+{
+  "id": "src-136",
+  "title": "NRK1 controls nicotinamide mononucleotide and nicotinamide riboside metabolism in mammalian cells",
+  "authors": [
+    "Ratajczak, Joanna",
+    "Joffraud, Magali",
+    "Trammell, Samuel A.J.",
+    "Ras, Rosa",
+    "Canela-Canela, Núria",
+    "Boutant, Marie",
+    "Kulkarni, Sameer S.",
+    "Rodrigues, Marcelo Rodrigues",
+    "Redpath, Philip",
+    "Migaud, Marie E.",
+    "Auwerx, Johan",
+    "Yanes, Óscar",
+    "Brenner, Charles",
+    "Cantó, Carles"
+  ],
+  "doi": "10.1038/ncomms13103",
+  "url": "https://openalex.org/W2531686927",
+  "provider": "openalex",
+  "year": 2016,
+  "venue": "Nature Communications",
+  "citation_count": 381,
+  "abstract": "NAD<sup>+</sup> is a vital redox cofactor and a substrate required for activity of various enzyme families, including sirtuins and poly(ADP-ribose) polymerases. Supplementation with NAD<sup>+</sup> precursors, such as nicotinamide mononucleotide (NMN) or nicotinamide riboside (NR), protects against metabolic disease, neurodegenerative disorders and age-related physiological decline in mammals. Here we show that nicotinamide riboside kinase 1 (NRK1) is necessary and rate-limiting for the use of exogenous NR and NMN for NAD<sup>+</sup> synthesis. Using genetic gain- and loss-of-function models, we further demonstrate that the role of NRK1 in driving NAD<sup>+</sup> synthesis from other NAD<sup>+</sup> precursors, such as nicotinamide or nicotinic acid, is dispensable. Using stable isotope-labelled compounds, we confirm NMN is metabolized extracellularly to NR that is then taken up by the cell and converted into NAD<sup>+</sup>. Our results indicate that mammalian cells require conversion of extracellular NMN to NR for cellular uptake and NAD<sup>+</sup> synthesis, explaining the overlapping metabolic effects observed with the two compounds.",
+  "type": "academic",
+  "pdf_url": "https://www.nature.com/articles/ncomms13103.pdf"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "src-339",
+  "title": "Epigenetic and Cellular Reprogramming of Doxorubicin-Resistant MCF-7 Cells Treated with Curcumin.",
+  "authors": [
+    "Poma, Paola",
+    "Rigogliuso, Salvatrice",
+    "Labbozzetta, Manuela",
+    "Nicosia, Aldo",
+    "Costa, Salvatore",
+    "Ragusa, Maria Antonietta",
+    "Notarbartolo, Monica"
+  ],
+  "doi": "10.3390/ijms252413416",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39769180",
+  "provider": "pubmed",
+  "year": 2024,
+  "venue": "International journal of molecular sciences",
+  "citation_count": 0,
+  "abstract": "The MCF-7R breast cancer cell line, developed by treating the parental MCF-7 cells with increasing doses of doxorubicin, serves as a model for studying acquired multidrug resistance (MDR). MDR is a major challenge in cancer therapy, often driven by overexpression of the efflux pump P-glycoprotein (P-gp) and epigenetic modifications. While many P-gp inhibitors show promise in vitro, their nonspecific effects on the efflux pump limit in vivo application. Curcumin, a natural compound with pleiotropic action, is a nontoxic P-gp inhibitor capable of modulating multiple pathways. To explore curcumin's molecular effects on MCF-7R cells, we analyzed the expression of genes involved in DNA methylation and transcription regulation, including ABCB1/MDR1. Reduced representation bisulfite sequencing further unveiled key epigenetic changes induced by curcumin. Our findings indicate that curcumin treatment not only modulates critical cellular processes, such as ribosome biogenesis and cytoskeletal dynamics, but also reverses the resistant phenotype, toward that of sensitive cells. This study highlights curcumin's potential as an adjuvant therapy to overcome chemoresistance, offering new avenues for pharmacological strategies targeting epigenetic regulation to re-sensitize resistant cancer cells.",
+  "type": "academic",
+  "pdf_url": ""
+}

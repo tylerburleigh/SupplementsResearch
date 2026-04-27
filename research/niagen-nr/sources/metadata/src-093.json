@@ -1,0 +1,17 @@
+{
+  "id": "src-093",
+  "title": "Mitochondrial dysfunction in pathophysiology of heart failure",
+  "authors": [
+    "Zhou, Bo",
+    "Tian, Rong"
+  ],
+  "doi": "10.1172/jci120849",
+  "url": "https://openalex.org/W2885025259",
+  "provider": "openalex",
+  "year": 2018,
+  "venue": "Journal of Clinical Investigation",
+  "citation_count": 896,
+  "abstract": "Mitochondrial dysfunction has been implicated in the development of heart failure. Oxidative metabolism in mitochondria is the main energy source of the heart, and the inability to generate and transfer energy has long been considered the primary mechanism linking mitochondrial dysfunction and contractile failure. However, the role of mitochondria in heart failure is now increasingly recognized to be beyond that of a failed power plant. In this Review, we summarize recent evidence demonstrating vicious cycles of pathophysiological mechanisms during the pathological remodeling of the heart that drive mitochondrial contributions from being compensatory to being a suicide mission. These mechanisms include bottlenecks of metabolic flux, redox imbalance, protein modification, ROS-induced ROS generation, impaired mitochondrial Ca2+ homeostasis, and inflammation. The interpretation of these findings will lead us to novel avenues for disease mechanisms and therapy.",
+  "type": "academic",
+  "pdf_url": "http://www.jci.org/articles/view/120849/files/pdf"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "src-194",
+  "title": "Efficacy of daily versus intermittent oral iron supplementation for prevention of anaemia among pregnant women: a systematic review and meta-analysis.",
+  "authors": [
+    "Banerjee, Anindita",
+    "Athalye, Shreyasi",
+    "Shingade, Poonam",
+    "Khargekar, Vandana",
+    "Mahajan, Namrata",
+    "Madkaikar, Manisha",
+    "Khargekar, Naveen"
+  ],
+  "doi": "10.1016/j.eclinm.2024.102742",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39114275",
+  "provider": "pubmed",
+  "year": 2024,
+  "venue": "EClinicalMedicine",
+  "citation_count": 0,
+  "abstract": "BACKGROUND: The World Health Organization recommends daily oral supplementation of iron for prevention of maternal anaemia. However, the adverse effects due to daily supplementation leads to poor compliance among pregnant women. Also, the mucosal block theory suggests that intermittent oral iron may be more efficient than daily iron with respect to optimum absorption. Our meta-analysis reviewed the existing clinical studies for the efficacy of daily versus intermittent oral iron supplementation.\nMETHODS: In this systematic review and meta-analysis [PROSPERO ID:CRD42024498180], we searched PubMed, Google Scholar, Scopus, Science Direct and Cochrane database for studies published from 1st January 1970 to 31st December, 2023. Studies comparing daily and intermittent iron supplementation in pregnant women were included. The median intermittent iron dose was 120 mg/day and daily iron dose was 60 mg/day. The primary outcome was endpoint haemoglobin levels after iron supplementation. The data was analysed using the 'meta' and 'metafor' packages in RStudio using random effects model. The heterogeneity, publication bias, risk of bias and certainty of evidence were assessed using I2 statistics, funnel plots, Cochrane Risk of Bias 2 (ROB2) tool, and the Grades of Recommendation, Assessment, Development and Evaluation (GRADE) approach respectively.\nFINDINGS: Of 4615 search results, 26 studies (n = 4365 participants) were included in this meta-analysis. There was no significant difference (p = 0.18) between the endpoint mean haemoglobin levels of the daily versus intermittent oral iron groups (standardized mean difference (SMD): 0.51, 95% CI: -0.23 to 1.24, I2 = 97%, low certainty evidence) irrespective of baseline anaemic status. However, the endpoint ferritin levels were significantly higher in the daily supplementation group (SMD: 0.85, 95% CI: 0.15-1.54, p = 0.02, I2 = 97%, low certainty evidence). The adjusted odds ratio for nausea, (adjusted odds ratio (OR) 3.56, 95% CI: 2.23-5.69, p < 0.001, I2 = 9%, moderate certainty evidence), diarrhoea (adjusted OR 5.40, 95% CI: 1.90-15.33, p = 0.002, I2 = 0%, low certainty evidence) and constipation (adjusted OR 1.95, 95% CI: 1.21-3.14, p = 0.006, I2 = 0%, moderate certainty evidence) was significantly higher in daily oral iron supplementation group.\nINTERPRETATION: Intermittent oral iron supplementation with a median dose of 120 mg/day demonstrates comparable efficacy to daily oral iron supplementation median dose of 60 mg/day in increasing haemoglobin levels among pregnant women with a significant reduction in adverse events.\nFUNDING: There was no funding for this study.",
+  "type": "academic",
+  "pdf_url": ""
+}

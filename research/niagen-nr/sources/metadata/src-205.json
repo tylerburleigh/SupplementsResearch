@@ -1,0 +1,25 @@
+{
+  "id": "src-205",
+  "title": "Coronavirus infection and PARP expression dysregulate the NAD metabolome: An actionable component of innate immunity",
+  "authors": [
+    "Heer, Collin D.",
+    "Sanderson, Daniel J.",
+    "Voth, Lynden S.",
+    "Alhammad, Yousef M.",
+    "Schmidt, Mark S.",
+    "Trammell, Samuel A.J.",
+    "Perlman, Stanley",
+    "Cohen, Michael S.",
+    "Fehr, Anthony R.",
+    "Brenner, Charles"
+  ],
+  "doi": "10.1074/jbc.ra120.015138",
+  "url": "https://openalex.org/W3092371368",
+  "provider": "openalex",
+  "year": 2020,
+  "venue": "Journal of Biological Chemistry",
+  "citation_count": 195,
+  "abstract": "Poly(ADP-ribose) polymerase (PARP) superfamily members covalently link either a single ADP-ribose (ADPR) or a chain of ADPR units to proteins using NAD as the source of ADPR. Although the well-known poly(ADP-ribosylating) (PARylating) PARPs primarily function in the DNA damage response, many noncanonical mono(ADP-ribosylating) (MARylating) PARPs are associated with cellular antiviral responses. We recently demonstrated robust up-regulation of several PARPs following infection with murine hepatitis virus (MHV), a model coronavirus. Here we show that SARS-CoV-2 infection strikingly up-regulates MARylating PARPs and induces the expression of genes encoding enzymes for salvage NAD synthesis from nicotinamide (NAM) and nicotinamide riboside (NR), while down-regulating other NAD biosynthetic pathways. We show that overexpression of PARP10 is sufficient to depress cellular NAD and that the activities of the transcriptionally induced enzymes PARP7, PARP10, PARP12 and PARP14 are limited by cellular NAD and can be enhanced by pharmacological activation of NAD synthesis. We further demonstrate that infection with MHV induces a severe attack on host cell NAD<sup>+</sup> and NADP<sup>+</sup> Finally, we show that NAMPT activation, NAM, and NR dramatically decrease the replication of an MHV that is sensitive to PARP activity. These data suggest that the antiviral activities of noncanonical PARP isozyme activities are limited by the availability of NAD and that nutritional and pharmacological interventions to enhance NAD levels may boost innate immunity to coronaviruses.",
+  "type": "academic",
+  "pdf_url": "http://www.jbc.org/article/S0021925817506766/pdf"
+}

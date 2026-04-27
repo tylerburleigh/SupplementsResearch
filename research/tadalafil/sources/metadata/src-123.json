@@ -1,0 +1,35 @@
+{
+  "id": "src-123",
+  "title": "Dissociable effects of acetylcholinesterase inhibitors and phosphodiesterase type 5 inhibitors on object recognition memory: acquisition versus consolidation",
+  "authors": [
+    "Prickaerts, Jos",
+    "Şık, Ayhan",
+    "van der Staay, Franz Josef",
+    "de Vente, Jan",
+    "Blokland, Arjan"
+  ],
+  "year": 2005,
+  "abstract": "",
+  "doi": "10.1007/s00213-004-1967-7",
+  "url": "https://doi.org/10.1007/s00213-004-1967-7",
+  "pdf_url": "",
+  "venue": "Psychopharmacology",
+  "citation_count": 114,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-25T15:08:37.841714+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-123.md",
+  "quality_details": {
+    "content_length": 18193,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

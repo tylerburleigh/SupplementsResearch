@@ -1,0 +1,10 @@
+182	2	Results
+384	2	8 European
+965	2	Discussion
+1100	2	Acknowledgments
+1107	2	References
+1180	2	2004. Plasma and dietary carotenoids, and the risk of
+1191	2	2007. Plasma carotenoids, retinol, and tocopherols and
+1210	2	2011. Oxidative balance score and risk of  prostate can-
+1218	2	2010. Serum levels of  folate, lycopene,
+1240	2	2009. Biomarkers in nutritional epidemiology: appli-

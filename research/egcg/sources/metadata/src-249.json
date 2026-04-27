@@ -1,0 +1,22 @@
+{
+  "id": "src-249",
+  "title": "Impact of Dietary Polyphenols on Carbohydrate Metabolism",
+  "authors": [
+    "Hanhineva, Kati",
+    "Törrönen, Riitta",
+    "Bondia‐Pons, Isabel",
+    "Pekkinen, Jenna",
+    "Kolehmainen, Marjukka",
+    "Mykkänen, Hannu",
+    "Poutanen, Kaisa"
+  ],
+  "doi": "10.3390/ijms11041365",
+  "url": "https://openalex.org/W2169082773",
+  "provider": "openalex",
+  "year": 2010,
+  "venue": "International Journal of Molecular Sciences",
+  "citation_count": 1124,
+  "abstract": "Polyphenols, including flavonoids, phenolic acids, proanthocyanidins and resveratrol, are a large and heterogeneous group of phytochemicals in plant-based foods, such as tea, coffee, wine, cocoa, cereal grains, soy, fruits and berries. Growing evidence indicates that various dietary polyphenols may influence carbohydrate metabolism at many levels. In animal models and a limited number of human studies carried out so far, polyphenols and foods or beverages rich in polyphenols have attenuated postprandial glycemic responses and fasting hyperglycemia, and improved acute insulin secretion and insulin sensitivity. The possible mechanisms include inhibition of carbohydrate digestion and glucose absorption in the intestine, stimulation of insulin secretion from the pancreatic beta-cells, modulation of glucose release from the liver, activation of insulin receptors and glucose uptake in the insulin-sensitive tissues, and modulation of intracellular signalling pathways and gene expression. The positive effects of polyphenols on glucose homeostasis observed in a large number of in vitro and animal models are supported by epidemiological evidence on polyphenol-rich diets. To confirm the implications of polyphenol consumption for prevention of insulin resistance, metabolic syndrome and eventually type 2 diabetes, human trials with well-defined diets, controlled study designs and clinically relevant end-points together with holistic approaches e.g., systems biology profiling technologies are needed.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/1422-0067/11/4/1365/pdf?version=1403139475"
+}

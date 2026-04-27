@@ -1,0 +1,29 @@
+{
+  "id": "src-326",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://doi.org/10.1101/gad.225680.113",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-18T23:33:14.639910+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-326.md",
+  "quality_details": {
+    "content_length": 4295,
+    "alpha_ratio": 0.763,
+    "sentence_count": 28,
+    "reasons": [
+      "paywall_page (subscribe)"
+    ]
+  }
+}

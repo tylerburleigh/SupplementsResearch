@@ -1,0 +1,41 @@
+{
+  "id": "src-032",
+  "title": "Facts and Recommendations about Total Homocysteine Determinations: An Expert Opinion",
+  "authors": [
+    "Refsum, Helga",
+    "Smith, A David",
+    "Ueland, Per M",
+    "Nexo, Ebba",
+    "Clarke, Robert",
+    "McPartlin, Joseph",
+    "Johnston, Carole",
+    "Engbaek, Frode",
+    "Schneede, Jørn",
+    "McPartlin, Catherine",
+    "Scott, John M"
+  ],
+  "year": 2004,
+  "abstract": "AbstractBackground: Measurement of plasma total homocysteine has become common as new methods have been introduced. A wide range of disorders are associated with increased concentrations of total homocysteine. The purpose of this review is to provide an international expert opinion on the practical aspects of total homocysteine determinations in clinical practice and in the research setting and on the relevance of total homocysteine measurements as diagnostic or screening tests in several target populations.Methods: Published data available on Medline were used as the basis for the recommendations. Drafts of the recommendations were critically discussed at meetings over a period of 3 years.Outcome: This review is divided into two sections: (a) determination of homocysteine (methods and their performance, sample collection and handling, biological determinants, reference intervals, within-person variability, and methionine loading test); and (b) risk assessment and disease diagnosis (homocystinuria, folate and cobalamin deficiencies, cardiovascular disease, renal failure, psychiatric disorders and cognitive impairment, pregnancy complications and birth defects, and screening of elderly and newborns). Each of these subsections concludes with a separate series of recommendations to assist the clinician and the research scientist in making informed decisions. The review concludes with a list of unresolved questions.",
+  "doi": "10.1373/clinchem.2003.021634",
+  "url": "https://doi.org/10.1373/clinchem.2003.021634",
+  "pdf_url": "",
+  "venue": "Clinical Chemistry",
+  "citation_count": 822,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-20T12:22:04.300985+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-032.md",
+  "quality_details": {
+    "content_length": 24278,
+    "alpha_ratio": 0.747,
+    "sentence_count": 324,
+    "reasons": [
+      "low linebreak density (592 chars/break)"
+    ]
+  }
+}

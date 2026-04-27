@@ -1,0 +1,35 @@
+{
+  "id": "src-064",
+  "title": "Therapeutic effects of vitamin D supplementation on COVID-19 aggravation: a systematic review and meta-analysis of randomized controlled trials",
+  "authors": [
+    "Yang, Yiyuan",
+    "Sun, Wanli",
+    "Yang, Fan",
+    "Zhang, Guoxia",
+    "Li, Xinye",
+    "Sun, Shipeng",
+    "Xing, Yanwei"
+  ],
+  "year": 2024,
+  "abstract": "BackgroundThe therapeutic effects of vitamin D supplementation on Coronavirus disease 2019 (COVID-19) aggravation remain controversial and inconclusive. To probe into this contentious issue, we performed the present meta-analysis of randomized controlled trials (RCTs).MethodsLiterature published up to June 2023 was retrieved from Cochrane Library, PubMed, Web of Science and Embase. RCTs assessing mortality, intensive care unit (ICU) admission, mechanical ventilation (MV), length of hospitalization (LOH), and inflammatory markers containing C-reactive protein (CRP), D-dimer, interleukin-6 (IL-6), lactate dehydrogenase (LDH) were included. 19 RCTs were involved in the analysis and were conducted subgroup analyses on the baseline COVID-19 severity and vitamin D administration.ResultsIn the severity subgroup, statistically significant effects in moderate to severe group were observed in ICU admission (OR 0.43, 95% CI 0.23, 0.80; p = 0.008), MV (OR 0.44, 95% CI 0.27, 0.72; p = 0.001) and LOH (SMD –0.49, 95% CI –0.92, −0.06; p = 0.027). In the administration subgroup, effects of ICU admission (OR 0.39, 95% CI 0.16, 0.97; p = 0.044), MV (OR 0.18, 95% CI 0.07, 0.46; p = 0.000) and LOH (SMD –0.50, 95% CI –0.96, −0.04; p = 0.034) were more pronounced in patients supplied with multiple-dose vitamin D than single-dose. Although the result of mortality showed no statistically significant effect, it indicated a reduced trend (OR 0.87, 95% CI 0.63, 1.12; p &amp;gt; 0.05). The results of inflammatory markers reached no statistical differences.ConclusionThis meta-analysis revealed that moderate to severe COVID-19 patients supplied with multiple doses of vitamin D were less apt to need ICU admission, mechanical ventilation and have shorter hospital stays.",
+  "doi": "10.3389/fphar.2024.1367686",
+  "url": "https://doi.org/10.3389/fphar.2024.1367686",
+  "pdf_url": "",
+  "venue": "Frontiers in Pharmacology",
+  "citation_count": 7,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T20:54:46.479635+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-064.md",
+  "quality_details": {
+    "content_length": 60040,
+    "alpha_ratio": 0.667,
+    "sentence_count": 996,
+    "reasons": []
+  }
+}

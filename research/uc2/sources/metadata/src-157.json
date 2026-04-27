@@ -1,0 +1,28 @@
+{
+  "id": "src-157",
+  "title": "Optimizing oral immune tolerance to Type II collagen in patients with rheumatoid arthritis: The importance of dose, interfering medication and genetics.",
+  "authors": [
+    "Postlethwaite, Arnold E",
+    "Jiao, Yan",
+    "Yang, Chengyuan",
+    "Dong, Wei",
+    "Aelion, Jacob A",
+    "Wang, Benjamin",
+    "Postlethwaite, Bennett E",
+    "Sigal, Leonard",
+    "Kang, Andrew H",
+    "Myers, Linda K",
+    "Wheller, Patricia",
+    "Ingels, Jesse",
+    "Gu, Weikuan"
+  ],
+  "doi": "10.1016/j.amjms.2024.06.008",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38897565",
+  "provider": "pubmed",
+  "year": 2024,
+  "venue": "The American journal of the medical sciences",
+  "citation_count": 0,
+  "abstract": "OBJECTIVES: Oral immune tolerance (OT) is a complex process with unknown genetic regulation. Our aim is to explore possible genetic control of OT in patients with rheumatoid arthritis (RA).\nMETHODS: RA patients with increased interferon γ production invitro when their isolated peripheral blood mononuclear cells (PBMC) were cultured with type II bovine collagen α1 chain [α1 (II)] were enrolled in this study and were randomly assigned to the \"Low dose\" type II collagen (CII) group (30 µg/day for 10 weeks, followed by 50 µg/day for 10 weeks, followed by 70 µg/day for 10 weeks) or \"High dose\" CII group (90 µg/day for 10 weeks, followed by 110 µg/day for 10 weeks, followed by 130 µg/day for 10 weeks). Heparinized blood was obtained at baseline and after each of the 10 weeks treatment for analysis of the invitro production of IFNγ by their PBMC stimulated by α1(II) . Single nucleotide polymorphism (SNP) analysis of the responders and non-responders to oral CII was conducted using GeneChip Mapping 10 K 2.0 Array.\nRESULTS: The SNP A-15,737 was found to associate with the ability of CII to suppress IFNγ production by α1(CII)-stimulated RA PBMC. The potential for SNP A-15,737 to associate with the OT response for patients with another autoimmune disease [OT induced by oral type I bovine collagen (CI) in patients with diffuse cutaneous systemic sclersodid (dsSSc)] was also explored.\nCONCLUSIONS: The ROT1 region plays a role in the control of IFNγ production after oral dosing of auto-antigens, thereby determining if oral tolerance to that antigen will develop.",
+  "type": "academic",
+  "pdf_url": ""
+}

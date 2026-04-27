@@ -1,0 +1,30 @@
+{
+  "id": "src-030",
+  "title": "The influence of creatine supplementation on the cognitive functioning of vegetarians and omnivores",
+  "authors": [
+    "Benton, David",
+    "Donohoe, Rachel"
+  ],
+  "year": 2011,
+  "abstract": "Creatine when combined with P forms phosphocreatine that acts as a reserve of high-energy phosphate. Creatine is found mostly in meat, fish and other animal products, and the levels of muscle creatine are known to be lower in vegetarians. Creatine supplementation influences brain functioning as indicated by imaging studies and the measurement of oxygenated Hb. Given the key role played by creatine in the provision of energy, the influence of its supplementation on cognitive functioning was examined, contrasting the effect in omnivores and vegetarians. Young adult females (n 128) were separated into those who were and were not vegetarian. Randomly and under a double-blind procedure, subjects consumed either a placebo or 20 g of creatine supplement for 5 d. Creatine supplementation did not influence measures of verbal fluency and vigilance. However, in vegetarians rather than in those who consume meat, creatine supplementation resulted in better memory. Irrespective of dietary style, the supplementation of creatine decreased the variability in the responses to a choice reaction-time task.",
+  "doi": "10.1017/s0007114510004733",
+  "url": "https://doi.org/10.1017/s0007114510004733",
+  "pdf_url": "",
+  "venue": "British Journal of Nutrition",
+  "citation_count": 77,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T12:55:03.985688+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-030.md",
+  "quality_details": {
+    "content_length": 29040,
+    "alpha_ratio": 0.753,
+    "sentence_count": 239,
+    "reasons": []
+  }
+}

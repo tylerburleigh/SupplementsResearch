@@ -1,0 +1,35 @@
+{
+  "id": "src-048",
+  "title": "Differential senolytic inhibition of normal versus Aβ-associated cholinesterases: implications in aging and Alzheimer’s disease",
+  "authors": [
+    "Darvesh, Sultan",
+    "Cash, Meghan K.",
+    "Forrestall, Katrina",
+    "Maillet, Hillary",
+    "Sands, Dane"
+  ],
+  "year": 2025,
+  "abstract": "",
+  "doi": "10.18632/aging.206227",
+  "url": "https://doi.org/10.18632/aging.206227",
+  "pdf_url": "",
+  "venue": "Aging",
+  "citation_count": 1,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-24T12:47:27.340368+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-048.md",
+  "quality_details": {
+    "content_length": 97406,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

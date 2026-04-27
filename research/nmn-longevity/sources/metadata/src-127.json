@@ -1,0 +1,16 @@
+{
+  "id": "src-127",
+  "title": "Sir2 links chromatin silencing, metabolism, and aging",
+  "authors": [
+    "Guarente, Leonard"
+  ],
+  "doi": "10.1101/gad.14.9.1021",
+  "url": "https://openalex.org/W1951075546",
+  "provider": "openalex",
+  "year": 2000,
+  "venue": "Genes & Development",
+  "citation_count": 722,
+  "abstract": "Aging is manifested by a progressive decline in vitality over time leading to death. Studies in budding yeast allow aging to be followed in individual pedigrees of cells, that is, those of mother cells, consequent to many rounds of cell division These studies have led to the general conclusion that the silencing protein Sir2 is a limiting component of longevity; deletions of SIR2 shorten life span and an extra copy of this gene increases life span Recent studies have spurred interest in Sir2 as a candidate longevity factor in a broad spectrum of eukaryotic organisms. SIR2 gene homologs have been found in a very wide range of organisms ranging from bacteria to humans Moreover, a biochemical activity of Sir2 likely responsible for chromatin silencing, nicotinamide-adenine dinucleotide (NAD)-dependent histone deacetylase, has recently been discovered and shown to be broadly conserved In this review, I will briefly discuss silencing as it pertains to SIR2 and its relationship to aging. I will then trace the studies that led to the discovery of the NADdependent histone deacetylase. I will next speculate how the regulation of Sir2 by NAD could represent the link between caloric intake and the pace of aging, which is widely observed in many organisms Finally, I will present a speculative model of how a gradual disruption in chromatin silencing may occur and how such a change may cause aging.",
+  "type": "academic",
+  "pdf_url": "http://genesdev.cshlp.org/content/14/9/1021.full.pdf"
+}

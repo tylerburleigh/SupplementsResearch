@@ -1,0 +1,38 @@
+{
+  "id": "src-076",
+  "title": "Psilocybin microdosers demonstrate greater observed improvements in mood and mental health at one month relative to non-microdosing controls",
+  "authors": [
+    "Rootman, Joseph M.",
+    "Kiraga, Maggie",
+    "Kryskow, Pamela",
+    "Harvey, Kalin",
+    "Stamets, Paul",
+    "Santos-Brault, Eesmyal",
+    "Kuypers, Kim P. C.",
+    "Walsh, Zach"
+  ],
+  "year": 2022,
+  "abstract": "AbstractPsilocybin microdosing involves repeated self-administration of mushrooms containing psilocybin at doses small enough to not impact regular functioning. Microdose practices are diverse and include combining psilocybin with substances such as lion’s mane mushrooms (Hericium erinaceus; HE) and niacin (vitamin-B3). Public uptake of microdosing has outpaced evidence, mandating further prospective research. Using a naturalistic, observational design, we followed psilocybin microdosers (n = 953) and non-microdosing comparators (n = 180) for approximately 30 days and identified small- to medium-sized improvements in mood and mental health that were generally consistent across gender, age and presence of mental health concerns, as we all as improvements in psychomotor performance that were specific to older adults. Supplementary analyses indicated that combining psilocybin with HE and B3 did not impact changes in mood and mental health. However, among older microdosers combining psilocybin, HE and B3 was associated with psychomotor improvements relative to psilocybin alone and psilocybin and HE. Our findings of mood and mental health improvements associated with psilocybin microdosing add to previous studies of psychedelic microdosing by using a comparator group and by examining the consistency of effects across age, gender, and mental health. Findings regarding the combination of psilocybin, HE and B3 are novel and highlight the need for further research to confirm and elucidate these apparent effects.",
+  "doi": "10.1038/s41598-022-14512-3",
+  "url": "https://doi.org/10.1038/s41598-022-14512-3",
+  "pdf_url": "",
+  "venue": "Scientific Reports",
+  "citation_count": 36,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-26T10:39:53.604544+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-076.md",
+  "quality_details": {
+    "content_length": 52626,
+    "alpha_ratio": 0.712,
+    "sentence_count": 622,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

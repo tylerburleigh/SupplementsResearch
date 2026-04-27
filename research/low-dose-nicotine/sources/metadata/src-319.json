@@ -1,0 +1,21 @@
+{
+  "id": "src-319",
+  "title": "A phenome‐wide association study of polygenic scores for attention deficit hyperactivity disorder across two genetic ancestries in electronic health record data",
+  "authors": [
+    "Niarchou, M.",
+    "Sealock, J.",
+    "Straub, P.",
+    "Sanchez-Roige, S.",
+    "Sutcliffe, J.",
+    "Davis, L."
+  ],
+  "doi": "10.1002/ajmg.b.32911",
+  "url": "https://www.semanticscholar.org/paper/81f42683b088e1e8cdbbc5cd1591b4dfa2435ae0",
+  "provider": "semantic_scholar",
+  "year": 2022,
+  "venue": "American Journal of Medical Genetics Part B: Neuropsychiatric Genetics",
+  "citation_count": 3,
+  "abstract": "Testing the association between genetic scores for Attention Deficit Hyperactivity Disorder (ADHD) and health conditions, can help us better understand its complex etiology. Electronic health records linked to genetic data provide an opportunity to test whether genetic scores for ADHD correlate with ADHD and additional health outcomes in a health care context across different age groups. We generated polygenic scores (ADHD‐PGS) trained on summary statistics from the latest genome‐wide association study of ADHD (N = 55,374) and applied them to genome‐wide data from 12,383 unrelated individuals of African‐American ancestry and 66,378 unrelated individuals of European ancestry from the Vanderbilt Biobank. Overall, only Tobacco use disorder (TUD) was associated with ADHD‐PGS in the African‐American ancestry group (Odds ratio [95% confidence intervals] = 1.23[1.16–1.31], p = 9.3 × 10−09). Eighty‐six phenotypes were associated with ADHD‐PGS in the European ancestry individuals, including ADHD (OR[95%CIs] = 1.22[1.16–1.29], p = 3.6 × 10−10), and TUD (OR[95%CIs] = 1.22[1.19–1.25], p = 2.8 × 10−46). We then stratified outcomes by age (ages 0–11, 12–18, 19–25, 26–40, 41–60, and 61–100). Our results suggest that ADHD polygenic scores are associated with ADHD diagnoses early in life and with an increasing number of health conditions throughout the lifespan (even in the absence of ADHD diagnosis). This study reinforces the utility of applying trait‐specific PGSs to biobank data, and performing exploratory sensitivity analyses, to probe relationships among clinical conditions.",
+  "type": "academic",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ajmg.b.32911"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "src-161",
+  "title": "The induction of human UDP-glucuronosyltransferase 1A1 mediated through a distal enhancer module by flavonoids and xenobiotics.",
+  "authors": [
+    "Sugatani, Junko",
+    "Yamakawa, Kasumi",
+    "Tonda, Eri",
+    "Nishitani, Shinichi",
+    "Yoshinari, Kouichi",
+    "Degawa, Masakuni",
+    "Abe, Ikuro",
+    "Noguchi, Hiroshi",
+    "Miwa, Masao"
+  ],
+  "doi": "10.1016/j.bcp.2003.11.002",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/15104253",
+  "provider": "pubmed",
+  "year": 2004,
+  "venue": "Biochemical pharmacology",
+  "citation_count": 0,
+  "abstract": "We identified the UDP-glucuronosyltransferase (UGT) 1A1 5'-upstream region that confers UGT1A1 induction by various agents, including flavonoids, on a luciferase reporter gene and has the properties of a transcriptional enhancer. Chrysin- and rifampicin-response activities were traced to the same element as a 290-bp distal enhancer module (-3483/-3194), in which the reporter activities were enhanced by activators of nuclear receptors [constitutive androstane receptor (CAR) and pregnane X receptor (PXR)] and transcription factor [aryl hydrocarbon receptor (AhR)]. Utilizing transactivation experiments with the UGT1A1 290-bp reporter gene, we assessed UGT1A1 induction by various flavonoids. 5,7-Dihydroxyflavones with varying substituents in the B-ring and gallocatechin dimers increased the reporter activity in a time- and dose-dependent manner. The treatment of HepG2 cells with the flavonoids for 24 hr elevated the expression of mRNAs and proteins of UGT1A1 and CYP1A1, while the mRNA levels of CYP2B6, CYP3A4, CAR, PXR and AhR was not altered. Chrysin and rifampicin induced the activation of the wild-type reporter gene and T-3263G-mutated gene to a similar extent in HepG2 cells cotransfected with expression vectors of CAR and PXR. Mutation of the AhR core binding region most prominently suppressed the activation of the 290-bp reporter gene by chrysin and baicalein, while mutations of four putative nuclear receptor motifs (DR4 element, PXRE, CARE and DR3 element) partly decreased its activation. Taken together, the results indicate that UGT1A1 was induced in response to flavonoids and xenobiotics through the transactivation of the 290-bp reporter gene, that was a multi-component enhancer containing CAR, PXR and AhR motifs.",
+  "type": "academic",
+  "pdf_url": ""
+}

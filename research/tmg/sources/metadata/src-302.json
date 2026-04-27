@@ -1,0 +1,24 @@
+{
+  "id": "src-302",
+  "title": "Low paternal dietary folate alters the mouse sperm epigenome and is associated with negative pregnancy outcomes",
+  "authors": [
+    "Lambrot, Romain",
+    "Xu, Cheng‐Jian",
+    "Saint‐Phar, Shawna",
+    "Chountalos, George",
+    "Cohen, Tamara R.",
+    "Paquet, Marilène",
+    "Suderman, Matthew",
+    "Hallett, Michael",
+    "Kimmins, Sarah"
+  ],
+  "doi": "10.1038/ncomms3889",
+  "url": "https://openalex.org/W2152343110",
+  "provider": "openalex",
+  "year": 2013,
+  "venue": "Nature Communications",
+  "citation_count": 472,
+  "abstract": "Epidemiological studies suggest that a father's diet can influence offspring health. A proposed mechanism for paternal transmission of environmental information is via the sperm epigenome. The epigenome includes heritable information such as DNA methylation. We hypothesize that the dietary supply of methyl donors will alter epigenetic reprogramming in sperm. Here we feed male mice either a folate-deficient or folate-sufficient diet throughout life. Paternal folate deficiency is associated with increased birth defects in the offspring, which include craniofacial and musculoskeletal malformations. Genome-wide DNA methylation analysis and the subsequent functional analysis identify differential methylation in sperm of genes implicated in development, chronic diseases such as cancer, diabetes, autism and schizophrenia. While >300 genes are differentially expressed in offspring placenta, only two correspond to genes with differential methylation in sperm. This model suggests epigenetic transmission may involve sperm histone H3 methylation or DNA methylation and that adequate paternal dietary folate is essential for offspring health.",
+  "type": "academic",
+  "pdf_url": "https://www.nature.com/articles/ncomms3889.pdf"
+}

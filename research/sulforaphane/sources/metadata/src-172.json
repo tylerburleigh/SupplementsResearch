@@ -1,0 +1,23 @@
+{
+  "id": "src-172",
+  "title": "Online solid-phase extraction of glucoraphanin and sulforaphane from non-edible plants based on amino acid-functionalized covalent organic frameworks.",
+  "authors": [
+    "Lv, Yingchao",
+    "Wang, Rongyu",
+    "Li, Tao",
+    "Cheng, Heli",
+    "Bakhtiyarovich, Ibragimov Aziz",
+    "Zamirovich, Adizov Bobirjon",
+    "Ali, Iftikhar",
+    "Ji, Wenhua"
+  ],
+  "doi": "10.1007/s00604-025-07628-6",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41171476",
+  "provider": "pubmed",
+  "year": 2025,
+  "venue": "Mikrochimica acta",
+  "citation_count": 0,
+  "abstract": "Glucoraphanin (GR) and sulforaphane (SFN) are sulfur-containing compounds with diverse medicinal applications. However, cruciferous vegetables are a single source of GR and SFN, which limits development and utilization in natural resources. Herein, amino acid covalent organic framework (COF-Cys) was synthesized via click reactions and employed as an adsorbent in online solid-phase extraction (online SPE) to determine GR and SFN in non-edible plant samples. The adsorption mechanism was analyzed using density functional theory, revealing that adsorption occurred via electrostatic interaction and hydrogen bonding. Under the optimum conditions, good linearity (4-2500 ng/mL; R2 = 0.9922 and 0.9968) and lower limits of detection (1.0 ng/mL and 0.6 ng/mL) were observed. GR and SFN were found in 18 non-edible plant samples, and recoveries of spiked samples were 89.1-109.3% with RSD ≤ 6.9%. The COF-Cys-online SPE-UPLC-MS/MS approach displays great potential for application to detect GR and SFN in non-edible plants and provide valuable support for the development of functional products.",
+  "type": "academic",
+  "pdf_url": ""
+}

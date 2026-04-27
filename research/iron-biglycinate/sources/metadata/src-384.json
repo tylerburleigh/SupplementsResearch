@@ -1,0 +1,22 @@
+{
+  "id": "src-384",
+  "title": "Double-edged Sword Role of Iron-loaded Ferritin in Extracellular Vesicles.",
+  "authors": [
+    "Toyokuni, Shinya",
+    "Kong, Yingyi",
+    "Zheng, Hao",
+    "Mi, Danyang",
+    "Katabuchi, Misako",
+    "Motooka, Yashiro",
+    "Ito, Fumiya"
+  ],
+  "doi": "10.15430/jcp.2021.26.4.244",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35047450",
+  "provider": "pubmed",
+  "year": 2021,
+  "venue": "Journal of cancer prevention",
+  "citation_count": 0,
+  "abstract": "Human epidemiological and animal studies have demonstrated that excess iron is a risk for cancer. The responsible mechanisms are: 1) increased intracellular iron catalyzes the Fenton reaction to generate hydroxyl radicals, leading to mutagenic oxidative DNA lesions; 2) iron is necessary for cellular proliferation as cofactors of many enzymes. Thus, iron-excess milieu promotes selecting cellular evolution to ferroptosis-resistance, a major basis for carcinogenesis. Ferritin is a 24-subunit nanocage protein required for iron storage under the regulation of the iron-regulatory protein (IRP)/iron-responsive element (IRE) system. Ferritin is a serum marker, representing total body iron storage. However, how ferritin is secreted extracellularly has been unelucidated. We recently discovered that an exosomal marker CD63 is regulated by the IRP/IRE system and that iron-loaded ferritin is secreted as extracellular vesicles under the guidance of nuclear receptor coactivator 4 (NCOA4). On the other hand, we found that macrophages under asbestos-induced ferroptosis emit ferroptosis-dependent extracellular vesicles (FedEVs), which are received by nearby mesothelial cells, resulting in significant mutagenic DNA damage. Therefore, cells, including macrophages, can share excess iron with other cells, via iron-loaded ferritin packaged in extracellular vesicles as safe non-catalytic iron. However, similar process, such as one involving FedEVs, may cause accumulation of excess iron in other specific cells, which may eventually promote carcinogenesis.",
+  "type": "academic",
+  "pdf_url": ""
+}

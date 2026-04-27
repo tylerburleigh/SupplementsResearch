@@ -1,0 +1,19 @@
+{
+  "id": "src-072",
+  "title": "Role of ROS and RNS Sources in Physiological and Pathological Conditions",
+  "authors": [
+    "Meo, S. Di",
+    "Reed, Tanea T.",
+    "Venditti, Paola",
+    "Víctor, Víctor M."
+  ],
+  "doi": "10.1155/2016/1245049",
+  "url": "https://openalex.org/W2468879160",
+  "provider": "openalex",
+  "year": 2016,
+  "venue": "Oxidative Medicine and Cellular Longevity",
+  "citation_count": 1571,
+  "abstract": "There is significant evidence that, in living systems, free radicals and other reactive oxygen and nitrogen species play a double role, because they can cause oxidative damage and tissue dysfunction and serve as molecular signals activating stress responses that are beneficial to the organism. Mitochondria have been thought to both play a major role in tissue oxidative damage and dysfunction and provide protection against excessive tissue dysfunction through several mechanisms, including stimulation of opening of permeability transition pores. Until recently, the functional significance of ROS sources different from mitochondria has received lesser attention. However, the most recent data, besides confirming the mitochondrial role in tissue oxidative stress and protection, show interplay between mitochondria and other ROS cellular sources, so that activation of one can lead to activation of other sources. Thus, it is currently accepted that in various conditions all cellular sources of ROS provide significant contribution to processes that oxidatively damage tissues and assure their survival, through mechanisms such as autophagy and apoptosis.",
+  "type": "academic",
+  "pdf_url": "https://downloads.hindawi.com/journals/omcl/2016/1245049.pdf"
+}

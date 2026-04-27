@@ -1,0 +1,25 @@
+{
+  "id": "src-294",
+  "title": "Nrf2 targeting by sulforaphane: A potential therapy for cancer treatment",
+  "authors": [
+    "Russo, Maria",
+    "Spagnuolo, Carmela",
+    "Russo, Gian Luigi",
+    "Skalicka‐Woźniak, Krystyna",
+    "Daglia, Maria",
+    "Sobarzo‐Sánchez, Eduardo",
+    "Nabavi, Seyed Fazel",
+    "Nabavi, Seyed Mohammad",
+    "Nabavi, Seyed Mohammad",
+    "Nabavi, Seyed Mohammad"
+  ],
+  "doi": "10.1080/10408398.2016.1259983",
+  "url": "https://openalex.org/W2567250996",
+  "provider": "openalex",
+  "year": 2016,
+  "venue": "Critical Reviews in Food Science and Nutrition",
+  "citation_count": 193,
+  "abstract": "In the past decades, extensive studies have reported the potential chemopreventive activity of sulforaphane, an isothiocyanate derived from glucoraphanin, occurring in large amounts in Brassica genus plants. Sulforaphane was found to be active against several forms of cancer. A growing body of data shows that sulforaphane acts against cancer at different levels, from development to progression, through pleiotropic effects. In this review, we discuss the available experimental and clinical data on the potential therapeutic role of sulforaphane against cancer. Its effects range from the protection of cells from DNA damage to the modulation of the cell cycle via pro-apoptotic, anti-angiogenesis and anti-metastasis activities. At molecular level, sulforaphane modulates cellular homeostasis via the activation of the transcription factor Nrf2. Although data from clinical studies are limited, sulforaphane remains a good candidate in the adjuvant therapy based on natural molecules against several types of cancer.",
+  "type": "academic",
+  "pdf_url": ""
+}

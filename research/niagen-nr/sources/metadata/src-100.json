@@ -1,0 +1,20 @@
+{
+  "id": "src-100",
+  "title": "Mitochondria dysfunction in the pathogenesis of Alzheimer’s disease: recent advances",
+  "authors": [
+    "Wang, Wenzhang",
+    "Zhao, Fanpeng",
+    "Ma, Xiaopin",
+    "Perry, George",
+    "Zhu, Xiongwei"
+  ],
+  "doi": "10.1186/s13024-020-00376-6",
+  "url": "https://openalex.org/W3029234273",
+  "provider": "openalex",
+  "year": 2020,
+  "venue": "Molecular Neurodegeneration",
+  "citation_count": 1190,
+  "abstract": "Alzheimer's disease (AD) is one of the most prevalent neurodegenerative diseases, characterized by impaired cognitive function due to progressive loss of neurons in the brain. Under the microscope, neuronal accumulation of abnormal tau proteins and amyloid plaques are two pathological hallmarks in affected brain regions. Although the detailed mechanism of the pathogenesis of AD is still elusive, a large body of evidence suggests that damaged mitochondria likely play fundamental roles in the pathogenesis of AD. It is believed that a healthy pool of mitochondria not only supports neuronal activity by providing enough energy supply and other related mitochondrial functions to neurons, but also guards neurons by minimizing mitochondrial related oxidative damage. In this regard, exploration of the multitude of mitochondrial mechanisms altered in the pathogenesis of AD constitutes novel promising therapeutic targets for the disease. In this review, we will summarize recent progress that underscores the essential role of mitochondria dysfunction in the pathogenesis of AD and discuss mechanisms underlying mitochondrial dysfunction with a focus on the loss of mitochondrial structural and functional integrity in AD including mitochondrial biogenesis and dynamics, axonal transport, ER-mitochondria interaction, mitophagy and mitochondrial proteostasis.",
+  "type": "academic",
+  "pdf_url": "https://molecularneurodegeneration.biomedcentral.com/track/pdf/10.1186/s13024-020-00376-6"
+}

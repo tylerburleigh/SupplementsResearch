@@ -1,0 +1,24 @@
+{
+  "id": "src-097",
+  "title": "Vitamin D testing and treatment: a narrative review of current evidence",
+  "authors": [
+    "Pilz, Stefan",
+    "Zittermann, Armin",
+    "Trummer, Christian",
+    "Theiler‐Schwetz, Verena",
+    "Lerchbaum, Elisabeth",
+    "Keppel, Martin H.",
+    "Grübler, Martin",
+    "März, Winfried",
+    "Pandis, Marlene"
+  ],
+  "doi": "10.1530/ec-18-0432",
+  "url": "https://openalex.org/W2910301785",
+  "provider": "openalex",
+  "year": 2019,
+  "venue": "Endocrine Connections",
+  "citation_count": 261,
+  "abstract": "Vitamin D testing and treatment is a subject of controversial scientific discussions, and it is challenging to navigate through the expanding vitamin D literature with heterogeneous and partially opposed opinions and recommendations. In this narrative review, we aim to provide an update on vitamin D guidelines and the current evidence on the role of vitamin D for human health with its subsequent implications for patient care and public health issues. Vitamin D is critical for bone and mineral metabolism, and it is established that vitamin D deficiency can cause rickets and osteomalacia. While many guidelines recommend target serum 25-hydroxyvitamin D (25[OH]D) concentrations of ≥50 nmol/L (20 ng/mL), the minimum consensus in the scientific community is that serum 25(OH)D concentrations below 25-30 nmol/L (10-12 ng/mL) must be prevented and treated. Using this latter threshold of serum 25(OH)D concentrations, it has been documented that there is a high worldwide prevalence of vitamin D deficiency that may require public health actions such as vitamin D food fortification. On the other hand, there is also reason for concern that an exploding rate of vitamin D testing and supplementation increases costs and might potentially be harmful. In the scientific debate on vitamin D, we should consider that nutrient trials differ from drug trials and that apart from the opposed positions regarding indications for vitamin D treatment we still have to better characterize the precise role of vitamin D for human health.",
+  "type": "academic",
+  "pdf_url": "https://ec.bioscientifica.com/downloadpdf/journals/ec/8/2/EC-18-0432.pdf"
+}

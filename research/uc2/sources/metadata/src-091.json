@@ -1,0 +1,20 @@
+{
+  "id": "src-091",
+  "title": "A Review of Chondroitin Sulfate’s Preparation, Properties, Functions, and Applications",
+  "authors": [
+    "Shen, Qingshan",
+    "Guo, Yujie",
+    "Wang, Kangyu",
+    "Zhang, Chunhui",
+    "Ma, Yanli"
+  ],
+  "doi": "10.3390/molecules28207093",
+  "url": "https://openalex.org/W4387653677",
+  "provider": "openalex",
+  "year": 2023,
+  "venue": "Molecules",
+  "citation_count": 81,
+  "abstract": "Chondroitin sulfate (CS) is a natural macromolecule polysaccharide that is extensively distributed in a wide variety of organisms. CS is of great interest to researchers due to its many in vitro and in vivo functions. CS production derives from a diverse number of sources, including but not limited to extraction from various animals or fish, bio-synthesis, and fermentation, and its purity and homogeneity can vary greatly. The structural diversity of CS with respect to sulfation and saccharide content endows this molecule with distinct complexity, allowing for functional modification. These multiple functions contribute to the application of CS in medicines, biomaterials, and functional foods. In this article, we discuss the preparation of CS from different sources, the structure of various forms of CS, and its binding to other relevant molecules. Moreover, for the creation of this article, the functions and applications of CS were reviewed, with an emphasis on drug discovery, hydrogel formation, delivery systems, and food supplements. We conclude that analyzing some perspectives on structural modifications and preparation methods could potentially influence future applications of CS in medical and biomaterial research.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/1420-3049/28/20/7093/pdf?version=1697430352"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "src-122",
+  "title": "Preclinical mitigation of 5-HT2B agonism-related cardiac valvulopathy revisited.",
+  "authors": [
+    "Dumotier, B.",
+    "Urbán, L."
+  ],
+  "doi": "10.1016/j.vascn.2024.107542",
+  "url": "https://www.semanticscholar.org/paper/7ffe1f1641a104f5a0997546e0285d8aad9d27ac",
+  "provider": "semantic_scholar",
+  "year": 2024,
+  "venue": "Journal of pharmacological and toxicological methods",
+  "citation_count": 5,
+  "abstract": "Cardiac valvulopathy (Cardiac Valve Disease; CVD) associated with off-target activation of the 5-hydroxytryptamine (5-HT) 2B receptor has been well recognized, but is still poorly predicted during drug development. The regulatory guidance proposes the use of 5-HT2B binding data (i.e., Ki values) and free maximum therapeutic exposure (Cmax) to calculate safety margins as a threshold of detection (>10) for eliminating the risk of drug-induced cardiac valvulopathy. In this paper, we provide additional recommendations for preclinical prediction of CVD risk based on clinical pharmacodynamic and pharmacokinetic data obtained from drugs with or without 5-HT2B receptor activation. Our investigations showed that 5-HT2B agonist affinity of molecules tested in an in vitro 5-HT2B cell-based functional assay, placed in perspective to their sustained plasma exposure (AUCs) and not to their peak plasma exposure, Cmax (i.e., maximum therapeutic exposure) provide a solid basis for interpreting 5-HT2B data, for calculating safety margins and then, accurately differentiate drugs associated with a clinical risk of CVD from those which are not (despite having some agonist 5-HT2B activity). In addition, we discuss the risk of multi-organ fibrosis linked to 5-HT2B receptor activation, often underestimated, however well reported in FAERS for 5-HT2B agonists. We believe that our recommendations have the potential to mitigate the risk for the clinical development of CVD and fibrosis.",
+  "type": "academic",
+  "pdf_url": ""
+}

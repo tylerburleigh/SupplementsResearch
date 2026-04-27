@@ -1,0 +1,25 @@
+{
+  "id": "src-186",
+  "title": "Evaluation and management of lead exposure",
+  "authors": [
+    "Kim, Hwan‐Cheol",
+    "Jang, Tae Won",
+    "Chae, Hong-Jae",
+    "Choi, Won-Jun",
+    "Ha, Mina",
+    "Ye, Byeong-Jin",
+    "Kim, Byoung-Gwon",
+    "Jeon, Man Joong",
+    "Kim, Se-Yeong",
+    "Hong, Young‐Seoub"
+  ],
+  "doi": "10.1186/s40557-015-0085-9",
+  "url": "https://openalex.org/W2221405549",
+  "provider": "openalex",
+  "year": 2015,
+  "venue": "Annals of Occupational and Environmental Medicine",
+  "citation_count": 179,
+  "abstract": "Lead, which is widely used in industry, is a common element found in low concentrations in the Earth's crust. Implementations to reduce environmental lead concentrations have resulted in a considerable reduction of lead levels in the environment (air) and a sustained reduction in the blood lead levels of the average citizen. However, people are still being exposed to lead through a variety of routes in everyday commodities. Lead causes health problems such as toxicity of the liver, kidneys, hematopoietic system, and nervous system. Having a carcinogenic risk as well, the IARC classifies inorganic lead compounds as probably carcinogenic to humans (Group 2A). Occupational lead poisonings have decreased due to the efforts to reduce the lead concentrations in the working environment. In contrast, health hazards associated with long-term environmental exposure to low concentrations of lead have been reported steadily. In particular, chronic exposure to low concentrations of lead has been reported to induce cognitive behavioral disturbances in children. It is almost impossible to remove lead completely from the human body, and it is not easy to treat health hazards due to lead exposure. Therefore, reduction and prevention of lead exposure are very important. We reviewed the toxicity and health hazards, monitoring and evaluation, and management of lead exposure.",
+  "type": "academic",
+  "pdf_url": "http://aoemj.org/Synapse/Data/PDFData/2022AOEM/aoem-27-30.pdf"
+}

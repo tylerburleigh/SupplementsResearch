@@ -1,0 +1,32 @@
+{
+  "id": "src-288",
+  "title": "Toward precision longevity: aging interventions in the single-cell atlas era",
+  "authors": [
+    "Chen, Jason B.",
+    "Wang, Miranda C.",
+    "Gong, Shangyu",
+    "Li, Hongjie"
+  ],
+  "year": 2025,
+  "abstract": "With growing global interest in extending not only lifespan but also healthspan, healthy aging has emerged as a central goal in biomedical research. This review provides an overview of current longevity interventions, including genetic manipulations, dietary restriction, exercise, pharmacological treatments, targeting senescence and cellular reprogramming strategies, as studied in key model organisms such as\nCaenorhabditis elegans\n,\nDrosophila melanogaster\n, and\nMus musculus\n. We examine the limitations and challenges associated with these approaches, particularly their variability across tissues and cell types. Furthermore, we emphasize the critical role of single-cell aging atlas technologies in uncovering cell-type–specific aging patterns and molecular signatures. By integrating single-cell data, we propose that future interventions can be more precisely designed to target aging at the cellular level, thereby enhancing the efficacy and specificity of longevity strategies.",
+  "doi": "10.3389/fragi.2025.1674112",
+  "url": "https://doi.org/10.3389/fragi.2025.1674112",
+  "pdf_url": "",
+  "venue": "Frontiers in Aging",
+  "citation_count": 1,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T14:16:22.680551+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-288.md",
+  "quality_details": {
+    "content_length": 55297,
+    "alpha_ratio": 0.721,
+    "sentence_count": 970,
+    "reasons": []
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "src-022",
+  "title": "Reactive oxygen species, toxicity, oxidative stress, and antioxidants: chronic diseases and aging",
+  "authors": [
+    "Jomová, Klaudia",
+    "Raptová, Renáta",
+    "Alomar, Suliman Yousef",
+    "Alwasel, Saleh",
+    "Nepovimová, Eugenie",
+    "Kuča, Kamil",
+    "Valko, Marián"
+  ],
+  "doi": "10.1007/s00204-023-03562-9",
+  "url": "https://openalex.org/W4385999933",
+  "provider": "openalex",
+  "year": 2023,
+  "venue": "Archives of Toxicology",
+  "citation_count": 2092,
+  "abstract": "A physiological level of oxygen/nitrogen free radicals and non-radical reactive species (collectively known as ROS/RNS) is termed oxidative eustress or \"good stress\" and is characterized by low to mild levels of oxidants involved in the regulation of various biochemical transformations such as carboxylation, hydroxylation, peroxidation, or modulation of signal transduction pathways such as Nuclear factor-κB (NF-κB), Mitogen-activated protein kinase (MAPK) cascade, phosphoinositide-3-kinase, nuclear factor erythroid 2-related factor 2 (Nrf2) and other processes. Increased levels of ROS/RNS, generated from both endogenous (mitochondria, NADPH oxidases) and/or exogenous sources (radiation, certain drugs, foods, cigarette smoking, pollution) result in a harmful condition termed oxidative stress (\"bad stress\"). Although it is widely accepted, that many chronic diseases are multifactorial in origin, they share oxidative stress as a common denominator. Here we review the importance of oxidative stress and the mechanisms through which oxidative stress contributes to the pathological states of an organism. Attention is focused on the chemistry of ROS and RNS (e.g. superoxide radical, hydrogen peroxide, hydroxyl radicals, peroxyl radicals, nitric oxide, peroxynitrite), and their role in oxidative damage of DNA, proteins, and membrane lipids. Quantitative and qualitative assessment of oxidative stress biomarkers is also discussed. Oxidative stress contributes to the pathology of cancer, cardiovascular diseases, diabetes, neurological disorders (Alzheimer's and Parkinson's diseases, Down syndrome), psychiatric diseases (depression, schizophrenia, bipolar disorder), renal disease, lung disease (chronic pulmonary obstruction, lung cancer), and aging. The concerted action of antioxidants to ameliorate the harmful effect of oxidative stress is achieved by antioxidant enzymes (Superoxide dismutases-SODs, catalase, glutathione peroxidase-GPx), and small molecular weight antioxidants (vitamins C and E, flavonoids, carotenoids, melatonin, ergothioneine, and others). Perhaps one of the most effective low molecular weight antioxidants is vitamin E, the first line of defense against the peroxidation of lipids. A promising approach appears to be the use of certain antioxidants (e.g. flavonoids), showing weak prooxidant properties that may boost cellular antioxidant systems and thus act as preventive anticancer agents. Redox metal-based enzyme mimetic compounds as potential pharmaceutical interventions and sirtuins as promising therapeutic targets for age-related diseases and anti-aging strategies are discussed.",
+  "type": "academic",
+  "pdf_url": "https://link.springer.com/content/pdf/10.1007/s00204-023-03562-9.pdf"
+}

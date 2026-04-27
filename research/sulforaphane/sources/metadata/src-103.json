@@ -1,0 +1,17 @@
+{
+  "id": "src-103",
+  "title": "The Anti-Cancer Effect of Quercetin: Molecular Implications in Cancer Metabolism",
+  "authors": [
+    "Reyes‐Farias, Marjorie",
+    "Carrasco‐Pozo, Catalina"
+  ],
+  "doi": "10.3390/ijms20133177",
+  "url": "https://openalex.org/W2955896228",
+  "provider": "openalex",
+  "year": 2019,
+  "venue": "International Journal of Molecular Sciences",
+  "citation_count": 666,
+  "abstract": "Cancer is a problem with worldwide importance and is the second leading cause of death globally. Cancer cells reprogram their metabolism to support their uncontrolled expansion by increasing biomass (anabolic metabolism-glycolysis) at the expense of their energy (bioenergetics- mitochondrial function) requirements. In this aspect, metabolic reprogramming stands out as a key biological process in understanding the conversion of a normal cell into a neoplastic precursor. Quercetin is the major representative of the flavonoid subclass of flavonols. Quercetin is ubiquitously present in fruits and vegetables, being one of the most common dietary flavonols in the western diet. The anti-cancer effects of quercetin include its ability to promote the loss of cell viability, apoptosis and autophagy through the modulation of PI3K/Akt/mTOR, Wnt/-catenin, and MAPK/ERK1/2 pathways. In this review, we discuss the role of quercetin in cancer metabolism, addressing specifically its ability to target molecular pathways involved in glucose metabolism and mitochondrial function.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/1422-0067/20/13/3177/pdf?version=1562208140"
+}

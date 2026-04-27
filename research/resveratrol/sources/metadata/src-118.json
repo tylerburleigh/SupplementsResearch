@@ -1,0 +1,19 @@
+{
+  "id": "src-118",
+  "title": "Liposome encapsulation of curcumin and resveratrol in combination reduces prostate cancer incidence in PTEN knockout mice",
+  "authors": [
+    "Narayanan, Narayanan K.",
+    "Nargi, Dominick",
+    "Randolph, Carla",
+    "Narayanan, Bhagavathi A."
+  ],
+  "doi": "10.1002/ijc.24336",
+  "url": "https://openalex.org/W2033203721",
+  "provider": "openalex",
+  "year": 2009,
+  "venue": "International Journal of Cancer",
+  "citation_count": 349,
+  "abstract": "Increasing interest in the use of phytochemicals to reduce prostate cancer led us to investigate 2 potential agents, curcumin and resveratrol as preventive agents. However, there is concern about the bioavailability of these agents pertinent to the poor absorption and thereby limiting its clinical use. With the view to improve their bioavailability, we used the liposome encapsulated curcumin, and resveratrol individually and in combination in male B6C3F1/J mice. Further, we examined the chemopreventive effect of liposome encapsulated curcumin and resveratrol in combination in prostate-specific PTEN knockout mice. In vitro assays using PTEN-CaP8 cancer cells were performed to investigate the combined effects curcumin with resveratrol on (i) cell growth, apoptosis and cell cycle (ii) impact on activated p-Akt, cyclin D1, m-TOR and androgen receptor (AR) proteins involved in tumor progression. HPLC analysis of serum and prostate tissues showed a significant increase in curcumin level when liposome encapsulated curcumin coadministered with liposomal resveratrol (p < 0.001). Combination of liposomal forms of curcumin and resveratrol significantly decreased prostatic adenocarcinoma in vivo (p < 0.001). In vitro studies revealed that curcumin plus resveratrol effectively inhibit cell growth and induced apoptosis. Molecular targets activated due to the loss of phosphatase and tensin homolog (PTEN) including p-Akt, cyclin D1, mammalian target of rapamycin and AR were downregulated by these agents in combination. Findings from this study for the first time provide evidence on phytochemicals in combination to enhance chemopreventive efficacy in prostate cancer. These findings clearly suggest that phytochemicals in combination may reduce prostate cancer incidence due to the loss of the tumor suppressor gene PTEN.",
+  "type": "academic",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ijc.24336"
+}

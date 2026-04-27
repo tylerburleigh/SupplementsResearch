@@ -1,0 +1,25 @@
+{
+  "id": "src-286",
+  "title": "Aqueous Polygalae Radix extract (PRE) prolongs the lifespan of C. elegans and alleviates D-galactose-induced oxidative stress in the mouse liver and brain by modulating PPARγ/MAPK",
+  "authors": [
+    "Zhang, Jiaqi",
+    "Zheng, Wenxue",
+    "Zhou, Zhengjie",
+    "An, Yu",
+    "Zheng, Haoyu",
+    "Zhang, Yanan",
+    "Wei, Yu",
+    "Zhang, Qianhua",
+    "Zheng, Jingtong",
+    "Wang, Fang"
+  ],
+  "doi": "10.1016/j.jep.2025.119878",
+  "url": "https://openalex.org/W4409753525",
+  "provider": "openalex",
+  "year": 2025,
+  "venue": "Journal of Ethnopharmacology",
+  "citation_count": 5,
+  "abstract": "PRE delays aging and resists oxidative stress in organisms; it may act by regulating the PPARγ/MAPK signaling pathway and the intestinal flora. The efficacy and mechanism of PRE against oxidative stress were elucidated using RNA-seq and 16S rDNA sequencing, providing a reference for antiaging and aging-related diseases.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.1016/j.jep.2025.119878"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "src-132",
+  "title": "How do plants feel the heat and survive?",
+  "authors": [
+    "Guihur, Anthony",
+    "Rebeaud, Mathieu E.",
+    "Goloubinoff, Pierre"
+  ],
+  "doi": "10.1016/j.tibs.2022.05.004",
+  "url": "https://openalex.org/W4281762174",
+  "provider": "openalex",
+  "year": 2022,
+  "venue": "Trends in Biochemical Sciences",
+  "citation_count": 154,
+  "abstract": "Climate change is increasingly affecting the quality of life of organisms on Earth. More frequent, extreme, and lengthy heat waves are contributing to the sixth mass extinction of complex life forms in the Earth's history. From an anthropocentric point of view, global warming is a major threat to human health because it also compromises crop yields and food security. Thus, achieving agricultural productivity under climate change calls for closer examination of the molecular mechanisms of heat-stress resistance in model and crop plants. This requires a better understanding of the mechanisms by which plant cells can sense rising temperatures and establish effective molecular defenses, such as molecular chaperones and thermoprotective metabolites, as reviewed here, to survive extreme diurnal variations in temperature and seasonal heat waves.",
+  "type": "academic",
+  "pdf_url": "http://www.cell.com/article/S0968000422001189/pdf"
+}

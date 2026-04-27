@@ -1,0 +1,18 @@
+{
+  "id": "src-455",
+  "title": "Treatment of age-related decreases in GTP levels restores endocytosis and autophagy.",
+  "authors": [
+    "Santana, R A",
+    "McWhirt, J M",
+    "Brewer, G J"
+  ],
+  "doi": "10.1007/s11357-025-01786-4",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40751793",
+  "provider": "pubmed",
+  "year": 2026,
+  "venue": "GeroScience",
+  "citation_count": 0,
+  "abstract": "Age-related declines in neuronal bioenergetic levels may limit vesicular trafficking and autophagic clearance of damaged organelles and proteins. Age-related ATP depletion would impact cognition dependent on ionic homeostasis, but limits on proteostasis powered by GTP are less clear. We used neurons isolated from aged 3xTg-AD Alzheimer's model mice and a novel genetically encoded fluorescent GTP sensor (GEVAL) to evaluate live GTP levels in situ. We report an age-dependent reduction in ratiometric measurements of free/bound GTP levels in living hippocampal neurons. Free GTP colocalized in the mitochondria decreased with age accompanied by the accumulation of free GTP-labeled vesicular structures. The energy dependence of autophagy was demonstrated by depletion of GTP with rapamycin stimulation, while bafilomycin inhibition of autophagy raised GTP levels. Twenty-four-hour supplementation of aged neurons with the NAD precursor nicotinamide and the Nrf2 redox modulator EGCG restored GTP levels to youthful levels and mobilized endocytosis and lysosomal consumption for autophagy via the respective GTPases Rab7 and Arl8b. This vesicular mobilization promoted the clearance of intraneuronal Aβ aggregates, improved viability, and lowered protein oxidative nitration in AD model neurons. Our results reveal age- and AD-related neuronal GTP energy deficits that impair autophagy and endocytosis. GTP deficits were remediated by an external NAD precursor together with a Nrf2 redox modulator which suggests a translational path.",
+  "type": "academic",
+  "pdf_url": ""
+}

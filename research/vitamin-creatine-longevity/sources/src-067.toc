@@ -1,0 +1,14 @@
+116	2	Abstract
+147	2	1. INTRODUCTION
+148	3	1.1 Creatine – a compound naturally occurring in the human body
+180	3	1.2 Creatine monohydrate - popular sport supplement
+215	3	1.3 Methods of creatine monohydrate oral administration
+226	3	1.4 The health benefits of creatine monohydrate supplementation
+255	2	2. MATERIALS AND METHODS
+259	2	3. DISCUSSION
+260	3	3.1 Effect on muscle strength - literature review
+320	3	3.2 Effect on muscle mass gain - literature review
+362	3	3.3 Effect on training performance - literature review
+498	2	5. CONCLUSIONS
+528	2	Disclosure
+562	2	Acknowledgments

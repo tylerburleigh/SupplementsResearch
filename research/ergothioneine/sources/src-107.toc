@@ -1,0 +1,24 @@
+5	2	Research
+13	2	Abstract
+41	2	Background
+48	2	1 Department of Public Health Sciences, Pennsylvania State University
+113	2	Methods
+276	2	Statistical Analysis
+405	2	Results
+475	2	Discussion
+632	2	Design
+663	2	13 Age, sex,
+720	3	15.7 Age, sex, body
+746	2	Design
+801	2	13 Age, smoking
+825	2	Ffq
+828	2	Participants
+845	3	12.7 Age, area of
+875	2	Conclusions
+905	2	Acknowledgments
+966	2	Competing Interests
+969	2	1 Department of Public Health Sciences, Pennsylvania State University College
+975	2	References
+980	2	2. Mozaffarian D, Benjamin EJ, Go AS, Arnett DK, Blaha MJ, Cushman M,
+1086	2	35. Leenders M, Sluijs I, Ros MM, Boshuizen HC, Siersema PD, Ferrari P ,
+1096	2	38. Centers for Disease Control and Prevention, NCHS: About National Health

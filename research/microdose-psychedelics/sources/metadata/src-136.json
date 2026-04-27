@@ -1,0 +1,29 @@
+{
+  "id": "src-136",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "",
+  "pdf_url": "https://www.eisai.com/news/2018/pdf/enews201872pdf.pdf",
+  "venue": "",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "",
+  "fetched_at": "2026-04-26T10:53:00.247196+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-136.md",
+  "quality_details": {
+    "content_length": 9058,
+    "alpha_ratio": 0.757,
+    "sentence_count": 70,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

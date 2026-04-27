@@ -1,0 +1,31 @@
+{
+  "id": "src-053",
+  "title": "Natural Phytochemicals as SIRT Activators—Focus on Potential Biochemical Mechanisms",
+  "authors": [
+    "Wiciński, Michał",
+    "Erdmann, Jakub",
+    "Nowacka, Agnieszka",
+    "Kuźmiński, Oskar",
+    "Michalak, Klaudia",
+    "Janowski, Kacper",
+    "Ohla, Jakub",
+    "Biernaciak, Adrian",
+    "Szambelan, Monika",
+    "Zabrzyński, Jan"
+  ],
+  "year": 2023,
+  "abstract": "Sirtuins are a family of proteins with enzymatic activity. There are seven mammalian sirtuins (SIRT1-SIRT7) that are found in different cellular compartments. They are a part of crucial cellular pathways and are regulated by many factors, such as chemicals, environmental stress, and phytochemicals. Several in vitro and in vivo studies have presented their involvement in anti-inflammatory, antioxidant, and antiapoptotic processes. Recent findings imply that phytochemicals such as resveratrol, curcumin, quercetin, fisetin, berberine, and kaempferol may regulate the activity of sirtuins. Resveratrol mainly activates SIRT1 and indirectly activates AMPK. Curcumin influences mainly SIRT1 and SIRT3, but its activity is broad, and many pathways in different cells are affected. Quercetin mainly modulates SIRT1, which triggers antioxidant and antiapoptotic responses. Fisetin, through SIRT1 regulation, modifies lipid metabolism and anti-inflammatory processes. Berberine has a wide spectrum of effects and a significant impact on SIRT1 signaling pathways. Finally, kaempferol triggers anti-inflammatory and antioxidant effects through SIRT1 induction. This review aims to summarize recent findings on the properties of phytochemicals in the modulation of sirtuin activity, with a particular focus on biochemical aspects.",
+  "doi": "10.3390/nu15163578",
+  "url": "https://doi.org/10.3390/nu15163578",
+  "pdf_url": "",
+  "venue": "Nutrients",
+  "citation_count": 79,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-23T11:28:51.286043+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok"
+}

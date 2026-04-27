@@ -1,0 +1,19 @@
+{
+  "id": "src-114",
+  "title": "Deciphering the Role of Polyphenols in Sports Performance: From Nutritional Genomics to the Gut Microbiota toward Phytonutritional Epigenomics",
+  "authors": [
+    "Sorrenti, Vincenzo",
+    "Fortinguerra, Stefano",
+    "Caudullo, Giada",
+    "Buriani, Alessandro"
+  ],
+  "doi": "10.3390/nu12051265",
+  "url": "https://openalex.org/W3023612762",
+  "provider": "openalex",
+  "year": 2020,
+  "venue": "Nutrients",
+  "citation_count": 50,
+  "abstract": "The individual response to nutrients and non-nutrient molecules can be largely affected by three important biological layers. The gut microbiome can alter the bioavailability of nutrients and other substances, the genome can influence molecule kinetics and dynamics, while the epigenome can modulate or amplify the properties of the genome. Today the use of omic techniques and bioinformatics, allow the construction of individual multilayer networks and thus the identification of personalized strategies that have recently been considered in all medical fields, including sports medicine. The composition of each athlete's microbiome influences sports performance both directly by acting on energy metabolism and indirectly through the modulation of nutrient or non-nutrient molecule availability that ultimately affects the individual epigenome and the genome. Among non-nutrient molecules polyphenols can potentiate physical performances through different epigenetic mechanisms. Polyphenols interact with the gut microbiota, undergoing extensive metabolism to produce bioactive molecules, which act on transcription factors involved in mitochondrial biogenesis, antioxidant systems, glucose and lipid homeostasis, and DNA repair. This review focuses on polyphenols effects in sports performance considering the individual microbiota, epigenomic asset, and the genomic characteristics of athletes to understand how their supplementation could potentially help to modulate muscle inflammation and improve recovery.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2072-6643/12/5/1265/pdf?version=1589436526"
+}

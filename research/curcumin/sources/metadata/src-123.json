@@ -1,0 +1,17 @@
+{
+  "id": "src-123",
+  "title": "Advances in Chitosan-Based Nanoparticles for Drug Delivery",
+  "authors": [
+    "Mikušová, Veronika",
+    "Mikuš, Peter"
+  ],
+  "doi": "10.3390/ijms22179652",
+  "url": "https://openalex.org/W3198509218",
+  "provider": "openalex",
+  "year": 2021,
+  "venue": "International Journal of Molecular Sciences",
+  "citation_count": 515,
+  "abstract": "Nanoparticles (NPs) have an outstanding position in pharmaceutical, biological, and medical disciplines. Polymeric NPs based on chitosan (CS) can act as excellent drug carriers because of some intrinsic beneficial properties including biocompatibility, biodegradability, non-toxicity, bioactivity, easy preparation, and targeting specificity. Drug transport and release from CS-based particulate systems depend on the extent of cross-linking, morphology, size, and density of the particulate system, as well as physicochemical properties of the drug. All these aspects have to be considered when developing new CS-based NPs as potential drug delivery systems. This comprehensive review is summarizing and discussing recent advances in CS-based NPs being developed and examined for drug delivery. From this point of view, an enhancement of CS properties by its modification is presented. An enhancement in drug delivery by CS NPs is discussed in detail focusing on (i) a brief summarization of basic characteristics of CS NPs, (ii) a categorization of preparation procedures used for CS NPs involving also recent improvements in production schemes of conventional as well as novel CS NPs, (iii) a categorization and evaluation of CS-based-nanocomposites involving their production schemes with organic polymers and inorganic material, and (iv) very recent implementations of CS NPs and nanocomposites in drug delivery.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/1422-0067/22/17/9652/pdf?version=1631091834"
+}

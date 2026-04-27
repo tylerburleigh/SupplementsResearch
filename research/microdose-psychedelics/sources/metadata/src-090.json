@@ -1,0 +1,19 @@
+{
+  "id": "src-090",
+  "title": "Serotonergic Psychedelics in Neural Plasticity",
+  "authors": [
+    "Łukasiewicz, Kacper",
+    "Baker, Jacob J.",
+    "Zuo, Yi",
+    "Lu, Ju"
+  ],
+  "doi": "10.3389/fnmol.2021.748359",
+  "url": "https://openalex.org/W3207365630",
+  "provider": "openalex",
+  "year": 2021,
+  "venue": "Frontiers in Molecular Neuroscience",
+  "citation_count": 30,
+  "abstract": "Psychedelics, compounds that can induce dramatic changes in conscious experience, have been used by humans for centuries. Recent studies have shown that certain psychedelics can induce neural plasticity by promoting neurite growth and synapse formation. In this review, we focus on the role of classical serotonergic psychedelics in neural plasticity and discuss its implication for their therapeutic potentials.",
+  "type": "academic",
+  "pdf_url": "https://www.frontiersin.org/articles/10.3389/fnmol.2021.748359/pdf"
+}

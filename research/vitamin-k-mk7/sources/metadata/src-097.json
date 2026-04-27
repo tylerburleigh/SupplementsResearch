@@ -1,0 +1,29 @@
+{
+  "id": "src-097",
+  "title": "Impact of Altered Intestinal Microbiota on Chronic Kidney Disease Progression",
+  "authors": [
+    "Castillo-Rodríguez, Esmeralda",
+    "Fernández-Prado, Raúl",
+    "Esteras, Raquel",
+    "Pérez-Gómez, María Vanessa",
+    "Gracia-Iguacel, Carolina",
+    "Fernández‐Fernández, Beatriz",
+    "Kanbay, Mehmet",
+    "Tejedor, Alberto",
+    "Lázaro, Alberto",
+    "Ruiz‐Ortega, Marta",
+    "González‐Parra, Emilio",
+    "Sanz, Ana B.",
+    "Ortíz, Alberto",
+    "Sánchez-Niño, María Dolores"
+  ],
+  "doi": "10.3390/toxins10070300",
+  "url": "https://openalex.org/W2884560868",
+  "provider": "openalex",
+  "year": 2018,
+  "venue": "Toxins",
+  "citation_count": 141,
+  "abstract": "In chronic kidney disease (CKD), accumulation of uremic toxins is associated with an increased risk of CKD progression. Some uremic toxins result from nutrient processing by gut microbiota, yielding precursors of uremic toxins or uremic toxins themselves, such as trimethylamine N-Oxide (TMAO), p-cresyl sulphate, indoxyl sulphate and indole-3 acetic acid. Increased intake of some nutrients may modify the gut microbiota, increasing the number of bacteria that process them to yield uremic toxins. Circulating levels of nutrient-derived uremic toxins are associated to increased risk of CKD progression. This offers the opportunity for therapeutic intervention by either modifying the diet, modifying the microbiota, decreasing uremic toxin production by microbiota, increasing toxin excretion or targeting specific uremic toxins. We now review the link between nutrients, microbiota and uremic toxin with CKD progression. Specific focus will be placed on the generation specific uremic toxins with nephrotoxic potential, the decreased availability of bacteria-derived metabolites with nephroprotective potential, such as vitamin K and butyrate and the cellular and molecular mechanisms linking these toxins and protective factors to kidney diseases. This information provides a conceptual framework that allows the development of novel therapeutic approaches.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2072-6651/10/7/300/pdf?version=1531990779"
+}

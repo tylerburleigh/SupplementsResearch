@@ -1,0 +1,24 @@
+{
+  "id": "src-099",
+  "title": "A retrospective examination of adjunctive L-methylfolate in children and adolescents with unipolar depression.",
+  "authors": [
+    "Bopp, Emily A",
+    "Poweleit, Ethan A",
+    "Cox, Marley O",
+    "Farrow, Jenni E",
+    "Strawn, Jeffrey R",
+    "Patino Duran, Luis R",
+    "Prows, Cynthia A",
+    "DelBello, Melissa P",
+    "Ramsey, Laura B"
+  ],
+  "doi": "10.1016/j.jad.2022.06.039",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35753502",
+  "provider": "pubmed",
+  "year": 2022,
+  "venue": "Journal of affective disorders",
+  "citation_count": 0,
+  "abstract": "BACKGROUND: Adjunctive l-methylfolate is commonly prescribed for children and adolescents with treatment-resistant mood disorders; however, the relationship between l-methylfolate augmentation across methylenetetrahydrofolate reductase (MTHFR) genotypes in youths with depressive symptoms is unclear.\nMETHODS: We retrospectively examined the electronic health records of patients (N = 412) with depressive symptoms associated with unipolar depressive disorders and their MTHFR C677T genotypes from 2013 to 2019. Patients were ≤18 years of age at the time of MTHFR pharmacogenetic testing. Treatment response was assessed with Clinical Global Impression-Improvement (CGI-I) score reported in the medical record.\nRESULTS: Patients with an MTHFR C677T C/T or T/T genotype were more likely to be prescribed l-methylfolate when the clinician knew their MTHFR genotype (p < 0.0001, OR: 15.1, 95 % CI: [5.1, 44.2]), but not when the clinician did not know their genotype (p = 0.4, OR: 2.1, 95 % CI: [0.4, 11.4]). Change in baseline and endpoint CGI-I scores between patients with an MTHFR C677T variant who were prescribed and not prescribed l-methylfolate did not significantly differ (p = 0.39). Response rate was not associated with l-methylfolate prescription (p = 0.17) or l-methylfolate dose (p = 0.69).\nLIMITATIONS: This was a retrospective study, which yielded a heterogeneous patient population and limited data availability (e.g., adherence). Patients are severely ill and may have a refractory illness that limits response to adjunctive l-methylfolate.\nCONCLUSION: Clinicians prescribe l-methylfolate to children and adolescents with depressive symptoms associated with unipolar depressive disorders who have an MTHFR C677T variant, although augmentation may not be associated with treatment response, regardless of MTHFR genotype or dose.",
+  "type": "academic",
+  "pdf_url": ""
+}

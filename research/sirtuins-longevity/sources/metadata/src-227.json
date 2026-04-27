@@ -1,0 +1,17 @@
+{
+  "id": "src-227",
+  "title": "Molecular mechanisms underlying the lifespan and healthspan benefits of dietary restriction across species",
+  "authors": [
+    "Fan, Jialin",
+    "Xu, Yunpeng"
+  ],
+  "doi": "10.3389/fgene.2026.1771707",
+  "url": "https://www.semanticscholar.org/paper/69548e6b4d536ae2f710b88dbf178d16c542d06d",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "Frontiers in Genetics",
+  "citation_count": 5,
+  "abstract": "Dietary restriction (DR), defined as reduced caloric intake or selective limitation of specific nutrients without malnutrition, is one of the most robust interventions known to extend lifespan and healthspan across species. Studies from yeast to mammals demonstrate that DR elicits conserved genetic, transcriptional, and epigenetic programs that promote cellular maintenance and stress resistance. At the molecular level, DR engages evolutionarily conserved nutrient-sensing pathways, including insulin/IGF-1 signaling (IIS), the mechanistic target of rapamycin (mTOR), AMP-activated protein kinase (AMPK), and NAD+-dependent sirtuins, which converge on key transcription factors (TFs) and transcriptional coactivators (TCs) to coordinate metabolic and longevity-associated gene expression. Downstream, these pathways enhance autophagy and proteostasis, remodel mitochondrial function and redox balance, reshape immune and inflammatory networks, and induce epigenetic and transcriptional reprogramming. Recent work further highlights amino acid–specific sensing mechanisms, endocrine mediators such as fibroblast growth factor 21 (FGF21), the gut microbiome, circadian regulators, and nuclear pore–associated transcriptional plasticity as integral components of DR responses. Importantly, the physiological outcomes of DR are context dependent and influenced by genetic background, sex, age at intervention, and the type and duration of restriction. In this review, we summarize current knowledge on the genetic and molecular architecture underlying DR-induced longevity and health benefits across species, discuss implications for aging-related diseases, and outline future directions toward precision nutrition and safe translational strategies.",
+  "type": "academic",
+  "pdf_url": ""
+}

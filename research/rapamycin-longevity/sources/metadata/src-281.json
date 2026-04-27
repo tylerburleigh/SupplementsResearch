@@ -1,0 +1,28 @@
+{
+  "id": "src-281",
+  "title": "Leveraging intratumoral probiotics for pancreatic cancer immunotherapy via xenophagy.",
+  "authors": [
+    "Li, Baoyi",
+    "Liu, Guangnian",
+    "Zhu, Yu",
+    "Chen, Lin",
+    "Zhang, Nianhua",
+    "Zhu, Xiaojuan",
+    "Sun, Yixin",
+    "Liu, Xinxin",
+    "Liu, Weikang",
+    "Ma, Yongsu",
+    "Tian, Xiaodong",
+    "Yang, Yinmo",
+    "Zhu, Motao"
+  ],
+  "doi": "10.1016/j.chom.2026.02.010",
+  "url": "https://www.semanticscholar.org/paper/095c3de095344f309faacb9cfac4236b22cf60cf",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "Cell Host and Microbe",
+  "citation_count": 0,
+  "abstract": "Although pancreatic ductal adenocarcinoma (PDAC) tumors harbor unique intracellular bacteria, therapeutic strategies to harness them and overcome immunotherapy resistance remain elusive. Through 16S rDNA sequencing of PDAC tumors from 40 patients and screening of probiotic strains, we identified Bifidobacterium longum (B. longum) as capable of colonizing tumors and invading PDAC cells. In a murine orthotopic tumor model, B. longum's anti-tumor effects are exclusively driven by rapamycin-induced xenophagy. This xenophagy-mediated probiotic therapy, termed XenoPro, significantly suppresses tumor growth by presenting B. longum-derived neoantigens and eliciting robust CD4+ T cell activation and tumor-specific cytotoxicity. From 40 predicted neoantigens, a vaccine containing the top 12 immunogenic neoantigens showed potent anti-tumor effects and prolonged survival in murine models of PDAC, colorectal cancer, and melanoma. XenoPro, administered orally or intravenously, enhances immune cell infiltration and improves the efficacy of immune checkpoint inhibitors, offering a promising strategy for PDAC immunotherapy.",
+  "type": "academic",
+  "pdf_url": ""
+}

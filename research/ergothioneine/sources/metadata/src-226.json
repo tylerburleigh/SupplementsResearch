@@ -1,0 +1,20 @@
+{
+  "id": "src-226",
+  "title": "The Glutathione System: A Journey from Cyanobacteria to Higher Eukaryotes",
+  "authors": [
+    "Cassier‐Chauvat, Corinne",
+    "Marceau, Fanny",
+    "Farci, Sandrine",
+    "Ouchane, Soufian",
+    "Chauvat, Franck"
+  ],
+  "doi": "10.3390/antiox12061199",
+  "url": "https://openalex.org/W4379053649",
+  "provider": "openalex",
+  "year": 2023,
+  "venue": "Antioxidants",
+  "citation_count": 94,
+  "abstract": "From bacteria to plants and humans, the glutathione system plays a pleiotropic role in cell defense against metabolic, oxidative and metal stresses. Glutathione (GSH), the γ-L-glutamyl-L-cysteinyl-glycine nucleophile tri-peptide, is the central player of this system that acts in redox homeostasis, detoxification and iron metabolism in most living organisms. GSH directly scavenges diverse reactive oxygen species (ROS), such as singlet oxygen, superoxide anion, hydrogen peroxide, hydroxyl radical, nitric oxide and carbon radicals. It also serves as a cofactor for various enzymes, such as glutaredoxins (Grxs), glutathione peroxidases (Gpxs), glutathione reductase (GR) and glutathione-S-transferases (GSTs), which play crucial roles in cell detoxication. This review summarizes what is known concerning the GSH-system (GSH, GSH-derived metabolites and GSH-dependent enzymes) in selected model organisms (<i>Escherichia coli</i>, <i>Saccharomyces cerevisiae</i>, <i>Arabidopsis thaliana</i> and human), emphasizing cyanobacteria for the following reasons. Cyanobacteria are environmentally crucial and biotechnologically important organisms that are regarded as having evolved photosynthesis and the GSH system to protect themselves against the ROS produced by their active photoautotrophic metabolism. Furthermore, cyanobacteria synthesize the GSH-derived metabolites, ergothioneine and phytochelatin, that play crucial roles in cell detoxication in humans and plants, respectively. Cyanobacteria also synthesize the thiol-less GSH homologs ophthalmate and norophthalmate that serve as biomarkers of various diseases in humans. Hence, cyanobacteria are well-suited to thoroughly analyze the role/specificity/redundancy of the players of the GSH-system using a genetic approach (deletion/overproduction) that is hardly feasible with other model organisms (<i>E. coli</i> and <i>S. cerevisiae</i> do not synthesize ergothioneine, while plants and humans acquire it from their soil and their diet, respectively).",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2076-3921/12/6/1199/pdf?version=1685610637"
+}

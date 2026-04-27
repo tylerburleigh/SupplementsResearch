@@ -1,0 +1,20 @@
+{
+  "id": "src-457",
+  "title": "Green tea catechins EGCG and ECG enhance the fitness and lifespan of Caenorhabditis elegans by complex I inhibition.",
+  "authors": [
+    "Tian, Jing",
+    "Geiss, Caroline",
+    "Zarse, Kim",
+    "Madreiter-Sokolowski, Corina T",
+    "Ristow, Michael"
+  ],
+  "doi": "10.18632/aging.203597",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34607977",
+  "provider": "pubmed",
+  "year": 2021,
+  "venue": "Aging",
+  "citation_count": 0,
+  "abstract": "Green tea catechins are associated with a delay in aging. We have designed the current study to investigate the impact and to unveil the target of the most abundant green tea catechins, epigallocatechin gallate (EGCG) and epicatechin gallate (ECG). Experiments were performed in Caenorhabditis elegans to analyze cellular metabolism, ROS homeostasis, stress resistance, physical exercise capacity, health- and lifespan, and the underlying signaling pathways. Besides, we examined the impact of EGCG and ECG in isolated murine mitochondria. A concentration of 2.5 μM EGCG and ECG enhanced health- and lifespan as well as stress resistance in C. elegans. Catechins hampered mitochondrial respiration in C. elegans after 6-12 h and the activity of complex I in isolated rodent mitochondria. The impaired mitochondrial respiration was accompanied by a transient drop in ATP production and a temporary increase in ROS levels in C. elegans. After 24 h, mitochondrial respiration and ATP levels got restored, and ROS levels even dropped below control conditions. The lifespan increases induced by EGCG and ECG were dependent on AAK-2/AMPK and SIR-2.1/SIRT1, as well as on PMK-1/p38 MAPK, SKN-1/NRF2, and DAF-16/FOXO. Long-term effects included significantly diminished fat content and enhanced SOD and CAT activities, required for the positive impact of catechins on lifespan. In summary, complex I inhibition by EGCG and ECG induced a transient drop in cellular ATP levels and a temporary ROS burst, resulting in SKN-1 and DAF-16 activation. Through adaptative responses, catechins reduced fat content, enhanced ROS defense, and improved healthspan in the long term.",
+  "type": "academic",
+  "pdf_url": ""
+}

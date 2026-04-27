@@ -1,0 +1,29 @@
+{
+  "id": "src-227",
+  "title": "M1 macrophage-derived exosomes promote intervertebral disc degeneration by enhancing nucleus pulposus cell senescence through LCN2/NF-κB signaling axis.",
+  "authors": [
+    "Fan, Chunyang",
+    "Wang, Wei",
+    "Yu, Zilin",
+    "Wang, Jiale",
+    "Xu, Wei",
+    "Ji, Zhongwei",
+    "He, Wei",
+    "Hua, Di",
+    "Wang, Wentao",
+    "Yao, Linye",
+    "Deng, Yongkang",
+    "Geng, Dechun",
+    "Wu, Xiexing",
+    "Mao, Haiqing"
+  ],
+  "doi": "10.1186/s12951-024-02556-8",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38816771",
+  "provider": "pubmed",
+  "year": 2024,
+  "venue": "Journal of nanobiotechnology",
+  "citation_count": 0,
+  "abstract": "Intervertebral disc degeneration (IVDD) is the primary factor contributing to low back pain (LBP). Unlike elderly patients, many young IVDD patients usually have a history of trauma or long-term abnormal stress, which may lead to local inflammatory reaction causing by immune cells, and ultimately accelerates degeneration. Research has shown the significance of M1-type macrophages in IVDD; nevertheless, the precise mechanism and the route by which it influences the function of nucleus pulposus cell (NPC) remain unknown. Utilizing a rat acupuncture IVDD model and an NPC degeneration model induced by lipopolysaccharide (LPS), we investigated the function of M1 macrophage-derived exosomes (M1-Exos) in IVDD both in vivo and in vitro in this study. We found that M1-Exos enhanced LPS-induced NPC senescence, increased the number of SA-β-gal-positive cells, blocked the cell cycle, and promoted the activation of P21 and P53. M1-Exos derived from supernatant pretreated with the exosome inhibitor GW4869 reversed this result in vivo and in vitro. RNA-seq showed that Lipocalin2 (LCN2) was enriched in M1-Exos and targeted the NF-κB pathway. The quantity of SA-β-gal-positive cells was significantly reduced with the inhibition of LCN2, and the expression of P21 and P53 in NPCs was decreased. The same results were obtained in the acupuncture-induced IVDD model. In addition, inhibition of LCN2 promotes the expression of type II collagen (Col-2) and inhibits the expression of matrix metalloproteinase 13 (MMP13), thereby restoring the equilibrium of metabolism inside the extracellular matrix (ECM) in vitro and in vivo. In addition, the NF-κB pathway is crucial for regulating M1-Exo-mediated NPC senescence. After the addition of M1-Exos to LPS-treated NPCs, p-p65 activity was significantly activated, while si-LCN2 treatment significantly inhibited p-p65 activity. Therefore, this paper demonstrates that M1 macrophage-derived exosomes have the ability to deliver LCN2, which activates the NF-κB signaling pathway, and exacerbates IVDD by accelerating NPC senescence. This may shed new light on the mechanism of IVDD and bring a fresh approach to IVDD therapy.",
+  "type": "academic",
+  "pdf_url": ""
+}

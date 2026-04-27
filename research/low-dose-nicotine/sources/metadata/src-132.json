@@ -1,0 +1,23 @@
+{
+  "id": "src-132",
+  "title": "Nicotine promotes neuron survival and partially protects from Parkinson’s disease by suppressing SIRT6",
+  "authors": [
+    "Nicholatos, Justin W.",
+    "Francisco, Adam B.",
+    "Bender, Carolyn A.",
+    "Yeh, Tiffany",
+    "Lugay, Fraz",
+    "Salazar, Jairo E.",
+    "Glorioso, Christin",
+    "Libert, Sergiy"
+  ],
+  "doi": "10.1186/s40478-018-0625-y",
+  "url": "https://openalex.org/W2899940586",
+  "provider": "openalex",
+  "year": 2018,
+  "venue": "Acta Neuropathologica Communications",
+  "citation_count": 122,
+  "abstract": "Parkinson's disease is characterized by progressive death of dopaminergic neurons, leading to motor and cognitive dysfunction. Epidemiological studies consistently show that the use of tobacco reduces the risk of Parkinson's. We report that nicotine reduces the abundance of SIRT6 in neuronal culture and brain tissue. We find that reduction of SIRT6 is partly responsible for neuroprotection afforded by nicotine. Additionally, SIRT6 abundance is greater in Parkinson's patient brains, and decreased in the brains of tobacco users. We also identify SNPs that promote SIRT6 expression and simultaneously associate with an increased risk of Parkinson's. Furthermore, brain-specific SIRT6 knockout mice are protected from MPTP-induced Parkinson's, while SIRT6 overexpressing mice develop more severe pathology. Our data suggest that SIRT6 plays a pathogenic and pro-inflammatory role in Parkinson's and that nicotine can provide neuroprotection by accelerating its degradation. Inhibition of SIRT6 may be a promising strategy to ameliorate Parkinson's and neurodegeneration.",
+  "type": "academic",
+  "pdf_url": "https://actaneurocomms.biomedcentral.com/track/pdf/10.1186/s40478-018-0625-y"
+}

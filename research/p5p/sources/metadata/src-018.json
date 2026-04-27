@@ -1,0 +1,29 @@
+{
+  "id": "src-018",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://www.qualialife.com/benefits-of-vitamin-b6-as-pyridoxal-5-phosphate-p5p",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-20T15:59:37.147055+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-018.md",
+  "quality_details": {
+    "content_length": 4044,
+    "alpha_ratio": 0.791,
+    "sentence_count": 33,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

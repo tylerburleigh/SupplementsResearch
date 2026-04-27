@@ -1,0 +1,8 @@
+19	2	Abstract
+108	2	Methods
+477	2	Results
+837	2	Discussion
+1036	2	Conclusion
+1049	2	Acknowledgements
+1064	2	References
+1282	2	57. Conquer JA, Maiani G, Azzini E, et al

@@ -1,0 +1,27 @@
+{
+  "id": "src-257",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://www.frontiersin.org/articles/10.3389/fcell.2020.00246/pdf",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "pdf",
+  "provider": "",
+  "fetched_at": "2026-04-20T20:49:08.742459+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-257.md",
+  "quality_details": {
+    "content_length": 164479,
+    "alpha_ratio": 0.726,
+    "sentence_count": 3014,
+    "reasons": []
+  }
+}

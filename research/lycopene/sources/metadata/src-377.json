@@ -1,0 +1,16 @@
+{
+  "id": "src-377",
+  "title": "Prooxidant States and Tumor Promotion",
+  "authors": [
+    "Cerutti, P"
+  ],
+  "doi": "10.1126/science.2981433",
+  "url": "https://openalex.org/W1984373476",
+  "provider": "openalex",
+  "year": 1985,
+  "venue": "Science",
+  "citation_count": 2512,
+  "abstract": "There is convincing evidence that cellular prooxidant states—that is, increased concentrations of active oxygen and organic peroxides and radicals—can promote initiated cells to neoplastic growth. Prooxidant states can be caused by different classes of agents, including hyperbaric oxygen, radiation, xenobiotic metabolites and Fenton-type reagents, modulators of the cytochrome P-450 electron-transport chain, peroxisome proliferators, inhibitors of the antioxidant defense, and membrane-active agents. Many of these agents are promoters or complete carcinogens. They cause chromosomal damage by indirect action, but the role of this damage in carcinogenesis remains unclear. Prooxidant states can be prevented or suppressed by the enzymes of the cellular antioxidant defense and low molecular weight scavenger molecules, and many antioxidants are antipromoters and anticarcinogens. Finally, prooxidant states may modulate the expression of a family of prooxidant genes, which are related to cell growth and differentiation, by inducing alterations in DNA structure or by epigenetic mechanisms, for example, by polyadenosine diphosphate-ribosylation of chromosomal proteins.",
+  "type": "academic",
+  "pdf_url": ""
+}

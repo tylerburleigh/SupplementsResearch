@@ -1,0 +1,18 @@
+{
+  "id": "src-175",
+  "title": "Dietary Intake of Tomato and Lycopene and Risk of All-Cause and Cause-Specific Mortality: Results From a Prospective Study",
+  "authors": [
+    "Xu, Xin",
+    "Li, Shiqi",
+    "Zhu, Yi"
+  ],
+  "doi": "10.3389/fnut.2021.684859",
+  "url": "https://openalex.org/W3183712006",
+  "provider": "openalex",
+  "year": 2021,
+  "venue": "Frontiers in Nutrition",
+  "citation_count": 14,
+  "abstract": "Evidence on the relationship between consumption of tomato or lycopene and mortality is limited. We investigated the associations of raw tomato, tomato catsup or lycopene intake with all-cause and cause-specific mortality using data from the Prostate, Lung, Colorectal, and Ovarian (PLCO) screening trial. A multivariate Cox proportional hazards model was used to estimate hazard ratios (HRs) and 95% confidence intervals (CIs). During a total of 1,672,715 follow-up years, 24,141 all-cause deaths, 7,534 cardiovascular disease (CVD) deaths and 7,161 cancer deaths occurred. Total mortality was statistically significantly inversely associated with intake of raw tomato (Q5 vs. Q1; HR, 0.95 [95% CI, 0.91-0.99]), tomato catsup (Q5 vs. Q1; HR, 0.93 [95% CI, 0.89-0.97]), and moderate lycopene (Q4 vs. Q1; HR, 0.88 [95% CI, 0.85-0.93]). CVD mortality was significantly inversely related with intake of moderate raw tomato (Q4 vs. Q1; HR, 0.90 [95% CI, 0.83-0.97]), tomato catsup (Q5 vs. Q1; HR, 0.92 [95% CI, 0.85-0.99]), and moderate lycopene (Q4 vs. Q1; HR, 0.90 [95% CI, 0.83-0.98]). Dietary intake of raw tomato (Q5 vs. Q1; HR, 1.04 [95% CI, 0.96-1.14]) and tomato catsup (Q5 vs. Q1; HR, 1.00 [95% CI, 0.93-1.08]) were not related with cancer mortality. Moderate dietary intake of lycopene was significantly associated with a lower cancer mortality (Q4 vs. Q1; HR, 0.89 [95% CI, 0.82-0.96]). There was a non-linear J-shaped association between consumption of raw tomato, tomato catsup or lycopene and total mortality (<i>P</i> for non-linearity <0.001). In conclusion, in this large nationally representative sample of US adult population, tomato products, and lycopene intake were associated with lower risks of total and CVD mortality. Moderate consumption of lycopene was also related with a reduced cancer mortality. Further clinical studies and dietary intervention studies are warranted to confirm our premilitary findings.",
+  "type": "academic",
+  "pdf_url": "https://www.frontiersin.org/articles/10.3389/fnut.2021.684859/pdf"
+}

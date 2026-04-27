@@ -1,0 +1,24 @@
+{
+  "id": "src-311",
+  "title": "Activation of HCA2 regulates microglial responses to alleviate neurodegeneration in LPS-induced in vivo and in vitro models",
+  "authors": [
+    "He, Dewei",
+    "Fu, Shoupeng",
+    "Ye, B.",
+    "Wang, Hefei",
+    "He, Yuan",
+    "Li, Zhe",
+    "Li, Jie",
+    "Gao, Xiyu",
+    "Liu, Dianfeng"
+  ],
+  "doi": "10.1186/s12974-023-02762-5",
+  "url": "https://www.semanticscholar.org/paper/8b5d693e8a695b8789c84fe866c577ca9fcff149",
+  "provider": "semantic_scholar",
+  "year": 2023,
+  "venue": "Journal of Neuroinflammation",
+  "citation_count": 28,
+  "abstract": "Background Previous studies have shown a close association between an altered immune system and Parkinson's disease (PD). Neuroinflammation inhibition may be an effective measure to prevent PD. Recently, numerous reports have highlighted the potential of hydroxy-carboxylic acid receptor 2 (HCA2) in inflammation-related diseases. Notably, the role of HCA2 in neurodegenerative diseases is also becoming more widely known. However, its role and exact mechanism in PD remain to be investigated. Nicotinic acid (NA) is one of the crucial ligands of HCA2, activating it. Based on such findings, this study aimed to examine the effect of HCA2 on neuroinflammation and the role of NA-activated HCA2 in PD and its underlying mechanisms. Methods For in vivo studies, 10-week-old male C57BL/6 and HCA2^−/− mice were injected with LPS in the substantia nigra (SN) to construct a PD model. The motor behavior of mice was detected using open field, pole-climbing and rotor experiment. The damage to the mice's dopaminergic neurons was detected using immunohistochemical staining and western blotting methods. In vitro, inflammatory mediators (IL-6, TNF-α, iNOS and COX-2) and anti-inflammatory factors (Arg-1, Ym-1, CD206 and IL-10) were detected using RT-PCR, ELISA and immunofluorescence. Inflammatory pathways (AKT, PPARγ and NF-κB) were delineated by RT-PCR and western blotting. Neuronal damage was detected using CCK8, LDH, and flow cytometry assays. Results HCA2^−/− increases mice susceptibility to dopaminergic neuronal injury, motor deficits, and inflammatory responses. Mechanistically, HCA2 activation in microglia promotes anti-inflammatory microglia and inhibits pro-inflammatory microglia by activating AKT/PPARγ and inhibiting NF-κB signaling pathways. Further, HCA2 activation in microglia attenuates microglial activation-mediated neuronal injury. Moreover, nicotinic acid (NA), a specific agonist of HCA2, alleviated dopaminergic neuronal injury and motor deficits in PD mice by activating HCA2 in microglia in vivo. Conclusions Niacin receptor HCA2 modulates microglial phenotype to inhibit neurodegeneration in LPS-induced in vivo and in vitro models.",
+  "type": "academic",
+  "pdf_url": "https://jneuroinflammation.biomedcentral.com/counter/pdf/10.1186/s12974-023-02762-5"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "src-005",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://www.yanggebiotech.com/knowledge/-is-lion-s-mane-mushroom-good-for-your-brain",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-23T15:30:12.336650+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-005.md",
+  "quality_details": {
+    "content_length": 8487,
+    "alpha_ratio": 0.791,
+    "sentence_count": 76,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

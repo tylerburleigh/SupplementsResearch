@@ -1,0 +1,36 @@
+{
+  "id": "src-073",
+  "title": "Broccoli sprout beverage is safe for thyroid hormonal and autoimmune status: Results of a 12-week randomized trial",
+  "authors": [
+    "Chartoumpekis, Dionysios V.",
+    "Ziros, Panos G.",
+    "Chen, Jian-Guo",
+    "Groopman, John D.",
+    "Kensler, Thomas W.",
+    "Sykiotis, Gerasimos P."
+  ],
+  "year": 2019,
+  "abstract": "",
+  "doi": "10.1016/j.fct.2019.02.004",
+  "url": "https://doi.org/10.1016/j.fct.2019.02.004",
+  "pdf_url": "",
+  "venue": "Food and Chemical Toxicology",
+  "citation_count": 42,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-18T23:23:12.533294+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-073.md",
+  "quality_details": {
+    "content_length": 36697,
+    "alpha_ratio": 0.748,
+    "sentence_count": 555,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

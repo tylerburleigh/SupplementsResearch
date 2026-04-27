@@ -1,0 +1,29 @@
+{
+  "id": "src-015",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://meridianmedicalcentre.com/pyridoxal-5%E2%80%B2-phosphate-p5p-functions-benefits-sources-and-supplementation-guide",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-20T15:59:08.512787+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-015.md",
+  "quality_details": {
+    "content_length": 45687,
+    "alpha_ratio": 0.839,
+    "sentence_count": 259,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

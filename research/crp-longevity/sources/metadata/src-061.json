@@ -1,0 +1,35 @@
+{
+  "id": "src-061",
+  "title": "Co-Inheritance of Variation in All-Cause Mortality and Biochemical Risk Factors",
+  "authors": [
+    "Whitfield, John B.",
+    "Colodro-Conde, Lucía",
+    "Zhu, Gu",
+    "Timmers, Paul R. H. J.",
+    "Joshi, Peter K.",
+    "Montgomery, Grant W.",
+    "Martin, Nicholas G"
+  ],
+  "year": 2022,
+  "abstract": "AbstractBiomarkers may be useful endophenotypes for genetic studies if they share genetic sources of variation with the outcome, for example, with all-cause mortality. Australian adult study participants who had reported their parental survival information were included in the study: 14,169 participants had polygenic risk scores (PRS) from genotyping and up to 13,365 had biomarker results. We assessed associations between participants’ biomarker results and parental survival, and between biomarker results and eight parental survival PRS at varying p-value cut-offs. Survival in parents was associated with participants’ serum bilirubin, C-reactive protein, HDL cholesterol, triglycerides and uric acid, and with LDL cholesterol for participants’ fathers but not for their mothers. PRS for all-cause mortality were associated with liver function tests (alkaline phosphatase, butyrylcholinesterase, gamma-glutamyl transferase), metabolic tests (LDL and HDL cholesterol, triglycerides, uric acid), and acute-phase reactants (C-reactive protein, globulins). Association between offspring biomarker results and parental survival demonstrates the existence of familial effects common to both, while associations between biomarker results and PRS for mortality favor at least a partial genetic cause of this covariation. Identification of genetic loci affecting mortality-associated biomarkers offers a route to the identification of additional loci affecting mortality.",
+  "doi": "10.1017/thg.2022.25",
+  "url": "https://doi.org/10.1017/thg.2022.25",
+  "pdf_url": "",
+  "venue": "Twin Research and Human Genetics",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-24T01:07:24.141829+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-061.md",
+  "quality_details": {
+    "content_length": 43977,
+    "alpha_ratio": 0.739,
+    "sentence_count": 741,
+    "reasons": []
+  }
+}

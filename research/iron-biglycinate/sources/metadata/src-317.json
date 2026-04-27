@@ -1,0 +1,20 @@
+{
+  "id": "src-317",
+  "title": "Iron-Induced Damage in Cardiomyopathy: Oxidative-Dependent and Independent Mechanisms",
+  "authors": [
+    "Gammella, Elena",
+    "Recalcati, Stefania",
+    "Rybińska, Ilona",
+    "Buratti, Paolo",
+    "Cairo, Gaetano"
+  ],
+  "doi": "10.1155/2015/230182",
+  "url": "https://openalex.org/W1973152120",
+  "provider": "openalex",
+  "year": 2015,
+  "venue": "Oxidative Medicine and Cellular Longevity",
+  "citation_count": 156,
+  "abstract": "The high incidence of cardiomyopathy in patients with hemosiderosis, particularly in transfusional iron overload, strongly indicates that iron accumulation in the heart plays a major role in the process leading to heart failure. In this context, iron-mediated generation of noxious reactive oxygen species is believed to be the most important pathogenetic mechanism determining cardiomyocyte damage, the initiating event of a pathologic progression involving apoptosis, fibrosis, and ultimately cardiac dysfunction. However, recent findings suggest that additional mechanisms involving subcellular organelles and inflammatory mediators are important factors in the development of this disease. Moreover, excess iron can amplify the cardiotoxic effect of other agents or events. Finally, subcellular misdistribution of iron within cardiomyocytes may represent an additional pathway leading to cardiac injury. Recent advances in imaging techniques and chelators development remarkably improved cardiac iron overload detection and treatment, respectively. However, increased understanding of the pathogenic mechanisms of iron overload cardiomyopathy is needed to pave the way for the development of improved therapeutic strategies.",
+  "type": "academic",
+  "pdf_url": "https://downloads.hindawi.com/journals/omcl/2015/230182.pdf"
+}

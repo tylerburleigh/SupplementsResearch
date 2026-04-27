@@ -1,0 +1,19 @@
+{
+  "id": "src-298",
+  "title": "Lycopene inhibits IGF-I signal transduction and growth in normal prostate epithelial cells by decreasing DHT-modulated IGF-I production in co-cultured reactive stromal cells.",
+  "authors": [
+    "Liu, Xunxian",
+    "Allen, Jeffrey D",
+    "Arnold, Julia T",
+    "Blackman, Marc R"
+  ],
+  "doi": "10.1093/carcin/bgn011",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/18283040",
+  "provider": "pubmed",
+  "year": 2008,
+  "venue": "Carcinogenesis",
+  "citation_count": 0,
+  "abstract": "Prostate stromal and epithelial cell communication is important in prostate functioning and cancer development. Primary human stromal cells from normal prostate stromal cells (PRSC) maintain a smooth muscle phenotype, whereas those from prostate cancer (6S) display reactive and fibroblastic characteristics. Dihydrotestosterone (DHT) stimulates insulin-like growth factor-I (IGF-I) production by 6S but not PSRC cells. Effects of reactive versus normal stroma on normal human prostate epithelial (NPE or PREC) cells are poorly understood. We co-cultured NPE plus 6S or PRSC cells to compare influences of different stromal cells on normal epithelium. Because NPE and PREC cells lose androgen receptor (AR) expression in culture, DHT effects must be modulated by associated stromal cells. When treated with camptothecin (CM), NPE cells, alone and in stromal co-cultures, displayed a dose-dependent increase in DNA fragmentation. NPE/6S co-cultures exhibited reduced CM-induced cell death with exposure to DHT, whereas NPE/PRSC co-cultures exhibited CM-induced cell death regardless of DHT treatment. DHT blocked CM-induced, IGF-I-mediated, NPE death in co-cultured NPE/6S cells without, but not with, added anti-IGF-I and anti-IGF-R antibodies. Lycopene consumption is inversely related to human prostate cancer risk and inhibits IGF-I and androgen signaling in rat prostate cancer. In this study, lycopene, in dietary concentrations, reversed DHT effects of 6S cells on NPE cell death, decreased 6S cell IGF-I production by reducing AR and beta-catenin nuclear localization and inhibited IGF-I-stimulated NPE and PREC growth, perhaps by attenuating IGF-I's effects on serine phosphorylation of Akt and GSK3beta and tyrosine phosphorylation of GSK3. This study expands the understanding of the preventive mechanisms of lycopene in prostate cancer.",
+  "type": "academic",
+  "pdf_url": ""
+}

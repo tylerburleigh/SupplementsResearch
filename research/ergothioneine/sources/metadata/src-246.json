@@ -1,0 +1,21 @@
+{
+  "id": "src-246",
+  "title": "Risk of Alzheimer’s disease and genetically predicted levels of 1400 plasma metabolites: a Mendelian randomization study",
+  "authors": [
+    "Cao, Di",
+    "Zhang, Yini",
+    "Zhang, Shaobo",
+    "Li, Jun",
+    "Yang, Qiguang",
+    "Wang, Ping"
+  ],
+  "doi": "10.1038/s41598-024-77921-6",
+  "url": "https://openalex.org/W4403891911",
+  "provider": "openalex",
+  "year": 2024,
+  "venue": "Scientific Reports",
+  "citation_count": 6,
+  "abstract": "Alzheimer's disease (AD) is a metabolic disorder. Discovering the metabolic products involved in the development of AD may help not only in the early detection and prevention of AD but also in understanding its pathogenesis and treatment. This study investigated the causal association between the latest large-scale plasma metabolites (1091 metabolites and 309 metabolite ratios) and AD. Through the application of Mendelian randomization analysis methods such as inverse-variance weighted (IVW), MR-Egger, and weighted median models, 66 metabolites and metabolite ratios were identified as potentially having a causal association with AD, with 13 showing significant causal associations. During the replication validation phase, six metabolites and metabolite ratios were confirmed for their roles in AD: N-lactoyl tyrosine, argininate, and the adenosine 5'-monophosphate to flavin adenine dinucleotide ratio were found to exhibit protective effects against AD. In contrast, ergothioneine, piperine, and 1,7-dimethyluric acid were identified as contributing to an increased risk of AD. Among them, argininate showed a significant effect against AD. Replication and sensitivity analyses confirmed the robustness of these findings. Metabolic pathway analysis linked \"Vitamin B6 metabolism\" to AD risk. No genetic correlations were found, but colocalization analysis indicated potential AD risk elevation through top SNPs in APOE and PSEN2 genes. This provides novel insights into AD's etiology from a metabolomic viewpoint, suggesting both protective and risk metabolites.",
+  "type": "academic",
+  "pdf_url": "https://www.nature.com/articles/s41598-024-77921-6.pdf"
+}

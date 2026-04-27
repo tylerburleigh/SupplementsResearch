@@ -1,0 +1,21 @@
+{
+  "id": "src-026",
+  "title": "Association of pyridoxal 5'-phosphate (PLP) with lipid profiles: a population-based cohort study.",
+  "authors": [
+    "Zhang, Ru-Yang",
+    "Chen, Yue",
+    "Yan, Xin-Qi",
+    "Zhang, Yue",
+    "Zhou, Hua",
+    "Feng, Qian"
+  ],
+  "doi": "10.3389/fnut.2025.1545301",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40078416",
+  "provider": "pubmed",
+  "year": 2025,
+  "venue": "Frontiers in nutrition",
+  "citation_count": 0,
+  "abstract": "OBJECTIVES: This study aims to explore the correlation between Pyridoxal 5'-Phosphate (PLP) levels and lipid profiles in adult individuals, utilizing data from the National Health and Nutrition Examination Survey (NHANES) database.\nMETHODS: The research included individuals aged 20 years and above, extracted from the NHANES database, covering the period from 2005 to 2010. The primary objective was to scrutinize the relationship between PLP and lipid profiles. This was accomplished by employing weighted, multivariable logistic regression to ascertain these associations. Furthermore, to assess the variability within different demographic segments, interaction analyses were conducted. Additionally, restricted cubic spline (RCS) methodology was implemented to delve into potential nonlinear dynamics between PLP concentrations and lipid levels.\nRESULTS: A cohort of 6,459 individuals was included in this study. Our data indicated that 51.60% of the participants were under 50 years old, while 48.40% were over 50, comprising 48.83% males and 51.17% females. PLP levels demonstrated a negative correlation with low-density lipoprotein cholesterol (LDL-C) levels. After controlling for confounding variables, a one-unit increment in PLP correlates with a reduction of 17.7% in LDL-C concentrations (OR: 0.823, 95% CI: 0.823-0.824, p < 0.001). PLP levels exhibited a positive correlation with high-density lipoprotein cholesterol (HDL-C), which increased as PLP levels rose. After controlling for all covariates, a one-unit increase in PLP levels corresponded to a 1.952-fold enhancement in the probability of high HDL-C levels (OR: 1.952, 95% CI: 1.951-1.953, p < 0.001). The relationship between PLP and HDL-C levels was nonlinear. Subgroup analyses indicated that PLP levels and HDL-C concentrations are positively correlated, especially among diabetic patients and non-drinkers.\nCONCLUSION: PLP levels are inversely associated with LDL-C and positively associated with HDL-C, with stronger effects observed in diabetic patients and non-drinkers. These findings underscore the potential clinical utility of PLP supplementation as a preventive measure against cardiovascular and metabolic diseases.",
+  "type": "academic",
+  "pdf_url": ""
+}

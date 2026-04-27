@@ -1,0 +1,35 @@
+33	2	Keywords
+36	2	1 Introduction
+46	2	Open Access
+47	2	Edited By
+50	2	Reviewed By
+61	2	Citation
+68	2	Copyright
+126	2	2 Methods
+127	3	2.1 Research design
+151	3	2.2 Procedure
+167	3	2.3 Participants
+187	3	2.4 Supplementation and standardization
+213	3	2.5 Measurements
+214	4	2.5.1 Time to exhaustion
+224	4	2.5.2 Heart rate
+229	4	2.5.3 Blood lactate
+233	4	2.5.4 Sweat rate
+237	4	2.5.5 Core temperature
+247	4	2.5.6 Mean skin temperature
+254	4	2.5.7 Rating of perceived exertion
+260	4	2.5.8 Thermal sensation
+272	3	2.6 Statistical analysis
+283	2	3 Results
+284	3	3.1 Time to exhaustion
+292	3	3.2 Heart rate
+302	3	3.3 Blood lactate
+311	3	3.4 Sweat rate
+319	3	3.5 Core temperature
+331	3	3.6 Mean skin temperature
+348	3	3.7 Rating of perceived exertion and
+368	2	4 Discussion
+446	2	5 Conclusion
+464	2	Author Contributions
+498	2	References
+517	2	8. Cuisinier C, Michotte de Welle J, Verbeeck R, Poortmans J, Ward R, Sturbois X,

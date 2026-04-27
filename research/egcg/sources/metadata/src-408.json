@@ -1,0 +1,16 @@
+{
+  "id": "src-408",
+  "title": "Dietary Polyphenols as Modulators of Brain Functions: Biological Actions and Molecular Mechanisms Underpinning Their Beneficial Effects",
+  "authors": [
+    "Vauzour, David"
+  ],
+  "doi": "10.1155/2012/914273",
+  "url": "https://openalex.org/W2062934118",
+  "provider": "openalex",
+  "year": 2012,
+  "venue": "Oxidative Medicine and Cellular Longevity",
+  "citation_count": 398,
+  "abstract": "Accumulating evidence suggests that diet and lifestyle can play an important role in delaying the onset or halting the progression of age-related health disorders and to improve cognitive function. In particular, polyphenols have been reported to exert their neuroprotective actions through the potential to protect neurons against injury induced by neurotoxins, an ability to suppress neuroinflammation, and the potential to promote memory, learning, and cognitive function. Despite significant advances in our understanding of the biology of polyphenols, they are still mistakenly regarded as simply acting as antioxidants. However, recent evidence suggests that their beneficial effects involve decreases in oxidative/inflammatory stress signaling, increases in protective signaling and neurohormetic effects leading to the expression of genes that encode antioxidant enzymes, phase-2 enzymes, neurotrophic factors, and cytoprotective proteins. Specific examples of such pathways include the sirtuin-FoxO pathway, the NF-κB pathway, and the Nrf-2/ARE pathway. Together, these processes act to maintain brain homeostasis and play important roles in neuronal stress adaptation and thus polyphenols have the potential to prevent the progression of neurodegenerative pathologies.",
+  "type": "academic",
+  "pdf_url": "https://downloads.hindawi.com/journals/omcl/2012/914273.pdf"
+}

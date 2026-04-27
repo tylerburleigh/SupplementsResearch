@@ -1,0 +1,22 @@
+{
+  "id": "src-117",
+  "title": "Hickory nut polyphenols enhance oxidative stress resilience and improve the longevity of Caenorhabditis elegans through modulating DAF-16/DAF-2 insulin/IGF-1 signaling.",
+  "authors": [
+    "Wang, Song",
+    "Jiang, Chenyu",
+    "Yu, Shitong",
+    "Fan, Qianru",
+    "Yang, Kai",
+    "Huang, Jianqin",
+    "Li, Yan"
+  ],
+  "doi": "10.1016/j.phymed.2025.156918",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40466506",
+  "provider": "pubmed",
+  "year": 2025,
+  "venue": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+  "citation_count": 0,
+  "abstract": "BACKGROUND: Hickory (Carya cathayensis) nuts, renowned for their health benefits and delightful taste, contain abundant bioactive compounds, particularly polyphenols. However, the specific mechanisms underlying their antioxidant properties and anti-aging effects remain elusive.\nPURPOSE: This study aims to investigate the effects of hickory nut polyphenols (HNP) on oxidative stress mitigation and aging modulation.\nMETHODS: The innovative integration of medium-pressure liquid chromatography (MPLC) with in vitro bioactive screening was employed to discover an optimized HNP fraction (HNP3-2). Anti-aging effects of HNP3-2 on Caenorhabditis elegans (C. elegans) were determined through lifespan analysis, lipofuscin accumulation quantification, and motility assessments. Oxidative stress resistance was further evaluated by detecting the reactive oxygen species (ROS) contents, lipid peroxidation, and antioxidase activities. Integrative approaches combining transcriptomic, qRT-PCR, GFP reporter strains, and gene knockout mutants were utilized to explore the potential regulatory mechanisms. Non-targeted metabolomics was employed to conduct a comprehensive profiling analysis of HNP and their bioactive fractions.\nRESULTS: HNP3-2 significantly decreased ROS production, lipofuscin accumulation, and lipid peroxidation, while enhanced the activity of superoxide dismutase (SOD), catalase (CAT), and glutathione peroxidase (GPx). It also conferred robust protection against oxidative stress induced by H2O2 and juglone. HNP3-2 regulated lifespan extension mainly via the DAF-16/-2 insulin/IGF-1 signaling (IIS), which was further validated using loss- and gain-of-function mutants including age-1, akt-1/2, daf-2, and daf-16, as well as worms overexpressing SOD-3, GST-4, and DAF-16. Metabolomic analysis identified 31 kinds of polyphenol compounds displaying abundance patterns congruent with the overall antioxidant potency in vitro.\nCONCLUSION: This study first reveals the efficacy of HNP as a promising antioxidant and anti-aging intervention. Notably, the screened bioactive fraction HNP3-2 acts primarily by modulating the DAF-16/DAF-2 insulin/IGF-1 signaling cascade, operating through a mechanism independent of dietary restriction. Collectively, these findings position HNP as a breakthrough candidate for next-generation gerotherapeutics, with translational potential for advancing human aging research.",
+  "type": "academic",
+  "pdf_url": ""
+}

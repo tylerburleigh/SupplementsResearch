@@ -1,0 +1,35 @@
+{
+  "id": "src-135",
+  "title": "Efficacy and Safety of Curcumin and Curcuma longa Extract in the Treatment of Arthritis: A Systematic Review and Meta-Analysis of Randomized Controlled Trial",
+  "authors": [
+    "Zeng, Liuting",
+    "Yang, Tiejun",
+    "Yang, Kailin",
+    "Yu, Ganpeng",
+    "Li, Jun",
+    "Xiang, Wang",
+    "Chen, Hua"
+  ],
+  "year": 2022,
+  "abstract": "BackgroundModern pharmacological research found that the chemical components of Curcuma longa L. are mainly curcumin and turmeric volatile oil. Several recent randomized controlled trials (RCT) have shown that curcumin improves symptoms and inflammation in patients with arthritis.MethodsPubmed, Cochran Library, CNKI, and other databases were searched to collect the randomized controlled trials (RCTs). Then, the risk of bias of RCTs were assessed and data of RCTs were extracted. Finally, RevMan 5.3 was utilized for meta-analysis.ResultsTwenty-nine (29) RCTs involving 2396 participants and 5 types of arthritis were included. The arthritis included Ankylosing Spondylitis (AS), Rheumatoid Arthritis (RA), Osteoarthritis (OA), Juvenile idiopathic arthritis (JIA) and gout/hyperuricemia. Curcumin and Curcuma longa Extract were administered in doses ranging from 120 mg to 1500 mg for a duration of 4-36 weeks. In general, Curcumin and Curcuma longa Extract showed safety in all studies and improved the severity of inflammation and pain levels in these arthritis patients. However, more RCTs are needed in the future to elucidate the effect of Curcumin and Curcuma longa Extract supplementation in patients with arthritis, including RA, OA, AS and JIA.ConclusionCurcumin and Curcuma longa Extract may improve symptoms and inflammation levels in people with arthritis. However, due to the low quality and small quantity of RCTs, the conclusions need to be interpreted carefully.",
+  "doi": "10.3389/fimmu.2022.891822",
+  "url": "https://doi.org/10.3389/fimmu.2022.891822",
+  "pdf_url": "",
+  "venue": "Frontiers in Immunology",
+  "citation_count": 109,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-22T14:34:55.643773+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-135.md",
+  "quality_details": {
+    "content_length": 79579,
+    "alpha_ratio": 0.696,
+    "sentence_count": 907,
+    "reasons": []
+  }
+}

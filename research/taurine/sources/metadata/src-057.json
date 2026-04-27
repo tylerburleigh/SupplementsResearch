@@ -1,0 +1,35 @@
+{
+  "id": "src-057",
+  "title": "The effects of Taurine supplementation on inflammatory markers and clinical outcomes in patients with traumatic brain injury: a double-blind randomized controlled trial",
+  "authors": [
+    "Vahdat, Mahsa",
+    "Hosseini, Seyed Ahmad",
+    "Soltani, Farhad",
+    "Cheraghian, Bahman",
+    "Namjoonia, Masih"
+  ],
+  "year": 2021,
+  "abstract": "Abstract\nBackground\nTraumatic brain injury is a public health concern and is the main cause of death among various types of trauma. The inflammatory conditions due to TBI are associated with unfavorable clinical outcomes. Taurine has been reported to have immune-modulatory effects. Thus, the aim of this study was to survey the effect of taurine supplementation in TBI patients.\n\nMethods\nIn this study, 32 patients with TBI were randomized into two groups. The treatment group received 30 mg/kg/day of taurine in addition to the Standard Entera Meal and the control group received Standard Entera Meal for 14 days. Prior to and following the intervention, the patients were investigated in terms of serum levels of IL-6, IL-10, hs-CRP and TNF-α as well as APACHEII, SOFA and NUTRIC scores, Glasgow coma scale and weight. In addition, the length of Intensive Care Unit stay, days of dependence on ventilator and 30-day mortality were studied. SPSS software (version 13.0) was used for data analysis.\n\nResults\nTaurine significantly decreased the serum levels of IL-6 (p = 0.04) and marginally APACHEII score (p = 0.05). In addition, weight loss was significantly lower in taurine group (p = 0.03). Furthermore, taurine significantly increased the GCS (p = 0.03). The groups were not different significantly in terms of levels of IL-10, hs-CRP, and TNF-α, SOFA and NUTRIC scores, 30-day mortality, length of ICU stay and days of dependence on ventilator.\n\nConclusion\nAccording to the results of the present study, taurine supplementation can reduce the IL-6 levels as one of the important inflammatory markers in these patients; and enhances the clinical outcomes too.\n\nTrial registration\nIRCT, IRCT20180514039657N1. Registered 22 June 2018.",
+  "doi": "10.1186/s12937-021-00712-6",
+  "url": "https://doi.org/10.1186/s12937-021-00712-6",
+  "pdf_url": "",
+  "venue": "Nutrition Journal",
+  "citation_count": 15,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-19T11:31:50.482645+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-057.md",
+  "quality_details": {
+    "content_length": 40708,
+    "alpha_ratio": 0.732,
+    "sentence_count": 450,
+    "reasons": [
+      "paywall_page (access this article)"
+    ]
+  }
+}

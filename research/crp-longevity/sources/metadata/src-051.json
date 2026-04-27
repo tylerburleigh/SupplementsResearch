@@ -1,0 +1,18 @@
+{
+  "id": "src-051",
+  "title": "Artificial intelligence driven definition of food preference endotypes in UK Biobank volunteers is associated with distinctive health outcomes and blood based metabolomic and proteomic profiles.",
+  "authors": [
+    "Navratilova, Hana F",
+    "Whetton, Anthony D",
+    "Geifman, Nophar"
+  ],
+  "doi": "10.1186/s12967-024-05663-0",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39354608",
+  "provider": "pubmed",
+  "year": 2024,
+  "venue": "Journal of translational medicine",
+  "citation_count": 0,
+  "abstract": "BACKGROUND: Specific food preferences can determine an individual's dietary patterns and therefore, may be associated with certain health risks and benefits.\nMETHODS: Using food preference questionnaire (FPQ) data from a subset comprising over 180,000 UK Biobank participants, we employed Latent Profile Analysis (LPA) approach to identify the main patterns or profiles among participants. blood biochemistry across groups/profiles was compared using the non-parametric Kruskal-Wallis test. We applied the Limma algorithm for differential abundance analysis on 168 metabolites and 2923 proteins, and utilized the Database for Annotation, Visualization and Integrated Discovery (DAVID) to identify enriched biological processes and pathways. Relative risks (RR) were calculated for chronic diseases and mental conditions per group, adjusting for sociodemographic factors.\nRESULTS: Based on their food preferences, three profiles were termed: the putative Health-conscious group (low preference for animal-based or sweet foods, and high preference for vegetables and fruits), the Omnivore group (high preference for all foods), and the putative Sweet-tooth group (high preference for sweet foods and sweetened beverages). The Health-conscious group exhibited lower risk of heart failure (RR = 0.86, 95%CI 0.79-0.93) and chronic kidney disease (RR = 0.69, 95%CI 0.65-0.74) compared to the two other groups. The Sweet-tooth group had greater risk of depression (RR = 1.27, 95%CI 1.21-1.34), diabetes (RR = 1.15, 95%CI 1.01-1.31), and stroke (RR = 1.22, 95%CI 1.15-1.31) compared to the other two groups. Cancer (overall) relative risk showed little difference across the Health-conscious, Omnivore, and Sweet-tooth groups with RR of 0.98 (95%CI 0.96-1.01), 1.00 (95%CI 0.98-1.03), and 1.01 (95%CI 0.98-1.04), respectively. The Health-conscious group was associated with lower levels of inflammatory biomarkers (e.g., C-reactive Protein) which are also known to be elevated in those with common metabolic diseases (e.g., cardiovascular disease). Other markers modulated in the Health-conscious group, ketone bodies, insulin-like growth factor-binding protein (IGFBP), and Growth Hormone 1 were more abundant, while leptin was less abundant. Further, the IGFBP pathway, which influences IGF1 activity, may be significantly enhanced by dietary choices.\nCONCLUSIONS: These observations align with previous findings from studies focusing on weight loss interventions, which include a reduction in leptin levels. Overall, the Health-conscious group, with preference to healthier food options, has better health outcomes, compared to Sweet-tooth and Omnivore groups.",
+  "type": "academic",
+  "pdf_url": ""
+}

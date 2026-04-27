@@ -1,0 +1,33 @@
+{
+  "id": "src-280",
+  "title": "Regulation of and challenges in targeting NAD+ metabolism",
+  "authors": [
+    "Migaud, Marie E.",
+    "Ziegler, Mathias",
+    "Baur, Joseph A."
+  ],
+  "year": 2024,
+  "abstract": "",
+  "doi": "10.1038/s41580-024-00752-w",
+  "url": "https://doi.org/10.1038/s41580-024-00752-w",
+  "pdf_url": "",
+  "venue": "Nature Reviews Molecular Cell Biology",
+  "citation_count": 86,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-23T11:35:33.756776+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-280.md",
+  "quality_details": {
+    "content_length": 63771,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "src-360",
+  "title": "Small extracellular vesicles derived from mesenchymal stromal cells loaded with β-nicotinamide mononucleotide activate NAD+/SIRT3 signaling pathway-mediated mitochondrial autophagy to delay skin aging",
+  "authors": [
+    "Sun, Zixuan",
+    "Li, Jiali",
+    "Zheng, Yuzhou",
+    "Zhang, Jiaxin",
+    "Bai, Wenhuan",
+    "Deng, Xinyi",
+    "Wu, Zhijing",
+    "Xu, Xuezhong",
+    "Ding, Wei",
+    "Qian, Hui",
+    "Tan, Yulin"
+  ],
+  "doi": "10.1186/s13287-025-04460-w",
+  "url": "https://www.semanticscholar.org/paper/276d4e5d6661252e762ae5125c49c8670a04f069",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "Stem cell research & therapeutics",
+  "citation_count": 7,
+  "abstract": "Recently, the beneficial effects of human umbilical cord mesenchymal stromal cell (hucMSC)-derived small extracellular vesicles (sEVs) in mitigating skin aging through multiple mechanisms have been widely reported. β-Nicotinamide mononucleotide (NMN) is an iconic anti-aging drug that increases NAD+ levels in the body to slow down, ameliorate, and prevent various phenotypes associated with aging, but its high water solubility, low permeability, and instability limit its clinical application. Based on this, we applied electroporation to construct NMN-loaded hucMSC-sEVs (NMN-sEVs) to improve their stability and efficacy and to enhance their potential for translational application in medical aesthetics and anti-aging. D-galactose was applied to construct a mouse skin aging model, based on which comparative analyses of topical and nano-microneedle administration were performed to determine the optimal delivery method of sEVs in vivo experiments. After constructing NMN-sEVs by electroporation, high-performance liquid chromatography was applied to detect the loading efficiency, and the effects of NMN-sEVs on delaying skin aging were assessed by histological analysis. In addition, the defense effects of NMN-sEVs against cellular senescence were verified by reactive oxygen species assay, β-galactosidase staining, qRT-PCR, Western blot, and cellular immunofluorescence. Finally, the roles of NMN-sEVs in remodeling mitochondrial function and delaying cellular senescence through mitochondrial autophagy were assessed by mitochondrial mass, function, and autophagy level assays. Our data suggested that NMN-sEVs could improve skin aging in mice, delay cellular senescence, and restore cellular mitochondrial dysfunction. Notably, NMN-sEVs treatment increased intracellular NAD+ levels and SIRT3 expression, as well as rescued the inhibition of senescence-induced mitochondrial autophagy, suggesting a role for NMN-sEVs in the remodeling of mitochondrial function through mitochondrial autophagy. Additionally, the use of the SIRT3 inhibitor 3-TYP suppressed the positive effects of NMN-sEVs on cellular senescence, mitochondrial function, and mitochondrial autophagy while restoring senescence-associated characteristics. Overall, our findings revealed a mechanism by which NMN-sEVs attenuated mitochondrial dysfunction and rescued cellular senescence by promoting NAD+/SIRT3 pathway-mediated mitophagy and might provide a promising strategy for anti-aging pharmaceuticals.",
+  "type": "academic",
+  "pdf_url": ""
+}

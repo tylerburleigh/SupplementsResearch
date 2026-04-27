@@ -1,0 +1,17 @@
+{
+  "id": "src-225",
+  "title": "Abstract LB287: Comparative analysis of senolytic drugs reveals mitochondrial determinants of efficacy and resistance",
+  "authors": [
+    "Wakita, Masahiro",
+    "Hara, Eiji"
+  ],
+  "doi": "10.1158/1538-7445.am2026-lb287",
+  "url": "https://www.semanticscholar.org/paper/625fcedd1d05959629692287d7597e9b579e2a68",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "Cancer Research",
+  "citation_count": 0,
+  "abstract": "Cellular senescence contributes to aging and disease, and senolytic drugs that selectively eliminate senescent cells hold therapeutic promise. Although over 20 candidates have been reported, their relative efficacies remain unclear. Here, we systematically compared 21 senolytic agents using a Senolytic Specificity Index (SSI), identifying the Bcl-2 inhibitor ABT263 and the BET inhibitor ARV825 as most effective senolytics across fibroblast and epithelial senescence models. However, even upon extended treatment with these most potent senolytics, a proportion of senescent cells remained viable. We found that senolytic resistance was driven by maintenance of mitochondrial integrity through V-ATPase-mediated clearance of damaged mitochondria. Imposing mitochondrial stress via metabolic workload enhanced the senolytic efficacies of ABT263 and ARV825 in vitro and in mouse models, ketogenic diet adoption or SGLT2 inhibition similarly potentiated ABT263- and ARV825-induced senolysis, reducing tumour growth and metastasis. These findings suggest that mitochondrial quality control is a key determinant of resistance to ABT263- and ARV825-induced senolysis, providing a possible framework for rational combination senotherapies.\n\nMasahiro Wakita, Eiji Hara. Comparative analysis of senolytic drugs reveals mitochondrial determinants of efficacy and resistance [abstract]. In: Proceedings of the American Association for Cancer Research Annual Meeting 2026; Part 2 (Late-Breaking, Clinical Trial, and Invited Abstracts); 2026 Apr 17-22; San Diego, CA. Philadelphia (PA): AACR; Cancer Res 2026;86(8_Suppl):Abstract nr LB287.",
+  "type": "academic",
+  "pdf_url": ""
+}

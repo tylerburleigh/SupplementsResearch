@@ -1,0 +1,127 @@
+filters:
+  and:
+    - file.inFolder("wiki")
+    - or:
+      - 'type == "entity"'
+      - 'type == "hypothesis"'
+      - 'type == "concept"'
+properties:
+  type:
+    displayName: Type
+  entity_type:
+    displayName: Entity Type
+  concept_type:
+    displayName: Concept Type
+  domain:
+    displayName: Domain
+  practical_status:
+    displayName: Practical Status
+  evidence_level:
+    displayName: Evidence
+  mechanistic_evidence:
+    displayName: Mechanistic
+  animal_evidence:
+    displayName: Animal
+  human_evidence:
+    displayName: Human
+  translational_status:
+    displayName: Translational Status
+  effect_direction:
+    displayName: Effect Direction
+  population:
+    displayName: Population
+  genetic_context:
+    displayName: Genetic Context
+  primary_outcomes:
+    displayName: Primary Outcomes
+  primary_pathways:
+    displayName: Primary Pathways
+  primary_genetics:
+    displayName: Primary Genetics
+  sources:
+    displayName: Sources
+  updated:
+    displayName: Updated
+views:
+  - type: table
+    name: Decision Map
+    order:
+      - file.name
+      - type
+      - practical_status
+      - evidence_level
+      - translational_status
+      - mechanistic_evidence
+      - animal_evidence
+      - human_evidence
+      - effect_direction
+      - population
+      - genetic_context
+      - primary_outcomes
+      - updated
+    groupBy:
+      property: type
+      direction: ASC
+  - type: table
+    name: Evidence By Outcome
+    order:
+      - file.name
+      - type
+      - evidence_level
+      - mechanistic_evidence
+      - animal_evidence
+      - human_evidence
+      - translational_status
+      - effect_direction
+      - primary_outcomes
+      - population
+      - genetic_context
+      - sources
+    groupBy:
+      property: evidence_level
+      direction: DESC
+  - type: table
+    name: Basic Biology
+    filters:
+      and:
+        - or:
+          - 'concept_type == "process"'
+          - 'concept_type == "pathway-family"'
+          - 'domain == "basic-biology"'
+    order:
+      - file.name
+      - concept_type
+      - domain
+      - sources
+      - updated
+  - type: table
+    name: Mechanism-Led Candidates
+    filters:
+      and:
+        - 'translational_status == "mechanism-led"'
+    order:
+      - file.name
+      - type
+      - practical_status
+      - mechanistic_evidence
+      - animal_evidence
+      - human_evidence
+      - effect_direction
+      - primary_outcomes
+      - updated
+  - type: table
+    name: Genetics
+    filters:
+      and:
+        - or:
+          - 'domain == "genetics"'
+          - 'concept_type == "gene"'
+          - 'concept_type == "genetic-variant"'
+          - 'concept_type == "genotype"'
+          - 'concept_type == "pharmacogenomic-marker"'
+    order:
+      - file.name
+      - concept_type
+      - domain
+      - sources
+      - updated

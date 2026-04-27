@@ -1,0 +1,23 @@
+{
+  "id": "src-096",
+  "title": "Protection against Doxorubicin-Induced Cardiotoxicity by Ergothioneine.",
+  "authors": [
+    "Cheah, Irwin K",
+    "Tang, Richard M Y",
+    "Wang, Xiaoyuan",
+    "Sachaphibulkij, Karishma",
+    "Chong, Suet Yen",
+    "Lim, Lina H K",
+    "Wang, Jiong-Wei",
+    "Halliwell, Barry"
+  ],
+  "doi": "10.3390/antiox12020320",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36829879",
+  "provider": "pubmed",
+  "year": 2023,
+  "venue": "Antioxidants (Basel, Switzerland)",
+  "citation_count": 0,
+  "abstract": "Anthracyclines such as doxorubicin remain a primary treatment for hematological malignancies and breast cancers. However, cardiotoxicity induced by anthracyclines, possibly leading to heart failure, severely limits their application. The pathological mechanisms of anthracycline-induced cardiac injury are believed to involve iron-overload-mediated formation of reactive oxygen species (ROS), mitochondrial dysfunction, and inflammation. The dietary thione, ergothioneine (ET), is avidly absorbed and accumulated in tissues, including the heart. Amongst other cytoprotective properties, ET was shown to scavenge ROS, decrease proinflammatory mediators, and chelate metal cations, including Fe2+, preventing them from partaking in redox activities, and may protect against mitochondrial damage and dysfunction. Plasma ET levels are also strongly correlated to a decreased risk of cardiovascular events in humans, suggesting a cardioprotective role. This evidence highlights ET's potential to counteract anthracycline cardiotoxicity. We investigated whether ET supplementation can protect against cardiac dysfunction in mice models of doxorubicin-induced cardiotoxicity and revealed that it had significant protective effects. Moreover, ET administration in a mouse breast cancer model did not exacerbate the growth of the tumor or interfere with the chemotherapeutic efficacy of doxorubicin. These results suggest that ET could be a viable co-therapy to alleviate the cardiotoxic effects of anthracyclines in the treatment of cancers.",
+  "type": "academic",
+  "pdf_url": ""
+}

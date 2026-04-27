@@ -1,0 +1,36 @@
+{
+  "id": "src-069",
+  "title": "Lion's Mane, Hericium erinaceus and Tiger Milk, Lignosus rhinocerotis (Higher Basidiomycetes) Medicinal Mushrooms Stimulate Neurite Outgrowth in Dissociated Cells of Brain, Spinal Cord, and Retina: An In Vitro Study",
+  "authors": [
+    "Samberkar, Snehlata",
+    "Gandhi, Sivasangkary",
+    "Naidu, Murali",
+    "Wong, Kah-Hui",
+    "Raman, Jegadeesh",
+    "Sabaratnam, Vikineswary"
+  ],
+  "year": 2015,
+  "abstract": "",
+  "doi": "10.1615/intjmedmushrooms.v17.i11.40",
+  "url": "https://doi.org/10.1615/intjmedmushrooms.v17.i11.40",
+  "pdf_url": "",
+  "venue": "International Journal of Medicinal Mushrooms",
+  "citation_count": 24,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-23T15:40:53.019202+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-069.md",
+  "quality_details": {
+    "content_length": 235,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

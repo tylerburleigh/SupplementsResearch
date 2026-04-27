@@ -1,0 +1,36 @@
+{
+  "id": "src-156",
+  "title": "Effects of taurine on the growth performance, diarrhea, oxidative stress and intestinal barrier function of weanling piglets",
+  "authors": [
+    "Zhou, Miao",
+    "Wu, Zichen",
+    "Deng, Donghua",
+    "Wang, Bin",
+    "Zhou, Xiaoling",
+    "Zhou, Bingyu",
+    "Wang, Chunping",
+    "Zeng, Yan"
+  ],
+  "year": 2024,
+  "abstract": "Oxidative damage resulting from weaning stress significantly impacts the growth performance and health status of piglets. Taurine, a dietary antioxidant with diverse functions, was investigated in this study for its protective role against weaning stress-induced oxidative damage and its underlying mechanism. Forty 28-day-old male castrated weaned piglets were randomly assigned to four groups. The control group received the basal diet, while the experimental groups were fed the basal diet supplemented with 0.1, 0.2%, or 0.3% taurine over a 28-day period. In vitro, H2O2 was utilized to induce oxidative damage to the jejunal mucosa of piglets via IPEC-J2 cells. The results demonstrated that taurine supplementation reduced the incidence of diarrhea in piglets compared to that in the control group (p &amp;lt; 0.05); the addition of 0.2 and 0.3% taurine led to increased average daily gain and improved feed conversion efficiency in weaned piglets, showing a linear dose-response correlation (p &amp;lt; 0.05). Taurine supplementation at 0.2 and 0.3% enhanced the activities of serum CAT and GSH-Px while decreasing the levels of serum NO, XOD, GSSG, and MDA (p &amp;lt; 0.05). Moreover, it significantly elevated the levels of GSS, Trx, POD, complex I, mt-nd5, and mt-nd6, enhancing superoxide anion scavenging capacity and the hydroxyl-free scavenging rate in the livers of weaned piglets while reducing NO levels in the liver (p &amp;lt; 0.05). Additionally, 0.2 and 0.3% taurine supplementation decreased serum IL-6 levels and elevated the concentrations of IgA, IgG, and IL-10 in weaned piglets (p &amp;lt; 0.05). The levels of occludin, claudin, and ZO-1 in the jejunum mucosa of weaned piglets increased with 0.2 and 0.3% taurine supplementation (p &amp;lt; 0.05). In IPEC-J2 cells, pretreatment with 25 mM taurine for 24 h enhanced the activities of SOD and CAT; reduced the MDA content; upregulated the mRNA expression of various genes, including ZO-1, occludin, claudin-1, Nrf2, and HO-1; and reversed the oxidative damage induced by H2O2 exposure (p &amp;lt; 0.05). Overall, the findings suggest that the inclusion of 2 and 3% taurine in the diet can enhance growth performance, reduce diarrhea rates, ameliorate oxidative stress and inflammation, and promote intestinal barrier function in weaned piglets.",
+  "doi": "10.3389/fvets.2024.1436282",
+  "url": "https://doi.org/10.3389/fvets.2024.1436282",
+  "pdf_url": "",
+  "venue": "Frontiers in Veterinary Science",
+  "citation_count": 9,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-19T12:02:13.181551+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-156.md",
+  "quality_details": {
+    "content_length": 60672,
+    "alpha_ratio": 0.71,
+    "sentence_count": 592,
+    "reasons": []
+  }
+}

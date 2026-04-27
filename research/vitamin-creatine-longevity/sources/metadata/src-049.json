@@ -1,0 +1,35 @@
+{
+  "id": "src-049",
+  "title": "Creatine supplementation combined with blood flow restriction training enhances muscle thickness and performance: a randomized, placebo-controlled, and double-blind study",
+  "authors": [
+    "Sousa-Silva, Rayssa",
+    "Cholewa, Jason M.",
+    "Pessôa, Kassiana de Araújo",
+    "Xia, Zhi",
+    "Lauver, Jakob D.",
+    "Rossi, Fabrício E.",
+    "Zanchi, Nelo Eidy"
+  ],
+  "year": 2023,
+  "abstract": "This study aimed to compare the effects of an 8-week creatine (CR) or placebo (PL) supplementation on muscle strength, thickness, endurance, and body composition employing different training paradigms with blood flow restriction (BFR) vs. traditional resistance training (TRAD). Seventeen healthy males were randomized between the PL ( n = 9) and CR ( n = 8) groups. Participants were trained unilaterally utilizing a within-between subject bicep curl exercise where each arm was allocated to TRAD or BFR for 8 weeks. Muscular strength, thickness, endurance, and body composition were evaluated. Creatine supplementation promoted increases in muscle thickness in TRAD and BFR compared with their placebo counterparts, however, without a significant difference between treatments ( p = 0.349). TRAD training increased maximum strength (1 repetition maximum (1RM)) compared with BFR after 8 weeks of training ( p = 0.021). Repetitions to failure at 30% of 1RM were increased in the BFR-CR group compared with the TRAD-CR group ( p = 0.004). Repetitions to failure at 70% 1RM were increased from weeks 0–4 ( p &lt; 0.05) and 4–8 ( p &lt; 0.05) in all groups. Creatine supplementation exerted a hypertrophic effect when utilized with TRAD and BFR paradigms and increased muscle performance at 30% 1RM when utilized in conjunction with BFR. Therefore, creatine supplementation seems to amplify muscle adaptation following a BFR program. Registered in the Brazilian Registry of Clinical Trials (ReBEC), under the registration number: RBR-3vh8zgj.",
+  "doi": "10.1139/apnm-2022-0209",
+  "url": "https://doi.org/10.1139/apnm-2022-0209",
+  "pdf_url": "",
+  "venue": "Applied Physiology, Nutrition, and Metabolism",
+  "citation_count": 6,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T13:27:08.549552+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-049.md",
+  "quality_details": {
+    "content_length": 54441,
+    "alpha_ratio": 0.72,
+    "sentence_count": 604,
+    "reasons": []
+  }
+}

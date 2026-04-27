@@ -1,0 +1,41 @@
+3	2	Clinical Review
+32	2	Introduction
+87	2	Methods
+111	2	11 A large systematic review and meta-analysis of
+115	2	12 However, subgroup
+137	2	16 Observational studies
+161	2	18 There was also no differ-
+194	2	20 Participants were randomized
+203	2	20 This data are further consistent with a
+246	2	27 This review
+257	2	18 In addi-
+311	2	33 Preliminary
+332	2	39 Shah and colleagues demonstrated a
+359	2	400 IU or higher to intermittent doses up to
+378	2	44 A subsequent RCT
+385	2	4000 IU per day and higher were associated with an
+435	2	58 In this pop-
+438	2	58 These studies were limited
+458	2	61 However,
+485	2	63 Other studies of par-
+519	2	71 Studies
+531	2	72 In addition a measure of insulin resistance
+587	2	98 Supplementation
+593	2	98 The
+780	2	3 In foods and
+786	2	6 However, most
+866	2	6 The
+884	2	Conclusion
+908	2	References
+930	2	7. Kulie T, Groff A, Redmer J, Hounshell J,
+1021	2	29. Dimitrakopoulou VI, Tsilidis KK, Haycock PC,
+1025	2	30. Zdrenghea MT, Makrinioti H, Bagacean C, Bush A,
+1033	2	32. Petrelli F, Luciani A, Perego G, Dognini G,
+1039	2	33. Bassatne A, Basbous M, Chakhtoura M, El Zein
+1066	2	39. Varikasuvu SR, Thangappazham B, Vykunta A,
+1075	2	41. Thanapluetiwong S, Chewcharat A, Takkavatakarn
+1096	2	45. Bischoff-Ferrari HA, Dawson-Hughes B, Orav EJ,
+1135	2	55. Anglin RES, Samaan Z, Walter SD, McDonald
+1178	2	65. Ogurtsova K, da Rocha Fernandes JD, Huang Y,
+1215	2	75. Hattangdi-Haridas SR, Lanham-New SA, Wong
+1329	2	102. Chatterton DEW, Nguyen DN, Bering SB, Sangild

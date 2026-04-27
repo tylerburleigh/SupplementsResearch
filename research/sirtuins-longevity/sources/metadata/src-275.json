@@ -1,0 +1,18 @@
+{
+  "id": "src-275",
+  "title": "Crossing epigenetic frontiers: the intersection of novel histone modifications and diseases",
+  "authors": [
+    "Yao, Weiyi",
+    "Hu, Xinting",
+    "Wang, Xin"
+  ],
+  "doi": "10.1038/s41392-024-01918-w",
+  "url": "https://openalex.org/W4402555027",
+  "provider": "openalex",
+  "year": 2024,
+  "venue": "Signal Transduction and Targeted Therapy",
+  "citation_count": 133,
+  "abstract": "Histone post-translational modifications (HPTMs), as one of the core mechanisms of epigenetic regulation, are garnering increasing attention due to their close association with the onset and progression of diseases and their potential as targeted therapeutic agents. Advances in high-throughput molecular tools and the abundance of bioinformatics data have led to the discovery of novel HPTMs which similarly affect gene expression, metabolism, and chromatin structure. Furthermore, a growing body of research has demonstrated that novel histone modifications also play crucial roles in the development and progression of various diseases, including various cancers, cardiovascular diseases, infectious diseases, psychiatric disorders, and reproductive system diseases. This review defines nine novel histone modifications: lactylation, citrullination, crotonylation, succinylation, SUMOylation, propionylation, butyrylation, 2-hydroxyisobutyrylation, and 2-hydroxybutyrylation. It comprehensively introduces the modification processes of these nine novel HPTMs, their roles in transcription, replication, DNA repair and recombination, metabolism, and chromatin structure, as well as their involvement in promoting the occurrence and development of various diseases and their clinical applications as therapeutic targets and potential biomarkers. Moreover, this review provides a detailed overview of novel HPTM inhibitors targeting various targets and their emerging strategies in the treatment of multiple diseases while offering insights into their future development prospects and challenges. Additionally, we briefly introduce novel epigenetic research techniques and their applications in the field of novel HPTM research.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.1038/s41392-024-01918-w"
+}

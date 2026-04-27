@@ -1,0 +1,32 @@
+{
+  "id": "src-030",
+  "title": "Effects of Betaine Intake on Plasma Homocysteine Concentrations and Consequences for Health",
+  "authors": [
+    "Olthof, M.",
+    "Verhoef, P."
+  ],
+  "year": 2005,
+  "abstract": "",
+  "doi": "10.2174/1389200052997366",
+  "url": "https://doi.org/10.2174/1389200052997366",
+  "pdf_url": "",
+  "venue": "Current Drug Metabolism",
+  "citation_count": 99,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-20T18:25:03.928071+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-030.md",
+  "quality_details": {
+    "content_length": 11700,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "src-173",
+  "title": "Computational exploration of squalene analog 4,4′diapophytofluene as a potential anti-aging phytotherapeutic",
+  "authors": [
+    "Dutta, Madhurima",
+    "Hazra, Anjan",
+    "Biswas, S."
+  ],
+  "doi": "10.1016/j.compbiolchem.2026.108945",
+  "url": "https://www.semanticscholar.org/paper/b1c30db6e22c6b04b6333ecbecc37a5404ddb5ea",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "Comput. Biol. Chem.",
+  "citation_count": 0,
+  "abstract": "Cellular senescence is a complex biological process characterized by several unique features including cell-cycle arrest, macromolecular damage, secretory phenotypes (SASPs), and deregulated metabolism. These factors are essential for understanding their impact on aging and diseases. Extensive studies on various biochemical pathways associated with mammalian aging have identified SIRT-1, Bcl-xL, Hsp-90, MDM-2, AMPK and mTOR as some key regulatory proteins. So, preserving the functions of these proteins could potentially decelerate the aging process. A previous study had demonstrated that 4,4'-diapophytofluene (4,4'-DPE), a squalene analog extracted from the pentane fraction of Cocos nucifera leaves was more effective than squalene in suppressing senescence induction in WI38 and HaCaT cells. In the present study, high-throughput virtual screening was performed to evaluate the interaction between 4,4'-DPE and six aforementioned aging regulators, further validating its role as a natural senotherapeutic along with squalene and some well-known anti-aging botanicals (quercetin, curcumin, resveratrol, metformin, and fisetin). In molecular docking studies, 4,4'-DPE revealed stronger binding affinity (ΔG) with SIRT-1, Bcl-xL, Hsp-90, MDM-2, and mTOR, except for AMPK protein, compared to quercetin, curcumin, resveratrol, and fisetin. The MM/PBSA and FEL plots of molecular dynamics simulation of 100 ns production had also highlighted 4,4'-DPE maintained thermodynamically stable and favourable interactions with binding pockets of five proteins, supported by persistent van der Waals and hydrophobic contacts with minimal structural deviations. Furthermore, the ADMET studies confirmed 4,4'-DPE as a clinically safe bioactive compound, facilitating it to become a novel senotherapeutic/anti-aging agent for pharmaceuticals and dermatological products.",
+  "type": "academic",
+  "pdf_url": ""
+}

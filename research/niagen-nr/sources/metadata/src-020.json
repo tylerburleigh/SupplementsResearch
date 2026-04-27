@@ -1,0 +1,29 @@
+{
+  "id": "src-020",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://vespapower.com/vespa-store/ofm-health-performance-supplements/nicotinamide-riboside-niagen",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-20T20:23:27.331094+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-020.md",
+  "quality_details": {
+    "content_length": 2654,
+    "alpha_ratio": 0.742,
+    "sentence_count": 26,
+    "reasons": [
+      "paywall_page (subscribe)"
+    ]
+  }
+}

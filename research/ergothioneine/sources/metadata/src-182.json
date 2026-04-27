@@ -1,0 +1,25 @@
+{
+  "id": "src-182",
+  "title": "Untargeted metabolomics of COVID-19 patient serum reveals potential prognostic markers of both severity and outcome",
+  "authors": [
+    "Roberts, Ivayla",
+    "Muelas, Marina Wright",
+    "Taylor, Joseph M.",
+    "Davison, Andrew",
+    "Xu, Yun",
+    "Grixti, Justine M.",
+    "Gotts, Nigel",
+    "Sorokin, Anatolii",
+    "Goodacre, Royston",
+    "Kell, Douglas B."
+  ],
+  "doi": "10.1007/s11306-021-01859-3",
+  "url": "https://openalex.org/W4225985320",
+  "provider": "openalex",
+  "year": 2021,
+  "venue": "Metabolomics",
+  "citation_count": 102,
+  "abstract": "Prognostic tests based on the markers discussed in this paper could allow improvement in the planning of COVID-19 patient treatment.",
+  "type": "academic",
+  "pdf_url": "https://link.springer.com/content/pdf/10.1007/s11306-021-01859-3.pdf"
+}

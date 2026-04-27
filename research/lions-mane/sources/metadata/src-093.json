@@ -1,0 +1,26 @@
+{
+  "id": "src-093",
+  "title": "Beyond Neurotrophins: A Proposed Neurotrophic–Epigenetic Axis Mediated by Non-Coding RNA Networks for Hericium erinaceus Bioactives—A Hypothesis-Driven Review",
+  "authors": [
+    "Cipriano, Giovanni Luca",
+    "Raffaele, Ivana",
+    "Floramo, Alessia",
+    "Argento, Veronica",
+    "Donato, Deborah Stefania",
+    "Malatino, Chiara",
+    "Silvestro, Serena",
+    "Schepici, Giovanni",
+    "Astorino, Maria Francesca",
+    "Calabrò, Marco",
+    "Anchesi, Ivan"
+  ],
+  "doi": "10.3390/ijms27031269",
+  "url": "https://openalex.org/W7125777413",
+  "provider": "openalex",
+  "year": 2026,
+  "venue": "International Journal of Molecular Sciences",
+  "citation_count": 1,
+  "abstract": "<i>Hericium erinaceus</i> (<i>H. erinaceus</i>), a medicinal mushroom, is a source of bioactive compounds with demonstrated neuroprotective potential. This activity is primarily attributed to two distinct classes of compounds: erinacines from the mycelium, which potently induce the synthesis of neurotrophins, protein growth factors essential for neuronal survival and health, and hericenones from the fruiting body, which subsequently appear to enhance or potentiate neurotrophin-activated signaling pathways. Preclinical evidence substantiates their ability to enhance neurotrophin levels, particularly Nerve Growth Factor (NGF) and Brain-Derived Neurotrophic Factor (BDNF), and activate their cognate Trk receptors. Activation of these pathways, including PI3K/AKT/mTOR and MAPK/ERK, converges on transcription factors such as CREB, promoting neuronal survival, neurite outgrowth, and synaptic plasticity. However, the precise molecular mechanisms linking these small molecules to the complex orchestration of neurotrophic gene expression remain incompletely defined. This review synthesizes current knowledge of the neurotrophic pharmacology of <i>H. erinaceus</i> bioactives and proposes a novel framework suggesting that non-coding RNAs (ncRNAs) play a key regulatory role. We hypothesize that hericenones and erinacines modulate key transcriptional hubs, such as CREB, Nrf2, and NF-κB, which in turn regulate the expression of specific ncRNAs (e.g., miR-132, miR-146a) known to control neurogenesis, synaptogenesis, oxidative stress, and neuroinflammation. This ncRNA-mediated mechanism may represent an un-explored axis that explains the pleiotropic neuroprotective effects of these compounds. We critically appraise the existing preclinical evidence, identify significant methodological limitations and translational gaps, and propose a structured research roadmap to test these ncRNA-centric hypotheses, aiming to accelerate the rational development of <i>H. erinaceus</i>-derived compounds for neurodegenerative diseases.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/1422-0067/27/3/1269/pdf?version=1769519010"
+}

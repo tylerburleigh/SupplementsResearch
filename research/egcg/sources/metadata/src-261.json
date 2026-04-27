@@ -1,0 +1,32 @@
+{
+  "id": "src-261",
+  "title": "Naturally occurring anti-cancer compounds: shining from Chinese herbal medicine",
+  "authors": [
+    "Luo, Hua",
+    "Vong, Chi Teng",
+    "Chen, Hanbin",
+    "Gao, Yan",
+    "Lyu, Peng",
+    "Qiu, Ling",
+    "Zhao, Mingming",
+    "Liu, Qiao",
+    "Cheng, Zehua",
+    "Zou, Jian",
+    "Yao, Peifen",
+    "Gao, Caifang",
+    "Wei, Jinchao",
+    "Ung, Carolina Oi Lam",
+    "Wang, Shengpeng",
+    "Zhong, Zhangfeng",
+    "Wang, Yitao"
+  ],
+  "doi": "10.1186/s13020-019-0270-9",
+  "url": "https://openalex.org/W2987812036",
+  "provider": "openalex",
+  "year": 2019,
+  "venue": "Chinese Medicine",
+  "citation_count": 558,
+  "abstract": "Numerous natural products originated from Chinese herbal medicine exhibit anti-cancer activities, including anti-proliferative, pro-apoptotic, anti-metastatic, anti-angiogenic effects, as well as regulate autophagy, reverse multidrug resistance, balance immunity, and enhance chemotherapy in vitro and in vivo. To provide new insights into the critical path ahead, we systemically reviewed the most recent advances (reported since 2011) on the key compounds with anti-cancer effects derived from Chinese herbal medicine (curcumin, epigallocatechin gallate, berberine, artemisinin, ginsenoside Rg3, ursolic acid, silibinin, emodin, triptolide, cucurbitacin B, tanshinone I, oridonin, shikonin, gambogic acid, artesunate, wogonin, β-elemene, and cepharanthine) in scientific databases (PubMed, Web of Science, Medline, Scopus, and Clinical Trials). With a broader perspective, we focused on their recently discovered and/or investigated pharmacological effects, novel mechanism of action, relevant clinical studies, and their innovative applications in combined therapy and immunomodulation. In addition, the present review has extended to describe other promising compounds including dihydroartemisinin, ginsenoside Rh2, compound K, cucurbitacins D, E, I, tanshinone IIA and cryptotanshinone in view of their potentials in cancer therapy. Up to now, the evidence about the immunomodulatory effects and clinical trials of natural anti-cancer compounds from Chinese herbal medicine is very limited, and further research is needed to monitor their immunoregulatory effects and explore their mechanisms of action as modulators of immune checkpoints.",
+  "type": "academic",
+  "pdf_url": "https://cmjournal.biomedcentral.com/track/pdf/10.1186/s13020-019-0270-9"
+}

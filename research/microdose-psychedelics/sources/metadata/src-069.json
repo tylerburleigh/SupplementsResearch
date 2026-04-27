@@ -1,0 +1,29 @@
+{
+  "id": "src-069",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "",
+  "pdf_url": "https://www.medrxiv.org/content/10.1101/2025.04.04.25324315v1.full.pdf",
+  "venue": "",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "",
+  "fetched_at": "2026-04-26T10:55:43.903352+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-069.md",
+  "quality_details": {
+    "content_length": 103584,
+    "alpha_ratio": 0.74,
+    "sentence_count": 890,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "src-039",
+  "title": "Autophagy in cell death: an innocent convict?",
+  "authors": [
+    "Levine, Beth"
+  ],
+  "doi": "10.1172/jci26390",
+  "url": "https://openalex.org/W2145206598",
+  "provider": "openalex",
+  "year": 2005,
+  "venue": "Journal of Clinical Investigation",
+  "citation_count": 1667,
+  "abstract": "The visualization of autophagosomes in dying cells has led to the belief that autophagy is a nonapoptotic form of programmed cell death. This concept has now been evaluated using cells and organisms deficient in autophagy genes. Most evidence indicates that, at least in cells with intact apoptotic machinery, autophagy is primarily a pro-survival rather than a pro-death mechanism. This review summarizes the evidence linking autophagy to cell survival and cell death, the complex interplay between autophagy and apoptosis pathways, and the role of autophagy-dependent survival and death pathways in clinical diseases.",
+  "type": "academic",
+  "pdf_url": "http://www.jci.org/articles/view/26390/files/pdf"
+}

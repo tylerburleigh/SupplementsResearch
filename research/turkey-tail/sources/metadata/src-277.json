@@ -1,0 +1,27 @@
+{
+  "id": "src-277",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "",
+  "pdf_url": "https://pyatthealth.com/wp-content/uploads/2023/06/Mushrooms-the-Immune-System.pdf",
+  "venue": "",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "",
+  "fetched_at": "2026-04-23T18:41:55.455182+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-277.md",
+  "quality_details": {
+    "content_length": 35125,
+    "alpha_ratio": 0.747,
+    "sentence_count": 343,
+    "reasons": []
+  }
+}

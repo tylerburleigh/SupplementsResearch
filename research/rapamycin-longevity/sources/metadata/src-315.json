@@ -1,0 +1,26 @@
+{
+  "id": "src-315",
+  "title": "Safety Profile of Rapamycin Perfluorocarbon Nanoparticles for Preventing Cisplatin-Induced Kidney Injury.",
+  "authors": [
+    "Zhou, Qingyu",
+    "Doherty, Justin",
+    "Akk, Antonina",
+    "Springer, Luke E",
+    "Fan, Ping",
+    "Spasojevic, Ivan",
+    "Halade, Ganesh V",
+    "Yang, Huanghe",
+    "Pham, Christine T N",
+    "Wickline, Samuel A",
+    "Pan, Hua"
+  ],
+  "doi": "10.3390/nano12030336",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35159680",
+  "provider": "pubmed",
+  "year": 2022,
+  "venue": "Nanomaterials (Basel, Switzerland)",
+  "citation_count": 0,
+  "abstract": "Cancer treatment-induced toxicities may restrict maximal effective dosing for treatment and cancer survivors' quality of life. It is critical to develop novel strategies that mitigate treatment-induced toxicity without affecting the efficacy of anti-cancer therapies. Rapamycin is a macrolide with anti-cancer properties, but its clinical application has been hindered, partly by unfavorable bioavailability, pharmacokinetics, and side effects. As a result, significant efforts have been undertaken to develop a variety of nano-delivery systems for the effective and safe administration of rapamycin. While the efficacy of nanostructures carrying rapamycin has been studied intensively, the pharmacokinetics, biodistribution, and safety remain to be investigated. In this study, we demonstrate the potential for rapamycin perfluorocarbon (PFC) nanoparticles to mitigate cisplatin-induced acute kidney injury with a single preventative dose. Evaluations of pharmacokinetics and biodistribution suggest that the PFC nanoparticle delivery system improves rapamycin pharmacokinetics. The safety of rapamycin PFC nanoparticles was shown both in vitro and in vivo. After a single dose, no disturbance was observed in blood tests or cardiac functional evaluations. Repeated dosing of rapamycin PFC nanoparticles did not affect overall spleen T cell proliferation and responses to stimulation, although it significantly decreased the number of Foxp3+CD4+ T cells and NK1.1+ cells were observed.",
+  "type": "academic",
+  "pdf_url": ""
+}

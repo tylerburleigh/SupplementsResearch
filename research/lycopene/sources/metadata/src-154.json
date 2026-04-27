@@ -1,0 +1,30 @@
+{
+  "id": "src-154",
+  "title": "Associations of different isomeric forms of serum lycopene with cardiovascular disease and all-cause mortality.",
+  "authors": [
+    "Zhang, Yanan",
+    "Zhai, Xiaobing",
+    "Chai, Honglin",
+    "Liu, Keyang",
+    "Ma, Wenzhi",
+    "Li, Shiyang",
+    "Zeng, Jing",
+    "Yang, Mei",
+    "Zhou, Feng",
+    "Zheng, Surui",
+    "Wu, Xia",
+    "Xiang, Bing",
+    "Cao, Jinhong",
+    "Eshak, Ehab S",
+    "Jiang, Can"
+  ],
+  "doi": "10.1024/0300-9831/a000775",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36691936",
+  "provider": "pubmed",
+  "year": 2024,
+  "venue": "International journal for vitamin and nutrition research. Internationale Zeitschrift fur Vitamin- und Ernahrungsforschung. Journal international de vitaminologie et de nutrition",
+  "citation_count": 0,
+  "abstract": "Background: The effect of serum lycopene on the progression of cardiovascular diseases (CVDs) and their longevity remains a controversial topic. The purpose of this study was to evaluate the associations of different isomeric forms of serum lycopene with CVD and all-cause mortality in the American population. Methods: The National Health and Nutrition Examination Survey (NHANES) is a large population survey to investigate public health in the US. We analyzed data from 2003-2006 linked with mortality data obtained in 2015. Cox proportional hazard ratios (HRs) with 95% confidence intervals (CIs) were estimated to assess the risk of CVD and all-cause mortality caused by serum lycopene. Results: Among 7452 participants (aged 20-85 years, 46.7% male), 298 died from CVDs among the total 1213 deaths during a median follow-up of 10.7 years. Serum lycopene is a protective factor for all-cause and CVD mortality. In multivariable-adjusted models, the hazard ratio (with 95% confidence intervals) associated with Q4 compared to Q1 of serum total-lycopene, trans-lycopene and cis-lycopene was 0.49 (0.38,0.63), 0.49 (0.39,0.63) and 0.55 (0.43,0.70) for all-cause mortality (Ptrend<0.05), and was 0.53 (0.32,0.96), 0.48 (0.32,0.72) and 0.63 (0.41,0.97) for CVD mortality (Ptrend<0.05). The subgroup analyses showed that different isomeric forms of lycopene showed varied associations with CVD and all-cause mortality based on age, drinking status, history of hypertension and diabetes. Conclusions: Serum lycopene concentration was significantly associated with the risk of CVD and all-cause mortality. Cis-lycopene had a U-shaped relationship with mortality, while trans-lycopene had an inverse relationship with it.",
+  "type": "academic",
+  "pdf_url": ""
+}

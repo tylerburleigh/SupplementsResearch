@@ -1,0 +1,20 @@
+{
+  "id": "src-093",
+  "title": "Parp mutations protect against mitochondrial dysfunction and neurodegeneration in a PARKIN model of Parkinson’s disease",
+  "authors": [
+    "Lehmann, Susann",
+    "Costa, Ana Carolina Oliveira",
+    "Celardo, Ivana",
+    "Loh, Samantha H. Y.",
+    "Martins, L. Miguel"
+  ],
+  "doi": "10.1038/cddis.2016.72",
+  "url": "https://openalex.org/W2322530366",
+  "provider": "openalex",
+  "year": 2016,
+  "venue": "Cell Death and Disease",
+  "citation_count": 66,
+  "abstract": "The co-enzyme nicotinamide adenine dinucleotide (NAD(+)) is an essential co-factor for cellular energy generation in mitochondria as well as for DNA repair mechanisms in the cell nucleus involving NAD(+)-consuming poly (ADP-ribose) polymerases (PARPs). Mitochondrial function is compromised in animal models of Parkinson's disease (PD) associated with PARKIN mutations. Here, we uncovered alterations in NAD(+) salvage metabolism in Drosophila parkin mutants. We show that a dietary supplementation with the NAD(+) precursor nicotinamide rescues mitochondrial function and is neuroprotective. Further, by mutating Parp in parkin mutants, we show that this increases levels of NAD(+) and its salvage metabolites. This also rescues mitochondrial function and suppresses dopaminergic neurodegeneration. We conclude that strategies to enhance NAD(+) levels by administration of dietary precursors or the inhibition of NAD(+)-dependent enzymes, such as PARP, that compete with mitochondria for NAD(+) could be used to delay neuronal death associated with mitochondrial dysfunction.",
+  "type": "academic",
+  "pdf_url": "https://www.nature.com/articles/cddis201672.pdf"
+}

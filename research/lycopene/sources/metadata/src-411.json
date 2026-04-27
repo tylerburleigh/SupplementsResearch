@@ -1,0 +1,16 @@
+{
+  "id": "src-411",
+  "title": "A Review of Epidemiologic Studies of Tomatoes, Lycopene, and Prostate Cancer",
+  "authors": [
+    "Giovannucci, Edward L."
+  ],
+  "doi": "10.1177/153537020222701003",
+  "url": "https://openalex.org/W2126120263",
+  "provider": "openalex",
+  "year": 2002,
+  "venue": "Experimental Biology and Medicine",
+  "citation_count": 369,
+  "abstract": "Prostate cancer is the most common cancer in American men. Preventable measures for this malignancy are not well established. Among potentially beneficial natural compounds is the carotenoid lycopene, which is derived largely from tomato-based products. Recent epidemiologic studies have suggested a potential benefit of this carotenoid against the risk of prostate cancer, particularly the more lethal forms of this cancer. Five studies support a 30% to 40% reduction in risk associated with high tomato or lycopene consumption, three are consistent with a 30% reduction in risk, but the results were not statistically significant, and seven were not supportive of an association. The largest relevant dietary study, a prospective study in male health professionals found that consumption of two to four servings of tomato sauce per week was associated with about a 35% risk reduction of total prostate cancer and a 50% reduction of advanced (extraprostatic) prostate cancer. Tomato sauce was by far the strongest predictor of plasma lycopene levels in this study. In the largest plasma-based study, very similar risk reductions were observed for total and advanced prostate cancer for the highest versus lowest quintile of lycopene. Other studies, mostly dietary case-control studies, have not been as supportive of this hypothesis. The reasons for these inconsistencies are unclear, but in three of the seven null studies, tomato consumption or serum lycopene level may have been too low to observe an effect. Because the concentration and bioavailability of lycopene vary greatly across the various food items, dietary questionnaires vary markedly in their usefulness of estimating the true variation in tissue lycopene concentrations across individuals. To optimize the interpretation of future findings, the usefulness of the questionnaire to measure lycopene levels in a population should be directly assessed. Although not definitive, the available data suggest that increased consumption of tomatoes and tomato-based products may be prudent.",
+  "type": "academic",
+  "pdf_url": "http://nrs.harvard.edu/urn-3:HUL.InstRepos:41392178"
+}

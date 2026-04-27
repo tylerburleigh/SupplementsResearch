@@ -1,0 +1,18 @@
+{
+  "id": "src-239",
+  "title": "The effect of sulforaphane on autism spectrum disorder: systematic review and meta-analysis",
+  "authors": [
+    "Wang, Rui",
+    "Ren, Zhenhui",
+    "Li, Yamin"
+  ],
+  "doi": "10.17179/excli2025-8239",
+  "url": "https://openalex.org/W4411009226",
+  "provider": "openalex",
+  "year": 2025,
+  "venue": "PubMed",
+  "citation_count": 1,
+  "abstract": "Autism spectrum disorder (ASD) is a complex neurodevelopmental disorder lacking effective treatments. This systematic review and meta-analysis assesses the efficacy and safety of sulforaphane (SFN) for ASD. Eight databases were searched from inception to September 2024, identifying six randomized controlled trials for inclusion. Efficacy outcomes included ASD symptoms measured by the mean difference (MD) or standardized mean difference (SMD), while safety outcomes included adverse events measured by relative risk. Risk of bias was assessed using the Cochrane tool, and evidence certainty was evaluated via the Grade of Recommendations Assessment Development and Evaluation (GRADE). Results showed that SFN significantly improved total symptoms (SMD = -0.27, 95 % confidence interval (CI), -0.42, -0.12), aberrant behavior (SMD = -0.43, 95 % CI, -0.66, -0.19), hyperactivity (SMD = -0.58, 95 % CI, -1.03, -0.13), social interaction (SMD = -0.43, 95 % CI, -0.59, -0.27), social communication (SMD = -0.24, 95 % CI, -0.35, - 0.12), and restricted and repetitive behaviors (RRB) (SMD = -0.16, 95 % CI, -0.31, -0.00). Effects on irritability, anxiety, sensory sensitivity, total social skills, social awareness, social cognition, and social motivation were not statistically significant. Adverse events were similar between intervention and control groups. In conclusion, SFN shows potential in improving ASD symptoms without significant adverse effects. However, results should be interpreted cautiously due to potential influences from assessment tools, outcome assessors, and treatment duration. Further research is needed to confirm the long-term efficacy and safety of SFN for ASD.",
+  "type": "academic",
+  "pdf_url": "https://doaj.org/article/afccee4ea4b5479aa9166dc2102d1c7e"
+}

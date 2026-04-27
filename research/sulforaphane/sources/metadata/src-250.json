@@ -1,0 +1,20 @@
+{
+  "id": "src-250",
+  "title": "Endoplasmic reticulum stress: molecular mechanism and therapeutic targets",
+  "authors": [
+    "Chen, Xingyi",
+    "Shi, Chaoran",
+    "He, Meihui",
+    "Xiong, Siqi",
+    "Xia, Xiaobo"
+  ],
+  "doi": "10.1038/s41392-023-01570-w",
+  "url": "https://openalex.org/W4386728322",
+  "provider": "openalex",
+  "year": 2023,
+  "venue": "Signal Transduction and Targeted Therapy",
+  "citation_count": 843,
+  "abstract": "The endoplasmic reticulum (ER) functions as a quality-control organelle for protein homeostasis, or \"proteostasis\". The protein quality control systems involve ER-associated degradation, protein chaperons, and autophagy. ER stress is activated when proteostasis is broken with an accumulation of misfolded and unfolded proteins in the ER. ER stress activates an adaptive unfolded protein response to restore proteostasis by initiating protein kinase R-like ER kinase, activating transcription factor 6, and inositol requiring enzyme 1. ER stress is multifaceted, and acts on aspects at the epigenetic level, including transcription and protein processing. Accumulated data indicates its key role in protein homeostasis and other diverse functions involved in various ocular diseases, such as glaucoma, diabetic retinopathy, age-related macular degeneration, retinitis pigmentosa, achromatopsia, cataracts, ocular tumors, ocular surface diseases, and myopia. This review summarizes the molecular mechanisms underlying the aforementioned ocular diseases from an ER stress perspective. Drugs (chemicals, neurotrophic factors, and nanoparticles), gene therapy, and stem cell therapy are used to treat ocular diseases by alleviating ER stress. We delineate the advancement of therapy targeting ER stress to provide new treatment strategies for ocular diseases.",
+  "type": "academic",
+  "pdf_url": "https://www.nature.com/articles/s41392-023-01570-w.pdf"
+}

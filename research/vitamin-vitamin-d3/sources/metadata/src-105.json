@@ -1,0 +1,21 @@
+{
+  "id": "src-105",
+  "title": "The crucial role and mechanism of insulin resistance in metabolic disease",
+  "authors": [
+    "Zhao, Xuefei",
+    "An, Xuedong",
+    "Yang, Cunqing",
+    "Sun, Wenjie",
+    "Ji, Hangyu",
+    "Lian, Fengmei"
+  ],
+  "doi": "10.3389/fendo.2023.1149239",
+  "url": "https://openalex.org/W4361214502",
+  "provider": "openalex",
+  "year": 2023,
+  "venue": "Frontiers in Endocrinology",
+  "citation_count": 478,
+  "abstract": "Insulin resistance (IR) plays a crucial role in the development and progression of metabolism-related diseases such as diabetes, hypertension, tumors, and nonalcoholic fatty liver disease, and provides the basis for a common understanding of these chronic diseases. In this study, we provide a systematic review of the causes, mechanisms, and treatments of IR. The pathogenesis of IR depends on genetics, obesity, age, disease, and drug effects. Mechanistically, any factor leading to abnormalities in the insulin signaling pathway leads to the development of IR in the host, including insulin receptor abnormalities, disturbances in the internal environment (regarding inflammation, hypoxia, lipotoxicity, and immunity), metabolic function of the liver and organelles, and other abnormalities. The available therapeutic strategies for IR are mainly exercise and dietary habit improvement, and chemotherapy based on biguanides and glucagon-like peptide-1, and traditional Chinese medicine treatments (e.g., herbs and acupuncture) can also be helpful. Based on the current understanding of IR mechanisms, there are still some vacancies to follow up and consider, and there is also a need to define more precise biomarkers for different chronic diseases and lifestyle interventions, and to explore natural or synthetic drugs targeting IR treatment. This could enable the treatment of patients with multiple combined metabolic diseases, with the aim of treating the disease holistically to reduce healthcare expenditures and to improve the quality of life of patients to some extent.",
+  "type": "academic",
+  "pdf_url": "https://www.frontiersin.org/articles/10.3389/fendo.2023.1149239/pdf"
+}

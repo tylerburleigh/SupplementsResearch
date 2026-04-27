@@ -1,0 +1,33 @@
+{
+  "id": "src-071",
+  "title": "Comparative evaluation of oral chondroprotectors effectiveness in patients with low back pain",
+  "authors": [
+    "Shavlovskaya, O.A.",
+    "Romanov, I.D.",
+    "Bokova, I.A."
+  ],
+  "year": 2025,
+  "abstract": "Objective. To evaluate the effectiveness of the three-component pharmaconutrient Chondroguard TRIO — chondroitin sulfate (CS), glucosamine sulfate (GS) and undenatured type II collagen (UC-II) in terms of its effect on the severity of pain syndrome, compared to the two-component chondroprotectors (CP) drugs Artra (CS+glucozamine hydrochloride (GG), Teraflex (CS+GG), and the single-component CP Dona (GS). Material and methods. The outpatient records (o/r) of 120 patients (age 58.5±6.2 years) who received CP in polyclinic conditions at their place of residence in the period from September 2024 to May 2025. The patients were divided into 4 groups depending on the drug they received. The o/r on the dynamics of the severity of the pain syndrome and the functional status of the patient were evaluated. Evaluation scales were used: the 10-point visual analog scale (VAS) and the Oswestry Disability Index (ODI). Results. The dynamics of the indicators demonstrated the effectiveness of the three-component pharmaconutraceutical HondroguardTRIO over the two-component CP Artra and Teraflex, and the single-component CP Dona: a statistically significant decrease in pain syndrome values was obtained. There were no side effects in the Chondroguard TRIO group. Conclusion. The new oral CP Chondroguard TRIO has obvious advantages in composition over popular oral two- and mono-component CPs, which allows us to consider this pharnaconeutic as a potentially new opportunity for chondroprotective support of OA and LBP patients.",
+  "doi": "10.17116/jnevro202512507198",
+  "url": "https://doi.org/10.17116/jnevro202512507198",
+  "pdf_url": "",
+  "venue": "S.S. Korsakov Journal of Neurology and Psychiatry",
+  "citation_count": 1,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-19T13:45:44.939230+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-071.md",
+  "quality_details": {
+    "content_length": 1499,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

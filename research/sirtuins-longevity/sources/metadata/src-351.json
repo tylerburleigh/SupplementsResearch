@@ -1,0 +1,21 @@
+{
+  "id": "src-351",
+  "title": "The duality of GSK-3β in urinary bladder cancer: Tumor suppressor and promoter roles through multiple signaling pathways.",
+  "authors": [
+    "Sabeel, Zufa",
+    "Wang, Jianfeng",
+    "Dong, Jian",
+    "Liu, Yan",
+    "Yu, Changyuan",
+    "Yang, Zhao"
+  ],
+  "doi": "10.1016/j.bbcan.2025.189324",
+  "url": "https://www.semanticscholar.org/paper/c5f98786376b07d13b784d513a991552de071c4c",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "Biochimica et biophysica acta. Reviews on cancer",
+  "citation_count": 4,
+  "abstract": "Urinary bladder cancer (UBC), the tenth most common cancer globally, is primarily categorized into non-muscle-invasive (NMIBC) and muscle-invasive (MIBC) types. NMIBC has a low risk of metastasis but tends to recur frequently after transurethral resection, whereas MIBC is associated with a higher likelihood of metastasis and poorer prognosis. At diagnosis, roughly 75 % of UBC patients have NMIBC, while the remaining 25 % present with tumor invasion into the bladder's muscle layer. The molecular complexity of UBC has driven research toward identifying subtypes for more personalized treatment approaches. Glycogen synthase kinase-3β (GSK-3β) has emerged as a pivotal regulator in UBC through its dual roles across six key pathways: (1) Wnt/β-catenin regulation (tumor suppression vs oncogenic activation), (2) ER stress responses (apoptosis induction vs cytoprotection), (3) Akt/GSK-3β/β-catenin/c-Myc signaling, (4) PI3K/Akt/mTOR interactions, (5) NF-κB-mediated immune modulation, and (6) Snail1/β-catenin-driven epithelial mesenchymal transition (EMT). Our analysis reveals that GSK-3β's context-dependent functions create both therapeutic opportunities and challenges - while inhibition suppresses tumor growth via β-catenin degradation, it may simultaneously activate NF-κB-mediated oncogenic processes. These paradoxical effects are particularly evident in the tumor microenvironment, where GSK-3β modulation differentially regulates CD8+ T cell function and macrophage polarization. Understanding these complex pathway interactions is crucial for developing precision therapies that exploit GSK-3β's tumor-suppressive roles while mitigating its oncogenic potential.",
+  "type": "academic",
+  "pdf_url": ""
+}

@@ -1,0 +1,18 @@
+{
+  "id": "src-456",
+  "title": "Comprehensive review of antimicrobial activities of plant flavonoids",
+  "authors": [
+    "Górniak, Ireneusz",
+    "Bartoszewski, Rafał",
+    "Króliczewski, Jarosław"
+  ],
+  "doi": "10.1007/s11101-018-9591-z",
+  "url": "https://openalex.org/W2895424644",
+  "provider": "openalex",
+  "year": 2018,
+  "venue": "Phytochemistry Reviews",
+  "citation_count": 1125,
+  "abstract": "Flavonoids are one of the largest classes of small molecular secondary metabolites produced in different parts of the plant. They display a wide range of pharmacological and beneficial health effects for humans, which include, among others, antioxidative activity, free radical scavenging capacity, coronary heart disease prevention and antiatherosclerotic, hepatoprotective, anti-inflammatory, and anticancer activities. Hence, flavonoids are gaining high attention from the pharmaceutical and healthcare industries. Notably, plants synthesize flavonoids in response to microbial infection, and these compounds have been found to be a potent antimicrobial agent against a wide range of pathogenic microorganisms in vitro. Antimicrobial action of flavonoids results from their various biological activities, which may not seem very specific at first. There are, however, promising antibacterial flavonoids that are able not only to selectively target bacterial cells, but also to inhibit virulence factors, as well as other forms of microbial threats, e.g. biofilm formation. Moreover, some plant flavonoids manifest ability to reverse the antibiotic resistance and enhance action of the current antibiotic drugs. Hence, the development and application of flavonoid-based drugs could be a promising approach for antibiotic-resistant infections. This review aims to improve our understanding of the biological and molecular roles of plant flavonoids, focusing mostly on their antimicrobial activities.",
+  "type": "academic",
+  "pdf_url": "https://link.springer.com/content/pdf/10.1007/s11101-018-9591-z.pdf"
+}

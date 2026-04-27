@@ -1,0 +1,20 @@
+{
+  "id": "src-150",
+  "title": "Targeting Senescent Cells for a Healthier Aging: Challenges and Opportunities",
+  "authors": [
+    "Song, Shuling",
+    "Tchkonia, Tamar",
+    "Jiang, Jing",
+    "Kirkland, James L.",
+    "Sun, Yu"
+  ],
+  "doi": "10.1002/advs.202002611",
+  "url": "https://openalex.org/W3093572772",
+  "provider": "openalex",
+  "year": 2020,
+  "venue": "Advanced Science",
+  "citation_count": 130,
+  "abstract": "Aging is a physiological decline in both structural homeostasis and functional integrity, progressively affecting organismal health. A major hallmark of aging is the accumulation of senescent cells, which have entered a state of irreversible cell cycle arrest after experiencing inherent or environmental stresses. Although cellular senescence is essential in several physiological events, it plays a detrimental role in a large array of age-related pathologies. Recent biomedical advances in specifically targeting senescent cells to improve healthy aging, or alternatively, postpone natural aging and age-related diseases, a strategy termed senotherapy, have attracted substantial interest in both scientific and medical communities. Challenges for aging research are highlighted and potential avenues that can be leveraged for therapeutic interventions to control aging and age-related disorders in the current era of precision medicine.",
+  "type": "academic",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/advs.202002611"
+}

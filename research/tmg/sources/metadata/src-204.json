@@ -1,0 +1,26 @@
+{
+  "id": "src-204",
+  "title": "Association of Apolipoprotein E Genotypes With Lipid Levels and Coronary Risk",
+  "authors": [
+    "Bennet, Anna M.",
+    "Angelantonio, Emanuele Di",
+    "Ye, Zheng",
+    "Wensley, Frances",
+    "Dahlin, Anette",
+    "Ahlbom, Anders",
+    "Keavney, Bernard",
+    "Collins, Rory",
+    "Wiman, Björn",
+    "Fairé, Ulf dé",
+    "Danesh, John"
+  ],
+  "doi": "10.1001/jama.298.11.1300",
+  "url": "https://openalex.org/W2106611664",
+  "provider": "openalex",
+  "year": 2007,
+  "venue": "JAMA",
+  "citation_count": 792,
+  "abstract": "There are approximately linear relationships of apoE genotypes with both LDL-C levels and coronary risk. Compared with individuals with the epsilon3/epsilon3 genotype, epsilon2 carriers have a 20% lower risk of coronary heart disease and epsilon4 carriers have a slightly higher risk.",
+  "type": "academic",
+  "pdf_url": ""
+}

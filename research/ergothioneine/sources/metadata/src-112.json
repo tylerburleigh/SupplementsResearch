@@ -1,0 +1,32 @@
+{
+  "id": "src-112",
+  "title": "Investigating the efficacy of ergothioneine to delay cognitive decline in mild cognitively impaired subjects: A pilot study",
+  "authors": [
+    "Yau, Yu Fung",
+    "Cheah, Irwin K",
+    "Mahendran, Rathi",
+    "Tang, Richard MY",
+    "Chua, Ru Yuan",
+    "Goh, Rachel ES",
+    "Feng, Lei",
+    "Li, Jialiang",
+    "Kua, Ee Heok",
+    "Chen, Christopher",
+    "Halliwell, Barry"
+  ],
+  "year": 2024,
+  "abstract": "Background\nDementia, particularly Alzheimer's disease, is a major healthcare challenge in ageing societies.\n\nObjective\nThis study aimed to investigate the efficacy and safety of a dietary compound, ergothioneine, in delaying cognitive decline in older individuals.\n\nMethods\nNineteen subjects aged 60 or above with mild cognitive impairment were recruited for this double-blinded, randomized, and placebo-controlled study (ClinicalTrials.gov identifier: NCT03641404, registration date: 19/08/2018). Subjects received either ergothioneine (25 mg per capsule) or a placebo, taken 3 times a week for one year. The whole blood profile, markers of renal and liver functions, neurocognitive performance, plasma levels of ergothioneine and its metabolites, and plasma biomarkers related to neurodegeneration were measured across the study.\n\nResults\nErgothioneine intake did not alter clinical safety markers (blood counts, kidney and liver function) throughout the study, further validating its safety for human consumption. Subjects receiving ergothioneine demonstrated improved performance in assessment of learning ability and stabilized plasma levels of neurofilament light chain, compared with the placebo group, which saw no improvement in cognitive assessments and a significant increase in neurofilament light chain levels.\n\nConclusions\nProlonged intake of ergothioneine showed no toxicity in elderly people. Enhanced Rey Auditory Verbal Learning Test performance and stabilized neurofilament light chain levels suggest improvements in memory and learning abilities and a deceleration of neuronal damage, respectively. Our results add to existing data that ergothioneine is safe for extended consumption and may hold the potential to delay cognitive decline in elderly adults.",
+  "doi": "10.1177/13872877241291253",
+  "url": "https://doi.org/10.1177/13872877241291253",
+  "pdf_url": "",
+  "venue": "Journal of Alzheimer’s Disease",
+  "citation_count": 23,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-20T00:18:04.871120+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok"
+}

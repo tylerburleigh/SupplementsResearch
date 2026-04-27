@@ -1,0 +1,28 @@
+25	2	Abstract
+52	2	Introduction
+165	2	Materials And Methods
+308	2	Statistical Analysis
+320	2	Results
+374	2	Discussion
+546	2	Conclusion
+584	2	Acknowledgements
+587	2	Author Contributions
+596	2	Data Availability
+608	2	Competing Interests
+611	2	References
+614	2	2. Mirghafourvand M, Fard MK, Charandabi SMA, Jafarabadi MA, Khoda-
+692	2	29. Cunningham FG, Leveno KJ, Bloom SL, Spong CY, Dashe JS, Hoffman BL,
+697	2	31. Gopalan P , Spada M, Shenai N, Brockman I, Keil M, Livingston S, Moses-Kolko
+702	2	33. Berretta M, Rinaldi L, Taibi R, Tralongo P , Fulvi A, Montesarchio V, Madeddu
+712	2	36. Mosavat SH, Pasalar M, Joulaei H, Ameli V, Heydari ST, Mirzazadeh A, Hashem-
+717	2	38. Farzaei MH, Zobeiri M, Parvizi F, El-Senduny FF, Marmouzi I, Coy-Barrera E,
+721	2	39. Kunnumakkara AB, Bordoloi D, Padmavathi G, Monisha J, Roy NK, Prasad S,
+732	2	43. Gilad O, Rosner G, Ivancovsky-Wajcman D, Zur R, Rosin-Arbesfeld R, Gluck
+737	2	44. Nainu F, Permana AD, Djide NJN, Anjani QK, Utami RN, Rumata NR, Zhang
+744	2	46. Akter T, Chakma M, Tanzina AY, Rumi MH, Shimu MSS, Saleh MA, Mahmud S,
+759	2	51. Mamsharifi P , Farokhi B, Hajipoor-Taziani R, Alemi F, Hazegh P , Masoumzadeh
+769	2	54. Bhatt HD, McClain SA, Lee H-M, Zimmerman T, Deng J, Johnson F, Gu Y, Golub
+784	2	59. Mashayekh-Amiri S, Jafarabadi MA, Montazeri M, Fallon V, Silverio SA, Mir-
+792	2	61. Esmaily H, Sahebkar A, Iranshahi M, Ganjali S, Mohammadi A, Ferns G,
+805	2	65. Kanchanatawan B, Tangwongchai S, Sughondhabhirom A, Suppapitiporn
+824	2	69. Fusar-Poli L, Vozza L, Gabbiadini A, Vanella A, Concas I, Tinacci S, Petralia A,

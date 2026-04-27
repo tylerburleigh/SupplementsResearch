@@ -1,0 +1,23 @@
+{
+  "id": "src-364",
+  "title": "Mortality and risk of diabetes, liver disease, and heart disease in individuals with haemochromatosis HFE C282Y homozygosity and normal concentrations of iron, transferrin saturation, or ferritin: prospective cohort study.",
+  "authors": [
+    "Mottelson, Mathis",
+    "Helby, Jens",
+    "Nordestgaard, Børge Grønne",
+    "Ellervik, Christina",
+    "Mandrup-Poulsen, Thomas",
+    "Petersen, Jesper",
+    "Bojesen, Stig Egil",
+    "Glenthøj, Andreas"
+  ],
+  "doi": "10.1136/bmj-2023-079147",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39653412",
+  "provider": "pubmed",
+  "year": 2024,
+  "venue": "BMJ (Clinical research ed.)",
+  "citation_count": 0,
+  "abstract": "OBJECTIVES: To test whether haemochromatosis HFE C282Y homozygotes have increased risk of diabetes, liver disease, and heart disease even when they have normal plasma iron, transferrin saturation, or ferritin concentrations and to test whether C282Y homozygotes with diabetes, liver disease, or heart disease have increased mortality compared with non-carriers with these diseases.\nDESIGN: Prospective cohort study.\nSETTING: Three Danish general population cohorts: the Copenhagen City Heart Study, the Copenhagen General Population Study, and the Danish General Suburban Population Study.\nPARTICIPANTS: 132 542 individuals genotyped for the HFE C282Y and H63D variants, 422 of whom were C282Y homozygotes, followed prospectively for up to 27 years after study enrolment.\nMAIN OUTCOME MEASURE: Hospital contacts and deaths, retrieved from national registers, covering all hospitals and deaths in Denmark.\nRESULTS: Comparing C282Y homozygotes with non-carriers, hazard ratios were 1.72 (95% confidence interval (CI) 1.24 to 2.39) for diabetes, 2.22 (1.40 to 3.54) for liver disease, and 1.01 (0.78 to 1.31) for heart disease. Depending on age group, the absolute five year risk of diabetes was 0.54-4.3% in C282Y homozygous women, 0.37-3.0% in non-carrier women, 0.86-6.8% in C282Y homozygous men, and 0.60-4.80% in non-carrier men. When studied according to levels of iron, transferrin saturation, and ferritin in a single blood sample obtained at study enrolment, risk of diabetes was increased in C282Y homozygotes with normal transferrin saturation (hazard ratio 2.00, 95% CI 1.04 to 3.84) or ferritin (3.76, 1.41 to 10.05) and in C282Y homozygotes with normal levels of both ferritin and transferrin saturation (6.49, 2.09 to 20.18). C282Y homozygotes with diabetes had a higher risk of death from any cause than did non-carriers with diabetes (hazard ratio 1.94, 95% CI 1.19 to 3.18), but mortality was not increased in C282Y homozygotes without diabetes. The percentage of all deaths among C282Y homozygotes that could theoretically be prevented if excess deaths in individuals with a specific disease were eliminated (the population attributable fraction) was 27.3% (95% CI 12.4% to 39.7%) for diabetes and 14.4% (3.1% to 24.3%) for liver disease. Risk of diabetes or liver disease was not increased in H63D heterozygotes, H63D homozygotes, C282Y heterozygotes, or C282Y/H63D compound heterozygotes.\nCONCLUSIONS: Haemochromatosis C282Y homozygotes with normal transferrin saturation and/or ferritin, not recommended for HFE genotyping according to most guidelines, had increased risk of diabetes. Furthermore, C282Y homozygotes with diabetes had higher mortality than non-carriers with diabetes, and 27.3% of all deaths among C282Y homozygotes were potentially attributable to diabetes. These results indicate that prioritising detection and treatment of diabetes in C282Y homozygotes may be relevant.",
+  "type": "academic",
+  "pdf_url": ""
+}

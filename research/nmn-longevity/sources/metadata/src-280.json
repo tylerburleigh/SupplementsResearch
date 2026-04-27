@@ -1,0 +1,22 @@
+{
+  "id": "src-280",
+  "title": "Sevoflurane Dose and Timing Affects Esophageal Contractility During Functional Lumen Imaging Probe.",
+  "authors": [
+    "Toaz, E.",
+    "Benitez, Alain J",
+    "Cheon, Eric",
+    "Mahon, Mark",
+    "Hoffmann, Natalie V",
+    "Muir, Amanda B.",
+    "Wechsler, J."
+  ],
+  "doi": "10.1016/s0016-5085(25)04085-5",
+  "url": "https://www.semanticscholar.org/paper/61eb9bb16f226382efb862b004b7341e8ef527e5",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "American Journal of Gastroenterology",
+  "citation_count": 0,
+  "abstract": "INTRODUCTION\nFunctional lumen imaging probe (FLIP) can assess the esophageal contractile response (CR). Anesthetic agents used during endoscopy affect esophageal contractility, however, the time or dose-dependent effect of specific medications on the esophageal CR in children is unknown.\n\nMETHODS\nCharts of patients aged 3-22 years undergoing endoscopy with FLIP for evaluation of dysphagia at 2 tertiary pediatric hospitals were reviewed. Anesthetic dose and timing were collected. FLIP data were exported to Wklytics to generate Panometry plots, and the CR was classified as normal, borderline, spastic, impaired, or absent based on established definitions. Binary logistic regression was performed to assess whether anesthetic administration was associated with absent CR. End-tidal sevoflurane concentration was compared across groups with normal, borderline, and absent/impaired CR.\n\nRESULTS\nThree hundred-three pediatric patients with a mean (SD) age of 13 years (4), 65% adolescent boys, were included. Totally, 80 (26%) had abnormal esophageal CR, where 16 (5%) were impaired, 63 (21%) were absent, and 1 was spastic. Two hundred twenty-eight (75%) were diagnosed with eosinophilic esophagitis, and 215 (71%) received sevoflurane. The odds ratio for absent CR if sevoflurane was administered was 8.4 (P < 0.001). Sevoflurane was used significantly more often for both induction and maintenance in patients with abnormal CR compared with normal CR (70% vs 38%, P < 0.001). During the maintenance phase of anesthesia, end-tidal sevoflurane concentration was higher in patients with abnormal CR compared with normal CR independent of propofol infusion, recruitment site, and distensibility.\n\nDISCUSSION\nThe timing and dose of sevoflurane is strongly associated with esophageal CR impairment during FLIP.",
+  "type": "academic",
+  "pdf_url": ""
+}

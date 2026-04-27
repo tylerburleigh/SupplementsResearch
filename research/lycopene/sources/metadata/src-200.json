@@ -1,0 +1,22 @@
+{
+  "id": "src-200",
+  "title": "Flavonoid intake and ovarian cancer risk in a population‐based case‐control study",
+  "authors": [
+    "Gates, Margaret A.",
+    "Vitonis, Allison F.",
+    "Tworoger, Shelley S.",
+    "Rosner, Bernard",
+    "Titus‐Ernstoff, Linda",
+    "Hankinson, Susan E.",
+    "Cramer, Daniel W."
+  ],
+  "doi": "10.1002/ijc.24151",
+  "url": "https://openalex.org/W1974661310",
+  "provider": "openalex",
+  "year": 2008,
+  "venue": "International Journal of Cancer",
+  "citation_count": 106,
+  "abstract": "Several recent studies have evaluated the association between dietary flavonoid intake and ovarian cancer risk, and all reported significant or suggestive inverse associations with certain flavonoids or flavonoid subclasses; however, most of these studies were small to moderate in size. We, therefore, examined this association in a large, population-based case-control study. We calculated intake of 5 common dietary flavonoids (myricetin, kaempferol, quercetin, luteolin, and apigenin), as well as total intake of these flavonoids, for 1,141 cases and 1,183 frequency-matched controls. We used unconditional logistic regression to estimate the relative risk (RR) of ovarian cancer for each quintile of flavonoid intake when compared with the lowest quintile. We did not observe an association between total flavonoid intake and ovarian cancer risk. The multivariable-adjusted RR for the highest versus lowest quintile of total flavonoid intake was 1.06 (95% confidence interval [CI] = 0.78-1.45). In analyses of each individual flavonoid, only intake of apigenin was associated with a borderline significant decrease in risk (RR, highest vs. lowest quintile = 0.79, 95% CI = 0.59-1.06; p-trend = 0.26), and this association was significant after adjustment for intake of the other 4 individual flavonoids (comparable RR = 0.72, 95% CI = 0.53-0.98; p-trend = 0.09). These results provide limited support for an association between flavonoid intake and ovarian cancer risk. However, given the findings of previous studies and the biologic plausibility of this association, additional studies are warranted.",
+  "type": "academic",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ijc.24151"
+}

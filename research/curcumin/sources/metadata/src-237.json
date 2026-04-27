@@ -1,0 +1,29 @@
+{
+  "id": "src-237",
+  "title": "Targeting aging pathways with natural compounds: a review of curcumin, epigallocatechin gallate, thymoquinone, and resveratrol",
+  "authors": [
+    "Ahmed, Mohamed"
+  ],
+  "year": 2025,
+  "abstract": "Abstract\nAging is a multifactorial biological process driven by oxidative stress, chronic inflammation, genomic instability, and mitochondrial dysfunction. Recent research underscores the potential of naturally derived compounds to modulate these aging hallmarks. Curcumin, epigallocatechin gallate (EGCG), thymoquinone, and resveratrol exhibit antioxidant, anti-inflammatory, and autophagy-enhancing effects that target core pathways involved in cellular senescence and tissue degeneration. These phytochemicals regulate key molecular players such as sirtuins, AMPK, NF-κB, and mTOR, offering promise in delaying age-associated pathologies and promoting longevity. This review discusses the molecular mechanisms underlying their anti-aging actions and highlights their potential as dietary geroprotective interventions.",
+  "doi": "10.1186/s12979-025-00522-y",
+  "url": "https://doi.org/10.1186/s12979-025-00522-y",
+  "pdf_url": "",
+  "venue": "Immunity &amp; Ageing",
+  "citation_count": 30,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-22T14:53:16.544417+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-237.md",
+  "quality_details": {
+    "content_length": 102598,
+    "alpha_ratio": 0.743,
+    "sentence_count": 871,
+    "reasons": []
+  }
+}

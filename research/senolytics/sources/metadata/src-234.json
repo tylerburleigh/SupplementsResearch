@@ -1,0 +1,24 @@
+{
+  "id": "src-234",
+  "title": "NK‐Cell‐Derived Extracellular Vesicles Engineered to Carry Senolytics Eliminate Chemotherapy‐Induced Senescent Osteosarcoma Cells",
+  "authors": [
+    "Yue, Xianlin",
+    "Cui, Jie",
+    "Ren, Shifeng",
+    "Zhang, Yajun",
+    "Li, Ying",
+    "Cui, Hongjuan",
+    "Huard, Johnny",
+    "Robbins, P. D.",
+    "Mu, Xiaodong"
+  ],
+  "doi": "10.1002/jev2.70123",
+  "url": "https://www.semanticscholar.org/paper/16a0566551129a4b538042463a77c45f4f137b41",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "Journal of Extracellular Vesicles",
+  "citation_count": 10,
+  "abstract": "ABSTRACT Osteosarcoma (OS) is a type of bone tumour characterized by high risk of metastatic progression and recurrence after therapy. Traditional tumour treatment methods such as radiotherapy and chemotherapy can lead to the accumulation of senescent cells in tumours. Treatment‐induced senescence (TIS) can lead to incomplete tumour clearance and potential recurrence. Recently, the combination of chemotherapy drugs and senolytics drugs (‘one‐two punch’ therapy) has become a promising strategy for improved tumour treatment, but this method also faces challenges in terms of safety and targeting specificity. In order to further improve the efficacy of chemotherapy on OS, here we developed a senolytic drug delivery system based on engineered Natural killer (NK) cell‐derived extracellular vesicles (EVs) that can target OS cells. EVs were engineered to contain doxorubicin (Dox), termed iRGD‐EVs‐Dox, and used to induce cellular senescence in OS cells, followed by delivery of the Bcl‐2 family inhibitor ABT‐263 in similar engineered EVs (iRGD‐EVs‐ABT‐263), to specifically eliminate the senescent OS cells induced by Dox. Our results demonstrate that iRGD‐EVs have efficient targeting ability to OS cells and iRGD‐EVs‐ABT‐263 effectively induced senolysis of Dox‐induced senescent OS cells in vitro and repressed tumour growth in OS cell xenograft mouse models. Taken together, our results demonstrate the therapeutic efficiency of using engineered EVs from NK cells to deliver first a chemotherapeutic agent to induce senescent OS cells followed by a senolytic drug to eliminate chemotherapy‐induced senescent OS cells, providing a novel strategy for more effective cancer treatment.",
+  "type": "academic",
+  "pdf_url": ""
+}

@@ -1,0 +1,35 @@
+{
+  "id": "src-227",
+  "title": "Hepatic targeting in ASCVD: integrating lipid lowering and inflammation modulation from statins to gene editing",
+  "authors": [
+    "Xiao, Qianqian",
+    "Wang, Man",
+    "Wang, Shitao",
+    "Wang, Luyun",
+    "Ding, Hu"
+  ],
+  "year": 2026,
+  "abstract": "",
+  "doi": "10.1186/s12967-025-07647-0",
+  "url": "https://doi.org/10.1186/s12967-025-07647-0",
+  "pdf_url": "",
+  "venue": "Journal of Translational Medicine",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-24T01:28:01.035246+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-227.md",
+  "quality_details": {
+    "content_length": 90268,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

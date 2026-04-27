@@ -1,0 +1,23 @@
+{
+  "id": "src-073",
+  "title": "Psychedelic-Induced Neural Plasticity: A Comprehensive Review and a Discussion of Clinical Implications",
+  "authors": [
+    "Weiss, Francesco",
+    "Magnesa, Anna",
+    "Gambini, Matteo",
+    "Gurrieri, Riccardo",
+    "Annuzzi, E.",
+    "Elefante, Camilla",
+    "Perugi, Giulio",
+    "Marazziti, Donatella"
+  ],
+  "doi": "10.3390/brainsci15020117",
+  "url": "https://openalex.org/W4406845122",
+  "provider": "openalex",
+  "year": 2025,
+  "venue": "Brain Sciences",
+  "citation_count": 59,
+  "abstract": "<b>Background</b>: Psychedelics are increasingly recognized as a promising and innovative treatment strategy for several mental disorders. However, there is still a lively controversy in the medical community as regards the rationale of their employment, specifically their indications and potential dangers. <b>Methods</b>: A comprehensive literature search on \"MEDLINE/PubMed\" and \"Web of Science\" was performed from inception to 26 June 2024, cross-checking the obtained references. We included all studies, i.e., both clinical and preclinical, that supplied original data. <b>Results</b>: We initially obtained a total of 1083 entries, 813 from MEDLINE/PubMed and 270 from Web of Science. After duplicate elimination, 903 underwent systematic literature selection. Primary abstract screening yielded a total of 572 candidates for eligibility assessment and excluded 331 entries on formal grounds. Eligibility assessment led to the exclusion of 501 titles. Finally, a total of 70 articles were included in this review. <b>Discussion</b>: Preclinical evidence from genetic expression, histology and behavioral studies is soundly consistent with psychedelics possessing neuroplasticity-inducing properties. Despite methodological difficulties, clinical evidence seems to be inferentially in agreement with preclinical findings. However, it is still unclear whether the \"neuroplastic boost\" induced by classic psychedelics might be dissociable from the psychodysleptic effects, thereby reducing the psychopathological hazards implied by these compounds. Moreover, the fact that the so-called \"relaxation of priors\" should be unconditionally beneficial appears debatable, and further research should clarify the possible indications and contraindications of psychedelic psychoplastogens within a precision medicine perspective.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2076-3425/15/2/117/pdf?version=1737801806"
+}

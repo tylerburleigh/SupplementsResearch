@@ -1,0 +1,27 @@
+{
+  "id": "src-073",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "",
+  "pdf_url": "https://eprints.leedsbeckett.ac.uk/id/eprint/2927/1/2016-1-X-Y-Ispoglou.pdf",
+  "venue": "",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "",
+  "fetched_at": "2026-04-21T13:41:21.840280+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-073.md",
+  "quality_details": {
+    "content_length": 47696,
+    "alpha_ratio": 0.731,
+    "sentence_count": 662,
+    "reasons": []
+  }
+}

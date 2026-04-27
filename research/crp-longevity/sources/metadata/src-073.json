@@ -1,0 +1,33 @@
+{
+  "id": "src-073",
+  "title": "No association between genetically predicted C-reactive protein levels and colorectal cancer survival in Korean: two-sample Mendelian randomization analysis",
+  "authors": [
+    "Choi, Chang Kyun",
+    "Yang, Jung-Ho",
+    "Shin, Min-Ho",
+    "Cho, Sang-Hee",
+    "Kweon, Sun-Seog"
+  ],
+  "year": 2023,
+  "abstract": "OBJECTIVES: Elevated C-reactive protein (CRP) levels are associated with an increased risk for colorectal cancer (CRC), as well as a poor prognosis, but it remains unclear whether these associations are causal. This study examined the potential causality between CRP levels and CRC survival using 2-sample Mendelian randomization (MR).METHODS: From the Korean Genome and Epidemiology Study, a genome-wide association study (n=59,605), 7 single-nucleotide polymorphisms (SNPs) related to log2-transformed CRP levels were extracted as instrumental variables for CRP levels. The associations between the genetically predicted CRP and CRC-specific and overall mortality among CRC patients (n=6,460) were evaluated by Aalen’s additive hazard model. The sensitivity analysis excluded a SNP related to the blood lipid profile.RESULTS: During a median of 8.5 years of follow-up, among 6,460 CRC patients, 2,676 (41.4%) CRC patients died from all causes and 1,622 (25.1%) died from CRC. Genetically predicted CRP levels were not significantly associated with overall or CRC-specific mortality in CRC patients. The hazard difference per 1,000 person-years for overall and CRC-specific mortality per 2-fold increase in CRP levels was -2.92 (95% confidence interval [CI], -14.05 to 8.21) and -0.76 (95% CI, -9.61 to 8.08), respectively. These associations were consistent in a subgroup analysis according to metastasis and a sensitivity analysis excluding possible pleiotropic SNPs.CONCLUSIONS: Our findings do not support a causal role for genetically predisposed CRP levels in CRC survival.",
+  "doi": "10.4178/epih.e2023039",
+  "url": "https://doi.org/10.4178/epih.e2023039",
+  "pdf_url": "",
+  "venue": "Epidemiology and Health",
+  "citation_count": 5,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-24T01:08:40.757258+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-073.md",
+  "quality_details": {
+    "content_length": 47291,
+    "alpha_ratio": 0.669,
+    "sentence_count": 433,
+    "reasons": []
+  }
+}

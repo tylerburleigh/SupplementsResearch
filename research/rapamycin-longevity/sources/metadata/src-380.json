@@ -1,0 +1,21 @@
+{
+  "id": "src-380",
+  "title": "Insulin and Autophagy in Neurodegeneration",
+  "authors": [
+    "Mello, Natália Prudente de",
+    "Orellana, Ana Maria",
+    "Mazucanti, Caio Henrique",
+    "Lima, Geovanni de Morais",
+    "Scavone, Cristóforo",
+    "Kawamoto, Elisa Mitiko"
+  ],
+  "doi": "10.3389/fnins.2019.00491",
+  "url": "https://openalex.org/W2946354647",
+  "provider": "openalex",
+  "year": 2019,
+  "venue": "Frontiers in Neuroscience",
+  "citation_count": 56,
+  "abstract": "Crosstalk in the pathophysiological processes underpinning metabolic diseases and neurodegenerative disorders have been the subject of extensive investigation, in which insulin signaling and autophagy impairment demonstrate to be a common factor in both conditions. Although it is still somewhat conflicting, pharmacological and genetic strategies that regulate these pathways may be a promising approach for aggregate protein clearancing and consequently the delaying of onset or progression of the disease. However, as the response due to this modulation seems to be time-dependent, finding the right regulation of autophagy may be a potential target for drug development for neurodegenerative diseases. In this way, this review focuses on the role of insulin signaling/resistance and autophagy in some neurodegenerative diseases, discussing pharmacological and non-pharmacological interventions in these diseases.",
+  "type": "academic",
+  "pdf_url": "https://www.frontiersin.org/articles/10.3389/fnins.2019.00491/pdf"
+}

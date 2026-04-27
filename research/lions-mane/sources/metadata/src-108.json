@@ -1,0 +1,21 @@
+{
+  "id": "src-108",
+  "title": "Anti-Inflammatory Effect of Erinacine C on NO Production Through Down-Regulation of NF-κB and Activation of Nrf2-Mediated HO-1 in BV2 Microglial Cells Treated with LPS",
+  "authors": [
+    "Wang, Liyu",
+    "Huang, Chin‐Shiu",
+    "Chen, Yu‐Hsuan",
+    "Chen, Chin‐Chu",
+    "Chen, Chien-Chih",
+    "Chuang, Cheng‐Hung"
+  ],
+  "doi": "10.3390/molecules24183317",
+  "url": "https://openalex.org/W2972362691",
+  "provider": "openalex",
+  "year": 2019,
+  "venue": "Molecules",
+  "citation_count": 41,
+  "abstract": "Previous studies have revealed the anti-inflammatory and neuroprotective properties of <i>Hericium erinaceus</i> extracts, including the fact that the active ingredient erinacine C (EC) can induce the synthesis of nerve growth factor. However, there is limited research on the use and mechanisms of action of EC in treating neuroinflammation. Hence, in this study, the inflammatory responses of human BV2 microglial cells induced by LPS were used to establish a model to assess the anti-neuroinflammatory efficacy of EC and to clarify its possible mechanisms of action. The results showed that EC was able to reduce the levels of nitric oxide (NO), interleukin-6 (IL-6), tumor necrosis factor (TNF)-α, and inducible nitric oxide synthase (iNOS) proteins produced by LPS-induced BV2 cells, in addition to inhibiting the expression of NF-κB and phosphorylation of IκBα (p-IκBα) proteins. Moreover, EC was found to inhibit the Kelch-like ECH-associated protein 1 (Keap1) protein, and to enhance the nuclear transcription factor erythroid 2-related factor (Nrf2) and the expression of the heme oxygenase-1 (HO-1) protein. Taken together, these data suggest that the mechanism of action of EC involves the inhibition of IκB, p-IκBα, and iNOS expressions and the activation of the Nrf2/HO-1 pathway.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/1420-3049/24/18/3317/pdf?version=1568283435"
+}

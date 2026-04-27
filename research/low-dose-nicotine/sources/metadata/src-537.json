@@ -1,0 +1,9 @@
+{
+  "id": "src-537",
+  "title": "Hippocampal sharp wave-ripples and the associated sequence replay emerge from structured synaptic interactions in a network model of area CA3 | eLife",
+  "authors": [],
+  "url": "https://elifesciences.org/articles/71850",
+  "provider": "linkup",
+  "abstract": "A biologically plausible spiking ... in vivo. https://doi.org/10.7554/eLife.71850.sa0 ... The hippocampal region plays a pivotal role in spatial and episodic memory (O’Keefe and Nadel, 1978; Morris et al., 1982)...\nA biologically plausible spiking neural network model of subregion CA3 of the hippocampus is proposed and studied in order to pinpoint the mechanistic sources of sharp wave ripples and replay observed in vivo. https://doi.org/10.7554/eLife.71850.sa0 ... The hippocampal region plays a pivotal role in spatial and episodic memory (O’Keefe and Nadel, 1978; Morris et al., 1982).\nRipple episodes typically last 40–100 ms in vivo (O’Keefe and Nadel, 1978; Buzsáki et al., 1983; Buzsáki et al., 1992; Ylinen et al., 1995), although Fernández-Ruiz et al., 2019 recently showed that learning in spatial memory tasks is associated with prolonged SWRs and replays.\nHippocampal place cells are activated sequentially as an animal explores its environment. These activity sequences are internally recreated (‘replayed’), either in the same or reversed order, during bursts of activity (sharp wave-ripples [SWRs]) that occur in sleep and awake rest.\nOther behavioral states such as slow-wave sleep and quiet wakefulness are characterized by the repetitive but irregular occurrence of bursts of activity in the hippocampus, marked by the appearance of sharp waves (Buzsáki et al., 1983; Wilson and McNaughton, 1994) and associated high-frequency (150–220 Hz) ripple oscillations (O’Keefe and Nadel, 1978; Buzsáki et al., 1992) in the LFP.",
+  "type": "web"
+}

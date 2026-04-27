@@ -1,0 +1,20 @@
+{
+  "id": "src-529",
+  "title": "EGCG induces human mesothelioma cell death by inducing reactive oxygen species and autophagy",
+  "authors": [
+    "Satoh, Motohiko",
+    "Takemura, Y.",
+    "Hamada, H.",
+    "Sekido, Y.",
+    "Kubota, S."
+  ],
+  "doi": "10.1186/1475-2867-13-19",
+  "url": "https://www.semanticscholar.org/paper/4ad55a2d8ac90b747b7e8a344df9653eb68c848d",
+  "provider": "semantic_scholar",
+  "year": 2013,
+  "venue": "Cancer Cell International",
+  "citation_count": 65,
+  "abstract": "Malignant mesothelioma is an asbestos-related fatal disease with no effective cure. We studied whether a green tea polyphenol, epigallocathechin-3-gallate (EGCG), could induce cell death in five human mesothelioma cell lines. We found that EGCG induced apoptosis in all five mesothelioma cell lines in a dose-dependent manner. We further clarified the cell killing mechanism. EGCG induced reactive oxygen species (ROS), and impaired the mitochondrial membrane potential. As treatment with ROS scavengers, catalase and tempol, significantly inhibited the EGCG-induced apoptosis, ROS is considered to be responsible for the EGCG-induced apoptosis. Further, we found that EGCG induced autophagy, and that when autophagy was suppressed by chloroquine, the EGCG-induced cell death was enhanced. Taken together, these results suggest that EGCG has a great potential for the treatment of mesothelioma by inducing apoptosis and autophagy.",
+  "type": "academic",
+  "pdf_url": "https://cancerci.biomedcentral.com/counter/pdf/10.1186/1475-2867-13-19"
+}

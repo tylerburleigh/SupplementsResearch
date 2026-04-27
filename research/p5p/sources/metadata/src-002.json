@@ -1,0 +1,29 @@
+{
+  "id": "src-002",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://ods.od.nih.gov/factsheets/VitaminB6-HealthProfessional",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-20T15:58:37.166681+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-002.md",
+  "quality_details": {
+    "content_length": 34983,
+    "alpha_ratio": 0.758,
+    "sentence_count": 323,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

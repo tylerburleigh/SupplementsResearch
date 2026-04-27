@@ -1,0 +1,49 @@
+{
+  "id": "src-026",
+  "title": "LSDDEP2: study protocol for a randomised, double-dummy, triple-blind, active placebo-controlled, parallel groups trial of LSD microdosing in patients with major depressive disorder",
+  "authors": [
+    "Daldegan-Bueno, Dimitri",
+    "Donegan, Carina Joy",
+    "Forsyth, Anna",
+    "Sumner, Rachael Louise",
+    "Murphy, Robin J.",
+    "Menkes, David B.",
+    "Evans, William",
+    "Hoeh, Nicholas",
+    "Sundram, Frederick",
+    "Reynolds, Lisa M.",
+    "Ponton, Rhys",
+    "Cavadino, Alana",
+    "Smith, Todd",
+    "Roop, Partha",
+    "Allen, Nathan",
+    "Abeysinghe, Binu",
+    "Svirskis, Darren",
+    "Bansal, Mahima",
+    "Muthukumaraswamy, Suresh"
+  ],
+  "year": 2024,
+  "abstract": "Abstract\nBackground\nMajor depressive disorder (MDD) poses a significant global health burden with available treatments limited by inconsistent efficacy and notable side effects. Classic psychedelics, including lysergic acid diethylamide (LSD), have garnered attention for their potential in treating psychiatric disorders. Microdosing, the repeated consumption of sub-hallucinogenic doses of psychedelics, has emerged as a self-treatment approach for depression within lay communities. Building upon preliminary evidence and the successful completion of an open-label pilot trial of microdosing LSD for depression (LSDDEP1), this protocol outlines a phase 2b randomised controlled trial (LSDDEP2). The main objective of LSDDEP2 is to assess the modification of depressive symptoms, measured by the Montgomery–Åsberg Depression Rating Scale (MADRS), following a regimen of LSD microdoses versus placebo.\n\nMethods\nThis is a randomised, double-dummy, triple-blind, active placebo-controlled, parallel groups trial of LSD microdosing in patients meeting DSM-5 criteria for major depressive disorder. Participants will undergo an 8-week LSD microdosing regimen using the titratable MB-22001 formulation taking two doses a week. All doses will be self-administered at home and will be titratable from 4 to 20 μg based on subjective perception and tolerability. In addition to depression symptoms, outcome will include psychiatric and personality inventories, sleep and activity tracking, electroencephalography (EEG), blood biomarkers, semi-structured interviews, and safety (e.g. adverse event, laboratory exam) measures.\n\nDiscussion\nThis study will be the first randomised controlled trial to administer controlled microdoses of LSD for treatment of MDD in participants’ naturalistic environment. The measures included are designed to assess the drug’s safety, mechanism, and treatment efficacy over placebo in this population. The results of this study will be important for assessing the viability of psychedelic microdosing as an additional treatment option and for informing the direction of future clinical trials.\n\nTrial registration\nANZCTR, ACTRN12624000128594. Prospectively Registered on 13 February 2024.",
+  "doi": "10.1186/s13063-024-08384-3",
+  "url": "https://doi.org/10.1186/s13063-024-08384-3",
+  "pdf_url": "",
+  "venue": "Trials",
+  "citation_count": 14,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-26T10:41:50.484069+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-026.md",
+  "quality_details": {
+    "content_length": 58650,
+    "alpha_ratio": 0.777,
+    "sentence_count": 399,
+    "reasons": [
+      "paywall_page (access this article)"
+    ]
+  }
+}

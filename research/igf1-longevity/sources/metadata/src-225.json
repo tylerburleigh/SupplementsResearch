@@ -1,0 +1,18 @@
+{
+  "id": "src-225",
+  "title": "Biomarker integration and biosensor technologies enabling AI-driven insights into biological aging",
+  "authors": [
+    "Kushner, Jared A",
+    "Pandey, Mohit",
+    "Kohli, S."
+  ],
+  "doi": "10.3389/fragi.2025.1703698",
+  "url": "https://www.semanticscholar.org/paper/0a0951011a457b72d4e39177947efc4528124e21",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "Frontiers in Aging",
+  "citation_count": 3,
+  "abstract": "As the global population continues to age, there is an increasing demand for ways to accurately quantify the biological processes underlying aging. Biological age, unlike chronological age, reflects an individual’s physiological state, offering a more accurate measure of health-span and age-related decline. This review focuses on four key biochemical markers - C-Reactive Protein (CRP), Insulin like Growth Factor-1 (IGF-1), Interleukin-6 (IL-6), and Growth Differentiation Factor-15 (GDF-15) – and explores how Artificial Intelligence (AI) and biosensor technologies enhance their measurement and interpretation. AI-driven methods including machine learning, deep learning, and generative models facilitate the interpretation of high dimensional datasets and support the development of widely accessible, data-informed tools for health monitoring and disease risk assessment. This paves the way for a future medical system, enabling more personalized and accessible care, offering deeper, data-driven insights into individual health trajectories, risk profiles, and treatment response. The review additionally highlights the key challenges and future directions for the implementation of AI-driven methods in precision aging frameworks.",
+  "type": "academic",
+  "pdf_url": ""
+}

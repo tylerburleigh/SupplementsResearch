@@ -1,0 +1,39 @@
+{
+  "id": "src-096",
+  "title": "<i>In Vitro</i> Anti-proliferative and Anti-invasive Effect of Polysaccharide-rich Extracts from <i>Trametes Versicolor and Grifola Frondosa</i> in Colon Cancer Cells",
+  "authors": [
+    "Roca-Lema, Daniel",
+    "Martinez-Iglesias, Olaia",
+    "Portela, Catalina Fernández de Ana",
+    "Rodríguez-Blanco, Arturo",
+    "Valladares-Ayerbes, Manuel",
+    "Díaz-Díaz, Andrea",
+    "Casas-Pais, Alba",
+    "Prego, Cecilia",
+    "Figueroa, Angélica"
+  ],
+  "year": 2019,
+  "abstract": "",
+  "doi": "10.7150/ijms.28811",
+  "url": "https://doi.org/10.7150/ijms.28811",
+  "pdf_url": "",
+  "venue": "International Journal of Medical Sciences",
+  "citation_count": 58,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-23T18:36:49.051348+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-096.md",
+  "quality_details": {
+    "content_length": 45003,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

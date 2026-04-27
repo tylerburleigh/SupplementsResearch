@@ -1,0 +1,17 @@
+{
+  "id": "src-248",
+  "title": "Nutritional essentiality of sulfur in health and disease",
+  "authors": [
+    "Ingenbleek, Yves",
+    "Kimura, Hideo"
+  ],
+  "doi": "10.1111/nure.12050",
+  "url": "https://openalex.org/W2145102804",
+  "provider": "openalex",
+  "year": 2013,
+  "venue": "Nutrition Reviews",
+  "citation_count": 123,
+  "abstract": "Sulfur is the seventh most abundant element measurable in the human body and is supplied mainly by the intake of methionine (Met), an indispensable amino acid found in plant and animal proteins. Met controls the initiation of protein synthesis, governs major metabolic and catalytic activities, and may undergo reversible redox processes safeguarding protein integrity. Withdrawal of Met from customary diets causes the greatest downsizing of lean body mass following either unachieved replenishment (malnutrition) or excessive losses (inflammation). These physiopathologically unrelated morbidities nevertheless stimulate comparable remethylation reactions from homocysteine, indicating that Met homeostasis benefits from high metabolic priority. Inhibition of cystathionine-β-synthase activity causes the upstream sequestration of homocysteine and the downstream drop in cysteine and glutathione. Consequently, the enzymatic production of hydrogen sulfide and the nonenzymatic reduction of elemental sulfur to hydrogen sulfide are impaired. Sulfur operates as cofactor of several enzymes critically involved in the regulation of oxidative processes. A combination of malnutrition and nutritional deprivation of sulfur maximizes the risk of cardiovascular disorders and stroke, constituting a novel clinical entity that threatens plant-eating population groups.",
+  "type": "academic",
+  "pdf_url": "https://academic.oup.com/nutritionreviews/article-pdf/71/7/413/24103679/nutritionreviews71-0413.pdf"
+}

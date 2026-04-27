@@ -1,0 +1,18 @@
+{
+  "id": "src-266",
+  "title": "Mitochondrial Dysfunction and Oxidative Stress in Rheumatoid Arthritis",
+  "authors": [
+    "López-Armada, M.J.",
+    "Fernández-Rodríguez, Jennifer Adriana",
+    "Blanco, Francisco J."
+  ],
+  "doi": "10.3390/antiox11061151",
+  "url": "https://openalex.org/W4281744141",
+  "provider": "openalex",
+  "year": 2022,
+  "venue": "Antioxidants",
+  "citation_count": 88,
+  "abstract": "Control of excessive mitochondrial oxidative stress could provide new targets for both preventive and therapeutic interventions in the treatment of chronic inflammation or any pathology that develops under an inflammatory scenario, such as rheumatoid arthritis (RA). Increasing evidence has demonstrated the role of mitochondrial alterations in autoimmune diseases mainly due to the interplay between metabolism and innate immunity, but also in the modulation of inflammatory response of resident cells, such as synoviocytes. Thus, mitochondrial dysfunction derived from several danger signals could activate tricarboxylic acid (TCA) disruption, thereby favoring a vicious cycle of oxidative/mitochondrial stress. Mitochondrial dysfunction can act through modulating innate immunity via redox-sensitive inflammatory pathways or direct activation of the inflammasome. Besides, mitochondria also have a central role in regulating cell death, which is deeply altered in RA. Additionally, multiple evidence suggests that pathological processes in RA can be shaped by epigenetic mechanisms and that in turn, mitochondria are involved in epigenetic regulation. Finally, we will discuss about the involvement of some dietary components in the onset and progression of RA.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2076-3921/11/6/1151/pdf?version=1655284859"
+}

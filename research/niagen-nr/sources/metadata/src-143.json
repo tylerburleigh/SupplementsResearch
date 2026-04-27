@@ -1,0 +1,18 @@
+{
+  "id": "src-143",
+  "title": "Defining NAD(P)(H) Catabolism.",
+  "authors": [
+    "Dhuguru, Jyothi",
+    "Dellinger, Ryan W",
+    "Migaud, Marie E"
+  ],
+  "doi": "10.3390/nu15133064",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37447389",
+  "provider": "pubmed",
+  "year": 2023,
+  "venue": "Nutrients",
+  "citation_count": 0,
+  "abstract": "Dietary vitamin B3 components, such as nicotinamide and nicotinic acid, are precursors to the ubiquitous redox cofactor nicotinamide adenine dinucleotide (NAD+). NAD+ levels are thought to decline with age and disease. While the drivers of this decline remain under intense investigation, strategies have emerged seeking to functionally maintain NAD+ levels through supplementation with NAD+ biosynthetic intermediates. These include marketed products, such as nicotinamide riboside (NR) and its phosphorylated form (NMN). More recent developments have shown that NRH (the reduced form of NR) and its phosphorylated form NMNH also increases NAD+ levels upon administration, although they initially generate NADH (the reduced form of NAD+). Other means to increase the combined levels of NAD+ and NADH, NAD(H), include the inhibition of NAD+-consuming enzymes or activation of biosynthetic pathways. Multiple studies have shown that supplementation with an NAD(H) precursor changes the profile of NAD(H) catabolism. Yet, the pharmacological significance of NAD(H) catabolites is rarely considered although the distribution and abundance of these catabolites differ depending on the NAD(H) precursor used, the species in which the study is conducted, and the tissues used for the quantification. Significantly, some of these metabolites have emerged as biomarkers in physiological disorders and might not be innocuous. Herein, we review the known and emerging catabolites of the NAD(H) metabolome and highlight their biochemical and physiological function as well as key chemical and biochemical reactions leading to their formation. Furthermore, we emphasize the need for analytical methods that inform on the full NAD(H) metabolome since the relative abundance of NAD(H) catabolites informs how NAD(H) precursors are used, recycled, and eliminated.",
+  "type": "academic",
+  "pdf_url": ""
+}

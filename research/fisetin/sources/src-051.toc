@@ -1,0 +1,107 @@
+16	2	Abstract
+32	2	Introduction
+490	2	Conclusions
+536	2	Conflicts Of Interest
+538	2	References
+539	2	1. Martel J, Ojcius DM, Wu CY , Peng HH, V oisin L, Perfettini
+544	2	2. Childs BG, Gluscevic M, Baker DJ, Laberge RM,
+557	2	5. Yousefzadeh MJ, Zhu Y , McGowan SJ, Angelini L,
+563	2	6. Xu M, Pirtskhalava T, Farr JN, Weigand BM, Palmer
+576	2	9. Hickson LJ, Langhi Prata LGP, Bobart SA, Evans TK,
+589	2	12. Druker BJ, Tamura S, Buchdunger E, Ohno S, Segal GM,
+597	2	14. Blagosklonny MV , Fojo T, Bhalla KN, Kim JS, Trepel
+605	2	16. Amarante-Mendes GP, Naekyung Kim C, Liu L, Huang
+611	2	17. Demidenko ZN, An WG, Lee JT, Romanova LY , McCubrey
+616	2	18. Carter BZ, Mak PY , Mu H, Zhou H, Mak DH, Schober
+630	2	21. Hartwell LH, Szankasi P, Roberts CJ, Murray AW, Friend
+650	2	25. Lafontaine J, Cardin GB, Malaquin N, Boisvert JS, Rodier
+684	2	34. Demidenko ZN, Zubova SG, Bukreeva EI, Pospelov V A,
+694	2	36. Rodgers JT, King KY , Brett JO, Cromie MJ, Charville
+715	2	40. Chen C, Liu Y , Liu R, Ikenoue T, Guan KL, Liu Y , Zheng
+750	2	47. Dimri GP, Lee X, Basile G, Acosta M, Scott G, Roskelley
+760	2	49. Lee BY , Han JA, Im JS, Morrone A, Johung K, Goodwin
+782	2	54. Ezcurra M, Benedetto A, Sornda T, Gilliat AF, Au C, Zhang
+793	2	56. Wang H, Zhao Y , Ezcurra M, Benedetto A, Gilliat AF,
+817	2	62. An S, Cho SY , Kang J, Lee S, Kim HS, Min DJ, Son E,
+823	2	63. Wiley CD, Schaum N, Alimirah F, Lopez-Dominguez JA,
+829	2	64. Demidenko ZN, Korotchkina LG, Gudkov A V , Blagosklonny
+833	2	65. Leontieva OV , Natarajan V , Demidenko ZN, Burdelya
+845	2	68. Wu JJ, Liu J, Chen EB, Wang JJ, Cao L, Narayan N,
+851	2	69. Dominick G, Berryman DE, List EO, Kopchick JJ, Li
+868	2	72. Laberge RM, Sun Y , Orjalo A V , Patil CK, Freund A, Zhou
+874	2	73. Antonioli E, Torres N, Ferretti M, Piccinato CA, Sertie
+884	2	75. Herranz N, Gallage S, Mellone M, Wuestefeld T, Klotz
+890	2	76. Gu Z, Tan W, Ji J, Feng G, Meng Y , Da Z, Guo G, Xia
+898	2	77. Hinojosa CA, Mgbemena V , Van Roekel S, Austad
+912	2	80. Houssaini A, Breau M, Kebe K, Abid S, Marcos E, Lipskaia
+918	2	81. Iglesias-Bartolome R, Patel V , Cotrim A, Leelahavanichkul
+923	2	82. Mercier I, Camacho J, Titchen K, Gonzales DM, Quann
+931	2	83. Tomczyk S, Suknovic N, Schenkelaars Q, Wenger Y ,
+937	2	84. Robida-Stubbs S, Glover-Cutter K, Lamming DW,
+943	2	85. Bjedov I, Toivonen JM, Kerr F, Slack C, Jacobson J,
+952	2	87. Harrison DE, Strong R, Sharp ZD, Nelson JF, Astle CM,
+958	2	88. Anisimov VN, Zabezhinski MA, Popovich IG, Piskunova
+964	2	89. Anisimov VN, Zabezhinski MA, Popovich IG, Piskunova
+974	2	90. Miller RA, Harrison DE, Astle CM, Baur JA, Boyd AR,
+981	2	91. Comas M, Toshkov I, Kuropatwinski KK, Chernova
+987	2	92. Komarova EA, Antoch MP, Novototskaya LR, Chernova
+993	2	93. Ramos FJ, Chen SC, Garelick MG, Dai DF, Liao CY ,
+1001	2	94. Wilkinson JE, Burmeister L, Brooks SV , Chan CC, Friedline
+1006	2	95. Fang Y , Westbrook R, Hill C, Boparai RK, Arum O,
+1017	2	97. Johnson SC, Yanos ME, Kayser EB, Quintana A,
+1023	2	98. Livi CB, Hardman RL, Christy BA, Dodds SG, Jones
+1035	2	100. Ye L, Widlund AL, Sims CA, Lamming DW, Guan Y ,
+1041	2	101. Fok WC, Chen Y , Bokov A, Zhang Y , Salmon AB, Diaz
+1047	2	102. Hasty P, Livi CB, Dodds SG, Jones D, Strong R, Javors
+1053	2	103. Khapre RV , Kondratova AA, Patel S, Dubrovsky Y ,
+1063	2	105. Miller RA, Harrison DE, Astle CM, Fernandez E, Flurkey
+1070	2	106. Popovich IG, Anisimov VN, Zabezhinski MA,
+1076	2	107. Zhang Y , Bokov A, Gelfond J, Soto V , Ikeno Y , Hubbard
+1082	2	108. Hurez V , Dao V , Liu A, Pandeswara S, Gelfond J, Sun L,
+1093	2	109. Johnson SC, Yanos ME, Bitto A, Castanza A, Gagnidze
+1099	2	110. Karunadharma PP, Basisty N, Dai DF, Chiao YA, Quarles
+1106	2	111. Arriola Apelo SI, Pumper CP, Baar EL, Cummings NE,
+1111	2	112. Bitto A, Ito TK, Pineda VV , LeTexier NJ, Huang HZ, Sutlief
+1116	2	113. Liao CY , Anderson SS, Chicoine NH, Mayfield JR,
+1123	2	114. Felici R, Buonvicino D, Muzzi M, Cavone L, Guasti D,
+1129	2	115. Siegmund SE, Yang H, Sharma R, Javors M, Skinner O,
+1134	2	116. Wang T, Tsui B, Kreisberg JF, Robertson NA, Gross AM,
+1140	2	117. Bielas J, Herbst A, Widjaja K, Hui J, Aiken JM, McKenzie
+1150	2	119. Ferrara-Romeo I, Martinez P, Saraswati S, Whittemore K,
+1156	2	120. Parihar M, Dodds SG, Hubbard G, Javors MA, Strong
+1161	2	121. Strong R, Miller RA, Bogue M, Fernandez E, Javors
+1167	2	122. Chamcheu JC, Esnault S, Adhami VM, Noll AL, Banang-
+1195	2	127. Sun X, Ma X, Li Q, Yang Y , Xu X, Sun J, Yu M, Cao K,
+1210	2	129. Syed DN, Chamcheu JC, Khan MI, Sechi M, Lall RK,
+1220	2	131. Dong B, Liu C, Xue R, Wang Y , Sun Y , Liang Z, Fan W,
+1225	2	132. He L, Zhang N, Wang L, Du L, Li C, Li Y , Li X, Zhu X, Lu
+1235	2	134. Xiao Y , Zhou L, Zhang T, Qin C, Wei P, Luo L, Luo L,
+1240	2	135. Wang R, Qiu Z, Wang G, Hu Q, Shi N, Zhang Z, Wu Y ,
+1247	2	136. Rivera Rivera A, Castillo-Pichardo L, Gerena Y ,
+1252	2	137. Li X, Zhou N, Wang J, Liu Z, Wang X, Zhang Q, Liu Q,
+1262	2	139. Granato M, Rizzello C, Gilardini Montani MS, Cuomo L,
+1269	2	140. Huang Y , Chen Y , Shaw AM, Goldfine H, Tian J, Cai
+1279	2	142. Pratheeshkumar P, Budhraja A, Son YO, Wang X, Zhang
+1286	2	143. Lu Q, Ji XJ, Zhou YX, Yao XQ, Liu YQ, Zhang F, Yin
+1292	2	144. Boly R, Gras T, Lamkami T, Guissou P, Serteyn D, Kiss
+1302	2	146. Guignabert C, Phan C, Seferian A, Huertas A, Tu L, Thuillet
+1308	2	147. Caocci G, Mulas O, Annunziata M, Luciano L, Abruzzese
+1324	2	149. Justice JN, Nambiar AM, Tchkonia T, LeBrasseur
+1331	2	150. Kovacovicova K, Skolnaja M, Heinmaa M, Mistrik M,
+1337	2	151. Raffaele M, Kovacovicova K, Frohlich J, Lo Re O,
+1348	2	153. Singh M, Jensen MD, Lerman A, Kushwaha S, Rihal CS,
+1355	2	154. Burcombe R, Wilson GD, Dowsett M, Khan I, Richman
+1361	2	155. Symmans WF, V olm MD, Shapiro RL, Perkins AB, Kim
+1377	2	158. Chiao YA, Kolwicz SC, Basisty N, Gagnidze A, Zhang
+1383	2	159. Bhatt KH, Rudraraju R, Brooks JF, Jung JW, Galea R,
+1393	2	161. Hebert M, Licursi M, Jensen B, Baker A, Milway S,
+1399	2	162. Dou X, Sun Y , Li J, Zhang J, Hao D, Liu W, Wu R, Kong
+1404	2	163. Frescas D, Hall BM, Strom E, Virtuoso LP, Gupta M,
+1411	2	164. Hall BM, Balan V , Gleiberman AS, Strom E, Krasnov
+1419	2	165. Hall BM, Balan V , Gleiberman AS, Strom E, Krasnov
+1430	2	166. Liu JY , Souroullas GP, Diekman BO, Krishnamurthy J,
+1446	2	169. Grosse L, Wagner N, Emelyanov A, Molina C, Lacas-
+1451	2	170. Miklja Z, Yadav VN, Cartaxo RT, Siada R, Thomas CC,
+1462	2	172. Kochetkova EY , Blinova GI, Bystrova OA, Martynova
+1467	2	173. Kochetkova EY , Blinova GI, Bystrova OA, Martynova
+1474	2	174. Roos CM, Zhang B, Palmer AK, Ogrodnik MB,

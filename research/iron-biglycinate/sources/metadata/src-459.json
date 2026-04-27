@@ -1,0 +1,27 @@
+{
+  "id": "src-459",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "",
+  "pdf_url": "https://ecronicon.net/assets/ecprm/pdf/ECPRM-14-01090.pdf",
+  "venue": "",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "",
+  "fetched_at": "2026-04-21T18:18:40.777211+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-459.md",
+  "quality_details": {
+    "content_length": 10176,
+    "alpha_ratio": 0.813,
+    "sentence_count": 76,
+    "reasons": []
+  }
+}

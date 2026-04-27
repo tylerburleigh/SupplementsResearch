@@ -1,0 +1,19 @@
+{
+  "id": "src-205",
+  "title": "Differential Gene Expression in Colon Tissue Associated With Diet, Lifestyle, and Related Oxidative Stress",
+  "authors": [
+    "Slattery, Martha L.",
+    "Pellatt, Daniel F.",
+    "Mullany, Lila E.",
+    "Wolff, Roger K."
+  ],
+  "doi": "10.1371/journal.pone.0134406",
+  "url": "https://openalex.org/W1775209712",
+  "provider": "openalex",
+  "year": 2015,
+  "venue": "PLoS ONE",
+  "citation_count": 36,
+  "abstract": "Several diet and lifestyle factors may impact health by influencing oxidative stress levels. We hypothesize that level of cigarette smoking, alcohol, anti-inflammatory drugs, and diet alter gene expression. We analyzed RNA-seq data from 144 colon cancer patients who had information on recent cigarette smoking, recent alcohol consumption, diet, and recent aspirin/non-steroidal anti-inflammatory use. Using a false discovery rate of 0.1, we evaluated gene differential expression between high and low levels of exposure using DESeq2. Ingenuity Pathway Analysis (IPA) was used to determine networks associated with de-regulated genes in our data. We identified 46 deregulated genes associated with recent cigarette use; these genes enriched causal networks regulated by TEK and MAP2K3. Different differentially expressed genes were associated with type of alcohol intake; five genes were associated with total alcohol, six were associated with beer intake, six were associated with wine intake, and four were associated with liquor consumption. Recent use of aspirin and/or ibuprofen was associated with differential expression of TMC06, ST8SIA4, and STEAP3 while a summary oxidative balance score (OBS) was associated with SYCP3, HDX, and NRG4 (all up-regulated with greater oxidative balance). Of the dietary antioxidants and carotenoids evaluated only intake of beta carotene (1 gene), Lutein/Zeaxanthine (5 genes), and Vitamin E (4 genes) were associated with differential gene expression. There were similarities in biological function of de-regulated genes associated with various dietary and lifestyle factors. Our data support the hypothesis that diet and lifestyle factors associated with oxidative stress can alter gene expression. However genes altered were unique to type of alcohol and type of antioxidant. Because of potential differences in associations observed between platforms these findings need replication in other populations.",
+  "type": "academic",
+  "pdf_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0134406&type=printable"
+}

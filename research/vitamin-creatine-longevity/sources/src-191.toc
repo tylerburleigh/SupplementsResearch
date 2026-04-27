@@ -1,0 +1,14 @@
+23	2	Article Title
+26	2	Review
+31	2	License
+47	2	The Impact Of Creatine Supplementation On
+48	2	Health And Performance In Physically Active
+106	2	Abstract
+121	2	Keywords
+123	2	Citation
+128	2	Copyright
+135	2	Introduction
+183	2	Methodology
+403	2	Discussion
+463	2	Conclusions
+480	2	References

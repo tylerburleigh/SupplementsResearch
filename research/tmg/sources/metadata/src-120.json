@@ -1,0 +1,26 @@
+{
+  "id": "src-120",
+  "title": "Dietary folate and related micronutrients, folate-metabolising genes, and ovarian cancer survival.",
+  "authors": [
+    "Dixon, S C",
+    "Ibiebele, T I",
+    "Protani, M M",
+    "Beesley, J",
+    "deFazio, A",
+    "Crandon, A J",
+    "Gard, G B",
+    "Rome, R M",
+    "Webb, P M",
+    "Nagle, C M",
+    "Group, Australian Ovarian Cancer Study"
+  ],
+  "doi": "10.1016/j.ygyno.2013.12.025",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/24368279",
+  "provider": "pubmed",
+  "year": 2014,
+  "venue": "Gynecologic oncology",
+  "citation_count": 0,
+  "abstract": "OBJECTIVE: Folate is essential for DNA synthesis and methylation and is implicated in tumour progression. Few studies have examined its role in ovarian cancer survival. Our objective was to determine relationships between intake of folate, related one-carbon nutrients, single nucleotide polymorphisms (SNPs) in folate-metabolising genes and survival following ovarian cancer diagnosis.\nMETHODS: This analysis included 1270 women with invasive epithelial ovarian cancer diagnosed in 2002-2006. Pre-diagnostic and some post-diagnostic lifestyle, dietary, and sociodemographic information was collected via self-administered questionnaires. DNA samples were genotyped for SNPs in methylenetetrahydrofolate reductase (MTHFR), methionine synthase (MTR) and methionine synthase reductase (MTRR) genes. Adjusted hazard ratios (HRs) and 95% confidence intervals (CIs) were calculated using Cox regression.\nRESULTS: Multivariate analyses did not identify associations between higher pre-diagnostic intake of folate, folic acid, vitamins B2, B6, and B12, methionine, betaine or choline and survival overall. In stratified analyses, higher folic acid and folate intake was associated with significantly worse survival among women with mucinous tumours (HRs per 100 μg 1.30 and 1.43, respectively) and smokers (HRs per 100 μg 1.23 and 1.16 respectively). There was also a suggestion that higher supplemental folic acid use post-diagnosis was associated with worse survival (HR per 100 μg 1.03, 95%CI 1.00-1.05). MTHFR SNP rs2066470 was significantly associated with survival (per allele HR 0.81, 95%CI 0.67-0.98).\nCONCLUSIONS: Our data provide little evidence that folate intake affects ovarian cancer survival. However, combined effects with smoking, and findings within the mucinous subtype and for post-diagnosis folic acid, warrant further investigation.",
+  "type": "academic",
+  "pdf_url": ""
+}

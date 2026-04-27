@@ -1,0 +1,16 @@
+{
+  "id": "src-169",
+  "title": "Anti-aging: senolytics or gerostatics (unconventional view)",
+  "authors": [
+    "Blagosklonny, M. V."
+  ],
+  "doi": "10.18632/oncotarget.28049",
+  "url": "https://www.semanticscholar.org/paper/01186f6a82cd99dc1c7c483a88152dc37e5a7706",
+  "provider": "semantic_scholar",
+  "year": 2021,
+  "venue": "OncoTarget",
+  "citation_count": 32,
+  "abstract": "Senolytics are basically anti-cancer drugs, repurposed to kill senescent cells selectively. It is even more difficult to selectively kill senescent cells than to kill cancer cells. Based on lessons of cancer therapy, here I suggest how to exploit oncogene-addiction and to combine drugs to achieve selectivity. However, even if selective senolytic combinations will be developed, there is little evidence that a few senescent cells are responsible for organismal aging. I also discuss gerostatics, such as rapamycin and other rapalogs, pan-mTOR inhibitors, dual PI3K/mTOR inhibitors, which inhibit growth- and aging-promoting pathways. Unlike senolytics, gerostatics do not kill cells but slow down cellular geroconversion to senescence. Numerous studies demonstrated that inhibition of the mTOR pathways by any means (genetic, pharmacological and dietary) extends lifespan. Currently, only two studies demonstrated that senolytics (fisetin and a combination Dasatinib plus Quercetin) extend lifespan in mice. These senolytics slightly inhibit the mTOR pathway. Thus, life extension by these senolytics can be explained by their slight rapamycin-like (gerostatic) effects.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.18632/oncotarget.28049"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "src-177",
+  "title": "Senescent cell heterogeneity and responses to senolytic treatment are related to cell cycle status during senescence induction",
+  "authors": [
+    "Neri, Francesco",
+    "Zheng, Shuyuan",
+    "Watson, Mark",
+    "Desprez, P.",
+    "Gerencser, A.",
+    "Campisi, Judith",
+    "Wirtz, Denis",
+    "Wu, Pei-Hsun",
+    "Schilling, Birgit"
+  ],
+  "doi": "10.18632/aging.206299",
+  "url": "https://www.semanticscholar.org/paper/6012e598f7ef178b8fcb5fea72ea8d37eb96701a",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "Aging",
+  "citation_count": 1,
+  "abstract": "Cellular senescence has been strongly linked to aging and age-related diseases. It is well established that the phenotype of senescent cells is highly heterogeneous and influenced by their cell type and senescence-inducing stimulus. Recent single-cell RNA-sequencing studies identified heterogeneity within senescent cell populations. However, proof of functional differences between such subpopulations is lacking. To identify functionally distinct senescent cell subpopulations, we employed high-content image analysis to measure senescence marker expression in primary human endothelial cells and fibroblasts. We found that G2-arrested senescent cells feature higher senescence marker expression than G1-arrested senescent cells. To investigate functional differences, we compared IL-6 secretion and response to ABT263 senolytic treatment in G1 and G2 senescent cells. We determined that G2-arrested senescent cells secrete more IL-6 and are more sensitive to ABT263 than G1-arrested cells. We hypothesize that cell cycle dependent DNA content is a key contributor to the heterogeneity within senescent cell populations. This study demonstrates the existence of functionally distinct senescent subpopulations even in culture. This data provides the first evidence of selective cell response to senolytic treatment among senescent cell subpopulations. Overall, this study emphasizes the importance of considering the senescent cell heterogeneity in the development of future senolytic therapies.",
+  "type": "academic",
+  "pdf_url": ""
+}

@@ -1,0 +1,24 @@
+{
+  "id": "src-172",
+  "title": "Senescence‐Inducing Therapy Sequential NIR‐II Mild Photothermal/Senolytic Therapy of Triple Negative Breast Cancer",
+  "authors": [
+    "Yu, Liya",
+    "Kang, Yehui",
+    "Yu, Mengdie",
+    "Ding, Yuejia",
+    "Chen, Yang",
+    "Wu, Qingyuan",
+    "Cai, Yu",
+    "Liu, Huiyu",
+    "Lv, Zhen"
+  ],
+  "doi": "10.1002/advs.202507248",
+  "url": "https://www.semanticscholar.org/paper/fb02971725752f01e8a1e2f546299ff61ae0f7bd",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "Advancement of science",
+  "citation_count": 4,
+  "abstract": "Targeting the limited therapeutic options and frequent drug resistance in triple negative breast cancer (TNBC) remains a critical clinical challenge. Here, a novel sequential theranostic mild strategy leveraging cellular senescence to enhance mild photothermal therapy (PTT) and promote TNBC eradication is presented. Palbociclib, a clinically‐approved CDK4/6 inhibitor, is used to induce senescence in a murine TNBC model, resulting in both tumor growth arrest and increased heat sensitivity due to HSP70 downregulation. Capitalizing on this vulnerability, an NIR‐II theranostic nanoplatform (IQ NPs) composed of the photothermal agent IR1061 and the senolytic quercetin (Qu), fabricated via nanoprecipitation is developed. IQ NPs demonstrated enhanced mild PTT efficacy, further potentiated by Qu‐mediated HSP70 suppression and augmented senolysis. This findings highlight the potential of exploiting senescence‐inducing vulnerabilities to amplify mild PTT efficacy, providing a promising new therapeutic avenue for this aggressive and recalcitrant malignancy.",
+  "type": "academic",
+  "pdf_url": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "src-098",
+  "title": "Lipid-Based Nanoparticles: Application and Recent Advances in Cancer Treatment",
+  "authors": [
+    "García-Pinel, Beatriz",
+    "Porras-Alcalá, Cristina",
+    "Ortega-Rodríguez, Alicia",
+    "Sarabia, Francisco",
+    "Prados, José",
+    "Melguizo, Consolación",
+    "López‐Romero, Juan Manuel"
+  ],
+  "doi": "10.3390/nano9040638",
+  "url": "https://openalex.org/W2936858823",
+  "provider": "openalex",
+  "year": 2019,
+  "venue": "Nanomaterials",
+  "citation_count": 506,
+  "abstract": "Many therapeutically active molecules are non-soluble in aqueous systems, chemically and biologically fragile or present severe side effects. Lipid-based nanoparticle (LBNP) systems represent one of the most promising colloidal carriers for bioactive organic molecules. Their current application in oncology has revolutionized cancer treatment by improving the antitumor activity of several chemotherapeutic agents. LBNPs advantages include high temporal and thermal stability, high loading capacity, ease of preparation, low production costs, and large-scale industrial production since they can be prepared from natural sources. Moreover, the association of chemotherapeutic agents with lipid nanoparticles reduces active therapeutic dose and toxicity, decreases drug resistance and increases drug levels in tumor tissue by decreasing them in healthy tissue. LBNPs have been extensively assayed in in vitro cancer therapy but also in vivo, with promising results in some clinical trials. This review summarizes the types of LBNPs that have been developed in recent years and the main results when applied in cancer treatment, including essential assays in patients.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2079-4991/9/4/638/pdf?version=1555667576"
+}

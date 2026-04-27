@@ -1,0 +1,25 @@
+{
+  "id": "src-113",
+  "title": "Downregulated SPESP1-driven fibroblast senescence decreases wound healing in aged mice.",
+  "authors": [
+    "Zhong, Yun",
+    "Zhou, Lei",
+    "Guo, Yi",
+    "Wang, Fan",
+    "He, Fanping",
+    "Cheng, Yufan",
+    "Meng, Xin",
+    "Xie, Hongfu",
+    "Zhang, Yiya",
+    "Li, Ji"
+  ],
+  "doi": "10.1002/ctm2.1660",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38764260",
+  "provider": "pubmed",
+  "year": 2024,
+  "venue": "Clinical and translational medicine",
+  "citation_count": 0,
+  "abstract": "BACKGROUND: Human dermal fibroblasts (HDFs) are essential in the processes of skin ageing and wound healing. However, the underlying mechanism of HDFs in skin healing of the elderly has not been well defined. This study aims to elucidate the mechanisms of HDFs senescence and how senescent HDFs affect wound healing in aged skin.\nMETHODS: The expression and function of sperm equatorial segment protein 1 (SPESP1) in skin ageing were evaluated via in vivo and in vitro experiments. To delve into the potential molecular mechanisms by which SPESP1 influences skin ageing, a combination of techniques was employed, including proteomics, RNA sequencing, immunoprecipitation, chromatin immunoprecipitation and liquid chromatography-mass spectrometry analyses. Clearance of senescent cells by dasatinib plus quercetin (D+Q) was investigated to explore the role of SPESP1-induced senescent HDFs in wound healing.\nRESULTS: Here, we define the critical role of SPESP1 in ameliorating HDFs senescence and retarding the skin ageing process. Mechanistic studies demonstrate that SPESP1 directly binds to methyl-binding protein, leading to Decorin demethylation and subsequently upregulation of its expression. Moreover, SPESP1 knockdown delays wound healing in young mice and SPESP1 overexpression induces wound healing in old mice. Notably, pharmacogenetic clearance of senescent cells by D+Q improved wound healing in SPESP1 knockdown skin.\nCONCLUSIONS: Taken together, these findings reveal the critical role of SPESP1 in skin ageing and wound healing, expecting to facilitate the development of anti-ageing strategies and improve wound healing in the elderly.",
+  "type": "academic",
+  "pdf_url": ""
+}

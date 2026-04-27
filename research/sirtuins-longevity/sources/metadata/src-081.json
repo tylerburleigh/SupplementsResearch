@@ -1,0 +1,32 @@
+{
+  "id": "src-081",
+  "title": "Safety, clinical activity, pharmacodynamics, and pharmacokinetics of IMU-856, a SIRT6 modulator, in coeliac disease: a first-in-human, randomised, double-blind, placebo-controlled, phase 1 trial.",
+  "authors": [
+    "Daveson, A James M",
+    "Stubbs, Richard",
+    "Polasek, Thomas M",
+    "Isola, Jorma",
+    "Anderson, Robert",
+    "Tye-Din, Jason A",
+    "Schoeman, Mark",
+    "Lionnet, Claudette",
+    "Mei, Swee Lin Chen Yi",
+    "Mihajlović, Jelena",
+    "Wirth, Martina",
+    "Peelen, Evelyn",
+    "Schreieck, Amelie",
+    "Kohlhof, Hella",
+    "Vitt, Daniel",
+    "Muehler, Andreas",
+    "Buriánek, Franziska"
+  ],
+  "doi": "10.1016/s2468-1253(24)00248-6",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39521016",
+  "provider": "pubmed",
+  "year": 2025,
+  "venue": "The lancet. Gastroenterology & hepatology",
+  "citation_count": 0,
+  "abstract": "BACKGROUND: IMU-856 is an orally available and systemically acting small molecule modulator of sirtuin 6 (SIRT6), a protein that serves as a transcriptional regulator of bowel epithelium regeneration. We aimed to evaluate the safety, clinical activity, pharmacodynamics, and pharmacokinetics of IMU-856 in healthy participants and in patients with coeliac disease.\nMETHODS: This study reports the results from a completed first-in-human, three-part, double-blind, randomised, placebo-controlled, clinical trial of IMU-856 in healthy participants and patients with coeliac disease done in Australia and New Zealand. In part A, healthy participants were enrolled in six cohorts and randomly assigned (3:1) using a block randomisation algorithm to receive single ascending doses of IMU-856 ranging from 10 mg to 160 mg or matching placebo. Based on the results from part A, three doses were selected for part B to evaluate the safety, tolerability, and pharmacokinetics of IMU-856 once daily for 14 days using the same randomisation algorithm. Part C enrolled patients with well controlled coeliac disease. Participants were centrally randomised 1:1:1 using an interactive web response system to receive either low dose or high dose of IMU-856 or placebo once daily for 28 days that included a 15-day gluten challenge starting on day 14. The primary objective was safety and tolerability of IMU-856. Safety analyses were done on all patients who received at least one dose of the study drug. The trial is registered with the ANZCTR registry (ACTRN12620000901909).\nFINDINGS: Between July 27, 2020, and Oct 28, 2022, 71 healthy participants were enrolled in part A and B and assigned to either placebo (n=19) or IMU-856 (n=52). In part A and B, the IMU-856 doses were 10 mg (n=6), 20 mg (n=6), 40 mg (n=13), 80 mg (n=12), 120 mg (n=4), 160 mg (n=11). 43 patients with coeliac disease were enrolled in part C and assigned to either placebo (n=14), IMU-856 80 mg (n=14), or IMU-856 160 mg (n=15). Treatment-emergent adverse events (TEAEs) occurred in 24 (73%) of 33 participants in part A and 15 (79%) of 19 participants in part B receiving any dose of IMU-856 compared with six (50%) of 12 participants in part A and five (71%) of seven participants in part B with placebo. TEAEs were mainly mild in severity. In part C, TEAEs occured in 26 (90%) of 29 patients on any dose of IMU-856 and ten (71%) of 14 receiving placebo; the most common TEAEs with any dose of IMU-856 by preferred term were headache (13 [45%] of 29), nausea (nine [31%]), diarrhoea (eight [28%]), and abdominal distension (seven [24%]). Two serious adverse events occurred with IMU-856 treatment (one in part B [bacterial myocarditis] and one in part C [biliary colic]), both of which were unrelated to IMU-856. No dose-limiting toxicities, systematic safety laboratory changes, or deaths occurred during the study. In part C, mean decrease in villous height was -20·9 μm (SD 34·8) among patients who received IMU-856 80 mg, -22·5 μm (51·1) among those who received IMU-856 160 mg, and -60·3 μm (52·2) among those who received placebo.\nINTERPRETATION: The favourable safety profile, along with preliminary activity, suggests that IMU-856 should be studied in future trials of coeliac disease.\nFUNDING: Immunic Australia.",
+  "type": "academic",
+  "pdf_url": ""
+}

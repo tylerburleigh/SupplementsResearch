@@ -1,0 +1,23 @@
+10	2	Abstract
+450	2	Participants
+795	2	Measures
+891	2	Aut
+892	2	Rat
+893	2	Cat
+899	2	Summary
+905	2	Modtas
+912	2	Pss
+980	2	Discussion
+1125	2	Competing Interests
+1141	2	References
+1146	2	2. Anderson T, Petranker R, Christopher A, Rosenbaum D, Weissman C, Dinh-
+1150	2	3. Griffiths RR, Johnson MW, Carducci MA, Umbricht A, Richards WA, Richards
+1173	2	8. Family N, Maillet EL, Williams LTJ, Krediet E, Carhart-Harris RL, Williams TM,
+1185	2	11. Hutten NRPW, Mason NL, Dolder PC, Theunissen EL, Holze F, Liechti ME,
+1193	2	13. Kaertner LS, Steinborn MB, Kettner H, Spriggs MJ, Roseman L, Buchborn T,
+1230	2	25. Carhart-Harris RL, Muthukumaraswamy S, Roseman L, Kaelen M, Droog W,
+1234	2	26. Carhart-Harris RL, Kaelen M, Bolstridge M, Williams TM, Williams LT, Underwood R,
+1262	2	36. Anderson T, Petranker R, Rosenbaum D, Weissman C, Dinh-Williams L-A, Hui
+1296	2	45. Spriggs MJ, Thompson CS, Moreau D, McNair NA, Wu CC, Lamb YN, McKay
+1303	2	46. Spriggs MJ, Sumner RL, McMillan RL, Moran RJ, Kirk IJ, Muthukumaraswamy
+1315	2	49. Rosenbaum D, Weissman C, Anderson T, Petranker R, Dinh-Williams L-A, Hui

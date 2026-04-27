@@ -1,0 +1,19 @@
+{
+  "id": "src-201",
+  "title": "Established and emerging therapeutic uses of PDE type 5 inhibitors in cardiovascular disease",
+  "authors": [
+    "Tzoumas, Nikolaos",
+    "Farrah, Tariq E.",
+    "Dhaun, Neeraj",
+    "Webb, David J."
+  ],
+  "doi": "10.1111/bph.14920",
+  "url": "https://openalex.org/W2984757057",
+  "provider": "openalex",
+  "year": 2019,
+  "venue": "British Journal of Pharmacology",
+  "citation_count": 109,
+  "abstract": "PDE type 5 inhibitors (PDE5Is), such as sildenafil, tadalafil and vardenafil, are a class of drugs used to prolong the physiological effects of NO/cGMP signalling in tissues through the inhibition of cGMP degradation. Although these agents were originally developed for the treatment of hypertension and angina, unanticipated side effects led to advances in the treatment of erectile dysfunction and, later, pulmonary arterial hypertension. In the last decade, accumulating evidence suggests that PDE5Is may confer a wider range of clinical benefits than was previously recognised. This has led to a broader interest in the cardiovascular therapeutic potential of PDE5Is, in conditions such as hypertension, myocardial infarction, stroke, peripheral arterial disease, chronic kidney disease and diabetes mellitus. Here, we review the pharmacological properties and established licensed uses of this class of drug, along with emerging therapeutic developments and possible future indications.",
+  "type": "academic",
+  "pdf_url": "https://bpspubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1111/bph.14920"
+}

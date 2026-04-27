@@ -1,0 +1,29 @@
+{
+  "id": "src-086",
+  "title": "Evaluating the effect of rapamycin treatment in Alzheimer's disease and aging using in vivo imaging: the ERAP phase IIa clinical study protocol.",
+  "authors": [
+    "Svensson, Jonas E",
+    "Bolin, Martin",
+    "Thor, Daniel",
+    "Williams, Pete A",
+    "Brautaset, Rune",
+    "Carlsson, Marcus",
+    "Sörensson, Peder",
+    "Marlevi, David",
+    "Spin-Neto, Rubens",
+    "Probst, Monika",
+    "Hagman, Göran",
+    "Morén, Anton Forsberg",
+    "Kivipelto, Miia",
+    "Plavén-Sigray, Pontus"
+  ],
+  "doi": "10.1186/s12883-024-03596-1",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38575854",
+  "provider": "pubmed",
+  "year": 2024,
+  "venue": "BMC neurology",
+  "citation_count": 0,
+  "abstract": "BACKGROUND: Rapamycin is an inhibitor of the mechanistic target of rapamycin (mTOR) protein kinase, and preclinical data demonstrate that it is a promising candidate for a general gero- and neuroprotective treatment in humans. Results from mouse models of Alzheimer's disease have shown beneficial effects of rapamycin, including preventing or reversing cognitive deficits, reducing amyloid oligomers and tauopathies and normalizing synaptic plasticity and cerebral glucose uptake. The \"Evaluating Rapamycin Treatment in Alzheimer's Disease using Positron Emission Tomography\" (ERAP) trial aims to test if these results translate to humans through evaluating the change in cerebral glucose uptake following six months of rapamycin treatment in participants with early-stage Alzheimer's disease.\nMETHODS: ERAP is a six-month-long, single-arm, open-label, phase IIa biomarker-driven study evaluating if the drug rapamycin can be repurposed to treat Alzheimer's disease. Fifteen patients will be included and treated with a weekly dose of 7 mg rapamycin for six months. The primary endpoint will be change in cerebral glucose uptake, measured using [18F]FDG positron emission tomography. Secondary endpoints include changes in cognitive measures, markers in cerebrospinal fluid as well as cerebral blood flow measured using magnetic resonance imaging. As exploratory outcomes, the study will assess change in multiple age-related pathological processes, such as periodontal inflammation, retinal degeneration, bone mineral density loss, atherosclerosis and decreased cardiac function.\nDISCUSSION: The ERAP study is a clinical trial using in vivo imaging biomarkers to assess the repurposing of rapamycin for the treatment of Alzheimer's disease. If successful, the study would provide a strong rationale for large-scale evaluation of mTOR-inhibitors as a potential disease-modifying treatment in Alzheimer's disease.\nTRIAL REGISTRATION: ClinicalTrials.gov ID NCT06022068, date of registration 2023-08-30.",
+  "type": "academic",
+  "pdf_url": ""
+}

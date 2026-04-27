@@ -1,0 +1,44 @@
+{
+  "id": "src-096",
+  "title": "Neuroprotection and metabolism: the role of adipokines in the pathogenesis and therapy of epilepsy",
+  "authors": [
+    "Galimov, Ayrat R.",
+    "Tai Le, Chi",
+    "Abduragimov, Abduragim M.",
+    "Usov, Vladislav Yu.",
+    "Mikheeva, Anastasia A.",
+    "Nesterenok, Alexey Yu.",
+    "Polysaev, Alexander E.",
+    "Вelyaeva, Yulia I.",
+    "Chambel-Pashaeva, Ayshe R.",
+    "Koneva, Anastasia D.",
+    "Lutsenko, Svetlana Yu.",
+    "Mkrtchyan, Meri G.",
+    "Maslyanikova, Anastasia A.",
+    "Oflidi, Nikolai A."
+  ],
+  "year": 2025,
+  "abstract": "Epilepsy remains one of the most widespread and socially significant chronic neurological diseases requiring the search for new therapeutic approaches. In recent years, more and more attention has been paid to the role of adipokines, biologically active substances synthesized by adipose tissue, in the pathogenesis of epilepsy. Adipokines such as leptin, apelin, adiponectin, visfatin, and vaspin exhibit neuroprotective, anti-inflammatory, and metabolically regulating properties. Experimental models have shown their ability to reduce levels of pro-inflammatory cytokines, suppress oxidative stress, stabilize neuronal activity, and influence the permeability of the blood-brain barrier. In addition, the ketogenic diet, as a non-drug treatment for pharmacoresistant epilepsy, also changes the levels of certain adipokines, which confirms their involvement in the regulation of seizure activity. Despite the accumulated data, additional clinical and preclinical studies are required to better understand the mechanisms of action of adipokines and their therapeutic potential. The inclusion of these molecules in treatment regimens may contribute to the development of new personalized strategies to control epilepsy and improve patients' quality of life.",
+  "doi": "10.47407/kr2025.6.06.00p4529",
+  "url": "https://doi.org/10.47407/kr2025.6.06.00p4529",
+  "pdf_url": "",
+  "venue": "Clinical review for general practice",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T13:50:49.942240+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-096.md",
+  "quality_details": {
+    "content_length": 15346,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

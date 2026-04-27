@@ -1,0 +1,34 @@
+{
+  "id": "src-195",
+  "title": "Effects of Taurine Supplementation on Neuronal Excitability and Glucose Homeostasis",
+  "authors": [
+    "El Idrissi, Abdeslem",
+    "El Hilali, Fatiha",
+    "Rotondo, Salvatore",
+    "Sidime, Francoise"
+  ],
+  "year": 2017,
+  "abstract": "",
+  "doi": "10.1007/978-94-024-1079-2_24",
+  "url": "https://doi.org/10.1007/978-94-024-1079-2_24",
+  "pdf_url": "",
+  "venue": "Advances in Experimental Medicine and Biology",
+  "citation_count": 12,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-19T12:04:58.542945+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-195.md",
+  "quality_details": {
+    "content_length": 10614,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

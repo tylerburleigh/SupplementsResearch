@@ -1,0 +1,42 @@
+{
+  "id": "src-091",
+  "title": "The flavonoid procyanidin C1 has senotherapeutic activity and\n            increases lifespan in mice",
+  "authors": [
+    "Xu, Qixia",
+    "Fu, Qiang",
+    "Li, Zi",
+    "Liu, Hanxin",
+    "Wang, Ying",
+    "Lin, Xu",
+    "He, Ruikun",
+    "Zhang, Xuguang",
+    "Ju, Zhenyu",
+    "Campisi, Judith",
+    "Kirkland, James L.",
+    "Sun, Yu"
+  ],
+  "year": 2021,
+  "abstract": "Abstract\nAgeing-associated functional decline of organs and increased risk for\nage-related chronic pathologies is driven in part by the accumulation of senescent\ncells, which develop the senescence-associated secretory phenotype (SASP). Here we\nshow that procyanidin C1 (PCC1), a polyphenolic component of grape seed extract\n(GSE), increases the healthspan and lifespan of mice through its action on senescent\ncells. By screening a library of natural products, we find that GSE, and PCC1 as one\nof its active components, have specific effects on senescent cells. At low\nconcentrations, PCC1 appears to inhibit SASP formation, whereas it selectively kills\nsenescent cells at higher concentrations, possibly by promoting production of\nreactive oxygen species and mitochondrial dysfunction. In rodent models, PCC1\ndepletes senescent cells in a treatment-damaged tumour microenvironment and enhances\ntherapeutic efficacy when co-administered with chemotherapy. Intermittent\nadministration of PCC1 to either irradiated, senescent cell-implanted or naturally\naged old mice alleviates physical dysfunction and prolongs survival. We identify\nPCC1 as a natural senotherapeutic agent with in vivo activity and high potential for\nfurther development as a clinical intervention to delay, alleviate or prevent\nage-related pathologies.",
+  "doi": "10.1038/s42255-021-00491-8",
+  "url": "https://doi.org/10.1038/s42255-021-00491-8",
+  "pdf_url": "",
+  "venue": "Nature Metabolism",
+  "citation_count": 283,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-24T12:55:53.444942+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-091.md",
+  "quality_details": {
+    "content_length": 137126,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "src-324",
+  "title": "Multiple Metabolites Derived from Mushrooms and Their Beneficial Effect on Alzheimer’s Diseases",
+  "authors": [
+    "Tong, Zijian",
+    "Chu, Guodong",
+    "Wan, Chenmeng",
+    "Wang, Qiaoyu",
+    "Yang, Jia‐Ling",
+    "Yang, Jia‐Ling",
+    "Meng, Zhaoli",
+    "Du, Linna",
+    "Yang, Jing",
+    "Yang, Jing",
+    "Ma, Hongxia"
+  ],
+  "doi": "10.3390/nu15122758",
+  "url": "https://openalex.org/W4380886440",
+  "provider": "openalex",
+  "year": 2023,
+  "venue": "Nutrients",
+  "citation_count": 29,
+  "abstract": "Mushrooms with edible and medicinal potential have received widespread attention because of their diverse biological functions, nutritional value, and delicious taste, which are closely related to their rich active components. To date, many bioactive substances have been identified and purified from mushrooms, including proteins, carbohydrates, phenols, and vitamins. More importantly, molecules derived from mushrooms show great potential to alleviate the pathological manifestations of Alzheimer's disease (AD), which seriously affects the health of elderly people. Compared with current therapeutic strategies aimed at symptomatic improvement, it is particularly important to identify natural products from resource-rich mushrooms that can modify the progression of AD. This review summarizes recent investigations of multiple constituents (carbohydrates, peptides, phenols, etc.) isolated from mushrooms to combat AD. In addition, the underlying molecular mechanisms of mushroom metabolites against AD are discussed. The various mechanisms involved in the antiAD activities of mushroom metabolites include antioxidant and anti-neuroinflammatory effects, apoptosis inhibition, and stimulation of neurite outgrowth, etc. This information will facilitate the application of mushroom-derived products in the treatment of AD. However, isolation of new metabolites from multiple types of mushrooms and further in vivo exploration of the molecular mechanisms underlying their antiAD effect are still required.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2072-6643/15/12/2758/pdf?version=1686819533"
+}

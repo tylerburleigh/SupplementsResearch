@@ -1,0 +1,16 @@
+{
+  "id": "src-267",
+  "title": "A probabilistic and context-dependent cell culture modelling framework for regulatory toxicology",
+  "authors": [
+    "Madorran, E."
+  ],
+  "doi": "10.3389/ftox.2026.1765753",
+  "url": "https://www.semanticscholar.org/paper/7bd99981fc304e47f9b1ff6ac1b99e6312664f32",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "Frontiers in Toxicology",
+  "citation_count": 0,
+  "abstract": "The persistent gap between preclinical findings and clinical outcomes highlights the limitations of current in vitro models in regulatory toxicology. While New Approach Methodologies (NAMs) promise mechanistic insight, reduced reliance on animal testing, and enhanced human relevance, their translational accuracy remains constrained by oversimplified assumptions. This manuscript identifies foundational aspects of human physiology—degeneracy, interconnected pathways, variability among individuals, biological rhythms, and context dependency—that are often underrepresented in existing systems. I propose reframing biological effects as probabilistic outcomes rather than deterministic events, recognizing that cells and organisms operate through overlapping networks where redundancy, variability, and timing shape the likelihood of specific responses. Building on this framework, I outline a probabilistic and context-dependent cell culture model that integrates viability, functional fidelity, pathway mapping, temporal resolution, and Bayesian inference. Translational relevance is further strengthened by anchoring in vitro measurements to clinically meaningful benchmarks, incorporating patient perspectives, and aligning with regulatory oversight. Although challenges remain—including replicating cell–cell communication, multi-organ synchronization, and harmonizing probabilistic outputs with deterministic regulatory frameworks—embedding these principles into NAMs offers a pathway to overcome the translational bottleneck. By embracing complexity rather than reducing it, NAMs can evolve into tools that are not only mechanistically informative but also predictive, acceptable, and implementable in real-world milieu, ultimately advancing safer and more ethical toxicological assessment.",
+  "type": "academic",
+  "pdf_url": ""
+}

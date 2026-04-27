@@ -1,0 +1,24 @@
+10	2	Abstract
+49	2	Background
+199	2	Methods
+320	2	Statistical Analysis
+326	2	Results
+482	2	Discussion
+618	2	Conclusions
+724	2	Competing Interests
+733	2	References
+734	2	1. Aung SK: The Clinical Use of Mushrooms from a Traditional Chinese Medical
+739	2	3. Yim M-H, Shin J-W, Son J-Y, Oh S-M, Han S-H, Cho J-H, Cho C-K, Yoo H-S,
+751	2	6. Chien CM, Cheng JL, Chang WT, Tien MH, Tsao CM, Chang YH, Chang HY,
+761	2	9. De Groote D, Zangerle PF, Gevaert Y, Fassotte MF, Beguin Y, Noizat-Pirenne
+784	2	16. Akihisa T, Nakamura Y, Tagata M, Tokuda H, Yasukaw, K, Uchiyama E, Kimura
+791	2	18. Durgo K, Koncar M, Komes D, Belscak-Cvitanovic A, Franekic J,
+801	2	21. Torkelson CJ, Sweet E, Martzen MR, Sasagawa M, Wenner CA, Gay J, Putiri A,
+849	2	38. Kasliwal RR, Bansal M, Gupta R, Shah S, Dani S, Oomman A, Pai V, Prasad
+859	2	41. Jensen GS, Redman KA, Benson KF, Carter SG, Mitzner MA, Reeves S,
+864	2	42. Jensen GS, Patterson KM, Barnes J, Schauss AG, Beaman R, Reeves SG,
+872	2	44. Moyad MA, Robinson LE, Kittelsrud JM, Reeves SG, Weaver SE, Guzman AI,
+876	2	45. Possemiers S, Pinheiro I, Verhelst A, Van den Abbeele P, Maignien L, Laukens D,
+884	2	47. Moretta A, Poggi A, Pende D, Tripodi G, Orengo AM, Pella N, Augugliaro R,
+913	2	55. Jensen GS, Redman KA, Benson KF, Carter SG, Mitzner MA, Reeves S,
+931	2	60. Benlahrech A, Donaghy H, Rozis G, Goodier M, Klavinskis L, Gotch F, Patterson

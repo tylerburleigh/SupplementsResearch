@@ -1,0 +1,29 @@
+{
+  "id": "src-014",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://flowblend.com/methylfolate-benefits-understanding-its-role",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-20T12:20:26.690891+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-014.md",
+  "quality_details": {
+    "content_length": 20504,
+    "alpha_ratio": 0.822,
+    "sentence_count": 206,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "src-038",
+  "title": "Effects of a feed supplement, containing undenatured type II collagen (UC II®) and Boswellia Serrata, in the management of mild/moderate mobility disorders in dogs: A randomized, double-blind, placebo controlled, cross-over study",
+  "authors": [
+    "Stabile, Marzia",
+    "Fracassi, Laura",
+    "Lacitignola, Luca",
+    "Garcia-Pedraza, Elena",
+    "Girelli, Chiara Roberta",
+    "Calculli, Crescenza",
+    "D’Uggento, Angela Maria",
+    "Ribecco, Nunziata",
+    "Crovace, Antonio",
+    "Fanizzi, Francesco Paolo",
+    "Staffieri, Francesco"
+  ],
+  "year": 2024,
+  "abstract": "This study was designed as a randomized, placebo-controlled, double-blinded, cross-over trial performed to investigate the effects of a dietary supplement containing undenatured type II collagen (UCII®) and Boswellia Serrata on mobility, pain and joint metabolism in mild moderate osteoarthritis (OA) in dogs. A total of 60 dogs with mobility problems were evaluated and enrolled in the study. Seventeen of these dogs with mild/moderate OA were randomized to receive the product A (UCII® + Boswellia Serrata supplement–UCII®-BW) or product B (Placebo -PL), 1 chew per day for 8 weeks by oral route, and repeated in a crossover design after 4 weeks of washout period. All the subjects had veterinary evaluations during the trial and owners were requested to fill out a questionnaire on mobility impairment using the Liverpool Osteoarthritis in dogs scale (L.O.A.D.) at each time of the study. Objective tools were used to assess mobility, activity, and pain. Metabolomic analysis was performed on synovial fluid of most affected joint at the beginning and the end of the study. The results proved that UCII®+Boswellia serrata supplemented group over a period of eight weeks results in an improvement of mobility impairment, already at 4 weeks of administration, according to the owner´s evaluation. In contrast, its absence increased the risk of OA crisis and decreased the pain threshold on the most affected joint. Furthermore, the synovial fluid metabolic profile showed moderate differences between the beginning and the end of the supplementation period, with a particular influence associated to the time of UCII®-BW administration.",
+  "doi": "10.1371/journal.pone.0305697",
+  "url": "https://doi.org/10.1371/journal.pone.0305697",
+  "pdf_url": "",
+  "venue": "PLOS ONE",
+  "citation_count": 3,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-19T13:41:42.982709+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-038.md",
+  "quality_details": {
+    "content_length": 60158,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

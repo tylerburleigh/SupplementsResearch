@@ -1,0 +1,18 @@
+{
+  "id": "src-330",
+  "title": "Vitamin D: Giveth to Those Who Needeth",
+  "authors": [
+    "Lips, Paul",
+    "Bilezikian, John P.",
+    "Bouillon, Roger"
+  ],
+  "doi": "10.1002/jbm4.10232",
+  "url": "https://openalex.org/W2971710829",
+  "provider": "openalex",
+  "year": 2019,
+  "venue": "JBMR Plus",
+  "citation_count": 30,
+  "abstract": "Severe vitamin D deficiency may cause rickets. While this point is not disputed, the use of vitamin D in the elderly to prevent fractures has been challenged recently by a meta-analysis of 81 RCTs, suggesting that the effects of vitamin D were trivial. As is true for any review of the literature, the interpretation of a meta-analysis can be confounded by the choice of publications to include or exclude. Indeed, the authors excluded RCTs with combined vitamin D and calcium supplementation, included futile studies of very short duration, or studies with high bolus doses known to transiently increase fracture risk. The best available data show that calcium and vitamin D supplementation of elderly subjects can decrease the risk of hip and other non-vertebral fractures, especially in institutionalized subjects or elderly subjects with poor calcium and vitamin D status. Vitamin D deficiency is associated with many chronic diseases. The VIDA and VITAL trials did not show a protective effect on cardiovascular diseases and cancer. The D2d study also did not influence the progress of prediabetes to diabetes. However, the baseline 25OHD concentrations of the majority of the participants of all these trials were essentially normal. Post-hoc analysis of these studies suggest some possibly beneficial health outcomes in vitamin D deficient subjects. A meta-analysis suggested that vitamin D could partly prevent upper respiratory infections. Mendelian randomization studies suggest a causal link between lifelong low vitamin D status and multiple sclerosis. A vitamin D supplement in pregnant women may decrease maternal morbidity and improve the health of their offspring. Better-designed studies are needed to answer all outstanding questions. However, based on all available data, it seems that correction of vitamin D and/or calcium deficiency of infants, pregnant women and elderly subjects can improve their health. © 2019 The Authors. <i>JBMR Plus</i> published by Wiley Periodicals, Inc. on behalf of American Society for Bone and Mineral Research.",
+  "type": "academic",
+  "pdf_url": "https://asbmr.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/jbm4.10232"
+}

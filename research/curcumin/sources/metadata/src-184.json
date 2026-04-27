@@ -1,0 +1,35 @@
+{
+  "id": "src-184",
+  "title": "Effects of curcumin and/or coenzyme Q10 supplementation on metabolic control in subjects with metabolic syndrome: a randomized clinical trial",
+  "authors": [
+    "Sangouni, Abbas Ali",
+    "Taghdir, Maryam",
+    "Mirahmadi, Javad",
+    "Sepandi, Mojtaba",
+    "Parastouei, Karim"
+  ],
+  "year": 2022,
+  "abstract": "Abstract\nBackground\nMetabolic syndrome (MetS) as a cluster of conditions including hyperlipidemia, hypertension, hyperglycemia, insulin resistance, and abdominal obesity is linked to cardiovascular diseases and type 2 diabetes. Evidence suggested that intake of curcumin and coenzyme Q10 may have therapeutic effects in the management of MetS.\n\nAims\nWe investigated the effects of curcumin and/or coenzyme Q10 supplementation on metabolic syndrome components including systolic blood pressure (SBP), diastolic blood pressure (DBP), waist circumference (WC), triglyceride (TG), high density lipoprotein-cholesterol (HDL-c) and fasting plasma glucose (FPG) as primary outcomes, and total cholesterol (TC), low density lipoprotein-cholesterol (LDL-c) and body mass index (BMI) as secondary outcomes in subjects with MetS.\n\nMethods\nIn this 2 × 2 factorial, randomized, double-blinded, placebo-controlled study, 88 subjects with MetS were randomly assigned into four groups including curcumin plus placebo (CP), or coenzyme Q10 plus placebo (QP), or curcumin plus coenzyme Q10 (CQ), or double placebo (DP) for 12 weeks.\n\nResults\nThe CP group compared with the three other groups showed a significant reduction in HDL-c (P = 0.001), TG (P &lt;  0.001), TC (P &lt;  0.001), and LDL-c (P &lt;  0.001). No significant differences were seen between the four groups in terms of SBP, DBP, FPG, WC, BMI and weight.\n\nConclusion\nCurcumin improved dyslipidemia, but had no effect on body composition, hypertension and glycemic control. Furthermore, coenzyme Q10 as well as the combination of curcumin and coenzyme Q10 showed no therapeutic effects in subjects with MetS. The trial was registered on 09/21/2018 at the Iranian clinical trials website (IRCT20180201038585N2), URL: https://www.irct.ir/trial/32518.",
+  "doi": "10.1186/s12937-022-00816-7",
+  "url": "https://doi.org/10.1186/s12937-022-00816-7",
+  "pdf_url": "",
+  "venue": "Nutrition Journal",
+  "citation_count": 34,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-22T14:39:16.252138+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-184.md",
+  "quality_details": {
+    "content_length": 44188,
+    "alpha_ratio": 0.684,
+    "sentence_count": 483,
+    "reasons": [
+      "paywall_page (access this article)"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "src-176",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "",
+  "pdf_url": "https://www.hilarispublisher.com/open-access/lentinan-a-shiitake-mushroom-glucan-stimulates-tumorspecificadaptive-immunity-through-pdl1-downregulation-in-gastric-cancercells-2161-0444-1000419.pdf",
+  "venue": "",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "",
+  "fetched_at": "2026-04-23T18:45:39.107234+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-176.md",
+  "quality_details": {
+    "content_length": 32679,
+    "alpha_ratio": 0.728,
+    "sentence_count": 273,
+    "reasons": []
+  }
+}

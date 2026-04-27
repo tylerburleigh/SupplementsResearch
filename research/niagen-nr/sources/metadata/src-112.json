@@ -1,0 +1,32 @@
+{
+  "id": "src-112",
+  "title": "NAD+ metabolism, stemness, the immune response, and cancer",
+  "authors": [
+    "Navas, Lola E.",
+    "Carnero, Amancio"
+  ],
+  "year": 2021,
+  "abstract": "AbstractNAD+ was discovered during yeast fermentation, and since its discovery, its important roles in redox metabolism, aging, and longevity, the immune system and DNA repair have been highlighted. A deregulation of the NAD+ levels has been associated with metabolic diseases and aging-related diseases, including neurodegeneration, defective immune responses, and cancer. NAD+ acts as a cofactor through its interplay with NADH, playing an essential role in many enzymatic reactions of energy metabolism, such as glycolysis, oxidative phosphorylation, fatty acid oxidation, and the TCA cycle. NAD+ also plays a role in deacetylation by sirtuins and ADP ribosylation during DNA damage/repair by PARP proteins. Finally, different NAD hydrolase proteins also consume NAD+ while converting it into ADP-ribose or its cyclic counterpart. Some of these proteins, such as CD38, seem to be extensively involved in the immune response. Since NAD cannot be taken directly from food, NAD metabolism is essential, and NAMPT is the key enzyme recovering NAD from nicotinamide and generating most of the NAD cellular pools. Because of the complex network of pathways in which NAD+ is essential, the important role of NAD+ and its key generating enzyme, NAMPT, in cancer is understandable. In the present work, we review the role of NAD+ and NAMPT in the ways that they may influence cancer metabolism, the immune system, stemness, aging, and cancer. Finally, we review some ongoing research on therapeutic approaches.",
+  "doi": "10.1038/s41392-020-00354-w",
+  "url": "https://doi.org/10.1038/s41392-020-00354-w",
+  "pdf_url": "",
+  "venue": "Signal Transduction and Targeted Therapy",
+  "citation_count": 419,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-20T21:02:45.689485+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-112.md",
+  "quality_details": {
+    "content_length": 169525,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

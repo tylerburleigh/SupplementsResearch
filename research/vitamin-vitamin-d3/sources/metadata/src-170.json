@@ -1,0 +1,36 @@
+{
+  "id": "src-170",
+  "title": "Effect of vitamin D status and vitamin D supplementation on immune function and prevention of acute respiratory tract infections in dark-skinned individuals: a systematic review and meta-analysis",
+  "authors": [
+    "Bournot, Abigail R",
+    "Darling, Andrea L",
+    "Givens, Ian D",
+    "Lovegrove, Julie A",
+    "Lanham-New, Susan A",
+    "Hart, Kathryn H"
+  ],
+  "year": 2024,
+  "abstract": "Abstract\n\nObjective:\nThis systematic review and meta-analysis examined the evidence for a potential relationship between vitamin D status and vitamin D supplementation on immune function biomarkers and prevention of acute respiratory tract infections (ARTI) in dark-skinned individuals.\n\nDesign:\nSix databases were searched (inception to December 2021) for randomised controlled trials (RCT) and observational studies. A narrative synthesis and random-effects meta-analysis were used to synthesise the findings.\n\nSetting:\nNot applicable.\n\nParticipants:\nEthnic groups other than white, with or without a white comparator.\n\nResults:\nAfter duplicates were removed, 2077 articles were identified for screening. A total of eighteen studies (n 36 707), including seven RCT and 11 observational studies, met the inclusion criteria, and three RCT (n 5778) provided sufficient data of high enough quality to be included in a meta-analysis. An inverse association between vitamin D status and at least one inflammatory biomarker in black adults was found in three studies, and vitamin D status was inversely associated with ARTI incidence in black and Indigenous groups in two studies. There was no significant effect of vitamin D supplementation on differences in ARTI incidence in ethnic minority groups (OR, 1·40; 95 % CI: 0·70, 2·79; P = 0·34), nor African American (OR, 1·77; 95 % CI: 0·51, 6·19; P = 0·37) or Asian/Pacific (OR, 1·08; 95 % CI: 0·77, 2·68; P = 0·66) subgroups.\n\nConclusions:\nThere is a lack of conclusive evidence supporting an association between vitamin D status and immune function or ARTI incidence in dark-skinned individuals. Further RCT in diverse ethnic populations are urgently needed.",
+  "doi": "10.1017/s1368980024001861",
+  "url": "https://doi.org/10.1017/s1368980024001861",
+  "pdf_url": "",
+  "venue": "Public Health Nutrition",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T20:57:46.092373+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-170.md",
+  "quality_details": {
+    "content_length": 66679,
+    "alpha_ratio": 0.718,
+    "sentence_count": 490,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

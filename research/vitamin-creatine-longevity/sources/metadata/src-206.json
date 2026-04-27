@@ -1,0 +1,32 @@
+{
+  "id": "src-206",
+  "title": "The effects of creatine supplementation on cognitive function in adults: a systematic review and meta-analysis",
+  "authors": [
+    "Xu, Chen",
+    "Bi, Siyuan",
+    "Zhang, Wenxin",
+    "Luo, Lin"
+  ],
+  "year": 2024,
+  "abstract": "BackgroundThis study aimed to evaluate the effects of creatine monohydrate supplementation on cognitive function in adults and explore its potential role in preventing and delaying cognitive impairment-related diseases.MethodsFollowing the PRISMA 2020 guidelines, a systematic review with meta-analysis was conducted. Randomized controlled trials (RCTs) published between 1993 and 2024 were retrieved from PubMed, Scopus, and Web of Science databases. The study protocol was registered with PROSPERO (registration number: CRD42024533557). The impact of creatine supplementation on overall cognitive function, memory, executive function, attention, and information processing speed was assessed using standardized mean differences (SMD) and Hedge’s g with 95% confidence intervals (CI).ResultsSixteen RCTs involving 492 participants aged 20.8–76.4 years, including healthy individuals and patients with specific diseases, were selected. Creatine monohydrate was the form used in all included studies. Creatine supplementation showed significant positive effects on memory (SMD = 0.31, 95% CI: 0.18–0.44, Hedges’s g = 0.3003, 95% CI: 0.1778–0.4228) and attention time (SMD = −0.31, 95% CI: −0.58 to −0.03, Hedges’s g = −0.3004, 95% CI: −0.5719 to −0.0289), as well as significantly improving processing speed time (SMD = −0.51, 95% CI: −1.01 to −0.01, Hedges’s g = −0.4916, 95% CI: −0.7852 to −0.1980). However, no significant improvements were found on overall cognitive function or executive function. Subgroup analyses revealed that creatine supplementation was more beneficial in individuals with diseases, those aged 18–60 years, and females. No significant differences were found between short- (&amp;lt;4 weeks) and long-term (≥4 weeks) interventions for improving cognitive function. Low-to-moderate risk of bias was found, and no significant publication bias was detected. The GRADE assessment indicates that the certainty of evidence for memory function is moderate, suggesting a reasonable level of confidence in the positive effects of creatine on memory. However, the evidence for processing speed, overall cognitive function, executive function, and attention is of low certainty, indicating that further research is needed to confirm these potential benefits.ConclusionCurrent evidence suggests that creatine monohydrate supplementation may confer beneficial effects on cognitive function in adults, particularly in the domains of memory, attention time, and information processing speed. Larger robust clinical trials are warranted to further validate these findings. Furthermore, future research should investigate the influence of different populations and intervention durations on the effects of creatine monohydrate supplementation, as well as elucidate the precise mechanisms underlying its potential cognitive-enhancing properties.",
+  "doi": "10.3389/fnut.2024.1424972",
+  "url": "https://doi.org/10.3389/fnut.2024.1424972",
+  "pdf_url": "",
+  "venue": "Frontiers in Nutrition",
+  "citation_count": 30,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T14:10:10.035832+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-206.md",
+  "quality_details": {
+    "content_length": 62398,
+    "alpha_ratio": 0.734,
+    "sentence_count": 593,
+    "reasons": []
+  }
+}

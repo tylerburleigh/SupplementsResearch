@@ -1,0 +1,18 @@
+{
+  "id": "src-119",
+  "title": "Does Encapsulation Improve the Bioavailability of Polyphenols in Humans? A Concise Review Based on In Vivo Human Studies",
+  "authors": [
+    "Redha, Ali Ali",
+    "Kodikara, Chamali",
+    "Cozzolino, Daniel"
+  ],
+  "doi": "10.3390/nu16213625",
+  "url": "https://openalex.org/W4403767843",
+  "provider": "openalex",
+  "year": 2024,
+  "venue": "Nutrients",
+  "citation_count": 30,
+  "abstract": "Background/Objectives: Polyphenols offer an array of health benefits that can contribute to well-being. Nevertheless, their bioactivity can be compromised due to their low bioavailability. Encapsulation has been explored as a strategy to enhance the stability and bioavailability of polyphenols. During encapsulation, polyphenols are protected from degradation by a wall material that acts as a protective coating. This coating shields the polyphenols from the harsh physiological conditions of digestion, ensuring their delivery to the intestine. However, the majority of evidence, particularly regarding bioavailability after digestion, is derived from in vitro studies. While these studies provide valuable preliminary insights, they cannot definitively confirm the effects in vivo due to their inability to accurately replicate physiological conditions and the complex gut microbial ecosystem. Consequently, this review seeks to evaluate the current evidence from in vivo human studies to elucidate the efficacy of encapsulation in improving polyphenols’ bioavailability. Results and conclusions: Current clinical evidence on the impact of encapsulation on polyphenol bioavailability is primarily focused on polyphenols derived from grape pomace, cocoa, and bilberries, as well as individual polyphenols such as fisetin, hesperidin, and curcumin. Encapsulation has been an effective technique in improving the bioavailability of individual polyphenols like hesperidin, fisetin, and curcumin. However, this approach has not yielded consistent results when applied to groups of polyphenols, such as bilberry anthocyanins or cocoa phenolic acids. Encapsulation by micellization has shown promising results in improving the bioavailability of curcumin in a nutraceutical context. Further studies are needed to explore the bioavailability of encapsulated polyphenols, especially in the functional food context.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.3390/nu16213625"
+}

@@ -1,0 +1,9 @@
+5	2	Background
+198	2	30 Upon evaluation, clinicians
+210	2	32 While there is evidence that cholinesterase inhibitors
+229	2	36 Based
+248	2	40 The aforementioned SPRINT study found that lowering
+258	2	42 Given the large body of observational evidence and the
+268	2	44 The US Preventive Services Task Force
+273	2	45 The WHO guidelines recommend a Mediterranean diet as its
+351	2	Conclusion

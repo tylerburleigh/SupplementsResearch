@@ -1,0 +1,25 @@
+{
+  "id": "src-138",
+  "title": "Nicotinamide mononucleotide enhances the efficacy and persistence of CD19 CAR-T cells via NAD + –Sirt1 axis",
+  "authors": [
+    "Yu, Zhen",
+    "Tong, Shuai",
+    "Zhang, Can",
+    "Bai, Yue",
+    "An, Zhijing",
+    "Xu, Chang",
+    "Wang, Fang",
+    "Hu, Yi",
+    "Zhuang, Qinghui",
+    "Zhong, Xiaosong"
+  ],
+  "doi": "10.21203/rs.3.rs-1483519/v1",
+  "url": "https://openalex.org/W4224209457",
+  "provider": "openalex",
+  "year": 2022,
+  "venue": "Research Square",
+  "citation_count": 3,
+  "abstract": "<title>Abstract</title> Chimeric antigen receptor (CAR)-modified T cells targeting antigens expressed on tumor cells have exhibited significant antitumor effects on several types of hematological malignancies, including acute myeloid leukemia, lymphoma, B cell maturation antigen, and CD19-positive acute lymphoblastic leukemia. However, several drawbacks, particularly the poor persistence, limit the use of CAR-T cell-based therapy. Nicotinamide mononucleotide (NMN), the precursor of nicotinamide adenine dinucleotide (NAD<sup>+</sup>), has been shown to reverse age-related complications and slow the aging rate by enhancing NAD<sup>+</sup> levels in the body. However, whether NMN treatment could enhance the longevity and persistence of CAR-T cells and improve their antitumor efficacy is still unclear. In this study, we observed that NMN treatment limited differentiation and significantly increased stem cell–like memory (Tscm) and stem cell–like memory (Tcm) in CD19 CAR-T cells. In addition, both telomerase length and proliferation ability were increased, whereas apoptosis was reduced after NMN treatment of CD19 CAR-T cells. High-throughput sequencing data indicated that NMN treatment upregulated Sirt1 expression in CD19 CAR-T cells and downregulated genes downstream of Sirt1, such as <italic>NF-</italic>κ<italic>B</italic>, <italic>TP53</italic>, and <italic>Bax</italic>. Animal experiments showed that NMN treated CAR-T cells exerted great antitumor efficacy in human xenografted mouse models. In conclusion, NMN enhances the efficacy and longevity of CD19 CAR-T cells via the NAD<sup>+</sup>–Sirt1 axis.",
+  "type": "academic",
+  "pdf_url": "https://www.researchsquare.com/article/rs-1483519/latest.pdf"
+}

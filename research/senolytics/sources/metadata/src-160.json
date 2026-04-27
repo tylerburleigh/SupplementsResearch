@@ -1,0 +1,20 @@
+{
+  "id": "src-160",
+  "title": "Cellular senescence in the aging retina and developments of senotherapies for age-related macular degeneration",
+  "authors": [
+    "Lee, Keng Siang",
+    "Lin, Shuxiao",
+    "Copland, David A.",
+    "Dick, Andrew D.",
+    "Liu, Jian"
+  ],
+  "doi": "10.1186/s12974-021-02088-0",
+  "url": "https://openalex.org/W3123063922",
+  "provider": "openalex",
+  "year": 2021,
+  "venue": "Journal of Neuroinflammation",
+  "citation_count": 143,
+  "abstract": "Age-related macular degeneration (AMD), a degenerative disease in the central macula area of the neuroretina and the supporting retinal pigment epithelium, is the most common cause of vision loss in the elderly. Although advances have been made, treatment to prevent the progressive degeneration is lacking. Besides the association of innate immune pathway genes with AMD susceptibility, environmental stress- and cellular senescence-induced alterations in pathways such as metabolic functions and inflammatory responses are also implicated in the pathophysiology of AMD. Cellular senescence is an adaptive cell process in response to noxious stimuli in both mitotic and postmitotic cells, activated by tumor suppressor proteins and prosecuted via an inflammatory secretome. In addition to physiological roles in embryogenesis and tissue regeneration, cellular senescence is augmented with age and contributes to a variety of age-related chronic conditions. Accumulation of senescent cells accompanied by an impairment in the immune-mediated elimination mechanisms results in increased frequency of senescent cells, termed \"chronic\" senescence. Age-associated senescent cells exhibit abnormal metabolism, increased generation of reactive oxygen species, and a heightened senescence-associated secretory phenotype that nurture a proinflammatory milieu detrimental to neighboring cells. Senescent changes in various retinal and choroidal tissue cells including the retinal pigment epithelium, microglia, neurons, and endothelial cells, contemporaneous with systemic immune aging in both innate and adaptive cells, have emerged as important contributors to the onset and development of AMD. The repertoire of senotherapeutic strategies such as senolytics, senomorphics, cell cycle regulation, and restoring cell homeostasis targeted both at tissue and systemic levels is expanding with the potential to treat a spectrum of age-related diseases, including AMD.",
+  "type": "academic",
+  "pdf_url": "https://jneuroinflammation.biomedcentral.com/counter/pdf/10.1186/s12974-021-02088-0"
+}

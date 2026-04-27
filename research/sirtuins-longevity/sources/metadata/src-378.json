@@ -1,0 +1,27 @@
+{
+  "id": "src-378",
+  "title": "Mitochondrial dysfunction in the regulation of aging and aging-related diseases",
+  "authors": [
+    "Zhang, Xianhong",
+    "Gao, Yue",
+    "Zhang, Siyu",
+    "Wang, Yiqi",
+    "Pei, Xinwu",
+    "Chen, Yufei",
+    "Zhang, Jinhui",
+    "Zhang, Yichen",
+    "Du, Yitian",
+    "Hao, Shauilin",
+    "Wang, Yujiong",
+    "Ni, Ting"
+  ],
+  "doi": "10.1186/s12964-025-02308-7",
+  "url": "https://openalex.org/W4411435017",
+  "provider": "openalex",
+  "year": 2025,
+  "venue": "Cell Communication and Signaling",
+  "citation_count": 67,
+  "abstract": "Aging is an irreversible physiological process that progresses with age, leading to structural disorders and dysfunctions of organs, thereby increasing the risk of chronic diseases such as neurodegenerative diseases, diabetes, hypertension, and cancer. Both organismal and cellular aging are accompanied by the accumulation of damaged organelles and macromolecules, which not only disrupt the metabolic homeostasis of the organism but also trigger the immune response required for physiological repair. Therefore, metabolic remodeling or chronic inflammation induced by damaged tissues, cells, or biomolecules is considered a critical biological factor in the organismal aging process. Notably, mitochondria are essential bioenergetic organelles that regulate both catabolism and anabolism and can respond to specific energy demands and growth repair needs. Additionally, mitochondrial components and metabolites can regulate cellular processes through damage-associated molecular patterns (DAMPs) and participate in inflammatory responses. Furthermore, the accumulation of prolonged, low-grade chronic inflammation can induce immune cell senescence and disrupt immune system function, thereby establishing a vicious cycle of mitochondrial dysfunction, inflammation, and senescence. In this review, we first outline the basic structure of mitochondria and their essential biological functions in cells. We then focus on the effects of mitochondrial metabolites, metabolic remodeling, chronic inflammation, and immune responsesthat are regulated by mitochondrial stress signaling in cellular senescence. Finally, we analyze the various inflammatory responses, metabolites, and the senescence-associated secretory phenotypes (SASP) mediated by mitochondrial dysfunction and their role in senescence-related diseases. Additionally, we analyze the crosstalk between mitochondrial dysfunction-mediated inflammation, metabolites, the SASP, and cellular senescence in age-related diseases. Finally, we propose potential strategies for targeting mitochondria to regulate metabolic remodeling or chronic inflammation through interventions such as dietary restriction or exercise, with the aim of delaying senescence. This reviewprovide a theoretical foundation for organismal antiaging strategies.",
+  "type": "academic",
+  "pdf_url": "https://biosignaling.biomedcentral.com/counter/pdf/10.1186/s12964-025-02308-7"
+}

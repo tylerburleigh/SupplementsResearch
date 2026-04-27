@@ -1,0 +1,24 @@
+{
+  "id": "src-275",
+  "title": "Association between C reactive protein and risk of incident heart failure in cancer survivors",
+  "authors": [
+    "Yang, Quan",
+    "Zheng, Jiazhen",
+    "Zhao, Chunting",
+    "Lin, Q.",
+    "Li, Wenqi",
+    "Wu, Min",
+    "Wang, Run",
+    "Liu, Mingya",
+    "Yiu, K."
+  ],
+  "doi": "10.1136/openhrt-2025-003513",
+  "url": "https://www.semanticscholar.org/paper/b0cc79e6fc3ca07b39b4283d3d7ae8fa8bd00935",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "Open Heart",
+  "citation_count": 0,
+  "abstract": "Background Cancer survivors often face the risk of developing heart failure (HF) as a result of their previous cancer therapy. However, the availability of early predictors for such complications remains limited. Recent studies have highlighted the potential link between chronic low-grade inflammation and the development of both cancer and HF. Despite this knowledge, there is a paucity of research specifically investigating the association between C reactive protein (CRP) and the risk of HF among cancer survivors. This study aims to analyse this association. Methods In this study, we analysed data from the UK Biobank, including 20 244 participants (7108 males), with a mean age of 60 years who had cancer at baseline. The primary endpoint of the study was incident HF. Competing risk regression with Cox proportional-hazard models was performed to estimate association between CRP levels and risk of incident HF in cancer survivors. Results A total of 401 cancer survivors (2.0 per 100) experienced a HF event over a median follow-up of 10.5±1.2 years. Competing risk regression analysis, with adjustment for sociodemographic, lifestyle and clinical variables, revealed that CRP >2 mg/L was associated with a 53% increased risk of incident HF in cancer survivors (sHR 1.53, 95% CI 1.24 to 1.88, p<0.001). Subgroup analyses validated the consistent trend of chronic low-grade inflammation with an increased risk of HF in cancer survivors. Furthermore, cancer type-stratified analyses indicated that the association between inflammation and HF risk was most pronounced among survivors of cutaneous malignancies. Conclusions This study provides important insights into the relationship between CRP levels and the risk of incident HF in cancer survivors. Future research should investigate whether interventions focused on reduction of inflammation could potentially decrease risk of HF in cancer survivors.",
+  "type": "academic",
+  "pdf_url": ""
+}

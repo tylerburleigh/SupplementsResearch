@@ -1,0 +1,25 @@
+{
+  "id": "src-404",
+  "title": "Vegetables, fruits, legumes and prostate cancer: a multiethnic case-control study.",
+  "authors": [
+    "Kolonel, Laurence N.",
+    "Hankin, Jean H.",
+    "Whittemore, Alice S.",
+    "Wu, Anna H.",
+    "Gallagher, R. P.",
+    "Wilkens, Lynne R.",
+    "John, Esther M.",
+    "Howe, Geoffrey R.",
+    "Dreon, Darlene M.",
+    "West, Dee W.",
+    "Paffenbarger, Ralph S."
+  ],
+  "url": "https://openalex.org/W2136700586",
+  "provider": "openalex",
+  "year": 2000,
+  "venue": "PubMed",
+  "citation_count": 472,
+  "abstract": "The evidence for a protective effect of vegetables, fruits, and legumes against prostate cancer is weak and inconsistent. We examined the relationship of these food groups and their constituent foods to prostate cancer risk in a multicenter case-control study of African-American, white, Japanese, and Chinese men. Cases (n = 1619) with histologically confirmed prostate cancer were identified through the population-based tumor registries of Hawaii, San Francisco, and Los Angeles in the United States and British Columbia and Ontario in Canada. Controls (n = 1618) were frequency-matched to cases on ethnicity, age, and region of residence of the case, in a ratio of approximately 1:1. Dietary and other information was collected by in-person home interview; a blood sample was obtained from control subjects for prostate-specific antigen determination. Odds ratios (OR) were estimated using logistic regression, adjusting for age, geographic location, education, calories, and when indicated, ethnicity. Intake of legumes (whether total legumes, soyfoods specifically, or other legumes) was inversely related to prostate cancer (OR for highest relative to lowest quintile for total legumes = 0.62; P for trend = 0.0002); results were similar when restricted to prostate-specific antigen-normal controls or to advanced cases. Intakes of yellow-orange and cruciferous vegetables were also inversely related to prostate cancer, especially for advanced cases, among whom the highest quintile OR for yellow-orange vegetables = 0.67 (P for trend = 0.01) and the highest quintile OR for cruciferous vegetables = 0.61 (P for trend = 0.006). Intake of tomatoes and of fruits was not related to risk. Findings were generally consistent across ethnic groups. These results suggest that legumes (not limited to soy products) and certain categories of vegetables may protect against prostate cancer.",
+  "type": "academic",
+  "pdf_url": ""
+}

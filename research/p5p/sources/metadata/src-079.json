@@ -1,0 +1,22 @@
+{
+  "id": "src-079",
+  "title": "Vitamin D receptor promotes healthy microbial metabolites and microbiome",
+  "authors": [
+    "Chatterjee, Ishita",
+    "Lu, Rong",
+    "Zhang, Yongguo",
+    "Zhang, Jilei",
+    "Dai, Yang",
+    "Xia, Yinglin",
+    "Sun, Jun"
+  ],
+  "doi": "10.1038/s41598-020-64226-7",
+  "url": "https://openalex.org/W3020949534",
+  "provider": "openalex",
+  "year": 2020,
+  "venue": "Scientific Reports",
+  "citation_count": 75,
+  "abstract": "Microbiota derived metabolites act as chemical messengers that elicit a profound impact on host physiology. Vitamin D receptor (VDR) is a key genetic factor for shaping the host microbiome. However, it remains unclear how microbial metabolites are altered in the absence of VDR. We investigated metabolites from mice with tissue-specific deletion of VDR in intestinal epithelial cells or myeloid cells. Conditional VDR deletion severely changed metabolites specifically produced from carbohydrate, protein, lipid, and bile acid metabolism. Eighty-four out of 765 biochemicals were significantly altered due to the Vdr status, and 530 significant changes were due to the high-fat diet intervention. The impact of diet was more prominent due to loss of VDR as indicated by the differences in metabolites generated from energy expenditure, tri-carboxylic acid cycle, tocopherol, polyamine metabolism, and bile acids. The effect of HFD was more pronounced in female mice after VDR deletion. Interestingly, the expression levels of farnesoid X receptor in liver and intestine were significantly increased after intestinal epithelial VDR deletion and were further increased by the high-fat diet. Our study highlights the gender differences, tissue specificity, and potential gut-liver-microbiome axis mediated by VDR that might trigger downstream metabolic disorders.",
+  "type": "academic",
+  "pdf_url": "https://www.nature.com/articles/s41598-020-64226-7.pdf"
+}

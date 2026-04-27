@@ -1,0 +1,21 @@
+{
+  "id": "src-337",
+  "title": "De novo biosynthesis and nicotinamide biotransformation of nicotinamide mononucleotide by engineered yeast cells.",
+  "authors": [
+    "Ren, Yanna",
+    "Han, Bei",
+    "Wang, Shijie",
+    "Wang, Xingbin",
+    "Liu, Qi",
+    "Cai, Menghao"
+  ],
+  "doi": "10.1111/1751-7915.70048",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39520312",
+  "provider": "pubmed",
+  "year": 2024,
+  "venue": "Microbial biotechnology",
+  "citation_count": 0,
+  "abstract": "β-Nicotinamide mononucleotide (NMN) is a precursor of NAD+ in mammals. Research on NAD+ has demonstrated its crucial role against aging and disease. Here two technical paths were established for the efficient synthesis of NMN in the yeast Pichia pastoris, enabling the production of NMN from the low-cost nicotinamide (NAM) or basic carbon sources. The yeast host was systematically modified to adapt to the biosynthesis and accumulation of NMN. To improve the semi-biosynthesis of NMN from NAM, nicotinamide phosphoribosyltransferases were expressed intracellular to evaluate their catalytic activities. The accumulation of extracellular NMN was further increased by the co-expression of an NMN transporter. Fine-tuning of gene expression level produced 72.1 mg/L NMN from NAM in flasks. To achieve de novo biosynthesis NMN, a heterologous biosynthetic pathway was reassembled in yeast cells. Fine-tuning of pathway nodes by the modification of gene expression level and enhancement of precursor generation allowed efficient NMN synthesis from glucose (36.9 mg/L) or ethanol (57.8 mg/L) in flask. Lastly, cultivations in a bioreactor in fed-batch mode achieved an NMN titre of 1004.6 mg/L at 165 h from 2 g NAM and 868 g glucose and 980.4 mg/L at 91 h from 160 g glucose and 557 g ethanol respectively. This study provides a foundation for future optimization of NMN biosynthesis by engineered yeast cell factories.",
+  "type": "academic",
+  "pdf_url": ""
+}

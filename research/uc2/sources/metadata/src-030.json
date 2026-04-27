@@ -1,0 +1,29 @@
+{
+  "id": "src-030",
+  "title": "Comparative efficacy of a combination of undenatured type II collagen, Boswellic acids, methylsulfonylmethane, vitamins C and D&lt;sub&gt;3&lt;/sub&gt; and a combination of chondroitin sulfate and glucosamine hydrochloride in the treatment of primary osteoarthritis of the knee joint",
+  "authors": [
+    "Mazurov, Vadim I."
+  ],
+  "year": 2023,
+  "abstract": "Aim. To evaluate the efficacy of Artneo (AN) in comparison with a combination of glucosamine hydrochloride and chondroitin sulfate (GC) in patients with osteoarthritis (OA) of the knee joint (KJ).\nMaterials and methods. 70 patients with stages I–III of primary knee OA were randomized into 2 groups. Participants in the 1st (n=35) took AN 1 caps/day, in the 2nd (n=35) GC according to the standard regimen. After 7, 30, 90, 180 days, the Lequesne index (severity of OA), pain when moving according to VAS, WOMAC score were assessed, after 1, 3, 6 months – quality of life SF-36 and morning stiffness, after 6 months – MRI with T2 mapping, laboratory safety indicators.\nResults. Over the course of 6 months of use, an improvement in the WOMAC index and a decrease in pain were observed without intergroup differences, and a greater decrease in stiffness in the AN group. After 3 months, the severity of OA decreased from moderate to mild in the AN group and was significantly lower compared to the GC group; quality of life (physical component of SF-36) was higher in the AN group. After 6 months, there was an improvement in cartilage ultrastructure (T2 relaxation time) in both groups and a more pronounced reduction of the synovitis area (MRI) in the AN group (2.95 and 1.37 times in the AN and GC group, respectively). There were no clinically significant adverse reactions observed in both groups.\nConclusion. The use of AN in patients with stage I–III primary knee OA was not inferior in efficacy to the combination of GC. Further studies with greater statistical power (sample size) and follow-up period are warranted including in real clinical practice.",
+  "doi": "10.26442/00403660.2023.12.202540",
+  "url": "https://doi.org/10.26442/00403660.2023.12.202540",
+  "pdf_url": "",
+  "venue": "Terapevticheskii arkhiv",
+  "citation_count": 5,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-19T13:40:48.394036+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-030.md",
+  "quality_details": {
+    "content_length": 46334,
+    "alpha_ratio": 0.67,
+    "sentence_count": 285,
+    "reasons": []
+  }
+}

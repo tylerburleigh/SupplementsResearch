@@ -1,0 +1,19 @@
+{
+  "id": "src-339",
+  "title": "TRV130 inhibits colon cancer progression via suppressing the Hedgehog signaling pathway: in vitro and in vivo evidence",
+  "authors": [
+    "Zhuang, Yuanzhao",
+    "Jiang, Changcheng",
+    "Guo, Yuqing",
+    "Sun, Jiaxiao"
+  ],
+  "doi": "10.1186/s41065-026-00633-6",
+  "url": "https://www.semanticscholar.org/paper/3f2d5ba9071f07c3cd7646d90aaf96a6ad67fe50",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "Hereditas",
+  "citation_count": 0,
+  "abstract": "Colon cancer, characterized by high incidence and mortality, faces clinical challenges due to high recurrence rates and drug resistance. Aberrant activation of Hedgehog (Hh) signaling pathway is a key driver of colon cancer progression, making it a promising therapeutic target; however, current Hh inhibitors are limited by resistance and adverse effects. Drug repurposing offers a strategic alternative to accelerate oncology drug development. Oliceridine (TRV130) is a clinically approved, selective µ-opioid receptor agonist with a well-established safety profile for pain management. Notably, its potential anti-tumor activity and impact on oncogenic pathways like Hh signaling remain entirely unexplored. This study aims to investigate the anti-colon cancer efficacy of TRV130 and its underlying mechanisms, focusing on the Hh pathway, thereby evaluating its repurposing potential. To establish the rationale for targeting the Hh pathway and the novelty of investigating TRV130, a focused literature review was conducted using PubMed and Web of Science databases (search period: 2000–2023), employing keywords including “colon cancer,” “Hedgehog pathway,” “drug repurposing,” and “TRV130/Oliceridine.” Based on this foundational evidence, the anti-tumor effects of TRV130 were systematically evaluated. Cell proliferation was assessed via MTT, EdU, and colony formation assays. Apoptosis was evaluated by flow cytometry and TUNEL assays. Migration and invasion were analyzed by Transwell and wound healing assays. The expressions of Cyclin D1, Bcl-2, Caspase 3, and Hh pathway proteins (PTCH1, GLI1) were detected by Western blot. A subcutaneous xenograft model was established in nude mice using HCT116 cells to validate in vivo efficacy, with tumor tissues analyzed by immunohistochemistry (IHC) and Western blot. TRV130 exhibited potent, dose-dependent inhibition of colon cancer cell proliferation, migration, and invasion. It induced apoptosis through both intrinsic and extrinsic pathways, as evidenced by the downregulation of Cyclin D1 and Bcl-2, and the upregulation of cleaved caspase 3. Mechanistically, TRV130 significantly suppressed the Hh signaling pathway, reducing the expression of its key effectors (GLI1 and PTCH1) to an extent comparable to cyclopamine (Cyc), a canonical Hh inhibitor. In vivo, TRV130 administration dose-dependently inhibited tumor growth in xenograft models, reducing both tumor volume and weight. IHC and Western blot analyses of tumor tissues confirmed the downregulation of Hh pathway proteins and pro-proliferative markers, alongside upregulation of apoptotic markers. This study identifies TRV130 as a novel inhibitor of the Hh pathway, demonstrating its significant anti-colon cancer effects in vitro and in vivo. These findings reveal a previously unexplored, oncological mechanism for this clinically safe drug and support its repurposing as a promising therapeutic candidate, potentially offering an alternative to current Hh-targeted therapies. This work provides the foundational evidence for further development of TRV130 against colon cancer.",
+  "type": "academic",
+  "pdf_url": ""
+}

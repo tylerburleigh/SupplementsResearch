@@ -1,0 +1,23 @@
+{
+  "id": "src-136",
+  "title": "Revisiting the Relationship between Homocysteine, Vitamin B12, Folate, and Aortic Diseases.",
+  "authors": [
+    "Lang, Qianlei",
+    "Liu, Yu",
+    "Zhang, Hongwei",
+    "Yang, Peng",
+    "Li, Wenfan",
+    "Xie, Yi",
+    "Meng, Wei",
+    "Hu, Jia"
+  ],
+  "doi": "10.1536/ihj.24-603",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40930777",
+  "provider": "pubmed",
+  "year": 2025,
+  "venue": "International heart journal",
+  "citation_count": 0,
+  "abstract": "Although several observational studies have suggested an association between plasma homocysteine (Hcy), vitamin B12, and folate levels and aortic diseases, including aortic dissection (AD), thoracic aortic aneurysm (TAA), and abdominal aortic aneurysm (AAA), the causality remains unclear. The aortic diameter was also included in the analysis. Therefore, this study employed Mendelian randomization (MR) analysis to investigate the effects of plasma Hcy, vitamin B12, and folate levels on aortic diseases. Single-nucleotide polymorphisms (SNPs) associated with Hcy, vitamin B12, and folate were obtained from reliable genome-wide association studies. Data for AD, TAA, and AAA were obtained from the Finnish database. We conducted a two-sample MR analysis using the following methods: inverse variance weighted, weighted median, MR-Egger, simple mode, weighted mode, and Bayesian weighted MR. Heterogeneity and pleiotropy were assessed using the Cochran's Q test and the MR-Egger test, respectively. In addition, leave-one-out and Steiger filtering analyses were performed to test the stability of MR findings. Our MR results demonstrated no significant causal association between Hcy, vitamin B12, and folate levels and aortic diseases or aortic diameter (P > 0.05). The Cochran's Q test and MR-Egger test indicated no heterogeneity or pleiotropy (P > 0.05). The leave-one-out and Steiger filtering analyses confirmed the robustness of the MR results. The MR analysis underscored that no direct genetic predisposition promotes elevated Hcy and decreased vitamin B12 or folate levels in the development of aortic diseases. This study found that plasma Hcy, vitamin B12, and folate levels had no effect on aortic diseases or aortic diameter. Therefore, vitamin B12 or folate supplementation to lower Hcy levels may not be effective in preventing aortic diseases.",
+  "type": "academic",
+  "pdf_url": ""
+}

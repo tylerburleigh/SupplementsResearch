@@ -1,0 +1,21 @@
+{
+  "id": "src-273",
+  "title": "Tumor‐derived spheroids: Relevance to cancer stem cells and clinical applications",
+  "authors": [
+    "Ishiguro, Tatsuya",
+    "Ohata, Hirokazu",
+    "Sato, Ai",
+    "Yamawaki, Kaoru",
+    "Enomoto, Takayuki",
+    "Okamoto, Koji"
+  ],
+  "doi": "10.1111/cas.13155",
+  "url": "https://openalex.org/W2570959155",
+  "provider": "openalex",
+  "year": 2017,
+  "venue": "Cancer Science",
+  "citation_count": 534,
+  "abstract": "Recently, many types of in vitro 3-D culture systems have been developed to recapitulate the in vivo growth conditions of cancer. The cancer 3-D culture methods aim to preserve the biological characteristics of original tumors better than conventional 2-D monolayer cultures, and include tumor-derived organoids, tumor-derived spheroids, organotypic multicellular spheroids, and multicellular tumor spheroids. The 3-D culture methods differ in terms of cancer cell sources, protocols for cell handling, and the required time intervals. Tumor-derived spheroids are unique because they are purposed for the enrichment of cancer stem cells (CSCs) or cells with stem cell-related characteristics. These spheroids are grown as floating spheres and have been used as surrogate systems to evaluate the CSC-related characteristics of solid tumors in vitro. Because eradication of CSCs is likely to be of clinical importance due to their association with the malignant nature of cancer cells, such as tumorigenicity or chemoresistance, the investigation of tumor-derived spheroids may provide invaluable clues to fight against cancer. Spheroid cultures have been established from cancers including glioma, breast, colon, ovary, and prostate cancers, and their biological and biochemical characteristics have been investigated by many research groups. In addition to the investigation of CSCs, tumor-derived spheroids may prove to be instrumental for a high-throughput screening platform or for the cultivation of CSC-related tumor cells found in the circulation or body fluids.",
+  "type": "academic",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/cas.13155"
+}

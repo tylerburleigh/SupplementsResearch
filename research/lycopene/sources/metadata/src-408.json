@@ -1,0 +1,18 @@
+{
+  "id": "src-408",
+  "title": "Role of Diet in Prostate Cancer Development and Progression",
+  "authors": [
+    "Chan, June M.",
+    "Gann, Peter H.",
+    "Giovannucci, Edward L."
+  ],
+  "doi": "10.1200/jco.2005.03.1492",
+  "url": "https://openalex.org/W2044776722",
+  "provider": "openalex",
+  "year": 2005,
+  "venue": "Journal of Clinical Oncology",
+  "citation_count": 411,
+  "abstract": "Increasing evidence supports the important role of nutrition in cancer prevention, including prevention of prostate cancer. In this review, we summarize data for some of the most consistently observed dietary associations for prostate cancer incidence, briefly consider possible postdiagnostic effects of nutrition on prostate cancer progression/survival, discuss new but limited data on diet-gene interactions, and comment on current areas of controversy for future research focus. Potential protective dietary elements include tomatoes/lycopene, other carotenoids, cruciferous vegetables, vitamin E, selenium, fish/marine omega-3 fatty acids, soy, isoflavones and polyphenols; whereas milk, dairy, calcium, zinc at high doses, saturated fat, grilled meats, and heterocyclic amines may increase risk. It is important to note that randomized clinical trial data exist only for vitamin E, calcium, beta-carotene, and selenium (all of which suggest inverse or no association). Several genes, such as MnSOD, XRCC1, and GST, may modify the association of specific nutrients and foods with prostate cancer risk; and further research is warranted to confirm these initial observed relationships. Until further clinical trial data are available on specific supplements and prostate cancer prevention, it would be prudent to emphasize a diet consisting of a wide variety of plant-based foods and fish; this is similar to what is recommended (and what is more well established) for the primary prevention of heart disease.",
+  "type": "academic",
+  "pdf_url": ""
+}

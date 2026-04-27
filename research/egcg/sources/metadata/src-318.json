@@ -1,0 +1,22 @@
+{
+  "id": "src-318",
+  "title": "A UHPLC-Orbitrap-MS Metabolomics Strategy Reveals Glycerophospholipid Metabolic Remodeling Is Associated with the Anti-Arthritic Effect of Glycyrrhiza Protein–Paeoniflorin Nanoparticles via PI3K/AKT/NLRP3 Axis",
+  "authors": [
+    "Zhang, Na",
+    "Yang, Xiaoyun",
+    "Li, Cui",
+    "Huo, Miaoxin",
+    "Gao, Yuancheng",
+    "Bai, Dong",
+    "Yang, Yuqin"
+  ],
+  "doi": "10.3390/molecules31030554",
+  "url": "https://www.semanticscholar.org/paper/2c0352dc78a85f8e95046c87146b284cba91c76d",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "Molecules",
+  "citation_count": 0,
+  "abstract": "Rheumatoid arthritis involves chronic synovitis and immune-metabolic dysregulation, highlighting a need for multi-target therapies that jointly modulate metabolism and inflammation. We developed glycyrrhiza protein–paeoniflorin self-assembled nanoparticles (GP-PF NPs) and investigated their anti-arthritic mechanism in adjuvant-induced arthritis (AIA) mice, using UHPLC-Orbitrap-MS-based metabolomics. Male C57BL/6 mice (n = 42) were assigned to the control, model, GP-PF NPs, paeoniflorin, glycyrrhiza protein, physical mixture, and celecoxib groups. All groups except controls received complete Freund’s adjuvant, and treatments were given intraperitoneally for 10 days. GP-PF NPs produced the greatest reduction in paw thickness versus the model (p < 0.0001) and outperformed all other active treatments, which was consistent with the improved histopathology. UHPLC-Orbitrap-MS detected 473 serum metabolites, and the model group showed 59 significant changes versus the control. GP-PF NPs significantly modulated 108 metabolites and yielded robust OPLS-DA separation from the model (R2Y = 0.98; Q2 = 0.742). Venn and pathway analyses identified 43 NP-specific metabolites enriched in glycerophospholipid metabolism, including glycerophosphocholine, 1-oleylglycerophosphocholine, PE (16:0/16:0), phosphocholine, and sphingosine-1-phosphate. These metabolites were selectively normalized toward control levels by GP-PF NPs. qPCR further showed that GP-PF NPs significantly reduced synovial PI3K, AKT, mTOR, NLRP3, Caspase-1, and GSDMD mRNA overexpression (all p < 0.001 vs. model). Correlation analysis indicated significant associations between key serum lipids and synovial genes (e.g., PI3K positively correlated with several metabolites, r = 0.71–0.82; mTOR negatively correlated with sphinganine 1-phosphate and glycerophosphocholine, r = −0.65 and −0.54). These data suggest that GP-PF NPs ameliorate AIA and are associated with the normalization of glycerophospholipid-related metabolic perturbations and reduced synovial mRNA expression of the PI3K/AKT/mTOR-NLRP3 pathway, supporting their potential as a metabolism-inflammation preclinical oriented anti-arthritic nanomedicine.",
+  "type": "academic",
+  "pdf_url": ""
+}

@@ -1,0 +1,23 @@
+{
+  "id": "src-313",
+  "title": "CHARMM Force Field for Curcuma longa Phytochemicals: Towards Reliable Modeling of Curcuminoids and Turmerones in Biological Systems",
+  "authors": [
+    "Archana",
+    "Charde, Vaibhav",
+    "Kumar, Vijay",
+    "Ranade, Anagha",
+    "Meena, A. K.",
+    "Srikanth, N.",
+    "Acharya, Rabinarayan",
+    "Mallajosyula, Sairam S."
+  ],
+  "doi": "10.1002/jcc.70351",
+  "url": "https://www.semanticscholar.org/paper/acf6e648f9bb5ce0de0e5481410dfb260d32e7e8",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "Journal of Computational Chemistry",
+  "citation_count": 0,
+  "abstract": "Renowned in traditional medicine for its wide‐ranging therapeutic benefits, Curcuma longa exhibits a distinctive phytochemical signature dominated by curcuminoids and turmerones‐ two chemically diverse classes of compounds that collectively define its biological activity. These molecules possess unique structural and electronic features, such as conjugated π‐systems and reactive functional groups, that challenge the accuracy of existing generalized force fields. Consequently, computational studies relying on non‐specific parameters often fail to capture their subtle conformational preferences and interaction energetics. To address these limitations, this work presents the development of CHARMM‐compatible all‐atom force field parameters for the major phytochemicals of C. longa, enabling an accurate description of their structural, energetic, and interfacial properties. The parametrization protocol reproduces high‐level quantum mechanical (QM) target data, including water‐interaction energies, potential energy surface scans, and vibrational frequency calculations. The optimized parameters were rigorously validated through QM‐MM geometry comparisons, crystal structure simulations, and protein‐ligand molecular dynamics studies to assess accuracy, consistency, and transferability. The resulting parameter set, fully integrated within the CHARMM additive force field, facilitates reliable simulations of C. longa phytochemicals and their biomolecular interactions, thereby extending the applicability of CHARMM to complex natural product systems.",
+  "type": "academic",
+  "pdf_url": ""
+}

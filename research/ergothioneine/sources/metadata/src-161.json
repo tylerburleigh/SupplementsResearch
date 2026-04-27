@@ -1,0 +1,23 @@
+{
+  "id": "src-161",
+  "title": "Decreased proliferation and erythroid differentiation of K562 cells by siRNA-induced depression of OCTN1 (SLC22A4) transporter gene.",
+  "authors": [
+    "Nakamura, Toshimichi",
+    "Sugiura, Shigeki",
+    "Kobayashi, Daisuke",
+    "Yoshida, Kenji",
+    "Yabuuchi, Hikaru",
+    "Aizawa, Shin",
+    "Maeda, Tomoji",
+    "Tamai, Ikumi"
+  ],
+  "doi": "10.1007/s11095-007-9290-8",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/17447122",
+  "provider": "pubmed",
+  "year": 2007,
+  "venue": "Pharmaceutical research",
+  "citation_count": 0,
+  "abstract": "PURPOSE: Recently, it was reported that OCTN1 transporter (SLC22A4) is associated with rheumatoid arthritis (RA) and Crohn's disease. Additionally, we reported that OCTN1 is expressed in hematopoietic cells, preferentially in erythroid cells. Accordingly, we assessed the physiological role of OCTN1 by examining the effect of knockdown of OCTN1 in blood cells using siRNA method.\nMATERIALS AND METHODS: Vector-based short hairpin RNA (shRNA) was used to establish K562 cell line which shows stably decreased expression of OCTN1. The characteristic of knockdown of OCTN1 in K562 cells was investigated by cell proliferation, cell differentiation, and uptake of ergothioneine that is a good substrate of OCTN1.\nRESULTS: Several clones of K562 cells exhibited significantly reduced expression of OCTN1 mRNA and protein. They also showed a decreased growth rate and butyrate-dependent differentiation to erythrocytes compared with control-vector transfected cells. In addition, uptake of [(3)H]ergothioneine by K562 cells suggested that Na(+)-dependent and high-affinity transporter which is similar to the characteristics of OCTN1 is functional. Moreover, uptake of ergothioneine by K562 cells which exhibit decreased-expression of OCTN1 was decreased in comparison with wild type K562 cells.\nCONCLUSIONS: It was suggested that OCTN1 is involved in the transport of physiological compounds that are important for cell proliferation and erythroid differentiation.",
+  "type": "academic",
+  "pdf_url": ""
+}

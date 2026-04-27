@@ -1,0 +1,26 @@
+{
+  "id": "src-227",
+  "title": "Role of gut microbiota in chronic low‐grade inflammation as potential driver for atherosclerotic cardiovascular disease: a systematic review of human studies",
+  "authors": [
+    "Munckhof, Inge van den",
+    "Kurilshikov, Alexander",
+    "Horst, Rob ter",
+    "Riksen, Niels P.",
+    "Joosten, Leo A. B.",
+    "Zhernakova, Alexandra",
+    "Fu, Jingyuan",
+    "Keating, Samuel T.",
+    "Netea, Mihai G.",
+    "Graaf, Jacqueline de",
+    "Rutten, Joost H.W."
+  ],
+  "doi": "10.1111/obr.12750",
+  "url": "https://openalex.org/W2888388477",
+  "provider": "openalex",
+  "year": 2018,
+  "venue": "Obesity Reviews",
+  "citation_count": 274,
+  "abstract": "A hallmark of obesity is chronic low-grade inflammation, which plays a major role in the process of atherosclerotic cardiovascular disease (ACVD). Gut microbiota is one of the factors influencing systemic immune responses, and profound changes have been found in its composition and metabolic function in individuals with obesity. This systematic review assesses the association between the gut microbiota and markers of low-grade inflammation in humans. We identified 14 studies which were mostly observational and relatively small (n = 10 to 471). The way in which the microbiome is analysed differed extensively between these studies. Lower gut microbial diversity was associated with higher white blood cell counts and high sensitivity C-reactive protein (hsCRP) levels. The abundance of Bifidobacterium, Faecalibacterium, Ruminococcus and Prevotella were inversely related to different markers of low-grade inflammation such as hsCRP and interleukin (IL)-6. In addition, this review speculates on possible mechanisms through which the gut microbiota can affect low-grade inflammation and thereby ACVD. We discuss the associations between the microbiome and the inflammasome, the innate immune system, bile acids, gut permeability, the endocannabinoid system and TMAO. These data reinforce the importance of human research into the gut microbiota as potential diagnostic and therapeutic strategy to prevent ACVD.",
+  "type": "academic",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/obr.12750"
+}

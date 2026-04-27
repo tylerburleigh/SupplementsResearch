@@ -1,0 +1,23 @@
+{
+  "id": "src-072",
+  "title": "School-based supplementation with iron-folic acid or multiple micronutrient tablets to address anemia among adolescents in Burkina Faso: a cluster-randomized trial.",
+  "authors": [
+    "Cliffer, I.",
+    "Millogo, O.",
+    "Barry, Yllassa",
+    "Kouanda, Idrissa",
+    "Compaoré, Guillaume",
+    "Wang, Dongqing",
+    "Sié, A.",
+    "Fawzi, W."
+  ],
+  "doi": "10.1016/j.ajcnut.2023.09.004",
+  "url": "https://www.semanticscholar.org/paper/4c4a122e4886998ef20303bbbd84cae18b2a7fcb",
+  "provider": "semantic_scholar",
+  "year": 2023,
+  "venue": "American Journal of Clinical Nutrition",
+  "citation_count": 11,
+  "abstract": "BACKGROUND\nIron deficiency anemia is a leading cause of morbidity among adolescents (aged 10-19 years), especially in low- and middle-income settings. Few policies and programs have targeted adolescent health.\n\nOBJECTIVE\nEvaluate the effectiveness of school-based supplementation with iron-folic acid (IFA) or multiple micronutrient supplements (MMS) in addressing anemia among adolescents in Burkina Faso.\n\nMETHODS\nIn this cluster-randomized trial, 3,123 secondary school students aged 10-18 years in Burkina Faso were either supplemented with weekly IFA, daily MMS, or received standard nutrition education as controls. Supplementation occurred between April 2021-April 2022 over two supplementation periods (10 weeks, then 16 weeks) separated by a gap of 20 weeks without supplementation. Hemoglobin was evaluated four times: at baseline prior to each supplementation period and at the end of each period. Anemia was categorized by the World Health Organization hemoglobin level cutoffs as none, mild, moderate, or severe. Associations between treatment arm and anemia or continuous hemoglobin (g/dL) were assessed using multilevel mixed effects generalized linear models with schools as a random effect, controlling for baseline hemoglobin or anemia status.\n\nRESULTS\nBaseline anemia prevalence was similar across study arms, with 32.7% in IFA, 31.2% in MMS, and 29.5% in the control arm. Over the full study period adolescents provided IFA had hemoglobin levels higher than those in the control arm (aβ = 0.32; 95% CI: 0.02, 0.62). No significant associations were observed for MMS or for anemia outcomes; however, the direction and magnitude of non-significant associations indicate potential protective effects of IFA and MMS on anemia.\n\nCONCLUSIONS\nResults do not provide strong evidence that weekly IFA or daily MMS supplementation alone is effective, but supplementation may play a role in addressing adolescent anemia if combined with co-interventions. Additional research is required to determine the best strategy to address anemia.\n\nCLINICAL TRIAL REGISTRY\nClinicalTrials.gov, NCT04657640 TRIAL REGISTRATION: Clinicaltrials.gov Identifier: NCT04657640, registered December 8, 2020.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.1016/j.ajcnut.2023.09.004"
+}

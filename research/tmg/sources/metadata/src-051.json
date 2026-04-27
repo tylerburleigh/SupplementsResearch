@@ -1,0 +1,33 @@
+{
+  "id": "src-051",
+  "title": "Effect of Homocysteine-Lowering Nutrients on Blood Lipids: Results from Four Randomised, Placebo-Controlled Studies in Healthy Humans",
+  "authors": [
+    "Olthof, Margreet R",
+    "van Vliet, Trinette",
+    "Verhoef, Petra",
+    "Zock, Peter L",
+    "Katan, Martijn B"
+  ],
+  "year": 2005,
+  "abstract": "",
+  "doi": "10.1371/journal.pmed.0020135",
+  "url": "https://doi.org/10.1371/journal.pmed.0020135",
+  "pdf_url": "",
+  "venue": "PLoS Medicine",
+  "citation_count": 86,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-20T18:29:14.101774+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-051.md",
+  "quality_details": {
+    "content_length": 63534,
+    "alpha_ratio": 0.745,
+    "sentence_count": 658,
+    "reasons": []
+  }
+}

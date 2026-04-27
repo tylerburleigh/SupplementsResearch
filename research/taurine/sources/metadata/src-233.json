@@ -1,0 +1,20 @@
+{
+  "id": "src-233",
+  "title": "Gut microbiota and cardiovascular disease: opportunities and challenges",
+  "authors": [
+    "Kazemian, Negin",
+    "Mahmoudi, Morteza",
+    "Halperin, Frank",
+    "Wu, Joseph C.",
+    "Pakpour, Sepideh"
+  ],
+  "doi": "10.1186/s40168-020-00821-0",
+  "url": "https://openalex.org/W3010928772",
+  "provider": "openalex",
+  "year": 2020,
+  "venue": "Microbiome",
+  "citation_count": 374,
+  "abstract": "Coronary artery disease (CAD) is the most common health problem worldwide and remains the leading cause of morbidity and mortality. Over the past decade, it has become clear that the inhabitants of our gut, the gut microbiota, play a vital role in human metabolism, immunity, and reactions to diseases, including CAD. Although correlations have been shown between CAD and the gut microbiota, demonstration of potential causal relationships is much more complex and challenging. In this review, we will discuss the potential direct and indirect causal roots between gut microbiota and CAD development via microbial metabolites and interaction with the immune system. Uncovering the causal relationship of gut microbiota and CAD development can lead to novel microbiome-based preventative and therapeutic interventions. However, an interdisciplinary approach is required to shed light on gut bacterial-mediated mechanisms (e.g., using advanced nanomedicine technologies and incorporation of demographic factors such as age, sex, and ethnicity) to enable efficacious and high-precision preventative and therapeutic strategies for CAD.",
+  "type": "academic",
+  "pdf_url": "https://microbiomejournal.biomedcentral.com/track/pdf/10.1186/s40168-020-00821-0"
+}

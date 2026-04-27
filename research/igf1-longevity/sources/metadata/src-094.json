@@ -1,0 +1,20 @@
+{
+  "id": "src-094",
+  "title": "Metabolic Syndrome and Risk of Cancer",
+  "authors": [
+    "Esposito, Katherine",
+    "Chiodini, Paolo",
+    "Colao, Annamaria",
+    "Lenzi, Andrea",
+    "Giugliano, Dario"
+  ],
+  "doi": "10.2337/dc12-0336",
+  "url": "https://openalex.org/W2091258584",
+  "provider": "openalex",
+  "year": 2012,
+  "venue": "Diabetes Care",
+  "citation_count": 1188,
+  "abstract": "Metabolic syndrome is associated with increased risk of common cancers; for some cancers, the risk differs betweens sexes, populations, and definitions of metabolic syndrome.",
+  "type": "academic",
+  "pdf_url": "https://care.diabetesjournals.org/content/diacare/35/11/2402.full.pdf"
+}

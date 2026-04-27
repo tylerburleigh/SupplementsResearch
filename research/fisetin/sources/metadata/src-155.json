@@ -1,0 +1,22 @@
+{
+  "id": "src-155",
+  "title": "CHK2-USP37 axis stabilizes FOXO4 to sustain senescence and evade apoptosis",
+  "authors": [
+    "Sun, Jiahui",
+    "Geng, Anke",
+    "Song, Zhiwei",
+    "Chen, Lingjiang",
+    "Zhang, Zhen-Ning",
+    "Jiang, Ying",
+    "Mao, Zhiyong"
+  ],
+  "doi": "10.1073/pnas.2526252123",
+  "url": "https://www.semanticscholar.org/paper/6c96236aef0ba1bf36286d3a79833e0a140f614c",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "Proceedings of the National Academy of Sciences of the United States of America",
+  "citation_count": 0,
+  "abstract": "Cellular senescence, a state of permanent cell cycle arrest, contributes to tissue dysfunction and aging through the accumulation of apoptosis-resistant senescent cells. Although the transcription factor FOXO4 is known to enhance senescent cell survival, the mechanisms regulating its stability have remained unclear. Here, we identify a DNA damage response (DDR)-driven CHK2-USP37-FOXO4 axis essential for maintaining the apoptotic resistance of senescent cells. We demonstrate that FOXO4 protein stability is elevated in stress-induced senescent cells, resulting from reduced ubiquitin-proteasomal degradation. A deubiquitinase screen identified USP37 as the key enzyme stabilizing FOXO4 through direct interaction and removal of K48-linked polyubiquitin chains. Depletion of USP37 destabilizes FOXO4 and sensitizes senescent cells to apoptosis. Mechanistically, persistent DDR signaling during senescence activates CHK2, which phosphorylates USP37 at Thr589, thereby enhancing its binding to FOXO4. Importantly, ablation of USP37 in senescent cells increases the rate of apoptosis, a phenotype that is rescued by FOXO4 reexpression. Together, our work unveils USP37 as a CHK2-regulated stabilizer of FOXO4 that maintains the apoptotic resistance of senescent cells, suggesting the CHK2-USP37-FOXO4 axis as a therapeutic target for age-related pathologies.",
+  "type": "academic",
+  "pdf_url": ""
+}

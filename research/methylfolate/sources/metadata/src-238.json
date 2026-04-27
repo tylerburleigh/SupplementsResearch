@@ -1,0 +1,24 @@
+{
+  "id": "src-238",
+  "title": "Vitamin D and Cardiovascular Diseases: From Physiology to Pathophysiology and Outcomes",
+  "authors": [
+    "Nardin, Matteo",
+    "Verdoia, Monica",
+    "Nardin, Simone",
+    "Cao, Davide",
+    "Chiarito, Mauro",
+    "Kedhi, Elvin",
+    "Galasso, Gennaro",
+    "Condorelli, Gianluigi",
+    "Luca, Giuseppe De"
+  ],
+  "doi": "10.3390/biomedicines12040768",
+  "url": "https://openalex.org/W4393352563",
+  "provider": "openalex",
+  "year": 2024,
+  "venue": "Biomedicines",
+  "citation_count": 30,
+  "abstract": "Vitamin D is rightly recognized as an essential key factor in the regulation of calcium and phosphate homeostasis, affecting primary adequate bone mineralization. In the last decades, a more complex and wider role of vitamin D has been postulated and demonstrated. Cardiovascular diseases have been found to be strongly related to vitamin D levels, especially to its deficiency. Pre-clinical studies have suggested a direct role of vitamin D in the regulation of several pathophysiological pathways, such as endothelial dysfunction and platelet aggregation; moreover, observational data have confirmed the relationship with different conditions, including coronary artery disease, heart failure, and hypertension. Despite the significant evidence available so far, most clinical trials have failed to prove any positive impact of vitamin D supplements on cardiovascular outcomes. This discrepancy indicates the need for further information and knowledge about vitamin D metabolism and its effect on the cardiovascular system, in order to identify those patients who would benefit from vitamin D supplementation.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2227-9059/12/4/768/pdf?version=1711785843"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "src-273",
+  "title": "Epigenetics-targeted drugs: current paradigms and future challenges",
+  "authors": [
+    "Dai, Wanlin",
+    "Qiao, Xinbo",
+    "Fang, Yuanyuan",
+    "Guo, Rongxia",
+    "Bai, Peng",
+    "Liu, Shuang",
+    "Li, Tingting",
+    "Jiang, Yutao",
+    "Wei, Shuang",
+    "Na, Zhijing",
+    "Xue, Xiao",
+    "Li, Da"
+  ],
+  "doi": "10.1038/s41392-024-02039-0",
+  "url": "https://openalex.org/W4404726166",
+  "provider": "openalex",
+  "year": 2024,
+  "venue": "Signal Transduction and Targeted Therapy",
+  "citation_count": 218,
+  "abstract": "Epigenetics governs a chromatin state regulatory system through five key mechanisms: DNA modification, histone modification, RNA modification, chromatin remodeling, and non-coding RNA regulation. These mechanisms and their associated enzymes convey genetic information independently of DNA base sequences, playing essential roles in organismal development and homeostasis. Conversely, disruptions in epigenetic landscapes critically influence the pathogenesis of various human diseases. This understanding has laid a robust theoretical groundwork for developing drugs that target epigenetics-modifying enzymes in pathological conditions. Over the past two decades, a growing array of small molecule drugs targeting epigenetic enzymes such as DNA methyltransferase, histone deacetylase, isocitrate dehydrogenase, and enhancer of zeste homolog 2, have been thoroughly investigated and implemented as therapeutic options, particularly in oncology. Additionally, numerous epigenetics-targeted drugs are undergoing clinical trials, offering promising prospects for clinical benefits. This review delineates the roles of epigenetics in physiological and pathological contexts and underscores pioneering studies on the discovery and clinical implementation of epigenetics-targeted drugs. These include inhibitors, agonists, degraders, and multitarget agents, aiming to identify practical challenges and promising avenues for future research. Ultimately, this review aims to deepen the understanding of epigenetics-oriented therapeutic strategies and their further application in clinical settings.",
+  "type": "academic",
+  "pdf_url": "https://www.nature.com/articles/s41392-024-02039-0.pdf"
+}

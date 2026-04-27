@@ -1,0 +1,30 @@
+{
+  "id": "src-016",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://wellwellusa.com/microdosing-psychedelic-drugs-growing",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-26T10:41:16.586419+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "empty",
+  "content_file": "sources/src-016.md",
+  "quality_details": {
+    "content_length": 44,
+    "alpha_ratio": 0.682,
+    "sentence_count": 0,
+    "reasons": [
+      "content too short (44 chars < 500)",
+      "few sentences detected (0 < 3)"
+    ]
+  }
+}

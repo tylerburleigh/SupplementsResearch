@@ -1,0 +1,17 @@
+{
+  "id": "src-305",
+  "title": "Microbial metabolism of dietary components to bioactive metabolites: opportunities for new therapeutic interventions",
+  "authors": [
+    "Zhang, Linda",
+    "Davies, Sean S."
+  ],
+  "doi": "10.1186/s13073-016-0296-x",
+  "url": "https://openalex.org/W2339856074",
+  "provider": "openalex",
+  "year": 2016,
+  "venue": "Genome Medicine",
+  "citation_count": 491,
+  "abstract": "Mass spectrometry- and nuclear magnetic resonance-based metabolomic studies comparing diseased versus healthy individuals have shown that microbial metabolites are often the compounds most markedly altered in the disease state. Recent studies suggest that several of these metabolites that derive from microbial transformation of dietary components have significant effects on physiological processes such as gut and immune homeostasis, energy metabolism, vascular function, and neurological behavior. Here, we review several of the most intriguing diet-dependent metabolites that may impact host physiology and may therefore be appropriate targets for therapeutic interventions, such as short-chain fatty acids, trimethylamine N-oxide, tryptophan and tyrosine derivatives, and oxidized fatty acids. Such interventions will require modulating either bacterial species or the bacterial biosynthetic enzymes required to produce these metabolites, so we briefly describe the current understanding of the bacterial and enzymatic pathways involved in their biosynthesis and summarize their molecular mechanisms of action. We then discuss in more detail the impact of these metabolites on health and disease, and review current strategies to modulate levels of these metabolites to promote human health. We also suggest future studies that are needed to realize the full therapeutic potential of targeting the gut microbiota.",
+  "type": "academic",
+  "pdf_url": "https://genomemedicine.biomedcentral.com/track/pdf/10.1186/s13073-016-0296-x"
+}

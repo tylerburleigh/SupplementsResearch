@@ -1,0 +1,26 @@
+{
+  "id": "src-215",
+  "title": "Relevance of Genetics and Genomics for Prevention and Treatment of Cardiovascular Disease",
+  "authors": [
+    "Arnett, Donna K.",
+    "Baird, Alison E.",
+    "Barkley, Ruth Ann",
+    "Basson, Craig T.",
+    "Boerwinkle, Eric",
+    "Ganesh, Santhi K.",
+    "Herrington, David M.",
+    "Hong, Yuling",
+    "Jaquish, Cashell E.",
+    "McDermott, Deborah A.",
+    "O’Donnell, Christopher J."
+  ],
+  "doi": "10.1161/circulationaha.107.183679",
+  "url": "https://openalex.org/W2100270535",
+  "provider": "openalex",
+  "year": 2007,
+  "venue": "Circulation",
+  "citation_count": 195,
+  "abstract": "Atherosclerotic cardiovascular disease (CVD) is a major health problem in the United States and around the world. Evidence accumulated over decades convincingly demonstrates that family history in a parent or a sibling is associated with atherosclerotic CVD, manifested as coronary heart disease, stroke, and/or peripheral arterial disease. Although there are several mendelian disorders that contribute to CVD, most common forms of CVD are believed to be multifactorial and to result from many genes, each with a relatively small effect working alone or in combination with modifier genes and/or environmental factors. The identification and the characterization of these genes and their modifiers would enhance prediction of CVD risk and improve prevention, treatment, and quality of care. This scientific statement describes the approaches researchers are using to advance understanding of the genetic basis of CVD and details the current state of knowledge regarding the genetics of myocardial infarction, atherosclerotic CVD, hypercholesterolemia, and hypertension. Current areas of interest and investigation--including gene-environment interaction, pharmacogenetics, and genetic counseling--are also discussed. The statement concludes with a list of specific recommendations intended to help incorporate usable knowledge into current clinical and public health practice, foster and guide future research, and prepare both researchers and practitioners for the changes likely to occur as molecular genetics moves from the laboratory to clinic.",
+  "type": "academic",
+  "pdf_url": ""
+}

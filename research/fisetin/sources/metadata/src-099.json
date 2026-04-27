@@ -1,0 +1,20 @@
+{
+  "id": "src-099",
+  "title": "Pharmacokinetics and Biliary Excretion of Fisetin in Rats.",
+  "authors": [
+    "Huang, Miao-Chan",
+    "Hsueh, Thomas Y",
+    "Cheng, Yung-Yi",
+    "Lin, Lie-Chwen",
+    "Tsai, Tung-Hu"
+  ],
+  "doi": "10.1021/acs.jafc.8b00917",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/29862816",
+  "provider": "pubmed",
+  "year": 2018,
+  "venue": "Journal of agricultural and food chemistry",
+  "citation_count": 0,
+  "abstract": "The hypothesis of this study is that fisetin and phase II conjugated forms of fisetin may partly undergo biliary excretion. To investigate this hypothesis, male Sprague-Dawley rats were used for the experiment, and their bile ducts were cannulated with polyethylene tubes for bile sampling. The pharmacokinetic results demonstrated that the average area-under-the-curve (AUC) ratios ( k (%) = AUCconjugate/AUCfree-form) of fisetin, its glucuronides, and its sulfates were 1:6:21 in plasma and 1:4:75 in bile, respectively. Particularly, the sulfated metabolites were the main forms that underwent biliary excretion. The biliary excretion rate ( kBE (%) = AUCbile/AUCplasma) indicates the amount of fisetin eliminated by biliary excretion. The biliary excretion rates of fisetin, its glucuronide conjugates, and its sulfate conjugates were approximately 144, 109, and 823%, respectively, after fisetin administration (30 mg/kg, iv). Furthermore, biliary excretion of fisetin is mediated by P-glycoprotein.",
+  "type": "academic",
+  "pdf_url": ""
+}

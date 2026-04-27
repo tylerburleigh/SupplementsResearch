@@ -1,0 +1,23 @@
+{
+  "id": "src-168",
+  "title": "Discovery of piperlongumine as a potential novel lead for the development of senolytic agents",
+  "authors": [
+    "Wang, Yingying",
+    "Chang, Jianhui",
+    "Liu, Xingui",
+    "Zhang, Xuan",
+    "Zhang, Suping",
+    "Zhang, Xin",
+    "Zhou, Daohong",
+    "Zheng, Guangrong"
+  ],
+  "doi": "10.18632/aging.101100",
+  "url": "https://www.semanticscholar.org/paper/2738489331e3860bd88b3a97ed0b7c1c640ab55b",
+  "provider": "semantic_scholar",
+  "year": 2016,
+  "venue": "Aging",
+  "citation_count": 241,
+  "abstract": "Accumulating evidence indicates that senescent cells play an important role in many age-associated diseases. The pharmacological depletion of senescent cells (SCs) with a “senolytic agent”, a small molecule that selectively kills SCs, is a potential novel therapeutic approach for these diseases. Recently, we discovered ABT-263, a potent and highly selective senolytic agent, by screening a library of rationally-selected compounds. With this screening approach, we also identified a second senolytic agent called piperlongumine (PL). PL is a natural product that is reported to have many pharmacological effects, including anti-tumor activity. We show here that PL preferentially killed senescent human WI-38 fibroblasts when senescence was induced by ionizing radiation, replicative exhaustion, or ectopic expression of the oncogene Ras. PL killed SCs by inducing apoptosis, and this process did not require the induction of reactive oxygen species. In addition, we found that PL synergistically killed SCs in combination with ABT-263, and initial structural modifications to PL identified analogs with improved potency and/or selectivity in inducing SC death. Overall, our studies demonstrate that PL is a novel lead for developing senolytic agents.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.18632/aging.101100"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "src-107",
+  "title": "Choline Dehydrogenase Polymorphism rs12676 Is a Functional Variation and Is Associated with Changes in Human Sperm Cell Function",
+  "authors": [
+    "Johnson, Amy R.",
+    "Lao, Sai",
+    "Wang, Tongwen",
+    "Galanko, Joseph A.",
+    "Zeisel, Steven H."
+  ],
+  "doi": "10.1371/journal.pone.0036047",
+  "url": "https://openalex.org/W1981458274",
+  "provider": "openalex",
+  "year": 2012,
+  "venue": "PLoS ONE",
+  "citation_count": 45,
+  "abstract": "Approximately 15% of couples are affected by infertility and up to half of these cases arise from male factor infertility. Unidentified genetic aberrations such as chromosomal deletions, translocations and single nucleotide polymorphisms (SNPs) may be the underlying cause of many cases of idiopathic male infertility. Deletion of the choline dehydrogenase (Chdh) gene in mice results in decreased male fertility due to diminished sperm motility; sperm from Chdh(-/-) males have decreased ATP concentrations likely stemming from abnormal sperm mitochondrial morphology and function in these cells. Several SNPs have been identified in the human CHDH gene that may result in altered CHDH enzymatic activity. rs12676 (G233T), a non-synonymous SNP located in the CHDH coding region, is associated with increased susceptibility to dietary choline deficiency and risk of breast cancer. We now report evidence that this SNP is also associated with altered sperm motility patterns and dysmorphic mitochondrial structure in sperm. Sperm produced by men who are GT or TT for rs12676 have 40% and 73% lower ATP concentrations, respectively, in their sperm. rs12676 is associated with decreased CHDH protein in sperm and hepatocytes. A second SNP located in the coding region of IL17BR, rs1025689, is linked to altered sperm motility characteristics and changes in choline metabolite concentrations in sperm.",
+  "type": "academic",
+  "pdf_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0036047&type=printable"
+}

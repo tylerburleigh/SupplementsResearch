@@ -1,0 +1,17 @@
+{
+  "id": "src-094",
+  "title": "Curcumin and Cancer",
+  "authors": [
+    "Giordano, Antonio",
+    "Tommonaro, Giuseppina"
+  ],
+  "doi": "10.3390/nu11102376",
+  "url": "https://openalex.org/W2978605903",
+  "provider": "openalex",
+  "year": 2019,
+  "venue": "Nutrients",
+  "citation_count": 970,
+  "abstract": "Curcumin, a polyphenol extracted from <i>Curcuma longa</i> in 1815, has gained attention from scientists worldwide for its biological activities (e.g., antioxidant, anti-inflammatory, antimicrobial, antiviral), among which its anticancer potential has been the most described and still remains under investigation. The present review focuses on the cell signaling pathways involved in cancer development and proliferation, and which are targeted by curcumin. Curcumin has been reported to modulate growth factors, enzymes, transcription factors, kinase, inflammatory cytokines, and proapoptotic (by upregulation) and antiapoptotic (by downregulation) proteins. This polyphenol compound, alone or combined with other agents, could represent an effective drug for cancer therapy.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2072-6643/11/10/2376/pdf?version=1571050570"
+}

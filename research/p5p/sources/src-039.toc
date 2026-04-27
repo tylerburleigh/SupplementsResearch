@@ -1,0 +1,15 @@
+30	2	2. However, the emergence of multidrug-resistant
+52	2	11. For instance, Escherichia coli strains lacking isocitrate
+105	2	Results
+137	2	7. Under the same culture medium without colistin,
+252	2	31. We next validated the
+425	2	46. In agreement with our hypothesis, we found that PLP
+540	2	Discussion
+588	2	63. It has also been discovered that cysteine can prevent antibiotic
+638	2	Methods
+714	2	67. Sequencing was conducted on the Illumina
+920	2	Data Availability
+927	2	References
+1132	2	Acknowledgements
+1140	2	Author Contributions
+1145	2	Competing Interests

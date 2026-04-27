@@ -1,0 +1,59 @@
+199	2	Nadh
+201	2	Naad
+206	2	Nar
+209	2	Nadph
+222	2	Nmn
+230	2	Nmn
+238	2	Nmn
+246	2	Nmn
+254	2	Nmn
+262	2	Nmn
+270	2	Nmn
+278	2	Nmn
+310	2	Nmn
+318	2	Nmn
+326	2	Nmn
+338	2	Nmn
+340	2	Nmn
+708	2	Nsc
+710	2	Nsc
+712	2	Nsc
+714	2	Nsc
+716	2	Nsc
+718	2	Nsc
+720	2	Nsc
+722	2	Nsc
+724	2	Nsc
+726	2	Nsc
+728	2	Nsc
+730	2	Nsc
+764	2	Nmn Nar Namn
+853	2	Nad
+857	2	Nmn
+859	2	Nar
+860	2	Namn
+953	2	Naad Namn Nar Na
+1035	2	Methods
+1070	2	Nad
+1074	2	Nur
+1075	2	Nar
+1076	2	Nad
+1098	2	Nad
+1100	2	Nad
+1118	2	Naad
+1454	2	Data Availability
+1463	2	References
+1643	2	Acknowledgements
+1660	2	Author Contributions
+1669	2	Competing Interests
+1841	2	Fmn
+1852	2	Nadh
+1854	2	Fmn
+1878	2	Nadph
+1980	2	Namn
+1992	2	Nar
+2005	2	Nmn
+2018	2	Nmnnrnsc
+2040	2	Nsc Nr Nmn
+2049	2	Nmn
+2051	2	Nsc

@@ -1,0 +1,26 @@
+{
+  "id": "src-070",
+  "title": "Abstract CT238: Treatment of frailty with fisetin (TROFFi) in postmenopausal breast cancer survivors: A phase II randomized double-blind placebo-controlled study",
+  "authors": [
+    "Ji, Jingran",
+    "Lipsyc-Sharf, M.",
+    "Baclig, N.",
+    "Zektser, Yulia A.",
+    "Saleem, Ali Al",
+    "Olivera, Joseph D.",
+    "Synold, Kelly S.",
+    "Zelman, Lauren R.",
+    "Crespi, C. M.",
+    "Yee, Lisa D.",
+    "Sedrak, M."
+  ],
+  "doi": "10.1158/1538-7445.am2025-ct238",
+  "url": "https://www.semanticscholar.org/paper/aab62cea2cf64d5e1e206696bd83a9478114cf50",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "Cancer Research",
+  "citation_count": 0,
+  "abstract": "One-third of postmenopausal breast cancer survivors treated with chemotherapy experience physical function decline that persists even 12 months after completing treatment. This functional decline is associated with loss of independence, disability, and death. One possible mechanism driving chemotherapy-related functional decline is cellular senescence, a state of terminal growth arrest. Chemotherapy induces senescence and leads to the accumulation of senescent cells (Sncs). Sncs develop a senescence-associated secretory phenotype (SASP) that over time results in inflammation, tissue damage, and functional decline. In preclinical studies, eliminating chemotherapy-induced Sncs in mice reduced SASP markers and improved physical activity. In patients with stage I-III breast cancer treated with chemotherapy, expression of p16INK4a (p16), a known Snc marker, increased sharply after chemotherapy and remained elevated over time. Higher levels of both pre-treatment p16 and SASP markers have also been associated with increased frailty after completing chemotherapy. Novel agents called senolytics have been developed to eliminate Sncs. Among the existing senolytics, fisetin is a natural dietary flavonoid with a favorable safety profile. Fisetin can reduce Snc burden and alleviate frailty in mice. Multiple ongoing studies are testing fisetin in humans, but none are studying the effects of fisetin on chemotherapy-related functional decline in postmenopausal breast cancer survivors. Therefore, we hypothesize that reducing Snc burden with fisetin after chemotherapy will alleviate frailty and improve physical function in postmenopausal breast cancer survivors.\n\nThis phase II randomized, placebo-controlled study will enroll a total of 88 postmenopausal women with stage I-III breast cancer with physical functional decline after completing neo/adjuvant chemotherapy. Key eligibility criteria include being postmenopausal and within 12 months of completing neo/adjuvant chemotherapy for breast cancer at the time of enrollment. Eligible participants must also have evidence of physical function decline, as determined by a 6-minute walk distance (6MWD) <400m. Participants will be randomized 1:1 to either placebo or oral fisetin (20mg/kg) on days 1-3 of 14-day cycles for a total of 4 cycles. The primary objective is to determine the effect of fisetin on physical function, as assessed by the change in 6MWD from baseline to end of treatment. Secondary objectives include studying the effect of fisetin on fatigue, cognition, and neuropathy, sleep, depression/anxiety, and quality of life. We will also determine the effect of fisetin on biomarkers of aging, including peripheral blood p16 and SASP markers, as well as the safety of and adherence to fisetin. Enrolment on this study began March 2023 and is currently ongoing (NCT05595499).\n\nJingran Ji, Marla D. Lipsyc-Sharf, Nikita V. Baclig, Yulia A. Zektser, Ali Al Saleem, Joseph D. Olivera, Kelly S. Synold, Lauren R. Zelman, Catherine M. Crespi, Lisa D. Yee, Mina S. Sedrak. Treatment of frailty with fisetin (TROFFi) in postmenopausal breast cancer survivors: A phase II randomized double-blind placebo-controlled study [abstract]. In: Proceedings of the American Association for Cancer Research Annual Meeting 2025; Part 2 (Late-Breaking, Clinical Trial, and Invited Abstracts); 2025 Apr 25-30; Chicago, IL. Philadelphia (PA): AACR; Cancer Res 2025;85(8_Suppl_2):Abstract nr CT238.",
+  "type": "academic",
+  "pdf_url": ""
+}

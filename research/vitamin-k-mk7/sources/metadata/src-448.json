@@ -1,0 +1,32 @@
+{
+  "id": "src-448",
+  "title": "Nicotine promotes vascular calcification via intracellular Ca2+-mediated, Nox5-induced oxidative stress, and extracellular vesicle release in vascular smooth muscle cells",
+  "authors": [
+    "Petsophonsakul, Ploingarm",
+    "Burgmaier, Mathias",
+    "Willems, Brecht A. G.",
+    "Heeneman, Sylvia",
+    "Stadler, Nadina",
+    "Gremse, Felix",
+    "Reith, Sebastian",
+    "Burgmaier, Kathrin",
+    "Kahles, Florian",
+    "Marx, Nikolaus",
+    "Natour, Ehsan",
+    "Bidar, Elham",
+    "Jacobs, Michael",
+    "Mees, Barend",
+    "Reutelingsperger, Chris",
+    "Furmanik, Malgorzata",
+    "Schurgers, Leon J."
+  ],
+  "doi": "10.1093/cvr/cvab244",
+  "url": "https://openalex.org/W3184002982",
+  "provider": "openalex",
+  "year": 2021,
+  "venue": "Cardiovascular Research",
+  "citation_count": 93,
+  "abstract": "In this study, we provide evidence that nicotine induces Nox5-mediated pro-calcific processes as novel mechanism of increased atherosclerotic calcification. We identified that activation of α7 and α3 nAChR by nicotine increases intracellular Ca2+ and initiates calcification of hVSMCs through increased Nox5 activity, leading to oxidative stress-mediated EV release. Identifying the role of Nox5-induced oxidative stress opens novel avenues for diagnosis and treatment of smoking-induced cardiovascular disease.",
+  "type": "academic",
+  "pdf_url": "https://academic.oup.com/cardiovascres/advance-article-pdf/doi/10.1093/cvr/cvab244/39539099/cvab244.pdf"
+}

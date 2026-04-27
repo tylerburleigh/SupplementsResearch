@@ -1,0 +1,35 @@
+{
+  "id": "src-287",
+  "title": "Ergothioneine for cognitive health, longevity and healthy ageing: where are we now?",
+  "authors": [
+    "May-Zhang, Linda S.",
+    "Cheah, Irwin K.",
+    "Zajac, Ian T.",
+    "Brindal, Emily",
+    "Kakoschke, Naomi"
+  ],
+  "year": 2025,
+  "abstract": "Abstract\nAs the global population ages, the prevalence of cognitive decline is rising, creating urgent demand for proactive strategies that support brain health and healthy ageing. Ergothioneine, a unique dietary amino-thione absorbed via the OCTN1 transporter, has recently gained attention for its potential as a neuroprotective, longevity-promoting compound. This review synthesizes growing evidence from observational, interventional and mechanistic studies. Observational data consistently associate low blood ergothioneine levels with cognitive impairment, neurodegenerative diseases, cardiovascular disorders, frailty and mortality. Interventional trials in older adults suggest that ergothioneine supplementation may improve cognition, memory, sleep quality and stabilize neurodegeneration biomarkers, with no safety concerns at doses up to 25 mg/day. Mechanistic studies reveal that ergothioneine acts through multiple pathways: mitigating oxidative stress, reducing neuroinflammation, preserving mitochondrial function and potentially modulating neurogenesis and NAD+ metabolism, although some mechanisms require further investigation. Beyond cognition, ergothioneine shows promise in supporting other physiological systems relevant to ageing, including cardiovascular, metabolic, gut, eye, auditory, liver, kidney, immune, skin and lung health. Together, current evidence positions ergothioneine as a promising nutritional intervention for promoting cognitive resilience and systemic health in ageing, although larger, long-term interventional trials are needed to confirm causality and optimize use.",
+  "doi": "10.1017/s0029665125101754",
+  "url": "https://doi.org/10.1017/s0029665125101754",
+  "pdf_url": "",
+  "venue": "Proceedings of the Nutrition Society",
+  "citation_count": 3,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-20T00:21:01.706863+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-287.md",
+  "quality_details": {
+    "content_length": 40641,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

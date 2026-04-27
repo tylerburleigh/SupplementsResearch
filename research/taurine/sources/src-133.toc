@@ -1,0 +1,8 @@
+7	2	Abstract
+34	2	Introduction
+107	2	Methods
+221	2	Results
+366	2	Discussion
+522	2	References
+566	2	1978. A modulating role of taurine on release of acetylcholine and
+622	2	1982. In vivo and in vitro effects of substance P on the release of

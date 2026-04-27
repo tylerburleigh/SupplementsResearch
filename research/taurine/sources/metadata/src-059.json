@@ -1,0 +1,35 @@
+{
+  "id": "src-059",
+  "title": "Effects of Dietary Taurine Supplementation on Blood and Urine Taurine Concentrations in the Elderly Women with Dementia",
+  "authors": [
+    "Gao, Ranran",
+    "Bae, Mi Ae",
+    "Han, So Hee",
+    "Chang, Kyung Ja",
+    "Kim, Sung Hoon"
+  ],
+  "year": 2019,
+  "abstract": "",
+  "doi": "10.1007/978-981-13-8023-5_22",
+  "url": "https://doi.org/10.1007/978-981-13-8023-5_22",
+  "pdf_url": "",
+  "venue": "Advances in Experimental Medicine and Biology",
+  "citation_count": 2,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-19T11:32:16.816577+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-059.md",
+  "quality_details": {
+    "content_length": 9736,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

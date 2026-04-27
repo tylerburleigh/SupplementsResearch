@@ -1,0 +1,20 @@
+{
+  "id": "src-349",
+  "title": "Polyphenols: Extraction Methods, Antioxidative Action, Bioavailability and Anticarcinogenic Effects",
+  "authors": [
+    "Mojzer, Eva Brglez",
+    "Hrnčič, Maša Knez",
+    "Škerget, Mojca",
+    "Knez, Željko",
+    "Bren, Urban"
+  ],
+  "doi": "10.3390/molecules21070901",
+  "url": "https://openalex.org/W2464356132",
+  "provider": "openalex",
+  "year": 2016,
+  "venue": "Molecules",
+  "citation_count": 1039,
+  "abstract": "Being secondary plant metabolites, polyphenols represent a large and diverse group of substances abundantly present in a majority of fruits, herbs and vegetables. The current contribution is focused on their bioavailability, antioxidative and anticarcinogenic properties. An overview of extraction methods is also given, with supercritical fluid extraction highlighted as a promising eco-friendly alternative providing exceptional separation and protection from degradation of unstable polyphenols. The protective role of polyphenols against reactive oxygen and nitrogen species, UV light, plant pathogens, parasites and predators results in several beneficial biological activities giving rise to prophylaxis or possibly even to a cure for several prevailing human diseases, especially various cancer types. Omnipresence, specificity of the response and the absence of or low toxicity are crucial advantages of polyphenols as anticancer agents. The main problem represents their low bioavailability and rapid metabolism. One of the promising solutions lies in nanoformulation of polyphenols that prevents their degradation and thus enables significantly higher concentrations to reach the target cells. Another, more practiced, solution is the use of mixtures of various polyphenols that bring synergistic effects, resulting in lowering of the required therapeutic dose and in multitargeted action. The combination of polyphenols with existing drugs and therapies also shows promising results and significantly reduces their toxicity.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/1420-3049/21/7/901/pdf?version=1468232989"
+}

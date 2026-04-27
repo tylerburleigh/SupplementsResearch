@@ -1,0 +1,33 @@
+{
+  "id": "src-128",
+  "title": "Genetic impairments in folate enzymes increase dependence on dietary choline for phosphatidylcholine production at the expense of betaine synthesis.",
+  "authors": [
+    "Ganz, Ariel B",
+    "Shields, Kelsey",
+    "Fomin, Vlad G",
+    "Lopez, Yusnier S",
+    "Mohan, Sanjay",
+    "Lovesky, Jessica",
+    "Chuang, Jasmine C",
+    "Ganti, Anita",
+    "Carrier, Bradley",
+    "Yan, Jian",
+    "Taeswuan, Siraphat",
+    "Cohen, Vanessa V",
+    "Swersky, Camille C",
+    "Stover, Julie A",
+    "Vitiello, Gerardo A",
+    "Malysheva, Olga V",
+    "Mudrak, Erika",
+    "Caudill, Marie A"
+  ],
+  "doi": "10.1096/fj.201500138rr",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/27342765",
+  "provider": "pubmed",
+  "year": 2016,
+  "venue": "FASEB journal : official publication of the Federation of American Societies for Experimental Biology",
+  "citation_count": 0,
+  "abstract": "Although single nucleotide polymorphisms (SNPs) in folate-mediated pathways predict susceptibility to choline deficiency during severe choline deprivation, it is unknown if effects persist at recommended intakes. Thus, we used stable isotope liquid chromatography-mass spectrometry (LC-MS) methodology to examine the impact of candidate SNPs on choline metabolism in a long-term, randomized, controlled feeding trial among pregnant, lactating, and nonpregnant (NP) women consuming 480 or 930 mg/d choline (22% as choline-d9, with d9 indicating a deuterated trimethyl amine group) and meeting folate-intake recommendations. Variants impairing folate metabolism, methylenetetrahydrofolate reductase (MTHFR) rs1801133, methionine synthase (MTR) rs1805087 [wild-type (WT)], MTR reductase (MTRR) rs1801394, and methylenetetrahydrofolate dehydrogenase-methenyltetrahydrofolate cyclohydrolase-formyltetrahydrofolate synthetase (MTHFD1) rs2236225, influenced choline dynamics, frequently through interactions with reproductive state and choline intake, with fewer genotypic alterations observed among pregnant women. Women with these variants partitioned more dietary choline toward phosphatidylcholine (PC) biosynthesis via the cytidine diphosphate (CDP)-choline pathway at the expense of betaine synthesis even when use of betaine as a methyl donor was increased. Choline intakes of 930 mg/d restored partitioning of dietary choline between betaine and CDP-PC among NP (MTHFR rs1801133 and MTR rs1805087 WT) and lactating (MTHFD1 rs2236225) women with risk genotypes. Overall, our findings indicate that loss-of-function variants in folate-metabolizing enzymes strain cellular PC production, possibly via impaired folate-dependent phosphatidylethanolamine-N-methyltransferase (PEMT)-PC synthesis, and suggest that women with these risk genotypes may benefit from choline intakes exceeding current recommendations.-Ganz, A. B., Shields, K., Fomin, V. G., Lopez, Y. S., Mohan, S., Lovesky, J., Chuang, J. C., Ganti, A., Carrier, B., Yan, J., Taeswuan, S., Cohen, V. V., Swersky, C. C., Stover, J. A., Vitiello, G. A., Malysheva, O. V., Mudrak, E., Caudill, M. A. Genetic impairments in folate enzymes increase dependence on dietary choline for phosphatidylcholine production at the expense of betaine synthesis.",
+  "type": "academic",
+  "pdf_url": ""
+}

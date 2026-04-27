@@ -1,0 +1,38 @@
+{
+  "id": "src-053",
+  "title": "Correction: Undenatured type II collagen prevents and treats osteoarthritis and motor function degradation in T2DM patients and db/db mice",
+  "authors": [
+    "Rui, Fan",
+    "Jiawei, Kang",
+    "Yuntao, Hao",
+    "Xinran, Liu",
+    "Jiani, Hu",
+    "Ruixue, Mao",
+    "Rui, Liu",
+    "Na, Zhu",
+    "Meihong, Xu",
+    "Yong, Li"
+  ],
+  "year": 2023,
+  "abstract": "Correction for ‘Undenatured type II collagen prevents and treats osteoarthritis and motor function degradation in T2DM patients and db/db mice’ by Fan Rui\net al.\n,\nFood Funct.\n, 2021,\n12\n, 4373–4391, https://doi.org/10.1039/D0FO03011B.",
+  "doi": "10.1039/d3fo90070c",
+  "url": "https://doi.org/10.1039/d3fo90070c",
+  "pdf_url": "",
+  "venue": "Food &amp; Function",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-19T13:43:39.061394+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-053.md",
+  "quality_details": {
+    "content_length": 1531,
+    "alpha_ratio": 0.725,
+    "sentence_count": 17,
+    "reasons": []
+  }
+}

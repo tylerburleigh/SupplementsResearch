@@ -1,0 +1,27 @@
+{
+  "id": "src-071",
+  "title": "The influence of vitamin D supplementation on IGF-1 levels in humans: A systematic review and meta-analysis.",
+  "authors": [
+    "Kord-Varkaneh, H.",
+    "Rinaldi, G.",
+    "Hekmatdoost, A.",
+    "Fatahi, S.",
+    "Tan, S. C.",
+    "Shadnoush, Mahdi",
+    "Khani, Vahid",
+    "Mousavi, seyed mohammad",
+    "Zarezadeh, Meysam",
+    "Salamat, Shekoufeh",
+    "Bawadi, H.",
+    "Rahmani, J."
+  ],
+  "doi": "10.1016/j.arr.2019.100996",
+  "url": "https://www.semanticscholar.org/paper/32dd05eb7e76120bec8b8fe4e702268b33da48a5",
+  "provider": "semantic_scholar",
+  "year": 2019,
+  "venue": "Ageing Research Reviews",
+  "citation_count": 42,
+  "abstract": "BACKGROUND\nInconsistencies exist with regard to influence of vitamin D supplementation on IGF-1 levels. The inconsistencies could be attributed to several factors, such as dosage and duration of intervention, among others. To address these inconsistencies, this study was conducted to determine the impact of vitamin D supplementation on IGF-1 levels through a systematic review and meta-analysis of randomized controlled trials (RCTs).\n\nMETHODS\nA comprehensive systematic search was carried out in PubMed/MEDLINE, Web of Science, SCOPUS and Embase for RCTs that investigated the impact of vitamin D intake on circulating IGF-1 levels from inception until June 2019. Weighted mean difference (WMD) with the 95% CI were applied for estimating combined effect size. Subgroup analysis was performed to specify the source of heterogeneity among studies.\n\nRESULTS\nPooled results from eight studies demonstrated an overall non-significant increase in IGF-1 following vitamin D supplementation (WMD: 4 ng/ml, 95% CI: -4 to 11). However, a significant degree of heterogeneity among studies was observed (I2 = 66%). The subgroup analyses showed that vitamin D dosage of ≤1000 IU/day (WMD: 10 ng/ml) significantly increased IGF-1 compared to the vitamin D dosage of <1000 IU/day (WMD: -1 ng/ml). Moreover, intervention duration ≤12 weeks (WMD: 11 ng/ml) significantly increased IGF-1 compared to intervention duration <12 weeks (WMD: -3 ng/ml). In the epidemiological cohort study, participants under 60 years of age with a higher dietary vitamin D intake had significantly higher IGF-1 levels when compared to those with lower dietary vitamin D intake in second categories.\n\nCONCLUSION\nThe main results indicate a non-significant increase in IGF-1 following vitamin D supplementation. Additionally, vitamin D dosages of <1000 IU/day and intervention durations of <12 weeks significantly raised IGF-1 levels.",
+  "type": "academic",
+  "pdf_url": ""
+}

@@ -1,0 +1,19 @@
+{
+  "id": "src-081",
+  "title": "Neuroprotective Herbs for the Management of Alzheimer’s Disease",
+  "authors": [
+    "Gregory, Julie",
+    "Vengalasetti, Yasaswi",
+    "Bredesen, Dale E.",
+    "Rao, Rammohan V."
+  ],
+  "doi": "10.3390/biom11040543",
+  "url": "https://openalex.org/W3142441055",
+  "provider": "openalex",
+  "year": 2021,
+  "venue": "Biomolecules",
+  "citation_count": 209,
+  "abstract": "Background-Alzheimer's disease (AD) is a multifactorial, progressive, neurodegenerative disease that is characterized by memory loss, personality changes, and a decline in cognitive function. While the exact cause of AD is still unclear, recent studies point to lifestyle, diet, environmental, and genetic factors as contributors to disease progression. The pharmaceutical approaches developed to date do not alter disease progression. More than two hundred promising drug candidates have failed clinical trials in the past decade, suggesting that the disease and its causes may be highly complex. Medicinal plants and herbal remedies are now gaining more interest as complementary and alternative interventions and are a valuable source for developing drug candidates for AD. Indeed, several scientific studies have described the use of various medicinal plants and their principal phytochemicals for the treatment of AD. This article reviews a subset of herbs for their anti-inflammatory, antioxidant, and cognitive-enhancing effects. Methods-This article systematically reviews recent studies that have investigated the role of neuroprotective herbs and their bioactive compounds for dementia associated with Alzheimer's disease and pre-Alzheimer's disease. PubMed Central, Scopus, and Google Scholar databases of articles were collected, and abstracts were reviewed for relevance to the subject matter. Conclusions-Medicinal plants have great potential as part of an overall program in the prevention and treatment of cognitive decline associated with AD. It is hoped that these medicinal plants can be used in drug discovery programs for identifying safe and efficacious small molecules for AD.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2218-273X/11/4/543/pdf?version=1617941462"
+}

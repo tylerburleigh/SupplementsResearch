@@ -1,0 +1,42 @@
+{
+  "id": "src-056",
+  "title": "Nutritional supplementation alters associations between one-carbon metabolites and cardiometabolic risk profiles in older adults: a secondary analysis of the Vienna Active Ageing Study",
+  "authors": [
+    "Gillies, Nicola A.",
+    "Franzke, Bernhard",
+    "Wessner, Barbara",
+    "Schober-Halper, Barbara",
+    "Hofmann, Marlene",
+    "Oesen, Stefan",
+    "Tosevska, Anela",
+    "Strasser, Eva-Maria",
+    "Roy, Nicole C.",
+    "Milan, Amber M.",
+    "Cameron-Smith, David",
+    "Wagner, Karl-Heinz"
+  ],
+  "year": 2022,
+  "abstract": "Abstract\nPurpose\nCardiovascular diseases and cognitive decline, predominant in ageing populations, share common features of dysregulated one-carbon (1C) and cardiometabolic homeostasis. However, few studies have addressed the impact of multifaceted lifestyle interventions in older adults that combine both nutritional supplementation and resistance training on the co-regulation of 1C metabolites and cardiometabolic markers.\n\nMethods\n95 institutionalised older adults (83 ± 6 years, 88.4% female) were randomised to receive resistance training with or without nutritional supplementation (Fortifit), or cognitive training (control for socialisation) for 6 months. Fasting plasma 1C metabolite concentrations, analysed by liquid chromatography coupled with mass spectrometry, and cardiometabolic parameters were measured at baseline and the 3- and 6-month follow-ups.\n\nResults\nRegardless of the intervention group, choline was elevated after 3 months, while cysteine and methionine remained elevated after 6 months (mixed model time effects, p &lt; 0.05). Elevated dimethylglycine and lower betaine concentrations were correlated with an unfavourable cardiometabolic profile at baseline (spearman correlations, p &lt; 0.05). However, increasing choline and dimethylglycine concentrations were associated with improvements in lipid metabolism in those receiving supplementation (regression model interaction, p &lt; 0.05).\n\nConclusion\nCholine metabolites, including choline, betaine and dimethylglycine, were central to the co-regulation of 1C metabolism and cardiometabolic health in older adults. Metabolites that indicate upregulated betaine-dependent homocysteine remethylation were elevated in those with the greatest cardiometabolic risk at baseline, but associated with improvements in lipid parameters following resistance training with nutritional supplementation. The relevance of how 1C metabolite status might be optimised to protect against cardiometabolic dysregulation requires further attention.",
+  "doi": "10.1007/s00394-021-02607-y",
+  "url": "https://doi.org/10.1007/s00394-021-02607-y",
+  "pdf_url": "",
+  "venue": "European Journal of Nutrition",
+  "citation_count": 4,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-20T18:30:09.828073+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-056.md",
+  "quality_details": {
+    "content_length": 65975,
+    "alpha_ratio": 0.679,
+    "sentence_count": 469,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "src-277",
+  "title": "Metabolic Derangement of Essential Transition Metals and Potential Antioxidant Therapies",
+  "authors": [
+    "Fontes, Adriana",
+    "Jauch, A.",
+    "Sailer, Judith",
+    "Engler, Jonas",
+    "Azul, Anabela Marisa",
+    "Zischka, Hans"
+  ],
+  "doi": "10.3390/ijms25147880",
+  "url": "https://openalex.org/W4400769042",
+  "provider": "openalex",
+  "year": 2024,
+  "venue": "International Journal of Molecular Sciences",
+  "citation_count": 8,
+  "abstract": "Essential transition metals have key roles in oxygen transport, neurotransmitter synthesis, nucleic acid repair, cellular structure maintenance and stability, oxidative phosphorylation, and metabolism. The balance between metal deficiency and excess is typically ensured by several extracellular and intracellular mechanisms involved in uptake, distribution, and excretion. However, provoked by either intrinsic or extrinsic factors, excess iron, zinc, copper, or manganese can lead to cellular damage upon chronic or acute exposure, frequently attributed to oxidative stress. Intracellularly, mitochondria are the organelles that require the tightest control concerning reactive oxygen species production, which inevitably leaves them to be one of the most vulnerable targets of metal toxicity. Current therapies to counteract metal overload are focused on chelators, which often cause secondary effects decreasing patients' quality of life. New therapeutic options based on synthetic or natural antioxidants have proven positive effects against metal intoxication. In this review, we briefly address the cellular metabolism of transition metals, consequences of their overload, and current therapies, followed by their potential role in inducing oxidative stress and remedies thereof.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/1422-0067/25/14/7880/pdf?version=1721306303"
+}

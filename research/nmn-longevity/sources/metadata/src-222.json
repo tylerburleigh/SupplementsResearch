@@ -1,0 +1,28 @@
+{
+  "id": "src-222",
+  "title": "Circadian rhythm disruption impairs ovarian follicular development via NAD+ metabolic reprogramming",
+  "authors": [
+    "Ying, Yan-Yun",
+    "Chen, Xin",
+    "Yao, Sen-Yi",
+    "Chen, Rui-Xue",
+    "Ying, Y.",
+    "Qiu, Hong",
+    "Xu, Qi-Qi",
+    "Li, Zhengyi",
+    "Ye, C.",
+    "Qian, Yu",
+    "Liang, Hongqing",
+    "Sun, Xiao",
+    "Zhang, Dan"
+  ],
+  "doi": "10.1016/j.ebiom.2026.106200",
+  "url": "https://www.semanticscholar.org/paper/f00fdc9d2ff3bdb8d99547aad50ebb3c3501ee39",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "EBioMedicine",
+  "citation_count": 0,
+  "abstract": "Summary Background Circadian rhythms play a crucial role in human health, including reproductive health. Disruption of circadian rhythm is associated with female infertility. However, how circadian disruption affects ovarian function remains unclear. The main purpose of this study is to verify the impact of long-photoperiod exposure on follicular development and ovarian function. Methods In this study, we employed long-photoperiod (LP) conditions (18 h lightness/6 h darkness) in rats to mimic increased light exposure in human lifestyles. Hormone indicators, oestrus cycle, ovary morphology, follicular development and ovulation were used to validate the ovarian function. To investigate the underlying mechanisms, a series of experiments, including RNA sequencing, metabolomics, ChIP/qPCR, transmission electron microscopy, immunofluorescence, and western blotting, were conducted. Additionally, the impact of nicotinamide mononucleotide (NMN) on ovarian function was evaluated using the mentioned methods above. Findings LP exposure reduced the number of growing ovarian follicles and retrieved oocytes. Mechanistically, LP exposure led to granulosa cell oxidative stress and mitochondria dysfunction via inhibiting SIRT3 activity and SOD2 deacetylation. Metabolomic analysis showed that LP exposure lowered NAD+ levels, a cofactor that determines SIRT3 deacetylase activity. Further study showed that NAMPT, the rate-limiting enzyme in NAD+ synthesis, exhibited a circadian rhythmic expression pattern in the ovary, and LP exposure disrupted the ovarian circadian expression of NAMPT through the core clock protein BMAL1. Treatment with the NAD+ metabolic precursor nicotinamide mononucleotide could ameliorate mitochondria function and increase the numbers of antral follicles (49.56 ± 0.55 vs. 21.83 ± 1.35, p = 0.001) and retrieved oocytes (18.40 ± 1.91 vs. 3.80 ± 1.16, p < 0.001) in LP-exposed rats. Interpretation Our study demonstrates that circadian rhythm disruption by LP exposure affect follicular development and ovulation through impaired NAD+ metabolism, and suggests targeting NAD+ pathways as a potential therapeutic strategy for ovarian diseases. Funding This work was supported by the 10.13039/501100012166National Natural Science Foundation of China - Joint Fund for Regional Innovation and Development, the 10.13039/501100001809National Natural Science Foundation of China, the National Key Research and Development Program of China.",
+  "type": "academic",
+  "pdf_url": ""
+}

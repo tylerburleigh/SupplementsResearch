@@ -1,0 +1,22 @@
+{
+  "id": "src-140",
+  "title": "Causal Factors of Nonischemic Cardiomyopathy: A Contemporary Review of Mendelian Randomization Studies.",
+  "authors": [
+    "Dhabuwala, Anushka",
+    "Senapati, Sidhartha Gautam",
+    "Lapsiwala, Boney",
+    "Wala, LoveKumar",
+    "Madhavaram, Neeharika John",
+    "Kolli, Dhanush",
+    "Desai, Rupak"
+  ],
+  "doi": "10.1097/crd.0000000000001006",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40801410",
+  "provider": "pubmed",
+  "year": 2025,
+  "venue": "Cardiology in review",
+  "citation_count": 0,
+  "abstract": "Nonischemic cardiomyopathies (NICMs), encompassing hypertrophic (HCM), dilated (DCM), restrictive, arrhythmogenic right ventricular cardiomyopathy/dysplasia, and nondilated left ventricular cardiomyopathies, contribute significantly to cardiovascular morbidity, representing nearly 50% of cardiac transplants. Despite improved genetic and imaging techniques, underdiagnosis persists, particularly for HCM. Mendelian randomization (MR) studies provide a powerful method to identify causal risk factors, overcoming limitations of observational studies and randomized controlled trials. This manuscript reviews MR studies to identify causal factors for NICM, including endocrine, neurological, psychological, musculoskeletal, and microbial influences, and evaluates their implications for diagnostics and therapeutics. We reviewed MR studies using genetic variants as instrumental variables to establish causality. Studies employed one-sample and 2-sample MR, univariable and multivariable analyses, and large-scale genome-wide association study data. Causal relationships between exposures (eg, thyroid dysfunction, type-1 diabetes, iron overload, gut microbiome) and NICM subtypes were assessed, focusing on mediators such as inflammatory biomarkers. MR studies confirmed causal links between NICM and autoimmune endocrinopathies (eg, Hashimoto's thyroiditis and type-1 diabetes), iron overload, obesity, smoking, stress/irritability, and gut microbial taxa. Inflammatory biomarkers, such as monokine induced by interferon-gamma, mediated endocrine pathways. Alzheimer's disease showed a protective effect, while bone mineral density and homocysteine lacked causality. Genetic loci (eg, SVIL and RBM20) were implicated in HCM and DCM. Population stratification biased results, limiting generalizability. MR studies reveal diverse NICM causal factors, supporting precision medicine via enhanced screening and therapies targeting inflammatory mediators and microbial influences. Future research should improve population diversity, validate causal pathways, and explore the cardiac-gut-microbiome axis.",
+  "type": "academic",
+  "pdf_url": ""
+}

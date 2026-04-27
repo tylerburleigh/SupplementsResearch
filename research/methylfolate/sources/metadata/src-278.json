@@ -1,0 +1,21 @@
+{
+  "id": "src-278",
+  "title": "Platinum-folate compounds: synthesis, properties and biological activity.",
+  "authors": [
+    "Vitols, K S",
+    "Montejano, Y",
+    "Duffy, T",
+    "Pope, L",
+    "Grundler, G",
+    "Huennekens, F M"
+  ],
+  "doi": "10.1016/0065-2571(87)90004-5",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/3673704",
+  "provider": "pubmed",
+  "year": 1987,
+  "venue": "Advances in enzyme regulation",
+  "citation_count": 0,
+  "abstract": "Cis-diamminediaquaplatinum(II)-ion, the biologically active form of the anticancer agent Cisplatin, reacted readily with tetrahydrofolate at pH 7 and 37 degrees C to produce a stable complex. The reaction was monitored spectrophotometrically by the change in absorbance maximum from 298 nm (tetrahydrofolate) to 275 nm (complex); occurrence of isobestic points at 282 and 327 nm indicated that a single product was formed. Purity of platinum-tetrahydrofolate, after isolation in ca. 70% yield, was established by TLC and HPLC. Elemental analysis, absorbance spectra at various pH values and nmr spectra provided evidence that the diammine platinum moiety was bridged across the N-5 and N-10 positions of tetrahydrofolate. Complexation also occurred with 5-methyltetrahydrofolate, 5-formyltetrahydrofolate, Methotrexate and aminopterin, but not with folate or 7,8-dihydrofolate. Biological implications of these observations have been investigated. Intracellular folates in L1210 cells have been identified and quantitated via reverse phase HPLC (C18 column; tetrabutylammonium phosphate as the pairing ion) and changes in the levels of these compounds, after exposure of cells to Cisplatin, have been measured. Platinum derivatives of tetrahydrofolate or other reduced folates were not found, but there was a decrease in the level of 5,10-methenyltetrahydrofolate, accompanied by an increase in 5-formyl and 10-formyltetrahydrofolate (and perhaps tetrahydrofolate). The chemical interaction of the diaqua form of Cisplatin with Methotrexate resulted in decreased uptake of the latter by L1210 cells. The platinum complex of tetrahydrofolate was a reasonably good inhibitor (Ki = 4 microM) of L1210 dihydrofolate reductase and of the folate transport system (50% inhibition at ca. 200 microM) of L1210 cells.",
+  "type": "academic",
+  "pdf_url": ""
+}

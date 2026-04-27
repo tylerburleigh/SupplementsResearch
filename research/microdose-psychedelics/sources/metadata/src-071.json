@@ -1,0 +1,17 @@
+{
+  "id": "src-071",
+  "title": "Classic Psychedelic Drugs: Update on Biological Mechanisms",
+  "authors": [
+    "Vollenweider, Franz X.",
+    "Smallridge, John W"
+  ],
+  "doi": "10.1055/a-1721-2914",
+  "url": "https://openalex.org/W4210625095",
+  "provider": "openalex",
+  "year": 2022,
+  "venue": "Pharmacopsychiatry",
+  "citation_count": 102,
+  "abstract": "Renewed interest in the effects of psychedelics in the treatment of psychiatric disorders warrants a better understanding of the neurobiological mechanisms underlying the effects of these substances. During the past two decades, state-of-the-art studies of animals and humans have yielded new important insights into the molecular, cellular, and systems-level actions of psychedelic drugs. These efforts have revealed that psychedelics affect primarily serotonergic receptor subtypes located in cortico-thalamic and cortico-cortical feedback circuits of information processing. Psychedelic drugs modulate excitatory-inhibitory balance in these circuits and can participate in neuroplasticity within brain structures critical for the integration of information relevant to sensation, cognition, emotions, and the narrative of self. Neuroimaging studies showed that characteristic dimensions of the psychedelic experience obtained through subjective questionnaires as well as alterations in self-referential processing and emotion regulation obtained through neuropsychological tasks are associated with distinct changes in brain activity and connectivity patterns at multiple-system levels. These recent results suggest that changes in self-experience, emotional processing, and social cognition may contribute to the potential therapeutic effects of psychedelics.",
+  "type": "academic",
+  "pdf_url": "http://www.thieme-connect.de/products/ejournals/pdf/10.1055/a-1721-2914.pdf"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "src-063",
+  "title": "Publisher Correction: Nicotinamide riboside for peripheral artery disease: the NICE randomized clinical trial",
+  "authors": [
+    "McDermott, Mary M.",
+    "Martens, Christopher R.",
+    "Domanchuk, Kathryn J.",
+    "Zhang, Dongxue",
+    "Peek, Clara B.",
+    "Criqui, Michael H.",
+    "Ferrucci, Luigi",
+    "Greenland, Philip",
+    "Guralnik, Jack M.",
+    "Ho, Karen J.",
+    "Kibbe, Melina R.",
+    "Kosmac, Kate",
+    "Lloyd-Jones, Donald",
+    "Peterson, Charlotte A.",
+    "Sufit, Robert",
+    "Tian, Lu",
+    "Wohlgemuth, Stephanie",
+    "Zhao, Lihui",
+    "Zhu, Pei",
+    "Leeuwenburgh, Christiaan"
+  ],
+  "year": 2024,
+  "abstract": "",
+  "doi": "10.1038/s41467-024-51289-7",
+  "url": "https://doi.org/10.1038/s41467-024-51289-7",
+  "pdf_url": "",
+  "venue": "Nature Communications",
+  "citation_count": 2,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-20T20:26:33.367455+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-063.md",
+  "quality_details": {
+    "content_length": 1865,
+    "alpha_ratio": 0.745,
+    "sentence_count": 20,
+    "reasons": [
+      "paywall_page (access this article)"
+    ]
+  }
+}

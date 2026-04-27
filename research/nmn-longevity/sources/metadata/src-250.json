@@ -1,0 +1,21 @@
+{
+  "id": "src-250",
+  "title": "Nicotinamide Mononucleotide Decreases Secretion of Proinflammatory Cytokines via the NAD + /SIRT1/p65 Axis",
+  "authors": [
+    "Zhang, Dongyuan",
+    "Li, Zhiqiang",
+    "Meng, Xianbin",
+    "Wang, Tianxiang",
+    "Miao, Zelong",
+    "Deng, Haiteng"
+  ],
+  "doi": "10.1021/acsomega.5c09277",
+  "url": "https://www.semanticscholar.org/paper/1f83fefaef561d19a622719c85af856a57fd0a7b",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "ACS Omega",
+  "citation_count": 0,
+  "abstract": "Senescence-associated secretory phenotype (SASP) is a typical trait of senescent cells that contributes to aging and chronic diseases. Consequently, SASP is considered a potential antiaging target. Senomorphics are small molecules that cause SASP blockage to provide effective antiaging interventions. The identification and discovery of senomorphics is an extremely promising new branch of antiaging research. In this study, we found that nicotinamide mononucleotide (NMN) efficiently inhibits the secretion of multiple proinflammatory cytokines by senescent cells. We further showed that supplementation with NMN significantly increases NAD+ levels in senescent cells, which activates the NAD+-dependent deacetylase SIRT1 and thereby reduces acetylation of p65 at Lys310. Deacetylation suppresses p65 activity and inhibits the secretion of proinflammatory cytokines. Together, these results indicated that NMN is a potential senomorphic that acts via the NAD+/SIRT1/p65 axis.",
+  "type": "academic",
+  "pdf_url": ""
+}

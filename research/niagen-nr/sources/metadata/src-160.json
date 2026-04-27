@@ -1,0 +1,29 @@
+{
+  "id": "src-160",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://www.nature.com/articles/s41467-019-13172-8.pdf",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "pdf",
+  "provider": "",
+  "fetched_at": "2026-04-20T20:48:50.857718+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-160.md",
+  "quality_details": {
+    "content_length": 115697,
+    "alpha_ratio": 0.723,
+    "sentence_count": 1582,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

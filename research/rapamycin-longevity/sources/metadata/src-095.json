@@ -1,0 +1,29 @@
+{
+  "id": "src-095",
+  "title": "A randomized control trial to establish the feasibility and safety of rapamycin treatment in an older human cohort: Immunological, physical performance, and cognitive effects.",
+  "authors": [
+    "Kraig, Ellen",
+    "Linehan, Leslie A",
+    "Liang, Hanyu",
+    "Romo, Terry Q",
+    "Liu, Qianqian",
+    "Wu, Yubo",
+    "Benavides, Adriana D",
+    "Curiel, Tyler J",
+    "Javors, Martin A",
+    "Musi, Nicolas",
+    "Chiodo, Laura",
+    "Koek, Wouter",
+    "Gelfond, Jonathan A L",
+    "Kellogg, Dean L"
+  ],
+  "doi": "10.1016/j.exger.2017.12.026",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/29408453",
+  "provider": "pubmed",
+  "year": 2018,
+  "venue": "Experimental gerontology",
+  "citation_count": 0,
+  "abstract": "Inhibition of the mechanistic target of rapamycin (mTOR) pathway by rapamycin (RAPA), an FDA-approved immunosuppressive drug used as a clinical therapy to prevent solid organ allograft rejection, enhances longevity in mice. Importantly, RAPA was efficacious even when initiated in relatively old animals, suggesting that mTOR inhibition could potentially slow the progression of aging-associated pathologies in older humans (Harrison et al., 2009; Miller et al., 2011). However, the safety and tolerability of RAPA in older human subjects have not yet been demonstrated. Towards this end, we undertook a placebo-controlled pilot study in 25 generally healthy older adults (aged 70-95 years); subjects were randomized to receive either 1 mg RAPA or placebo daily. Although three subjects withdrew, 11 RAPA and 14 controls completed at least 8 weeks of treatment and were included in the analysis. We monitored for changes that would indicate detrimental effects of RAPA treatment on metabolism, including both standard clinical laboratory assays (CBC, CMP, HbA1c) and oral glucose tolerance tests (OGTTs). We also monitored parameters typically associated with aging that could potentially be modified by RAPA; these included cognitive function which was assessed by three different tools: Executive Interview-25 (EXIT25); Saint Louis University Mental Status Exam (SLUMS); and Texas Assessment of Processing Speed (TAPS). In addition, physical performance was measured by handgrip strength and 40-foot timed walks. Lastly, changes in general parameters of healthy immune aging, including serum pro-inflammatory cytokine levels and blood cell subsets, were assessed. Five subjects reported potential adverse side effects; in the RAPA group, these were limited to facial rash (1 subject), stomatitis (1 subject) and gastrointestinal issues (2 subjects) whereas placebo treated subjects only reported stomatitis (1 subject). Although no other adverse events were reported, statistically significant decrements in several erythrocyte parameters including hemoglobin (HgB) and hematocrit (Hct) as well as in red blood cell count (RBC), red blood cell distribution width (RDW), mean corpuscular volume (MCV), and mean corpuscular hemoglobin (MCH) were observed in the RAPA-treatment group. None of these changes manifested clinically significant effects during the short duration of this study. Similarly, no changes were noted in any other clinical laboratory, cognitive, physical performance, or self-perceived health status measure over the study period. Immune parameters were largely unchanged as well, possibly due to the advanced ages of the cohort (70-93 years; mean age 80.5). RAPA-associated increases in a myeloid cell subset and in TREGS were detected, but changes in most other PBMC cell subsets were not statistically significant. Importantly, the OGTTs revealed no RAPA-induced change in blood glucose concentration, insulin secretion, and insulin sensitivity. Thus, based on the results of our pilot study, it appears that short-term RAPA treatment can be used safely in older persons who are otherwise healthy; a trial with a larger sample size and longer treatment duration is warranted.",
+  "type": "academic",
+  "pdf_url": ""
+}

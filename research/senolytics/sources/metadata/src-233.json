@@ -1,0 +1,19 @@
+{
+  "id": "src-233",
+  "title": "Clearance of senescent cells with ABT-263 improves biological functions of synovial mesenchymal stem cells from osteoarthritis patients",
+  "authors": [
+    "Miura, Yugo",
+    "Endo, Kentaro",
+    "Komori, Keiichiro",
+    "Sekiya, I."
+  ],
+  "doi": "10.1186/s13287-022-02901-4",
+  "url": "https://www.semanticscholar.org/paper/3942c61005b05310af8e7425a046147f2cf997c5",
+  "provider": "semantic_scholar",
+  "year": 2022,
+  "venue": "Stem cell research & therapeutics",
+  "citation_count": 41,
+  "abstract": "Background Osteoarthritis (OA) is an age-related joint disease characterized by progressive cartilage loss. Synovial mesenchymal stem cells (MSCs) are anticipated as a cell source for OA treatment; however, synovial MSC preparations isolated from OA patients contain many senescent cells that inhibit cartilage regeneration through their senescence-associated secretory phenotype (SASP) and poor chondrogenic capacity. The aim of this study was to improve the biological function of OA synovial MSCs by removing senescent cells using the senolytic drug ABT-263. Methods We pretreated synovial MSCs derived from 5 OA patients with ABT-263 for 24 h and then evaluated senescence-associated beta-galactosidase (SA-β-gal) activity, B cell lymphoma 2 (BCL-2) activity, apoptosis, surface antigen expression, colony formation ability, and multipotency. Results The ABT-263 pretreatment significantly decreased the percentage of SA-β-gal-positive cells and BCL-2 expression and induced early- and late-stage apoptosis. Cleaved caspase-3 was expressed in SA-β-gal-positive cells. The pretreated MSCs formed greater numbers of colonies with larger diameters. The expression rate of CD34 was decreased in the pretreated cells. Differentiation assays revealed that ABT-263 pretreatment enhanced the adipogenic and chondrogenic capabilities of OA synovial MSCs. In chondrogenesis, the pretreated cells produced greater amounts of glycosaminoglycan and type II collagen and showed lower expression of senescence markers (p16 and p21) and SASP factors (MMP-13 and IL-6) and smaller amounts of type I collagen. Conclusion Pretreatment of synovial MSCs from OA patients with ABT-263 can improve the function of the cells by selectively eliminating senescent cells. These findings indicate that ABT-263 could hold promise for the development of effective cell-based OA therapy.",
+  "type": "academic",
+  "pdf_url": "https://stemcellres.biomedcentral.com/counter/pdf/10.1186/s13287-022-02901-4"
+}

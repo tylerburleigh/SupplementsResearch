@@ -1,0 +1,19 @@
+{
+  "id": "src-150",
+  "title": "No Evidence of a Causal Relationship between Plasma Homocysteine and Type 2 Diabetes: A Mendelian Randomization Study.",
+  "authors": [
+    "Kumar, Jitender",
+    "Ingelsson, Erik",
+    "Lind, Lars",
+    "Fall, Tove"
+  ],
+  "doi": "10.3389/fcvm.2015.00011",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/26664883",
+  "provider": "pubmed",
+  "year": 2015,
+  "venue": "Frontiers in cardiovascular medicine",
+  "citation_count": 0,
+  "abstract": "BACKGROUND: Several observational studies have shown an association between increased circulating homocysteine and risk of type 2 diabetes (T2D). We aimed to assess whether this relation is causal using genetic data from large populations of individuals of European descent.\nMETHODS: We investigated the association between homocysteine concentrations and blood glucose, plasma insulin, T2D in the Prospective Investigation of the Vasculature in Uppsala Seniors (PIVUS) cohort (n = 1,016). A score of five previously published single nucleotide polymorphisms (SNPs) from genes involved in homocysteine metabolism were utilized as genetic instrument for homocysteine concentrations. The effect estimate of this genetic score with T2D was determined using results from the DIAbetes Genetics Replication And Meta-analysis (DIAGRAM) consortium (including 34,840 cases and 114,981 controls). Further, the effects of the genetic score with fasting glucose and insulin were determined using results from the Meta-Analyses of Glucose and Insulin-related traits Consortium (MAGIC) (up to 38,238 non-diabetic participants).\nRESULTS: The genetic score provided a strong instrument for homocysteine concentrations (P = 2.7 × 10(-143), F = 650). In the PIVUS cohort, we found an association of homocysteine with fasting insulin [β = 0.056 (95% CI 0.021, 0.090), P = 0.001], but not with incident diabetes. We did not find any evidence of a causal effect of homocysteine on fasting glucose, fasting insulin, or T2D (P > 0.05 for all analyses) when using data from DIAGRAM or MAGIC studies.\nCONCLUSION: No evidence of a causal relationship of levels of plasma homocysteine with fasting glucose, fasting insulin, or T2D was observed.",
+  "type": "academic",
+  "pdf_url": ""
+}

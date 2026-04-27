@@ -1,0 +1,20 @@
+{
+  "id": "src-350",
+  "title": "SIRT1-Mediated Expression of CD24 and Epigenetic Suppression of Novel Tumor Suppressor miR-1185-1 Increases Colorectal Cancer Stemness",
+  "authors": [
+    "Wang, Teh-Wei",
+    "Chern, Edward",
+    "Hsu, Chao-Wei",
+    "Tseng, Kuo-Chang",
+    "Chao, Hsiao-Mei"
+  ],
+  "doi": "10.1158/0008-5472.can-19-3188",
+  "url": "https://www.semanticscholar.org/paper/b6a4b22fad3e160bd699c7d765faf31d41f37495",
+  "provider": "semantic_scholar",
+  "year": 2020,
+  "venue": "Cancer Research",
+  "citation_count": 41,
+  "abstract": "A novel tumor suppressor miR-1185-1 is involved in molecular regulation of CD24- and SIRT1-related cancer stemness networks, marking it a potential therapeutic target in colorectal cancer. NAD-dependent deacetylase sirtuin-1 (SIRT1) is a class III histone deacetylase that positively regulates cancer-related pathways such as proliferation and stress resistance. SIRT1 has been shown to promote progression of colorectal cancer and is associated with cancer stemness, yet the precise mechanism between colorectal cancer stemness and SIRT1 remains to be further clarified. Here we report that SIRT1 signaling regulates colorectal cancer stemness by enhancing expression of CD24, a colorectal cancer stemness promoter. A novel miRNA, miR-1185-1, suppressed the expression of CD24 by targeting its 3′UTR (untranslated region) and could be inhibited by SIRT1 via histone deacetylation. Targeting SIRT1 by RNAi led to elevated H3 lysine 9 acetylation on the promoter region of miR-1185-1, which increased expression of miR-1185-1 and further repressed CD24 translation and colorectal cancer stemness. In a mouse xenograft model, overexpression of miR-1185-1 in colorectal cancer cells substantially reduced tumor growth. In addition, expression of miR-1185-1 was downregulated in human colorectal cancer tissues, whereas expression of CD24 was increased. In conclusion, this study not only demonstrates the essential roles of a SIRT1–miR-1185-1–CD24 axis in both colorectal cancer stemness properties and tumorigenesis but provides a potential therapeutic target for colorectal cancer treatment. Significance: A novel tumor suppressor miR-1185-1 is involved in molecular regulation of CD24- and SIRT1-related cancer stemness networks, marking it a potential therapeutic target in colorectal cancer. Graphical Abstract: http://cancerres.aacrjournals.org/content/canres/80/23/5257/F1.large.jpg. Graphical Abstract",
+  "type": "academic",
+  "pdf_url": "https://aacrjournals.org/cancerres/article-pdf/80/23/5257/2796991/5257.pdf"
+}

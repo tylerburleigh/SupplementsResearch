@@ -1,0 +1,10 @@
+34	2	Abstract
+48	2	Introduction
+141	2	Statistical Analysis
+155	2	Results
+161	2	Materials And Methods
+259	2	Discussion
+327	2	Conclusion
+334	2	References
+377	2	Mapk
+380	2	Akt

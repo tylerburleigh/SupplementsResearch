@@ -1,0 +1,36 @@
+{
+  "id": "src-065",
+  "title": "Effects of Taurine Supplementation on Vascular Endothelial Function at Rest and After Resistance Exercise",
+  "authors": [
+    "Ra, Song-Gyu",
+    "Choi, Youngju",
+    "Akazawa, Nobuhiko",
+    "Kawanaka, Kentaro",
+    "Ohmori, Hajime",
+    "Maeda, Seiji"
+  ],
+  "year": 2019,
+  "abstract": "",
+  "doi": "10.1007/978-981-13-8023-5_38",
+  "url": "https://doi.org/10.1007/978-981-13-8023-5_38",
+  "pdf_url": "",
+  "venue": "Advances in Experimental Medicine and Biology",
+  "citation_count": 18,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-19T11:33:31.824928+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-065.md",
+  "quality_details": {
+    "content_length": 12662,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "src-238",
+  "title": "The Role of Antioxidants in the Interplay between Oxidative Stress and Senescence",
+  "authors": [
+    "Varesi, Angelica",
+    "Chirumbolo, Salvatore",
+    "Campagnoli, Lucrezia Irene Maria",
+    "Pierella, Elisa",
+    "Piccini, Gaia Bavestrello",
+    "Carrara, Adelaide",
+    "Ricevuti, Giovanni",
+    "Scassellati, Catia",
+    "Bonvicini, Cristian",
+    "Pascale, Alessia"
+  ],
+  "doi": "10.3390/antiox11071224",
+  "url": "https://openalex.org/W4283318547",
+  "provider": "openalex",
+  "year": 2022,
+  "venue": "Antioxidants",
+  "citation_count": 125,
+  "abstract": "Cellular senescence is an irreversible state of cell cycle arrest occurring in response to stressful stimuli, such as telomere attrition, DNA damage, reactive oxygen species, and oncogenic proteins. Although beneficial and protective in several physiological processes, an excessive senescent cell burden has been involved in various pathological conditions including aging, tissue dysfunction and chronic diseases. Oxidative stress (OS) can drive senescence due to a loss of balance between pro-oxidant stimuli and antioxidant defences. Therefore, the identification and characterization of antioxidant compounds capable of preventing or counteracting the senescent phenotype is of major interest. However, despite the considerable number of studies, a comprehensive overview of the main antioxidant molecules capable of counteracting OS-induced senescence is still lacking. Here, besides a brief description of the molecular mechanisms implicated in OS-mediated aging, we review and discuss the role of enzymes, mitochondria-targeting compounds, vitamins, carotenoids, organosulfur compounds, nitrogen non-protein molecules, minerals, flavonoids, and non-flavonoids as antioxidant compounds with an anti-aging potential, therefore offering insights into innovative lifespan-extending approaches.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2076-3921/11/7/1224/pdf?version=1656999506"
+}

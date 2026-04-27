@@ -1,0 +1,16 @@
+{
+  "id": "src-166",
+  "title": "Lipoprotein(a) and Cardiovascular Disease",
+  "authors": [
+    "Kamstrup, Pia R."
+  ],
+  "doi": "10.1093/clinchem/hvaa247",
+  "url": "https://openalex.org/W3108845718",
+  "provider": "openalex",
+  "year": 2020,
+  "venue": "Clinical Chemistry",
+  "citation_count": 244,
+  "abstract": "Evidence from mechanistic, observational, and genetic studies support a causal role of lipoprotein(a) in the development of cardiovascular disease, including coronary heart disease and peripheral arterial disease, as well as aortic valve stenosis, and likely also ischemic stroke. Effect sizes are most pronounced for myocardial infarction, peripheral arterial disease, and aortic valve stenosis where high lipoprotein(a) concentrations predict 2- to 3-fold increases in risk. Lipoprotein(a) measurements should be performed using well-validated assays with traceability to a recognized calibrator to ensure common cut-offs for high concentrations and risk assessment. Randomized cardiovascular outcome trials are needed to provide final evidence of causality and to assess the potential clinical benefit of novel, potent lipoprotein(a) lowering therapies.",
+  "type": "academic",
+  "pdf_url": "https://academic.oup.com/clinchem/article-pdf/67/1/154/35548504/hvaa247.pdf"
+}

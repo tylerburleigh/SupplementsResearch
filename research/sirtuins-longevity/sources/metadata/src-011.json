@@ -1,0 +1,30 @@
+{
+  "id": "src-011",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://www.bmbreports.org/view.html",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-23T11:13:17.181405+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "empty",
+  "content_file": "sources/src-011.md",
+  "quality_details": {
+    "content_length": 27,
+    "alpha_ratio": 0.852,
+    "sentence_count": 0,
+    "reasons": [
+      "content too short (27 chars < 500)",
+      "few sentences detected (0 < 3)"
+    ]
+  }
+}

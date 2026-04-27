@@ -1,0 +1,27 @@
+{
+  "id": "src-308",
+  "title": "Discovery and biochemical characterization of prenyltransferases in the biosynthetic pathway of hericenones from Hericium erinaceus.",
+  "authors": [
+    "Han, Haiyan",
+    "Peng, Shuang",
+    "Yang, Yuxin",
+    "Lin, Chao",
+    "Wang, Pengchao",
+    "Li, Chang",
+    "Zhao, Peipei",
+    "Gong, Wenbing",
+    "Xie, Chunliang",
+    "Xia, Xuekui",
+    "Qi, Jianzhao",
+    "Liu, Chengwei"
+  ],
+  "doi": "10.1016/j.bioorg.2025.108822",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40759078",
+  "provider": "pubmed",
+  "year": 2025,
+  "venue": "Bioorganic chemistry",
+  "citation_count": 0,
+  "abstract": "Hericenones, neurotrophic meroterpenoids from the medicinal mushroom Hericium erinaceus, exhibit remarkable nerve growth factor-enhancing properties with therapeutic potential for neurodegenerative disorders. Biosynthesis of these compounds requires prenyltransferase (PT)-mediated geranylation of orsellinic acid (OA, 1), though the fungal enzymes catalyzing this pivotal step remain uncharacterised. Through comprehensive genome mining of H. erinaceus, we identified eight putative UbiA-type prenyltransferases (HePT1-8). Heterologous expression in Aspergillus oryzae coupled with substrate-feeding assays revealed HePT8 as a geranyltransferase capable of 1 geranylation, producing cannabigerorcinic acid (2) - the committed precursor of hericenones. Notably, HePT7 demonstrated divergent specificity for dimethylallyl transfer to 4-hydroxybenzoate. Systematic mutagenesis uncovered critical catalytic residues (H40/D96/D100/D211/D218/Y158) coordinating Mg2+-diphosphate interactions and substrate positioning in HePT8. This work not only elucidates the foundational step in hericenone biosynthesis but significantly expands the catalytic repertoire of fungal PTs through the discovery of multifunctional enzymes with substrate plasticity. Our findings provide essential tools for bioengineering novel meroterpenoids and illuminate evolutionary convergence in fungal secondary metabolism.",
+  "type": "academic",
+  "pdf_url": ""
+}

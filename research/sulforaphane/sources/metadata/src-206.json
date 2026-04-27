@@ -1,0 +1,25 @@
+{
+  "id": "src-206",
+  "title": "Sulforaphane Attenuates Methamphetamine-Induced Neurotoxicity via Activation of the PI3K/AKT Pathway.",
+  "authors": [
+    "Li, Shuyue",
+    "Zhang, Jinlong",
+    "Li, Xuezhi",
+    "Zhang, Guoan",
+    "Ren, Lipin",
+    "Yang, Chongjun",
+    "Niu, Shuliang",
+    "Cui, Wen",
+    "Wang, Yequan",
+    "Yan, Jie"
+  ],
+  "doi": "10.1002/jbt.70769",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41797270",
+  "provider": "pubmed",
+  "year": 2026,
+  "venue": "Journal of biochemical and molecular toxicology",
+  "citation_count": 0,
+  "abstract": "Methamphetamine (METH) is a widely abused psychostimulant known to induce neurotoxicity through oxidative stress and apoptosis. Sulforaphane (SFN), a natural compound found in cruciferous vegetables, has shown neuroprotective potential, but its role in METH-induced neuronal injury remains unclear. In this study, we integrated network pharmacology together with in vitro and in vivo experiments to investigate the protective effects of SFN and its underlying mechanisms. A total of 235 overlapping targets were identified between SFN and METH-related neurotoxicity, with significant enrichment in apoptosis and the PI3K/AKT signaling pathway. Molecular docking suggested a potential interaction between SFN and AKT1 with favorable binding affinity. In HT22 hippocampal neuronal cells, SFN significantly improved cell viability, restored the Bcl-2/BAX ratio, inhibited caspase-3 activation, and reduced nuclear damage caused by METH. These protective effects were associated with increased phosphorylation of PI3K and AKT, and were markedly diminished by the PI3K inhibitor LY294002. In a METH-induced neurotoxicity mouse model, SFN ameliorated hippocampal histopathological damage, reduced TUNEL-positive apoptotic cells, and normalized the expression of BAX, Bcl-2, cleaved caspase-3, and phosphorylated PI3K/AKT. These findings suggest that SFN alleviates METH-induced neurotoxicity by activating the PI3K/AKT pathway and inhibiting mitochondria-dependent apoptosis, providing evidence for its potential as a therapeutic candidate for METH-related neuronal injury.",
+  "type": "academic",
+  "pdf_url": ""
+}

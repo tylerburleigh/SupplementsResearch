@@ -1,0 +1,16 @@
+{
+  "id": "src-254",
+  "title": "Why do so many trials of vitamin D supplementation fail?",
+  "authors": [
+    "Boucher, Barbara J."
+  ],
+  "doi": "10.1530/ec-20-0274",
+  "url": "https://openalex.org/W3049481728",
+  "provider": "openalex",
+  "year": 2020,
+  "venue": "Endocrine Connections",
+  "citation_count": 65,
+  "abstract": "Our knowledge of vitamin D has come a long way since the 100 years it took for doctors to accept, between 1860 and 1890, that both sunlight and cod liver oil (a well-known folk remedy) cured and prevented rickets. Vitamins D2/D3 were discovered exactly a hundred years ago, and over the last 50 years vitamin D has been found to have many effects on virtually all human tissues and not just on bone health, while mechanisms affecting the actions of vitamin D at the cellular level are increasingly understood, but deficiency persists globally. Observational studies in humans have shown that better provision of vitamin D is strongly associated, dose-wise, with reductions in current and future health risks in line with the known actions of vitamin D. Randomised controlled trials, commonly accepted as providing a 'gold standard' for assessing the efficacy of new forms of treatment, have frequently failed to provide supportive evidence for the expected health benefits of supplementation. Such RCTs, however, have used designs evolved for testing drugs while vitamin D is a nutrient; the appreciation of this difference is critical to identifying health benefits from existing RCT data and for improving future RCT design. This report aims, therefore, to provide a brief overview of the evidence for a range of non-bony health benefits of vitamin D repletion; to discuss specific aspects of vitamin D biology that can confound RCT design and how to allow for them.",
+  "type": "academic",
+  "pdf_url": "https://ec.bioscientifica.com/downloadpdf/journals/ec/9/9/EC-20-0274.pdf"
+}

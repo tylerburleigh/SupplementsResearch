@@ -1,0 +1,18 @@
+{
+  "id": "src-241",
+  "title": "Regulation of Mitochondrial Biogenesis as a Way for Active Longevity: Interaction Between the Nrf2 and PGC-1α Signaling Pathways",
+  "authors": [
+    "Gureev, Artem P.",
+    "Shaforostova, Ekaterina A.",
+    "Попов, В. Н."
+  ],
+  "doi": "10.3389/fgene.2019.00435",
+  "url": "https://openalex.org/W2945516613",
+  "provider": "openalex",
+  "year": 2019,
+  "venue": "Frontiers in Genetics",
+  "citation_count": 610,
+  "abstract": "Aging is a general degenerative process related to deterioration of cell functions in the entire organism. Mitochondria, which play a key role in energy homeostasis and metabolism of reactive oxygen species (ROS), require lifetime control and constant renewal. This explains recently peaked interest in the processes of mitochondrial biogenesis and mitophagy. The principal event of mitochondrial metabolism is regulation of mitochondrial DNA (mtDNA) transcription and translation, which is a complex coordinated process that involves at least two systems of transcription factors. It is commonly believed that its major regulatory proteins are PGC-1α and PGC-1β, which act as key factors connecting several regulator cascades involved in the control of mitochondrial metabolism. In recent years, the number of publications on the essential role of Nrf2/ARE signaling in the regulation of mitochondrial biogenesis has grown exponentially. Nrf2 is induced by various xenobiotics and oxidants that oxidize some Nrf2 negative regulators. Thus, ROS, in particular H<sub>2</sub>O<sub>2</sub>, were found to be strong Nrf2 activators. At present, there are two major concepts of mitochondrial biogenesis. Some authors suggest direct involvement of Nrf2 in the regulation of this process. Others believe that Nrf2 regulates expression of the antioxidant genes, while the major and only regulator of mitochondrial biogenesis is PGC-1α. Several studies have demonstrated the existence of the regulatory loop involving both PGC-1α and Nrf2. In this review, we summarized recent data on the Nrf2 role in mitochondrial biogenesis and its interaction with PGC-1α in the context of extending longevity.",
+  "type": "academic",
+  "pdf_url": "https://www.frontiersin.org/articles/10.3389/fgene.2019.00435/pdf"
+}

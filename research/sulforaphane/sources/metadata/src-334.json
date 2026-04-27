@@ -1,0 +1,22 @@
+{
+  "id": "src-334",
+  "title": "Brusatol enhances the efficacy of chemotherapy by inhibiting the Nrf2-mediated defense mechanism",
+  "authors": [
+    "Ren, Dong‐Mei",
+    "Villeneuve, Nicole",
+    "Jiang, Tao",
+    "Wu, Tongde",
+    "Lau, Alexandria",
+    "Toppin, Henry A.",
+    "Zhang, Donna D."
+  ],
+  "doi": "10.1073/pnas.1014275108",
+  "url": "https://openalex.org/W2077950988",
+  "provider": "openalex",
+  "year": 2011,
+  "venue": "Proceedings of the National Academy of Sciences",
+  "citation_count": 640,
+  "abstract": "The major obstacle in cancer treatment is the resistance of cancer cells to therapies. Nrf2 is a transcription factor that regulates a cellular defense response and is ubiquitously expressed at low basal levels in normal tissues due to Keap1-dependent ubiquitination and proteasomal degradation. Recently, Nrf2 has emerged as an important contributor to chemoresistance. High constitutive expression of Nrf2 was found in many types of cancers, creating an environment conducive for cancer cell survival. Here, we report the identification of brusatol as a unique inhibitor of the Nrf2 pathway that sensitizes a broad spectrum of cancer cells and A549 xenografts to cisplatin and other chemotherapeutic drugs. Mechanistically, brusatol selectively reduces the protein level of Nrf2 through enhanced ubiquitination and degradation of Nrf2. Consequently, expression of Nrf2-downstream genes is reduced and the Nrf2-dependent protective response is suppressed. In A549 xenografts, brusatol and cisplatin cotreatment induced apoptosis, reduced cell proliferation, and inhibited tumor growth more substantially when compared with cisplatin treatment alone. Additionally, A549-K xenografts, in which Nrf2 is expressed at very low levels due to ectopic expression of Keap1, do not respond to brusatol treatment, demonstrating that brusatol-mediated sensitization to cisplatin is Nrf2 dependent. Moreover, a decrease in drug detoxification and impairment in drug removal may be the primary mechanisms by which brusatol enhances the efficacy of chemotherapeutic drugs. Taken together, these results clearly demonstrate the effectiveness of using brusatol to combat chemoresistance and suggest that brusatol can be developed into an adjuvant chemotherapeutic drug.",
+  "type": "academic",
+  "pdf_url": ""
+}

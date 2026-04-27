@@ -1,0 +1,18 @@
+{
+  "id": "src-250",
+  "title": "Clonal hematopoiesis and atherosclerosis",
+  "authors": [
+    "Oren, Ohad",
+    "Small, Aeron M",
+    "Libby, Peter"
+  ],
+  "doi": "10.1172/jci180066",
+  "url": "https://openalex.org/W4402968578",
+  "provider": "openalex",
+  "year": 2024,
+  "venue": "Journal of Clinical Investigation",
+  "citation_count": 47,
+  "abstract": "Clonal hematopoiesis of indeterminate potential (CHIP) has emerged as a previously unrecognized, potent, age-related, and common risk factor for atherosclerosis. Somatic mutations in certain known leukemia driver genes give rise to clones of mutant cells in peripheral blood. The increased risk of developing hematologic malignancy does not, on its own, explain excess mortality in individuals with CHIP. Cardiovascular disease accounts for much of this gap. Experimental evidence supports the causality of certain CHIP mutations in accelerated atherosclerosis. CHIP due to mutations in different driver genes varies in their promotion of atherosclerotic events and in the region of augmented atherosclerotic involvement. For example, CHIP due to mutations in DNMT3a appears less atherogenic than CHIP that arises from TET2 or JAK2, forms of CHIP that incite inflammation. The recognition of certain CHIP mutations as promoters of atherosclerotic risk has opened new insights into understanding of the pathophysiology of this disease. The accentuated cardiovascular risk and involvement of distinct pathways of various forms of CHIP also inform novel approaches to allocation of targeted therapies, affording a step toward personalized medicine.",
+  "type": "academic",
+  "pdf_url": "http://www.jci.org/articles/view/180066/files/pdf"
+}

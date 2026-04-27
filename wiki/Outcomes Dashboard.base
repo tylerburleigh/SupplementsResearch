@@ -1,0 +1,29 @@
+filters:
+  and:
+    - file.inFolder("wiki")
+    - or:
+      - contains(file.tags, "#outcome")
+      - contains(file.tags, "#condition")
+      - contains(file.tags, "#risk-domain")
+      - contains(file.tags, "#gene")
+      - contains(file.tags, "#variant")
+      - contains(file.tags, "#genotype")
+properties:
+  concept_type:
+    displayName: Concept Type
+  domain:
+    displayName: Domain
+  updated:
+    displayName: Updated
+views:
+  - type: table
+    name: Outcomes Conditions Risk Domains
+    groupBy:
+      property: concept_type
+      direction: ASC
+    order:
+      - file.name
+      - concept_type
+      - domain
+      - file.tags
+      - updated

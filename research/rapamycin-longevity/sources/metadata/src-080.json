@@ -1,0 +1,22 @@
+{
+  "id": "src-080",
+  "title": "Influence of rapamycin on safety and healthspan metrics after one year: PEARL trial results.",
+  "authors": [
+    "Moel, Mauricio",
+    "Harinath, Girish",
+    "Lee, Virginia",
+    "Nyquist, Andy",
+    "Morgan, Stefanie L",
+    "Isman, Anar",
+    "Zalzala, Sajad"
+  ],
+  "doi": "10.18632/aging.206235",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40188830",
+  "provider": "pubmed",
+  "year": 2025,
+  "venue": "Aging",
+  "citation_count": 0,
+  "abstract": "DESIGN: This 48-week decentralized, double-blinded, randomized, placebo-controlled trial (NCT04488601) evaluated the long-term safety of intermittent low-dose rapamycin in a healthy, normative-aging human cohort. Participants received placebo, 5 mg or 10 mg compounded rapamycin weekly. The primary outcome measure was visceral adiposity (by DXA scan), secondary outcomes were blood biomarkers, and lean tissue and bone mineral content (by DXA scan). Established surveys were utilized to evaluate health and well-being. Safety was assessed through adverse events and blood biomarker monitoring.\nRESULTS: Adverse and serious adverse events were similar across all groups. Visceral adiposity did not change significantly (ηp2 = 0.001, p = 0.942), and changes in blood biomarkers remained within normal ranges. Lean tissue mass (ηp2 = 0.202, p = 0.013) and self-reported pain (ηp2 = 0.168, p = 0.015) improved significantly for women using 10 mg rapamycin. Self-reported emotional well-being (ηp2 = 0.108, p = 0.023) and general health (ηp2 = 0.166, p = 0.004) also improved for those using 5 mg rapamycin. No other significant effects were observed.\nCONCLUSIONS: Low-dose, intermittent rapamycin administration over 48 weeks is relatively safe in healthy, normative-aging adults, and was associated with significant improvements in lean tissue mass and pain in women. Future work will evaluate benefits of a broader range of rapamycin doses on healthspan metrics for longevity, and will aim to more comprehensively establish efficacy.",
+  "type": "academic",
+  "pdf_url": ""
+}

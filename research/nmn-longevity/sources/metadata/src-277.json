@@ -1,0 +1,20 @@
+{
+  "id": "src-277",
+  "title": "Effect of everolimus administration on renal function in renal transplant recipients: A systematic review and dose-response meta-analysis.",
+  "authors": [
+    "Ohyama, T.",
+    "Yoshihiro, Shodai",
+    "Fujikura, T.",
+    "Miyauchi, Takamasa",
+    "Kataoka, Yuki"
+  ],
+  "doi": "10.1016/j.trre.2025.100911",
+  "url": "https://www.semanticscholar.org/paper/c71f1611c3196e7a374e1da66c6018cd625f70c6",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "Transplantation reviews",
+  "citation_count": 1,
+  "abstract": "Everolimus (EVL) is an effective post-transplant immunosuppressant; however, its optimal trough concentration when switching from calcineurin inhibitors (CNIs) remains unknown. The optimal dosing troughs for CNI-to-EVL switching in kidney transplant recipients were investigated. We searched multiple electronic databases (from inception to March 15, 2024) to identify double-blind or open-label randomized controlled trials evaluating groups (all ages, both sexes) that converted from CNIs to EVL and continued CNI treatment in kidney transplant recipients. Treatment responses, defined as changes in estimated glomerular filtration rate (eGFR), mortality, dropouts for any reason, and adverse events, were the outcomes. We performed a random-effects, one-stage dose-effect meta-analysis with restricted cubic splines. Nine studies were included, comprising 1872 participants. Changes in eGFR increased with increasing trough concentrations; however, the evidence was highly uncertain (95 % effective dose: 4.13 ng/mL, odds ratio [OR]: 1.31, 95 % confidence interval [CI]: 0.10-9.50). Mortality was not estimated owing to the low number of events. The evidence for the relationship between EVL trough levels and treatment discontinuation was also highly uncertain (OR: 1.31, 95 % CI: 0.10-9.39). Adverse events increased with a switch to EVL; however, this evidence was also uncertain (OR: 1.31, 95 % CI: 0.10-9.60). This study could not indicate an appropriate optimal EVL trough concentration owing to the high result uncertainty, and the results do not support the routine switch from CNIs to EVL. Further trials are required to explore the CNI-to-EVL switch timing and the effects of increased EVL dosing to establish a more definitive therapeutic strategy.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.1016/j.trre.2025.100911"
+}

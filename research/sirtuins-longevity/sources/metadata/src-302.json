@@ -1,0 +1,24 @@
+{
+  "id": "src-302",
+  "title": "Convergent evolution of H4K16ac-mediated dosage compensation in the ZW species Artemia franciscana",
+  "authors": [
+    "Zimmer, Frederic",
+    "Fox, Annika Maria",
+    "Pan, Qiaowei",
+    "Rühle, Frank",
+    "Andersen, Peter",
+    "Huylmans, A.",
+    "Schwander, Tanja",
+    "Basilicata, M. F.",
+    "Valsecchi, C. I. Keller"
+  ],
+  "doi": "10.1371/journal.pgen.1011895",
+  "url": "https://www.semanticscholar.org/paper/6b11f9e74f3d42133157a673234d0c2413ab3302",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "PLoS Genetics",
+  "citation_count": 3,
+  "abstract": "Sex chromosomes impact chromatin organization and histone modification dynamics differently between males and females, particularly those involved in dosage compensation (DC). The evolutionary diversity, as well as the tissue- and age-dependent variations of DC mechanisms are incompletely understood. Here, we investigate the occurrence of histone H4 lysine 16 acetylation (H4K16ac), previously known for its role in sex chromosome DC in the male-heterogametic fruit fly Drosophila melanogaster and the green anole lizard Anolis carolinensis. By sampling multiple arthropods, we find the convergent evolution of H4K16ac for DC in a female-heterogametic (ZW) species, the crustacean Artemia franciscana. CUT&Tag analysis demonstrates that H4K16ac is confined to the non-recombining stratum of the Z chromosome in females. H4K16ac-mediated DC is established during embryogenesis. In aged individuals, we observe an overall decline in nuclear organization, disrupted H4K16ac territories and increased variability in local acetylation levels on the female Z chromosome. Our findings shed light on the evolutionary diversity of DC across species and raise the possibility of sex-specific histone acetylation contributing to male-female differences in lifespan.",
+  "type": "academic",
+  "pdf_url": ""
+}

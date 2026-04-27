@@ -1,0 +1,23 @@
+{
+  "id": "src-148",
+  "title": "Inverse Relationship Between Serum Carotenoid Levels and Cardiovascular-Kidney-Metabolic Syndrome Among the General Adult Population.",
+  "authors": [
+    "Chen, Mengli",
+    "Cai, Shuyue",
+    "Jia, Qinfeng",
+    "Suo, Yifang",
+    "Tang, Yuan",
+    "Shi, Yanping",
+    "Zhu, Xu",
+    "Zhang, Haifeng"
+  ],
+  "doi": "10.1111/1753-0407.70046",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39887849",
+  "provider": "pubmed",
+  "year": 2025,
+  "venue": "Journal of diabetes",
+  "citation_count": 0,
+  "abstract": "OBJECTIVE: To examine the relationship between serum carotenoid levels and cardiovascular-kidney-metabolic (CKM) syndrome in a representative sample of US adults.\nMETHODS: Data from the fasting subsample of the NHANES 2017-2018 were analyzed using a survey-weighted approach to ensure the findings are representative of the broader US adult population. Serum levels of α-carotene, β-carotene, β-cryptoxanthin, lutein/zeaxanthin, and lycopene were measured using high-performance liquid chromatography. CKM syndrome stages were defined according to the 2023 American Heart Association guidelines, with advanced CKM syndrome categorized as stages 3 or 4. Associations between serum carotenoids and advanced CKM syndrome were assessed using logistic regression and weighted quantile sum (WQS) regression.\nRESULTS: The study included 1671 adults aged 20 years and older, with a mean age of 48.7 years and a gender distribution of 50.9% female and 49.1% male. Higher serum levels of α-carotene, β-carotene, α-cryptoxanthin, lutein/zeaxanthin, and lycopene were inversely associated with advanced CKM syndrome. Specifically, compared to the lowest quartile, the highest quartile of α-carotene had an odds ratio (OR) of 0.29 (95% CI: 0.16-0.55), β-carotene 0.35 (95% CI: 0.16-0.78), α-cryptoxanthin 0.23 (95% CI: 0.11-0.49), lutein/zeaxanthin 0.26 (95% CI: 0.14-0.48), and lycopene 0.58 (95% CI: 0.35-0.98). However, β-cryptoxanthin did not show a significant association. Moreover, the combined effect of all carotenoids was significantly negatively correlated with advanced CKM syndrome (OR = 0.67, 95% CI: 0.53-0.86), with lutein/zeaxanthin contributing the most (44.56%).\nCONCLUSIONS: Elevated serum carotenoid levels are inversely associated with the prevalence of advanced CKM syndrome in a dose-dependent manner, with this association remaining consistent across diverse demographic and health subgroups.",
+  "type": "academic",
+  "pdf_url": ""
+}

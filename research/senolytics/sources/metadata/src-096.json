@@ -1,0 +1,21 @@
+{
+  "id": "src-096",
+  "title": "Age-associated callus senescent cells produce TGF-β1 that inhibits fracture healing in aged mice.",
+  "authors": [
+    "Liu, Jiatong",
+    "Zhang, Jun",
+    "Lin, Xi",
+    "Boyce, Brendan F",
+    "Zhang, Hengwei",
+    "Xing, Lianping"
+  ],
+  "doi": "10.1172/jci148073",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35426372",
+  "provider": "pubmed",
+  "year": 2022,
+  "venue": "The Journal of clinical investigation",
+  "citation_count": 0,
+  "abstract": "Cellular senescence plays an important role in human diseases, including osteoporosis and osteoarthritis. Senescent cells (SCs) produce the senescence-associated secretory phenotype to affect the function of neighboring cells and SCs themselves. Delayed fracture healing is common in the elderly and is accompanied by reduced mesenchymal progenitor cells (MPCs). However, the contribution of cellular senescence to fracture healing in the aged has not to our knowledge been studied. Here, we used C57BL/6J 4-month-old young and 20-month-old aged mice and demonstrated a rapid increase in SCs in the fracture callus of aged mice. The senolytic drugs dasatinib plus quercetin enhanced fracture healing in aged mice. Aged callus SCs inhibited the growth and proliferation of callus-derived MPCs (CaMPCs) and expressed high levels of TGF-β1. TGF-β-neutralizing Ab prevented the inhibitory effects of aged callus SCs on CaMPCs and promoted fracture healing in aged mice, which was associated with increased CaMPCs and proliferating cells. Thus, fracture triggered a significant cellular senescence in the callus cells of aged mice, which inhibited MPCs by expressing TGF-β1. Short-term administration of dasatinib plus quercetin depleted callus SCs and accelerated fracture healing in aged mice. Senolytic drugs represent a promising therapy, while TGF-β1 signaling is a molecular mechanism for fractures in the elderly via SCs.",
+  "type": "academic",
+  "pdf_url": ""
+}

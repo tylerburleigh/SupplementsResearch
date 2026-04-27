@@ -1,0 +1,16 @@
+{
+  "id": "src-334",
+  "title": "Analysis of a novel phenazine antibiotic gene cluster in Erwinia herbicola Eh1087 : A biological control agent for fireblight",
+  "authors": [
+    "Giddens, Stephen R."
+  ],
+  "doi": "10.26021/7715",
+  "url": "https://openalex.org/W21580502",
+  "provider": "openalex",
+  "year": 2002,
+  "venue": "University of Canterbury Research Repository (University of Canterbury)",
+  "citation_count": 3,
+  "abstract": "The present study advances genetic, molecular biology, and biochemical analyses of antibiotic production by Erwinia herbicola (syn. Pantoea agglomerans) strain Eh1087, a candidate for biological control of the Fire Blight pathogen Erwinia amylovora. Three research areas were investigated concurrently: i) the role of antibiosis in biological control by Eh1087, ii) the genetic basis of antibiotic production, and iii) the nature of the antibiotic. Antibiotic production was shown to be an important biological control mechanism since removal of an antibiotic synthesis gene cluster in Eh1087 significantly decreased the ability of this bacterium to suppress the colonization of apple blossom stigmas by E. amylovora strain Ea8862. A region of DNA sufficient for antibiotic production and resistance was identified and characterized by molecular genetic analyses. Evidence suggesting that this DNA region did not originate in Eh1087 is presented. The region was found to contain a cluster of 16 genes designated ehp (Erwinia herbicola phenazine) using a combination of DNA sequence analyses, minicell protein analyses, and the correlation of mutation with the production of coloured AGA intermediates by many ehp mutants. The function and regulation of the genes within the cluster were determined by the use of classical syntrophic and DNA-complementation experiments. Each biosynthetic gene was assigned to one of four Groups according to the function of their products in antibiotic biosynthesis, while a single gene was shown to provide antibiotic resistance. A pathway for antibiotic biosynthesis is proposed that involves intracellular synthesis of a phenazine nucleus, modification and translocation of this nucleus to the periplasm, and finally the activation and release of antibiotic from the producing cell. Purification and analysis of the Eh1087 antibiotic demonstrated that the ehp genes confer on Eh1087 the ability to produce the phenazine antibiotic D-alanylgriseoluteic acid (AGA). This is the first example of the isolation of a phenazine antibiotic from a species of Erwinia (or Pantoea), and only the second isolation of AGA as a natural product. The characterization of various AGA properties led to predictions about its mode of action.",
+  "type": "academic",
+  "pdf_url": "http://hdl.handle.net/10092/6786"
+}

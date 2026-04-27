@@ -1,0 +1,29 @@
+{
+  "id": "src-023",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://www.cedars-sinai.org/stories-and-insights/healthy-living/should-you-take-creatine-what-to-know-before-you-supplement",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-21T12:54:31.710605+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-023.md",
+  "quality_details": {
+    "content_length": 9146,
+    "alpha_ratio": 0.819,
+    "sentence_count": 88,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

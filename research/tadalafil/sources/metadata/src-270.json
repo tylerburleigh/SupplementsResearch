@@ -1,0 +1,26 @@
+{
+  "id": "src-270",
+  "title": "Outcomes With Phosphodiesterase-5 Inhibitor Use After Left Ventricular Assist Device: An STS-INTERMACS Analysis.",
+  "authors": [
+    "Grandin, E Wilson",
+    "Gulati, Gaurav",
+    "Nunez, Jose I",
+    "Kennedy, Kevin",
+    "Rame, J Eduardo",
+    "Atluri, Pavan",
+    "Pagani, Francis D",
+    "Kirklin, James K",
+    "Kormos, Robert L",
+    "Teuteberg, Jeffrey",
+    "Kiernan, Michael S"
+  ],
+  "doi": "10.1161/circheartfailure.121.008613",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35332780",
+  "provider": "pubmed",
+  "year": 2022,
+  "venue": "Circulation. Heart failure",
+  "citation_count": 0,
+  "abstract": "BACKGROUND: Elevated right ventricular afterload following continuous-flow left ventricular assist device (CF-LVAD) may contribute to late right heart failure (LRHF). PDE5i (phosphodiesterase-5 inhibitors) are used to treat pulmonary hypertension and right heart dysfunction after CF-LVAD, but their impact on outcomes is uncertain.\nMETHODS: We queried Interagency Registry for Mechanically Assisted Circulatory Support from 2012 to 2017 for adults receiving a primary CF-LVAD and surviving ≥30 days from index discharge. Patients receiving early PDE5i (ePDE5i) at 1 month were propensity-matched 1:1 with controls. The primary outcome was the cumulative incidence of LRHF, defined using prevailing Interagency Registry for Mechanically Assisted Circulatory Support criteria; secondary outcomes included all-cause mortality and major bleeding.\nRESULTS: Among 9627 CF-LVAD recipients analyzed, 2463 (25.6%) received ePDE5i and 1600 were propensity-matched 1:1 with controls. Before implant, ePDE5i patients had more severe RV dysfunction (13.1% versus 9.6%) and higher pulmonary vascular resistance (2.8±2.7 versus 2.2±2.4 WU), both P<0.001, but clinical factors were well-balanced after propensity-matching. In the unmatched cohort, ePDE5i patients had a higher 3-year cumulative incidence of LRHF, mortality, and major bleeding, but these differences were attenuated in the propensity-matched cohort: LRHF 40.8% versus 35.7% (hazard ratio, 1.14 [95% CI, 0.99-1.32]; P=0.07); mortality 38.6% versus 35.8% (hazard ratio, 0.99 [95% CI, 0.86-1.15]; P=0.93); major bleeding 51.2% versus 46.0% (hazard ratio, 1.12 [95% CI, 0.99-1.27]; P=0.06).\nCONCLUSIONS: Compared with propensity-matched controls, adult CF-LVAD patients receiving ePDE5i had similar rates of LRHF, mortality, and major bleeding. While intrinsic patient risk factors likely account for more adverse outcomes with ePDE5i in the unmatched cohort, there is no obvious benefit of ePDE5i in the LVAD population.",
+  "type": "academic",
+  "pdf_url": ""
+}

@@ -1,0 +1,25 @@
+{
+  "id": "src-105",
+  "title": "Sulforaphane Targets TRA-1/GLI Upstream of DAF-16/FOXO to Promote C. elegans Longevity and Healthspan",
+  "authors": [
+    "Ji, Huihui",
+    "Qi, Zhimin",
+    "Schrapel, Daniel",
+    "Le, Monika",
+    "Luo, Yiqiao",
+    "Yan, Bin-yuan",
+    "Gladkich, J.",
+    "Schaefer, M.",
+    "Liu, Li",
+    "Herr, I."
+  ],
+  "doi": "10.3389/fcell.2021.784999",
+  "url": "https://www.semanticscholar.org/paper/d3d14c72467f1f767fa33e6132759b33506ba303",
+  "provider": "semantic_scholar",
+  "year": 2021,
+  "venue": "Frontiers in Cell and Developmental Biology",
+  "citation_count": 12,
+  "abstract": "Broccoli-derived isothiocyanate sulforaphane inhibits inflammation and cancer. Sulforaphane may support healthy aging, but the underlying detailed mechanisms are unclear. We used the C. elegans nematode model to address this question. Wild-type and 4 mutant C. elegans worm strains were fed in the presence or absence of sulforaphane and E. coli food bacteria transfected with RNA interference gene constructs. Kaplan–Meier survival analysis, live imaging of mobility and pharyngeal pumping, fluorescence microscopy, RT–qPCR, and Western blotting were performed. In the wild type, sulforaphane prolonged lifespan and increased mobility and food intake because of sulforaphane-induced upregulation of the sex-determination transcription factor TRA-1, which is the ortholog of the human GLI mediator of sonic hedgehog signaling. In turn, the tra-1 target gene daf-16, which is the ortholog of human FOXO and the major mediator of insulin/IGF-1 and aging signaling, was induced. By contrast, sulforaphane did not prolong lifespan and healthspan when tra-1 or daf-16 was inhibited by RNA interference or when worms with a loss-of-function mutation of the tra-1 or daf-16 genes were used. Conversely, the average lifespan of C. elegans with hyperactive TRA-1 increased by 8.9%, but this longer survival was abolished by RNAi-mediated inhibition of daf-16. Our data suggest the involvement of sulforaphane in regulating healthy aging and prolonging lifespan by inducing the expression and nuclear translocation of TRA-1/GLI and its downstream target DAF-16/FOXO.",
+  "type": "academic",
+  "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8678450"
+}

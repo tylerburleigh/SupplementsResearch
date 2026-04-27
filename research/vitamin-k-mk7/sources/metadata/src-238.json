@@ -1,0 +1,17 @@
+{
+  "id": "src-238",
+  "title": "Electronic Connection Between the Quinone and Cytochrome<i>c</i>Redox Pools and Its Role in Regulation of Mitochondrial Electron Transport and Redox Signaling",
+  "authors": [
+    "Sarewicz, Marcin",
+    "Osyczka, Artur"
+  ],
+  "doi": "10.1152/physrev.00006.2014",
+  "url": "https://openalex.org/W1994474036",
+  "provider": "openalex",
+  "year": 2014,
+  "venue": "Physiological Reviews",
+  "citation_count": 163,
+  "abstract": "Mitochondrial respiration, an important bioenergetic process, relies on operation of four membranous enzymatic complexes linked functionally by mobile, freely diffusible elements: quinone molecules in the membrane and water-soluble cytochromes c in the intermembrane space. One of the mitochondrial complexes, complex III (cytochrome bc1 or ubiquinol:cytochrome c oxidoreductase), provides an electronic connection between these two diffusible redox pools linking in a fully reversible manner two-electron quinone oxidation/reduction with one-electron cytochrome c reduction/oxidation. Several features of this homodimeric enzyme implicate that in addition to its well-defined function of contributing to generation of proton-motive force, cytochrome bc1 may be a physiologically important point of regulation of electron flow acting as a sensor of the redox state of mitochondria that actively responds to changes in bioenergetic conditions. These features include the following: the opposing redox reactions at quinone catalytic sites located on the opposite sides of the membrane, the inter-monomer electronic connection that functionally links four quinone binding sites of a dimer into an H-shaped electron transfer system, as well as the potential to generate superoxide and release it to the intermembrane space where it can be engaged in redox signaling pathways. Here we highlight recent advances in understanding how cytochrome bc1 may accomplish this regulatory physiological function, what is known and remains unknown about catalytic and side reactions within the quinone binding sites and electron transfers through the cofactor chains connecting those sites with the substrate redox pools. We also discuss the developed molecular mechanisms in the context of physiology of mitochondria.",
+  "type": "academic",
+  "pdf_url": "http://ruj.uj.edu.pl/xmlui/handle/item/7327"
+}

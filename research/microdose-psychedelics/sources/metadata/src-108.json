@@ -1,0 +1,23 @@
+{
+  "id": "src-108",
+  "title": "Bedside to bench: the outlook for psychedelic research",
+  "authors": [
+    "Acero, Victor P.",
+    "Cribas, Emily S.",
+    "Browne, Kevin D.",
+    "Rivellini, Olivia",
+    "Burrell, Justin C.",
+    "O’Donnell, John C.",
+    "Das, Suradip",
+    "Cullen, D. Kacy"
+  ],
+  "doi": "10.3389/fphar.2023.1240295",
+  "url": "https://openalex.org/W4387267866",
+  "provider": "openalex",
+  "year": 2023,
+  "venue": "Frontiers in Pharmacology",
+  "citation_count": 19,
+  "abstract": "There has recently been a resurgence of interest in psychedelic compounds based on studies demonstrating their potential therapeutic applications in treating post-traumatic stress disorder, substance abuse disorders, and treatment-resistant depression. Despite promising efficacy observed in some clinical trials, the full range of biological effects and mechanism(s) of action of these compounds have yet to be fully established. Indeed, most studies to date have focused on assessing the psychological mechanisms of psychedelics, often neglecting the non-psychological modes of action. However, it is important to understand that psychedelics may mediate their therapeutic effects through multi-faceted mechanisms, such as the modulation of brain network activity, neuronal plasticity, neuroendocrine function, glial cell regulation, epigenetic processes, and the gut-brain axis. This review provides a framework supporting the implementation of a multi-faceted approach, incorporating <i>in silico</i>, <i>in vitro</i> and <i>in vivo</i> modeling, to aid in the comprehensive understanding of the physiological effects of psychedelics and their potential for clinical application beyond the treatment of psychiatric disorders. We also provide an overview of the literature supporting the potential utility of psychedelics for the treatment of brain injury (e.g., stroke and traumatic brain injury), neurodegenerative diseases (e.g., Parkinson's and Alzheimer's diseases), and gut-brain axis dysfunction associated with psychiatric disorders (e.g., generalized anxiety disorder and major depressive disorder). To move the field forward, we outline advantageous experimental frameworks to explore these and other novel applications for psychedelics.",
+  "type": "academic",
+  "pdf_url": "https://www.frontiersin.org/articles/10.3389/fphar.2023.1240295/pdf?isPublishedV2=False"
+}

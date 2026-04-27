@@ -1,0 +1,22 @@
+{
+  "id": "src-146",
+  "title": "The Role of CYP2E1 in the Drug Metabolism or Bioactivation in the Brain",
+  "authors": [
+    "García-Suástegui, Wendy Argelia",
+    "Ramos-Chávez, Lucio Antonio",
+    "Rubio‐Osornio, Moisés",
+    "Calvillo-Velasco, M.",
+    "Atzin-Méndez, J. A.",
+    "Guevara, Jorge",
+    "Silva‐Adaya, Daniela"
+  ],
+  "doi": "10.1155/2017/4680732",
+  "url": "https://openalex.org/W2569238091",
+  "provider": "openalex",
+  "year": 2017,
+  "venue": "Oxidative Medicine and Cellular Longevity",
+  "citation_count": 116,
+  "abstract": "Organisms have metabolic pathways that are responsible for removing toxic agents. We always associate the liver as the major organ responsible for detoxification of the body; however this process occurs in many tissues. In the same way, as in the liver, the brain expresses metabolic pathways associated with the elimination of xenobiotics. Besides the detoxifying role of CYP2E1 for compounds such as electrophilic agents, reactive oxygen species, free radical products, and the bioactivation of xenobiotics, CYP2E1 is also related in several diseases and pathophysiological conditions. In this review, we describe the presence of phase I monooxygenase CYP2E1 in regions of the brain. We also explore the conditions where protein, mRNA, and the activity of CYP2E1 are induced. Finally, we describe the relation of CYP2E1 in brain disorders, including the behavioral relations for alcohol consumption via CYP2E1 metabolism.",
+  "type": "academic",
+  "pdf_url": "http://downloads.hindawi.com/journals/omcl/2017/4680732.pdf"
+}

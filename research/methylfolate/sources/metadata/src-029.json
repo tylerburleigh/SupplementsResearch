@@ -1,0 +1,20 @@
+{
+  "id": "src-029",
+  "title": "Causal Relationship of Susceptibility Genes to Ischemic Stroke: Comparison to Ischemic Heart Disease and Biochemical Determinants",
+  "authors": [
+    "Bentley, Paul",
+    "Peck, George",
+    "Smeeth, Liam",
+    "Whittaker, John C.",
+    "Sharma, Pankaj"
+  ],
+  "doi": "10.1371/journal.pone.0009136",
+  "url": "https://openalex.org/W2058180580",
+  "provider": "openalex",
+  "year": 2010,
+  "venue": "PLoS ONE",
+  "citation_count": 84,
+  "abstract": "Interrelationships between genetic and biochemical factors underlying ischemic stroke and ischemic heart disease are poorly understood. We: 1) undertook the most comprehensive meta-analysis of genetic polymorphisms in ischemic stroke to date; 2) compared genetic determinants of ischemic stroke with those of ischemic heart disease, and 3) compared effect sizes of gene-stroke associations with those predicted from independent biochemical data using a mendelian randomization strategy. Electronic databases were searched up to January 2009. We identified: 1) 187 ischemic stroke studies (37,481 cases; 95,322 controls) interrogating 43 polymorphisms in 29 genes; 2) 13 meta-analyses testing equivalent polymorphisms in ischemic heart disease; and 3) for the top five gene-stroke associations, 146 studies (65,703 subjects) describing equivalent gene-biochemical relationships, and 28 studies (46,928 subjects) describing biochemical-stroke relationships. Meta-analyses demonstrated positive associations with ischemic stroke for factor V Leiden Gln506, ACE I/D, MTHFR C677T, prothrombin G20210A, PAI-1 5G allele and glycoprotein IIIa Leu33Pro polymorphisms (ORs: 1.11 - 1.60). Most genetic associations show congruent levels of risk comparing ischemic stroke with ischemic heart disease, but three genes--glycoprotein IIIa, PAI-1 and angiotensinogen--show significant dissociations. The magnitudes of stroke risk observed for factor V Leiden, ACE, MTHFR and prothrombin, but not PAI-1, polymorphisms, are consistent with risks associated with equivalent changes in activated protein C resistance, ACE activity, homocysteine, prothrombin, and PAI-1 levels, respectively. Our results demonstrate causal relationships for four of the most robust genes associated with stroke while also showing that PAI-1 4G/5G polymorphism influences cardiovascular risk via a mechanism not simply related to plasma levels of PAI-1 (or tPA) alone.",
+  "type": "academic",
+  "pdf_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0009136&type=printable"
+}

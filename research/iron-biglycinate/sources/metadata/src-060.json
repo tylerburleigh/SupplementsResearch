@@ -1,0 +1,32 @@
+{
+  "id": "src-060",
+  "title": "Iron Supplementation in Athletes",
+  "authors": [
+    "Nielsen, Peter",
+    "Nachtigall, Detlef"
+  ],
+  "year": 1998,
+  "abstract": "",
+  "doi": "10.2165/00007256-199826040-00001",
+  "url": "https://doi.org/10.2165/00007256-199826040-00001",
+  "pdf_url": "",
+  "venue": "Sports Medicine",
+  "citation_count": 96,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T18:08:38.642692+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-060.md",
+  "quality_details": {
+    "content_length": 12665,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

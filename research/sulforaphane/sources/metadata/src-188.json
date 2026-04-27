@@ -1,0 +1,23 @@
+{
+  "id": "src-188",
+  "title": "Sulforaphane protects developing neural networks from VPA-induced synaptic alterations.",
+  "authors": [
+    "Bessetti, Riley N",
+    "Cobb, Michelle",
+    "Lilley, Rosario M",
+    "Johnson, Noah Z",
+    "Perez, Daisy A",
+    "Koonce, Virginia M",
+    "McCoy, Krista",
+    "Litwa, Karen A"
+  ],
+  "doi": "10.1038/s41380-025-02967-5",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40175519",
+  "provider": "pubmed",
+  "year": 2025,
+  "venue": "Molecular psychiatry",
+  "citation_count": 0,
+  "abstract": "Prenatal brain development is particularly sensitive to chemicals that can disrupt synapse formation and cause neurodevelopmental disorders. In most cases, such chemicals increase cellular oxidative stress. For example, prenatal exposure to the anti-epileptic drug valproic acid (VPA), induces oxidative stress and synaptic alterations, promoting autism spectrum disorders (ASD) in humans and autism-like behaviors in rodents. Using VPA to model chemically induced ASD, we tested whether activation of cellular mechanisms that increase antioxidant gene expression would be sufficient to prevent VPA-induced synaptic alterations. As a master regulator of cellular defense pathways, the transcription factor nuclear factor erythroid 2-related factor 2 (NRF2) promotes expression of detoxification enzymes and antioxidant gene products. To increase NRF2 activity, we used the phytochemical and potent NRF2 activator, sulforaphane (SFN). In our models of human neurodevelopment, SFN activated NRF2, increasing expression of antioxidant genes and preventing oxidative stress. SFN also enhanced expression of genes associated with synapse formation. Consistent with these gene expression profiles, SFN protected developing neural networks from VPA-induced reductions in synapse formation. Furthermore, in mouse cortical neurons, SFN rescued VPA-induced reductions in neural activity. These results demonstrate the ability of SFN to protect developing neural networks during the vulnerable period of synapse formation, while also identifying molecular signatures of SFN-mediated neuroprotection that could be relevant for combatting other environmental toxicants.",
+  "type": "academic",
+  "pdf_url": ""
+}

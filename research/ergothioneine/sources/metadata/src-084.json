@@ -1,0 +1,19 @@
+{
+  "id": "src-084",
+  "title": "Ergothioneine Suppresses Amyloid β-Induced Tau Phosphorylation and Cytotoxicity by Inactivating Glycogen Synthase Kinase-3β in Cultured Neurons.",
+  "authors": [
+    "Shibagaki, Fumiya",
+    "Hayashi, Yusei",
+    "Matsumoto, Satoshi",
+    "Nakamichi, Noritaka"
+  ],
+  "doi": "10.2174/0118761429387340250507055903",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40370244",
+  "provider": "pubmed",
+  "year": 2024,
+  "venue": "Current molecular pharmacology",
+  "citation_count": 0,
+  "abstract": "BACKGROUND: Amyloid-beta (Aβ) oligomers, formed by Aβ aggregation, are the causative agent of Alzheimer's disease and induce the hyperphosphorylation of tau protein (Tau) and neurotoxicity. The antioxidant ergothioneine (ERGO) is transferred to the brain after oral ingestion and protects against Aβ- induced neurotoxicity and cognitive dysfunction. However, the impact of ERGO on Aβ oligomer-induced Tau phosphorylation remains unclear.\nOBJECTIVE: To investigate the effects of ERGO on Aβ-induced Tau phosphorylation and their mechanism in neurons.\nMETHOD: SH-SY5Y cells differentiated into cholinergic neuron-like cells or primary cultured neurons derived from the murine hippocampus were pretreated with ERGO and exposed to Aβ25-35 oligomers. Cytotoxicity was evaluated by assessing the chemiluminescence of dead cell-derived proteases. The expression of phosphorylated (p-) Tau at serine 396, p-glycogen synthase kinase-3 beta (GSK-3β) at serine 9, amyloid precursor protein (APP), beta-site amyloid precursor protein cleaving enzyme 1 (BACE1; β-secretase), and nicastrin, which is a component protein of the γ-secretase complex, was assessed by western blotting.\nRESULT: Differentiated SH-SY5Y cells exhibited increased neurite outgrowth and mRNA expression of choline acetyltransferase, and showed cholinergic neuron-like characteristics compared with those of undifferentiated cells. ERGO significantly suppressed the Aβ25-35 oligomer-induced increased cytotoxicity and p-Tau expression in differentiated SH-SY5Y cells and cultured hippocampal neurons. ERGO recovered the decreased expression of p-GSK-3β at serine 9, indicating its inactivation, and the increased expression of APP, BACE1, and nicastrin induced by Aβ25-35 oligomer exposure in cultured hippocampal neurons. These ERGO effects on Aβ25-35 oligomers were inhibited by treatment with LY294002, which activated GSK-3β.\nCONCLUSION: ERGO may suppress the increased expression of p-Tau and proteins involved in Aβ production induced by Aβ oligomers by inactivating GSK-3β, thereby mitigating neurotoxicity.",
+  "type": "academic",
+  "pdf_url": ""
+}

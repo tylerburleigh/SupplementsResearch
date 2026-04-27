@@ -1,0 +1,16 @@
+{
+  "id": "src-153",
+  "title": "Biomarkers of Cardiovascular Disease",
+  "authors": [
+    "Vasan, Ramachandran S."
+  ],
+  "doi": "10.1161/circulationaha.104.482570",
+  "url": "https://openalex.org/W2108842111",
+  "provider": "openalex",
+  "year": 2006,
+  "venue": "Circulation",
+  "citation_count": 1191,
+  "abstract": "C ardiovascular diseases (CVD) are the leading cause of morbidity and mortality in the United States. Subclinical disease culminates in overt CVD. The onset of CVD itself portends an adverse prognosis with greater risk of recurrent events, morbidity, and mortality. It is also increasingly clear that although clinical assessment is the keystone of patient management, such evaluation has its limitations. 9 -12 Clinicians have used additional tools to aid clinical assessment and to enhance their ability to identify the \"vulnerable\" patient at risk for CVD, as suggested by a recent National Institutes of Health (NIH) panel. Biomarkers are one such tool to better identify high-risk individuals, to diagnose disease conditions promptly and accurately, and to effectively prognosticate and treat patients with disease. This review provides an overview of the molecular basis of biomarker discovery and selection and the practical considerations that are a prerequisite to their clinical use.",
+  "type": "academic",
+  "pdf_url": "https://www.ahajournals.org/doi/pdf/10.1161/CIRCULATIONAHA.104.482570"
+}

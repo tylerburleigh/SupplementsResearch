@@ -1,0 +1,19 @@
+3	2	Article Open
+29	2	Introduction
+66	2	Subjects And Methods
+81	2	Participants
+250	2	Results
+400	2	Discussion
+630	2	3. Thus, the risk of vitamin D
+637	2	Conclusion
+646	2	Data Availability
+655	2	References
+679	2	8. Dawson-Hughes B, Staten MA, Knowler WC, Nelson J, Vickery EM, LeBlanc ES,
+697	2	15. Aroda VR, Sheehan PR, Vickery EM, Staten MA, LeBlanc ES, Phillips LS, Brodsky IG,
+732	2	26. Bischoff-Ferrari HA, Dawson-Hughes B, Orav EJ, Staehelin HB, Meyer OW, Theiler
+735	2	Acknowledgements
+739	2	Author Contributions
+746	2	Funding Information
+768	2	Competing Interests
+787	2	Ethical Approval
+793	2	Additional Information

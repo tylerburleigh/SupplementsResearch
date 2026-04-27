@@ -1,0 +1,31 @@
+{
+  "id": "src-070",
+  "title": "Acarbose, 17‐α‐estradiol, and nordihydroguaiaretic acid extend mouse lifespan preferentially in males",
+  "authors": [
+    "Harrison, David E.",
+    "Strong, Randy",
+    "Allison, David B.",
+    "Ames, Bruce N.",
+    "Astle, Clinton M.",
+    "Atamna, Hani",
+    "Fernández, Elizabeth",
+    "Flurkey, Kevin",
+    "Javors, Martin A.",
+    "Nadon, Nancy L.",
+    "Nelson, James F.",
+    "Pletcher, Scott D.",
+    "Simpkins, James W.",
+    "Smith, Daniel L.",
+    "Wilkinson, John E.",
+    "Miller, Richard A."
+  ],
+  "doi": "10.1111/acel.12170",
+  "url": "https://openalex.org/W2086888830",
+  "provider": "openalex",
+  "year": 2013,
+  "venue": "Aging Cell",
+  "citation_count": 456,
+  "abstract": "Four agents--acarbose (ACA), 17-α-estradiol (EST), nordihydroguaiaretic acid (NDGA), and methylene blue (MB)--were evaluated for lifespan effects in genetically heterogeneous mice tested at three sites. Acarbose increased male median lifespan by 22% (P < 0.0001), but increased female median lifespan by only 5% (P = 0.01). This sexual dimorphism in ACA lifespan effect could not be explained by differences in effects on weight. Maximum lifespan (90th percentile) increased 11% (P < 0.001) in males and 9% (P = 0.001) in females. EST increased male median lifespan by 12% (P = 0.002), but did not lead to a significant effect on maximum lifespan. The benefits of EST were much stronger at one test site than at the other two and were not explained by effects on body weight. EST did not alter female lifespan. NDGA increased male median lifespan by 8-10% at three different doses, with P-values ranging from 0.04 to 0.005. Females did not show a lifespan benefit from NDGA, even at a dose that produced blood levels similar to those in males, which did show a strong lifespan benefit. MB did not alter median lifespan of males or females, but did produce a small, statistically significant (6%, P = 0.004) increase in female maximum lifespan. These results provide new pharmacological models for exploring processes that regulate the timing of aging and late-life diseases, and in particular for testing hypotheses about sexual dimorphism in aging and health.",
+  "type": "academic",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/acel.12170"
+}

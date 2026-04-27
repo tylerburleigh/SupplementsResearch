@@ -1,0 +1,31 @@
+5	2	Study Protocol
+14	2	Abstract
+48	2	Background
+400	2	Hct
+408	2	1. Known sensitivity to NR
+409	2	2. Concurrent use of any medications, including statins, likely to increase
+413	2	4. Currently meeting public health exercise guidelines
+417	2	8. Diabetes Mellitus requiring insulin or insulin secretagogue
+422	2	13. Contraindications to MRI
+425	2	15. Recurrent syncope
+426	2	16. Symptomatic severe aortic stenosis
+427	2	17. Uncontrolled arrhythmia causing symptoms
+429	2	19. Thrombosis of lower extremities
+430	2	20. Symptomatic moderate or severe persistent asthma based on FEV from
+433	2	22. Females: Pregnant or planning pregnancy
+477	2	Cpet
+862	2	Discussion
+950	2	Appendix
+1105	2	Acknowledgements
+1175	2	Competing Interests
+1195	2	References
+1203	2	3. Armenian SH, Xiao M, Berano Teh J, Lee B, Chang HA, Mascarenhas K,
+1252	2	18. Airhart SE, Shireman LM, Risler LJ, Anderson GD, Nagana Gowda GA,
+1257	2	19. Dollerup OL, Christensen B, Svart M, Schmidt MS, Sulek K, Ringgaard S,
+1261	2	20. Martens CR, Denman BA, Mazzo MR, Armstrong ML, Reisdorph N,
+1273	2	23. Elhassan YS, Kluckova K, Fletcher RS, Schmidt MS, Garten A, Doig CL,
+1277	2	24. Costford SR, Brouwers B, Hopf ME, Sparks LM, Dispagna M, Gomes AP ,
+1291	2	28. Cawthon PM, Travison TG, Manini TM, Patel S, Pencina KM, Fielding RA,
+1323	2	37. Pina IL, Apstein CS, Balady GJ, Belardinelli R, Chaitman BR, Duscha BD,
+1337	2	41. Trammell SA, Schmidt MS, Weidemann BJ, Redpath P , Jaksch F, Dellinger
+1391	2	50. Diguet N, Trammell SAJ, Tannous C, Deloux R, Piquereau J, Mougenot N,

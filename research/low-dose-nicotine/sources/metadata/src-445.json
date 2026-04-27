@@ -1,0 +1,21 @@
+{
+  "id": "src-445",
+  "title": "Dietary nicotine intake and risk of Parkinson disease: a prospective study.",
+  "authors": [
+    "Ma, Chaoran",
+    "Molsberry, Samantha A.",
+    "Li, Yanping",
+    "Schwarzschild, M.",
+    "Ascherio, A.",
+    "Gao, Xiang"
+  ],
+  "doi": "10.1093/cdn/nzaa057_038",
+  "url": "https://www.semanticscholar.org/paper/22eae81b5beb0a4d078d4470cf1450a75e729fbe",
+  "provider": "semantic_scholar",
+  "year": 2020,
+  "venue": "American Journal of Clinical Nutrition",
+  "citation_count": 18,
+  "abstract": "BACKGROUND\nTobacco use was observed to be associated with a lower risk of Parkinson disease (PD) in previous epidemiologic studies, with nicotine as a potential candidate. The association between dietary nicotine and PD risk has, however, not been examined in prospective studies yet.\n\nOBJECTIVES\nWe aimed to examine prospectively the association between dietary nicotine intake and subsequent PD risk among never-smokers.\n\nMETHODS\nThe current study was based on never-smoker participants from 2 large prospective cohorts: the Nurses' Health Study (n = 31,615) and the Health Professionals Follow-up Study (n = 19,523). The studies contained information on dietary nicotine intake from 1986 from validated FFQs. Dietary nicotine intake was calculated based on consumption of peppers, tomatoes, processed tomatoes, potatoes, and tea. Incident cases of PD were identified via questionnaires and subsequently confirmed by reviewing medical records. We used Cox proportional hazard models to calculate cohort-specific HRs, and used fixed-effects models to calculate the pooled HR.\n\nRESULTS\nDuring 26 y of follow-up, we identified 601 incident PD cases (296 women and 305 men). After adjusting for potential covariates, the pooled HR for the highest compared with the lowest quintile of dietary nicotine intake was 0.70 (95% CI: 0.51, 0.94). The significant inverse association was, however, only observed in women (adjusted HR: 0.64; 95% CI: 0.42, 0.96), not in men (adjusted HR: 0.77; 95% CI: 0.50, 1.20). Further adjusting for environmental tobacco smoke exposure, family history of PD, and use of ibuprofen generated similar significant results in women. Consistently, greater consumption of peppers was associated with lower risk of PD (adjusted HR for ≥5 times/wk compared with ≤3 times/mo: 0.49; 95% CI: 0.25, 0.94) in women but not in men (adjusted HR: 1.04; 95% CI: 0.57, 1.90).\n\nCONCLUSIONS\nWomen with greater dietary nicotine intake had a lower risk of PD than those with lower intake.",
+  "type": "academic",
+  "pdf_url": "https://academic.oup.com/ajcn/article-pdf/112/4/1080/33826929/nqaa186.pdf"
+}

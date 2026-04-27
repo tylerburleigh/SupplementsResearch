@@ -1,0 +1,16 @@
+{
+  "id": "src-179",
+  "title": "A Randomized, Placebo-Controlled, Clinical Trial of High-Dose Supplementation With Vitamins C and E, Beta Carotene, and Zinc for Age-Related Macular Degeneration and Vision Loss",
+  "authors": [
+    "Group, Age-Related Eye Disease Study Research"
+  ],
+  "doi": "10.1001/archopht.119.10.1417",
+  "url": "https://openalex.org/W2598520882",
+  "provider": "openalex",
+  "year": 2001,
+  "venue": "Archives of Ophthalmology",
+  "citation_count": 3234,
+  "abstract": "Persons older than 55 years should have dilated eye examinations to determine their risk of developing advanced AMD. Those with extensive intermediate size drusen, at least 1 large druse, noncentral geographic atrophy in 1 or both eyes, or advanced AMD or vision loss due to AMD in 1 eye, and without contraindications such as smoking, should consider taking a supplement of antioxidants plus zinc such as that used in this study.",
+  "type": "academic",
+  "pdf_url": "https://jamanetwork.com/journals/jamaophthalmology/articlepdf/268224/ecs10161.pdf"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "src-217",
+  "title": "[PDF] Causal Inference in Studies with Functional Unmasking - medRxiv",
+  "authors": [],
+  "url": "https://www.medrxiv.org/content/10.64898/2025.12.05.25341713v1.full.pdf",
+  "provider": "tavily",
+  "abstract": "(A) Causal directed acyclic graph (DAG) (Hernan and Robins, 2024) the hypothetical psilocybin RCT with variables: X – baseline (pre-treatment) covariates; A – treatment (A = 1) control (A = 0) arm; B – participant belief that they received treatment (B = 1) or control (B = 0); Y – outcome variable (e.g., depression); E – expectancy about how they think their outcome will change from treatment; Z – post-treatment confounders of E →Y path (i.e., post-treatment common causes of both E and Y ).",
+  "type": "web"
+}

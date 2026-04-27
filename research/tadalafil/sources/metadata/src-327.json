@@ -1,0 +1,25 @@
+{
+  "id": "src-327",
+  "title": "Inhibition of FLT1 ameliorates muscular dystrophy phenotype by increased vasculature in a mouse model of Duchenne muscular dystrophy",
+  "authors": [
+    "Verma, Mayank",
+    "Shimizu‐Motohashi, Yuko",
+    "Asakura, Yoko",
+    "Ennen, James P.",
+    "Bosco, Jennifer",
+    "Zhou, Zhiwei",
+    "Fong, Guo-Hua",
+    "Josiah, Serene",
+    "Keefe, Dennis",
+    "Asakura, Atsushi"
+  ],
+  "doi": "10.1371/journal.pgen.1008468",
+  "url": "https://openalex.org/W2998584009",
+  "provider": "openalex",
+  "year": 2019,
+  "venue": "PLoS Genetics",
+  "citation_count": 27,
+  "abstract": "Duchenne muscular dystrophy (DMD) is an X-linked recessive genetic disease in which the dystrophin coding for a membrane stabilizing protein is mutated. Recently, the vasculature has also shown to be perturbed in DMD and DMD model mdx mice. Recent DMD transcriptomics revealed the defects were correlated to a vascular endothelial growth factor (VEGF) signaling pathway. To reveal the relationship between DMD and VEGF signaling, mdx mice were crossed with constitutive (CAGCreERTM:Flt1LoxP/LoxP) and endothelial cell-specific conditional gene knockout mice (Cdh5CreERT2:Flt1LoxP/LoxP) for Flt1 (VEGFR1) which is a decoy receptor for VEGF. Here, we showed that while constitutive deletion of Flt1 is detrimental to the skeletal muscle function, endothelial cell-specific Flt1 deletion resulted in increased vascular density, increased satellite cell number and improvement in the DMD-associated phenotype in the mdx mice. These decreases in pathology, including improved muscle histology and function, were recapitulated in mdx mice given anti-FLT1 peptides or monoclonal antibodies, which blocked VEGF-FLT1 binding. The histological and functional improvement of dystrophic muscle by FLT1 blockade provides a novel pharmacological strategy for the potential treatment of DMD.",
+  "type": "academic",
+  "pdf_url": "https://journals.plos.org/plosgenetics/article/file?id=10.1371/journal.pgen.1008468&type=printable"
+}

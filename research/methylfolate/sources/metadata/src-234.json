@@ -1,0 +1,21 @@
+{
+  "id": "src-234",
+  "title": "Involvements of Hyperhomocysteinemia in Neurological Disorders",
+  "authors": [
+    "Cordaro, Marika",
+    "Siracusa, Rosalba",
+    "Fusco, Roberta",
+    "Cuzzocrea, Salvatore",
+    "Paola, Rosanna Di",
+    "Impellizzeri, Daniela"
+  ],
+  "doi": "10.3390/metabo11010037",
+  "url": "https://openalex.org/W3119613717",
+  "provider": "openalex",
+  "year": 2021,
+  "venue": "Metabolites",
+  "citation_count": 69,
+  "abstract": "Homocysteine (HCY), a physiological amino acid formed when proteins break down, leads to a pathological condition called hyperhomocysteinemia (HHCY), when it is over a definite limit. It is well known that an increase in HCY levels in blood, can contribute to arterial damage and several cardiovascular disease, but the knowledge about the relationship between HCY and brain disorders is very poor. Recent studies demonstrated that an alteration in HCY metabolism or a deficiency in folate or vitamin B12 can cause altered methylation and/or redox potentials, that leads to a modification on calcium influx in cells, or into an accumulation in amyloid and/or tau protein involving a cascade of events that culminate in apoptosis, and, in the worst conditions, neuronal death. The present review will thus summarize how much is known about the possible role of HHCY in neurodegenerative disease.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2218-1989/11/1/37/pdf?version=1610959222"
+}

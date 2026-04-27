@@ -1,0 +1,24 @@
+{
+  "id": "src-327",
+  "title": "Higher availability of α4β2 nicotinic receptors (nAChRs) in dorsal ACC is linked to more efficient interference control",
+  "authors": [
+    "Pichon, S.",
+    "Garibotto, V.",
+    "Wissmeyer, M.",
+    "Seimbille, Y.",
+    "Antico, Lia",
+    "Ratib, O.",
+    "Vuilleumier, Patrik",
+    "Haller, S.",
+    "Picard, F."
+  ],
+  "doi": "10.31234/osf.io/bj7d6",
+  "url": "https://www.semanticscholar.org/paper/9c87a1f6fb2e5270e5f958dec83004e36870681a",
+  "provider": "semantic_scholar",
+  "year": 2019,
+  "venue": "NeuroImage",
+  "citation_count": 8,
+  "abstract": "Nicotinic acetylcholine receptors (nAChRs) are widely distributed in the human brain and play an important role in the neuromodulation of brain networks implicated in attentional processes. Previous work in humans showed that heteromeric α4β2 nAChRs are abundant in the cingulo-insular network underlying attentional control. It has been proposed that cholinergic neuromodulation by α4β2 nAChRs is involved in attentional control during demanding tasks, when additional resources are needed to minimize interference from task-irrelevant stimuli and focus on task-relevant stimuli. Here we investigate the link between the availability of α4β2 nAChRs in the cingulo-insular network and behavioral measures of interference control using two versions of the Stroop paradigm, a task known to recruit cingulo-insular areas. We used a previously published PET dataset acquired 24 non-smoking male subjects in the context of a larger study which investigated the brain distribution of nAChRs in two clinical groups using 2-[(18)F]F-A-85380 PET. We found that higher availability of α4β2 nAChRs in the dorsal anterior cingulate cortex (ACC) predicted better interference control independently of group and age. In line with animal models, our results support the view that the availability of α4β2 nAChRs in the dorsal ACC is linked with more efficient attentional control.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.1016/j.neuroimage.2020.116729"
+}

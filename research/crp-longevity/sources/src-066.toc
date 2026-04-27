@@ -1,0 +1,24 @@
+17	2	Abstract
+50	2	Background
+112	2	Materials And Methods
+275	2	2023. For each death case, MIAC provided depersonal -
+344	2	Results
+711	2	Discussion
+1479	2	Conclusion
+1503	2	Acknowledgements
+1506	2	Author Contributions
+1524	2	Data Availability
+1547	2	Competing Interests
+1564	2	References
+1565	2	1. Neufeld M, Bobrova A, Davletov K, Stelemekas M, Stoppel R, Ferreira-Borges
+1597	2	9. Leon DA, Saburova L, Tomkins S, Andreev E, Kiryanov N, McKee M, Shkolnikov
+1620	2	16. Neufeld M, Bunova A, Gornyi B, Ferreira-Borges C, Gerber A, Khaltourina
+1646	2	24. Zamiatnina ES, Review Of Methods For Assessing The Contribution Of
+1683	2	34. Malyutina S, Bobak M, Kurilovitch S, Gafarov V, Simonova G, Nikitin Y, Marmot
+1696	2	38. Hjemsaeter AJ, Bramness JG, Drake R, Skeie I, Monsbakken B, Benth JS, Land-
+1733	2	47. Mackenbach JP , Kulhanova I, Bopp M, Borrell C, Deboosere P , Kovacs K, et
+1755	2	53. Tomkins S, Saburova L, Kiryanov N, Andreev E, McKee M, Shkolnikov V, Leon
+1783	2	61. Iakunchykova O, Averina M, Kudryavtsev AV, Wilsgaard T, Soloviev A, Schirmer
+1838	2	76. Hodskinson MR, Bolner A, Sato K, Kamimae-Lanning AN, Rooijers K, Witte M,
+1848	2	79. Ortola R, Garcia-Esquinas E, Lopez-Garcia E, Leon-Munoz LM, Banegas JR,
+1852	2	80. Jankhotkaew J, Bundhamcharoen K, Suphanchaimat R, Waleewong O,

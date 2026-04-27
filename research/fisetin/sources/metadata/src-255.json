@@ -1,0 +1,21 @@
+{
+  "id": "src-255",
+  "title": "Senolytics alleviate cyclophosphamide-induced premature ovarian insufficiency by eliminating senescent cells",
+  "authors": [
+    "Su, Huina",
+    "Ma, Ruiqiong",
+    "Su, Dehui",
+    "Tan, Cheng",
+    "Zhu, Ye",
+    "Yang, Xin"
+  ],
+  "doi": "10.4081/ejh.2026.4537",
+  "url": "https://www.semanticscholar.org/paper/ac5e44d6e9811357bed19b597b4731a53b7ea8b4",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "European Journal of Histochemistry",
+  "citation_count": 0,
+  "abstract": "Alkylating agents, particularly cyclophosphamide (CY), are known for their high toxicity, which can lead to iatrogenic premature ovarian insufficiency (POI) and infertility in young cancer survivors. Currently, effective prevention and treatment strategies remain limited. Given that chemotherapy induces cellular senescence, we investigated the therapeutic potential of dasatinib (D) and quercetin (Q), a senolytic combination known to eliminate senescent cells. Using a CY-induced murine model of ovarian injury, we found that CY treatment increased the accumulation of senescent cells in the ovaries. The resulting senescence-associated secretory phenotype (SASP) led to a deterioration of the ovarian microenvironment, characterized by increased follicular atresia and a decline in follicle quantity, ultimately culminating in POI. Our findings demonstrate that DQ therapy effectively mitigated CY-induced damage by clearing senescent cells and reducing SASP secretion. Clinically, DQ administration restored sex hormone levels and regularity of the estrous cycle, resulting in an overall increase in follicle numbers across all developmental stages. Furthermore, DQ treatment significantly normalized estrous cyclicity, restoring regular cycles in 60% of the CY+DQ mice compared to only ~15% in the CY-alone group (p<0.0001). RNA sequencing analysis revealed that DQ treatment upregulated Pagr1a, a gene associated with extraembryonic development, while downregulating genes involved in senescence induction (Itgb3, Wnt10b, Vegfa) and immune function (A2m, Ccl21d). These results suggest that senescent cells drive CY-induced ovarian damage and that DQ represents a promising therapeutic strategy for preserving the ovarian reserve and endocrine function in female cancer patients.",
+  "type": "academic",
+  "pdf_url": ""
+}

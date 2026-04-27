@@ -1,0 +1,21 @@
+{
+  "id": "src-906",
+  "title": "Several lines of antioxidant defense against oxidative stress: antioxidant enzymes, nanomaterials with multiple enzyme-mimicking activities, and low-molecular-weight antioxidants.",
+  "authors": [
+    "Jomova, Klaudia",
+    "Alomar, Suliman Y",
+    "Alwasel, Saleh H",
+    "Nepovimova, Eugenie",
+    "Kuca, Kamil",
+    "Valko, Marian"
+  ],
+  "doi": "10.1007/s00204-024-03696-4",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38483584",
+  "provider": "pubmed",
+  "year": 2024,
+  "venue": "Archives of toxicology",
+  "citation_count": 0,
+  "abstract": "Reactive oxygen species (ROS) and reactive nitrogen species (RNS) are well recognized for playing a dual role, since they can be either deleterious or beneficial to biological systems. An imbalance between ROS production and elimination is termed oxidative stress, a critical factor and common denominator of many chronic diseases such as cancer, cardiovascular diseases, metabolic diseases, neurological disorders (Alzheimer's and Parkinson's diseases), and other disorders. To counteract the harmful effects of ROS, organisms have evolved a complex, three-line antioxidant defense system. The first-line defense mechanism is the most efficient and involves antioxidant enzymes such as superoxide dismutase (SOD), catalase (CAT), and glutathione peroxidase (GPx). This line of defense plays an irreplaceable role in the dismutation of superoxide radicals (O2•-) and hydrogen peroxide (H2O2). The removal of superoxide radicals by SOD prevents the formation of the much more damaging peroxynitrite ONOO- (O2•-  + NO• → ONOO-) and maintains the physiologically relevant level of nitric oxide (NO•), an important molecule in neurotransmission, inflammation, and vasodilation. The second-line antioxidant defense pathway involves exogenous diet-derived small-molecule antioxidants. The third-line antioxidant defense is ensured by the repair or removal of oxidized proteins and other biomolecules by a variety of enzyme systems. This review briefly discusses the endogenous (mitochondria, NADPH, xanthine oxidase (XO), Fenton reaction) and exogenous (e.g., smoking, radiation, drugs, pollution) sources of ROS (superoxide radical, hydrogen peroxide, hydroxyl radical, peroxyl radical, hypochlorous acid, peroxynitrite). Attention has been given to the first-line antioxidant defense system provided by SOD, CAT, and GPx. The chemical and molecular mechanisms of antioxidant enzymes, enzyme-related diseases (cancer, cardiovascular, lung, metabolic, and neurological diseases), and the role of enzymes (e.g., GPx4) in cellular processes such as ferroptosis are discussed. Potential therapeutic applications of enzyme mimics and recent progress in metal-based (copper, iron, cobalt, molybdenum, cerium) and nonmetal (carbon)-based nanomaterials with enzyme-like activities (nanozymes) are also discussed. Moreover, attention has been given to the mechanisms of action of low-molecular-weight antioxidants (vitamin C (ascorbate), vitamin E (alpha-tocopherol), carotenoids (e.g., β-carotene, lycopene, lutein), flavonoids (e.g., quercetin, anthocyanins, epicatechin), and glutathione (GSH)), the activation of transcription factors such as Nrf2, and the protection against chronic diseases. Given that there is a discrepancy between preclinical and clinical studies, approaches that may result in greater pharmacological and clinical success of low-molecular-weight antioxidant therapies are also subject to discussion.",
+  "type": "academic",
+  "pdf_url": ""
+}

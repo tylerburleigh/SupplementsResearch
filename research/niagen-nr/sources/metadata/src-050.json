@@ -1,0 +1,33 @@
+{
+  "id": "src-050",
+  "title": "NAD+ enhancers as therapeutic agents in the cardiorenal axis",
+  "authors": [
+    "Marín-Blázquez, Mariano",
+    "Rovira, Jordi",
+    "Ramírez-Bajo, María José",
+    "Zapata-Pérez, Rubén",
+    "Rabadán-Ros, Rubén"
+  ],
+  "year": 2024,
+  "abstract": "",
+  "doi": "10.1186/s12964-024-01903-4",
+  "url": "https://doi.org/10.1186/s12964-024-01903-4",
+  "pdf_url": "",
+  "venue": "Cell Communication and Signaling",
+  "citation_count": 4,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-20T20:25:29.952809+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-050.md",
+  "quality_details": {
+    "content_length": 185876,
+    "alpha_ratio": 0.673,
+    "sentence_count": 1557,
+    "reasons": []
+  }
+}

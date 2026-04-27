@@ -1,0 +1,23 @@
+{
+  "id": "src-099",
+  "title": "Polyphenols: A concise overview on the chemistry, occurrence, and human health",
+  "authors": [
+    "Durazzo, Alessandra",
+    "Lucarini, Massimo",
+    "Souto, Eliana B.",
+    "Cicala, Carla",
+    "Caiazzo, Elisabetta",
+    "Izzo, Angelo A.",
+    "Novellino, Ettore",
+    "Santini, Antonello"
+  ],
+  "doi": "10.1002/ptr.6419",
+  "url": "https://openalex.org/W2966405964",
+  "provider": "openalex",
+  "year": 2019,
+  "venue": "Phytotherapy Research",
+  "citation_count": 770,
+  "abstract": "This review gives an updated picture of each class of phenolic compounds and their properties. The most common classification implies the subdivision of phenolics in two main groups: flavonoids (e.g., anthocyanins, flavanols, flavanones, flavonols, flavonones, and isoflavones) and non-flavonoids (e.g., phenolic acids, xanthones, stilbens, lignans, and tannins) polyphenols. The great interest in polyphenols is associated with their high potential application for food preservation and for therapeutic beneficial use. The relationship between polyphenol intake and human health has been exploited with special reference to cardiovascular diseases, hypertension, diabetes, metabolic syndrome, obesity, and cancer. The use of current existing databases of bioactive compounds including polyphenols is described as key tools for human health research.",
+  "type": "academic",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ptr.6419"
+}

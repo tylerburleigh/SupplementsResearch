@@ -1,0 +1,22 @@
+{
+  "id": "src-143",
+  "title": "Multifunctional Roles and Microbial Production Bottlenecks of Ergothioneine.",
+  "authors": [
+    "Ma, Zhi",
+    "Qin, Chen",
+    "Deng, Yanfeng",
+    "Guo, Xinying",
+    "Zhu, Linjiang",
+    "Zhu, Dianhao",
+    "Chen, Xiaolong"
+  ],
+  "doi": "10.1021/acssynbio.5c00735",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41919719",
+  "provider": "pubmed",
+  "year": 2026,
+  "venue": "ACS synthetic biology",
+  "citation_count": 0,
+  "abstract": "Ergothioneine (EGT) is a unique natural chiral compound endowed with potent antioxidative, anti-inflammatory, and cytoprotective properties. Currently, EGT is primarily produced via bioextraction from mushrooms and chemical synthesis; however, the low efficiency and high costs associated with these methods hinder their ability to meet the growing market demand. Consequently, heterologous EGT production in non-native host strains (e.g., Escherichia coli and Corynebacterium glutamicum) has garnered increasing attention. With the rapid advancement of synthetic biology and metabolomics, remarkable progress has been achieved in EGT production in recent years, with the high titers have reached 7.2 g/L in E. coli and 9.3 g/L in Yarrowia lipolytica. Meanwhile, the development of a \"chemoenzymatic catalytic cascade″ route has achieved the highest titer: 47.3 g/L. This review focuses on the latest advances in the discovery and identification of key enzymes involved in EGT biosynthetic and catabolic pathways and metabolic engineering strategies for EGT production. Additionally, the multifunctional roles and practical applications of EGT in the food, cosmetics, and pharmaceutical industries are summarized.",
+  "type": "academic",
+  "pdf_url": ""
+}

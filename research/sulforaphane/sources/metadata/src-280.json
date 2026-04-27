@@ -1,0 +1,23 @@
+{
+  "id": "src-280",
+  "title": "Resveratrol Inhibits Breast Cancer Stem-Like Cells and Induces Autophagy via Suppressing Wnt/β-Catenin Signaling Pathway",
+  "authors": [
+    "Fu, Yujie",
+    "Chang, Hui",
+    "Peng, Xiaoli",
+    "Bai, Qian",
+    "Yi, Long",
+    "Zhou, Yong",
+    "Zhu, Jundong",
+    "Mi, Mantian"
+  ],
+  "doi": "10.1371/journal.pone.0102535",
+  "url": "https://openalex.org/W2003402838",
+  "provider": "openalex",
+  "year": 2014,
+  "venue": "PLoS ONE",
+  "citation_count": 283,
+  "abstract": "Resveratrol, a natural polyphenolic compound, is abundantly found in plant foods and has been extensively studied for its anti-cancer properties. Given the important role of CSCs (Cancer Stem Cells) in breast tumorigenesis and progression, it is worth investigating the effects of resveratrol on CSCs. The article is an attempt to investigate the effects of resveratrol on breast CSCs. Resveratrol significantly inhibits the proliferation of BCSCs (breast cancer stem-like cells) isolated from MCF-7 and SUM159, and decreased the percentage of BCSCs population, consequently reduced the size and number of mammospheres in non-adherent spherical clusters. Accordingly, the injection of resveratrol (100 mg/kg/d) in NOD/SCID (nonobese diabetic/severe combined immunodeficient) mice effectively inhibited the growth of xenograft tumors and reduced BCSC population in tumor cells. After the reimplantation of primary tumor cells into the secondary mice for 30 d, all 6 control inoculations produced tumors, while tumor cells derived from resveratrol-treated mice only caused 1 tumor of 6 inoculations. Further studies by TEM (Transmission electron microscopy) analysis, GFP-LC3-II puncta formation assay and western blot for LC3-II, Beclin1 and Atg 7, showed that resveratrol induces autophagy in BCSCs. Moreover, resveratrol suppresses Wnt/β-catenin signaling pathway in BCSCs; over-expression of β-catenin by transfecting the plasmid markedly reduced resveratrol-induced cytotoxicity and autophagy in BCSCs. Our findings indicated that resveratrol inhibits BCSCs and induces autophagy via suppressing Wnt/β-catenin signaling pathway.",
+  "type": "academic",
+  "pdf_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0102535&type=printable"
+}

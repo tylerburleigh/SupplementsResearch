@@ -1,0 +1,18 @@
+{
+  "id": "src-223",
+  "title": "Microglia in Physiology and Disease",
+  "authors": [
+    "Wolf, Susanne A.",
+    "Boddeke, H. W. G. M.",
+    "Kettenmann, Helmut"
+  ],
+  "doi": "10.1146/annurev-physiol-022516-034406",
+  "url": "https://openalex.org/W2336534940",
+  "provider": "openalex",
+  "year": 2016,
+  "venue": "Annual Review of Physiology",
+  "citation_count": 1408,
+  "abstract": "As the immune-competent cells of the brain, microglia play an increasingly important role in maintaining normal brain function. They invade the brain early in development, transform into a highly ramified phenotype, and constantly screen their environment. Microglia are activated by any type of pathologic event or change in brain homeostasis. This activation process is highly diverse and depends on the context and type of the stressor or pathology. Microglia can strongly influence the pathologic outcome or response to a stressor due to the release of a plethora of substances, including cytokines, chemokines, and growth factors. They are the professional phagocytes of the brain and help orchestrate the immunological response by interacting with infiltrating immune cells. We describe here the diversity of microglia phenotypes and their responses in health, aging, and disease. We also review the current literature about the impact of lifestyle on microglia responses and discuss treatment options that modulate microglial phenotypes.",
+  "type": "academic",
+  "pdf_url": "https://www.annualreviews.org/doi/pdf/10.1146/annurev-physiol-022516-034406"
+}

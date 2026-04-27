@@ -1,0 +1,26 @@
+64	2	Abstract
+65	2	Background
+71	2	Methods
+82	2	Results
+91	2	Conclusion
+101	2	Introduction
+253	2	Materials And Methods
+257	2	Experimental Design
+323	2	Statistical Analysis
+328	2	Results
+346	2	Figure
+375	2	Figure
+395	2	Figure
+406	2	Auc
+436	2	Figure
+447	2	Auc
+478	2	Figure
+489	2	Figure
+502	2	Figure
+530	2	Figure
+549	2	Discussion
+605	2	Figure
+637	2	Conclusions
+663	2	Author Contributions
+714	2	Acknowledgements
+717	2	References

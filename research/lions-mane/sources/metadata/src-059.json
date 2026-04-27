@@ -1,0 +1,32 @@
+{
+  "id": "src-059",
+  "title": "Theoretical Potential of Hericium Erinaceus Supplementation as an Add-On to Antipsychotics in Chronic and Treatment-Resistant Schizophrenia",
+  "authors": [
+    "Baker, Joni F",
+    "Newman, Sharlene D"
+  ],
+  "year": 2025,
+  "abstract": "Schizophrenia is a serious mental illness that is a leading cause of disability worldwide. While antipsychotic agents are the most effective medications, up to one-third of patients experience treatment resistance, and approximately one-sixth of patients experience ultra-resistant illness. There is a growing body of evidence that inflammation, oxidative stress, and neurodegeneration may be contributing to pathophysiology and treatment response. Several agents with potential to improve inflammation and oxidative stress have been investigated, with some showing statistically significant benefits, though robust improvement in symptomatology has not been consistently demonstrated. Hericium erinaceus (HE) is an edible mushroom that has been used as a medicinal food for centuries. In pre-clinical studies, it has demonstrated anti-inflammatory, antioxidant, neuroprotective, and neurogenesis-promoting effects. The specific inflammatory markers that are impacted by HE align well with biomarkers shown to be altered in chronic and treatment resistant schizophrenia. Most clinical studies to date have assessed HE for the treatment of mild cognitive impairment, depression, and anxiety. In clinical studies, HE has been well tolerated, with the most common adverse effect of gastrointestinal disturbance. Given potential for HE to improve inflammation, reduce oxidative stress, and promote adult neurogenesis in the hippocampus, it is theorized that HE may have beneficial effects on symptomatology when used as an add-on to antipsychotic therapy in those with residual symptoms or treatment resistance. The goal of this review is to describe theoretical benefits and potential dosing strategies based on pre-clinical and clinical data.",
+  "doi": "10.64719/pb.4520",
+  "url": "https://doi.org/10.64719/pb.4520",
+  "pdf_url": "",
+  "venue": "Psychopharmacology Bulletin",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-23T15:39:10.951751+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-059.md",
+  "quality_details": {
+    "content_length": 2485,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "src-164",
+  "title": "The Multi-faceted Ecto-enzyme CD38: Roles in Immunomodulation, Cancer, Aging, and Metabolic Diseases",
+  "authors": [
+    "Hogan, Kelly A.",
+    "Chini, Claudia C.S.",
+    "Chini, Eduardo N."
+  ],
+  "doi": "10.3389/fimmu.2019.01187",
+  "url": "https://openalex.org/W2947902196",
+  "provider": "openalex",
+  "year": 2019,
+  "venue": "Frontiers in Immunology",
+  "citation_count": 318,
+  "abstract": "CD38 (Cluster of Differentiation 38) is a multifunctional ecto-enzyme that metabolizes NAD+ and mediates nicotinamide dinucleotide (NAD+) and extracellular nucleotide homeostasis as well as intracellular calcium. CD38 is also an emerging therapeutic target under conditions in which metabolism is altered including infection, aging, and tumorigenesis. We describe multiple enzymatic activities of CD38, which may explain the breadth of biological roles observed for this enzyme. Of greatest significance is the role of CD38 as an ecto-enzyme capable of modulating extracellular NAD+ precursor availability: 1 to bacteria unable to perform de novo synthesis of NAD+; and 2 in aged parenchyma impacted by the accumulation of immune cells during the process of 'inflammaging'. We also discuss the paradoxical role of CD38 as a modulator of intracellular NAD+, particularly in tumor immunity. Finally, we provide a summary of therapeutic approaches to CD38 inhibition and 'NAD+ boosting' for treatment of metabolic dysfunction observed during aging and in tumor immunity. The present review summarizes the role of CD38 in nicotinamide nucleotide homeostasis with special emphasis on the role of CD38 as an immunomodulator and druggable target.",
+  "type": "academic",
+  "pdf_url": "https://www.frontiersin.org/articles/10.3389/fimmu.2019.01187/pdf"
+}

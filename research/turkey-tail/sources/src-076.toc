@@ -1,0 +1,21 @@
+12	2	Abstract
+55	2	1 Department of Palliative, Rehabilitation, and Integrative
+58	2	2 Department of Biotechnology, Institute of Graduate Studies
+62	2	4 Research Medical Library, UT MD Anderson Cancer Center,
+71	2	Introduction
+160	2	Methods
+224	2	Results
+333	2	46 Reduced loss of appetite, diar-
+347	2	Dfs
+400	2	Ehr
+453	2	918 PSK prolonged patient survival in
+765	2	51 No PR regarding PSA was
+836	2	24 AHCC significantly decreased the
+1163	2	3 SEs related to mushroom extracts were observed for AbM
+1180	2	Discussion
+1273	2	Conclusion
+1302	2	References
+1328	2	6. Lee DH, Yang M, Keum N, Giovannucci EL, Sun Q, Chavarro
+1343	2	10. Satria D, Amen Y, Niwa Y, Ashour A, Allam AE, Shimizu
+1397	2	25. Oba K, Teramukai S, Kobayashi M, Matsui T, Kodera Y, Saka-
+1560	2	64. Ohno S, Sumiyoshi Y, Hashine K, Shirato A, Kyo S, Inoue

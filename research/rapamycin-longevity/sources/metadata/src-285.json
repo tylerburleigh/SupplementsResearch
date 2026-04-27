@@ -1,0 +1,19 @@
+{
+  "id": "src-285",
+  "title": "How molecular mechanisms of aging drive Alzheimer's disease pathology.",
+  "authors": [
+    "Chang, Junkai",
+    "Liu, Tingting",
+    "Cheng, Xiangshu",
+    "Wei, Jianshe"
+  ],
+  "doi": "10.1016/j.cellsig.2026.112426",
+  "url": "https://www.semanticscholar.org/paper/13d033f9cd64659560e3baac63890ed0fc1544fc",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "Cellular Signalling",
+  "citation_count": 0,
+  "abstract": "Aging is a \"multidimensional engine\" of biological dysfunction that can fundamentally reshape the pathology of Alzheimer's disease (AD), This review systematically elaborates on how aging synergistically promotes the core pathologies of AD: aging upregulates the activity of β-secretase 1 (BACE1)/γ-secretase, impairs the clearance function of glial cells and meningeal lymphatic drainage, and accelerates Aβ deposition; the imbalance of kinases/phosphatases, dysfunction of molecular chaperones, and aging exosome-mediated propagation of Tau \"seeds\" facilitate Tau pathology; hyperreactivity of microglia and the transformation of astrocytes to the A1 phenotype form a senescence-associated secretory phenotype (SASP) → neuroinflammation vicious cycle; downregulation of synaptic proteins and disintegration of the default mode network lead to cognitive decline. Recent studies have identified that the impaired transition of aging microglia to the disease-associated microglia (DAM) phenotype, peripheral-central aging signal transmission loops (the gut-brain axis, immune-brain axis, and metabolic-brain axis), as well as circadian rhythm/vascular metabolic dysregulation, have emerged as novel intervention targets. Precision strategies targeting aging mechanisms-such as senescent cell clearance, SASP inhibition, epigenetic reprogramming, and biomarker-guided early intervention-provide a new paradigm for blocking the progression of AD.",
+  "type": "academic",
+  "pdf_url": ""
+}

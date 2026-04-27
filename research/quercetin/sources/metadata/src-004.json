@@ -1,0 +1,29 @@
+{
+  "id": "src-004",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://www.mtwholehealth.com/2023/05/quercetin-supplementation-for-children-research-safety-and-efficacy",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-22T16:51:17.361237+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-004.md",
+  "quality_details": {
+    "content_length": 15036,
+    "alpha_ratio": 0.789,
+    "sentence_count": 144,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

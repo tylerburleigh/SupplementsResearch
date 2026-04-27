@@ -1,0 +1,37 @@
+{
+  "id": "src-319",
+  "title": "Sarcopenia and Risk of Cognitive Impairment: Cohort Study and Mendelian Randomization Analysis",
+  "authors": [
+    "Sha, Tingting",
+    "Zhang, Yuqing",
+    "Wei, Jie",
+    "Li, Changjun",
+    "Zeng, Chao",
+    "Lei, Guanghua",
+    "Wang, Yilun"
+  ],
+  "year": 2025,
+  "abstract": "Abstract\n\nBackground\nOver half the people over 60 years of age experience cognitive impairment, with limited treatment options, making it crucial to identify risk factors. Studies have examined the association between sarcopenia and cognitive impairment; however, the evidence is inconclusive and cannot be used to make causal inferences.\n\nObjective\nThis study aims to appraise the causal association of sarcopenia with cognitive impairment by triangulating the data from a cohort study and Mendelian randomization (MR) analysis.\n\nMethods\nUsing UK Biobank data, we first examined the associations of sarcopenia and its indices (appendicular lean mass [ALM], handgrip strength, and gait speed) with cognitive function (fluid intelligence and prospective memory) by using mixed-effects regression models. Then, we explored the causal associations of genetically predicted sarcopenic indices with cognitive function through a 2-sample MR, and examined potential mediation by omega-3 fatty acids, vitamin D levels, physical inactivity, falls, frailty, sleep disorders, anxiety, depression, stroke, metabolic syndrome, and type 2 diabetes.\n\nResults\nA total of 34,457 participants, with a mean age of 56.4 (SD 7.6) years, 51.1% (n=17,620) of which were female, completed baseline cognitive tests between 2006 and 2010 and attended at least 1 follow-up visit in 2012, 2014, or 2019, and were included in the observational analysis. The cohort study revealed that sarcopenia was significantly associated with cognitive impairment, which was evidenced by reduced fluid intelligence scores (β=−0.91, 95% CI −1.68 to −0.15; P=.02). Each of the sarcopenic indices also exhibited significant associations with either fluid intelligence or prospective memory (all P&lt;.05). MR analyses yielded compelling evidence of positive associations between the genetically predicted increases in ALM (β=0.09, 95% CI 0.07-0.12; P&lt;.001), handgrip strength (β=0.18, 95% CI 0.08-0.29; P&lt;.001) and gait speed (β=0.78, 95% CI 0.53-0.29; P&lt;.001) and improved cognitive function. The effects of ALM and handgrip strength on cognitive function were partially mediated by genetically predicted physical activity, with indirect effects of 0.01 (95% CI 0.00-0.02) for ALM and 0.02 (95% CI 0.00-0.05) for handgrip strength.\n\nConclusions\nOur study suggests that sarcopenia is a potential causal risk factor for cognitive impairment, with physical activity acting as a modifiable mediator in this relationship.",
+  "doi": "10.2196/66031",
+  "url": "https://doi.org/10.2196/66031",
+  "pdf_url": "",
+  "venue": "JMIR Aging",
+  "citation_count": 5,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T21:00:19.479376+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-319.md",
+  "quality_details": {
+    "content_length": 50202,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

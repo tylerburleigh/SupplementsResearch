@@ -1,0 +1,21 @@
+{
+  "id": "src-303",
+  "title": "Vitamin K metabolism as the potential missing link between lung damage and thromboembolism in Coronavirus disease 2019",
+  "authors": [
+    "Janssen, Rob",
+    "Visser, Margot P. J.",
+    "Dofferhoff, Anton S. M.",
+    "Vermeer, Cees",
+    "Janssens, Wim",
+    "Walk, Jona"
+  ],
+  "doi": "10.1017/s0007114520003979",
+  "url": "https://openalex.org/W3092351528",
+  "provider": "openalex",
+  "year": 2020,
+  "venue": "British Journal Of Nutrition",
+  "citation_count": 83,
+  "abstract": "Coronavirus disease 2019 (Covid-19), caused by severe acute respiratory syndrome coronavirus (SARS-CoV)-2, exerts far-reaching effects on public health and socio-economic welfare. The majority of infected individuals have mild to moderate symptoms, but a significant proportion develops respiratory failure due to pneumonia. Thrombosis is another frequent manifestation of Covid-19 that contributes to poor outcomes. Vitamin K plays a crucial role in the activation of both pro- and anticlotting factors in the liver and the activation of extrahepatically synthesised protein S which seems to be important in local thrombosis prevention. However, the role of vitamin K extends beyond coagulation. Matrix Gla protein (MGP) is a vitamin K-dependent inhibitor of soft tissue calcification and elastic fibre degradation. Severe extrahepatic vitamin K insufficiency was recently demonstrated in Covid-19 patients, with high inactive MGP levels correlating with elastic fibre degradation rates. This suggests that insufficient vitamin K-dependent MGP activation leaves elastic fibres unprotected against SARS-CoV-2-induced proteolysis. In contrast to MGP, Covid-19 patients have normal levels of activated factor II, in line with previous observations that vitamin K is preferentially transported to the liver for activation of procoagulant factors. We therefore expect that vitamin K-dependent endothelial protein S activation is also compromised, which would be compatible with enhanced thrombogenicity. Taking these data together, we propose a mechanism of pneumonia-induced vitamin K depletion, leading to a decrease in activated MGP and protein S, aggravating pulmonary damage and coagulopathy, respectively. Intervention trials should be conducted to assess whether vitamin K administration plays a role in the prevention and treatment of severe Covid-19.",
+  "type": "academic",
+  "pdf_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/C3E7267D0D19B048E1D8AB9D83754CFC/S0007114520003979a.pdf/div-class-title-vitamin-k-metabolism-as-the-potential-missing-link-between-lung-damage-and-thromboembolism-in-coronavirus-disease-2019-div.pdf"
+}

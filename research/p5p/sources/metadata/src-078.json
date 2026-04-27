@@ -1,0 +1,19 @@
+{
+  "id": "src-078",
+  "title": "Histamine: A Mediator of Intestinal Disorders—A Review",
+  "authors": [
+    "Smolińska, Sylwia",
+    "Winiarska, Ewa",
+    "Głobińska, Anna",
+    "Jutel, Marek"
+  ],
+  "doi": "10.3390/metabo12100895",
+  "url": "https://openalex.org/W4297359685",
+  "provider": "openalex",
+  "year": 2022,
+  "venue": "Metabolites",
+  "citation_count": 75,
+  "abstract": "Within the gastrointestinal tract, histamine is present at relatively high concentrations, especially during inflammatory processes. Histamine is a biogenic amine with numerous effects on many cell types, mediated by the activation of its four different histamine receptors (H1-H4Rs). It is produced and released by immune cells as mast cells and basophils. Some cells such as dendritic cells or T cells can express histidine decarboxylase, an enzyme for histamine synthesis after stimulation. The same can be done by the human gut microbiota. The production of histamine by bacteria in the human gut influence the immune response, although the major source of histamine is food. The large spectrum of histamine effects on a number of cellular processes results in various gastrointestinal disorders including food allergy, histamine intolerance, irritable bowel syndrome, and inflammatory bowel disease, among others. In this review, the protective or pathogenic effects of histamine on various gut disorders are discussed.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2218-1989/12/10/895/pdf?version=1665393167"
+}

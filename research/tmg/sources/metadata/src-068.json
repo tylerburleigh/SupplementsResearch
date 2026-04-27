@@ -1,0 +1,23 @@
+{
+  "id": "src-068",
+  "title": "AMP‐activated protein kinase in the regulation of hepatic energy metabolism: from physiology to therapeutic perspectives",
+  "authors": [
+    "Viollet, Benoı̂t",
+    "Guigas, Bruno",
+    "Leclerc, J",
+    "Hébrard, Sophie",
+    "Lantier, Louise",
+    "Mounier, Rémi",
+    "Andreelli, F.",
+    "Foretz, Marc"
+  ],
+  "doi": "10.1111/j.1748-1716.2009.01970.x",
+  "url": "https://openalex.org/W1995501935",
+  "provider": "openalex",
+  "year": 2009,
+  "venue": "Acta Physiologica",
+  "citation_count": 480,
+  "abstract": "As the liver is central in the maintenance of glucose homeostasis and energy storage, knowledge of the physiology as well as physiopathology of hepatic energy metabolism is a prerequisite to our understanding of whole-body metabolism. Hepatic fuel metabolism changes considerably depending on physiological circumstances (fed vs. fasted state). In consequence, hepatic carbohydrate, lipid and protein synthesis/utilization are tightly regulated according to needs. Fatty liver and hepatic insulin resistance (both frequently associated with the metabolic syndrome) or increased hepatic glucose production (as observed in type 2 diabetes) resulted from alterations in substrates oxidation/storage balance in the liver. Because AMP-activated protein kinase (AMPK) is considered as a cellular energy sensor, it is important to gain understanding of the mechanism by which hepatic AMPK coordinates hepatic energy metabolism. AMPK has been implicated as a key regulator of physiological energy dynamics by limiting anabolic pathways (to prevent further ATP consumption) and by facilitating catabolic pathways (to increase ATP generation). Activation of hepatic AMPK leads to increased fatty acid oxidation and simultaneously inhibition of hepatic lipogenesis, cholesterol synthesis and glucose production. In addition to a short-term effect on specific enzymes, AMPK also modulates the transcription of genes involved in lipogenesis and mitochondrial biogenesis. The identification of AMPK targets in hepatic metabolism should be useful in developing treatments to reverse metabolic abnormalities of type 2 diabetes and the metabolic syndrome.",
+  "type": "academic",
+  "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/2956117"
+}

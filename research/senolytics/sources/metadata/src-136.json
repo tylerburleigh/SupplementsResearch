@@ -1,0 +1,17 @@
+{
+  "id": "src-136",
+  "title": "Endothelial senescence in vascular diseases: current understanding and future opportunities in senotherapeutics",
+  "authors": [
+    "Han, Yeaeun",
+    "Kim, Sung Young"
+  ],
+  "doi": "10.1038/s12276-022-00906-w",
+  "url": "https://openalex.org/W4313468943",
+  "provider": "openalex",
+  "year": 2023,
+  "venue": "Experimental & Molecular Medicine",
+  "citation_count": 169,
+  "abstract": "Senescence compromises the essential role that the endothelium plays in maintaining vascular homeostasis, so promoting endothelial dysfunction and the development of age-related vascular diseases. Their biological and clinical significance calls for strategies for identifying and therapeutically targeting senescent endothelial cells. While senescence and endothelial dysfunction have been studied extensively, distinguishing what is distinctly endothelial senescence remains a barrier to overcome for an effective approach to addressing it. Here, we review the mechanisms underlying endothelial senescence and the evidence for its clinical importance. Furthermore, we discuss the current state and the limitations in the approaches for the detection and therapeutic intervention of target cells, suggesting potential directions for future research.",
+  "type": "academic",
+  "pdf_url": "https://www.nature.com/articles/s12276-022-00906-w.pdf"
+}

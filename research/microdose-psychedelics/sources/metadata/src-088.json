@@ -1,0 +1,22 @@
+{
+  "id": "src-088",
+  "title": "Toward Mapping Neurobehavioral Heterogeneity of Psychedelic Neurobiology in Humans",
+  "authors": [
+    "Moujaes, Flora",
+    "Preller, Katrin H.",
+    "Ji, Jie Lisa",
+    "Murray, John D.",
+    "Berkovitch, Lucie",
+    "Vollenweider, Franz X.",
+    "Anticevic, Alan"
+  ],
+  "doi": "10.1016/j.biopsych.2022.10.021",
+  "url": "https://openalex.org/W4310813805",
+  "provider": "openalex",
+  "year": 2022,
+  "venue": "Biological Psychiatry",
+  "citation_count": 42,
+  "abstract": "Precision psychiatry aims to identify markers of interindividual variability that allow for predicting the right treatment for each patient. However, bridging the gap between molecular-level manipulations and neural systems-level functional alterations remains an unsolved problem in psychiatry. After decades of low success rates in pharmaceutical research and development for psychiatric drugs, multiple studies now point to the potential of psychedelics as a promising, fast-acting, and long-lasting treatment for some psychiatric symptoms. Yet, given the highly psychoactive nature of these substances, a precision medicine approach is essential to map the neural signals related to clinical efficacy to identify patients who can maximally benefit from this treatment. Recent studies have shown that bridging the gap between pharmacology, systems-level neural response in humans, and individual experience is possible for psychedelic substances, therefore paving the way for a precision neuropsychiatric therapeutic development. Specifically, it has been shown that the integration of brain-wide positron emission tomography or transcriptomic data, i.e., receptor distribution for the serotonin 2A receptor, with computational neuroimaging methods can simulate the effect of psychedelics on the human brain. These novel computational psychiatry approaches allow for modeling interindividual differences in neural as well as subjective effects of psychedelic substances. Collectively, this review provides a deep dive into psychedelic pharmaconeuroimaging studies with a core focus on how recent computational psychiatry advances in biophysically based circuit modeling can be leveraged to predict individual responses. Finally, we emphasize the importance of human pharmacological neuroimaging for the continued precision therapeutic development of psychedelics.",
+  "type": "academic",
+  "pdf_url": "http://www.biologicalpsychiatryjournal.com/article/S0006322322018054/pdf"
+}

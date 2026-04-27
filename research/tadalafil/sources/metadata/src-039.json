@@ -1,0 +1,23 @@
+{
+  "id": "src-039",
+  "title": "The changing features of serum adropin, copeptin, neprilysin and chitotriosidase which are associated with vascular endothelial function in type 2 diabetic retinopathy patients.",
+  "authors": [
+    "Li, Baoxin",
+    "Li, Na",
+    "Guo, Shu-qin",
+    "Zhang, Mali",
+    "Li, Jie",
+    "Zhai, Na",
+    "Wang, He",
+    "Zhang, Yunliang"
+  ],
+  "doi": "10.1016/j.jdiacomp.2020.107686",
+  "url": "https://www.semanticscholar.org/paper/ba3baa1c3585063a10a4c0542aa9f9b2a8a0d887",
+  "provider": "semantic_scholar",
+  "year": 2020,
+  "venue": "Journal of diabetes and its complications",
+  "citation_count": 18,
+  "abstract": "AIMS\nAdropin (AD), copeptin (CP), neprilysin (NEP) and chitotriosidase (CHIT1) have been associated with the regulation of vascular endothelial function. In this work, we analyzed the plasma concentrations of cytokines (AD, CP, NEP and CHIT1) in type 2 diabetic patients with or without retinopathy (DR) to predict the risk of DR for diabetic patients.\n\nMETHOD\nA total of 392 patients diagnosed as type 2 diabetes mellitus (T2DM) and 120 healthy volunteers as a control group were enrolled in this study. T2DM patients were divided into three groups: diabetes without retinopathy (NDR, n = 174) group, non-proliferative diabetic retinopathy (NPDR, n = 118) group and proliferative diabetic retinopathy (PDR, n = 100) group. The serum AD, CP, NEP and CHIT1 levels of subjects were detected by enzyme-linked immunosorbent assay (ELISA).\n\nRESULTS\nWe reported a significant decrease in AD and a significant increase in CP, NEP and CHIT1 in NDR as well as DR patients when compared with controls (p < 0.05), the lower level of AD and significantly higher levels of CP, NEP and CHIT1 were seen in DR patients compared to NDR group (p < 0.05), at the same time, we observed the lowest level of AD and the highest levels of CP, NEP and CHIT1 in the PDR group. Logistic regression analysis showed that AD was a protective factor for DR, conversely, CP, NEP and CHIT1 were the independent risk factors (p < 0.05). Moreover, receiver operating characteristic curve analyses indicated that CP had greater diagnosis capacity with an AUC (the areas under the ROC curve) of 0.901 than AD, NEP, CHIT1 for DR patients.\n\nCONCLUSION\nThe decreased AD level and the elevated CP, NEP and CHIT1 levels involved in vascular endothelial function may be evidence facilitating the presence of DR. Thereby they can be explored to use as promising non-invasive biomarkers for prediction of DR severity, distinguishing DR from diabetic patients.",
+  "type": "academic",
+  "pdf_url": ""
+}

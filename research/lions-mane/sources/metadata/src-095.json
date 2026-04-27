@@ -1,0 +1,20 @@
+{
+  "id": "src-095",
+  "title": "Lion’s Mane Mushroom, Hericium erinaceus (Bull.: Fr.) Pers. Suppresses H2O2-Induced Oxidative Damage and LPS-Induced Inflammation in HT22 Hippocampal Neurons and BV2 Microglia",
+  "authors": [
+    "Kushairi, Naufal",
+    "Phan, Chia‐Wei",
+    "Sabaratnam, Vikineswary",
+    "David, Pamela",
+    "Naidu, Murali"
+  ],
+  "doi": "10.3390/antiox8080261",
+  "url": "https://openalex.org/W2965064023",
+  "provider": "openalex",
+  "year": 2019,
+  "venue": "Antioxidants",
+  "citation_count": 84,
+  "abstract": "Oxidative stress and inflammation in neuron-glia system are key factors in the pathogenesis of neurodegenerative diseases. As synthetic drugs may cause side effects, natural products have gained recognition for the prevention or management of diseases. In this study, hot water (HE-HWA) and ethanolic (HE-ETH) extracts of the basidiocarps of <i>Hericium erinaceus</i> mushroom were investigated for their neuroprotective and anti-inflammatory activities against hydrogen peroxide (H<sub>2</sub>O<sub>2</sub>)-induced neurotoxicity in HT22 mouse hippocampal neurons and lipopolysaccharide (LPS)-induced BV2 microglial activation respectively. HE-ETH showed potent neuroprotective activity by significantly (<i>p</i> < 0.0001) increasing the viability of H<sub>2</sub>O<sub>2</sub>-treated neurons. This was accompanied by significant reduction in reactive oxygen species (ROS) (<i>p</i> < 0.05) and improvement of the antioxidant enzyme catalase (CAT) (<i>p</i> < 0.05) and glutathione (GSH) content (<i>p</i> < 0.01). Besides, HE-ETH significantly improved mitochondrial membrane potential (MMP) (<i>p</i> < 0.05) and ATP production (<i>p</i> < 0.0001) while reducing mitochondrial toxicity (<i>p</i> < 0.001), Bcl-2-associated X (Bax) gene expression (<i>p</i> < 0.05) and nuclear apoptosis (<i>p</i> < 0.0001). However, gene expression of Nuclear factor erythroid 2-related factor 2 (Nrf2), heme oxygenase 1 (HO-1) and NAD(P)H quinone dehydrogenase 1 (NQO1) were unaffected (<i>p</i> > 0.05). HE-ETH also significantly (<i>p</i> < 0.0001) reduced nitric oxide (NO) level in LPS-treated BV2 indicating an anti-inflammatory activity in the microglia. These findings demonstrated HE-ETH maybe a potential neuroprotective and anti-inflammatory agent in neuron-glia environment.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2076-3921/8/8/261/pdf?version=1565268954"
+}

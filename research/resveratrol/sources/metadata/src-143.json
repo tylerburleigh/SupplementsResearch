@@ -1,0 +1,16 @@
+{
+  "id": "src-143",
+  "title": "Oxidative Stress and Lipid Peroxidation Products in Cancer Progression and Therapy",
+  "authors": [
+    "Barrera, Giuseppina"
+  ],
+  "doi": "10.5402/2012/137289",
+  "url": "https://openalex.org/W1992782534",
+  "provider": "openalex",
+  "year": 2012,
+  "venue": "ISRN Oncology",
+  "citation_count": 809,
+  "abstract": "The generation of reactive oxygen species (ROS) and an altered redox status are common biochemical aspects in cancer cells. ROS can react with the polyunsaturated fatty acids of lipid membranes and induce lipid peroxidation. The end products of lipid peroxidation, 4-hydroxynonenal (HNE), have been considered to be a second messenger of oxidative stress. Beyond ROS involvement in carcinogenesis, increased ROS level can inhibit tumor cell growth. Indeed, in tumors in advanced stages, a further increase of oxidative stress, such as that occurs when using several anticancer drugs and radiation therapy, can overcome the antioxidant defenses of cancer cells and drive them to apoptosis. High concentrations of HNE can also induce apoptosis in cancer cells. However, some cells escape the apoptosis induced by chemical or radiation therapy through the adaptation to intrinsic oxidative stress which confers drug resistance. This paper is focused on recent advances in the studies of the relation between oxidative stress, lipid peroxidation products, and cancer progression with particular attention to the pro-oxidant anticancer agents and the drug-resistant mechanisms, which could be modulated to obtain a better response to cancer therapy.",
+  "type": "academic",
+  "pdf_url": "https://downloads.hindawi.com/archive/2012/137289.pdf"
+}

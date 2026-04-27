@@ -1,0 +1,20 @@
+3	2	Article Open
+21	2	Introduction
+63	2	21. Furthermore, the effects of NMN supplementation
+68	2	22. However, evidence of the effects of human
+92	2	Results
+159	2	24. In addition, the means of each group at both
+230	2	Nmn
+234	2	Nmn
+583	2	Discussion
+619	2	22. Likewise,
+882	2	13. Furthermore, the recent study on NMN has
+896	2	35. NR supplementation in rodents has also been reported to
+947	2	Methods
+1114	2	Statistical Analysis
+1150	2	Data Availability
+1154	2	References
+1271	2	Acknowledgements
+1281	2	Author Contributions
+1292	2	Competing Interests
+1297	2	Additional Information

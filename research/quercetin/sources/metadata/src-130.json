@@ -1,0 +1,18 @@
+{
+  "id": "src-130",
+  "title": "Formulation and Characteristics of Edible Oil Nanoemulsions Modified with Polymeric Surfactant for Encapsulating Curcumin",
+  "authors": [
+    "Chiang, Tzu-Chi",
+    "Chang, Jia‐Yaw",
+    "Chou, Tzung‐Han"
+  ],
+  "doi": "10.3390/polym15132864",
+  "url": "https://openalex.org/W4382725127",
+  "provider": "openalex",
+  "year": 2023,
+  "venue": "Polymers",
+  "citation_count": 17,
+  "abstract": "Curcumin (Cur) is a beneficial phytochemical with numerous health advantages. However, its limited solubility in oil and poor stability hinder its potential for biomedical applications. In this study, we employed a mixture of food-grade Tween 60, a polymeric surfactant, and Span 60 to adjust the hydrophilic lipophilic balance number (HLBt) and prepared nanoemulsions (NEs) of coconut oil (Cc oil) as carriers for Cur. The effects of HLBt values, surfactant-to-oil ratio, and oil ratio on the physicochemical characteristics of the food-grade oil-NEs were investigated using dynamic light scattering, transmission electron microscopy, differential scanning calorimetry, fluorescence polarization spectroscopy, and viscometry. Increasing the addition ratio of Tween 60 in the NEs, thereby increasing the HLBt, resulted in a reduction in NE size and an improvement in their storage stability. The temperature and size of the phase transition region of the NEs decreased with increasing HLBt. NEs with higher HLBt exhibited a disordering effect on the intra-NE molecular packing of Cc oil. NEs with high HLBt displayed low viscosity and demonstrated nearly Newtonian fluid behavior, while those with lower HLBt exhibited pseudoplastic fluid behavior. Cur was effectively encapsulated into the Cc oil-NEs, with higher encapsulation efficiency observed in NEs with higher HLBt values. Furthermore, the Cur remaining activity was significantly enhanced through encapsulation within stable NEs. The biocompatibility of the Cc oil-NEs was also demonstrated in vitro. In summary, this study highlights the preparation of stable NEs of Cc oil by adjusting the HLBt using Tween 60, facilitating effective encapsulation of Cur. These findings provide valuable insights for the development of Cur carriers with improved solubility, stability, and bioavailability.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2073-4360/15/13/2864/pdf?version=1687963885"
+}

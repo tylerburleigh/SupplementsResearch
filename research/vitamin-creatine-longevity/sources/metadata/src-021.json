@@ -1,0 +1,29 @@
+{
+  "id": "src-021",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://tendwellhealth.com/creatine-should-it-be-a-part-of-my-supplement-routine",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-21T12:54:29.577938+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-021.md",
+  "quality_details": {
+    "content_length": 4514,
+    "alpha_ratio": 0.816,
+    "sentence_count": 34,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "src-147",
+  "title": "Causal effects of B vitamins and homocysteine on obesity and musculoskeletal diseases: A Mendelian randomization study.",
+  "authors": [
+    "Fu, Liwan",
+    "Wang, Yuquan",
+    "Hu, Yue-Qing"
+  ],
+  "doi": "10.3389/fnut.2022.1048122",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36505230",
+  "provider": "pubmed",
+  "year": 2022,
+  "venue": "Frontiers in nutrition",
+  "citation_count": 0,
+  "abstract": "OBJECTIVES: Although homocysteine (Hcy) increases the risk of cardiovascular diseases, its effects on obesity and musculoskeletal diseases remain unclear. We performed a Mendelian randomization study to estimate the associations between Hcy and B vitamin concentrations and their effects on obesity and musculoskeletal-relevant diseases in the general population.\nMETHODS: We selected independent single nucleotide polymorphisms of Hcy (n = 44,147), vitamin B12 (n = 45,576), vitamin B6 (n = 1864), and folate (n = 37,465) at the genome-wide significance level as instruments and applied them to the studies of summary-level data for fat and musculoskeletal phenotypes from the UK Biobank study (n = 331,117), the FinnGen consortium (n = 218,792), and other consortia. Two-sample Mendelian randomization (MR) approaches were utilized in this study. The inverse variance weighting (IVW) was adopted as the main analysis. MR-PRESSO, MR-Egger, the weighted median estimate, bidirectional MR, and multivariable MR were performed as sensitivity methods.\nRESULTS: Higher Hcy concentrations were robustly associated with an increased risk of knee osteoarthritis [odds ratio (OR) 1.119; 95% confidence interval (CI) 1.032-1.214; P = 0.007], hospital-diagnosed osteoarthritis (OR 1.178; 95% CI 1.012-1.37; P = 0.034), osteoporosis with pathological fracture (OR 1.597; 95% CI 1.036-2.46; P = 0.034), and soft tissue disorder (OR 1.069; 95% CI 1.001-1.141; P = 0.045) via an inverse variance weighting method and other MR approaches. Higher vitamin B12 levels were robustly associated with decreased body fat percentage and its subtypes (all P < 0.05). Bidirectional analyses showed no reverse causation. Multivariable MR analyses and other sensitivity analyses showed directionally similar results.\nCONCLUSIONS: There exist significant causal effects of vitamin B12 in the serum and Hcy in the blood on fat and musculoskeletal diseases, respectively. These findings may have an important insight into the pathogenesis of obesity and musculoskeletal diseases and other possible future therapies.",
+  "type": "academic",
+  "pdf_url": ""
+}

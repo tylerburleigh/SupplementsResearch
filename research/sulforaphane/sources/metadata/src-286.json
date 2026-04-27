@@ -1,0 +1,17 @@
+{
+  "id": "src-286",
+  "title": "Aldehyde dehydrogenases in cancer stem cells: potential as therapeutic targets",
+  "authors": [
+    "Clark, David W.",
+    "Palle, Komaraiah"
+  ],
+  "doi": "10.21037/atm.2016.11.82",
+  "url": "https://openalex.org/W2566958631",
+  "provider": "openalex",
+  "year": 2016,
+  "venue": "Annals of Translational Medicine",
+  "citation_count": 217,
+  "abstract": "Resistance to current chemotherapeutic or radiation-based cancer treatment strategies is a serious concern. Cancer stem cells (CSCs) are typically able to evade treatment and establish a recurrent tumor or metastasis, and it is these that lead to the majority of cancer deaths. Therefore, a major current goal is to develop treatment strategies that eliminate the resistant CSCs as well as the bulk tumor cells in order to achieve complete disease clearance. Aldehyde dehydrogenases (ALDHs) are important for maintenance and differentiation of stem cells as well as normal development. There is expanding evidence that ALDH expression increases in response to therapy and promotes chemoresistance and survival mechanisms in CSCs. This perspective will discuss a paper by Cojoc and colleagues recently published in Cancer Research, that indicates ALDHs play a key role in resistance to radiation therapy and tumor recurrence in prostate cancer. The authors suggest that ALDHs are a potential therapeutic target for treatment prostate cancer patients to limit radiation resistance and disease recurrence. The findings are consistent with work from other cancers showing ALDHs are major contributors of CSC signaling and resistance to anti-cancer treatments. This perspective will address representative work concerning the validity of ALDH and the associated retinoic acid signaling pathway as chemotherapeutic targets for prostate as well as other cancers.",
+  "type": "academic",
+  "pdf_url": "https://atm.amegroups.com/article/viewFile/12756/pdf"
+}

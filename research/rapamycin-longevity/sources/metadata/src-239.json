@@ -1,0 +1,29 @@
+{
+  "id": "src-239",
+  "title": "Crosstalk Between Autophagy and Oxidative Stress in Hematological Malignancies: Mechanisms, Implications, and Therapeutic Potential",
+  "authors": [
+    "Cabrera-Serrano, A. J.",
+    "Sánchez-Maldonado, J. M.",
+    "González-Olmedo, Carmen",
+    "Carretero-Fernández, María",
+    "Díaz-Beltrán, Leticia",
+    "Gutiérrez-Bautista, J. F.",
+    "García-Verdejo, F.",
+    "Gálvez-Montosa, F.",
+    "López-López, José Antonio",
+    "García-Martín, Paloma",
+    "Pérez, Eva María",
+    "Sánchez-Rovira, Pedro",
+    "Reyes-Zurita, F.",
+    "Sainz, J."
+  ],
+  "doi": "10.3390/antiox14030264",
+  "url": "https://www.semanticscholar.org/paper/b89c0a02da21ac82d74e2861b3b26eddb596422f",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "Antioxidants",
+  "citation_count": 22,
+  "abstract": "Autophagy is a fundamental cellular process that maintains homeostasis by degrading damaged components and regulating stress responses. It plays a crucial role in cancer biology, including tumor progression, metastasis, and therapeutic resistance. Oxidative stress, similarly, is key to maintaining cellular balance by regulating oxidants and antioxidants, with its disruption leading to molecular damage. The interplay between autophagy and oxidative stress is particularly significant, as reactive oxygen species (ROS) act as both inducers and by-products of autophagy. While autophagy can function as a tumor suppressor in early cancer stages, it often shifts to a pro-tumorigenic role in advanced disease, aiding cancer cell survival under adverse conditions such as hypoxia and nutrient deprivation. This dual role is mediated by several signaling pathways, including PI3K/AKT/mTOR, AMPK, and HIF-1α, which coordinate the balance between autophagic activity and ROS production. In this review, we explore the mechanisms by which autophagy and oxidative stress interact across different hematological malignancies. We discuss how oxidative stress triggers autophagy, creating a feedback loop that promotes tumor survival, and how autophagic dysregulation leads to increased ROS accumulation, exacerbating tumorigenesis. We also examine the therapeutic implications of targeting the autophagy–oxidative stress axis in cancer. Current strategies involve modulating autophagy through specific inhibitors, enhancing ROS levels with pro-oxidant compounds, and combining these approaches with conventional therapies to overcome drug resistance. Understanding the complex relationship between autophagy and oxidative stress provides critical insights into novel therapeutic strategies aimed at improving cancer treatment outcomes.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.3390/antiox14030264"
+}

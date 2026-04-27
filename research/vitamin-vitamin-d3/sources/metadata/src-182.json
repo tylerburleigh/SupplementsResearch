@@ -1,0 +1,39 @@
+{
+  "id": "src-182",
+  "title": "Efficacy of high-dose versus low-dose vitamin D supplementation on serum levels of inflammatory factors and mortality rate in severe traumatic brain injury patients: study protocol for a randomized placebo-controlled trial",
+  "authors": [
+    "Arabi, Seyed Mostafa",
+    "Sedaghat, Alireza",
+    "Ehsaei, Mohammad Reza",
+    "Safarian, Mohammad",
+    "Ranjbar, Golnaz",
+    "Rezaee, Hamid",
+    "Rezvani, Reza",
+    "Tabesh, Hamed",
+    "Norouzy, Abdolreza"
+  ],
+  "year": 2020,
+  "abstract": "Abstract\n\nBackground\nTraumatic brain injury (TBI) is the most common trauma worldwide and is a leading cause of injury-related death and disability. Inflammation is initiated as a result of the TBI, which is in association with severity of illness and mortality in brain trauma patients, especially in subdural hemorrhage and epidural hemorrhage cases. A high percentage of adults admitted to the intensive care unit with TBI are diagnosed with vitamin D deficiency; this deficiency may induce impaired immune responses and increase the risk of infections. Vitamin D intervention has been shown to modulate pro- and anti-inflammatory cytokines in non-critically ill patients, but to date, there is no substantial data on the effectiveness of vitamin D for the improvement of immune function in traumatic brain injury patients.\n\nMethods/design\nA randomized clinical trial (RCT) will be performed on 74 Iranian adults 18–65 years old with brain trauma and will be treated daily with vitamin D supplements (100,000 IU oral drop) or a similar placebo (1000 IU) for 5 days.\n\nDiscussion\nIf this randomized clinical trial demonstrates reductions in inflammatory cytokines, it would provide evidence for a multicenter clinical trial to evaluate the efficacy of vitamin D supplementation in neurocritically ill patients. Since vitamin D supplements are inexpensive and safe, this clinical trial could have the potential to improve clinical outcomes in traumatic brain injury patients through reduction of inflammation and infection-associated morbidity and mortality rates.\n\nTrial registration\n\nIranian Registry of Clinical Trials,\nIRCT20180619040151N3\n. Registered on 10 August 2019.",
+  "doi": "10.1186/s13063-020-04622-6",
+  "url": "https://doi.org/10.1186/s13063-020-04622-6",
+  "pdf_url": "",
+  "venue": "Trials",
+  "citation_count": 9,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T20:58:13.325486+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-182.md",
+  "quality_details": {
+    "content_length": 29002,
+    "alpha_ratio": 0.77,
+    "sentence_count": 230,
+    "reasons": [
+      "paywall_page (access this article)"
+    ]
+  }
+}

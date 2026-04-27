@@ -1,0 +1,26 @@
+{
+  "id": "src-348",
+  "title": "Curcumin analogue EF24 prevents alveolar epithelial cell senescence to ameliorate idiopathic pulmonary fibrosis via activation of PTEN.",
+  "authors": [
+    "Zhang, Yanghuan",
+    "Liu, Jiahua",
+    "Zheng, Runzi",
+    "Hou, Kailong",
+    "Zhang, Yanduo",
+    "Jia, Tongxin",
+    "Lu, Xiyi",
+    "Samarawickrama, Priyadarshani Nadeeshika",
+    "Jia, Shuting",
+    "He, Yonghan",
+    "Liu, Jing"
+  ],
+  "doi": "10.1016/j.phymed.2024.155882",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39096545",
+  "provider": "pubmed",
+  "year": 2024,
+  "venue": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+  "citation_count": 0,
+  "abstract": "BACKGROUND: Treating Idiopathic pulmonary fibrosis (IPF) remains challenging owing to its relentless progression, grim prognosis, and the scarcity of effective treatment options. Emerging evidence strongly supports the critical role of accelerated senescence in alveolar epithelial cells (AECs) in driving the progression of IPF. Consequently, targeting senescent AECs emerges as a promising therapeutic strategy for IPF.\nPURPOSE: Curcumin analogue EF24 is a derivative of curcumin and shows heightened bioactivity encompassing anti-inflammatory, anti-tumor and anti-aging properties. The objective of this study was to elucidate the therapeutic potential and underlying molecular mechanisms of EF24 in the treatment of IPF.\nMETHODS: A549 and ATII cells were induced to become senescent using bleomycin. Senescence markers were examined using different methods including senescence-associated β-galactosidase (SA-β-gal) staining, western blotting, and q-PCR. Mice were intratracheally administrated with bleomycin to induce pulmonary fibrosis. This was validated by micro-computed tomography (CT), masson trichrome staining, and transmission electron microscope (TEM). The role and underlying mechanisms of EF24 in IPF were determined in vitro and in vivo by evaluating the expressions of PTEN, AKT/mTOR/NF-κB signaling pathway, and mitophagy using western blotting or flow cytometry.\nRESULTS: We identified that the curcumin analogue EF24 was the most promising candidate among 12 compounds against IPF. EF24 treatment significantly reduced senescence biomarkers in bleomycin-induced senescent AECs, including SA-β-Gal, PAI-1, P21, and the senescence-associated secretory phenotype (SASP). EF24 also effectively inhibited fibroblast activation which was induced by senescent AECs or TGF-β. We revealed that PTEN activation was integral for EF24 to inhibit AECs senescence by suppressing the AKT/mTOR/NF-κB signaling pathway. Additionally, EF24 improved mitochondrial dysfunction through induction of mitophagy. Furthermore, EF24 administration significantly reduced the senescent phenotype induced by bleomycin in the lung tissues of mice. Notably, EF24 mitigates fibrosis and promotes overall health benefits in both the acute and chronic phases of IPF, suggesting its therapeutic potential in IPF treatment.\nCONCLUSION: These findings collectively highlight EF24 as a new and effective therapeutic agent against IPF by inhibiting senescence in AECs.",
+  "type": "academic",
+  "pdf_url": ""
+}

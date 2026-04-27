@@ -1,0 +1,22 @@
+{
+  "id": "src-082",
+  "title": "Micronutrient Status and Prediction of Disease Outcome in Adults With Inflammatory Bowel Disease Receiving Biologic Therapy",
+  "authors": [
+    "Brownson, E",
+    "Saunders, Jayne",
+    "Jatkowska, Aleksandra",
+    "White, Bernadette",
+    "Gerasimidis, Konstantinos",
+    "Seenan, John Paul",
+    "Macdonald, Jonathan"
+  ],
+  "doi": "10.1093/ibd/izad174",
+  "url": "https://openalex.org/W4386100384",
+  "provider": "openalex",
+  "year": 2023,
+  "venue": "Inflammatory Bowel Diseases",
+  "citation_count": 19,
+  "abstract": "A substantial proportion of adults with IBD present deficiencies for certain micronutrients, with selenium and zinc deficiency predicting adverse disease outcomes. For other micronutrients, deficiencies were less common and should not warrant routine screening. Intervention studies should explore the effect of micronutrient supplementation in modifying disease outcomes in IBD.",
+  "type": "academic",
+  "pdf_url": "https://academic.oup.com/ibdjournal/advance-article-pdf/doi/10.1093/ibd/izad174/51236309/izad174.pdf"
+}

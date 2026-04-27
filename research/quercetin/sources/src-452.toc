@@ -1,0 +1,12 @@
+54	2	1. Introduction
+169	2	2. Kaempferol and Quercetin Contents in Edible Plants
+258	2	3. General Mechanism of Stress Inhibition by Kaempferol and Quercetin
+334	2	4. Flavonoid Role as Growth Regulators in Plant
+364	2	4. Flavonoid Role as Growth Regulators in Plant
+429	2	5. Anti-Bacterial Activity of Kaempferol and Quercetin
+443	2	5. Anti-Bacterial Activity of Kaempferol and Quercetin
+480	2	6. Anti-Fungal Activity of Kaempferol and Quercetin
+509	2	7. Bioactivity of Kaempferol and Quercetin in Human Cardiovascular Disease
+579	2	8. Pharmacokinetic Characteristics of Kaempferol and Quercetin
+659	2	9. Conclusions and Future Perspective
+726	2	References

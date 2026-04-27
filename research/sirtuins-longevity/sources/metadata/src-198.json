@@ -1,0 +1,17 @@
+{
+  "id": "src-198",
+  "title": "The role of mitochondria in aging",
+  "authors": [
+    "Bratić, Ana",
+    "Larsson, Nils‐Göran"
+  ],
+  "doi": "10.1172/jci64125",
+  "url": "https://openalex.org/W2112299930",
+  "provider": "openalex",
+  "year": 2013,
+  "venue": "Journal of Clinical Investigation",
+  "citation_count": 1066,
+  "abstract": "Over the last decade, accumulating evidence has suggested a causative link between mitochondrial dysfunction and major phenotypes associated with aging. Somatic mitochondrial DNA (mtDNA) mutations and respiratory chain dysfunction accompany normal aging, but the first direct experimental evidence that increased mtDNA mutation levels contribute to progeroid phenotypes came from the mtDNA mutator mouse. Recent evidence suggests that increases in aging-associated mtDNA mutations are not caused by damage accumulation, but rather are due to clonal expansion of mtDNA replication errors that occur during development. Here we discuss the caveats of the traditional mitochondrial free radical theory of aging and highlight other possible mechanisms, including insulin/IGF-1 signaling (IIS) and the target of rapamycin pathways, that underlie the central role of mitochondria in the aging process.",
+  "type": "academic",
+  "pdf_url": "http://www.jci.org/articles/view/64125/files/pdf"
+}

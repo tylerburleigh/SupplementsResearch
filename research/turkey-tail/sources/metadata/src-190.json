@@ -1,0 +1,23 @@
+{
+  "id": "src-190",
+  "title": "Enhanced Inhibition of Trametes versicolor by Structurally Modified Medicarpin: In Vitro Evaluation and In Silico Insights into Laccase Binding.",
+  "authors": [
+    "Guevara-Martínez, Santiago José",
+    "Rivera-Ramírez, José Domingo",
+    "Escutia-Gutiérrez, Rebeca",
+    "Pérez-Cisneros, Marco Antonio",
+    "Villanueva-Mejía, Francisco",
+    "García-Zavala, Stephanie",
+    "Herrera-Bucio, Rafael",
+    "Morales-Palacios, Fredy Geovannini"
+  ],
+  "doi": "10.3390/ijms27062878",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41898736",
+  "provider": "pubmed",
+  "year": 2026,
+  "venue": "International journal of molecular sciences",
+  "citation_count": 0,
+  "abstract": "Medicarpin, a natural pterocarpan phytoalexin, contributes to tree defense against microbial decay, particularly from the aggressive white-rot fungus Trametes versicolor, an ASTM standard for wood durability testing. To improve upon the inhibitory effect of medicarpin against this fungus (150 mg/L), eleven derivatives were synthesized and evaluated. The acetylated analog demonstrated superior activity, achieving complete growth inhibition at 100 mg/L. To establish a structure-activity relationship, molecular docking was performed on the copper cluster on fungal laccase, the primary oxidative enzyme of T. versicolor. The acetylated derivative bound the T1 copper site with a more favorable free energy (-8.5 kcal/mol) than the parent compound, exhibiting enhanced stabilizing interactions and a binding pose anchored closer to the trinuclear copper cluster (TNC). These results were corroborated by 80 ns molecular dynamics simulations, confirming complex stability and the persistence of key interactions. This study demonstrates that targeted chemical modification of natural phytoalexins can significantly improve their antifungal potency. The superior performance of the acetylated medicarpin derivative, linked to optimized binding at the laccase active site, establishes a clear structure-activity relationship and highlights the potential of such engineered compounds as leads for next-generation, bio-inspired wood preservatives.",
+  "type": "academic",
+  "pdf_url": ""
+}

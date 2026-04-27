@@ -1,0 +1,20 @@
+{
+  "id": "src-303",
+  "title": "Mitochondria and ageing: role in heart, skeletal muscle and adipose tissue",
+  "authors": [
+    "Boengler, Kerstin",
+    "Kosiol, Maik",
+    "Mayr, Manuel",
+    "Schulz, Rainer",
+    "Rohrbach, Susanne"
+  ],
+  "doi": "10.1002/jcsm.12178",
+  "url": "https://openalex.org/W2606272480",
+  "provider": "openalex",
+  "year": 2017,
+  "venue": "Journal of Cachexia Sarcopenia and Muscle",
+  "citation_count": 407,
+  "abstract": "Age is the most important risk factor for most diseases. Mitochondria play a central role in bioenergetics and metabolism. In addition, several lines of evidence indicate the impact of mitochondria in lifespan determination and ageing. The best-known hypothesis to explain ageing is the free radical theory, which proposes that cells, organs, and organisms age because they accumulate reactive oxygen species (ROS) damage over time. Mitochondria play a central role as the principle source of intracellular ROS, which are mainly formed at the level of complex I and III of the respiratory chain. Dysfunctional mitochondria generating less ATP have been observed in various aged organs. Mitochondrial dysfunction comprises different features including reduced mitochondrial content, altered mitochondrial morphology, reduced activity of the complexes of the electron transport chain, opening of the mitochondrial permeability transition pore, and increased ROS formation. Furthermore, abnormalities in mitochondrial quality control or defects in mitochondrial dynamics have also been linked to senescence. Among the tissues affected by mitochondrial dysfunction are those with a high-energy demand and thus high mitochondrial content. Therefore, the present review focuses on the impact of mitochondria in the ageing process of heart and skeletal muscle. In this article, we review different aspects of mitochondrial dysfunction and discuss potential therapeutic strategies to improve mitochondrial function. Finally, novel aspects of adipose tissue biology and their involvement in the ageing process are discussed.",
+  "type": "academic",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/jcsm.12178"
+}

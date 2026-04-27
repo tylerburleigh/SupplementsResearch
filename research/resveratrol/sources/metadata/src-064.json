@@ -1,0 +1,28 @@
+{
+  "id": "src-064",
+  "title": "Lack of efficacy of resveratrol on C-reactive protein and selected cardiovascular risk factors--Results from a systematic review and meta-analysis of randomized controlled trials.",
+  "authors": [
+    "Sahebkar, Amirhossein",
+    "Serban, Corina",
+    "Ursoniu, Sorin",
+    "Wong, Nathan D",
+    "Muntner, Paul",
+    "Graham, Ian M",
+    "Mikhailidis, Dimitri P",
+    "Rizzo, Manfredi",
+    "Rysz, Jacek",
+    "Sperling, Laurence S",
+    "Lip, Gregory Y H",
+    "Banach, Maciej",
+    "Group, Lipid and Blood Pressure Meta-analysis Collaboration"
+  ],
+  "doi": "10.1016/j.ijcard.2015.04.008",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/25885871",
+  "provider": "pubmed",
+  "year": 2015,
+  "venue": "International journal of cardiology",
+  "citation_count": 0,
+  "abstract": "INTRODUCTION: Numerous studies have suggested that oral supplementation with resveratrol exerts cardioprotective effects, but evidence of the effects on C-reactive protein (CRP) plasma levels and other cardiovascular (CV) risk factors is inconclusive. Therefore, we performed a meta-analysis to evaluate the efficacy of resveratrol supplementation on plasma CRP concentrations and selected predictors of CV risk.\nMETHODS: The search included PUBMED, Cochrane Library, Web of Science, Scopus, and EMBASE (up to August 31, 2014) to identify RCTs investigating the effects of resveratrol supplementation on selected CV risk factors. Quantitative data synthesis was performed using a random-effects model, with weighted mean difference (WMD) and 95% confidence intervals (CI) as summary statistics.\nRESULTS: Meta-analysis of data from 10 RCTs (11 treatment arms) did not support a significant effect of resveratrol supplementation in altering plasma CRP concentrations (WMD: -0.144 mg/L, 95% CI: -0.968-0.680, p = 0.731). Resveratrol supplementation was not found to alter plasma levels of total cholesterol (WMD: 1.49 mg/dL, 95% CI: -14.96-17.93, p = 0.859), low density lipoprotein cholesterol (WMD: -0.31 mg/dL, 95% CI: -9.57-8.95, p = 0.948), triglycerides (WMD: 2.67 mg/dL, 95% CI: -28.34-33.67, p = 0.866), and glucose (WMD: 1.28 mg/dL, 95% CI: -5.28-7.84, p = 0.703). It also slightly reduced high density lipoprotein cholesterol concentrations (WMD: -4.18 mg/dL, 95% CI: -6.54 to -1.82, p = 0.001). Likewise, no significant effect was observed on systolic (WMD: 0.82 mmHg, 95% CI: -8.86-10.50, p = 0.868) and diastolic blood pressure (WMD: 1.72 mm Hg, 95% CI: -6.29-9.73, p=0.674).\nCONCLUSIONS: This meta-analysis of available RCTs does not suggest any benefit of resveratrol supplementation on CV risk factors. Larger, well-designed trials are necessary to confirm these results.",
+  "type": "academic",
+  "pdf_url": ""
+}

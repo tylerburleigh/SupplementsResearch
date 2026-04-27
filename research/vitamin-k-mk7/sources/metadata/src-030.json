@@ -1,0 +1,38 @@
+{
+  "id": "src-030",
+  "title": "Vitamin K<sub>2</sub>—a neglected player in cardiovascular health: a narrative review",
+  "authors": [
+    "Hariri, Essa",
+    "Kassis, Nicholas",
+    "Iskandar, Jean-Pierre",
+    "Schurgers, Leon J",
+    "Saad, Anas",
+    "Abdelfattah, Omar",
+    "Bansal, Agam",
+    "Isogai, Toshiaki",
+    "Harb, Serge C",
+    "Kapadia, Samir"
+  ],
+  "year": 2021,
+  "abstract": "Vitamin K2 serves an important role in cardiovascular health through regulation of calcium homeostasis. Its effects on the cardiovascular system are mediated through activation of the anti-calcific protein known as matrix Gla protein. In its inactive form, this protein is associated with various markers of cardiovascular disease including increased arterial stiffness, vascular and valvular calcification, insulin resistance and heart failure indices which ultimately increase cardiovascular mortality. Supplementation of vitamin K2 has been strongly associated with improved cardiovascular outcomes through its modification of systemic calcification and arterial stiffness. Although its direct effects on delaying the progression of vascular and valvular calcification is currently the subject of multiple randomised clinical trials, prior reports suggest potential improved survival among cardiac patients with vitamin K2 supplementation. Strengthened by its affordability and Food and Drug Adminstration (FDA)-proven safety, vitamin K2 supplementation is a viable and promising option to improve cardiovascular outcomes.",
+  "doi": "10.1136/openhrt-2021-001715",
+  "url": "https://doi.org/10.1136/openhrt-2021-001715",
+  "pdf_url": "",
+  "venue": "Open Heart",
+  "citation_count": 54,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T10:52:57.315788+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-030.md",
+  "quality_details": {
+    "content_length": 87702,
+    "alpha_ratio": 0.742,
+    "sentence_count": 780,
+    "reasons": []
+  }
+}

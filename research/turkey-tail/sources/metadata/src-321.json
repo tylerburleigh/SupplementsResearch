@@ -1,0 +1,21 @@
+{
+  "id": "src-321",
+  "title": "Polymersome-based protein drug delivery – quo vadis?",
+  "authors": [
+    "Gouveia, Micael G.",
+    "Wesseler, Justus Paul",
+    "Ramaekers, Jobbe",
+    "Weder, Christoph",
+    "Scholten, Philip B. V.",
+    "Bruns, Nico"
+  ],
+  "doi": "10.1039/d2cs00106c",
+  "url": "https://openalex.org/W4312018403",
+  "provider": "openalex",
+  "year": 2022,
+  "venue": "Chemical Society Reviews",
+  "citation_count": 100,
+  "abstract": "Protein-based therapeutics are an attractive alternative to established therapeutic approaches and represent one of the fastest growing families of drugs. While many of these proteins can be delivered using established formulations, the intrinsic sensitivity of proteins to denaturation sometimes calls for a protective carrier to allow administration. Historically, lipid-based self-assembled structures, notably liposomes, have performed this function. After the discovery of polymersome-based targeted drug-delivery systems, which offer manifold advantages over lipid-based structures, the scientific community expected that such systems would take the therapeutic world by storm. However, no polymersome formulations have been commercialised. In this review article, we discuss key obstacles for the sluggish translation of polymersome-based protein nanocarriers into approved pharmaceuticals, which include limitations imparted by the use of non-degradable polymers, the intricacies of polymersome production methods, and the complexity of the <i>in vivo</i> journey of polymersomes across various biological barriers. Considering this complex subject from a polymer chemist's point of view, we highlight key areas that are worthy to explore in order to advance polymersomes to a level at which clinical trials become worthwhile and translation into pharmaceutical and nanomedical applications is realistic.",
+  "type": "academic",
+  "pdf_url": "https://pubs.rsc.org/en/content/articlepdf/2023/cs/d2cs00106c"
+}

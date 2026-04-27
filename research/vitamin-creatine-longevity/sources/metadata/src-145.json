@@ -1,0 +1,38 @@
+{
+  "id": "src-145",
+  "title": "The effects and benefits of creatine supplementation on brain health",
+  "authors": [
+    "Sztemberg, Elena",
+    "Łepecki, Dominik",
+    "Grodziński, Bartłomiej",
+    "Tomaszewski, Robert",
+    "Mikusek-Pham Van, Marcin",
+    "Krawiel, Karolina",
+    "Kras, Marta",
+    "Król, Marek",
+    "Cieślik, Aleksandra",
+    "Gruszczyńska, Hanna"
+  ],
+  "year": 2024,
+  "abstract": "Introduction: Creatine is a naturally occurring compound vital for energy metabolism, particularly in high-energy-demand tissues like muscles and the brain. Traditionally, research on creatine has focused on its ergogenic effects in sports, but emerging research suggests it may also positively impact brain health. Studies are exploring creatine monohydrate's role in improving cognitive function, mitigating neurodegenerative processes, and supporting mental health. This dual functionality highlights the compound's versatility as both a performance enhancer and a potential therapeutic agent for neurological health. By expanding the scope of creatine research beyond physical performance, we can better understand and utilize its full capabilities to enhance human health. This research review examines the growing evidence suggesting that creatine supplementation could significantly benefit brain health and the management of neurological diseases. Aim of the study: This review aims to synthesize current findings on creatine's cognitive benefits and its therapeutic potential for neurological disorders, critically analyzing preclinical and clinical studies to identify gaps and suggest future research directions.Materials and Methods: A comprehensive literature search was conducted using PubMed and Google Scholar databases, covering studies published between 2000 and 2024. Keywords such as creatine supplementation, brain health and neurodegeneration were used. Exclusion criteria included non-peer-reviewed articles, studies with insufficient data, and those not in English. Conclusions: This review highlights the potential benefits of creatine supplementation for cognitive and neurodegenerative diseases, noting its positive effects on memory, alleviating depression and anxiety, and offering neuroprotection. Future research should aim to standardize dosing, extend follow-up periods, and include larger, more diverse populations.",
+  "doi": "10.12775/qs.2024.22.54545",
+  "url": "https://doi.org/10.12775/qs.2024.22.54545",
+  "pdf_url": "",
+  "venue": "Quality in Sport",
+  "citation_count": 1,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T13:59:16.760614+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-145.md",
+  "quality_details": {
+    "content_length": 37740,
+    "alpha_ratio": 0.739,
+    "sentence_count": 407,
+    "reasons": []
+  }
+}

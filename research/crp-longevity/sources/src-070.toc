@@ -1,0 +1,26 @@
+55	2	Open Access
+56	2	Edited By
+60	2	Reviewed By
+72	2	Citation
+86	2	Copyright
+124	2	Keywords
+126	2	1 Introduction
+175	2	2 Materials and methods
+218	3	2.1 Laboratory procedures
+255	3	2.2 Statistical analysis
+313	2	3 Results
+322	3	3.1 Clinical variables
+347	2	10 Antiviral IFN b
+351	2	14 NK and CTL cytolytic activity Granulysin
+381	3	3.2 Biomarkers
+604	2	13 PLWH and compared the resultant performance metrics to the
+666	2	4 Discussion
+791	2	19. Endotheliitis and a progres sive endothelial thrombo-
+949	2	Author Contributions
+978	2	Acknowledgments
+993	2	Supplementary Material
+1000	2	References
+1058	2	20. Dolinay T, Kim YS, Howrylak J, Hunninghake GM, An CH, Fredenburgh L,
+1094	2	31. Buehler PK, Zinkernagel AS, Hofmaenner DA, Wendel Garcia PD, Acevedo CT,
+1107	2	35. Khodabakhsh P, Asgari Taei A, Mohseni M, Bahrami Zanjanbar D, Khalili H,
+1117	2	38. Vassiliou AG, Vrettou CS, Keskinidou C, Dimopoulou I, Kotanidou A, Orfanos

@@ -1,0 +1,19 @@
+{
+  "id": "src-164",
+  "title": "Histone deacetylases and their role in motor neuron degeneration",
+  "authors": [
+    "Lazo-Gómez, Rafael",
+    "Ramírez-Jarquín, Uri Nimrod",
+    "Tovar‐y‐Romo, Luis B.",
+    "Tapia, Ricardo"
+  ],
+  "doi": "10.3389/fncel.2013.00243",
+  "url": "https://openalex.org/W2002961598",
+  "provider": "openalex",
+  "year": 2013,
+  "venue": "Frontiers in Cellular Neuroscience",
+  "citation_count": 56,
+  "abstract": "Amyotrophic lateral sclerosis (ALS) is a fatal neurodegenerative disease, characterized by the progressive loss of motor neurons. The cause of this selective neuronal death is unknown, but transcriptional dysregulation is recently emerging as an important factor. The physical substrate for the regulation of the transcriptional process is chromatin, a complex assembly of histones and DNA. Histones are subject to several post-translational modifications, like acetylation, that are a component of the transcriptional regulation process. Histone acetylation and deacetylation is performed by a group of enzymes (histone acetyltransferases (HATs) and deacetylases, respectively) whose modulation can alter the transcriptional state of many regions of the genome, and thus may be an important target in diseases that share this pathogenic process, as is the case for ALS. This review will discuss the present evidence of transcriptional dysregulation in ALS, the role of histone deacetylases (HDACs) in disease pathogenesis, and the novel pharmacologic strategies that are being comprehensively studied to prevent motor neuron death, with focus on sirtuins (SIRT) and their effectors.",
+  "type": "academic",
+  "pdf_url": "https://www.frontiersin.org/articles/10.3389/fncel.2013.00243/pdf"
+}

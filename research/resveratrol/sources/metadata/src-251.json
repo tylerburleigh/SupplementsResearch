@@ -1,0 +1,18 @@
+{
+  "id": "src-251",
+  "title": "Dose translation from animal to human studies revisited",
+  "authors": [
+    "Reagan‐Shaw, Shannon",
+    "Nihal, Minakshi",
+    "Ahmad, Nihal"
+  ],
+  "doi": "10.1096/fj.07-9574lsf",
+  "url": "https://openalex.org/W2121836743",
+  "provider": "openalex",
+  "year": 2007,
+  "venue": "The FASEB Journal",
+  "citation_count": 6215,
+  "abstract": "As new drugs are developed, it is essential to appropriately translate the drug dosage from one animal species to another. A misunderstanding appears to exist regarding the appropriate method for allometric dose translations, especially when starting new animal or clinical studies. The need for education regarding appropriate translation is evident from the media response regarding some recent studies where authors have shown that resveratrol, a compound found in grapes and red wine, improves the health and life span of mice. Immediately after the online publication of these papers, the scientific community and popular press voiced concerns regarding the relevance of the dose of resveratrol used by the authors. The animal dose should not be extrapolated to a human equivalent dose (HED) by a simple conversion based on body weight, as was reported. For the more appropriate conversion of drug doses from animal studies to human studies, we suggest using the body surface area (BSA) normalization method. BSA correlates well across several mammalian species with several parameters of biology, including oxygen utilization, caloric expenditure, basal metabolism, blood volume, circulating plasma proteins, and renal function. We advocate the use of BSA as a factor when converting a dose for translation from animals to humans, especially for phase I and phase II clinical trials.",
+  "type": "academic",
+  "pdf_url": ""
+}

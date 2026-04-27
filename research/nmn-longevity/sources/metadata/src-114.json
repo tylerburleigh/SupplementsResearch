@@ -1,0 +1,27 @@
+{
+  "id": "src-114",
+  "title": "Nicotinamide Riboside, a Promising Vitamin B3 Derivative for Healthy Aging and Longevity: Current Research and Perspectives",
+  "authors": [
+    "Biţă, Andrei",
+    "Scorei, Ion Romulus",
+    "Ciocîlteu, Maria Viorica",
+    "Nicolaescu, Oana Elena",
+    "Pîrvu, Andreea Silvia",
+    "Bejenaru, Ludovic Everard",
+    "Rău, Gabriela",
+    "Bejenaru, Cornelia",
+    "Radu, Antonia",
+    "Neamţu, Johny",
+    "Mogoşanu, George Dan",
+    "Benner, Steven A."
+  ],
+  "doi": "10.3390/molecules28166078",
+  "url": "https://openalex.org/W4385877832",
+  "provider": "openalex",
+  "year": 2023,
+  "venue": "Molecules",
+  "citation_count": 32,
+  "abstract": "Many studies have suggested that the oxidized form of nicotinamide adenine dinucleotide (NAD<sup>+</sup>) is involved in an extensive spectrum of human pathologies, including neurodegenerative disorders, cardiomyopathy, obesity, and diabetes. Further, healthy aging and longevity appear to be closely related to NAD<sup>+</sup> and its related metabolites, including nicotinamide riboside (NR) and nicotinamide mononucleotide (NMN). As a dietary supplement, NR appears to be well tolerated, having better pharmacodynamics and greater potency. Unfortunately, NR is a reactive molecule, often unstable during its manufacturing, transport, and storage. Recently, work related to prebiotic chemistry discovered that NR borate is considerably more stable than NR itself. However, immediately upon consumption, the borate dissociates from the NR borate and is lost in the body through dilution and binding to other species, notably carbohydrates such as fructose and glucose. The NR left behind is expected to behave pharmacologically in ways identical to NR itself. This review provides a comprehensive summary (through Q1 of 2023) of the literature that makes the case for the consumption of NR as a dietary supplement. It then summarizes the challenges of delivering quality NR to consumers using standard synthesis, manufacture, shipping, and storage approaches. It concludes by outlining the advantages of NR borate in these processes.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/1420-3049/28/16/6078/pdf?version=1692177837"
+}

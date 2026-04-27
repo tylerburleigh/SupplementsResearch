@@ -1,0 +1,17 @@
+{
+  "id": "src-126",
+  "title": "Differential purinergic signaling in bladder sensory neurons of naïve and bladder-inflamed mice.",
+  "authors": [
+    "Chen, Xiaowei",
+    "Gebhart, G F"
+  ],
+  "doi": "10.1016/j.pain.2009.12.006",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/20045252",
+  "provider": "pubmed",
+  "year": 2010,
+  "venue": "Pain",
+  "citation_count": 0,
+  "abstract": "This study explored purinergic signaling in lumbosacral (LS) and thoracolumbar (TL) dorsal root ganglion neurons innervating the urinary bladder. In naïve mice, a greater proportion of LS (93%) than that of TL (77%) bladder neurons responded to purinergic agonists. Three types of purinergic currents were identified: 'sustained' (homomeric P2X2) currents were detected only in LS neurons, rapidly activating, 'slow' deactivating (heteromeric P2X2/3) currents predominated in both LS and TL neurons, and 'fast' activating/de-activating (homomeric P2X3) currents were detected only in TL neurons. Relative to TL bladder neurons, slow current density was greater in LS neurons, which also had a more negative action potential threshold and generated more action potentials in response to purinergic agonists (suggesting greater excitability of LS neurons). Single cell nested PCR documented P2X2 and P2X3 subunit expression in both TL and LS bladder neurons. Relative to saline treatment, bladder wall thickness and weight increased after cyclophosphamide (CYP) treatment. Both LS and TL neuron excitability increased (rheobase was decreased and responses to purinergic agonists increased) after CYP treatment. The proportion of sustained currents in LS bladder neurons increased fourfold after CYP bladder inflammation. Although proportions of slow and fast purinergic currents in TL neurons were unchanged by CYP treatment, the fast current density was greater than in saline-treated mice. These results in mouse, as previously described in rat, reveal differential purinergic signaling in TL and LS bladder neurons. The predominant currents and significant changes after inflammation, however, occur in different ganglia/sensory pathways in mouse and rat.",
+  "type": "academic",
+  "pdf_url": ""
+}

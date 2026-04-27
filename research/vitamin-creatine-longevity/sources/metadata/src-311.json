@@ -1,0 +1,33 @@
+{
+  "id": "src-311",
+  "title": "The bright and the dark sides of L-carnitine supplementation: a systematic review",
+  "authors": [
+    "Sawicka, Angelika K.",
+    "Renzi, Gianluca",
+    "Olek, Robert A."
+  ],
+  "year": 2020,
+  "abstract": "",
+  "doi": "10.1186/s12970-020-00377-2",
+  "url": "https://doi.org/10.1186/s12970-020-00377-2",
+  "pdf_url": "",
+  "venue": "Journal of the International Society of Sports Nutrition",
+  "citation_count": 79,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T14:18:39.395465+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-311.md",
+  "quality_details": {
+    "content_length": 57609,
+    "alpha_ratio": 0.725,
+    "sentence_count": 513,
+    "reasons": [
+      "paywall_page (access this article)"
+    ]
+  }
+}

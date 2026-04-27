@@ -1,0 +1,25 @@
+{
+  "id": "src-490",
+  "title": "Regulation of Yeast Replicative Life Span by TOR and Sch9 in Response to Nutrients",
+  "authors": [
+    "Kaeberlein, Matt",
+    "Powers, Ryan",
+    "Steffen, Kristan K.",
+    "Westman, Eric A.",
+    "Hu, Di",
+    "Dang, Nick",
+    "Kerr, Emily O.",
+    "Kirkland, Kathryn T.",
+    "Fields, Stanley",
+    "Kennedy, Brian K."
+  ],
+  "doi": "10.1126/science.1115535",
+  "url": "https://openalex.org/W2077612844",
+  "provider": "openalex",
+  "year": 2005,
+  "venue": "Science",
+  "citation_count": 1301,
+  "abstract": "Calorie restriction increases life span in many organisms, including the budding yeast Saccharomyces cerevisiae. From a large-scale analysis of 564 single-gene-deletion strains of yeast, we identified 10 gene deletions that increase replicative life span. Six of these correspond to genes encoding components of the nutrient-responsive TOR and Sch9 pathways. Calorie restriction of tor1D or sch9D cells failed to further increase life span and, like calorie restriction, deletion of either SCH9 or TOR1 increased life span independent of the Sir2 histone deacetylase. We propose that the TOR and Sch9 kinases define a primary conduit through which excess nutrient intake limits longevity in yeast.",
+  "type": "academic",
+  "pdf_url": ""
+}

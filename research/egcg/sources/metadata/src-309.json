@@ -1,0 +1,21 @@
+{
+  "id": "src-309",
+  "title": "Effect of Epigallocatechin-3-Gallate on EGFR Signaling and Migration in Non-Small Cell Lung Cancer",
+  "authors": [
+    "Minnelli, Cristina",
+    "Cianfruglia, L.",
+    "Laudadio, E.",
+    "Mobbili, G.",
+    "Galeazzi, R.",
+    "Armeni, T."
+  ],
+  "doi": "10.3390/ijms222111833",
+  "url": "https://www.semanticscholar.org/paper/67031024284ba55aaf0a604a358b2b9e1f149c50",
+  "provider": "semantic_scholar",
+  "year": 2021,
+  "venue": "International Journal of Molecular Sciences",
+  "citation_count": 56,
+  "abstract": "The epidermal growth factor receptor (EGFR) is one of the most well-studied molecular targets in non-small cell lung cancer (NSCLC) and tyrosine kinase inhibitors have been shown to be effective in the treatment of advanced NSCLC. Nevertheless, the efficacy of tyrosine kinase inhibitors could be compromised by additional mutations in EGFR and compensatory activations of other pathways. Epigallocatechin-3-gallate (EGCG), the main bioactive molecule in green tea, acts as a tyrosine kinase inhibitor toward cancer cells overexpressing EGFR (wild-type). However, little information has been reported on the effect of EGCG on EGFR with activating mutations. In this study, we evaluated the ability of EGCG to inhibit EGFR signaling activation in three different NSCLC cell lines containing wild-type EGFR or EGFR with additional mutations. The effect on proliferation, apoptosis, migration, and vinculin expression was then studied. Overall, our results demonstrate that EGCG polyphenol inhibits cell proliferation and migration in NSCLC cell lines, although with different efficacy and mechanisms. These data may be of interest for an evaluation of the use of EGCG as an adjunct to NSCLC therapies.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/1422-0067/22/21/11833/pdf?version=1636551475"
+}

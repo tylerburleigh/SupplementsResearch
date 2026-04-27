@@ -1,0 +1,24 @@
+{
+  "id": "src-226",
+  "title": "Low-dose naltrexone extends healthspan and lifespan in C. elegans via SKN-1 activation",
+  "authors": [
+    "Li, Weisha",
+    "McIntyre, Rebecca L.",
+    "Schomakers, B.",
+    "Kamble, Rashmi",
+    "Luesink, A.",
+    "Weeghel, M. van",
+    "Houtkooper, R.",
+    "Gao, Arwen W.",
+    "Janssens, Georges E."
+  ],
+  "doi": "10.1016/j.isci.2024.109949",
+  "url": "https://www.semanticscholar.org/paper/7e65410eff419d841523d3777d5e7860e531728f",
+  "provider": "semantic_scholar",
+  "year": 2024,
+  "venue": "iScience",
+  "citation_count": 3,
+  "abstract": "Summary As the global aging population rises, finding effective interventions to improve aging health is crucial. Drug repurposing, utilizing existing drugs for new purposes, presents a promising strategy for rapid implementation. We explored naltrexone from the Library of Integrated Network-based Cellular Signatures (LINCS) based on several selection criteria. Low-dose naltrexone (LDN) has gained attention for treating various diseases, yet its impact on longevity remains underexplored. Our study on C. elegans demonstrated that a low dose, but not high dose, of naltrexone extended the healthspan and lifespan. This effect was mediated through SKN-1 (NRF2 in mammals) signaling, influencing innate immune gene expression and upregulating oxidative stress responses. With LDN’s low side effects profile, our findings underscore its potential as a geroprotector, suggesting further exploration for promoting healthy aging in humans is warranted.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.1016/j.isci.2024.109949"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "src-329",
+  "title": "First vertebrate BRICHOS antimicrobial peptides: β-hairpin host defense peptides in limbless amphibia lung resemble those of marine worms.",
+  "authors": [
+    "Smetanin, Ruslan V.",
+    "Sukhareva, M. S.",
+    "Vladimirova, E. V.",
+    "Zharkova, M. S.",
+    "Mikushina, A. D.",
+    "Komlev, Alexey S.",
+    "Khaydukova, M.",
+    "Filatenkova, T. A.",
+    "Kalganova, A. I.",
+    "Pipiya, S. O.",
+    "Terekhov, S.",
+    "Orlov, D.",
+    "Shamova, O.",
+    "Eliseev, I."
+  ],
+  "doi": "10.1016/j.bbrc.2024.149913",
+  "url": "https://www.semanticscholar.org/paper/0357c6385d98ee7e7d2410966675c905eef86f0a",
+  "provider": "semantic_scholar",
+  "year": 2024,
+  "venue": "Biochemical and Biophysical Research Communications - BBRC",
+  "citation_count": 2,
+  "abstract": "Innate immunity of invertebrates offers potent antimicrobial peptides (AMPs) against drug-resistant infections. To identify new worm β-hairpin AMPs, we explored the sequence diversity of proteins with a BRICHOS domain, which comprises worm AMP precursors. Strikingly, we discovered new BRICHOS AMPs not in worms, but in caecilians, the least studied clade of vertebrates. Two precursor proteins from Microcaecilia unicolor and Rhinatrema bivittatum resemble SP-C lung surfactants and bear worm AMP-like peptides at C-termini. The analysis of M. unicolor tissue transcriptomes shows that the AMP precursor is highly expressed in the lung along with regular SP-C, suggesting a different, protective function. The peptides form right-twisted β-hairpins, change conformation upon lipid binding, and rapidly disrupt bacterial membranes. Both peptides exhibit broad-spectrum activity against multidrug-resistant ESKAPE pathogens with 1-4 μM MICs and remarkably low toxicity, giving 40-70-fold selectivity towards bacteria. These BRICHOS AMPs, previously unseen in vertebrates, reveal a novel lung innate immunity mechanism and offer a promising antibiotics template.",
+  "type": "academic",
+  "pdf_url": ""
+}

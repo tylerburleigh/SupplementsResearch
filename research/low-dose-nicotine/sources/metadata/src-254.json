@@ -1,0 +1,17 @@
+{
+  "id": "src-254",
+  "title": "Getting into the brain: liposome-based strategies for effective drug delivery across the blood&amp;ndash;brain barrier",
+  "authors": [
+    "Vieira, Débora",
+    "Gamarra, Lionel Fernel"
+  ],
+  "doi": "10.2147/ijn.s117210",
+  "url": "https://openalex.org/W2535663959",
+  "provider": "openalex",
+  "year": 2016,
+  "venue": "International Journal of Nanomedicine",
+  "citation_count": 409,
+  "abstract": "This review summarizes articles that have been reported in literature on liposome-based strategies for effective drug delivery across the blood-brain barrier. Due to their unique physicochemical characteristics, liposomes have been widely investigated for their application in drug delivery and in vivo bioimaging for the treatment and/or diagnosis of neurological diseases, such as Alzheimer's, Parkinson's, stroke, and glioma. Several strategies have been used to deliver drug and/or imaging agents to the brain. Covalent ligation of such macromolecules as peptides, antibodies, and RNA aptamers is an effective method for receptor-targeting liposomes, which allows their blood-brain barrier penetration and/or the delivery of their therapeutic molecule specifically to the disease site. Additionally, methods have been employed for the development of liposomes that can respond to external stimuli. It can be concluded that the development of liposomes for brain delivery is still in its infancy, although these systems have the potential to revolutionize the ways in which medicine is administered.",
+  "type": "academic",
+  "pdf_url": "https://www.dovepress.com/getfile.php?fileID=33024"
+}

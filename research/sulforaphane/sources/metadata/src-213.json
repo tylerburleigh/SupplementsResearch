@@ -1,0 +1,17 @@
+{
+  "id": "src-213",
+  "title": "The phytoprotective agent sulforaphane prevents inflammatory degenerative diseases and age-related pathologies via Nrf2-mediated hormesis.",
+  "authors": [
+    "Calabrese, Edward J",
+    "Kozumbo, Walter J"
+  ],
+  "doi": "10.1016/j.phrs.2020.105283",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/33160067",
+  "provider": "pubmed",
+  "year": 2021,
+  "venue": "Pharmacological research",
+  "citation_count": 0,
+  "abstract": "In numerous experimental models, sulforaphane (SFN) is shown herein to induce hormetic dose responses that are not only common but display endpoints of biomedical and clinical relevance. These hormetic responses are mediated via the activation of nuclear factor erythroid- derived 2 (Nrf2) antioxidant response elements (AREs) and, as such, are characteristically biphasic, well integrated, concentration/dose dependent, and specific with regard to the targeted cell type and the temporal profile of response. In experimental disease models, the SFN-induced hormetic activation of Nrf2 was shown to effectively reduce the occurrence and severity of a wide range of human-related pathologies, including Parkinson's disease, Alzheimer's disease, stroke, age-related ocular damage, chemically induced brain damage, and renal nephropathy, amongst others, while also enhancing stem cell proliferation. Although SFN was broadly chemoprotective within an hormetic dose-response context, it also enhanced cell proliferation/cell viability at low concentrations in multiple tumor cell lines. Although the implications of the findings in tumor cells are largely uncertain at this time and warrant further consideration, the potential utility of SFN in cancer treatment has not been precluded. This assessment of SFN complements recent reports of similar hormesis-based chemoprotections by other widely used dietary supplements, such as curcumin, ginkgo biloba, ginseng, green tea, and resveratrol. Interestingly, the mechanistic profile of SFN is similar to that of numerous other hormetic agents, indicating that activation of the Nrf2/ARE pathway is probably a central, integrative, and underlying mechanism of hormesis itself. The Nrf2/ARE pathway provides an explanation for how large numbers of agents that both display hormetic dose responses and activate Nrf2 can function to limit age-related damage, the progression of numerous disease processes, and chemical- and radiation- induced toxicities. These findings extend the generality of the hormetic dose response to include SFN and many other chemical activators of Nrf2 that are cited in the biomedical literature and therefore have potentially important public health and clinical implications.",
+  "type": "academic",
+  "pdf_url": ""
+}

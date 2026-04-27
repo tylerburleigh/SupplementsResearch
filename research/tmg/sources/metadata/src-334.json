@@ -1,0 +1,26 @@
+{
+  "id": "src-334",
+  "title": "Vascular Inflammation and Oxidative Stress: Major Triggers for Cardiovascular Disease",
+  "authors": [
+    "Steven, Sebastian",
+    "Frenis, Katie",
+    "Oelze, Matthias",
+    "Kalinovic, Sanela",
+    "Kuntić, Marin",
+    "Jiménez, María Teresa Bayo",
+    "Vujačić-Mirski, Ksenija",
+    "Helmstädter, Johanna",
+    "Kröller‐Schön, Swenja",
+    "Münzel, Thomas",
+    "Daiber, Andreas"
+  ],
+  "doi": "10.1155/2019/7092151",
+  "url": "https://openalex.org/W2951345394",
+  "provider": "openalex",
+  "year": 2019,
+  "venue": "Oxidative Medicine and Cellular Longevity",
+  "citation_count": 688,
+  "abstract": "Cardiovascular disease is a leading cause of death and reduced quality of life, proven by the latest data of the Global Burden of Disease Study, and is only gaining in prevalence worldwide. Clinical trials have identified chronic inflammatory disorders as cardiovascular risks, and recent research has revealed a contribution by various inflammatory cells to vascular oxidative stress. Atherosclerosis and cardiovascular disease are closely associated with inflammation, probably due to the close interaction of inflammation with oxidative stress. Classical therapies for inflammatory disorders have demonstrated protective effects in various models of cardiovascular disease; especially established drugs with pleiotropic immunomodulatory properties have proven beneficial cardiovascular effects; normalization of oxidative stress seems to be a common feature of these therapies. The close link between inflammation and redox balance was also supported by reports on aggravated inflammatory phenotype in the absence of antioxidant defense proteins (e.g., superoxide dismutases, heme oxygenase-1, and glutathione peroxidases) or overexpression of reactive oxygen species producing enzymes (e.g., NADPH oxidases). The value of immunomodulation for the treatment of cardiovascular disease was recently supported by large-scale clinical trials demonstrating reduced cardiovascular mortality in patients with established atherosclerotic disease when treated by highly specific anti-inflammatory therapies (e.g., using monoclonal antibodies against cytokines). Modern antidiabetic cardiovascular drugs (e.g., SGLT2 inhibitors, DPP-4 inhibitors, and GLP-1 analogs) seem to share these immunomodulatory properties and display potent antioxidant effects, all of which may explain their successful lowering of cardiovascular risk.",
+  "type": "academic",
+  "pdf_url": "https://downloads.hindawi.com/journals/omcl/2019/7092151.pdf"
+}

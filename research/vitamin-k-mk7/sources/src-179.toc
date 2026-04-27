@@ -1,0 +1,26 @@
+3	2	Review Of Studies On Economic
+4	2	Evaluation Of Treatment Of
+5	2	Osteoporosis Postmenopausal
+10	2	Introduction
+26	2	Methods
+40	2	Methods
+52	2	Methods
+79	2	Results
+81	2	Results
+93	2	Results
+99	2	Results
+100	2	Biphosphonates
+126	2	Results
+143	2	Results
+144	2	Teriparatide
+156	2	Results
+157	2	Hormone Replacement Therapy
+166	2	Results
+176	2	Results
+177	2	Strontium Ranelate
+183	2	Raloxifene
+192	2	Results
+193	2	Denosumab
+199	2	Conclusion
+217	2	References
+241	2	References

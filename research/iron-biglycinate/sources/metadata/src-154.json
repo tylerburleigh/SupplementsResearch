@@ -1,0 +1,20 @@
+{
+  "id": "src-154",
+  "title": "Systemic immune inflammatory index and mortality in chronic kidney disease",
+  "authors": [
+    "Ma, Yan",
+    "Yu, Yang",
+    "Jia, Z.",
+    "Wang, Hushan",
+    "Sun, Mingli"
+  ],
+  "doi": "10.3389/fendo.2025.1605543",
+  "url": "https://www.semanticscholar.org/paper/a17a22781d3e26a46d1b46bf718119c4cd553b66",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "Frontiers in Endocrinology",
+  "citation_count": 2,
+  "abstract": "Background Chronic kidney disease (CKD) is common and linked to higher mortality rates, but its relationship with the systemic immunoinflammatory index (SII) remains unclear, highlighting the need for further research. Methods The SII is calculated by multiplying the counts of platelets and neutrophils, followed by dividing that product by the lymphocyte count. A diagnosis of CKD is made when the estimated glomerular filtration rate (eGFR) is below 60 mL/min/1.73 m². To further analyze the data, a multivariable Cox regression analysis, along with subgroup assessments, was performed. Analysis of survival data and threshold effects suggests that SII is a crucial independent factor related to mortality from all causes and cardiovascular issues in individuals with chronic kidney disease. Results The study comprised a total of 46,620 individuals, with a weighted average age (standard error) of 47.00 (0.18) years. Among individuals over 20 years old suffering from CKD, the log-transformed SII demonstrated a nonlinear relationship, revealing a U-shaped correlation with the mortality rates associated with all causes as well as cardiovascular diseases (CVD). When SII.log as the log values rise, the likelihood of dying from all causes and cardiovascular issues initially shows a decline. Nevertheless, this pattern shifts, leading to an increased risk of mortality once a certain limit is surpassed. The evaluation of threshold impacts identified important levels starting at 6.06 and 6.25, which corresponded to the lowest observed mortality risk when evaluated through the SII.log values. The likelihood of mortality from all causes escalated once these limits were surpassed (HR 0.75, 95% CI 0.64-0.88; HR 1.74, 95% CI 1.55-1.95). The likelihood of mortality due to CVD also elevated (HR 1.01, 95% CI 0.78-1.31; HR 1.91, 95% CI 1.50-2.44). Higher SII levels correlated with decreased survival and longevity. In CKD patients over 45 years, SII reliably predicted all-cause mortality (statistically significant) and was linked to cardiovascular and cancer deaths (not statistically significant). Conclusions SII is an easily obtainable marker that may predict mortality in CKD patients over 45. More longitudinal research is needed to confirm its link with mortality rates (all causes, cardiovascular, and cancer) due to current limitations.",
+  "type": "academic",
+  "pdf_url": ""
+}

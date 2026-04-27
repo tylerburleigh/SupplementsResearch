@@ -1,0 +1,43 @@
+{
+  "id": "src-101",
+  "title": "NAD\n            <sup>+</sup>\n            supplementation normalizes key Alzheimer’s features and DNA damage responses in a new AD mouse model with introduced DNA repair deficiency",
+  "authors": [
+    "Hou, Yujun",
+    "Lautrup, Sofie",
+    "Cordonnier, Stephanie",
+    "Wang, Yue",
+    "Croteau, Deborah L.",
+    "Zavala, Eduardo",
+    "Zhang, Yongqing",
+    "Moritoh, Kanako",
+    "O’Connell, Jennifer F.",
+    "Baptiste, Beverly A.",
+    "Stevnsner, Tinna V.",
+    "Mattson, Mark P.",
+    "Bohr, Vilhelm A."
+  ],
+  "year": 2018,
+  "abstract": "Emerging findings suggest that compromised cellular bioenergetics and DNA repair contribute to the pathogenesis of Alzheimer’s disease (AD), but their role in disease-defining pathology is unclear. We developed a DNA repair-deficient 3xTgAD/Polβ\n+/−\nmouse that exacerbates major features of human AD including phosphorylated Tau (pTau) pathologies, synaptic dysfunction, neuronal death, and cognitive impairment. Here we report that 3xTgAD/Polβ\n+/−\nmice have a reduced cerebral NAD\n+\n/NADH ratio indicating impaired cerebral energy metabolism, which is normalized by nicotinamide riboside (NR) treatment. NR lessened pTau pathology in both 3xTgAD and 3xTgAD/Polβ\n+/−\nmice but had no impact on amyloid β peptide (Aβ) accumulation. NR-treated 3xTgAD/Polβ\n+/−\nmice exhibited reduced DNA damage, neuroinflammation, and apoptosis of hippocampal neurons and increased activity of SIRT3 in the brain. NR improved cognitive function in multiple behavioral tests and restored hippocampal synaptic plasticity in 3xTgAD mice and 3xTgAD/Polβ\n+/−\nmice. In general, the deficits between genotypes and the benefits of NR were greater in 3xTgAD/Polβ\n+/−\nmice than in 3xTgAD mice. Our findings suggest a pivotal role for cellular NAD\n+\ndepletion upstream of neuroinflammation, pTau, DNA damage, synaptic dysfunction, and neuronal degeneration in AD. Interventions that bolster neuronal NAD\n+\nlevels therefore have therapeutic potential for AD.",
+  "doi": "10.1073/pnas.1718819115",
+  "url": "https://doi.org/10.1073/pnas.1718819115",
+  "pdf_url": "",
+  "venue": "Proceedings of the National Academy of Sciences",
+  "citation_count": 409,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-20T21:06:19.423524+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-101.md",
+  "quality_details": {
+    "content_length": 70171,
+    "alpha_ratio": 0.731,
+    "sentence_count": 873,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

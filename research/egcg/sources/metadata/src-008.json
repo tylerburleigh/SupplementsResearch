@@ -1,0 +1,31 @@
+{
+  "id": "src-008",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://taiyogmbh.com/en/egcg-rich-green-tea-extract-teavigo-is-certified-as-100-natural",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-23T01:10:52.239695+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-008.md",
+  "quality_details": {
+    "content_length": 70,
+    "alpha_ratio": 0.614,
+    "sentence_count": 1,
+    "reasons": [
+      "content too short (70 chars < 500)",
+      "few sentences detected (1 < 3)",
+      "paywall_page (EUR)"
+    ]
+  }
+}

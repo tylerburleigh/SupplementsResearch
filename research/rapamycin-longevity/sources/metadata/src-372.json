@@ -1,0 +1,20 @@
+{
+  "id": "src-372",
+  "title": "Time-restricted Eating for the Prevention and Management of Metabolic Diseases",
+  "authors": [
+    "Manoogian, Emily N. C.",
+    "Chow, Lisa S.",
+    "Taub, Pam R.",
+    "Laferrère, Blandine",
+    "Panda, Satchidananda"
+  ],
+  "doi": "10.1210/endrev/bnab027",
+  "url": "https://openalex.org/W3200449343",
+  "provider": "openalex",
+  "year": 2021,
+  "venue": "Endocrine Reviews",
+  "citation_count": 297,
+  "abstract": "Time-restricted feeding (TRF, animal-based studies) and time-restricted eating (TRE, humans) are an emerging behavioral intervention approach based on the understanding of the role of circadian rhythms in physiology and metabolism. In this approach, all calorie intake is restricted within a consistent interval of less than 12 hours without overtly attempting to reduce calories. This article will summarize the origin of TRF/TRE starting with concept of circadian rhythms and the role of chronic circadian rhythm disruption in increasing the risk for chronic metabolic diseases. Circadian rhythms are usually perceived as the sleep-wake cycle and dependent rhythms arising from the central nervous system. However, the recent discovery of circadian rhythms in peripheral organs and the plasticity of these rhythms in response to changes in nutrition availability raised the possibility that adopting a consistent daily short window of feeding can sustain robust circadian rhythm. Preclinical animal studies have demonstrated proof of concept and identified potential mechanisms driving TRF-related benefits. Pilot human intervention studies have reported promising results in reducing the risk for obesity, diabetes, and cardiovascular diseases. Epidemiological studies have indicated that maintaining a consistent long overnight fast, which is similar to TRE, can significantly reduce risks for chronic diseases. Despite these early successes, more clinical and mechanistic studies are needed to implement TRE alone or as adjuvant lifestyle intervention for the prevention and management of chronic metabolic diseases.",
+  "type": "academic",
+  "pdf_url": "https://academic.oup.com/edrv/article-pdf/43/2/405/42750777/bnab027.pdf"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "src-128",
+  "title": "Association between iron homestasis and all-cause mortality in acute pancreatitis: A retrospective MIMIC-IV database analysis",
+  "authors": [
+    "Yu, Ting",
+    "Yi, Feng",
+    "Liu, Hongming"
+  ],
+  "doi": "10.1097/md.0000000000046488",
+  "url": "https://www.semanticscholar.org/paper/35bbbd8bf9cfe935efa4acefacf4db5e8c4a1bc1",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "Medicine",
+  "citation_count": 0,
+  "abstract": "Iron is a vital trace element necessary for the human body, playing a key role in cell production, oxidative phosphorylation, and redox processes. However, research on iron homeostasis markers and prognosis in acute pancreatitis patients remains limited. This retrospective cohort study utilized data from the Medical Information Mart for Intensive Care-IV database. The primary outcome was 365-day all-cause mortality, while secondary outcomes included in-hospital, 30-day, and 90-day mortality. The relationships between iron homeostasis indicators (serum iron, ferritin, transferrin, and total iron binding capacity [TIBC]) and outcomes were analyzed using Kaplan–Meier survival curves, multivariable Cox proportional hazards models, and restricted cubic splines to explore nonlinear relationships. A total of 360 participants were included. The average age was 55.00 (44.00, 68.00) years, with 160 (44%) being females. In patients with acute pancreatitis admitted to the intensive care unit, Kaplan–Meier analysis showed that while higher serum iron and log2-ferritin were linked to increased all-cause mortality at all time points (in-hospital, 30, 90, and 365 days), lower transferrin and TIBC were associated with increased all-cause mortality only at the 30, 90, and 365-day follow-ups (log-rank P < .001). In the Cox regression model, continuous log2-ferritin was identified as a significant risk factor for 365-day all-cause mortality, with a hazard ratio of 1.157 per unit increase (95% confidence interval: 1.021–1.311, P = .022). In contrast, both as continuous variables and in quartile analysis, elevated transferrin and TIBC were significantly associated with a lower 365-day all-cause mortality risk. Furthermore, restricted cubic splines analysis revealed an S-shaped relationship for both transferrin and TIBC with in-hospital and 90-day all-cause mortality. In addition, subgroup analyses revealed a significant gender-dependent association for log2-ferritin with in-hospital and 90-day all-cause mortality, alongside interactions of transferrin with both ethnicity and body mass index, and of TIBC with ethnicity for all-cause in-hospital mortality. This study highlighted a significant link between iron homeostasis indicators and all-cause mortality risk in intensive care unit patients with AP. Larger prospective studies are required for further validation.",
+  "type": "academic",
+  "pdf_url": ""
+}

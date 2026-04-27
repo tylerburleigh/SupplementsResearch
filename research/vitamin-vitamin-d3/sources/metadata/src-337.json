@@ -1,0 +1,37 @@
+{
+  "id": "src-337",
+  "title": "Comprehensive evaluation of the efficacy and safety of different vitamin D combination regimens based on indirect comparisons for children with rickets: a network meta-analysis",
+  "authors": [
+    "Cao, Yunfeng",
+    "Zheng, Yan",
+    "Chen, Yaling",
+    "Chen, Qihua",
+    "Xia, Xinbin",
+    "Yuan, Ziyi",
+    "Li, Honghui"
+  ],
+  "year": 2026,
+  "abstract": "Background\nNutritional rickets is a major pediatric bone disorder closely associated with vitamin D deficiency. Clinical practice has gradually shifted from vitamin D monotherapy toward combination regimens aiming to enhance therapeutic efficacy through complementary mechanisms. However, head-to-head evidence comparing different vitamin D-based combinations remains limited, and their relative efficacy and safety rankings are unclear.\n\nObjective\nTo systematically compare the efficacy and safety of different oral vitamin D–based combination therapies for nutritional rickets in children and to provide evidence-based guidance for clinical decision-making.\n\nMethods\nWe conducted a systematic search of PubMed, Embase, the Cochrane Library, Web of Science, CNKI, Wanfang, and VIP databases, followed by a Bayesian network meta-analysis. The study protocol was prospectively registered in PROSPERO (CRD420251029274).\n\nResults\n\nTen randomized controlled trials involving 867 children were included, comparing nine vitamin D–based combination regimens with vitamin D3 monotherapy. Pairwise meta-analyses showed that combination therapies significantly improved serum 25-hydroxyvitamin D levels, reduced bone-specific alkaline phosphatase, and increased serum calcium and phosphate concentrations, without an increased risk of adverse events. Subgroup analyses indicated significantly greater benefits among term infants than preterm infants (\nP\n&amp;lt; 0.001). Network meta-analysis revealed distinct relative advantages across outcomes among different combinations. Sensitivity analyses confirmed the robustness of the findings.\n\nConclusion\nVitamin D-based combination therapies are overall more effective than vitamin D3 monotherapy in improving biochemical markers of bone metabolism in children with rickets, without compromising safety. Different regimens exhibit outcome-specific advantages, with clearer benefits observed in term infants. These findings support individualized, goal-oriented combination strategies, although further high-quality trials are required to strengthen the evidence base.\n\nSystematic review registration\n\nhttps://www.crd.york.ac.uk/prospero/\n, identifier CRD420251029274.",
+  "doi": "10.3389/fnut.2026.1785775",
+  "url": "https://doi.org/10.3389/fnut.2026.1785775",
+  "pdf_url": "",
+  "venue": "Frontiers in Nutrition",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T21:27:08.715480+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-337.md",
+  "quality_details": {
+    "content_length": 74126,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

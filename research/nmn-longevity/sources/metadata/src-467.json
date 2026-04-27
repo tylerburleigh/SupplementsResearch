@@ -1,0 +1,16 @@
+{
+  "id": "src-467",
+  "title": "DESI-IMS coupled with triple quadrupole mass spectrometry demonstrated the capability of NMN imaging in Shelfordella lateralis tissue",
+  "authors": [
+    "Tamannaa, Zinat"
+  ],
+  "doi": "10.24508/mms.2024.06.001",
+  "url": "https://doi.org/10.24508/mms.2024.06.001",
+  "provider": "core",
+  "year": 2024,
+  "venue": "",
+  "citation_count": 0,
+  "abstract": "浜松医科大学Hamamatsu University School of Medicine博士（医学）doctoral医学系研究科Imaging mass spectrometry (IMS) has become an indispensable analytical tool for visualizing molecular distributions in biological tissues. However, the detection of many important biomolecules, such as nicotinamide mononucleotide (NMN) in tissue by IMS is still challenging due to their lower abundance. Although the sensitivity of widely used IMS instruments, desorption electrospray ionization (DESI) utilizing a time-of-flight (TOF) mass analyzer, is not sufficient to detect NMN in tissues, the recently developed DESI coupled with a triple-quadrupole (TQ) provides about ten times higher sensitivity than the DESI-Q-TOF. In this study, we first screened six insect species for NMN content using ultra-performance liquid-chromatography–tandem mass spectrometry (UPLC-MS/MS). Interestingly, Shelfordella lateralis showed significantly higher NMN content (15.5mg/100g of dry weight) than five other insect species used in this study. After screening, we tried to observe the distribution of NMN in S. lateralis using both DESI-Q-TOF and DESI-TQ, and only the DESI-TQ successfully detected the NMN in S. lateralis. DESI-TQ revealed prominent distributions of NMN in the abdomen of S. lateralis in selective reaction monitoring mode. To the best of our knowledge, this is the first report of NMN imaging in animal tissue applying IMS. Our study will contribute to the extended application of IMS for NMN imaging in mammalian tissues in the future. Furthermore, NMN imaging may help researchers to study nicotinamide adenine dinucleotide (NAD+) metabolism in living organisms, which has significant implications for medical research and diagnosis.doctoral thesi",
+  "type": "academic",
+  "pdf_url": "https://core.ac.uk/download/635858075.pdf"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "src-028",
+  "title": "Combinatorial transcriptomic and genetic dissection of insulin/IGF‐1 signaling‐regulated longevity in Caenorhabditis elegans",
+  "authors": [
+    "Ham, Seokjin",
+    "Kim, Sieun S",
+    "Park, Sangsoon",
+    "Kwon, Hyunwoo C.",
+    "Ha, Seokjun G.",
+    "Bae, Yunkyu",
+    "Lee, Gee-Yoon",
+    "Lee, Seung-Jae V."
+  ],
+  "doi": "10.1111/acel.14151",
+  "url": "https://www.semanticscholar.org/paper/83fc3f092bd490fc4af5ef82f9af6c96eabb40bc",
+  "provider": "semantic_scholar",
+  "year": 2024,
+  "venue": "Aging Cell",
+  "citation_count": 6,
+  "abstract": "Classical genetic analysis is invaluable for understanding the genetic interactions underlying specific phenotypes, but requires laborious and subjective experiments to characterize polygenic and quantitative traits. Contrarily, transcriptomic analysis enables the simultaneous and objective identification of multiple genes whose expression changes are associated with specific phenotypes. Here, we conducted transcriptomic analysis of genes crucial for longevity using datasets with daf‐2/insulin/IGF‐1 receptor mutant Caenorhabditis elegans. Our analysis unraveled multiple epistatic relationships at the transcriptomic level, in addition to verifying genetically established interactions. Our combinatorial analysis also revealed transcriptomic changes associated with longevity conferred by daf‐2 mutations. In particular, we demonstrated that the extent of lifespan changes caused by various mutant alleles of the longevity transcription factor daf‐16/FOXO matched their effects on transcriptomic changes in daf‐2 mutants. We identified specific aging‐regulating signaling pathways and subsets of structural and functional RNA elements altered by different genes in daf‐2 mutants. Lastly, we elucidated the functional cooperation between several longevity regulators, based on the combination of transcriptomic and molecular genetic analysis. These data suggest that different biological processes coordinately exert their effects on longevity in biological networks. Together our work demonstrates the utility of transcriptomic dissection analysis for identifying important genetic interactions for physiological processes, including aging and longevity.",
+  "type": "academic",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/acel.14151"
+}

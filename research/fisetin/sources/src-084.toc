@@ -1,0 +1,17 @@
+3	2	Article
+130	2	Results
+756	2	Biib
+768	2	Biib
+850	2	Nhn
+938	3	0.5 Actin
+990	2	57. Disruption
+1028	2	Discussion
+1072	2	Akt
+1080	2	Akt
+1085	2	Akt
+1258	2	69. Taken together, these results indicate that our
+1275	2	Methods
+1441	2	75. HUVECs
+1498	2	References
+1692	2	Acknowledgements
+1698	2	Author Contributions

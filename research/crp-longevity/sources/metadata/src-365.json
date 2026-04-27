@@ -1,0 +1,9 @@
+{
+  "id": "src-365",
+  "title": "Predicting high sensitivity C-reactive protein levels and their associations in a large population using decision tree and linear regression | Scientific Reports",
+  "authors": [],
+  "url": "https://www.nature.com/articles/s41598-024-81714-2",
+  "provider": "tavily",
+  "abstract": "In this study, we aimed to evaluate the association between hematological and demographic factors with hs-CRP levels using decision tree (DT) and linear regression (LR) modeling. The results of the LR models showed that variables such as anxiety score, depression score, Systolic Blood Pressure, Cardiovascular disease, and HTN were significant in predicting hs-CRP levels. In the DT models, depression score, FBG, cholesterol, and anxiety score were identified as the most important factors in predicting hs-CRP levels. The proposed DT model appears to be able to predict the hs-CRP levels based on anxiety score, depression scores, fasting blood glucose, systolic blood pressure, and history of cardiovascular diseases. In model A consisting of both genders all previously four discussed variables (anxiety and depression score, FBG level, and SBP) have been significantly related to the level of hs-CRP in both linear regression and logistic regression. Similar data on hs-CRP level and their association with coronary heart disease (CHD) also indicated that DT model portrait favorable findings and results for prediction.",
+  "type": "web"
+}

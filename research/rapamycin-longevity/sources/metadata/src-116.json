@@ -1,0 +1,16 @@
+{
+  "id": "src-116",
+  "title": "LKB1 and AMP-activated protein kinase control of mTOR signalling and growth.",
+  "authors": [
+    "Shaw, R J"
+  ],
+  "doi": "10.1111/j.1748-1716.2009.01972.x",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/19245654",
+  "provider": "pubmed",
+  "year": 2009,
+  "venue": "Acta physiologica (Oxford, England)",
+  "citation_count": 0,
+  "abstract": "The AMP-activated serine/threonine protein kinase (AMPK) is a sensor of cellular energy status found in all eukaryotes that is activated under conditions of low intracellular ATP following stresses such as nutrient deprivation or hypoxia. In the past 5 years, work from a large number of laboratories has revealed that one of the major downstream signalling pathways regulated by AMPK is the mammalian target-of-rapamycin [mammalian target of rapamycin (mTOR) pathway]. Interestingly, like AMPK, the mTOR serine/threonine kinase plays key roles not only in growth control and cell proliferation but also in metabolism. Recent work has revealed that across eukaryotes mTOR orthologues are found in two biochemically distinct complexes and only one of those complexes (mTORC1 in mammals) is acutely sensitive to rapamycin and regulated by nutrients and AMPK. Many details of the molecular mechanism by which AMPK inhibits mTORC1 signalling have also been decoded in the past 5 years. AMPK directly phosphorylates at least two proteins to induce rapid suppression of mTORC1 activity, the TSC2 tumour suppressor and the critical mTORC1 binding subunit raptor. Here we explore the molecular connections between AMPK and mTOR signalling pathways and examine the physiological processes in which AMPK regulation of mTOR is critical for growth or metabolic control. The functional conservation of AMPK and TOR in all eukaryotes, and the sequence conservation around the AMPK phosphorylation sites in raptor across all eukaryotes examined suggest that this represents a fundamental cell growth module connecting nutrient status to the cell growth machinery. These findings have broad implications for the control of cell growth by nutrients in a number of cellular and organismal contexts.",
+  "type": "academic",
+  "pdf_url": ""
+}

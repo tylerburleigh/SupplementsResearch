@@ -1,0 +1,21 @@
+{
+  "id": "src-331",
+  "title": "Inhibitors of the Mechanistic Target of Rapamycin Can Ameliorate Bortezomib-Induced Peripheral Neuropathy.",
+  "authors": [
+    "Suzuki, Mari",
+    "Zhou, Zijian",
+    "Nagayasu, Kazuki",
+    "Shirakawa, Hisashi",
+    "Nakagawa, Takayuki",
+    "Kaneko, Shuji"
+  ],
+  "doi": "10.1248/bpb.b22-00861",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37532556",
+  "provider": "pubmed",
+  "year": 2023,
+  "venue": "Biological & pharmaceutical bulletin",
+  "citation_count": 0,
+  "abstract": "Bortezomib, an anticancer drug for multiple myeloma and mantle cell lymphoma, causes severe adverse events and leads to peripheral neuropathy. The associated neuropathy limits the use of bortezomib and could lead to discontinuation of the treatment; therefore, effective intervention is crucial. In the present study, we statistically searched for a drug that could alleviate bortezomib-induced peripheral neuropathy using adverse event self-reports. We observed that specific inhibitors of the mechanistic target of rapamycin (mTOR) lowered the incidence of bortezomib-induced peripheral neuropathy. These findings were experimentally validated in mice, which exhibited long-lasting mechanical hypersensitivity after repeated bortezomib treatment. This effect was inhibited for hours after a systemic injection with rapamycin or everolimus in a dose-dependent manner. Bortezomib-induced allodynia was accompanied by the activation of spinal astrocytes, and intrathecal injection of mTOR inhibitors or an inhibitor of ribosomal protein S6 kinase 1, a downstream target of mTOR, exhibited considerable analgesic effects in a dose-dependent manner. These results suggest that mTOR inhibitors, which are readily available to patients prescribed bortezomib, are one of the most effective therapeutics for bortezomib-induced peripheral neuropathy.",
+  "type": "academic",
+  "pdf_url": ""
+}

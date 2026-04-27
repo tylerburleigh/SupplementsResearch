@@ -1,0 +1,19 @@
+{
+  "id": "src-290",
+  "title": "The Effects of the Timing of Diuretic Administration and Other Covariates on Urine Volume in Hospitalized Patients",
+  "authors": [
+    "Abbaspour, S.",
+    "Aguirre, A.",
+    "Westover, M. B.",
+    "Klerman, E."
+  ],
+  "doi": "10.1101/2022.12.27.22283947",
+  "url": "https://www.semanticscholar.org/paper/f23635e0de46ebea7341463397b4e7d6799b18d9",
+  "provider": "semantic_scholar",
+  "year": 2022,
+  "venue": "medRxiv",
+  "citation_count": 1,
+  "abstract": "''What time should I take my medicine?'' is an increasingly important question. Current knowledge of time - of - day effects for specific medications in hospitalized patients with cardiovascular disease is very limited. In such patients, increased medication efficiency could potentially reduce dose use and/or the length of time in the Intensive Care Unit (ICU) and/or hospital -- potentially improving patient outcomes and patient and family quality of life, and reducing financial costs. We studied whether the time of day or night a patient is given a diuretic affects urine volume response. In this observational study, data were from 7,704 patients (63% male, 18 to 98 years old) admitted to one hospital's acute care cardiac units, cardiac ICUs, cardiac surgery ICUs, and/or non-cardiac ICUs, who received intravenous furosemide (a diuretic), had measurements of urine volume, were hospitalized for [≥] 3 days between January 2016 to July 2021 and were older than 18 years. We used machine learning (ML) techniques to analyze the data. The ML technique identified factors that were expected to predict urine volume response to the diuretic: sex, age, medication dose and time, creatinine concentration, diagnosis, and hospital unit. The ML technique also identified medication administration time 00:00 - 06:00 as a predictor of higher urine volume response. Randomized controlled trials should be conducted to quantify the relative effect of modifiable factors, such as time of medication administration.",
+  "type": "academic",
+  "pdf_url": "https://www.medrxiv.org/content/medrxiv/early/2022/12/27/2022.12.27.22283947.full.pdf"
+}

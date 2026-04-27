@@ -1,0 +1,28 @@
+{
+  "id": "src-082",
+  "title": "Circadian regulation of mitochondrial uncoupling and lifespan",
+  "authors": [
+    "Ulgherait, Matt",
+    "Chen, Anna",
+    "McAllister, Sophie F.",
+    "Kim, Han X",
+    "Delventhal, Rebecca",
+    "Wayne, Charlotte R.",
+    "Garcia, Christian",
+    "Recinos, Yocelyn",
+    "Oliva, Miles K.",
+    "Canman, Julie C.",
+    "Picard, Martin",
+    "Owusu-Ansah, Edward",
+    "Shirasu‐Hiza, Mimi"
+  ],
+  "doi": "10.1038/s41467-020-15617-x",
+  "url": "https://openalex.org/W3017254972",
+  "provider": "openalex",
+  "year": 2020,
+  "venue": "Nature Communications",
+  "citation_count": 85,
+  "abstract": "Because old age is associated with defects in circadian rhythm, loss of circadian regulation is thought to be pathogenic and contribute to mortality. We show instead that loss of specific circadian clock components Period (Per) and Timeless (Tim) in male Drosophila significantly extends lifespan. This lifespan extension is not mediated by canonical diet-restriction longevity pathways but is due to altered cellular respiration via increased mitochondrial uncoupling. Lifespan extension of per mutants depends on mitochondrial uncoupling in the intestine. Moreover, upregulated uncoupling protein UCP4C in intestinal stem cells and enteroblasts is sufficient to extend lifespan and preserve proliferative homeostasis in the gut with age. Consistent with inducing a metabolic state that prevents overproliferation, mitochondrial uncoupling drugs also extend lifespan and inhibit intestinal stem cell overproliferation due to aging or even tumorigenesis. These results demonstrate that circadian-regulated intestinal mitochondrial uncoupling controls longevity in Drosophila and suggest a new potential anti-aging therapeutic target.",
+  "type": "academic",
+  "pdf_url": "https://www.nature.com/articles/s41467-020-15617-x.pdf"
+}

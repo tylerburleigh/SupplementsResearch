@@ -1,0 +1,18 @@
+{
+  "id": "src-222",
+  "title": "A food-group based algorithm to predict non-heme iron absorption.",
+  "authors": [
+    "Conway, Rana E",
+    "Powell, Jonathan J",
+    "Geissler, Catherine A"
+  ],
+  "doi": "10.1080/09637480601121250",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/17415954",
+  "provider": "pubmed",
+  "year": 2007,
+  "venue": "International journal of food sciences and nutrition",
+  "citation_count": 0,
+  "abstract": "OBJECTIVE: To develop an algorithm to predict the percentage non-heme iron absorption based on the foods contained in a meal (wholemeal cereal, tea, cheese, etc.). Existing algorithms use food constituents (phytate, polyphenols, calcium, etc.), which can be difficult to obtain.\nDESIGN: A meta-analysis of published studies using erythrocyte incorporation of radio-isotopic iron to measure non-heme iron absorption.\nMETHODS: A database was compiled and foods were categorized into food groups likely to modify non-heme iron absorption. Absorption data were then adjusted to a common iron status and a weighted multiple regression was performed.\nRESULTS: Data from 53 research papers (3,942 individual meals) were used to produce an algorithm to predict non-heme iron absorption (R(2) =0.22, P < 0.0001).\nCONCLUSIONS: The percentage non-heme iron absorption can be predicted from information on the types of foods contained in a meal with similar efficacy to that of food-constituent-based algorithms (R(2) = 0.16, P= 0.0001).",
+  "type": "academic",
+  "pdf_url": ""
+}

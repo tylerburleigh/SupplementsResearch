@@ -1,0 +1,20 @@
+{
+  "id": "src-107",
+  "title": "Natural product-based nanomedicine: recent advances and issues",
+  "authors": [
+    "Xu, Bin",
+    "Watkins, R.",
+    "Wu, Ling",
+    "Zhang, Chenming",
+    "Davis, Richey M."
+  ],
+  "doi": "10.2147/ijn.s92162",
+  "url": "https://openalex.org/W1781591963",
+  "provider": "openalex",
+  "year": 2015,
+  "venue": "International Journal of Nanomedicine",
+  "citation_count": 367,
+  "abstract": "Natural products have been used in medicine for many years. Many top-selling pharmaceuticals are natural compounds or their derivatives. These plant- or microorganism-derived compounds have shown potential as therapeutic agents against cancer, microbial infection, inflammation, and other disease conditions. However, their success in clinical trials has been less impressive, partly due to the compounds' low bioavailability. The incorporation of nanoparticles into a delivery system for natural products would be a major advance in the efforts to increase their therapeutic effects. Recently, advances have been made showing that nanoparticles can significantly increase the bioavailability of natural products both in vitro and in vivo. Nanotechnology has demonstrated its capability to manipulate particles in order to target specific areas of the body and control the release of drugs. Although there are many benefits to applying nanotechnology for better delivery of natural products, it is not without issues. Drug targeting remains a challenge and potential nanoparticle toxicity needs to be further investigated, especially if these systems are to be used to treat chronic human diseases. This review aims to summarize recent progress in several key areas relevant to natural products in nanoparticle delivery systems for biomedical applications.",
+  "type": "academic",
+  "pdf_url": "https://www.dovepress.com/getfile.php?fileID=27243"
+}

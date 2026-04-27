@@ -1,0 +1,40 @@
+{
+  "id": "src-054",
+  "title": "Nicotinamide riboside as a neuroprotective therapy for glaucoma: study protocol for a randomized, double-blind, placebo-control trial",
+  "authors": [
+    "Leung, Christopher Kai Shun",
+    "Ren, Seraph Tianmin",
+    "Chan, Poemen Pui Man",
+    "Wan, Kelvin Ho Nam",
+    "Kam, Aziz Ka Wai",
+    "Lai, Gilda Wing Ki",
+    "Chiu, Vivian Sheung Man",
+    "Ko, Match Wai Lun",
+    "Yiu, Cedric Ka Fai",
+    "Yu, Marco Chak Yan"
+  ],
+  "year": 2022,
+  "abstract": "Abstract\n\nBackground\nWhereas lowering the intraocular pressure (IOP) can slow optic nerve degeneration in glaucoma, many patients with glaucoma continue to develop progressive loss in vision despite a significant reduction in IOP. No treatment has been shown to be effective for neuroprotection in glaucoma. We set out to conduct a randomized controlled trial to investigate whether nicotinamide riboside (NR), a nicotinamide adenine dinucleotide precursor, is effective to slow optic nerve degeneration in patients with primary open-angle glaucoma (POAG). We hypothesize that patients treated with NR have a slower rate of progressive retinal nerve fiber layer (RNFL) thinning compared with those treated with placebo.\n\nMethods\nThis is a randomized, double-blind, placebo-controlled, parallel-group, multi-center study including 125 patients with POAG. Patients will be randomized to receive 300 mg NR or placebo for 24 months. Clinical examination, optical coherence tomography imaging of the RNFL, and visual field (VF) test will be performed at the baseline, 1 month, 4 months, and then at 2-month intervals until 24 months. The primary outcome measure is the rate of RNFL thinning measured over 24 months. The secondary outcome measures include (1) time to VF progression, (2) time to progressive RNFL/ganglion cell inner plexiform layer (GCIPL) thinning, and (3) the rate of change of VF sensitivity over 24 months (to investigate neuroprotection) and 1 month (to investigate neuroenhancement). The rates of RNFL thinning and VF sensitivity decline between treatment groups will be compared with linear mixed modeling. Survival analysis will be performed to compare the differences in time from baseline to VF progression and time from baseline to progressive RNFL/GCIPL thinning between treatment groups using Cox proportional hazards models.\n\nDiscussion\nOutcome measures in glaucoma neuroprotection trials have been centered on the detection of VF progression, which may take years to develop and confirm. In addition to addressing whether NR has a neuroprotective/neuroenhancement effect in glaucoma patients, this study will demonstrate the feasibility of studying neuroprotection in a relatively short trial period (24 months) by comparing the rates of progressive RNFL thinning, a more reproducible and objective outcome measure compared with VF endpoints, between treatment groups.\n\nTrial registration\n\nChinese Clinical Trial Registry\n1900021998",
+  "doi": "10.1186/s13063-021-05968-1",
+  "url": "https://doi.org/10.1186/s13063-021-05968-1",
+  "pdf_url": "",
+  "venue": "Trials",
+  "citation_count": 26,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-20T20:26:02.974578+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-054.md",
+  "quality_details": {
+    "content_length": 42435,
+    "alpha_ratio": 0.761,
+    "sentence_count": 323,
+    "reasons": [
+      "paywall_page (access this article)"
+    ]
+  }
+}

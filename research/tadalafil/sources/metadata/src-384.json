@@ -1,0 +1,23 @@
+{
+  "id": "src-384",
+  "title": "Inhalation formulations targeting nitric oxide pathways for pulmonary hypertension therapy: current advances and future directions.",
+  "authors": [
+    "Zheng, Xiuwen",
+    "Li, Xinyu",
+    "Shen, Zhengxuan",
+    "Guo, P.",
+    "Xiao, Jixiang",
+    "Wang, Chengyuan",
+    "Xin, Yue",
+    "Liu, Songyang"
+  ],
+  "doi": "10.1016/j.ijpharm.2025.126384",
+  "url": "https://www.semanticscholar.org/paper/f6fde593ddb33db455f466689ccf55bbd2e9cd5f",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "International journal of pharmaceutics",
+  "citation_count": 0,
+  "abstract": "Pulmonary hypertension (PH) is a progressive cardiopulmonary disorder characterized by sustained vasoconstriction and pathological vascular remodeling. Among the diverse signaling pathways implicated in its pathogenesis, the nitric oxide (NO) pathway is particularly significant, as it modulates vascular tone and structural remodeling, thereby representing a central therapeutic target. This review synthesizes recent advances in inhalation-based therapeutics targeting the NO pathway, focusing on three principal categories. The first comprises inhaled NO and its donors-including diazeniumdiolates, nitrites, and metal nitrosyl complexes-which have demonstrated potent vasodilatory efficacy in both preclinical and clinical studies, though translation remains hindered by instability, short half-lives, and safety concerns. The second encompasses soluble guanylate cyclase agonists, exemplified by Bayer's BAY series and Merck's MK-5475. These agents have improved pulmonary hemodynamics while maintaining selectivity and tolerability, with several advancing to late-phase clinical evaluation. The third involves inhaled phosphodiesterase-5 inhibitors, most notably sildenafil, which have benefitted from micro- and nano-delivery platforms that enhance pulmonary deposition, optimize bioavailability, and enable sustained release. Despite encouraging progress, the clinical adoption of most inhaled NO-pathway agents remains constrained by formulation stability and long-term safety issues. Future efforts should prioritize optimizing inhalation delivery platforms, systematically evaluating chronic toxicity, and developing rational multi-pathway therapeutic strategies, thereby paving the way for more effective and durable treatments for PH.",
+  "type": "academic",
+  "pdf_url": ""
+}

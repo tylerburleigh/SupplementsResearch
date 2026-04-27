@@ -1,0 +1,19 @@
+23	2	1 INTRODUCTION
+39	3	1.1 Biological Sources of L-Ergothioneine
+70	2	Mini Review
+129	3	1.2 In vivo Distribution of L-Ergothioneine
+186	3	1.3 The Antioxidant Properties and
+240	2	2 RELATIONSHIPS OF L-ERGOTHIONEINE
+242	2	Diseases
+250	3	2.1 Diabetes
+285	3	2.2 Ischemia-Reperfusion Injury
+294	4	2.2.1 Cardiovascular Diseases
+322	4	2.2.2 Liver Diseases
+351	3	2.3 Neurodegenerative Diseases
+407	3	2.4 Other Diseases
+464	2	3 ADVANTAGES OF L-ERGOTHIONEINE
+465	2	Over Other Antioxidants
+577	2	4 CONCLUSION AND PERSPECTIVES
+619	2	Author Contributions
+622	2	Funding
+626	2	References

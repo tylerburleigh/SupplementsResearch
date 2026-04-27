@@ -1,0 +1,27 @@
+{
+  "id": "src-313",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "",
+  "pdf_url": "http://biographicalmemoirs.org/pdfs/Talalay-Paul.pdf",
+  "venue": "",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "",
+  "fetched_at": "2026-04-18T23:32:48.054314+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-313.md",
+  "quality_details": {
+    "content_length": 44534,
+    "alpha_ratio": 0.786,
+    "sentence_count": 613,
+    "reasons": []
+  }
+}

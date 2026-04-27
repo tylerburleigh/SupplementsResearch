@@ -1,0 +1,24 @@
+{
+  "id": "src-092",
+  "title": "A randomized, double-blind, prospective, placebo-controlled study of the efficacy of a diet supplemented with curcuminoids extract, hydrolyzed collagen and green tea extract in owner’s dogs with osteoarthritis",
+  "authors": [
+    "Comblain, Fanny",
+    "Barthélémy, Nicolas",
+    "Lefebvre, Michaël",
+    "Schwartz, Cédric",
+    "Lesponne, Isabelle",
+    "Serisier, Samuel",
+    "Feugier, Alexandre",
+    "Balligand, Marc",
+    "Henrotin, Yves"
+  ],
+  "doi": "10.1186/s12917-017-1317-8",
+  "url": "https://openalex.org/W2778381088",
+  "provider": "openalex",
+  "year": 2017,
+  "venue": "BMC Veterinary Research",
+  "citation_count": 43,
+  "abstract": "Objective variables measured, such as ground reaction forces and OA biomarkers, did not show statistical differences. However, indicators of pain appeared reduced in dogs receiving CCOT mixture for 3 months. The difference of evolution between groups suggests that a greater number of dogs may be necessary to reach a stronger effect on other parameters.",
+  "type": "academic",
+  "pdf_url": "https://bmcvetres.biomedcentral.com/counter/pdf/10.1186/s12917-017-1317-8"
+}

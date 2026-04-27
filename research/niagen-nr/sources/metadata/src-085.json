@@ -1,0 +1,41 @@
+{
+  "id": "src-085",
+  "title": "Short-term NAD+ supplementation prevents hearing loss in mouse models of Cockayne syndrome",
+  "authors": [
+    "Okur, Mustafa N.",
+    "Mao, Beatrice",
+    "Kimura, Risako",
+    "Haraczy, Scott",
+    "Fitzgerald, Tracy",
+    "Edwards-Hollingsworth, Kamren",
+    "Tian, Jane",
+    "Osmani, Wasif",
+    "Croteau, Deborah L.",
+    "Kelley, Matthew W.",
+    "Bohr, Vilhelm A."
+  ],
+  "year": 2020,
+  "abstract": "AbstractAge-related hearing loss (ARHL) is one of the most common disorders affecting elderly individuals. There is an urgent need for effective preventive measures for ARHL because none are currently available. Cockayne syndrome (CS) is a premature aging disease that presents with progressive hearing loss at a young age, but is otherwise similar to ARHL. There are two human genetic complementation groups of CS, A and B. While the clinical phenotypes in patients are similar, the proteins have very diverse functions, and insight into their convergence is of great interest. Here, we use mouse models for CS (CSA−/− and CSBm/m) that recapitulate the hearing loss in human CS patients. We previously showed that NAD+, a key metabolite with various essential functions, is reduced in CS and associated with multiple CS phenotypes. In this study, we report that NAD+ levels are reduced in the cochlea of CSBm/m mice and that short-term treatment (10 days) with the NAD+ precursor nicotinamide riboside (NR), prevents hearing loss, restores outer hair cell loss, and improves cochlear health in CSBm/m mice. Similar, but more modest effects were observed in CSA−/− mice. Remarkably, we observed a reduction in synaptic ribbon counts in the presynaptic zones of inner hair cells in both CSA−/− and CSBm/m mice, pointing to a converging mechanism for cochlear defects in CS. Ribbon synapses facilitate rapid and sustained synaptic transmission over long periods of time. Ribeye, a core protein of synaptic ribbons, possesses an NAD(H) binding pocket which regulates its activity. Intriguingly, NAD+ supplementation rescues reduced synaptic ribbon formation in both CSA−/− and CSBm/m mutant cochleae. These findings provide valuable insight into the mechanism of CS- and ARHL-associated hearing loss, and suggest a possible intervention.",
+  "doi": "10.1038/s41514-019-0040-z",
+  "url": "https://doi.org/10.1038/s41514-019-0040-z",
+  "pdf_url": "",
+  "venue": "npj Aging and Mechanisms of Disease",
+  "citation_count": 49,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-20T20:49:31.092594+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-085.md",
+  "quality_details": {
+    "content_length": 45905,
+    "alpha_ratio": 0.749,
+    "sentence_count": 624,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

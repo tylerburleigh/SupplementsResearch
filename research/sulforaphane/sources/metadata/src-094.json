@@ -1,0 +1,23 @@
+{
+  "id": "src-094",
+  "title": "Role of Glutathione in Cancer Progression and Chemoresistance",
+  "authors": [
+    "Traverso, Nicola",
+    "Ricciarelli, Roberta",
+    "Nitti, Mariapaola",
+    "Marengo, Barbara",
+    "Furfaro, Anna Lisa",
+    "Pronzato, Maria Adelaide",
+    "Marinari, Umberto M.",
+    "Domenicotti, Cinzia"
+  ],
+  "doi": "10.1155/2013/972913",
+  "url": "https://openalex.org/W2096258216",
+  "provider": "openalex",
+  "year": 2013,
+  "venue": "Oxidative Medicine and Cellular Longevity",
+  "citation_count": 1174,
+  "abstract": "Glutathione (GSH) plays an important role in a multitude of cellular processes, including cell differentiation, proliferation, and apoptosis, and disturbances in GSH homeostasis are involved in the etiology and progression of many human diseases including cancer. While GSH deficiency, or a decrease in the GSH/glutathione disulphide (GSSG) ratio, leads to an increased susceptibility to oxidative stress implicated in the progression of cancer, elevated GSH levels increase the antioxidant capacity and the resistance to oxidative stress as observed in many cancer cells. The present review highlights the role of GSH and related cytoprotective effects in the susceptibility to carcinogenesis and in the sensitivity of tumors to the cytotoxic effects of anticancer agents.",
+  "type": "academic",
+  "pdf_url": "https://downloads.hindawi.com/journals/omcl/2013/972913.pdf"
+}

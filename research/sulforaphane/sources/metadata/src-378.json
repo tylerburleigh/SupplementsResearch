@@ -1,0 +1,18 @@
+{
+  "id": "src-378",
+  "title": "The clinical potential of influencing Nrf2 signaling in degenerative and immunological disorders",
+  "authors": [
+    "Hybertson, Brooks M.",
+    "Gao, Bifeng",
+    "Doan, An"
+  ],
+  "doi": "10.2147/cpaa.s35078",
+  "url": "https://openalex.org/W2163798990",
+  "provider": "openalex",
+  "year": 2014,
+  "venue": "Clinical Pharmacology Advances and Applications",
+  "citation_count": 109,
+  "abstract": "Nuclear factor (erythroid-derived 2)-like 2 (Nrf2; encoded in humans by the NFE2L2 gene) is a transcription factor that regulates the gene expression of a wide variety of cytoprotective phase II detoxification and antioxidant enzymes through a promoter sequence known as the antioxidant-responsive element (ARE). The ARE is a promoter element found in many cytoprotective genes; therefore, Nrf2 plays a pivotal role in the ARE-driven cellular defense system against environmental stresses. Agents that target the ARE/Nrf2 pathway have been tested in a wide variety of disorders, with at least one new Nrf2-activating drug now approved by the US Food and Drug Administration. Examination of in vitro and in vivo experimental results, and taking into account recent human clinical trial results, has led to an opinion that Nrf2-activating strategies - which can include drugs, foods, dietary supplements, and exercise - are likely best targeted at disease prevention, disease recurrence prevention, or slowing of disease progression in early stage illnesses; they may also be useful as an interventional strategy. However, this rubric may be viewed even more conservatively in the pathophysiology of cancer. The activation of the Nrf2 pathway has been widely accepted as offering chemoprevention benefit, but it may be unhelpful or even harmful in the setting of established cancers. For example, Nrf2 activation might interfere with chemotherapies or radiotherapies or otherwise give tumor cells additional growth and survival advantages, unless they already possess mutations that fully activate their Nrf2 pathway constitutively. With all this in mind, the ARE/Nrf2 pathway remains of great interest as a possible target for the pharmacological control of degenerative and immunological diseases, both by activation and by inhibition, and its regulation remains a promising biological target for the development of new therapies.",
+  "type": "academic",
+  "pdf_url": "https://www.dovepress.com/getfile.php?fileID=18881"
+}

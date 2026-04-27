@@ -1,0 +1,23 @@
+{
+  "id": "src-413",
+  "title": "β-Sitosterol extends lifespan and healthspan in Caenorhabditis elegans via multi-omics analysis of longevity, neuronal, and immune pathways.",
+  "authors": [
+    "Thirumugam, Gowripriya",
+    "Annadurai, Hariharan",
+    "Radhakrishnan, Yashwanth",
+    "Bhaskar, J. P.",
+    "Ramamurthi, Suresh",
+    "Koilmani, Emmanuel Rajan",
+    "Jain, Ankit",
+    "Krishnaswamy, B."
+  ],
+  "doi": "10.1016/j.bbagen.2025.130899",
+  "url": "https://www.semanticscholar.org/paper/f82581c714a504190d33f6200eeb36ede9eaf852",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "Biochimica et Biophysica Acta - General Subjects",
+  "citation_count": 0,
+  "abstract": "β-Sitosterol, a naturally occurring plant sterol, has attracted significant interest due to its potential health benefits. This study investigates the molecular mechanisms through which β-sitosterol influences lifespan and healthspan in C. elegans. LC-MS analysis revealed that wide range of protein targets associated with longevity, neuronal regulation, and innate immunity pathways. In vivo experimental validation demonstrated that β-sitosterol significantly extended the lifespan of C. elegans by downregulating critical aging-related genes such as acn-1 and daf-2 while simultaneously upregulating the longevity-promoting gene daf-16. Additionally, β-sitosterol induced notable metabolic changes, including elevated levels of oleic acid, and influenced developmental processes by modulating the mir-61-5p/col-19 signalling axis. The compound also affected locomotory behaviour by engaging the serotonin signalling pathway through genes such as tph-1, kpc-1, and rho-1. Furthermore, β-sitosterol enhanced innate immunity by increasing the expression of antimicrobial peptide genes. Computational analyses suggested that β-sitosterol possesses favorable drug-like properties, reinforcing its potential as a therapeutic agent. Our findings highlight the beneficial effects of β-sitosterol, and its promise as a natural compound for promoting both longevity and healthspan in model organisms through proteomics and metabolomics approaches.",
+  "type": "academic",
+  "pdf_url": ""
+}

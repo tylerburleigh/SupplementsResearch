@@ -1,0 +1,22 @@
+{
+  "id": "src-315",
+  "title": "Berberine-gut microbiota interactions based on CiteSpace: current research status and hotspots",
+  "authors": [
+    "Chen, Yan",
+    "Chen, Tao",
+    "Tian, Shiyong",
+    "Tao, Ling",
+    "Fan, FangFang",
+    "Yang, Yuanyong",
+    "Shen, Xiangchun"
+  ],
+  "doi": "10.3389/fmicb.2026.1751887",
+  "url": "https://www.semanticscholar.org/paper/d62006e61c8444ae081509b68fbcc3aef71ee06d",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "Frontiers in Microbiology",
+  "citation_count": 0,
+  "abstract": "Background The gut microbiota modulates host metabolic and immune homeostasis through host-microbiota interactions and microbial metabolites. Berberine (BBR), the primary active constituent of Coptis chinensis, has been shown to ameliorate host metabolic disorders by remodeling the gut microbial community. However, systematic reviews remain relatively scarce regarding the mechanisms underlying BBR-gut microbiota interactions. Methods Therefore, we conducted a bibliometric analysis of 426 articles retrieved from the Web of Science Core Collection (WOSCC) and the China National Knowledge Infrastructure (CNKI) database (January 1, 2005–January 31, 2025) using CiteSpace. Analyses included publication trends, country/author collaboration networks, keyword co-occurrence and burst detection, and document co-citation analysis. Results The results revealed a steady increase in annual publications, with China contributing the majority of studies. Author collaboration networks indicated limited integration among research groups. Keyword analysis identified key research clusters such as diabetes, inflammation, bile acid metabolism, and colorectal cancer. Chinese studies placed greater emphasis on disease applications, whereas English-language articles tended to focus on mechanistic insights. Emerging research hotspots include depression, fecal microbiota transplantation, bile acids, and ulcerative colitis. Co-citation analysis highlighted two foundational themes: microbial metabolites and metabolic-immune crosstalk. Discussion This bibliometric study systematically outlines the research landscape of berberine-gut microbiota interactions, highlighting emerging frontiers such as neuro-microbial crosstalk, fecal microbiota transplantation (FMT) -based combination therapies, and metabolic-immune mechanisms. The findings provide valuable references for identifying research trends, fostering collaboration, and guiding future investigations in this field.",
+  "type": "academic",
+  "pdf_url": ""
+}

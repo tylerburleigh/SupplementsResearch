@@ -1,0 +1,19 @@
+{
+  "id": "src-446",
+  "title": "Obesity as a Risk Factor for Severe COVID-19 and Complications: A Review",
+  "authors": [
+    "Demeulemeester, Fien",
+    "Punder, Karin de",
+    "Heijningen, Marloes van",
+    "Doesburg, Femke van"
+  ],
+  "doi": "10.3390/cells10040933",
+  "url": "https://openalex.org/W3154532284",
+  "provider": "openalex",
+  "year": 2021,
+  "venue": "Cells",
+  "citation_count": 124,
+  "abstract": "Emerging data suggest that obesity is a major risk factor for the progression of major complications such as acute respiratory distress syndrome (ARDS), cytokine storm and coagulopathy in COVID-19. Understanding the mechanisms underlying the link between obesity and disease severity as a result of SARS-CoV-2 infection is crucial for the development of new therapeutic interventions and preventive measures in this high-risk group. We propose that multiple features of obesity contribute to the prevalence of severe COVID-19 and complications. First, viral entry can be facilitated by the upregulation of viral entry receptors, like angiotensin-converting enzyme 2 (ACE2), among others. Second, obesity-induced chronic inflammation and disruptions of insulin and leptin signaling can result in impaired viral clearance and a disproportionate or hyper-inflammatory response, which together with elevated ferritin levels can be a direct cause for ARDS and cytokine storm. Third, the negative consequences of obesity on blood coagulation can contribute to the progression of thrombus formation and hemorrhage. In this review we first summarize clinical findings on the relationship between obesity and COVID-19 disease severity and then further discuss potential mechanisms that could explain the risk for major complications in patients suffering from obesity.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2073-4409/10/4/933/pdf?version=1618650528"
+}

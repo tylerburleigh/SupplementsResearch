@@ -1,0 +1,12 @@
+24	2	Abstract
+55	2	Background
+654	2	Data Analysis
+753	2	Discussion
+893	2	Acknowledgements
+932	2	Competing Interests
+935	2	1 School of Pharmacy, Faculty of Medical and Health Sciences, University
+939	2	3 Department of Psychological Medicine, Waikato Clinical Campus, University
+947	2	References
+997	2	18. Guideline on clinical investigation of medicinal products in the treatment of
+1009	2	22. Sumner RL, McMillan R, Spriggs MJ, Campbell D, Malpas G, Maxwell E,
+1026	2	28. Kaertner LS, Steinborn MB, Kettner H, Spriggs MJ, Roseman L, Buchborn

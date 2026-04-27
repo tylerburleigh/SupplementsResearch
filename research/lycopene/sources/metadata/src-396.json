@@ -1,0 +1,21 @@
+{
+  "id": "src-396",
+  "title": "cis-trans lycopene isomers, carotenoids, and retinol in the human prostate.",
+  "authors": [
+    "Clinton, Steven K.",
+    "Emenhiser, Curt",
+    "Schwartz, Steven J.",
+    "Bostwick, David G.",
+    "Williams, Alexa W.",
+    "Moore, Billy J.",
+    "Erdman, John W."
+  ],
+  "url": "https://openalex.org/W2149537842",
+  "provider": "openalex",
+  "year": 1996,
+  "venue": "PubMed",
+  "citation_count": 442,
+  "abstract": "An evaluation of the Health Professionals Follow-Up Study has detected a lower prostate cancer risk associated with the greater consumption of tomatoes and related food products. Tomatoes are the primary dietary source of lycopene, a non-provitamin A carotenoid with potent antioxidant activity. Our goal was to define the concentrations of lycopene, other carotenoids, and retinol in paired benign and malignant prostate tissue from 25 men, ages 53 to 74, undergoing prostatectomy for localized prostate cancer. The concentrations of specific carotenoids in the benign and malignant prostate tissue from the same subject are highly correlated. Lycopene and all-trans beta-carotene are the predominant carotenoids observed, with means +/- SE of 0.80 +/- 0.08 nmol/g and 0.54 +/- 0.09, respectively. Lycopene concentrations range from 0 to 2.58 nmol/g, and all-trans beta-carotene concentrations range from 0.09 to 1.70 nmol/g. The 9-cis beta-carotene isomer, alpha-carotene, lutein, alpha-cryptoxanthin, zeaxanthin, and beta-cryptoxanthin are consistently detectable in prostate tissue. No significant correlations between the concentration of lycopene and the concentrations of any other carotenoid are observed. In contrast, strong correlations between prostate beta-carotene and alpha-carotene are noted (correlation coefficient, 0.88; P < 0.0001), as are correlations between several other carotenoid pairs, which reflects their similar dietary origins. Mean vitamin A concentration in the prostate is 1.52 nmol/g, with a range of 0.71 to 3.30 nmol/g. We further evaluated tomato-based food products, serum, and prostate tissue for the presence of geometric lycopene isomers using high-performance liquid chromatography with a polymeric C30 reversed phase column. All-trans lycopene accounts for 79 to 91% and cis lycopene isomers for 9 to 21% of total lycopene in tomatoes, tomato paste, and tomato soup. Lycopene concentrations in the serum of men range between 0.60 and 1.9 nmol/ml, with 27 to 42% all-trans lycopene and 58 to 73% cis-isomers distributed among 12 to 13 peaks, depending upon their chromatographic resolution. In striking contrast with foods, all-trans lycopene accounts for only 12 to 21% and cis isomers for 79 to 88% of total lycopene in benign or malignant prostate tissues. cis Isomers of lycopene within the prostate are distributed among 14 to 18 peaks. We conclude that a diverse array of carotenoids are found in the human prostate with significant intra-individual variation. The presence of lycopene in the prostate at concentrations that are biologically active in laboratory studies supports the hypothesis that lycopene may have direct effects within the prostate and contribute to the reduced prostate cancer risk associated with the reduced prostate cancer risk associated with the consumption of tomato-based foods. The future identification and characterization of geometric lycopene isomers may lead to the development of novel agents for chemoprevention studies.",
+  "type": "academic",
+  "pdf_url": ""
+}

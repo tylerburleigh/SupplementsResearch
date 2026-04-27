@@ -1,0 +1,18 @@
+{
+  "id": "src-080",
+  "title": "The Potential of Metabolomics in Biomedical Applications",
+  "authors": [
+    "González-Covarrubias, Vanessa",
+    "Martínez‐Martínez, Eduardo",
+    "Bosque‐Plata, Laura del"
+  ],
+  "doi": "10.3390/metabo12020194",
+  "url": "https://openalex.org/W4214724358",
+  "provider": "openalex",
+  "year": 2022,
+  "venue": "Metabolites",
+  "citation_count": 207,
+  "abstract": "The metabolome offers a dynamic, comprehensive, and precise picture of the phenotype. Current high-throughput technologies have allowed the discovery of relevant metabolites that characterize a wide variety of human phenotypes with respect to health, disease, drug monitoring, and even aging. Metabolomics, parallel to genomics, has led to the discovery of biomarkers and has aided in the understanding of a diversity of molecular mechanisms, highlighting its application in precision medicine. This review focuses on the metabolomics that can be applied to improve human health, as well as its trends and impacts in metabolic and neurodegenerative diseases, cancer, longevity, the exposome, liquid biopsy development, and pharmacometabolomics. The identification of distinct metabolomic profiles will help in the discovery and improvement of clinical strategies to treat human disease. In the years to come, metabolomics will become a tool routinely applied to diagnose and monitor health and disease, aging, or drug development. Biomedical applications of metabolomics can already be foreseen to monitor the progression of metabolic diseases, such as obesity and diabetes, using branched-chain amino acids, acylcarnitines, certain phospholipids, and genomics; these can assess disease severity and predict a potential treatment. Future endeavors should focus on determining the applicability and clinical utility of metabolomic-derived markers and their appropriate implementation in large-scale clinical settings.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2218-1989/12/2/194/pdf?version=1645616071"
+}

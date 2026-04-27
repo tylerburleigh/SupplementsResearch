@@ -1,0 +1,27 @@
+{
+  "id": "src-176",
+  "title": "Targeting FABP4 in elderly mice rejuvenates liver metabolism and ameliorates aging-associated metabolic disorders.",
+  "authors": [
+    "Lv, Jian",
+    "Hu, Yimeng",
+    "Li, Lili",
+    "He, Yuan",
+    "Wang, Jingjing",
+    "Guo, Ningning",
+    "Fang, Yu",
+    "Chen, Qinxuan",
+    "Cai, C.",
+    "Tong, J.",
+    "Tang, Lixu",
+    "Wang, Zhihua"
+  ],
+  "doi": "10.1016/j.metabol.2023.155528",
+  "url": "https://www.semanticscholar.org/paper/2c14453942ce08fd977f65b4792e91a3ccddcf34",
+  "provider": "semantic_scholar",
+  "year": 2023,
+  "venue": "Metabolism: Clinical and Experimental",
+  "citation_count": 36,
+  "abstract": "INTRODUCTION\nAging is characterized by progressive metabolic dyshomeostasis that increases morbidity and mortality. Solutions for optimizing healthy aging are challenged by lacking appropriate biomarkers. Moreover, druggable targets to rejuvenate the aging-associated metabolic phenotypes remain unavailable.\n\nMETHODS\nProteomics analysis was performed in a cohort of young and elderly adults. Circulating levels of insulin-like growth factor 1 (IGF-1) and fatty acid binding protein 4 (FABP4) were evaluated by ELISA. FABP4 was silenced in elderly mice by adeno-associated virus. Metabolic activities were measured by metabolic cages. Cognitive function was evaluated by Morris water maze. Glucose and lipid metabolism were evaluated by biochemistry assays with blood samples. RNA-seq in mouse liver was performed for transcriptome analysis.\n\nRESULTS\nAmong 9 aging-sensitive proteins shared by both male and female, FABP4 was identified as a reliable aging biomarker in both human and mouse. Silencing FABP4 in elderly mice significantly rejuvenated the aging-associated decline in metabolic activities. FABP4 knockdown reversed the aging-associated metabolic disorders by promoting degradation of cholesterol and fatty acids, while suppressing gluconeogenesis. Transcriptome analysis revealed a restoration of the pro-aging gene reprogramming towards inflammation and metabolic disorders in the liver after FABP4 knockdown. FABP4 overexpression promoted human LO2 cell senescence. Moreover, administration of an FABP4 inhibitor BMS309403 delivered metabolic benefits in elderly mice.\n\nCONCLUSION\nOur findings demonstrate FABP4 as a reliable aging biomarker as well as a practicable target to improve healthy aging in the elderly.",
+  "type": "academic",
+  "pdf_url": ""
+}

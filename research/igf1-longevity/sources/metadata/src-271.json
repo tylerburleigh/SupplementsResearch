@@ -1,0 +1,18 @@
+{
+  "id": "src-271",
+  "title": "Association between the geriatric nutritional risk index with the risk of frailty and mortality in the elderly population",
+  "authors": [
+    "Qin, Qingfa",
+    "Li, Shanlang",
+    "Yao, Jun"
+  ],
+  "doi": "10.1038/s41598-025-97769-8",
+  "url": "https://www.semanticscholar.org/paper/ccb9d32e1bc8e0cae9da93d5505b2f09ca34a358",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "Scientific Reports",
+  "citation_count": 12,
+  "abstract": "Frailty is a major health concern among older adults. The Geriatric Nutrition Risk Index (GNRI) is an important instrument for evaluating the nutritional condition in older individuals. Despite its relevance, there remains a paucity of research exploring the relationship between GNRI with the risk of frailty and adverse outcomes. This study aims to investigate the relationship between the GNRI and the risk of frailty and mortality in older adults. Three distinct models were developed, and the association between GNRI and frailty prevalence was investigated using multivariable logistic regression. To explore the relationship between GNRI and mortality among frail individuals, Cox regression analysis was applied. Potential non-linear associations were assessed using restricted cubic spline (RCS) analysis. Interaction tests and stratified analyses were performed to further evaluate the consistency of these associations. This study included 6,753 eligible participants from 2003 to 2018, of whom 34.36% were diagnosed with frailty. After adjusting for all potential covariates, an increase of 1 unit in GNRI was associated with a 7% reduction in frailty prevalence (OR 0.93, 95% CI 0.91–0.95, P < 0.0001). Compared to the low GNRI group, individuals in the high GNRI group had a lower likelihood of being frail (OR 0.41, 95% CI 0.30–0.55, P < 0.0001). Among frail individuals, those with a higher GNRI had a lower risk of mortality relative to those with a lower GNRI (cardiovascular mortality: HR: 0.61, 95% CI 0.43–0.86, P = 0.004; all-cause mortality: HR: 0.58, 95% CI 0.45–0.75, P < 0.0001). The associations between GNRI and frailty prevalence, as well as mortality risk, exhibited consistency in most cases (P for interaction > 0.05). A higher GNRI is significantly related to a diminished prevalence of frailty. In frail older adults, a lower GNRI is an independent predictor of enhanced risk of both total and cardiovascular mortality.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.1038/s41598-025-97769-8"
+}

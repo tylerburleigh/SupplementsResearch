@@ -1,0 +1,22 @@
+{
+  "id": "src-351",
+  "title": "Abstract 18948: Prospective Associations Between the Life's Essential 8 Cardiovascular Health Construct, Leptin, and Inflammatory Markers Among Women Across the Menopausal Transition: Findings From the AHA Research Goes Red Weight Study",
+  "authors": [
+    "Aggarwal, Brooke A",
+    "Scaccia, Samantha E",
+    "Wang, Pengchen",
+    "Allison, Matthew A",
+    "Catov, J.",
+    "Reynolds, Harmony",
+    "Vaidya, Dhananjay"
+  ],
+  "doi": "10.1161/circ.148.suppl_1.18948",
+  "url": "https://www.semanticscholar.org/paper/da93270b288847a6ad6a792004e6b2c62327b80a",
+  "provider": "semantic_scholar",
+  "year": 2023,
+  "venue": "Circulation",
+  "citation_count": 0,
+  "abstract": "Introduction:\nThe menopausal transition is a key period of potential detrimental changes in adiposity. The hormone leptin may be relevant to obesity, inflammation, and cardiovascular health (CVH).\n\nHypothesis:\nAmong women across the menopausal transition, lower levels of circulating leptin, C-reactive protein (CRP) and interleukin 6 (IL-6) will be associated with better Life’s Essential 8 (LE8) CVH score.\n\nMethods:\nParticipants were women ages 45-55y (N=291, mean age=50 ± 3.2yr, 74% with overweight/obesity, (n=98 pre-, n=94 peri-, n=99 post-menopausal) from the AHA Research Goes Red Weight Study, a 1-yr prospective observational study utilizing Verily’s online platform. At baseline and 1yr, women completed a 1-wk food record using the NIH ASA 24-Hour Dietary Assessment Tool and fasting blood samples were drawn. The LE8 CVH and component scores (range: 0-100, high: 80-100, moderate: 50-79, low: 0-49) were computed. Associations between leptin, inflammatory markers, and CVH scores were tested using multivariable linear regression models adjusted for age, race/ethnicity, education, employment, insurance, and menopausal status.\n\nResults:\nThe mean (SD) overall LE8 CVH score at baseline was 68.0 (15.3) and did not vary by menopausal status. Individual LE8 scores were lowest for the diet metric [mean (SD)=40.2 (31.5)]. Pre-menopausal women had better scores on the blood glucose metric compared to post-menopausal [mean (SD)= 88.0 (24.4) vs. 76.2 (26.5), p=.02]. Compared to peri- and pre-menopausal women, leptin values were highest in post-menopausal women (55 ± 29.5 mg/mL vs. 41 ± 29.5 vs 39 ± 25.6, p=.047). In cross-sectional analyses, and after adjustment for confounders, higher overall LE8 CVH scores were associated with lower levels of leptin (B= -0.17, p<0.0001), CRP (B= -0.34, p=0.009), and IL-6 (B= -2.85; p=0.02). In multivariable prospective analyses, lower CRP at baseline predicted better LE8 CVH scores at 1 yr (B= -0.22; p=.02), with a similar trend for an association between lower baseline leptin and better LE8 CVH scores at 1 yr (B= 0.04; p=.066).\n\nConclusions:\nIn a national sample of women across the menopausal transition, those with lower leptin and inflammatory markers had more favorable CVH scores as measured by the recently updated LE8 construct.",
+  "type": "academic",
+  "pdf_url": ""
+}

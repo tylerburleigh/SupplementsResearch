@@ -1,0 +1,29 @@
+{
+  "id": "src-015",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://bioindividualnutrition.com/the-powerful-benefits-of-sulforaphane-and-broccoli-sprouts",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-18T23:18:28.898791+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-015.md",
+  "quality_details": {
+    "content_length": 20563,
+    "alpha_ratio": 0.792,
+    "sentence_count": 228,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

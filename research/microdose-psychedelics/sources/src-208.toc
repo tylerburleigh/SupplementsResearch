@@ -1,0 +1,9 @@
+6	2	Review
+12	2	Abstract
+51	2	1 Department of Psychiatry and Behavioral Sciences, San
+54	2	2 Department of Anesthesiology, Perioperative and Pain
+56	2	3 Department of Community Dentistry and Behavioral
+362	2	2 Notably, there is significant debate about the proper terminology
+962	2	3 These strategies are complementary to existing mechanisms for
+1488	2	Conclusion
+1539	2	References

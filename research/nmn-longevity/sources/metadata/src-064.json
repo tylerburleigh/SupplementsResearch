@@ -1,0 +1,25 @@
+{
+  "id": "src-064",
+  "title": "Nicotinamide mononucleotide supplementation improves oocyte developmental competence in different ovarian damage conditions.",
+  "authors": [
+    "Ramírez-Martín, N.",
+    "Buigues, A.",
+    "Rodríguez-Varela, Cristina",
+    "Martínez, Jessica",
+    "Blázquez-Simón, P.",
+    "Rodríguez-Hernández, C.",
+    "Pellicer, N.",
+    "Pellicer, Antonio",
+    "Escribà, M.",
+    "Herraiz, S."
+  ],
+  "doi": "10.1016/j.ajog.2025.02.006",
+  "url": "https://www.semanticscholar.org/paper/8aeb40fb12002f093a6d913d340fe5c9c51d0521",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "American Journal of Obstetrics and Gynecology",
+  "citation_count": 7,
+  "abstract": "BACKGROUND\nChemotherapy-induced ovarian damage represents a major challenge for women of reproductive age undergoing cancer treatments. In mice, nicotinamide mononucleotide (NMN) enhances the developmental competence of aged oocytes by preventing oxidative stress, inflammation, and apoptosis, however its potential to restore oocyte quality following chemotherapy-induced ovarian damage remains unexplored.\n\nOBJECTIVE\nTo investigate the effects of NMN treatment against the deleterious effects of chemotherapy and aging in mice and human oocytes.\n\nSTUDY DESIGN\nWe used mouse models with different degrees of chemotherapy-induced ovarian damage, mimicking diminished ovarian reserve (DOR) and premature ovarian insufficiency (POI), and young-healthy females as a reference group. Mice of each ovarian condition were treated with or without 2g/L NMN in drinking water for a complete cycle (4 weeks) or during the later stages (14 days) of folliculogenesis. After treatments, mice underwent ovarian hyperstimulation and were euthanized to collect ovaries and oocytes to evaluate follicular counts, oocyte quality, and maturation. Part of the collected metaphase II oocytes underwent in vitro fertilization (IVF) and embryo culture to assess preimplantation embryo development. Finally, we also explored the benefits of in vitro NMN supplementation in aged infertile patients using germinal vesicle (GV) oocytes from advance maternal age (AMA >38) and young (≤35 years old) women. Maturation and artificial oocyte activation potential were assessed following the GV rescue approach.\n\nRESULTS\nNMN supplementation over a complete folliculogenesis cycle (4 weeks) improved the quality of oocytes exposed to chemotherapy by recovering nicotinamide adenine dinucleotide levels (p = 0.006), redistributing mitochondria to promote proper meiotic spindle assembly, and ultimately, recovering fertilization rate (p = 0.003) in DOR mice. In the POI model, reduced reactive oxygen species abundance (p = 0.039), increased mitochondria quantity (p = 0.030), and improved expression of the DNA repair gene Apex1 were found, thereby enhancing proper meiotic spindle formation and chromosome alignment. Similarly, when NMN supplementation was restricted to the later stages of folliculogenesis (14 days), positive effects on oocyte quality were observed, though to a lesser extent. Increased NAD+ levels (p ˂0.001) and embryo development rates (p = 0.048) were found in the DOR group, while reduced ROS abundance (p = 0.040), and increased mitochondrial DNA copy number (p = 0.006) and DNA repair gene expression (Apex1: p = 0.041; Alkbh2: p = 0.029) were observed in POI mice. Finally, in vitro NMN supplementation was able to improve the nuclear competence (p = 0.039) and parthenogenetic activation of immature oocytes from women with AMA (>38 years old).\n\nCONCLUSIONS\nThese results highlight the regenerative role of NMN in mouse and human oocytes exposed to the deleterious effects of chemotherapy and aging, representing a potential therapeutic alternative for fertility preservation and aged patients seeking to achieve motherhood with autologous oocytes.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.1016/j.ajog.2025.02.006"
+}

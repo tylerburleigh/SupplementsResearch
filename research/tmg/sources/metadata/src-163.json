@@ -1,0 +1,18 @@
+{
+  "id": "src-163",
+  "title": "Is low folate a risk factor for depression? A meta-analysis and exploration of heterogeneity",
+  "authors": [
+    "Gilbody, Simon",
+    "Lightfoot, J. Timothy",
+    "Sheldon, T."
+  ],
+  "doi": "10.1136/jech.2006.050385",
+  "url": "https://openalex.org/W2168572302",
+  "provider": "openalex",
+  "year": 2007,
+  "venue": "Journal of Epidemiology & Community Health",
+  "citation_count": 251,
+  "abstract": "Low folate has been causatively linked to depression, but research is contradictory. An association may arise due to chance, bias, confounding or reverse causality. A systematic review of observational studies which examined the association between depression and folate was conducted. 11 relevant studies (15 315 participants; three case-control studies, seven population surveys and one cohort study) examining the risk of depression in the presence of low folate were found. Pooling showed a significant relationship between folate status and depression (odds ratio (OR)(pooled unadjusted) = 1.55; 95% CI 1.26 to 1.91). This relationship remained after adjustment for potential confounding (OR)(pooled adjusted) = 1.42; 95% CI 1.10 to 1.83). Folate levels were also lower in depression. There is accumulating evidence that low folate status is associated with depression. Much of this evidence comes from case-control and cross-sectional studies. Cohort studies and definitive randomised-controlled trials to test the therapeutic benefit of folate are required to confirm or refute a causal relationship.",
+  "type": "academic",
+  "pdf_url": "https://jech.bmj.com/content/jech/61/7/631.full.pdf"
+}

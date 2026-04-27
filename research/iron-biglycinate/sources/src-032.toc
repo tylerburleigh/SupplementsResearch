@@ -1,0 +1,187 @@
+20	2	Abstract
+39	2	Introduction
+642	2	Rda
+1249	2	2. Enterocyte uptake
+1275	2	3. Storage within the enterocyte and transport to the
+1290	2	4. Efflux across the basolateral membrane and binding
+1310	2	1. The luminal phase
+4126	2	Conclusions
+6054	2	Results
+6313	2	Acknowledgements
+6330	2	References
+6335	2	2. Rohner F, Zimmermann M, Jooste P, Pandav C, Caldwell K, Raghavan
+6338	2	3. Bailey LB, Stover PJ, McNulty H, Fenech MF, Gregory JF, Mills JL,
+6342	2	4. King JC, Brown KH, Gibson RS, Krebs NF, Lowe NM, Siekmann JH,
+6345	2	5. Tanumihardjo SA, Russell RM, Stephensen CB, Gannon BM, Craft NE,
+6379	2	19. Gunshin  H,  Mackenzie  B,  Berger  U  V,  Gunshin   Y,   Romero
+6383	2	20. Donovan A, Brownlie A, Zhou Y, Shepard J, Pratt SJ, Moynihan J, Paw
+6419	2	32. Layrisse M, Cook JD, Martinez C, Roche M, Kuhn IN, Walker RB,
+6422	2	33. Cook JD, Layrisse M, Martinez -Torres C, Walker R, Monsen E, Finch
+6451	2	43. Hurrell RF, Juillerat MA, Reddy MB, Lynch SR, Dassenko SA, Cook
+6454	2	44. Gillooly M, Bothwell TH, Charlton RW, Torrance JD, Bezwoda WR,
+6457	2	45. Disler PB, Lynch SR, Charlton RW, Torrance JD, Bothwell TH, Walker
+6468	2	49. Hoppler M, Egli I, Petry N,  Gille D, Zeder C, Walczyk T, Blair  MW,
+6496	2	59. Hurrell R, Ranum P, de Pee S, Biebinger R, Hulthen L, Johnson Q,
+6503	2	61. Gillooly M, Bothwell TH, Torrance JD, MacPhail AP, Derman DP,
+6532	2	69. Ballot D, Baynes RD, Bothwell TH, Gillooly M, MacFarlane BJ,
+6544	2	72. Troesch B, Egli I, Zeder C, Hurrell RF,  de  Pee  S,   Zimmermann
+6554	2	75. Storcksdieck genannt Bonsmann SStorcksdieck S, Bonsmann G,
+6563	2	78. World  Health  Organization,  Food  and   Agriculture   Organization of
+6574	2	81. Troesch B, van Stuijvenberg ME, van Stujivenberg ME, Smuts CM,
+6591	2	86. Roodenburg A, West C, Beguin Y, Van Dijk J Van Eijk H, Marx J,
+6601	2	89. Walczyk T, Davidsson L, Rossander -Hulthen L, Hallberg L, Hurrell
+6651	2	106. Marques L, Auriac A, Willemetz A, Banha J, Silva B, Canonne -
+6655	2	107. Chen H, Attieh ZK, Syed BA, Kuo Y-M, Stevens V, Fuqua BK,
+6673	2	112. Nemeth E, Tuttle MS, Powelson J, Vaughn MB, Donovan A, Ward DM,
+6679	2	114. Ehrenkranz RA, Gettner PA,  Nelli  CM,  Sherwonit  EA,  Williams
+6690	2	116. Widness JA, Lombard KA, Ziegler EE, Serfass RE, Carlson SJ,
+6694	2	117. Lee  S,  Guillet  R,   Cooper   EM,   Westerman   M,   Orlando   M,
+6699	2	118. Peslova G, Petrak J, Kuzelova K, Hrdy I, Halada P, Kuchel PW, Soe -
+6717	2	125. Kawabata H, Yang R, Hirama T, Vuong  PT,  Kawano  S,  Gombart
+6724	2	127. Nai A,  Lidonni ci  MR,  Rausa  M,  Mandelli  G,  Pagani  A,  Silvestri
+6728	2	128. Raiten  DJ,  Sakr  Ashour  FA,  Ross  AC,   Meydani   SN,   Dawson
+6746	2	134. Richardson  DR,  Lane  DJR,  Becker  EM,  Huang  ML -H,  Whitnall
+6753	2	136. Frey AG, Nandal A, Park JH, Smith PM, Yabe T, Ryu  M -S,  Ghosh
+6766	2	139. Bullock GC, Delehanty LL, Talbot A-L, Gonias SL, Tong W-H, Rouault
+6770	2	140. Zhang D-L, Senecal T, Ghosh MC, Ollivierre -Wilson H, Tu T, Rouault
+6773	2	141. Zhang D -L, Hughes RM, Ollivierre -Wilson H, Ghosh MC, Rouault
+6782	2	144. Green R, Charlton R, Seftel H, Bothwell T, Mayet F, Adams B, Finch
+6791	2	147. Hilty FM, Arnold M, Hilbe M, Teleki A, Knijnenburg JTN,
+6796	2	148. Gunshin H, Fujiwara Y, Custodio AO, Direnzo C,  Robine  S,
+6800	2	149. McKie AT, Barrow D, Latunde -Dada GO, Rolfs A, Sager G, Mudaly
+6804	2	150. Mims MP, Guan Y, Pospisilova D, Priwitzerova M, Indrak K, Ponka
+6811	2	152. Chen H, Huang G,  Su T, Gao H, Attieh ZK, McKie AT, Anderson GJ,
+6824	2	156. Brasse-Lagnel C, Karim Z, Letteron P, Bekri S, Bado A,  Beaumont
+6836	2	159. Mastrogiannaki M, Matak P, Keith B, Simon MC, V aulont S,
+6841	2	161. McKie AT, Marciani P, Rolfs A, Brennan K, Wehr K, Barrow D, Miret
+6845	2	162. Gunshin H, Allerson CR, Polycarpou -Schwarz M, Rofts A, Rogers JT,
+6857	2	166. Petry CD,  Wobken  JD,  McKay  H,  Eaton  MA,  Seybold  VS,
+6866	2	169. Wang C-Y, Jenkitkasemwong S, Duarte S, Sparkman BK, Shawki A,
+6870	2	170. Unger EL, Hurst AR, Georgieff  MK,  Schallert  T,  Rao  R,  Connor
+6875	2	171. Gambling L, Czopek A, Andersen HS, Holtrop G, Srai SKS, Krejpcio
+6879	2	172. Finkenstedt A, Widschwendter A, Brasse -Lagnel CG, Theurl I,
+6888	2	174. Gambling L, Andersen HS, Czopek A, Wojciak R, Krejpcio Z, McArdle
+6899	2	178. Cornock R, Gambling L, Langley-Evans SC, McArdle HJ, McMullen
+6903	2	179. Fretham SJB, Carlson ES, Wobken J, Tran P V, Petryk A, Georgieff
+6922	2	186. Youdim MB, Green AR, Bloomfield MR, Mitchell BD, Heal DJ,
+6926	2	187. Clardy SL, Wang X, Zhao W, Liu W, Chase GA, Beard  JL, True
+6960	2	198. Siddappa AJM, Rao RB, Wobken JD, Leibold EA, Connor  JR,
+7003	2	211. Ortiz E, Pasquini JM, Thompson K, Felt B, Butkus G, Beard J,  Connor
+7016	2	215. Kassebaum NJ, Jasrasaria R, Naghavi  M,  Wulf  SK,  Johns  N,
+7053	2	228. Lee S, Guillet R, Cooper EM, Westerman M, Orlando M, Pressman E,
+7056	2	229. Mei Z, Li H, Serdula MK, Flores -Ayala RC, Wang L, Liu J -M,
+7076	2	235. Recommendations to prevent and control iron deficiency in the United
+7113	2	247. Cogswell ME, Looker AC, Pfeiffer CM, Cook JD, Lacher  DA,  Beard
+7120	2	249. Mei Z, Cogswell ME, Looker AC, Pfeiffer CM, Cusick SE, Lacher
+7142	2	255. Koenig MD, Tussing-Humphreys L, Day J, Cadwell B,  Nemeth
+7153	2	258. Shao J, Lou J, Rao R, Georgieff MK, Kaciroti N, Felt BT, Zhao Z -Y,
+7157	2	259. Zeng L, Dibley MJ, Cheng Y, Dang S, Chang S, Kong L, Yan
+7167	2	262. Lozoff B, Clark K, Jing Y, Armony-Sivan R, Angelilli M, Jacobson
+7183	2	267. Baker RD, Greer  FR,  Committee  on  Nutrition  American  Academy
+7187	2	268. Lukowski AF, Koss M, Burden MJ, Jonides  J, Nelson  CA, Kaciroti
+7197	2	271. Walker S,  Wachs  T,  Gardner  J,  Lozoff  B,  Wasserman  G,  Pollitt
+7201	2	272. Walker S, Wachs T, Grantham -McGregor S, Black M, Nelson C,
+7209	2	274. Prado EL, Alcock KJ, Muadz H, Ullman MT, Shankar AH, SUMMIT
+7213	2	275. Georgieff MK, Landon MB, Mills MM, Hedlund BE, Faassen AE,
+7217	2	276. Petry CD, Eaton MA, Wobken JD, Mills MM, Johnson DE, Georgieff
+7220	2	277. Chockalingam UM, Murphy E, Ophoven JC, Weisdorf SA, Georgieff
+7244	2	284. Siddappa AM, Georgieff MK, Wewerka S, Worwa C, Nelson CA,
+7257	2	288. Ward KL, Tkac I, Jing Y, Felt B, Beard J, Connor J, Schallert T,
+7265	2	290. World Health Organization, Centers for Disease Control and
+7268	2	291. Felt B, Beard J, Schallert T, Shao J, Aldridge J, Connor  J, Georgieff
+7281	2	294. Beard JL, Murray -Kolb LE, Rosales FJ, Solomons  NW,  Angelilli
+7289	2	296. Tamura  T,  Goldenberg  R,  Hou  J,  Johnston   K,  Cliver   S,  Ramey
+7296	2	298. Amin S, Orlando M, Eddins A,  MacDonald  M,  Monczynski  C,
+7303	2	300. Christian P, Murray -Kolb LE, Khatry SK, Katz J, Schaefer BA, Cole
+7307	2	301. Li Q, Yan H, Zeng L, Cheng Y, Liang W, Dang S, Wang Q, Tsuji
+7312	2	302. Murray-Kolb LE, Khatry SK, Katz J, Schaefer BA, Cole PM, LeClerq
+7393	2	329. Lozoff B, Brittenham GM, Wolf AW, McClish DK, Kuhnert PM,
+7407	2	333. Burden MJ, Westerlund AJ, Armony -Sivan R, Nelson CA, Jacobson
+7411	2	334. Carter RC, Jacobson JL, Burden MJ, Armony -Sivan R, Dodge NC,
+7420	2	337. Morley R, Abbott  R, Fairweather -Tait  S, MacFadyen  U, Stephenson
+7436	2	340. Black MM, Baqui AH, Zaman  K, Ake  Persson  L, El  Arifeen  S, Le
+7446	2	342. Stoltzfus  RJ,  Kvalsvig  JD,  Chwaya  HM,  Montresor  A,  Al bonico
+7451	2	343. Lozoff  B,  De   Andraca   I,   Castillo   M,   Smith   JB,   Walter   T,
+7473	2	350. Wallin   DJ,   Tkac   I,   Stucker   S,   Ennis   KM,    Sola-Visner    M,
+7477	2	351. Matak  P,  Matak  A,  Moustafa  S,  Aryal  DK,  Benner  EJ,  Wetsel
+7500	2	358. Geng F, Mai X, Zhan J, Xu L, Zhao Z, Georgieff M, Shao J,  Lozoff
+7527	2	367. Brutsaert TD, Hernandez -Cordero S, Rivera J, Viola T, Hughes G,
+7562	2	379. Zimmermann MB, Zeder C, Chaouki N, Saad A, Torresani T, Hurrell
+7573	2	382. Sazawal S, Black RE, Ramsan M, Chwaya  HM, Stoltzfus  RJ, Dutta
+7584	2	384. Raiten  DJ, Neufeld  LM, De -Regil  L -M, Pasricha  S -R, Darnton -Hill
+7590	2	385. Kerkhoff AD, Meintjes G, Opie J, Vogt M, Jhilmeet  N,  Wood  R,
+7594	2	386. Diouf A, Badiane A, Manga NM, Idohou -Dossou N, Sow PS, Wade
+7599	2	387. Widen EM, Bentley ME, Chasela CS, Kayira D, Flax VL, Kourtis AP,
+7605	2	388. Petraro P, Duggan C, Spiegelman D, Hertzmark E, Makubi A,
+7610	2	389. Bacon  BR,  Adams  PC,  Kowdley  KV,  Powell  LW, Tavill   AS,
+7624	2	393. Bell H, Berg JP, Undlien DE, Distante S, Raknerud N, Heier HE, Try
+7633	2	395. Allen KJ, Gurrin LC, Constantine CC, Osborne NJ, Delatycki MB,
+7639	2	397. Gordeuk V, Mukiibi J, Hasstedt SJ, Samowitz W, Edwards CQ, West
+7661	2	404. Parrinello CM, Lutsey PL, Ballantyne CM, Folsom AR, Pankow JS,
+7667	2	406. Ledesma M, Hurtado -Roca Y, Leon M, Giraldo P, Pocovi M, Civeira
+7672	2	407. Chen LY, Chang SD, Sreenivasan GM,  Tsang  PW,  Broady  RC,  Li
+7676	2	408. Riva A, Trombini P, Mariani R, Salvioni A, Coletti S, Bonfadini S,
+7680	2	409. Zimmermann MB, Zeder  C,  Muthayya  S,  Winichagoon  P,  Chaouki
+7685	2	410. Cepeda-Lopez AC, Osendarp SJ, Melse -Boonstra A, Aeberli I,
+7704	2	415. Peffer K, Verbeek ALM, Swinkels DW, Geurts-Moespot AJ, den Heijer
+7707	2	416. Yeap BB, Divitini ML, Gunton JE, Olynyk  JK, Beilby  JP, McQuillan
+7723	2	421. Raiten DJ, Sakr Ashour FA, Ross AC, Meyd ani SN, Dawson HD,
+7730	2	422. Teawtrakul N, Jetsrisuparb A, Sirijerachai C, Chansung K,
+7734	2	423. Gerhard GS, Levin KA, Price Goldstein  J,  Wojnar  MM,  Chorney
+7750	2	428. Qaseem A, Aronson M, Fitterman N, Snow V, Weiss KB, Owens DK,
+7761	2	431. Adams PC, Reboussin DM, Barton JC, McLaren CE, Eckfeldt JH,
+7765	2	432. Gordeuk VR, Lovato L, Barton J, Vitolins M, McLaren G, Acton R,
+7776	2	435. Jones E, Pasricha S -R, Allen A, Evans P, Fisher CA, Wray K,
+7780	2	436. Zimmermann MB, Fucharoen S, Winichagoon P, Sirankapracha P,
+7787	2	438. Sugimoto R, Fujita N,  Tomosugi  N,  Hara  N,  Miyachi  H,  Tanaka
+7796	2	441. Yano M, Hayashi H, Wakusawa S, Sanae F, Takikawa T, Shiono Y,
+7808	2	445. Harvey LJ, Berti C, Casgrain A, Cetin I, Collings R, Gurinovic M,
+7812	2	446. Liu T, Wilson NP, Craig CB, Tamura T, Soong S, Sauberlich HE, Cole
+7815	2	447. Decarli A, Franceschi S, Ferraroni M, Gnagnarella P, Parpinel  M,
+7836	2	452. Pfrimer K, Sartorelli D, Rosa F, Mendes Resende C, Viera D, Rabito
+7845	2	455. Merten C, Ferrari P, Bakker M, Boss A, Hearty A, Leclercq C,
+7861	2	460. Roe MA, Heath A -LM, Oyston SL, Macrow C, Hoogewerff JA,
+7865	2	461. Fairweather-Tait S, Lynch S, Hotz C, Hurrell R, Abrahamse L, Beebe S,
+7888	2	467. Forbes AL, Arnaud MJ, Chichester CO, Cook JD, Harrison BN,
+7896	2	469. Monsen ER, Hallberg L, Layrisse M, Hegsted DM, Cook JD, Mertz
+7929	2	480. Van  Thuy  P,  Berger  J,  Davidsson  L,  Khan  NC,  Lam  NT,  Cook
+7937	2	482. Fairweather-Tait SJ, Jennings A, Harvey LJ, Berry R, Walton J, Dainty
+7953	2	489. Mei Z, Cogswell ME, Parvanta I, Lynch S, Beard JL, Stoltzfus RJ,
+7968	2	493. Addison GM, Beamish MR, Hales CN, Hodgkins M, Jacobs A,
+8008	2	508. Thomas DW, Hinchliffe RF, Briggs C, Macdougall IC, Littlewood T,
+8023	2	512. Ratcliffe LEK, Thomas W, Glen J, Padhi S, Pordes BAJ, Wonderling
+8028	2	513. Kohgo Y, Nishisato T, Kondo H, Tsushima N, Niitsu Y,  Urushizaki
+8034	2	515. Kohgo Y, Niitsu Y, Kondo H, Kato J, Tsushima N, Sasaki K, Hirayama
+8053	2	521. Phiri KS, Calis JCJ, Kachala D, Borgstein E, Waluza J, Bates I, Brabin
+8075	2	529. Pynaert I, De Bacquer D, Matthys C, Delanghe J, Temmerman  M,
+8085	2	532. Woolf K, St Thomas MM, Hahn N, Vaughan LA, Carlson AG, Hinton
+8088	2	533. Yanoff LB, Menzie CM, Denkinger B, Sebring NG, McHugh T,
+8091	2	534. Tussing-Humphreys LM, Nemeth E, Fantuzzi G, Freels S, Guzman  G,
+8102	2	537. Khatami S, Dehnabeh SR, Mostafavi E, Kamalzadeh N, Yaghmaei P,
+8113	2	540. Skikne BS, Punnonen K, Caldron PH, Bennett MT, Rehu M, Gasior
+8119	2	541. Calis JCJ, Phiri KS, Faragh er EB, Brabin BJ, Bates I, Cuevas LE, de
+8158	2	552. Stoltzfus RJ, Chwaya HM, Montresor A, Albonico M, Savioli L,
+8162	2	553. Feelders RA, Vreugdenhil G, Eggermont AM, Kuiper-Kramer PA, van
+8183	2	557. Thurnham DI, McCabe LD, Haldar S, Wieringa FT,  Northrop-Clewes
+8192	2	559. Glinz D, Hurrell  RF, Righetti  AA, Zeder  C, Adiossan  LG, Tjalsma
+8198	2	560. Suchdev PS, Namaste SML, Aaron GJ, Raiten DJ, Brown KH, Flores -
+8202	2	561. Namaste SM, Rohner F, Huang J, Bhushan NL, Flores-Ayala R, Kupka
+8207	2	562. Mei Z, Namaste SM, Serdula M, Suchdev PS, Rohner F, Flores -Ayala
+8211	2	563. Rohner F, Namaste SM, Larson LM, Addo OY, Mei Z, Suchdev PS,
+8216	2	564. Merrill RD, Burke RM, Northrop -Clewes CA, Ray co-Solon P, Flores -
+8246	2	573. Whitehead RD, Zhang M, Sternberg MR, Schleicher RL, Drammeh
+8272	2	581. Blanck HM, Pfeiffer CM, Caudill SP, Reyes M, Gunter EW, Imperatore
+8289	2	586. Blackmore S, Hamilton M, Lee A, Worwood M, Brierley  M, Heath
+8297	2	588. Abellan R, Ventura R, Pichini S, Sarda MP, Remacha  AF, Pascual
+8321	2	593. Brindle E, Stevens D, Crudder C, Levin CE, Garrett D, Lyman C, Boyle
+8328	2	595. Mei Z, Pfeiffer CM, Looker AC, Flores-Ayala RC, Lacher  DA,
+8337	2	597. Looker  AC,   Dallman   PR,   Carroll   MD,   Gunter   EW,   Johnson
+8343	2	599. Hollowell  JG,  van  Assendelft  OW,  Gunter  EW,   Lewis   BG,   Najjar
+8359	2	604. Ronnenberg AG, Wood RJ, Wang X, Xing H, Chen C, Chen D, Guang
+8363	2	605. Bock  JL,  Endres  DB,  Elin  RJ,   Wang   E,   Rosenzweig   B,   Klee
+8368	2	606. Davis BH, Jungerius B, International Council for the Standardization
+8393	2	613. Drammeh BS, Schleicher RL, Pfeiffer CM, Jain RB, Zhang  M,
+8411	2	619. Galesloot TE, Vermeulen SH, Geurts -Moespot  AJ,  Klaver  SM,
+8416	2	620. Rehu M, Punnonen K, Ostland V, Heinonen S, Westerman M, Pulkki
+8423	2	622. Brickley EB, Spottiswoode N, Kabyemela E, Morrison R, Kurtis JD,
+8428	2	623. Pasricha S-R, Atkinson SH, Armitage AE, Khandwala S, Veenemans

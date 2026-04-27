@@ -1,0 +1,18 @@
+{
+  "id": "src-295",
+  "title": "INFLAMMATION AND ATHEROSCLEROSIS",
+  "authors": [
+    "Hansson, Göran K.",
+    "Robertson, Anna-Karin L.",
+    "Söderberg‐Nauclér, Cecilia"
+  ],
+  "doi": "10.1146/annurev.pathol.1.110304.100100",
+  "url": "https://openalex.org/W2129819015",
+  "provider": "openalex",
+  "year": 2006,
+  "venue": "Annual Review of Pathology Mechanisms of Disease",
+  "citation_count": 1041,
+  "abstract": "Atherosclerosis, the cause of myocardial infarction, stroke, and ischemic gangrene, is an inflammatory disease. The atherosclerotic process is initiated when cholesterol-containing low-density lipoproteins accumulate in the intima and activate the endothelium. Leukocyte adhesion molecules and chemokines promote recruitment of monocytes and T cells. Monocytes differentiate into macrophages and upregulate pattern recognition receptors, including scavenger receptors and toll-like receptors. Scavenger receptors mediate lipoprotein internalization, which leads to foam-cell formation. Toll-like receptors transmit activating signals that lead to the release of cytokines, proteases, and vasoactive molecules. T cells in lesions recognize local antigens and mount T helper-1 responses with secretion of pro-inflammatory cytokines that contribute to local inflammation and growth of the plaque. Intensified inflammatory activation may lead to local proteolysis, plaque rupture, and thrombus formation, which causes ischemia and infarction. Inflammatory markers are already used to monitor the disease process and anti-inflammatory therapy may be useful to control disease activity.",
+  "type": "academic",
+  "pdf_url": ""
+}

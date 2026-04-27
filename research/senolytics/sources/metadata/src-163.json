@@ -1,0 +1,20 @@
+{
+  "id": "src-163",
+  "title": "Neuroinflammation in Alzheimer’s Disease",
+  "authors": [
+    "Onyango, Isaac G.",
+    "Jáuregui, Gretsen Velezmoro",
+    "Čarná, Mária",
+    "Bennett, James P.",
+    "Stokin, Gorazd B."
+  ],
+  "doi": "10.3390/biomedicines9050524",
+  "url": "https://openalex.org/W3159907306",
+  "provider": "openalex",
+  "year": 2021,
+  "venue": "Biomedicines",
+  "citation_count": 295,
+  "abstract": "Alzheimer's disease (AD) is a neurodegenerative disease associated with human aging. Ten percent of individuals over 65 years have AD and its prevalence continues to rise with increasing age. There are currently no effective disease modifying treatments for AD, resulting in increasingly large socioeconomic and personal costs. Increasing age is associated with an increase in low-grade chronic inflammation (inflammaging) that may contribute to the neurodegenerative process in AD. Although the exact mechanisms remain unclear, aberrant elevation of reactive oxygen and nitrogen species (RONS) levels from several endogenous and exogenous processes in the brain may not only affect cell signaling, but also trigger cellular senescence, inflammation, and pyroptosis. Moreover, a compromised immune privilege of the brain that allows the infiltration of peripheral immune cells and infectious agents may play a role. Additionally, meta-inflammation as well as gut microbiota dysbiosis may drive the neuroinflammatory process. Considering that inflammatory/immune pathways are dysregulated in parallel with cognitive dysfunction in AD, elucidating the relationship between the central nervous system and the immune system may facilitate the development of a safe and effective therapy for AD. We discuss some current ideas on processes in inflammaging that appear to drive the neurodegenerative process in AD and summarize details on a few immunomodulatory strategies being developed to selectively target the detrimental aspects of neuroinflammation without affecting defense mechanisms against pathogens and tissue damage.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2227-9059/9/5/524/pdf?version=1620644542"
+}

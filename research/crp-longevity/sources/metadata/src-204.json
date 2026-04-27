@@ -1,0 +1,23 @@
+{
+  "id": "src-204",
+  "title": "The diagnostic accuracy of serum and synovial inflammatory markers in chronic periprosthetic joint infection among anaemic patients",
+  "authors": [
+    "Aimaiti, Abudousaimi",
+    "Guo, Wentao",
+    "Xu, Boyong",
+    "Mu, W.",
+    "Wahafu, T.",
+    "Zou, Chen",
+    "Hua, Long",
+    "Cao, L."
+  ],
+  "doi": "10.1302/2046-3758.152.bjr-2025-0110.r1",
+  "url": "https://www.semanticscholar.org/paper/787ce78dfd8e9759935b1bc3465f5b026cf8559e",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "Bone & Joint Research",
+  "citation_count": 1,
+  "abstract": "Aims Preoperative anaemia is common in patients undergoing revision total joint replacement (TJR), yet its effects on inflammatory markers for diagnosing chronic periprosthetic joint infection (PJI) are poorly understood. This study aimed to investigate how preoperative anaemia impacts inflammatory biomarkers, and to establish anaemia-adjusted diagnostic thresholds for PJI. Methods This retrospective cohort study was conducted at a tertiary referral centre, evaluating 886 revision arthroplasty cases (396 PJI and 490 aseptic failures) between January 2008 and October 2023. Serum biomarkers (CRP, ESR, D-dimer, fibrinogen, fibrin degradation products (FDP), procalcitonin, and interleukin-6 (IL-6)) and synovial fluid markers (white blood cell count (SF-WBC) and polymorphonuclear percentage (SF-PMN)) were analyzed. The diagnostic performance of these markers was assessed using receiver operating characteristic (ROC) curve analysis, with patients stratified by anaemia status. Results Preoperative anaemia was present in 55.1% (218/396) of patients with chronic PJI. In anaemic patients, serum biomarker levels were significantly higher than those of non-anaemic patients: CRP (28.35 vs 14.75 mg/l; p < 0.001), ESR (58 vs 40 mm/h; p < 0.001), D-dimer (615 vs 415 ng/ml; p < 0.001), and IL-6 (22.19 vs 10.74 pg/ml; p < 0.001). After adjusting diagnostic thresholds for anaemia, the area under the curve (AUC) for CRP improved from 0.838 to 0.927. Similar improvements were observed for ESR and IL-6. Fibrinogen and FDP demonstrated moderate diagnostic utility, while procalcitonin showed limited diagnostic value in both anaemic and non-anaemic patients. Conclusion Preoperative anaemia is associated with statistically significant increases in most inflammatory biomarker levels and with higher diagnostic thresholds in chronic PJI. Anaemia-adjusted cut-off values for CRP, ESR, and IL-6 may enhance diagnostic accuracy for PJI in this patient population. Cite this article: Bone Joint Res 2026;15(2):99–112.",
+  "type": "academic",
+  "pdf_url": ""
+}

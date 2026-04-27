@@ -1,0 +1,19 @@
+{
+  "id": "src-133",
+  "title": "Serum iron dynamics and mortality in patients with heart failure: A population-based cohort study",
+  "authors": [
+    "Ren, Q.",
+    "Tsang, T.",
+    "Chan, H.",
+    "Yiu, K."
+  ],
+  "doi": "10.1093/eurheartj/ehad655.910",
+  "url": "https://www.semanticscholar.org/paper/c84c810b7d81fec08a4c395278cfd795ba18ed6f",
+  "provider": "semantic_scholar",
+  "year": 2023,
+  "venue": "European Heart Journal",
+  "citation_count": 0,
+  "abstract": "Iron deficiency (ID) is common among patients with heart failure (HF). Little is known about the impact of serum iron dynamics on mortality in HF.\n\nUsing a previously validated territory-wide clinical information registry, all eligible patients with HF (N = 112, 938) from 1996 to 2020 were enrolled. The index date was defined as the date of which HF was first diagnosed. Iron, ferritin and transferrin saturation (TSAT) values were retrieved both at baseline (1 year before index date) and during follow-up period (1 year after the index date until study end). The association between iron levels and risk of mortality was evaluated both on a continuous scale using restricted cubic spline curves and by categories using Cox proportional hazards regression model with competing risk as appropriate. Cut-points of iron were determined by the optimal equal-HR method. Inverse probability of treatment weighting (IPTW) was used to balance the covariates among iron groups. Changes in iron from baseline to follow-up were expressed by Sankey curve. The outcome was all-cause mortality.\n\nThe mean age of the cohort was 73.0±12.2 years and 51,340 (45.5%) were male. The association between iron levels and the risk of all-cause mortality was a U-shaped curve. The risk of all-cause mortality reached a nadir between iron levels of 8.2 umol/L and 25.8 umol/L and was lowest at 13.5 umol/L. Accordingly, iron levels were divided into 3 groups: low iron (≤8.2 umol/L), midrange (8.2-25.8 umol/L), high iron (>25.8 umol/L). Compared to those who remained at midrange iron level during follow-up, risk of mortality was higher in those with persistently low and persistently high iron levels (HR 1.32, 95%CI 1.27 to 1.38; HR 2.24, 95%CI 1.74 to 2.89, respectively). Further, changes in iron levels from low to high (HR 1.41, 95%CI 1.24 to 1.61); mid to low (HR 1.15, 95%CI 1.10 to 1.20), mid to high (HR 1.29, 95%CI 1.13 to 1.49); high to low (HR 1.36, 95%CI 1.15-1.60), or high to mid (HR 1.18, 95%CI 1.00-1.38) also demonstrated higher risks of mortality. (Table 1)\n\nThe prevalence of low iron status is high among patients with HF. Both low or high iron levels at baseline, and changes to the lower or higher ends of the iron level spectrum during follow-up were associated with higher risks of all-cause mortality.cubic spline curve",
+  "type": "academic",
+  "pdf_url": "https://academic.oup.com/eurheartj/article-pdf/44/Supplement_2/ehad655.910/53603608/ehad655.910.pdf"
+}

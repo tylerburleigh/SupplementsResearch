@@ -1,0 +1,28 @@
+{
+  "id": "src-055",
+  "title": "Validation of Cardiovascular End Points Ascertainment Leveraging Multisource Electronic Health Records Harmonized Into a Common Data Model in the ADAPTABLE Randomized Clinical Trial",
+  "authors": [
+    "Quality, Cardiovascular",
+    "Outcomes",
+    "Jones, W. S.",
+    "Marquis-Gravel, MD MSc Guillaume",
+    "Hammill, B.",
+    "Mulder, MS Hillary",
+    "Roe, MD Matthew T.",
+    "Robertson, PhD Holly R.",
+    "Wruck, PhD Lisa M.",
+    "Sharlow, Mba Ccra Amber",
+    "Harris, BA Debra F.",
+    "Pohlman, Mph F. Will",
+    "Hernandez, M. M. Adrian F."
+  ],
+  "doi": "10.1161/circoutcomes.121.008190",
+  "url": "https://www.semanticscholar.org/paper/16022515155080ad08940c1e3ba9293d4cd26773",
+  "provider": "semantic_scholar",
+  "year": 2021,
+  "venue": "Circulation. Cardiovascular Quality and Outcomes",
+  "citation_count": 10,
+  "abstract": "Supplemental Digital Content is available in the text. Background: The ADAPTABLE trial (Aspirin Dosing: A Patient-Centric Trial Assessing Benefits and Long-Term Effectiveness) is the first randomized trial conducted within the National Patient-Centered Clinical Research Network to use the electronic health record data formatted into a common data model as the primary source of end point ascertainment, without confirmation by standard adjudication. The objective of this prespecified study is to assess the validity of nonfatal end points captured from the National Patient-Centered Clinical Research Network, using traditional blinded adjudication as the gold standard. Methods: A total of 15 076 participants with established atherosclerotic cardiovascular disease were randomized to two doses of aspirin (81 mg and 325 mg once daily). Nonfatal end points (hospitalization for nonfatal myocardial infarction, nonfatal stroke, and major bleeding requiring transfusion of blood products) were captured with the use of programming algorithms applied to National Patient-Centered Clinical Research Network data. A random subset of end points was independently reviewed by a disease-specific expert adjudicator. The positive predictive value of the programming algorithms were calculated separately for end points listed as primary and as nonprimary diagnoses. Results: A total of 225 end points were identified (91 myocardial infarction events, 89 stroke events, and 45 bleeding events), including 142 (63%) that were listed as primary diagnoses. Complete source documents were missing for 14% of events. The positive predictive value were 90%, 72%, and 93% for hospitalizations for myocardial infarction, stroke, and major bleeding, respectively, as compared to adjudication. When only primary diagnoses were considered, positive predictive value were 93%, 91%, and 97%, respectively. When only nonprimary diagnoses were considered, positive predictive value were 82%, 36%, and 71%. Conclusions: As compared with blinded adjudication, clinical end point ascertainment from queries of the National Patient-Centered Clinical Research Network distributed harmonized data was valid to identify hospitalizations for myocardial infarction in ADAPTABLE. The proportion of contradicted events was high for hospitalizations for bleeding and strokes when nonprimary diagnoses were analyzed, but not when only primary diagnoses were considered.",
+  "type": "academic",
+  "pdf_url": "https://www.ahajournals.org/doi/pdf/10.1161/CIRCOUTCOMES.121.008190"
+}

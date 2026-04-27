@@ -1,0 +1,17 @@
+{
+  "id": "src-088",
+  "title": "Encapsulation of Natural Polyphenolic Compounds; a Review",
+  "authors": [
+    "Munin, Aude",
+    "Edwards‐Lévy, Florence"
+  ],
+  "doi": "10.3390/pharmaceutics3040793",
+  "url": "https://openalex.org/W2138575795",
+  "provider": "openalex",
+  "year": 2011,
+  "venue": "Pharmaceutics",
+  "citation_count": 853,
+  "abstract": "Natural polyphenols are valuable compounds possessing scavenging properties towards radical oxygen species, and complexing properties towards proteins. These abilities make polyphenols interesting for the treatment of various diseases like inflammation or cancer, but also for anti-ageing purposes in cosmetic formulations, or for nutraceutical applications. Unfortunately, these properties are also responsible for a lack in long-term stability, making these natural compounds very sensitive to light and heat. Moreover, polyphenols often present a poor biodisponibility mainly due to low water solubility. Lastly, many of these molecules possess a very astringent and bitter taste, which limits their use in food or in oral medications. To circumvent these drawbacks, delivery systems have been developed, and among them, encapsulation would appear to be a promising approach. Many encapsulation methods are described in the literature, among which some have been successfully applied to plant polyphenols. In this review, after a general presentation of the large chemical family of plant polyphenols and of their main chemical and biological properties, encapsulation processes applied to polyphenols are classified into physical, physico-chemical, chemical methods, and other connected stabilization methods. After a brief description of each encapsulation process, their applications to polyphenol encapsulation for pharmaceutical, food or cosmetological purposes are presented.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/1999-4923/3/4/793/pdf?version=1320395773"
+}

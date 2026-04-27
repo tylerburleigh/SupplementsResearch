@@ -1,0 +1,26 @@
+{
+  "id": "src-230",
+  "title": "Effectiveness of a Mobile App (Meds@HOME) to Improve Medication Safety for Children With Medical Complexity: Protocol for a Randomized Controlled Trial",
+  "authors": [
+    "Werner, Nicole E.",
+    "Morgen, Makenzie",
+    "Kooiman, Sophie",
+    "Jolliff, Anna F",
+    "Warner, Gemma",
+    "Feinstein, James A.",
+    "Chui, Michelle A.",
+    "Katz, Barbara",
+    "Storhoff, Brittany",
+    "Sodergren, Kristan",
+    "Coller, R."
+  ],
+  "doi": "10.2196/60621",
+  "url": "https://www.semanticscholar.org/paper/ba7361065579b7f24470e183238e590c789c4061",
+  "provider": "semantic_scholar",
+  "year": 2024,
+  "venue": "JMIR Research Protocols",
+  "citation_count": 3,
+  "abstract": "Background This study will pilot-test the mobile app, Medication Safety @HOME—Meds@HOME intervention to improve medication administration accuracy, reduce preventable adverse drug events, and ultimately improve chronic care management for children with medical complexity (CMC). The Meds@HOME app was co-designed with CMC families, secondary caregivers (SCGs), and health professionals to support medication management for primary caregivers (PCGs) and SCGs of CMC. We hypothesize that Meds@HOME will improve caregivers’ medication administration accuracy, reduce preventable adverse drug events, and ultimately improve chronic care management. Objective This study aims to evaluate the effectiveness of Meds@HOME on medication administration accuracy for PCGs and SCGs. Methods This study will recruit up to 152 PCGs and 304 SCGs of CMC who are prescribed at least 1 scheduled high-risk medication and receive care at the University of Wisconsin American Family Children’s Hospital. PCGs will be randomly assigned, for the 6-month trial, to either the control group (not trialing Meds@HOME) or the intervention group (trialing Meds@HOME) using 1:1 ratio. The Meds@HOME app allows caregivers to create a child profile, store medication and care instructions, and receive reminders for upcoming and overdue care routines and medication refills. Surveys completed both at the start and end of the trial measure demographics, medication delivery knowledge, confidence in the CMC’s caregiving network, and comfort with medical information. Univariate and multivariate generalized estimation equations will be used for primary statistical analysis. The primary outcome is the PCG’s rate of medication administration accuracy measured as correct identification of each of the following for a randomly selected high-risk medication: indication, formulation, dose, frequency, and route at baseline and after 6 months. Secondary outcomes include SCG medication administration accuracy (indication, formulation, dose, frequency, and route), count of University of Wisconsin hospital and emergency department encounters, PCG-reported medication adherence, count of deaths, and PCG medication confidence and understanding. Results Recruitment for this study began on November 29, 2023. As of May 15, 2024, we have enrolled 94/152 (62%) PCGs. We expect recruitment to end by August 1, 2024, and the final participant will complete the study by January 28, 2025, at which point we will start analyzing the complete responses. We expect publication of results at the end of 2025. Conclusions The Meds@HOME mobile app provides a promising strategy for improving PCG medication safety for CMC who take high-risk medications. In addition, this protocol highlights novel procedures for recruiting SCGs of CMC. In the future, this app could be used more broadly across diverse caregiving networks to navigate complex medication routines and promote medication safety. Trial Registration ClinicalTrials.gov NCT05816590; https://clinicaltrials.gov/study/NCT05816590 International Registered Report Identifier (IRRID) DERR1-10.2196/60621",
+  "type": "academic",
+  "pdf_url": "https://s3.ca-central-1.amazonaws.com/assets.jmir.org/assets/preprints/preprint-60621-accepted.pdf"
+}

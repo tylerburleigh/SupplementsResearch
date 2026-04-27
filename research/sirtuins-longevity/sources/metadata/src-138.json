@@ -1,0 +1,17 @@
+{
+  "id": "src-138",
+  "title": "NAD+ metabolism, stemness, the immune response, and cancer",
+  "authors": [
+    "Navas, Lola E.",
+    "Carnero, Amancio"
+  ],
+  "doi": "10.1038/s41392-020-00354-w",
+  "url": "https://openalex.org/W3115974950",
+  "provider": "openalex",
+  "year": 2021,
+  "venue": "Signal Transduction and Targeted Therapy",
+  "citation_count": 455,
+  "abstract": "NAD<sup>+</sup> was discovered during yeast fermentation, and since its discovery, its important roles in redox metabolism, aging, and longevity, the immune system and DNA repair have been highlighted. A deregulation of the NAD<sup>+</sup> levels has been associated with metabolic diseases and aging-related diseases, including neurodegeneration, defective immune responses, and cancer. NAD<sup>+</sup> acts as a cofactor through its interplay with NADH, playing an essential role in many enzymatic reactions of energy metabolism, such as glycolysis, oxidative phosphorylation, fatty acid oxidation, and the TCA cycle. NAD<sup>+</sup> also plays a role in deacetylation by sirtuins and ADP ribosylation during DNA damage/repair by PARP proteins. Finally, different NAD hydrolase proteins also consume NAD<sup>+</sup> while converting it into ADP-ribose or its cyclic counterpart. Some of these proteins, such as CD38, seem to be extensively involved in the immune response. Since NAD cannot be taken directly from food, NAD metabolism is essential, and NAMPT is the key enzyme recovering NAD from nicotinamide and generating most of the NAD cellular pools. Because of the complex network of pathways in which NAD<sup>+</sup> is essential, the important role of NAD<sup>+</sup> and its key generating enzyme, NAMPT, in cancer is understandable. In the present work, we review the role of NAD<sup>+</sup> and NAMPT in the ways that they may influence cancer metabolism, the immune system, stemness, aging, and cancer. Finally, we review some ongoing research on therapeutic approaches.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.1038/s41392-020-00354-w"
+}

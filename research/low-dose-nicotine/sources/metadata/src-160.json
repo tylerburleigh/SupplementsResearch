@@ -1,0 +1,24 @@
+{
+  "id": "src-160",
+  "title": "Neuroprotection: Targeting Multiple Pathways by Naturally Occurring Phytochemicals",
+  "authors": [
+    "Khan, Andleeb",
+    "Jahan, Sadaf",
+    "Imtiyaz, Zuha",
+    "Alshahrani, Saeed",
+    "Makeen, Hafiz A.",
+    "Alshehri, Bader",
+    "Kumar, Ajay",
+    "Arafah, Azher",
+    "Rehman, Muneeb U."
+  ],
+  "doi": "10.3390/biomedicines8080284",
+  "url": "https://openalex.org/W3048483742",
+  "provider": "openalex",
+  "year": 2020,
+  "venue": "Biomedicines",
+  "citation_count": 81,
+  "abstract": "With the increase in the expectancy of the life span of humans, neurodegenerative diseases (NDs) have imposed a considerable burden on the family, society, and nation. In defiance of the breakthroughs in the knowledge of the pathogenesis and underlying mechanisms of various NDs, very little success has been achieved in developing effective therapies. This review draws a bead on the availability of the nutraceuticals to date for various NDs (Alzheimer's disease, Parkinson's disease, Amyotrophic lateral sclerosis, Huntington's disease, vascular cognitive impairment, Prion disease, Spinocerebellar ataxia, Spinal muscular atrophy, Frontotemporal dementia, and Pick's disease) focusing on their various mechanisms of action in various in vivo and in vitro models of NDs. This review is distinctive in its compilation to critically review preclinical and clinical studies of the maximum phytochemicals in amelioration and prevention of almost all kinds of neurodegenerative diseases and address their possible mechanism of action. PubMed, Embase, and Cochrane Library searches were used for preclinical studies, while ClinicalTrials.gov and PubMed were searched for clinical updates. The results from preclinical studies demonstrate the efficacious effects of the phytochemicals in various NDs while clinical reports showing mixed results with promise for phytochemical use as an adjunct to the conventional treatment in various NDs. These studies together suggest that phytochemicals can significantly act upon different mechanisms of disease such as oxidative stress, inflammation, apoptotic pathways, and gene regulation. However, further clinical studies are needed that should include the appropriate biomarkers of NDs and the effect of phytochemicals on them as well as targeting the appropriate population.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2227-9059/8/8/284/pdf?version=1597200142"
+}

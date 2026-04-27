@@ -1,0 +1,21 @@
+{
+  "id": "src-279",
+  "title": "The Safety and Antiaging Effects of Nicotinamide Mononucleotide in Human Clinical Trials: an Update",
+  "authors": [
+    "Song, Qin",
+    "Zhou, Xiaofeng",
+    "Xu, Kexin",
+    "Liu, Sishi",
+    "Zhu, Xinqiang",
+    "Yang, Jun"
+  ],
+  "doi": "10.1016/j.advnut.2023.08.008",
+  "url": "https://openalex.org/W4386057078",
+  "provider": "openalex",
+  "year": 2023,
+  "venue": "Advances in Nutrition",
+  "citation_count": 95,
+  "abstract": "The importance of nicotinamide adenine dinucleotide (NAD<sup>+</sup>) in human physiology is well recognized. As the NAD<sup>+</sup> concentration in human skin, blood, liver, muscle, and brain are thought to decrease with age, finding ways to increase NAD<sup>+</sup> status could possibly influence the aging process and associated metabolic sequelae. Nicotinamide mononucleotide (NMN) is a precursor for NAD<sup>+</sup> biosynthesis, and in vitro/in vivo studies have demonstrated that NMN supplementation increases NAD<sup>+</sup> concentration and could mitigate aging-related disorders such as oxidative stress, DNA damage, neurodegeneration, and inflammatory responses. The promotion of NMN as an antiaging health supplement has gained popularity due to such findings; however, since most studies evaluating the effects of NMN have been conducted in cell or animal models, a concern remains regarding the safety and physiological effects of NMN supplementation in the human population. Nonetheless, a dozen human clinical trials with NMN supplementation are currently underway. This review summarizes the current progress of these trials and NMN/NAD<sup>+</sup> biology to clarify the potential effects of NMN supplementation and to shed light on future study directions.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.1016/j.advnut.2023.08.008"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "src-321",
+  "title": "Structure-Activity Relationship (SAR) of Flavones on Their Anti-Inflammatory Activity in Murine Macrophages in Culture through the NF-κB Pathway and c-Src Kinase Receptor.",
+  "authors": [
+    "Wang, Xiang",
+    "Cao, Yujia",
+    "Chen, Siyu",
+    "Lin, Jiachen",
+    "Yang, Xin",
+    "Huang, De-Gang"
+  ],
+  "doi": "10.1021/acs.jafc.2c03050",
+  "url": "https://www.semanticscholar.org/paper/38cb5cafb644fa034d7eabab24b9f873aa5cefe4",
+  "provider": "semantic_scholar",
+  "year": 2022,
+  "venue": "Journal of Agricultural and Food Chemistry",
+  "citation_count": 17,
+  "abstract": "Flavones benefit human health through their anti-inflammatory activity; however, their structure-activity relationship is unclear. Herein, we selected 15 flavones with the same backbone but different substituents and systematically assessed their anti-inflammatory activities in RAW 264.7 regarding cellular-Src kinase (c-Src) affinity, suppression of IκBα phosphorylation, inhibition of nitric oxide (NO) and inducible nitric oxidase (iNOS) production, and downregulation of genes of proinflammatory cytokines interleukin 6 (IL-6), interleukin 1β (IL-1β), and tumor necrosis factor α (TNF-α). Overall, our results showed that the double bond between C2-C3 and C3'- and C4'-OH promoted anti-inflammatory activity, while C8- and C5'-OH and the methoxy group on C4' attenuated the overall anti-inflammatory and antioxidant activities. The hydroxyl groups at other positions exhibited more complicated functions. The two most effective flavones are 3',4'-dihydroxyflavone and luteolin with inhibitory concentration (IC50) values for inhibiting the LPS-induced nitric oxide level are 9.61 ± 1.36 and 16.90 ± 0.74 μM, respectively. Furthermore, they suppressed the production of iNOS by approximately 90% and inhibited IL-1β and IL-6 by more than 95%. Taken together, our results established a relationship between the flavone structure and anti-inflammatory activity in vitro.",
+  "type": "academic",
+  "pdf_url": ""
+}

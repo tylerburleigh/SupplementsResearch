@@ -1,0 +1,40 @@
+{
+  "id": "src-069",
+  "title": "Vitamin B6 form produced by Lactobacillus induces metabolic disorder and suppresses multi-pathogenic bacteria",
+  "authors": [
+    "Wu, Ying",
+    "Ling, Zhenmin",
+    "Peng, Liang",
+    "Wang, Xing",
+    "He, Yue",
+    "Khan, Aman",
+    "Salama, El-Sayed",
+    "Kulshreshtha, Sourabh",
+    "Liu, Pu",
+    "Li, Xiangkai"
+  ],
+  "year": 2025,
+  "abstract": "",
+  "doi": "10.1038/s42003-025-09348-2",
+  "url": "https://doi.org/10.1038/s42003-025-09348-2",
+  "pdf_url": "",
+  "venue": "Communications Biology",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-20T16:07:34.557876+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-069.md",
+  "quality_details": {
+    "content_length": 90788,
+    "alpha_ratio": 0.75,
+    "sentence_count": 1015,
+    "reasons": [
+      "paywall_page (access this article)"
+    ]
+  }
+}

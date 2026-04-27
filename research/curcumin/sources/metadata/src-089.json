@@ -1,0 +1,19 @@
+{
+  "id": "src-089",
+  "title": "Targeted therapy in chronic diseases using nanomaterial-based drug delivery vehicles",
+  "authors": [
+    "Singh, Akhand Pratap",
+    "Biswas, Arpan",
+    "Shukla, Aparna Wagle",
+    "Maiti, Pralay"
+  ],
+  "doi": "10.1038/s41392-019-0068-3",
+  "url": "https://openalex.org/W2970857608",
+  "provider": "openalex",
+  "year": 2019,
+  "venue": "Signal Transduction and Targeted Therapy",
+  "citation_count": 613,
+  "abstract": "The application of nanomedicines is increasing rapidly with the promise of targeted and efficient drug delivery. Nanomedicines address the shortcomings of conventional therapy, as evidenced by several preclinical and clinical investigations indicating site-specific drug delivery, reduced side effects, and better treatment outcome. The development of suitable and biocompatible drug delivery vehicles is a prerequisite that has been successfully achieved by using simple and functionalized liposomes, nanoparticles, hydrogels, micelles, dendrimers, and mesoporous particles. A variety of drug delivery vehicles have been established for the targeted and controlled delivery of therapeutic agents in a wide range of chronic diseases, such as diabetes, cancer, atherosclerosis, myocardial ischemia, asthma, pulmonary tuberculosis, Parkinson's disease, and Alzheimer's disease. After successful outcomes in preclinical and clinical trials, many of these drugs have been marketed for human use, such as Abraxane®, Caelyx®, Mepact®, Myocet®, Emend®, and Rapamune®. Apart from drugs/compounds, novel therapeutic agents, such as peptides, nucleic acids (DNA and RNA), and genes have also shown potential to be used as nanomedicines for the treatment of several chronic ailments. However, a large number of extensive clinical trials are still needed to ensure the short-term and long-term effects of nanomedicines in humans. This review discusses the advantages of various drug delivery vehicles for better understanding of their utility in terms of current medical needs. Furthermore, the application of a wide range of nanomedicines is also described in the context of major chronic diseases.",
+  "type": "academic",
+  "pdf_url": "https://www.nature.com/articles/s41392-019-0068-3.pdf"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "src-271",
+  "title": "Energy metabolism in health and diseases",
+  "authors": [
+    "Liu, Hui",
+    "Wang, Shuo",
+    "Wang, Jianhua",
+    "Guo, Xin",
+    "Song, Yujing",
+    "Fu, Kun",
+    "Gao, Zhenjie",
+    "Liu, Danfeng",
+    "He, Wei",
+    "Yang, Leilei"
+  ],
+  "doi": "10.1038/s41392-025-02141-x",
+  "url": "https://openalex.org/W4407711657",
+  "provider": "openalex",
+  "year": 2025,
+  "venue": "Signal Transduction and Targeted Therapy",
+  "citation_count": 253,
+  "abstract": "Energy metabolism is indispensable for sustaining physiological functions in living organisms and assumes a pivotal role across physiological and pathological conditions. This review provides an extensive overview of advancements in energy metabolism research, elucidating critical pathways such as glycolysis, oxidative phosphorylation, fatty acid metabolism, and amino acid metabolism, along with their intricate regulatory mechanisms. The homeostatic balance of these processes is crucial; however, in pathological states such as neurodegenerative diseases, autoimmune disorders, and cancer, extensive metabolic reprogramming occurs, resulting in impaired glucose metabolism and mitochondrial dysfunction, which accelerate disease progression. Recent investigations into key regulatory pathways, including mechanistic target of rapamycin, sirtuins, and adenosine monophosphate-activated protein kinase, have considerably deepened our understanding of metabolic dysregulation and opened new avenues for therapeutic innovation. Emerging technologies, such as fluorescent probes, nano-biomaterials, and metabolomic analyses, promise substantial improvements in diagnostic precision. This review critically examines recent advancements and ongoing challenges in metabolism research, emphasizing its potential for precision diagnostics and personalized therapeutic interventions. Future studies should prioritize unraveling the regulatory mechanisms of energy metabolism and the dynamics of intercellular energy interactions. Integrating cutting-edge gene-editing technologies and multi-omics approaches, the development of multi-target pharmaceuticals in synergy with existing therapies such as immunotherapy and dietary interventions could enhance therapeutic efficacy. Personalized metabolic analysis is indispensable for crafting tailored treatment protocols, ultimately providing more accurate medical solutions for patients. This review aims to deepen the understanding and improve the application of energy metabolism to drive innovative diagnostic and therapeutic strategies.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.1038/s41392-025-02141-x"
+}

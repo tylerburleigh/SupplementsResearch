@@ -1,0 +1,43 @@
+{
+  "id": "src-107",
+  "title": "Vitamin D supplementation in pregnancy: a systematic review",
+  "authors": [
+    "Harvey, Nicholas C",
+    "Holroyd, Christopher",
+    "Ntani, Georgia",
+    "Javaid, Kassim",
+    "Cooper, Philip",
+    "Moon, Rebecca",
+    "Cole, Zoe",
+    "Tinati, Tannaze",
+    "Godfrey, Keith",
+    "Dennison, Elaine",
+    "Bishop, Nicholas J",
+    "Baird, Janis",
+    "Cooper, Cyrus"
+  ],
+  "year": 2014,
+  "abstract": "",
+  "doi": "10.3310/hta18450",
+  "url": "https://doi.org/10.3310/hta18450",
+  "pdf_url": "",
+  "venue": "Health Technology Assessment",
+  "citation_count": 238,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T21:02:23.223656+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-107.md",
+  "quality_details": {
+    "content_length": 489873,
+    "alpha_ratio": 0.742,
+    "sentence_count": 3788,
+    "reasons": [
+      "paywall_page (subscribe)"
+    ]
+  }
+}

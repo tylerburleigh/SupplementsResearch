@@ -1,0 +1,21 @@
+{
+  "id": "src-209",
+  "title": "A-087 Relationship among Different Inflammatory Markers in Patients with COVID-19 Infections",
+  "authors": [
+    "Yadav, R.",
+    "Chopra, P.",
+    "Sehgal, T.",
+    "Datta, S.",
+    "Ningombam, A.",
+    "Ahirwar, A."
+  ],
+  "doi": "10.1093/clinchem/hvad097.080",
+  "url": "https://www.semanticscholar.org/paper/212109c6bb868305a21339880a823e224ac7bf61",
+  "provider": "semantic_scholar",
+  "year": 2023,
+  "venue": "Clinical Chemistry",
+  "citation_count": 1,
+  "abstract": "Acute phase reactants (APRs) are inflammation biomarkers that exhibit significant changes in their serum concentrations due to infectious and noninfectious conditions. APRs such as C-reactive protein (CRP), Interleukin-6 (IL-6), Ferritin, Lactate dehydrogenase (LDH); coagulation biomarkers such as D-dimer, Fibrinogen; cardiac biomarkers such as Creatine kinase-MB (CK-MB), and hematological biomarkers such as Neutrophil to Lymphocyte ratio (NLR) have been used extensively during the COVID-19 pandemic for early diagnosis, monitoring of response to treatment and prognostication. Amongst these, CRP, although a non-specific marker of inflammation has been widely used in COVID-19 patients.\n\nIn this study, we tried to evaluate the relationship of the other markers like IL-6, Ferritin, LDH, D-dimer, Fibrinogen, CK-MB and NLR with CRP levels in COVID-19 patients.\n\nThis cross-sectional study was carried out in a tertiary care hospital, New Delhi India, July 2020 to Dec 2020. Total 282 adults, confirmed COVID positive by RT-PCR were included in the study. The investigations were performed on day 0 or day 1 of COVID positivity. Correlation of CRP with other markers was studied by regression analysis using Minitab ver.17.\n\nAmong the 282 patients, gender distribution was 190 males to 92 females with an average age of 52.5 ± 15.1 years. All the markers were observed to have non-parametric distribution. CRP was raised in 92.5% cases (n = 239), IL-6 in 83.2% (n = 279), Ferritin in 66.8% (n = 238), LDH in 99.1% (n = 233), D-dimer in 96.6% (n = 30), Fibrinogen in 68.4% (n = 19), CK-MB in 84.6% (n = 98) and NLR of more than 4 in 82.8% (n = 280). The median and range for the different markers were as follows: CRP (44.8 U/L; 15.6–736), IL-6 (67.3 pg/mL; 0.8–1624), LDH (608.0 U/L; 161–6705), Ferritin (643.5 ng/mL; 7.9–11 932), D-dimer (7 µg/mL; 0–5250), NLR (9.43; 0.05–157.17); Fibrinogen (475 mg/dL; 285–759) CK-MB (9.9 mg/L; 0.1–46.7) respectively. Significant correlation was not observed between CRP and any of the inflammatory markers.\n\nInflammatory markers are raised in most patients with COVID-19, however, all markers are not raised in all patients. Sequential evaluation of these markers may be beneficial rather than at one time point.",
+  "type": "academic",
+  "pdf_url": "https://academic.oup.com/clinchem/article-pdf/69/Supplement_1/hvad097.080/51777381/hvad097.080.pdf"
+}

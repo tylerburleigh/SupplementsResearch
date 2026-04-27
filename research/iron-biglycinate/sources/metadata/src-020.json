@@ -1,0 +1,29 @@
+{
+  "id": "src-020",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://store.mayoclinic.com/thorne-iron-bisglycinate-nsf-certified.html",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-21T17:52:16.782233+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-020.md",
+  "quality_details": {
+    "content_length": 3056,
+    "alpha_ratio": 0.748,
+    "sentence_count": 26,
+    "reasons": [
+      "paywall_page (add to cart)"
+    ]
+  }
+}

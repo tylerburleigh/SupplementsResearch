@@ -1,0 +1,27 @@
+{
+  "id": "src-086",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "",
+  "pdf_url": "https://www.asau.ru/files/pdf/3307541.pdf",
+  "venue": "",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "",
+  "fetched_at": "2026-04-22T17:09:26.516426+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-086.md",
+  "quality_details": {
+    "content_length": 968233,
+    "alpha_ratio": 0.756,
+    "sentence_count": 7662,
+    "reasons": []
+  }
+}

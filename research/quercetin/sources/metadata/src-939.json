@@ -1,0 +1,27 @@
+{
+  "id": "src-939",
+  "title": "Isorhamnetin alleviates cisplatin-induced acute kidney injury via enhancing fatty acid oxidation.",
+  "authors": [
+    "Wang, Lingkun",
+    "Xie, Yaochen",
+    "Xiao, Boneng",
+    "He, Xuelin",
+    "Ying, Guanghui",
+    "Zha, Huiyan",
+    "Yang, Chen",
+    "Jin, Xuejin",
+    "Li, Guilin",
+    "Ping, Li",
+    "Wang, Jincheng",
+    "Weng, Qinjie"
+  ],
+  "doi": "10.1016/j.freeradbiomed.2023.12.010",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38101584",
+  "provider": "pubmed",
+  "year": 2024,
+  "venue": "Free radical biology & medicine",
+  "citation_count": 0,
+  "abstract": "Cisplatin is an effective chemotherapy drug widely used in the treatment of various solid tumors. However, the clinical usage of cisplatin is limited by its nephrotoxicity. Isorhamnetin, a natural flavanol compound, displays remarkable pharmacological effects, including anti-inflammatory and anti-oxidation. In this study, we aimed to investigate the potential of isorhamnetin in alleviating acute kidney injury induced by cisplatin. In vitro study showed that isorhamnetin significantly suppressed the cytotoxic effects of cisplatin on human tubular epithelial cells. Furthermore, isorhamnetin exerted significantly inhibitory effects on cisplatin-induced apoptosis and inflammatory response. In acute kidney injury mice induced by a single intraperitoneal injection with 20 mg/kg cisplatin, oral administration of isorhamnetin two days before or 2 h after cisplatin injection effectively ameliorated renal function and renal tubule injury. Transcriptomics RNA-seq analysis of the mice kidney tissues suggested that isorhamnetin treatment may protect against cisplatin-induced nephrotoxicity via PGC-1α mediated fatty acid oxidation. Isorhamnetin achieved significant enhancements in the lipid clearance, ATP level, as well as the expression of PGC-1α and its downstream target genes PPARα and CPT1A, which were otherwise impaired by cisplatin. In addition, the protection effects of isorhamnetin against cisplatin-induced nephrotoxicity were abolished by a PGC-1α inhibitor, SR-18292. In conclusion, our findings indicate that isorhamnetin could protect against cisplatin-induced acute kidney injury by inducing PGC-1α-dependent reprogramming of fatty acid oxidation, which highlights the clinical potential of isorhamnetin as a therapeutic approach for the management of cisplatin-induced nephrotoxicity.",
+  "type": "academic",
+  "pdf_url": ""
+}

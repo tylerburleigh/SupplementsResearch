@@ -1,0 +1,19 @@
+{
+  "id": "src-224",
+  "title": "Senogenic-senolytic treatment strategies enhance tumor control and can improve survival in murine cancer models: a systematic review",
+  "authors": [
+    "Hamburger, Eleane C B",
+    "Brigato, P.",
+    "Rosenzweig, Derek H.",
+    "Haglund, Lisbet"
+  ],
+  "doi": "10.1186/s12885-026-15650-x",
+  "url": "https://www.semanticscholar.org/paper/9aa21e45fe4735dbd02121f5602d9d61bb7af827",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "BMC Cancer",
+  "citation_count": 0,
+  "abstract": "Background Cellular senescence can be induced by therapeutic stress, contributing to tumor progression through the senescence-associated secretory phenotype (SASP). Senolytic drugs selectively eliminate senescent cells, offering a potential strategy to mitigate therapy-induced senescence (TIS) and improve cancer treatment outcomes. This review aimed to synthesize preclinical in vivo evidence evaluating the effects of senolytic and senogenic combination therapy on tumor burden and mechanistic outcomes, including senescence, SASP modulation, proliferation, apoptosis, and DNA damage markers. Methods Following PRISMA guidelines, a literature search was conducted using PubMed, Scopus, and Web of Science databases from inception to August 2025. Search terms included: “senolytic drugs,” “cellular senescence,” “senescence clearance,” “therapy-induced senescence,” “senomorphic drugs,” “chemotherapy,” “cancer treatment,” “in vivo,” and “xenograft,” “PARP inhibitor,” “CDK4/6 inhibitor,” “BCL-2 inhibitor,” “BH3-mimetic,” and “BET inhibitor”. Eligible studies included in vivo cancer models evaluating senolytic + senogenic combinations compared with the senogenic strategy alone, with outcomes related to tumor burden or mechanistic markers. Data extraction captured study design, animal model, tumor type, treatment regimen, and quantitative outcomes including senescence, SASP factors, proliferation, apoptosis, and DNA damage. Risk of bias was assessed using the SYRCLE tool for preclinical studies. Results The initial search identified 1,262 articles, of which 36 fulfilled the inclusion criteria after screening. All included studies were therapeutic mechanistic in vivo investigations. Across cancer types including colorectal, breast, ovarian, lung, melanoma, meningioma, prostate, head and neck, bladder, pancreatic, and hepatocellular carcinoma, senolytic co-treatment consistently reduced tumor burden compared with senogenic alone. Senescence markers such as SA-β-gal, p21, p53 and p16INK4a were decreased in the majority of combination groups, confirming attenuation of senescence-associated cell-cycle arrest. IL-6 was the most consistently suppressed SASP cytokine. Ki-67 was decreased and Caspase-3 activation increased across most models, supporting reduced proliferation and enhanced apoptosis. BCL2 downregulation and γ-H2AX elevation were observed in several studies, further suggesting increased apoptotic activity and DNA damage. Conclusion Senolytic plus senogenic combinations demonstrate robust preclinical efficacy in reducing tumor growth and senescent burden while promoting apoptosis across diverse in vivo models. These findings highlight senotherapy as a promising adjunct to conventional senescence-inducing anticancer therapies and underscore the need for standardized in vivo methodologies and translational studies to guide clinical application. This review protocol was prospectively registered on PROSPERO (registration number: CRD420251161998).",
+  "type": "academic",
+  "pdf_url": ""
+}

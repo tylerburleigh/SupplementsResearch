@@ -1,0 +1,21 @@
+{
+  "id": "src-260",
+  "title": "The autophagy–NAD axis in longevity and disease",
+  "authors": [
+    "Wilson, Niall",
+    "Kataura, Tetsushi",
+    "Korsgen, Miriam E.",
+    "Sun, Congxin",
+    "Sarkar, Sovan",
+    "Korolchuk, Viktor I."
+  ],
+  "doi": "10.1016/j.tcb.2023.02.004",
+  "url": "https://openalex.org/W4323266817",
+  "provider": "openalex",
+  "year": 2023,
+  "venue": "Trends in Cell Biology",
+  "citation_count": 97,
+  "abstract": "Autophagy is an intracellular degradation pathway that recycles subcellular components to maintain metabolic homeostasis. NAD is an essential metabolite that participates in energy metabolism and serves as a substrate for a series of NAD<sup>+</sup>-consuming enzymes (NADases), including PARPs and SIRTs. Declining levels of autophagic activity and NAD represent features of cellular ageing, and consequently enhancing either significantly extends health/lifespan in animals and normalises metabolic activity in cells. Mechanistically, it has been shown that NADases can directly regulate autophagy and mitochondrial quality control. Conversely, autophagy has been shown to preserve NAD levels by modulating cellular stress. In this review we highlight the mechanisms underlying this bidirectional relationship between NAD and autophagy, and the potential therapeutic targets it provides for combatting age-related disease and promoting longevity.",
+  "type": "academic",
+  "pdf_url": "http://www.cell.com/article/S0962892423000235/pdf"
+}

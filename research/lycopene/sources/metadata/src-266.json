@@ -1,0 +1,21 @@
+{
+  "id": "src-266",
+  "title": "Modeling the dose effects of soybean oil in salad dressing on carotenoid and fat-soluble vitamin bioavailability in salad vegetables.",
+  "authors": [
+    "White, Wendy S",
+    "Zhou, Yang",
+    "Crane, Agatha",
+    "Dixon, Philip",
+    "Quadt, Frits",
+    "Flendrig, Leonard M"
+  ],
+  "doi": "10.3945/ajcn.117.153635",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/28814399",
+  "provider": "pubmed",
+  "year": 2017,
+  "venue": "The American journal of clinical nutrition",
+  "citation_count": 0,
+  "abstract": "Background: Previously, we showed that vegetable oil is necessary for carotenoid absorption from salad vegetables. Research is needed to better define the dose effect and its interindividual variation for carotenoids and fat-soluble vitamins.Objective: The objective was to model the dose-response relation between the amount of soybean oil in salad dressing and the absorption of 1) carotenoids, phylloquinone, and tocopherols in salad vegetables and 2) retinyl palmitate formed from the provitamin A carotenoids.Design: Women (n = 12) each consumed 5 vegetable salads with salad dressings containing 0, 2, 4, 8, or 32 g soybean oil. Blood was collected at selected time points. The outcome variables were the chylomicron carotenoid and fat-soluble vitamin area under the curve (AUC) and maximum content in the plasma chylomicron fraction (Cmax). The individual-specific and group-average dose-response relations were investigated by fitting linear mixed-effects random coefficient models.Results: Across the entire 0-32-g range, soybean oil was linearly related to the chylomicron AUC and Cmax values for α-carotene, lycopene, phylloquinone, and retinyl palmitate. Across 0-8 g of soybean oil, there was a linear increase in the chylomicron AUC and Cmax values for β-carotene. Across a more limited 0-4-g range of soybean oil, there were minor linear increases in the chylomicron AUC for lutein and α- and total tocopherol. Absorption of all carotenoids and fat-soluble vitamins was highest with 32 g oil (P < 0.002). For 32 g oil, the interindividual rank order of the chylomicron AUCs was consistent across the carotenoids and fat-soluble vitamins (P < 0.0001).Conclusions: Within the linear range, the average absorption of carotenoids and fat-soluble vitamins could be largely predicted by the soybean oil effect. However, the effect varied widely, and some individuals showed a negligible response. There was a global soybean oil effect such that those who absorbed more of one carotenoid and fat-soluble vitamin also tended to absorb more of the others. This trial was registered at clinicaltrials.gov as NCT02867488.",
+  "type": "academic",
+  "pdf_url": ""
+}

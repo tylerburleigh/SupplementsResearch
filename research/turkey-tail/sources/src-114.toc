@@ -1,0 +1,8 @@
+57	2	1. Introduction
+411	2	4. Role of cGAS-STING in Antitumor Immunity
+450	2	5. The Protumoral Role of cGAS-STING in Breast Cancer
+552	2	6. Therapeutic Potential of Innate Immune Molecules Targeting for Breast
+554	3	6.1. Activation
+683	3	6.2. Inhibition
+711	2	7. Conclusions
+745	2	References

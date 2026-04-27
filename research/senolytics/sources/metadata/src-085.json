@@ -1,0 +1,30 @@
+{
+  "id": "src-085",
+  "title": "IL-23R is a senescence-linked circulating and tissue biomarker of aging.",
+  "authors": [
+    "Carver, Chase M",
+    "Rodriguez, Sonia L",
+    "Atkinson, Elizabeth J",
+    "Dosch, Andrew J",
+    "Asmussen, Niels C",
+    "Gomez, Paul T",
+    "Leitschuh, Ethan A",
+    "Espindola-Netto, Jair M",
+    "Jeganathan, Karthik B",
+    "Whaley, Madison G",
+    "Kamenecka, Theodore M",
+    "Baker, Darren J",
+    "Haak, Andrew J",
+    "LeBrasseur, Nathan K",
+    "Schafer, Marissa J"
+  ],
+  "doi": "10.1038/s43587-024-00752-7",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39658621",
+  "provider": "pubmed",
+  "year": 2025,
+  "venue": "Nature aging",
+  "citation_count": 0,
+  "abstract": "Cellular senescence is an aging mechanism characterized by cell cycle arrest and a senescence-associated secretory phenotype (SASP). Preclinical studies demonstrate that senolytic drugs, which target survival pathways in senescent cells, can counteract age-associated conditions that span several organs. The comparative efficacy of distinct senolytic drugs for modifying aging and senescence biomarkers in vivo has not been demonstrated. Here, we established aging- and senescence-related plasma proteins and tissue transcripts that changed in old versus young female and male mice. We investigated responsivity to acute treatment with venetoclax, navitoclax, fisetin or luteolin versus transgenic senescent cell clearance in aged p16-InkAttac mice. We discovered that age-dependent changes in plasma proteins, including IL-23R, CCL5 and CA13, were reversed by senotherapeutics, which corresponded to expression differences in tissues, particularly in the kidney. In plasma from humans across the lifespan, IL-23R increased with age. Our results reveal circulating factors as candidate mediators of senescence-associated interorgan signal transduction and translationally impactful biomarkers of systemic senescent cell burden.",
+  "type": "academic",
+  "pdf_url": ""
+}

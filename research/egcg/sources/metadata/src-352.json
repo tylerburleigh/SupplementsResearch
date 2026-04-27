@@ -1,0 +1,26 @@
+{
+  "id": "src-352",
+  "title": "Major Phytochemicals: Recent Advances in Health Benefits and Extraction Method",
+  "authors": [
+    "Kumar, Ashwani",
+    "Nirmal, P",
+    "Kumar, Mukul",
+    "Jose, Anina",
+    "Tomer, Vidisha",
+    "Öz, Emel",
+    "Proestos, Charalampos",
+    "Zeng, Maomao",
+    "Elobeid, Tahra",
+    "Sneha, K.",
+    "Öz, Fatih"
+  ],
+  "doi": "10.3390/molecules28020887",
+  "url": "https://openalex.org/W4316664297",
+  "provider": "openalex",
+  "year": 2023,
+  "venue": "Molecules",
+  "citation_count": 620,
+  "abstract": "Recent scientific studies have established a relationship between the consumption of phytochemicals such as carotenoids, polyphenols, isoprenoids, phytosterols, saponins, dietary fibers, polysaccharides, etc., with health benefits such as prevention of diabetes, obesity, cancer, cardiovascular diseases, etc. This has led to the popularization of phytochemicals. Nowadays, foods containing phytochemicals as a constituent (functional foods) and the concentrated form of phytochemicals (nutraceuticals) are used as a preventive measure or cure for many diseases. The health benefits of these phytochemicals depend on their purity and structural stability. The yield, purity, and structural stability of extracted phytochemicals depend on the matrix in which the phytochemical is present, the method of extraction, the solvent used, the temperature, and the time of extraction.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/1420-3049/28/2/887/pdf?version=1673857597"
+}

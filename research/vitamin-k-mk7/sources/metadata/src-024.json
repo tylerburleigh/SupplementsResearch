@@ -1,0 +1,29 @@
+{
+  "id": "src-024",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://vitamk7.com",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-21T10:52:36.359800+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-024.md",
+  "quality_details": {
+    "content_length": 5487,
+    "alpha_ratio": 0.783,
+    "sentence_count": 36,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

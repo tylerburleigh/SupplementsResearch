@@ -1,0 +1,18 @@
+9	2	Abstract
+67	2	2. Materials and Methods
+68	3	2.1 Study Design
+79	3	2.2 Participants
+95	3	2.3 Interventions
+111	3	2.4 Outcome Measures
+126	3	2.5 Safety Assessment
+130	3	2.6 Statistical Methods
+149	2	3. Results
+155	3	3.1 Participant Flow and Baseline Characteristics
+213	3	3.3 Secondary Efficacy Outcomes: Dysmenorrhea Symptom Score and CMSS
+241	3	3.5 Safety and Tolerability
+251	3	3.6 Responder Analysis
+280	3	3.8 Covariate and Subgroup Analysis
+287	2	4. Discussion
+316	2	Limitations
+322	2	5. Conclusion
+333	2	References

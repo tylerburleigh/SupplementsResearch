@@ -1,0 +1,35 @@
+{
+  "id": "src-317",
+  "title": "VITAMIN D AND DEMENTIA",
+  "authors": [
+    "Littlejohns, T.J.",
+    "Kos, K.",
+    "Henley, W.E.",
+    "Kuma, E.",
+    "Llewellyn, D.J."
+  ],
+  "year": 2015,
+  "abstract": "Emerging evidence suggests that low vitamin D concentrations are potentially involved in the pathogenesis of dementia. This is of particular interest when considering the high prevalence of vitamin D deficiency in elderly adults and the urgent need to identify modifiable risk factors for dementia. Studies have found that vitamin D is implicated in procognitive and neuroprotective functions, including the reduction of Alzheimer’s disease hallmarks such as amyloid beta and phosphorylated tau. Cross-sectional studies have consistently found that vitamin D concentrations are significantly lower in individuals with Alzheimer’s disease and cognitive impairment compared to healthy controls. Longitudinal studies support an association between low vitamin D concentrations and an increased risk of dementia and cognitive decline. Neuroimaging studies are beginning to uncover the potential neurodegenerative and cerebrovascular mechanisms that underlie these associations such as white matter hyperintensities and enlarged ventricular volume, although there is currently a lack of longitudinal studies. In contrast to observational studies, findings from interventional studies have produced mixed results on the benefits of vitamin D supplementation on dementia and cognitive outcomes. Interpretation of the findings from these studies is hampered by several major methodological limitations, such as small sample sizes, inadequate doses and inclusion of participants unlikely to benefit from vitamin D supplementation. There is a need for large double-blind randomised-control trials investigating whether vitamin D supplementation can halt or delay the risk of dementia-related outcomes in individuals with low vitamin D concentrations.",
+  "doi": "10.14283/jpad.2015.68",
+  "url": "https://doi.org/10.14283/jpad.2015.68",
+  "pdf_url": "",
+  "venue": "The Journal Of Prevention of Alzheimer's Disease",
+  "citation_count": 3,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T21:46:38.502114+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-317.md",
+  "quality_details": {
+    "content_length": 58322,
+    "alpha_ratio": 0.751,
+    "sentence_count": 533,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "src-299",
+  "title": "From C-Reactive Protein to Interleukin-6 to Interleukin-1",
+  "authors": [
+    "Ridker, Paul M."
+  ],
+  "doi": "10.1161/circresaha.115.306656",
+  "url": "https://openalex.org/W2222665820",
+  "provider": "openalex",
+  "year": 2016,
+  "venue": "Circulation Research",
+  "citation_count": 935,
+  "abstract": "Plasma levels of the inflammatory biomarker high-sensitivity C-reactive protein (hsCRP) predict vascular risk with an effect estimate as large as that of total or high-density lipoprotein cholesterol. Further, randomized trial data addressing hsCRP have been central to understanding the anti-inflammatory effects of statin therapy and have consistently demonstrated on-treatment hsCRP levels to be as powerful a predictor of residual cardiovascular risk as on-treatment levels of low-density lipoprotein cholesterol. Yet, although hsCRP is clinically useful as a biomarker for risk prediction, most mechanistic studies suggest that CRP itself is unlikely to be a target for intervention. Moving upstream in the inflammatory cascade from CRP to interleukin (IL)-6 to IL-1 provides novel therapeutic opportunities for atheroprotection that focus on the central IL-6 signaling system and ultimately on inhibition of the IL-1β-producing NOD-like receptor family pyrin domain containing 3 inflammasome. Cholesterol crystals, neutrophil extracellular traps, atheroprone flow, and local tissue hypoxia activate the NOD-like receptor family pyrin domain containing 3 inflammasome. As such, a unifying concept of hsCRP as a downstream surrogate biomarker for upstream IL-1β activity has emerged. From a therapeutic perspective, small ischemia studies show reductions in acute-phase hsCRP production with the IL-1 receptor antagonist anakinra and the IL-6 receptor blocker tocilizumab. A phase IIb study conducted among diabetic patients at high vascular risk indicates that canakinumab, a human monoclonal antibody that targets IL-1β, markedly reduces plasma levels of IL-6, hsCRP, and fibrinogen with little change in atherogenic lipids. Canakinumab in now being tested as a method to prevent recurrent cardiovascular events in a randomized trial of 10 065 post-myocardial infarction patients with elevated hsCRP that is fully enrolled and due to complete in 2017. Clinical trials using alternative anti-inflammatory agents active against the CRP/IL-6/IL-1 axis, including low-dose methotrexate and colchicine, are being explored. If successful, these trials will close the loop on the inflammatory hypothesis of atherosclerosis and serve as examples of how fundamental biologic principles can be translated into personalized medical practice.",
+  "type": "academic",
+  "pdf_url": ""
+}

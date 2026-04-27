@@ -1,0 +1,16 @@
+{
+  "id": "src-091",
+  "title": "Nutrition and cancer: A review of the evidence for an anti-cancer diet",
+  "authors": [
+    "Donaldson, Michael S."
+  ],
+  "doi": "10.1186/1475-2891-3-19",
+  "url": "https://openalex.org/W2102634879",
+  "provider": "openalex",
+  "year": 2004,
+  "venue": "Nutrition Journal",
+  "citation_count": 701,
+  "abstract": "It has been estimated that 30-40 percent of all cancers can be prevented by lifestyle and dietary measures alone. Obesity, nutrient sparse foods such as concentrated sugars and refined flour products that contribute to impaired glucose metabolism (which leads to diabetes), low fiber intake, consumption of red meat, and imbalance of omega 3 and omega 6 fats all contribute to excess cancer risk. Intake of flax seed, especially its lignan fraction, and abundant portions of fruits and vegetables will lower cancer risk. Allium and cruciferous vegetables are especially beneficial, with broccoli sprouts being the densest source of sulforophane. Protective elements in a cancer prevention diet include selenium, folic acid, vitamin B-12, vitamin D, chlorophyll, and antioxidants such as the carotenoids (alpha-carotene, beta-carotene, lycopene, lutein, cryptoxanthin). Ascorbic acid has limited benefits orally, but could be very beneficial intravenously. Supplementary use of oral digestive enzymes and probiotics also has merit as anticancer dietary measures. When a diet is compiled according to the guidelines here it is likely that there would be at least a 60-70 percent decrease in breast, colorectal, and prostate cancers, and even a 40-50 percent decrease in lung cancer, along with similar reductions in cancers at other sites. Such a diet would be conducive to preventing cancer and would favor recovery from cancer as well.",
+  "type": "academic",
+  "pdf_url": "https://nutritionj.biomedcentral.com/counter/pdf/10.1186/1475-2891-3-19"
+}

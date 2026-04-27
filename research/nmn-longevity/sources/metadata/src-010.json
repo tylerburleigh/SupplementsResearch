@@ -1,0 +1,29 @@
+{
+  "id": "src-010",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://ingredientssupply.com/product/nmn-powder-%CE%B2-nicotinamide-mononucleotide-powder",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-23T13:36:39.961452+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-010.md",
+  "quality_details": {
+    "content_length": 1934,
+    "alpha_ratio": 0.81,
+    "sentence_count": 14,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

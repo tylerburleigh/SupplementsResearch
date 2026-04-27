@@ -1,0 +1,25 @@
+{
+  "id": "src-370",
+  "title": "Microbiota–gut–brain axis and its therapeutic applications in neurodegenerative diseases",
+  "authors": [
+    "Loh, Jian Sheng",
+    "Mak, Wen Qi",
+    "Tan, Li",
+    "Ng, Chu Xin",
+    "Chan, Hong Hao",
+    "Yeow, Shiau Hueh",
+    "Foo, Jhi Biau",
+    "Ong, Yong Sze",
+    "How, Chee Wun",
+    "Khaw, Kooi Yeong"
+  ],
+  "doi": "10.1038/s41392-024-01743-1",
+  "url": "https://openalex.org/W4392783067",
+  "provider": "openalex",
+  "year": 2024,
+  "venue": "Signal Transduction and Targeted Therapy",
+  "citation_count": 846,
+  "abstract": "The human gastrointestinal tract is populated with a diverse microbial community. The vast genetic and metabolic potential of the gut microbiome underpins its ubiquity in nearly every aspect of human biology, including health maintenance, development, aging, and disease. The advent of new sequencing technologies and culture-independent methods has allowed researchers to move beyond correlative studies toward mechanistic explorations to shed light on microbiome-host interactions. Evidence has unveiled the bidirectional communication between the gut microbiome and the central nervous system, referred to as the \"microbiota-gut-brain axis\". The microbiota-gut-brain axis represents an important regulator of glial functions, making it an actionable target to ameliorate the development and progression of neurodegenerative diseases. In this review, we discuss the mechanisms of the microbiota-gut-brain axis in neurodegenerative diseases. As the gut microbiome provides essential cues to microglia, astrocytes, and oligodendrocytes, we examine the communications between gut microbiota and these glial cells during healthy states and neurodegenerative diseases. Subsequently, we discuss the mechanisms of the microbiota-gut-brain axis in neurodegenerative diseases using a metabolite-centric approach, while also examining the role of gut microbiota-related neurotransmitters and gut hormones. Next, we examine the potential of targeting the intestinal barrier, blood-brain barrier, meninges, and peripheral immune system to counteract glial dysfunction in neurodegeneration. Finally, we conclude by assessing the pre-clinical and clinical evidence of probiotics, prebiotics, and fecal microbiota transplantation in neurodegenerative diseases. A thorough comprehension of the microbiota-gut-brain axis will foster the development of effective therapeutic interventions for the management of neurodegenerative diseases.",
+  "type": "academic",
+  "pdf_url": "https://www.nature.com/articles/s41392-024-01743-1.pdf"
+}

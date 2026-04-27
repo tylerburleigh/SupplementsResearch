@@ -1,0 +1,21 @@
+{
+  "id": "src-390",
+  "title": "Phosphodiesterase-5 inhibitors for cerebral small vessel disease-related ischemic stroke and cognitive decline: systematic review and meta-analysis",
+  "authors": [
+    "Yan, Lingwan",
+    "Chen, Linkun",
+    "Tao, Min",
+    "Zhang, Xiaohan",
+    "He, Rongxin",
+    "Man, Luo"
+  ],
+  "doi": "10.3389/fneur.2026.1776589",
+  "url": "https://www.semanticscholar.org/paper/fb14dccd46b299471f0a27b6c32ba6f122c90f18",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "Frontiers in Neurology",
+  "citation_count": 0,
+  "abstract": "Cerebral small vessel disease (CSVD) represents a major contributor to both cerebral ischemic events and the development of vascular cognitive decline. Based on preclinical evidence, phosphodiesterase-5 inhibitors (PDE5-Is) may benefit neurovascular function, this systematic review and meta-analysis evaluated their effects on cerebral hemodynamics, cognitive function, and safety in patients with cerebral small vessel disease (CSVD).\n\nWe systematically searched four major databases from January 1990 to October 2025 for randomized controlled trials investigating sildenafil or tadalafil in adults with CSVD. Primary outcomes included changes in cerebral blood flow in white matter hyperintensity regions, mean flow velocity in the middle cerebral artery, and performance on standardized cognitive assessments. Data were synthesized using random-effects models.\n\nFour studies involving 236 patients were included. Meta-analysis showed that PDE5-Is significantly increased cerebral blood flow in white matter hyperintensity regions (MD = 1.31 mL/100 g/min, 95% CI: 0.46–2.15,\np\n= 0.002) compared to placebo, but the overall effect of PDE5-Is inhibitors on cerebral blood flow velocity was not statistically significant (\np\n> 0.05). A modest reduction in diastolic blood pressure was also observed (MD = −4.65 mmHg, 95% CI: −5.96 to −3.34,\np\n< 0.00001). The overall risk of adverse events was increased (RR = 2.36, 95% CI: 1.53–3.65,\np\n= 0.0001), but no severe adverse events were reported. No significant cognitive improvements were found across any domain.\n\nPDE5-Is significantly improve cerebral hemodynamic parameters in patients with CSVD, alongside a modest reduction in diastolic blood pressure. But current evidence does not support a significant beneficial effect on cognitive function. Treatment is generally well-tolerated, though the increased risk of adverse events warrants attention.\n\nIdentifier CRD420261360008.",
+  "type": "academic",
+  "pdf_url": ""
+}

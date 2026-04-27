@@ -1,0 +1,42 @@
+{
+  "id": "src-033",
+  "title": "Taurine supplementation for prevention of stroke-like episodes in MELAS: a multicentre, open-label, 52-week phase III trial",
+  "authors": [
+    "Ohsawa, Yutaka",
+    "Hagiwara, Hiroki",
+    "Nishimatsu, Shin-ichiro",
+    "Hirakawa, Akihiro",
+    "Kamimura, Naomi",
+    "Ohtsubo, Hideaki",
+    "Fukai, Yuta",
+    "Murakami, Tatsufumi",
+    "Koga, Yasutoshi",
+    "Goto, Yu-ichi",
+    "Ohta, Shigeo",
+    "Sunada, Yoshihide"
+  ],
+  "year": 2019,
+  "abstract": "ObjectiveThe aim of this study was to evaluate the efficacy and safety of high-dose taurine supplementation for prevention of stroke-like episodes of MELAS (mitochondrial myopathy, encephalopathy, lactic acidosis and stroke-like episodes), a rare genetic disorder caused by point mutations in the mitochondrial DNA that lead to a taurine modification defect at the first anticodon nucleotide of mitochondrial tRNALeu(UUR), resulting in failure to decode codons accurately.MethodsAfter the nationwide survey of MELAS, we conducted a multicentre, open-label, phase III trial in which 10 patients with recurrent stroke-like episodes received high-dose taurine (9 g or 12 g per day) for 52 weeks. The primary endpoint was the complete prevention of stroke-like episodes during the evaluation period. The taurine modification rate of mitochondrial tRNALeu(UUR)was measured before and after the trial.ResultsThe proportion of patients who reached the primary endpoint (100% responder rate) was 60% (95% CI 26.2% to 87.8%). The 50% responder rate, that is, the number of patients achieving a 50% or greater reduction in frequency of stroke-like episodes, was 80% (95% CI 44.4% to 97.5%). Taurine reduced the annual relapse rate of stroke-like episodes from 2.22 to 0.72 (P=0.001). Five patients showed a significant increase in the taurine modification of mitochondrial tRNALeu(UUR)from peripheral blood leukocytes (P&lt;0.05). No severe adverse events were associated with taurine.ConclusionsThe current study demonstrates that oral taurine supplementation can effectively reduce the recurrence of stroke-like episodes and increase taurine modification in mitochondrial tRNALeu(UUR)in MELAS.Trial registration numberUMIN000011908.",
+  "doi": "10.1136/jnnp-2018-317964",
+  "url": "https://doi.org/10.1136/jnnp-2018-317964",
+  "pdf_url": "",
+  "venue": "Journal of Neurology, Neurosurgery &amp; Psychiatry",
+  "citation_count": 123,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-19T11:27:16.512697+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-033.md",
+  "quality_details": {
+    "content_length": 38459,
+    "alpha_ratio": 0.716,
+    "sentence_count": 314,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

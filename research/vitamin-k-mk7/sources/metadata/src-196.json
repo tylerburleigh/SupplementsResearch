@@ -1,0 +1,21 @@
+{
+  "id": "src-196",
+  "title": "Advances in research on the relationship between mitochondrial dysfunction and osteoporosis: a bibliometric study from 2014 to 2024.",
+  "authors": [
+    "Zhang, Yun-Song",
+    "Yu, Jia-Nan",
+    "Han, Ming-Ze",
+    "Si, Bin",
+    "Li, Zhen-Hua",
+    "Han, Ji-Cheng"
+  ],
+  "doi": "10.3389/fmed.2025.1597116",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40678144",
+  "provider": "pubmed",
+  "year": 2025,
+  "venue": "Frontiers in medicine",
+  "citation_count": 0,
+  "abstract": "INTRODUCTION: Osteoporosis, characterized by reduced bone mineral density and increased fracture risk, poses a major health challenge in aging populations. Emerging evidence indicates that mitochondrial dysfunction plays a crucial role in its pathogenesis, though a comprehensive analysis of research trends and therapeutic potential is lacking.\nMETHODS: We conducted a bibliometric analysis of 780 articles from the Web of Science Core Collection (2014-2024) using CiteSpace and VOSviewer to visualize research trends, collaboration networks, and emerging hotspots.\nRESULTS: Annual publications showed a significant upward trend, with China and the United States as leading contributors. Key journals (e.g., Journal of Biological Chemistry, Nature) and core themes were identified: oxidative stress (177 occurrences), apoptosis, mitophagy, and mitochondrial transfer. Cluster analysis revealed emerging frontiers, including ferroptosis and SIRT1 signaling pathways, with rapid citation growth. Interdisciplinary linkages highlighted connections between mitochondrial quality control, redox balance, and bone metabolism.\nDISCUSSION: Therapeutic strategies targeting oxidative stress (e.g., SIRT1 activators, vitamin K2, nanoparticle-based interventions) showed preclinical promise in restoring bone homeostasis. Mitochondrial transfer mechanisms and ferroptosis inhibitors were proposed as novel approaches for bone defect repair and diabetic osteoporosis management. This study provides new molecular insights and future directions for osteoporosis prevention and treatment.",
+  "type": "academic",
+  "pdf_url": ""
+}

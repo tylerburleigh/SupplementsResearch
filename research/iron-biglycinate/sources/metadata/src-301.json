@@ -1,0 +1,18 @@
+{
+  "id": "src-301",
+  "title": "Mitochondrial dynamics in health and disease: mechanisms and potential targets",
+  "authors": [
+    "Chen, Wen",
+    "Zhao, Huakan",
+    "Li, Yongsheng"
+  ],
+  "doi": "10.1038/s41392-023-01547-9",
+  "url": "https://openalex.org/W4386448978",
+  "provider": "openalex",
+  "year": 2023,
+  "venue": "Signal Transduction and Targeted Therapy",
+  "citation_count": 1028,
+  "abstract": "Mitochondria are organelles that are able to adjust and respond to different stressors and metabolic needs within a cell, showcasing their plasticity and dynamic nature. These abilities allow them to effectively coordinate various cellular functions. Mitochondrial dynamics refers to the changing process of fission, fusion, mitophagy and transport, which is crucial for optimal function in signal transduction and metabolism. An imbalance in mitochondrial dynamics can disrupt mitochondrial function, leading to abnormal cellular fate, and a range of diseases, including neurodegenerative disorders, metabolic diseases, cardiovascular diseases and cancers. Herein, we review the mechanism of mitochondrial dynamics, and its impacts on cellular function. We also delve into the changes that occur in mitochondrial dynamics during health and disease, and offer novel perspectives on how to target the modulation of mitochondrial dynamics.",
+  "type": "academic",
+  "pdf_url": "https://www.nature.com/articles/s41392-023-01547-9.pdf"
+}

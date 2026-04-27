@@ -1,0 +1,21 @@
+{
+  "id": "src-267",
+  "title": "Immune modulation by curcumin: The role of interleukin-10",
+  "authors": [
+    "Mollazadeh, Hamid",
+    "Cicero, Arrigo F.G.",
+    "Blesso, Christopher N.",
+    "Pirro, Matteo",
+    "Majeed, Muhammed",
+    "Sahebkar, Amirhossein"
+  ],
+  "doi": "10.1080/10408398.2017.1358139",
+  "url": "https://openalex.org/W2745006122",
+  "provider": "openalex",
+  "year": 2017,
+  "venue": "Critical Reviews in Food Science and Nutrition",
+  "citation_count": 369,
+  "abstract": "Cytokines are small secreted proteins released by different types of cells with specific effects on cellular signaling and communication via binding to their receptors on the cell surface. IL-10 is known to be a pleiotropic and potent anti-inflammatory and immunosuppressive cytokine that is produced by both innate and adaptive immunity cells including dendritic cells, macrophages, mast cells, natural killer cells, eosinophils, neutrophils, B cells, CD8<sup>+</sup> T cells, and T<sub>H</sub>1, T<sub>H</sub>2, and T<sub>H</sub>17 and regulatory T cells. Both direct and indirect activation of the stress axis promotes IL-10 secretion. IL-10 deregulation plays a role in the development of a large number of inflammatory diseases such as neuropathic pain, Parkinson's disease, Alzheimer's disease, osteoarthritis, rheumatoid arthritis, psoriasis, systemic lupus erythematosus, type 1 diabetes, inflammatory bowel disease, and allergy. Curcumin is a natural anti-inflammatory compound able to induce the expression and production of IL-10 and enhancing its action on a large number of tissues. In vitro and in pre-clinical models curcumin is able to modulate the disease pathophysiology of conditions such as pain and neurodegenerative diseases, bowel inflammation, and allergy, but also of infections and cancer through its effect on IL-10 secretion. In humans, at least one part of the positive effects of curcumin on health could be related to its ability to enhance IL-10 -mediated effects.",
+  "type": "academic",
+  "pdf_url": ""
+}

@@ -1,0 +1,29 @@
+{
+  "id": "src-021",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "http://www.iprogressivemed.com/curcumin-and-memory",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-22T14:32:06.455675+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-021.md",
+  "quality_details": {
+    "content_length": 1159,
+    "alpha_ratio": 0.796,
+    "sentence_count": 6,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

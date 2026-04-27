@@ -1,0 +1,22 @@
+{
+  "id": "src-113",
+  "title": "Sex‐specific alterations in NAD+ metabolism in 3xTg Alzheimer’s disease mouse brain assessed by quantitative targeted LC‐MS",
+  "authors": [
+    "Velpen, Vera van der",
+    "Rosenberg, Nadia",
+    "Maillard, Vanille",
+    "Teav, Tony",
+    "Chatton, Jean‐Yves",
+    "Gallart‐Ayala, Héctor",
+    "Ivanišević, Julijana"
+  ],
+  "doi": "10.1111/jnc.15362",
+  "url": "https://openalex.org/W3147476354",
+  "provider": "openalex",
+  "year": 2021,
+  "venue": "Journal of Neurochemistry",
+  "citation_count": 39,
+  "abstract": "Levels of nicotinamide adenine dinucleotide (NAD+) are known to decline with age and have been associated with impaired mitochondrial function leading to neurodegeneration, a key facet of Alzheimer's disease (AD). NAD+synthesis is sustained via tryptophan-kynurenine (Trp-Kyn) pathway as de novo synthesis route, and salvage pathways dependent on the availability of nicotinic acid and nicotinamide. While being currently investigated as a multifactorial disease with a strong metabolic component, AD remains without curative treatment and important sex differences were reported in relation to disease onset and progression. The aim of this study was to reveal the potential deregulation of NAD+metabolism in AD with the direct analysis of NAD+precursors in the mouse brain tissue (wild type (WT) versus triple transgenic (3xTg) AD), using a sex-balanced design. To this end, we developed a quantitative liquid chromatography-tandem mass spectrometry (LC-MS/MS) method, which allowed for the measurement of the full spectrum of NAD+precursors and intermediates in all three pathways. In brain tissue of mice with developed AD symptoms, a decrease in kynurenine (Kyn) versus increase in kynurenic acid (KA) levels were observed in both sexes with a significantly higher increment of KA in males. These alterations in Trp-Kyn pathway might be a consequence of neuroinflammation and a compensatory production of neuroprotective kynurenic acid. In the NAD+ salvage pathway, significantly lower levels of nicotinamide mononucleotide (NMN) were measured in the AD brain of males and females. Depletion of NMN implies the deregulation of salvage pathway critical for maintaining optimal NAD+ levels and mitochondrial and neuronal function.",
+  "type": "academic",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/jnc.15362"
+}

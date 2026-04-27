@@ -1,0 +1,26 @@
+{
+  "id": "src-224",
+  "title": "Role of NAD+ in regulating cellular and metabolic signaling pathways",
+  "authors": [
+    "Amjad, Sara",
+    "Nisar, Sabah",
+    "Bhat, Ajaz A.",
+    "Shah, Ab Rauf",
+    "Frenneaux, Michael",
+    "Fakhro, Khalid A.",
+    "Haris, Mohammad",
+    "Reddy, Ravinder",
+    "Patay, Zoltán",
+    "Baur, Joseph A.",
+    "Bagga, Puneet"
+  ],
+  "doi": "10.1016/j.molmet.2021.101195",
+  "url": "https://openalex.org/W3131427060",
+  "provider": "openalex",
+  "year": 2021,
+  "venue": "Molecular Metabolism",
+  "citation_count": 328,
+  "abstract": "An alteration in the NAD<sup>+</sup>/NADH ratio or the NAD<sup>+</sup> pool size can lead to derailment of the biological system and contribute to various neurodegenerative disorders, aging, and tumorigenesis. Due to the varied distribution of NAD<sup>+</sup>/NADH in different locations within cells, the direct role of impaired NAD<sup>+</sup>-dependent processes in humans remains unestablished. In this regard, longitudinal studies are needed to quantify NAD<sup>+</sup> and its related metabolites. Future research should focus on measuring the fluxes through pathways associated with NAD<sup>+</sup> synthesis and degradation.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.1016/j.molmet.2021.101195"
+}

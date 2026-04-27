@@ -1,0 +1,16 @@
+1133	2	Conclusion
+1213	2	Author Contributions
+1216	2	References
+1235	2	6. Al Olama AA, Kote-Jarai Z, Berndt SI, Conti DV , Schumacher F ,
+1239	2	7. Carruba G, Cocciadiferro L, Di Cristina A, Granata OM, Dolcemascolo C,
+1284	2	21. Platz EA, Leitzmann MF , Rifai N, Kantoff PW , Chen YC, Stampfer MJ,
+1316	2	30. Bouvard V , Loomis D, Guyton KZ, Grosse Y , Ghissassi FE, Benbrahim-
+1324	2	33. Nowell S, Ratnasinghe DL, Ambrosone CB, Williams S, Teague-Ross T,
+1337	2	37. Sinha R, Park Y , Graubard BI, Leitzmann MF , Hollenbeck A, Schatzkin A,
+1345	2	39. Gilsing AM, Weijenberg MP , Goldbohm RA, Dagnelie PC, van den Brandt PA,
+1355	2	42. Giovannucci E, Rimm EB, Colditz GA, Stampfer MJ, Ascherio A, Chute CG,
+1358	2	43. Gann PH, Hennekens CH, Sacks FM, Grodstein F , Giovannucci EL,
+1388	2	52. Aune D, Navarro Rosenblatt DA, Chan DS, Vieira AR, Vieira R, Greenwood DC,
+1392	2	53. Rodriguez C, McCullough ML, Mondul AM, Jacobs EJ, Fakhrabadi-
+1408	2	56. Willett WC, Sacks F , Trichopoulou A, Drescher G, Ferro-Luzzi A, Helsing E,
+1477	2	77. Gann PH, Ma J, Giovannucci E, Willett W , Sacks FM, Hennekens CH,

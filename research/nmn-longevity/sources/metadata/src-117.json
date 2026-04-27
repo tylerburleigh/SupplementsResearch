@@ -1,0 +1,18 @@
+{
+  "id": "src-117",
+  "title": "The NAD Biosynthesis Pathway Mediated by Nicotinamide Phosphoribosyltransferase Regulates Sir2 Activity in Mammalian Cells",
+  "authors": [
+    "Revollo, Javier R.",
+    "Grimm, Andrew A.",
+    "Imai, Shin‐ichiro"
+  ],
+  "doi": "10.1074/jbc.m408388200",
+  "url": "https://openalex.org/W2108536847",
+  "provider": "openalex",
+  "year": 2004,
+  "venue": "Journal of Biological Chemistry",
+  "citation_count": 984,
+  "abstract": "Recent studies have revealed new roles for NAD and its derivatives in transcriptional regulation. The evolutionarily conserved Sir2 protein family requires NAD for its deacetylase activity and regulates a variety of biological processes, such as stress response, differentiation, metabolism, and aging. Despite its absolute requirement for NAD, the regulation of Sir2 function by NAD biosynthesis pathways is poorly understood in mammals. In this study, we determined the kinetics of the NAD biosynthesis mediated by nicotinamide phosphoribosyltransferase (Nampt) and nicotinamide/nicotinic acid mononucleotide adenylyltransferase (Nmnat), and we examined its effects on the transcriptional regulatory function of the mouse Sir2 ortholog, Sir2alpha, in mouse fibroblasts. We found that Nampt was the rate-limiting component in this mammalian NAD biosynthesis pathway. Increased dosage of Nampt, but not Nmnat, increased the total cellular NAD level and enhanced the transcriptional regulatory activity of the catalytic domain of Sir2alpha recruited onto a reporter gene in mouse fibroblasts. Gene expression profiling with oligonucleotide microarrays also demonstrated a significant correlation between the expression profiles of Nampt- and Sir2alpha-overexpressing cells. These findings suggest that NAD biosynthesis mediated by Nampt regulates the function of Sir2alpha and thereby plays an important role in controlling various biological events in mammals.",
+  "type": "academic",
+  "pdf_url": "http://www.jbc.org/article/S0021925820693590/pdf"
+}

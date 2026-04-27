@@ -1,0 +1,24 @@
+{
+  "id": "src-262",
+  "title": "NAD <sup>+</sup> supplementation reduces neuroinflammation and cell senescence in a transgenic mouse model of Alzheimer’s disease via cGAS–STING",
+  "authors": [
+    "Hou, Yujun",
+    "Wei, Yong",
+    "Lautrup, Sofie",
+    "Yang, Beimeng",
+    "Wang, Yue",
+    "Cordonnier, Stephanie A.",
+    "Mattson, Mark P.",
+    "Croteau, Deborah L.",
+    "Bohr, Vilhelm A."
+  ],
+  "doi": "10.1073/pnas.2011226118",
+  "url": "https://openalex.org/W3198479934",
+  "provider": "openalex",
+  "year": 2021,
+  "venue": "Proceedings of the National Academy of Sciences",
+  "citation_count": 481,
+  "abstract": "Alzheimer's disease (AD) is a progressive and fatal neurodegenerative disorder. Impaired neuronal bioenergetics and neuroinflammation are thought to play key roles in the progression of AD, but their interplay is not clear. Nicotinamide adenine dinucleotide (NAD<sup>+</sup>) is an important metabolite in all human cells in which it is pivotal for multiple processes including DNA repair and mitophagy, both of which are impaired in AD neurons. Here, we report that levels of NAD<sup>+</sup> are reduced and markers of inflammation increased in the brains of APP/PS1 mutant transgenic mice with beta-amyloid pathology. Treatment of APP/PS1 mutant mice with the NAD<sup>+</sup> precursor nicotinamide riboside (NR) for 5 mo increased brain NAD<sup>+</sup> levels, reduced expression of proinflammatory cytokines, and decreased activation of microglia and astrocytes. NR treatment also reduced NLRP3 inflammasome expression, DNA damage, apoptosis, and cellular senescence in the AD mouse brains. Activation of cyclic GMP-AMP synthase (cGAS) and stimulator of interferon genes (STING) are associated with DNA damage and senescence. cGAS-STING elevation was observed in the AD mice and normalized by NR treatment. Cell culture experiments using microglia suggested that the beneficial effects of NR are, in part, through a cGAS-STING-dependent pathway. Levels of ectopic (cytoplasmic) DNA were increased in APP/PS1 mutant mice and human AD fibroblasts and down-regulated by NR. NR treatment induced mitophagy and improved cognitive and synaptic functions in APP/PS1 mutant mice. Our findings suggest a role for NAD<sup>+</sup> depletion-mediated activation of cGAS-STING in neuroinflammation and cellular senescence in AD.",
+  "type": "academic",
+  "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/8449423"
+}

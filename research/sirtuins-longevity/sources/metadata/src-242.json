@@ -1,0 +1,23 @@
+{
+  "id": "src-242",
+  "title": "The Sirt1 Activator SRT1720 Mitigates Human Monocyte Activation and Improves Outcome During Gram-Negative Pneumosepsis in Mice",
+  "authors": [
+    "Blot, Mathieu",
+    "Léopold, Valentine",
+    "Beer, R. de",
+    "Florquin, S.",
+    "Butler, Joe M.",
+    "Veer, C. van’t",
+    "Vos, A. D. de",
+    "Poll, T. van der"
+  ],
+  "doi": "10.3390/ijms26199309",
+  "url": "https://www.semanticscholar.org/paper/bfb7deb19cab79956bb0a5d5401eaf8a37b3cd09",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "International Journal of Molecular Sciences",
+  "citation_count": 0,
+  "abstract": "Community-acquired pneumonia (CAP) is a leading cause of death, with mortality linked to an unbalanced host response. Sirtuin (Sirt)1, a histone deacetylase, regulating metabolism and epigenetics, may be fundamental in activating the innate immune response. Sirt1 mRNA expression was significantly reduced in monocytes from CAP patients (n = 76) upon admission compared to healthy controls (n = 42), with levels returning to normal after 30 days. Pharmacological activation of Sirt1 with SRT1720 decreased LPS- and K. pneumoniae-induced IL-6 release in primary human monocytes and decreased NF-κB activation in THP1 cells. In a mouse K. pneumoniae pneumosepsis model, SRT1720 strongly reduced neutrophil influx and degranulation markers in bronchoalveolar lavage fluid, lowered pulmonary concentrations of IL-6 and TNF-α, and reduced lung pathology scores. Simultaneously, it reduced neutrophil content in liver tissue and plasma transaminase levels, alongside a trend toward reduced liver necrosis. Plasma IL-6 and TNF-α were significantly lower in SRT1720-treated mice at 42 h. Finally, while SRT1720 did not impact bacterial loads in the lungs, it reduced bacterial burden in blood, with a similar trend observed in liver homogenates. In conclusion, the Sirt1 activator SRT1720 exerts anti-inflammatory effects on human monocytes, reduces local and systemic inflammation and organ injury, and diminishes bacterial dissemination in murine pneumosepsis.",
+  "type": "academic",
+  "pdf_url": ""
+}

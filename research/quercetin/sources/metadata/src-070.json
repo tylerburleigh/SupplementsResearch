@@ -1,0 +1,22 @@
+{
+  "id": "src-070",
+  "title": "Effects of probiotic supplementation on natural killer cell function in healthy elderly individuals: a meta-analysis of randomized controlled trials",
+  "authors": [
+    "Gui, Qifeng",
+    "Wang, Ange",
+    "Zhao, Xinxiu",
+    "Huang, Shunmei",
+    "Tan, Zhongju",
+    "Xiao, C.",
+    "Yang, Yunmei"
+  ],
+  "doi": "10.1038/s41430-020-0670-z",
+  "url": "https://www.semanticscholar.org/paper/9e5606f0938a5b5772c31018798ec27f4ddd82e3",
+  "provider": "semantic_scholar",
+  "year": 2020,
+  "venue": "European Journal of Clinical Nutrition",
+  "citation_count": 42,
+  "abstract": "To evaluate evidence for the role of probiotic supplementation in enhancing natural killer (NK) cell function in healthy elderly individuals. Five electronic databases were searched, and references of included articles and eligible reviews up to December 2019, with English language and human subject restrictions, were examined. Two independent reviewers identified randomized control trials (RCTs) of probiotic supplementation influencing NK cell function in healthy elderly individuals, assessed the quality of every article, and extracted data for subsequent meta-analysis. We identified six eligible trials including 364 healthy elderly subjects. Trials were heterogeneous in study design and probiotic supplementation (including genus, strain, dose, and duration). Five trials used Lactobacillus interventions alone or in combination with Bifidobacterium . Only one trial focused on Bacillus coagulans . The duration of supplementation ranged from 3 to 12 weeks, and the doses, from 1 × 10 9 to 4 × 10 10 colony-forming units. Pooling data of eligible trials showed that probiotics significantly ( P  < 0.05) increased NK cell activity in healthy elderly individuals (standardized mean difference = 0.777, 95% confidence interval: 0.187‒1.366, P  = 0.01, I 2  = 84.6%). Although we obtained a significant outcome, the data do not provide convincing evidence for associations between probiotic supplementation and enhancement of NK cell function, given the small final number and very large heterogeneity. More RCTs with sufficient sample sizes and long-term follow-up are needed to focus on optimal probiotic dose, species, and duration of supplementation for healthy elderly individuals.",
+  "type": "academic",
+  "pdf_url": "https://www.nature.com/articles/s41430-020-0670-z.pdf"
+}

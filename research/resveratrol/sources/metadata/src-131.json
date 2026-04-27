@@ -1,0 +1,18 @@
+{
+  "id": "src-131",
+  "title": "The Biology of Aging and Cancer: A Brief Overview of Shared and Divergent Molecular Hallmarks",
+  "authors": [
+    "Aunan, Jan Rune",
+    "Cho, William C.",
+    "Søreide, Kjetil"
+  ],
+  "doi": "10.14336/ad.2017.0103",
+  "url": "https://openalex.org/W2761193356",
+  "provider": "openalex",
+  "year": 2017,
+  "venue": "Aging and Disease",
+  "citation_count": 382,
+  "abstract": "Aging is the inevitable time-dependent decline in physiological organ function and is a major risk factor for cancer development. Due to advances in health care, hygiene control and food availability, life expectancy is increasing and the population in most developed countries is shifting to an increasing proportion of people at a cancer susceptible age. Mechanisms of aging are also found to occur in carcinogenesis, albeit with shared or divergent end-results. It is now clear that aging and cancer development either share or diverge in several disease mechanisms. Such mechanisms include the role of genomic instability, telomere attrition, epigenetic changes, loss of proteostasis, decreased nutrient sensing and altered metabolism, but also cellular senescence and stem cell function. Cancer cells and aged cells are also fundamentally opposite, as cancer cells can be thought of as hyperactive cells with advantageous mutations, rapid cell division and increased energy consumption, while aged cells are hypoactive with accumulated disadvantageous mutations, cell division inability and a decreased ability for energy production and consumption. Nonetheless, aging and cancer are tightly interconnected and many of the same strategies and drugs may be used to target both, while in other cases antagonistic pleiotrophy come into effect and inhibition of one can be the activation of the other. Cancer can be considered an aging disease, though the shared mechanisms underpinning the two processes remain unclear. Better understanding of the shared and divergent pathways of aging and cancer is needed.",
+  "type": "academic",
+  "pdf_url": "http://www.aginganddisease.org/EN/article/downloadArticleFile.do?attachType=PDF&id=147594"
+}

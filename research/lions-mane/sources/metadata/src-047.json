@@ -1,0 +1,39 @@
+{
+  "id": "src-047",
+  "title": "Impact of Hericium erinaceus and Ganoderma lucidum metabolites on AhR activation in neuronal HT-22 cells",
+  "authors": [
+    "Tabęcka-Łonczyńska, Anna",
+    "Skóra, Bartosz",
+    "Szlachcikowska, Dominika",
+    "Jastrząb, Rafał",
+    "Marć, Małgorzata Anna",
+    "Mytych, Jennifer",
+    "Koszła, Oliwia",
+    "Sołek, Przemysław",
+    "Szychowski, Konrad A."
+  ],
+  "year": 2025,
+  "abstract": "Abstract\n\nBackground\n\nThe proper functioning of the nervous system determines the homeostasis of the entire body. There are many known approaches designed to positively stimulate the functions of the central nervous system by applying various plants and fungal extracts, but their course of action is poorly understood.\nHericium erinaceus\nand\nGanoderma lucidum\nare examples of fungi with medicinal properties and with a positive health-promoting effect. Therefore, the aim of our study was to evaluate the effect of\nH. erinaceus\nor\nG. lucidum\nM-CFS with their active metabolites alone and/or in co-treatment with CAY10464 [antagonist of aryl hydrocarbon receptor (AhR)] on the metabolic parameters, cell cycle, and selected protein expression.\n\nMethods\nThe study was based on the use of the resazurin reduction assay, flow cytometry analyses, and Western blotting in the mouse hippocampal neuronal cell line (HT-22) in vitro.\n\nResults\nThe obtained results proved no cytotoxicity of the tested metabolites towards the HT-22 cells in the concentration range of 2.5% − 10% of culture medium. The cells treated with the tested compounds were characterized by an increase in the protein expression of SQSTM/p62, PCNA, c-SRC, SOD1, AhR, Beclin 1, and ERK1/2. Moreover, a significant role of AhR in the mechanism of action of the tested metabolites was observed at the protein expression level.\n\nConclusion\nThe observed increase in the proliferation-related markers in the HT-22 cells proves the beneficial protective potential of these M-CFSs. Given the findings, we speculate their positive impact on the cognitive functions in the central nervous system.\n\nClinical trial registration date\nNot applicable.\n\nClinical trial number\nNot applicable.\n\nGraphical Abstract",
+  "doi": "10.1007/s43440-025-00767-w",
+  "url": "https://doi.org/10.1007/s43440-025-00767-w",
+  "pdf_url": "",
+  "venue": "Pharmacological Reports",
+  "citation_count": 1,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-23T15:36:57.668816+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-047.md",
+  "quality_details": {
+    "content_length": 82845,
+    "alpha_ratio": 0.666,
+    "sentence_count": 881,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

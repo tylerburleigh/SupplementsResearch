@@ -1,0 +1,28 @@
+8	2	Abstract
+48	2	Background
+89	2	Methods
+121	2	Statistical Analysis
+195	2	Results
+235	2	Discussion
+418	2	Conclusions
+430	2	Acknowledgements
+472	2	Competing Interests
+487	2	References
+494	2	3. Homocysteine and risk of ischemic heart disease and stroke: a meta-
+499	2	5. Holmes MV, Newcombe P, Hubacek JA, Sofat R, Ricketts SL, Cooper J,
+561	2	19. Miao L, Deng GX, Yin RX, Nie RJ, Yang S, Wang Y, Li H: No causal effects of
+568	2	21. Nielsen JB, Thorolfsdottir RB, Fritsche LG, Zhou W, Skov MW, Graham SE,
+588	2	24. Malik R, Chauhan G, Traylor M, Sargurupremraj M, Okada Y, Mishra A,
+593	2	25. Woo D, Falcone GJ, Devan WJ, Brown WM, Biffi A, Howard TD, Anderson
+608	2	26. Bakker MK, van der Spek RAA, van Rheenen W, Morel S, Bourcier R,
+613	2	27. Sudlow C, Gallacher J, Allen N, Beral V, Burton P, Danesh J, Downey P, Elliott
+626	2	30. Grarup N, Sulem P, Sandholt CH, Thorleifsson G, Ahluwalia TS,
+634	2	31. Tanaka T, Scheet P, Giusti B, Bandinelli S, Piras MG, Usala G, Lai S, Mulas A,
+655	2	36. Kamat MA, Blackshaw JA, Young R, Surendran P, Burgess S, Danesh J,
+672	2	41. Hemani G, Zheng J, Elsworth B, Wade KH, Haberland V, Baird D, Laurin C,
+677	2	42. Li Y, Huang T, Zheng Y, Muka T, Troup J, Hu FB: Folic Acid Supplementation
+680	2	43. Collaboration HLT: Lowering blood homocysteine with folic acid based
+701	2	49. Li Z, Sun L, Zhang H, Liao Y, Wang D, Zhao B, Zhu Z, Zhao J, Ma A, Han Y,
+716	2	52. Wang ZM, Zhou B, Nie ZL, Gao W, Wang YS, Zhao H, Zhu J, Yan JJ, Yang ZJ,
+743	2	58. Yuan S, Carter P, Vithayathil M, Kar S, Mason AM, Burgess S, Larsson SC:
+746	2	59. Hazra A, Kraft P, Lazarus R, Chen C, Chanock SJ, Jacques P, Selhub J, Hunter

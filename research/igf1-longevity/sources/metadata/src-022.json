@@ -1,0 +1,26 @@
+{
+  "id": "src-022",
+  "title": "Longevity‐related molecular pathways are subject to midlife “switch” in humans",
+  "authors": [
+    "Timmons, J.",
+    "Volmar, C.",
+    "Crossland, H.",
+    "Phillips, B.",
+    "Sood, S.",
+    "Janczura, K.",
+    "Törmäkangas, T.",
+    "Kujala, U.",
+    "Kraus, W.",
+    "Atherton, P.",
+    "Wahlestedt, C."
+  ],
+  "doi": "10.1111/acel.12970",
+  "url": "https://www.semanticscholar.org/paper/ac75be590a5b0a0110838a7130a05babb1db540a",
+  "provider": "semantic_scholar",
+  "year": 2019,
+  "venue": "Aging Cell",
+  "citation_count": 27,
+  "abstract": "Emerging evidence indicates that molecular aging may follow nonlinear or discontinuous trajectories. Whether this occurs in human neuromuscular tissue, particularly for the noncoding transcriptome, and independent of metabolic and aerobic capacities, is unknown. Applying our novel RNA method to quantify tissue coding and long noncoding RNA (lncRNA), we identified ~800 transcripts tracking with age up to ~60 years in human muscle and brain. In silico analysis demonstrated that this temporary linear “signature” was regulated by drugs, which reduce mortality or extend life span in model organisms, including 24 inhibitors of the IGF‐1/PI3K/mTOR pathway that mimicked, and 5 activators that opposed, the signature. We profiled Rapamycin in nondividing primary human myotubes (n = 32 HTA 2.0 arrays) and determined the transcript signature for reactive oxygen species in neurons, confirming that our age signature was largely regulated in the “pro‐longevity” direction. Quantitative network modeling demonstrated that age‐regulated ncRNA equaled the contribution of protein‐coding RNA within structures, but tended to have a lower heritability, implying lncRNA may better reflect environmental influences. Genes ECSIT, UNC13, and SKAP2 contributed to a network that did not respond to Rapamycin, and was associated with “neuron apoptotic processes” in protein–protein interaction analysis (FDR = 2.4%). ECSIT links inflammation with the continued age‐related downwards trajectory of mitochondrial complex I gene expression (FDR < 0.01%), implying that sustained inhibition of ECSIT may be maladaptive. The present observations link, for the first time, model organism longevity programs with the endogenous but temporary genome‐wide responses to aging in humans, revealing a pattern that may ultimately underpin personalized rates of health span.",
+  "type": "academic",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/acel.12970"
+}

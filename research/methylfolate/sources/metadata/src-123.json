@@ -1,0 +1,22 @@
+{
+  "id": "src-123",
+  "title": "Adjunctive Nutraceuticals for Depression: A Systematic Review and Meta-Analyses.",
+  "authors": [
+    "Sarris, Jerome",
+    "Murphy, Jenifer",
+    "Mischoulon, David",
+    "Papakostas, George I",
+    "Fava, Maurizio",
+    "Berk, Michael",
+    "Ng, Chee H"
+  ],
+  "doi": "10.1176/appi.ajp.2016.15091228",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/27113121",
+  "provider": "pubmed",
+  "year": 2016,
+  "venue": "The American journal of psychiatry",
+  "citation_count": 0,
+  "abstract": "OBJECTIVE: There is burgeoning interest in augmentation strategies for improving inadequate response to antidepressants. The adjunctive use of standardized pharmaceutical-grade nutrients, known as nutraceuticals, has the potential to modulate several neurochemical pathways implicated in depression. While many studies have been conducted in this area, to date no specialized systematic review (or meta-analysis) has been conducted.\nMETHOD: A systematic search of PubMed, CINAHL, Cochrane Library, and Web of Science was conducted up to December 2015 for clinical trials using adjunctive nutrients for depression. Where sufficient data were available, a random-effects model analyzed the standard mean difference between treatment and placebo in the change from baseline to endpoint, combining the effect size data. Funnel plot and heterogeneity analyses were also performed.\nRESULTS: Primarily positive results were found for replicated studies testing S-adenosylmethionine (SAMe), methylfolate, omega-3 (primarily EPA or ethyl-EPA), and vitamin D, with positive isolated studies for creatine, folinic acid, and an amino acid combination. Mixed results were found for zinc, folic acid, vitamin C, and tryptophan, with nonsignificant results for inositol. No major adverse effects were noted in the studies (aside from minor digestive disturbance). A meta-analysis of adjunctive omega-3 versus placebo revealed a significant and moderate to strong effect in favor of omega-3. Conversely, a meta-analysis of folic acid revealed a nonsignificant difference from placebo. Marked study heterogeneity was found in a Higgins test for both omega-3 and folic acid studies; funnel plots also revealed asymmetry (reflecting potential study bias).\nCONCLUSIONS: Current evidence supports adjunctive use of SAMe, methylfolate, omega-3, and vitamin D with antidepressants to reduce depressive symptoms.",
+  "type": "academic",
+  "pdf_url": ""
+}

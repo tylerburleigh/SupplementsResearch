@@ -1,0 +1,37 @@
+{
+  "id": "src-140",
+  "title": "Effect of creatine supplementation on cognitive function and mood",
+  "authors": [
+    "Walczak, Kamil",
+    "Krasnoborska, Julia",
+    "Samojedny, Sylwia",
+    "Superson, Maciej",
+    "Szmyt, Katarzyna",
+    "Szymańska, Katarzyna",
+    "Wilk-Trytko, Klaudia"
+  ],
+  "year": 2024,
+  "abstract": "Background: Creatine, a naturally occurring compound plays a crucial role in cellular energy metabolism, particularly in tissues with high energy demands like muscles and the brain. Beyond its well-established role in physical performance enhancement, recent research has revealed its potential benefits for cognitive functions and mood regulation. This review paper aims to comprehensively analyze the existing literature on creatine supplementation's effects on cognitive functions and mood.\nState of Knowledge: Findings suggest that creatine supplementation enhances memory, attention, and executive functions, especially under conditions of stress or sleep deprivation. Moreover, it exhibits mood-stabilizing effects, potentially offering relief for symptoms of depression and fatigue. Creatine's ability to augment brain energy metabolism, alongside its neuroprotective properties, underlies its cognitive and mood-enhancing effects. While generally safe, caution is advised, particularly in populations with kidney diseases or those using medications affecting kidney function.\nSummary: Creatine emerges as a promising adjunct therapy for enhancing cognitive functions and promoting emotional well-being beyond its traditional role in physical performance.The review underscores the need for further research to elucidate the precise mechanisms of creatine's effects and explore its synergistic potential with other cognitive-enhancing supplements.",
+  "doi": "10.12775/jehs.2024.73.51712",
+  "url": "https://doi.org/10.12775/jehs.2024.73.51712",
+  "pdf_url": "",
+  "venue": "Journal of Education, Health and Sport",
+  "citation_count": 4,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T13:58:43.793616+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-140.md",
+  "quality_details": {
+    "content_length": 28767,
+    "alpha_ratio": 0.778,
+    "sentence_count": 275,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

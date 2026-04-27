@@ -1,0 +1,26 @@
+{
+  "id": "src-239",
+  "title": "Blood-Based Biomarkers for Alzheimer’s Disease Diagnosis and Progression: An Overview",
+  "authors": [
+    "Varesi, Angelica",
+    "Carrara, Adelaide",
+    "Pires, Vitor Gomes",
+    "Floris, Valentina",
+    "Pierella, Elisa",
+    "Savioli, Gabriele",
+    "Prasad, Sakshi",
+    "Esposito, Ciro",
+    "Ricevuti, Giovanni",
+    "Chirumbolo, Salvatore",
+    "Pascale, Alessia"
+  ],
+  "doi": "10.3390/cells11081367",
+  "url": "https://openalex.org/W4224015539",
+  "provider": "openalex",
+  "year": 2022,
+  "venue": "Cells",
+  "citation_count": 123,
+  "abstract": "Alzheimer's Disease (AD) is a progressive neurodegenerative disease characterized by amyloid-β (Aβ) plaque deposition and neurofibrillary tangle accumulation in the brain. Although several studies have been conducted to unravel the complex and interconnected pathophysiology of AD, clinical trial failure rates have been high, and no disease-modifying therapies are presently available. Fluid biomarker discovery for AD is a rapidly expanding field of research aimed at anticipating disease diagnosis and following disease progression over time. Currently, Aβ<sub>1-42</sub>, phosphorylated tau, and total tau levels in the cerebrospinal fluid are the best-studied fluid biomarkers for AD, but the need for novel, cheap, less-invasive, easily detectable, and more-accessible markers has recently led to the search for new blood-based molecules. However, despite considerable research activity, a comprehensive and up-to-date overview of the main blood-based biomarker candidates is still lacking. In this narrative review, we discuss the role of proteins, lipids, metabolites, oxidative-stress-related molecules, and cytokines as possible disease biomarkers. Furthermore, we highlight the potential of the emerging miRNAs and long non-coding RNAs (lncRNAs) as diagnostic tools, and we briefly present the role of vitamins and gut-microbiome-related molecules as novel candidates for AD detection and monitoring, thus offering new insights into the diagnosis and progression of this devastating disease.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2073-4409/11/8/1367/pdf?version=1650200615"
+}

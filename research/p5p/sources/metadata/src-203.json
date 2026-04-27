@@ -1,0 +1,24 @@
+{
+  "id": "src-203",
+  "title": "Enhancement of 5-Fluorouracil Cytotoxicity by Pyridoxal 5'-Phosphate and Folinic Acid in Tandem.",
+  "authors": [
+    "Machover, David",
+    "Goldschmidt, Emma",
+    "Mollicone, Rosella",
+    "Haghighi-Rad, Farhad",
+    "Desterke, Christophe",
+    "Gaston-Mathé, Yann",
+    "Saffroy, Raphaël",
+    "Boucheix, Claude",
+    "Dairou, Julien"
+  ],
+  "doi": "10.1124/jpet.118.249367",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/29858389",
+  "provider": "pubmed",
+  "year": 2018,
+  "venue": "The Journal of pharmacology and experimental therapeutics",
+  "citation_count": 0,
+  "abstract": "The current study originates from the assumption that, in tumors, levels of naturally occurring pyridoxal 5'-phosphate (PLP) are too small to allow conversion of tetra hydro pteroylglutamate (H4PteGlu) into methylene tetra hydro pteroylglutamate (CH2-H4PteGlu) in amounts required to improve inhibition of thymidylate synthase by 5-fluorouracil (FUra) through ternary complex stabilization. The hypothesis relates to the low affinity for cofactor of the PLP-dependent serine hydroxymethyl transferase (SHMT), the enzyme that catalyzes formation of CH2-H4PteGlu by transfer of the Cβ of serine to H4PteGlu. Intracellular concentrations of PLP are smaller than the dissociation constant of SHMT for cofactor, which suggests that enzyme activity should be sensitive to PLP level changes. Three cancer cell lines were supplemented with PLP to investigate the influence of this cofactor on FUra cytotoxicity. Cells were exposed to FUra, FUra and folinic acid (FA), FUra and PLP, and FUra combined with both FA and PLP. The median-effect principle for concentration-effect analysis and combination indices were used to determine interactions on cytotoxicity. FUra cytotoxicity in vitro was enhanced by FA and PLP in tandem. Synergistic cytotoxic interaction of FUra with FA and PLP was demonstrated in HT29 and L1210 cells. Summation was found in HCT116 cells. Parenteral pyridoxamine was administered in mice to explore erythrocyte production of PLP in vivo. Cofactor attained levels in the range of the KD for binding to SHMT, and it was rapidly cleared from cells. Pharmacokinetics of pyridoxamine suggests that modulation of FUra by vitamin B6 could be achieved in vivo.",
+  "type": "academic",
+  "pdf_url": ""
+}

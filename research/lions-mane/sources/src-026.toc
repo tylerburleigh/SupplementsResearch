@@ -1,0 +1,16 @@
+31	2	Abstract
+140	2	Materials And Methods
+201	2	Results
+254	2	Discussion
+333	2	Reference
+334	2	1. Daniel JB, Charles F, Reynolds III, Timothy HM, Susan RB
+348	2	5. Gnahn H, Hefti F, Heumann R, Schwab M E and Thoenen H
+352	2	6. Hatayama T, Nagano M, Yamaguchi N, Kumagai S and Oh -
+357	2	7. Hatatama T, Nagano M, Yamaguchi N, Kumagai S and Oh -
+369	2	10. Ikeda T, Makita K, Ishitani K, Takamatsu K, Horiguchi F
+377	2	12. Kawagishi H, Ando M, Sakamoto H, Yoshida S, Ojima F,
+382	2	13. Kawagishi H, Ando M, Shinba K, Sakamoto H, Yoshida S,
+389	2	15. Kawagishi H, Shimada A, Hosokawa S, Mori H, Sakamoto H,
+394	2	16. Lee E W, Shizuki K, Hosokawa S, Suzuki M, Suganuma H,
+399	2	17. Meng G, Jie A, Hong-Zhou L, Chuan-Fang W, Yi-Jin L,
+413	2	20. Nagai K, Chiba A, Nishino T, Kubota T and Kawagishi H

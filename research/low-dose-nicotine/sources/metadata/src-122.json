@@ -1,0 +1,22 @@
+{
+  "id": "src-122",
+  "title": "Inhibition of specific HDACs and sirtuins suppresses pathogenesis in a Drosophila model of Huntington’s disease",
+  "authors": [
+    "Pallos, Judit",
+    "Bodai, László",
+    "Lukácsovich, Tamás",
+    "Purcell, Judith",
+    "Steffan, Joan S.",
+    "Thompson, Leslie M.",
+    "Marsh, Joan"
+  ],
+  "doi": "10.1093/hmg/ddn273",
+  "url": "https://openalex.org/W2106012958",
+  "provider": "openalex",
+  "year": 2008,
+  "venue": "Human Molecular Genetics",
+  "citation_count": 268,
+  "abstract": "Huntington's disease (HD) is associated with transcriptional dysregulation, and multiple studies with histone deacetylase (HDAC) inhibitors suggest that global approaches for restoring transcriptional balance and appropriate protein acetylation are therapeutically promising. To determine whether more targeted approaches might be effective, we have tested the impact of all the HDACs in Drosophila on Huntingtin (Htt)-induced pathology. Among the zinc-dependent or 'classic' HDACs, we find that neurodegeneration is most sensitive to levels of Rpd3. We also find that among the NAD 1 -dependent class III deacetylases, genetic or pharmacological reduction of either Sir2 or Sirt2 provides neuroprotection to Htt-challenged animals and that even greater neuroprotection is achieved when Rpd3 and Sir2 are simultaneously reduced. Our experiments suggest that longevity promoting strategies may be distinct from those that protect against neurodegeneration in Drosophila challenged with mutant human Htt. These results highlight a novel therapeutic approach for HD in the form of Sir2 inhibition and possible combinatorial inhibition of Sir2 and Rpd3.",
+  "type": "academic",
+  "pdf_url": "https://academic.oup.com/hmg/article-pdf/17/23/3767/13927773/ddn273.pdf"
+}

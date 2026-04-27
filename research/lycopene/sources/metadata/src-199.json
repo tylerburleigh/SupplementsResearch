@@ -1,0 +1,16 @@
+{
+  "id": "src-199",
+  "title": "The failure of cancer chemoprevention",
+  "authors": [
+    "Potter, John D."
+  ],
+  "doi": "10.1093/carcin/bgu063",
+  "url": "https://openalex.org/W2109193464",
+  "provider": "openalex",
+  "year": 2014,
+  "venue": "Carcinogenesis",
+  "citation_count": 72,
+  "abstract": "Chemoprevention is proposed as a clinical analogue of population prevention, aimed at reducing likelihood of disease progression, not across the population, but in identified high-risk individuals and not by behavioral or lifestyle modification, but by the use of pharmaceutical agents. Cardiovascular chemoprevention is successful via control of hyperlipidemias and hypertension. However, chemoprevention of cancer is an almost universal failure: not only are some results null; even more frequently, there is an excess of disease, including disease that the agents were chosen specifically to reduce. A brief introduction is followed by the evidence for a wide variety of agents and their largely deleterious, sometimes null, and in one case, largely beneficial, consequences as possible chemopreventives. The agents include (i) those that are food derived and their synthetic analogues: β-carotene, folic acid, retinol and retinoids, vitamin E, multivitamin supplements, vitamin C, calcium and selenium and (ii) agents targeted at metabolic and hormonal pathways: statins, estrogen and antagonists, 5α-reductase inhibitors. There are two agents for which there is good evidence of benefit when the strategy is focused on those at defined high risk but where wider application is much more problematic: aspirin and tamoxifen. The major problems with cancer chemoprevention are presented. This is followed by a hypothesis to explain the failure of cancer chemoprevention as an enterprise, arguing that the central tenets that underpin it are flawed and showing why, far from doing good, cancer chemoprevention causes harm.",
+  "type": "academic",
+  "pdf_url": "https://academic.oup.com/carcin/article-pdf/35/5/974/763639/bgu063.pdf"
+}

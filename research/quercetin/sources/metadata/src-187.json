@@ -1,0 +1,20 @@
+{
+  "id": "src-187",
+  "title": "Exploring the Pharmacological Mechanism of Quercetin-Resveratrol Combination for Polycystic Ovary Syndrome: A Systematic Pharmacological Strategy-Based Research",
+  "authors": [
+    "Yang, Kailin",
+    "Zeng, Liuting",
+    "Bao, Tingting",
+    "Long, Zhiyong",
+    "Jin, Bing"
+  ],
+  "doi": "10.1038/s41598-019-54408-3",
+  "url": "https://www.semanticscholar.org/paper/6ad93f55a914a549771529b6c84fefb34ac5de4b",
+  "provider": "semantic_scholar",
+  "year": 2019,
+  "venue": "Scientific Reports",
+  "citation_count": 17,
+  "abstract": "Resveratrol and quercetin have effects on polycystic ovary syndrome (PCOS). Hence, resveratrol combined with quercetin may have better effects on it. However, because of the limitations in animal and human experiments, the pharmacological and molecular mechanism of quercetin-resveratrol combination (QRC) remains to be clarified. In this research, a systematic pharmacological approach comprising multiple compound target collection, multiple potential target prediction, and network analysis was used for comparing the characteristic of resveratrol, quercetin and QRC, and exploring the mechanism of QRC. After that, four networks were constructed and analyzed: (1) compound-compound target network; (2) compound-potential target network; (3) QRC-PCOS PPI network; (4) QRC-PCOS-other human proteins (protein-protein interaction) PPI network. Through GO and pathway enrichment analysis, it can be found that three compounds focus on different biological processes and pathways; and it seems that QRC combines the characteristics of resveratrol and quercetin. The in-depth study of QRC further showed more PCOS-related biological processes and pathways. Hence, this research not only offers clues to the researcher who is interested in comparing the differences among resveratrol, quercetin and QRC, but also provides hints for the researcher who wants to explore QRC’s various synergies and its pharmacological and molecular mechanism.",
+  "type": "academic",
+  "pdf_url": "https://www.nature.com/articles/s41598-019-54408-3.pdf"
+}

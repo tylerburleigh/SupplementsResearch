@@ -1,0 +1,17 @@
+{
+  "id": "src-077",
+  "title": "Concepts and Controversies in Evaluating Vitamin K Status in Population-Based Studies",
+  "authors": [
+    "Shea, M. Kyla",
+    "Booth, Sarah"
+  ],
+  "doi": "10.3390/nu8010008",
+  "url": "https://openalex.org/W2196930892",
+  "provider": "openalex",
+  "year": 2016,
+  "venue": "Nutrients",
+  "citation_count": 191,
+  "abstract": "A better understanding of vitamin K's role in health and disease requires the assessment of vitamin K nutritional status in population and clinical studies. This is primarily accomplished using dietary questionnaires and/or biomarkers. Because food composition databases in the US are most complete for phylloquinone (vitamin K1, the primary form in Western diets), emphasis has been on phylloquinone intakes and associations with chronic diseases. There is growing interest in menaquinone (vitamin K2) intakes for which the food composition databases need to be expanded. Phylloquinone is commonly measured in circulation, has robust quality control schemes and changes in response to phylloquinone intake. Conversely, menaquinones are generally not detected in circulation unless large quantities are consumed. The undercarboxylated fractions of three vitamin K-dependent proteins are measurable in circulation, change in response to vitamin K supplementation and are modestly correlated. Since different vitamin K dependent proteins are implicated in different diseases the appropriate vitamin K-dependent protein biomarker depends on the outcome under study. In contrast to other nutrients, there is no single biomarker that is considered a gold-standard measure of vitamin K status. Most studies have limited volume of specimens. Strategic decisions, guided by the research question, need to be made when deciding on choice of biomarkers.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2072-6643/8/1/8/pdf?version=1451707840"
+}

@@ -1,0 +1,8 @@
+83	2	Ethods
+179	2	Analysis
+207	2	Esults
+436	2	Discussion
+545	2	Acknowledgments
+551	2	References
+558	2	3. Rantanen T, Volpato S, Ferrucci L, Heikkinen E, Fried LP, Guralnik
+605	2	19. Brach JS, Simonsick EM, Kritchevsky S, Yaffe K, Newman AB, for the

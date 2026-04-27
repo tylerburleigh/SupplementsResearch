@@ -1,0 +1,26 @@
+{
+  "id": "src-192",
+  "title": "Equilibrative Nucleoside Transporters Mediate the Import of Nicotinamide Riboside and Nicotinic Acid Riboside into Human Cells",
+  "authors": [
+    "Khodorkovskiy, Mikhail",
+    "Kropotov, Andrey",
+    "Kulikova, Veronika",
+    "Migaud, Marie E.",
+    "Nerinovski, Kirill",
+    "Nikiforov, Andrey",
+    "Solovjeva, Ljudmila",
+    "Sudnitsyna, Julia",
+    "Svetlova, Maria",
+    "Yakimov, Alexander",
+    "Ziegler, Mathias"
+  ],
+  "doi": "10.3390/ijms22031391",
+  "url": "https://doi.org/10.3390/ijms22031391",
+  "provider": "core",
+  "year": 2021,
+  "venue": "International Journal of Molecular Sciences",
+  "citation_count": 0,
+  "abstract": "Nicotinamide riboside (NR), a new form of vitamin B3, is an effective precursor of nicotinamide adenine dinucleotide (NAD+) in human and animal cells. The introduction of NR into the body effectively increases the level of intracellular NAD+ and thereby restores physiological functions that are weakened or lost in experimental models of aging and various pathologies. Despite the active use of NR in applied biomedicine, the mechanism of its transport into mammalian cells is currently not understood. In this study, we used overexpression of proteins in HEK293 cells, and metabolite detection by NMR, to show that extracellular NR can be imported into cells by members of the equilibrative nucleoside transporter (ENT) family ENT1, ENT2, and ENT4. After being imported into cells, NR is readily metabolized resulting in Nam generation. Moreover, the same ENT-dependent mechanism can be used to import the deamidated form of NR, nicotinic acid riboside (NAR). However, NAR uptake into HEK293 cells required the stimulation of its active utilization in the cytosol such as phosphorylation by NR kinase. On the other hand, we did not detect any NR uptake mediated by the concentrative nucleoside transporters (CNT) CNT1, CNT2, or CNT3, while overexpression of CNT3, but not CNT1 or CNT2, moderately stimulated NAR utilization by HEK293 cells.publishedVersio",
+  "type": "academic",
+  "pdf_url": "https://core.ac.uk/download/519745526.pdf"
+}

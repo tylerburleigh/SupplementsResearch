@@ -1,0 +1,21 @@
+{
+  "id": "src-196",
+  "title": "The influence of diet on anti-cancer immune responsiveness",
+  "authors": [
+    "Soldati, Laura",
+    "Renzo, Laura Di",
+    "Jirillo, Emilio",
+    "Ascierto, Paolo A.",
+    "Marincola, Francesco M.",
+    "Lorenzo, Antonino De"
+  ],
+  "doi": "10.1186/s12967-018-1448-0",
+  "url": "https://openalex.org/W2803961606",
+  "provider": "openalex",
+  "year": 2018,
+  "venue": "Journal of Translational Medicine",
+  "citation_count": 240,
+  "abstract": "Immunotherapy has matured into standard treatment for several cancers, but much remains to be done to extend the reach of its effectiveness particularly to cancers that are resistant within each indication. This review proposes that nutrition can affect and potentially enhance the immune response against cancer. The general mechanisms that link nutritional principles to immune function and may influence the effectiveness of anticancer immunotherapy are examined. This represents also the premise for a research project aimed at identifying the best diet for immunotherapy enhancement against tumours (D.I.E.T project). Particular attention is turned to the gut microbiota and the impact of its composition on the immune system. Also, the dietary patterns effecting immune function are discussed including the value of adhering to a healthy diets such as the Mediterranean, Veg, Japanese, or a Microbiota-regulating diet, the very low ketogenic diet, which have been demonstrated to lower the risk of developing several cancers and reduce the mortality associated with them. Finally, supplements, as omega-3 and polyphenols, are discussed as potential approaches that could benefit healthy dietary and lifestyle habits in the context of immunotherapy.",
+  "type": "academic",
+  "pdf_url": "https://translational-medicine.biomedcentral.com/track/pdf/10.1186/s12967-018-1448-0"
+}

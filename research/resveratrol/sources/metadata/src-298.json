@@ -1,0 +1,19 @@
+{
+  "id": "src-298",
+  "title": "AMPK activation: a therapeutic target for type 2 diabetes?",
+  "authors": [
+    "Saha, Asish K.",
+    "Coughlan, Kimberly A.",
+    "Valentine, Rudy J.",
+    "Ruderman, Neil B."
+  ],
+  "doi": "10.2147/dmso.s43731",
+  "url": "https://openalex.org/W1969976773",
+  "provider": "openalex",
+  "year": 2014,
+  "venue": "Diabetes Metabolic Syndrome and Obesity",
+  "citation_count": 429,
+  "abstract": "Type 2 diabetes (T2D) is a metabolic disease characterized by insulin resistance, β-cell dysfunction, and elevated hepatic glucose output. Over 350 million people worldwide have T2D, and the International Diabetes Federation projects that this number will increase to nearly 600 million by 2035. There is a great need for more effective treatments for maintaining glucose homeostasis and improving insulin sensitivity. AMP-activated protein kinase (AMPK) is an evolutionarily conserved serine/threonine kinase whose activation elicits insulin-sensitizing effects, making it an ideal therapeutic target for T2D. AMPK is an energy-sensing enzyme that is activated when cellular energy levels are low, and it signals to stimulate glucose uptake in skeletal muscles, fatty acid oxidation in adipose (and other) tissues, and reduces hepatic glucose production. There is substantial evidence suggesting that AMPK is dysregulated in animals and humans with metabolic syndrome or T2D, and that AMPK activation (physiological or pharmacological) can improve insulin sensitivity and metabolic health. Numerous pharmacological agents, natural compounds, and hormones are known to activate AMPK, either directly or indirectly - some of which (for example, metformin and thiazolidinediones) are currently used to treat T2D. This paper will review the regulation of the AMPK pathway and its role in T2D, some of the known AMPK activators and their mechanisms of action, and the potential for future improvements in targeting AMPK for the treatment of T2D.",
+  "type": "academic",
+  "pdf_url": "https://www.dovepress.com/getfile.php?fileID=20553"
+}

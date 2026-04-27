@@ -1,0 +1,23 @@
+{
+  "id": "src-212",
+  "title": "A pilot pharmacokinetic and Metabolite identification study of Erinacine A in a Single landrace pig model",
+  "authors": [
+    "Chen, Ying-Yu",
+    "Lin, Ting-Wei",
+    "Li, I-Chen",
+    "Tsung, Lin",
+    "Hou, Chun-Hsiang",
+    "Yang, Chi-Yu",
+    "Li, Tsung-Ju",
+    "Chen, Chin-Chu"
+  ],
+  "doi": "10.1016/j.heliyon.2024.e37850",
+  "url": "https://www.semanticscholar.org/paper/64ee3a06a72cdd4bea63dfec0de1bba869425b84",
+  "provider": "semantic_scholar",
+  "year": 2024,
+  "venue": "Heliyon",
+  "citation_count": 3,
+  "abstract": "Erinacine A has been proven to have the ability to protect nerves and have the benefit of neurohealth. However, the pharmacokinetic and metabolites study of erinacine A in pigs, whose physiology and anatomy are similar to humans, have not been reported. In this study, 5 mg/kg of erinacine A was intravenously administered to the landrace pig. Blood, cerebrospinal fluid, and brain tissue samples were collected and analyzed by HPLC-QQQ/MS and UPLC-QTOF/MS. The results indicated the following pharmacokinetic parameters in plasma samples: with an area under the plasma concentration versus time curve (AUC) were 38.02 ± 0.03 mg∙min/L (AUC0-60) and 43.60 ± 0.06 mg∙min/L (AUC0-∞), clearance (CL) was 0.11 ± 0.00 L/min∙kg, volume of distribution (Vd) was 4.24 ± 0.00 L/kg, and terminal half-life (T1/2β) was 20.85 ± 0.03 min. In the cerebrospinal fluid samples, erinacine A was detected after 15 min and the highest concentration (5.26 ± 0.58 μg/L) was observed at 30 min. In the brain tissue sample, 77.45 ± 0.58 μg/L of erinacine A was found. In the study of metabolites, there were 6 identical metabolites in plasma and brain tissue. To our surprise, erinacine B was found to be the metabolite of erinacine A, and its concentration increased over time as erinacine A was metabolized. In summary, this study is the first to demonstrate that erinacine A can be found in the cerebrospinal fluid of landrace pigs. Additionally, the metabolite identification of erinacine A in landrace pigs is also investigated.",
+  "type": "academic",
+  "pdf_url": ""
+}

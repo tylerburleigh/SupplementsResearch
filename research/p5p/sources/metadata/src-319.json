@@ -1,0 +1,19 @@
+{
+  "id": "src-319",
+  "title": "Protein crystal microspectrophotometry.",
+  "authors": [
+    "Ronda, Luca",
+    "Bruno, Stefano",
+    "Bettati, Stefano",
+    "Mozzarelli, Andrea"
+  ],
+  "doi": "10.1016/j.bbapap.2010.12.008",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/21184848",
+  "provider": "pubmed",
+  "year": 2011,
+  "venue": "Biochimica et biophysica acta",
+  "citation_count": 0,
+  "abstract": "Single crystal microspectrophotometry has emerged as a valuable technique for monitoring molecular events that take place within protein crystals, thus tightly coupling structure to function. Absorption and fluorescence spectra, ligand binding affinities and kinetic constants can be determined, allowing i) the definition of the experimental conditions for X-ray crystallography experiments and their interpretation, ii) the assessment of whether crystal lattice forces have altered conformational equilibria, iii) the comparison with data obtained in solution. Microspectrophotometric measurements using oriented crystals and linearly polarized light are carried out usually off-line with respect to X-ray data collection and are aimed at an in- depth characterization of protein function in the crystal, leading to robust structure-function relationships. The power of this approach is highlighted by reporting a few case studies, including hemoglobins, pyridoxal 5'-phosphate-dependent enzymes and acetylcholinesterases. This article is part of a Special Issue entitled: Protein Structure and Function in the Crystalline State.",
+  "type": "academic",
+  "pdf_url": ""
+}

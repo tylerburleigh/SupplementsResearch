@@ -1,0 +1,24 @@
+{
+  "id": "src-086",
+  "title": "Topoisomerase inhibitor amonafide enhances defense responses to promote longevity in C. elegans",
+  "authors": [
+    "Hu, I. M.",
+    "Serna, A.",
+    "Everts, Stacia",
+    "Güngördü, Lale",
+    "Schomakers, B.",
+    "Nollen, E.",
+    "Gao, Arwen W.",
+    "Houtkooper, R.",
+    "Janssens, Georges E."
+  ],
+  "doi": "10.1007/s11357-025-01599-5",
+  "url": "https://www.semanticscholar.org/paper/ca355ae45e288c6f241d0eeea0c86c2baa1c93a6",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "GeroScience",
+  "citation_count": 0,
+  "abstract": "Aging is a major risk factor for disease, and developing effective pharmaceutical interventions to improve healthspan and promote longevity has become a high priority for society. One of the molecular pathways related to longevity in various model organisms revolves around lowering AKT1 levels. This prompted our in silico drug screen for small molecules capable of mimicking the transcriptional effects of AKT1 knockdown. We found topoisomerase inhibitors as a top candidate longevity-drug class. Evaluating multiple compounds from this class in C. elegans revealed that the topoisomerase inhibitor amonafide has the greatest benefit on healthspan and lifespan. Intriguingly, the longevity effect of amonafide was not solely dependent on DAF-16/FOXO, the canonical pathway for lifespan extension via AKT1 inhibition. We performed RNA-seq on amonafide-treated worms and revealed a more youthful transcriptional signature, including the activation of diverse molecular and cellular defense pathways. We found the mitochondrial unfolded protein response (UPRmt) regulator afts-1 to be crucial for both improved healthspan and extended lifespan upon amonafide treatment. Moreover, healthspan was partially dependent on the immune response transcription factor zip-2 and the integrated stress response transcription factor atf-4. We further examined the potential of amonafide in age-related disease. Treating a C. elegans model for Parkinson’s disease with amonafide improved mobility. In conclusion, we identified amonafide as a novel geroprotector, which activates mitochondrial-, pathogen-, and xenobiotic-associated defense responses that—though more studies are needed—may serve as a candidate for Parkinson’s disease therapy.",
+  "type": "academic",
+  "pdf_url": ""
+}

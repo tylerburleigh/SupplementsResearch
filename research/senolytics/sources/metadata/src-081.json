@@ -1,0 +1,31 @@
+{
+  "id": "src-081",
+  "title": "Senolytic agent Quercetin ameliorates intervertebral disc degeneration via the Nrf2/NF-κB axis.",
+  "authors": [
+    "Shao, Z",
+    "Wang, B",
+    "Shi, Y",
+    "Xie, C",
+    "Huang, C",
+    "Chen, B",
+    "Zhang, H",
+    "Zeng, G",
+    "Liang, H",
+    "Wu, Y",
+    "Zhou, Y",
+    "Tian, N",
+    "Wu, A",
+    "Gao, W",
+    "Wang, X",
+    "Zhang, X"
+  ],
+  "doi": "10.1016/j.joca.2020.11.006",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/33242601",
+  "provider": "pubmed",
+  "year": 2021,
+  "venue": "Osteoarthritis and cartilage",
+  "citation_count": 0,
+  "abstract": "OBJECTIVE: Intervertebral disc degeneration (IDD) represents major cause of low back pain. Quercetin (QUE) is one of the approved senolytic agents. In this study, we evaluated the protective effects of QUE on IDD development and its underlying mechanism.\nMETHODS: Effects of senolytic agent QUE on the viability of nucleus pulposus cells (NPCs) were measured by CCK-8 assays and EdU staining. The senescence associated secreted phenotype (SASP) factors expressions were measured by qPCR, western blot, and ELISA; and NF-κB pathway was detected by immunofluorescence and western blot. Molecular docking was applied to predict the interacting protein of QUE; while Nrf2 was knocked down by siRNAs to confirm its role in QUE regulated senescence phenotype. X-ray, MRI, Hematoxylin-Eosin and Safranin O-Fast green staining were performed to evaluate the therapeutic effects of QUE on IDD in the puncture-induced rat model.\nRESULTS: In in vitro experiments, QUE inhibited SASP factors expression and senescence phenotype in IL-1β-treated NPCs. Mechanistically, QUE suppressed IL-1β induced activation of the NF-κB pathway cascades; it was also demonstrated in molecular docking and knock down studies that QUE might bind to Keap1-Nrf2 complex to suppress NF-κB pathway. In vivo, QUE ameliorated the IDD process in the puncture-induced rat model.\nCONCLUSIONS: Together the present work suggests that QUE inhibits SASP factors expression and senescence phenotype in NPCs and ameliorates the progression of IDD via the Nrf2/NF-κB axis, which supports senolytic agent QUE as a potential therapeutic agent for the treatment of IDD.",
+  "type": "academic",
+  "pdf_url": ""
+}

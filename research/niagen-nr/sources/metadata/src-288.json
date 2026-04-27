@@ -1,0 +1,20 @@
+{
+  "id": "src-288",
+  "title": "Towards Healthy Longevity: Comprehensive Insights from Molecular Targets and Biomarkers to Biological Clocks",
+  "authors": [
+    "Yusri, Khalishah",
+    "Kumar, Sanjay",
+    "Fong, Sheng",
+    "Gruber, Jan",
+    "Sorrentino, Vincenzo"
+  ],
+  "doi": "10.3390/ijms25126793",
+  "url": "https://openalex.org/W4399897101",
+  "provider": "openalex",
+  "year": 2024,
+  "venue": "International Journal of Molecular Sciences",
+  "citation_count": 14,
+  "abstract": "Aging is a complex and time-dependent decline in physiological function that affects most organisms, leading to increased risk of age-related diseases. Investigating the molecular underpinnings of aging is crucial to identify geroprotectors, precisely quantify biological age, and propose healthy longevity approaches. This review explores pathways that are currently being investigated as intervention targets and aging biomarkers spanning molecular, cellular, and systemic dimensions. Interventions that target these hallmarks may ameliorate the aging process, with some progressing to clinical trials. Biomarkers of these hallmarks are used to estimate biological aging and risk of aging-associated disease. Utilizing aging biomarkers, biological aging clocks can be constructed that predict a state of abnormal aging, age-related diseases, and increased mortality. Biological age estimation can therefore provide the basis for a fine-grained risk stratification by predicting all-cause mortality well ahead of the onset of specific diseases, thus offering a window for intervention. Yet, despite technological advancements, challenges persist due to individual variability and the dynamic nature of these biomarkers. Addressing this requires longitudinal studies for robust biomarker identification. Overall, utilizing the hallmarks of aging to discover new drug targets and develop new biomarkers opens new frontiers in medicine. Prospects involve multi-omics integration, machine learning, and personalized approaches for targeted interventions, promising a healthier aging population.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/1422-0067/25/12/6793/pdf?version=1718882466"
+}

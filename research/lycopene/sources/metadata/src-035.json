@@ -1,0 +1,35 @@
+{
+  "id": "src-035",
+  "title": "Increased dietary and circulating lycopene are associated with reduced prostate cancer risk: a systematic review and meta-analysis",
+  "authors": [
+    "Rowles, J L",
+    "Ranard, K M",
+    "Smith, J W",
+    "An, R",
+    "Erdman, J W"
+  ],
+  "year": 2017,
+  "abstract": "",
+  "doi": "10.1038/pcan.2017.25",
+  "url": "https://doi.org/10.1038/pcan.2017.25",
+  "pdf_url": "",
+  "venue": "Prostate Cancer and Prostatic Diseases",
+  "citation_count": 139,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-19T18:32:19.516218+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-035.md",
+  "quality_details": {
+    "content_length": 35920,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

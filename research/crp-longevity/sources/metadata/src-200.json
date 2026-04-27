@@ -1,0 +1,17 @@
+{
+  "id": "src-200",
+  "title": "Correlation between inflammatory markers and disease severity in ulcerative colitis",
+  "authors": [
+    "Fu, Jie",
+    "Zhang, Yueyu"
+  ],
+  "doi": "10.4240/wjgs.v17.i12.108880",
+  "url": "https://www.semanticscholar.org/paper/ec5147e1f141a9d98eec26fbaff81c06908b2a2d",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "World Journal of Gastrointestinal Surgery",
+  "citation_count": 0,
+  "abstract": "BACKGROUND Although histopathological examination via colonoscopy is the benchmark for ulcerative colitis (UC) diagnosis, its limitations underscore the urgency of identifying noninvasive diagnostic markers. AIM To investigate the clinical relevance of systemic inflammatory markers in assessing disease severity among patients with UC. METHODS In this study, 117 consecutive patients with UC hospitalized between January 2024 and January 2025 were analyzed and stratified by disease severity using the modified Mayo score: Mild (n = 37), moderate (n = 45), and severe (n = 35) groups. Demographic and clinical data were recorded, and serum concentrations of inflammatory markers-interleukin-6 (IL-6), tumor necrosis factor-alpha (TNF-α), and C-reactive protein (CRP) - were measured and compared across the groups. Correlation analyses (Spearman’s rank) were conducted to evaluate the relationships between cytokine levels and disease severity. Disease severity-associated predictors were identified through regression (univariate and multivariate) analyses, supplemented by sensitivity testing to validate consistency. The diagnostic performance of inflammatory markers for disease progression was assessed using the receiver operating characteristic curve. RESULTS Serum IL-6, TNF-α, and CRP levels exhibited a significant stepwise increase with worsening UC severity. Each inflammatory marker demonstrated a strong positive correlation with disease severity. Multivariate analysis identified smoking history, alcohol abuse, IL-6, TNF-α, and CRP as independent predictors of disease progression. In the sensitivity testing, directional effects of these variables were aligned (all odds ratios > 1), indicating robust results. Receiver operating characteristic analysis indicated that the combined cytokine panel demonstrated superior diagnostic accuracy (area under the curve 0.917, 88.6% sensitivity, 80.5% specificity) when compared with individual markers (area under the curves, 0.763-0.820). CONCLUSION IL-6, TNF-α, and CRP levels strongly correlate with the progression of UC and may serve as reliable biomarkers for disease activity. The combined measurement of these markers could facilitate the early identification of high-risk patients, enabling prompt delivery of clinical intervention and personalized management.",
+  "type": "academic",
+  "pdf_url": ""
+}

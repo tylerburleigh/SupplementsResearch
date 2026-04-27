@@ -1,0 +1,20 @@
+{
+  "id": "src-258",
+  "title": "Mechanisms of Vascular Aging",
+  "authors": [
+    "Ungvári, Zoltán",
+    "Tarantini, Stefano",
+    "Donato, Anthony J.",
+    "Galván, Verónica",
+    "Csiszár, Anna"
+  ],
+  "doi": "10.1161/circresaha.118.311378",
+  "url": "https://openalex.org/W2891919070",
+  "provider": "openalex",
+  "year": 2018,
+  "venue": "Circulation Research",
+  "citation_count": 838,
+  "abstract": "Aging of the vasculature plays a central role in morbidity and mortality of older people. To develop novel treatments for amelioration of unsuccessful vascular aging and prevention of age-related vascular pathologies, it is essential to understand the cellular and functional changes that occur in the vasculature during aging. In this review, the pathophysiological roles of fundamental cellular and molecular mechanisms of aging, including oxidative stress, mitochondrial dysfunction, impaired resistance to molecular stressors, chronic low-grade inflammation, genomic instability, cellular senescence, epigenetic alterations, loss of protein homeostasis, deregulated nutrient sensing, and stem cell dysfunction in the vascular system are considered in terms of their contribution to the pathogenesis of both microvascular and macrovascular diseases associated with old age. The importance of progeronic and antigeronic circulating factors in relation to development of vascular aging phenotypes are discussed. Finally, future directions and opportunities to develop novel interventions to prevent/delay age-related vascular pathologies by targeting fundamental cellular and molecular aging processes are presented.",
+  "type": "academic",
+  "pdf_url": "https://www.ahajournals.org/doi/pdf/10.1161/CIRCRESAHA.118.311378"
+}

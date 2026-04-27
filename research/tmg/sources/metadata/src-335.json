@@ -1,0 +1,17 @@
+{
+  "id": "src-335",
+  "title": "Mitochondrial DNA Genetics and the Heteroplasmy Conundrum in Evolution and Disease",
+  "authors": [
+    "Wallace, Douglas C.",
+    "Chalkia, Dimitra"
+  ],
+  "doi": "10.1101/cshperspect.a021220",
+  "url": "https://openalex.org/W2132820862",
+  "provider": "openalex",
+  "year": 2013,
+  "venue": "Cold Spring Harbor Perspectives in Biology",
+  "citation_count": 658,
+  "abstract": "The unorthodox genetics of the mtDNA is providing new perspectives on the etiology of the common \"complex\" diseases. The maternally inherited mtDNA codes for essential energy genes, is present in thousands of copies per cell, and has a very high mutation rate. New mtDNA mutations arise among thousands of other mtDNAs. The mechanisms by which these \"heteroplasmic\" mtDNA mutations come to predominate in the female germline and somatic tissues is poorly understood, but essential for understanding the clinical variability of a range of diseases. Maternal inheritance and heteroplasmy also pose major challengers for the diagnosis and prevention of mtDNA disease.",
+  "type": "academic",
+  "pdf_url": "http://cshperspectives.cshlp.org/content/5/11/a021220.full.pdf"
+}

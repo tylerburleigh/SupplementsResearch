@@ -1,0 +1,50 @@
+3	2	Jrc Science And Policy Reports
+319	2	1. Overview
+322	3	1.2. Healthy life years
+378	3	1.3. EU response to ageing challenges
+412	3	1.4. Aim of report and chapters overview
+474	3	2.1. Economic determinants
+497	2	2. Determinants of active and healthy ageing
+501	3	2.2. Health and social service systems
+528	3	2.3. Physical environment
+558	3	2.4. Social environment
+585	3	2.5. Cultural and personal determinants
+607	2	5. Personal factors in this context refer to biological and genetic
+636	3	2.6. Behavioural determinants
+642	2	6. T elomeres are found at the ends of chromosomes to protect
+742	3	3.1. Mobility
+772	2	3. Undernutrition and functional decline in ageing
+775	3	3.2. Sensory changes
+802	3	3.3. Eyesight
+815	3	3.4. Oral health
+833	3	3.5. Gastro-intestinal functions and health
+889	3	3.6. Cognitive functions
+920	3	3.7. Chronic disease and age-related
+964	2	4. The role of diet in active and healthy ageing
+989	2	1. Choice of studies presented
+999	2	2. Recruitment of sample populations
+1007	2	3. Nutrients included in this report
+1017	2	4. Lifecycle approach to ageing
+1091	3	4.1. Water
+1124	3	4.2. Energy
+1185	4	4.2.1. Calorie restriction
+1207	3	4.3. Protein
+1291	3	4.4. Fat
+1385	3	4.5. Carbohydrates
+1425	3	4.6. Micronutrients
+1565	5	4.6.1.3. Folic acid At present, the effects of
+1593	5	4.6.1.4 Multi B-vitamin studies Clinical tri-
+1625	2	16. Community-dwelling older adult are those who are not in as-
+1655	4	4.6.2. Vitamin D and calcium
+1739	4	4.6.3. Vitamins A, C and E
+1850	4	4.6.4. Other antioxidants
+1942	3	4.7. Phytochemicals
+1943	4	4.7.1. Catechins
+1982	4	4.7.2. Resveratrol
+2017	4	4.7.3. Other bioactive compounds
+2034	3	4.8. Probiotics and prebiotics
+2079	3	4.9. Food-based evidence
+2268	2	5. Concluding remarks
+2271	3	5.1. Further research opportunities
+2384	2	6. Reference
+3428	2	Abstract

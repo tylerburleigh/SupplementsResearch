@@ -1,0 +1,36 @@
+{
+  "id": "src-042",
+  "title": "The effects of microdose LSD on time perception: a randomised, double-blind, placebo-controlled trial",
+  "authors": [
+    "Yanakieva, Steliana",
+    "Polychroni, Naya",
+    "Family, Neiloufar",
+    "Williams, Luke T. J.",
+    "Luke, David P.",
+    "Terhune, Devin B."
+  ],
+  "year": 2019,
+  "abstract": "AbstractRationalePrevious research demonstrating that lysergic acid diethylamide (LSD) produces alterations in time perception has implications for its impact on conscious states and a range of psychological functions that necessitate precise interval timing. However, interpretation of this research is hindered by methodological limitations and an inability to dissociate direct neurochemical effects on interval timing from indirect effects attributable to altered states of consciousness.MethodsWe conducted a randomised, double-blind, placebo-controlled study contrasting oral administration of placebo with three microdoses of LSD (5, 10, and 20 μg) in older adults. Subjective drug effects were regularly recorded and interval timing was assessed using a temporal reproduction task spanning subsecond and suprasecond intervals.ResultsLSD conditions were not associated with any robust changes in self-report indices of perception, mentation, or concentration. LSD reliably produced over-reproduction of temporal intervals of 2000 ms and longer with these effects most pronounced in the 10 μg dose condition. Hierarchical regression analyses indicated that LSD-mediated over-reproduction was independent of marginal differences in self-reported drug effects across conditions.ConclusionsThese results suggest that microdose LSD produces temporal dilation of suprasecond intervals in the absence of subjective alterations of consciousness.",
+  "doi": "10.1007/s00213-018-5119-x",
+  "url": "https://doi.org/10.1007/s00213-018-5119-x",
+  "pdf_url": "",
+  "venue": "Psychopharmacology",
+  "citation_count": 115,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-26T10:43:39.375229+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-042.md",
+  "quality_details": {
+    "content_length": 61674,
+    "alpha_ratio": 0.738,
+    "sentence_count": 422,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

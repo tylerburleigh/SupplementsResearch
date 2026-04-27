@@ -1,0 +1,38 @@
+{
+  "id": "src-056",
+  "title": "Effect of the Mediterranean diet supplemented with nicotinamide riboside and pterostilbene and/or coconut oil on anthropometric variables in amyotrophic lateral sclerosis. A pilot study",
+  "authors": [
+    "Carrera-Juliá, Sandra",
+    "Estrela, José M.",
+    "Zacarés, Mario",
+    "Navarro, Mari Ángeles",
+    "Vega-Bello, María Jesús",
+    "de la Rubia Ortí, José Enrique",
+    "Moreno, Mari Luz",
+    "Drehmer, Eraci"
+  ],
+  "year": 2023,
+  "abstract": "Amyotrophic Lateral Sclerosis (ALS) is a chronic and progressive neurodegenerative disease that causes the death of motor neurons and alters patients’ body composition. Supplementation with the antioxidants nicotinamide riboside (NR) and pterostilbene (PTER) can combat associated oxidative stress. Additionally, coconut oil is an alternative energy substrate that can address mitochondrial dysfunction. The aim of the present study is to assess the impact of a Mediterranean Diet supplemented with NR and PTER and/or with coconut oil on the anthropometric variables of patients with ALS. A prospective, mixed, randomized, analytical and experimental pilot study in humans was performed through a clinical trial (registered with ClinicalTrials.gov under number NCT03489200) with pre- and post-intervention assessments. The sample was made up of 40 subjects categorized into four study groups (Control, Antioxidants, Coconut oil, and Antioxidants + Coconut oil). Pre- and post-intervention anthropometric assessments were carried out to determine the following data: weight, percentage of fat and muscle mass, skinfolds, body perimeters, Body Mass Index (BMI), Waste-to-Hip Index (WHI) and Waist-Height Ratio (WHR). Compared to the Control group, GAx significantly increased muscle mass percentage and decreased fat mass percentage, triceps, iliac crest, and abdominal skinfolds. GCoco significantly increased muscle mass percentage and decreased fat mass percentage, subscapular skinfolds, and abdominal skinfolds. GAx + coco significantly increased muscle mass percentage and decreased abdominal skinfolds. Therefore, our results suggest that the Mediterranean Diet supplemented with NR and PTER and the Mediterranean Diet supplemented with coconut oil (ketogenic diet) are the two nutritional interventions that have reported the greatest benefits, at anthropometric level.",
+  "doi": "10.3389/fnut.2023.1232184",
+  "url": "https://doi.org/10.3389/fnut.2023.1232184",
+  "pdf_url": "",
+  "venue": "Frontiers in Nutrition",
+  "citation_count": 15,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-20T20:26:02.974673+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-056.md",
+  "quality_details": {
+    "content_length": 68268,
+    "alpha_ratio": 0.711,
+    "sentence_count": 663,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

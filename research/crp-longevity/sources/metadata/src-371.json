@@ -1,0 +1,25 @@
+{
+  "id": "src-371",
+  "title": "Serum tocilizumab trough concentration can be used to monitor systemic IL-6 receptor blockade in patients with rheumatoid arthritis: a prospective observational cohort study",
+  "authors": [
+    "Kneepkens, E.",
+    "Oever, I.",
+    "Plasencia, C.",
+    "Pascual‐Salcedo, D.",
+    "Vries, A. D.",
+    "Hart, M.",
+    "Nurmohamed, M.",
+    "Balsa, Alejandro",
+    "Rispens, T.",
+    "Wolbink, G."
+  ],
+  "doi": "10.1080/03009742.2016.1183039",
+  "url": "https://www.semanticscholar.org/paper/453168f7dff48b6c38a81c047db6abfb2b4828a4",
+  "provider": "semantic_scholar",
+  "year": 2017,
+  "venue": "Scandinavian Journal of Rheumatology",
+  "citation_count": 35,
+  "abstract": "Objectives: To investigate the pharmacokinetics (PK) and dynamics of tocilizumab (TCZ) in daily practice. Method: An observational study of 66 consecutive RA patients treated with TCZ 8 mg/kg once every 4 weeks intravenously, monitored for 24 weeks. Spearman’s rank test was used to investigate the correlation between TCZ concentration and C-reactive protein (CRP). Clinical improvement was assessed at week 24 using the Disease Activity Score in 28 joints (DAS28) compared to baseline, and its relationship with TCZ concentration was investigated using linear regression analyses. TCZ trough concentrations and anti-drug antibodies were measured using an enzyme-linked immunosorbent assay (ELISA) and antigen binding test, respectively. Results: At baseline, 26 patients (39.4%) had a CRP level above 10 mg/L with a median (interquartile range, IQR) of 37.7 (21.9–49.7) mg/L. A TCZ concentration above 1 mg/L was sufficient to normalize CRP levels. Spearman’s rank test showed a correlation coefficient of −0.460 (p < 0.0001). The TCZ concentration varied widely, with concentrations < 1 mg/L in 17–31% of patients, depending on the time point of measurement. Anti-TCZ antibodies were detected in one sample. Linear regression analyses showed a coefficient of 0.080 with a 95% confidence interval (CI) of 0.039–0.113 (p < 0.001) for the association between TCZ concentration and ΔDAS28. No confounders were identified. Conclusions: The TCZ standard regimen results in a wide variety of serum TCZ trough concentrations; this is mostly due to target binding and to a lesser extent to immunogenicity. The majority of patients obtained TCZ concentrations > 1 mg/L, which is sufficient for CRP normalization. Therefore, dose taper strategies might be possible in a substantial proportion of patients.",
+  "type": "academic",
+  "pdf_url": "https://figshare.com/articles/journal_contribution/Serum_tocilizumab_trough_concentration_can_be_used_to_monitor_systemic_IL-6_receptor_blockade_in_patients_with_rheumatoid_arthritis_a_prospective_observational_cohort_study/3493676/1/files/5521901.pdf"
+}

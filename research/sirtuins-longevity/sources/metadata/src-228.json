@@ -1,0 +1,25 @@
+{
+  "id": "src-228",
+  "title": "Balance between DNA repair, LINE1 suppression and lifespan in mice with SIRT6 Serine 10 phosphorylation site mutations",
+  "authors": [
+    "Zhang, Zhihui",
+    "Simon, M.",
+    "Liang, Yuan",
+    "Tyshkovskiy, A.",
+    "Kaplan, M.",
+    "Paige, Victoria",
+    "Biashad, S. A.",
+    "Gladyshev, Vadim N.",
+    "Seluanov, A.",
+    "Gorbunova, Vera"
+  ],
+  "doi": "10.64898/2026.02.06.704345",
+  "url": "https://www.semanticscholar.org/paper/d286d12bc1f7be212bd3c8527958583fd531cd4a",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "bioRxiv",
+  "citation_count": 0,
+  "abstract": "Sirtuin 6 (SIRT6) is an important regulator of DNA repair, metabolism, chromatin maintenance and longevity. SIRT6 Serine 10 phosphorylation controls SIRT6 recruitment to the sites of DNA damage. To explore the effect of SIRT6 Serine 10 phosphorylation on lifespan, we generated two SIRT6 mutant mouse strains: phospho-null S10A and phosphomimetic S10E. The S10E mutant mice demonstrated enhanced DNA repair capacity, elevated LINE1 expression and reduced lifespan in male mice compared to the wild-type and S10A mice. This result suggests that SIRT6 S10E mutation enhances DNA repair capacity at the expense of reduced LINE1 silencing leading to shorter lifespan. While both SIRT6 functions in DNA repair and chromatin maintenance are important for longevity, our results suggest that when the balance between these functions is shifted, diminished of LINE1 control has a stronger impact on lifespan than enhanced DNA repair.",
+  "type": "academic",
+  "pdf_url": ""
+}

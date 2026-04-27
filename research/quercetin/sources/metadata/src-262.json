@@ -1,0 +1,20 @@
+{
+  "id": "src-262",
+  "title": "Ultrasound-Enhanced Delivery of the Quercetin Derivative ANL3 Activates the FOXO1A-NDRG2-SOD2 Axis to Induce Endoplasmic Reticulum Stress in Osteosarcoma.",
+  "authors": [
+    "Qian, Jun",
+    "Wu, Wangsheng",
+    "Wang, Haoyu",
+    "Shu, Chang",
+    "Liu, Bingsheng"
+  ],
+  "doi": "10.1177/10849785251406063",
+  "url": "https://www.semanticscholar.org/paper/e82dff3759c56c94a82492de9e201798aae1ae14",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "Cancer Biotherapy and Radiopharmaceuticals",
+  "citation_count": 0,
+  "abstract": "BACKGROUND\nQuercetin, a naturally occurring flavonoid with recognized antitumor properties, has limited therapeutic applicability due to its low water solubility and bioavailability. To address these issues, a new quercetin derivative, ANL3, was created with superior pharmacokinetic and physicochemical characteristics.\n\nMETHODS AND RESULTS\nIn vitro investigations showed that ANL3 effectively inhibited the proliferation, invasion, and migration of human osteosarcoma cells (MG-63 and SaOS-2) with lower IC50 values than quercetin. Transcriptomic analysis and molecular testing revealed the FOXO1A-NDRG2-superoxide dismutase 2 (SOD2) axis as a critical mechanistic route. ANL3 directly interacted with FOXO1A, increasing its phosphorylation without decreasing total protein expression, upregulating NDRG2, and downregulating SOD2, resulting in increased reactive oxygen species (ROS) buildup and endoplasmic reticulum (ER) stress. This cascade reduced the epithelial-mesenchymal transition and slowed osteosarcoma growth. In vivo, ANL3 therapy decreased tumor volume, increased survival in naked mice, and had little systemic toxicity.Ultrasound Augmentation:Based on these findings, low-intensity focused ultrasound was used to increase ANL3 delivery and intracellular activation. Ultrasound exposure increased cellular uptake, boosted local ROS production, and amplified ER stress signaling via the FOXO1A-NDRG2-SOD2 pathway.\n\nCONCLUSIONS\nThese findings show that ultrasound-augmented ANL3 treatment is a viable biotherapeutic method for osteosarcoma because it improves ER stress-mediated tumor suppression while reducing systemic adverse effects. This article proposes a mechanistic framework for incorporating ultrasound-mediated medication activation into precision cancer biotherapy.",
+  "type": "academic",
+  "pdf_url": ""
+}

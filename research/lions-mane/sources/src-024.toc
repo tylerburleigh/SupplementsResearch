@@ -1,0 +1,26 @@
+26	2	Abstract
+72	2	Materials And Methods
+129	2	Results
+438	2	Discussion
+649	2	Reference
+657	2	3. Apfel SC, Kessler JA, Adornato BT, Litchy WJ, Sanders C
+664	2	5. Apfel SC, Schwartz S, Adornato BT, Freeman R, Biton V ,
+680	2	10. Furuta S, Kuwahara R, Hiraki E, Ohnuki K, Yasuo S and
+683	2	11. Gnahn H, Hefti F, Heumann R, Schwab M E and Thoenen H
+694	2	14. Hiraki E, Furuta S, Kuwahara R, Takemoto N, Nagata T,
+703	2	16. Kaufer DI, Williams CS, Braaten AJ, Gill K, Zimmerman S
+710	2	18. Kawagishi H, Ando M, Sakamoto H, Yoshida S, Ojima F,
+715	2	19. Kawagishi H, Ando M, Shinba K, Sakamoto H, Yoshida S,
+719	2	20. Kawagishi H, Shimada A, Hosokawa S, Mori H, Sakamoto H,
+728	2	22. Kobayashi S, Tamanoi H, Hasegawa Y , Segawa Y and
+733	2	23. Lee EW, Shizuki K, Hosokawa S, Suzuki M, Suganuma H,
+738	2	24. Li IC, Chen YL, Chen WP, Lee LY , Tsai YT, Chen CC and
+741	2	25. Li IC, Lee LY , Tzeng TT, Chen WP, Chen YP, Shiao YJ and
+752	2	28. Mori K, Obara Y , Hirota M, Azumi Y , Kinugasa S, Inatomi
+756	2	29. Mori K, Kikuchi H, Obara Y , Iwashita M, Azumi Y , Kinugasa
+760	2	30. Nagano M, Shimizu K, Kondo R, Hayashi C, Sato D,
+764	2	31. Nakashima A, Yamada K, Iwata O, Sugimoto R, Atsuji K,
+773	2	34. Saxton J, Morrow L, Eschman A, Archer G, Luther J and
+782	2	36. Sorrells SF, Paredes MF, Cebrian-Silla A, Sandoval K, Qi D,
+803	2	41. Yao I, Takagi H, Ageta H, Kahyo T, Sato S, Hatanaka K,
+808	2	42. Yin X, Mead BE, Safaee H, Langer R, Karp JM and Levy O

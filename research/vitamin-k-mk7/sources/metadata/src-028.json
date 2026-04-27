@@ -1,0 +1,20 @@
+{
+  "id": "src-028",
+  "title": "Safety and Efficacy of Vitamin K Antagonists versus Rivaroxaban in Hemodialysis Patients with Atrial Fibrillation: A Multicenter Randomized Controlled Trial.",
+  "authors": [
+    "De Vriese, An S",
+    "Caluwé, Rogier",
+    "Van Der Meersch, Hans",
+    "De Boeck, Koen",
+    "De Bacquer, Dirk"
+  ],
+  "doi": "10.1681/asn.2020111566",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/33753537",
+  "provider": "pubmed",
+  "year": 2021,
+  "venue": "Journal of the American Society of Nephrology : JASN",
+  "citation_count": 0,
+  "abstract": "BACKGROUND: In patients with normal renal function or early stage CKD, the risk-benefit profile of direct oral anticoagulants (DOACs) is superior to that of vitamin K antagonists (VKAs). In patients on hemodialysis, the comparative efficacy and safety of DOACs versus VKAs are unknown.\nMETHODS: In the Valkyrie study, 132 patients on hemodialysis with atrial fibrillation were randomized to a VKA with a target INR of 2-3, 10 mg rivaroxaban daily, or rivaroxaban and vitamin K2 for 18 months. Patients continued the originally assigned treatment and follow-up was extended for at least an additional 18 months. The primary efficacy end point was a composite of fatal and nonfatal cardiovascular events. Secondary efficacy end points were individual components of the composite outcome and all-cause death. Safety end points were life-threatening, major, and minor bleeding.\nRESULTS: Median (IQR) follow-up was 1.88 (1.01-3.38) years. Premature, permanent discontinuation of anticoagulation occurred in 25% of patients. The primary end point occurred at a rate of 63.8 per 100 person-years in the VKA group, 26.2 per 100 person-years in the rivaroxaban group, and 21.4 per 100 person-years in the rivaroxaban and vitamin K2 group. The estimated competing risk-adjusted hazard ratio for the primary end point was 0.41 (95% CI, 0.25 to 0.68; P=0.0006) in the rivaroxaban group and 0.34 (95% CI, 0.19 to 0.61; P=0.0003) in the rivaroxaban and vitamin K2 group, compared with the VKA group. Death from any cause, cardiac death, and risk of stroke were not different between the treatment arms, but symptomatic limb ischemia occurred significantly less frequently with rivaroxaban than with VKA. After adjustment for competing risk of death, the hazard ratio for life-threatening and major bleeding compared with the VKA group was 0.39 (95% CI, 0.17 to 0.90; P=0.03) in the rivaroxaban group, 0.48 (95% CI, 0.22 to 1.08; P=0.08) in the rivaroxaban and vitamin K2 group and 0.44 (95% CI, 0.23 to 0.85; P=0.02) in the pooled rivaroxaban groups.\nCONCLUSIONS: In patients on hemodialysis with atrial fibrillation, a reduced dose of rivaroxaban significantly decreased the composite outcome of fatal and nonfatal cardiovascular events and major bleeding complications compared with VKA.\nCLINICAL TRIAL REGISTRY NAME AND REGISTRATION NUMBER: Oral Anticoagulation in Hemodialysis, NCT03799822.",
+  "type": "academic",
+  "pdf_url": ""
+}

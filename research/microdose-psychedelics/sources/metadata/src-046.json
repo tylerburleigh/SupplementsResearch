@@ -1,0 +1,36 @@
+{
+  "id": "src-046",
+  "title": "Exploring the effect of microdosing psychedelics on creativity in an open-label natural setting",
+  "authors": [
+    "Prochazkova, Luisa",
+    "Lippelt, Dominique P.",
+    "Colzato, Lorenza S.",
+    "Kuchar, Martin",
+    "Sjoerds, Zsuzsika",
+    "Hommel, Bernhard"
+  ],
+  "year": 2018,
+  "abstract": "",
+  "doi": "10.1007/s00213-018-5049-7",
+  "url": "https://doi.org/10.1007/s00213-018-5049-7",
+  "pdf_url": "",
+  "venue": "Psychopharmacology",
+  "citation_count": 141,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-26T10:44:10.333810+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-046.md",
+  "quality_details": {
+    "content_length": 70843,
+    "alpha_ratio": 0.756,
+    "sentence_count": 525,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

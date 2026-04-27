@@ -1,0 +1,16 @@
+{
+  "id": "src-098",
+  "title": "Neuroprotective Activities of Curcumin in Parkinson’s Disease: A Review of the Literature",
+  "authors": [
+    "Nebrisi, Eslam El"
+  ],
+  "doi": "10.3390/ijms222011248",
+  "url": "https://openalex.org/W3206321390",
+  "provider": "openalex",
+  "year": 2021,
+  "venue": "International Journal of Molecular Sciences",
+  "citation_count": 157,
+  "abstract": "Parkinson's disease (PD) is a slowly progressive multisystem disorder affecting dopaminergic neurons of the substantia nigra pars compacta (SNpc), which is characterized by a decrease of dopamine (DA) in their striatal terminals. Treatment of PD with levodopa or DA receptor agonists replaces the function of depleted DA in the striatum. Prolonged treatment with these agents often has variable therapeutic effects and leads to the development of undesirable dyskinesia. Consequently, a crucial unmet demand in the management of Parkinson's disease is the discovery of new approaches that could slow down, stop, or reverse the process of neurodegeneration. Novel potential treatments involving natural substances with neuroprotective activities are being developed. Curcumin is a polyphenolic compound isolated from the rhizomes of Curcuma longa (turmeric). It has been demonstrated to have potent anti-inflammatory, antioxidant, free radical scavenging, mitochondrial protecting, and iron-chelating effects, and is considered a promising therapeutic and nutraceutical agent for the treatment of PD. However, molecular and cellular mechanisms that mediate the pharmacological actions of curcumin remain largely unknown. Stimulation of nicotinic receptors and, more precisely, selective α7 nicotinic acetylcholine receptors (α7-nAChR), have been found to play a major modulatory role in the immune system via the \"cholinergic anti-inflammatory pathway\". Recently, α7-nAChR has been proposed to be a potential therapeutic approach in PD. In this review, the detailed mechanisms of the neuroprotective activities of curcumin as a potential therapeutic agent to help Parkinson's patients are being discussed and elaborated on in detail.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/1422-0067/22/20/11248/pdf?version=1634577753"
+}

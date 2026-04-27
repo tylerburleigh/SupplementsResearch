@@ -1,0 +1,17 @@
+{
+  "id": "src-196",
+  "title": "Heart Failure in Type 2 Diabetes Mellitus",
+  "authors": [
+    "Kenny, Helena",
+    "Abel, E. Dale"
+  ],
+  "doi": "10.1161/circresaha.118.311371",
+  "url": "https://openalex.org/W2917743074",
+  "provider": "openalex",
+  "year": 2019,
+  "venue": "Circulation Research",
+  "citation_count": 655,
+  "abstract": "Patients with diabetes mellitus have >2× the risk for developing heart failure (HF; HF with reduced ejection fraction and HF with preserved ejection fraction). Cardiovascular outcomes, hospitalization, and prognosis are worse for patients with diabetes mellitus relative to those without. Beyond the structural and functional changes that characterize diabetic cardiomyopathy, a complex underlying, and interrelated pathophysiology exists. Despite the success of many commonly used antihyperglycemic therapies to lower hyperglycemia in type 2 diabetes mellitus the high prevalence of HF persists. This, therefore, raises the possibility that additional factors beyond glycemia might contribute to the increased HF risk in diabetes mellitus. This review summarizes the state of knowledge about the impact of existing antihyperglycemic therapies on HF and discusses potential mechanisms for beneficial or deleterious effects. Second, we review currently approved pharmacological therapies for HF and review evidence that addresses their efficacy in the context of diabetes mellitus. Dysregulation of many cellular mechanisms in multiple models of diabetic cardiomyopathy and in human hearts have been described. These include oxidative stress, inflammation, endoplasmic reticulum stress, aberrant insulin signaling, accumulation of advanced glycated end-products, altered autophagy, changes in myocardial substrate metabolism and mitochondrial bioenergetics, lipotoxicity, and altered signal transduction such as GRK (g-protein receptor kinase) signaling, renin angiotensin aldosterone signaling and β-2 adrenergic receptor signaling. These pathophysiological pathways might be amenable to pharmacological therapy to reduce the risk of HF in the context of type 2 diabetes mellitus. Successful targeting of these pathways could alter the prognosis and risk of HF beyond what is currently achieved using existing antihyperglycemic and HF therapeutics.",
+  "type": "academic",
+  "pdf_url": "https://www.ahajournals.org/doi/pdf/10.1161/CIRCRESAHA.118.311371"
+}

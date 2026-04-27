@@ -1,0 +1,21 @@
+{
+  "id": "src-204",
+  "title": "Discovery of a Gut Bacterial Pathway for Ergothioneine Catabolism",
+  "authors": [
+    "Feng, Chenxi",
+    "Yan, Qiongxiang",
+    "Li, Xianyi",
+    "Zhao, Hong",
+    "Huang, Hua",
+    "Zhang, Xinshuai"
+  ],
+  "doi": "10.1021/jacs.4c09350",
+  "url": "https://openalex.org/W4405596866",
+  "provider": "openalex",
+  "year": 2024,
+  "venue": "Journal of the American Chemical Society",
+  "citation_count": 10,
+  "abstract": "Ergothioneine is a diet-derived micronutrient for humans. However, enzymes involved in the catabolism of ergothioneine in human gut bacteria have not yet been identified. Herein, we characterize a sulfidogenic pathway for gut bacterial catabolism of this micronutrient, which involves an unprecedented reductive desulfurization reaction catalyzed by members of the xanthine oxidoreductase family (XOR), a class of molybdenum-containing flavoproteins. Notably, this is the first C-S bond cleavage reaction known to be catalyzed by XORs. Evidence for operation of this pathway was gained through <i>in vitro</i> reconstruction using heterologously produced enzymes derived from the human gut bacterium <i>Blautia producta</i> ATCC 27340. This catabolic activity enables <i>B. producta</i> ATCC 27340 to use ergothioneine as an alternative electron acceptor source. Homologues of the pathway enzymes are shown to be present not only in human gut bacteria but also in many environmental bacteria, suggesting the wide distribution of this catabolic strategy. In relation to the sulfur-containing metabolite, this discovery provides significant insight into biogeochemical sulfur cycling in diverse anoxic habitats beyond the human gut and, moreover, the design of new approaches for controlling intestinal hydrogen sulfide (H<sub>2</sub>S) production.",
+  "type": "academic",
+  "pdf_url": ""
+}

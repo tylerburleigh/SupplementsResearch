@@ -1,0 +1,30 @@
+{
+  "id": "src-152",
+  "title": "<scp>AMPK</scp> activation protects cells from oxidative stress‐induced senescence via autophagic flux restoration and intracellular <scp>NAD</scp> <sup>+</sup> elevation",
+  "authors": [
+    "Han, Xiaojuan",
+    "Tai, Haoran",
+    "Wang, Xiaobo",
+    "Wang, Zhe",
+    "Zhou, Jiao",
+    "Wei, Xiawei",
+    "Ding, Yi",
+    "Gong, Hui",
+    "Mo, Chunfen",
+    "Zhang, Jie",
+    "Qin, Jianqiong",
+    "Ma, Yuanji",
+    "Huang, Ning",
+    "Xiang, Rong",
+    "Xiao, Hengyi"
+  ],
+  "doi": "10.1111/acel.12446",
+  "url": "https://openalex.org/W2273828757",
+  "provider": "openalex",
+  "year": 2016,
+  "venue": "Aging Cell",
+  "citation_count": 295,
+  "abstract": "AMPK activation is beneficial for cellular homeostasis and senescence prevention. However, the molecular events involved in AMPK activation are not well defined. In this study, we addressed the mechanism underlying the protective effect of AMPK on oxidative stress-induced senescence. The results showed that AMPK was inactivated in senescent cells. However, pharmacological activation of AMPK by metformin and berberine significantly prevented the development of senescence and, accordingly, inhibition of AMPK by Compound C was accelerated. Importantly, AMPK activation prevented hydrogen peroxide-induced impairment of the autophagic flux in senescent cells, evidenced by the decreased p62 degradation, GFP-RFP-LC3 cancellation, and activity of lysosomal hydrolases. We also found that AMPK activation restored the NAD(+) levels in the senescent cells via a mechanism involving mostly the salvage pathway for NAD(+) synthesis. In addition, the mechanistic relationship of autophagic flux and NAD(+) synthesis and the involvement of mTOR and Sirt1 activities were assessed. In summary, our results suggest that AMPK prevents oxidative stress-induced senescence by improving autophagic flux and NAD(+) homeostasis. This study provides a new insight for exploring the mechanisms of aging, autophagy and NAD(+) homeostasis, and it is also valuable in the development of innovative strategies to combat aging.",
+  "type": "academic",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/acel.12446"
+}

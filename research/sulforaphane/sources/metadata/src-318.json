@@ -1,0 +1,17 @@
+{
+  "id": "src-318",
+  "title": "Role of Glycogen Synthase Kinase-3 in the Phosphatidylinositol 3-Kinase/Akt Cell Survival Pathway",
+  "authors": [
+    "Pap, Marianna",
+    "Cooper, Geoffrey M."
+  ],
+  "doi": "10.1074/jbc.273.32.19929",
+  "url": "https://openalex.org/W2053265248",
+  "provider": "openalex",
+  "year": 1998,
+  "venue": "Journal of Biological Chemistry",
+  "citation_count": 1044,
+  "abstract": "Growth factor-dependent survival of a variety of mammalian cells is dependent on the activation of phosphatidylinositol (PI) 3-kinase and its downstream effector, the protein kinase Akt. Glycogen synthase kinase-3 (GSK-3) has been previously identified as a physiological target of Akt, which is inhibited by phosphorylation, so we have investigated the role of GSK-3 in cell survival. Overexpression of catalytically active GSK-3 induced apoptosis of both Rat-1 and PC12 cells, whereas dominant-negative GSK-3 prevented apoptosis following inhibition of PI 3-kinase. GSK-3 thus plays a critical role in regulation of apoptosis and represents a key downstream target of the PI 3-kinase/Akt survival signaling pathway.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.1074/jbc.273.32.19929"
+}

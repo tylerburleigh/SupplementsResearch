@@ -1,0 +1,21 @@
+{
+  "id": "src-062",
+  "title": "Methylenetetrahydrofolate reductase and psychiatric diseases",
+  "authors": [
+    "Wan, Lin",
+    "Li, Yuhong",
+    "Zhang, Zhengrong",
+    "Sun, Zuoli",
+    "He, Yi",
+    "Li, Rena"
+  ],
+  "doi": "10.1038/s41398-018-0276-6",
+  "url": "https://openalex.org/W2900262677",
+  "provider": "openalex",
+  "year": 2018,
+  "venue": "Translational Psychiatry",
+  "citation_count": 196,
+  "abstract": "Methylenetetrahydrofolate reductase (MTHFR) is a key enzyme for the critical process of one-carbon metabolism involving folate and homocysteine metabolisms. It is known that some polymorphism of MTHFR would result in reduction of MTHFR enzyme activity as well as DNA methylation process, later shown to have significant impacts in various psychiatric diseases. However, it is unclear whether the polymorphism of MTHFR could be an independent or an add-on risk factor for specific psychiatric symptoms, such as anxiety, depression, positive, or negative symptoms of schizophrenia, or acts as risk factor for specific psychiatric disorders, such as schizophrenia, major depression, autisms, and bipolar disorders. It is also understudied on whether folate supplements could be an effective treatment for psychiatric patients with defect MTHFR activity. In this review, we not only gathered the most recent discoveries on MTHFR polymorphism and related DNA methylation in various psychiatric disorders, but also highlighted the potential relationships between MTHFR activity and implication of folate-related function in specific mental diseases.",
+  "type": "academic",
+  "pdf_url": "https://www.nature.com/articles/s41398-018-0276-6.pdf"
+}

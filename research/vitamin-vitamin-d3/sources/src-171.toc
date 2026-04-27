@@ -1,0 +1,22 @@
+3	2	Clinical Trial
+83	2	Introduction
+153	2	Materials And Methods
+286	2	Statistical Analysis
+304	2	Resul Ts
+336	2	Anthropometric Parameters
+343	2	Biological Parameters
+495	2	Discussion
+670	2	Conclusion
+684	2	Author Contributions
+690	2	Funding
+697	2	Acknowledgments
+706	2	References
+714	2	3. V asson M-P , Farges M-C, Goncalves-Mendes N, Talvas J, Ribalt a J,
+727	2	7. Rosen CJ, Abrams SA, Aloia JF , Brannon PM, Clinton SK, Durazo-
+738	2	9. Takahashi K, Nakayama Y , Horiuchi H, Ohta T , Komoriya K, Ohmori
+742	2	10. Hewison M, Freeman L, Hughes SV , Evans KN, Bland R, Eliopoulos
+752	2	13. Hansdottir S, Monick MM, Hinde SL, Lovan N, Look DC, Hunning hake
+836	2	37. Farges M-C, Minet-Quinard R, Walrand S, Thivat E, Ribalta J, W inklhofer-
+856	2	42. Bhan I, Camargo CA, Wenger J, Ricciardi C, Ye J, Borregaard
+879	2	47. Principi N, Marchisio P , Terranova L, Zampiero A, Baggi E, Daleno
+896	2	52. Penna G, Amuchastegui S, Giarratana N, Daniel KC, Vulcano M, S ozzani S,

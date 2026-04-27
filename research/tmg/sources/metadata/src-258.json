@@ -1,0 +1,17 @@
+{
+  "id": "src-258",
+  "title": "Comprehensive Review on Alzheimer’s Disease: Causes and Treatment",
+  "authors": [
+    "Breijyeh, Zeinab",
+    "Karaman, Rafik"
+  ],
+  "doi": "10.3390/molecules25245789",
+  "url": "https://openalex.org/W3112948680",
+  "provider": "openalex",
+  "year": 2020,
+  "venue": "Molecules",
+  "citation_count": 2557,
+  "abstract": "Alzheimer's disease (AD) is a disorder that causes degeneration of the cells in the brain and it is the main cause of dementia, which is characterized by a decline in thinking and independence in personal daily activities. AD is considered a multifactorial disease: two main hypotheses were proposed as a cause for AD, cholinergic and amyloid hypotheses. Additionally, several risk factors such as increasing age, genetic factors, head injuries, vascular diseases, infections, and environmental factors play a role in the disease. Currently, there are only two classes of approved drugs to treat AD, including inhibitors to cholinesterase enzyme and antagonists to <i>N</i>-methyl d-aspartate (NMDA), which are effective only in treating the symptoms of AD, but do not cure or prevent the disease. Nowadays, the research is focusing on understanding AD pathology by targeting several mechanisms, such as abnormal tau protein metabolism, β-amyloid, inflammatory response, and cholinergic and free radical damage, aiming to develop successful treatments that are capable of stopping or modifying the course of AD. This review discusses currently available drugs and future theories for the development of new therapies for AD, such as disease-modifying therapeutics (DMT), chaperones, and natural compounds.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/1420-3049/25/24/5789/pdf?version=1607480548"
+}

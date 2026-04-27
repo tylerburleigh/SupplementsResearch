@@ -1,0 +1,38 @@
+{
+  "id": "src-063",
+  "title": "Effects of Two Consecutive Demanding Military Field Exercises on Iron Status in Male and Female Conscripts",
+  "authors": [
+    "STRØMLAND, STINE SOFIE",
+    "TEIEN, HILDE KRISTIN",
+    "AUNBAKK, NIKOLAI B.",
+    "VIKMOEN, OLAV",
+    "TANSØ, RITA",
+    "RAASTAD, TRULS",
+    "FRØSLIE, KATHRINE FREY",
+    "BØHN, SIV KJØLSRUD"
+  ],
+  "year": 2026,
+  "abstract": "Purpose:\nInvestigate the effects of two consecutive demanding military field exercises on iron status and associations with physical performance in male and female conscripts, and assess potential sex differences.\n\nMethods:\nBlood sampling and physical tests were performed before a 6-day field exercise (Exercise I), during a 2-wk recovery period, and after a second 10-day field exercise (Exercise II) in 23 men and 12 women (median age 19). Of these, 21 men and 9 women completed Exercise II.\n\nResults:\nA large proportion of men and women had low iron status before the field exercises, including suboptimal ferritin levels in 67% of women and low hemoglobin concentrations in 57% of men. Several iron biomarkers, except ferritin, decreased in response to Exercise I followed by an increase during the recovery period and a decrease in response to Exercise II. Ferritin levels, inflammation- and tissue damage biomarkers increased in response to Exercise I, decreased during recovery, and remained unchanged in response to Exercise II. Red blood cells and hemoglobin levels were unaffected by Exercise I, but increased during recovery, and decreased in men only in response to Exercise II. Iron saturation decreased more in women (–10.4 [–14.3, –6.5]%) than men (–5.5 [–8.3, –2.6]%) and ferritin increased more in men (79.5 [69.0, 90.0] µg/L) than women (42.8 [28.3, 57.2] µg/L) in response to Exercise I. Recovery of jump performance correlated with increased iron and iron saturation in men and increased red blood cells and hemoglobin in women.\n\nConclusions:\nIron status was diminished after the field exercises in both sexes, and the decrease was slightly more pronounced in women. The recovery period was not sufficient to ensure full restoration of iron status, which may have impacted physical performance. The results encourage future investigations into individualized improvement in iron status before, and possibly during, strenuous military training.",
+  "doi": "10.1249/mss.0000000000003857",
+  "url": "https://doi.org/10.1249/mss.0000000000003857",
+  "pdf_url": "",
+  "venue": "Medicine &amp; Science in Sports &amp; Exercise",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T18:08:57.288807+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-063.md",
+  "quality_details": {
+    "content_length": 74790,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

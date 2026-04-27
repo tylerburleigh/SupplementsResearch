@@ -1,0 +1,18 @@
+{
+  "id": "src-296",
+  "title": "The safety and efficacy of long-term use of calcitonin analogs in the treatment of osteoporosis in the elderly: a pharmacovigilance and RCT meta-analysis",
+  "authors": [
+    "Tan, Lingjie",
+    "Sheng, Bin",
+    "Deng, Sui"
+  ],
+  "doi": "10.3389/fphar.2025.1514387",
+  "url": "https://www.semanticscholar.org/paper/6d307dc3616fee0887e9c81353534856f7279687",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "Frontiers in Pharmacology",
+  "citation_count": 4,
+  "abstract": "Background Osteoporosis is a common metabolic bone disease in the elderly, and its incidence continues to rise with the global aging population. Calcitonin analogs (including synthetic salmon, human, and porcine calcitonin preparations) are a classic treatment option for osteoporosis; however, the safety and efficacy of their long-term use remain controversial despite widespread application. Objective This study aims to systematically assess the safety and efficacy of long-term use of calcitonin analogs in the treatment of osteoporosis in the elderly through pharmacovigilance analysis and meta-analysis. Methods The study evaluated the long-term effectiveness and adverse effects of calcitonin analogs using pharmacovigilance data from the FAERS database and a meta-analysis of randomized controlled trials (RCTs). The pharmacovigilance analysis included adverse event data from osteoporosis patients aged 65 and older from 2004 to 2023, and signal detection was performed using the reporting odds ratio (ROR), proportional reporting ratio (PRR), and Bayesian confidence propagation neural network (BCPNN) methods. The meta-analysis included RCT studies related to calcitonin published after 2010, and a random-effects model was used to calculate the hazard ratio (HR) with a 95% confidence interval. Results Pharmacovigilance analysis revealed that nasal discomfort (ROR = 283.4, PRR = 264.5, IC = 7.3, IC025 = 6.8) and abnormal product odor (ROR = 206.2, PRR = 201.9, IC = 7.1, IC025 = 6.1) were the most significant adverse reactions associated with calcitonin. Meta-analysis results showed no significant effect of calcitonin analogs in preventing new non-vertebral fractures and vertebral fractures (HR = 0.97, 95% CI: 0.76–1.24; HR = 0.93, 95% CI: 0.77–1.14). Changes in lumbar spine and femoral neck bone mineral density showed a slight upward trend but were not statistically significant. The analysis of NTx-1 levels (N-terminal telopeptide of type I collagen, a marker of bone resorption) revealed substantial heterogeneity, with significant variation in results across studies. Conclusion Long-term use of calcitonin analogs for the treatment of osteoporosis in the elderly does not confer additional benefits and instead increases the risk of adverse reactions.",
+  "type": "academic",
+  "pdf_url": ""
+}

@@ -1,0 +1,32 @@
+{
+  "id": "src-447",
+  "title": "Capsaicin and nicotine alleviate MPTP induced olfactory dysfunction by suppressing cGAS/TBK1/STING and MAPK mediated neuroinflammation",
+  "authors": [
+    "Wei, Jingjing",
+    "Wang, Linhai",
+    "Wang, Dingzhong",
+    "Chen, Weiwei",
+    "Guo, Lulu",
+    "Ren, Mengqian",
+    "Guo, Fangxin",
+    "Ruan, Sisi",
+    "Hu, Hangcui",
+    "Zheng, Yao",
+    "Nan, Siqi",
+    "Xu, Zhiwen",
+    "Li, Yan",
+    "Yuan, Hang",
+    "Mao, Jian",
+    "Xu, Yan",
+    "Xie, Jianping"
+  ],
+  "doi": "10.1038/s41531-025-01135-4",
+  "url": "https://www.semanticscholar.org/paper/58e4bc558c6275cf99f6e4ee89ee928137d24c8a",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "npj Parkinson's Disease",
+  "citation_count": 0,
+  "abstract": "Olfactory dysfunction serves as a potential early diagnostic biomarker for Parkinson’s disease (PD), providing essential evidence for investigating PD pathogenesis and developing neuroprotective strategies. Capsaicin (CAP) and nicotine (Nic), pungent flavor compounds derived from Solanaceae plants, exhibit anti-inflammatory properties. Epidemiological studies indicate that higher levels of chili pepper consumption and smoking are inversely associated with PD risk. However, the mechanisms of CAP and Nic against PD-related olfactory dysfunction remain unclear. In this study, we observed that CAP and Nic ameliorated olfactory dysfunction in MPTP intranasal-treated PD mice and alleviated dopaminergic damage in key brain regions including the olfactory bulb, anterior olfactory nucleus, striatum and substantia nigra. Both compounds suppressed microglial activation in these regions, downregulated IL-6 expression, and upregulated TGF-β protein levels. Furthermore, our findings demonstrated that CAP and Nic could effectively mitigate MPTP-induced olfactory deficits by attenuating neuroinflammation mediated through the cGAS/TBK1/STING and MAPK signaling.",
+  "type": "academic",
+  "pdf_url": ""
+}

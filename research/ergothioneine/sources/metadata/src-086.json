@@ -1,0 +1,21 @@
+{
+  "id": "src-086",
+  "title": "Engineering ergothioneine production in Yarrowia lipolytica.",
+  "authors": [
+    "van der Hoek, Steven A",
+    "Rusnák, Matej",
+    "Jacobsen, Irene Hjorth",
+    "Martínez, José L",
+    "Kell, Douglas B",
+    "Borodina, Irina"
+  ],
+  "doi": "10.1002/1873-3468.14239",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34817066",
+  "provider": "pubmed",
+  "year": 2022,
+  "venue": "FEBS letters",
+  "citation_count": 0,
+  "abstract": "Ergothioneine is a naturally occurring antioxidant that has shown potential in ameliorating neurodegenerative and cardiovascular diseases. In this study, we investigated the potential of the Crabtree-negative, oleaginous yeast Yarrowia lipolytica as an alternative host for ergothioneine production. We expressed the biosynthetic enzymes EGT1 from Neurospora crassa and EGT2 from Claviceps purpurea to obtain 158 mg·L-1 of ergothioneine in small-scale cultivation, with an additional copy of each gene improving the titer to 205 mg·L-1 . The effect of phosphate limitation on ergothioneine production was studied, and finally, a phosphate-limited fed-batch fermentation in 1 L bioreactors yielded 1.63 ± 0.04 g·L-1 ergothioneine in 220 h, corresponding to an overall volumetric productivity of 7.41 mg·L-1 ·h-1 , showing that Y. lipolytica is a promising host for ergothioneine production.",
+  "type": "academic",
+  "pdf_url": ""
+}

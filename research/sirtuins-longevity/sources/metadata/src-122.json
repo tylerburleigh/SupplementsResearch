@@ -1,0 +1,19 @@
+{
+  "id": "src-122",
+  "title": "Implications of altered NAD metabolism in metabolic disorders",
+  "authors": [
+    "Okabe, Keisuke",
+    "Yaku, Keisuke",
+    "Tobe, Kazuyuki",
+    "Nakagawa, Takashi"
+  ],
+  "doi": "10.1186/s12929-019-0527-8",
+  "url": "https://openalex.org/W2944227504",
+  "provider": "openalex",
+  "year": 2019,
+  "venue": "Journal of Biomedical Science",
+  "citation_count": 223,
+  "abstract": "Nicotinamide adenine dinucleotide (NAD) is an important coenzyme that participates in various energy metabolism pathways, including glycolysis, β-oxidation, and oxidative phosphorylation. Besides, it is a required cofactor for post-translational modifications such as ADP-ribosylation and deacetylation by poly (ADP-ribose) polymerases (PARPs) and sirtuins, respectively. Thus, NAD regulates energy metabolism, DNA damage repair, gene expression, and stress response through these enzymes. Numerous studies have shown that NAD levels decrease with aging and under disturbed nutrient conditions, such as obesity. Additionally, a decline in NAD levels is closely related to the development of various metabolic disorders, including diabetes and fatty liver disease. In addition, many studies have revealed that administration of NAD precursors, such as nicotinamide mononucleotide (NMN) and nicotinamide riboside (NR), efficiently increase NAD levels in various tissues and prevent such metabolic diseases. These NAD precursors are contained in natural foods, such as cow milk, vegetables, and meats. Therefore, altered NAD metabolism can be a practical target for nutritional intervention. Recently, several human clinical trials using NAD precursors have been conducted to investigate the safety, pharmacokinetics, and efficacy against metabolic disorders such as glucose intolerance. In this review, we summarize current knowledge on the implications of NAD metabolism in metabolic diseases and discuss the outcomes of recent human clinical trials.",
+  "type": "academic",
+  "pdf_url": "https://jbiomedsci.biomedcentral.com/track/pdf/10.1186/s12929-019-0527-8"
+}

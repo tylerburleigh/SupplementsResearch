@@ -1,0 +1,32 @@
+{
+  "id": "src-236",
+  "title": "Non-linear Mendelian randomization of vitamin D and C-Reactive Protein: an interrogation of methods",
+  "authors": [
+    "Leyden, Genevieve M",
+    "Hamilton, Fergus W",
+    "Sanderson, Eleanor",
+    "Davey Smith, George"
+  ],
+  "year": 2025,
+  "abstract": "Abstract\nMendelian randomization (MR) is an established epidemiological technique which uses genetic variants to strengthen causal inference regarding modifiable exposures. Non-linear MR is an extension to MR which aims to estimate whether the effect differs across the level of the exposure. Many applications of non-linear MR have focused on Vitamin D as an exposure. Using this technique, the study sample is divided into strata, and separate estimates are calculated in each stratum to estimate causal effects at different levels of the exposure (e.g. Vitamin D). For example, a recent study which applied this method identified an apparent protective effect of Vitamin D on C-reactive protein (CRP) levels for those with poor Vitamin D status. However, recent work has highlighted that the commonly used non-linear MR approaches are susceptible to serious bias, suggesting that further methodological development incorporating extensive simulation and empirical investigation is required. In this paper, we provide a commentary on the sources of bias in non-linear MR methods with a re-examination of the relationship between Vitamin D and CRP as an applied example. We highlight the role of negative controls and non-collider variable-based stratification as potential sensitivity tests to identify potential bias for putative non-linear associations in empirical settings.",
+  "doi": "10.1101/2025.09.10.25335520",
+  "url": "https://doi.org/10.1101/2025.09.10.25335520",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-24T01:34:47.533284+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-236.md",
+  "quality_details": {
+    "content_length": 53535,
+    "alpha_ratio": 0.714,
+    "sentence_count": 421,
+    "reasons": []
+  }
+}

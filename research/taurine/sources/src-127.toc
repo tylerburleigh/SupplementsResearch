@@ -1,0 +1,103 @@
+18	2	1. Taurine synthesis
+19	2	2. Taurine transport
+21	2	4. Volume-insensitive and -sensitive taurine transport
+22	2	5. Taurine deficient conditions
+24	2	7.  Mitochondrial myopathy, encephalopathy, lactic acidosis
+27	2	1. Taurine synthesis
+108	2	2. Taurine transport
+179	2	3. Regulation of TauT transporter
+549	2	5. Taurine deficient conditions
+782	2	7. Mitochondrial myopathy, encephalopathy, lactic acidosis
+856	2	8. Conclusions
+876	2	Acknowledgements
+899	2	Competing Interests
+904	2	References
+905	2	1. Falany cn , Johnson Mr , Barnes S and d iasio r B: Glycine and
+916	2	4. Trenkner e: Possible role of glutamate with taurine in neuron-glia
+919	2	5. Schaffer SW, a zuma J and Madura J d : Mechanisms underlying
+922	2	6. Tappaz M l : Taurine biosynthetic enzymes and taurine trans -
+925	2	7. Stipanuk MH: r ole of the liver in regulation of body cysteine and
+929	2	9. Stipanuk MH, l ondono M, l ee Ji, Hu M and Yu a F: e nzymes
+940	2	12. Park e , Park SY, Wang c, Xu J, l aFauci G and Schuller-l evis G:
+944	2	13. Marcinkiewicz J and Kontny E: Taurine and inflammatory
+946	2	14. Jerkins AA and Steele RD: Quantification of cysteine sulfinic acid
+949	2	15. Ueki I, Roman HB, Valli A, Fieselmann K, Lam J, Peters R,
+962	2	18. Miyamoto Y, Tiruppathi c , Ganapathy V and l eibach FH: a ctive
+968	2	20. Glass en , o dle J and Baker d H: u rinary taurine excretion as a
+980	2	23. Voss JW, Pedersen SF, c hristensen ST and l ambert i H:
+984	2	24. Jensen a , Figueiredo-l arsen M, Holm r , Broberg Ml , Brodin B
+988	2	25. Jong c J, ito T, Mozaffari M, a zuma J and Schaffer S: e ffect of
+994	2	27. Suzuki T, Suzuki T, Wada T, Saigo K and Watanabe K: Taurine
+1003	2	29. Takeuchi K, Toyohara H and Sakaguchi M: A hyperosmotic
+1010	2	30. Mollerup J and l ambert i H: c alyculin a modulates the kinetic
+1015	2	31. Sakai S, Tosaka T, Tasaka J, Hashiguchi T and Yoshihama i:
+1018	2	32. Han X, Patters a B, Jones d P, Zelikovic i and c hesney r W: The
+1025	2	34. Han X, Patters a B and c hesney r W: Transcriptional repression
+1031	2	36. Miyazaki T and Matsuzaki Y: Taurine and liver diseases: a focus
+1034	2	37. Hammarqvist F, Angsten G, Meurling S, Andersson K and
+1037	2	38. Li Y, Hu Z, Chen B, Bu Q, Lu W, Deng Y, Zhu R, Shao X, Hou J,
+1041	2	39. Holecek M and Sispera l : e ffects of arginine supplemen -
+1044	2	40. Li Y, Li F, Wu L, Wei H, Liu Y, Li T, Tan B, Kong X, Yao K,
+1048	2	41. Holecek M and Kovarik M: Alterations in protein metabolism
+1059	2	43. Mochizuki T, Satsu H, n akano T and Shimizu M: r egulation
+1063	2	44. Ishizuka K, Miyamoto Y, Satsu H, Sato R and Shimizu M:
+1067	2	45. Mochizuki T, Satsu H and Shimizu M: Signaling pathways
+1072	2	46. Merheb M, d aher r T, n asrallah M, Sabra r , Ziyadeh F n and
+1075	2	47. Han X, Budreau aM and chesney rW: The taurine transporter gene
+1081	2	49. Satsu H, Miyamoto Y and Shimizu M: Hypertonicity stimulates
+1084	2	50. Uchida S, Kwon HM, Yamauchi A, Preston AS, Marumo F and
+1094	2	53. Zelikovic i and c hesney r W: Sodium -coupled amino acid
+1096	2	54. Silbernagl S: The renal handling of amino acids and oligo -
+1098	2	55. Zelikovic i and c hesney r W: ionic requirements for amino acid
+1100	2	56. Hoffmann EK and Lambert IH: Amino acid transport and cell
+1103	2	57. Han X, Budreau a M and c hesney r W: i dentification of
+1111	2	59. Jones d P, Miller la and c hesney r W: Polarity of taurine
+1114	2	60. Jones d P, Miller la , d owling c and c hesney r W: r egulation
+1118	2	61. Jones d P, Miller la  and c hesney r W: a daptive regulation of
+1121	2	62. Jones dP, Miller la , Budreau a and c hesney r W: characteristics
+1125	2	63. Handler JS and Kwon HM: Transcriptional regulation by changes
+1141	2	67. Roos S, Kanai Y, Prasad PD, Powell TL and Jansson T: Regulation
+1146	2	69. Han X, Yue J and c hesney r W: Functional TauT protects against
+1148	2	70. Matsell d G, Bennett T, Han X, Budreau a M and c hesney r W:
+1151	2	71. Shalby a B, a ssaf n and a hmed HH: Possible mechanisms for
+1158	2	73. Hansen DB, Friis MB, Hoffmann EK and Lambert IH:
+1162	2	74. Mollerup J and l ambert i H: Phosphorylation is involved in the
+1166	2	75. Qian X, Vinnakota S, Edwards C and Sarkar HK: Molecular
+1169	2	76. Jacobsen JH, c lement ca , Friis MB and l ambert i H: c asein
+1173	2	77. Smith KE, Borden LA, Wang CH, Hartig PR, Branchek TA and
+1176	2	78. Kang YS, Ohtsuki S, Takanaga H, Tomi M, Hosoya K and
+1185	2	81. Schoch HJ, Fischer S and Marti HH: Hypoxia -induced vascular
+1188	2	82. Yeh Wl , lu d Y, l in c J, l iou Hc  and Fu WM: i nhibition of
+1196	2	84. Poulaki V , Qin W, Joussen AM, Hurlbut P, Wiegand SJ, Rudge J,
+1205	2	86. Bianchi l , l ari r , a nichini r , d e Bellis a , Berti a , n apoli Z,
+1209	2	87. Han X and Chesney RW: Knockdown of TauT expression impairs
+1212	2	88. Son HY, Kim H and Kwon YH: Taurine prevents oxidative
+1215	2	89. Hou X, Wang Z, d ing F, He Y, Wang P, l iu X, Xu F, Wang J
+1221	2	90. Tervaert TWC, Mooyaart AL, Amann K, Cohen AH, Cook HT,
+1231	2	92. Villumsen KR, Duelund L and Lambert IH: Acute cholesterol
+1237	2	94. Poulsen KA, Andersen EC, Hansen CF, Klausen TK,
+1242	2	95. Lambert IH: Effect of arachidonic acid on conductive Na, K and
+1251	2	98. Ito T, Kimura Y, Uozumi Y, Takai M, Muraoka S, Matsuda  T,
+1256	2	99. Izumi K, Kishita C, Nakagawa K, Huxtable RJ, Shimizu T,
+1263	2	101. Choi D, Kim SJ, Kwon DY, Lee SY and Kim YC: Taurine
+1277	2	104. Ito T, Oishi S, Takai M, Kimura Y, Uozumi Y, Fujio Y,
+1281	2	105. Kaesler S, Sobiesiak M, Kneilling M, Volz T, Kempf WE,
+1289	2	107. Warskulat u , Borsch e , r einehr r , Heller -Stilb B, r oth c ,
+1293	2	108. Qvartskhava N, Jin CJ, Buschmann T, Albrecht U, Bode JG,
+1298	2	109. Ito T, Okazaki K, Nakajima D, Shibata D, Murakami S and
+1302	2	110. Franchi -Gazzola r , Gaccioli F, Bevilacqua e , Visigalli r ,
+1307	2	111. Trama J, Go WY and Ho S n : The osmoprotective function of
+1310	2	112. Burg MB and Ferraris J d : i ntracellular organic osmolytes:
+1312	2	113. Schaffer SW, Jong cJ, ito T and a zuma J: r ole of taurine in the
+1315	2	114. Board PG, Moore KA and Smith JE: Purification and prop -
+1319	2	115. Krishnamurthy J, Torrice C, Ramsey MR, Kovalev GI,
+1326	2	117. Back SH, Scheuner d , Han J, Song B, r ibick M, Wang J,
+1332	2	118. Harding HP, novoa i, Zhang Y, Zeng H, Wek r, Schapira M and
+1336	2	119. Araki K and Nagata K: Protein folding and quality control in the
+1338	2	120. Salminen A and Kaarniranta K: ER stress and hormetic regu-
+1340	2	121. Jong c J, ito T, a zuma J and Schaffer S: Taurine depletion
+1348	2	123. Kirino Y, Yasukawa T, Ohta S, Akira S, Ishihara K, Watanabe K
+1353	2	124. Yasukawa T, Suzuki T, Ueda T, Ohta S and Watanabe K:
+1358	2	125. Mozaffari MS, Tan BH, lucia M a and Schaffer SW: e ffect
+1361	2	126. Jong c J, a zuma J and Schaffer S: Mechanism underlying the
+1364	2	127. Vionnet n , Passa P and Froguel P: Prevalence of mitochondrial

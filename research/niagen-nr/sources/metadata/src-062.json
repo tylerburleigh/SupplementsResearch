@@ -1,0 +1,22 @@
+{
+  "id": "src-062",
+  "title": "Next-Gen Neuroprotection in Glaucoma: Synergistic Molecules for Targeted Therapy.",
+  "authors": [
+    "Martucci, Alessio",
+    "Cesareo, Massimo",
+    "Pinazo-Durán, Maria Dolores",
+    "Aiello, Francesco",
+    "Pocobelli, Giulio",
+    "Mancino, Raffaele",
+    "Nucci, Carlo"
+  ],
+  "doi": "10.3390/jcm14176145",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40943905",
+  "provider": "pubmed",
+  "year": 2025,
+  "venue": "Journal of clinical medicine",
+  "citation_count": 0,
+  "abstract": "BACKGROUND: Glaucoma is a progressive optic neuropathy marked by retinal ganglion cells (RGCs), apoptosis, vascular insufficiency, oxidative stress, mitochondrial dysfunction, excitotoxicity, and neuroinflammation. While intraocular pressure (IOP) reduction remains the primary intervention, many patients continue to lose vision despite adequate pressure control. Emerging neuroprotective agents-citicoline, coenzyme Q10 (CoQ10), pyruvate, nicotinamide, pyrroloquinoline quinone (PQQ), homotaurine, berberine, and gamma-aminobutyric acid (GABA)-target complementary pathogenic pathways in experimental and clinical settings.\nMETHODS: This literature review synthesizes current evidence on glaucoma neuroprotection, specifically drawing on the most relevant and recent studies identified via PubMed.\nRESULTS: Citicoline enhances phospholipid synthesis, stabilizes mitochondrial membranes, modulates neurotransmitters, and improves electrophysiological and visual field outcomes. CoQ10 preserves mitochondrial bioenergetics, scavenges reactive oxygen species, and mitigates glutamate-induced excitotoxicity. Pyruvate supports energy metabolism, scavenges reactive oxygen species, and restores metabolic transporter expression. Nicotinamide and its precursor nicotinamide riboside boost NAD+ levels, protect against early mitochondrial dysfunction, and enhance photopic negative response amplitudes. PQQ reduces systemic inflammation and enhances mitochondrial metabolites, while homotaurine modulates GABAergic signaling and inhibits β-amyloid aggregation. Berberine attenuates excitotoxicity, inflammation, and apoptosis via the P2X7 and GABA-PKC-α pathways. Preclinical models demonstrate synergy when agents are combined to address multiple targets. Clinical trials of fixed-dose combinations-such as citicoline + CoQ10 ± vitamin B3, citicoline + homotaurine ± vitamin E or PQQ, and nicotinamide + pyruvate-show additive improvements in RGCs' electrophysiology, visual function, contrast sensitivity, and quality of life without altering IOP.\nCONCLUSIONS: A multi-targeted approach is suitable for glaucoma's complex neurobiology and may slow progression more effectively than monotherapies. Ongoing randomized controlled trials are essential to establish optimal compound ratios, dosages, long-term safety, and structural outcomes. However, current evidence remains limited by small sample sizes, heterogeneous study designs, and a lack of long-term real-world data. Integrating combination neuroprotection into standard care holds promise for preserving vision and reducing the global burden of irreversible glaucoma-related blindness.",
+  "type": "academic",
+  "pdf_url": ""
+}

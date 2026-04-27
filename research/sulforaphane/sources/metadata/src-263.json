@@ -1,0 +1,22 @@
+{
+  "id": "src-263",
+  "title": "The Role of Toxic Metals and Metalloids in Nrf2 Signaling",
+  "authors": [
+    "Djordjević, Aleksandra Buha",
+    "Baralić, Katarina",
+    "Đukić-Ćosić, Danijela",
+    "Bulat, Zorica",
+    "Tinkov, Alexey A.",
+    "Panieri, Emiliano",
+    "Saso, Luciano"
+  ],
+  "doi": "10.3390/antiox10050630",
+  "url": "https://openalex.org/W3152532567",
+  "provider": "openalex",
+  "year": 2021,
+  "venue": "Antioxidants",
+  "citation_count": 72,
+  "abstract": "Nuclear factor erythroid 2-related factor 2 (Nrf2), an emerging regulator of cellular resistance to oxidants, serves as one of the key defensive factors against a range of pathological processes such as oxidative damage, carcinogenesis, as well as various harmful chemicals, including metals. An increase in human exposure to toxic metals via air, food, and water has been recently observed, which is mainly due to anthropogenic activities. The relationship between environmental exposure to heavy metals, particularly cadmium (Cd), lead (Pb), mercury (Hg), and nickel (Ni), as well as metaloid arsenic (As), and transition metal chromium (Cr), and the development of various human diseases has been extensively investigated. Their ability to induce reactive oxygen species (ROS) production through direct and indirect actions and cause oxidative stress has been documented in various organs. Taking into account that Nrf2 signaling represents an important pathway in maintaining antioxidant balance, recent research indicates that it can play a dual role depending on the specific biological context. On one side, Nrf2 represents a potential crucial protective mechanism in metal-induced toxicity, but on the other hand, it can also be a trigger of metal-induced carcinogenesis under conditions of prolonged exposure and continuous activation. Thus, this review aims to summarize the state-of-the-art knowledge regarding the functional interrelation between the toxic metals and Nrf2 signaling.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2076-3921/10/5/630/pdf?version=1618970440"
+}

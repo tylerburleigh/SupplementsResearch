@@ -1,0 +1,20 @@
+{
+  "id": "src-291",
+  "title": "Metabolic mechanisms orchestrated by Sirtuin family to modulate inflammatory responses",
+  "authors": [
+    "Li, Xiao-qin",
+    "Li, Yunjia",
+    "Hao, Quan",
+    "Jin, Jing",
+    "Wang, Yi"
+  ],
+  "doi": "10.3389/fimmu.2024.1448535",
+  "url": "https://www.semanticscholar.org/paper/d521e8fb66ff6888c57d39b6ea69f552e80ba327",
+  "provider": "semantic_scholar",
+  "year": 2024,
+  "venue": "Frontiers in Immunology",
+  "citation_count": 21,
+  "abstract": "Maintaining metabolic homeostasis is crucial for cellular and organismal health throughout their lifespans. The intricate link between metabolism and inflammation through immunometabolism is pivotal in maintaining overall health and disease progression. The multifactorial nature of metabolic and inflammatory processes makes study of the relationship between them challenging. Homologs of Saccharomyces cerevisiae silent information regulator 2 protein, known as Sirtuins (SIRTs), have been demonstrated to promote longevity in various organisms. As nicotinamide adenine dinucleotide-dependent deacetylases, members of the Sirtuin family (SIRT1–7) regulate energy metabolism and inflammation. In this review, we provide an extensive analysis of SIRTs involved in regulating key metabolic pathways, including glucose, lipid, and amino acid metabolism. Furthermore, we systematically describe how the SIRTs influence inflammatory responses by modulating metabolic pathways, as well as inflammatory cells, mediators, and pathways. Current research findings on the preferential roles of different SIRTs in metabolic disorders and inflammation underscore the potential of SIRTs as viable pharmacological and therapeutic targets. Future research should focus on the development of promising compounds that target SIRTs, with the aim of enhancing their anti-inflammatory activity by influencing metabolic pathways within inflammatory cells.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.3389/fimmu.2024.1448535"
+}

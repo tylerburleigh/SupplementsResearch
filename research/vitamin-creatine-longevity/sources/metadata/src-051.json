@@ -1,0 +1,16 @@
+{
+  "id": "src-051",
+  "title": "Protein Diet and Estimated Glomerular Filtration Rate",
+  "authors": [
+    "Lohsiriwat, Supatra"
+  ],
+  "doi": "10.4236/ojneph.2013.32016",
+  "url": "https://openalex.org/W2010347157",
+  "provider": "openalex",
+  "year": 2013,
+  "venue": "Open Journal of Nephrology",
+  "citation_count": 9,
+  "abstract": "Chronic kidney disease (CKD) is a common health problem worldwide. CKD staging or classification, together with patients’ prognosis and treatment plan depend on the patients’ kidney function which is assessed by measurement of glomerular filtration rate (GFR). Estimated GFR can be obtained using serum or plasma creatinine as a main variable in equations or formulae such as Cockcroft-Gault equation, MDRD equation (Modification of Diet in Renal Disease), the Schwartz and Counahan-Barratt formulae. These equations, though widely accepted, still have to be adjusted or validated among different groups of patients according to the variation in some factors such as race, diet, and genetic heterogenicity. Diet, especially the high protein load, can affect GFR representing the renal functional reserve. A high protein diet can cause an increase in GFR that lasts for many hours. Long-term consumption of vegetarian diet which is low in protein and contains only protein from plant sources can cause a low baseline GFR while the renal functional reserve is still preserved. This paper aims to remind of the role of protein diet effect on GFR measurement especially when assessing the renal function in vegetarians or individuals on long-term low-protein intake.",
+  "type": "academic",
+  "pdf_url": "http://www.scirp.org/journal/PaperDownload.aspx?paperID=33298"
+}

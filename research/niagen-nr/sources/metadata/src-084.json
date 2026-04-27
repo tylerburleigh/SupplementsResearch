@@ -1,0 +1,20 @@
+{
+  "id": "src-084",
+  "title": "Nicotinamide Adenine Dinucleotide Metabolome Is Functionally Depressed in Patients Undergoing Liver Transplantation for Alcohol‐Related Liver Disease",
+  "authors": [
+    "Parker, Richard",
+    "Schmidt, Mark S.",
+    "Cain, Owen",
+    "Gunson, Bridget",
+    "Brenner, Charles"
+  ],
+  "doi": "10.1002/hep4.1530",
+  "url": "https://openalex.org/W3028618781",
+  "provider": "openalex",
+  "year": 2020,
+  "venue": "Hepatology Communications",
+  "citation_count": 25,
+  "abstract": "Nicotinamide adenine dinucleotide (NAD<sup>+</sup>) and related coenzymes play critical roles in liver function. Although hepatic alcohol metabolism depresses NAD<sup>+</sup>, current understanding of the NAD<sup>+</sup> metabolome in alcohol-related liver disease (ArLD) is based on animal models. We used human liver samples to quantify the NAD<sup>+</sup> metabolome in ArLD with samples obtained at the time of liver transplantation or resection at University Hospitals Birmingham National Health Service Foundation Trust. The severity of steatohepatitis in liver from patients with ArLD was assessed with standard liver function tests and histology. NAD-targeted quantitative metabolomic analysis of liver tissue was performed by liquid chromatography-tandem mass spectrometry. Seventy-two human liver specimens were analyzed, including 43 with ArLD. The NAD<sup>+</sup> metabolome differed significantly between different types of liver disease (two-way analysis of variance [ANOVA], <i>P</i> = 0.001). ArLD liver tissue showed markedly depressed concentrations of NAD<sup>+</sup> (432 μM vs. 616 μM in normal liver) and precursor molecules nicotinic acid and nicotinamide riboside. There was a significant overall difference in the NAD<sup>+</sup> metabolome between ArLD samples with and without steatohepatitis (two-way ANOVA, <i>P</i> = 0.018). After correcting for multiple comparisons, a significant difference for individual components of the metabolome was observed for the concentration of NAD<sup>+</sup> (mean, 462 μM vs. 322 μM; <i>P</i> < 0.01 in nonsevere vs. severe alcoholic steatohepatitis, respectively). NAD<sup>+</sup> concentration was inversely related to serum bilirubin concentration (<i>r</i> <sup>2</sup> = -0.127; <i>P</i> = 0.04) and positively correlated with myeloperoxidase activity (<i>r</i> <sup>2</sup> = 0.31; <i>P</i> = 0.003). The concentration of NAD<sup>+</sup> and its precursor molecules are significantly reduced in ArLD and are associated with disease activity. <i>Conclusion</i>: Liver samples from people with ArLD show depressed NAD<sup>+</sup> and precursor levels as well as depressed myeloperoxidase activity.",
+  "type": "academic",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/hep4.1530"
+}

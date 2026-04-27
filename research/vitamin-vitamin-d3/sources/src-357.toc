@@ -1,0 +1,13 @@
+4	2	Diabetic
+5	2	Studies                                                                   Open Access
+29	2	Abstract
+53	2	Introduction
+95	2	Materials And Methods
+141	2	Statistical Analysis
+148	2	Results
+227	2	Design
+249	2	2012 Mongoli
+279	2	Analysis
+441	2	Discussion
+473	2	Conclusion
+492	2	References

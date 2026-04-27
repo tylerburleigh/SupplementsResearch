@@ -1,0 +1,18 @@
+{
+  "id": "src-100",
+  "title": "Application of in vitro bioaccessibility and bioavailability methods for calcium, carotenoids, folate, iron, magnesium, polyphenols, zinc, and vitamins B6, B12, D, and E",
+  "authors": [
+    "Etcheverry, Paz",
+    "Grusak, Michael A.",
+    "Fleige, Lisa"
+  ],
+  "doi": "10.3389/fphys.2012.00317",
+  "url": "https://openalex.org/W2058736184",
+  "provider": "openalex",
+  "year": 2012,
+  "venue": "Frontiers in Physiology",
+  "citation_count": 376,
+  "abstract": "A review of in vitro bioaccessibility and bioavailability methods for polyphenols and selected nutrients is presented. The review focuses on in vitro solubility, dialyzability, the dynamic gastrointestinal model (TIM)™, and Caco-2 cell models, the latter primarily for uptake and transport, and a discussion of how these methods have been applied to generate data for a range of nutrients, carotenoids, and polyphenols. Recommendations are given regarding which methods are most justified for answering bioaccessibility or bioavailability related questions for specific nutrients. The need for more validation studies in which in vivo results are compared to in vitro results is also discussed.",
+  "type": "academic",
+  "pdf_url": "https://www.frontiersin.org/articles/10.3389/fphys.2012.00317/pdf"
+}

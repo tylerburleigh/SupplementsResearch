@@ -1,0 +1,21 @@
+{
+  "id": "src-057",
+  "title": "Predicting the correct dose in children: Role of computational Pediatric Physiological-based pharmacokinetics modeling tools.",
+  "authors": [
+    "Zhou, Xu",
+    "Dun, Jiening",
+    "Chen, Xiao",
+    "Xiang, Bai",
+    "Dang, Yunjie",
+    "Cao, Deying"
+  ],
+  "doi": "10.1002/psp4.12883",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36330677",
+  "provider": "pubmed",
+  "year": 2023,
+  "venue": "CPT: pharmacometrics & systems pharmacology",
+  "citation_count": 0,
+  "abstract": "The pharmacokinetics (PKs) and safety of medications in particular groups can be predicted using the physiologically-based pharmacokinetic (PBPK) model. Using the PBPK model may enable safe pediatric clinical trials and speed up the process of new drug research and development, especially for children, a population in which it is relatively difficult to conduct clinical trials. This review summarizes the role of pediatric PBPK (P-PBPK) modeling software in dose prediction over the past 6 years and briefly introduces the process of general P-PBPK modeling. We summarized the theories and applications of this software and discussed the application trends and future perspectives in the area. The modeling software's extensive use will undoubtedly make it easier to predict dose prediction for young patients.",
+  "type": "academic",
+  "pdf_url": ""
+}

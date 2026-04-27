@@ -1,0 +1,17 @@
+{
+  "id": "src-094",
+  "title": "The Effects of Psychedelics on Neuronal Physiology",
+  "authors": [
+    "Hatzipantelis, Cassandra J.",
+    "Olson, David E."
+  ],
+  "doi": "10.1146/annurev-physiol-042022-020923",
+  "url": "https://openalex.org/W4388407376",
+  "provider": "openalex",
+  "year": 2023,
+  "venue": "Annual Review of Physiology",
+  "citation_count": 24,
+  "abstract": "Psychedelics are quite unique among drugs that impact the central nervous system, as a single administration of a psychedelic can both rapidly alter subjective experience in profound ways and produce sustained effects on circuits relevant to mood, fear, reward, and cognitive flexibility. These remarkable properties are a direct result of psychedelics interacting with several key neuroreceptors distributed across the brain. Stimulation of these receptors activates a variety of signaling cascades that ultimately culminate in changes in neuronal structure and function. Here, we describe the effects of psychedelics on neuronal physiology, highlighting their acute effects on serotonergic and glutamatergic neurotransmission as well as their long-lasting effects on structural and functional neuroplasticity in the cortex. We propose that the neurobiological changes leading to the acute and sustained effects of psychedelics might be distinct, which could provide opportunities for engineering compounds with optimized safety and efficacy profiles.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.1146/annurev-physiol-042022-020923"
+}

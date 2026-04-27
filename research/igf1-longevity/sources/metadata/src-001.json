@@ -1,0 +1,29 @@
+{
+  "id": "src-001",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://nutritionfacts.org/hnta-video/igf-1-and-longevity",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-23T22:35:18.958425+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-001.md",
+  "quality_details": {
+    "content_length": 13626,
+    "alpha_ratio": 0.803,
+    "sentence_count": 97,
+    "reasons": [
+      "paywall_page (subscribe)"
+    ]
+  }
+}

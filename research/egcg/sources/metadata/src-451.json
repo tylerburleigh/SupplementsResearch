@@ -1,0 +1,24 @@
+{
+  "id": "src-451",
+  "title": "EGCG identified as an autophagy inducer for rosacea therapy.",
+  "authors": [
+    "Zhou, Lei",
+    "Zhong, Yun",
+    "Wang, Yaling",
+    "Deng, Zhili",
+    "Huang, Yingxue",
+    "Wang, Qian",
+    "Xie, Hongfu",
+    "Zhang, Yiya",
+    "Li, Ji"
+  ],
+  "doi": "10.3389/fphar.2023.1092473",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36937834",
+  "provider": "pubmed",
+  "year": 2023,
+  "venue": "Frontiers in pharmacology",
+  "citation_count": 0,
+  "abstract": "Background: Rosacea is a common facial skin inflammatory disease featured by hyperactivation of mTORC1 signaling in the epidermis. Due to unclear pathogenesis, the effective treatment options for rosacea remain limited. Methods: Weighted gene co-expression network analysis (WGCNA) analyzed the relationship between epidermis autophagy and mTOR pathways in rosacea, and further demonstrated it through immunofluorescence and qPCR analysis. A potential therapeutic agent for rosacea was predicted based on the key genes of the WGCNA module. In vivo and in vitro experiments were conducted to verify its therapeutic role. Drug-target prediction (TargetNet, Swiss, and Tcmsp) and molecular docking offered potential pharmacological targets. Results: WGCNA showed that epidermis autophagy was related to the activation of mTOR pathways in rosacea. Next, autophagy was downregulated in the epidermis of rosacea, which was regulated by mTOR. In addition, the in vivo experiment demonstrated that autophagy induction could be an effective treatment strategy for rosacea. Subsequently, based on the key genes of the WGCNA module, epigallocatechin-3-gallate (EGCG) was predicted as a potential therapeutic agent for rosacea. Furthermore, the therapeutic role of EGCG on rosacea was confirmed in vivo and in vitro. Finally, drug-target prediction and molecular docking revealed that AKT1/MAPK1/MMP9 could be the pharmacological targets of EGCG in rosacea. Conclusion: Collectively, our findings revealed the vital role of autophagy in rosacea and identified that EGCG, as a therapeutic agent for rosacea, attenuated rosacea-like inflammation via inducing autophagy in keratinocytes.",
+  "type": "academic",
+  "pdf_url": ""
+}

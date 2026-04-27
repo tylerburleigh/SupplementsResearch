@@ -1,0 +1,24 @@
+{
+  "id": "src-053",
+  "title": "Characterizing Blood Metabolomics Profiles Associated with Self-Reported Food Intakes in Female Twins",
+  "authors": [
+    "Pallister, Tess",
+    "Jennings, Amy",
+    "Mohney, Robert P.",
+    "Yarand, Darioush",
+    "Mangino, Massimo",
+    "Cassidy, Aedín",
+    "MacGregor, Alex J.",
+    "Spector, Tim D.",
+    "Menni, Cristina"
+  ],
+  "doi": "10.1371/journal.pone.0158568",
+  "url": "https://openalex.org/W2469941922",
+  "provider": "openalex",
+  "year": 2016,
+  "venue": "PLoS ONE",
+  "citation_count": 114,
+  "abstract": "Using dietary biomarkers in nutritional epidemiological studies may better capture exposure and improve the level at which diet-disease associations can be established and explored. Here, we aimed to identify and evaluate reproducibility of novel biomarkers of reported habitual food intake using targeted and non-targeted metabolomic blood profiling in a large twin cohort. Reported intakes of 71 food groups, determined by FFQ, were assessed against 601 fasting blood metabolites in over 3500 adult female twins from the TwinsUK cohort. For each metabolite, linear regression analysis was undertaken in the discovery group (excluding MZ twin pairs discordant [≥1 SD apart] for food group intake) with each food group as a predictor adjusting for age, batch effects, BMI, family relatedness and multiple testing (1.17x10-6 = 0.05/[71 food groups x 601 detected metabolites]). Significant results were then replicated (non-targeted: P<0.05; targeted: same direction) in the MZ discordant twin group and results from both analyses meta-analyzed. We identified and replicated 180 significant associations with 39 food groups (P<1.17x10-6), overall consisting of 106 different metabolites (74 known and 32 unknown), including 73 novel associations. In particular we identified trans-4-hydroxyproline as a potential marker of red meat intake (0.075[0.009]; P = 1.08x10-17), ergothioneine as a marker of mushroom consumption (0.181[0.019]; P = 5.93x10-22), and three potential markers of fruit consumption (top association: apple and pears): including metabolites derived from gut bacterial transformation of phenolic compounds, 3-phenylpropionate (0.024[0.004]; P = 1.24x10-8) and indolepropionate (0.026[0.004]; P = 2.39x10-9), and threitol (0.033[0.003]; P = 1.69x10-21). With the largest nutritional metabolomics dataset to date, we have identified 73 novel candidate biomarkers of food intake for potential use in nutritional epidemiological studies. We compiled our findings into the DietMetab database (http://www.twinsuk.ac.uk/dietmetab-data/), an online tool to investigate our top associations.",
+  "type": "academic",
+  "pdf_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0158568&type=printable"
+}

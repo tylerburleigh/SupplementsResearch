@@ -1,0 +1,33 @@
+{
+  "id": "src-302",
+  "title": "Endogenous Calcification Inhibitors in the Prevention of Vascular Calcification: A Consensus Statement From the COST Action EuroSoftCalcNet",
+  "authors": [
+    "Bäck, Magnus",
+    "Arányi, Tamás",
+    "Cancela, M. Leonor",
+    "Carracedo, Miguel",
+    "Conceição, Natércia",
+    "Lefthériotis, Georges",
+    "MacRae, Vicky E.",
+    "Martin, Ludovic",
+    "Nitschke, Yvonne",
+    "Pasch, Andreas",
+    "Quaglino, Daniela",
+    "Rutsch, Frank",
+    "Shanahan, Catherine M.",
+    "Sorribas, Vı́ctor",
+    "Szeri, Flóra",
+    "Valdivielso, Pedro",
+    "Vanakker, Olivier",
+    "Kempf, Hervé"
+  ],
+  "doi": "10.3389/fcvm.2018.00196",
+  "url": "https://openalex.org/W2910000388",
+  "provider": "openalex",
+  "year": 2019,
+  "venue": "Frontiers in Cardiovascular Medicine",
+  "citation_count": 100,
+  "abstract": "The physicochemical deposition of calcium-phosphate in the arterial wall is prevented by calcification inhibitors. Studies in cohorts of patients with rare genetic diseases have shed light on the consequences of loss-of-function mutations for different calcification inhibitors, and genetic targeting of these pathways in mice have generated a clearer picture on the mechanisms involved. For example, generalized arterial calcification of infancy (GACI) is caused by mutations in the enzyme ecto-nucleotide pyrophosphatase/phosphodiesterase-1 (eNPP1), preventing the hydrolysis of ATP into pyrophosphate (PP<sub>i</sub>). The importance of PP<sub>i</sub> for inhibiting arterial calcification has been reinforced by the protective effects of PP<sub>i</sub> in various mouse models displaying ectopic calcifications. Besides PP<sub>i</sub>, Matrix Gla Protein (MGP) has been shown to be another potent calcification inhibitor as Keutel patients carrying a mutation in the encoding gene or <i>Mgp</i>-deficient mice develop spontaneous calcification of the arterial media. Whereas PP<sub>i</sub> and MGP represent locally produced calcification inhibitors, also systemic factors contribute to protection against arterial calcification. One such example is Fetuin-A, which is mainly produced in the liver and which forms calciprotein particles (CPPs), inhibiting growth of calcium-phosphate crystals in the blood and thereby preventing their soft tissue deposition. Other calcification inhibitors with potential importance for arterial calcification include osteoprotegerin, osteopontin, and klotho. The aim of the present review is to outline the latest insights into how different calcification inhibitors prevent arterial calcification both under physiological conditions and in the case of disturbed calcium-phosphate balance, and to provide a consensus statement on their potential therapeutic role for arterial calcification.",
+  "type": "academic",
+  "pdf_url": "https://www.frontiersin.org/articles/10.3389/fcvm.2018.00196/pdf"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "src-606",
+  "title": "Green Tea Consumption and Cancer Incidence: A Systematic Review and Meta-Analysis",
+  "authors": [
+    "Jiang, Yunjia",
+    "Wei, Yueheng",
+    "Xia, Ping"
+  ],
+  "doi": "10.1145/3792746.3792748",
+  "url": "https://www.semanticscholar.org/paper/72416a1d62bbde853ec88a4102357542838ebe8f",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "Proceedings of the 2025 4th International Conference on Health Big Data and Intelligent Healthcare",
+  "citation_count": 0,
+  "abstract": "Background: Green tea, rich in the catechin epigallocatechin gallate (EGCG), has garnered attention for its potential ability to reduce the risk of cancer. However, observational data concerning its effects on cancer susceptibility present conflicting results. We performed an extensive systematic review coupled with a meta-analysis on human research to assess whether intake or supplementation with green tea lessens the occurrence of cancer. Methods: Systematic searches were performed across PubMed and other relevant resources to pinpoint randomized controlled trials (RCTs) and prospective cohort studies that specifically measured the connection between green tea or green tea extract usage and the incidence of cancer. Risk ratios (RRs) with 95% confidence intervals (CIs) were extracted or calculated from each study. A random-effects modeling approach was adopted for determining the aggregated effect estimates. Furthermore, analyses stratified by distinct cancer categories and geographic locations were carried out.Variability across studies was gauged with the I² statistic, and likelihood of publication bias was examined through the creation of funnel plots. To ensure robustness, a sensitivity analysis involved the methodical exclusion of each individual study in turn. Results: Nine studies were included (6 cohort studies, 3 RCTs). Green tea consumption was associated with a significantly reduced overall cancer risk (RR = 0.79, 95% CI: 0.68–0.92, I² = 0%). Subgroup analyses showed consistent trends for prostate and colorectal cancers, while results for breast cancer were based on only one study. No significant publication bias was detected. Sensitivity analysis confirmed the robustness of the results. Conclusion: Ingestion of green tea might be linked to a decreased likelihood of specific cancer forms.Consequently, the results must be viewed cautiously owing to the small volume of studies analyzed, especially RCTs, and inconsistencies in how exposure was evaluated. More substantial, extended-term randomized investigations are necessary to validate these observations and discern potential dose-response correlations.",
+  "type": "academic",
+  "pdf_url": ""
+}

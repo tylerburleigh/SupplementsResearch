@@ -1,0 +1,15 @@
+43	2	Open Access
+44	2	Edited By
+47	2	Reviewed By
+62	2	Specialty Section
+70	2	Citation
+81	2	Copyright
+107	2	Keywords
+110	2	Introduction
+197	2	Materials And Methods
+263	2	Statistical Analysis
+301	2	Results
+394	2	Discussion
+569	2	Author Contributions
+578	2	Acknowledgments
+604	2	References

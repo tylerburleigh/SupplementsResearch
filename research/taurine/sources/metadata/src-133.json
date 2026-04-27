@@ -1,0 +1,30 @@
+{
+  "id": "src-133",
+  "title": "Hypotensive effect of taurine. Possible involvement of the sympathetic nervous system and endogenous opiates.",
+  "authors": [
+    "Fujita, T",
+    "Sato, Y"
+  ],
+  "year": 1988,
+  "abstract": "",
+  "doi": "10.1172/jci113709",
+  "url": "https://doi.org/10.1172/jci113709",
+  "pdf_url": "",
+  "venue": "Journal of Clinical Investigation",
+  "citation_count": 24,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-19T11:58:54.041348+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-133.md",
+  "quality_details": {
+    "content_length": 34254,
+    "alpha_ratio": 0.756,
+    "sentence_count": 605,
+    "reasons": []
+  }
+}

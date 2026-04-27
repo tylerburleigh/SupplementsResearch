@@ -1,0 +1,29 @@
+{
+  "id": "src-227",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8952538/",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-23T01:20:07.187851+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-227.md",
+  "quality_details": {
+    "content_length": 291,
+    "alpha_ratio": 0.753,
+    "sentence_count": 5,
+    "reasons": [
+      "content too short (291 chars < 500)"
+    ]
+  }
+}

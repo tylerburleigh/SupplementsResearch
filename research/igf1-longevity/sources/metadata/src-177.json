@@ -1,0 +1,24 @@
+{
+  "id": "src-177",
+  "title": "Insulin-like Growth Factor-1 and IGF Binding Proteins Predict All-Cause Mortality and Morbidity in Older Adults",
+  "authors": [
+    "Zhang, William B.",
+    "Aleksic, S.",
+    "Gao, Tina",
+    "Weiss, E.",
+    "Demetriou, Eleni A.",
+    "Verghese, J.",
+    "Holtzer, R.",
+    "Barzilai, N.",
+    "Milman, S."
+  ],
+  "doi": "10.3390/cells9061368",
+  "url": "https://www.semanticscholar.org/paper/5ac5c7cb10ca7430135ce28a6f5875dec0647ac6",
+  "provider": "semantic_scholar",
+  "year": 2020,
+  "venue": "Cells",
+  "citation_count": 51,
+  "abstract": "While the growth hormone/insulin-like growth factor-1 (GH/IGF-1) pathway plays essential roles in growth and development, diminished signaling via this pathway in model organisms extends lifespan and health-span. In humans, circulating IGF-1 and IGF-binding proteins 3 and 1 (IGFBP-3 and 1), surrogate measures of GH/IGF-1 system activity, have not been consistently associated with morbidity and mortality. In a prospective cohort of independently-living older adults (n = 840, mean age 76.1 ± 6.8 years, 54.5% female, median follow-up 6.9 years), we evaluated the age- and sex-adjusted hazards for all-cause mortality and incident age-related diseases, including cardiovascular disease, diabetes, cancer, and multiple-domain cognitive impairment (MDCI), as predicted by baseline total serum IGF-1, IGF-1/IGFBP-3 molar ratio, IGFBP-3, and IGFBP-1 levels. All-cause mortality was positively associated with IGF-1/IGFBP-3 molar ratio (HR 1.28, 95% CI 1.05–1.57) and negatively with IGFBP-3 (HR 0.82, 95% CI 0.680–0.998). High serum IGF-1 predicted greater risk for MDCI (HR 1.56, 95% CI 1.08–2.26) and composite incident morbidity (HR 1.242, 95% CI 1.004–1.538), whereas high IGFBP-1 predicted lower risk for diabetes (HR 0.50, 95% CI 0.29–0.88). In conclusion, higher IGF-1 levels and bioavailability predicted mortality and morbidity risk, supporting the hypothesis that diminished GH/IGF-1 signaling may contribute to human longevity and health-span.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2073-4409/9/6/1368/pdf?version=1591013394"
+}

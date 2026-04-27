@@ -1,0 +1,22 @@
+{
+  "id": "src-519",
+  "title": "Negative modulation of mitochondrial oxidative phosphorylation by epigallocatechin-3 gallate leads to growth arrest and apoptosis in human malignant pleural mesothelioma cells.",
+  "authors": [
+    "Valenti, D.",
+    "Bari, L. de",
+    "Manente, Gabriella Arcangela",
+    "Rossi, L.",
+    "Mutti, L.",
+    "Moro, L.",
+    "Vacca, R. A."
+  ],
+  "doi": "10.1016/j.bbadis.2013.07.014",
+  "url": "https://www.semanticscholar.org/paper/7348c8bf2cd90f4009afe9a071a07eef9d5446cb",
+  "provider": "semantic_scholar",
+  "year": 2013,
+  "venue": "Biochimica et Biophysica Acta",
+  "citation_count": 61,
+  "abstract": "Increasing evidence reveals a large dependency of epithelial cancer cells on oxidative phosphorylation (OXPHOS) for energy production. In this study we tested the potential of epigallocatechin-3-gallate (EGCG), a natural polyphenol known to target mitochondria, in inducing OXPHOS impairment and cell energy deficit in human epitheliod (REN cells) and biphasic (MSTO-211H cells) malignant pleural mesothelioma (MMe), a rare but highly aggressive tumor with high unmet need for treatment. Due to EGCG instability that causes H2O2 formation in culture medium, the drug was added to MMe cells in the presence of exogenous superoxide dismutase and catalase, already proved to stabilize the EGCG molecule and prevent EGCG-dependent reactive oxygen species formation. We show that under these experimental conditions, EGCG causes the selective arrest of MMe cell growth with respect to normal mesothelial cells and the induction of mitochondria-mediated apoptosis, as revealed by early mitochondrial ultrastructure modification, swelling and cytochrome c release. We disclose a novel mechanism by which EGCG induces apoptosis through the impairment of mitochondrial respiratory chain complexes, particularly of complex I, II and ATP synthase. This induces a strong reduction in ATP production by OXPHOS, that is not adequately counterbalanced by glycolytic shift, resulting in cell energy deficit, cell cycle arrest and apoptosis. The EGCG-dependent negative modulation of mitochondrial energy metabolism, selective for cancer cells, gives an important input for the development of novel pharmacological strategies for MMe.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.1016/j.bbadis.2013.07.014"
+}

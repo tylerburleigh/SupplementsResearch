@@ -1,0 +1,18 @@
+{
+  "id": "src-145",
+  "title": "Cellular Senescence: Molecular Targets, Biomarkers, and Senolytic Drugs",
+  "authors": [
+    "Kudlová, Natálie",
+    "Sanctis, Juan Bautista De",
+    "Hajdúch, Marián"
+  ],
+  "doi": "10.3390/ijms23084168",
+  "url": "https://openalex.org/W4223541695",
+  "provider": "openalex",
+  "year": 2022,
+  "venue": "International Journal of Molecular Sciences",
+  "citation_count": 158,
+  "abstract": "Cellular senescence is defined as irreversible cell cycle arrest caused by various processes that render viable cells non-functional, hampering normal tissue homeostasis. It has many endogenous and exogenous inducers, and is closely connected with age, age-related pathologies, DNA damage, degenerative disorders, tumor suppression and activation, wound healing, and tissue repair. However, the literature is replete with contradictory findings concerning its triggering mechanisms, specific biomarkers, and detection protocols. This may be partly due to the wide range of cellular and in vivo animal or human models of accelerated aging that have been used to study senescence and test senolytic drugs. This review summarizes recent findings concerning senescence, presents some widely used cellular and animal senescence models, and briefly describes the best-known senolytic agents.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/1422-0067/23/8/4168/pdf?version=1649732107"
+}

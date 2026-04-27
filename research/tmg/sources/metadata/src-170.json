@@ -1,0 +1,17 @@
+{
+  "id": "src-170",
+  "title": "Methylenetetrahydrofolate (MTHFR), the One-Carbon Cycle, and Cardiovascular Risks",
+  "authors": [
+    "Raghubeer, Shanel",
+    "Matsha, Tandi E."
+  ],
+  "doi": "10.3390/nu13124562",
+  "url": "https://openalex.org/W4200539286",
+  "provider": "openalex",
+  "year": 2021,
+  "venue": "Nutrients",
+  "citation_count": 201,
+  "abstract": "The 5-10-methylenetetrahydrofolate reductase (MTHFR) enzyme is vital for cellular homeostasis due to its key functions in the one-carbon cycle, which include methionine and folate metabolism and protein, DNA, and RNA synthesis. The enzyme is responsible for maintaining methionine and homocysteine (Hcy) balance to prevent cellular dysfunction. Polymorphisms in the <i>MTHFR</i> gene, especially C677T, have been associated with various diseases, including cardiovascular diseases (CVDs), cancer, inflammatory conditions, diabetes, and vascular disorders. The C677T <i>MTHFR</i> polymorphism is thought to be the most common cause of elevated Hcy levels, which is considered an independent risk factor for CVD. This polymorphism results in an amino acid change from alanine to valine, which prevents optimal functioning of the enzyme at temperatures above 37 °C. Many studies have been conducted to determine whether there is an association between the C677T polymorphism and increased risk for CVD. There is much evidence in favour of this association, while several studies have concluded that the polymorphism cannot be used to predict CVD development or progression. This review discusses current research regarding the C677T polymorphism and its relationship with CVD, inflammation, diabetes, and epigenetic regulation and compares the evidence provided for and against the association with CVD.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2072-6643/13/12/4562/pdf?version=1640008063"
+}

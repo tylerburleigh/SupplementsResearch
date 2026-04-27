@@ -1,0 +1,19 @@
+{
+  "id": "src-059",
+  "title": "The efficacy of daprodustat compared to standard recombinant human erythropoietin (rhEPO) in treating anemia among patients undergoing dialysis: A systematic review and meta-analysis.",
+  "authors": [
+    "Ahmed, S. H.",
+    "Asghar, Muhammad Sohaib",
+    "Waseem, Summaiyya",
+    "Shaik, A. A."
+  ],
+  "doi": "10.1200/jco.2025.43.16_suppl.e23316",
+  "url": "https://www.semanticscholar.org/paper/cca6e2b0101abdeaff1dfc86d11e608708037a3d",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "Journal of Clinical Oncology",
+  "citation_count": 1,
+  "abstract": "e23316\n\nBackground:\nDaprodustat, a hypoxia-inducible factor prolyl hydroxylase (HIF-PHD) inhibitor, prevents the degradation of HIF and promotes erythropoiesis. It was recently approved by the United States Food and Drug Administration (FDA) for the treatment of chronic kidney disease (CKD) associated anemia. This systematic review and meta-analysis aims to compare the efficacy of daprodustat and the standard recombinant human erythropoietin therapy (rhEPO) in the management of CKD-associated anemia among patients on dialysis.\nMethods:\nThis study followed the Preferred Reporting Items for Systematic Review and Meta-Analysis (PRISMA) guidelines. A comprehensive literature search was performed, using relevant key terms. over PubMed/Medline, Cochrane Library, Google Scholar, and clinicaltrials.gov from inception to 15th January 2025. Only randomized clinical trials comparing the impact daprodustat relative to the standard rhEPO therapy among CKD patients on dialysis were included. The analysis was conducted using Comprehensive Meta-analysis Software via a random effect model.\nResults:\nOur preliminary search revealed 1375 articles. Following comprehensive screening, five articles, with 3940 participants, were considered eligible for inclusion. Among participants, 2132 were randomized to the intervention arm and 1808 to the control group. Mean change in hemoglobin from baseline was reported by all five studies and pooled comparison revealed non-inferiority among the two treatments (Std diff: -0.072; SE: 0.123; p-value:0.557) with a high heterogeneity (I\n2\n= 80.196%). The second outcome, adjusted treatment difference, was reported by three studies and again no treatment was found to be inferior to each other (Std diff: 0.112; SE: 0.091; p-value:0.217), with moderate heterogeneity (I\n2\n= 69.790).\nConclusions:\nDaprodustat demonstrates non-inferiority to standard rhEPO therapy for the management of CKD-associated anemia in patients undergoing hemodialysis.\n\nPooled effect size for change in hemoglobin from baseline.\n\nStudy name\n\nStatistics\nfor\neach\nstudy\n\nAuthor, Year\nStd diff in means\nStandard error\nVariance\nLower limit\nUpper limit\nZ-Value\np-Value\n\nHoldstock et al. 2016 (0.5 mg)\n-0.988\n0.348\n0.121\n-1,671\n-0.305\n-2.836\n0.005\n\nHoldstock et al. 2016 (2 mg)\n-0.834\n0.343\n0.118\n-1.507\n-0.162\n-2,433\n0.015\n\nHoldstock et al. 2016 (5 mg)\n0.236\n0.335\n0.112\n-0.420\n0.893\n0.706\n0.480\n\nMeadowcrot et al. 2018\n0.124\n0.178\n0.032\n-0.224\n0.472\n0.698\n0.485\n\nAkizawa et al. 2020\n0.000\n0.122\n0.015\n-0.240\n0.240\n0.000\n1.000\n\nSingh et al. 2021\n0.234\n0.037\n0.001\n0.162\n0.306\n6.342\n0.000\n\nCoyne et al. 2022\n-0.080\n0.105\n0.011\n-0.286\n0.126\n-0.763\n0.446\n\nCombined\n-0.072\n0.123\n0.015\n-0.312\n0.168\n-0.587\n0.557",
+  "type": "academic",
+  "pdf_url": ""
+}

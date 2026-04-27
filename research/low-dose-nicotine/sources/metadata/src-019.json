@@ -1,0 +1,29 @@
+{
+  "id": "src-019",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2012.00186/full",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-23T21:32:02.947374+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-019.md",
+  "quality_details": {
+    "content_length": 43698,
+    "alpha_ratio": 0.752,
+    "sentence_count": 641,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

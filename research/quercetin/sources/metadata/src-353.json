@@ -1,0 +1,26 @@
+{
+  "id": "src-353",
+  "title": "Senolytic therapy alleviates Aβ-associated oligodendrocyte progenitor cell senescence and cognitive deficits in an Alzheimer's disease model.",
+  "authors": [
+    "Zhang, Peisu",
+    "Kishimoto, Yuki",
+    "Grammatikakis, Ioannis",
+    "Gottimukkala, Kamalvishnu",
+    "Cutler, Roy G",
+    "Zhang, Shiliang",
+    "Abdelmohsen, Kotb",
+    "Bohr, Vilhelm A",
+    "Misra Sen, Jyoti",
+    "Gorospe, Myriam",
+    "Mattson, Mark P"
+  ],
+  "doi": "10.1038/s41593-019-0372-9",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/30936558",
+  "provider": "pubmed",
+  "year": 2019,
+  "venue": "Nature neuroscience",
+  "citation_count": 0,
+  "abstract": "Neuritic plaques, a pathological hallmark in Alzheimer's disease (AD) brains, comprise extracellular aggregates of amyloid-beta (Aβ) peptide and degenerating neurites that accumulate autolysosomes. We found that, in the brains of patients with AD and in AD mouse models, Aβ plaque-associated Olig2- and NG2-expressing oligodendrocyte progenitor cells (OPCs), but not astrocytes, microglia, or oligodendrocytes, exhibit a senescence-like phenotype characterized by the upregulation of p21/CDKN1A, p16/INK4/CDKN2A proteins, and senescence-associated β-galactosidase activity. Molecular interrogation of the Aβ plaque environment revealed elevated levels of transcripts encoding proteins involved in OPC function, replicative senescence, and inflammation. Direct exposure of cultured OPCs to aggregating Aβ triggered cell senescence. Senolytic treatment of AD mice selectively removed senescent cells from the plaque environment, reduced neuroinflammation, lessened Aβ load, and ameliorated cognitive deficits. Our findings suggest a role for Aβ-induced OPC cell senescence in neuroinflammation and cognitive deficits in AD, and a potential therapeutic benefit of senolytic treatments.",
+  "type": "academic",
+  "pdf_url": ""
+}

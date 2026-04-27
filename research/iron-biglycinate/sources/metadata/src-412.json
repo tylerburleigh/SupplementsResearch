@@ -1,0 +1,28 @@
+{
+  "id": "src-412",
+  "title": "Iron deficiency is a common disorder in general population and independently predicts all-cause mortality: results from the Gutenberg Health Study.",
+  "authors": [
+    "Schrage, Benedikt",
+    "Rübsamen, Nicole",
+    "Schulz, Andreas",
+    "Münzel, Thomas",
+    "Pfeiffer, Norbert",
+    "Wild, Philipp S",
+    "Beutel, Manfred",
+    "Schmidtmann, Irene",
+    "Lott, Rosemarie",
+    "Blankenberg, Stefan",
+    "Zeller, Tanja",
+    "Lackner, Karl J",
+    "Karakas, Mahir"
+  ],
+  "doi": "10.1007/s00392-020-01631-y",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/32215702",
+  "provider": "pubmed",
+  "year": 2020,
+  "venue": "Clinical research in cardiology : official journal of the German Cardiac Society",
+  "citation_count": 0,
+  "abstract": "BACKGROUND: Iron deficiency is now accepted as an independent entity beyond anemia. Recently, a new functional definition of iron deficiency was proposed and proved strong efficacy in randomized cardiovascular clinical trials of intravenous iron supplementation. Here, we characterize the impact of iron deficiency on all-cause mortality in the non-anemic general population based on two distinct definitions.\nMETHODS: The Gutenberg Health Study is a population-based, prospective, single-center cohort study. The 5000 individuals between 35 and 74 years underwent baseline and a planned follow-up visit at year 5. Tested definitions of iron deficiency were (1) functional iron deficiency-ferritin levels below 100 µg/l, or ferritin levels between 100 and 299 µg/l and transferrin saturation below 20%, and (2) absolute iron deficiency-ferritin below 30 µg/l.\nRESULTS: At baseline, a total of 54.5% of participants showed functional iron deficiency at a mean hemoglobin of 14.3 g/dl; while, the rate of absolute iron deficiency was 11.8%, at a mean hemoglobin level of 13.4 g/dl. At year 5, proportion of newly diagnosed subjects was 18.5% and 4.8%, respectively. Rate of all-cause mortality was 7.2% (n = 361); while, median follow-up was 10.1 years. After adjustment for hemoglobin and major cardiovascular risk factors, the hazard ratio with 95% confidence interval of the association of iron deficiency with mortality was 1.3 (1.0-1.6; p = 0.023) for the functional definition, and 1.9 (1.3-2.8; p = 0.002) for absolute iron deficiency.\nCONCLUSIONS: Iron deficiency is very common in the apparently healthy general population and independently associated with all-cause mortality in the mid to long term.",
+  "type": "academic",
+  "pdf_url": ""
+}

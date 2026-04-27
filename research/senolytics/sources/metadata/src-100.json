@@ -1,0 +1,28 @@
+{
+  "id": "src-100",
+  "title": "FBP1 loss disrupts liver metabolism and promotes tumorigenesis through a hepatic stellate cell senescence secretome.",
+  "authors": [
+    "Li, Fuming",
+    "Huangyang, Peiwei",
+    "Burrows, Michelle",
+    "Guo, Kathy",
+    "Riscal, Romain",
+    "Godfrey, Jason",
+    "Lee, Kyoung Eun",
+    "Lin, Nan",
+    "Lee, Pearl",
+    "Blair, Ian A",
+    "Keith, Brian",
+    "Li, Bo",
+    "Simon, M Celeste"
+  ],
+  "doi": "10.1038/s41556-020-0511-2",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/32367049",
+  "provider": "pubmed",
+  "year": 2020,
+  "venue": "Nature cell biology",
+  "citation_count": 0,
+  "abstract": "The crosstalk between deregulated hepatocyte metabolism and cells within the tumour microenvironment, as well as the consequent effects on liver tumorigenesis, are not completely understood. We show here that hepatocyte-specific loss of the gluconeogenic enzyme fructose 1,6-bisphosphatase 1 (FBP1) disrupts liver metabolic homeostasis and promotes tumour progression. FBP1 is universally silenced in both human and murine liver tumours. Hepatocyte-specific Fbp1 deletion results in steatosis, concomitant with activation and senescence of hepatic stellate cells (HSCs), exhibiting a senescence-associated secretory phenotype. Depleting senescent HSCs by 'senolytic' treatment with dasatinib/quercetin or ABT-263 inhibits tumour progression. We further demonstrate that FBP1-deficient hepatocytes promote HSC activation by releasing HMGB1; blocking its release with the small molecule inflachromene limits FBP1-dependent HSC activation, the subsequent development of the senescence-associated secretory phenotype and tumour progression. Collectively, these findings provide genetic evidence for FBP1 as a metabolic tumour suppressor in liver cancer and establish a critical crosstalk between hepatocyte metabolism and HSC senescence that promotes tumour growth.",
+  "type": "academic",
+  "pdf_url": ""
+}

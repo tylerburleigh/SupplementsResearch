@@ -1,0 +1,40 @@
+{
+  "id": "src-137",
+  "title": "NAD+ precursor supplementation prevents mtRNA/RIG-I-dependent inflammation during kidney injury",
+  "authors": [
+    "Doke, Tomohito",
+    "Mukherjee, Sarmistha",
+    "Mukhi, Dhanunjay",
+    "Dhillon, Poonam",
+    "Abedini, Amin",
+    "Davis, James G.",
+    "Chellappa, Karthikeyani",
+    "Chen, Beishan",
+    "Baur, Joseph A.",
+    "Susztak, Katalin"
+  ],
+  "year": 2023,
+  "abstract": "",
+  "doi": "10.1038/s42255-023-00761-7",
+  "url": "https://doi.org/10.1038/s42255-023-00761-7",
+  "pdf_url": "",
+  "venue": "Nature Metabolism",
+  "citation_count": 82,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-20T21:09:02.532861+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-137.md",
+  "quality_details": {
+    "content_length": 25567,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

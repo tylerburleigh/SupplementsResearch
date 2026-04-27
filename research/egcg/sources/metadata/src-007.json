@@ -1,0 +1,30 @@
+{
+  "id": "src-007",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://astrahealthandwellness.com/green-tea-for-longevity-a-powerful-elixir-for-health",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-23T01:10:52.782336+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "empty",
+  "content_file": "sources/src-007.md",
+  "quality_details": {
+    "content_length": 47,
+    "alpha_ratio": 0.83,
+    "sentence_count": 1,
+    "reasons": [
+      "content too short (47 chars < 500)",
+      "few sentences detected (1 < 3)"
+    ]
+  }
+}

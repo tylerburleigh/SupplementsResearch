@@ -1,0 +1,22 @@
+{
+  "id": "src-156",
+  "title": "Pre-B-cell colony-enhancing factor, whose expression is up-regulated in activated lymphocytes, is a nicotinamide phosphoribosyltransferase, a cytosolic enzyme involved in NAD biosynthesis",
+  "authors": [
+    "Rongvaux, Anthony",
+    "Shea, Robin J.",
+    "Mulks, Martha H.",
+    "Gigot, Daniel",
+    "Urbain, Jacques",
+    "Léo, Oberdan",
+    "Andris, Fabienne"
+  ],
+  "doi": "10.1002/1521-4141(200211)32:11<3225::aid-immu3225>3.0.co;2-l",
+  "url": "https://openalex.org/W2118647245",
+  "provider": "openalex",
+  "year": 2002,
+  "venue": "European Journal of Immunology",
+  "citation_count": 542,
+  "abstract": "The murine homologue of the previously identified human \"pre-B-cell colony-enhancing factor\" (PBEF) gene coding for a putative cytokine has been identified by screening a subtractive library enriched in genes expressed in activated T lymphocytes. Unlike most cytokine genes known to date, the PBEF gene is ubiquitously expressed in lymphoid and non-lymphoid tissues and displays significant homology with genes from primitive metazoans (marine sponges) and prokaryotic organisms. Recently, a bacterial protein encoded by nadV, a gene from the prokaryote Haemophilus ducreyi displaying significant homology with PBEF, has been identified as a nicotinamide phosphoribosyltranferase (NAmPRTase), an enzyme involved in nicotinamide adenine dinucleotide (NAD) biosynthesis. Using a panel of antibodies to murine PBEF, we demonstrate in this work that, similarly to its microbial counterpart, the murine protein is a NAmPRTase, catalyzing the condensation of nicotinamide with 5-phosphoribosyl-1-pyrophosphate to yield nicotinamide mononucleotide, an intermediate in the biosynthesis of NAD. The role of PBEF as a NAmPRTase was further confirmed by showing that the mouse gene was able to confer the ability to grow in the absence of NAD to a NAmPRTase-defective bacterial strain. The present findings are in keeping with the ubiquitous nature of this protein, and indicate that NAD biosynthesis may play an important role in lymphocyte activation.",
+  "type": "academic",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/1521-4141%28200211%2932%3A11%3C3225%3A%3AAID-IMMU3225%3E3.0.CO%3B2-L"
+}

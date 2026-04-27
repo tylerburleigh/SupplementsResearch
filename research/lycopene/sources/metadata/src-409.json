@@ -1,0 +1,21 @@
+{
+  "id": "src-409",
+  "title": "Height, Leg Length, and Cancer Risk: A Systematic Review",
+  "authors": [
+    "Gunnell, David",
+    "Okasha, Mona",
+    "Smith, George Davey",
+    "Oliver, SE",
+    "Sandhu, Jat",
+    "Holly, Jeffrey M P"
+  ],
+  "doi": "10.1093/oxfordjournals.epirev.a000809",
+  "url": "https://openalex.org/W2046736790",
+  "provider": "openalex",
+  "year": 2001,
+  "venue": "Epidemiologic Reviews",
+  "citation_count": 401,
+  "abstract": "Associations between height and cancer risk have been\nreported in a number of prospective studies (1, 2). Taller\nindividuals appear to be at increased risk. Furthermore, ecologic\nanalyses indicate that geographic patterns of cancer\nincidence and mortality are associated with variations in\npopulation height (3-5). The most consistent associations\nhave been found in relation to breast cancer (6-8), although\nassociations have also been reported for many other cancer\nsites. Therefore, common mechanisms may underlie these\nassociations, but their precise nature remains unclear.\nModels of cancer pathogenesis suggest that cancer arises\nas a result of DNA damage at a number of specific loci\nimportant in the regulation of the cell cycle or DNA repair\n(9, 10). While specific oncogenes, tumor suppresser genes,\nand cancer susceptibility genes have been identified, it has\nbecome increasingly apparent that epigenetic pathways also\nunderlie the development of some malignancies. Several\nmechanisms may be common to many different cancers. For\nexample, angiogenesis (the formation of new blood vessels)\nis an absolute requirement for the growth of all solid tumors\n(11). Similarly, apoptosis is a mechanism for eliminating\ndamaged or dangerous cells from the body, and thus it provides\na natural defense against cancer. The most potent cell\nsurvival factor controlling apoptosis is insulin-like growth\nfactor I (IGF-I). Raised levels of IGF-I and reduced levels of\nits main binding protein, insulin-like growth factor (IGF)-\nbinding protein 3, may diminish this defense against a range\nof cancers. In support of this notion, recent prospective\nresearch has demonstrated that raised levels of IGF-I are\nassociated with increased risks of prostate (12-14), breast\n(15), and colorectal (16, 17) cancers.",
+  "type": "academic",
+  "pdf_url": "https://academic.oup.com/epirev/article-pdf/23/2/313/6727806/23-2-313.pdf"
+}

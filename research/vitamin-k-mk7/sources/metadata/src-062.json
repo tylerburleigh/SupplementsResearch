@@ -1,0 +1,34 @@
+{
+  "id": "src-062",
+  "title": "The effect of vitamin K supplementation on cardiovascular risk factors: a systematic review and meta-analysis",
+  "authors": [
+    "Zhao, Qiu-Yan",
+    "Li, Qiu",
+    "Hasan Rashedi, Minoo",
+    "Sohouli, Mohammadhassan",
+    "Rohani, Pejman",
+    "Velu, Periyannan"
+  ],
+  "year": 2024,
+  "abstract": "Abstract\nCardiovascular disease (CVD) is one of the most important diseases which controlling its related risk factors, such as metabolic and inflammatory biomarkers, is necessary because of the increased mortality risk of that. The aim of our meta-analysis is to reveal the general effect of vitamin K supplementation on its related risk factors. Original databases were searched using standard keywords to identify all randomized clinical trials (RCTs) investigating the effects of vitamin K on CVD. Pooled weighted mean difference (WMD) and 95 % confidence intervals (95 % CI) were achieved by random-model effect analysis for the best estimation of outcomes. The statistical heterogeneity was determined using the Cochran's Q test and I2 statistics. Seventeen studies were included in this systematic review and meta-analysis. The pooled findings showed that vitamin K supplementation can reduce homeostatic model assessment insulin resistance (HOMA-IR) (WMD: −0⋅24, 95 % CI: −0⋅49, −0⋅02, P = 0⋅047) significantly compared to the placebo group. However, no significant effect was observed on other outcomes. Subgroup analysis showed a significant effect of vitamin K2 supplementation compared to vitamin K1 supplementation on HOMA-IR. However, no significant effect was observed on other variables. Also, subgroup analysis showed no potential effect of vitamin K supplementation on any outcome and omitting any articles did not affect the final results. We demonstrated that supplementation with vitamin K has no effect on anthropometrics indexes, CRP, glucose metabolism, and lipid profile factors except HOMA-IR.",
+  "doi": "10.1017/jns.2023.106",
+  "url": "https://doi.org/10.1017/jns.2023.106",
+  "pdf_url": "",
+  "venue": "Journal of Nutritional Science",
+  "citation_count": 8,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T10:56:49.462638+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-062.md",
+  "quality_details": {
+    "content_length": 39190,
+    "alpha_ratio": 0.744,
+    "sentence_count": 309,
+    "reasons": []
+  }
+}

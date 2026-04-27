@@ -1,0 +1,16 @@
+4	2	Review
+60	2	Summary
+106	2	Introduction To Nutraceutical Prescription
+280	2	Nutritional Epidemiological Studies
+281	2	And Prostate Diseases
+434	2	Clinical Use Of Other Medicinal Plants
+632	2	Carotenoids And Mineral Supplements
+696	2	Polyphenols
+785	2	Other Polyfenols
+841	2	Shbg
+898	2	Dht
+904	2	Dht
+953	2	Medicinal Plants For Prevention
+954	2	And Treatment Of Prostatic Carcinoma
+1152	2	References
+1607	2	137. Jodai A, Maruta N, Shimomae E, et al long-term therapeutic

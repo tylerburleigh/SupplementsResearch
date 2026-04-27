@@ -1,0 +1,19 @@
+{
+  "id": "src-267",
+  "title": "Association between systemic inflammation indices and carotid plaques in acute coronary syndrome",
+  "authors": [
+    "Ren, Mengmeng",
+    "Wang, Yiming",
+    "Zhong, Lin",
+    "Wang, Chunxiao"
+  ],
+  "doi": "10.3389/fcvm.2026.1762926",
+  "url": "https://www.semanticscholar.org/paper/732a9f55000dcbd949bbf03d39dc459b34ff8108",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "Frontiers in Cardiovascular Medicine",
+  "citation_count": 0,
+  "abstract": "Ischemic stroke is a leading cause of death and disability worldwide. Identifying patients with carotid atherosclerosis who are at high risk is clinically important. Acute coronary syndrome (ACS) is a manifestation of systemic atherosclerosis, in which inflammation plays a key role in plaque progression and destabilization. However, the relationship between blood cell-derived systemic inflammation indices and carotid plaque burden in patients with ACS remains unclear.\n\nThis retrospective study included 7,178 patients with ACS. Carotid ultrasound was used to classify patients into carotid plaque and non-plaque groups. Systemic inflammation indices—including neutrophil-to-lymphocyte ratio (NLR), monocyte-to-lymphocyte ratio (MLR), neutrophil-to-monocyte-plus-lymphocyte ratio (NMLR), systemic inflammatory response index (SIRI), systemic immune-inflammatory index (SII), aggregate index of systemic inflammation (AISI), and platelet-to-lymphocyte ratio (PLR)—were calculated from routine blood tests. Multivariable logistic regression, restricted cubic spline models, and subgroup analyses were used to evaluate their associations with carotid plaques.\n\nPatients with carotid plaques had significantly higher NLR, MLR, NMLR, SIRI, SII, AISI, and PLR. After full adjustment, MLR, SIRI, and AISI showed significant non-linear associations with carotid plaques, with inflection points of 0.26, 0.9, and 205, respectively. Compared with the lowest quartile, the highest quartile was associated with increased odds of carotid plaques for MLR (OR 1.453), SIRI (OR 1.409), and AISI (OR 1.379). Subgroup analyses showed that these associations were mainly observed in women and in non-diabetic patients. In patients with hypertension, MLR, SIRI, and AISI remained positively associated with carotid plaques.\n\nMLR, SIRI, and AISI are independently associated with carotid plaques in patients with ACS, particularly among women and non-diabetic individuals, and may serve as potential markers for ischemic stroke risk stratification in this population.",
+  "type": "academic",
+  "pdf_url": ""
+}

@@ -1,0 +1,29 @@
+{
+  "id": "src-007",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://www.nutraingredients.com/Article/2025/08/25/ergothieneine-shows-neuroprotective-potential",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-20T00:12:20.822841+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-007.md",
+  "quality_details": {
+    "content_length": 6677,
+    "alpha_ratio": 0.825,
+    "sentence_count": 43,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

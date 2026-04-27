@@ -1,0 +1,18 @@
+{
+  "id": "src-247",
+  "title": "Structural Insights into Curcumin Interaction with Inflammatory Cytokines and Proliferative Protein Targets in Early Childhood Caries - An In Silico Docking Study",
+  "authors": [
+    "Joshy, Reenu",
+    "R, D.",
+    "R, Dr. Mahesh"
+  ],
+  "doi": "10.25258/ijddt.16.6s.91",
+  "url": "https://www.semanticscholar.org/paper/93e9b35459d3985ff4756326d0a136395ae27836",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "International Journal of Drug Delivery Technology",
+  "citation_count": 0,
+  "abstract": "Background:\nEarly childhood caries (ECC) involves microbial activity and host-mediated inflammatory responses. Cytokines such\nas interleukin-6 (IL-6), interleukin-1β (IL-1β), and tumor necrosis factor-α (TNF-α), along with proliferative markers\nlike minichromosome maintenance protein-2 (MCM-2), play important roles in disease progression. Curcumin is a\nnatural polyphenolic compound with reported anti-inflammatory properties.\nObjective:\nTo evaluate the molecular interaction of curcumin with key inflammatory cytokines and the proliferative marker\nMCM-2 associated with ECC using an in-silico molecular docking approach.\nMaterials and Methods:\nThree-dimensional crystal structures of IL-6 (PDB ID: 1P9M), IL-1β (PDB ID: 8C3V), TNF-α (PDB ID: 2AZ5), and\nMCM-2 (PDB ID: 7W68) were retrieved from the RCSB Protein Data Bank. Protein structures were prepared by\nremoving water molecules and heteroatoms followed by addition of polar hydrogens and Kollman charges. Curcumin\n(PubChem CID: 969516) was obtained from the PubChem database and energy-minimized using the Universal Force\nField. Molecular docking was performed using AutoDock Vina integrated within the PyRx virtual screening platform.\nMultiple docking poses were generated and the lowest-energy conformations were selected. Ligand–protein\ninteractions were analyzed using BIOVIA Discovery Studio to identify hydrogen bonding and hydrophobic contacts.\nResults:\nCurcumin demonstrated stable binding with all targets. The highest binding affinity was observed with MCM-2 (−7.5\nkcal/mol), followed by IL-6 (−6.9 kcal/mol), TNF-α (−6.4 kcal/mol), and IL-1β (−5.8 kcal/mol). Interaction analysis\nrevealed hydrogen bonding and hydrophobic contacts within the protein binding pockets.\nConclusion:\nCurcumin demonstrated favorable binding interactions with inflammatory cytokines and the proliferative protein\nassociated with early childhood caries. These findings suggest that curcumin may influence host inflammatory and\ncellular responses involved in ECC progression. However, further experimental studies are required to validate these\nmolecular interactions and confirm their biological significance.",
+  "type": "academic",
+  "pdf_url": ""
+}

@@ -1,0 +1,25 @@
+{
+  "id": "src-049",
+  "title": "Targeting senescent EGR1+ B cells enhances immunotherapy efficacy in esophageal squamous cell carcinoma.",
+  "authors": [
+    "Zhou, Pingjing",
+    "Zhang, Yuchen",
+    "Zhang, Hongyu",
+    "Zhao, Pengyuan",
+    "Guo, Yifan",
+    "Zhao, Guangyin",
+    "Chu, Yiwei",
+    "Ge, Di",
+    "Liu, Ronghua",
+    "Gu, Jie"
+  ],
+  "doi": "10.1016/j.xcrm.2025.102532",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41483805",
+  "provider": "pubmed",
+  "year": 2026,
+  "venue": "Cell reports. Medicine",
+  "citation_count": 0,
+  "abstract": "The mechanisms for failure of neoadjuvant immune checkpoint blockade (NICB), an established therapy for patients with esophageal squamous cell carcinoma (ESCC), remain unclear. We integrated single-cell RNA data from patients with ESCC pre- and post-NICB, identifying a subset of senescent EGR1-expressing B cells that correlate with poor pathological responses. EGR1 was a key transcription factor regulating B cell senescence. EGR1+ B cells emerged as predictors of adverse outcomes in multiple cohorts. These senescent B cells, through senescence-associated secretory phenotype (SASP), drive chronic inflammation in the tumor microenvironment (TME), promoting the inducement of immunosuppressive TREM2+ tumor-associated macrophages (TAMs), thereby suppressing anti-tumor immunity and contributing to NICB failure. Furthermore, fisetin was identified as an anti-senescence drug for mitigating B cell senescence and enhancing NICB efficacy. Our findings highlight the role of senescent EGR1+ B cells in ESCC immunotherapy failure and suggest targeting B cell senescence as a strategy to improve NICB outcomes.",
+  "type": "academic",
+  "pdf_url": ""
+}

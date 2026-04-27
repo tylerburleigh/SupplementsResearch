@@ -1,0 +1,24 @@
+23	2	Abstract
+51	2	Background
+110	2	Methods
+273	2	Statistical Analysis
+285	2	Results
+506	2	Discussion
+829	2	Conclusions
+891	2	Author Contributions
+920	2	Competing Interests
+941	2	References
+948	2	3. Prattichizzo F, Giuliani A, Sabbatinelli J, Matacchione G, Ramini D, Bonfigli AR,
+954	2	5. Wright AK, Suarez-Ortegon MF, Read SH, Kontopantelis E, Buchan I, Emsley
+958	2	6. Sabbatinelli J, Giuliani A, Bonfigli AR, Ramini D, Matacchione G, Campolucci
+996	2	17. Kananen L, Marttila S, Nevalainen T, Kummola L, Junttila I, Mononen N, et
+1010	2	21. Corella D, Asensio EM, Coltell O, Sorli JV, Estruch R, Martinez-Gonzalez MA, et
+1014	2	22. Vetter VM, Spieker J, Sommerer Y, Buchmann N, Kalies CH, Regitz-Zagrosek
+1029	2	27. Chen YA, Lemire M, Choufani S, Butcher DT, Grafodatskaya D, Zanke BW, et
+1038	2	30. Kwiatkowska KM, Mavrogonatou E, Papadopoulou A, Sala C, Calzari L,
+1064	2	39. Wielscher M, Mandaviya PR, Kuehnel B, Joehanes R, Mustafa R, Robinson O, et
+1106	2	51. Kumashiro N, Beddow SA, Vatner DF, Majumdar SK, Cantley JL, Guebre-Egzi-
+1148	2	64. Hillary RF, Stevenson AJ, McCartney DL, Campbell A, Walker RM, Howard DM,
+1155	2	66. Bonfigli AR, Spazzafumo L, Prattichizzo F, Bonafe M, Mensa E, Micolucci L,
+1162	2	68. Gedebjerg A, Bjerre M, Kjaergaard AD, Nielsen JS, Rungby J, Brandslund
+1175	2	72. Mogilenko DA, Shpynov O, Andhey PS, Arthur L, Swain A, Esaulova E, et

@@ -1,0 +1,18 @@
+{
+  "id": "src-089",
+  "title": "Nutraceutical activation of Sirt1: a review",
+  "authors": [
+    "DiNicolantonio, James J.",
+    "McCarty, Mark F.",
+    "O’Keefe, James H."
+  ],
+  "doi": "10.1136/openhrt-2022-002171",
+  "url": "https://openalex.org/W4311731774",
+  "provider": "openalex",
+  "year": 2022,
+  "venue": "Open Heart",
+  "citation_count": 56,
+  "abstract": "The deacetylase sirtuin 1 (Sirt1), activated by calorie restriction and fasting, exerts several complementary effects on cellular function that are favourable to healthspan; it is often thought of as an 'anti-aging' enzyme. Practical measures which might boost Sirt1 activity are therefore of considerable interest. A number of nutraceuticals have potential in this regard. Nutraceuticals reported to enhance Sirt1 synthesis or protein expression include ferulic acid, tetrahydrocurcumin, urolithin A, melatonin, astaxanthin, carnosic acid and neochlorogenic acid. The half-life of Sirt1 protein can be enhanced with the natural nicotinamide catabolite N1-methylnicotinamide. The availability of Sirt1's obligate substrate NAD+ can be increased in several ways: nicotinamide riboside and nicotinamide mononucleotide can function as substrates for NAD+ synthesis; activators of AMP-activated kinase-such as berberine-can increase expression of nicotinamide phosphoribosyltransferase, which is rate limiting for NAD+ synthesis; and nutraceutical quinones such as thymoquinone and pyrroloquinoline quinone can boost NAD+ by promoting oxidation of NADH. Induced ketosis-as via ingestion of medium-chain triglycerides-can increase NAD+ in the brain by lessening the reduction of NAD+ mediated by glycolysis. Post-translational modifications of Sirt1 by O-GlcNAcylation or sulfonation can increase its activity, suggesting that administration of glucosamine or of agents promoting hydrogen sulfide synthesis may aid Sirt1 activity. Although resveratrol has poor pharmacokinetics, it can bind to Sirt1 and activate it allosterically-as can so-called sirtuin-activating compound drugs. Since oxidative stress can reduce Sirt1 activity in multiple ways, effective antioxidant supplementation that blunts such stress may also help preserve Sirt1 activity in some circumstances. Combination nutraceutical regimens providing physiologically meaningful doses of several of these agents, capable of activating Sirt1 in complementary ways, may have considerable potential for health promotion. Such measures may also amplify the benefits of sodium-glucose cotransporter-2 (SGLT2) inhibitors in non-diabetic disorders, as these benefits appear to reflect upregulation of Sirt1 and AMP-activated protein kinase activities.",
+  "type": "academic",
+  "pdf_url": "https://openheart.bmj.com/content/openhrt/9/2/e002171.full.pdf"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "src-249",
+  "title": "The Novel Role of PPAR Alpha in the Brain: Promising Target in Therapy of Alzheimer’s Disease and Other Neurodegenerative Disorders",
+  "authors": [
+    "Wójtowicz, Sylwia",
+    "Strosznajder, Anna K.",
+    "Jeżyna, Mieszko J.",
+    "Strosznajder, Joanna B."
+  ],
+  "doi": "10.1007/s11064-020-02993-5",
+  "url": "https://openalex.org/W3011699708",
+  "provider": "openalex",
+  "year": 2020,
+  "venue": "Neurochemical Research",
+  "citation_count": 323,
+  "abstract": "Peroxisome proliferator activated receptor alpha (PPAR-α) belongs to the family of ligand-regulated nuclear receptors (PPARs). These receptors after heterodimerization with retinoid X receptor (RXR) bind in promotor of target genes to PPAR response elements (PPREs) and act as a potent transcription factors. PPAR-α and other receptors from this family, such as PPAR-β/δ and PPAR-γ are expressed in the brain and other organs and play a significant role in oxidative stress, energy homeostasis, mitochondrial fatty acids metabolism and inflammation. PPAR-α takes part in regulation of genes coding proteins that are involved in glutamate homeostasis and cholinergic/dopaminergic signaling in the brain. Moreover, PPAR-α regulates expression of genes coding enzymes engaged in amyloid precursor protein (APP) metabolism. It activates gene coding of α secretase, which is responsible for non-amyloidogenic pathway of APP degradation. It also down regulates β secretase (BACE-1), the main enzyme responsible for amyloid beta (Aβ) peptide release in Alzheimer Diseases (AD). In AD brain expression of genes of PPAR-α and PPAR-γ coactivator-1 alpha (PGC-1α) is significantly decreased. PPARs are altered not only in AD but in other neurodegenerative/neurodevelopmental and psychiatric disorder. PPAR-α downregulation may decrease anti-oxidative and anti-inflammatory processes and could be responsible for the alteration of fatty acid transport, lipid metabolism and disturbances of mitochondria function in the brain of AD patients. Specific activators of PPAR-α may be important for improvement of brain cells metabolism and cognitive function in neurodegenerative and neurodevelopmental disorders.",
+  "type": "academic",
+  "pdf_url": "https://link.springer.com/content/pdf/10.1007/s11064-020-02993-5.pdf"
+}

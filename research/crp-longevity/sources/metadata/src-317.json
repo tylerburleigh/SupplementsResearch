@@ -1,0 +1,19 @@
+{
+  "id": "src-317",
+  "title": "Pathogen Evasion of Humoral Innate Immunity: Coping with C-Reactive Protein and Serum Amyloid A",
+  "authors": [
+    "Gong, Weichen",
+    "Cheng, Xuefei",
+    "Villena, J.",
+    "Kitazawa, Haruki"
+  ],
+  "doi": "10.3390/ijms27021072",
+  "url": "https://www.semanticscholar.org/paper/d9d90b345711c05abf7cfeb62acc3d800fc8d6f4",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "International Journal of Molecular Sciences",
+  "citation_count": 1,
+  "abstract": "C-reactive protein (CRP) and serum amyloid A (SAA) are classical acute-phase proteins that exemplify humoral innate immunity, the soluble arm of the host’s first-line defense. Beyond their traditional use as biomarkers of inflammation, both proteins function as active effectors against pathogens by binding microbial components, activating complements, and modulating inflammation. However, bacteria, viruses, and fungi have co-evolved diverse mechanisms to cope with or evade these host defenses. This review aims to summarize the current understanding of CRP and SAA as soluble innate immune effectors and to highlight pathogen strategies to counteract their antimicrobial pressure. We systematically surveyed and summarized evidence from experimental and clinical studies describing “function of CRP and SAA during infection”, “CRP and SAA in innate immune defense”, and “evasion mechanisms across bacterial, viral, and fungal pathogens”. CRP and SAA are rapidly upregulated in response to infection and contribute to pathogen recognition, opsonization, and inflammation. Pathogens, however, employ multiple coping strategies, including surface modification to block CRP binding, proteolytic degradation of acute-phase proteins, shielding within biofilms, and subversion of host signaling. These countermeasures enable microbes to reduce immune clearance and promote persistence. CRP and SAA represent central elements of humoral innate immunity, shaping the outcome of host–pathogen interactions. Pathogen adaptations to these proteins illustrate an ongoing evolutionary arms race between host defense and microbial survival. A deeper understanding of these processes may open avenues for novel therapeutic approaches, such as targeting microbial evasion factors or enhancing host acute-phase responses.",
+  "type": "academic",
+  "pdf_url": ""
+}

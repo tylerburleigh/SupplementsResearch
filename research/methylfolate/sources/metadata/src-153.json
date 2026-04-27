@@ -1,0 +1,25 @@
+{
+  "id": "src-153",
+  "title": "Candidate-gene analysis of white matter hyperintensities on neuroimaging.",
+  "authors": [
+    "Tran, Theresa",
+    "Cotlarciuc, Ioana",
+    "Yadav, Sunaina",
+    "Hasan, Nazeeha",
+    "Bentley, Paul",
+    "Levi, Christopher",
+    "Worrall, Bradford B",
+    "Meschia, James F",
+    "Rost, Natalia",
+    "Sharma, Pankaj"
+  ],
+  "doi": "10.1136/jnnp-2014-309685",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/25835038",
+  "provider": "pubmed",
+  "year": 2016,
+  "venue": "Journal of neurology, neurosurgery, and psychiatry",
+  "citation_count": 0,
+  "abstract": "BACKGROUND: White matter hyperintensities (WMH) are a common radiographic finding and may be a useful endophenotype for small vessel diseases. Given high heritability of WMH, we hypothesised that certain genotypes may predispose individuals to these lesions and consequently, to an increased risk of stroke, dementia and death. We performed a meta-analysis of studies investigating candidate genes and WMH to elucidate the genetic susceptibility to WMH and tested associated variants in a new independent WMH cohort. We assessed a causal relationship of WMH to methylene tetrahydrofolate reductase (MTHFR).\nMETHODS: Database searches through March 2014 were undertaken and studies investigating candidate genes in WMH were assessed. Associated variants were tested in a new independent ischaemic cohort of 1202 WMH patients. Mendelian randomization was undertaken to assess a causal relationship between WMH and MTHFR.\nRESULTS: We identified 43 case-control studies interrogating eight polymorphisms in seven genes covering 6,314 WMH cases and 15,461 controls. Fixed-effects meta-analysis found that the C-allele containing genotypes of the aldosterone synthase CYP11B2 T(-344)C gene polymorphism were associated with a decreased risk of WMH (OR=0.61; 95% CI, 0.44 to 0.84; p=0.003). Using mendelian randomisation the association among MTHFR C677T, homocysteine levels and WMH, approached, but did not reach, significance (expected OR=1.75; 95% CI, 0.90-3.41; observed OR=1.68; 95% CI, 0.97-2.94). Neither CYP11B2 T(-344)C nor MTHFR C677T were significantly associated when tested in a new independent cohort of 1202 patients with WMH.\nCONCLUSIONS: There is a genetic basis to WMH but anonymous genome wide and exome studies are more likely to provide novel loci of interest.",
+  "type": "academic",
+  "pdf_url": ""
+}

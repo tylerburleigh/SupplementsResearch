@@ -1,0 +1,24 @@
+{
+  "id": "src-148",
+  "title": "A biocompatible polydopamine platform for targeted delivery of nicotinamide mononucleotide and boosting NAD+ levels in the brain",
+  "authors": [
+    "Cai, Xiaoli",
+    "Huang, Yuteng",
+    "Wang, Ting",
+    "Wang, Ziping",
+    "Jiao, Lei",
+    "Liao, Jingling",
+    "Zhou, Li",
+    "Zhu, Chengzhou",
+    "Rong, Shuang"
+  ],
+  "doi": "10.1039/d4nr02934h",
+  "url": "https://openalex.org/W4402518689",
+  "provider": "openalex",
+  "year": 2024,
+  "venue": "Nanoscale",
+  "citation_count": 3,
+  "abstract": "Nicotinamide mononucleotide (NMN), a precursor of the coenzyme nicotinamide adenine dinucleotide (NAD+), has gained wide attention as an anti-aging agent, which plays a significant role in intracellular redox reactions. However, its effectiveness is limited by easy metabolism in the liver and subsequent excretion as nicotinamide, resulting in low bioavailability, particularly in the brain. Additionally, the blood-brain barrier (BBB) further hinders NMN supply to the brain, compromising its potential anti-aging effects. Herein, we developed a biocompatible polydopamine (PDA) platform to deliver NMN for boosting NAD+ levels in the brain for the first time. The lactoferrin (Lf) ligand was covalently attached to the PDA spheres to improve BBB transport efficiency. The resultant PDA-based system, referred to as PDA-Lf-NMN, not only exhibited superior BBB penetration ability but also improved the utilization rate of brain NMN in elevating NAD+ levels compared to NMN alone for both young (3 months) and old (21 months) mice. Moreover, after the old mice were treated with low-dose PDA-Lf-NMN (8 mg kg<sup>-1</sup> day<sup>-1</sup>), they exhibited improved spatial cognition. Importantly, these nanomedicines did not induce any cellular necrosis or apoptosis. It provides a promising avenue for delivering NMN specifically to the brain, boosting NAD+ levels for promoting longevity and treating brain aging-related diseases.",
+  "type": "academic",
+  "pdf_url": ""
+}

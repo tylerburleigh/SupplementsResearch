@@ -1,0 +1,20 @@
+{
+  "id": "src-046",
+  "title": "Oral nutritional supplementation in cancer patients: A systematic review and dose-response meta-analysis.",
+  "authors": [
+    "Habibi, Sajedeh",
+    "Talebi, S.",
+    "Arab, Arman",
+    "Khosravinia, Darya",
+    "Mohammadi, Hamed"
+  ],
+  "doi": "10.1016/j.clnu.2025.02.011",
+  "url": "https://www.semanticscholar.org/paper/824deaff1ab17b9125dc1581fe3ea4fb088576e1",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "Clinical Nutrition",
+  "citation_count": 10,
+  "abstract": "BACKGROUND & AIMS\nWe performed this systematic review and dose-response meta-analysis of randomized clinical trials (RCTs) to determine the effects of oral nutritional supplements (ONS) in cancer patients undergoing chemo (radio) therapy on body weight, body mass index (BMI), serum albumin, fatigue, quality of life (QOL), patient-generated subjective global assessment (PG-SGA) score and C-reactive protein (CRP).\n\nMETHODS\nAppropriate search terms were used for systematic search in PubMed, Scopus, and Web of Science, till April 2024. Both pairwise and dose-response meta-analyses were done. Random effects model was applied for analyses.\n\nRESULTS\nWe found that ONS administration significantly improved weight gain [weighted mean difference (WMD): 1.18 kg; 95 % CI, 0.20 to 2.17, P = 0.019; I2 = 56.2 %, PQ-test = 0.002], fatigue scores [standard mean difference (SMD): -1.45; 95 % CI, -2.48 to -0.42, P = 0.006; I2 = 90.1 %, PQ-test< 0.001], PG-SGA scores (WMD: -1.11; 95 % CI, -2.93 to 0.70, P = 0.229; I2 = 72.4 %, PQ-test = 0.001), and QOL (SMD: 1.38; 95 % CI, 0.45 to 2.31; P < 0.001; I2 = 94.4 %, PQ-test< 0.001). The dose-response meta-analysis found a significant relationship between each 200 ml/d increase in ONS and improvement in fatigue (SMD: -7.30; 95 % CI, -10.17 to -4.42, P < 0.001; I2 = 97 %, PQ-test< 0.001) and QOL scores (SMD:7.01; 95 % CI, 3.89 to 10.12, P = 0.001; I2 = 98.3 %, PQ-test < 0.001). Based on a non-linear dose-response meta-analysis, the most significant reduction in fatigue was observed at ONS dosages of ≥400 ml/day, while the most significant improvement in QOL score was seen at ≥ 500 ml/day dosages. Our analysis also showed a significant association between higher albumin levels and ONS intake of ≥200 ml daily.\n\nCONCLUSIONS\nIn conclusion, ONS can help improve various cancer-related complications; however, further good-quality research is still needed. The study found that ONS significantly improves QoL, reduces fatigue, and promotes body weight gain in cancer patients. However, there were no significant effects on BMI, serum albumin, CRP, or PG-SGA scores.",
+  "type": "academic",
+  "pdf_url": ""
+}

@@ -1,0 +1,55 @@
+3	2	Health Technology Assessment
+185	2	Abstract
+329	2	Contents
+415	2	Background
+434	2	Conclusion
+446	2	Background
+493	2	Methods
+539	2	Scientific Summary
+552	2	Results
+611	2	Limitations
+622	2	Conclusions
+638	2	Scientific Summary
+670	2	16 In addition, vitamin D
+677	2	19 These
+700	2	31 Subgroup analyses within primary trials suggest that COPD patients
+722	2	Background
+727	2	1. What is the overall effect of vitamin D supplementation on the risk of:
+849	2	Methods
+875	2	35 For one-step IPD
+920	2	Methods
+1039	2	Results
+1215	2	Ari
+1237	2	Copd
+1249	2	Copd
+1282	2	Results
+1340	2	Ari
+1461	2	Copd
+1470	2	Copd
+1694	2	Results
+1706	2	Participants
+1825	2	Results
+1918	2	Results
+2119	2	Results
+2227	2	Copd
+2252	2	Results
+2330	2	Results
+2424	2	Gold
+2427	2	Gold
+2438	2	Results
+2476	2	Ari
+2549	2	Results
+2619	2	52 As baseline vitamin D status
+2675	2	71 Specifically, the relevant
+2694	2	24 However, if one or two small
+2716	2	Discussion
+2737	2	Conclusions
+2752	2	Acknowledgements
+2809	2	Acknowledgements
+2813	2	References
+2909	2	References
+3013	2	References
+3081	2	Aecb Or Aecopd
+3107	2	Eme
+3109	2	Hta
+3111	2	Phr

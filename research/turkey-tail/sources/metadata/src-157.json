@@ -1,0 +1,38 @@
+{
+  "id": "src-157",
+  "title": "Chemical structure of antitumor polysaccharide, coriolan, produced by Coriolus versicolor.",
+  "authors": [
+    "MIYAZAKI, TOSHIO",
+    "YADOMAE, TOSHIRO",
+    "SUGIURA, MAMORU",
+    "ITO, HITOSHI",
+    "FUJII, KIICHIRO",
+    "NARUSE, SENSUKE",
+    "KUNIHISA, MASAHIRO"
+  ],
+  "year": 1974,
+  "abstract": "",
+  "doi": "10.1248/cpb.22.1739",
+  "url": "https://doi.org/10.1248/cpb.22.1739",
+  "pdf_url": "",
+  "venue": "Chemical and Pharmaceutical Bulletin",
+  "citation_count": 20,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-23T19:04:21.794788+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-157.md",
+  "quality_details": {
+    "content_length": 126,
+    "alpha_ratio": 0.857,
+    "sentence_count": 0,
+    "reasons": [
+      "content too short (126 chars < 500)",
+      "few sentences detected (0 < 3)"
+    ]
+  }
+}

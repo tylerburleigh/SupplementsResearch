@@ -1,0 +1,19 @@
+{
+  "id": "src-065",
+  "title": "Importance of Feedback and Feedforward Loops to Adaptive Immune Response Modeling.",
+  "authors": [
+    "Rahman, Anisur",
+    "Tiwari, Abhinav",
+    "Narula, Jatin",
+    "Hickling, Timothy"
+  ],
+  "doi": "10.1002/psp4.12352",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/30198637",
+  "provider": "pubmed",
+  "year": 2018,
+  "venue": "CPT: pharmacometrics & systems pharmacology",
+  "citation_count": 0,
+  "abstract": "The human adaptive immune system is a very complex network of different types of cells, cytokines, and signaling molecules. This complex network makes it difficult to understand the system level regulations. To properly explain the immune system, it is necessary to explicitly investigate the presence of different feedback and feedforward loops (FFLs) and their crosstalks. Considering that these loops increase the complexity of the system, the mathematical modeling has been proved to be an important tool to explain such complex biological systems. This review focuses on these regulatory loops and discusses their importance on systems modeling of the immune system.",
+  "type": "academic",
+  "pdf_url": ""
+}

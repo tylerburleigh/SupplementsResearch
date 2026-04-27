@@ -1,0 +1,15 @@
+69	2	Abstract
+70	2	Background
+93	2	Conclusions
+106	2	Introduction
+175	2	Methods
+264	2	1 Effect of betaine and
+277	2	2 Effect of betaine doses
+288	2	3 Effect of
+300	2	4 Effect of
+593	2	Results
+619	2	Discussion
+648	2	6 Wk Supplementation with Placebo
+935	2	Acknowledgments
+949	2	References
+1072	2	39. Liem A, Reynierse-Buitenwerf GH, Zwinderman AH, Jukema JW, van

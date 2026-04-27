@@ -1,0 +1,23 @@
+{
+  "id": "src-273",
+  "title": "Epigallocatechin‐3‐Gallate (\n EGCG\n ) Mitigates Deep Vein Thrombosis Through Antioxidant and Anti‐Ferroptotic Actions via the\n NRF2\n ‐\n NEDD4\n Pathway",
+  "authors": [
+    "Li, Da",
+    "Mao, Y.",
+    "Zhang, Xiaosong",
+    "Wang, Yusheng",
+    "Tang, Hao",
+    "Huang, He",
+    "Huang, Xiaoming",
+    "Zhang, Honggang"
+  ],
+  "doi": "10.1002/ptr.70330",
+  "url": "https://www.semanticscholar.org/paper/78dc3c022bf46ee558b875c77f4c27c078a1e90f",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "Phytotherapy Research",
+  "citation_count": 0,
+  "abstract": "Deep vein thrombosis (DVT) is a prevalent vascular disorder associated with high morbidity and mortality. Evidence suggests that ferroptosis plays a critical role in thrombus formation. Epigallocatechin‐3‐gallate (EGCG), the primary bioactive component of green tea, possesses antioxidant and anti‐inflammatory properties, but its role and molecular mechanism in regulating ferroptosis in DVT remain unclear. A mouse model of DVT was established to evaluate the therapeutic effects of EGCG. Histological, biochemical, and molecular assays were used to assess thrombus formation, oxidative stress, and ferroptosis markers. Endothelial progenitor cells (EPCs) were used to explore mechanistic pathways in vitro. Functional assays were conducted to investigate the regulatory relationships between EGCG, NRF2, and NEDD4. Additionally, clinical relevance was assessed using peripheral blood and IVC tissues from DVT patients. EGCG treatment significantly reduced thrombus number and size, improved hypercoagulability, and lowered serum D‐dimer levels in DVT mice. EGCG inhibited ferroptosis by reducing reactive oxygen species (ROS) production, iron accumulation, MDA levels, and restoring SLC7A11 and GPX4 expression. Mechanistically, EGCG transcriptionally activated NEDD4 expression in EPCs. NEDD4 overexpression mimicked anti‐ferroptotic effects of EGCG, while its knockdown reversed them. Additionally, NRF2 was identified as the transcriptional activator of NEDD4, binding to its promoter and enhancing its expression. In DVT patient samples, NEDD4 expression was significantly downregulated and negatively correlated with ROS and iron levels. This study uncovers a novel EGCG/NRF2/NEDD4 axis that mitigates DVT progression by suppressing ferroptosis and oxidative stress. These findings highlight NEDD4 as a potential therapeutic target and suggest EGCG as a promising agent for DVT intervention.",
+  "type": "academic",
+  "pdf_url": ""
+}

@@ -1,0 +1,32 @@
+{
+  "id": "src-608",
+  "title": "The GERAADA score for 30-day mortality prediction in type A acute aortic dissection surgery: A systematic review and meta-Analysis.",
+  "authors": [
+    "Gemelli, Marco",
+    "Rojanathagoon, T.",
+    "Eynde, Jef Van den",
+    "Italiano, Enrico G",
+    "Lena, Tea",
+    "Sá, Michel Pompeu",
+    "Bruno, V. D.",
+    "Sandhu, Manraj",
+    "Pruna-Guillen, R.",
+    "Oo, Aung Y",
+    "Czerny, Martin",
+    "Gallo, Michele",
+    "Slaughter, Mark S.",
+    "Tarzia, V.",
+    "Ahmed, Eltayeb Mohamed",
+    "Rajakaruna, C.",
+    "Gerosa, G."
+  ],
+  "doi": "10.1093/ejcts/ezaf138",
+  "url": "https://www.semanticscholar.org/paper/f9940263322e6ec4f62684556a272947d9841c26",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "European Journal of Cardio-Thoracic Surgery",
+  "citation_count": 3,
+  "abstract": "OBJECTIVES\nThe German Registry of Acute Aortic Dissection Type A (GERAADA) score is a risk score for predicting 30-day mortality after surgery for type A acute aortic dissection (TAAAD). This meta-analysis sought to assess the performance of the GERAADA model and compare it to the EuroSCORE II.\n\nMETHODS\nA systematic search of 3 online databases was conducted to identify studies that externally validated the GERAADA score. A random-effect meta-analyses was conducted, pooling areas under the curves (AUCs), operative mortality observed/expected (O/E) ratios, and observed-expected (O-E) differences-of the GERAADA model in all studies, and of the EuroSCORE II when available.\n\nRESULTS\nEleven studies were selected, including a total of 10,360 patients. Observed in-hospital mortality rate was 12.2%. Pooled expected mortality rates estimated by the GERAADA score and EuroSCORE II were 18.4% and 5.8%, respectively. The pooled analyses for GERAADA showed moderate discrimination (AUC 0.70, 95% CI 0.66-0.73) and good calibration (O-E difference -12.3, 95% CI -27.1-2.58; O/E ratio 0.81, 95% CI 0.57-1.05). Results from 5 studies (2,133 patients) investigating both scores simultaneously revealed similar AUC (p = 0.50), significantly lower O-E difference (p = 0.03), and a trend towards O/E ratio closer to 1 (p = 0.08) with GERAADA compared to EuroSCORE II.\n\nCONCLUSIONS\nThe GERAADA score seemed to offer a better calibration for predicting 30-day postoperative mortality in TAAAD surgery, despite further studies are needed to confirm these findings. The moderate discriminatory capacity of both scores highlights the challenges of predicting outcomes in complex cardiovascular conditions like TAAAD.",
+  "type": "academic",
+  "pdf_url": ""
+}

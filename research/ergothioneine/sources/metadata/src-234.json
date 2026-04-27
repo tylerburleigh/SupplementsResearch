@@ -1,0 +1,24 @@
+{
+  "id": "src-234",
+  "title": "Cardiovascular mortality attributable to dietary risk factors in 51 countries in the WHO European Region from 1990 to 2016: a systematic analysis of the Global Burden of Disease Study",
+  "authors": [
+    "Meier, Toni",
+    "Gräfe, Kira",
+    "Senn, Franziska",
+    "Sur, Patrick John",
+    "Stangl, Gabriele I.",
+    "Dawczynski, Christine",
+    "März, Winfried",
+    "Kleber, Marcus E.",
+    "Lorkowski, Stefan"
+  ],
+  "doi": "10.1007/s10654-018-0473-x",
+  "url": "https://openalex.org/W2904953201",
+  "provider": "openalex",
+  "year": 2018,
+  "venue": "European Journal of Epidemiology",
+  "citation_count": 208,
+  "abstract": "This study was performed to highlight the relationship between single dietary risk factors and cardiovascular diseases (CVDs) in the WHO European Region. We used the comparative risk assessment framework of the Global Burden of Disease Study to estimate CVD mortality attributable to diet; comprising eleven forms of CVDs, twelve food and nutrient groups and 27 risk-outcome pairs in four GBD regions including 51 countries by age and sex between 1990 and 2016. In 2016, dietary risks were associated with 2.1 million cardiovascular deaths (95% uncertainty interval (UI), 1.7-2.5 million) in the WHO European Region, accounting for 22.4% of all deaths and 49.2% of CVD deaths. In terms of single dietary risks, a diet low in whole grains accounted for approximately 429,000 deaths, followed by a diet low in nuts and seeds (341,000 deaths), a diet low in fruits (262,000 deaths), a diet high in sodium (251,000 deaths), and a diet low in omega-3 fatty acids (227,000 deaths). Thus, with an optimized, i.e. balanced diet, roughly one in every five premature deaths could be prevented. Although age-standardized death rates decreased over the last 26 years, the absolute number of diet-related cardiovascular deaths increased between 2010 and 2016 by 25,600 deaths in Western Europe and by 4300 deaths in Central Asia. In 2016, approximately 601,000 deaths (28.6% of all diet-related CVD deaths) occurred among adults younger than 70 years. Compared to other behavioural risk factors, a balanced diet is a potential key lever to avoid premature deaths.",
+  "type": "academic",
+  "pdf_url": "https://link.springer.com/content/pdf/10.1007/s10654-018-0473-x.pdf"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "src-098",
+  "title": "Psychedelics action and schizophrenia",
+  "authors": [
+    "Maćkowiak, Marzena"
+  ],
+  "doi": "10.1007/s43440-023-00546-5",
+  "url": "https://openalex.org/W4388014245",
+  "provider": "openalex",
+  "year": 2023,
+  "venue": "Pharmacological Reports",
+  "citation_count": 19,
+  "abstract": "Psychedelics are compounds acting by serotonin 5-hydroxytryptamine (5-HT)<sub>2A</sub> receptor activation and induce several behavioral responses. They are of special interest because of their positive effects on neuropsychiatric disorders (depression and posttraumatic stress disorder). However, several findings revealed that some psychedelic actions are similar to symptoms observed in schizophrenia (psychosis, sensorimotor gating impairments, attention, and working memory deficits) which might limit their clinical applications. Psychedelics activate some neurotransmitters, i.e., serotonergic, and glutamatergic, that are also impaired in schizophrenia. Therefore, the neurobiological background of psychedelics and schizophrenia is partially similar. Another important aspect to discuss is the perspective of using psychedelics in schizophrenia therapy. Postmortem studies showed a loss of synapses in schizophrenia, and the positive effects of psychedelics on neuroplasticity (synaptogenesis, neurogenesis, and neuritogenesis) might be essential in the context of schizophrenia therapy. However, because of psychedelics' psychotic action, the recommended doses of psychedelics in schizophrenia treatment are not established, and subpsychedelic dosing or microdosing are considered. Exploratory studies are needed to determine the tolerability of treatment and appropriate dosing regimen. Another therapeutic option is using non-hallucinogenic psychedelic analogs that also induce neuroplastic outcomes but do not have psychotogenic effects. Further preclinical and clinical studies are needed to recognize the potential effectiveness of 5-HT<sub>2A</sub> agonists in schizophrenia therapy.",
+  "type": "academic",
+  "pdf_url": "https://link.springer.com/content/pdf/10.1007/s43440-023-00546-5.pdf"
+}

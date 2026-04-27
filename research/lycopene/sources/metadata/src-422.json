@@ -1,0 +1,27 @@
+{
+  "id": "src-422",
+  "title": "Prostate Cancer in Relation to Diet, Physical Activity, and Body Size in Blacks, Whites, and Asians in the United States and Canada",
+  "authors": [
+    "Whittemore, Alice S.",
+    "Kolonel, Laurence N.",
+    "Wu, Anna H.",
+    "John, Esther M.",
+    "Gallagher, Richard P.",
+    "Howe, G. R.",
+    "Burch, J D",
+    "Hankin, Jean H.",
+    "Dreon, Darlene M.",
+    "West, Dee W.",
+    "Teh, Chong",
+    "Paffenbarger, Ralph S."
+  ],
+  "doi": "10.1093/jnci/87.9.652",
+  "url": "https://openalex.org/W1984455034",
+  "provider": "openalex",
+  "year": 1995,
+  "venue": "JNCI Journal of the National Cancer Institute",
+  "citation_count": 671,
+  "abstract": "These data support a causal role in prostate cancer for saturated fat intake but suggest that other factors are largely responsible for interethnic differences in risk.",
+  "type": "academic",
+  "pdf_url": ""
+}

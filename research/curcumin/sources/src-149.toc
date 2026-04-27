@@ -1,0 +1,26 @@
+23	2	Abstract
+52	2	Introduction
+117	2	Method
+265	2	Statistical Analysis
+282	2	Results
+339	2	4. The results showed that pre- to post- changes of physi-
+360	2	Discussion
+713	2	Conclusion
+729	2	Acknowledgements
+755	2	Competing Interests
+758	2	1 Department of Clinical Nutrition, School of Nutritional Sciences and Dietetics,
+769	2	References
+788	2	6. Turhan H, Saydam GS, Erbay AR, Ayaz S, Yasar AS, Aksoy Y, Basar N, Yetkin
+803	2	11. Andishmand A, Seyed Hossaini SM, Namayandeh SM, Mirjalili SR,
+810	2	13. Ozdogru I, Zencir C, Dogan A, Orscelik O, Inanc MT, Celik A, Gur M,
+834	2	21. Gorabi AM, Abbasifard M, Imani D, Aslani S, Razi B, Alizadeh S, Bagheri-
+838	2	22. Mahdavi A, Moradi S, Askari G, Iraj B, Sathyapalan T, Guest PC, Bagherniya
+846	2	24. Gibson CM, Cannon CP , Daley WL, Dodge JT Jr, Alexander B Jr, Marble
+874	2	32. Rahimi HR, Mohammadpour AH, Dastani M, Jaafari MR, Abnous K,
+887	2	35. Wang Z-B, Qiu C-G, Wang S-J, Han Z-Y, Huang Z-W, Sun G-j: Effect of
+909	2	42. Vafadar Afshar G, Rasmi Y, Yaghmaei P , Khadem-Ansari MH, Makhdomii
+914	2	43. Jazayeri-Tehrani SA, Rezayat SM, Mansouri S, Qorbani M, Alavian SM,
+920	2	44. Funamoto M, Sunagawa Y, Katanasaka Y, Miyazaki Y, Imaizumi A, Kakeya
+968	2	57. Shafabakhsh R, Mobini M, Raygan F, Aghadavod E, Ostadmohammadi V,
+973	2	58. Saberi-Karimian M, Parizadeh SMR, Ghayour-Mobarhan M, Salahshooh
+977	2	59. Fusar-Poli L, Vozza L, Gabbiadini A, Vanella A, Concas I, Tinacci S, Petralia

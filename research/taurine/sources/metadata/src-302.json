@@ -1,0 +1,18 @@
+{
+  "id": "src-302",
+  "title": "Developmental origins of health and disease: current knowledge and potential mechanisms",
+  "authors": [
+    "Hoffman, Daniël J.",
+    "Reynolds, Rebecca M.",
+    "Hardy, Daniel B."
+  ],
+  "doi": "10.1093/nutrit/nux053",
+  "url": "https://openalex.org/W2769900543",
+  "provider": "openalex",
+  "year": 2017,
+  "venue": "Nutrition Reviews",
+  "citation_count": 347,
+  "abstract": "Epidemiologic and clinical research has provided a large body of evidence supporting the developmental origins of health and disease (DOHaD), but there has been a relative dearth of mechanistic studies in humans due to the complexity of working with large, longitudinal cohorts. Nonetheless, animal models of undernutrition have provided substantial evidence for the potential epigenetic, metabolic, and endocrine mechanisms behind DOHaD. Furthermore, recent research has explored the interaction between the environment and the gastrointestinal system by investigating how the gut microbial ecology may impact the capacity for nutrient processing and absorption in a manner that may limit growth. This review presents a summary of current research that supports the concept of DOHaD, as well as potential mechanisms and interactions that explain how nutrition in utero and during early childhood influences lifelong health.",
+  "type": "academic",
+  "pdf_url": "https://academic.oup.com/nutritionreviews/article-pdf/75/12/951/23643588/nux053.pdf"
+}

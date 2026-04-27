@@ -1,0 +1,22 @@
+{
+  "id": "src-201",
+  "title": "Health benefits of resveratrol: Evidence from clinical studies",
+  "authors": [
+    "Singh, Akhand Pratap",
+    "Singh, R. P.",
+    "Verma, Sumit Singh",
+    "Rai, Vipin",
+    "Kaschula, Catherine H.",
+    "Maiti, Pralay",
+    "Gupta, Subash C."
+  ],
+  "doi": "10.1002/med.21565",
+  "url": "https://openalex.org/W2913875557",
+  "provider": "openalex",
+  "year": 2019,
+  "venue": "Medicinal Research Reviews",
+  "citation_count": 501,
+  "abstract": "Resveratrol is a polyphenolic nutraceutical that exhibits pleiotropic activities in human subjects. The efficacy, safety, and pharmacokinetics of resveratrol have been documented in over 244 clinical trials, with an additional 27 clinical trials currently ongoing. Resveretrol is reported to potentially improve the therapeutic outcome in patients suffering from diabetes mellitus, obesity, colorectal cancer, breast cancer, multiple myeloma, metabolic syndrome, hypertension, Alzheimer's disease, stroke, cardiovascular diseases, kidney diseases, inflammatory diseases, and rhinopharyngitis. The polyphenol is reported to be safe at doses up to 5 g/d, when used either alone or as a combination therapy. The molecular basis for the pleiotropic activities of resveratrol are based on its ability to modulate multiple cell signaling molecules such as cytokines, caspases, matrix metalloproteinases, Wnt, nuclear factor-κB, Notch, 5'-AMP-activated protein kinase, intercellular adhesion molecule, vascular cell adhesion molecule, sirtuin type 1, peroxisome proliferator-activated receptor-γ coactivator 1α, insulin-like growth factor 1, insulin-like growth factor-binding protein 3, Ras association domain family 1α, pAkt, vascular endothelial growth factor, cyclooxygenase 2, nuclear factor erythroid 2 like 2, and Kelch-like ECH-associated protein 1. Although the clinical utility of resveratrol is well documented, the rapid metabolism and poor bioavailability have limited its therapeutic use. In this regard, the recently produced micronized resveratrol formulation called SRT501, shows promise. This review discusses the currently available clinical data on resveratrol in the prevention, management, and treatment of various diseases and disorders. Based on the current evidence, the potential utility of this molecule in the clinic is discussed.",
+  "type": "academic",
+  "pdf_url": ""
+}

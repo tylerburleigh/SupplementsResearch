@@ -1,0 +1,29 @@
+{
+  "id": "src-003",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2024.1393181/full",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-23T11:13:02.795965+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-003.md",
+  "quality_details": {
+    "content_length": 40743,
+    "alpha_ratio": 0.71,
+    "sentence_count": 791,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

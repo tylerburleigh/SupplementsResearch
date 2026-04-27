@@ -1,0 +1,16 @@
+10	2	Abstract
+47	2	Background
+195	2	Statistical Analysis
+226	2	Results
+271	2	Discussion
+467	2	Gcs
+499	2	Conclusion
+519	2	Acknowledgments
+543	2	Competing Interests
+554	2	References
+585	2	13. Morganti-Kossman MC, Lenzlinger PM, Hans V, Stahel P, Csuka E, Ammann
+612	2	24. Boelens PG, Houdijk AP, de Thouars HN, Teerlink T, van Engeland MI,
+616	2	25. Vermeulen MA, van Stijn MF, Visser M, Lemmens SM, Houdijk AP, van
+622	2	27. Chen X, Sebastian BM, Tang H, McMullen MM, Axhemi A, Jacobsen DW,
+647	2	36. Slotwinski R, Olszewski WL, Slotkowski M, Lech G, Zaleska M, Slotwinska SM,
+701	2	53. McIntosh TK, Saatman KE, Raghupathi R, Graham DI, Smith DH, Lee VM,

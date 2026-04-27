@@ -1,0 +1,16 @@
+{
+  "id": "src-056",
+  "title": "Towards Quantitative Systems Pharmacology Models of Chemotherapy-Induced Neutropenia.",
+  "authors": [
+    "Craig, M"
+  ],
+  "doi": "10.1002/psp4.12191",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/28418603",
+  "provider": "pubmed",
+  "year": 2017,
+  "venue": "CPT: pharmacometrics & systems pharmacology",
+  "citation_count": 0,
+  "abstract": "Neutropenia is a serious toxic complication of chemotherapeutic treatment. For years, mathematical models have been developed to better predict hematological outcomes during chemotherapy in both the traditional pharmaceutical sciences and mathematical biology disciplines. An increasing number of quantitative systems pharmacology (QSP) models that combine systems approaches, physiology, and pharmacokinetics/pharmacodynamics have been successfully developed. Here, I detail the shift towards QSP efforts, emphasizing the importance of incorporating systems-level physiological considerations in pharmacometrics.",
+  "type": "academic",
+  "pdf_url": ""
+}

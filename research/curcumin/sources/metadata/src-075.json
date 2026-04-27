@@ -1,0 +1,27 @@
+{
+  "id": "src-075",
+  "title": "Nano based drug delivery systems: recent developments and future prospects",
+  "authors": [
+    "Patra, Jayanta Kumar",
+    "Das, Gitishree",
+    "Fraceto, Leonardo Fernandes",
+    "Campos, Estefânia Vangelie Ramos",
+    "Rodríguez-Torres, María del Pilar",
+    "Acosta‐Torres, Laura Susana",
+    "Dı́az-Torres, L.A.",
+    "Grillo, Renato",
+    "Swamy, Mallappa Kumara",
+    "Sharma, Shivesh",
+    "Habtemariam, Solomon",
+    "Shin, Han-Seung"
+  ],
+  "doi": "10.1186/s12951-018-0392-8",
+  "url": "https://openalex.org/W2890167612",
+  "provider": "openalex",
+  "year": 2018,
+  "venue": "Journal of Nanobiotechnology",
+  "citation_count": 6392,
+  "abstract": "Nanomedicine and nano delivery systems are a relatively new but rapidly developing science where materials in the nanoscale range are employed to serve as means of diagnostic tools or to deliver therapeutic agents to specific targeted sites in a controlled manner. Nanotechnology offers multiple benefits in treating chronic human diseases by site-specific, and target-oriented delivery of precise medicines. Recently, there are a number of outstanding applications of the nanomedicine (chemotherapeutic agents, biological agents, immunotherapeutic agents etc.) in the treatment of various diseases. The current review, presents an updated summary of recent advances in the field of nanomedicines and nano based drug delivery systems through comprehensive scrutiny of the discovery and application of nanomaterials in improving both the efficacy of novel and old drugs (e.g., natural products) and selective diagnosis through disease marker molecules. The opportunities and challenges of nanomedicines in drug delivery from synthetic/natural sources to their clinical applications are also discussed. In addition, we have included information regarding the trends and perspectives in nanomedicine area.",
+  "type": "academic",
+  "pdf_url": "https://jnanobiotechnology.biomedcentral.com/track/pdf/10.1186/s12951-018-0392-8"
+}

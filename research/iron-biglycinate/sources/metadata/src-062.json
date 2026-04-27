@@ -1,0 +1,21 @@
+{
+  "id": "src-062",
+  "title": "Low levels of vitamin C in dialysis patients is associated with decreased prealbumin and increased C-reactive protein.",
+  "authors": [
+    "Zhang, Kunying",
+    "Liu, Li",
+    "Cheng, Xuyang",
+    "Dong, Jie",
+    "Geng, Qiuming",
+    "Zuo, Li"
+  ],
+  "doi": "10.1186/1471-2369-12-18",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/21548917",
+  "provider": "pubmed",
+  "year": 2011,
+  "venue": "BMC nephrology",
+  "citation_count": 0,
+  "abstract": "BACKGROUND: Subclinical inflammation is a common phenomenon in patients on either continuous ambulatory peritoneal dialysis (CAPD) or maintenance hemodialysis (MHD). We hypothesized that vitamin C had anti-inflammation effect because of its electron offering ability. The current study was designed to test the relationship of plasma vitamin C level and some inflammatory markers.\nMETHODS: In this cross-sectional study, 284 dialysis patients were recruited, including 117 MHD and 167 CAPD patients. The demographics were recorded. Plasma vitamin C was measured by high-performance liquid chromatography. And we also measured body mass index (BMI, calculated as weight/height(2)), Kt/V, serum albumin, serum prealbumin, high-sensitivity C-reactive protein (hsCRP), ferritin, hemoglobin. The relationships between vitamin C and albumin, pre-albumin and hsCRP levels were tested by Spearman correlation analysis and multiple regression analysis. Patients were classified into three subgroups by vitamin C level according to previous recommendation 12 in MHD and CAPD patients respectively: group A: < 2 ug/ml (< 11.4 umol/l, deficiency), group B: 2-4 ug/ml (11.4-22.8 umol/l, insufficiency) and group C: > 4 ug/ml (> 22.8 umol/l, normal and above).\nRESULTS: Patients showed a widely distribution of plasma vitamin C levels in the total 284 dialysis patients. Vitamin C deficiency (< 2 ug/ml) was present in 95(33.45%) and insufficiency (2-4 ug/ml) in 88(30.99%). 73(25.70%) patients had plasma vitamin C levels within normal range (4-14 ug/ml) and 28(9.86%) at higher than normal levels (> 14 ug/ml). The similar proportion of different vitamin C levels was found in both MHD and CAPD groups. Plasma vitamin C level was inversely associated with hsCRP concentration (Spearman r = -0.201, P = 0.001) and positively associated with prealbumin (Spearman r = 0.268, P < 0.001), albumin levels (Spearman r = 0.161, P = 0.007). In multiple linear regression analysis, plasma vitamin C level was inversely associated with log(10)hsCRP (P = 0.048) and positively with prealbumin levels (P = 0.002) adjusted for gender, age, diabetes, modality of dialysis and some other confounding effects.\nCONCLUSIONS: The investigation indicates that vitamin C deficiency is common in both MHD patients and CAPD patients. Plasma vitamin C level is positively associated with serum prealbumin level and negatively associated with hsCRP level in both groups. Vitamin C deficiency may play an important role in the increased inflammatory status in dialysis patients. Further studies are needed to determine whether inflammatory status in dialysis patients can be improved by using vitamin C supplements.",
+  "type": "academic",
+  "pdf_url": ""
+}

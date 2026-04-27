@@ -1,0 +1,20 @@
+15	2	Abstract
+59	2	Introduction
+105	2	Methods
+168	2	Statistical Analysis
+183	2	Results
+294	2	Discussion
+397	2	Conclusion
+424	2	References
+430	2	3. Holick MF, Binkley NC, Bischoff-Ferrari HA, Gordon CM, Hanley
+434	2	4. LeBoff MS, Greenspan SL, Insogna KL, Lewiecki EM, Saag KG,
+437	2	5. Demay MB, Pittas AG, Bikle DD, Diab DL, Kiely ME, Lazaretti-
+441	2	6. Ross AC, Manson JE, Abrams SA, Aloia JF, Brannon PM, Clinton
+445	2	7. Bischoff-Ferrari HA, Willett WC, Orav EJ, Lips P, Meunier PJ,
+448	2	8. Chakhtoura M, Bacha DS, Gharios C, Ajjour S, Assaad M, Jabbour
+463	2	12. Cumpston M, Li T, Page MJ, Chandler J, Welch V A, Higgins JP,
+467	2	13. Sanders KM, Stuart AL, Williamson EJ, Simpson JA, Kotow -
+471	2	14. Waterhouse M, Ebeling PR, McLeod DSA, English D, Romero BD,
+481	2	16. Khaw KT, Stewart AW, Waayer D, Lawes CMM, Toop L, Camargo
+527	2	28. Di Stefano M, Veneto G, Malservisi S, Cecchetti L, Minguzzi L,
+537	2	32. Siris ES, Chen YT, Abbott TA, Barrett-Connor E, Miller PD, Wehren

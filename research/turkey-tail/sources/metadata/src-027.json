@@ -1,0 +1,20 @@
+{
+  "id": "src-027",
+  "title": "Metaheuristics for pharmacometrics.",
+  "authors": [
+    "Kim, Seongho",
+    "Hooker, Andrew C",
+    "Shi, Yu",
+    "Kim, Grace Hyun J",
+    "Wong, Weng Kee"
+  ],
+  "doi": "10.1002/psp4.12714",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34562342",
+  "provider": "pubmed",
+  "year": 2021,
+  "venue": "CPT: pharmacometrics & systems pharmacology",
+  "citation_count": 0,
+  "abstract": "Metaheuristics is a powerful optimization tool that is increasingly used across disciplines to tackle general purpose optimization problems. Nature-inspired metaheuristic algorithms is a subclass of metaheuristic algorithms and have been shown to be particularly flexible and useful in solving complicated optimization problems in computer science and engineering. A common practice with metaheuristics is to hybridize it with another suitably chosen algorithm for enhanced performance. This paper reviews metaheuristic algorithms and demonstrates some of its utility in tackling pharmacometric problems. Specifically, we provide three applications using one of its most celebrated members, particle swarm optimization (PSO), and show that PSO can effectively estimate parameters in complicated nonlinear mixed-effects models and to gain insights into statistical identifiability issues in a complex compartment model. In the third application, we demonstrate how to hybridize PSO with sparse grid, which is an often-used technique to evaluate high dimensional integrals, to search for -efficient designs for estimating parameters in nonlinear mixed-effects models with a count outcome. We also show the proposed hybrid algorithm outperforms its competitors when sparse grid is replaced by its competitor, adaptive gaussian quadrature to approximate the integral, or when PSO is replaced by three notable nature-inspired metaheuristic algorithms.",
+  "type": "academic",
+  "pdf_url": ""
+}

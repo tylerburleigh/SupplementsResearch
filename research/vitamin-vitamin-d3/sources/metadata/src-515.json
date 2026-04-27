@@ -1,0 +1,38 @@
+{
+  "id": "src-515",
+  "title": "Vitamin D and prostate cancer prognosis: a Mendelian randomization study",
+  "authors": [
+    "Trummer, Olivia",
+    "Langsenlehner, Uwe",
+    "Krenn-Pilko, Sabine",
+    "Pieber, Thomas R.",
+    "Obermayer-Pietsch, Barbara",
+    "Gerger, Armin",
+    "Renner, Wilfried",
+    "Langsenlehner, Tanja"
+  ],
+  "year": 2016,
+  "abstract": "",
+  "doi": "10.1007/s00345-015-1646-9",
+  "url": "https://doi.org/10.1007/s00345-015-1646-9",
+  "pdf_url": "",
+  "venue": "World Journal of Urology",
+  "citation_count": 19,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T21:11:07.447851+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-515.md",
+  "quality_details": {
+    "content_length": 14298,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

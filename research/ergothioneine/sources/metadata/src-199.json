@@ -1,0 +1,23 @@
+{
+  "id": "src-199",
+  "title": "Low-molecular-weight thiol transferases in redox regulation and antioxidant defence",
+  "authors": [
+    "Tossounian, Maria‐Armineh",
+    "Zhao, Yuhan",
+    "Yu, Bess Yi Kun",
+    "Markey, Samuel A.",
+    "Malanchuk, Oksana",
+    "Zhu, Yuejia",
+    "Cain, Amanda",
+    "Gout, Ivan"
+  ],
+  "doi": "10.1016/j.redox.2024.103094",
+  "url": "https://openalex.org/W4392126486",
+  "provider": "openalex",
+  "year": 2024,
+  "venue": "Redox Biology",
+  "citation_count": 25,
+  "abstract": "Low-molecular-weight (LMW) thiols are produced in all living cells in different forms and concentrations. Glutathione (GSH), coenzyme A (CoA), bacillithiol (BSH), mycothiol (MSH), ergothioneine (ET) and trypanothione T(SH)<sub>2</sub> are the main LMW thiols in eukaryotes and prokaryotes. LMW thiols serve as electron donors for thiol-dependent enzymes in redox-mediated metabolic and signaling processes, protect cellular macromolecules from oxidative and xenobiotic stress, and participate in the reduction of oxidative modifications. The level and function of LMW thiols, their oxidized disulfides and mixed disulfide conjugates in cells and tissues is tightly controlled by dedicated oxidoreductases, such as peroxiredoxins, glutaredoxins, disulfide reductases and LMW thiol transferases. This review provides the first summary of the current knowledge of structural and functional diversity of transferases for LMW thiols, including GSH, BSH, MSH and T(SH)<sub>2</sub>. Their role in maintaining redox homeostasis in single-cell and multicellular organisms is discussed, focusing in particular on the conjugation of specific thiols to exogenous and endogenous electrophiles, or oxidized protein substrates. Advances in the development of new research tools, analytical methodologies, and genetic models for the analysis of known LMW thiol transferases will expand our knowledge and understanding of their function in cell growth and survival under oxidative stress, nutrient deprivation, and during the detoxification of xenobiotics and harmful metabolites. The antioxidant function of CoA has been recently discovered and the breakthrough in defining the identity and functional characteristics of CoA S-transferase(s) is soon expected.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.1016/j.redox.2024.103094"
+}

@@ -1,0 +1,21 @@
+5	2	Research
+11	2	Abstract
+52	2	Background
+223	2	Methods
+392	2	Results
+528	2	Discussion
+804	2	Conclusions
+845	2	Acknowledgements
+848	2	Author Contributions
+859	2	Data Availability
+880	2	Competing Interests
+894	2	References
+952	2	21. Sumner RL, McMillan R, Spriggs MJ, Campbell D, Malpas G, Maxwell E,
+990	2	35. Shaw AD, Muthukumaraswamy SD, Saxena N, Sumner RL, Adams NE,
+997	2	37. Skosnik PD, Sloshower J, Safi-Aghdam H, Pathania S, Syed S, Pittman B,
+1007	2	40. Cavanna F, Muller S, de la Fuente LA, Zamberlan F, Palmucci M, Janeckova
+1014	2	42. De Gregorio D, Posa L, Ochoa-Sanchez R, McLaughlin R, Maione S, Comai
+1018	2	43. Sumner RL, Spriggs MJ, McMillan RL, Sundram F, Kirk IJ, Muthukumaras-
+1043	2	50. Hutten NRPW, Mason NL, Dolder PC, Theunissen EL, Holze F, Liechti ME,
+1049	2	52. De Gregorio D, Inserra A, Enns JP , Markopoulos A, Pileggi M, El Rahimy
+1062	2	56. Kaertner L, Steinborn M, Kettner H, Spriggs M, Roseman L, Buchborn T,

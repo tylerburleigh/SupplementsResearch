@@ -1,0 +1,20 @@
+{
+  "id": "src-380",
+  "title": "Predicting drug–drug interactions by electrochemically driven cytochrome P450 3A4 reactions",
+  "authors": [
+    "Shumyantseva, V.",
+    "Koroleva, P. I.",
+    "Bulko, T.",
+    "Sergeev, Gennady",
+    "Usanov, S."
+  ],
+  "doi": "10.1515/dmpt-2021-0116",
+  "url": "https://www.semanticscholar.org/paper/586da140a2868780f3dfe7c37c9cc189f572eb42",
+  "provider": "semantic_scholar",
+  "year": 2021,
+  "venue": "Drug Metabolism and Personalized Therapy",
+  "citation_count": 4,
+  "abstract": "Abstract Objectives Human cytochrome P450 3A4 is the most abundant hepatic and intestinal Phase I enzyme that metabolizes approximately 60% marketed drugs. Simultaneous administration of several drugs may result in appearance of drug–drug interaction. Due to the great interest in the combination therapy, the exploration of the role of drug as “perpetrator” or “victim” is important task in pharmacology. In this work the model systems based on electrochemically driven cytochrome P450 3A4 for the analysis of drug combinations was used. We have shown that the analysis of electrochemical parameters of cytochrome P450 3A4 and especially, potential of the start of catalysis, Eonset, possess predictive properties in the determination of the leading (“perpetrator”) properties of drug. Based on these experimental data, we concluded, that the more positive potential of the start of catalysis, Eonset, the more pronounced the role of drug as leading medication. Methods Electrochemically driven cytochrome P450 3A4 was used as probe and measuring tool for the estimation of the role of interacting drugs. Results It is shown that the electrochemical non-invasive model systems for monitoring the catalytic activity of cytochrome P450 3A4 can be used as prognostic devise in assessment of drug/drug interacting medications. Conclusions Cytochrome P450 3A4 activity was studied in electrochemically driven system. Method was implemented to monitor drug/drug interactions. Based on the obtained experimental data, we can conclude that electrochemical parameter such as potential of onset of catalysis, Eonset, has predictive efficiency in assessment of drug/drug interacting medications in the case of the co-administration.",
+  "type": "academic",
+  "pdf_url": ""
+}

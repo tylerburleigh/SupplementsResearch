@@ -1,0 +1,16 @@
+{
+  "id": "src-049",
+  "title": "5,10-Methylenetetrahydrofolate Reductase Polymorphisms and Leukemia Risk: A HuGE Minireview",
+  "authors": [
+    "Robien, Kim"
+  ],
+  "doi": "10.1093/aje/kwg024",
+  "url": "https://openalex.org/W2144891453",
+  "provider": "openalex",
+  "year": 2003,
+  "venue": "American Journal of Epidemiology",
+  "citation_count": 282,
+  "abstract": "Leukemias commonly arise as a result of DNA translocations, inversions, or deletions in genes regulating blood cell development or homeostasis. Folate deficiency has been associated with uracil misincorporation into DNA and DNA double strand breaks during uracil excision repair, thus increasing the risk of chromosomal aberrations. Methylenetetrahydrofolate reductase (MTHFR) directs 5,10-methylenetetrahydrofolate toward methionine synthesis at the expense of DNA synthesis. Two MTHFR polymorphisms, C677T and A1298C, have been associated with reduced enzyme activity and C677T with altered distribution of intracellular folate metabolites. Rapidly replicating cell types, such as hematopoietic cells, may be especially sensitive to changes in the availability of intracellular folate. Three case-control studies have evaluated the association between MTHFR polymorphisms and the risk of acute leukemia, and they suggest that both adults and children with the variant forms of MTHFR have a decreased risk of lymphoid leukemias. However, no modification in risk has been observed for myeloid leukemias, suggesting that differences in folate requirements or susceptibility to chromosomal damage may exist between myeloid and lymphoid cells. Further investigation into the association between MTHFR polymorphisms and the risk of leukemia is warranted. It should include larger sample sizes and other polymorphisms in folate metabolism and address interactions with folate status.",
+  "type": "academic",
+  "pdf_url": "https://academic.oup.com/aje/article-pdf/157/7/571/154352/kwg024.pdf"
+}

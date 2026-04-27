@@ -1,0 +1,40 @@
+{
+  "id": "src-047",
+  "title": "Undenatured type II collagen prevents and treats osteoarthritis and motor function degradation in T2DM patients and db/db mice",
+  "authors": [
+    "Rui, Fan",
+    "Jiawei, Kang",
+    "Yuntao, Hao",
+    "Xinran, Liu",
+    "Jiani, Hu",
+    "Ruixue, Mao",
+    "Rui, Liu",
+    "Na, Zhu",
+    "Meihong, Xu",
+    "Yong, Li"
+  ],
+  "year": 2021,
+  "abstract": "<p>Osteoarthritis (OA) has been scarcely researched among patients with diabetes mellitus. UC II could prevents and treats osteoarthritis and motor function degradation in T2DM patients and db/db mice.</p>",
+  "doi": "10.1039/d0fo03011b",
+  "url": "https://doi.org/10.1039/d0fo03011b",
+  "pdf_url": "",
+  "venue": "Food &amp; Function",
+  "citation_count": 12,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-19T13:43:00.821183+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-047.md",
+  "quality_details": {
+    "content_length": 4714,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

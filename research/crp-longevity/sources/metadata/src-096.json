@@ -1,0 +1,31 @@
+{
+  "id": "src-096",
+  "title": "DNA Methylation Biomarkers in Aging and Age-Related Diseases",
+  "authors": [
+    "Salameh, Yasmeen",
+    "Bejaoui, Yosra",
+    "El Hajj, Nady"
+  ],
+  "year": 2020,
+  "abstract": "",
+  "doi": "10.3389/fgene.2020.00171",
+  "url": "https://doi.org/10.3389/fgene.2020.00171",
+  "pdf_url": "",
+  "venue": "Frontiers in Genetics",
+  "citation_count": 253,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-24T01:09:19.741626+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-096.md",
+  "quality_details": {
+    "content_length": 72421,
+    "alpha_ratio": 0.705,
+    "sentence_count": 1583,
+    "reasons": []
+  }
+}

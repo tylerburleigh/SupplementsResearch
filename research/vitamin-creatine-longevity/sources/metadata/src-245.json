@@ -1,0 +1,38 @@
+{
+  "id": "src-245",
+  "title": "Single dose creatine improves cognitive performance and induces changes in cerebral high energy phosphates during sleep deprivation",
+  "authors": [
+    "Gordji-Nejad, Ali",
+    "Matusch, Andreas",
+    "Kleedörfer, Sophie",
+    "Jayeshkumar Patel, Harshal",
+    "Drzezga, Alexander",
+    "Elmenhorst, David",
+    "Binkofski, Ferdinand",
+    "Bauer, Andreas"
+  ],
+  "year": 2024,
+  "abstract": "AbstractThe inverse effects of creatine supplementation and sleep deprivation on high energy phosphates, neural creatine, and cognitive performances suggest that creatine is a suitable candidate for reducing the negative effects of sleep deprivation. With this, the main obstacle is the limited exogenous uptake by the central nervous system (CNS), making creatine only effective over a long-term diet of weeks. Thus far, only repeated dosing of creatine over weeks has been studied, yielding detectable changes in CNS levels. Based on the hypothesis that a high extracellular creatine availability and increased intracellular energy consumption will temporarily increase the central creatine uptake, subjects were orally administered a high single dose of creatinemonohydrate (0.35 g/kg) while performing cognitive tests during sleep deprivation. Two consecutive 31P-MRS scans, 1H-MRS, and cognitive tests were performed each at evening baseline, 3, 5.5, and 7.5 h after single dose creatine (0.35 g/kg) or placebo during sub-total 21 h sleep deprivation (SD). Our results show that creatine induces changes in PCr/Pi, ATP, tCr/tNAA, prevents a drop in pH level, and improves cognitive performance and processing speed. These outcomes suggest that a high single dose of creatine can partially reverse metabolic alterations and fatigue-related cognitive deterioration.",
+  "doi": "10.1038/s41598-024-54249-9",
+  "url": "https://doi.org/10.1038/s41598-024-54249-9",
+  "pdf_url": "",
+  "venue": "Scientific Reports",
+  "citation_count": 42,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T14:14:45.816986+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-245.md",
+  "quality_details": {
+    "content_length": 63020,
+    "alpha_ratio": 0.666,
+    "sentence_count": 769,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

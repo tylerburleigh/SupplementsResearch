@@ -1,0 +1,26 @@
+{
+  "id": "src-244",
+  "title": "The Effects of Vitamin D Supplementation on C-Reactive Protein and Systolic and Diastolic Blood Pressure in Postmenopausal Women: A Meta-Analysis and Systematic Review of Randomized Controlled Trials.",
+  "authors": [
+    "Jiang, Qidong",
+    "Prabahar, K.",
+    "Saleh, S. A.",
+    "Adly, H.",
+    "Velu, Periyannan",
+    "Adi, Abdul Rahman",
+    "Baradwan, Saeed",
+    "Hajkhalaf, Miar Ibrahim",
+    "Baredwan, Ahlam",
+    "Gari, Faris",
+    "Kord-Varkaneh, Hamed"
+  ],
+  "doi": "10.1016/j.jand.2023.10.013",
+  "url": "https://www.semanticscholar.org/paper/991bd0e03e063145977823028e93aa5e4abddc87",
+  "provider": "semantic_scholar",
+  "year": 2023,
+  "venue": "Journal of the Academy of Nutrition and Dietetics",
+  "citation_count": 10,
+  "abstract": "BACKGROUND\nAn inverse relationship between vitamin D supplementation and C-reactive protein (CRP) and hypertension has been reported, mostly through observational data. This inverse relationship, however, has not been confirmed in randomized controlled trials (RCTs). A meta-analysis of RCTs is needed to provide more robust evidence.\n\nOBJECTIVE\nThis systematic review of RCTs was conducted to assess the effect of vitamin D supplementation on CRP, systolic blood pressure (SBP), and diastolic blood pressure (DBP) in postmenopausal women.\n\nMETHODS\nFour databases (PubMed, Web of Science, Embase, and Scopus) were systemically searched to identify relevant RCTs published in international scientific journals up to January 2023. Changes from baseline and SDs of CRP, SBP, and DBP were compared between postmenopausal women who received vitamin D supplementation and those who did not (controls). These parameters were applied to compute the overall effect sizes using the random-effects model. Data were summarized as mean difference (MD) with 95% CI. Heterogeneity among arms was scrutinized using the Cochrane's Q test and I2 statistic. Publication bias was judged by means of funnel plots and Egger's test.\n\nRESULTS\nSeven studies with 6 arms on CRP, 6 arms on SBP, and 6 arms on DBP were included in the meta-analysis. Combined effect sizes suggested a significant effect of vitamin D supplementation on CRP (MD = -0.65 mg/L; 95% CI -0.93 to -0.37 mg/L; P < .001). In addition, CRP concentrations were signiﬁcantly reduced after vitamin D supplementation in studies with a duration of more than 3 months (MD = -0.91 mg/L; 95% CI -1.37 to -0.45 mg/L; P < .001) and studies involving doses of ≤1,000 IU/d (MD = -2.10 mg/L; 95% CI -2.51 to -1.68 mg/L; P < .001). Vitamin D supplementation did not reduce SBP signiﬁcantly (MD = -1.06 mm Hg; 95% CI -2.43 to 0.30 mm Hg; P = .127) and DBP (MD = 0.003 mm Hg; 95% CI -0.86 to 0.86 mm Hg; P = .994) levels compared with control groups.\n\nCONCLUSIONS\nThis meta-analysis concluded that vitamin D supplementation is associated with reduced CRP concentrations among postmenopausal women.",
+  "type": "academic",
+  "pdf_url": ""
+}

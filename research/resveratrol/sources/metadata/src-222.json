@@ -1,0 +1,19 @@
+{
+  "id": "src-222",
+  "title": "Molecular and biological hallmarks of ageing",
+  "authors": [
+    "Aunan, Jan Rune",
+    "Watson, Martin",
+    "Hagland, Hanne R.",
+    "Søreide, Kjetil"
+  ],
+  "doi": "10.1002/bjs.10053",
+  "url": "https://openalex.org/W2397668368",
+  "provider": "openalex",
+  "year": 2016,
+  "venue": "British journal of surgery",
+  "citation_count": 315,
+  "abstract": "The sum of these molecular hallmarks produces the clinical picture of the elderly surgical patient: frailty, sarcopenia, anaemia, poor nutrition and a blunted immune response system. Improved understanding of the ageing processes may give rise to new biomarkers of risk or prognosis, novel treatment targets and translational approaches across disciplines that may improve outcomes.",
+  "type": "academic",
+  "pdf_url": ""
+}

@@ -1,0 +1,18 @@
+{
+  "id": "src-232",
+  "title": "The Role of Vitamin K in Humans: Implication in Aging and Age-Associated Diseases",
+  "authors": [
+    "Popa, Daniela‐Saveta",
+    "Bigman, Galya",
+    "Rusu, Marius Emil"
+  ],
+  "doi": "10.3390/antiox10040566",
+  "url": "https://openalex.org/W3149435916",
+  "provider": "openalex",
+  "year": 2021,
+  "venue": "Antioxidants",
+  "citation_count": 126,
+  "abstract": "As human life expectancy is rising, the incidence of age-associated diseases will also increase. Scientific evidence has revealed that healthy diets, including good fats, vitamins, minerals, or polyphenolics, could have antioxidant and anti-inflammatory activities, with antiaging effects. Recent studies demonstrated that vitamin K is a vital cofactor in activating several proteins, which act against age-related syndromes. Thus, vitamin K can carboxylate osteocalcin (a protein capable of transporting and fixing calcium in bone), activate matrix Gla protein (an inhibitor of vascular calcification and cardiovascular events) and carboxylate Gas6 protein (involved in brain physiology and a cognitive decline and neurodegenerative disease inhibitor). By improving insulin sensitivity, vitamin K lowers diabetes risk. It also exerts antiproliferative, proapoptotic, autophagic effects and has been associated with a reduced risk of cancer. Recent research shows that protein S, another vitamin K-dependent protein, can prevent the cytokine storm observed in COVID-19 cases. The reduced activation of protein S due to the pneumonia-induced vitamin K depletion was correlated with higher thrombogenicity and possibly fatal outcomes in COVID-19 patients. Our review aimed to present the latest scientific evidence about vitamin K and its role in preventing age-associated diseases and/or improving the effectiveness of medical treatments in mature adults ˃50 years old.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2076-3921/10/4/566/pdf?version=1618301873"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "src-274",
+  "title": "Bioavailability of resveratrol",
+  "authors": [
+    "Walle, Thomas"
+  ],
+  "doi": "10.1111/j.1749-6632.2010.05842.x",
+  "url": "https://openalex.org/W1548494899",
+  "provider": "openalex",
+  "year": 2011,
+  "venue": "Annals of the New York Academy of Sciences",
+  "citation_count": 965,
+  "abstract": "This paper reviews our current understanding of the absorption, bioavailability, and metabolism of resveratrol, with an emphasis on humans. The oral absorption of resveratrol in humans is about 75% and is thought to occur mainly by transepithelial diffusion. Extensive metabolism in the intestine and liver results in an oral bioavailability considerably less than 1%. Dose escalation and repeated dose administration of resveratrol does not appear to alter this significantly. Metabolic studies, both in plasma and in urine, have revealed major metabolites to be glucuronides and sulfates of resveratrol. However, reduced dihydroresveratrol conjugates, in addition to highly polar unknown products, may account for as much as 50% of an oral resveratrol dose. Although major sites of metabolism include the intestine and liver (as expected), colonic bacterial metabolism may be more important than previously thought. Deconjugation enzymes such as β-glucuronidase and sulfatase, as well as specific tissue accumulation of resveratrol, may enhance resveratrol efficacy at target sites. Resveratrol analogs, such as methylated derivatives with improved bioavailability, may be important in future research.",
+  "type": "academic",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1749-6632.2010.05842.x"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "src-092",
+  "title": "Ferulic acid and berberine, via Sirt1 and AMPK, may act as cell cleansing promoters of healthy longevity",
+  "authors": [
+    "DiNicolantonio, James J",
+    "McCarty, Mark F",
+    "Assanga, Simon Iloki",
+    "Lujan, Lidianys Lewis",
+    "O'Keefe, James H"
+  ],
+  "year": 2022,
+  "abstract": "Ferulic acid, a bacterial metabolite of anthocyanins, seems likely to be a primary mediator of the health benefits associated with anthocyanin-rich diets, and has long been employed in Chinese cardiovascular medicine. In rodent studies, it has exerted wide-ranging antioxidant and anti-inflammatory effects, the molecular basis of which remains rather obscure. However, recent studies indicate that physiologically relevant concentrations of ferulic acid can boost expression of Sirt1 at mRNA and protein levels in a range of tissues. Sirt1, a class III deacetylase, functions to detect a paucity of oxidisable substrate, and in response works in various ways to promote cellular survival and healthful longevity. Sirt1 promotes ‘cell cleansing’ and cell survival by boosting autophagy, mitophagy, mitochondrial biogenesis, phase 2 induction of antioxidant enzymes via Nrf2, and DNA repair—while inhibiting NF-kB-driven inflammation, apoptosis, and cellular senescence, and boosting endothelial expression of the protective transcription factor kruppel-like factor 2. A deficit of the latter appears to mediate the endothelial toxicity of the SARS-CoV-2 spike protein. Ferulic acid also enhances the activation of AMP-activated kinase (AMPK) by increasing expression and activity of its activating kinase LKB1—whereas AMPK in turn amplifies Sirt1 activity by promoting induction of nicotinamide phosphoribosyltranferase, rate-limiting for generation of Sirt1’s obligate substrate NAD+. Curiously, AMPK acts by independent mechanisms to potentiate many of the effects mediated by Sirt1. Hence, it is proposed that ferulic acid may exert complementary or synergistic health-promoting effects when used in conjunction with clinically useful AMPK activators, such as the nutraceutical berberine. Additional nutraceuticals which might have potential for amplifying certain protective effects of ferulic acid/berberine are also discussed.",
+  "doi": "10.1136/openhrt-2021-001801",
+  "url": "https://doi.org/10.1136/openhrt-2021-001801",
+  "pdf_url": "",
+  "venue": "Open Heart",
+  "citation_count": 48,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-19T11:50:21.533894+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-092.md",
+  "quality_details": {
+    "content_length": 61040,
+    "alpha_ratio": 0.733,
+    "sentence_count": 709,
+    "reasons": []
+  }
+}

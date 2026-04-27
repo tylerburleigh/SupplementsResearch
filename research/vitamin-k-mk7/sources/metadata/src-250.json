@@ -1,0 +1,18 @@
+{
+  "id": "src-250",
+  "title": "COVID-19 Mortality Risk Correlates Inversely with Vitamin D3 Status, and a Mortality Rate Close to Zero Could Theoretically Be Achieved at 50 ng/mL 25(OH)D3: Results of a Systematic Review and Meta-Analysis",
+  "authors": [
+    "Borsche, Lorenz",
+    "Glauner, Bernd",
+    "Mendel, Julian von"
+  ],
+  "doi": "10.3390/nu13103596",
+  "url": "https://openalex.org/W3207279557",
+  "provider": "openalex",
+  "year": 2021,
+  "venue": "Nutrients",
+  "citation_count": 79,
+  "abstract": "The datasets provide strong evidence that low D3 is a predictor rather than just a side effect of the infection. Despite ongoing vaccinations, we recommend raising serum 25(OH)D levels to above 50 ng/mL to prevent or mitigate new outbreaks due to escape mutations or decreasing antibody activity.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2072-6643/13/10/3596/pdf?version=1634525644"
+}

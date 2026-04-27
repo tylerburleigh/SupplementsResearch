@@ -1,0 +1,22 @@
+22	2	Abstract
+56	2	Background
+129	2	Methods
+199	2	Data Analysis
+229	2	Results
+391	2	Esr
+425	2	Esr
+458	2	Esr
+479	2	Crp
+535	2	Crp
+574	2	Analysis
+600	2	Crp
+736	2	Important
+755	2	Important
+786	2	Discussion
+1014	2	Conclusion
+1043	2	Acknowledgements
+1056	2	Data Availability
+1067	2	Competing Interests
+1070	2	1 Department of Medical Education, Taipei Tzu Chi Hospital, Buddhist Tzu
+1075	2	4 Department of Ophthalmology, Taipei Tzu Chi Hospital, Buddhist Tzu Chi
+1079	2	References

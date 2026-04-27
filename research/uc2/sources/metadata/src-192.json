@@ -1,0 +1,21 @@
+{
+  "id": "src-192",
+  "title": "Induction of circulating myelin basic protein and proteolipid protein-specific transforming growth factor-beta1-secreting Th3 T cells by oral administration of myelin in multiple sclerosis patients.",
+  "authors": [
+    "Fukaura, Hikoaki",
+    "Kent, Sally C.",
+    "PIETRUSEWICZ, MATTHEW J.",
+    "Khoury, Samia J.",
+    "Weiner, Howard L.",
+    "Hafler, David A."
+  ],
+  "doi": "10.1172/jci118779",
+  "url": "https://openalex.org/W1970959631",
+  "provider": "openalex",
+  "year": 1996,
+  "venue": "Journal of Clinical Investigation",
+  "citation_count": 474,
+  "abstract": "Oral administration of antigen is a long recognized method of inducing systemic immune tolerance. In animals with experimental autoimmune disease, a major mechanism of oral tolerance triggered by oral administration of antigen involves the induction of regulatory T cells that mediate active suppression by secreting the cytokine TGF-beta 1. Multiple sclerosis (MS) is a presumed T cell-mediated Th1 type autoimmune disease. Here, we investigated whether in MS patients oral myelin treatment, containing both myelin basic protein (MBP) and proteolipid protein (PLP), induced antigen specific MBP or PLP reactive T cells that either secreted IL4, TGF-beta1, or alternatively did Th1 type sensitization occur as measured by IFN-gamma secretion. Specifically, 4,860 short-term T cell lines were generated to either MBP, PLP, or tetanus toxoid (TT) from 34 relapsing-remitting MS patients: 17 orally treated with bovine myelin daily for a minimum of 2 yr as compared to 17 nontreated patients. We found a marked increase in the relative frequencies of both MBP and PLP specific TGF-beta1-secreting T cell lines in the myelin treated MS patients as compared to non-treated MS patients (MBP P < 0.001, PLP P < 0.003). In contrast, no change in the frequency of MBP or PLP specific IFN-gamma or TT specific TGF-beta1 secreting T cells were observed. These results suggest that the oral administration of antigens generates antigen specific TGF-beta1 secreting Th3 cells of presumed mucosal origin that represent a distinct lineage of T cells. Since antigen-specific TGF-beta1 secreting cells localize to the target organ and then suppress inflammation in the local microenvironment, oral tolerization with self antigens may provide a therapeutic approach for the treatment of cell-mediated autoimmune disease which does not depend upon knowledge of the antigen specificity of the original T cell clone triggering the autoimmune cascade.",
+  "type": "academic",
+  "pdf_url": "http://www.jci.org/articles/view/118779/files/pdf"
+}

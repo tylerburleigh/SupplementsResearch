@@ -1,0 +1,23 @@
+45	2	Open
+71	2	Materials And Methods
+153	2	0 None
+155	2	2 Minimal: Definite osteophyte and possible narrowing of the joint space
+162	2	0 Smooth intact surface
+163	2	1 Slight surface irregularities
+165	2	3 Clefts into the transitional zone
+166	2	4 Clefts into the radial zone
+167	2	5 Clefts into the calcified zone
+168	2	6 Total disorganization
+170	2	0 Uniform cell distribution
+171	2	1 Diffuse cell proliferation
+172	2	2 Cell clustering
+173	2	3 Cell loss
+175	2	0 Intact
+176	2	1 Vascularity
+181	2	Results
+350	2	Discussion
+509	2	Data Availability
+513	2	References
+622	2	Acknowledgements
+628	2	Author Contributions
+638	2	Competing Interests

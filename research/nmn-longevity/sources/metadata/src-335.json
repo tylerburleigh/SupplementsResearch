@@ -1,0 +1,19 @@
+{
+  "id": "src-335",
+  "title": "Nicotinamide mononucleotide induces autophagy and ferroptosis via AMPK/mTOR pathway in hepatocellular carcinoma.",
+  "authors": [
+    "Sun, Zhanbo",
+    "Liu, Lixian",
+    "Liang, Hongyuan",
+    "Zhang, Lingyun"
+  ],
+  "doi": "10.1002/mc.23673",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38197493",
+  "provider": "pubmed",
+  "year": 2024,
+  "venue": "Molecular carcinogenesis",
+  "citation_count": 0,
+  "abstract": "Hepatocellular carcinoma (HCC) is a common malignancy worldwide. Herein, we investigated the role of nicotinamide mononucleotide (NMN) in HCC progression. HCC cells were treated with NMN (125, 250, and 500 μM), and then nicotinamide adenine dinucleotide (NAD+ ) and NADH levels in HCC cells were measured to calculate NAD+ /NADH ratio. Cell proliferation, apoptosis, autophagy and ferroptosis were determined. AMPK was knocked down to confirm the involvement of AMPK/mTOR signaling. Furthermore, tumor-inhibitory effect of NMN was investigated in xenograft models. Exposure to NMN dose-dependently increased NAD+ level and NAD+ /NADH ratio in HCC cells. After NMN treatment, cell proliferation was inhibited, whereas apoptosis was enhanced in both cell lines. Additionally, NMN dose-dependently enhanced autophagy/ferroptosis and activated AMPK/mTOR pathway in HCC cells. AMPK knockdown partially rescued the effects of NMN in vitro. Furthermore, NMN treatment restrained tumor growth in nude mice, activated autophagy/ferroptosis, and promoted apoptosis and necrosis in tumor tissues. The results indicate that NMN inhibits HCC progression by inducing autophagy and ferroptosis via AMPK/mTOR signaling. NMN may serve as a promising agent for HCC treatment.",
+  "type": "academic",
+  "pdf_url": ""
+}

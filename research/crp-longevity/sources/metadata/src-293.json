@@ -1,0 +1,18 @@
+{
+  "id": "src-293",
+  "title": "Ferroptosis in Vascular Diseases: A Mechanistic and Immunological Perspective on Therapeutic Targeting",
+  "authors": [
+    "Cui, Yi",
+    "Zhu, Pengyang",
+    "Jiang, Meixiu"
+  ],
+  "doi": "10.3390/antiox15040502",
+  "url": "https://www.semanticscholar.org/paper/fd3e2290a1614de3f46c153dcaa51f2fcd002d2f",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "Antioxidants",
+  "citation_count": 0,
+  "abstract": "Vascular diseases impose a heavy global burden, yet existing therapies have limitations, necessitating novel drug targets. Ferroptosis, an iron-dependent, lipid peroxidation-driven form of cell death, acts not only as an initiator of metabolic collapse but also as a sterile inflammatory trigger by releasing damage-associated molecular patterns (DAMPs) and activating pro-inflammatory pathways. In this paper, we propose the “ferroptosis–inflammation circuit” as a self-amplifying loop where ferroptosis fuels inflammation and the inflammatory microenvironment reciprocally promotes ferroptosis via cell type-specific mechanisms. Although ferroptosis in cardiovascular diseases has been reviewed, its immunopathological role in specific vascular diseases and how macrophages, neutrophils, T cells, and vascular cells collaboratively drive pathology through this circuit remains underexplored. The unique perspective of this review is a systematic focus on the dynamic interplay between ferroptosis and immune responses within the vascular wall, moving beyond static metabolic descriptions. We synthesize evidence linking ferroptosis to atherosclerosis, pulmonary hypertension, stroke, aneurysms, and aortic dissection, emphasizing its immunological dimension across cell types. By defining the ferroptosis–inflammation circuit and its cell type-specific patterns, we reposition ferroptosis as a core pathological hub that couples metabolic dysregulation, immune activation, and vascular remodeling. Understanding this circuit may open novel therapeutic avenues for targeting the ferroptosis–immune interface.",
+  "type": "academic",
+  "pdf_url": ""
+}

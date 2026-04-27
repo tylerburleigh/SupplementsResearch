@@ -1,0 +1,34 @@
+{
+  "id": "src-061",
+  "title": "Serum concentrations and clearances of folic acid and pyridoxal-5′-phosphate during venovenous continuous renal replacement therapy",
+  "authors": [
+    "Fortin, M.-C.",
+    "Amyot, S.-L.",
+    "Geadah, D.",
+    "Leblanc, M."
+  ],
+  "year": 1999,
+  "abstract": "",
+  "doi": "10.1007/s001340050908",
+  "url": "https://doi.org/10.1007/s001340050908",
+  "pdf_url": "",
+  "venue": "Intensive Care Medicine",
+  "citation_count": 51,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-20T16:06:39.409000+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-061.md",
+  "quality_details": {
+    "content_length": 5324,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

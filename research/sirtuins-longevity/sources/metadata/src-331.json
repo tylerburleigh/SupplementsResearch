@@ -1,0 +1,22 @@
+{
+  "id": "src-331",
+  "title": "Combination therapy in combating cancer",
+  "authors": [
+    "Mokhtari, Reza Bayat",
+    "Homayouni, Tina S.",
+    "Baluch, Narges",
+    "Morgatskaya, Evgeniya",
+    "Kumar, Sushil",
+    "Das, Bikul",
+    "Yeger, Herman"
+  ],
+  "doi": "10.18632/oncotarget.16723",
+  "url": "https://openalex.org/W2600452401",
+  "provider": "openalex",
+  "year": 2017,
+  "venue": "Oncotarget",
+  "citation_count": 2457,
+  "abstract": "Combination therapy, a treatment modality that combines two or more therapeutic agents, is a cornerstone of cancer therapy. The amalgamation of anti-cancer drugs enhances efficacy compared to the mono-therapy approach because it targets key pathways in a characteristically synergistic or an additive manner. This approach potentially reduces drug resistance, while simultaneously providing therapeutic anti-cancer benefits, such as reducing tumour growth and metastatic potential, arresting mitotically active cells, reducing cancer stem cell populations, and inducing apoptosis. The 5-year survival rates for most metastatic cancers are still quite low, and the process of developing a new anti-cancer drug is costly and extremely time-consuming. Therefore, new strategies that target the survival pathways that provide efficient and effective results at an affordable cost are being considered. One such approach incorporates repurposing therapeutic agents initially used for the treatment of different diseases other than cancer. This approach is effective primarily when the FDA-approved agent targets similar pathways found in cancer. Because one of the drugs used in combination therapy is already FDA-approved, overall costs of combination therapy research are reduced. This increases cost efficiency of therapy, thereby benefiting the \"medically underserved\". In addition, an approach that combines repurposed pharmaceutical agents with other therapeutics has shown promising results in mitigating tumour burden. In this systematic review, we discuss important pathways commonly targeted in cancer therapy. Furthermore, we also review important repurposed or primary anti-cancer agents that have gained popularity in clinical trials and research since 2012.",
+  "type": "academic",
+  "pdf_url": "http://www.oncotarget.com/index.php?journal=oncotarget&page=article&op=download&path%5B%5D=16723&path%5B%5D=53476"
+}

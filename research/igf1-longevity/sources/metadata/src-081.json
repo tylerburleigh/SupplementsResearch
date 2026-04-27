@@ -1,0 +1,23 @@
+{
+  "id": "src-081",
+  "title": "Endocrine-Disrupting Chemicals: An Endocrine Society Scientific Statement",
+  "authors": [
+    "Diamanti‐Kandarakis, Evanthia",
+    "Bourguignon, Jean‐Pierre",
+    "Giudice, Linda C.",
+    "Hauser, Russ",
+    "Prins, Gail S.",
+    "Soto, Ana M.",
+    "Zoeller, R. Thomas",
+    "Gore, Andrea C."
+  ],
+  "doi": "10.1210/er.2009-0002",
+  "url": "https://openalex.org/W2165700542",
+  "provider": "openalex",
+  "year": 2009,
+  "venue": "Endocrine Reviews",
+  "citation_count": 4434,
+  "abstract": "There is growing interest in the possible health threat posed by endocrine-disrupting chemicals (EDCs), which are substances in our environment, food, and consumer products that interfere with hormone biosynthesis, metabolism, or action resulting in a deviation from normal homeostatic control or reproduction. In this first Scientific Statement of The Endocrine Society, we present the evidence that endocrine disruptors have effects on male and female reproduction, breast development and cancer, prostate cancer, neuroendocrinology, thyroid, metabolism and obesity, and cardiovascular endocrinology. Results from animal models, human clinical observations, and epidemiological studies converge to implicate EDCs as a significant concern to public health. The mechanisms of EDCs involve divergent pathways including (but not limited to) estrogenic, antiandrogenic, thyroid, peroxisome proliferator-activated receptor gamma, retinoid, and actions through other nuclear receptors; steroidogenic enzymes; neurotransmitter receptors and systems; and many other pathways that are highly conserved in wildlife and humans, and which can be modeled in laboratory in vitro and in vivo models. Furthermore, EDCs represent a broad class of molecules such as organochlorinated pesticides and industrial chemicals, plastics and plasticizers, fuels, and many other chemicals that are present in the environment or are in widespread use. We make a number of recommendations to increase understanding of effects of EDCs, including enhancing increased basic and clinical research, invoking the precautionary principle, and advocating involvement of individual and scientific society stakeholders in communicating and implementing changes in public policy and awareness.",
+  "type": "academic",
+  "pdf_url": "https://academic.oup.com/edrv/article-pdf/30/4/293/10334449/edrv0293.pdf"
+}

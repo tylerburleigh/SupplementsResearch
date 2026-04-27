@@ -1,0 +1,31 @@
+{
+  "id": "src-118",
+  "title": "The sirtuin family in health and disease",
+  "authors": [
+    "Wu, Qi‐Jun",
+    "Zhang, Tie‐Ning",
+    "Chen, Huanhuan",
+    "Yu, Xuefei",
+    "Lv, Jia-Le",
+    "Liu, Yuyang",
+    "Liu, Yashu",
+    "Zheng, Gang",
+    "Zhao, Jun-Qi",
+    "Wei, Yifan",
+    "Guo, Jingyi",
+    "Liu, Fang-Hua",
+    "Chang, Qing",
+    "Zhang, Yixiao",
+    "Liu, Cai-Gang",
+    "Zhao, Yuhong"
+  ],
+  "doi": "10.1038/s41392-022-01257-8",
+  "url": "https://openalex.org/W4313332607",
+  "provider": "openalex",
+  "year": 2022,
+  "venue": "Signal Transduction and Targeted Therapy",
+  "citation_count": 739,
+  "abstract": "Sirtuins (SIRTs) are nicotine adenine dinucleotide(+)-dependent histone deacetylases regulating critical signaling pathways in prokaryotes and eukaryotes, and are involved in numerous biological processes. Currently, seven mammalian homologs of yeast Sir2 named SIRT1 to SIRT7 have been identified. Increasing evidence has suggested the vital roles of seven members of the SIRT family in health and disease conditions. Notably, this protein family plays a variety of important roles in cellular biology such as inflammation, metabolism, oxidative stress, and apoptosis, etc., thus, it is considered a potential therapeutic target for different kinds of pathologies including cancer, cardiovascular disease, respiratory disease, and other conditions. Moreover, identification of SIRT modulators and exploring the functions of these different modulators have prompted increased efforts to discover new small molecules, which can modify SIRT activity. Furthermore, several randomized controlled trials have indicated that different interventions might affect the expression of SIRT protein in human samples, and supplementation of SIRT modulators might have diverse impact on physiological function in different participants. In this review, we introduce the history and structure of the SIRT protein family, discuss the molecular mechanisms and biological functions of seven members of the SIRT protein family, elaborate on the regulatory roles of SIRTs in human disease, summarize SIRT inhibitors and activators, and review related clinical studies.",
+  "type": "academic",
+  "pdf_url": "https://www.nature.com/articles/s41392-022-01257-8.pdf"
+}

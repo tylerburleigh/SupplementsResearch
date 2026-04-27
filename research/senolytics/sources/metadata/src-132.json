@@ -1,0 +1,25 @@
+{
+  "id": "src-132",
+  "title": "Senolytic Drugs: Reducing Senescent Cell Viability to Extend Health Span",
+  "authors": [
+    "Robbins, Paul D.",
+    "Jurk, Diana",
+    "Khosla, Sundeep",
+    "Kirkland, James L.",
+    "LeBrasseur, Nathan K.",
+    "Miller, Jordan D.",
+    "Passos, João F.",
+    "Pignolo, Robert J.",
+    "Tchkonia, Tamar",
+    "Niedernhofer, Laura J."
+  ],
+  "doi": "10.1146/annurev-pharmtox-050120-105018",
+  "url": "https://openalex.org/W3089880422",
+  "provider": "openalex",
+  "year": 2020,
+  "venue": "The Annual Review of Pharmacology and Toxicology",
+  "citation_count": 301,
+  "abstract": "Senescence is the consequence of a signaling mechanism activated in stressed cells to prevent proliferation of cells with damage. Senescent cells (Sncs) often develop a senescence-associated secretory phenotype to prompt immune clearance, which drives chronic sterile inflammation and plays a causal role in aging and age-related diseases. Sncs accumulate with age and at anatomical sites of disease. Thus, they are regarded as a logical therapeutic target. Senotherapeutics are a new class of drugs that selectively kill Sncs (senolytics) or suppress their disease-causing phenotypes (senomorphics/senostatics). Since 2015, several senolytics went from identification to clinical trial. Preclinical data indicate that senolytics alleviate disease in numerous organs, improve physical function and resilience, and suppress all causes of mortality, even if administered to the aged. Here, we review the evidence that Sncs drive aging and disease, the approaches to identify and optimize senotherapeutics, and the current status of preclinical and clinical testing of senolytics.",
+  "type": "academic",
+  "pdf_url": "https://www.annualreviews.org/doi/pdf/10.1146/annurev-pharmtox-050120-105018"
+}

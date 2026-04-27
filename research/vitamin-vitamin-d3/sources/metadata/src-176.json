@@ -1,0 +1,34 @@
+{
+  "id": "src-176",
+  "title": "The effects of synbiotic and/or vitamin D supplementation on gut-muscle axis in overweight and obese women: a study protocol for a double-blind, randomized, placebo-controlled trial",
+  "authors": [
+    "Jamshidi, Sanaz",
+    "Masoumi, Seyed Jalil",
+    "Abiri, Behnaz",
+    "Vafa, Mohammadreza"
+  ],
+  "year": 2022,
+  "abstract": "Abstract\nBackground\nSarcopenia refers to an age-related loss of skeletal muscle content, strength, and function, leading to a decrease in mobility. Obesity may exacerbate age-related complications such as sarcopenia through inflammatory pathways. In addition, intestinal dysbiosis has been proposed as an emerging contributor to sarcopenia due to the stimulation of the immune system and elevated barrier permeability of the intestine. Targeting microbiome with synbiotic and vitamin D supplementation may modulate the microbiome followed by the enhancement of sarcopenia indices. Thus, the present study aims to evaluate the effect of synbiotic supplementation with or without vitamin D on the intestinal microbiome and its relationship with strength, muscle function, and body composition in middle-aged overweight and obese women.\n\nMethods\nThis multi-factorial, double-blind, randomized controlled trial will be conducted on 88 participants in eight weeks. The participants will be allocated into four groups receiving vitamin D placebo (weekly) and synbiotic placebo (daily), vitamin D and synbiotic placebo, vitamin D placebo and symbiotic, and vitamin D and synbiotic. Intestinal microbiome assessment will be done by DNA isolation and real-time polymerase chain reaction (PCR). In addition, anthropometric indices, body composition, muscle strength, and physical performance will be evaluated by standard methods. All measurements will be made at the beginning and end of the study.\n\nDiscussion\nThe previous studies showed that probiotics were involved in reducing inflammation, insulin sensitivity, modulation of atrophy markers such as atherogen-1, and decreasing reactive oxygen indices. In addition, vitamin D was found to improve the intestinal microbiome and facilitate muscle anabolism. The present protocol is novel as it aims to investigate the impact of the co-supplementation of synbiotic and vitamin D on the gut microbiome and sarcopenia indices.\n\nTrial registration\nThis trial has been registered in the Iranian Registry of Clinical Trials (IRCT20090822002365N25, date of registration: March 2021).",
+  "doi": "10.1186/s13063-022-06598-x",
+  "url": "https://doi.org/10.1186/s13063-022-06598-x",
+  "pdf_url": "",
+  "venue": "Trials",
+  "citation_count": 11,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T21:06:19.613272+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-176.md",
+  "quality_details": {
+    "content_length": 35795,
+    "alpha_ratio": 0.769,
+    "sentence_count": 301,
+    "reasons": [
+      "paywall_page (access this article)"
+    ]
+  }
+}

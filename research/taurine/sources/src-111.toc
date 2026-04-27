@@ -1,0 +1,60 @@
+10	2	Abstract
+25	2	Background
+113	2	Results
+262	2	Gatm
+263	2	Gcat
+266	2	Ldhb
+267	2	Nmi
+272	2	Amacr
+274	2	Chdh
+276	2	Dao
+279	2	Hnmt
+281	2	Preb
+304	2	Ivd
+308	2	Sqrdl
+310	2	Blvrb
+317	2	Pah
+320	2	Lactb
+321	2	Prep
+322	2	Dpyd
+324	2	Tnc
+325	2	Gclc
+326	2	Dcn
+530	2	Acaca
+539	2	Preb
+543	2	Ptms
+548	2	Glul
+550	2	Fasn
+554	2	Gcdh
+556	2	Dao
+558	2	Acadl
+561	2	Tnc
+565	2	Nmi
+567	2	Nars
+569	2	Sgta
+574	2	Afmid
+577	2	Pdxp
+584	2	Retsat
+585	2	Pcna
+587	2	Adprh
+590	2	Pnp
+593	2	Nmr
+743	2	Nmr
+745	2	Nmr
+763	2	Nmr
+765	2	Nmr
+847	2	Discussion
+864	2	Nmr
+866	2	Nmr
+1032	2	Methods
+1537	2	Data Analysis
+1634	2	Conclusions
+1713	2	Acknowledgements
+1741	2	Competing Interests
+1754	2	References
+1765	2	4. Skulachev VP, Holtze S, Vyssokikh MY, Bakeeva LE, Skulachev MV, Markov AV,
+1852	2	30. Malhotra D, Portales-Casamar E, Singh A, Srivastava S, Arenillas D, Happel C,
+1888	2	41. Hughes CS, McConechy MK, Cochrane DR, Nazeran T, Karnezis AN,
+1898	2	44. Murphy CT, McCarroll SA, Bargmann CI, Fraser A, Kamath RS, Ahringer J, et
+1952	2	60. Mitchell SJ, Madrigal-Matute J, Scheibye-Knudsen M, Fang E, Aon M,
+2038	2	87. Subramanian A, Tamayo P, Mootha VK, Mukherjee S, Ebert BL, Gillette MA,

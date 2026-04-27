@@ -1,0 +1,27 @@
+{
+  "id": "src-041",
+  "title": "Folic acid supplementation for stroke prevention: A systematic review and meta-analysis of 21 randomized clinical trials worldwide.",
+  "authors": [
+    "Zhang, Nan",
+    "Zhou, Ziyi",
+    "Chi, Xiying",
+    "Fan, F.",
+    "Li, Shuqun",
+    "Song, Yun",
+    "Zhang, Yan",
+    "Qin, X.",
+    "Sun, Ningling",
+    "Wang, Xiaobin",
+    "Huo, Y.",
+    "Li, Jianping"
+  ],
+  "doi": "10.1016/j.clnu.2024.05.034",
+  "url": "https://www.semanticscholar.org/paper/4b58cc43b6891f4f91aea943e9dcd0e526ea9bb8",
+  "provider": "semantic_scholar",
+  "year": 2024,
+  "venue": "Clinical Nutrition",
+  "citation_count": 19,
+  "abstract": "BACKGROUND & AIMS\nThe AHA/ASA guidelines for primary stroke prevention are almost a decade old. The current recommendation regarding folic acid supplementation is based on only 8 clinical trials, and an additional 13 folate trials have been published since then. This meta-analysis aims to fill in critical evidence gaps by comprehensively evaluating 21 published trials with particular attention given to identifying the true influences through stratification.\n\nMETHODS\nPubMed, the Cochrane Central Register of Controlled Trials, and Embase were searched from inception to April 4, 2023. This study included all randomized controlled trials (RCTs) of folic acid with stroke as one of the reporting endpoints. Relative risks and 95% confidence intervals were used to assess the association between folic acid supplementation and the risk of stroke in a random-effects model.\n\nRESULTS\nResults from the 21 pooled RCTs totaling 115,559 participants showed that folic acid supplementation significantly reduced the risk of stroke by 10% (RR 0.90, 95%CI 0.83 to 0.98). Subgroup analyses showed that folic acid efficacy was greater in areas without fortified grain or with partially-fortified grain (RR = 0.83, 95% CI 0.75 to 0.93; RR = 1.04 in areas with grain fortification, P-interaction = 0.003). In this group, folic acid supplementation was most efficacious in those without a history of stroke or myocardial infarction (RR = 0.77, 95% CI 0.68 to 0.86; RR = 0.94 for participants with a history of stroke or myocardial infarction, P-interaction = 0.008). The efficacy of folic acid remained consistent regardless of baseline folate levels, folic acid dosage, baseline vitamin B12 levels, vitamin B12 dosage, homocysteine reduction, intervention duration, and whether folic acid was taken alone or in combination (all P-interaction>0.05). All 21 trials were free of attrition bias and reporting bias, and there was no significant publication bias.\n\nCONCLUSIONS\nThis is by far the largest meta-analysis of RCTs regarding folic acid supplementation and stroke, demonstrating the overall benefit of folic acid for stroke prevention. Grain fortification and history of stroke or myocardial infarction may be the most important influences on the efficacy of folic acid for stroke prevention.",
+  "type": "academic",
+  "pdf_url": ""
+}

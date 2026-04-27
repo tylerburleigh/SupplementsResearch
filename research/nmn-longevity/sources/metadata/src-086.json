@@ -1,0 +1,22 @@
+{
+  "id": "src-086",
+  "title": "Nampt/SIRT2/LDHA pathway-mediated lactate production regulates follicular dysplasia in polycystic ovary syndrome.",
+  "authors": [
+    "Liu, Ke",
+    "Wei, Huimei",
+    "Nong, Weihua",
+    "Peng, Huo",
+    "Li, Youzhu",
+    "Lei, Xiaocan",
+    "Zhang, Shun"
+  ],
+  "doi": "10.1016/j.freeradbiomed.2024.10.312",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39489197",
+  "provider": "pubmed",
+  "year": 2024,
+  "venue": "Free radical biology & medicine",
+  "citation_count": 0,
+  "abstract": "Decreased nicotinamide adenine dinucleotide (NAD+) content has been shown to contribute to metabolic dysfunction during aging, including polycystic ovary syndrome (PCOS). However, the effect of NAD+ on ovulatory dysfunction in PCOS by regulating glycolysis has not been reported. Based on the observations of granulosa cells (GCs) transcriptome data from the Gene Expression Omnibus (GEO) database, the signal pathways including glycolysis and nicotinate-nicotinamide metabolism were significantly enriched, and most genes of the above pathway like LDHA and SIRT2 were down-regulated in PCOS patients. Therefore, the PCOS rat model was established by combining letrozole with a high-fat diet (HFD), we demonstrate that in vivo supplementation of nicotinamide mononucleotide (NMN) significantly improves the ovulatory dysfunction by facilitating the follicular development, promoting luteal formation, as well the fertility in PCOS rats. Furthermore, target energy metabolomics and transcriptome results showed that NMN supplementation ameliorates the lactate production by activating glycolytic process in the ovary. In vitro, when NAD+ synthesis and SIRT2 expression were inhibited, lactate content in KGN cells was decreased and LDHA expression was significantly inhibited. We confirmed that FK866 can enhance the acetylation of LDHA on 293T cells by Co-immunoprecipitation (Co-IP) assay. We also observed that inhibition of NAD+ synthesis can reduce the activity and increase the apoptosis of KGN cells. Overall, these benefits of NMN were elucidated and the Nampt/SIRT2/LDHA pathway mediated lactate production in granulosa cells played an important role in the improvement of follicular development disorders in PCOS. This study will provide experimental evidence for the clinical application of NMN in the treatment of PCOS in the future.",
+  "type": "academic",
+  "pdf_url": ""
+}

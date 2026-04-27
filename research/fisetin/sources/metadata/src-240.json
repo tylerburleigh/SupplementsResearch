@@ -1,0 +1,18 @@
+{
+  "id": "src-240",
+  "title": "Counteracting Immunosenescence—Which Therapeutic Strategies Are Promising?",
+  "authors": [
+    "Hieber, Christoph",
+    "Grabbe, Stephan",
+    "Bros, Matthias"
+  ],
+  "doi": "10.3390/biom13071085",
+  "url": "https://openalex.org/W4383553885",
+  "provider": "openalex",
+  "year": 2023,
+  "venue": "Biomolecules",
+  "citation_count": 24,
+  "abstract": "Aging attenuates the overall responsiveness of the immune system to eradicate pathogens. The increased production of pro-inflammatory cytokines by innate immune cells under basal conditions, termed inflammaging, contributes to impaired innate immune responsiveness towards pathogen-mediated stimulation and limits antigen-presenting activity. Adaptive immune responses are attenuated as well due to lowered numbers of naïve lymphocytes and their impaired responsiveness towards antigen-specific stimulation. Additionally, the numbers of immunoregulatory cell types, comprising regulatory T cells and myeloid-derived suppressor cells, that inhibit the activity of innate and adaptive immune cells are elevated. This review aims to summarize our knowledge on the cellular and molecular causes of immunosenescence while also taking into account senescence effects that constitute immune evasion mechanisms in the case of chronic viral infections and cancer. For tumor therapy numerous nanoformulated drugs have been developed to overcome poor solubility of compounds and to enable cell-directed delivery in order to restore immune functions, e.g., by addressing dysregulated signaling pathways. Further, nanovaccines which efficiently address antigen-presenting cells to mount sustained anti-tumor immune responses have been clinically evaluated. Further, senolytics that selectively deplete senescent cells are being tested in a number of clinical trials. Here we discuss the potential use of such drugs to improve anti-aging therapy.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2218-273X/13/7/1085/pdf?version=1688736535"
+}

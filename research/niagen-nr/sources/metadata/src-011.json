@@ -1,0 +1,29 @@
+{
+  "id": "src-011",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://www.pharmaceutical-powder.com/sale-26719791-nmn-nicotinamide-riboside-chloride-powder-for-anti-aging-cas-1094-61-7.html",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-20T20:23:18.772732+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-011.md",
+  "quality_details": {
+    "content_length": 130,
+    "alpha_ratio": 0.723,
+    "sentence_count": 3,
+    "reasons": [
+      "content too short (130 chars < 500)"
+    ]
+  }
+}

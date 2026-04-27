@@ -1,0 +1,21 @@
+{
+  "id": "src-318",
+  "title": "Ferroptosis at the crossroads of infection, aging and cancer",
+  "authors": [
+    "Toyokuni, Shinya",
+    "Yanatori, Izumi",
+    "Kong, Yingyi",
+    "Zheng, Hao",
+    "Motooka, Yashiro",
+    "Jiang, Li"
+  ],
+  "doi": "10.1111/cas.14496",
+  "url": "https://openalex.org/W3027650570",
+  "provider": "openalex",
+  "year": 2020,
+  "venue": "Cancer Science",
+  "citation_count": 148,
+  "abstract": "Despite significant developments and persistent efforts by scientists, cancer is one of the primary causes of human death worldwide. No form of life on Earth can survive without iron, although some species can live without oxygen. Iron presents a double-edged sword. Excess iron is a risk for carcinogenesis, while its deficiency causes anemia, leading to oxygen shortage. Every cell is eventually destined to death, either through apoptosis or necrosis. Regulated necrosis is recognized in distinct forms. Ferroptosis is defined as catalytic Fe(II)-dependent regulated necrosis accompanied by lipid peroxidation. The main observation was necrosis of fibrosarcoma cells through inhibition of cystine/glutamate antiporter with erastin, which reduced intracellular cysteine and, thus, glutathione levels. Our current understanding of ferroptosis is relative abundance of iron (catalytic Fe[II]) in comparison with sulfur (sulfhydryls). Thus, either excess iron or sulfur deficiency causes ferroptosis. Cell proliferation inevitably requires iron for DNA synthesis and energy production. Carcinogenesis is a process toward iron addiction with ferroptosis resistance. Conversely, ferroptosis is associated with aging and neurodegeneration. Ferroptosis of immune cells during infection is advantageous for infectious agents, whereas ferroptosis resistance incubates carcinogenic soil as excess iron. Cancer cells are rich in catalytic Fe(II). Directing established cancer cells to ferroptosis is a novel strategy for discovering cancer therapies. Appropriate iron regulation could be a tactic to reduce and delay carcinogenesis.",
+  "type": "academic",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/cas.14496"
+}

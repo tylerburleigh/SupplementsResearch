@@ -1,0 +1,30 @@
+{
+  "id": "src-015",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://www.amazon.com/Life-Extension-Senolytic-Formula-Capsules/dp/B07JN5RDYZ",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-22T19:45:53.363960+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-015.md",
+  "quality_details": {
+    "content_length": 146,
+    "alpha_ratio": 0.74,
+    "sentence_count": 2,
+    "reasons": [
+      "content too short (146 chars < 500)",
+      "few sentences detected (2 < 3)"
+    ]
+  }
+}

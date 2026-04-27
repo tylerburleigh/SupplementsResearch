@@ -1,0 +1,34 @@
+{
+  "id": "src-065",
+  "title": "Diet, anthropometric measures and prostate cancer risk: a review of prospective cohort and intervention studies",
+  "authors": [
+    "Dagnelie, P.C.",
+    "Schuurman, A.G.",
+    "Goldbohm, R.A.",
+    "Van Den Brandt, P.A."
+  ],
+  "year": 2004,
+  "abstract": "ABSTRACT\nWe reviewed 37 prospective cohort and four intervention studies on potential dietary risk factors for prostate cancer, published between 1966 and September 2003. Some studies were limited by small size, crude measurement of dietary exposure and limited control for confounders. Intervention and prospective cohort studies support a protective role against prostate cancer for selenium, and possibly for vitamin E, pulses and tomatoes/lycopene. Overall consumption of meat, eggs, vegetables, fruit, coffee, tea, carotenoids and vitamins A, C and D was not consistently related to prostate cancer risk. Intervention studies also indicate that supplementation with β‐carotene does not lower prostate cancer risk, except possibly in men with low β‐carotene status at baseline. For specific types of meat, alcoholic drinks, dairy products, fat and anthropometric measures, most cohort studies suggest either an increased risk or no relation with prostate cancer. For calcium, two cohort studies suggest an increased risk at very high calcium intakes (&gt;2000 mg/day). In conclusion, prospective studies are consistent with a protective role for selenium, and possibly vitamin E, pulses and tomatoes/lycopene, in the aetiology of prostate cancer. Studies are inconclusive on the role of meat, dairy products, fat, vegetables, fruits, alcohol and anthropometric measures, whereas a very high calcium intake appears to be positively associated with prostate cancer risk.",
+  "doi": "10.1111/j.1464-410x.2004.04795.x",
+  "url": "https://doi.org/10.1111/j.1464-410x.2004.04795.x",
+  "pdf_url": "",
+  "venue": "BJU International",
+  "citation_count": 119,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-19T18:36:51.038951+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-065.md",
+  "quality_details": {
+    "content_length": 55239,
+    "alpha_ratio": 0.724,
+    "sentence_count": 575,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "src-264",
+  "title": "The Role of Notch, Hedgehog, and Wnt Signaling Pathways in the Resistance of Tumors to Anticancer Therapies",
+  "authors": [
+    "Kumar, Vivek",
+    "Vashishta, Mohit",
+    "Kong, Lin",
+    "Wu, Xiaodong",
+    "Lu, Jiade J.",
+    "Guha, Chandan",
+    "Dwarakanath, Bilikere S."
+  ],
+  "doi": "10.3389/fcell.2021.650772",
+  "url": "https://openalex.org/W3156935377",
+  "provider": "openalex",
+  "year": 2021,
+  "venue": "Frontiers in Cell and Developmental Biology",
+  "citation_count": 244,
+  "abstract": "Resistance to therapy is the major hurdle in the current cancer management. Cancer cells often rewire their cellular process to alternate mechanisms to resist the deleterious effect mounted by different therapeutic approaches. The major signaling pathways involved in the developmental process, such as Notch, Hedgehog, and Wnt, play a vital role in development, tumorigenesis, and also in the resistance to the various anticancer therapies. Understanding how cancer utilizes these developmental pathways in acquiring the resistance to the multi-therapeutic approach cancer can give rise to a new insight of the anti-therapy resistance mechanisms, which can be explored for the development of a novel therapeutic approach. We present a brief overview of Notch, Hedgehog, and Wnt signaling pathways in cancer and its role in providing resistance to various cancer treatment modalities such as chemotherapy, radiotherapy, molecular targeted therapy, and immunotherapy. Understanding the importance of these molecular networks will provide a rational basis for novel and safer combined anticancer therapeutic approaches for the improvement of cancer treatment by overcoming drug resistance.",
+  "type": "academic",
+  "pdf_url": "https://www.frontiersin.org/articles/10.3389/fcell.2021.650772/pdf"
+}

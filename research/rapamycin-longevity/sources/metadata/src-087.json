@@ -1,0 +1,23 @@
+{
+  "id": "src-087",
+  "title": "Effects of two immunosuppression regimens on T-lymphocyte subsets in elderly kidney transplant recipients.",
+  "authors": [
+    "Freitas, Geraldo Rubens R",
+    "Fernandes, Maria da Luz",
+    "Agena, Fabiana",
+    "Lemos, Francine B C",
+    "de Paula, Flavio J",
+    "Coelho, Verônica",
+    "David-Neto, Elias",
+    "Galante, Nelson Z"
+  ],
+  "doi": "10.3389/fimmu.2024.1405855",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39372414",
+  "provider": "pubmed",
+  "year": 2024,
+  "venue": "Frontiers in immunology",
+  "citation_count": 0,
+  "abstract": "BACKGROUND: Despite the growing number of elderly kidney transplant (Ktx) recipients, few studies have examined the effects of immunosuppression on their lymphocyte profiles.\nMETHODS: We evaluated the early conversion from mycophenolate sodium (MPS) to everolimus (EVL) after rabbit antithymocyte globulin (rATG) 2 mg/kg induction in elderly kidney recipients. Three groups of KTx patients were compared: (a) Young (n=20, 36 ± 7 y) receiving standard immunosuppression (Group A1) (prednisone, tacrolimus, and MPS), (b) Elderly (n=35, 65 ± 3 y) receiving standard immunosuppression (Group B1), and (c) Elderly (n=16, 65 ± 3 y) with early (mean 30 d) conversion from MPS to EVL (Group B2). Naive, memory, and regulatory peripheral blood TCD4+ lymphocytes were quantified at 0, 30, and 365 d.\nRESULTS: Results are reported as [mean(p25-p75)]. Young recipients had higher lymphocyte counts at baseline [2,100(1,630-2,400) vs. 1,310 (1,000-1,600)/mm3, p<0.0001] maintained higher counts within 365 d [1,850(1,590-2,120) vs. 1,130(460-1,325)/mm3, p=0.018 and vs. 1,410(805-1,895)/mm3, p=0.268]. Elderly recipients showed a decrease in lymphocytes within 30 d [1,310(1,000-1,600) vs. 910(700-1,198)/mm3, p=0.0012] with recovery within 365 d. The same pattern was observed in total lymphocytes and TCD4+ counts. Rabbit antithymocyte globulin induced a reduction in central memory T-cell percentages at 30 d in both young recipients [6.2(3.77-10.8) vs. 5.32(2.49-7.28)% of CD4+, p=0.036] and in elderly recipients [8.17(5.28-12.88) vs. 6.74(4.36-11)% of CD4+, p=0.05] on standard immunosuppression, returning to baseline at 365 d in elderly recipients but not in young recipients. Regulatory T CD39+ cells (Treg) percentages decreased at 30 d in elderly recipients [2.1(1.23-3.51) vs. 1.69(0.8-2.66)% of CD4+, p=0.0028] and in young recipients [1.29(0.45-1.85) vs. 0.84(0.18-1.82)% of CD4+, p=0.0038], returning to baseline at 365 d in elderly recipients [2.1(1.23-3.51) vs. 2.042(0.88-2.42)% of CD4+], but not in young recipients [1.29(0.45-1.85) vs. 0.86(0.7-1.34) % of CD4+]. The elderly everolimus conversion group did not show significant changes in cell profile over time or compared to elderly recipients with standard immunosuppression.\nCONCLUSION: Aging favored the maintenance of Treg during the late transplantation period despite ongoing immunosuppression. Lymphocyte depletion due to rATG was more prominent in elderly recipients and affected memory subsets with a temporary reduction in central memory T cells. However, conversion to everolimus did not impact Treg profile. Reducing the dose of rATG in elderly recipients seems necessary for the expected lymphocyte changes with EVL to occur.\nCLINICAL TRIAL REGISTRATION: nEverOld Trial, identifier NTC01631058.",
+  "type": "academic",
+  "pdf_url": ""
+}

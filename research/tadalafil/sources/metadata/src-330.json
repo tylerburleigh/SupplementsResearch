@@ -1,0 +1,20 @@
+{
+  "id": "src-330",
+  "title": "Myeloid-Derived Suppressor Cells: Implications in the Resistance of Malignant Tumors to T Cell-Based Immunotherapy",
+  "authors": [
+    "Shi, Houhui",
+    "Li, Kai",
+    "Ni, Yanghong",
+    "Liang, Xiao",
+    "Zhao, Xia"
+  ],
+  "doi": "10.3389/fcell.2021.707198",
+  "url": "https://openalex.org/W3178187633",
+  "provider": "openalex",
+  "year": 2021,
+  "venue": "Frontiers in Cell and Developmental Biology",
+  "citation_count": 34,
+  "abstract": "T lymphocytes function as major players in antigen-mediated cytotoxicity and have become powerful tools for exploiting the immune system in tumor elimination. Several types of T cell-based immunotherapies have been prescribed to cancer patients with durable immunological response. Such strategies include immune checkpoint inhibitors, adoptive T cell therapy, cancer vaccines, oncolytic virus, and modulatory cytokines. However, the majority of cancer patients still failed to take the advantage of these kinds of treatments. Currently, extensive attempts are being made to uncover the potential mechanism of immunotherapy resistance, and myeloid-derived suppressor cells (MDSCs) have been identified as one of vital interpretable factors. Here, we discuss the immunosuppressive mechanism of MDSCs and their contributions to failures of T cell-based immunotherapy. Additionally, we summarize combination therapies to ameliorate the efficacy of T cell-based immunotherapy.",
+  "type": "academic",
+  "pdf_url": "https://www.frontiersin.org/articles/10.3389/fcell.2021.707198/pdf"
+}

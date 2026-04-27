@@ -1,0 +1,7 @@
+4	2	Clinical Medicine
+35	2	Introduction
+95	2	Results
+220	2	Discussion
+441	2	Methods
+564	2	Author Contributions
+573	2	Acknowledgments

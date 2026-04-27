@@ -1,0 +1,18 @@
+{
+  "id": "src-279",
+  "title": "Augmentation of reduced folate carrier-mediated folate/antifolate transport through an antiport mechanism with 5-aminoimidazole-4-carboxamide riboside monophosphate.",
+  "authors": [
+    "Visentin, Michele",
+    "Zhao, Rongbao",
+    "Goldman, I David"
+  ],
+  "doi": "10.1124/mol.112.078642",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/22554803",
+  "provider": "pubmed",
+  "year": 2012,
+  "venue": "Molecular pharmacology",
+  "citation_count": 0,
+  "abstract": "5-Aminoimidazole-4-carboxamide riboside (AICAR), an agent with diverse pharmacological properties, augments transport of folates and antifolates. This report further characterizes this phenomenon and defines the mechanism by which it occurs. Exposure of HeLa cells to AICAR resulted in augmentation of methotrexate, 5-formyltetrahydrofolate, and 5-methyltetrahydrofolate initial rates and net uptake in cells that express the reduced folate carrier (RFC). This did not occur in cells that express only the proton-coupled folate transporter and accumulated folates by this mechanism. Transport stimulation correlated with the accumulation of 5-aminoimidazole-4-carboxamide ribotide monophosphate (ZMP), the monophosphate derivative of AICAR, within cells as established by liquid chromatography. When ZMP formation was blocked with 5-iodotubercidin, an inhibitor of adenosine kinase, folate transport stimulation by AICAR was absent. When cells first accumulated ZMP and were then exposed to 5-iodotubercidin or AICAR-free buffer, the ZMP level markedly decreased and folate transport stimulation was abolished. Extracellular ZMP inhibited RFC-mediated folate influx, and the presence of intracellular ZMP correlated with inhibition of folate efflux. The data indicate that intracellular ZMP trans-stimulates folate influx and inhibits folate efflux, which, together, produce a marked augmentation in the net cellular folate level. This interaction among ZMP, folates, and RFC, a folate/organic phosphate antiporter, is consistent with a classic exchange reaction. The transmembrane gradient for one transport substrate (ZMP) drives the uphill transport of another (folate) via a carrier used by both substrates, a phenomenon intrinsic to the energetics of RFC-mediated folate transport.",
+  "type": "academic",
+  "pdf_url": ""
+}

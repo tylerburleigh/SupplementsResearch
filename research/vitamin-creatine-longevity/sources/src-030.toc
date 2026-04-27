@@ -1,0 +1,16 @@
+9	2	Abstract
+118	2	Methods
+150	2	Procedure
+224	2	Statistical Analysis
+239	2	Results
+316	2	Discussion
+335	2	1 Lamp
+338	2	2 Lamps
+341	2	4 Lamps
+344	2	8 Lamps
+348	2	1 Lamp
+351	2	2 Lamps
+354	2	4 Lamps
+357	2	8 Lamps
+527	2	Acknowledgements
+536	2	References

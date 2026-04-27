@@ -1,0 +1,22 @@
+{
+  "id": "src-393",
+  "title": "Chronic Rapamycin Treatment Causes Glucose Intolerance and Hyperlipidemia by Upregulating Hepatic Gluconeogenesis and Impairing Lipid Deposition in Adipose Tissue",
+  "authors": [
+    "Houde, Vanessa P.",
+    "Brûlé, S.",
+    "Festuccia, W.",
+    "Blanchard, Pierre-Gilles",
+    "Bellmann, K.",
+    "Deshaies, Y.",
+    "Marette, A."
+  ],
+  "doi": "10.2337/db09-1324",
+  "url": "https://www.semanticscholar.org/paper/130f869ff7bcdc4e3affb203f55e7c410dfbc633",
+  "provider": "semantic_scholar",
+  "year": 2010,
+  "venue": "Diabetes",
+  "citation_count": 430,
+  "abstract": "OBJECTIVE The mammalian target of rapamycin (mTOR)/p70 S6 kinase 1 (S6K1) pathway is a critical signaling component in the development of obesity-linked insulin resistance and operates a nutrient-sensing negative feedback loop toward the phosphatidylinositol 3-kinase (PI 3-kinase)/Akt pathway. Whereas acute treatment of insulin target cells with the mTOR complex 1 (mTORC1) inhibitor rapamycin prevents nutrient-induced insulin resistance, the chronic effect of rapamycin on insulin sensitivity and glucose metabolism in vivo remains elusive. RESEARCH DESIGN AND METHODS To assess the metabolic effects of chronic inhibition of the mTORC1/S6K1 pathway, rats were treated with rapamycin (2 mg/kg/day) or vehicle for 15 days before metabolic phenotyping. RESULTS Chronic rapamycin treatment reduced adiposity and fat cell number, which was associated with a coordinated downregulation of genes involved in both lipid uptake and output. Rapamycin treatment also promoted insulin resistance, severe glucose intolerance, and increased gluconeogenesis. The latter was associated with elevated expression of hepatic gluconeogenic master genes, PEPCK and G6Pase, and increased expression of the transcriptional coactivator peroxisome proliferator–activated receptor-γ coactivator-1α (PGC-1α) as well as enhanced nuclear recruitment of FoxO1, CRTC2, and CREB. These changes were observed despite normal activation of the insulin receptor substrate/PI 3-kinase/Akt axis in liver of rapamycin-treated rats, as expected from the blockade of the mTORC1/S6K1 negative feedback loop. CONCLUSIONS These findings unravel a novel mechanism by which mTORC1/S6K1 controls gluconeogenesis through modulation of several key transcriptional factors. The robust induction of the gluconeogenic program in liver of rapamycin-treated rats underlies the development of severe glucose intolerance even in the face of preserved hepatic insulin signaling to Akt and despite a modest reduction in adiposity.",
+  "type": "academic",
+  "pdf_url": "https://diabetesjournals.org/diabetes/article-pdf/59/6/1338/398947/zdb00610001338.pdf"
+}

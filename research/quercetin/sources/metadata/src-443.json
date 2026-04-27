@@ -1,0 +1,29 @@
+{
+  "id": "src-443",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://doi.org/10.1038/s41467-017-00314-z",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-22T17:09:21.453659+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-443.md",
+  "quality_details": {
+    "content_length": 80719,
+    "alpha_ratio": 0.755,
+    "sentence_count": 991,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

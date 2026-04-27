@@ -1,0 +1,7 @@
+19	2	Abstract
+32	2	Background
+68	2	1 Tianjin Institute of Industrial Biotechnology, Chinese Academy
+71	2	2 Institute of Life Sciences, Chongqing Medical University, Chongqing,
+1553	2	Acknowledgements
+1569	2	Competing Interests
+1572	2	References

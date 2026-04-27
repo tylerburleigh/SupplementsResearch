@@ -1,0 +1,29 @@
+{
+  "id": "src-350",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10520293/",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-25T15:08:07.034224+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-350.md",
+  "quality_details": {
+    "content_length": 52185,
+    "alpha_ratio": 0.743,
+    "sentence_count": 558,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

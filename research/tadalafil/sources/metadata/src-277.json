@@ -1,0 +1,20 @@
+{
+  "id": "src-277",
+  "title": "Association of cannabis abuse/dependence on risks of erectile dysfunction and testosterone deficiency using a large claims database analysis.",
+  "authors": [
+    "Davis, Ryan",
+    "Hershenhouse, Jacob",
+    "Maas, Marissa",
+    "Loh-Doyle, Jeffrey",
+    "Asanad, Kian"
+  ],
+  "doi": "10.1093/jsxmed/qdaf043",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40121549",
+  "provider": "pubmed",
+  "year": 2025,
+  "venue": "The journal of sexual medicine",
+  "citation_count": 0,
+  "abstract": "BACKGROUND: Cannabis is widely consumed across the United States; however, studies assessing the association between cannabis use and male sexual health, specifically erectile dysfunction (ED) and testosterone deficiency (TD), have mixed results and small sample sizes.\nAIM: To evaluate the impact of cannabis abuse/dependence on risks of ED, phosphodiesterase-5 inhibitor (PDE5-i) prescription, TD, and testosterone replacement therapy (TRT) using a population-level analysis.\nMETHODS: We sampled men ≥18 years old from the large claims database, TriNetX, in 2025. Patients previously diagnosed with or treated for ED or TD and those with prior prostatectomy were excluded. Patients were split into two cohorts: diagnoses of cannabis abuse/dependence or not. Cohorts were propensity score-matched on 49 pertinent factors. Risk of ED, TD, PDE5-i prescription, and TRT were compared at 3 months-1 year (patients from 2005-2024) and 3-5 years (patients from 2005-2020) from cannabis diagnoses. Subgroups of age younger or older than 40 years were also analyzed. Kaplan-Meier survival analysis was performed to assess differences in time to development of ED and TD.\nOUTCOMES: Primary outcomes were risk of diagnosis of ED or TD (testosterone level <300 ng/dL). Secondary outcomes were risk of new prescription of PDE5-i or TRT.\nRESULTS: Between 2005-2024, 30 964 patients with and 1 473 182 without cannabis diagnoses were identified with 29 442 in each cohort after matching. Between 2005-2020, 17 948 patients with and 839 496 without cannabis abuse/dependence were identified, with 17 211 in each cohort after matching. Cannabis abuse/dependence was significantly associated with ED (0.9% vs. 0.2%, RR = 3.99 [3.05, 5.21]), TD (0.2% vs. 0.1%, RR = 2.19 [1.45, 3.31]), and PDE5-i prescription (0.8% vs. 0.2%, RR = 3.80 [2.86, 5.04]) at 3 months-1 year, and only ED at 3-5 years (1.61% vs. 1.34%, RR = 1.20, 95% CI = [1.01, 1.43]). Kaplan-Meier analysis revealed significantly shorter time to development of ED (HR = 1.65, 95% CI = [1.47, 1.85]) and TD (HR = 1.34, 95% CI = 1.07, 1.69]) associated with cannabis abuse/dependence. No association between cannabis abuse/dependence and TRT was found. In those <40 years old, only ED and PDE5-i were significant at 3 months-1 year, but not at 3-5 years.\nCLINICAL IMPLICATIONS: Our findings support an association between cannabis abuse/dependence, ED, and TD, which providers may consider when treating patients with these diagnoses.\nSTRENGTHS AND LIMITATIONS: Strengths include having a large, national sample of patients. Limitations include inability to assess dose-dependent relationships and using diagnosis codes as proxies for cannabis use.\nCONCLUSION: Cannabis abuse/dependence is associated with increased risk of ED, PDE5-i prescription, and TD.",
+  "type": "academic",
+  "pdf_url": ""
+}

@@ -1,0 +1,19 @@
+{
+  "id": "src-166",
+  "title": "Fisetin Protects PC12 Cells from Tunicamycin-Mediated Cell Death via Reactive Oxygen Species Scavenging and Modulation of Nrf2-Driven Gene Expression, SIRT1 and MAPK Signaling in PC12 Cells",
+  "authors": [
+    "Yen, Jui-Hung",
+    "Wu, Pei‐Shan",
+    "Chen, Shufen",
+    "Wu, Ming‐Jiuan"
+  ],
+  "doi": "10.3390/ijms18040852",
+  "url": "https://openalex.org/W2606436918",
+  "provider": "openalex",
+  "year": 2017,
+  "venue": "International Journal of Molecular Sciences",
+  "citation_count": 65,
+  "abstract": "Fisetin (<20 µM) restored cell viability and repressed apoptosis, autophagy and ROS production in Tm-treated cells. Fisetin attenuated Tm-mediated expression of ER stress genes, such as glucose-regulated proteins 78 (GRP78), C/EBP homologous protein (CHOP also known as GADD153) and Tribbles homolog 3 (TRB3), but induced the expression of nuclear E2 related factor (Nrf)2-targeted heme oxygenase (HO)-1, glutamate cysteine ligase (GCL) and cystine/glutamate transporter (xCT/SLC7A11), in both the presence and absence of Tm. Moreover, fisetin enhanced phosphorylation of ERK (extracellular signal-regulated kinase), JNK (c-JUN NH₂-terminal protein kinase), and p38 MAPK. Addition of JNK and p38 MAPK inhibitor significantly antagonized its cytoprotective activity and modulatory effects on UPR. Fisetin also restored Tm-inhibited SIRT1 expression and addition of sirtinol (SIRT1 activation inhibitor) significantly blocked fisetin-mediated cytoprotection. In conclusion, this result shows that fisetin activates Nrf2, MAPK and SIRT1, which may elicit adaptive cellular stress response pathways so as to protect cells from Tm-induced cytotoxicity.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/1422-0067/18/4/852/pdf?version=1492420914"
+}

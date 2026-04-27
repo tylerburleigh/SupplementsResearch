@@ -1,0 +1,17 @@
+{
+  "id": "src-217",
+  "title": "Synergistic Anticancer Effects of Silibinin and Sulforaphane: Targeting Gastric Cancer via PI3K/AKT and ERK1/2 MAPK Pathway Inhibition and Molecular Docking Insights.",
+  "authors": [
+    "Liu, Yanfeng",
+    "Zhang, Ming"
+  ],
+  "doi": "10.1002/jbt.70237",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40152010",
+  "provider": "pubmed",
+  "year": 2025,
+  "venue": "Journal of biochemical and molecular toxicology",
+  "citation_count": 0,
+  "abstract": "In the current period of pharmaceutical discovery, herbal remedies have shown to be an unmatched supply of anticancer medications. By changing the tumor microenvironment and several signaling pathways, plants and their byproducts through analogs have an important part in the therapy for carcinoma. The current investigation assessed the effectiveness of inhibiting the development of gastric cancer cells in HGC-27 cells by attenuating the PI3K/AKT and ERK 1/2 MAPK signaling pathways using the natural medicines silibinin (SIL) and sulforaphane (SFN) complemented by molecular docking analysis. After being exposed to various doses of SIL and SFN (SIL+SFN) for 24 h (0-50 µM), the cells were evaluated for multiple studies. The MTT assay was used to examine the combo that SIL+SFN induced cytotoxicity. ROS was assessed by DCFH-DA staining. Apoptotic changes were investigated, and MMP levels in HGC-27 cells were investigated utilizing the proper fluorescent staining techniques. Flow cytometry and western blot analysis were used to evaluate the protein profiles of cell survival, cell cycle, proliferation, and apoptosis. The molecular docking was conducted with Autodock Vina (v1.5.6). The docking results were analyzed using BIOVIA Discovery Studio Visualizer to identify key interactions. The relative cytotoxicity of SIL and SFN was found to be approximately 24.96 and 28.79 μM, correspondingly, according to the findings. After a 24-h incubation period, the combination of SIL and SFN generates significant cytotoxicity in HGC-27 cells, with an IC50 of 15.43 μM. Furthermore, HGC-27 cells administered SIL and SFN simultaneously exhibited elevated apoptotic signals and significant ROS production. Molecular docking demonstrated strong binding affinities between the compounds and the target proteins, supporting their potential mechanisms of action. Therefore, the combination usage of SIL + SFN has been viewed as a chemotherapeutic drug since it prevents the synthesis of PI3K/AKT and ERK 1/2 MAPK mediated control of cell growth and cell cycle-regulating proteins. To utilize them commercially conducting more in vivo research in the near future will be necessary to ascertain how well the co-treatment triggers apoptosis.",
+  "type": "academic",
+  "pdf_url": ""
+}

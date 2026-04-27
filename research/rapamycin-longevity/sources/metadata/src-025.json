@@ -1,0 +1,21 @@
+{
+  "id": "src-025",
+  "title": "A network pharmacology approach reveals new candidate caloric restriction mimetics in <i>C. elegans</i>",
+  "authors": [
+    "Calvert, Shaun",
+    "Tăcutu, Robi",
+    "Sharifi, Samim",
+    "Teixeira, Rute Monteiro",
+    "Ghosh, Pratul",
+    "Magalhães, João Pedro de"
+  ],
+  "doi": "10.1111/acel.12432",
+  "url": "https://openalex.org/W2216310786",
+  "provider": "openalex",
+  "year": 2015,
+  "venue": "Aging Cell",
+  "citation_count": 104,
+  "abstract": "Caloric restriction (CR), a reduction in calorie intake without malnutrition, retards aging in several animal models from worms to mammals. Developing CR mimetics, compounds that reproduce the longevity benefits of CR without its side effects, is of widespread interest. Here, we employed the Connectivity Map to identify drugs with overlapping gene expression profiles with CR. Eleven statistically significant compounds were predicted as CR mimetics using this bioinformatics approach. We then tested rapamycin, allantoin, trichostatin A, LY-294002 and geldanamycin in Caenorhabditis elegans. An increase in lifespan and healthspan was observed for all drugs except geldanamycin when fed to wild-type worms, but no lifespan effects were observed in eat-2 mutant worms, a genetic model of CR, suggesting that life-extending effects may be acting via CR-related mechanisms. We also treated daf-16 worms with rapamycin, allantoin or trichostatin A, and a lifespan extension was observed, suggesting that these drugs act via DAF-16-independent mechanisms, as would be expected from CR mimetics. Supporting this idea, an analysis of predictive targets of the drugs extending lifespan indicates various genes within CR and longevity networks. We also assessed the transcriptional profile of worms treated with either rapamycin or allantoin and found that both drugs use several specific pathways that do not overlap, indicating different modes of action for each compound. The current work validates the capabilities of this bioinformatic drug repositioning method in the context of longevity and reveals new putative CR mimetics that warrant further studies.",
+  "type": "academic",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/acel.12432"
+}

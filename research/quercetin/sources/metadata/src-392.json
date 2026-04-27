@@ -1,0 +1,18 @@
+{
+  "id": "src-392",
+  "title": "Metabolic interactions between acetaminophen (paracetamol) and two flavonoids, luteolin and quercetin, through in-vitro inhibition studies.",
+  "authors": [
+    "Cao, Lei",
+    "Kwara, Awewura",
+    "Greenblatt, David J"
+  ],
+  "doi": "10.1111/jphp.12812",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/28872689",
+  "provider": "pubmed",
+  "year": 2017,
+  "venue": "The Journal of pharmacy and pharmacology",
+  "citation_count": 0,
+  "abstract": "OBJECTIVES: Excessive exposure to acetaminophen (APAP, paracetamol) can cause liver injury through formation of a reactive metabolite that depletes hepatic glutathione and causes hepatocellular oxidative stress and damage. Generation of this metabolite is mediated by Cytochrome-P450 (CYP) isoforms, mainly CYP2E1. A number of naturally occurring flavonoids can mitigate APAP-induced hepatotoxicity in experimental animal models. Our objective was to determine the mechanism of these protective effects and to evaluate possible human applicability.\nMETHODS: Two flavonoids, luteolin and quercetin, were evaluated as potential inhibitors of eight human CYP isoforms, of six UDP-glucuronosyltransferase (UGT) isoforms and of APAP glucuronidation and sulfation. The experimental model was based on in-vitro metabolism by human liver microsomes, using isoform-specific substrates.\nKEY FINDINGS: Luteolin and quercetin inhibited human CYP isoforms to varying degrees, with greatest potency towards CYP1A2 and CYP2C8. However, 50% inhibitory concentrations (IC50 values) were generally in the micromolar range. UGT isoforms were minimally inhibited. Both luteolin and quercetin inhibited APAP sulfation but not glucuronidation.\nCONCLUSIONS: Inhibition of human CYP activity by luteolin and quercetin occurred with IC50 values exceeding customary in-vivo human exposure with tolerable supplemental doses of these compounds. The findings indicate that luteolin and quercetin are not likely to be of clinical value for preventing or treating APAP-induced hepatotoxicity.",
+  "type": "academic",
+  "pdf_url": ""
+}

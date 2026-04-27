@@ -1,0 +1,24 @@
+{
+  "id": "src-151",
+  "title": "Common Methylenetetrahydrofolate Reductase Polymorphism MTHFR 677C>T (rs1801133), Plasma Homocysteine, and Non-Valvular Atrial Fibrillation in Overweight/Obese Patients: Causality Indicated by Mediation and One-Sample Mendelian Randomization Analysis.",
+  "authors": [
+    "Levicki, Rea",
+    "Trkulja, Vladimir",
+    "Pašara, Vedran",
+    "Prepolec, Ivan",
+    "Matovinović, Martina",
+    "Ganoci, Lana",
+    "Šegulja, Dragana",
+    "Lovrić Benčić, Martina",
+    "Božina, Tamara"
+  ],
+  "doi": "10.3390/diagnostics15222870",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41300894",
+  "provider": "pubmed",
+  "year": 2025,
+  "venue": "Diagnostics (Basel, Switzerland)",
+  "citation_count": 0,
+  "abstract": "Background/Objectives: The causal role of homocysteine (tHcy) in atrial fibrillation (AF) is unclear. To (re)explore the causal effect of tHcy in non-valvular AF (NVAF). Methods: In a case-control study in overweight/obese adults, cases were patients with NVAF and controls were their peers without AF. They were assessed for clinical, laboratory, and echocardiographic particulars and were genotyped for MTHFR 677C>T (rs1801133), PITX2 C>T (rs2200733), and KCNE1 112A>G (rs1805127) polymorphisms. We employed a conventional case-control, mediation analysis, and one-sample Mendelian randomization (MR) analyses to evaluate forward and reverse tHcy-NVAF associations. Results: We enrolled 180 cases and 179 controls. With an extensive confounder control (i) the MTHFR 677C>T variant allele associated with higher tHcy; (ii) PITX2 C>T variant allele associated with NVAF while KCNE1 112A>G did not; (iii) MTHFR variant associated with NVAF indirectly, through tHcy assuming wild type but not variant genotype (exposure-mediator interaction); (iv) considering all subjects, tHcy associated with NVAF through the effect on renal function and NT-proBNP levels (no exposure-mediator interaction); (v) considering MTHFR wild-type subjects (n = 160), tHcy \"directly\" strongly associated with NVAF, and considering variant carriers (n = 199), it indirectly associated with NVAF and directly tended to associate with a lower probability of NVAF; (vi) in MR analysis (MTHFR SNP instrument), tHcy associated with NVAF; and vii) mediation and MR analyses [PITX2 SNP (exposure/instrument)-NVAF, (mediator/exposure)-tHcy outcome] excluded the reverse tHcy-NVAF association. Conclusions: Data strongly support the causal role of tHcy in NVAF in overweight/obese patients and suggest that the effect might be modified by the MTHFR 677C>T variant allele.",
+  "type": "academic",
+  "pdf_url": ""
+}

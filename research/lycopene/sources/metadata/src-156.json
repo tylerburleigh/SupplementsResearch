@@ -1,0 +1,25 @@
+{
+  "id": "src-156",
+  "title": "Lycopene inhibits doxorubicin-induced heart failure by inhibiting ferroptosis through the Nrf2 signaling pathway.",
+  "authors": [
+    "Huang, Rong",
+    "Zhou, Chao",
+    "Wang, Tianxiang",
+    "Chen, Yuanli",
+    "Xie, Zhouling",
+    "Wei, Lingling",
+    "Duan, Yajun",
+    "Liao, Chenzhong",
+    "Ma, Chuanrui",
+    "Yang, Xiaoxiao"
+  ],
+  "doi": "10.1016/j.lfs.2025.123452",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39923835",
+  "provider": "pubmed",
+  "year": 2025,
+  "venue": "Life sciences",
+  "citation_count": 0,
+  "abstract": "AIMS: Lycopene (LYC) is a dietary nutrient that plays a protective role in various cardiovascular diseases. Doxorubicin (DOX)-induced cardiotoxicity is an important cause of poor prognosis in many cancer patients treated with anthracyclines. This study aims to investigate the protective effects of LYC against DOX-induced heart failure (HF) and specific underlying mechanisms.\nMATERIALS AND METHODS: DOX was used to establish HF model in cardiomyocytes and C57BL/6J mice to assess the protection of LYC against DOX-induced HF on inflammation, oxidative stress, and ferroptosis.\nKEY FINDINGS: LYC ameliorated DOX-induced deterioration of cardiac function. Mechanistically, LYC reduced collagen content and fibrosis by inhibiting the expression of matrix metalloproteinase 2 (MMP-2) and MMP-9. Additionally, LYC inhibited reactive oxygen species (ROS) production by upregulating antioxidant enzymes expression. LYC enhanced B-cell lymphoma 2 (Bcl-2), but reduced apoptosis positive cells by reducing tumor protein 53 (p53), Bcl-2 associated X protein (Bax), and cleaved-Caspase 3 (c-Casp3) levels. Besides, LYC reduced inflammatory cytokine levels through activating peroxisome proliferator activated receptor gamma (PPARγ). Moreover, LYC ameliorated DOX-induced ferroptosis both in vivo and in vitro. Furthermore, we showed that LYC inhibited DOX-induced ferroptosis via binding to nuclear factor-erythroid 2-related factor 2 (Nrf2) to enhance its expression.\nSIGNIFICANCE: LYC improved DOX-induced cardiac dysfunction by reducing oxidative stress and inflammation, which was contributed by the reduction of ferroptosis. At molecular levels, LYC ameliorated DOX-induced ferroptosis through activating the Nrf2 signaling pathway. These findings indicate the potential of LYC as a therapeutic option for HF treatment.",
+  "type": "academic",
+  "pdf_url": ""
+}

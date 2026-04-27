@@ -1,0 +1,18 @@
+3	2	Brief Communication
+11	2	4. Specialist of the Bone Metabolism Laboratory, FMUSP
+24	2	Abstract
+40	2	Introduction
+57	2	8 Evidence has shown that part of the energy required for
+98	2	Materials And Methods
+108	2	Experimental Design
+125	2	13 The animals were
+142	2	Statistical Analysis
+148	2	Results
+162	2	Discussion
+177	2	19 The gains with Cr supplementation might have been
+194	2	Pre
+283	2	References
+286	2	2. Bing OH, Brooks WW, Robinson KG, Slawsky MT, Hayes JA,
+326	2	14. Louis M, Lebacq J, Poortmans JR, Belpaire-Dethiou MC,
+330	2	15. Antolic A, Roy BD, Tarnopolsky MA, Zernicke RF, Wohl GR,
+349	2	20. Nicastro H, Gualano B, de Moraes WM, de Salles Painelli V ,

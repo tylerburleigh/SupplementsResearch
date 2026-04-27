@@ -1,0 +1,19 @@
+{
+  "id": "src-265",
+  "title": "Immunosenescence: a key player in cancer development",
+  "authors": [
+    "Lian, Jingyao",
+    "Yue, Ying",
+    "Yu, Weina",
+    "Zhang, Yi"
+  ],
+  "doi": "10.1186/s13045-020-00986-z",
+  "url": "https://openalex.org/W3100093629",
+  "provider": "openalex",
+  "year": 2020,
+  "venue": "Journal of Hematology & Oncology",
+  "citation_count": 490,
+  "abstract": "Immunosenescence is a process of immune dysfunction that occurs with age and includes remodeling of lymphoid organs, leading to changes in the immune function of the elderly, which is closely related to the development of infections, autoimmune diseases, and malignant tumors. T cell-output decline is an important feature of immunosenescence as well as the production of senescence-associated secretory phenotype, increased glycolysis, and reactive oxygen species. Senescent T cells exhibit abnormal phenotypes, including downregulation of CD27, CD28, and upregulation of CD57, killer cell lectin-like receptor subfamily G, Tim-3, Tight, and cytotoxic T-lymphocyte-associated protein 4, which are tightly related to malignant tumors. The role of immunosenescence in tumors is sophisticated: the many factors involved include cAMP, glucose competition, and oncogenic stress in the tumor microenvironment, which can induce the senescence of T cells, macrophages, natural killer cells, and dendritic cells. Accordingly, these senescent immune cells could also affect tumor progression. In addition, the effect of immunosenescence on the response to immune checkpoint blocking antibody therapy so far is ambiguous due to the low participation of elderly cancer patients in clinical trials. Furthermore, many other senescence-related interventions could be possible with genetic and pharmacological methods, including mTOR inhibition, interleukin-7 recombination, and NAD<sup>+</sup> activation. Overall, this review aims to highlight the characteristics of immunosenescence and its impact on malignant tumors and immunotherapy, especially the future directions of tumor treatment through senescence-focused strategies.",
+  "type": "academic",
+  "pdf_url": "https://jhoonline.biomedcentral.com/track/pdf/10.1186/s13045-020-00986-z"
+}

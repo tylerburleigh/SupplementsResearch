@@ -1,0 +1,21 @@
+{
+  "id": "src-086",
+  "title": "The contribution of gut bacterial metabolites in the human immune signaling pathway of non-communicable diseases",
+  "authors": [
+    "Hosseinkhani, Farideh",
+    "Heinken, Almut",
+    "Thiele, Ines",
+    "Lindenburg, Petrus W.",
+    "Harms, Amy C.",
+    "Hankemeier, Thomas"
+  ],
+  "doi": "10.1080/19490976.2021.1882927",
+  "url": "https://openalex.org/W3130156599",
+  "provider": "openalex",
+  "year": 2021,
+  "venue": "Gut Microbes",
+  "citation_count": 214,
+  "abstract": "The interaction disorder between gut microbiota and its host has been documented in different non-communicable diseases (NCDs) such as metabolic syndrome, neurodegenerative disease, and autoimmune disease. The majority of these altered interactions arise through metabolic cross-talk between gut microbiota and host immune system, inducing a low-grade chronic inflammation that characterizes all NCDs. In this review, we discuss the contribution of bacterial metabolites to immune signaling pathways involved in NCDs. We then review recent advances that aid to rationally design microbial therapeutics. A deeper understanding of these intersections between host and gut microbiota metabolism using metabolomics-based system biology platform promises to reveal the fundamental mechanisms that drive metabolic predispositions to disease and suggest new avenues to use microbial therapeutic opportunities for NCDs treatment and prevention. <b>Abbreviations</b>: NCDs: non-communicable disease, IBD: inflammatory bowel disease, IL: interleukin, T2D: type 2 diabetes, SCFAs: short-chain fatty acids, HDAC: histone deacetylases, GPCR: G-protein coupled receptors, 5-HT: 5-hydroxytryptamine receptor signaling, DCs: dendritic cells, IECs: intestinal epithelial cells, T-reg: T regulatory cell, NF-κB: nuclear factor κB, TNF-α: tumor necrosis factor alpha, Th: T helper cell, CNS: central nervous system, ECs: enterochromaffin cells, NSAIDs: non-steroidal anti-inflammatory drugs, AhR: aryl hydrocarbon receptor, IDO: indoleamine 2,3-dioxygenase, QUIN: quinolinic acid, PC: phosphatidylcholine, TMA: trimethylamine, TMAO: trimethylamine <i>N</i>-oxide, CVD: cardiovascular disease, NASH: nonalcoholic steatohepatitis, BAs: bile acids, FXR: farnesoid X receptor, CDCA: chenodeoxycholic acid, DCA: deoxycholic acid, LCA: lithocholic acid, UDCA: ursodeoxycholic acid, CB: cannabinoid receptor, COBRA: constraint-based reconstruction and analysis.",
+  "type": "academic",
+  "pdf_url": "https://www.tandfonline.com/doi/pdf/10.1080/19490976.2021.1882927?needAccess=true"
+}

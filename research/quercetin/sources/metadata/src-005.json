@@ -1,0 +1,29 @@
+{
+  "id": "src-005",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://naturopathicpediatrics.com/2023/04/04/quercetin-supplementation-for-children-research-safety-and-efficacy",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-22T16:51:16.450339+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-005.md",
+  "quality_details": {
+    "content_length": 9614,
+    "alpha_ratio": 0.77,
+    "sentence_count": 105,
+    "reasons": [
+      "paywall_page (add to cart)"
+    ]
+  }
+}

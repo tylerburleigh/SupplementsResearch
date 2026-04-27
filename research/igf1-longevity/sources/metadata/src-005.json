@@ -1,0 +1,29 @@
+{
+  "id": "src-005",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6367275",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-23T22:35:18.501507+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-005.md",
+  "quality_details": {
+    "content_length": 70798,
+    "alpha_ratio": 0.719,
+    "sentence_count": 746,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

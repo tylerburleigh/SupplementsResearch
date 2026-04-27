@@ -1,0 +1,22 @@
+{
+  "id": "src-095",
+  "title": "Therapeutic efficacy of nanoparticles and routes of administration",
+  "authors": [
+    "Chenthamara, Dhrisya",
+    "Sadhasivam, Subramaniam",
+    "Ramakrishnan, Sankar Ganesh",
+    "Krishnaswamy, Swaminathan",
+    "Essa, Musthafa Mohamed",
+    "Lin, Feng‐Huei",
+    "Qoronfleh, M. Walid"
+  ],
+  "doi": "10.1186/s40824-019-0166-x",
+  "url": "https://openalex.org/W2993536313",
+  "provider": "openalex",
+  "year": 2019,
+  "venue": "Biomaterials Research",
+  "citation_count": 1023,
+  "abstract": "In modern-day medicine, nanotechnology and nanoparticles are some of the indispensable tools in disease monitoring and therapy. The term \"nanomaterials\" describes materials with nanoscale dimensions (< 100 nm) and are broadly classified into natural and synthetic nanomaterials. However, \"engineered\" nanomaterials have received significant attention due to their versatility. Although enormous strides have been made in research and development in the field of nanotechnology, it is often confusing for beginners to make an informed choice regarding the nanocarrier system and its potential applications. Hence, in this review, we have endeavored to briefly explain the most commonly used nanomaterials, their core properties and how surface functionalization would facilitate competent delivery of drugs or therapeutic molecules. Similarly, the suitability of carbon-based nanomaterials like CNT and QD has been discussed for targeted drug delivery and siRNA therapy. One of the biggest challenges in the formulation of drug delivery systems is fulfilling targeted/specific drug delivery, controlling drug release and preventing opsonization. Thus, a different mechanism of drug targeting, the role of suitable drug-laden nanocarrier fabrication and methods to augment drug solubility and bioavailability are discussed. Additionally, different routes of nanocarrier administration are discussed to provide greater understanding of the biological and other barriers and their impact on drug transport. The overall aim of this article is to facilitate straightforward perception of nanocarrier design, routes of various nanoparticle administration and the challenges associated with each drug delivery method.",
+  "type": "academic",
+  "pdf_url": "https://biomaterialsres.biomedcentral.com/track/pdf/10.1186/s40824-019-0166-x"
+}

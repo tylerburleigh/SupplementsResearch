@@ -1,0 +1,26 @@
+{
+  "id": "src-206",
+  "title": "Ergothioneine Ameliorates Liver Fibrosis by Inhibiting Glycerophospholipids Metabolism and TGF‐β/Smads Signaling Pathway: Based on Metabonomics and Network Pharmacology",
+  "authors": [
+    "Mao, Yaping",
+    "Xie, Zhenghui",
+    "Zhang, Xiaoliu",
+    "Fu, Yu",
+    "Yu, Xiaotong",
+    "Deng, Lili",
+    "Zhang, Xiu",
+    "Hou, Bo",
+    "Wang, Xiao",
+    "Ma, Mingyue",
+    "Ren, Fu"
+  ],
+  "doi": "10.1002/jat.4728",
+  "url": "https://openalex.org/W4404650594",
+  "provider": "openalex",
+  "year": 2024,
+  "venue": "Journal of Applied Toxicology",
+  "citation_count": 9,
+  "abstract": "Ergothioneine (EGT) is a diet-derived natural sulfur-containing amino acid that exhibits strong anti-oxidant and anti-inflammation activities. Oxidative stress and chronic inflammatory injury are predominant pro-fibrogenic factors. Therefore, EGT may have therapeutic potential against liver fibrosis; however, its underlying mechanism is incompletely understood. This study aimed at investigating the protective effects of EGT on liver fibrosis based on metabonomics and network pharmacology. A mouse model of liver fibrosis was established by intraperitoneal injection with 40% CCl<sub>4</sub> solution (2 mL/kg, twice a week) and intragastric administration with EGT (5, 10 mg/kg/d) for six weeks. Results showed that EGT improved liver function by reducing serum levels of ALT (alanine aminotransferase), AST (aspartate aminotransferase), and TBIL (total bilirubin), and alleviated liver fibrosis by reducing LN (laminin) and HyP (hydroxyproline) levels, decreasing expressions of α-SMA (α-smooth muscle actin), Col-I (collagen type I), and Col-III (collagen type III), and improving pathological changes. EGT also significantly inhibited CCl<sub>4</sub>-induced hepatic inflammation and TGF-β/Smads signaling pathway. Metabolomics identified six key metabolic pathways, such as purine metabolism, glycerophospholipid metabolism, and sphingolipid metabolism, and eight key metabolites, such as xanthine, guanine, ATP, phosphatidylcholine, and sphingosine. Network pharmacology analysis showed that IL-17, cAMP and NF-κB signaling pathways were potential key mechanisms. Integrated analysis revealed that PLA2G2A might be a potential target of EGT against liver fibrosis. EGT may inhibit the glycerophospholipid metabolism through PLA2G2A to inhibit the TGF-β/Smads signaling pathway, thereby alleviating fibrosis. The present study indicates that EGT may be considered a valid therapeutic strategy to regress liver fibrosis, and provides novel insights into the pharmacological mechanism of EGT against liver fibrosis.",
+  "type": "academic",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/jat.4728"
+}

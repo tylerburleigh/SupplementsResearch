@@ -1,0 +1,19 @@
+{
+  "id": "src-346",
+  "title": "Histone Deacetylase Inhibitors as Anticancer Drugs",
+  "authors": [
+    "Eckschlager, Tomáš",
+    "Plch, Johana",
+    "Stiborová, Marie",
+    "Hraběta, Jan"
+  ],
+  "doi": "10.3390/ijms18071414",
+  "url": "https://openalex.org/W2724336500",
+  "provider": "openalex",
+  "year": 2017,
+  "venue": "International Journal of Molecular Sciences",
+  "citation_count": 1164,
+  "abstract": "Carcinogenesis cannot be explained only by genetic alterations, but also involves epigenetic processes. Modification of histones by acetylation plays a key role in epigenetic regulation of gene expression and is controlled by the balance between histone deacetylases (HDAC) and histone acetyltransferases (HAT). HDAC inhibitors induce cancer cell cycle arrest, differentiation and cell death, reduce angiogenesis and modulate immune response. Mechanisms of anticancer effects of HDAC inhibitors are not uniform; they may be different and depend on the cancer type, HDAC inhibitors, doses, etc. HDAC inhibitors seem to be promising anti-cancer drugs particularly in the combination with other anti-cancer drugs and/or radiotherapy. HDAC inhibitors vorinostat, romidepsin and belinostat have been approved for some T-cell lymphoma and panobinostat for multiple myeloma. Other HDAC inhibitors are in clinical trials for the treatment of hematological and solid malignancies. The results of such studies are promising but further larger studies are needed. Because of the reversibility of epigenetic changes during cancer development, the potency of epigenetic therapies seems to be of great importance. Here, we summarize the data on different classes of HDAC inhibitors, mechanisms of their actions and discuss novel results of preclinical and clinical studies, including the combination with other therapeutic modalities.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/1422-0067/18/7/1414/pdf?version=1499174639"
+}

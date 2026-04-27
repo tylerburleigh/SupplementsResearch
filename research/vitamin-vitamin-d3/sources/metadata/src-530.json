@@ -1,0 +1,26 @@
+{
+  "id": "src-530",
+  "title": "Association of VitD 3 deficiency with thyroid nodules suspected of malignancy in petroleum workers: a retrospective cohort study.",
+  "authors": [
+    "Wang, Deping",
+    "Luo, Dongdong",
+    "Leng, S.",
+    "Gao, Bingrui",
+    "Zhang, Chenxi",
+    "Chen, Zhaoying",
+    "Li, Bojuan",
+    "Hu, Jialin",
+    "Shan, Zhongyan",
+    "Teng, Weiping",
+    "Li, Jing"
+  ],
+  "doi": "10.7717/peerj.20893",
+  "url": "https://www.semanticscholar.org/paper/5ff0874c76fff57790ed7e2548e9ae4548b65b50",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "PeerJ",
+  "citation_count": 0,
+  "abstract": "Background\nThyroid nodules (TNs) are common thyroid disorders. Vitamin D (VitD) is linked to thyroid disease risk, but prior studies mainly focused on total serum VitD and TN risk, ignoring different impacts of VitD3 and VitD2 metabolites on TN development.\n\nMethods\nBetween July and December 2021, we conducted a retrospective cohort study in Dalian, China, involving 2,037 euthyroid male petroleum workers (aged 30-60 years) without thyroid autoimmunity (TAI). Serum 25-hydroxy vitamin D [25(OH)VD], 25(OH)VD3 and 25(OH)VD2 levels were assayed by liquid chromatography-tandem mass spectrometry (LC-MS/MS). The participants were classified into different groups according to their ultrasound images of TNs based on Chinese-Thyroid Imaging Reporting and Data System (C-TIRADS). C-TIRADS consist of 6 grades, and the upper three indicate TNs with potential malignancy.\n\nResults\nAnalysis of the cohort revealed the prevalence of TNs and VitD levels in this population. No C-TIRADS 5 or 6 nodules were identified. Serum 25(OH)VD levels in the C-TIRADS 4 TN group were significantly lower than those in the C-TIRADS 1, 2, and 3 groups. The overall prevalence of TNs was similar among the VitD-deficient, insufficient, and sufficient groups. However, the prevalence of patients with C-TIRADS 4 TNs was markedly higher in the VitD-deficient group (18.5%) than in the insufficient (5.5%, p < 0.001) and sufficient groups (4.1%, p < 0.001). Identical findings were observed among the groups with low, medium, and high serum 25(OH)VD3 levels, but not among those with different serum 25(OH)VD2 levels. Binary logistic regression analysis revealed that low VitD3 levels [25(OH)VD3 < 19.07 ng/mL] were associated with a significantly increased risk of developing C-TIRADS 4 TNs, with an adjusted odds ratio (OR) of 4.74 (95% confidence interval (CI) [3.13-7.18]; p < 0.001), compared to high VitD3 levels, after adjusting for confounding variables such as age, body mass index (BMI), thyroid function, thyroid autoantibodies, and season of blood draw.\n\nConclusions\nVitD3 deficiency, but not VitD2 deficiency, was independently associated with TNs with suspicious malignancy in euthyroid male petroleum workers aged 30-60 years.",
+  "type": "academic",
+  "pdf_url": ""
+}

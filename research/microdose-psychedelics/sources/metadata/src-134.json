@@ -1,0 +1,21 @@
+{
+  "id": "src-134",
+  "title": "Sertraline-induced 5-HT dysregulation in mouse cardiomyocytes and the impact on calcium handling",
+  "authors": [
+    "Lu, Yongjun",
+    "Kenkel, Elizabeth",
+    "Zimmerman, Kathy",
+    "Weiss, Robert M.",
+    "Roghair, R.",
+    "Haskell, Sarah E."
+  ],
+  "doi": "10.1152/ajpheart.00692.2023",
+  "url": "https://www.semanticscholar.org/paper/ef1c0b2bd6759a2f2802ebb2e8df0d2cc49b7fac",
+  "provider": "semantic_scholar",
+  "year": 2024,
+  "venue": "American Journal of Physiology. Heart and Circulatory Physiology",
+  "citation_count": 6,
+  "abstract": "Selective serotonin reuptake inhibitors (SSRIs) are prescribed in 15% of pregnancies in the United States for depression. Maternal use of SSRIs has been linked to an increased risk of congenital heart defects, but the exact mechanism of pathogenesis is unknown. SSRIs, including sertraline, are permeable to the placenta and can produce direct fetal exposure. Previously, we have shown decreased cardiomyocyte proliferation, left ventricle size, and cardiac expression of the serotonin receptor 5-HT2B in the offspring of mice exposed to the SSRI sertraline relative to the offspring of saline-exposed mice. Using a mouse model of in utero plus neonatal sertraline exposure, we observed lengthened peak-to-peak time of calcium oscillation (saline 784 ± 76 ms; sertraline 1,121 ± 130 ms, P < 0.001) and decreased expression of critical genes in calcium regulation. We also observed significant upregulation of specific microRNAs (miRNAs) that modulate serotonin signaling in neonatal cardiac tissues (Slc6a4: miR-223-5p, miR-92a-2-5p, miR-182-5p; Htr2a: miR-34b-5p, miR-182-5p; Htr2b: miR-223-5p, miR-92a-2-5p, miR-337-5p) (P < 0.05) with corresponding levels of the target mRNAs downregulated (Slc6a4 0.73 ± 0.05; Htr2a 0.67 ± 0.04; Htr2b 0.72 ± 0.03; all P < 0.01), resulting in decreased production of the cognate proteins. Adult mice at 10 wk showed altered cardiac parameters including decreased heart rates in males (saline 683 ± 8 vs. sertraline 666 ± 6 beats/min, P < 0.05) and ejection fraction in females (saline 83.9 ± 0.6% vs. sertraline 80.6 ± 1.1%, P < 0.05). These findings raise the question of whether sertraline exposure during development may increase the potential risk for cardiac disease when subjected to stress. NEW & NOTEWORTHY Sertraline exposure during development decreased the expression of critical genes in calcium regulation and lengthened periods in calcium oscillation in neonatal cardiomyocytes. Sertraline upregulated specific microRNAs that may modulate serotonin signaling in neonatal cardiac tissues, which corresponded with a decrease in the levels of the corresponding target mRNAs. Although the echocardiograms in our adult mice suggest a mild phenotype associated with sertraline exposure, these upregulated microRNAs (miRNAs) have been linked to adult cardiovascular disease and heart failure.",
+  "type": "academic",
+  "pdf_url": "https://figshare.com/articles/figure/Sertraline-Induced_5-HT_Dysregulation_in_Mouse_Cardiomyocytes_and_the_Impact_on_Calcium_Handling/26360191/1/files/47883871.pdf"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "src-370",
+  "title": "Senolytic drugs: from discovery to translation - PMC",
+  "authors": [],
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7405395",
+  "provider": "perplexity",
+  "year": 2020,
+  "abstract": "Senolytics are a class of drugs that selectively clear senescent cells (SC).\nThe first senolytic drugs Dasatinib, Quercetin, Fisetin and Navitoclax were discovered using a hypothesis‐driven approach.\n...\nEarly pilot trials of senolytics suggest they decrease senescent cells, reduce inflammation and alleviate frailty in humans.\n...\nFisetin (F) is another naturally occurring flavonoid that is senolytic [52, 90].\nThe senolytic flavonoids act in part by inhibiting BCL‐2 family members such as BCL‐xL as well as HIF‐1α and other SCAP network components.\n…\n|1^st^ generation senolytics: hypothesis‐driven, mechanism‐based|1^st^ generation senolytics: hypothesis‐driven, mechanism‐based|\n|--|--|\n|Agent|References|\n|Dasatinib|[87]|\n|Quercetin|[87]|\n|Fisetin|[52, 90]|\n|Luteolin|[52]|\n|Curcumin|[52]|\n|Curcumin Analog EF24|[102]|\n|Navitoclax (ABT263)|[91, 92]|\n|A1331852|[91]|\n|A1155463|[91]|\n|Geldanamycin|[103]|\n|Tanespimycin|[103]|\n|Alvespimycin|[103]|\n…\nD + Q and F have been shown to reduce senescent cell abundance *in vivo* whilst not destroying nonsenescent cells [51, 52].\nAfter intraperitoneal transplantation of 10^5^ radiation‐induced syngeneic senescent adipocyte progenitors, which could be detected due to constitutive SFFV promoter‐driven luciferase expression, into middle‐aged mice, treatment with oral D + Q for 3 days substantially decreased luminescence 2 days after the last dose [51].",
+  "type": "web"
+}

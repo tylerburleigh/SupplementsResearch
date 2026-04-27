@@ -1,0 +1,56 @@
+78	2	Original Research
+82	2	1 INTRODUCTION
+157	2	2 MATERIALS AND METHODS
+158	3	2.1 Protocol
+162	3	2.2 Literature Search Strategy
+171	3	2.3 Selection Criteria
+179	3	2.4 Literature Screening, Data Extraction
+195	3	2.5 Statistical Analysis
+204	2	3 RESULTS
+205	3	3.1 Results of the Search
+210	3	3.2 Description of Included Trials
+232	3	3.3 Risk of Bias Assessments
+233	4	3.3.1 Selection Bias
+245	2	Participants
+417	2	Participants
+558	4	3.3.2 Performance Bias and Detection Bias
+574	4	3.3.3 Attrition Bias and Reporting Bias
+583	4	3.3.4 Other Potential Bias
+593	3	3.4 The Outcomes for RA
+658	4	3.4.3 Adverse Events
+666	3	3.5 The Outcomes for OA
+704	2	Method
+801	4	3.5.3 Oxidative Stress Related Outcomes
+816	4	3.5.4 Adverse Events
+824	3	3.6 The Outcomes for AS
+840	3	3.7 The Outcomes for JIA
+867	2	4 DISCUSSION
+870	3	4.1 Curcumin and Curcuma longa Extract
+910	3	4.2 Curcumin and Curcuma longa Extract
+972	3	4.3 Curcumin and Curcuma longa Extract
+1015	3	4.4 Curcumin and Curcuma longa Extract
+1059	3	4.5 Curcumin and Curcuma longa Extract
+1101	3	4.6 The Safety of Curcumin and Curcuma
+1131	3	4.7 The Strengths and Limitations
+1144	2	5 CONCLUSION
+1154	2	Data Availability Statement
+1158	2	Author Contributions
+1161	2	Acknowledgments
+1163	2	Supplementary Material
+1167	2	References
+1255	2	30. Kunnumakkara AB, Bordoloi D, Padmavathi G, Monisha J, Roy NK, Prasad
+1263	2	32. Karlapudi V, Prasad Mungara AVV, Sengupta K, Davis BA, Raychaudhuri
+1271	2	33. Heidari-Beni M, Moravejolahkami AR, Gorgian P, Askari G, Tarrahi MJ,
+1328	2	46. Pourhabibi-Zarandi F, Rafraf M, Zayeni H, Asghari-Jafarabadi M, Ebrahimi
+1337	2	48. Haroyan A, Mukuchyan V, Mkrtchyan N, Minasyan N, Gasparyan S,
+1342	2	49. Nakagawa Y, Mukai S, Yamada S, Matsuoka M, Tarumi E, Hashimoto T,
+1352	2	51. Khanna A, Das SS, Smina TP, Thomas JV, Kunnumakkara AB, Maliakel B,
+1362	2	53. Thomas JV, Smina TP, Khanna A, Kunnumakkara AB, Maliakel B,
+1374	2	56. Kuptniratsaikul V, Thanakhum torn S, Chinswangwatanakul P,
+1378	2	57. Kuptniratsaikul V, Dajpratham P, Taechaarpornkul W,
+1396	2	61. Gupte PA, Giramkar SA, Harke SM, Kulkarni SK, Deshmukh AP, Hingorani
+1401	2	62. Ahmadi M, Hajialilo M, Dolati S, Eghbal-Fard S, Heydarlou H, Ghaebi M,
+1416	2	65. Bupparenoo P, Pakchotanon R, Narongroeknawin P, Asavatanabodee P,
+1464	2	76. Bannuru RR, Osani MC, Vaysbrot EE, Arden NK, Bennell K, Bierma-
+1473	2	78. Ayati Z, Ramezani M, Amiri MS, Moghadam AT, Rahimi H, Abdollahzade
+1603	2	116. Chuengsamarn S, Rattanamongkolgul S, Phonrat B, Tungtrongchitr R,

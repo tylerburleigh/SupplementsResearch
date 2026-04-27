@@ -1,0 +1,21 @@
+{
+  "id": "src-315",
+  "title": "From imbalance to impairment: the central role of reactive oxygen species in oxidative stress-induced disorders and therapeutic exploration",
+  "authors": [
+    "Afzal, Sheryar",
+    "Manap, Aimi Syamima Abdul",
+    "Attiq, Ali",
+    "Albokhadaim, Ibrahim",
+    "Kandeel, Mahmoud",
+    "Alhojaily, Sameer"
+  ],
+  "doi": "10.3389/fphar.2023.1269581",
+  "url": "https://openalex.org/W4387741623",
+  "provider": "openalex",
+  "year": 2023,
+  "venue": "Frontiers in Pharmacology",
+  "citation_count": 334,
+  "abstract": "Increased production and buildup of reactive oxygen species (ROS) can lead to various health issues, including metabolic problems, cancers, and neurological conditions. Our bodies counteract ROS with biological antioxidants such as SOD, CAT, and GPx, which help prevent cellular damage. However, if there is an imbalance between ROS and these antioxidants, it can result in oxidative stress. This can cause genetic and epigenetic changes at the molecular level. This review delves into how ROS plays a role in disorders caused by oxidative stress. We also look at animal models used for researching ROS pathways. This study offers insights into the mechanism, pathology, epigenetic changes, and animal models to assist in drug development and disease understanding.",
+  "type": "academic",
+  "pdf_url": "https://www.frontiersin.org/articles/10.3389/fphar.2023.1269581/pdf?isPublishedV2=False"
+}

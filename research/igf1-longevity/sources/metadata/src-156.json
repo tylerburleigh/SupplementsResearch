@@ -1,0 +1,23 @@
+{
+  "id": "src-156",
+  "title": "DAF‐2/insulin IGF‐1 receptor regulates motility during aging by integrating opposite signaling from muscle and neuronal tissues",
+  "authors": [
+    "Roy, Charline",
+    "Molin, L.",
+    "Alcolei, Allan",
+    "Solyga, Mathilde",
+    "Bonneau, B.",
+    "Vachon, Camille",
+    "Bessereau, J.",
+    "Solari, F."
+  ],
+  "doi": "10.1111/acel.13660",
+  "url": "https://www.semanticscholar.org/paper/c6f419ca88d3ecdea129514aea9a2d6137dece63",
+  "provider": "semantic_scholar",
+  "year": 2021,
+  "venue": "bioRxiv",
+  "citation_count": 36,
+  "abstract": "During ageing, preservation of locomotion is generally considered an indicator of sustained good health, in elderlies and in animal models. In C. elegans, mutants of the insulin-IGF-1 receptor DAF-2/IIRc represent a paradigm of healthy ageing, as their increased lifespan is accompanied by a delay in age-related loss of motility. However, these animals are less mobile than wild-type animals in early adulthood. Here we investigated the DAF-2/IIRc- dependent relationship between longevity and motility using an auxin-inducible degron to trigger tissue-specific degradation of endogenous DAF-2/IIRc. As previously reported, inactivation of DAF-2/IIRc in neurons or intestine was sufficient to extend the lifespan of worms, whereas depletion in epidermis, germline or muscle was not. However, neither intestinal nor neuronal depletion of DAF-2/IIRc prevented the age-related loss of motility. In 1-day-old adults, DAF-2/IIRc depletion in neurons reduced motility in a DAF-16/FOXO dependent manner, while muscle depletion had no effect. By contrast, DAF-2 depletion in the muscle of middleage animals improved their motility independently of DAF-16/FOXO but required UNC-120/SRF. Yet, neuronal or muscle DAF-2/IIRc depletion both preserved the mitochondria network in ageing muscle. Overall, these results show that the motility pattern of daf-2 mutants is determined by the sequential and opposing impact of neurons and muscle tissues and can be dissociated from the regulation of the lifespan. This work also provides the characterization of a versatile tool to analyze the tissue-specific contribution of insulin-like signaling in integrated phenotypes at the whole organism level.",
+  "type": "academic",
+  "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9381905"
+}

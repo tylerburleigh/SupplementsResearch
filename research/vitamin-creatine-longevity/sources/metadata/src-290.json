@@ -1,0 +1,30 @@
+{
+  "id": "src-290",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://www.gnc.com/articles/what-is-the-ideal-creatine",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-21T14:16:25.927064+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-290.md",
+  "quality_details": {
+    "content_length": 386,
+    "alpha_ratio": 0.759,
+    "sentence_count": 2,
+    "reasons": [
+      "content too short (386 chars < 500)",
+      "few sentences detected (2 < 3)"
+    ]
+  }
+}

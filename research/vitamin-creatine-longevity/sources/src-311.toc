@@ -1,0 +1,44 @@
+7	2	Abstract
+27	2	Background
+71	2	Methods
+117	2	Results
+162	2	Discussion
+622	2	Conclusions
+654	2	Acknowledgements
+670	2	Competing Interests
+679	2	References
+692	2	5. Wall BT, Stephens FB, Constantin-Teodosiu D, Marimuthu K, Macdonald IA,
+697	2	6. Stephens FB, Wall BT, Marimuthu K, Shannon CE, Constantin-Teodosiu D,
+706	2	8. Koeth RA, Wang Z, Levison BS, Buffa JA, Org E, Sheehy BT, Britt EB, Fu X, Wu
+710	2	9. Baltazar-Martins G, Brito de Souza D, Aguilar-Navarro M, Munoz-Guerra J,
+714	2	10. Wardenaar FC, Ceelen IJ, Van Dijk JW, Hangelbroek RW, Van Roy L, Van der
+723	2	12. Novakova K, Kummer O, Bouitbir J, Stoffel SD, Hoerler-Koerner U, Bodmer M,
+733	2	14. Malaguarnera M, Cammalleri L, Gargante MP, Vacante M, Colonna V, Motta
+742	2	16. Samulak JJ, Sawicka AK, Hartmane D, Grinberga S, Pugovics O, Lysiak-
+746	2	17. Olek RA, Samulak JJ, Sawicka AK, Hartmane D, Grinberga S, Pugovics O,
+760	2	21. Barnett C, Costill DL, Vukovich MD, Cole KJ, Goodpaster BH, Trappe SW, Fink
+770	2	24. Stephens FB, Constantin-Teodosiu D, Laithwaite D, Simpson EJ, Greenhaff
+775	2	25. Stephens FB, Constantin-Teodosiu D, Laithwaite D, Simpson EJ, Greenhaff
+798	2	32. Busquets S, Serpe R, Toledo M, Betancourt A, Marmonti E, Orpi M, Pin F,
+818	2	37. Kraemer WJ, Volek JS, French DN, Rubin MR, Sharman MJ, Gomez AL,
+823	2	38. Rondanelli M, Solerte SB, Fioravanti M, Scevola D, Locatelli M, Minoli L,
+846	2	43. Koozehchian MS, Daneshfar A, Fallah E, Agha-Alinejad H, Samadi M, Kaviani
+856	2	46. Volpato S, Bianchi L, Cherubini A, Landi F, Maggio M, Savino E, Bandinelli S,
+876	2	52. Spiering BA, Kraemer WJ, Vingren JL, Hatfield DL, Fragala MS, Ho JY, Maresh
+880	2	53. Ho JY, Kraemer WJ, Volek JS, Fragala MS, Thomas GA, Dunn-Lewis C, Coday
+885	2	54. Spiering BA, Kraemer WJ, Hatfield DL, Vingren JL, Fragala MS, Ho JY, Thomas
+896	2	58. Fukami K, Yamagishi S, Sakai K, Kaida Y, Yokoro M, Ueda S, Wada Y, Takeuchi
+901	2	59. Vallance HD, Koochin A, Branov J, Rosen-Heath A, Bosdet T, Wang Z, Hazen
+909	2	61. Wang Z, Klipfell E, Bennett BJ, Koeth R, Levison BS, Dugar B, Feldstein AE,
+913	2	62. Pan A, Sun Q, Bernstein AM, Schulze MB, Manson JE, Stampfer MJ, Willett
+923	2	64. Tang WH, Wang Z, Kennedy DJ, Wu Y, Buffa JA, Agatisa-Boyle B, Li XS,
+931	2	66. Gruppen EG, Garcia E, Connelly MA, Jeyarajah EJ, Otvos JD, Bakker SJL,
+939	2	68. Schiattarella GG, Sannino A, Toscano E, Giugliano G, Gargiulo G, Franzone A,
+948	2	70. Wang Z, Bergeron N, Levison BS, Li XS, Chiu S, Jia X, Koeth RA, Li L, Wu Y,
+957	2	72. Cheung W, Keski-Rahkonen P, Assi N, Ferrari P, Freisling H, Rinaldi S, Slimani
+974	2	77. Tong TYN, Appleby PN, Bradbury KE, Perez-Cornago A, Travis RC, Clarke R,
+987	2	80. Gansevoort RT, Correa-Rotter R, Hemmelgarn BR, Jafar TH, Heerspink HJ,
+995	2	82. Bielinska K, Radkowski M, Grochowska M, Perlejewski K, Huc T, Jaworska K,
+999	2	83. Jaworska K, Huc T, Samborowska E, Dobrowolski L, Bielinska K, Gawlak M,
+1003	2	84. Xu M, Bhatt DK, Yeung CK, Claw KG, Chaudhry AS, Gaedigk A, Pearce RE,
+1021	2	88. Hiramatsu A, Aikata H, Uchikawa S, Ohya K, Kodama K, Nishida Y, Daijo K,

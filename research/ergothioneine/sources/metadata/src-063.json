@@ -1,0 +1,16 @@
+{
+  "id": "src-063",
+  "title": "The CCR5- 32 mutation: impact on disease outcome in individuals with hepatitis C infection from a single source",
+  "authors": [
+    "Goulding, Carol"
+  ],
+  "doi": "10.1136/gut.2004.055699",
+  "url": "https://openalex.org/W2100813429",
+  "provider": "openalex",
+  "year": 2005,
+  "venue": "Gut",
+  "citation_count": 104,
+  "abstract": "Heterozygosity for CCR5delta32 was shown to be significantly associated with spontaneous hepatitis C viral clearance and with significantly lower hepatic inflammatory scores in subgroups within this cohort. Both controls and the HCV population had similar heterozygosity frequencies.",
+  "type": "academic",
+  "pdf_url": "https://gut.bmj.com/content/gutjnl/54/8/1157.full.pdf"
+}

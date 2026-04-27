@@ -1,0 +1,34 @@
+42	2	Keywords
+45	2	Open Access
+46	2	Edited By
+49	2	Reviewed By
+60	2	Citation
+68	2	Copyright
+87	2	1 Introduction
+135	2	2 Materials and methods
+141	3	2.1 Materials
+144	3	2.2 Experimental design and diets
+158	3	2.3 Sample collection
+206	3	2.4 Growth performance
+214	3	2.5 Serum parameters
+228	3	2.6 Analysis of hepatic oxidative status
+236	3	2.7 Analysis of jejunal mucosal barrier
+243	3	2.8 Cell culture
+254	3	2.9 Selection of the daidzein concentration
+268	3	2.10 Measurements of T-AOC, SOD, and
+277	3	2.11 RT-qPCR
+291	3	2.12 Statistical analysis
+303	2	3 Results
+304	3	3.1 Growth performance
+314	3	3.2 Serum antioxidant parameters
+329	3	3.3 Liver antioxidant parameters
+343	3	3.4 Serum immune parameters
+354	3	3.5 Jejunal mucosal barrier proteins
+394	3	3.7 SOD activity, CAT activity, T-AOC and
+407	3	3.8 Effect of taurine on the expression of
+454	3	3.9 Effect of taurine on barrier
+465	2	4 Discussion
+713	2	5 Conclusion
+734	2	Author Contributions
+763	2	References
+897	2	43. Qaradakhi T, Gadanec LK, McSweeney KR, Abraham JR, Apostolopoulos V , Zulli

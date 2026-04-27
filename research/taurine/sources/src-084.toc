@@ -1,0 +1,18 @@
+59	2	1. Introduction
+68	2	2. Nomenclature, Chemistry, and Biochemistry
+103	2	1. Introduction
+113	2	2. Nomenclature, Chemistry, and Biochemistry
+277	2	3. Taurine and Cardiovascular Health
+312	3	3.1. T aurine and Cardiac Function
+329	3	3.2. T aurine and Vascular Function
+359	3	3.3. T aurine and Athletic Performance
+371	2	4. Taurine and Aging
+372	3	4.1. T aurine and Longevity
+396	3	4.2. T aurine and Cell Senescence
+420	3	4.3. T aurine and Unfolded Protein Response
+432	3	4.4. T aurine and T elomere Attrition
+441	3	4.5. T aurine and Sirtuins
+458	3	4.6. T aurine and Stem Cells
+470	2	5. Recommended Intake and Safety Concerns
+537	2	6. Conclusions
+570	2	References

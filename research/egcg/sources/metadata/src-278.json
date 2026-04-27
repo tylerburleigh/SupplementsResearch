@@ -1,0 +1,23 @@
+{
+  "id": "src-278",
+  "title": "Integrative phytochemical profiling and in silico nutrigenomic predictions of Chinese tea–Saudi Mentha longifolia blend formulations",
+  "authors": [
+    "Fallatah, T. A.",
+    "Abdelmigid, Hala M.",
+    "Alyamani, Amal",
+    "Morsi, M.",
+    "Ali, Mohammed",
+    "Lu, Jingmei",
+    "Zhao, Jian",
+    "Heikal, Y."
+  ],
+  "doi": "10.3389/fnut.2026.1753616",
+  "url": "https://www.semanticscholar.org/paper/05c1fe6641f1718c877a0ac87f4e8cabd967d397",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "Frontiers in Nutrition",
+  "citation_count": 0,
+  "abstract": "Medicinal plants represent valuable sources of bioactive compounds with therapeutic and economic potential. In Saudi Arabia,\nMentha longifolia\nL. has long been used in traditional medicine, while China is renowned for its diverse teas derived from\nCamellia sinensis\nL. However, the tissue-specific genomic impact of their metabolites remains poorly understood. We tested three replicates of each blending ratio: 1:1, 1:2, and 2:1 (Tea:\nMentha\n). Moreover, we investigated the putative expression profiles of 273 genes across human tissues using transcriptomic databases to explore the nutrigenomic effects of tea–\nMentha\nblends. 1:2 (Tea:\nMentha\n) Replicate 2 was dominated with 50.77% bioactive compounds, making it the strongest candidate overall. The highest\nMentha\naroma and bioactive compounds included eucalyptol (~17.3%), (+)-2-bornanone (~12.2%), n-hexadecanoic acid (~16.6%), and phytol (~3.2%). Lipid-derived molecules, including phytol, oleamide, and linolenic acids, showed the strongest transcriptional activation, particularly in endocrine and reproductive tissues, whereas alkaloids such as caffeine exhibited moderate effects. The preliminary integrative analysis combining experimental phytochemical profiling with computational nutrigenomic predictions is designed to generate testable hypotheses for future functional assays. Such blends may contribute to product diversification, standardization, and quality enhancement in the herbal tea industry.",
+  "type": "academic",
+  "pdf_url": ""
+}

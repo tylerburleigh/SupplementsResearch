@@ -1,0 +1,20 @@
+{
+  "id": "src-338",
+  "title": "Hydrogen peroxide – production, fate and role in redox signaling of tumor cells",
+  "authors": [
+    "Lennicke, Claudia",
+    "Rahn, Jette",
+    "Lichtenfels, Rudolf",
+    "Wessjohann, Ludger A.",
+    "Seliger, Barbara"
+  ],
+  "doi": "10.1186/s12964-015-0118-6",
+  "url": "https://openalex.org/W2112268703",
+  "provider": "openalex",
+  "year": 2015,
+  "venue": "Cell Communication and Signaling",
+  "citation_count": 576,
+  "abstract": "Hydrogen peroxide (H2O2) is involved in various signal transduction pathways and cell fate decisions. The mechanism of the so called \"redox signaling\" includes the H2O2-mediated reversible oxidation of redox sensitive cysteine residues in enzymes and transcription factors thereby altering their activities. Depending on its intracellular concentration and localization, H2O2 exhibits either pro- or anti-apoptotic activities. In comparison to normal cells, cancer cells are characterized by an increased H2O2 production rate and an impaired redox balance thereby affecting the microenvironment as well as the anti-tumoral immune response. This article reviews the current knowledge about the intracellular production of H2O2 along with redox signaling pathways mediating either the growth or apoptosis of tumor cells. In addition it will be discussed how the targeting of H2O2-linked sources and/or signaling components involved in tumor progression and survival might lead to novel therapeutic targets.",
+  "type": "academic",
+  "pdf_url": "https://biosignaling.biomedcentral.com/track/pdf/10.1186/s12964-015-0118-6"
+}

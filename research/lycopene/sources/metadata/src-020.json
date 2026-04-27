@@ -1,0 +1,30 @@
+{
+  "id": "src-020",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://www.nutrition-and-you.com/what-foods-can-lower-prostate-cancer-risk.html",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-19T18:29:29.813844+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-020.md",
+  "quality_details": {
+    "content_length": 119,
+    "alpha_ratio": 0.782,
+    "sentence_count": 0,
+    "reasons": [
+      "content too short (119 chars < 500)",
+      "few sentences detected (0 < 3)"
+    ]
+  }
+}

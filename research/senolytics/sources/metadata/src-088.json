@@ -1,0 +1,31 @@
+{
+  "id": "src-088",
+  "title": "Targeting pathological cells with senolytic drugs reduces seizures in neurodevelopmental mTOR-related epilepsy.",
+  "authors": [
+    "Ribierre, Théo",
+    "Bacq, Alexandre",
+    "Donneger, Florian",
+    "Doladilhe, Marion",
+    "Maletic, Marina",
+    "Roussel, Delphine",
+    "Le Roux, Isabelle",
+    "Chassoux, Francine",
+    "Devaux, Bertrand",
+    "Adle-Biassette, Homa",
+    "Ferrand-Sorbets, Sarah",
+    "Dorfmüller, Georg",
+    "Chipaux, Mathilde",
+    "Baldassari, Sara",
+    "Poncer, Jean-Christophe",
+    "Baulac, Stéphanie"
+  ],
+  "doi": "10.1038/s41593-024-01634-2",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38710875",
+  "provider": "pubmed",
+  "year": 2024,
+  "venue": "Nature neuroscience",
+  "citation_count": 0,
+  "abstract": "Cortical malformations such as focal cortical dysplasia type II (FCDII) are associated with pediatric drug-resistant epilepsy that necessitates neurosurgery. FCDII results from somatic mosaicism due to post-zygotic mutations in genes of the PI3K-AKT-mTOR pathway, which produce a subset of dysmorphic cells clustered within healthy brain tissue. Here we show a correlation between epileptiform activity in acute cortical slices obtained from human surgical FCDII brain tissues and the density of dysmorphic neurons. We uncovered multiple signatures of cellular senescence in these pathological cells, including p53/p16 expression, SASP expression and senescence-associated β-galactosidase activity. We also show that administration of senolytic drugs (dasatinib/quercetin) decreases the load of senescent cells and reduces seizure frequency in an MtorS2215F FCDII preclinical mouse model, providing proof of concept that senotherapy may be a useful approach to control seizures. These findings pave the way for therapeutic strategies selectively targeting mutated senescent cells in FCDII brain tissue.",
+  "type": "academic",
+  "pdf_url": ""
+}

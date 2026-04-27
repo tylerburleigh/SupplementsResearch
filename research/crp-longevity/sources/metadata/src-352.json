@@ -1,0 +1,25 @@
+{
+  "id": "src-352",
+  "title": "Pregnancy per- and polyfluoroalkyl substance concentrations and postpartum health in Project Viva, a prospective cohort.",
+  "authors": [
+    "Mitro, Susanna D.",
+    "Sagiv, S.",
+    "Fleisch, A.",
+    "Jaacks, L.",
+    "Williams, Paige L.",
+    "Rifas-Shiman, S.",
+    "Calafat, A.",
+    "Hivert, M.",
+    "Oken, E.",
+    "James-Todd, T."
+  ],
+  "doi": "10.1210/clinem/dgaa431",
+  "url": "https://www.semanticscholar.org/paper/496b166a0e123d031ed8a460fe189bc0c86ae4ca",
+  "provider": "semantic_scholar",
+  "year": 2020,
+  "venue": "Journal of Clinical Endocrinology and Metabolism",
+  "citation_count": 25,
+  "abstract": "CONTEXT\nPer- and polyfluoroalkyl substances (PFAS) are environmental chemicals linked to weight gain and type 2 diabetes.\n\nOBJECTIVE\nWe examined the extent to which PFAS plasma concentrations during pregnancy were associated with postpartum anthropometry and biomarkers.\n\nDESIGN, PATIENTS, MEASURES\nWe studied women recruited between 1999-2002 in the Project Viva prospective cohort with pregnancy plasma concentrations of PFAS, including perfluorooctanesulfonic acid (PFOS), perfluorooctanoic acid (PFOA), and 2-(N-ethyl-perfluorooctane sulfonamide) acetic acid (EtFOSAA). Three-year postpartum anthropometry measurements were available from 786-801 women, blood pressure from 761 women, and blood biomarkers from 450-454 women. We used multivariable regression to evaluate the association of log2-transformed PFAS with postpartum anthropometry, blood pressure, and blood biomarkers (leptin, adiponectin, sex hormone binding globulin [SHBG], hemoglobin A1c [HbA1c], interleukin-6 [IL-6], C-reactive protein [CRP]), adjusting for age, pre-pregnancy BMI, marital status, race/ethnicity, education, income, smoking, parity, and breastfeeding history.\n\nRESULTS\nPregnancy concentrations of certain PFAS were associated with greater adiposity (e.g., 0.4 cm [95%CI: -0.1, 0.9] greater waist circumference per doubling in EtFOSAA; 0.2 cm [95%CI: -0.1, 0.5] greater mid-upper arm circumference per doubling in PFOA; 1.2 mm [95%CI: 0.1, 2.2] thicker sum of subscapular and triceps skinfolds per doubling in PFOS) and higher systolic blood pressure (e.g., 1.2 mm Hg [95%CI: 0.3, 2.2] per doubling in PFOS) at three years postpartum. Higher EtFOSAA concentrations were also associated with 10.8% higher IL-6 (95%CI: 3.3, 18.9) and 6.1% lower SHBG (95%CI: 0.7, 11.2) per doubling.\n\nCONCLUSIONS\nPregnancy concentrations of EtFOSAA, PFOS, and PFOA were associated with adverse postpartum cardiometabolic markers.",
+  "type": "academic",
+  "pdf_url": "https://academic.oup.com/jcem/article-pdf/105/9/e3415/41847116/dgaa431.pdf"
+}

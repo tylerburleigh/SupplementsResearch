@@ -1,0 +1,34 @@
+{
+  "id": "src-066",
+  "title": "Alcohol and cause-specific mortality in Russia: the Know Your Heart Study 2015–23",
+  "authors": [
+    "Mitkin, Nikita A.",
+    "Brenn, Tormod",
+    "Unguryanu, Tatiana N.",
+    "Malyutina, Sofia",
+    "Cook, Sarah",
+    "Kudryavtsev, Alexander V."
+  ],
+  "year": 2024,
+  "abstract": "Abstract\nBackground\nAlcohol-related mortality in Russia exceeds the world average and presents a critical public health concern. This study assesses the impact of alcohol consumption levels on mortality and investigates mortality predictors among Russians, including people treated for alcohol-related diagnoses (narcology patients).\n\nMethods\nWe examined 2629 men and women aged 35–69 years who participated in the Know Your Heart study (2015–17), Arkhangelsk, Russia. The participants were categorized into five drinking levels (non-drinking, low-risk, hazardous, harmful, narcology patients) and followed up using a regional mortality database. We used Cox proportional hazards regressions to analyze sociodemographic and cardiovascular biomarkers as mortality predictors among narcology patients and general population and to compare mortality risks across the five drinking levels.\n\nResults\nDuring a median follow-up of 6.3 years, 223 (8.5%) participants died. Age- and sex-standardized all-cause mortality rates per 100,000 person-years were 1229 (95% CI: 691–1767) in non-drinking participants, 890 (95%CI: 684–1096) and 877 (95%CI: 428–1325) in low-risk and hazardous drinking participants, 2170 (95%CI: 276–4064) in those with harmful drinking, and 4757 (95%CI: 3384–6131) in narcology patients. The largest proportions of deaths were caused by cardiovascular diseases (37.2%), neoplasms (20.2%), and external causes (13.9%). Compared with low-risk drinkers, narcology patients had higher risks of death with hazard ratios of 3.23 (95%CI: 2.02–5.16) for all-cause mortality, 3.25 (95%CI: 1.52–6.92) for cardiovascular diseases, 9.36 (95%CI: 2.63–33.3) for external causes, and 7.79 (95%CI: 3.34–18.1) for other causes. Neoplasm-related mortality did not differ between groups. All-cause mortality in the general population had positive associations with smoking, waist-to-hip ratio, resting heart rate, systolic blood pressure, high-sensitivity C-reactive protein, and negative associations with left ventricular ejection fraction (LVEF) and higher education. These associations were substantially weaker and non-significant in narcology patients. Cardiovascular mortality in narcology patients was increased with higher education, while male sex, LVEF and N-terminal prohormone of brain natriuretic peptide had less impact compared to the general population sample.\n\nConclusion\nNarcology patients face markedly higher mortality risks—threefold from all causes and cardiovascular diseases, ninefold from external causes, and sevenfold from other causes. Compared with the general population, conventional mortality risk factors were less predictive of deaths in narcology patients.",
+  "doi": "10.1186/s12889-024-20674-8",
+  "url": "https://doi.org/10.1186/s12889-024-20674-8",
+  "pdf_url": "",
+  "venue": "BMC Public Health",
+  "citation_count": 3,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-24T01:07:55.500763+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-066.md",
+  "quality_details": {
+    "content_length": 88808,
+    "alpha_ratio": 0.65,
+    "sentence_count": 738,
+    "reasons": []
+  }
+}

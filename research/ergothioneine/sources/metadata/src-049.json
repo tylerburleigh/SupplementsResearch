@@ -1,0 +1,22 @@
+{
+  "id": "src-049",
+  "title": "Microbiota-derived metabolites as drivers of gut–brain communication",
+  "authors": [
+    "Ahmed, Hany",
+    "Leyrolle, Quentin",
+    "Koistinen, Ville",
+    "Kärkkäinen, Olli",
+    "Layé, Sophie",
+    "Delzenne, Nathalie M.",
+    "Hanhineva, Kati"
+  ],
+  "doi": "10.1080/19490976.2022.2102878",
+  "url": "https://openalex.org/W4288436705",
+  "provider": "openalex",
+  "year": 2022,
+  "venue": "Gut Microbes",
+  "citation_count": 395,
+  "abstract": "Alterations in the gut microbiota composition have been associated with a range of neurodevelopmental, neurodegenerative, and neuropsychiatric disorders. The gut microbes transform and metabolize dietary- and host-derived molecules generating a diverse group of metabolites with local and systemic effects. The bi-directional communication between brain and the microbes residing in the gut, the so-called gut-brain axis, consists of a network of immunological, neuronal, and endocrine signaling pathways. Although the full variety of mechanisms of the gut-brain crosstalk is yet to be established, the existing data demonstrates that a single metabolite or its derivatives are likely among the key inductors within the gut-brain axis communication. However, more research is needed to understand the molecular mechanisms underlying how gut microbiota associated metabolites alter brain functions, and to examine if different interventional approaches targeting the gut microbiota could be used in prevention and treatment of neurological disorders, as reviewed herein.<b>Abbreviations:</b>4-EPS 4-ethylphenylsulfate; 5-AVA(B) 5-aminovaleric acid (betaine); Aβ Amyloid beta protein; AhR Aryl hydrocarbon receptor; ASD Autism spectrum disorder; BBB Blood-brain barrier; BDNF Brain-derived neurotrophic factor; CNS Central nervous system; GABA ɣ-aminobutyric acid; GF Germ-free; MIA Maternal immune activation; SCFA Short-chain fatty acid; 3M-4-TMAB 3-methyl-4-(trimethylammonio)butanoate; 4-TMAP 4-(trimethylammonio)pentanoate; TMA(O) Trimethylamine(-<i>N</i>-oxide); TUDCA Tauroursodeoxycholic acid; ZO Zonula occludens proteins.",
+  "type": "academic",
+  "pdf_url": "https://www.tandfonline.com/doi/pdf/10.1080/19490976.2022.2102878?needAccess=true"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "src-112",
+  "title": "Genetic cartography of longevity in humans and mice: Current landscape and horizons.",
+  "authors": [
+    "Hook, Michael",
+    "Roy, Suheeta",
+    "Williams, Evan G",
+    "Bou Sleiman, Maroun",
+    "Mozhui, Khyobeni",
+    "Nelson, James F",
+    "Lu, Lu",
+    "Auwerx, Johan",
+    "Williams, Robert W"
+  ],
+  "doi": "10.1016/j.bbadis.2018.01.026",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/29410319",
+  "provider": "pubmed",
+  "year": 2018,
+  "venue": "Biochimica et biophysica acta. Molecular basis of disease",
+  "citation_count": 0,
+  "abstract": "Aging is a complex and highly variable process. Heritability of longevity among humans and other species is low, and this finding has given rise to the idea that it may be futile to search for DNA variants that modulate aging. We argue that the problem in mapping longevity genes is mainly one of low power and the genetic and environmental complexity of aging. In this review we highlight progress made in mapping genes and molecular networks associated with longevity, paying special attention to work in mice and humans. We summarize 40 years of linkage studies using murine cohorts and 15 years of studies in human populations that have exploited candidate gene and genome-wide association methods. A small but growing number of gene variants contribute to known longevity mechanisms, but a much larger set have unknown functions. We outline these and other challenges and suggest some possible solutions, including more intense collaboration between research communities that use model organisms and human cohorts. Once hundreds of gene variants have been linked to differences in longevity in mammals, it will become feasible to systematically explore gene-by-environmental interactions, dissect mechanisms with more assurance, and evaluate the roles of epistasis and epigenetics in aging. A deeper understanding of complex networks-genetic, cellular, physiological, and social-should position us well to improve healthspan.",
+  "type": "academic",
+  "pdf_url": ""
+}

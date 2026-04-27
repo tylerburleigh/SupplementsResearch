@@ -1,0 +1,24 @@
+{
+  "id": "src-268",
+  "title": "Sirtuins deacetylate and activate mammalian acetyl-CoA synthetases",
+  "authors": [
+    "Hallows, William C.",
+    "Lee, Susan",
+    "Denu, John M."
+  ],
+  "year": 2006,
+  "abstract": "Silent Information Regulator 2 (Sir2) enzymes (or sirtuins) are NAD\n+\n-dependent deacetylases that modulate gene silencing, aging and energy metabolism. Previous work has implicated several transcription factors as sirtuin targets. Here, we investigated whether mammalian sirtuins could directly control the activity of metabolic enzymes. We demonstrate that mammalian Acetyl-CoA synthetases (AceCSs) are regulated by reversible acetylation and that sirtuins activate AceCSs by deacetylation. Site-specific acetylation of mouse AceCS1 on Lys-661 was identified by using mass spectrometry and a specific anti-acetyl-AceCS antibody. SIRT1 was the only member of seven human Sir2 homologues capable of deacetylating AceCS1 in cellular coexpression experiments. SIRT1 expression also led to a pronounced increase in AceCS1-dependent fatty-acid synthesis from acetate. Using purified enzymes, only SIRT1 and SIRT3 exhibited high catalytic efficiency against acetylated AceCS1. In mammals, two AceCSs have been identified: cytoplasmic AceCS1 and mitochondrial AceCS2. Because SIRT3 is localized to the mitochondria, we investigated whether AceCS2 also might be regulated by acetylation, and specifically deacetylated by mitochondrial SIRT3. AceCS2 was completely inactivated upon acetylation and was rapidly reactivated by SIRT3 deacetylation. Lys-635 of mouse AceCS2 was identified as the targeted residue. Using reversible acetylation to modulate enzyme activity, we propose a model for the control of AceCS1 by SIRT1 and of AceCS2 by SIRT3.",
+  "doi": "10.1073/pnas.0604392103",
+  "url": "https://doi.org/10.1073/pnas.0604392103",
+  "pdf_url": "",
+  "venue": "Proceedings of the National Academy of Sciences",
+  "citation_count": 672,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-23T11:23:05.775627+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok"
+}

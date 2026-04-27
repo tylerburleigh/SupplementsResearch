@@ -1,0 +1,24 @@
+{
+  "id": "src-082",
+  "title": "Diabetes and Cancer",
+  "authors": [
+    "Giovannucci, Edward L.",
+    "Harlan, David M.",
+    "Archer, Michael C.",
+    "Bergenstal, Richard M.",
+    "Gapstur, Susan M.",
+    "Habel, Laurel A.",
+    "Pollak, Michaël",
+    "Regensteiner, Judith G.",
+    "Yee, Douglas"
+  ],
+  "doi": "10.2337/dc10-0666",
+  "url": "https://openalex.org/W2104195235",
+  "provider": "openalex",
+  "year": 2010,
+  "venue": "Diabetes Care",
+  "citation_count": 2224,
+  "abstract": "Epidemiologic evidence suggests that cancer incidence is associated with diabetes as well as certain diabetes risk factors and diabetes treatments. This consensus statement of experts assembled jointly by the American Diabetes Association and the American Cancer Society reviews the state of science concerning 1) the association between diabetes and cancer incidence or prognosis, 2) risk factors common to both diabetes and cancer, 3) possible biologic links between diabetes and cancer risk, and 4) whether diabetes treatments influence risk of cancer or cancer prognosis. In addition, key unanswered questions for future research are posed.",
+  "type": "academic",
+  "pdf_url": "https://diabetesjournals.org/care/article-pdf/33/7/1674/606578/zdc00710001674.pdf"
+}

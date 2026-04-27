@@ -1,0 +1,35 @@
+{
+  "id": "src-028",
+  "title": "Is untargeted iron supplementation harmful when iron deficiency is not the major cause of anaemia? Study protocol for a double-blind, randomised controlled trial among non-pregnant Cambodian women",
+  "authors": [
+    "Fischer, Jordie AJ",
+    "Pei, Lulu X",
+    "Goldfarb, David M",
+    "Albert, Arianne",
+    "Elango, Rajavel",
+    "Kroeun, Hou",
+    "Karakochuk, Crystal D"
+  ],
+  "year": 2020,
+  "abstract": "IntroductionThe WHO recommends daily oral iron supplementation for 12 weeks in women and adolescents where anaemia prevalence is greater than 40%. However, if iron deficiency is not a major cause of anaemia, then, at best, untargeted iron supplementation is a waste of resources; at worst, it could cause harm. Further, different forms of iron with varying bioavailability may present greater risks of harm.Methods and analysisA 12-week three-arm, double-blind, randomised controlled supplementation trial was conducted in Cambodia to determine if there is potential harm associated with untargeted iron supplementation. We will recruit and randomise 480 non-pregnant women (ages 18–45 years) to receive one of three interventions: 60 mg elemental iron as ferrous sulfate (the standard, commonly used form), 18 mg ferrous bisglycinate (a highly bioavailable iron amino acid chelate) or placebo. We will measure ferritin concentrations (to evaluate non-inferiority between the two forms of iron), as well as markers of potential harm in blood and stool (faecal calprotectin, gut pathogen abundance and DNA damage) at baseline and 12 weeks. Mixed-effects generalised linear models will be used to assess the effect of iron on ferritin concentration and markers of potential harm at 12 weeks.Ethics and disseminationEthical approval was obtained from the University of British Columbia Clinical Research Ethics Board (H18-02610), the Children's and Women's Health Centre of British Columbia Research Ethics Board (H18-02610) and the National Ethics Committee for Health Research in Cambodia (273-NECHR). Findings will be published in peer-reviewed journals, presented to stakeholders and policymakers globally and shared within participants’ communities.Trial registration numberClinicalTrials.gov Registry (NCT04017598).",
+  "doi": "10.1136/bmjopen-2020-037232",
+  "url": "https://doi.org/10.1136/bmjopen-2020-037232",
+  "pdf_url": "",
+  "venue": "BMJ Open",
+  "citation_count": 6,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T17:56:16.889320+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-028.md",
+  "quality_details": {
+    "content_length": 49479,
+    "alpha_ratio": 0.744,
+    "sentence_count": 459,
+    "reasons": []
+  }
+}

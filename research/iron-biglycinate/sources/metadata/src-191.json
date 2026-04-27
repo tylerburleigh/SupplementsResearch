@@ -1,0 +1,23 @@
+{
+  "id": "src-191",
+  "title": "Alternate day versus consecutive day oral iron supplementation in iron-depleted women: a randomized double-blind placebo-controlled study.",
+  "authors": [
+    "von Siebenthal, Hanna K",
+    "Gessler, Sara",
+    "Vallelian, Florence",
+    "Steinwendner, Joachim",
+    "Kuenzi, Urs-Martin",
+    "Moretti, Diego",
+    "Zimmermann, Michael B",
+    "Stoffel, Nicole U"
+  ],
+  "doi": "10.1016/j.eclinm.2023.102286",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38021373",
+  "provider": "pubmed",
+  "year": 2023,
+  "venue": "EClinicalMedicine",
+  "citation_count": 0,
+  "abstract": "BACKGROUND: Guidelines to treat iron deficiency recommend daily provision of oral iron, but this may decrease fractional iron absorption and increase side effects. Our objective was to compare consecutive-day versus alternate-day iron supplementation.\nMETHODS: In a double-masked, randomized, placebo-controlled trial, young Swiss women (n = 150; serum ferritin ≤30 μg/L) were assigned to: daily 100 mg iron for 90 d, followed by daily placebo for another 90 d (consecutive-day group) or the same daily dose of iron and placebo on alternate days for 180 d (alternate-day group). The study period was 24/11/2021-10/8/2022. Co-primary outcomes, at equal total iron doses, were serum ferritin and gastrointestinal side effects; secondary outcomes were iron deficiency and serum hepcidin. Compliance and side effects were recorded daily using a mobile application. Data were analysed using mixed models and longitudinal prevalence ratios (LPR). The trial was registered at ClinicalTrials.gov (NCT05105438).\nFINDINGS: 75 women were assigned to each group and included in the intention-to-treat analysis. Capsule adherence and side effect reporting was >97% in both groups. At equal total iron doses, comparing consecutive-day and alternate-day groups, median serum ferritin was 43.8 μg/L (31.7-58.2) versus 44.8 μg/L (33.8-53.6) (P = 0.98), the LPR for gastrointestinal side effects on days of iron intake was 1.56 (95% CI: 1.38, 1.77; P < 0.0001), and median serum hepcidin was 3.0 nM (IQR 2.0-5.0) versus 1.9 nM (1.4-2.9) (P < 0.0001). Iron deficiency prevalence after 3 months was 5.5% versus 4.3% (P = 0.74) and after 6 months was 11.4% and 3.0% (P = 0.049).\nINTERPRETATION: At equal total iron doses, compared to consecutive day dosing of iron, alternate day dosing did not result in higher serum ferritin but reduced iron deficiency at 6 months and triggered fewer gastrointestinal side effects.\nFUNDING: Swiss National Science Foundation, Bern, Switzerland.",
+  "type": "academic",
+  "pdf_url": ""
+}

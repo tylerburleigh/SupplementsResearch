@@ -1,0 +1,25 @@
+{
+  "id": "src-113",
+  "title": "Identification of novel NRF2-regulated genes by ChIP-Seq: influence on retinoid X receptor alpha",
+  "authors": [
+    "Chorley, B. N.",
+    "Campbell, Matthew R.",
+    "Wang, Xuting",
+    "Karaca, Mehmet",
+    "Sambandan, Deepa",
+    "Bangura, F.",
+    "Xue, Peng",
+    "Pi, Jingbo",
+    "Kleeberger, Steven R.",
+    "Bell, Douglas A."
+  ],
+  "doi": "10.1093/nar/gks409",
+  "url": "https://openalex.org/W2140452134",
+  "provider": "openalex",
+  "year": 2012,
+  "venue": "Nucleic Acids Research",
+  "citation_count": 563,
+  "abstract": "Cellular oxidative and electrophilic stress triggers a protective response in mammals regulated by NRF2 (nuclear factor (erythroid-derived) 2-like; NFE2L2) binding to deoxyribonucleic acidregulatory sequences near stress-responsive genes. Studies using Nrf2-deficient mice suggest that hundreds of genes may be regulated by NRF2. To identify human NRF2-regulated genes, we conducted chromatin immunoprecipitation (ChIP)-sequencing experiments in lymphoid cells treated with the dietary isothiocyanate, sulforaphane (SFN) and carried out follow-up biological experiments on candidates. We found 242 high confidence, NRF2-bound genomic regions and 96% of these regions contained NRF2regulatory sequence motifs. The majority of binding sites were near potential novel members of the NRF2 pathway. Validation of selected candidate genes using parallel ChIP techniques and in NRF2-silenced cell lines indicated that the expression of about two-thirds of the candidates are likely to be directly NRF2-dependent including retinoid X receptor alpha (RXRA). NRF2 regulation of RXRA has implications for response to retinoid treatments and adipogenesis. In mouse, 3T3-L1 cells' SFN treatment affected Rxra expression early in adipogenesis, and knockdown of Nrf2-delayed Rxra expression, both leading to impaired adipogenesis.",
+  "type": "academic",
+  "pdf_url": "https://academic.oup.com/nar/article-pdf/40/15/7416/16965575/gks409.pdf"
+}

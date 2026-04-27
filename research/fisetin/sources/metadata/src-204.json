@@ -1,0 +1,22 @@
+{
+  "id": "src-204",
+  "title": "Fisetin-Loaded Nanostructured Lipid Carriers: Formulation and Evaluations against Advanced and Metastatic Melanoma.",
+  "authors": [
+    "Kumar, Hitesh",
+    "Chand, Pallavi",
+    "Pachal, Shantanu",
+    "Mallick, Sahid",
+    "Jain, Rupshee",
+    "Madhunapantula, SubbaRao V",
+    "Jain, Vikas"
+  ],
+  "doi": "10.1021/acs.molpharmaceut.3c00309",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37906601",
+  "provider": "pubmed",
+  "year": 2023,
+  "venue": "Molecular pharmaceutics",
+  "citation_count": 0,
+  "abstract": "Fisetin (Fis), a natural flavonoid with anticancer effects, suffers from delivery constraints. Fisetin-nanostructured lipid carriers (NLCs) were developed for better efficacy against metastatic melanoma, employing the design of experiment (DoE) approach. The optimized NLCs depict a particle diameter of 135.0 ± 5.5 nm, a polydispersity index (PDI) of 0.176 ± 0.035, and an entrapment efficiency of 78.16 ± 1.58%. The formulation was stable over a period of 60 days and demonstrated sustained release of the drug (74.79 ± 3.75%) over 96 h. Fis-NLCs depicted at least ∼3.2 times lower IC50 value and ∼1.8 times higher drug uptake at 48 h in A-375 and B16F10 cells compared to that of Fis. It also inhibited the mobility of melanoma cells and induced cell cycle arrest at the G1/S phase. Reverse transcriptase polymerase chain reaction (RT-PCR) and Western blot results show enhanced expression of Nrf2/NQO1 genes and an apoptotic effect by the upregulation of BAX mRNA expression. The protein levels of BAX and p53 were ∼2-fold higher compared with that of pure Fis. In-vivo studies demonstrated 5.9- and 10.7-fold higher inhibition in melanoma-associated metastasis in the lungs and liver, respectively. The outcomes from this study demonstrated Fis-NLCs as an effective tool against melanoma.",
+  "type": "academic",
+  "pdf_url": ""
+}

@@ -1,0 +1,17 @@
+{
+  "id": "src-137",
+  "title": "Organic anion transporters in remote sensing and organ crosstalk.",
+  "authors": [
+    "Granados, Jeffry C",
+    "Nigam, Sanjay K"
+  ],
+  "doi": "10.1016/j.pharmthera.2024.108723",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39284369",
+  "provider": "pubmed",
+  "year": 2024,
+  "venue": "Pharmacology & therapeutics",
+  "citation_count": 0,
+  "abstract": "The organic anion transporters, OAT1 and OAT3, regulate the movement of drugs, toxins, and endogenous metabolites. In 2007, we proposed that OATs and other SLC22 transporters are involved in \"remote sensing\" and organ crosstalk. This is now known as the Remote Sensing and Signaling Theory (RSST). In the proximal tubule of the kidney, OATs regulate signaling molecules such as fatty acids, bile acids, indoxyl sulfate, kynurenine, alpha-ketoglutarate, urate, flavonoids, and antioxidants. OAT1 and OAT3 function as key hubs in a large homeostatic network involving multi-, oligo- and monospecific transporters, enzymes, and nuclear receptors. The Remote Sensing and Signaling Theory emphasizes the functioning of OATs and other \"drug\" transporters in the network at multiple biological scales (inter-organismal, organism, organ, cell, organelle). This network plays an essential role in the homeostasis of urate, bile acids, prostaglandins, sex steroids, odorants, thyroxine, gut microbiome metabolites, and uremic toxins. The transported metabolites have targets in the kidney and other organs, including nuclear receptors (e.g., HNF4a, AHR), G protein-coupled receptors (GPCRs), and protein kinases. Feed-forward and feedback loops allow OAT1 and OAT3 to mediate organ crosstalk as well as modulate energy metabolism, redox state, and remote sensing. Furthermore, there is intimate inter-organismal communication between renal OATs and the gut microbiome. Extracellular vesicles containing microRNAs and proteins (exosomes) play a key role in the Remote Sensing and Signaling System as does the interplay with the neuroendocrine, hormonal, and immune systems. Perturbation of function with OAT-interacting drugs (e.g., probenecid, diuretics, antivirals, antibiotics, NSAIDs) can lead to drug-metabolite interactions. The RSST has general applicability to other multi-specific SLC and ABC \"drug\" transporters (e.g., OCT1, OCT2, SLCO1B1, SLCO1B3, ABCG2, P-gp, ABCC2, ABCC3, ABCC4). Recent high-resolution structures of SLC22 and other transporters, together with chemoinformatic and artificial intelligence methods, will aid drug development and also lead to a deeper mechanistic understanding of polymorphisms.",
+  "type": "academic",
+  "pdf_url": ""
+}

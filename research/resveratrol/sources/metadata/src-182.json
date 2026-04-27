@@ -1,0 +1,26 @@
+{
+  "id": "src-182",
+  "title": "Pterostilbene as a Multifaceted Anticancer Agent: Molecular Mechanisms, Therapeutic Potential and Future Directions.",
+  "authors": [
+    "Ali, Muhammad Asif",
+    "Kaleem, Nabeeha",
+    "Ali, Ahmad",
+    "Khan, Noohela",
+    "Khaliq, Muniba",
+    "Arif, Nafeesa",
+    "Almarhoon, Zainab M",
+    "Habtemariam, Solomon",
+    "Setzer, William N",
+    "Calina, Daniela",
+    "Sharifi-Rad, Javad"
+  ],
+  "doi": "10.1007/s12032-025-02721-5",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40411697",
+  "provider": "pubmed",
+  "year": 2025,
+  "venue": "Medical oncology (Northwood, London, England)",
+  "citation_count": 0,
+  "abstract": "Pterostilbene (PT), a natural dimethoxy analogue of resveratrol, exhibits enhanced bioavailability and lipophilicity, making it a more effective therapeutic candidate than resveratrol. These pharmacokinetic advantages improve its cellular uptake and metabolic stability, positioning PT as a promising compound in cancer treatment. PT has shown significant anticancer activity in several malignancies, including melanoma, breast, colorectal, and ovarian cancers. Its mechanisms of action include induction of apoptosis through caspase activation, cell cycle arrest, and inhibition of angiogenesis and metastasis via downregulation of matrix metalloproteinase-9 and vascular endothelial growth factor. PT also modulates epigenetic processes such as DNA methylation and histone modifications, and targets cancer stem cells by reducing the expression of stemness markers like CD44 and c-Myc. Additionally, PT enhances the efficacy of standard chemotherapeutic agents such as cisplatin, doxorubicin, and 5-fluorouracil, with preclinical studies showing synergistic effects and reversal of drug resistance. A Phase II clinical trial (NCT03671811) in endometrial cancer patients has confirmed the safety of PT and revealed its ability to modulate immune-related gene expression and suppress mechanistic target of rapamycin (mTOR) signaling. Despite promising results, several challenges remain particularly low water solubility, limited systemic bioavailability, lack of large-scale human studies, and undefined therapeutic protocols. Future research should focus on advanced formulation strategies, rigorous clinical trials across cancer types, and identification of patient-specific therapeutic responses to support PT's integration into oncology practice.",
+  "type": "academic",
+  "pdf_url": ""
+}

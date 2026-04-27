@@ -1,0 +1,32 @@
+{
+  "id": "src-042",
+  "title": "Genetic determinants of C-reactive protein",
+  "authors": [
+    "Danik, Jacqueline Suk",
+    "Ridker, Paul M."
+  ],
+  "year": 2007,
+  "abstract": "",
+  "doi": "10.1007/s11883-007-0019-2",
+  "url": "https://doi.org/10.1007/s11883-007-0019-2",
+  "pdf_url": "",
+  "venue": "Current Atherosclerosis Reports",
+  "citation_count": 31,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-24T01:05:59.570449+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-042.md",
+  "quality_details": {
+    "content_length": 20120,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

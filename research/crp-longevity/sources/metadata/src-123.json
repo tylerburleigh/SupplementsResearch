@@ -1,0 +1,24 @@
+{
+  "id": "src-123",
+  "title": "Natural Compounds and Products from an Anti-Aging Perspective",
+  "authors": [
+    "Bjørklund, Geir",
+    "Shanaida, Mariia",
+    "Lysiuk, Roman",
+    "Butnariu, Monica",
+    "Peana, Massimiliano",
+    "Sărac, Ioan",
+    "Strus, Oksana",
+    "Smetanina, Kateryna",
+    "Chirumbolo, Salvatore"
+  ],
+  "doi": "10.3390/molecules27207084",
+  "url": "https://openalex.org/W4306936876",
+  "provider": "openalex",
+  "year": 2022,
+  "venue": "Molecules",
+  "citation_count": 193,
+  "abstract": "Aging is a very complex process that is accompanied by a degenerative impairment in many of the major functions of the human body over time. This inevitable process is influenced by hereditary factors, lifestyle, and environmental influences such as xenobiotic pollution, infectious agents, UV radiation, diet-borne toxins, and so on. Many external and internal signs and symptoms are related with the aging process and senescence, including skin dryness and wrinkles, atherosclerosis, diabetes, neurodegenerative disorders, cancer, etc. Oxidative stress, a consequence of the imbalance between pro- and antioxidants, is one of the main provoking factors causing aging-related damages and concerns, due to the generation of highly reactive byproducts such as reactive oxygen and nitrogen species during the metabolism, which result in cellular damage and apoptosis. Antioxidants can prevent these processes and extend healthy longevity due to the ability to inhibit the formation of free radicals or interrupt their propagation, thereby lowering the level of oxidative stress. This review focuses on supporting the antioxidant system of the organism by balancing the diet through the consumption of the necessary amount of natural ingredients, including vitamins, minerals, polyunsaturated fatty acids (PUFA), essential amino acids, probiotics, plants' fibers, nutritional supplements, polyphenols, some phytoextracts, and drinking water.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/1420-3049/27/20/7084/pdf?version=1666262886"
+}

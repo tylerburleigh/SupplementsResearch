@@ -1,0 +1,17 @@
+{
+  "id": "src-296",
+  "title": "Epigallocatechin gallate relieves asthmatic symptoms in mice by suppressing HIF-1α/VEGFA-mediated M2 skewing of macrophages.",
+  "authors": [
+    "Yang, N.",
+    "Li, Xiang"
+  ],
+  "doi": "10.1016/j.bcp.2022.115112",
+  "url": "https://www.semanticscholar.org/paper/1f250aff4dfc92f2115cd8936859cbc345c8c327",
+  "provider": "semantic_scholar",
+  "year": 2022,
+  "venue": "Biochemical Pharmacology",
+  "citation_count": 26,
+  "abstract": "Epigallocatechin gallate (EGCG) is an active catechin in green tea and has multiple biological functions, such as anti-inflammation, anti-cancer, and immune regulation. This work aimed to study the protective function of EGCG against asthma and the mechanism. Asthma in mice was induced by house dust mite (HDM) challenge. EGCG treatment alleviated tissue injury, inflammation, mucus production and collagen deposition, and it reduced M2 macrophage infiltration in mouse lung tissues induced by HDM. The bioinformatics analyses in this study suggested that target genes of EGCG were enriched in the hypoxia inducible factor-1 (HIF-1) pathway, EGCG treatment targeted HIF-1α and thereby suppressed vascular endothelial growth factor A (VEGFA) activation. Adenovirus (AAV) overexpression vectors of HIF-1α and VEGFA were administrated into mice after EGCG treatment. Either restoration of HIF-1α or VEGFA significantly blocked the protective functions of EGCG treatment against HDM-induced allergic asthma. In conclusion, this study demonstrates that EGCG treatment relieves asthmatic symptoms in mice by suppressing HIF-1α/VEGFA-mediated M2 skewing of macrophages.",
+  "type": "academic",
+  "pdf_url": ""
+}

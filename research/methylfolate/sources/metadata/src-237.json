@@ -1,0 +1,20 @@
+{
+  "id": "src-237",
+  "title": "Vitamin D Determinants, Status, and Antioxidant/Anti-inflammatory-Related Effects in Cardiovascular Risk and Disease: Not the Last Word in the Controversy",
+  "authors": [
+    "Nera, Giulia Della",
+    "Sabatino, Laura",
+    "Gaggini, Melania",
+    "Gorini, Francesca",
+    "Vassalle, Cristina"
+  ],
+  "doi": "10.3390/antiox12040948",
+  "url": "https://openalex.org/W4366278383",
+  "provider": "openalex",
+  "year": 2023,
+  "venue": "Antioxidants",
+  "citation_count": 46,
+  "abstract": "Beyond its key role in calcium homeostasis, vitamin D has been found to significantly affect the cardiovascular (CV) system. In fact, low vitamin D levels have been associated with increased CV risk, as well as increased CV morbidity and mortality. The majority of effects of this molecule are related directly or indirectly to its antioxidative and anti-inflammatory properties. Generally, vitamin D insufficiency is considered for 25-hydroxyvitamin D (25(OH)D) levels between 21-29 ng/mL (corresponding to 52.5-72.5 nmol/L), deficiency as 25(OH)D levels less than 20 ng/mL (<50 nmol/L), and extreme deficiency as 25(OH)D less than 10 ng/mL (<25 nmol/L). However, the definition of an optimal vitamin D status, as defined by 25(OH)D, remains controversial for many extra-bone conditions, including CV disease. In this review, confounding factors affecting the 25(OH)D measurement and status will be discussed. In particular, available evidence on the mechanism and role of vitamin D in relation to CV risk and disease through its antioxidant effect will be reported, also facing the aspect regarding the debate on the minimum blood 25(OH)D level required to ensure optimal CV health.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2076-3921/12/4/948/pdf?version=1681798483"
+}

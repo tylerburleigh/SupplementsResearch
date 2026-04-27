@@ -1,0 +1,39 @@
+{
+  "id": "src-045",
+  "title": "Effects of combined prebiotic fiber supplementation and weight loss counseling in adults with metabolic dysfunction-associated steatotic liver disease: a randomized controlled trial",
+  "authors": [
+    "Mayengbam, Shyamchand",
+    "Raman, Maitreyi",
+    "Parnell, Jill A.",
+    "Eksteen, Bertus",
+    "Lambert, Jennifer E.",
+    "Eller, Lindsay K.",
+    "Nicolucci, Alissa C.",
+    "Aktary, Michelle L.",
+    "Reimer, Raylene A."
+  ],
+  "year": 2025,
+  "abstract": "",
+  "doi": "10.1007/s00394-025-03660-7",
+  "url": "https://doi.org/10.1007/s00394-025-03660-7",
+  "pdf_url": "",
+  "venue": "European Journal of Nutrition",
+  "citation_count": 3,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-19T11:29:19.487432+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-045.md",
+  "quality_details": {
+    "content_length": 25110,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "src-131",
+  "title": "Dual targeting of mTOR/IL-17A and autophagy by fisetin alleviates psoriasis-like skin inflammation.",
+  "authors": [
+    "Roy, Tithi",
+    "Banang-Mbeumi, Sergette",
+    "Boateng, Samuel T",
+    "Ruiz, Emmanuelle M",
+    "Chamcheu, Roxane-Cherille N",
+    "Kang, Lin",
+    "King, Judy A",
+    "Walker, Anthony L",
+    "Nagalo, Bolni Marius",
+    "Kousoulas, Konstantin G",
+    "Esnault, Stephane",
+    "Huang, Shile",
+    "Chamcheu, Jean Christopher"
+  ],
+  "doi": "10.3389/fimmu.2022.1075804",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36741386",
+  "provider": "pubmed",
+  "year": 2022,
+  "venue": "Frontiers in immunology",
+  "citation_count": 0,
+  "abstract": "Psoriasis is a chronic autoimmune inflammatory skin disorder characterized by epidermal hyperplasia and aberrant immune response. In addition to aberrant cytokine production, psoriasis is associated with activation of the Akt/mTOR pathway. mTOR/S6K1 regulates T-lymphocyte activation and migration, keratinocytes proliferation and is upregulated in psoriatic lesions. Several drugs that target Th1/Th17 cytokines or their receptors have been approved for treating psoriasis in humans with variable results necessitating improved therapies. Fisetin, a natural dietary polyphenol with anti-oxidant and anti-proliferative properties, covalently binds mTOR/S6K1. The effects of fisetin on psoriasis and its underlying mechanisms have not been clearly defined. Here, we evaluated the immunomodulatory effects of fisetin on Th1/Th17-cytokine-activated adult human epidermal keratinocytes (HEKa) and anti-CD3/CD28-stimulated inflammatory CD4+ T cells and compared these activities with those of rapamycin (an mTOR inhibitor). Transcriptomic analysis of HEKa revealed 12,713 differentially expressed genes (DEGs) in the fisetin-treated group compared to 7,374 DEGs in the rapamycin-treated group, both individually compared to a cytokine treated group. Gene ontology analysis revealed enriched functional groups related to PI3K/Akt/mTOR signaling pathways, psoriasis, and epidermal development. Using in silico molecular modeling, we observed a high binding affinity of fisetin to IL-17A. In vitro, fisetin significantly inhibited mTOR activity, increased the expression of autophagy markers LC3A/B and Atg5 in HEKa cells and suppressed the secretion of IL-17A by activated CD4+ T lymphocytes or T lymphocytes co-cultured with HEKa. Topical administration of fisetin in an imiquimod (IMQ)-induced mouse psoriasis model exhibited a better effect than rapamycin in reducing psoriasis-like inflammation and Akt/mTOR phosphorylation and promoting keratinocyte differentiation and autophagy in mice skin lesions. Fisetin also significantly inhibited T-lymphocytes and F4/80+ macrophage infiltration into skin. We conclude that fisetin potently inhibits IL-17A and the Akt/mTOR pathway and promotes keratinocyte differentiation and autophagy to alleviate IMQ-induced psoriasis-like disease in mice. Altogether, our findings suggest fisetin as a potential treatment for psoriasis and possibly other inflammatory skin diseases.",
+  "type": "academic",
+  "pdf_url": ""
+}

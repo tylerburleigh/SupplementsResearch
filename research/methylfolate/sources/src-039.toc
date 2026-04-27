@@ -1,0 +1,88 @@
+6	2	Review
+14	2	Abstract
+36	2	1 Clinic of Obstetrics and Gynecology, Jessenius Faculty
+39	2	2 Jessenius Faculty of Medicine in Martin, Biomedical Centre
+42	2	3 Department of Physiology and Biophysics, Weill Cornell
+44	2	24144 Doha, Qatar
+45	2	4 Department of Medical Biology, Jessenius Faculty
+51	2	53127 Bonn, Germany
+1809	2	References
+1832	2	9. Yoshitomi R, Nakayama K, Yamashita S, Kumazoe M, Lin
+1841	2	11. Yao Y, Gao L-J, Zhou Y, Zhao J-H, Lv Q, Dong J-Z, Shang
+1856	2	15. Cui R, Moriyama Y, Koike KA, Date C, Kikuchi S, Tamakoshi A,
+1875	2	20. Kalantar-Zadeh K, Block G, Humphreys MH, McAllister CJ,
+1890	2	25. Garibotto G, Sofia A, Valli A, Tarroni A, Di Martino M, Cap-
+1901	2	27. Stender S, Chakrabarti RS, Xing C, Gotway G, Cohen JC, Hobbs
+1913	2	30. Pogribny IP, Ross SA, Wise C, Pogribna M, Jones EA, Tryndyak
+1925	2	33. Zhang Q, Bai B, Mei X, Wan C, Cao H, Dan L, Wang S, Zhang
+1966	2	43. Dutta S, Sinha S, Chattopadhyay A, Gangopadhyay PK, Muk -
+2015	2	57. Pusceddu I, Herrmann W, Kleber ME, Scharnagl H, Hoffmann
+2033	2	61. Liu Y-Q, Jia Z, Han F, Inakuma T, Miyashita T, Sugiyama K,
+2048	2	64. Koklesova L, Liskova A, Samec M, Zhai K, Al-Ishaq RK, Bugos
+2067	2	68. Chen S, Dong Z, Zhao Y, Sai N, Wang X, Liu H, Huang G, Zhang
+2096	2	75. Roth GA, Johnson C, Abajobir A, Abd-Allah F, Abera SF, Abyu
+2101	2	76. Jin N, Huang L, Hong J, Zhao X, Chen Y, Hu J, Cong X, Xie Y,
+2105	2	77. Muzaffar R, Khan MA, Mushtaq MH, Nasir M, Khan A, ulHaq
+2127	2	82. Ahmad A, Corban MT, Toya T, Sara JD, Lerman B, Park JY,
+2133	2	83. He L, Zeng H, Li F, Feng J, Liu S, Liu J, Yu J, Mao J, Hong T,
+2143	2	85. Liang C, Wang Q-S, Yang X, Zhu D, Sun Y, Niu N, Yao J, Dong
+2148	2	86. Chen L-T, Xu T-T, Qiu Y-Q, Liu N-Y, Ke X-Y, Fang L, Yan J-P,
+2158	2	88. Sun J, Han W, Wu S, Jia S, Yan Z, Guo Y, Zhao Y, Zhou Y, Liu
+2166	2	89. Verdoia M, Nardin M, Gioscia R, Saghir Afifeh AM, Viglione
+2181	2	92. Liu W, Zhang L, Li S, Liu C, Tong Y, Fang H, Zhang R, Song
+2186	2	93. Wu X, Zhou Q, Chen Q, Li Q, Guo C, Tian G, Qie R, Han M,
+2196	2	95. Wadhwani NS, Patil VV, Mehendale SS, Wagh GN, Gupte SA,
+2210	2	98. Serrano NC, Quintero-Lesmes DC, Becerra-Bayona S, Guio E,
+2216	2	99. Pisal H, Dangat K, Randhir K, Khaire A, Mehendale S, Joshi
+2231	2	103. Gupta R, Kumari P, Pandey S, Joshi D, Sharma SP, Rai SK,
+2240	2	105. Sibrian-Vazquez M, Escobedo JO, Lim S, Samoei GK, Strongin
+2244	2	106. Elsherbiny NM, Sharma I, Kira D, Alhusban S, Samra YA, Jadeja
+2255	2	109. Bharathi Devi SR, Suganeswari G, Sharma T, Thennarasu
+2269	2	112. Bourgonje AR, Abdulle AE, Al-Rawas AM, Al-Maqbali M, Al-
+2275	2	113. Rehman T, Shabbir MA, Inam-Ur-Raheem M, Manzoor MF,
+2285	2	115. Aghayan SS, Farajzadeh A, Bagheri-Hosseinabadi Z, Fadaei H,
+2290	2	116. Scherer EBS, Loureiro SO, Vuaden FC, da Cunha AA, Schmitz
+2303	2	118. De Martinis M, Sirufo MM, Nocelli C, Fontanella L, Ginaldi
+2315	2	121. Smith AD, Refsum H, Bottiglieri T, Fenech M, Hooshmand B,
+2323	2	123. Ramsaransing GSM, Fokkema MR, Teelken A, Arutjunyan AV,
+2331	2	126. Lamberti P, Zoccolella S, Iliceto G, Armenise E, Fraddosio A,
+2350	2	131. Ho PI, Collins SC, Dhitavat S, Ortiz D, Ashline D, Rogers E,
+2354	2	132. Zhang C-E, Wei W, Liu Y-H, Peng J-H, Tian Q, Liu G-P, Zhang
+2363	2	134. Troen AM, Shea-Budgell M, Shukitt-Hale B, Smith DE, Selhub
+2371	2	136. Zhang C-E, Wei W, Liu Y-H, Peng J-H, Tian Q, Liu G-P, Zhang
+2383	2	139. Hasan T, Arora R, Bansal AK, Bhattacharya R, Sharma GS,
+2387	2	140. Yamashita EK, Teixeira BM, Yoshihara RN, Kuniyoshi RK,
+2392	2	141. Ferroni P, Palmirotta R, Martini F, Riondino S, Savonarola A,
+2396	2	142. Corona G, Toffoli G, Fabris M, Viel A, Zarrelli A, Donada C,
+2409	2	145. Gatt A, Makris A, Cladd H, Burcombe RJ, Smith JM, Cooper
+2426	2	149. Kumar A, Palfrey HA, Pathak R, Kadowitz PJ, Gettys TW, Mur-
+2457	2	156. Castiglia P, Sanna V, Azara A, De Miglio MR, Murgia L, Pira
+2463	2	157. Kouidhi S, Rouissi K, Khedhiri S, Ouerhani S, Cherif M, Benam-
+2472	2	159. Matsuo K, Hamajima N, Hirai T, Kato T, Inoue M, Takezaki T,
+2480	2	161. Galbiatti ALS, Ruiz MT, Biselli-Chicote PM, Raposo LS, Man-
+2503	2	166. Jadavji NM, Farr TD, Lips J, Khalil AA, Boehm-Sturm P,
+2537	2	174. Nilsson SE, Takkinen S, Johansson B, Dotevall G, Melander
+2542	2	175. Fallah S, Nouroozi V, Seifi M, Samadikuchaksaraei A, Agh-
+2571	2	181. Tawfik A, Mohamed R, Elsherbiny NM, DeAngelis MM, Bar -
+2575	2	182. Chang H-H, Lin DP-C, Chen Y-S, Liu H-J, Lin W, Tsao Z-J,
+2583	2	184. Tan AG, Mitchell P, Rochtchina E, Flood VM, Cumming RG,
+2588	2	185. Wang X, Qiao C, Wei L, Han Y, Cui N, Huang Z, Li Z, Zheng F,
+2599	2	188. Bharathselvi M, Biswas S, Raman R, Selvi R, Coral K, Naray -
+2608	2	190. Topouzis F, Harris A, Wilson MR, Koskosas A, Founti P, Yu
+2614	2	191. Tranchina L, Centofanti M, Oddone F, Tanga L, Roberti G,
+2619	2	192. Fallico M, Lotery AJ, Longo A, Avitabile T, Bonfiglio V, Russo
+2628	2	194. Boykin JV, Baylis C, Allen SK, Humphries YM, Shawler LG,
+2663	2	202. Flannigan KL, Agbor TA, Blackler RW, Kim JJ, Khan WI, Verdu
+2680	2	206. Mietus-Snyder ML, Shigenaga MK, Suh JH, Shenvi SV, Lal A,
+2689	2	208. White JM, Beal T, Arsenault JE, Okronipa H, Hinnouho G-M,
+2700	2	210. Sayyah-Melli M, Ghorbanihaghjo A, Alizadeh M, Kazemi-Shish-
+2721	2	214. Pai P-Y, Chou W-C, Chan S-H, Wu S-Y, Chen H-I, Li C-W, Hsieh
+2743	2	219. Morillas-Ruiz JM, Rubio-Perez JM, Albaladejo MD, Zafrilla
+2751	2	221. Pufulete M, Al-Ghnaniem R, Leather AJM, Appleby P, Gout S,
+2756	2	222. Aune D, Deneo-Pellegrini H, Ronco AL, Boffetta P, Acosta G,
+2760	2	223. Jasek K, Kubatka P, Samec M, Liskova A, Smejkal K, Bugos O,
+2771	2	226. Ibrahimagic OC, Smajlovic D, Dostovic Z, Pasic Z, Kunic S,
+2796	2	232. Polivka J Jr, Polivka J, Pesta M, Rohan V, Celedova L, Mahajani
+2805	2	234. Golubnitschaja O, Filep N, Yeghiazaryan K, Blom HJ, Hofmann-
+2810	2	235. Wang W, Yan Y, Guo Z, Hou H, Garcia M, Tan X, Anto EO,
+2820	2	237. Ponti G, Pastorino L, Manfredini M, Ozben T, Oliva G, Kaleci S,

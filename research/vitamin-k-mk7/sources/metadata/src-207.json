@@ -1,0 +1,21 @@
+{
+  "id": "src-207",
+  "title": "Vitamin K2 Protects Against Glucocorticoid-Induced Osteoporosis by Activating the NRF2/FSP1 Pathway to Inhibit Osteoblast Ferroptosis.",
+  "authors": [
+    "Zhang, Zhichao",
+    "Rong, Xing",
+    "Ren, Qinghua",
+    "Kou, Yuying",
+    "Guo, Jie",
+    "Li, Minqi"
+  ],
+  "doi": "10.2147/dddt.s554610",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41458254",
+  "provider": "pubmed",
+  "year": 2025,
+  "venue": "Drug design, development and therapy",
+  "citation_count": 0,
+  "abstract": "PURPOSE: Glucocorticoid-induced osteoporosis (GIOP) is the most common form of secondary osteoporosis, and its pathogenesis is closely associated with oxidative stress and impaired osteogenic differentiation. Vitamin K2 (VK2) has strong antioxidant properties and potent bone-forming effects, but its application in GIOP is still unclear. This study investigates the therapeutic potential of VK2 in GIOP and elucidates its underlying molecular mechanisms.\nMETHODS: Dexamethasone (DEX) was used to establish GIOP model within C57BL/6 mice. The bone mass was assessed using micro-computed tomography (micro-CT), hematoxylin and eosin (HE) staining, and Masson's trichrome staining in vivo. The osteoblast activity and the expression of osteogenic and ferroptosis-related markers were evaluated via immunohistochemistry (IHC), RT-qPCR, Western blotting, ALP and alizarin red staining. The mitochondrial function and lipid peroxidation of MC3T3-E1 cells were detected by flow cytometry, immunofluorescence and specific kits.\nRESULTS: VK2 partially prevented bone mass reduction and osteoblast activity inhibition in GIOP mice. VK2 not only reversed the DEX-induced reductions in Tb.N, BV/TV, and Tb.Th, but also significantly increased the expression of osteogenic markers, including OCN and ALP (P<0.05). Moreover, VK2 improved DEX-induced ferroptosis, oxidative stress and mitochondrial dysfunction in MC3T3-E1 cells and promoted osteogenic differentiation in vitro, which could be reversed by ferroptosis inducer (P<0.05). VK2 also increased the expression of NRF2, HO-1 and FSP1 which inhibited by DEX in vivo and in vitro (P<0.05). The inhibition of FSP1 and NRF2 reversed the osteogenic differentiation promotion and ferroptosis inhibition by VK2 (P<0.05).\nCONCLUSION: VK2 restores mitochondrial function and reduces lipid peroxidation and ferroptosis via the NRF2/FSP1 signaling pathway, thereby facilitating osteoblast differentiation and improving bone mass in GIOP mice. This finding not only provides a fresh perspective on the etiology of GIOP but also positions ferroptosis inhibition as a promising and innovative therapeutic strategy for this condition, with VK2 emerging as a potential candidate for clinical translation.",
+  "type": "academic",
+  "pdf_url": ""
+}

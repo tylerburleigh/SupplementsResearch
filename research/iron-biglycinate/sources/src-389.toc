@@ -1,0 +1,24 @@
+21	2	Nicole Stoffel
+77	2	Abstract
+78	2	Introduction
+155	2	Methods
+201	2	Statistical Analysis
+218	2	Results
+225	2	2018. Three women left the study after completing the first
+371	2	Discussion
+547	2	Acknowledgments
+553	2	References
+554	2	1. Kassebaum NJ, Jasrasaria R, Naghavi M, et
+558	2	2. Cogswell ME, Looker AC, Pfeiffer CM, et
+596	2	9. Tolkien Z, Stecher L, Mander AP , Pereira
+602	2	10. Kortman GA, Raffatellu M, Swinkels DW,
+607	2	11. Lund EK, Fairweather-Tait SJ, Wharf SG,
+612	2	12. Lund EK, Wharf SG, Fairweather-Tait SJ,
+626	2	15. Paganini D, Uyoga MA, Kortman GAM, et
+635	2	17. Stoffel NU, Cercamondi CI, Brittenham G,
+643	2	18. Schaap CC, Hendriks JC, Kortman GA, et
+656	2	21. Pena-Rosas JP, De-Regil LM, Gomez
+662	2	22. Pena-Rosas JP , Nesheim MC, Garcia-Casal
+673	2	24. Brown E, Bradley B, Wennesland R,
+693	2	28. Stoffel NU, Zeder C, Fort E, Swinkels DW,
+702	2	30. Schotten N, Laarakkers CM, Roelofs RW,

@@ -1,0 +1,29 @@
+26	2	Abstract
+60	2	Introduction
+122	2	Materials And Methods
+319	2	Results
+329	2	Nhanes
+523	2	Nhanes
+609	2	Discussion
+713	2	Cvd
+927	2	Cvd
+1074	2	Conclusions
+1137	2	Acknowledgements
+1140	2	Author Contributions
+1176	2	Competing Interests
+1194	2	Usa
+1197	2	References
+1201	2	2. Roth GA, Mensah GA, Johnson CO, Addolorato G, Ammirati E, Baddour LM,
+1211	2	4. Ho KL, Karwi QG, Connolly D, Pherwani S, Ketema EB, Ussher JR, Lopaschuk
+1222	2	8. Rapsomaniki E, Timmis A, George J, Pujades-Rodriguez M, Shah AD, Denaxas
+1254	2	17. Kosmas CE, Bousvarou MD, Kostara CE, Papakonstantinou EJ, Salamou E,
+1257	2	18. Oliveri A, Rebernick RJ, Kuppa A, Pant A, Chen Y, Du X, Cushing KC, Bell HN,
+1286	2	26. Zhang M, Shi Y, Zhou B, Huang Z, Zhao Z, Li C, Zhang X, Han G, Peng K, Li X,
+1303	2	31. Carter AR, Sanderson E, Hammerton G, Richmond RC, Davey Smith G, Heron
+1307	2	32. Liu Q, Zhang Y, Chen S, Xiang H, Ouyang J, Liu H, Zhang J, Chai Y, Zhan Z, Gao
+1324	2	37. Miller V, Jenkins DA, Dehghan M, Srichaikul K, Rangarajan S, Mente A, Mohan
+1329	2	38. Suzuki K, Hatzikotoulas K, Southam L, Taylor HJ, Yin X, Lorenz KM, Mandla R,
+1335	2	40. Won KB, Park EJ, Han D, Lee JH, Choi SY, Chun EJ, Park SH, Han HW, Sung J,
+1380	2	52. Nishikawa T, Kukidome D, Sonoda K, Fujisawa K, Matsuhisa T, Motoshima
+1388	2	55. Higashi Y, Oshima T, Sasaki N, Ishioka N, Nakano Y, Ozono R, Yoshimura M,
+1405	2	60. Li X, Chan JSK, Guan B, Peng S, Wu X, Lu X, Zhou J, Hui JMH, Lee YHA, Satti

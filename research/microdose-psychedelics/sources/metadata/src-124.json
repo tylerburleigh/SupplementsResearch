@@ -1,0 +1,17 @@
+{
+  "id": "src-124",
+  "title": "Cardiac Valvular Incompetence Associated With Selective Serotonin Reuptake Inhibitors (SSRIs): A Disproportionality and Risk Factor Analysis From Global Safety Reports",
+  "authors": [
+    "Chan, Adrian Chin Yan",
+    "Han, Yue"
+  ],
+  "doi": "10.7759/cureus.101519",
+  "url": "https://www.semanticscholar.org/paper/825f60592010fc1e04b666665336d06e54909a6b",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "Cureus",
+  "citation_count": 0,
+  "abstract": "Background Selective serotonin reuptake inhibitors (SSRIs) are among the most prescribed antidepressants because of their efficacy and safety. However, new clinical and pharmacological evidence have raised concern about their potential association with valvular heart disease (VHD), which may be mediated by inhibition of the serotonin transporter (SERT) and activation of the 5-hydroxytryptamine receptor 2B (5-HT2B receptor). Methods In this study, we utilized VigiBase, the World Health Organization's global pharmacovigilance database, to examine potential safety signals related to cardiac valvular incompetence among users of six SSRIs: sertraline, paroxetine, fluoxetine, fluvoxamine, citalopram, and escitalopram. Disproportionality analyses using Information Component (IC) statistics were performed, and complementary logistic regression analyses were used to identify risk factors. Results Disproportionality analyses identified significant safety signals for paroxetine and sertraline, particularly for pulmonary and tricuspid valve incompetence. Logistic regression analyses demonstrated that additional cardiac comorbidities and concomitant use of medications associated with serotonin dysregulation and valvopathy were independent risk factors for valvopathy. In the unadjusted analysis, the presence of additional cardiac comorbidities (OR 10.498, 95% CI 5.107-21.579; p < 0.0001) and concomitant use of medications associated with serotonin dysregulation and valvopathy (OR 1.956, 95% CI 1.025-3.732; p = 0.0419) were associated with increased odds of cardiac valvular incompetence. These associations remained significant in the adjusted model for cardiac comorbidities (OR 10.28, 95% CI 5.007-21.109; p < 0.0001) and concomitant medications (OR 2.011, 95% CI 1.055-3.833; p = 0.0337), indicating robustness of findings after covariate adjustment. Conclusions The present global pharmacovigilance analysis has revealed safety signals indicating a potential association between three SSRIs (paroxetine, sertraline, and fluoxetine) and cardiac valvular incompetence. Notably, paroxetine and sertraline demonstrated the strongest signal strength. Adjusted logistic regression analysis identified pre-existing cardiac comorbidities and concomitant medications for which there is evidence of serotonin dysregulation and valvopathy as independent predictors of valvopathy. Prospective cohort studies, mechanistic research, and real-world evidence are essential to substantiate these pharmacovigilance signals and to elucidate potential pathophysiological mechanisms.",
+  "type": "academic",
+  "pdf_url": ""
+}

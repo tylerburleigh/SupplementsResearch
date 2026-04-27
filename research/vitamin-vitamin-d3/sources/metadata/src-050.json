@@ -1,0 +1,35 @@
+{
+  "id": "src-050",
+  "title": "Vitamin D supplementation and total cancer incidence and mortality by daily vs. infrequent large-bolus dosing strategies: a meta-analysis of randomised controlled trials",
+  "authors": [
+    "Keum, N.",
+    "Chen, Q-Y.",
+    "Lee, D. H.",
+    "Manson, J. E.",
+    "Giovannucci, E."
+  ],
+  "year": 2022,
+  "abstract": "",
+  "doi": "10.1038/s41416-022-01850-2",
+  "url": "https://doi.org/10.1038/s41416-022-01850-2",
+  "pdf_url": "",
+  "venue": "British Journal of Cancer",
+  "citation_count": 37,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T20:53:53.879345+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-050.md",
+  "quality_details": {
+    "content_length": 17687,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

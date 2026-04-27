@@ -1,0 +1,25 @@
+{
+  "id": "src-113",
+  "title": "Poor Vitamin K Status Is Associated With Low Bone Mineral Density and Increased Fracture Risk in End-Stage Renal Disease",
+  "authors": [
+    "Evenepoel, Pieter",
+    "Claes, Kathleen",
+    "Meijers, Björn",
+    "Laurent, Michaël R.",
+    "Bammens, Bert",
+    "Naesens, Maarten",
+    "Sprangers, Ben",
+    "Pottel, Hans",
+    "Cavalier, Étienne",
+    "Kuypers, Dirk"
+  ],
+  "doi": "10.1002/jbmr.3608",
+  "url": "https://openalex.org/W2901208719",
+  "provider": "openalex",
+  "year": 2018,
+  "venue": "Journal of Bone and Mineral Research",
+  "citation_count": 62,
+  "abstract": "Chronic kidney disease and osteoporosis are major public health problems associated with an aging population. Vitamin K insufficiency is prevalent among patients with end-stage renal disease (ESRD). Preliminary data indicate that poor vitamin K status may compromise bone health and that increased inflammation may be in the causal pathway. We performed an ancillary analysis of data collected in the frame of prospective observational cohort studies exploring various aspects of bone health in de novo renal transplant recipients to investigate the association between vitamin K status, inflammation, bone mineral density, and incident clinical fractures. Parameters of mineral metabolism (including biointact PTH and FGF23, sclerostin, calcidiol, calcitriol) and inflammation (CRP and IL-6), osteoprotegerin, bone turnover markers (P1NP, BsAP, and TRAP5B), and dephosphorylated-uncarboxylated Matrix Gla Protein (dp-ucMGP) were assessed on blood samples collected immediately prior to kidney transplantation in 468 patients. Areal bone mineral density (aBMD) was measured at the lumbar spine and femoral neck by dual-energy X-ray absorptiometry within 14 days posttransplant. Poor vitamin K status, defined by dp-ucMGP >500 nmol/L, was highly prevalent (90%). High dp-ucMGP levels independently associated with elevated inflammatory markers and low aBMD. No associations were observed between vitamin K status and bone turnover markers. During a median follow-up of 5.1 years, 33 patients sustained a fragility fracture. In Cox-proportional hazards analysis, a dp-ucMGP above median associated with incident fractures, independent of classical determinants, including age, gender, history of fracture, and aBMD (HR 2.21; 95% CI, 1.00 to 4.91; p < 0.05). In conclusion, poor vitamin K status associates with inflammation and low aBMD in patients with ESRD and confers an increased risk of incident fractures in de novo renal transplant recipients. © 2018 American Society for Bone and Mineral Research.",
+  "type": "academic",
+  "pdf_url": "https://lirias.kuleuven.be/handle/123456789/629611"
+}

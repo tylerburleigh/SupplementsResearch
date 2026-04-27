@@ -1,0 +1,18 @@
+3	2	Systematic Review
+23	2	Abstract
+120	2	Introduction
+165	2	Methods
+224	2	Revised
+244	2	Results
+302	2	Cvd
+550	2	Discussion
+591	2	Conclusion
+616	2	References
+623	2	2. Hershberger RE, Hedges DJ, Morales A: Dilated cardiomyopathy: The complexity
+626	2	3. Ware JS, Cook SA: Role of titin in cardiomyopathy: From DNA variants to
+629	2	4. McNally EM, Mestroni L: Dilated cardiomyopathy: Genetic determinants and
+696	2	21. Azuma J, Sawamura A, Awata N: Usefulness of taurine in chronic congestive
+704	2	23. Ahmadian M, Dabidi Roshan V, Ashourpore E: Taurine Supplementation
+712	2	25. Azuma J: Long-term effect of taurine in congestive heart failure:
+749	2	3 Faculty of Medicine and Health, The University of Sydney, Sydney, Australia
+753	2	6 Faculty of Medicine and Health, The University of Sydney, Sydney, Australia

@@ -1,0 +1,21 @@
+{
+  "id": "src-493",
+  "title": "Japanese diet and survival time: The Ohsaki Cohort 1994 study.",
+  "authors": [
+    "Abe, Saho",
+    "Zhang, Shu",
+    "Tomata, Yasutake",
+    "Tsuduki, Tsuyoshi",
+    "Sugawara, Yumi",
+    "Tsuji, Ichiro"
+  ],
+  "doi": "10.1016/j.clnu.2019.02.010",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/30846323",
+  "provider": "pubmed",
+  "year": 2020,
+  "venue": "Clinical nutrition (Edinburgh, Scotland)",
+  "citation_count": 0,
+  "abstract": "BACKGROUND & AIMS: Although it has been suggested that the Japanese diet contributes to the longevity of the Japanese population, no study has examined the association between the Japanese diet and survival time. The present study investigated the association between the Japanese diet and survival time.\nMETHODS: We analyzed 20-year follow-up data from a cohort study of 14,764 Japanese men and women aged 40-79 years. At the baseline survey in 1994, we collected dietary information using a validated 40-item food frequency questionnaire. Adherence to a Japanese diet consisting of nine components (rice, miso soup, seaweeds, pickles, green and yellow vegetables, fish, green tea, beef and pork, and coffee) was assessed in terms of a Japanese dietary index (JDI) score, the total score ranging from 0 to 9. Cox proportional hazards model and Laplace regression analysis were used to estimate the hazard ratios (HRs) and differences in median age at death (50th percentile differences - PDs in age at death) with 95% confidence intervals (CIs) according to the quartiles of the JDI score.\nRESULTS: During the follow-up period, we documented 4,619 deaths. We observed that a higher JDI score was associated with a lower risk of mortality and longer survival time: In comparison to participants in the lowest JDI score quartile (0-4), the multivariate-adjusted HR (95% CI) of all-cause mortality was 0.91 (0.83-0.99) and the multivariate-adjusted 50th PD in age at death (95% CI) was 10.2 (3.2-17.2) months longer for those in the highest quartile (7-9).\nCONCLUSIONS: Adherence to a Japanese diet is associated with a longer survival time.",
+  "type": "academic",
+  "pdf_url": ""
+}

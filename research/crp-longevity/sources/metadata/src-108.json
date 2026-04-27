@@ -1,0 +1,19 @@
+{
+  "id": "src-108",
+  "title": "Dietary regulation in health and disease",
+  "authors": [
+    "Wu, Qi",
+    "Gao, Zhijie",
+    "Yu, Xin",
+    "Wang, Ping"
+  ],
+  "doi": "10.1038/s41392-022-01104-w",
+  "url": "https://openalex.org/W4286697069",
+  "provider": "openalex",
+  "year": 2022,
+  "venue": "Signal Transduction and Targeted Therapy",
+  "citation_count": 183,
+  "abstract": "Nutriments have been deemed to impact all physiopathologic processes. Recent evidences in molecular medicine and clinical trials have demonstrated that adequate nutrition treatments are the golden criterion for extending healthspan and delaying ageing in various species such as yeast, drosophila, rodent, primate and human. It emerges to develop the precision-nutrition therapeutics to slow age-related biological processes and treat diverse diseases. However, the nutritive advantages frequently diversify among individuals as well as organs and tissues, which brings challenges in this field. In this review, we summarize the different forms of dietary interventions extensively prescribed for healthspan improvement and disease treatment in pre-clinical or clinical. We discuss the nutrient-mediated mechanisms including metabolic regulators, nutritive metabolism pathways, epigenetic mechanisms and circadian clocks. Comparably, we describe diet-responsive effectors by which dietary interventions influence the endocrinic, immunological, microbial and neural states responsible for improving health and preventing multiple diseases in humans. Furthermore, we expatiate diverse patterns of dietotheroapies, including different fasting, calorie-restricted diet, ketogenic diet, high-fibre diet, plants-based diet, protein restriction diet or diet with specific reduction in amino acids or microelements, potentially affecting the health and morbid states. Altogether, we emphasize the profound nutritional therapy, and highlight the crosstalk among explored mechanisms and critical factors to develop individualized therapeutic approaches and predictors.",
+  "type": "academic",
+  "pdf_url": "https://www.nature.com/articles/s41392-022-01104-w.pdf"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "src-128",
+  "title": "The Plasma NAD\n                    <sup>+</sup>\n                    Metabolome Is Dysregulated in “Normal” Aging",
+  "authors": [
+    "Clement, James",
+    "Wong, Matthew",
+    "Poljak, Anne",
+    "Sachdev, Perminder",
+    "Braidy, Nady"
+  ],
+  "year": 2019,
+  "abstract": "Nicotinamide adenine dinucleotide (NAD\n+\n) is an essential pyridine nucleotide that serves as an electron carrier in cellular metabolism and plays a crucial role in the maintenance of balanced redox homeostasis. Quantification of NAD\n+\n:NADH and NADP\n+\n:NADPH ratios are pivotal to a wide variety of cellular processes, including intracellular secondary messenger signaling by CD38 glycohydrolases, DNA repair by poly(adenosine diphosphate ribose) polymerase (PARP), epigenetic regulation of gene expression by NAD-dependent histone deacetylase enzymes known as sirtuins, and regulation of the oxidative pentose phosphate pathway. We quantified changes in the NAD\n+\nmetabolome in plasma samples collected from consenting healthy human subjects across a wide age range (20–87 years) using liquid chromatography coupled to tandem mass spectrometry. Our data show a significant decline in the plasma levels of NAD\n+\n, NADP\n+\n, and other important metabolites such as nicotinic acid adenine dinucleotide (NAAD) with age. However, an age-related increase in the reduced form of NAD\n+\nand NADP\n+\n—NADH and NADPH—and nicotinamide (NAM), N-methyl-nicotinamide (MeNAM), and the products of adenosine diphosphoribosylation, including adenosine diphosphate ribose (ADPR) was also reported. Whereas, plasma levels of nicotinic acid (NA), nicotinamide mononucleotide (NMN), and nicotinic acid mononucleotide (NAMN) showed no statistically significant changes across age groups. Taken together, our data cumulatively suggest that age-related impairments are associated with corresponding alterations in the extracellular plasma NAD\n+\nmetabolome. Our future research will seek to elucidate the role of modulating NAD\n+\nmetabolites in the treatment and prevention of age-related diseases.",
+  "doi": "10.1089/rej.2018.2077",
+  "url": "https://doi.org/10.1089/rej.2018.2077",
+  "pdf_url": "",
+  "venue": "Rejuvenation Research",
+  "citation_count": 184,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-23T11:27:33.424591+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "src-317",
+  "title": "Characterization of aminoacrylate intermediates of pyridoxal-5'-phosphate dependent enzymes.",
+  "authors": [
+    "Phillips, Robert S",
+    "Bauer, Olivia"
+  ],
+  "doi": "10.1016/bs.mie.2023.03.003",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37245902",
+  "provider": "pubmed",
+  "year": 2023,
+  "venue": "Methods in enzymology",
+  "citation_count": 0,
+  "abstract": "Pyridoxal-5'-phosphate (PLP) Schiff's bases of 2-aminoacrylate are intermediates in β-elimination and β-substitution reaction of PLP-dependent enzymes. These enzymes are found in two major families, the α-, or aminotransferase, superfamily, and the β-family. While the α-family enzymes primarily catalyze β-eliminations, the β-family enzymes catalyze both β-elimination and β-substitution reactions. Tyrosine phenol-lyase (TPL), which catalyzes the reversible elimination of phenol from l-tyrosine, is an example of an α-family enzyme. Tryptophan synthase catalyzes the irreversible formation of l-tryptophan from l-serine and indole, and is an example of a β-family enzyme. The identification and characterization of aminoacrylate intermediates in the reactions of both of these enzymes is discussed. The use of UV-visible absorption and fluorescence spectroscopy, X-ray and neutron crystallography, and NMR spectroscopy to identify aminoacrylate intermediates in these and other PLP enzymes is presented.",
+  "type": "academic",
+  "pdf_url": ""
+}

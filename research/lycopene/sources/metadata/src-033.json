@@ -1,0 +1,31 @@
+{
+  "id": "src-033",
+  "title": "Lycopene/Tomato Consumption and the Risk of Prostate Cancer: A Systematic Review and Meta-Analysis of Prospective Studies",
+  "authors": [
+    "CHEN, Jinyao",
+    "SONG, Yang",
+    "ZHANG, Lishi"
+  ],
+  "year": 2013,
+  "abstract": "",
+  "doi": "10.3177/jnsv.59.213",
+  "url": "https://doi.org/10.3177/jnsv.59.213",
+  "pdf_url": "",
+  "venue": "Journal of Nutritional Science and Vitaminology",
+  "citation_count": 79,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-19T18:32:09.626481+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-033.md",
+  "quality_details": {
+    "content_length": 43395,
+    "alpha_ratio": 0.715,
+    "sentence_count": 366,
+    "reasons": []
+  }
+}

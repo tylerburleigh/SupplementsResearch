@@ -1,0 +1,19 @@
+{
+  "id": "src-225",
+  "title": "Maternal Obesity, Inflammation, and Developmental Programming",
+  "authors": [
+    "Segovia, Stephanie A.",
+    "Vickers, Mark H.",
+    "Gray, Clint",
+    "Reynolds, Clare M."
+  ],
+  "doi": "10.1155/2014/418975",
+  "url": "https://openalex.org/W2101220400",
+  "provider": "openalex",
+  "year": 2014,
+  "venue": "BioMed Research International",
+  "citation_count": 211,
+  "abstract": "The prevalence of obesity, especially in women of child-bearing age, is a global health concern. In addition to increasing the immediate risk of gestational complications, there is accumulating evidence that maternal obesity also has long-term consequences for the offspring. The concept of developmental programming describes the process in which an environmental stimulus, including altered nutrition, during critical periods of development can program alterations in organogenesis, tissue development, and metabolism, predisposing offspring to obesity and metabolic and cardiovascular disorders in later life. Although the mechanisms underpinning programming of metabolic disorders remain poorly defined, it has become increasingly clear that low-grade inflammation is associated with obesity and its comorbidities. This review will discuss maternal metainflammation as a mediator of programming in insulin sensitive tissues in offspring. Use of nutritional anti-inflammatories in pregnancy including omega 3 fatty acids, resveratrol, curcumin, and taurine may provide beneficial intervention strategies to ameliorate maternal obesity-induced programming.",
+  "type": "academic",
+  "pdf_url": "https://downloads.hindawi.com/journals/bmri/2014/418975.pdf"
+}

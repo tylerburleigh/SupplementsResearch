@@ -1,0 +1,19 @@
+{
+  "id": "src-385",
+  "title": "B Vitamins: Functions and Uses in Medicine",
+  "authors": [
+    "Hanna, Mary",
+    "Jaqua, Ecler",
+    "Nguyen, Van Long",
+    "Clay, Jeremy"
+  ],
+  "doi": "10.7812/tpp/21.204",
+  "url": "https://openalex.org/W4283028243",
+  "provider": "openalex",
+  "year": 2022,
+  "venue": "The Permanente Journal",
+  "citation_count": 187,
+  "abstract": "B vitamins are a group of 8 water-soluble vitamins. The body does not store them, so they need to be replaced daily. B vitamins are found in animal proteins, dairy products, leafy green vegetables, and beans. Overall, their function can generally be divided into catabolic metabolism, leading to energy production, and anabolic metabolism, resulting in bioactive molecules. They are critical cofactors for axonal transport, synthesis of neurotransmitters, and many cellular metabolic pathways. B vitamins are cofactors for many essential enzymes involved in the biosynthesis of RNA and DNA. B vitamin deficiencies have been considered as etiological factors in the development of various neurologic disorders and a broad spectrum of pathological states. Reductions in food intake and absorption efficiency in some populations, including the geriatric population, may warrant attention to their dietary B vitamin levels. Most B vitamins are generally safe even at intake levels reached with fortified food or supplements.",
+  "type": "academic",
+  "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/9662251"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "src-343",
+  "title": "Identification and experimental validation of ferroptosis-related gene lactotransferrin in age-related hearing loss",
+  "authors": [
+    "Zeng, Chaojun",
+    "Gu, Xi",
+    "Chen, Yuqing",
+    "Lin, Yanchun",
+    "Chen, Junying",
+    "Chen, Zhifeng",
+    "Chen, Chenyu",
+    "Yao, Guangnan",
+    "Lin, Chang"
+  ],
+  "doi": "10.3389/fnagi.2024.1309115",
+  "url": "https://www.semanticscholar.org/paper/e54918a7ae5d439f977c651207d510068817b264",
+  "provider": "semantic_scholar",
+  "year": 2024,
+  "venue": "Frontiers in Aging Neuroscience",
+  "citation_count": 10,
+  "abstract": "Objective To reveal the relationship between ARHL and ferroptosis and screen ferroptosis-related genes (FRGs) in ARHL. Methods Bioinformatics were used to analyze the hub genes and molecular mechanism of ferroptosis in the aging cochleae. Senescence β-galactosidase staining, iron content detection, and micro malondialdehyde (MDA) assay kits were used to measure β-galactosidase activity, and expression of Fe2+ and MDA, respectively. Fluorescence microscope was used for immunofluorescence assay of hub genes. Western blot was used to verify the expression of hub genes in HEI-OC1 cells, cochlear explants, and cochleae of C57BL/6J mice. Data were expressed as mean ± SD of at least three independent experiments. Results The analysis of bioinformatics confirmed that lactotransferrin (LTF) is the hub gene and CEBPA-miR-130b-LTF network is the molecular mechanism for cochlear ferroptosis. Compared with the control group, the experiments proved that the indicators of ferroptosis, including Fe2+, MDA, and LTF were differentially expressed in aging HEI-OC1 cells, aging cochlear explants, and aging cochleae. Conclusion These results demonstrate that ferroptosis plays an important role in ARHL, and LTF is a potential therapeutic target for ARHL via regulating cochlear ferroptosis.",
+  "type": "academic",
+  "pdf_url": "https://www.frontiersin.org/articles/10.3389/fnagi.2024.1309115/pdf?isPublishedV2=False"
+}

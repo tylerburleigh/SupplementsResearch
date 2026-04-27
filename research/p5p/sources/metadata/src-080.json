@@ -1,0 +1,18 @@
+{
+  "id": "src-080",
+  "title": "The Influence of Nutrients on Inflammatory Bowel Diseases",
+  "authors": [
+    "Jarmakiewicz-Czaja, Sara",
+    "Piątek, Dominika",
+    "Filip, Rafał"
+  ],
+  "doi": "10.1155/2020/2894169",
+  "url": "https://openalex.org/W3007062597",
+  "provider": "openalex",
+  "year": 2020,
+  "venue": "Journal of Nutrition and Metabolism",
+  "citation_count": 41,
+  "abstract": "Inflammatory bowel diseases is a group of inflammatory diseases. The pathogenesis of diseases is multifactorial, which may include a Western-type diet. Diseases occur with periods of recurrence and remission. Many factors can have a beneficial effect on reducing the frequency of recurrence and prolonging the remission period. Such ingredients include dietary fibre, mono- and polyunsaturated fatty acids, certain vitamins (D, C, and E), flavonoids, and minerals such as zinc and selenium. Properly selected nutrition might be an integral part of the treatment of patients with Crohn's disease or ulcerative colitis.",
+  "type": "academic",
+  "pdf_url": "https://downloads.hindawi.com/journals/jnme/2020/2894169.pdf"
+}

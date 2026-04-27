@@ -1,0 +1,29 @@
+{
+  "id": "src-008",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://www.nutraingredients.com/Article/2025/11/17/entrenching-ergothioneine-as-longevity-vitamin",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-20T00:12:20.822944+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-008.md",
+  "quality_details": {
+    "content_length": 9223,
+    "alpha_ratio": 0.834,
+    "sentence_count": 52,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

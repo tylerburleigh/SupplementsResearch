@@ -1,0 +1,32 @@
+{
+  "id": "src-037",
+  "title": "<i>Hericium erinaceus</i>\n                    : A possible future therapeutic treatment for the prevention and delayed progression of Alzheimer’s disease? – A narrative review",
+  "authors": [
+    "Cornford, Nisha",
+    "Charnley, Margaret"
+  ],
+  "year": 2025,
+  "abstract": "Abstract\n\nAt present, the treatment of Alzheimer’s disease involves only symptomatic medications which have continually demonstrated little efficacy, primarily due to the presence of biological barriers. Despite efforts, researchers have yet to discover a therapeutic treatment that delays neurodegenerative progression or restores associated Alzheimer neuropathological processes. For centuries,\nHericium erinaceus\n(HE) has been used predominantly in Asian countries for its culinary and medicinal purposes; however, this mushroom has not yet been utilised in western pharmacology. This review systematically investigates evidence pertaining to the use of HE as a potential future therapeutic treatment for the prevention and delayed progression of Alzheimer’s disease, by highlighting any fundamental neurotrophic and neuroprotective properties. In total, three human clinical trials and thirteen animal-model studies were included in review. The use of HE demonstrated positive significant differences in results obtained from behavioural, histological and biochemical assessments from both human clinical trials and animal model studies accentuating its utility for the improvement of cognitive function. In addition, erinacine-A-enriched HE appears to demonstrate the highest bioactive potency of all HE extracted compounds, providing the greatest effects while also showing transportability ease across biological barriers. In conclusion, evidence suggests that intake of HE may be an appropriate and relevant future therapeutic treatment for the prevention and delayed progression of Alzheimer’s disease; however, continued research is necessary to provide further significant evidence of this relationship, through an increased quantity of human clinical trials.",
+  "doi": "10.1017/s0954422425000058",
+  "url": "https://doi.org/10.1017/s0954422425000058",
+  "pdf_url": "",
+  "venue": "Nutrition Research Reviews",
+  "citation_count": 3,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-23T15:34:15.117383+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-037.md",
+  "quality_details": {
+    "content_length": 91661,
+    "alpha_ratio": 0.771,
+    "sentence_count": 880,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

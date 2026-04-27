@@ -1,0 +1,22 @@
+{
+  "id": "src-189",
+  "title": "Rational engineering of the lccβ T. versicolor laccase for the mediator-less oxidation of large polycyclic aromatic hydrocarbons.",
+  "authors": [
+    "Chiadò, Alessandro",
+    "Bosco, Francesca",
+    "Bardelli, Marco",
+    "Simonelli, Luca",
+    "Pedotti, Mattia",
+    "Marmo, Luca",
+    "Varani, Luca"
+  ],
+  "doi": "10.1016/j.csbj.2021.03.017",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/33995914",
+  "provider": "pubmed",
+  "year": 2021,
+  "venue": "Computational and structural biotechnology journal",
+  "citation_count": 0,
+  "abstract": "Laccases are among the most sought-after biocatalyst for many green applications, from biosensors to pollution remedial, because they simply need oxygen from the air to oxidize and degrade a broad range of substrates. However, natural laccases cannot process large and toxic polycyclic aromatic hydrocarbons (PAHs) except in the presence of small molecules, called mediators, which facilitate the reaction but are inconvenient for practical on-field applications. Here we exploited structure-based protein engineering to generate rationally modified fungal laccases with increased ability to process bulky PAHs even in a mediator-less reaction. Computational simulations were used to estimate the impact of mutations in the enzymatic binding pocket on the ability to bind and oxidize a selected set of organic compounds. The most promising mutants were produced and their activity was evaluated by biochemical assays with phenolic and non-phenolic substrates. Mutant laccases engineered with a larger binding pocket showed enhanced activity (up to ~ 300% at pH 3.0) in a wider range of pH values (3.0-8.0) in comparison to the wild type enzyme. In contrast to the natural laccase, these mutants efficiently degraded bulky and harmful triphenylmethane dyes such as Ethyl Green (up to 91.64% after 24 h), even in the absence of mediators, with positive implications for the use of such modified laccases in many green chemistry processes (e.g. wastewater treatment).",
+  "type": "academic",
+  "pdf_url": ""
+}

@@ -1,0 +1,18 @@
+{
+  "id": "src-101",
+  "title": "Animal and plant protein usual intakes are not adversely associated with all-cause, cardiovascular disease-, or cancer-related mortality risk: an NHANES III analysis.",
+  "authors": [
+    "Papanikolaou, Yanni",
+    "Phillips, Stuart M",
+    "Fulgoni, Victor L"
+  ],
+  "doi": "10.1139/apnm-2023-0594",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40418846",
+  "provider": "pubmed",
+  "year": 2025,
+  "venue": "Applied physiology, nutrition, and metabolism = Physiologie appliquee, nutrition et metabolisme",
+  "citation_count": 0,
+  "abstract": "We used data from NHANES 1988-1994 to examine associations between animal and plant protein usual intakes and IGF-1 concentration with mortality from all causes, cancer, and cardiovascular disease (CVD). Adult data (N = 15 937) were linked with mortality data (N = 3843 events) through 2006. Usual intakes for protein were estimated using the multivariate Markov Chain Monte Carlo method. Hazard ratio (HR) models were fit for mortality types (all-cause, cancer, and CVD) with protein intake measures (per 1 g increase) and IGF-1 concentration (N = 5753). There were no associations between animal protein (HR = 0.99; 95% confidence interval (CI): 0.98-1.01; P = 0.29) or plant protein (HR = 1.02; 95% CI: 0.95-1.10; P = 0.55) intake for all-cause mortality. Similar results were seen for CVD mortality and animal protein (HR = 1.02; 95% CI: 0.99-1.04; P = 0.14) and plant protein (HR = 1.01; 95% CI: 0.91-1.13; P = 0.81). There was an (inverse) association between cancer mortality and animal protein (HR = 0.95; 95% CI: 0.91-1.00; P = 0.04) but no relationship with plant protein (HR = 1.08; 95% CI: 0.93-1.24; P = 0.30). We found no association between concentrations of IGF-1 (N = 5753) for all-cause mortality (HR = 1.00; 95% CI: 0.99-1.00; P = 0.81), CVD mortality (HR = 0.99; 95% CI: 0.99-1.00; P = 0.53) or cancer mortality (HR = 1.00; 95% CI: 0.99-1.00; P = 0.76). Our results remained unchanged when the sample was separated into younger (<65 years) and older (>65, or between 50 and 65 years) cohorts. Our data do not support the thesis that source-specific protein intake is associated with greater mortality risk; however, animal protein may be mildly protective for cancer mortality. Mortality risk was not associated with circulating IGF-1 in any age group.",
+  "type": "academic",
+  "pdf_url": ""
+}

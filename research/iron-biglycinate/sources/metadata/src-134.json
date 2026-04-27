@@ -1,0 +1,17 @@
+{
+  "id": "src-134",
+  "title": "Circulating Klotho and mortality patterns among US cancer survivors: A cohort study",
+  "authors": [
+    "Nong, Jingying",
+    "Zhang, Yi"
+  ],
+  "doi": "10.1097/md.0000000000043471",
+  "url": "https://www.semanticscholar.org/paper/cd1baedfdb318de573ea207f273af87140fc3e51",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "Medicine",
+  "citation_count": 0,
+  "abstract": "Klotho, a longevity hormone, exerts diverse anticancer activities. However, evidence regarding the association between serum Klotho and mortalities among cancer survivors is lacking. We examined the association between serum Klotho and the risks of all-cause and cancer mortalities among 1602 cancer adults from the National Health and Nutrition Examination Survey (NHANES) (2007–2016) using multivariate Cox proportional hazard models. The nonlinear relationship was determined using the likelihood ratios test, and the inflection points and 2-piecewise Cox proportional hazards regression models were computed. After a median follow-up period of 84.0 months, U-shaped associations between circulating Klotho and all-cause and cancer mortality were observed (P for nonlinear = .04, .02, respectively), with identified inflection points (pg/mL) of 765.5 for all-cause and 767.6 for cancer mortality. Klotho below these thresholds was inversely associated with all-cause mortality (Hazard ratio, HR, 95% confidence interval, CI) (0.72, 0.53–0.98) and cancer mortality (0.61, 0.39–0.96); Klotho above the threshold showed a trend of positive associated with cancer mortality (1.22, 0.99–1.50). Effect modification of age was apparent (P interaction .007); Klotho was associated positively with cancer mortality risk among participants aged under 60 (1.50, 1.09–2.05). The U-shaped associations between serum Klotho and all-cause and cancer mortality indicate that maintaining an ideal Klotho level in cancer patients could reduce mortality risks. This provides insight into the knowledge of nonlinearity relationship between serum Klotho, a longevity hormone, and survival outcomes in cancer populations.",
+  "type": "academic",
+  "pdf_url": ""
+}

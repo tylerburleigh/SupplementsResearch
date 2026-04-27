@@ -1,0 +1,19 @@
+{
+  "id": "src-286",
+  "title": "Association of homocysteine with type 2 diabetes: a meta-analysis implementing Mendelian randomization approach",
+  "authors": [
+    "Huang, Tao",
+    "Ren, Jingjing",
+    "Huang, Jinyan",
+    "Li, Duo"
+  ],
+  "doi": "10.1186/1471-2164-14-867",
+  "url": "https://openalex.org/W2161449122",
+  "provider": "openalex",
+  "year": 2013,
+  "venue": "BMC Genomics",
+  "citation_count": 146,
+  "abstract": "Our findings provided strong evidence on the causal association of Hcy level with the development of T2DM.",
+  "type": "academic",
+  "pdf_url": "https://bmcgenomics.biomedcentral.com/counter/pdf/10.1186/1471-2164-14-867"
+}

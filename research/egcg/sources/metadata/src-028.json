@@ -1,0 +1,30 @@
+{
+  "id": "src-028",
+  "title": "Combining mHealth Technology and Pharmacotherapy to Improve Mental Health Outcomes and Reduce Human Rights Abuses in West Africa: Intervention Field Trial",
+  "authors": [
+    "Ben-Zeev, Dror",
+    "Larsen, Anna",
+    "Attah, D.",
+    "Obeng, Kwadwo",
+    "Beaulieu, Alexa",
+    "Asafo, Seth M",
+    "Gavi, J. K.",
+    "Kadakia, Arya",
+    "Sottie, Emmanuel Quame",
+    "Ohene, S.",
+    "Kola, Lola",
+    "Hallgren, K.",
+    "Snyder, Jaime",
+    "Collins, Pamela Y.",
+    "Ofori-Atta, A."
+  ],
+  "doi": "10.2196/53096",
+  "url": "https://www.semanticscholar.org/paper/f756447c0d836f88546a65e2482854325baef95a",
+  "provider": "semantic_scholar",
+  "year": 2023,
+  "venue": "JMIR Mental Health",
+  "citation_count": 5,
+  "abstract": "Abstract Background In West Africa, healers greatly outnumber trained mental health professionals. People with serious mental illness (SMI) are often seen by healers in “prayer camps” where they may also experience human rights abuses. We developed “M&M,” an 8-week-long dual-pronged intervention involving (1) a smartphone-delivered toolkit designed to expose healers to brief psychosocial interventions and encourage them to preserve human rights (M-Healer app), and (2) a visiting nurse who provides medications to their patients (Mobile Nurse). Objective We examined the feasibility, acceptability, safety, and preliminary effectiveness of the M&M intervention in real-world prayer camp settings. Methods We conducted a single-arm field trial of M&M with people with SMI and healers at a prayer camp in Ghana. Healers were provided smartphones with M-Healer installed and were trained by practice facilitators to use the digital toolkit. In parallel, a study nurse visited their prayer camp to administer medications to their patients. Clinical assessors administered study measures to participants with SMI at pretreatment (baseline), midtreatment (4 weeks) and post treatment (8 weeks). Results Seventeen participants were enrolled and most (n=15, 88.3%) were retained. Participants had an average age of 44.3 (SD 13.9) years and 59% (n=10) of them were male. Fourteen (82%) participants had a diagnosis of schizophrenia and 2 (18%) were diagnosed with bipolar disorder. Four healers were trained to use M-Healer. On average, they self-initiated app use 31.9 (SD 28.9) times per week. Healers watched an average of 19.1 (SD 21.2) videos, responded to 1.5 (SD 2.4) prompts, and used the app for 5.3 (SD 2.7) days weekly. Pre-post analyses revealed a significant and clinically meaningful reduction in psychiatric symptom severity (Brief Psychiatric Rating Scale score range 52.3 to 30.9; Brief Symptom Inventory score range 76.4 to 27.9), psychological distress (Talbieh Brief Distress Inventory score range 37.7 to 16.9), shame (Other as Shamer Scale score range 41.9 to 28.5), and stigma (Brief Internalized Stigma of Mental Illness Scale score range 11.8 to 10.3). We recorded a significant reduction in days chained (1.6 to 0.5) and a promising trend for reduction in the days of forced fasting (2.6 to 0.0, P=.06). We did not identify significant pre-post changes in patient-reported working alliance with healers (Working Alliance Inventory), depressive symptom severity (Patient Health Questionnaire-9), quality of life (Lehman Quality of Life Interview for the Mentally Ill), beliefs about medication (Beliefs about Medications Questionnaire–General Harm subscale), or other human rights abuses. No major side effects, health and safety violations, or serious adverse events occurred over the course of the trial. Conclusions The M&M intervention proved to be feasible, acceptable, safe, and clinically promising. Preliminary findings suggest that the M-Healer toolkit may have shifted healers’ behaviors at the prayer camp so that they commit fewer human rights abuses.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.2196/53096"
+}

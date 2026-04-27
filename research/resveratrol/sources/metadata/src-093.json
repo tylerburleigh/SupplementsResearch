@@ -1,0 +1,23 @@
+{
+  "id": "src-093",
+  "title": "The Role of Resveratrol in Cancer Therapy",
+  "authors": [
+    "Ko, Jeong‐Hyeon",
+    "Sethi, Gautam",
+    "Um, Jae‐Young",
+    "Shanmugam, Muthu K.",
+    "Arfuso, Frank",
+    "Kumar, Alan Prem",
+    "Bishayee, Anupam",
+    "Ahn, Kwang Seok"
+  ],
+  "doi": "10.3390/ijms18122589",
+  "url": "https://openalex.org/W2771136768",
+  "provider": "openalex",
+  "year": 2017,
+  "venue": "International Journal of Molecular Sciences",
+  "citation_count": 769,
+  "abstract": "<b>Abstract</b><b>:</b> Natural product compounds have recently attracted significant attention from the scientific community for their potent effects against inflammation-driven diseases, including cancer. A significant amount of research, including preclinical, clinical, and epidemiological studies, has indicated that dietary consumption of polyphenols, found at high levels in cereals, pulses, vegetables, and fruits, may prevent the evolution of an array of diseases, including cancer. Cancer development is a carefully orchestrated progression where normal cells acquires mutations in their genetic makeup, which cause the cells to continuously grow, colonize, and metastasize to other organs such as the liver, lungs, colon, and brain. Compounds that modulate these oncogenic processes can be considered as potential anti-cancer agents that may ultimately make it to clinical application. Resveratrol, a natural stilbene and a non-flavonoid polyphenol, is a phytoestrogen that possesses anti-oxidant, anti-inflammatory, cardioprotective, and anti-cancer properties. It has been reported that resveratrol can reverse multidrug resistance in cancer cells, and, when used in combination with clinically used drugs, it can sensitize cancer cells to standard chemotherapeutic agents. Several novel analogs of resveratrol have been developed with improved anti-cancer activity, bioavailability, and pharmacokinetic profile. The current focus of this review is resveratrol's in vivo and in vitro effects in a variety of cancers, and intracellular molecular targets modulated by this polyphenol. This is also accompanied by a comprehensive update of the various clinical trials that have demonstrated it to be a promising therapeutic and chemopreventive agent.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/1422-0067/18/12/2589/pdf?version=1512706599"
+}

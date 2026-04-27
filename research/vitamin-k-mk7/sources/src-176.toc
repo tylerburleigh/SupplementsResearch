@@ -1,0 +1,5 @@
+104	2	Abstract
+114	2	Introduction
+510	2	1894. Neonatal vitamin K deficiency can be classified as early,
+812	2	Conclusions
+861	2	References

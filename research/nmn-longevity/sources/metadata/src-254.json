@@ -1,0 +1,19 @@
+{
+  "id": "src-254",
+  "title": "Spermidine in health and disease",
+  "authors": [
+    "Madeo, Frank",
+    "Eisenberg, Tobias",
+    "Pietrocola, Federico",
+    "Kroemer, Guido"
+  ],
+  "doi": "10.1126/science.aan2788",
+  "url": "https://openalex.org/W2784734859",
+  "provider": "openalex",
+  "year": 2018,
+  "venue": "Science",
+  "citation_count": 1052,
+  "abstract": "Interventions that delay aging and protect from age-associated disease are slowly approaching clinical implementation. Such interventions include caloric restriction mimetics, which are defined as agents that mimic the beneficial effects of dietary restriction while limiting its detrimental effects. One such agent, the natural polyamine spermidine, has prominent cardioprotective and neuroprotective effects and stimulates anticancer immunosurveillance in rodent models. Moreover, dietary polyamine uptake correlates with reduced cardiovascular and cancer-related mortality in human epidemiological studies. Spermidine preserves mitochondrial function, exhibits anti-inflammatory properties, and prevents stem cell senescence. Mechanistically, it shares the molecular pathways engaged by other caloric restriction mimetics: It induces protein deacetylation and depends on functional autophagy. Because spermidine is already present in daily human nutrition, clinical trials aiming at increasing the uptake of this polyamine appear feasible.",
+  "type": "academic",
+  "pdf_url": ""
+}

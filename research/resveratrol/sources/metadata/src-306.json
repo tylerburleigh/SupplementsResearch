@@ -1,0 +1,19 @@
+{
+  "id": "src-306",
+  "title": "Molecular mechanism of endothelial and vascular aging: implications for cardiovascular disease",
+  "authors": [
+    "Camici, Giovanni G.",
+    "Savarese, Gianluigi",
+    "Akhmedov, Alexander",
+    "Lüscher, Thomas F."
+  ],
+  "doi": "10.1093/eurheartj/ehv587",
+  "url": "https://openalex.org/W2130227007",
+  "provider": "openalex",
+  "year": 2015,
+  "venue": "European Heart Journal",
+  "citation_count": 226,
+  "abstract": "Western societies are aging due to an increasing life span, decreased birth rates, and improving social and health conditions. On the other hand, the prevalence of cardiovascular (CV) and cerebrovascular (CBV) diseases rises with age. Thus, in view of the ongoing aging pandemic, it is appropriate to better understand the molecular pathways of aging as well as age-associated CV and CBV diseases. Oxidative stress contributes to aging of organs and the whole body by an accumulation of reactive oxygen species promoting oxidative damage. Indeed, increased oxidative stress produced in the mitochondria and cytosol of heart and brain is a common denominator to almost all CV and CBV diseases. The mitochondrial adaptor protein p66(Shc) and the family of deacetylase enzymes, the sirtuins, regulate the aging process, determine lifespan of many species and are involved in CV diseases. GDF11, a member of TGFβ superfamily with homology to myostatin also retards the aging process via yet unknown mechanisms. Recent evidence points towards a promising role of this novel 'rejuvenation' factor in reducing age-related heart disease. Finally, telomere length is also involved in aging and the development of age-related CV dysfunction. This review focuses on the latest scientific advances in understanding age-related changes of the CV and CBV system, as well as delineating potential novel therapeutic targets derived from aging research for CV and CBV diseases.",
+  "type": "academic",
+  "pdf_url": "https://academic.oup.com/eurheartj/article-pdf/36/48/3392/7469605/ehv587.pdf"
+}

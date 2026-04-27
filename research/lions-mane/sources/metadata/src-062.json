@@ -1,0 +1,35 @@
+{
+  "id": "src-062",
+  "title": "Effects of Hericium erinaceus on amyloid β(25-35) peptide-induced learning and memory deficits in mice",
+  "authors": [
+    "Mori, Koichiro",
+    "Obara, Yutaro",
+    "Moriya, Takahiro",
+    "Inatomi, Satoshi",
+    "Nakahata, Norimichi"
+  ],
+  "year": 2011,
+  "abstract": "",
+  "doi": "10.2220/biomedres.32.67",
+  "url": "https://doi.org/10.2220/biomedres.32.67",
+  "pdf_url": "",
+  "venue": "Biomedical Research",
+  "citation_count": 59,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-23T15:40:03.424183+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-062.md",
+  "quality_details": {
+    "content_length": 22335,
+    "alpha_ratio": 0.725,
+    "sentence_count": 226,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

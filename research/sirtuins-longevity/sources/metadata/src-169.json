@@ -1,0 +1,19 @@
+{
+  "id": "src-169",
+  "title": "Relevance of SIRT1-NF-κB Axis as Therapeutic Target to Ameliorate Inflammation in Liver Disease",
+  "authors": [
+    "Gregorio, Estefanía de",
+    "Colell, Anna",
+    "Morales, Albert",
+    "Marı́, Montserrat"
+  ],
+  "doi": "10.3390/ijms21113858",
+  "url": "https://openalex.org/W3032267617",
+  "provider": "openalex",
+  "year": 2020,
+  "venue": "International Journal of Molecular Sciences",
+  "citation_count": 182,
+  "abstract": "Inflammation is an adaptive response in pursuit of homeostasis reestablishment triggered by harmful conditions or stimuli, such as an infection or tissue damage. Liver diseases cause approximately 2 million deaths per year worldwide and hepatic inflammation is a common factor to all of them, being the main driver of hepatic tissue damage and causing progression from non-alcoholic fatty liver disease (NAFLD) to non-alcoholic steatohepatitis (NASH), cirrhosis and, ultimately, hepatocellular carcinoma (HCC). The metabolic sensor SIRT1, a class III histone deacetylase with strong expression in metabolic tissues such as the liver, and transcription factor NF-κB, a master regulator of inflammatory response, show an antagonistic relationship in controlling inflammation. For this reason, SIRT1 targeting is emerging as a potential strategy to improve different metabolic and/or inflammatory pathologies. In this review, we explore diverse upstream regulators and some natural/synthetic activators of SIRT1 as possible therapeutic treatment for liver diseases.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/1422-0067/21/11/3858/pdf?version=1590743581"
+}

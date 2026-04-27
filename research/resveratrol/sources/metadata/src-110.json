@@ -1,0 +1,18 @@
+{
+  "id": "src-110",
+  "title": "Efficacy of Turmeric Extracts and Curcumin for Alleviating the Symptoms of Joint Arthritis: A Systematic Review and Meta-Analysis of Randomized Clinical Trials",
+  "authors": [
+    "Daily, James W.",
+    "Yang, Mini",
+    "Park, Sunmin"
+  ],
+  "doi": "10.1089/jmf.2016.3705",
+  "url": "https://openalex.org/W2514369987",
+  "provider": "openalex",
+  "year": 2016,
+  "venue": "Journal of Medicinal Food",
+  "citation_count": 423,
+  "abstract": "Although turmeric and its curcumin-enriched extracts have been used for treating arthritis, no systematic review and meta-analysis of randomized clinical trials (RCTs) have been conducted to evaluate the strength of the research. We systemically evaluated all RCTs of turmeric extracts and curcumin for treating arthritis symptoms to elucidate the efficacy of curcuma for alleviating the symptoms of arthritis. Literature searches were conducted using 12 electronic databases, including PubMed, Embase, Cochrane Library, Korean databases, Chinese medical databases, and Indian scientific database. Search terms used were \"turmeric,\" \"curcuma,\" \"curcumin,\" \"arthritis,\" and \"osteoarthritis.\" A pain visual analogue score (PVAS) and Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC) were used for the major outcomes of arthritis. Initial searches yielded 29 articles, of which 8 met specific selection criteria. Three among the included RCTs reported reduction of PVAS (mean difference: -2.04 [-2.85, -1.24]) with turmeric/curcumin in comparison with placebo (P < .00001), whereas meta-analysis of four studies showed a decrease of WOMAC with turmeric/curcumin treatment (mean difference: -15.36 [-26.9, -3.77]; P = .009). Furthermore, there was no significant mean difference in PVAS between turmeric/curcumin and pain medicine in meta-analysis of five studies. Eight RCTs included in the review exhibited low to moderate risk of bias. There was no publication bias in the meta-analysis. In conclusion, these RCTs provide scientific evidence that supports the efficacy of turmeric extract (about 1000 mg/day of curcumin) in the treatment of arthritis. However, the total number of RCTs included in the analysis, the total sample size, and the methodological quality of the primary studies were not sufficient to draw definitive conclusions. Thus, more rigorous and larger studies are needed to confirm the therapeutic efficacy of turmeric for arthritis.",
+  "type": "academic",
+  "pdf_url": "https://www.liebertpub.com/doi/pdf/10.1089/jmf.2016.3705"
+}

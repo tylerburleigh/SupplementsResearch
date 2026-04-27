@@ -1,0 +1,32 @@
+{
+  "id": "src-051",
+  "title": "Diet and Lifestyle in Prostate Cancer",
+  "authors": [
+    "Wilson, Kathryn M.",
+    "Mucci, Lorelei A."
+  ],
+  "year": 2019,
+  "abstract": "",
+  "doi": "10.1007/978-3-030-32656-2_1",
+  "url": "https://doi.org/10.1007/978-3-030-32656-2_1",
+  "pdf_url": "",
+  "venue": "Advances in Experimental Medicine and Biology",
+  "citation_count": 39,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-19T18:34:45.069128+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-051.md",
+  "quality_details": {
+    "content_length": 53855,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

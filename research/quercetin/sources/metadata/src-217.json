@@ -1,0 +1,17 @@
+{
+  "id": "src-217",
+  "title": "Inhibiting SARS-CoV-2 viral entry by targeting spike:ACE2 interaction with O-modified quercetin derivatives.",
+  "authors": [
+    "Rosal, Reuben James Z",
+    "Paderes, Monissa C."
+  ],
+  "doi": "10.1039/d4md00286e",
+  "url": "https://www.semanticscholar.org/paper/1c9a64aa2fc0f96450d03df3cd27a6a7e2dc0887",
+  "provider": "semantic_scholar",
+  "year": 2024,
+  "venue": "RSC Medicinal Chemistry",
+  "citation_count": 3,
+  "abstract": "The cell entry of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is mediated by the interaction between the receptor-binding domain of its spike (S) protein and human angiotensin-converting enzyme 2 (ACE2). Quercetin, a flavonoid found abundantly in plants, shows potential as a SARS-CoV-2 S:ACE2 inhibitor but is known to have low bioavailability. Modification of quercetin by capping its hydroxyl moieties could enhance the metabolic stability, solubility, and bioavailability, and reduce toxicity. In this study, sixteen (16) O-modified quercetin derivatives were synthesized by incorporating alkyl and acyl moieties of varying lengths, sizes, and polarities to the hydroxyl groups. The SARS-CoV-2 S:ACE2 inhibitory activity and toxicity of the synthesized derivatives were assessed in vitro, and their physicochemical properties, pharmacokinetics, and drug-likeness were predicted and evaluated using the SwissADME web tool. Results showed that functionalization of the hydroxyl moieties of quercetin generally resulted in more potent inhibitors (>50% inhibition). Five (5) derivatives displayed a dose-dependent inhibition against the SARS-CoV-2 S:ACE2 interaction with promising IC50 values (i.e., 2e (IC50 = 7.52 μM), 3a (IC50 = 5.00 μM), 3b (IC50 = 25.70 μM), 3c (IC50 = 2.22 μM), and 4b (IC50 = 3.28 μM)). Moreover, these compounds exhibited low hepato-, nephro-, and cardiotoxicity, and their SwissADME profiles indicated favorable physicochemical, pharmacokinetic, and drug-like properties, suggesting their potential as promising lead SARS-CoV-2 S:ACE2 inhibitors.",
+  "type": "academic",
+  "pdf_url": ""
+}

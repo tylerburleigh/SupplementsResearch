@@ -1,0 +1,32 @@
+74	2	Results
+121	2	142 Assessed for eligibility and
+123	2	33 Allocated to
+125	2	90 Randomized
+127	2	30 Completed follow-
+128	2	3 Skipped visit
+129	2	28 Allocated to
+131	2	29 Allocated to
+134	2	26 Completed follow-
+135	2	2 Skipped visit
+137	2	27 Completed follow-
+138	2	2 Skipped visit
+140	2	33 Completed follow-
+141	2	0 Withdrew
+142	2	0 Died
+144	2	28 Completed follow-
+145	2	0 Withdrew
+146	2	0 Died
+148	2	29 Completed follow-
+149	2	0 Withdrew
+150	2	0 Died
+157	2	52 Excluded
+389	2	Discussion
+413	2	24. In contrast to participants in these prior clinical
+451	2	Methods
+765	2	Pad
+1190	2	38. Ninety partici-
+1378	2	Data Availability
+1386	2	References
+1531	2	Acknowledgements
+1536	2	Author Contributions
+1549	2	Competing Interests

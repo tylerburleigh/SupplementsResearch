@@ -1,0 +1,41 @@
+19	2	Abstract
+53	2	Background
+102	2	Methods
+225	2	400 Pl of staining buffer was added before flow cytometry
+244	2	Statistical Analysis
+248	2	Results
+474	2	Discussion
+634	2	Conclusion
+648	2	Competing Interests
+658	2	Acknowledgements
+662	2	References
+663	2	1. Zaidman BZ, Yassin M, Mahajna J, Wasser SP: Medicinal mush-
+666	2	2. Cui J, Chisti Y: Polysaccharopeptides of Coriolus versicolor:
+669	2	3. Wasser SP: Medicinal mushrooms as a source of antitumor
+672	2	4. Pelley RP, Strickland FM: Plants, polysaccharides, and the treat-
+675	2	5. Ooi VE, Liu F: Immunomodulation and anti-cancer activity of
+678	2	6. Nakazato H, Koike A, Saji S, Ogawa N, Sakamoto J: Efficacy of
+681	2	7. Munemoto Y, Iida Y, Ohata K, Saito H, Fujisawa K, Kasahara Y, Mitsui
+686	2	8. Ohwada S, Ikeya T, Yokomori T, Kusaba T, Roppongi T, Takahashi T,
+692	2	9. Katoh R, Ooshiro M: Enhancement of Antitumor Effect of
+696	2	10. Sakamoto J, Morita S, Oba K, Matsui T, Kobayashi M, Nakazato H,
+703	2	11. Ueda Y, Fujimura T, Kinami S, Hirono Y, Yamaguchi A, Naitoh H, Tani
+710	2	12. Liu F, Ooi VE, Chang ST: Free radical scavenging activities of
+712	2	13. Asai K, Kato H, Hirose K, Akaogi  K, Kimura S, Mukai S, Inoue M,
+718	2	14. Fisher M, Yang LX: Anticancer effects and mechanisms of
+721	2	15. Kariya Y, Inoue N, Kihara T, Fujii M: Activation of human natural
+742	2	16. Pedrinaci S, Algarra I, Garrido F: Protein-bound polysaccharide
+745	2	17. Algarra I, Collado A, Garrido F: Protein-bound polysaccharide
+749	2	18. Algarra I, Garcia-Lora A, Collado A, Garrido F: Differential effect
+752	2	19. Robertson MJ, Cochran KJ, Cameron C, Le JM, Tantravahi R, Ritz J:
+756	2	20. Garcia-Lora A, Martinez M, Pedrinaci S, Garrido F: Different regu-
+760	2	21. Garcia-Lora A, Pedrinaci S, Garrido F: Protein-bound polysaccha-
+764	2	22. Jimenez E, Garcia-Lora A, Martinez M, Garrido F: Identification of
+770	2	24. Choi JH, Kim YB, Lim HY, Park JS, Kim HC, Cho YK, Han SW, Kim
+775	2	25. Oba K, Teramukai S, Kobayashi M, Matsui T, Kodera Y, Sakamoto J:
+779	2	26. Ohwada S, Ogawa T, Makita F, Ta nahashi Y, Ohya T, Tomizawa N,
+785	2	27. Zhang H, Morisaki T, Nakahara C, Matsunaga H, Sato N, Nagumo F,
+789	2	28. Hattori TS, Komatsu N, Shichijo S, Itoh K: Protein-bound polysac-
+793	2	29. Jimenez-Medina E, Garcia-Lora A, Paco L, Algarra I, Collado A, Gar-
+797	2	30. Kobayashi H, Matsunaga K, Oguchi Y: Antimetastatic effects of
+801	2	31. Matsunaga K, Ohhara M, Oguchi Y, Iijima H, Kobayashi H: Antimet-

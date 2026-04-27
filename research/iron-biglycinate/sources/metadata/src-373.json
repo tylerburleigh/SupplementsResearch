@@ -1,0 +1,25 @@
+{
+  "id": "src-373",
+  "title": "Iron, coronary artery calcification, and mortality in patients undergoing hemodialysis.",
+  "authors": [
+    "Mizuiri, Sonoo",
+    "Nishizawa, Yoshiko",
+    "Doi, Toshiki",
+    "Yamashita, Kazuomi",
+    "Shigemoto, Kenichiro",
+    "Usui, Koji",
+    "Arita, Michiko",
+    "Naito, Takayuki",
+    "Doi, Shigehiro",
+    "Masaki, Takao"
+  ],
+  "doi": "10.1080/0886022x.2021.1880937",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/33596750",
+  "provider": "pubmed",
+  "year": 2021,
+  "venue": "Renal failure",
+  "citation_count": 0,
+  "abstract": "OBJECTIVE: A high coronary artery calcification score (CACS) may be associated with high mortality in patients undergoing hemodialysis (HD). Recently, effects of iron on vascular smooth muscle cell calcification have been described. We aimed to investigate the relationships between iron, CACS, and mortality in HD patients.\nMETHODS: We studied 173 consecutive patients who were undergoing maintenance HD. Laboratory data and Agatston's CACS were obtained at baseline for two groups of patients: those with CACS ≥400 (n = 109) and those with CACS <400 (n = 64). Logistic regression analyses for CACS ≥400 and Cox proportional hazard analyses for mortality were conducted.\nRESULTS: The median (interquartile range) age and duration of dialysis of the participants were 67 (60-75) years and 73 (37-138) months, respectively. Serum iron (Fe) and transferrin saturation (TSAT) levels were significantly lower in participants with CACS ≥400 than in those with CACS <400, although the serum ferritin concentration did not differ between the groups. TSAT ≥21% was significantly associated with CACS ≥400 (odds ratio 0.46, p<0.05). TSAT ≥17%, Fe ≥63 µg/dL, and ferritin ≥200 ng/mL appear to protect against 5-year all-cause mortality in HD patients, independent of conventional risk factors of all-cause mortality (p < 0.05).\nCONCLUSION: We have identified associations between iron, CACS, and mortality in HD patients. Lower TSAT was found to be an independent predictor of CACS ≥400, and iron deficiency (low TSAT, iron, or ferritin) was a significant predictor of 5-year all-cause mortality in HD patients.",
+  "type": "academic",
+  "pdf_url": ""
+}

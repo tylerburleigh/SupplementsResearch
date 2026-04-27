@@ -1,0 +1,18 @@
+{
+  "id": "src-261",
+  "title": "Mammalian Target of Rapamycin Signaling in Cardiac Physiology and Disease",
+  "authors": [
+    "Sciarretta, Sebastiano",
+    "Volpe, Massimo",
+    "Sadoshima, Junichi"
+  ],
+  "doi": "10.1161/circresaha.114.302022",
+  "url": "https://openalex.org/W2115147488",
+  "provider": "openalex",
+  "year": 2014,
+  "venue": "Circulation Research",
+  "citation_count": 446,
+  "abstract": "The protein kinase mammalian or mechanistic target of rapamycin (mTOR) is an atypical serine/threonine kinase that exerts its main cellular functions by interacting with specific adaptor proteins to form 2 different multiprotein complexes, mTOR complex 1 (mTORC1) and mTOR complex 2 (mTORC2). mTORC1 regulates protein synthesis, cell growth and proliferation, autophagy, cell metabolism, and stress responses, whereas mTORC2 seems to regulate cell survival and polarity. The mTOR pathway plays a key regulatory function in cardiovascular physiology and pathology. However, the majority of information available about mTOR function in the cardiovascular system is related to the role of mTORC1 in the unstressed and stressed heart. mTORC1 is required for embryonic cardiovascular development and for postnatal maintenance of cardiac structure and function. In addition, mTORC1 is necessary for cardiac adaptation to pressure overload and development of compensatory hypertrophy. However, partial and selective pharmacological and genetic inhibition of mTORC1 was shown to extend life span in mammals, reduce pathological hypertrophy and heart failure caused by increased load or genetic cardiomyopathies, reduce myocardial damage after acute and chronic myocardial infarction, and reduce cardiac derangements caused by metabolic disorders. The optimal therapeutic strategy to target mTORC1 and increase cardioprotection is under intense investigation. This article reviews the information available regarding the effects exerted by mTOR signaling in cardiovascular physiology and pathological states.",
+  "type": "academic",
+  "pdf_url": "https://www.ahajournals.org/doi/pdf/10.1161/CIRCRESAHA.114.302022"
+}

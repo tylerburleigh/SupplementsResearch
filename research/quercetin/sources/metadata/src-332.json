@@ -1,0 +1,32 @@
+{
+  "id": "src-332",
+  "title": "Targeting senescent hepatocytes for treatment of metabolic dysfunction-associated steatotic liver disease and multi-organ dysfunction",
+  "authors": [
+    "Du, Kuo",
+    "Umbaugh, David S.",
+    "Wang, Liuyang",
+    "Jun, JiHye",
+    "Dutta, R.",
+    "Oh, S.",
+    "Ren, Niansheng",
+    "Zhang, Qiaojuan",
+    "Ko, Dennis C.",
+    "Ferreira, Ana",
+    "Hill, Jon",
+    "Gao, Guannan",
+    "Pullen, Steven S",
+    "Jain, Vaibhav",
+    "Gregory, S.",
+    "Abdelmalek, Manal F.",
+    "Diehl, A. M."
+  ],
+  "doi": "10.1038/s41467-025-57616-w",
+  "url": "https://www.semanticscholar.org/paper/073fc803adef4164b7b18a50e2329cf44f66ec9f",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "Nature Communications",
+  "citation_count": 23,
+  "abstract": "Senescent hepatocytes accumulate in metabolic dysfunction-associated steatotic liver disease (MASLD) and are linked to worse clinical outcomes. However, their heterogeneity and lack of specific markers have made them difficult to target therapeutically. Here, we define a senescent hepatocyte gene signature (SHGS) using in vitro and in vivo models and show that it tracks with MASLD progression/regression across mouse models and large human cohorts. Single-nucleus RNA-sequencing and functional studies reveal that SHGS+ hepatocytes originate from p21+ cells, lose key liver functions and release factors that drive disease progression. One such factor, GDF15, increases in circulation alongside SHGS+ burden and disease progression. Through chemical screening, we identify senolytics that selectively eliminate SHGS+ hepatocytes and improve MASLD in male mice. Notably, SHGS enrichment also correlates with dysfunction in other organs. These findings establish SHGS+ hepatocytes as key drivers of MASLD and highlight a potential therapeutic strategy for targeting senescent cells in liver disease and beyond. MASLD is a growing global health concern. Here, the authors define a senescent hepatocyte gene signature (SHGS), demonstrate its clinical relevance, and identify senolytic therapies that selectively eliminate SHGS+ hepatocytes to improve MASLD and systemic health.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.1038/s41467-025-57616-w"
+}

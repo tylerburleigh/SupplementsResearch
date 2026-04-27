@@ -1,0 +1,11 @@
+6	2	Original Article
+94	2	Introduction
+191	2	Methods
+222	2	Participants
+462	2	Results
+463	2	Participants
+506	1	of Medications 7.2(4.2) 5.6(3.1) 6.7(4.0) 0.574
+507	1	of Antihypertensive Medications 1.1(1.0) 1.4(1.2) 1.2(1.2) 0.720
+690	2	Discussion
+899	2	Conclusions
+956	2	References

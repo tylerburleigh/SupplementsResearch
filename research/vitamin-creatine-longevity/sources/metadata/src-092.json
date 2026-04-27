@@ -1,0 +1,31 @@
+{
+  "id": "src-092",
+  "title": "“Rewiring brain immunity: targeting microglial metabolism for neuroprotection in neurodegenerative disorders”",
+  "authors": [
+    "Shokr, Mustafa M."
+  ],
+  "year": 2025,
+  "abstract": "Abstract\nNeuroinflammation, a pervasive hallmark in many neurological and neuropsychiatric diseases, is largely dictated by the functional phenotypic dynamics of microglia, the immune system of the brain. Recent data illustrate that these phenotypic changes, from neuroprotective scavenging to neurotoxic pro-inflammatory effects, are intrinsically regulated by microglial metabolic repolarization. This review synthesizes understanding of discrete microglial metabolic phenotypes like the glycolytic reliance of pro-inflammatory (M1-like) microglia and the oxidative phosphorylation/fatty acid oxidation bias of anti-inflammatory/resolving (M2-like) microglia. We discuss how central metabolic sensors like AMPK, mTOR, and HIF-1α oversee these metabolic shifts in response to disease-targeted pathologies in Alzheimer’s, Parkinson’s, Multiple Sclerosis, ischemic stroke, and traumatic brain injury. Moreover, we review innovative therapeutic strategies directed toward microglial metabolism, involving pharmacological modulators (e.g., metformin, rapamycin, and ketone bodies), nutritional interventions (e.g., ketogenic diets), and modulation of gut microbiota. By tightly specific re-tuning of microglial cells’ bioenergetics, these approaches enable unprecedented opportunities to counteract neuroinflammation, enhance pathological clearance, and induce neuroprotection, paving the way for a new generation of disease-modifying therapies of neurodegenerative disorders.",
+  "doi": "10.1007/s11011-025-01739-y",
+  "url": "https://doi.org/10.1007/s11011-025-01739-y",
+  "pdf_url": "",
+  "venue": "Metabolic Brain Disease",
+  "citation_count": 17,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T13:46:28.859373+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-092.md",
+  "quality_details": {
+    "content_length": 143893,
+    "alpha_ratio": 0.701,
+    "sentence_count": 841,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

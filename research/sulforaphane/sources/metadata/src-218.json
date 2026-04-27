@@ -1,0 +1,21 @@
+{
+  "id": "src-218",
+  "title": "Sulforaphane Upregulates Cultured Mouse Astrocytic Aquaporin-4 Expression through p38 MAPK Pathway.",
+  "authors": [
+    "Yang, Canhong",
+    "Qin, Sisi",
+    "Zhang, Jiafa",
+    "Wang, Yuanyuan",
+    "Li, Huan",
+    "Lü, Tianming"
+  ],
+  "doi": "10.1155/2022/1144124",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35991296",
+  "provider": "pubmed",
+  "year": 2022,
+  "venue": "Journal of healthcare engineering",
+  "citation_count": 0,
+  "abstract": "Protein misfolding and/or aggregation are common pathological features associated with a number of neurodegenerative diseases, including Alzheimer's disease (AD) and Parkinson disease (PD). Abnormal protein aggregation may be caused by misfolding of the protein and/or dysfunction of the protein clearance system. Recent studies have demonstrated that the specific water channel protein, aquaporin-4 (AQP4), plays a role in the pathogenesis of neurodegenerative diseases involving protein clearance system. In this study, we aimed to investigate the role of sulforaphane (SFN) in the upregulation of AQP4 expression, along with its underlying mechanism using cultured mouse astrocytes as a model system. At low concentrations, SFN was found to increase cell proliferation and result in the activation of astrocytes. However, high SFN concentrations were found to suppress cell proliferation of astrocytes. In addition, our study found that a 1 μM concentration of SFN resulted in the upregulation of AQP4 expression and p38 MAPK phosphorylation in cultured mouse astrocytes. Moreover, we demonstrated that the upregulation of AQP4 expression was significantly attenuated when cells were pretreated with SB203580, a p38 MAPK inhibitor. In conclusion, our findings from this study revealed that SFN exerts hormesis effect on cultured mouse astrocytes and can upregulate astrocytic AQP4 expression by targeting the p38 MAPK pathway.",
+  "type": "academic",
+  "pdf_url": ""
+}

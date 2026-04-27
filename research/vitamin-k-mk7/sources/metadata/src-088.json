@@ -1,0 +1,19 @@
+{
+  "id": "src-088",
+  "title": "The Inhibitory Roles of Vitamin K in Progression of Vascular Calcification",
+  "authors": [
+    "Shioi, Atsushi",
+    "Morioka, Tomoaki",
+    "Shoji, Tetsuo",
+    "Emoto, Masanori"
+  ],
+  "doi": "10.3390/nu12020583",
+  "url": "https://openalex.org/W3008459167",
+  "provider": "openalex",
+  "year": 2020,
+  "venue": "Nutrients",
+  "citation_count": 104,
+  "abstract": "Vitamin K is a fat-soluble vitamin that is indispensable for the activation of vitamin K-dependent proteins (VKDPs) and may be implicated in cardiovascular disease (CVD). Vascular calcification is intimately associated with CV events and mortality and is a chronic inflammatory process in which activated macrophages promote osteoblastic differentiation of vascular smooth muscle cells (VSMCs) through the production of proinflammatory cytokines such as IL-1β, IL-6, TNF-α, and oncostatin M (OSM) in both intimal and medial layers of arterial walls. This process may be mainly mediated through NF-κB signaling pathway. Vitamin K has been demonstrated to exert anti-inflammatory effects through antagonizing NF-κB signaling in both in vitro and in vivo studies, suggesting that vitamin K may prevent vascular calcification via anti-inflammatory mechanisms. Matrix Gla protein (MGP) is a major inhibitor of soft tissue calcification and contributes to preventing both intimal and medial vascular calcification. Vitamin K may also inhibit progression of vascular calcification by enhancing the activity of MGP through facilitating its γ-carboxylation. In support of this hypothesis, the procalcific effects of warfarin, an antagonist of vitamin K, on arterial calcification have been demonstrated in several clinical studies. Among the inactive MGP forms, dephospho-uncarboxylated MGP (dp-ucMGP) may be regarded as the most useful biomarker of not only vitamin K deficiency, but also vascular calcification and CVD. There have been several studies showing the association of circulating levels of dp-ucMGP with vitamin K intake, vascular calcification, mortality, and CVD. However, additional larger prospective studies including randomized controlled trials are necessary to confirm the beneficial effects of vitamin K supplementation on CV health.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2072-6643/12/2/583/pdf?version=1582460613"
+}

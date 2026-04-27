@@ -1,0 +1,23 @@
+{
+  "id": "src-327",
+  "title": "Phytochemical and Fungal Bioactive Compounds in the “Brain Health Triad”: A Narrative Review on Neurostimulating, Neurotrophic, and Neuroprotective Synergy",
+  "authors": [
+    "Cipriano, Giovanni Luca",
+    "Raffaele, Ivana",
+    "Floramo, Alessia",
+    "Argento, Veronica",
+    "Astorino, Maria Francesca",
+    "Lui, Maria",
+    "Calabrò, Marco",
+    "Anchesi, Ivan"
+  ],
+  "doi": "10.3390/ijms27083607",
+  "url": "https://openalex.org/W7154984635",
+  "provider": "openalex",
+  "year": 2026,
+  "venue": "International Journal of Molecular Sciences",
+  "citation_count": 0,
+  "abstract": "This narrative review proposes the ‘Brain Health Triad’ as a novel integrative framework for neurorehabilitation and cognitive enhancement, built upon three interdependent biological pillars: neurostimulation, neurotrophy, and neuroprotection. We illustrate how the synergistic interplay between a ‘core triad’ composed of Hericium erinaceus, Bacopa monnieri, and L-Theanine targets these pillars with high specificity. Hericium erinaceus fosters neurotrophy by inducing Nerve Growth Factor (NGF) and Brain-derived neurotrophic factor (BDNF) synthesis through erinacines and hericenones; Bacopa monnieri complements this by enhancing neurostimulation and synaptic plasticity via bacosides; and L-Theanine regulates neurotransmitter balance and alpha-wave activity to stabilize the neural signaling environment. This core architecture is further reinforced by adjunctive nootropic clusters—including withanolides, ginkgolides, citicoline, cordycepin, macamides, and fulvic acid—which provide essential support for mitochondrial resilience and the mitigation of amyloid-β and tau toxicities. By synthesizing molecular evidence from the BDNF/TrkB/CREB signaling axis and the Nrf2/NF-κB homeostatic switch, we demonstrate that this multi-target strategy offers a more robust path to neuronal resilience than traditional single-target approaches. We conclude that this integrated model provides a solid framework for future clinical applications in the management of age-related cognitive decline and neurodegenerative diseases.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/1422-0067/27/8/3607/pdf?version=1776502054"
+}

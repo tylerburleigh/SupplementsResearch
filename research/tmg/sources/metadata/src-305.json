@@ -1,0 +1,18 @@
+{
+  "id": "src-305",
+  "title": "Metabolic reprogramming and epigenetic modifications on the path to cancer",
+  "authors": [
+    "Sun, Linchong",
+    "Zhang, Huafeng",
+    "Gao, Ping"
+  ],
+  "doi": "10.1007/s13238-021-00846-7",
+  "url": "https://openalex.org/W3165482261",
+  "provider": "openalex",
+  "year": 2021,
+  "venue": "Protein & Cell",
+  "citation_count": 726,
+  "abstract": "Metabolic rewiring and epigenetic remodeling, which are closely linked and reciprocally regulate each other, are among the well-known cancer hallmarks. Recent evidence suggests that many metabolites serve as substrates or cofactors of chromatin-modifying enzymes as a consequence of the translocation or spatial regionalization of enzymes or metabolites. Various metabolic alterations and epigenetic modifications also reportedly drive immune escape or impede immunosurveillance within certain contexts, playing important roles in tumor progression. In this review, we focus on how metabolic reprogramming of tumor cells and immune cells reshapes epigenetic alterations, in particular the acetylation and methylation of histone proteins and DNA. We also discuss other eminent metabolic modifications such as, succinylation, hydroxybutyrylation, and lactylation, and update the current advances in metabolism- and epigenetic modification-based therapeutic prospects in cancer.",
+  "type": "academic",
+  "pdf_url": "https://link.springer.com/content/pdf/10.1007/s13238-021-00846-7.pdf"
+}

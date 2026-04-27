@@ -1,0 +1,38 @@
+{
+  "id": "src-072",
+  "title": "The effects of intravenous iron supplementation on fatigue and general health in non-anemic blood donors with iron deficiency: a randomized placebo-controlled superiority trial",
+  "authors": [
+    "Keller, Peter",
+    "von Känel, Roland",
+    "Hincapié, Cesar A.",
+    "da Costa, Bruno R.",
+    "Jüni, Peter",
+    "Erlanger, Tobias E.",
+    "Andina, Nicola",
+    "Niederhauser, Christoph",
+    "Lämmle, Bernhard",
+    "Fontana, Stefano"
+  ],
+  "year": 2020,
+  "abstract": "AbstractWe investigated whether intravenous iron supplementation improves fatigue and general health in non-anemic repeat adult blood donors with iron deficiency (ferritin ≤ 50 µg/L). Of 1,487 potentially eligible participants, 203 were randomly assigned to a single intravenous dose of 800 mg iron-carboxymaltose and 202 to placebo; 393 participants completed the trial. At 6 to 8 weeks after intervention, self-rated mean fatigue scores (numeric rating scale from 1–10, primary outcome) were 3.9 ± 1.8 in the iron supplementation group and 4.0 ± 2.2 in the placebo group, showing no group difference (p = 0.819). Pre-specified subgroup analyses of gender, ferritin &lt; 25 µg/L and fatigue ≥ 4 points, as well as exploratory analyses of lower ferritin cut-offs did not reveal any between-group differences. In terms of secondary outcomes, the mean differences were 114.2 µg/L for ferritin (95% CI 103.1–125.3) and 5.7 g/L for hemoglobin (95% CI 4.3–7.2) with significantly higher values in the iron supplementation group. No group differences were observed for different measures of general well-being and other clinical and safety outcomes. Intravenous iron supplementation compared with placebo resulted in increase of ferritin and hemoglobin levels in repeat blood donors with low iron stores, yet had no effect on fatigue and general well-being.",
+  "doi": "10.1038/s41598-020-71048-0",
+  "url": "https://doi.org/10.1038/s41598-020-71048-0",
+  "pdf_url": "",
+  "venue": "Scientific Reports",
+  "citation_count": 19,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T18:10:57.427982+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-072.md",
+  "quality_details": {
+    "content_length": 47061,
+    "alpha_ratio": 0.703,
+    "sentence_count": 647,
+    "reasons": []
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "src-250",
+  "title": "Analyzing the association between ferritin levels and ICP using machine learning algorithms: a retrospective case-control study",
+  "authors": [
+    "Wei, Na",
+    "Guo, Shuang",
+    "Liu, Xiaoya",
+    "Zhang, Ju",
+    "Liu, Jianhong",
+    "Chen, Qian",
+    "Dai, Wei"
+  ],
+  "doi": "10.3389/fmed.2026.1804534",
+  "url": "https://www.semanticscholar.org/paper/1caf8b335588e746e857cbb9d47356b881ea425c",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "Frontiers in Medicine",
+  "citation_count": 0,
+  "abstract": "Intrahepatic cholestasis of pregnancy (ICP) is a gestational metabolic disorder characterized by impaired maternal bile acid homeostasis. Emerging evidence suggests that dysregulated iron metabolism may contribute to the pathophysiology of ICP. Nevertheless, the specific alterations in iron metabolism among ICP patients remain unexplored.\n\nIn our retrospective study, we compared serum ferritin levels between normal pregnancies and ICP cases at Guizhou Provincial People’s Hospital from January 2023 to March 2025. Propensity Score Matching, P for trend, restricted cubic spline analysis, and a random forest algorithm were employed to assess the association between serum ferritin and ICP risk.\n\nElevated serum ferritin concentrations were observed in patients with ICP compared to healthy controls throughout gestation. And it shows a positive correlation with serum hepatic enzyme concentration. PSM analysis identified a significant association between increased ferritin levels in the third trimester and higher ICP risk (AOR = 1.005, 95% CI: 1.001–1.008,\np\n= 0.016). RCS modeling revealed a nonlinear relationship: a U-shaped association in the second trimester, with ferritin concentrations between 21.7 and 53.9 ng/mL conferring no significant alteration in risk, and a J-shaped association in the third trimester. The random forest variable importance analysis ranked serum ferritin as the foremost predictor of ICP among all evaluated covariates.\n\nIn conclusion, our study suggests that increased ferritin levels during pregnancy may increase the risk of ICP, though the underlying mechanisms remain unclear. Future research involving large-sample prospective multicenter cohort studies is warranted to further elucidate these mechanisms.",
+  "type": "academic",
+  "pdf_url": ""
+}

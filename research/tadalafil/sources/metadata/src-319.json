@@ -1,0 +1,29 @@
+{
+  "id": "src-319",
+  "title": "RhoBTB1 protects against hypertension and arterial stiffness by restraining phosphodiesterase 5 activity",
+  "authors": [
+    "Mukohda, Masashi",
+    "Fang, Shi",
+    "Wu, Jing",
+    "Agbor, Larry N",
+    "Nair, Anand R.",
+    "Ibeawuchi, Stella‐Rita",
+    "Hu, Chunyan",
+    "Liu, Xuebo",
+    "Lu, Ko‐Ting",
+    "Guo, Deng‐Fu",
+    "Davis, Deborah R.",
+    "Keen, Henry L.",
+    "Quelle, Frederick W.",
+    "Sigmund, Curt D."
+  ],
+  "doi": "10.1172/jci123462",
+  "url": "https://openalex.org/W2922968728",
+  "provider": "openalex",
+  "year": 2019,
+  "venue": "Journal of Clinical Investigation",
+  "citation_count": 40,
+  "abstract": "Mice selectively expressing PPARγ dominant negative mutation in vascular smooth muscle exhibit RhoBTB1-deficiency and hypertension. Our rationale was to employ genetic complementation to uncover the mechanism of action of RhoBTB1 in vascular smooth muscle. Inducible smooth muscle-specific restoration of RhoBTB1 fully corrected the hypertension and arterial stiffness by improving vasodilator function. Notably, the cardiovascular protection occurred despite preservation of increased agonist-mediated contraction and RhoA/Rho kinase activity, suggesting RhoBTB1 selectively controls vasodilation. RhoBTB1 augmented the cGMP response to nitric oxide by restraining the activity of phosphodiesterase 5 (PDE5) by acting as a substrate adaptor delivering PDE5 to the Cullin-3 E3 Ring ubiquitin ligase complex for ubiquitination inhibiting PDE5. Angiotensin-II infusion also caused RhoBTB1-deficiency and hypertension which was prevented by smooth muscle specific RhoBTB1 restoration. We conclude that RhoBTB1 protected from hypertension, vascular smooth muscle dysfunction, and arterial stiffness in at least two models of hypertension.",
+  "type": "academic",
+  "pdf_url": "http://www.jci.org/articles/view/123462/files/pdf"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "src-405",
+  "title": "Intravenous iron supplementation in heart failure patients induces temporary endothelial dysfunction with release of endothelial microvesicles.",
+  "authors": [
+    "Mause, Sebastian F",
+    "Berger, Martin",
+    "Lim, Hwee Ying",
+    "Vogt, Felix",
+    "Brandenburg, Vincent",
+    "Stöhr, Robert"
+  ],
+  "doi": "10.3389/fimmu.2022.1092704",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36761158",
+  "provider": "pubmed",
+  "year": 2022,
+  "venue": "Frontiers in immunology",
+  "citation_count": 0,
+  "abstract": "BACKGROUND: Intravenous iron supplementation is an established therapy for patients with heart failure (HF) and concomitant iron deficiency reducing the risk of HF hospitalization. However, concerns persist regarding potential adverse vascular effects, since iron may induce oxidative stress, inflammation, and apoptosis of endothelial cells. To assess endothelial health following ferric carboxymaltose (FCM) administration, we analyzed the profile of circulating endothelial microvesicles (EMVs) and endothelial progenitor cells (EPCs) in a cohort of 23 HF patients using flow cytometry.\nRESULTS: Compared to healthy subjects, baseline levels of CD31+/CD41- EMVs were higher and EMVs featured a more apoptotic phenotype in HF patients. Following FCM administration, EMV levels showed a rapid but transient increase and displayed an altered phenotype profile with dominant augmentation of EMVs expressing inducible markers CD62E and CD54, indicating endothelial inflammatory activation and injury. Levels of circulating vasoregenerative CD45lowCD34+KDR+ EPCs were lower in HF patients and FCM application resulted in an early decrease of EPCs followed by substantial mobilization into the circulation after one week. Levels of EMVs and EPCs returned to baseline values within two and four weeks, respectively. HF patients with additional chronic kidney disease showed an elevated EMV/EPC ratio and diminished EPC mobilization, suggesting impaired vascular repair capacity. Providing a mechanistic link, in vitro experiments with cultured endothelial cells revealed that FCM dose-dependently promotes endothelial apoptosis, increases expression of adhesion molecules and CXCL12, and triggers generation of EMVs.\nCONCLUSION: Intravenous iron supplementation with FCM in HF patients induces a biphasic response with initial increased release of CD62E+ and CD54+ enriched EMVs and subsequent mobilization of EPCs, indicating endothelial dysfunction upon FCM and suggesting consecutive engagement of a defense program aimed to reconstitute vascular health.",
+  "type": "academic",
+  "pdf_url": ""
+}

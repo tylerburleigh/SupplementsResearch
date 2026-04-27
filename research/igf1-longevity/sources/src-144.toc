@@ -1,0 +1,76 @@
+37	2	Abstract
+55	2	Introduction
+198	2	Results
+1867	2	Discussion
+3065	2	Materials And Methods
+3257	2	Author Contributions
+3269	2	Acknowledgements
+3274	2	Conflicts Of Interest
+3278	2	Funding
+3288	2	References
+3316	2	8.   Colman  RJ,  Beasley  TM,  Kemnitz  JW,  Johnson  SC,
+3321	2	9.   Mattison  JA,  Colman  RJ,  Beasley  TM,  Allison  DB,
+3327	2	10.  Mercken  EM,  Crosby  SD,  Lamming  DW,  JeBailey  L,
+3346	2	13.  Koopman  JJ,  van  Heemst  D,  van  Bodegom  D,
+3352	2	14.  Mitchell  SE,  Tang  Z,  Kerbois  C,  Delville  C,
+3361	2	15.  Mitchell  SE,  Delville  C,  Konstantopedos  P,  Hurst  J,
+3371	2	16.  Mitchell  SE,  Delville  C,  Konstantopedos  P,  Derous  D,
+3379	2	17.  Lusseau D, Mitchell SE, Barros C, Derous D, Green C,
+3386	2	18.  Mitchell  SE,  Delville  C,  Konstantopedos  P,  Derous  D,
+3395	2	19.  Derous  D,  Mitchell  SE,  Green  CL,  Chen  L,  Han  JD,
+3403	2	20.  Derous  D,  Mitchell  SE,  Green  CL,  Wang  Y,  Han  JD,
+3411	2	21.  Mitchell  SE,  Tang  Z,  Kerbois  C,  Delville  C,  Derous  D,
+3418	2	22.  Green CL, Mitchell SE, Derous D, Wang Y, Chen L, Han
+3440	2	26.  Kuhla  A,  Hahn  S,  Butschkau  A,  Lange  S,  Wree  A,
+3450	2	28.  Badman  MK,  Pissios  P,  Kennedy  AR,  Koukos  G,  Flier
+3464	2	30.  Takemori  K,  Kimura T, Shirasaka N,  Inoue T,  Masuno
+3528	2	44.  Selman  C,  Lingard  S,  Choudhury  AI,  Batterham  RL,
+3539	2	46.  Kanfi Y, Naiman S, Amir G, Peshti V, Zinman G, Nahum
+3570	2	52.  Morselli  E,  Maiuri  MC,  Markaki  M,  Megalou  E,
+3581	2	54.  Zhang  Y,  Xie  Y,  Berglund  ED,  Coate  KC,  He  TT,
+3588	2	55.  Zhang Y, Tang ZH, Ren Z, Qu SL, Liu MH, Liu LS, Jiang
+3604	2	58.  Duffy  PH,  Lewis  SM,  Mayhugh  MA,  Trotter  RW,
+3610	2	59.  Nogueira  LM,  Lavigne  JA,  Chandramouli  GV,  Lui  H,
+3617	2	60.  Kim  SS,  Choi  KM,  Kim  S,  Park  T,  Cho  IC,  Lee  JW,  Lee
+3642	2	65.  Levine  AJ,  Tomasini  R,  McKeon  FD,  Mak  TW,  Melino
+3667	2	70.  Fromenty  B,  Robin  MA,  Igoudjil  A,  Mansouri  A,
+3695	2	76.  Burks  DJ,  Font  de  Mora  J,  Schubert  M,  Withers  DJ,
+3724	2	82.  Bjedov  I,  Toivonen  JM,  Kerr  F,  Slack  C,  Jacobson  J,
+3730	2	83.  Harrison DE, Strong R, Sharp ZD, Nelson JF, Astle CM,
+3737	2	84.  Miller  RA,  Harrison  DE,  Astle  CM,  Baur  JA,  Boyd  AR,
+3746	2	86.  Lamming DW, Ye L, Katajisto P, Goncalves MD, Saitoh
+3754	2	87.  Selman  C,  Tullet  JM,  Wieser  D,  Irvine  E,  Lingard  SJ,
+3770	2	90.  Tsai SY, Rodriguez AA, Dastidar SG, Del Greco E, Carr
+3777	2	91.  Adler  AS,  Sinha  S,  Kawahara  TL,  Zhang  JY,  Segal  E,
+3799	2	95.  Mauro  C,  Leow  SC,  Anso  E,  Rocha  S,  Thotakura  AK,
+3818	2	99.  Mostoslavsky  R,  Chua  KF,  Lombard  DB,  Pang  WW,
+3825	2	100.  Haigis  MC,  Mostoslavsky  R,  Haigis  KM,  Fahie  K,
+3834	2	101.  Tsuchiya  T,  Dhahbi  JM,  Cui  X,  Mote  PL,  Bartke  A,
+3839	2	102.  Laurent  G,  German  NJ,  Saha  AK,  de  Boer  VC,  Davies
+3852	2	104.  Ford E, Voit R, Liszt G, Magin C, Grummt I, Guarente
+3878	2	110.  Selman  C,  Phillips  T,  Staib  JL,  Duncan  JS,
+3903	2	114.  Allen RG, Keogh BP, Tresini M,
+3920	2	117.  Jiang HY, Wek SA, McGrath BC, Scheu ner D, Kaufman
+3936	2	120.  Nguy
+3957	2	123.  Derous  D,  Mitchell  SE,  Green  CL,  Wang  Y,  Han  JD,
+3972	2	125.  Yang L, Licastro D, Cava E, Veron ese N, Spelta F, Rizza
+3977	2	126.  Lee  C,  Safdie  FM,  Raffaghello  L,  Wei  M,  Madia  F,
+3996	2	130.  Zhao  C,  Chen  A,  Jamieson  CH,  Fereshteh  M,
+4003	2	131.  Rubi
+4007	2	132.  Choi SS, Syn WK, Karaca GF, Omenetti A, Moylan CA,
+4027	2	136.  Laeger  T,  Henagan  TM,  Albarado  DC,  Redman  LM,
+4041	2	138.  Stone  KP,  Wanders  D,  Orgeron  M,  Cortez  CC,  Gettys
+4062	2	142.  Whiteman M, Li L, Kostetski I, Chu SH, Siau JL, Bhatia
+4077	2	145.  Sing
+4084	2	146.  Chiku  T,  Padovani  D,  Zhu  W,  Singh  S,  Vitvitsky  V,
+4091	2	147.  Hine C, Harputlugil E, Zhang Y, Ruckenstuhl C, Lee BC,
+4110	2	150.  Wyse  CA,  Coogan  AN,  Selman  C,  Hazlerigg  DG,
+4122	2	152.  Hara  R,  Wan  K,  Wakamatsu  H,  Aida  R,  Moriya  T,
+4132	2	154.  Vollmers  C,  Gill  S,  DiTacchio  L,  Pulivarthy  SR,  Le  HD,
+4142	2	156.  Omiecinski CJ, Vanden Heuvel JP, Perdew GH, Peters
+4159	2	159.  Mori  K,  Blackshear  PE,  Lobenhofer  EK,  Parker  JS,
+4199	2	167.  Li  H,  Handsaker  B,  Wysoker  A,  Fennell  T,  Ruan  J,
+4243	2	Supplementary Material
+4295	2	Ras
+5475	2	Abad
+5601	2	Nduf

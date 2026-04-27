@@ -1,0 +1,19 @@
+{
+  "id": "src-304",
+  "title": "Mechanisms of Oxidative Stress in Metabolic Syndrome",
+  "authors": [
+    "Masenga, Sepiso K.",
+    "Kabwe, Lombe S.",
+    "Chakulya, Martin",
+    "Kirabo, Annet"
+  ],
+  "doi": "10.3390/ijms24097898",
+  "url": "https://openalex.org/W4367182956",
+  "provider": "openalex",
+  "year": 2023,
+  "venue": "International Journal of Molecular Sciences",
+  "citation_count": 584,
+  "abstract": "Metabolic syndrome is a cluster of conditions associated with the risk of diabetes mellitus type 2 and cardiovascular diseases (CVDs). Metabolic syndrome is closely related to obesity. Increased adiposity promotes inflammation and oxidative stress, which are precursors of various complications involving metabolic syndrome components, namely insulin resistance, hypertension, and hyperlipidemia. An increasing number of studies confirm the importance of oxidative stress and chronic inflammation in the etiology of metabolic syndrome. However, few studies have reviewed the mechanisms underlying the role of oxidative stress in contributing to metabolic syndrome. In this review, we highlight mechanisms by which reactive oxygen species (ROS) increase mitochondrial dysfunction, protein damage, lipid peroxidation, and impair antioxidant function in metabolic syndrome. Biomarkers of oxidative stress can be used in disease diagnosis and evaluation of severity.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/1422-0067/24/9/7898/pdf?version=1682562173"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "src-374",
+  "title": "Comparison and summary of in silico prediction tools for CYP450-mediated drug metabolism.",
+  "authors": [
+    "Zhai, J.",
+    "Man, Viet Hoang",
+    "Ji, B.",
+    "Cai, Lianjin",
+    "Wang, Junmei"
+  ],
+  "doi": "10.1016/j.drudis.2023.103728",
+  "url": "https://www.semanticscholar.org/paper/33f9cd8e8a207d7733c24b0c7822c43398ca1227",
+  "provider": "semantic_scholar",
+  "year": 2023,
+  "venue": "Drug Discovery Today",
+  "citation_count": 35,
+  "abstract": "The cytochrome P450 (CYP450) enzyme system is responsible for the metabolism of more than two-thirds of xenobiotics. This review summarizes reports of a series of in silico tools for CYP450 enzyme-drug interaction predictions, including the prediction of sites of metabolism (SOM) of a drug and the identification of inhibitor/substrates for CYP subtypes. We also evaluated four prediction tools to identify CYP inhibitors utilizing 52 of the most frequently prescribed drugs. ADMET Predictor and CYPlebrity demonstrated the best performance. We hope that this review provides guidance for choosing appropriate enzyme prediction tools from a variety of in silico platforms to meet individual needs. Such predictions are useful for medicinal chemists to prioritize their designed compounds for further drug discovery.",
+  "type": "academic",
+  "pdf_url": "https://www.sciencedirect.com/science/article/am/pii/S1359644623002441"
+}

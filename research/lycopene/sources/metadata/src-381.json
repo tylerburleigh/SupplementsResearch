@@ -1,0 +1,23 @@
+{
+  "id": "src-381",
+  "title": "Plasma Insulin-Like Growth Factor-I and Prostate Cancer Risk: A Prospective Study",
+  "authors": [
+    "Chan, June M.",
+    "Stampfer, Meir J.",
+    "Giovannucci, Edward L.",
+    "Gann, Peter H.",
+    "Ma, Jing",
+    "Wilkinson, Peter",
+    "Hennekens, Charles H.",
+    "Pollak, Michaël"
+  ],
+  "doi": "10.1126/science.279.5350.563",
+  "url": "https://openalex.org/W2020636054",
+  "provider": "openalex",
+  "year": 1998,
+  "venue": "Science",
+  "citation_count": 2009,
+  "abstract": "Insulin-like growth factor-I (IGF-I) is a mitogen for prostate epithelial cells. To investigate associations between plasma IGF levels and prostate cancer risk, a nested case-control study within the Physicians' Health Study was conducted on prospectively collected plasma from 152 cases and 152 controls. A strong positive association was observed between IGF-I levels and prostate cancer risk. Men in the highest quartile of IGF-I levels had a relative risk of 4.3 (95 percent confidence interval 1.8 to 10.6) compared with men in the lowest quartile. This association was independent of baseline prostate-specific antigen levels. Identification of plasma IGF-I as a predictor of prostate cancer risk may have implications for risk reduction and treatment.",
+  "type": "academic",
+  "pdf_url": ""
+}

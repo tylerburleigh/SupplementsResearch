@@ -1,0 +1,38 @@
+{
+  "id": "src-312",
+  "title": "NAD+ precursor supplementation in human ageing: clinical evidence and challenges",
+  "authors": [
+    "Vinten, Kasper T.",
+    "Trętowicz, Maria M.",
+    "Coskun, Evrim",
+    "van Weeghel, Michel",
+    "Cantó, Carles",
+    "Zapata-Pérez, Rubén",
+    "Janssens, Georges E.",
+    "Houtkooper, Riekelt H."
+  ],
+  "year": 2025,
+  "abstract": "",
+  "doi": "10.1038/s42255-025-01387-7",
+  "url": "https://doi.org/10.1038/s42255-025-01387-7",
+  "pdf_url": "",
+  "venue": "Nature Metabolism",
+  "citation_count": 11,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-23T11:38:47.139185+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-312.md",
+  "quality_details": {
+    "content_length": 47244,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

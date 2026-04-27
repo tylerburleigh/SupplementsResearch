@@ -1,0 +1,48 @@
+49	2	Open Access
+50	2	Edited By
+53	2	Reviewed By
+65	2	Citation
+72	2	Copyright
+91	2	Keywords
+94	2	1 Introduction
+133	2	2 Methods
+134	3	2.1 Protocol and registration
+140	3	2.2 Study design
+148	3	2.3 Search strategy
+155	4	2.3.1 PubMed
+165	4	2.3.2 Scopus
+194	4	2.3.3 Web of science
+209	3	2.4 Inclusion and exclusion criteria
+210	4	2.4.1 Inclusion criteria
+222	4	2.4.2 Exclusion criteria
+234	3	2.5 Data extraction and processing
+261	3	2.6 Quality assessment
+276	3	2.7 Data analysis and synthesis
+311	3	2.8 Certainty of evidence assessment
+319	2	3 Results
+320	3	3.1 Literature search results
+338	3	3.2 Basic information and methodological
+340	4	3.2.1 Study design
+349	4	3.2.2 Participant characteristics
+361	4	3.2.3 Intervention details
+367	4	3.2.4 Outcome measurement indicators
+372	3	3.3 Risk of bias assessment
+385	3	3.4 Meta-analysis results
+386	4	3.4.1 Overall cognitive function
+402	4	3.4.2 Executive function
+426	4	3.4.3 Attention
+532	2	Moca
+622	2	Rapm Bds
+646	4	3.4.4 Memory function
+667	4	3.4.5 Processing speed
+691	3	3.5 Subgroup analysis results
+692	4	3.5.1 Subgroup analysis of attention
+760	4	3.5.2 Subgroup analysis of processing speed time
+776	3	3.6 Sensitivity analysis
+798	3	3.8 Certainty of evidence
+827	2	4 Discussion
+1041	2	5 Conclusion
+1056	2	Author Contributions
+1078	2	Supplementary Material
+1082	2	References
+1101	2	8. Joncquel-Chevalier Curt M, Voicu P-M, Fontaine M, Dessein A-F , Porchet N,

@@ -1,0 +1,31 @@
+{
+  "id": "src-035",
+  "title": "Preventing Vitamin B6–Related Neurotoxicity",
+  "authors": [
+    "Reddy, Pramod"
+  ],
+  "year": 2022,
+  "abstract": "Background:\nVitamin B6 is essential for life and plays a critical role in many biochemical and physiological processes in the human body. The term B6 collectively refers to 6 water-soluble vitamers, and only the pyridoxal 5′-phosphate (PLP) serves as the biologically active form. A plasma PLP concentration above 30 nmol/L (7.4 μg/L) is indicative of an adequate vitamin B6 status for all age and sex groups. The currently recommended daily allowance of B6 (1.5–2 mg/d) from dietary sources frequently results in inadequate B6 status (&lt;20 nmol/L or 5 μg/L) in many elderly patients and patients with comorbid conditions. PLP-based supplements are preferred and should be administered weekly in low doses (50–100 mg) to maintain a stable serum PLP level between 30 and 60 nmol/L or 7.4 and 15 μg/L.\n\nAreas of Uncertainty:\nIt is challenging for physicians to prescribe a safe dose of B6 supplements because of the narrow therapeutic index. The association between elevated levels of pyridoxine and neuropathy is not well established. PLP-based supplements are shown to be least neurotoxic, but further clinical trials are needed to establish the long-term safety in high doses.\n\nData Sources:\nPubMed search of randomized control trials and meta-analyses.\n\nTherapeutic Opinion:\nPlasma B6 levels should be ordered as a part of workup of any unexplained anemia before labeling as “anemia of chronic disease.” B6 supplementation is also crucial in the management of chronic Mg deficiency resistant to therapy. When B6 is administered daily in supraphysiologic doses, there is a potential for the development of neurotoxicity (typically at levels &gt;100 nmol/L or 25 μg/L). PLP-based supplements are preferred over pyridoxine supplements because of minimal neurotoxicity observed in neuronal cell viability tests. Since B6 metabolites have a long half-life, weekly administration is preferred over daily use to prevent toxicity.",
+  "doi": "10.1097/mjt.0000000000001460",
+  "url": "https://doi.org/10.1097/mjt.0000000000001460",
+  "pdf_url": "",
+  "venue": "American Journal of Therapeutics",
+  "citation_count": 10,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-20T16:02:04.430358+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-035.md",
+  "quality_details": {
+    "content_length": 2458,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "src-369",
+  "title": "In Silico Prediction of Cytochrome P450-Drug Interaction: QSARs for CYP3A4 and CYP2C9",
+  "authors": [
+    "Nembri, Serena",
+    "Grisoni, F.",
+    "Consonni, V.",
+    "Todeschini, R."
+  ],
+  "doi": "10.3390/ijms17060914",
+  "url": "https://www.semanticscholar.org/paper/6ea111499c05ad7d111cb5fa2387b518bfa81a96",
+  "provider": "semantic_scholar",
+  "year": 2016,
+  "venue": "International Journal of Molecular Sciences",
+  "citation_count": 57,
+  "abstract": "Cytochromes P450 (CYP) are the main actors in the oxidation of xenobiotics and play a crucial role in drug safety, persistence, bioactivation, and drug-drug/food-drug interaction. This work aims to develop Quantitative Structure-Activity Relationship (QSAR) models to predict the drug interaction with two of the most important CYP isoforms, namely 2C9 and 3A4. The presented models are calibrated on 9122 drug-like compounds, using three different modelling approaches and two types of molecular description (classical molecular descriptors and binary fingerprints). For each isoform, three classification models are presented, based on a different approach and with different advantages: (1) a very simple and interpretable classification tree; (2) a local (k-Nearest Neighbor) model based classical descriptors and; (3) a model based on a recently proposed local classifier (N-Nearest Neighbor) on binary fingerprints. The salient features of the work are (1) the thorough model validation and the applicability domain assessment; (2) the descriptor interpretation, which highlighted the crucial aspects of P450-drug interaction; and (3) the consensus aggregation of models, which largely increased the prediction accuracy.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/1422-0067/17/6/914/pdf?version=1465475747"
+}

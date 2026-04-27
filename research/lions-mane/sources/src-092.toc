@@ -1,0 +1,14 @@
+32	2	1. Thus, it has potential applications
+44	2	1. These secondary metabolites
+54	2	Open
+67	2	19. The biosynthetic
+70	2	19. Although the chemical synthesis of bioactive compounds of cyathane-type
+79	2	Results
+112	2	27. High expression of MnP in the MK indicates its strong
+216	2	31. The seven STS genes
+360	2	Discussion
+436	2	Materials And Methods
+495	2	31. Sequences of sesquiterpene synthases from Coprinopsis cinereus, Omphalotus
+517	2	References
+630	2	Acknowledgements
+635	2	Author Contributions

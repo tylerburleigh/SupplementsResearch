@@ -1,0 +1,8 @@
+5	2	Review Article
+18	2	Abstract
+28	2	Introduction
+708	2	Conclusions
+732	2	References
+821	2	29. Kontoghiorghes GJ, Kolnagou A, Demetriou T, Neocleous M,
+931	2	60. Gordeuk VR, Brittenham GM, McLaren CE, Hughes MA, Keating
+1047	2	91. Stoffel NU, Zeder C, Brittenham GM, Moretti D, Zimmermann

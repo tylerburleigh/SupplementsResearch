@@ -1,0 +1,16 @@
+{
+  "id": "src-111",
+  "title": "Signaling pathways and effectors of aging",
+  "authors": [
+    "Tabibzadeh, Siamak"
+  ],
+  "doi": "10.2741/4889",
+  "url": "https://openalex.org/W3092418268",
+  "provider": "openalex",
+  "year": 2020,
+  "venue": "Frontiers in bioscience",
+  "citation_count": 131,
+  "abstract": "Aging leads to and is associated with aberrant function of multiple signaling pathways and a host of factors that maintain cellular health. Under normal conditions, the prolongevity, 5' AMP-activated protein kinase (AMPK), is dedicated to the homeostasis of metabolism and autophagy for removal of damaged cellular compartments and molecules. A host of sirtuin family of molecules, that extend life-span, regulate metabolism and repair DNA damage, and possess either mono-ADP-ribosyltransferase, or deacylase activity. Another group of pro-longevity factors, include FOX (forkhead box) proteins, a family of transcription factors that regulate the expression of genes involved in cell growth, proliferation, differentiation, and longevity. Nicotinamide phosphoribosyltransferase (NAmPRTase or Nampt) catalyzes the condensation of nicotinamide with 5-phosphoribosyl-1-pyrophosphate to yield nicotinamide mononucleotide (NMN), a requisite step for production of NAD+, which is known to increase longevity. Loss of Klotho, a transmembrane enzyme that controls the sensitivity of the organism to insulin and suppresses oxidative stress and inflammation, leads to premature aging in mice. Hydrogen sulfide and transsulfuration pathways are crucial to the long life and are required in protection of cells against damage. Aging also leads to the imbalanced activation of other pathways and factors including p53, insulin and IGF signaling, P13K/AKT, mTOR, PKA, RAS, RTK, MEK, ERK, MAPK, CRTC-1/CREB and NFkB. Such aberrant cellular functions, disturb cell metabolism, derail autophagy and other housekeeping actions, inhibit cell division, induce inflammaging and immunosenecence, cause stem cell exhaustion and induce either senescence, apoptosis or cancer.",
+  "type": "academic",
+  "pdf_url": "https://doaj.org/article/f8920f29756148e699b97ce8bbfc643a"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "src-100",
+  "title": "Vitamin D: A Review on Its Effects on Muscle Strength, the Risk of Fall, and Frailty",
+  "authors": [
+    "Halfon, Matthieu",
+    "Phan, Olivier",
+    "Teta, Daniel"
+  ],
+  "doi": "10.1155/2015/953241",
+  "url": "https://openalex.org/W2064785632",
+  "provider": "openalex",
+  "year": 2015,
+  "venue": "BioMed Research International",
+  "citation_count": 258,
+  "abstract": "Vitamin D is the main hormone of bone metabolism. However, the ubiquitary nature of vitamin D receptor (VDR) suggests potential for widespread effects, which has led to new research exploring the effects of vitamin D on a variety of tissues, especially in the skeletal muscle. In vitro studies have shown that the active form of vitamin D, calcitriol, acts in myocytes through genomic effects involving VDR activation in the cell nucleus to drive cellular differentiation and proliferation. A putative transmembrane receptor may be responsible for nongenomic effects leading to rapid influx of calcium within muscle cells. Hypovitaminosis D is consistently associated with decrease in muscle function and performance and increase in disability. On the contrary, vitamin D supplementation has been shown to improve muscle strength and gait in different settings, especially in elderly patients. Despite some controversies in the interpretation of meta-analysis, a reduced risk of falls has been attributed to vitamin D supplementation due to direct effects on muscle cells. Finally, a low vitamin D status is consistently associated with the frail phenotype. This is why many authorities recommend vitamin D supplementation in the frail patient.",
+  "type": "academic",
+  "pdf_url": "https://downloads.hindawi.com/journals/bmri/2015/953241.pdf"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "src-296",
+  "title": "Systematic Review and Meta-Analysis on the Association Between Daily Niacin Intake and Glaucoma",
+  "authors": [
+    "Nicola, Constantin Alin",
+    "Marinescu, Maria Cristina",
+    "Firan, Anne Marie",
+    "Naidin, Mihaela-Simona",
+    "Ciuluvică, Radu",
+    "Roșu, Maria Magdalena",
+    "Meca, Andreea-Daniela",
+    "Bogdán, Mária",
+    "Turcu-Ştiolică, Adina"
+  ],
+  "doi": "10.3390/nu16213604",
+  "url": "https://openalex.org/W4403680865",
+  "provider": "openalex",
+  "year": 2024,
+  "venue": "Nutrients",
+  "citation_count": 8,
+  "abstract": "Daily dietary intake of niacin is significantly lower in patients with glaucoma compared to the general population. Given different average daily intakes of niacin in these populations, different glaucoma definitions and several confounding variables which weaken the associations, large sample, standardised randomised controlled trials are needed to confirm the potential benefits of niacin in glaucoma.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2072-6643/16/21/3604/pdf?version=1729751299"
+}

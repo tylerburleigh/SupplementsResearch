@@ -1,0 +1,17 @@
+10	2	Abstract
+48	2	Background
+96	2	Methods
+173	2	Statistical Analysis
+198	2	Results
+495	2	Discussion
+688	2	Conclusions
+708	2	Acknowledgements
+719	2	Competing Interests
+736	2	References
+748	2	5. Brinkley TE, Hsu FC, Beavers KM, Church TS, Goodpaster BH, Stafford RS,
+781	2	14. Payette H, Roubenoff R, Jacques PF, Dinarello CA, Wilson PW, Abad LW,
+804	2	21. Jenny NS, French B, Arnold AM, Strotmeyer ES, Cushman M, Chaves PH,
+834	2	29. Matsushima J, Kawashima T, Nabeta H, Imamura Y, Watanabe I, Mizoguchi Y,
+838	2	30. Bledowski P, Mossakowska M, Chudek J, Grodzicki T, Milewicz A, Szybalska A,
+863	2	38. Minciullo PL, Catalano A, Mandraffino G, Casciaro M, Crucitti A, Maltese G,
+921	2	56. Beavers KM, Beavers DP, Newman JJ, Anderson AM, Loeser Jr RF, Nicklas BJ,

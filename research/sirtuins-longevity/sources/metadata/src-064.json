@@ -1,0 +1,32 @@
+{
+  "id": "src-064",
+  "title": "Sirtuins in atherosclerosis: guardians of healthspan and therapeutic targets",
+  "authors": [
+    "Grootaert, Mandy O. J.",
+    "Bennett, Martin R."
+  ],
+  "year": 2022,
+  "abstract": "",
+  "doi": "10.1038/s41569-022-00685-x",
+  "url": "https://doi.org/10.1038/s41569-022-00685-x",
+  "pdf_url": "",
+  "venue": "Nature Reviews Cardiology",
+  "citation_count": 72,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-23T11:26:57.161291+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-064.md",
+  "quality_details": {
+    "content_length": 43859,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

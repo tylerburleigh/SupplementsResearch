@@ -1,0 +1,19 @@
+{
+  "id": "src-322",
+  "title": "The microRNA machinery regulates fasting-induced changes in gene expression and longevity in Caenorhabditis elegans.",
+  "authors": [
+    "Kogure, Akiko",
+    "Uno, Masaharu",
+    "Ikeda, Takako",
+    "Nishida, Eisuke"
+  ],
+  "doi": "10.1074/jbc.m116.765065",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/28507100",
+  "provider": "pubmed",
+  "year": 2017,
+  "venue": "The Journal of biological chemistry",
+  "citation_count": 0,
+  "abstract": "Intermittent fasting (IF) is a dietary restriction regimen that extends the lifespans of Caenorhabditis elegans and mammals by inducing changes in gene expression. However, how IF induces these changes and promotes longevity remains unclear. One proposed mechanism involves gene regulation by microRNAs (miRNAs), small non-coding RNAs (∼22 nucleotides) that repress gene expression and whose expression can be altered by fasting. To test this proposition, we examined the role of the miRNA machinery in fasting-induced transcriptional changes and longevity in C. elegans We revealed that fasting up-regulated the expression of the miRNA-induced silencing complex (miRISC) components, including Argonaute and GW182, and the miRNA-processing enzyme DRSH-1 (the ortholog of the Drosophila Drosha enzyme). Our lifespan measurements demonstrated that IF-induced longevity was suppressed by knock-out or knockdown of miRISC components and was completely inhibited by drsh-1 ablation. Remarkably, drsh-1 ablation inhibited the fasting-induced changes in the expression of the target genes of DAF-16, the insulin/IGF-1 signaling effector in C. elegans Fasting-induced transcriptome alterations were substantially and modestly suppressed in the drsh-1 null mutant and the null mutant of ain-1, a gene encoding GW182, respectively. Moreover, miRNA array analyses revealed that the expression levels of numerous miRNAs changed after 2 days of fasting. These results indicate that components of the miRNA machinery, especially the miRNA-processing enzyme DRSH-1, play an important role in mediating IF-induced longevity via the regulation of fasting-induced changes in gene expression.",
+  "type": "academic",
+  "pdf_url": ""
+}

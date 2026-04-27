@@ -1,0 +1,19 @@
+{
+  "id": "src-091",
+  "title": "Lacticaseibacillus rhamnosus Probio-M9 extends the lifespan of Caenorhabditis elegans",
+  "authors": [
+    "Zhang, Juntao",
+    "Zhao, Yanmei",
+    "Sun, Zhihong",
+    "Sun, Tiansong"
+  ],
+  "doi": "10.1038/s42003-022-04031-2",
+  "url": "https://openalex.org/W4307407903",
+  "provider": "openalex",
+  "year": 2022,
+  "venue": "Communications Biology",
+  "citation_count": 44,
+  "abstract": "Probiotics have been characterized as useful for maintaining the balance of host gut flora and conferring health effects, but few studies have focused on their potential for delaying aging in the host. Here we show that Lacticaseibacillus rhamnosus Probio-M9 (Probio-M9), a healthy breast milk probiotic, enhances the locomotor ability and slows the decline in muscle function of the model organism Caenorhabditis elegans. Live Probio-M9 significantly extends the lifespan of C. elegans in a dietary restriction-independent manner. By screening various aging-related mutants of C. elegans, we find that Probio-M9 extends lifespan via p38 cascade and daf-2 signaling pathways, independent on daf-16 but dependent on skn-1. Probio-M9 protects and repairs damaged mitochondria by activating mitochondrial unfolded protein response. The significant increase of amino acids, sphingolipid, galactose and fatty acids in bacterial metabolites might be involved in extending the lifespan of C. elegans. We reveal that Probio-M9 as a dietary supplementation had the potential to delay aging in C. elegans and also provide new methods and insights for further analyzing probiotics in improving host health and delaying the occurrence of age-related chronic diseases.",
+  "type": "academic",
+  "pdf_url": "https://www.nature.com/articles/s42003-022-04031-2.pdf"
+}

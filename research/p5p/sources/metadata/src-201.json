@@ -1,0 +1,18 @@
+{
+  "id": "src-201",
+  "title": "Biomedical aspects of pyridoxal 5'-phosphate availability.",
+  "authors": [
+    "di Salvo, Martino L",
+    "Safo, Martin K",
+    "Contestabile, Roberto"
+  ],
+  "doi": "10.2741/e428",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/22201923",
+  "provider": "pubmed",
+  "year": 2012,
+  "venue": "Frontiers in bioscience (Elite edition)",
+  "citation_count": 0,
+  "abstract": "The biologically active form of vitamin B6, pyridoxal 5'-phosphate (PLP), is a cofactor in over 160 enzyme activities involved in a number of metabolic pathways, including neurotransmitter synthesis and degradation. In humans, PLP is recycled from food and from degraded PLP-dependent enzymes in a salvage pathway requiring the action of pyridoxal kinase, pyridoxine 5'-phosphate oxidase and phosphatases. Once pyridoxal 5'-phosphate is made, it is targeted to the dozens different apoenzymes that need it as a cofactor. The regulation of the salvage pathway and the mechanism of addition of PLP to the apoenzymes are poorly understood and represent a very challenging research field. Severe neurological disorders, such as convulsions and epileptic encephalopathy, result from a reduced availability of pyridoxal 5'-phosphate in the cell, due to inborn errors in the enzymes of the salvage pathway or other metabolisms and to interactions of drugs with PLP or pyridoxal kinase. Multifactorial neurological pathologies, such as autism, schizophrenia, Alzheimer's disease, Parkinson's disease and epilepsy have also been correlated to inadequate intracellular levels of PLP.",
+  "type": "academic",
+  "pdf_url": ""
+}

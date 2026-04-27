@@ -1,0 +1,23 @@
+25	2	Abstract
+57	2	1. It is well-known that the antidepressant medications
+61	2	2. There is an evidence that pharmacological
+65	2	3. It is found that resistant depression can be treated by
+69	2	1. We showed for the first time that the severity of
+74	2	2. Furthermore, a combination of low-dose
+78	2	3. We extended our knowledge of the use of
+88	2	Introduction
+134	2	Materials And Methods
+207	2	Data Analysis
+218	2	Results
+262	2	Discussion
+385	2	Conclusion
+399	2	Results
+406	2	Limitations
+449	2	Acknowledgements
+451	2	Author Contributions
+459	2	Data Availability
+491	2	Competing Interests
+494	2	References
+500	2	4. Papakostas GI, Shelton RC, Zajecka JM, Bottiglieri T, Roffman J, Cassiello C, et
+538	2	16. Combination Therapy of Different Antidepressants With Dietary Supple-
+562	2	25. Hudgens S, Floden L, Blackowicz M, Jamieson C, Popova V, Fedgchin M, et

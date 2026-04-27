@@ -1,0 +1,28 @@
+{
+  "id": "src-278",
+  "title": "A transcriptome-based human universal senescence index (hUSI) robustly predicts cellular senescence under various conditions",
+  "authors": [
+    "Wang, Jing",
+    "Zhou, Xiaolan",
+    "Yu, Peng",
+    "Yao, Jun",
+    "Guo, Pengfei",
+    "Xu, Qiushi",
+    "Zhao, Yuqi",
+    "Wang, Guanlong",
+    "Li, Qianru",
+    "Zhu, Xiaofeng",
+    "Wei, Gang",
+    "Wang, Weixu",
+    "Ni, Ting"
+  ],
+  "doi": "10.1038/s43587-025-00886-2",
+  "url": "https://www.semanticscholar.org/paper/9ccbe51b4a014d8a865762a2d5cafa7a47b58175",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "Nature Aging",
+  "citation_count": 15,
+  "abstract": "Despite the manifestation and contribution of cellular senescence to aging and various diseases, accurate identification of heterogeneous senescent cells remains challenging. Current senescence evaluation methods rely mainly on limited markers or homogeneous samples, which might fail to capture universal senescence features, limiting their generalizability. Here we developed the human universal senescence index (hUSI), an accurate and robust senescence evaluation method for diverse cells and samples. Based on features learned from the most comprehensive cellular senescence-associated transcriptome data so far, hUSI demonstrated its convincing connections with senescence phenotypes and superior robustness in predicting senescence state. Using hUSI, we discovered potential senescence regulators and mapped senescent cell accumulation across cell types in coronavirus disease 2019 (COVID-19). The method also facilitates decoding heterogeneous senescence states in melanoma tumors, identifying prognosis-associated signaling pathways. Overall, hUSI demonstrates its utility in characterizing cellular senescence across biological contexts, with broad applications in aging research and clinical practice. Wang et al. present the human universal senescence index (hUSI), a robust transcriptome-based tool that accurately predicts cellular senescence across diverse conditions, offering insights into aging and therapeutic strategies.",
+  "type": "academic",
+  "pdf_url": ""
+}

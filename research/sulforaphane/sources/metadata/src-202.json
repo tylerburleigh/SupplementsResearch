@@ -1,0 +1,18 @@
+{
+  "id": "src-202",
+  "title": "Integrative Bioinformatic Identification and Molecular Docking of Quercetin and Sulforaphane-Associated Prognostic Targets in Pancreatic Adenocarcinoma.",
+  "authors": [
+    "Isıyel, Murat",
+    "Ceylan, Hamid",
+    "Demir, Yeliz"
+  ],
+  "doi": "10.1002/cbdv.202503423",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41823013",
+  "provider": "pubmed",
+  "year": 2026,
+  "venue": "Chemistry & biodiversity",
+  "citation_count": 0,
+  "abstract": "Pancreatic adenocarcinoma (PAAD) remains a highly lethal malignancy with limited therapeutic options, motivating the search for robust prognostic markers and tractable therapeutic targets. In this study, we applied an integrative bioinformatic pipeline combining cross-cohort differential expression analysis, high-confidence protein-protein interaction network reconstruction, and topological hub-gene prioritization. Hub candidates were then intersected with curated target repertoires of multi-target chemicals (notably quercetin and sulforaphane [SFN]) to nominate pharmacologically accessible \"elite\" targets. Downstream in silico validation included comparative mRNA and protein expression profiling, correlations with immune infiltration metrics, survival prognostic assessments, and molecular docking to evaluate ligand-target complementarity. This multilayered approach consistently highlighted extracellular matrix remodeling, integrin-mediated adhesion, and pericellular proteolysis as central processes in PAAD biology and identified COL1A1, ITGA2, and PLAU as top-priority targets that combine high network centrality with overlap to phytochemical target spaces. These genes demonstrated tumor-enriched expression, adverse survival associations, and distinct immune-microenvironment correlations, suggesting a potential involvement in pro-tumorigenic remodeling processes. Molecular docking analyses suggested computationally feasible ligand-target binding hypotheses, with quercetin exhibiting comparatively stronger predicted affinities than SFN across all targets.",
+  "type": "academic",
+  "pdf_url": ""
+}

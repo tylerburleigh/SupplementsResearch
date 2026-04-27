@@ -1,0 +1,20 @@
+{
+  "id": "src-207",
+  "title": "Helicobacter pylori moderates the association between 5-MTHF concentration and cognitive function in older adults.",
+  "authors": [
+    "Berrett, Andrew N",
+    "Gale, Shawn D",
+    "Erickson, Lance D",
+    "Brown, Bruce L",
+    "Hedges, Dawson W"
+  ],
+  "doi": "10.1371/journal.pone.0190475",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/29364915",
+  "provider": "pubmed",
+  "year": 2018,
+  "venue": "PloS one",
+  "citation_count": 0,
+  "abstract": "OBJECTIVE: To explore potential interactions between folate-cycle factors and Helicobacter pylori seropositivity in the prediction of cognitive function.\nMETHODS: We used data obtained from the 1999-2000 continuous National Health and Nutrition Examination Survey produced by the United States' Centers for Disease Control and Prevention. Using Ordinary Least Squares regression, we tested for associations between multiple folate-cycle factors, Helicobacter pylori seropositivity, and cognitive function assessed by the digit symbol coding subtest of the Wechsler Adult Intelligence Scale-III. We then tested for interactions between each of the folate-cycle factors and Helicobacter pylori in the prediction of cognitive function.\nRESULTS: Although Helicobacter pylori seropositivity, 5-methyltetrahydrofolate, vitamin B-12, and homocysteine were not associated with performance on the digit symbol coding task, Helicobacter pylori seropositivity interacted with 5-methyltetrahydrofolate concentration to predict performance on the digit symbol coding task. The Helicobacter pylori seropositive group performed worse on the digit symbol coding task as 5-methyltetrahydrofolate concentration decreased.\nCONCLUSION: The interaction between Helicobacter pylori seropositivity and reduced folate-cycle factor 5-methyltetrahydrofolate might impair aspects of cognitive function.",
+  "type": "academic",
+  "pdf_url": ""
+}

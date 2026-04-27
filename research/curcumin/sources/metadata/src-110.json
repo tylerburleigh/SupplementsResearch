@@ -1,0 +1,22 @@
+{
+  "id": "src-110",
+  "title": "Recent Advances in Zinc Oxide Nanoparticles (ZnO NPs) for Cancer Diagnosis, Target Drug Delivery, and Treatment",
+  "authors": [
+    "Anjum, Sumaira",
+    "Hashim, Mariam",
+    "Malik, Sara Asad",
+    "Khan, Maha",
+    "Lorenzo, José M.",
+    "Abbasi, Bilal Haider",
+    "Hano, Christophe"
+  ],
+  "doi": "10.3390/cancers13184570",
+  "url": "https://openalex.org/W3198922546",
+  "provider": "openalex",
+  "year": 2021,
+  "venue": "Cancers",
+  "citation_count": 522,
+  "abstract": "Cancer is regarded as one of the most deadly and mirthless diseases and it develops due to the uncontrolled proliferation of cells. To date, varieties of traditional medications and chemotherapies have been utilized to fight tumors. However, their immense drawbacks, such as reduced bioavailability, insufficient supply, and significant adverse effects, make their use limited. Nanotechnology has evolved rapidly in recent years and offers a wide spectrum of applications in the healthcare sectors. Nanoscale materials offer strong potential for curing cancer as they pose low risk and fewer complications. Several metal oxide NPs are being developed to diagnose or treat malignancies, but zinc oxide nanoparticles (ZnO NPs) have remarkably demonstrated their potential in the diagnosis and treatment of various types of cancers due to their biocompatibility, biodegradability, and unique physico-chemical attributes. ZnO NPs showed cancer cell specific toxicity via generation of reactive oxygen species and destruction of mitochondrial membrane potential, which leads to the activation of caspase cascades followed by apoptosis of cancerous cells. ZnO NPs have also been used as an effective carrier for targeted and sustained delivery of various plant bioactive and chemotherapeutic anticancerous drugs into tumor cells. In this review, at first we have discussed the role of ZnO NPs in diagnosis and bio-imaging of cancer cells. Secondly, we have extensively reviewed the capability of ZnO NPs as carriers of anticancerous drugs for targeted drug delivery into tumor cells, with a special focus on surface functionalization, drug-loading mechanism, and stimuli-responsive controlled release of drugs. Finally, we have critically discussed the anticancerous activity of ZnO NPs on different types of cancers along with their mode of actions. Furthermore, this review also highlights the limitations and future prospects of ZnO NPs in cancer theranostic.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2072-6694/13/18/4570/pdf?version=1631596759"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "src-200",
+  "title": "The Biology and Biochemistry of Kynurenic Acid, a Potential Nutraceutical with Multiple Biological Effects",
+  "authors": [
+    "Alves, Luana de Fátima",
+    "Moore, J. Bernadette",
+    "Kell, Douglas B."
+  ],
+  "doi": "10.3390/ijms25169082",
+  "url": "https://openalex.org/W4401894386",
+  "provider": "openalex",
+  "year": 2024,
+  "venue": "International Journal of Molecular Sciences",
+  "citation_count": 23,
+  "abstract": "Kynurenic acid (KYNA) is an antioxidant degradation product of tryptophan that has been shown to have a variety of cytoprotective, neuroprotective and neuronal signalling properties. However, mammalian transporters and receptors display micromolar binding constants; these are consistent with its typically micromolar tissue concentrations but far above its serum/plasma concentration (normally tens of nanomolar), suggesting large gaps in our knowledge of its transport and mechanisms of action, in that the main influx transporters characterized to date are equilibrative, not concentrative. In addition, it is a substrate of a known anion efflux pump (ABCC4), whose in vivo activity is largely unknown. Exogeneous addition of L-tryptophan or L-kynurenine leads to the production of KYNA but also to that of many other co-metabolites (including some such as 3-hydroxy-L-kynurenine and quinolinic acid that may be toxic). With the exception of chestnut honey, KYNA exists at relatively low levels in natural foodstuffs. However, its bioavailability is reasonable, and as the terminal element of an irreversible reaction of most tryptophan degradation pathways, it might be added exogenously without disturbing upstream metabolism significantly. Many examples, which we review, show that it has valuable bioactivity. Given the above, we review its potential utility as a nutraceutical, finding it significantly worthy of further study and development.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/1422-0067/25/16/9082/pdf?version=1724325107"
+}

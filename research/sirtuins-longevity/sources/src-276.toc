@@ -1,0 +1,35 @@
+176	2	Nad
+186	2	7. PARPs catalyze
+268	2	68. However, tracer experiments have also shown that NMN at low
+329	2	Nad
+478	2	39. Supporting
+558	2	134. Involved in cellular
+592	2	143. It also ameliorates oxidative stress
+706	2	173. Similarly, in
+717	2	177. Overall, these studies highlight the complex role of
+757	2	188. Fucoidan, a group of sulfated polysaccharides
+780	2	102. In parallel, other studies have explored the
+802	2	197. Another NAM analog-based NNMT inhibitor,
+806	2	198. Another approach to modulate NNMT
+817	2	202. Additionally, methylated quinolines such
+881	2	223. These activators have shown
+1030	2	Nad
+1168	2	265. These mutations
+1187	2	Nad
+1191	2	Nad
+1281	2	287. These results highlight the need for
+1344	2	300. Studies have indicated tha t, in human NAFLD patients,
+1365	2	303. Defective CL leads to mitochondrial dysfunction, which is
+1381	2	307. However, another study using rats showed
+1466	2	313. NR supplementation increased
+1491	2	244. In this trial, patients received NA starting with
+1518	2	324. Another study with NMN indicated that NMN
+1577	2	Discussion
+1641	2	Nad
+1648	2	Nad
+1673	2	340. Studies indicate that cells will make a glycolytic switch
+1690	2	Data Availability
+1693	2	References
+2858	2	Acknowledgements
+2863	2	Author Contributions
+2867	2	Competing Interests

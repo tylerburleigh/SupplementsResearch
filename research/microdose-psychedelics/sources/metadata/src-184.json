@@ -1,0 +1,18 @@
+{
+  "id": "src-184",
+  "title": "Application and prospects of brain-computer interface technology for motor function reconstruction after brachial plexus injury",
+  "authors": [
+    "Song, Sungil",
+    "Li, Xia",
+    "Pan, Pinglei"
+  ],
+  "doi": "10.1080/07853890.2026.2646355",
+  "url": "https://www.semanticscholar.org/paper/819f246b82c4571e819ad0f413b170767dffffa1",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "Annals medicus",
+  "citation_count": 0,
+  "abstract": "Abstract Background Brachial plexus injury (BPI) is a severe peripheral nerve disorder leading to significant upper limb motor dysfunction. While traditional surgeries like nerve grafting and tendon transfer exist, functional outcomes are often suboptimal due to biomechanical limitations and slow neural recovery. Brain-computer interface (BCI) technology has emerged as a promising innovative pathway for motor function reconstruction. Objective This review systematically evaluates the current applications, physiological mechanisms, and technical challenges of BCI technology specifically within the clinical framework of BPI rehabilitation. Methods We analysed recent research breakthroughs focusing on neural repair mechanisms, clinical translational applications of BCI-controlled neuroprosthetics, and the integration of novel biomaterials. Results BCI technology facilitates cortical remapping after standard BPI procedures like nerve transfers by providing synchronised closed-loop feedback. Unlike applications for amputees that drive external prosthetics, BCI in BPI focuses on in-situ muscle activation via a “neural bypass” to prevent disuse atrophy and restore a sense of agency. Furthermore, BCI-mediated neuromodulation shows unique potential in alleviating chronic deafferentation pain by down-regulating pathological cortical hyperexcitability. Emerging technologies like conductive hydrogels and hybrid BCI systems are addressing current bottlenecks in signal stability and control accuracy. Conclusion BCI technology represents a transformative approach for BPI rehabilitation, moving from mechanical substitution to biological reactivation. Overcoming technical barriers in signal reliability and establishing personalised rehabilitation systems are essential for their broad clinical translation.",
+  "type": "academic",
+  "pdf_url": ""
+}

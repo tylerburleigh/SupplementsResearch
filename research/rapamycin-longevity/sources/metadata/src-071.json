@@ -1,0 +1,18 @@
+{
+  "id": "src-071",
+  "title": "Polyamines in aging and disease",
+  "authors": [
+    "Minois, Nadège",
+    "Carmona‐Gutiérrez, Didac",
+    "Madeo, Frank"
+  ],
+  "doi": "10.18632/aging.100361",
+  "url": "https://openalex.org/W2104047392",
+  "provider": "openalex",
+  "year": 2011,
+  "venue": "Aging",
+  "citation_count": 502,
+  "abstract": "Polyamines are polycations that interact with negatively charged molecules such as DNA, RNA and proteins. They play multiple roles in cell growth, survival and proliferation. Changes in polyamine levels have been associated with aging and diseases. Their levels decline continuously with age and polyamine (spermidine or high-polyamine diet) supplementation increases life span in model organisms. Polyamines have also been involved in stress resistance. On the other hand, polyamines are increased in cancer cells and are a target for potential chemotherapeutic agents. In this review, we bring together these various results and draw a picture of the state of our knowledge on the roles of polyamines in aging, stress and diseases.",
+  "type": "academic",
+  "pdf_url": "https://www.aging-us.com/article/100361/pdf"
+}

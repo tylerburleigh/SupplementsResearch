@@ -1,0 +1,21 @@
+{
+  "id": "src-081",
+  "title": "Antioxidants Maintain Cellular Redox Homeostasis by Elimination of Reactive Oxygen Species",
+  "authors": [
+    "He, Long",
+    "He, Ting",
+    "Farrar, Shabnam",
+    "Ji, Linbao",
+    "Liu, Tianyi",
+    "Ma, Xi"
+  ],
+  "doi": "10.1159/000485089",
+  "url": "https://openalex.org/W2769622412",
+  "provider": "openalex",
+  "year": 2017,
+  "venue": "Cellular Physiology and Biochemistry",
+  "citation_count": 2041,
+  "abstract": "Reactive oxygen species (ROS) are produced by living cells as normal cellular metabolic byproduct. Under excessive stress conditions, cells will produce numerous ROS, and the living organisms eventually evolve series of response mechanisms to adapt to the ROS exposure as well as utilize it as the signaling molecules. ROS molecules would trigger oxidative stress in a feedback mechanism involving many biological processes, such as apoptosis, necrosis and autophagy. Growing evidences have suggested that ROS play a critical role as the signaling molecules throughout the entire cell death pathway. Overwhelming production of ROS can destroy organelles structure and bio-molecules, which lead to inflammatory response that is a known underpinning mechanism for the development of diabetes and cancer. Cytochrome P450 enzymes (CYP) are regarded as the markers of oxidative stress, can transform toxic metabolites into ROS, such as superoxide anion, hydrogen peroxide and hydroxyl radical which might cause injury of cells. Accordingly, cells have evolved a balanced system to neutralize the extra ROS, namely antioxidant systems that consist of enzymatic antioxidants such as superoxide dismutase (SOD), catalase (CAT) and glutathione peroxidases (GPxs), thioredoxin (Trx) as well as the non-enzymatic antioxidants which collectively reduce oxidative state. Herein, we review the recent novel findings of cellular processes induced by ROS, and summarize the roles of cellular endogenous antioxidant systems as well as natural anti-oxidative compounds in several human diseases caused by ROS in order to illustrate the vital role of antioxidants in prevention against oxidative stress.",
+  "type": "academic",
+  "pdf_url": "https://www.karger.com/Article/Pdf/485089"
+}

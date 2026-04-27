@@ -1,0 +1,35 @@
+{
+  "id": "src-044",
+  "title": "Low doses of lysergic acid diethylamide (LSD) increase reward-related brain activity",
+  "authors": [
+    "Glazer, James",
+    "Murray, Conor H.",
+    "Nusslock, Robin",
+    "Lee, Royce",
+    "de Wit, Harriet"
+  ],
+  "year": 2023,
+  "abstract": "",
+  "doi": "10.1038/s41386-022-01479-y",
+  "url": "https://doi.org/10.1038/s41386-022-01479-y",
+  "pdf_url": "",
+  "venue": "Neuropsychopharmacology",
+  "citation_count": 43,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-26T10:43:55.912748+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-044.md",
+  "quality_details": {
+    "content_length": 22621,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

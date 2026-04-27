@@ -1,0 +1,24 @@
+{
+  "id": "src-557",
+  "title": "Metformin promotes lifespan through mitohormesis via the peroxiredoxin PRDX-2",
+  "authors": [
+    "Billen, Johan",
+    "Braeckman, Bart",
+    "De Haes, Wouter",
+    "Depuydt, Geert",
+    "Frooninckx, Lotte",
+    "Schoofs, Liliane",
+    "Smolders, Arne",
+    "Temmerman, Liesbet",
+    "Van Assche, Roel"
+  ],
+  "doi": "10.1073/pnas.1321776111",
+  "url": "https://doi.org/10.1073/pnas.1321776111",
+  "provider": "core",
+  "year": 2014,
+  "venue": "Proceedings of the National Academy of Sciences",
+  "citation_count": 0,
+  "abstract": "The antiglycemic drug metformin, widely prescribed as first-line treatment of type II diabetes mellitus, has lifespan-extending properties. Precisely how this is achieved remains unclear. Via a quantitative proteomics approach using the model organism Caenorhabditis elegans, we gained molecular understanding of the physiological changes elicited by metformin exposure, including changes in branched-chain amino acid catabolism and cuticle maintenance. We show that metformin extends lifespan through the process of mitohormesis and propose a signaling cascade in which metformin-induced production of reactive oxygen species increases overall life expectancy. We further address an important issue in aging research, wherein so far, the key molecular link that translates the reactive oxygen species signal into a prolongevity cue remained elusive. We show that this beneficial signal of the mitohormetic pathway is propagated by the peroxiredoxin PRDX-2. Because of its evolutionary conservation, peroxiredoxin signaling might underlie a general principle of prolongevity signaling",
+  "type": "academic",
+  "pdf_url": "https://core.ac.uk/download/55765475.pdf"
+}

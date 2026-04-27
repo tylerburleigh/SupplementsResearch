@@ -1,0 +1,176 @@
+3	2	Review Article Open
+20	2	Introduction
+49	2	13 In addition, the existing
+52	2	14 Since aging is one of the leading risk factors for
+71	2	17 Thus far, a
+93	2	Molecular Mechanisms Of Aging
+100	2	24 Over
+107	2	25 In recent years,
+122	2	26 It leads to the deregulation of gene expression
+129	2	27 DNA damage activates the DNA damage
+139	2	32 They analyzed changes in aging
+147	2	32 Analyses of centenarians have shown
+155	2	35 DNA-SCARSs are dynamic
+163	2	36 Further studies revealed
+175	2	37 In addition, considering the role
+180	2	38 Decreased mtDNA copy
+204	2	44 By supplementing with exogenous melatonin,
+212	2	45 Hundreds of LMNA gene
+216	2	45 The absence of Lamin
+248	2	51 Notably, however, a
+261	2	52 Telomere length is controlled by telomer-
+289	2	52 Thus, a major limiting factor for telomere function is
+320	2	63 However, overexpression of telomerase occurs in
+363	2	73 In addition, the biological clocks of people with fatty
+369	2	75 Blood-DNA methylation is sensitive to
+376	2	77 Moreover,
+384	2	78 Among them, acetylation and methylation are the
+394	2	79 In contrast, trimethylation, dimethyla-
+398	2	80 Studies
+409	2	81 Histone acetyltransferases and
+413	2	81 Given the sophisticated links
+453	2	88 Aging cells present generally elevated chromatin
+466	2	89 In addition to
+477	2	91 On the
+482	2	91 On the
+512	2	103 This may be because
+515	2	103 Furthermore, the
+532	2	104 Proteostasis disruption triggers adaptive changes
+539	2	104 Chaperones also reduce the
+569	2	107 Hence, reducing the levels of
+576	2	107 Insulin-like growth
+591	2	115 Thus,
+621	2	25 Autophagy is a highly conserved process that
+693	2	134 Moreover, in various tissues of mice, naked mole
+699	2	135 In long-lived NMR and
+706	2	135 ROS have been reported to be
+727	2	140 Age-
+754	2	150 Mitophagy, a
+760	2	151 The mitochondrial-derived vesicle pathway is a
+775	2	154 Repli-
+784	2	154 These two types of
+798	2	158 For instance, a systemic environment that shapes
+811	2	108 Immune cells may further induce the
+838	2	163 Autophagy is necessary to maintain
+841	2	164 With aging,
+853	2	166 Furthermore, recent studies
+861	2	168 Cell polarity proteins are potential key
+878	2	172 In the tissue microenvironment, the SASP has a range of
+882	2	173 Extra-
+891	2	175 This unique form of
+901	2	177 For example, a
+906	2	179 Bone marrow cell-derived
+912	2	181 It was recently observed that
+921	2	183 Recently, bulk RNA
+934	2	185 Nutrient perception refers to the ability
+937	2	185 Three key nutrient-sensing
+954	2	187 AMPK and mTOR signaling
+967	2	25 Dis-
+998	2	Summary
+1027	2	Related Diseases
+1042	2	198 AD is caused by
+1062	2	203 The brain is composed primarily of
+1079	2	205 Another important
+1083	2	206 This, in turn, impairs
+1101	2	211 Furthermore, dominant tau mutations lead
+1123	2	212 Mitochondrial dysfunction promotes tau phosphoryla-
+1126	2	213 In addition, the
+1161	2	218 Dopaminergic neurons in PD often exhibit Lewy
+1169	2	219 Some studies have suggested that another potential
+1200	2	226 Senescent cardiomyocytes play pivotal roles
+1220	2	230 Oxidative stress can
+1224	2	231 In addition, several reports have suggested that
+1227	2	Ccr
+1243	2	233 Interestingly, activation of
+1256	2	235 Furthermore,
+1261	2	236 Fibroblast growth
+1277	2	239 Accumulating evidence suggests that
+1299	2	241 The accumulation of
+1330	2	244 In addition, small extracellular
+1374	2	253 Klotho is also a key molecule
+1391	2	258 Plaque
+1395	2	259 Senescent
+1402	2	260 In addition,
+1422	2	264 The
+1430	2	265 Many studies have shown the presence of senescent
+1456	2	270 Telomere attrition is a
+1461	2	272 In mice with short telomeres,
+1514	2	286 Moreover, changes in the
+1529	2	289 Hepatocellular fat deposition results from an imbalance
+1544	2	290 Additionally, multiple genome-wide
+1555	2	74 However,
+1566	2	295 Moreover, impaired hepatic FAO is
+1571	2	296 Liver mitochondria from aged mice produce more ROS and
+1575	2	289 Mitochondrial ROS production is
+1578	2	297 Impaired ETC activity may decrease ATP production
+1625	2	307 Lipophagy impairment has also
+1635	2	310 Further-
+1638	2	311 Mitophagy, a form of autophagy that selectively targets
+1675	2	318 Studies have
+1688	2	291 Moreover, hepatic fat overload causes mitochondrial
+1711	2	326 During
+1741	2	332 Cartilage on
+1781	2	348 Damaged mitochondria
+1794	2	351 AMPK and mTOR regulate energy metabolism and
+1808	2	360 Normal bone
+1817	2	24 DNA damage can further lead to
+1822	2	361 Telomere
+1855	2	369 Senescent
+1871	2	373 Bone marrow MSC senescence can be caused by telomere
+1904	2	387 Decreases in the ability of goblet cells, tuft cells
+1918	2	383 In addition, the changes in immune cell
+1930	2	389 Decreased autop-
+1935	2	390 Transgenic mice with reduced protea-
+1939	2	392 Autophagy
+2045	2	424 Clinically, early AMD is
+2056	2	426 Senescent resident neurons contribute to photosensi-
+2079	2	432 In addition to macrophages, peripheral
+2101	2	449 The huma-
+2133	2	460 Mitochondrial-mediated apop-
+2181	2	476 Increased levels of mtDNA oxidative damage
+2209	2	485 In PTEN loss-induced
+2213	2	486 In addition, cells undergoing senescence enhance
+2220	2	485 In addition, SASP factors
+2232	2	485 Due to the diversity and highly dynamic nature of
+2254	2	Ccr
+2262	2	485 There-
+2274	2	Summary
+2297	2	Diseases
+2332	2	499 The ketogenic diet is another
+2408	2	514 Sodium oligomannate and aducanumab are
+2480	2	524 Many
+2487	2	528 Microglia are
+2503	2	531 At present, the drugs for
+2575	2	543 In rats, cycloastragenol can
+2589	2	547 Aconitum carmichaelii
+2603	2	549 Cell replacement-based therapeutic strategies are viable
+2637	2	550 In addition, the yellow wine
+2642	2	551 Furthermore,
+2647	2	552 Therefore, exploring therapeutic strategies
+2675	2	556 For example, the
+2692	2	559 However, the oral
+2718	2	564 In addition, BBR can downregulate the
+2725	2	566 For example, weight loss resulting from
+2775	2	581 PERK inhibitors have also been
+2780	2	287 The Chinese traditional medicine BBR is a natural
+2814	2	587 Liraglutide and semaglutide are two
+2820	2	589 PPARs agonizts play critical roles in regulating hepatic
+2847	2	348 Cordycepin, the major
+2886	2	606 In addition, many
+2900	2	370 However, this is not the approach proposed for
+2908	2	613 Senomorphic drugs, such as JAK inhibitors
+2911	2	615 The JAK inhibitor ruxolitinib
+2940	2	625 However, to
+2950	2	629 Antioxidant therapy is also a
+2976	2	638 Androgen-induced
+3054	3	652.653 However,
+3061	2	655 In animal models
+3082	2	664 SASP released by senescent
+3120	2	486 Anti-
+3145	2	Summary
+3162	2	635 The adverse effects of antiaging
+3169	2	Conclusion And Future Perspectives
+3365	2	Acknowledgements
+3377	2	Author Contributions
+3397	2	Additional Information
+3399	2	References

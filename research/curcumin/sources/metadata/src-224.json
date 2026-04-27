@@ -1,0 +1,34 @@
+{
+  "id": "src-224",
+  "title": "Curcumin supplementation increases longevity and antioxidant capacity in Caenorhabditis elegans",
+  "authors": [
+    "Xu, Jianing",
+    "Du, Pengyun",
+    "Liu, Xiaoyu",
+    "Xu, Xiao",
+    "Ge, Yuting",
+    "Zhang, Chenggang"
+  ],
+  "year": 2023,
+  "abstract": "Curcumin is well known as a potent antioxidant and free radical scavenger and has great potential for anti-aging applications. In this study, we investigate the molecular mechanism of curcumin in prolonging the lifespan of C. elegans. Four concentrations of curcumin (10, 25, 50, and 100 µM) were administered, and the optimal treatment concentration was determined by analyzing the nematode lifespan, physiology, and biochemistry. Additionally, RNA-seq and qRT-PCR were performed to explore the antioxidant effect of curcumin and its underlying mechanism. Results revealed that curcumin could significantly improve the survival capacity of C. elegans without influencing its growth. Curcumin was observed to significantly decrease the levels of reactive oxygen species (ROS) under extreme conditions such as heat stress and paraquat stress. In addition, curcumin increased the amount of nematode mitochondrial DNA (mtDNA) replication. RNA-seq results revealed that the underlying mechanism of curcumin in C. elegans is related to the mitogen-activated protein kinase (MAPK) pathway. qRT-PCR results confirmed that the expression of oxidative stress-related genes (sod-1, sod-2, sod-3, gst-4) was increased, and the expression of MAPK signaling pathway-related genes (sek-1, pmk-1, nsy-1) was significantly downregulated. Furthermore, the administration of curcumin extended the lifespan of nematodes, potentially through the enhancement of oxidative stress resistance and the downregulation of the MAPK signaling pathway. These findings improve our understanding of both lifespan extension and the potential mechanism of curcumin in C. elegans.",
+  "doi": "10.3389/fphar.2023.1195490",
+  "url": "https://doi.org/10.3389/fphar.2023.1195490",
+  "pdf_url": "",
+  "venue": "Frontiers in Pharmacology",
+  "citation_count": 28,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-22T14:50:09.916374+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-224.md",
+  "quality_details": {
+    "content_length": 72495,
+    "alpha_ratio": 0.739,
+    "sentence_count": 1202,
+    "reasons": []
+  }
+}

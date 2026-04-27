@@ -1,0 +1,19 @@
+{
+  "id": "src-292",
+  "title": "Short-chain fatty acids as modulators of redox signaling in health and disease",
+  "authors": [
+    "González‐Bosch, Carmen",
+    "Boorman, Emily",
+    "Zunszain, Patricia A.",
+    "Mann, Giovanni E."
+  ],
+  "doi": "10.1016/j.redox.2021.102165",
+  "url": "https://openalex.org/W3207200577",
+  "provider": "openalex",
+  "year": 2021,
+  "venue": "Redox Biology",
+  "citation_count": 229,
+  "abstract": "Short-chain fatty acids (SCFAs), produced by colonic bacteria and obtained from the diet, have been linked to beneficial effects on human health associated with their metabolic and signaling properties. Their physiological functions are related to their aliphatic tail length and dependent on the activation of specific membrane receptors. In this review, we focus on the mechanisms underlying SCFAs mediated protection against oxidative and mitochondrial stress and their role in regulating metabolic pathways in specific tissues. We critically evaluate the evidence for their cytoprotective roles in suppressing inflammation and carcinogenesis and the consequences of aging. The ability of these natural compounds to induce signaling pathways, involving nuclear erythroid 2-related factor 2 (Nrf2), contributes to the maintenance of redox homeostasis under physiological conditions. SCFAs may thus serve as nutritional and therapeutic agents in healthy aging and in vascular and other diseases such as diabetes, neuropathologies and cancer.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.1016/j.redox.2021.102165"
+}

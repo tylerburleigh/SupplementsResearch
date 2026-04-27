@@ -1,0 +1,18 @@
+{
+  "id": "src-322",
+  "title": "Therapeutic strategies to address neuronal nitric oxide synthase deficiency and the loss of nitric oxide bioavailability in Duchenne Muscular Dystrophy",
+  "authors": [
+    "Timpani, Cara A.",
+    "Hayes, Alan",
+    "Rybalka, Emma"
+  ],
+  "doi": "10.1186/s13023-017-0652-y",
+  "url": "https://openalex.org/W2618863145",
+  "provider": "openalex",
+  "year": 2017,
+  "venue": "Orphanet Journal of Rare Diseases",
+  "citation_count": 24,
+  "abstract": "Duchenne Muscular Dystrophy is a rare and fatal neuromuscular disease in which the absence of dystrophin from the muscle membrane induces a secondary loss of neuronal nitric oxide synthase and the muscles capacity for endogenous nitric oxide synthesis. Since nitric oxide is a potent regulator of skeletal muscle metabolism, mass, function and regeneration, the loss of nitric oxide bioavailability is likely a key contributor to the chronic pathological wasting evident in Duchenne Muscular Dystrophy. As such, various therapeutic interventions to re-establish either the neuronal nitric oxide synthase protein deficit or the consequential loss of nitric oxide synthesis and bioavailability have been investigated in both animal models of Duchenne Muscular Dystrophy and in human clinical trials. Notably, the efficacy of these interventions are varied and not always translatable from animal model to human patients, highlighting a complex interplay of factors which determine the downstream modulatory effects of nitric oxide. We review these studies herein.",
+  "type": "academic",
+  "pdf_url": "https://ojrd.biomedcentral.com/track/pdf/10.1186/s13023-017-0652-y"
+}

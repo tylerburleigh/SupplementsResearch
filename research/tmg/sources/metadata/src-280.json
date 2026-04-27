@@ -1,0 +1,19 @@
+{
+  "id": "src-280",
+  "title": "Health effects of dietary phospholipids",
+  "authors": [
+    "Gaudry, Daniela Kuellenberg de",
+    "Taylor, Lenka A.",
+    "Schneider, Michael",
+    "Massing, Ulrich"
+  ],
+  "doi": "10.1186/1476-511x-11-3",
+  "url": "https://openalex.org/W2145447463",
+  "provider": "openalex",
+  "year": 2012,
+  "venue": "Lipids in Health and Disease",
+  "citation_count": 541,
+  "abstract": "Beneficial effects of dietary phospholipids (PLs) have been mentioned since the early 1900's in relation to different illnesses and symptoms, e.g. coronary heart disease, inflammation or cancer. This article gives a summary of the most common therapeutic uses of dietary PLs to provide an overview of their approved and proposed benefits; and to identify further investigational needs.From the majority of the studies it became evident that dietary PLs have a positive impact in several diseases, apparently without severe side effects. Furthermore, they were shown to reduce side effects of some drugs. Both effects can partially be explained by the fact that PL are highly effective in delivering their fatty acid (FA) residues for incorporation into the membranes of cells involved in different diseases, e.g. immune or cancer cells. The altered membrane composition is assumed to have effects on the activity of membrane proteins (e.g. receptors) by affecting the microstructure of membranes and, therefore, the characteristics of the cellular membrane, e.g. of lipid rafts, or by influencing the biosynthesis of FA derived lipid second messengers. However, since the FAs originally bound to the applied PLs are increased in the cellular membrane after their consumption or supplementation, the FA composition of the PL and thus the type of PL is crucial for its effect. Here, we have reviewed the effects of PL from soy, egg yolk, milk and marine sources. Most studies have been performed in vitro or in animals and only limited evidence is available for the benefit of PL supplementation in humans. More research is needed to understand the impact of PL supplementation and confirm its health benefits.",
+  "type": "academic",
+  "pdf_url": "https://lipidworld.biomedcentral.com/counter/pdf/10.1186/1476-511X-11-3"
+}

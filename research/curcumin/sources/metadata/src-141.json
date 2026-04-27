@@ -1,0 +1,23 @@
+{
+  "id": "src-141",
+  "title": "Comparative Effectiveness of Nutritional Supplements in the Treatment of Knee Osteoarthritis: A Network Meta-Analysis.",
+  "authors": [
+    "Zhang, Yuntong",
+    "Gui, Yunfei",
+    "Adams, Roger",
+    "Farragher, Joshua",
+    "Itsiopoulos, Catherine",
+    "Bow, Keegan",
+    "Cai, Ming",
+    "Han, Jia"
+  ],
+  "doi": "10.3390/nu17152547",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40806131",
+  "provider": "pubmed",
+  "year": 2025,
+  "venue": "Nutrients",
+  "citation_count": 0,
+  "abstract": "Background: Knee osteoarthritis (KOA) is a prevalent degenerative joint disease that can greatly affect quality of life in middle-aged and elderly individuals. Nutritional supplements are increasingly used for KOA due to their low risk, but direct comparative evidence on their efficacy and safety remains scarce. This study aimed to systematically compare the effectiveness and safety of seven common nutritional supplements for KOA. Methods: A systematic review and network meta-analysis were conducted following PRISMA guidelines. Embase, PubMed, and the Cochrane Library were searched through December 2024 for randomized controlled trials (RCTs) evaluating use of eggshell membrane, vitamin D, Boswellia, curcumin, ginger, krill oil, or collagen, versus placebo, in adults with KOA. Primary outcomes included changes in scores for WOMAC pain, stiffness and function, and pain visual analog scale (VAS). Adverse events were also assessed. Bayesian network meta-analyses estimated ranking probabilities for each intervention. Results: In total, 39 RCTs (42 studies; 4599 patients) were included. Compared with placebo, Boswellia showed significant improvements in WOMAC pain (mean difference [MD] = 10.58, 95% CI: 6.45 to 14.78, p < 0.05), stiffness (MD = 9.47, 95% CI: 6.39 254 to 12.74, p < 0.05), function (MD = 14.00, 95% CI: 7.74 to 20.21, p < 0.05), and VAS pain (MD = 17.26, 95% CI: 8.06 to 26.52, p < 0.05). Curcumin, collagen, ginger, and krill oil also demonstrated benefits in some outcomes. No supplement was associated with increased adverse events compared to placebo. Bayesian rankings indicated Boswellia had the highest probability of being most effective for pain and stiffness, with krill oil and curcumin showing potential for function improvement. Conclusions: Nutritional supplements, particularly Boswellia, appear to be effective and well-tolerated for improving KOA symptoms and function. These results suggest that certain supplements may be useful as part of non-pharmacological KOA management. However, further large-scale, well-designed randomized controlled trials (RCTs) are needed to confirm these findings, particularly those that include more standardized dosages and formulations, as well as to evaluate their long-term efficacy.",
+  "type": "academic",
+  "pdf_url": ""
+}

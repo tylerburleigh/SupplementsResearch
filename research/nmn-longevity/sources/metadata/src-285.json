@@ -1,0 +1,24 @@
+{
+  "id": "src-285",
+  "title": "Overall survival according to timing of immune checkpoint inhibitors administration in patients with advanced cancer: Results from a large single-centre cohort analysis.",
+  "authors": [
+    "Bosetti, T.",
+    "Kennedy, O.",
+    "Califano, Raffaele",
+    "Waddell, T.",
+    "Serra, M.",
+    "Metcalf, Robert",
+    "Kreft, S.",
+    "Lee, Rebecca",
+    "Lorigan, Paul"
+  ],
+  "doi": "10.1200/jco.2025.43.16_suppl.2662",
+  "url": "https://www.semanticscholar.org/paper/f7345b03e8a5419417513da6cf1833522f3be7ed",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "Journal of Clinical Oncology",
+  "citation_count": 0,
+  "abstract": "2662\n\nBackground:\nImmune checkpoint inhibitors (ICIs) have revolutionised cancer treatment but are only effective in a subset of patients. Evidence of a circadian dependence of the immune system has led to retrospective studies which suggested that the time of day of ICIs infusion influences treatment response, with better outcomes for early treatment times. Previous studies are limited by small sample size and methodological bias. We performed a retrospective study in patients with advanced solid tumours treated with ICIs at a large tertiary cancer centre.\nMethods:\nPatients who received regimens comprising ICIs for advanced/metastatic disease between January 2018 and December 2023 were grouped according to whether they received ≥50% (“late group”) or < 50% (“early group”) of cycles after the median time of all treatments. The primary endpoint was overall survival (OS). Hazard ratios (HRs) for OS after multivariable adjustments for age, sex, Eastern Cooperative Oncology Group (ECOG) performance status, cancer type and treatment were estimated using Cox models with and without time-dependent variables that allowed for group (early vs. late) assignment to change after baseline.\nResults:\n2631 patients with lung cancer (45%), melanoma (23%), renal carcinoma (18%), head and neck (9%) and urothelial cancer (5%) were included. The median age was 68.2 years and 1602 (61%) were men. The median follow up was 38 months. The median infusion time was 12:49h. Median OS was 13.1 (95% confidence interval [CI] 11.8-14.4) vs. 21.4 (95% CI 19.8-24.5) months for late and early group. The late group was associated with shorter OS compared to the early group on both the standard multivariate analysis (HR 1.48, 95% CI 1.33-1.63) and the time dependent Cox model (HR 1.30, 95% CI 1.16-1.44). The association was significant for most regimens with ICIs alone (n = 1886) and for ICIs plus tyrosine kinase inhibitors (n = 163). There was no difference for regimens comprising chemotherapy (n = 582). A sensitivity analysis based on exposure at 3 months showed no difference between the groups with the standard model (HR 1.09, 95% CI 0.98-1.20) and a higher risk of death for the late group with the time dependent model (HR 1.14, 95% CI 1.02-1.26).\nConclusions:\nThis study suggests a benefit in OS with early administration of ICIs with a large sample size and a time-dependent Cox model which reduces the risk of immortal time bias. These findings could have a major clinical impact after small changes in the way services are provided. Exclusive morning administration for all doses in the first 3 months could be a feasible approach to minimise complexity of treatment slot allocation.",
+  "type": "academic",
+  "pdf_url": ""
+}

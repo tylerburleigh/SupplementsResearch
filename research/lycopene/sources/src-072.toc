@@ -1,0 +1,15 @@
+77	2	Original Research
+92	2	Introduction
+139	2	Materials And Methods
+233	2	Statistical Analysis
+271	2	Results
+438	2	Discussion
+634	2	Data Availability Statement
+638	2	Ethics Statement
+644	2	Author Contributions
+655	2	Funding
+659	2	Supplementary Material
+663	2	References
+690	2	10. Volkova NV, Meier B, Gonzalez-Huici V, Bertolini S, Gonzalez S, Vohringer
+783	2	36. Margalit DN, Jordahl KM, Werner L, Wang X, Gwo-Shu Lee M, Penney KL,
+792	2	38. Li H, Kantoff PW, Giovannucci E, Leitzmann MF, Gaziano JM,

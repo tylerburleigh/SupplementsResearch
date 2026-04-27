@@ -1,0 +1,38 @@
+3	2	Article
+13	2	Nad
+23	2	Nad
+80	2	14. However, there are discordant reports on circulating
+110	2	Nad
+112	2	Results
+264	3	8.0 Ctrl
+330	3	4.0 Ctrl
+338	3	4.0 Ctrl
+339	2	Nmn
+346	3	0.8 Ctrl
+347	2	Nam
+369	2	Ent
+371	2	Nampt
+379	2	Cmp
+381	2	Nmn
+383	2	Nmn
+395	2	Wat
+396	2	Bat
+422	1	* #
+455	2	Gapdh
+537	2	Nad
+640	2	Gapdh
+671	2	Gapdh
+795	2	Discussion
+803	2	250 Ctrl
+804	2	Cmp
+875	2	Bat
+878	2	Nam Nr Nmn
+914	2	Bat
+1068	2	Nad
+1105	2	Nad
+1125	2	Methods
+1315	2	Data Availability
+1318	2	References
+1332	2	Nad
+1452	2	Acknowledgements
+1462	2	Author Contributions

@@ -1,0 +1,17 @@
+{
+  "id": "src-321",
+  "title": "Natural Killer Cell Interactions With Myeloid Derived Suppressor Cells in the Tumor Microenvironment and Implications for Cancer Immunotherapy",
+  "authors": [
+    "Zalfa, Cristina",
+    "Paust, Silke"
+  ],
+  "doi": "10.3389/fimmu.2021.633205",
+  "url": "https://openalex.org/W3159501890",
+  "provider": "openalex",
+  "year": 2021,
+  "venue": "Frontiers in Immunology",
+  "citation_count": 92,
+  "abstract": "The tumor microenvironment (TME) is a complex and heterogeneous environment composed of cancer cells, tumor stroma, a mixture of tissue-resident and infiltrating immune cells, secreted factors, and extracellular matrix proteins. Natural killer (NK) cells play a vital role in fighting tumors, but chronic stimulation and immunosuppression in the TME lead to NK cell exhaustion and limited antitumor functions. Myeloid-derived suppressor cells (MDSCs) are a heterogeneous group of myeloid cells with potent immunosuppressive activity that gradually accumulate in tumor tissues. MDSCs interact with innate and adaptive immune cells and play a crucial role in negatively regulating the immune response to tumors. This review discusses MDSC-mediated NK cell regulation within the TME, focusing on critical cellular and molecular interactions. We review current strategies that target MDSC-mediated immunosuppression to enhance NK cell cytotoxic antitumor activity. We also speculate on how NK cell-based antitumor immunotherapy could be improved.",
+  "type": "academic",
+  "pdf_url": "https://www.frontiersin.org/articles/10.3389/fimmu.2021.633205/pdf"
+}

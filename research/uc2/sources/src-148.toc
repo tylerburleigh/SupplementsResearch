@@ -1,0 +1,9 @@
+17	2	Abstract
+81	2	Introduction
+123	2	Materials And Methods
+204	2	Statistical Analysis
+220	2	Results
+247	2	Discussion
+443	2	References
+458	2	5. Trentham DE, Halpner A, Trentham R, Bagchi M, Kothari S, Preuss
+523	2	19. Deberg MA, Labasse AH, Collette J, Seidel L, Reginster JY,

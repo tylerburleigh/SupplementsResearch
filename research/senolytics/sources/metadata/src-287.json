@@ -1,0 +1,25 @@
+{
+  "id": "src-287",
+  "title": "Senolytic treatment induces oligodendrocyte dysfunction and demyelination in the corpus callosum.",
+  "authors": [
+    "Lombardo, Eva",
+    "Pijewski, Robert S.",
+    "Lustig, Jake T",
+    "Dhari, Zaenab",
+    "Lahiri, A.",
+    "Papile, Lucille E",
+    "Lavoie, Erica R",
+    "Scanlon, Vanessa M",
+    "Bartley, Jenna M.",
+    "Crocker, Stephen J"
+  ],
+  "doi": "10.1073/pnas.2524897123",
+  "url": "https://www.semanticscholar.org/paper/4a35e32507b70e961f01323d19138648bbc6c7a1",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "Proceedings of the National Academy of Sciences of the United States of America",
+  "citation_count": 0,
+  "abstract": "Aging is a primary risk factor for disease progression in multiple sclerosis (MS). Because of this, treatments that can reduce the consequences of molecular aging, like senescence, have been proposed as a strategy to address disease progression. However, the effects of senolytics, a class of drugs which selectively ablate senescent cells, on the central nervous system are largely unknown. Here, we examined the effects of senolytic treatment on myelination and oligodendrocyte function in vivo using C57BL6/J mice and in vitro using primary rat oligodendrocyte cultures. Initial data showed that naïve young (3 to 4 mo) and aged (22 mo) C57BL6/J mice treated with dasatinib and quercetin (D+Q) developed significant demyelination compared to vehicle-treated controls, though no cell death was observed in the brain. In vitro, oligodendrocyte progenitor cells treated with D+Q in differentiation media exhibited significantly reduced myelin basic protein protein and morphological complexity, also without inducing cell death. Bulk RNA sequencing and ingenuity pathway analysis of D+Q treated oligodendrocytes identified differentially expressed genes associated with endoplasmic reticulum stress. These data suggest that D+Q evokes the unfolded protein response in oligodendrocytes, causing oligodendrocyte dysfunction and myelination failure. Due to the resemblance between oligodendrocytes treated with D+Q and those found in MS lesions, D+Q treatment offers a potential method to model an aspect of oligodendrocyte dysfunction relevant to MS. Therefore, understanding the mechanism by which D+Q perturb oligodendrocyte function may provide insight into some of the pathological features contributing to disease progression in MS.",
+  "type": "academic",
+  "pdf_url": ""
+}

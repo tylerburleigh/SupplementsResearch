@@ -1,0 +1,31 @@
+{
+  "id": "src-061",
+  "title": "Discovery of CLPP-1071 as an Exceptionally Potent and Orally Efficacious Human ClpP Activator with Strong In Vivo Antitumor Activity",
+  "authors": [
+    "Chen, Beijing",
+    "Sun, Mingyang",
+    "Zhang, Chun",
+    "Huang, Qi",
+    "Teng, Dan",
+    "Hu, Linghao",
+    "Ma, Huicong",
+    "Lin, Xinyi",
+    "Huang, Zan",
+    "Gui, Renzhao",
+    "Hu, Xiaobei",
+    "Xu, Lei",
+    "Zheng, Mingyue",
+    "Zhou, Yubo",
+    "Li, Jia",
+    "Wang, Mingliang"
+  ],
+  "doi": "10.1021/acs.jmedchem.4c01605",
+  "url": "https://www.semanticscholar.org/paper/734067ba08ec57b8a0598f539c4639544405651b",
+  "provider": "semantic_scholar",
+  "year": 2024,
+  "venue": "Journal of Medicinal Chemistry",
+  "citation_count": 8,
+  "abstract": "Human sapiens caseinolytic protease P (ClpP) is essential for maintaining mitochondrial proteome homeostasis, and its activation is increasingly recognized as a promising cancer therapy strategy. Herein, based on structure-guided drug design, we discovered a series of potent ClpP activators by introducing a methyl group to the imipridone scaffold of the ClpP activator ONC201 in Phase III clinical trials. Through structural optimization of the lead compound, the most optimal compound, CLPP-1071, exhibited exceptionally potent ClpP agonistic activity (EC50 = 23.5 nM, 107.1-fold stronger than ONC201) and inhibited the proliferation of HL60 cells (IC50 = 4.6 nM, 169.2-fold stronger than ONC201). CLPP-1071 possesses good pharmacokinetic properties and effectively prolongs the lifespan in the MOLM13 and HL60 xenograft models in mice through oral administration. CLPP-1071 is the most potent and orally efficacious ClpP activator reported to date.",
+  "type": "academic",
+  "pdf_url": ""
+}

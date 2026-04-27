@@ -1,0 +1,21 @@
+12	2	Abstract
+48	2	Background
+96	2	Methods
+269	2	Results
+389	2	Ckb
+439	2	Ckb
+479	2	Discussion
+627	3	0.87. All values are adjusted for age, sex, and season and stratified by region
+696	2	Conclusion
+723	2	Acknowledgements
+791	2	Competing Interests
+811	2	References
+821	2	4. Chowdhury R, Kunutsor S, Vitezova A, Oliver-Williams C, Chowdhury S,
+845	2	11. Bjelakovic G, Gluud LL, Nikolova D, Whitfield K, Wetterslev J, Simonetti RG,
+888	2	23. Ahn J, Yu K, Stolzenberg-Solomon R, Simon KC, McCullough ML,
+894	2	25. Thomsen M, Ingebrigtsen TS, Marott JL, Dahl M, Lange P, Vestbo J, et
+907	2	29. Forouhi NG, Menon RK, Sharp SJ, Mannan N, Timms PM, Martineau
+928	2	35. Gambardella J, De Rosa M, Sorriento D, Prevete N, Fiordelisi A, Ciccarelli M,
+947	2	40. Schwetz V, Scharnagl H, Trummer C, Stojakovic T, Pandis M, Grubler MR, et
+952	2	42. Jamilian M, Samimi M, Ebrahimi FA, Hashemi T, Taghizadeh M, Razavi M, et
+960	2	44. Sollid ST, Hutchinson MYS, Fuskevag OM, Figenschau Y, Joakimsen RM,

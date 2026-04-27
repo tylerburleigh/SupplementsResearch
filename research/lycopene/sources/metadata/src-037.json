@@ -1,0 +1,35 @@
+{
+  "id": "src-037",
+  "title": "Tomatoes, lycopene and prostate cancer: a clinician's guide for counseling those at risk for prostate cancer",
+  "authors": [
+    "Pohar, Kamal S.",
+    "Gong, Michael C.",
+    "Bahnson, Robert",
+    "Miller, Elizabeth C.",
+    "Clinton, Steven K."
+  ],
+  "year": 2003,
+  "abstract": "",
+  "doi": "10.1007/s00345-003-0318-3",
+  "url": "https://doi.org/10.1007/s00345-003-0318-3",
+  "pdf_url": "",
+  "venue": "World Journal of Urology",
+  "citation_count": 24,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-19T18:32:43.619636+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-037.md",
+  "quality_details": {
+    "content_length": 12293,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

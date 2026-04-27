@@ -1,0 +1,23 @@
+{
+  "id": "src-085",
+  "title": "From Gut to Brain: Uncovering Potential Serum Biomarkers Connecting Inflammatory Bowel Diseases to Neurodegenerative Diseases",
+  "authors": [
+    "Sârb, Oliviu Florențiu",
+    "Sârb, Adriana-Daniela",
+    "Iacobescu, Maria",
+    "Vlad, Irina-Maria",
+    "Milaciu, Mircea Vasile",
+    "Ciurmarnean, Lorena",
+    "Vacaras, Vitalie",
+    "Tanțău, Alina"
+  ],
+  "doi": "10.3390/ijms25115676",
+  "url": "https://openalex.org/W4398236747",
+  "provider": "openalex",
+  "year": 2024,
+  "venue": "International Journal of Molecular Sciences",
+  "citation_count": 16,
+  "abstract": "Inflammatory bowel diseases (IBDs) are characterized by chronic gastrointestinal inflammation due to abnormal immune responses to gut microflora. The gut–brain axis is disrupted in IBDs, leading to neurobiological imbalances and affective symptoms. Systemic inflammation in IBDs affects the brain’s inflammatory response system, hormonal axis, and blood–brain barrier integrity, influencing the gut microbiota. This review aims to explore the association between dysregulations in the gut–brain axis, serum biomarkers, and the development of cognitive disorders. Studies suggest a potential association between IBDs and the development of neurodegeneration. The mechanisms include systemic inflammation, nutritional deficiency, GBA dysfunction, and the effect of genetics and comorbidities. The objective is to identify potential correlations and propose future research directions to understand the impact of altered microbiomes and intestinal barrier functions on neurodegeneration. Serum levels of vitamins, inflammatory and neuronal damage biomarkers, and neuronal growth factors have been investigated for their potential to predict the development of neurodegenerative diseases, but current results are inconclusive and require more studies.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/1422-0067/25/11/5676/pdf?version=1716458325"
+}

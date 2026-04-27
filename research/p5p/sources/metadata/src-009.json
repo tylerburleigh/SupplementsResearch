@@ -1,0 +1,29 @@
+{
+  "id": "src-009",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://medium.com/@isotropeusa/pyridoxal-5-phosphate-p5p-highly-bioavailable-vitamin-b6-b056de73c47a",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-20T15:58:47.717061+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-009.md",
+  "quality_details": {
+    "content_length": 14956,
+    "alpha_ratio": 0.8,
+    "sentence_count": 109,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "src-330",
+  "title": "Mode of binding of pyridoxal phosphate to 5-aminolevulinate synthase.",
+  "authors": [
+    "Nandi, D L"
+  ],
+  "doi": "10.1515/znc-1978-11-1232",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/154217",
+  "provider": "pubmed",
+  "year": 1978,
+  "venue": "Zeitschrift fur Naturforschung. Section C, Biosciences",
+  "citation_count": 0,
+  "abstract": "5-Aminolevulinate synthase of Rhodopseudomonas spheroides interacts with its cofactor, pyridoxal phosphate, and shows an absorption maximum at 430 nm with a probable shoulder at 320--330 nm. The enzyme-PLP complex absorbing at 430 nm is the predominant species at pH 7.2 and can be reduced by NaBH4 at neutral pH with a spectral shift of the absorption maximum to 325 nm. These data suggests the formation of a Schiff base rather than a substituted aldimine between the enzyme and pyridoxal phosphate. The decrease in absorption at 430 nm and increase in absorption at 325 nm by the addition of 2-mercaptoethanol seem to support Schiff base structures for the absorption bands at 430 nm and 320--330 nm. Both pyridoxal phosphate and glycine can equally protect the enzyme from inactivation by sulfhydryl reagents. The inhibition by p-chloromercuribenzoate versus PLP and glycine is noncompetitive and that by N-ethylmaleimide is noncompetitive with glycine and competitive with PLP. These results suggest either a conformational change in the presence of substrates or loss of affinity by the enzyme for PLP, rather than an interaction of PLP with a -SH group of the enzyme. The combined data seems to eliminate the possibility of the formation of a thiohemiacetal or a substituted aldimine and support rather strongly the formation of a Schiff base between the enzyme and pyridoxal phosphate.",
+  "type": "academic",
+  "pdf_url": ""
+}

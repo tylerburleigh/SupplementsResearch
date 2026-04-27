@@ -1,0 +1,27 @@
+{
+  "id": "src-267",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "",
+  "pdf_url": "https://wineserver.ucdavis.edu/sites/g/files/dgvnsk2676/files/research-summaries/74%20resveratrol%20and%20mice%20.pdf",
+  "venue": "",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "",
+  "fetched_at": "2026-04-23T11:16:20.959307+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-267.md",
+  "quality_details": {
+    "content_length": 6698,
+    "alpha_ratio": 0.786,
+    "sentence_count": 55,
+    "reasons": []
+  }
+}

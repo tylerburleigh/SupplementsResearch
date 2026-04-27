@@ -1,0 +1,30 @@
+{
+  "id": "src-003",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://preventioncenter.health/creatine-supplementation-whats-the-hype-about",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-21T12:53:51.886289+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "empty",
+  "content_file": "sources/src-003.md",
+  "quality_details": {
+    "content_length": 48,
+    "alpha_ratio": 0.833,
+    "sentence_count": 1,
+    "reasons": [
+      "content too short (48 chars < 500)",
+      "few sentences detected (1 < 3)"
+    ]
+  }
+}

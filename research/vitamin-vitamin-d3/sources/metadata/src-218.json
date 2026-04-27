@@ -1,0 +1,31 @@
+{
+  "id": "src-218",
+  "title": "Vitamin D and Cardiovascular Disease",
+  "authors": [
+    "Wang, Thomas J."
+  ],
+  "year": 2016,
+  "abstract": "",
+  "doi": "10.1146/annurev-med-051214-025146",
+  "url": "https://doi.org/10.1146/annurev-med-051214-025146",
+  "pdf_url": "",
+  "venue": "Annual Review of Medicine",
+  "citation_count": 94,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T21:46:09.315167+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-218.md",
+  "quality_details": {
+    "content_length": 3311,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

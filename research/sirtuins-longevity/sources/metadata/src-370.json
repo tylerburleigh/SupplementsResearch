@@ -1,0 +1,20 @@
+{
+  "id": "src-370",
+  "title": "The role of NAD+ metabolism and its modulation of mitochondria in aging and disease",
+  "authors": [
+    "Yusri, Khalishah",
+    "Jose, Sandra",
+    "Vermeulen, Karen",
+    "Tan, T.C.",
+    "Sorrentino, Vincenzo"
+  ],
+  "doi": "10.1038/s44324-025-00067-0",
+  "url": "https://openalex.org/W4411423642",
+  "provider": "openalex",
+  "year": 2025,
+  "venue": "npj Metabolic Health and Disease",
+  "citation_count": 61,
+  "abstract": "Nicotinamide adenine dinucleotide (NAD<sup>+</sup>) is a coenzyme involved in a plethora of physiological reactions, with a key relevance in supporting mitochondrial function. Due to its critical role in these cellular processes, declining levels of NAD<sup>+</sup> are associated with general aging and chronic disorders, including cognitive decline, sarcopenia, and metabolic diseases. These conditions are also typified by loss of mitochondrial health through dysfunction of homeostatic components such as mitophagy, unfolded protein response, and the antioxidant system. Therefore, raising cellular NAD<sup>+</sup> through vitamin B3 family precursors or via drug-based interventions has become a broadly used strategy to restore mitochondrial and organismal homeostasis, with NAD<sup>+</sup> precursors becoming a popular supplementation approach. As increasing components of the NAD<sup>+</sup> biology are unraveled, this comprehensive review summarizes the advances in mechanisms of NAD<sup>+</sup> metabolism and its modulation via compound-based strategies. Furthermore, it highlights the role of NAD<sup>+</sup> in mitochondrial homeostasis in aging and disease conditions, the latest results of NAD<sup>+</sup>-boosting therapeutics in clinical trials, and areas of further translational development.",
+  "type": "academic",
+  "pdf_url": "https://www.nature.com/articles/s44324-025-00067-0.pdf"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "src-263",
+  "title": "Metabolomics Insights into Osteoporosis Through Association With Bone Mineral Density",
+  "authors": [
+    "Zhang, Xiaoyu",
+    "Xu, Hanfei",
+    "Li, G.",
+    "Long, M.",
+    "Cheung, C.",
+    "Vasan, R.",
+    "Hsu, Y.",
+    "Kiel, D.",
+    "Liu, Ching‐Ti"
+  ],
+  "doi": "10.1002/jbmr.4240",
+  "url": "https://www.semanticscholar.org/paper/dac476ebe2748ed4011a6bd1980e592ad0051055",
+  "provider": "semantic_scholar",
+  "year": 2021,
+  "venue": "medRxiv",
+  "citation_count": 59,
+  "abstract": "Osteoporosis, a disease characterized by low bone mineral density (BMD), increases the risk for fractures. Conventional risk factors alone do not completely explain measured BMD or osteoporotic fracture risk. Metabolomics may provide additional information. We aim to identify BMD‐associated metabolomic markers that are predictive of fracture risk. We assessed 209 plasma metabolites by liquid chromatography with tandem mass spectrometry (LC–MS/MS) in 1552 Framingham Offspring Study participants, and measured femoral neck (FN) and lumbar spine (LS) BMD 2 to 10 years later using dual‐energy X‐ray absorptiometry. We assessed osteoporotic fractures up to 27‐year follow‐up after metabolomic profiling. We identified 27 metabolites associated with FN‐BMD or LS‐BMD by LASSO regression with internal validation. Incorporating selected metabolites significantly improved the prediction and the classification of osteoporotic fracture risk beyond conventional risk factors (area under the curve [AUC] = 0.74 for the model with identified metabolites and risk factors versus AUC = 0.70 with risk factors alone, p = .001; net reclassification index = 0.07, p = .03). We replicated significant improvement in fracture prediction by incorporating selected metabolites in 634 participants from the Hong Kong Osteoporosis Study (HKOS). The glycine, serine, and threonine metabolism pathway (including four identified metabolites: creatine, dimethylglycine, glycine, and serine) was significantly enriched (false discovery rate [FDR] p value = .028). Furthermore, three causally related metabolites (glycine, phosphatidylcholine [PC], and triacylglycerol [TAG]) were negatively associated with FN‐BMD, whereas PC and TAG were negatively associated with LS‐BMD through Mendelian randomization analysis. In summary, metabolites associated with BMD are helpful in osteoporotic fracture risk prediction. Potential causal mechanisms explaining the three metabolites on BMD are worthy of further experimental validation. Our findings may provide novel insights into the pathogenesis of osteoporosis. © 2021 American Society for Bone and Mineral Research (ASBMR).",
+  "type": "academic",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/jbmr.4240"
+}

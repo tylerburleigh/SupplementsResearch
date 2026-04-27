@@ -1,0 +1,29 @@
+{
+  "id": "src-265",
+  "title": "Memantine for the Treatment of Dementia: A Review on its Current and Future Applications",
+  "authors": [
+    "Folch, Jaume",
+    "Busquets, Oriol",
+    "Ettcheto, Miren",
+    "Sánchez‐López, Elena",
+    "Castro‐Torres, Rubén D.",
+    "Verdaguer, Ester",
+    "García, María L.",
+    "Olloquequi, Jordi",
+    "Casadesús, Gemma",
+    "Beas‐Zárate, Carlos",
+    "Pelegrı́, Carme",
+    "Vilaplana, Jordi",
+    "Auladell, Carme",
+    "Camins, Antoni"
+  ],
+  "doi": "10.3233/jad-170672",
+  "url": "https://openalex.org/W2775709378",
+  "provider": "openalex",
+  "year": 2017,
+  "venue": "Journal of Alzheimer s Disease",
+  "citation_count": 238,
+  "abstract": "Alzheimer's disease (AD) is a neurodegenerative disorder characterized by the presence in the brain of extracellular amyloid-β protein (Aβ) and intracellular neurofibrillary tangles composed of hyperphosphorylated tau protein. The N-Methyl-D-aspartate receptors (NMDAR), ionotropic glutamate receptor, are essential for processes like learning and memory. An excessive activation of NMDARs has been associated with neuronal loss. The discovery of extrasynaptic NMDARs provided a rational and physiological explanation between physiological and excitotoxic actions of glutamate. Memantine (MEM), an antagonist of extrasynaptic NMDAR, is currently used for the treatment of AD jointly with acetylcholinesterase inhibitors. It has been demonstrated that MEM preferentially prevents the excessive continuous extrasynaptic NMDAR disease activation and therefore prevents neuronal cell death induced by excitotoxicity without disrupting physiological synaptic activity. The problem is that MEM has shown no clear positive effects in clinical applications while, in preclinical stages, had very promising results. The data in preclinical studies suggests that MEM has a positive impact on improving AD brain neuropathology, as well as in preventing Aβ production, aggregation, or downstream neurotoxic consequences, in part through the blockade of extrasynaptic NMDAR. Thus, the focus of this review is primarily to discuss the efficacy of MEM in preclinical models of AD, consider possible combinations of this drug with others, and then evaluate possible reasons for its lack of efficacy in clinical trials. Finally, applications in other pathologies are also considered.",
+  "type": "academic",
+  "pdf_url": "https://content.iospress.com:443/download/journal-of-alzheimers-disease/jad170672?id=journal-of-alzheimers-disease%2Fjad170672"
+}

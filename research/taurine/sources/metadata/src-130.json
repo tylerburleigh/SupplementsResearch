@@ -1,0 +1,37 @@
+{
+  "id": "src-130",
+  "title": "The Dose Response of Taurine on Aerobic and Strength Exercises: A Systematic Review",
+  "authors": [
+    "Chen, Qi",
+    "Li, Zheng",
+    "Pinho, Ricardo A.",
+    "Gupta, Ramesh C.",
+    "Ugbolue, Ukadike C.",
+    "Thirupathi, Anand",
+    "Gu, Yaodong"
+  ],
+  "year": 2021,
+  "abstract": "Taurine is a naturally occurring amino acid involved in various functions, including regulating ion channels, cell volume, and membrane stabilization. However, how this molecule orchestrates such functions is unknown, particularly the dose response in exercised muscles. Therefore, this review aimed to systematically review the dose response of taurine on both aerobic and strength exercise performance. In accordance with the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) statement, relevant articles were sought on PubMed, Medline, Web of Science, and Google Scholar using related terms, including taurine, exercise performance, exercise, muscle, physical training, running, strength, endurance exercise, resistance exercise, aerobic exercise, and swimming. Ten articles were retrieved, reviewed, and subjected to systematic analysis. The following parameters were used to assess exercise performance in the selected studies: creatine kinase (CK), lactic acid dehydrogenase, carbohydrate, fat, glycerol, malondialdehyde, enzymatic antioxidants, blood pH, taurine level, and muscular strength. From the selected literature, we observed that taurine supplementation (2 g three times daily) with exercise can decrease DNA damage. Furthermore, 1 g of acute taurine administration before or after exercise can decrease lactate levels. However, acute administration of taurine (6 g) at a high dose before the start of exercise had no effect on reducing lactate level, but increased glycerol levels, suggesting that taurine could be an effective agent for prolonged activities, particularly at higher intensities. However, further studies are warranted to establish the role of taurine in fat metabolism during exercise. Finally, we observed that a low dose of taurine (0.05 g) before performing strength enhancing exercises can decrease muscular fatigue and increase enzymatic antioxidants.Systematic Review Registration:http://www.crd.york.ac.uk/PROSPERO, PROSPERO (CRD42021225243).",
+  "doi": "10.3389/fphys.2021.700352",
+  "url": "https://doi.org/10.3389/fphys.2021.700352",
+  "pdf_url": "",
+  "venue": "Frontiers in Physiology",
+  "citation_count": 24,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-19T11:58:07.894573+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-130.md",
+  "quality_details": {
+    "content_length": 51733,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

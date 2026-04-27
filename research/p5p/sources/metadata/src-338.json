@@ -1,0 +1,23 @@
+{
+  "id": "src-338",
+  "title": "A prospective analysis of micronutrient status in quiescent inflammatory bowel disease.",
+  "authors": [
+    "MacMaster, Morag Jane",
+    "Damianopoulou, Spyridoula",
+    "Thomson, Christina",
+    "Talwar, Dinesh",
+    "Stefanowicz, Fiona",
+    "Catchpole, Anthony",
+    "Gerasimidis, Konstantinos",
+    "Gaya, Daniel R"
+  ],
+  "doi": "10.1016/j.clnu.2020.05.010",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/32517876",
+  "provider": "pubmed",
+  "year": 2021,
+  "venue": "Clinical nutrition (Edinburgh, Scotland)",
+  "citation_count": 0,
+  "abstract": "BACKGROUND AND AIMS: ESPEN guidelines advocate patients with inflammatory bowel disease (IBD) have their micronutrient levels checked regularly. This study described the micronutrient status of patients with quiescent IBD and explores whether biochemical micronutrient deficiencies related to time to subsequent disease relapse.\nMETHODS: Sixteen micronutrients were measured prospectively in blood of patients with IBD in clinical remission [Harvey Bradshaw Index (HBI) ≤4 in Crohn's disease (CD) and a partial Mayo score <2 in ulcerative colitis (UC)]. Patients were followed prospectively using the electronic patient records. The ability of micronutrient status to predict time to relapse was tested with survival analysis and Cox regression.\nRESULTS: Ninety-three patients were enrolled; Fifty (54%) were also in biochemical remission defined as a normal faecal calprotectin (<250 μg/g), C-reactive protein (<10 mg/L) and serum albumin (>35 g/L). Deficiencies in vitamin D were identified in 27 (29%), zinc in 15 (16%), vitamin B6 in 13 (14%), vitamin C in 12 (13%) and vitamin B12 in 10 (11%). Fewer participants had low serum folate 7 (8%), ferritin 8 (9%), copper 4 (4%), magnesium 4 (4%) and plasma selenium 3 (3%). Zinc deficiency was predictive of a shorter time to subsequent relapse (HR: 6.9; 95%CI [1.9 to 26], p = 0.008); in sub analysis of those with CD this effect was even more profound (p = 0.001).\nCONCLUSION: We identified biochemical deficiencies for several micronutrients among adults with IBD clinically in remission. We have also highlighted a significant association between zinc deficiency and time to subsequent disease relapse in patients with CD which needs further investigation.",
+  "type": "academic",
+  "pdf_url": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "src-029",
+  "title": "Impact of urolithin A supplementation, a mitophagy activator on mitochondrial health of immune cells (MitoIMMUNE): A randomized, double-blind, placebo-controlled trial in healthy adults.",
+  "authors": [
+    "Denk, Dominic",
+    "Singh, Anurag",
+    "Kasler, Herbert G.",
+    "Boquet, Lucia Alcober",
+    "D’Amico, Davide",
+    "Gorol, Johanna M.",
+    "Greten, F."
+  ],
+  "doi": "10.1200/jco.2024.42.16_suppl.e14562",
+  "url": "https://www.semanticscholar.org/paper/4b57a00fede6adb36143bacf770bd02e02b69c60",
+  "provider": "semantic_scholar",
+  "year": 2024,
+  "venue": "Journal of Clinical Oncology",
+  "citation_count": 5,
+  "abstract": "e14562 Background: Mitochondrial dysfunction and stem cell exhaustion are hallmarks of aging, driving inflammation and limiting immune function. Likewise, cancer is characterized by repression of mitochondrial dynamics in tumor-infiltrating leukocytes that fosters terminal T cell exhaustion. Yet, interventions to reliably improve immune function are still lacking. Urolithin A (UA) is a postbiotic known to improve muscle function in aged adults upon oral intake. We have recently shown that UA induces mitophagy in human CD8+ cells to induce formation of T memory stem cells, while sensitizing murine cancer to immunotherapy. Methods: In this double-blind, prospective, placebo-controlled trial (NCT05735886) we sought to characterize for the first time the effects of UA on the human immune system. Fifty healthy participants aged 45-70 years were randomized (1:1) to an intervention of single-dose (1000mg) UA or placebo per day for a study duration of 28 days. Randomization was performed based on age, gender and BMI. Exclusion criteria were prior medical conditions, BMI >35 kg/m2, smoking, and intake of prescription medication or other dietary supplements. The primary end points of the study were changes in peripheral CD3+ cells, as well as alterations in mitochondrial activity in select immune populations of the peripheral blood as assessed by flow cytometry. Results: Intake of UA was safe and well-tolerated in the intervention cohort of 25 participants. After the study period, total peripheral lymphocytes and circulating NK cells were expanded in the UA group. Performing a complete immunophenotyping via spectral flow cytometry, we found that UA elicits immune remodeling characterized by broad changes of immune surface markers and mitochondrial measurements. CD8+ cells of participants in the intervention arm displayed greater mitochondrial mass, while preferably taking on a naive phenotype and expressing more Ki67. In addition, circulating monocytes exhibited a less inflammatory signature. UA intake reduced plasma levels of several proinflammatory cytokines. Conclusions: Collectively, our study constitutes an unprecedented intervention-based assessment of immune aging that globally characterizes the effect of UA on the immune system, proposing validation in future confirmatory studies and potential combination with cancer immunotherapy. Clinical trial information: NCT05735886 .",
+  "type": "academic",
+  "pdf_url": ""
+}

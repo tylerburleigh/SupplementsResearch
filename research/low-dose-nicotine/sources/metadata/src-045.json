@@ -1,0 +1,18 @@
+{
+  "id": "src-045",
+  "title": "Healthy Subjects With Extreme Patterns of Performance Differ in Functional Network Topology and Benefits From Nicotine",
+  "authors": [
+    "Gießing, C.",
+    "Ahrens, S.",
+    "Thiel, C."
+  ],
+  "doi": "10.3389/fnsys.2019.00083",
+  "url": "https://www.semanticscholar.org/paper/c7a5cb3d22c2d21123bc32d3b0465b55cc2f30a6",
+  "provider": "semantic_scholar",
+  "year": 2020,
+  "venue": "Frontiers in Systems Neuroscience",
+  "citation_count": 1,
+  "abstract": "Do subjects with atypical patterns in attentional and executive behaviour show different brain network topology and react differently towards nicotine administration? The efficacy of pro-cognitive drugs like nicotine considerably varies between subjects and previous theoretical and empirical evidence suggest stronger behavioural nicotine effects in subjects with low performance. One problem is, however, how to best define low performance, especially if several cognitive functions are assessed for subject characterisation. We here present a method that used a multivariate, robust outlier detection algorithm to identify subjects with suspicious patterns of performance in attentional and executive functioning. In contrast to univariate approaches, this method is sensitive towards extreme positions within the multidimensional space that do not have to be extreme values in the individual behavioural distributions. The method was applied to a dataset of healthy, non-smoking subjects (n = 34) who were behaviorally characterised by an attention and executive function test on which N = 12 volunteers were classified as outliers. All subjects then underwent a resting-state functional magnetic resonance imaging (fMRI) scan to characterise brain network topology and an experimental behavioural paradigm under placebo and nicotine (7 mg patch) that gauged aspects of attention and executive function. Our results indicate that subjects with an atypical multivariate pattern in attention and executive functioning showed significant differences in nodal brain network integration in visual association and pre-motor brain regions during resting state. These differences in brain network topology significantly predicted larger individual nicotine effects on attentional processing. In summary, the current approach successfully identified a subgroup of healthy volunteers with low behavioural performance who differ in brain network topology and attentional benefit from nicotine.",
+  "type": "academic",
+  "pdf_url": "https://www.frontiersin.org/articles/10.3389/fnsys.2019.00083/pdf"
+}

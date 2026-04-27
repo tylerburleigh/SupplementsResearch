@@ -1,0 +1,27 @@
+{
+  "id": "src-270",
+  "title": "The Assessment of Endothelial Function",
+  "authors": [
+    "Flammer, Andreas J.",
+    "Anderson, Todd J.",
+    "Celermajer, David S.",
+    "Creager, Mark A.",
+    "Deanfield, John",
+    "Ganz, Peter",
+    "Hamburg, Naomi M.",
+    "Lüscher, Thomas F.",
+    "Shechter, Michael",
+    "Taddei, Stefano",
+    "Vita, Joseph A.",
+    "Lerman, Amir"
+  ],
+  "doi": "10.1161/circulationaha.112.093245",
+  "url": "https://openalex.org/W2045096300",
+  "provider": "openalex",
+  "year": 2012,
+  "venue": "Circulation",
+  "citation_count": 1123,
+  "abstract": "The discovery of the endothelium as a crucial organ for the regulation of the vasculature to physiological needs and the recognition of endothelial dysfunction as a key pathological condition - which is associated with most if not all cardiovascular risk factors - led to a tremendous boost of endothelial research in the past 3 decades. Despite the possibility to measure endothelial function in the individual and its widespread use in research, its use as a clinical tool in daily medicine is not established yet. We review the most common methods to assess vascular function in humans and discuss their advantages and disadvantages. Furthermore we give an overview about clinical settings were endothelial function measurements may be valuable in individual patients. Specifically, we provide information why endothelial function is not only a risk marker for cardiovascular risk but may also provides prognostic information beyond commonly used risk scores in primary prevention, and in patients with already established coronary disease. We conclude, that non-invasive endothelial function measurements provide valuable additional information, however, to ascertain its use for daily clinical practice, future research should determine whether endothelial function can be used to guide treatment in the individual and if this translates into better outcomes.",
+  "type": "academic",
+  "pdf_url": "https://www.ahajournals.org/doi/pdf/10.1161/CIRCULATIONAHA.112.093245"
+}

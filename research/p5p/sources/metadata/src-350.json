@@ -1,0 +1,20 @@
+{
+  "id": "src-350",
+  "title": "The Role of the Microbiome in the Pathogenesis and Treatment of Ulcerative Colitis—A Literature Review",
+  "authors": [
+    "Świrkosz, Gabriela",
+    "Szczygieł, Aleksandra",
+    "Logoń, Katarzyna",
+    "Wrześniewska, Martyna",
+    "Gomułka, Krzysztof"
+  ],
+  "doi": "10.3390/biomedicines11123144",
+  "url": "https://openalex.org/W4389056356",
+  "provider": "openalex",
+  "year": 2023,
+  "venue": "Biomedicines",
+  "citation_count": 35,
+  "abstract": "Ulcerative colitis (UC) is a chronic inflammatory bowel disease affecting the colon and rectum. UC's pathogenesis involves colonic epithelial cell abnormalities and mucosal barrier dysfunction, leading to recurrent mucosal inflammation. The purpose of the article is to show the complex interplay between ulcerative colitis and the microbiome. The literature search was conducted using the PubMed database. After a screening process of studies published before October 2023, a total of 136 articles were selected. It has been discovered that there is a fundamental correlation of a robust intestinal microbiota and the preservation of gastrointestinal health. Dysbiosis poses a grave risk to the host organism. It renders the host susceptible to infections and has been linked to the pathogenesis of chronic diseases, with particular relevance to conditions such as ulcerative colitis. Current therapeutic strategies for UC involve medications such as aminosalicylic acids, glucocorticoids, and immunosuppressive agents, although recent breakthroughs in monoclonal antibody therapies have significantly improved UC treatment. Furthermore, modulating the gut microbiome with specific compounds and probiotics holds potential for inflammation reduction, while fecal microbiota transplantation shows promise for alleviating UC symptoms. This review provides an overview of the gut microbiome's role in UC pathogenesis and treatment, emphasizing areas for further research.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2227-9059/11/12/3144/pdf?version=1700903920"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "src-262",
+  "title": "Glutamate Optimization as a Treatment for Depression: A Clinical Guideline",
+  "authors": [
+    "Collins Villares, Luisa Angeles"
+  ],
+  "url": "https://core.ac.uk/works/298093115",
+  "provider": "core",
+  "year": 2024,
+  "venue": "MavMatrix",
+  "citation_count": 0,
+  "abstract": "Based on the use of drugs to treat hypertension and tuberculosis for depression, the monoamine hypothesis led to the development of antidepressants in 1952. Serotonin was recognized as a deficiency associated with depression in 1967. As a fine-tuning orchestration of neurotransmitters and neuromodulators, the glutamate system became known using Spravato in 2019 and Auvelity in 2022. In this pilot study, mental health experts rated the importance of 24 science-based recommendations to optimize glutamatergic therapy in depression for a proposed guideline on a Likert scale from zero to four. The results were analyzed using a non-parametric predictive modeling method called Chi-Square Automatic Interaction Detection (CHAID), which measures the likelihood of hierarchical interactive relationships and ordinally ranked in order of priority. There is no statistical significance of the likelihood of a high score, at or above the median, of hierarchical interactive multi-factor consensus. Nonetheless, CHAID suggested comparing respondent scores above or below the 50th percentile (median) of the survey score distribution with the Mann-Whitney U test. There were statistically significant differences in the high-score group and higher (p\\u3c 0.05, 95% confidence) using Receiver Operating Characteristic Curves (ROCs) based on the sensitivity versus specificity of the CHAID model with scores above or at the median. This study supports a paradigm shift in ways of optimizing glutamatergic therapeutic interventions as an effective means of overcoming depression episodes characterized by prolonged lag periods and failed responses. Further follow-up studies with a more extended timeframe and larger, multi-center populations at risk of depression are needed to optimize the utilization of glutamate modulators",
+  "type": "academic",
+  "pdf_url": "https://core.ac.uk/download/655709326.pdf"
+}

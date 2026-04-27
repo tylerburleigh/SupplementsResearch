@@ -1,0 +1,30 @@
+{
+  "id": "src-078",
+  "title": "Salinity Stress in Potato: Understanding Physiological, Biochemical and Molecular Responses",
+  "authors": [
+    "Chourasia, Kumar Nishant",
+    "Lal, Milan Kumar",
+    "Tiwari, Rahul Kumar",
+    "Dev, Devanshu",
+    "Kardile, Hemant B.",
+    "Patil, Virupaksh U.",
+    "Kumar, Amarjeet",
+    "Vanishree, G.",
+    "Kumar, Dharmendra",
+    "Bhardwaj, Vinay",
+    "Meena, Jitendra Kumar",
+    "Mangal, Vikas",
+    "Shelake, Rahul Mahadev",
+    "Kim, Jae‐Yean",
+    "Pramanik, Dibyajyoti"
+  ],
+  "doi": "10.3390/life11060545",
+  "url": "https://openalex.org/W3166087261",
+  "provider": "openalex",
+  "year": 2021,
+  "venue": "Life",
+  "citation_count": 196,
+  "abstract": "Among abiotic stresses, salinity is a major global threat to agriculture, causing severe damage to crop production and productivity. Potato (<i>Solanum tuberosum</i>) is regarded as a future food crop by FAO to ensure food security, which is severely affected by salinity. The growth of the potato plant is inhibited under salt stress due to osmotic stress-induced ion toxicity. Salinity-mediated osmotic stress leads to physiological changes in the plant, including nutrient imbalance, impairment in detoxifying reactive oxygen species (ROS), membrane damage, and reduced photosynthetic activities. Several physiological and biochemical phenomena, such as the maintenance of plant water status, transpiration, respiration, water use efficiency, hormonal balance, leaf area, germination, and antioxidants production are adversely affected. The ROS under salinity stress leads to the increased plasma membrane permeability and extravasations of substances, which causes water imbalance and plasmolysis. However, potato plants cope with salinity mediated oxidative stress conditions by enhancing both enzymatic and non-enzymatic antioxidant activities. The osmoprotectants, such as proline, polyols (sorbitol, mannitol, xylitol, lactitol, and maltitol), and quaternary ammonium compound (glycine betaine) are synthesized to overcome the adverse effect of salinity. The salinity response and tolerance include complex and multifaceted mechanisms that are controlled by multiple proteins and their interactions. This review aims to redraw the attention of researchers to explore the current physiological, biochemical and molecular responses and subsequently develop potential mitigation strategies against salt stress in potatoes.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2075-1729/11/6/545/pdf?version=1623320133"
+}

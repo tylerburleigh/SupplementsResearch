@@ -1,0 +1,20 @@
+{
+  "id": "src-111",
+  "title": "Lipid Nanovesicles for Antioxidant Delivery in Skin: Liposomes, Ufasomes, Ethosomes, and Niosomes",
+  "authors": [
+    "RICCI, A.",
+    "Stefanuto, Luca",
+    "Gasperi, Tecla",
+    "Bruni, Fabio",
+    "Tofani, Daniela"
+  ],
+  "doi": "10.3390/antiox13121516",
+  "url": "https://openalex.org/W4405332170",
+  "provider": "openalex",
+  "year": 2024,
+  "venue": "Antioxidants",
+  "citation_count": 32,
+  "abstract": "The skin, being the largest organ of the human body, serves as the primary barrier against external insults, including UV radiation, pollutants, and microbial pathogens. However, prolonged exposure to these environmental stressors can lead to the generation of reactive oxygen species (ROS), causing oxidative stress, inflammation, and ultimately, skin aging and diseases. Antioxidants play a crucial role in neutralizing ROS and preserving skin health by preventing oxidative damage. In recent years, nanotechnology has emerged as a powerful tool for enhancing the delivery of antioxidants onto the skin. In particular, liposomal formulations have offered unique advantages such as improved stability, controlled release, and enhanced penetration through the skin barrier. This has led to a surge in research focused on developing liposomal-based antioxidant delivery systems tailored for skin health applications. Through a comprehensive analysis of the literature from the 2019-2024 period, this review provides an overview of emerging trends in the use of liposomal delivery systems developed for antioxidants aimed at improving skin health. It explores the latest advancements in liposomal formulation strategies, vesicle characterization, and their applications in delivering antioxidants to combat oxidative stress-induced skin damage and other associated skin pathologies. A comparison of various delivery systems is conducted for the most common antioxidants. Finally, a brief analysis of lipid nanovesicles used in the cosmeceutical industry is provided.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2076-3921/13/12/1516/pdf?version=1733985624"
+}

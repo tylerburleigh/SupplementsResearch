@@ -1,0 +1,22 @@
+{
+  "id": "src-049",
+  "title": "Efficient simulation of clinical target response surfaces.",
+  "authors": [
+    "Lill, Daniel",
+    "Kümmel, Anne",
+    "Mitov, Venelin",
+    "Kaschek, Daniel",
+    "Gobeau, Nathalie",
+    "Schmidt, Henning",
+    "Timmer, Jens"
+  ],
+  "doi": "10.1002/psp4.12779",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35199969",
+  "provider": "pubmed",
+  "year": 2022,
+  "venue": "CPT: pharmacometrics & systems pharmacology",
+  "citation_count": 0,
+  "abstract": "Simulation of combination therapies is challenging due to computational complexity. Either a simple model is used to simulate the response for many combinations of concentration to generate a response surface but parameter variability and uncertainty are neglected and the concentrations are constant-the link to the doses to be administered is difficult to make-or a population pharmacokinetic/pharmacodynamic model is used to predict the response to combination therapy in a clinical trial taking into account the time-varying concentration profile, interindividual variability (IIV), and parameter uncertainty but simulations are limited to only a few selected doses. We devised new algorithms to efficiently search for the combination doses that achieve a predefined efficacy target while taking into account the IIV and parameter uncertainty. The result of this method is a response surface of confidence levels, indicating for all dose combinations the likelihood of reaching the specified efficacy target. We highlight the importance to simulate across a population rather than focus on an individual. Finally, we provide examples of potential applications, such as informing experimental design.",
+  "type": "academic",
+  "pdf_url": ""
+}

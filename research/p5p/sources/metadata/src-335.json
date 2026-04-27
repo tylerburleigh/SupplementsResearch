@@ -1,0 +1,37 @@
+{
+  "id": "src-335",
+  "title": "Multiple vitamin status in Crohn's disease",
+  "authors": [
+    "Kuroki, Fumitoshi",
+    "Iida, Mitsuo",
+    "Tominaga, Masaya",
+    "Matsumoto, Takayuki",
+    "Hirakawa, Katsuya",
+    "Sugiyama, Shizuo",
+    "Fujishima, Masatoshi"
+  ],
+  "year": 1993,
+  "abstract": "",
+  "doi": "10.1007/bf01303168",
+  "url": "https://doi.org/10.1007/bf01303168",
+  "pdf_url": "",
+  "venue": "Digestive Diseases and Sciences",
+  "citation_count": 95,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-20T16:38:45.321064+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-335.md",
+  "quality_details": {
+    "content_length": 9230,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

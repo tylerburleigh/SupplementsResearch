@@ -1,0 +1,18 @@
+{
+  "id": "src-231",
+  "title": "NAD <sup>+</sup> Metabolism in Cardiac Health, Aging, and Disease",
+  "authors": [
+    "Abdellatif, Mahmoud",
+    "Sedej, Simon",
+    "Kroemer, Guido"
+  ],
+  "doi": "10.1161/circulationaha.121.056589",
+  "url": "https://openalex.org/W3216175734",
+  "provider": "openalex",
+  "year": 2021,
+  "venue": "Circulation",
+  "citation_count": 220,
+  "abstract": "Nicotinamide adenine dinucleotide (NAD<sup>+</sup>) is a central metabolite involved in energy and redox homeostasis as well as in DNA repair and protein deacetylation reactions. Pharmacological or genetic inhibition of NAD<sup>+</sup>-degrading enzymes, external supplementation of NAD<sup>+</sup> precursors, and transgenic overexpression of NAD<sup>+</sup>-generating enzymes have wide positive effects on metabolic health and age-associated diseases. NAD<sup>+</sup> pools tend to decline with normal aging, obesity, and hypertension, which are all major risk factors for cardiovascular disease, and NAD<sup>+</sup> replenishment extends healthspan, avoids metabolic syndrome, and reduces blood pressure in preclinical models. In addition, experimental elevation of NAD<sup>+</sup> improves atherosclerosis, ischemic, diabetic, arrhythmogenic, hypertrophic, or dilated cardiomyopathies, as well as different modalities of heart failure. Here, we critically discuss cardiomyocyte-specific circuitries of NAD<sup>+</sup> metabolism, comparatively evaluate distinct NAD<sup>+</sup> precursors for their preclinical efficacy, and raise outstanding questions on the optimal design of clinical trials in which NAD<sup>+</sup> replenishment or supraphysiological NAD<sup>+</sup> elevations are assessed for the prevention or treatment of major cardiac diseases. We surmise that patients with hitherto intractable cardiac diseases such as heart failure with preserved ejection fraction may profit from the administration of NAD<sup>+</sup> precursors. The development of such NAD<sup>+</sup>-centered treatments will rely on technological and conceptual progress on the fine regulation of NAD<sup>+</sup> metabolism.",
+  "type": "academic",
+  "pdf_url": ""
+}

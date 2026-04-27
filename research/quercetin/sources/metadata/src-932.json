@@ -1,0 +1,20 @@
+{
+  "id": "src-932",
+  "title": "Quercetin-Mediated Apoptosis and Cellular Senescence in Human Colon Cancer.",
+  "authors": [
+    "Özsoy, Serpil",
+    "Becer, Eda",
+    "Kabadayı, Hilal",
+    "Vatansever, Hafize S",
+    "Yücecan, Sevinç"
+  ],
+  "doi": "10.2174/1871520620666200408082026",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/32268873",
+  "provider": "pubmed",
+  "year": 2020,
+  "venue": "Anti-cancer agents in medicinal chemistry",
+  "citation_count": 0,
+  "abstract": "BACKGROUND: Quercetin is a flavonol from the flavonoid group of polyphenols, which positively affects human health due to its anti-cancer, anti-inflammatory, anti-microbial and cardioprotective effects. The effects of phenolic compounds, including quercetin, on programmed cell death and cellular senescence, have been the subject of research in recent years.\nOBJECTIVE: In this study, we aimed to investigate the effects of quercetin on cell viability, apoptosis and cellular senescence in primary (Colo-320) and metastatic (Colo-741) colon adenocarcinoma cell lines.\nMETHODS: Cytotoxicity was analyzed via MTT assay in Colo-320 and Colo-741 cell lines. After quercetin treatment, cell ularsenescence and apoptosis were evaluated by TUNEL staining, X-Gal staining and indirect peroxidase technique for immunocytochemical analysis of related proteins such as Bax, Bcl-2, caspase-3, Hsp27, Lamin B1, p16, cyclin B1.\nRESULTS: The effective dose for inhibition of cell growth in both cell lines was determined to be 25μg/ml quercetin for 48 hours. Increased Baximmunoreactivityfollowingquercetin treatment was significant in both Colo-320 and Colo-741 cell lines, but decreased Bcl-2 immunoreactivitywas significant only in theColo-320 primary cell line. In addition, after quercetin administration, the number of TUNEL positive cells and, immunoreactivities for p16, Lamin B1 and cyclin B1 in both Colo-320 and Colo-741 cells increased.\nCONCLUSION: Our results suggest that quercetin may only induce apoptosis in primary colon cancer cells. Furthermore, quercetin also triggered senescence in colon cancer cells, but some cells remained alive, suggesting that colon cancer cells might have escaped from senescence.",
+  "type": "academic",
+  "pdf_url": ""
+}

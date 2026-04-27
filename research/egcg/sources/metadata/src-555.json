@@ -1,0 +1,26 @@
+{
+  "id": "src-555",
+  "title": "Programmable ROS modulation by nanomedicine for rheumatoid arthritis treatment",
+  "authors": [
+    "Pan, Guojun",
+    "Zhang, Yaxin",
+    "Liu, Di",
+    "Wang, Yongbin",
+    "Zhang, Hengzhen",
+    "Pan, Hao",
+    "Hou, Qingfan",
+    "Kong, Xiangrui",
+    "Lv, Fu-quan",
+    "Xiao, Na",
+    "Zhang, Renshuai"
+  ],
+  "doi": "10.1016/j.mtbio.2025.102699",
+  "url": "https://www.semanticscholar.org/paper/a0d8a87a4001d7da868bc289bdbb5e46d1484f1c",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "Materials Today Bio",
+  "citation_count": 0,
+  "abstract": "Rheumatoid arthritis (RA) is a chronic autoimmune disease characterized by persistent synovial inflammation and progressive joint destruction. Extensive studies have demonstrated that reactive oxygen species (ROS) play a critical role in the pathogenesis and progression of RA. Imbalanced ROS not only aggravate synovial inflammation and cartilage degradation but also disrupt immune homeostasis. In recent years, nanotechnology-based strategies for regulating ROS have provided new insights into the precise treatment of RA. This review systematically summarizes ROS-centered nanotherapeutic systems applied in RA therapy, including ROS-scavenging nanosystems, ROS-responsive nanosystems, ROS-scavenging and responsive composite nanosystems, and ROS-augmenting nanosystems. Furthermore, the review highlights the advantages of ROS-modulating nanosystems in reshaping the immune microenvironment, restoring redox balance, and achieving combination therapy and theranostic integration, while also addressing challenges related to biosafety, controllability, and clinical translation. Overall, programmable ROS-modulating nanotherapeutic strategies offer new directions and theoretical foundations for the precise treatment of RA.",
+  "type": "academic",
+  "pdf_url": ""
+}

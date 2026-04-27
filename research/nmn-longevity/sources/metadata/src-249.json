@@ -1,0 +1,21 @@
+{
+  "id": "src-249",
+  "title": "Nicotinamide Mononucleotide Modulates Endothelin-1 via NR4A1 and Histone Modifications in Canine Intestinal Epithelial Cells.",
+  "authors": [
+    "Guo, Xudong",
+    "Zhu, Chuyang",
+    "Adam, Saber Y.",
+    "Zhu, Cuipeng",
+    "Liu, Hao-yu",
+    "Cai, Demin"
+  ],
+  "doi": "10.3390/ani16040591",
+  "url": "https://www.semanticscholar.org/paper/e461a52efc7008795c5a3cca387fe9839657f2d5",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "Animals",
+  "citation_count": 0,
+  "abstract": "This work conducted a transcriptome analysis of canine intestinal epithelial cells (cIECs) treated with nicotinamide mononucleotide (NMN), a physiologically active nucleotide with a pyridine base known for its anti-aging and anti-inflammatory effects. In our experiment, cIECs were cultured and segregated into a control group (Ctrl) and an NMN-treated group. The finding demonstrated that NMN significantly affects cell proliferation in cIECs in comparison to the Ctrl. The transcriptome analysis indicated a high enrichment of genes associated with the cell cycle, proliferation, cellular senescence, and inflammatory pathways in NMN-treated cIECs, showing that NMN has the capacity to modify these biological processes. Compared to the Ctrl group, NMN treatment significantly increased ATP, SOD, CAT and GSH levels and decreased the activities of ROS and MDA. NMN treatment also significantly increased the activity of the relative complex I, III and V enzymes compared to the Ctrl group. Furthermore, the expression of MAPK13, EDN1, TNFAIP6, TNFSF15 and SLC7A11 were decreased significantly, while ACOX2, CPT1C, CCNA1 and CCNE1 were increased significantly in NMN-5μM treatment compared to Ctrl. NMN-treated significantly decreased the expression of Hdac2, Hdac6 and Hdac8, while increasing the expression of Kdm5a, Kdm5b and Kdm5c compared to the Ctrl group. Additionally, ChIP-qPCR use discovered that NMN-treatment significantly downregulated the enrichment of EDN-1 at target loci of NR4A1, SRC1, P300, Pol II and Ser5- Pol II compared to the Ctrl group. Expression of the NR4A1 gene suggests that its exert in biological activities by inhibiting inflammatory responses and anti-aging pathways. Then, we detected the transcriptional activation linked histone markers and found that H3K23ac and H3K27ac were significantly downregulated, while H3K27me3 was significantly upregulated in the NMN-treatment compared to the Ctrl group. We conclude that NMN regulates EDN-1 expression in cIECs through mechanisms involving NR4A1 and histone modifications, highlighting its potential role in canine intestinal health.",
+  "type": "academic",
+  "pdf_url": ""
+}

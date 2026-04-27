@@ -1,0 +1,27 @@
+{
+  "id": "src-350",
+  "title": "Transferrin is a drug candidate for the treatment of geographic atrophy (GA)/dry age‐related macular degeneration (AMD)",
+  "authors": [
+    "Bordet, Thierry",
+    "Youale, Jenny",
+    "Bigot, Karine",
+    "Jaworski, T.",
+    "Lebon, Cécile",
+    "Françon, Anaïs",
+    "Delaunay, Kimberley",
+    "Bénard, Romain",
+    "Bastard, Thaïs De",
+    "Kaddour, Naël",
+    "Behar-Cohen, Francine",
+    "Picard, Emilie"
+  ],
+  "doi": "10.1111/aos.17035",
+  "url": "https://www.semanticscholar.org/paper/60481e40b942bc81ff605d2398c7e52f2eff5e48",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "Acta ophthalmologica",
+  "citation_count": 0,
+  "abstract": "Aims/Purpose: Iron (Fe) is vital for retinal health but toxic when unbound, causing oxidative stress, inflammation, and ferroptosis. Aging leads to retinal iron accumulation, exacerbating diseases like AMD. This study aimed to determine if an iron‐transferrin (Tf) imbalance contributes to GA and if apo‐Tf (not Fe‐bound) supplementation could benefit these patients.Methods: Iron and Tf levels were measured in the aqueous humor of patients undergoing ocular surgery, comparing normal retinas (n = 31) to early GA (n = 7) and late GA (n = 10) patients using mass spectrometry and ELISA. Human induced pluripotent stem cell (iPSC)‐derived retinal pigment epithelium (RPE) cells were exposed to 0.5 mM FeCl3 for 48 hours to study the protective effects of apo‐Tf.Results: Iron levels were higher in early GA patients but not statistically significant. In contrast, Tf concentrations were significantly lower in early GA patients compared to controls (p = 0.0072) and late GA (p = 0.0241). Total iron‐binding capacity (TIBC) was significantly lower in early GA patients (p = 0.0073), while Tf saturation (TSAT) was higher compared to controls (p = 0.0313) and late GA (p = 0.0321), indicating free iron overload due to Tf deficiency in early GA. Using a sustained iron overload model in iPSC‐RPE cells, apo‐Tf reduced oxidative stress, mitochondrial dysfunction, and prevented iron‐induced toxicity by restoring normal iron homeostasis. Importantly, Apo‐Tf egressed excess iron accumulated in the RPE without depleting the intracellular iron pool. Apo‐Tf also mitigated ferroptosis, preserved tight junctions, and reduced inflammasome and complement pathway activation, highlighting its protective role against iron‐mediated retinal damage.Conclusions: These preliminary results suggest that early GA correlates with iron‐Tf imbalance. Apo‐Tf supplementation effectively mitigates iron‐induced oxidative stress in iPSC‐derived RPE cells and could be a promising therapeutic approach for preventing or slowing the progression of GA.",
+  "type": "academic",
+  "pdf_url": ""
+}

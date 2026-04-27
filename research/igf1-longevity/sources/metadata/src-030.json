@@ -1,0 +1,29 @@
+{
+  "id": "src-030",
+  "title": "Association between IGF‐1 levels ranges and all‐cause mortality: A meta‐analysis",
+  "authors": [
+    "Rahmani, J.",
+    "Montesanto, A.",
+    "Giovannucci, E.",
+    "Zand, H.",
+    "Barati, Meisam",
+    "Kopchick, J.",
+    "Mirisola, M.",
+    "Lagani, Vincenzo",
+    "Bawadi, H.",
+    "Vardavas, R.",
+    "Laviano, A.",
+    "Christensen, K.",
+    "Passarino, G.",
+    "Longo, V."
+  ],
+  "doi": "10.1111/acel.13540",
+  "url": "https://www.semanticscholar.org/paper/f13d48562aec09b65313d372aca3d304b88dde22",
+  "provider": "semantic_scholar",
+  "year": 2022,
+  "venue": "Aging Cell",
+  "citation_count": 42,
+  "abstract": "The association between IGF‐1 levels and mortality in humans is complex with low levels being associated with both low and high mortality. The present meta‐analysis investigates this complex relationship between IGF‐1 and all‐cause mortality in prospective cohort studies. A systematic literature search was conducted in PubMed/MEDLINE, Scopus, and Cochrane Library up to September 2019. Published studies were eligible for the meta‐analysis if they had a prospective cohort design, a hazard ratio (HR) and 95% confidence interval (CI) for two or more categories of IGF‐1 and were conducted among adults. A random‐effects model with a restricted maximum likelihood heterogeneity variance estimator was used to find combined HRs for all‐cause mortality. Nineteen studies involving 30,876 participants were included. Meta‐analysis of the 19 eligible studies showed that with respect to the low IGF‐1 category, higher IGF‐1 was not associated with increased risk of all‐cause mortality (HR = 0.84, 95% CI = 0.68–1.05). Dose–response analysis revealed a U‐shaped relation between IGF‐1 and mortality HR. Pooled results comparing low vs. middle IGF‐1 showed a significant increase of all‐cause mortality (HR = 1.33, 95% CI = 1.14–1.57), as well as comparing high vs. middle IGF‐1 categories (HR = 1.23, 95% CI = 1.06–1.44). Finally, we provide data on the association between IGF‐1 levels and the intake of proteins, carbohydrates, certain vitamins/minerals, and specific foods. Both high and low levels of IGF‐1 increase mortality risk, with a specific 120–160 ng/ml range being associated with the lowest mortality. These findings can explain the apparent controversy related to the association between IGF‐1 levels and mortality.",
+  "type": "academic",
+  "pdf_url": "https://findresearcher.sdu.dk/ws/files/197719634/Aging_Cell_2022_Rahmani_Association_between_IGF_1_levels_ranges_and_all_cause_mortality_A_meta_analysis.pdf"
+}

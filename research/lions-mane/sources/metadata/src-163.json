@@ -1,0 +1,37 @@
+{
+  "id": "src-163",
+  "title": "A randomised controlled study to investigate the cognitive, mood, metabolic and anti-inflammatory effects of acute oyster mushroom intervention in healthy older adults",
+  "authors": [
+    "Cha, Sara",
+    "Bell, Lynne",
+    "Fisher, Derek R.",
+    "Shukitt-Hale, Barbara",
+    "Zhang, Zicheng",
+    "Rodriguez-Mateos, Ana",
+    "Williams, Claire M."
+  ],
+  "year": 2026,
+  "abstract": "The\nPleurotus\noyster is a common edible mushroom rich in ergothioneine, a bioactive that has shown benefits to cognition in animals when administered in extract form.",
+  "doi": "10.1039/d5fo03075g",
+  "url": "https://doi.org/10.1039/d5fo03075g",
+  "pdf_url": "",
+  "venue": "Food &amp; Function",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-23T16:17:56.679905+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-163.md",
+  "quality_details": {
+    "content_length": 60722,
+    "alpha_ratio": 0.719,
+    "sentence_count": 974,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

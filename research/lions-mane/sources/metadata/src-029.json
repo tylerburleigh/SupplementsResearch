@@ -1,0 +1,35 @@
+{
+  "id": "src-029",
+  "title": "Benefits, side effects, and uses of Hericium erinaceus as a supplement: a systematic review",
+  "authors": [
+    "Menon, Arya",
+    "Jalal, Ayesha",
+    "Arshad, Zara",
+    "Nawaz, Faisal A.",
+    "Kashyap, Rahul"
+  ],
+  "year": 2025,
+  "abstract": "IntroductionHericium erinaceus (HE), commonly known as the Lion’s Mane mushroom, is an edible, medicinal fungus containing bioactive polysaccharides. It shows promising properties, including neuroprotective, anti-tumor, antioxidant, anti-proliferative, and anti-inflammatory effects. The mushroom’s bioactive chemical components, derived from its fruiting bodies and mycelia (erinacines), demonstrate promising neural-stimulating activity. This systematic review investigates existing literature on the clinical use of HE, outlining its benefits and side effects related to neural stimulation, apoptotic activity, the abundance of short-chain fatty acids (SCFAs)-producing microbiota, and its role in mood dysregulation, with the aim of establishing a safety profile for the supplement.Materials and methodsA systematic literature search was conducted following the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines. PubMed was searched for relevant, peer-reviewed articles published between January 2000 and June 2024. To address the risk of quality bias, the ROBIS tool was used to eliminate bias and ensure the quality of the included studies. This systematic review is registered on PROSPERO (ID: CRD42024571250).ResultThis review includes results from five randomized controlled trials (RCTs), 15 laboratory studies, three pilot clinical trials (PCTs), one cohort study, one case report, and one computer analysis. The RCTs and PCTs assessed cognitive improvements in participants with and without dementia. Mini-Mental State Examination scores from one RCT and one PCT showed a combined weighted mean increase of 1.17 in the intervention group. In vitro laboratory studies on cancer and cell apoptosis, focusing on leukemia and gastric cancer cells, found that isolated erinacine A from the mycelium of HE inhibited the invasiveness of MKN28 and TSGH 9201 cells and activated caspase pathways. HE also increased gut microbiota diversity and the abundance of SCFA-producing bacteria, thereby reducing inflammation and protecting gut health. Additionally, HE enhanced pro-BDNF and BDNF production, promoted hippocampal neurogenesis, improved behavior, and reduced symptoms of depression, anxiety, binge eating, and sleep disorders.DiscussionHE is effective in neuroprotection, enhancing cognitive function, preventing and alleviating cancer, promoting gut health, and improving symptoms of anxiety and depression. Although commonly unreported, potential side effects of HE include stomach discomfort, headache, and allergic reactions.Systematic review registrationhttps://www.crd.york.ac.uk/PROSPERO/view/CRD42024571250.",
+  "doi": "10.3389/fnut.2025.1641246",
+  "url": "https://doi.org/10.3389/fnut.2025.1641246",
+  "pdf_url": "",
+  "venue": "Frontiers in Nutrition",
+  "citation_count": 7,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-23T15:32:22.149874+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-029.md",
+  "quality_details": {
+    "content_length": 82217,
+    "alpha_ratio": 0.756,
+    "sentence_count": 622,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

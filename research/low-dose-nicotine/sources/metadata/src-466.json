@@ -1,0 +1,17 @@
+{
+  "id": "src-466",
+  "title": "Is the Placebo Powerless?",
+  "authors": [
+    "Hróbjartsson, Asbjørn",
+    "Gøtzsche, Peter C"
+  ],
+  "doi": "10.1056/nejm200105243442106",
+  "url": "https://openalex.org/W2331364533",
+  "provider": "openalex",
+  "year": 2001,
+  "venue": "New England Journal of Medicine",
+  "citation_count": 1507,
+  "abstract": "We found little evidence in general that placebos had powerful clinical effects. Although placebos had no significant effects on objective or binary outcomes, they had possible small benefits in studies with continuous subjective outcomes and for the treatment of pain. Outside the setting of clinical trials, there is no justification for the use of placebos.",
+  "type": "academic",
+  "pdf_url": "https://www.nejm.org/doi/pdf/10.1056/NEJM200105243442106?articleTools=true"
+}

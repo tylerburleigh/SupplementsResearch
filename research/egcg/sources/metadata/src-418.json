@@ -1,0 +1,23 @@
+{
+  "id": "src-418",
+  "title": "Understanding the Role of the Gut Microbiome and Microbial Metabolites in Non-Alcoholic Fatty Liver Disease: Current Evidence and Perspectives",
+  "authors": [
+    "Vallianou, Natalia G.",
+    "Christodoulatos, Gerasimos Socrates",
+    "Karampela, Ιrene",
+    "Tsilingiris, Dimitrios",
+    "Magkos, Faidon",
+    "Stratigou, Theodora",
+    "Kounatidis, Dimitris",
+    "Dalamaga, Μaria"
+  ],
+  "doi": "10.3390/biom12010056",
+  "url": "https://openalex.org/W4205859368",
+  "provider": "openalex",
+  "year": 2021,
+  "venue": "Biomolecules",
+  "citation_count": 272,
+  "abstract": "Non-alcoholic fatty liver disease (NAFLD) is the most common chronic liver disease worldwide. NAFLD begins as a relatively benign hepatic steatosis which can evolve to non-alcoholic steatohepatitis (NASH); the risk of cirrhosis and hepatocellular carcinoma (HCC) increases when fibrosis is present. NAFLD represents a complex process implicating numerous factors-genetic, metabolic, and dietary-intertwined in a multi-hit etiopathogenetic model. Recent data have highlighted the role of gut dysbiosis, which may render the bowel more permeable, leading to increased free fatty acid absorption, bacterial migration, and a parallel release of toxic bacterial products, lipopolysaccharide (LPS), and proinflammatory cytokines that initiate and sustain inflammation. Although gut dysbiosis is present in each disease stage, there is currently no single microbial signature to distinguish or predict which patients will evolve from NAFLD to NASH and HCC. Using 16S rRNA sequencing, the majority of patients with NAFLD/NASH exhibit increased numbers of Bacteroidetes and differences in the presence of Firmicutes, resulting in a decreased F/B ratio in most studies. They also present an increased proportion of species belonging to <i>Clostridium</i>, <i>Anaerobacter</i>, <i>Streptococcus</i>, <i>Escherichia</i>, and <i>Lactobacillus</i>, whereas <i>Oscillibacter</i>, <i>Flavonifaractor</i>, <i>Odoribacter</i>, and <i>Alistipes</i> spp. are less prominent. In comparison to healthy controls, patients with NASH show a higher abundance of Proteobacteria, Enterobacteriaceae, and <i>Escherichia</i> spp., while <i>Faecalibacterium prausnitzii</i> and <i>Akkermansia muciniphila</i> are diminished. Children with NAFLD/NASH have a decreased proportion of <i>Oscillospira</i> spp. accompanied by an elevated proportion of <i>Dorea</i>, <i>Blautia</i>, <i>Prevotella copri</i>, and <i>Ruminococcus</i> spp. Gut microbiota composition may vary between population groups and different stages of NAFLD, making any conclusive or causative claims about gut microbiota profiles in NAFLD patients challenging. Moreover, various metabolites may be involved in the pathogenesis of NAFLD, such as short-chain fatty acids, lipopolysaccharide, bile acids, choline and trimethylamine-N-oxide, and ammonia. In this review, we summarize the role of the gut microbiome and metabolites in NAFLD pathogenesis, and we discuss potential preventive and therapeutic interventions related to the gut microbiome, such as the administration of probiotics, prebiotics, synbiotics, antibiotics, and bacteriophages, as well as the contribution of bariatric surgery and fecal microbiota transplantation in the therapeutic armamentarium against NAFLD. Larger and longer-term prospective studies, including well-defined cohorts as well as a multi-omics approach, are required to better identify the associations between the gut microbiome, microbial metabolites, and NAFLD occurrence and progression.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2218-273X/12/1/56/pdf?version=1640956145"
+}

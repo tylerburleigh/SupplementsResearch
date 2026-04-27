@@ -1,0 +1,20 @@
+{
+  "id": "src-039",
+  "title": "Medication-wide association studies.",
+  "authors": [
+    "Ryan, P B",
+    "Madigan, D",
+    "Stang, P E",
+    "Schuemie, M J",
+    "Hripcsak, G"
+  ],
+  "doi": "10.1038/psp.2013.52",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/24448022",
+  "provider": "pubmed",
+  "year": 2013,
+  "venue": "CPT: pharmacometrics & systems pharmacology",
+  "citation_count": 0,
+  "abstract": "Undiscovered side effects of drugs can have a profound effect on the health of the nation, and electronic health-care databases offer opportunities to speed up the discovery of these side effects. We applied a \"medication-wide association study\" approach that combined multivariate analysis with exploratory visualization to study four health outcomes of interest in an administrative claims database of 46 million patients and a clinical database of 11 million patients. The technique had good predictive value, but there was no threshold high enough to eliminate false-positive findings. The visualization not only highlighted the class effects that strengthened the review of specific products but also underscored the challenges in confounding. These findings suggest that observational databases are useful for identifying potential associations that warrant further consideration but are unlikely to provide definitive evidence of causal effects.",
+  "type": "academic",
+  "pdf_url": ""
+}

@@ -1,0 +1,12 @@
+10	2	Abstract
+49	2	Background
+108	2	Methods
+263	2	Statistical Analysis
+372	2	Results
+488	2	Discussion
+677	2	Conclusions
+701	2	Acknowledgments
+727	2	Competing Interests
+736	2	References
+831	2	29. Centers for Disease Control and Prevention, NCHS: About National Health
+866	2	39. Centers for Disease Control and Prevention, NCHS: National Health and

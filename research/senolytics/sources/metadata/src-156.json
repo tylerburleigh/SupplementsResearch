@@ -1,0 +1,26 @@
+{
+  "id": "src-156",
+  "title": "Inducers of Senescence, Toxic Compounds, and Senolytics: The Multiple Faces of Nrf2-Activating Phytochemicals in Cancer Adjuvant Therapy",
+  "authors": [
+    "Malavolta, Marco",
+    "Bracci, Massimo",
+    "Santarelli, Lory",
+    "Sayeed, Md. Abu",
+    "Pierpaoli, Elisa",
+    "Giacconi, Robertina",
+    "Costarelli, Laura",
+    "Piacenza, Francesco",
+    "Basso, Andrea",
+    "Cardelli, Maurizio",
+    "Provinciali, Mauro"
+  ],
+  "doi": "10.1155/2018/4159013",
+  "url": "https://openalex.org/W2788863524",
+  "provider": "openalex",
+  "year": 2018,
+  "venue": "Mediators of Inflammation",
+  "citation_count": 75,
+  "abstract": "The reactivation of senescence in cancer and the subsequent clearance of senescent cells are suggested as therapeutic intervention in the eradication of cancer. Several natural compounds that activate Nrf2 (nuclear factor erythroid-derived 2-related factor 2) pathway, which is involved in complex cytoprotective responses, have been paradoxically shown to induce cell death or senescence in cancer. Promoting the cytoprotective Nrf2 pathway may be desirable for chemoprevention, but it might be detrimental in later stages and advanced cancers. However, senolytic activity shown by some Nrf2-activating compounds could be used to target senescent cancer cells (particularly in aged immune-depressed organisms) that escape immunosurveillance. We herein describe in vitro and in vivo effects of fifteen Nrf2-interacting natural compounds (tocotrienols, curcumin, epigallocatechin gallate, quercetin, genistein, resveratrol, silybin, phenethyl isothiocyanate, sulforaphane, triptolide, allicin, berberine, piperlongumine, fisetin, and phloretin) on cellular senescence and discuss their use in adjuvant cancer therapy. In light of available literature, it can be concluded that the meaning and the potential of adjuvant therapy with natural compounds in humans remain unclear, also taking into account the existence of few clinical trials mostly characterized by uncertain results. Further studies are needed to investigate the therapeutic potential of those compounds that display senolytic activity.",
+  "type": "academic",
+  "pdf_url": "http://downloads.hindawi.com/journals/mi/2018/4159013.pdf"
+}

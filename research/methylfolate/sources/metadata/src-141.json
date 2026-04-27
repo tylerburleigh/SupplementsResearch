@@ -1,0 +1,25 @@
+{
+  "id": "src-141",
+  "title": "Which Risk Factors Causally Influence Dementia? A Systematic Review of Mendelian Randomization Studies.",
+  "authors": [
+    "Kuźma, Elżbieta",
+    "Hannon, Eilis",
+    "Zhou, Ang",
+    "Lourida, Ilianna",
+    "Bethel, Alison",
+    "Levine, Deborah A",
+    "Lunnon, Katie",
+    "Thompson-Coon, Jo",
+    "Hyppönen, Elina",
+    "Llewellyn, David J"
+  ],
+  "doi": "10.3233/jad-180013",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/29865062",
+  "provider": "pubmed",
+  "year": 2018,
+  "venue": "Journal of Alzheimer's disease : JAD",
+  "citation_count": 0,
+  "abstract": "BACKGROUND: Numerous risk factors for dementia are well established, though the causal nature of these associations remains unclear.\nOBJECTIVE: To systematically review Mendelian randomization (MR) studies investigating causal relationships between risk factors and global cognitive function or dementia.\nMETHODS: We searched five databases from inception to February 2017 and conducted citation searches including MR studies investigating the association between any risk factor and global cognitive function, all-cause dementia or dementia subtypes. Two reviewers independently assessed titles and abstracts, full-texts, and study quality.\nRESULTS: We included 18 MR studies investigating education, lifestyle factors, cardiovascular factors and related biomarkers, diabetes related and other endocrine factors, and telomere length. Studies were of predominantly good quality, however eight received low ratings for sample size and statistical power. The most convincing causal evidence was found for an association of shorter telomeres with increased risk of Alzheimer's disease (AD). Causal evidence was weaker for smoking quantity, vitamin D, homocysteine, systolic blood pressure, fasting glucose, insulin sensitivity, and high-density lipoprotein cholesterol. Well-replicated associations were not present for most exposures and we cannot fully discount survival and diagnostic bias, or the potential for pleiotropic effects.\nCONCLUSIONS: Genetic evidence supported a causal association between telomere length and AD, whereas limited evidence for other risk factors was largely inconclusive with tentative evidence for smoking quantity, vitamin D, homocysteine, and selected metabolic markers. The lack of stronger evidence for other risk factors may reflect insufficient statistical power. Larger well-designed MR studies would therefore help establish the causal status of these dementia risk factors.",
+  "type": "academic",
+  "pdf_url": ""
+}

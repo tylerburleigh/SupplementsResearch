@@ -1,0 +1,16 @@
+{
+  "id": "src-394",
+  "title": "Epidemiology of Prostate Cancer",
+  "authors": [
+    "Rawla, Prashanth"
+  ],
+  "doi": "10.14740/wjon1191",
+  "url": "https://openalex.org/W2937483840",
+  "provider": "openalex",
+  "year": 2019,
+  "venue": "World Journal of Oncology",
+  "citation_count": 2707,
+  "abstract": "Prostate cancer is the second most frequent cancer diagnosis made in men and the fifth leading cause of death worldwide. Prostate cancer may be asymptomatic at the early stage and often has an indolent course that may require only active surveillance. Based on GLOBOCAN 2018 estimates, 1,276,106 new cases of prostate cancer were reported worldwide in 2018, with higher prevalence in the developed countries. Differences in the incidence rates worldwide reflect differences in the use of diagnostic testing. Prostate cancer incidence and mortality rates are strongly related to the age with the highest incidence being seen in elderly men (> 65 years of age). African-American men have the highest incidence rates and more aggressive type of prostate cancer compared to White men. There is no evidence yet on how to prevent prostate cancer; however, it is possible to lower the risk by limiting high-fat foods, increasing the intake of vegetables and fruits and performing more exercise. Screening is highly recommended at age 45 for men with familial history and African-American men. Up-to-date statistics on prostate cancer occurrence and outcomes along with a better understanding of the etiology and causative risk factors are essential for the primary prevention of this disease.",
+  "type": "academic",
+  "pdf_url": "https://www.wjon.org/index.php/wjon/article/download/1191/916"
+}

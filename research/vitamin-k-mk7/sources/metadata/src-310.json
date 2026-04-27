@@ -1,0 +1,25 @@
+{
+  "id": "src-310",
+  "title": "Low Vitamin K Status Is Associated with Increased Elastin Degradation in Chronic Obstructive Pulmonary Disease",
+  "authors": [
+    "Piscaer, Ianthe",
+    "Ouweland, Jody M.W. van den",
+    "Vermeersch, Kristina",
+    "Reynaert, Niki L.",
+    "Franssen, Frits M.E.",
+    "Keene, Spencer",
+    "Wouters, Emiel F.�M.",
+    "Janssens, Wim",
+    "Vermeer, Cees",
+    "Janssen, Rob"
+  ],
+  "doi": "10.3390/jcm8081116",
+  "url": "https://openalex.org/W2965058921",
+  "provider": "openalex",
+  "year": 2019,
+  "venue": "Journal of Clinical Medicine",
+  "citation_count": 37,
+  "abstract": "Elastin degradation is accelerated in chronic obstructive pulmonary disease (COPD) and is partially regulated by Matrix Gla Protein (MGP), via a vitamin K-dependent pathway. The aim was to assess vitamin K status in COPD as well as associations between vitamin K status, elastin degradation, lung function parameters and mortality. A total of 192 COPD patients and 186 age-matched controls were included. In addition to this, 290 COPD patients from a second independent longitudinal cohort were also included. Vitamin K status was assessed by measuring plasma inactive MGP levels and rates of elastin degradation by measuring plasma desmosine levels. Reduced vitamin K status was found in COPD patients compared to smoking controls (<i>p</i> < 0.0005) and controls who had never smoked (<i>p</i> = 0.001). Vitamin K status was inversely associated with desmosine (cohort 1: <i>p</i> = 0.001; cohort 2: <i>p</i> = 0.004). Only few significant associations between vitamin K status and lung function parameters were found. Mortality was higher in COPD patients within the quartile with the lowest vitamin K status compared to those within the other quartiles (hazard ratio 1.85, 95% confidence interval (CI), 1.21-2.83, <i>p</i> = 0.005). In conclusion, we demonstrated reduced vitamin K status in COPD and an inverse association between vitamin K status and elastin degradation rate. Our results therefore suggest a potential role of vitamin K in COPD pathogenesis.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2077-0383/8/8/1116/pdf?version=1564220265"
+}

@@ -1,0 +1,13 @@
+8	2	Abstract
+23	2	1 Introduction
+66	2	2 Exemplar based Generative Models
+100	2	3 Exemplar Variational Autoencoders
+229	3	3.2 Regularizing the Exemplar based Prior
+303	2	4 Related Work
+343	2	5 Experiments
+357	3	5.1 Ablation Study
+382	3	5.2 Density Estimation
+442	3	5.3 Representation Learning
+452	3	5.4 Generative Data Augmentation
+510	2	6 Conclusion
+538	2	References

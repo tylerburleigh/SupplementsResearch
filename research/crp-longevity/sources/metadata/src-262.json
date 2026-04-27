@@ -1,0 +1,23 @@
+{
+  "id": "src-262",
+  "title": "Admission C-Reactive Protein and Mortality After STEMI: A Retrospective Cohort Study Identifying Subgroup-Specific Risk Thresholds",
+  "authors": [
+    "Kopp, Kristen",
+    "Leitner, Magdalena",
+    "Clodi, N.",
+    "Lichtenauer, M.",
+    "Hammerer, M.",
+    "Hoppe, U.",
+    "Boxhammer, E.",
+    "Brandt, M."
+  ],
+  "doi": "10.3390/jcm15082864",
+  "url": "https://www.semanticscholar.org/paper/04ad2f9f44b81d617f1e5e2e0f5e01b7e0b36a55",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "Journal of Clinical Medicine",
+  "citation_count": 0,
+  "abstract": "Background: Inflammation is central to myocardial injury and repair after ST-segment elevation myocardial infarction (STEMI). C-reactive protein (CRP) is an established biomarker of systemic inflammation, but its prognostic thresholds across patient subgroups are not well defined. Methods: In this retrospective cohort study, admission CRP was analyzed in 958 consecutive STEMI patients admitted to University Hospital Salzburg 2018–2020 and categorized into four groups (Serum CRP < 5.0, 5.0–9.9, 10.0–15, and >15.0 mg/dL). Mortality was assessed during short- (30, 90, and 180 days) and long-term (1, 3, and 5 years) follow-up. Kaplan–Meier analyses compared survival, Cox regression tested associations, and receiver operating characteristic (ROC) curves determined discriminatory value and optimal cut-offs. Results: Elevated admission CRP was associated with larger infarct size, impaired left ventricular function, and increased mortality. Kaplan–Meier curves showed progressively poorer survival with higher CRP, with worst outcomes at >15 mg/dL. At 30, 90, and 180 days, CRP demonstrated moderate discrimination (AUC 0.628, 0.653, and 0.654; all p < 0.001), with predictive cut-offs 11–15 mg/dL in the overall cohort. Subgroup analyses revealed markedly lower thresholds in vulnerable populations. Diabetic patients showed cut-offs 5–6 mg/dL with the highest AUC values (up to 0.714). Younger patients and smokers exhibited thresholds near 9–10 mg/dL, while subacute STEMI presentations demonstrated lower cut-offs compared with acute infarction. These findings indicate that the prognostic value of CRP is context-dependent rather than uniform. Conclusions: Admission CRP predicts short-term mortality after STEMI, with subgroup-specific cut-offs emerging below conventional thresholds, highlighting profiles where modest inflammatory activation carries disproportionate risk.",
+  "type": "academic",
+  "pdf_url": ""
+}

@@ -1,0 +1,29 @@
+{
+  "id": "src-020",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://phoenixrisingacu.com/mthfr-how-it-can-impact-health",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-20T12:20:49.313630+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-020.md",
+  "quality_details": {
+    "content_length": 6820,
+    "alpha_ratio": 0.821,
+    "sentence_count": 47,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "src-377",
+  "title": "Vitamin C pharmacokinetics in healthy volunteers: evidence for a recommended dietary allowance.",
+  "authors": [
+    "Levine, Mark N.",
+    "Conry‐Cantilena, Cathy",
+    "Wang, Y",
+    "Welch, Robert",
+    "Washko, P",
+    "Dhariwal, K R",
+    "Park, Jin Bong",
+    "Лазарев, А. И.",
+    "Graumlich, James F.",
+    "King, J",
+    "Cantilena, Louis R."
+  ],
+  "doi": "10.1073/pnas.93.8.3704",
+  "url": "https://openalex.org/W1978407431",
+  "provider": "openalex",
+  "year": 1996,
+  "venue": "Proceedings of the National Academy of Sciences",
+  "citation_count": 1303,
+  "abstract": "Determinants of the recommended dietary allowance (RDA) for vitamin C include the relationship between vitamin C dose and steady-state plasma concentration, bioavailability, urinary excretion, cell concentration, and potential adverse effects. Because current data are inadequate, an in-hospital depletion-repletion study was conducted. Seven healthy volunteers were hospitalized for 4-6 months and consumed a diet containing <5 mg of vitamin C daily. Steady-state plasma and tissue concentrations were determined at seven daily doses of vitamin C from 30 to 2500 mg. Vitamin C steady-state plasma concentrations as a function of dose displayed sigmoid kinetics. The steep portion of the curve occurred between the 30- and 100-mg daily dose, the current RDA of 60 mg daily was on the lower third of the curve, the first dose beyond the sigmoid portion of the curve was 200 mg daily, and complete plasma saturation occurred at 1000 mg daily. Neutrophils, monocytes, and lymphocytes saturated at 100 mg daily and contained concentrations at least 14-fold higher than plasma. Bioavailability was complete for 200 mg of vitamin C as a single dose. No vitamin C was excreted in urine of six of seven volunteers until the 100-mg dose. At single doses of 500 mg and higher, bioavailability declined and the absorbed amount was excreted. Oxalate and urate excretion were elevated at 1000 mg of vitamin C daily compared to lower doses. Based on these data and Institute of Medicine criteria, the current RDA of 60 mg daily should be increased to 200 mg daily, which can be obtained from fruits and vegetables. Safe doses of vitamin C are less than 1000 mg daily, and vitamin C daily doses above 400 mg have no evident value.",
+  "type": "academic",
+  "pdf_url": ""
+}

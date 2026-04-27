@@ -1,0 +1,28 @@
+{
+  "id": "src-471",
+  "title": "Influences of Vitamin B12 Supplementation on Cognition and Homocysteine in Patients with Vitamin B12 Deficiency and Cognitive Impairment",
+  "authors": [
+    "Ueno, Asako",
+    "Hamano, Tadanori",
+    "Enomoto, Soichi",
+    "Shirafuji, Norimichi",
+    "Nagata, Miwako",
+    "Kimura, Hirohiko",
+    "Ikawa, Masamichi",
+    "Yamamura, Osamu",
+    "Yamanaka, Daiki",
+    "Ito, Tatsuhiko",
+    "Kimura, Yohei",
+    "Kuriyama, Masaru",
+    "Nakamoto, Yasunari"
+  ],
+  "doi": "10.3390/nu14071494",
+  "url": "https://openalex.org/W4223520332",
+  "provider": "openalex",
+  "year": 2022,
+  "venue": "Nutrients",
+  "citation_count": 38,
+  "abstract": "Vitamin B12 deficiency is associated with cognitive impairment, hyperhomocysteinemia, and hippocampal atrophy. However, the recovery of cognition with vitamin B12 supplementation remains controversial. Of the 1716 patients who visited our outpatient clinic for dementia, 83 had vitamin B12 deficiency. Among these, 39 patients (mean age, 80.1 ± 8.2 years) had undergone Mini-Mental State Examination (MMSE) and laboratory tests for vitamin B12, homocysteine (Hcy), and folic acid levels. The hippocampal volume was estimated using the z-score of the MRI-voxel-based specific regional analysis system for Alzheimer’s disease. This is multi-center, open-label, single-arm study. All the 39 patients were administered vitamin B12 and underwent reassessment to measure the retested for MMSE and Hcy after 21−133 days (median = 56 days, interquartile range (IQR) = 43−79 days). After vitamin B12 supplementation, the mean MMSE score improved significantly from 20.5 ± 6.4 to 22.9 ± 5.5 (p < 0.001). Hcy level decreased significantly from 22.9 ± 16.9 nmol/mL to 11.5 ± 3.9 nmol/mL (p < 0.001). Significant correlation was detected between the extent of change in MMSE scores and baseline Hcy values. The degree of MMSE score was not correlated with hippocampal atrophy assessed by the z-score. While several other factors should be considered, vitamin B12 supplementation resulted in improved cognitive function, at least in the short term, in patients with vitamin B12 deficiency.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2072-6643/14/7/1494/pdf?version=1648892193"
+}

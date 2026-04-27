@@ -1,0 +1,28 @@
+{
+  "id": "src-162",
+  "title": "Transcriptome analysis of genes related to glucoraphanin and sulforaphane synthesis in methyl jasmonate treated broccoli (Brassica oleracea var. italica) hairy roots.",
+  "authors": [
+    "Bao, Jinyu",
+    "Lu, Xu",
+    "Ma, Lei",
+    "Zhang, Xiumin",
+    "Tian, Peng",
+    "Zhang, Xiaoling",
+    "Li, Sheng",
+    "Ma, Shaoying",
+    "Yang, Jie",
+    "Lu, Yaqi",
+    "Wei, Yunchun",
+    "Zhang, Congcong",
+    "Shi, Xiaotong"
+  ],
+  "doi": "10.1007/s10265-022-01407-7",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35999478",
+  "provider": "pubmed",
+  "year": 2022,
+  "venue": "Journal of plant research",
+  "citation_count": 0,
+  "abstract": "Hairy roots obtained by infecting broccoli (Brassica oleracea var. italica) leaves with Agrobacterium rhizogenes (ATCC15834) have the characteristics of phytohormone autonomy, genetic stability and can produce a large amount of the anti-cancer substance Sulforaphane (SF) and the biosynthetic precursor Glucoraphanin (GRA). Under the induction of the exogenous signaling molecule methyl jasmonate (MeJA), the production of SF in broccoli hairy roots was significantly increased. However, the molecular mechanism of GRA and SF synthesis in hairy roots of broccoli treated with MeJA has not been reported. In this study, according to the yield of GRA and SF, the best concentration of MeJA treatment for hairy roots of broccoli was selected. After 18 days of growth, broccoli hairy roots were treated with 10 mmol L-1 MeJA for 0, 3, 6, 9 and 12 h. Compared with 0 h, the yield of GRA and SF increased under other treatments. The highest yield of GRA and SF occurred at 9 h, which were 2.22-fold and 1.74-fold higher than those at 0 h. Brassica oleracea var. botrytis was used as reference genome, and 5,757 differentially expressed genes (DEG) were observed at 0, 3, 6, 9 and 12 h under 10 mmol L-1 MeJA treatment, of which 4,673 were down-regulated and 1084 were up-regulated. The key genes regulating GRA synthesis, CYP79F1, CYP83A1, UGT74B1, FMOGS-OX5 and GSL-OH, were up-regulated at 0 and 3 h, and down-regulated the rest of the time; BCAT2 was up-regulated at 6, 9, 12 h, and at 0, 3 h expression was down-regulated, transcription factors MYB28 and MYB29 were down-regulated by exogenous MeJA treatment. A pathway of GRA biosynthesis and transformation pathways in MeJA-treated broccoli hairy roots was simulated and the molecular mechanism of GRA biosynthesis and SF accumulation in broccoli hairy roots under MeJA treatment was revealed.",
+  "type": "academic",
+  "pdf_url": ""
+}

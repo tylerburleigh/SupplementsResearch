@@ -1,0 +1,21 @@
+{
+  "id": "src-084",
+  "title": "A promising future for breast cancer therapy with hydroxamic acid-based histone deacetylase inhibitors.",
+  "authors": [
+    "Das, Tanima",
+    "Bhar, Sunandita",
+    "Ghosh, Diya",
+    "Kabi, Bikash",
+    "Kar, Kanisha",
+    "Chandra, Arpita"
+  ],
+  "doi": "10.1016/j.bioorg.2025.108169",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39862739",
+  "provider": "pubmed",
+  "year": 2025,
+  "venue": "Bioorganic chemistry",
+  "citation_count": 0,
+  "abstract": "Histone deacetylases (HDACs) play a critical role in chromatin remodelling and modulating the activity of various histone proteins. Aberrant HDAC functions has been related to the progression of breast cancer (BC), making HDAC inhibitors (HDACi) promising small-molecule therapeutics for its treatment. Hydroxamic acid (HA) is a significant pharmacophore due to its strong metal-chelating ability, HDAC inhibition properties, MMP inhibition abilities, and more. They were found to increase the efficacy of the approved drugs when used in combination. In this review we presented bioinformatic analysis using available data from the Cancer Genome Atlas and Genotype-Tissue Expression databases, outlined the recent advancements in the application of HA-based HDACi for BC during preclinical investigation and clinical trials, tried to offer the rationale for targeting HDAC in BC with HA-based HDACi, summarised the challenges faced in the successful clinical application of HDACi, and proposed potential strategies to address these challenges, aiming to enhance treatment outcomes in BC. Abbreviations: ABCG2, ATP-binding cassette super-family G member 2; ABC, ATP-binding cassette; ADP, Adenosine diphosphate; APC, Antigen presenting cell; AML, Acute myeloid leukemia; ARH1, Aplysia ras homolog 1; BCRP, Breast cancer resistance protein; BRCA, Breast invasive carcinoma; Bax, B-cell lymphoma associated X; CK5, Cytokeratin 5; CK14, Cytokeratin 14; CK17, Cytokeratin 17; CoRESTMiDAC, Co-repressor for element-1-silencing transcription factor; CRM1, Chromosomal maintenance 1; CTCL, Cutaneous T-cell lymphoma; DNMT, DNA methyltransferase; DFS, Disease-free survival; ER, Oestrogen receptor; EMT, Epithelial-mesenchymal transition; FGFR1, Fibroblast growth factor receptor 1; GEPIA, Gene Expression Profiling Interactive Analysis; GTEx, Genotype tissue expression; HAT, Histone acetylase; HDAC, Histone deacetylase; HDF, Human dermal fibroblast; HER2, Human epidermal growth factor receptor 2; HDLP, Histone deacetylase-like protein; Hsp90, Heat shock protein 90; HSF1, Heat shock factor 1; HeLa, Henrietta Lacks; HER1, Human epidermal growth factor receptor 1; IARC, International Agency for Research on Cancer; IL-10, Interleukin-10; KAP1, KRAB associated protein 1; MDM2, Mouse double minute 2 homolog; MDR, Multidrug resistance; MCF-7, Michigan cancer foundation-7; MEF-2, Myocyte enhancer factor-2MMP- Matrix metalloproteinase; NAD, Nicotinamide adenine dinucleotide; NuRD, Nucleosome remodelling and deacetylation; NF- κ B, Nuclear factor kappa light chain enhancer of activated B cell; NES, Nuclear export signal; NLS, Nuclear localization signal; NCoR, Nuclear receptor corepressor; NCT, National clinical trial; OS, Overall survival; PR, Progesterone receptor; PI3K, Phosphoinositide 3-kinase; PAX3, Paired box gene 3; P-gp, P-glycoprotein; ROS, Reactive oxygen species; SIRT, Sirtuin; SMRT, Silencing mediator for retinoid and thyroid receptor; STAT3, Signal transducer and activator of transcription-3; SAR, Structure-activity relationship; SHP1, Src homology region 2 domain-containing phosphatase 1; SAHA, Suberoylanilide hydroxamic acid; SMEDDS, Self micro emulsifying drug delivery system; TNBC, Triple-negative breast cancer; TSA, Trichostatin A; ZBG, Zinc binding group.",
+  "type": "academic",
+  "pdf_url": ""
+}

@@ -1,0 +1,17 @@
+{
+  "id": "src-505",
+  "title": "Most Effective Colon Cancer Chemopreventive Agents in Rats: A Systematic Review of Aberrant Crypt Foci and Tumor Data, Ranked by Potency",
+  "authors": [
+    "Corpet, Denis E.",
+    "Taché, Sylviane"
+  ],
+  "doi": "10.1207/s15327914nc431_1",
+  "url": "https://openalex.org/W2152465918",
+  "provider": "openalex",
+  "year": 2002,
+  "venue": "Nutrition and Cancer",
+  "citation_count": 226,
+  "abstract": "Potential chemopreventive agents for colorectal cancer are assessed in rodents. We speculated that the magnitude of the effect is meaningful and ranked all published agents according to their potency. Data were gathered systematically from 137 articles with the aberrant crypt foci (ACF) end point and from 146 articles with the tumor end point. The potency of each agent to reduce the number of ACF is listed in one table and the potency of each agent to reduce the tumor incidence in another table. Both tables are shown in this review and on a website with sorting abilities (http://www.inra.fr/reseau-nacre/sci-memb/corpet/indexan.html). Potency was estimated as the ratio of the value in control rats to the value in treated rats. From each article, only the most potent agent was kept, except in articles reporting the effect of more than seven agents. Among the 186 agents in the ACF table, the median agent reduced the number of ACF by one-half. The most potent agents to reduce azoxymethane-induced ACF were Pluronic, polyethylene glycol, perilla oil with beta-carotene, and sulindac sulfide. Among the 160 agents in the tumor table, the median agent reduced the tumor incidence in rats by one-half. The most potent agents to reduce the incidence of azoxymethane-induced tumors were celecoxib, a protease inhibitor from soy, difluoromethylornithine with piroxicam, polyethylene glycol, and a thiosulfonate. For the 57 agents present in both tables, a significant correlation (r) was found between the potencies against ACF and tumors (r = 0.45, P < 0.001); without celecoxib, a major outlying point in the correlation, r = 0.68 (P < 0.001, n = 56). In conclusion, this review gathers most known chemopreventive agents, ranks the most promising agents against colon carcinogenesis in rats or mice, and further supports the use of ACF as a surrogate end point for tumors in rats.",
+  "type": "academic",
+  "pdf_url": "https://hal.science/hal-00284366v1/file/2002-Corpet-Tache-Review-Chemoprev-ACF-Nutr.Cancer-AuthorV-NOT-protec.pdf"
+}

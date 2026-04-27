@@ -1,0 +1,20 @@
+{
+  "id": "src-197",
+  "title": "Polyphenol Health Effects on Cardiovascular and Neurodegenerative Disorders: A Review and Meta-Analysis",
+  "authors": [
+    "Potì, Francesco",
+    "Santi, Daniele",
+    "Spaggiari, Giorgia",
+    "Zimetti, Francesca",
+    "Zanotti, Ilaria"
+  ],
+  "doi": "10.3390/ijms20020351",
+  "url": "https://openalex.org/W2910016375",
+  "provider": "openalex",
+  "year": 2019,
+  "venue": "International Journal of Molecular Sciences",
+  "citation_count": 242,
+  "abstract": "Several studies have demonstrated that polyphenol-enriched diets may have beneficial effects against the development of degenerative diseases, including atherosclerosis and disorders affecting the central nervous system. This activity has been associated not only with antioxidant and anti-inflammatory properties, but also with additional mechanisms, such as the modulation of lipid metabolism and gut microbiota function. However, long-term studies on humans provided controversial results, making the prediction of polyphenol impact on health uncertain. The aim of this review is to provide an overview and critical analysis of the literature related to the effects of the principal dietary polyphenols on cardiovascular and neurodegenerative disorders. We critically considered and meta-analyzed randomized controlled clinical trials involving subjects taking polyphenol-based supplements. Although some polyphenols might improve specific markers of cardiovascular risk and cognitive status, many inconsistent data are present in literature. Therefore, definitive recommendations for the use of these compounds in the prevention of cardiovascular disease and cognitive decline are currently not applicable. Once pivotal aspects for the definition of polyphenol bioactivity, such as the characterization of pharmacokinetics and safety, are addressed, it will be possible to have a clear picture of the realistic potential of polyphenols for disease prevention.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/1422-0067/20/2/351/pdf?version=1547622249"
+}

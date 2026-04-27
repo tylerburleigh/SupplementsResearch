@@ -1,0 +1,17 @@
+{
+  "id": "src-400",
+  "title": "Lycopene Stability During Food Processing",
+  "authors": [
+    "Nguyen, M. L.",
+    "Schwartz, Steven J."
+  ],
+  "doi": "10.3181/00379727-218-44274",
+  "url": "https://openalex.org/W2012981970",
+  "provider": "openalex",
+  "year": 1998,
+  "venue": "Experimental Biology and Medicine",
+  "citation_count": 240,
+  "abstract": "Accumulating epidemiological evidence continues to show that lycopene, found in tomatoes, grapefruits and watermelons, is associated with a reduced risk of developing certain chronic diseases and cancers. With respect to lycopene in tomato products, the effect of thermal processing on its stability has not yet been rigorously addressed. This paper assesses the effect of several different heat treatments on lycopene's isomeric distribution in a variety of tomato products, as well as in organic solvent mixtures containing all-trans lycopene. Experimental results indicate that in contrast to beta-carotene, lycopene remained relatively resistant to heat-induced geometrical conversion during typical food processing of tomatoes and related products. The presence of fat, the change in percentage of solids, and the severity of heat treatment were not contributing factors in the formation of lycopene isomers in tomato products, except at extreme conditions not regularly employed in the food industry or during food preparation. However, lycopene in organic solvent isomerized readily as a function of time even in the absence of light and the presence of antioxidants. These findings suggest that while lycopene is stable in the tomato matrix, sample handling techniques should be carefully evaluated to minimize the formation of lycopene cis isomers in organic solutions.",
+  "type": "academic",
+  "pdf_url": ""
+}

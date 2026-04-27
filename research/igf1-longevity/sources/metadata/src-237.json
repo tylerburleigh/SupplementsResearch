@@ -1,0 +1,27 @@
+{
+  "id": "src-237",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "",
+  "pdf_url": "https://www.mq.edu.au/__data/assets/pdf_file/0009/1279890/The-Gut-Microbiota-and-Weight-Loss-Dr-Maggie-Stanislawski.pdf",
+  "venue": "",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "",
+  "fetched_at": "2026-04-23T22:43:23.321731+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-237.md",
+  "quality_details": {
+    "content_length": 16419,
+    "alpha_ratio": 0.777,
+    "sentence_count": 96,
+    "reasons": []
+  }
+}

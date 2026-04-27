@@ -1,0 +1,30 @@
+{
+  "id": "src-003",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://www.amazon.com/Thorne-Research-Bisglycinate-Supplement-Gastrointestinal/dp/B0797GZDZL",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-21T17:46:46.183553+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-003.md",
+  "quality_details": {
+    "content_length": 146,
+    "alpha_ratio": 0.74,
+    "sentence_count": 2,
+    "reasons": [
+      "content too short (146 chars < 500)",
+      "few sentences detected (2 < 3)"
+    ]
+  }
+}

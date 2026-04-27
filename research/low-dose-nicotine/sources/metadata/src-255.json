@@ -1,0 +1,23 @@
+{
+  "id": "src-255",
+  "title": "The Hsp70/Hsp90 Chaperone Machinery in Neurodegenerative Diseases",
+  "authors": [
+    "Lackie, Rachel E.",
+    "Maciejewski, Andrzej",
+    "Ostapchenko, Valeriy G.",
+    "Marques-Lopes, José",
+    "Choy, Wing‐Yiu",
+    "Duennwald, Martin L.",
+    "Prado, Vânia F.",
+    "Prado, Marco A. M."
+  ],
+  "doi": "10.3389/fnins.2017.00254",
+  "url": "https://openalex.org/W2614627885",
+  "provider": "openalex",
+  "year": 2017,
+  "venue": "Frontiers in Neuroscience",
+  "citation_count": 373,
+  "abstract": "The accumulation of misfolded proteins in the human brain is one of the critical features of many neurodegenerative diseases, including Alzheimer's disease (AD). Assembles of beta-amyloid (Aβ) peptide-either soluble (oligomers) or insoluble (plaques) and of tau protein, which form neurofibrillary tangles, are the major hallmarks of AD. Chaperones and co-chaperones regulate protein folding and client maturation, but they also target misfolded or aggregated proteins for refolding or for degradation, mostly by the proteasome. They form an important line of defense against misfolded proteins and are part of the cellular quality control system. The heat shock protein (Hsp) family, particularly Hsp70 and Hsp90, plays a major part in this process and it is well-known to regulate protein misfolding in a variety of diseases, including tau levels and toxicity in AD. However, the role of Hsp90 in regulating protein misfolding is not yet fully understood. For example, knockdown of Hsp90 and its co-chaperones in a <i>Caenorhabditis elegans</i> model of Aβ misfolding leads to increased toxicity. On the other hand, the use of Hsp90 inhibitors in AD mouse models reduces Aβ toxicity, and normalizes synaptic function. Stress-inducible phosphoprotein 1 (STI1), an intracellular co-chaperone, mediates the transfer of clients from Hsp70 to Hsp90. Importantly, STI1 has been shown to regulate aggregation of amyloid-like proteins in yeast. In addition to its intracellular function, STI1 can be secreted by diverse cell types, including astrocytes and microglia and function as a neurotrophic ligand by triggering signaling via the cellular prion protein (PrP<sup>C</sup>). Extracellular STI1 can prevent Aβ toxic signaling by (i) interfering with Aβ binding to PrP<sup>C</sup> and (ii) triggering pro-survival signaling cascades. Interestingly, decreased levels of STI1 in <i>C. elegans</i> can also increase toxicity in an amyloid model. In this review, we will discuss the role of intracellular and extracellular STI1 and the Hsp70/Hsp90 chaperone network in mechanisms underlying protein misfolding in neurodegenerative diseases, with particular focus on AD.",
+  "type": "academic",
+  "pdf_url": "https://www.frontiersin.org/articles/10.3389/fnins.2017.00254/pdf"
+}

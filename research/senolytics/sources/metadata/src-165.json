@@ -1,0 +1,21 @@
+{
+  "id": "src-165",
+  "title": "Effects of senolytic drugs on human mesenchymal stromal cells",
+  "authors": [
+    "Grezella, Clara",
+    "Fernández‐Rebollo, Eduardo",
+    "Franzen, Julia",
+    "Ferreira, Mónica S. Ventura",
+    "Beier, Fabian",
+    "Wagner, Wolfgang"
+  ],
+  "doi": "10.1186/s13287-018-0857-6",
+  "url": "https://openalex.org/W2804285711",
+  "provider": "openalex",
+  "year": 2018,
+  "venue": "Stem Cell Research & Therapy",
+  "citation_count": 79,
+  "abstract": "Of the four tested drugs, only ABT-263 revealed a senolytic effect in human MSCs-and even treatment with this compound did not rejuvenate MSCs with regard to telomere length or epigenetic senescence signature. It will be important to identify more potent senolytic drugs to meet the high hopes for regenerative medicine.",
+  "type": "academic",
+  "pdf_url": "https://stemcellres.biomedcentral.com/track/pdf/10.1186/s13287-018-0857-6"
+}

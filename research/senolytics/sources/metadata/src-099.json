@@ -1,0 +1,21 @@
+{
+  "id": "src-099",
+  "title": "Senescence landscape in the liver following sepsis and senolytics as potential therapeutics.",
+  "authors": [
+    "Lavarti, Rupa",
+    "Cai, Lun",
+    "Alvarez-Diaz, Tatiana",
+    "Medina-Rodriguez, Thalia",
+    "Bombin, Sergei",
+    "Raju, Raghavan Pillai"
+  ],
+  "doi": "10.1111/acel.14354",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39444093",
+  "provider": "pubmed",
+  "year": 2025,
+  "venue": "Aging cell",
+  "citation_count": 0,
+  "abstract": "Senescence, caused by cell-cycle arrest, is a hallmark of aging. Senescence has also been described in embryogenesis, wound healing, and acute injuries. Sepsis is characterized by a dysregulated host response to infection, leading to organ dysfunction and mortality. Most of the pathophysiology of human sepsis is recapitulated in the mouse model of polymicrobial sepsis, developed by cecal ligation and puncture (CLP). In this report, we demonstrate a rapid onset of cellular senescence in the liver of mice subjected to CLP-induced sepsis, characterized by the upregulation of p21, p53, and other senescence markers, including SA-βgal. Using RNAscope, confocal microscopy, and flow cytometry, we further confirm the emergence of p21-expressing senescence phenotype in the liver 24 h after sepsis induction. Senescence was observed in several cell types in the liver, including hepatocytes, endothelial cells, and macrophages. We determined the landscape of senescence phenotype in murine sepsis by single-cell sequencing, which further ascertained that this cell fate is not confined to any particular cell type but displays a heterogeneous distribution. Furthermore, we observed a significant reduction in mortality following sepsis when mice were treated with senolytics, a combination of dasatinib and quercetin, before the CLP surgery. Our experiments unequivocally demonstrated a rapid development of cellular senescence with sepsis and, for the first time, described the senescence landscape in the sepsis liver and the possible role of senescent cells in the worsening outcome following sepsis.",
+  "type": "academic",
+  "pdf_url": ""
+}

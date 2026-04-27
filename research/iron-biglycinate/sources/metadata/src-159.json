@@ -1,0 +1,18 @@
+{
+  "id": "src-159",
+  "title": "The association between sleep duration and risk of mortality in Chinese older adults: a national cohort study",
+  "authors": [
+    "Du, M.",
+    "Liu, Min",
+    "Liu, Jue"
+  ],
+  "doi": "10.5664/jcsm.9278",
+  "url": "https://www.semanticscholar.org/paper/c3928a8392a764070d6049717961f761ada6b0ce",
+  "provider": "semantic_scholar",
+  "year": 2021,
+  "venue": "Journal of Clinical Sleep Medicine (JCSM)",
+  "citation_count": 18,
+  "abstract": "Cohort studies about the sleep duration on the risk of death among Chinese older adults are still lacking. The aim of this study was to examine whether extremely long or short sleep duration was associated with mortality in Chinese adults aged 65 years or older. We included participants aged 65 years or older in 2011 at baseline in 23 provinces from the Chinese Longitudinal Healthy Longevity Survey who were followed up in 2014/2018 in China. Sleep duration was categorized as short sleep duration (< 7 hours) and long sleep duration (> 8 hours). We used the Cox proportional hazards model and restricted cubic spline analysis to explore the association between sleep duration and mortality. Among 9578 participants, short sleep duration was associated with an 11% higher risk of death (adjusted hazard ratio [aHR]: 1.11; 95% confidence interval [CI]: 1.02–1.20) and long sleep duration was associated with a 24% higher risk of death (aHR: 1.24; 95% CI: 1.15–1.34), after adjustment for all covariates. There was a U-shaped association between sleep duration and all-cause mortality (nonlinear, P < .0001). Stratified analyses showed that the risk was higher among older people who smoked and with a higher level of education both for short and long sleepers than for those who never smoked and were illiterate (P value for interaction < .05). There was a U-shaped association between sleep duration and all-cause mortality in Chinese older adults, especially in more educated individuals and smokers. Du M, Liu M, Liu J. The association between sleep duration and the risk of mortality in the Chinese older adults: a national cohort study. J Clin Sleep Med. 2021;17(9):1821–1829.",
+  "type": "academic",
+  "pdf_url": "https://jcsm.aasm.org/doi/pdf/10.5664/jcsm.9278"
+}

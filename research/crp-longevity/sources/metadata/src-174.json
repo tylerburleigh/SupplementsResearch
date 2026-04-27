@@ -1,0 +1,39 @@
+{
+  "id": "src-174",
+  "title": "Effect of Omega-3 fatty acids supplementation on serum level of C-reactive protein in patients with COVID-19: a systematic review and meta-analysis of randomized controlled trials",
+  "authors": [
+    "Taha, Amira Mohamed",
+    "Shaarawy, Ahmad Shehata",
+    "Omar, Mohamed Mosad",
+    "Abouelmagd, Khaled",
+    "Shalma, Noran Magdy",
+    "Alhashemi, Mais",
+    "Ahmed, Hala Mahmoud",
+    "Allam, Ahmed Hafez",
+    "Abd-ElGawad, Mohamed"
+  ],
+  "year": 2022,
+  "abstract": "AbstractBackgroundOmega-3 may alleviate the severity of coronavirus disease 2019 (COVID-19) by reducing the C-reactive protein (CRP) level, a marker for systemic inflammation. Because the scientific evidence indicating such a role is inconsistent, we aimed to evaluate the effect of Omega-3 on CRP change and CRP level in patients with COVID-19.MethodsWe conducted a comprehensive search on four databases (PubMed, Web of Science, EMBASE, and Scopus). We included all RCTs comparing Omega-3 with a control group regarding their effect on the CRP levels in patients with COVID-19. We used version two of the Cochrane risk of bias assessment tool to appraise the included studies. We extracted data to an online data extraction sheet. The primary outcomes were CRP change from baseline and CRP serum levels.ResultsWe included four randomized controlled trials (RCTs) with 274 patients in this study. The overall effect estimate favored Omega-3 over the control group in terms of CRP change from baseline (mean difference (MD) =− 2.53, 95% confidence interval (CI): − 4.40, − 0.66) and CRP serum levels at the end of the study (MD =− 6.24, 95% CI: − 11.93, − 0.54).ConclusionOmega-3 showed promising effects on systemic inflammation by reducing CRP levels in COVID-19 patients. Based on this finding, we recommend Omega-3 for COVID-19 patients for its anti-inflammatory actions.",
+  "doi": "10.1186/s12967-022-03604-3",
+  "url": "https://doi.org/10.1186/s12967-022-03604-3",
+  "pdf_url": "",
+  "venue": "Journal of Translational Medicine",
+  "citation_count": 19,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-24T01:14:54.176880+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-174.md",
+  "quality_details": {
+    "content_length": 37438,
+    "alpha_ratio": 0.736,
+    "sentence_count": 365,
+    "reasons": [
+      "paywall_page (access this article)"
+    ]
+  }
+}

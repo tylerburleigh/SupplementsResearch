@@ -1,0 +1,31 @@
+{
+  "id": "src-295",
+  "title": "A top‐down systems biology view of microbiome‐mammalian metabolic interactions in a mouse model",
+  "authors": [
+    "Martin, François‐Pierre",
+    "Dumas, Marc‐Emmanuel",
+    "Wang, Yulan",
+    "Legido‐Quigley, Cristina",
+    "Yap, Ivan Kok Seng",
+    "Tang, Huiru",
+    "Zirah, Séverine",
+    "Murphy, Gerard M.",
+    "Cloarec, Olivier",
+    "Lindon, John C.",
+    "Sprenger, Norbert",
+    "Fay, Laurent B.",
+    "Kochhar, Sunil",
+    "Bladeren, Peter van",
+    "Holmes, Elaine",
+    "Nicholson, Jeremy K."
+  ],
+  "doi": "10.1038/msb4100153",
+  "url": "https://openalex.org/W2109329073",
+  "provider": "openalex",
+  "year": 2007,
+  "venue": "Molecular Systems Biology",
+  "citation_count": 470,
+  "abstract": "Symbiotic gut microorganisms (microbiome) interact closely with the mammalian host's metabolism and are important determinants of human health. Here, we decipher the complex metabolic effects of microbial manipulation, by comparing germfree mice colonized by a human baby flora (HBF) or a normal flora to conventional mice. We perform parallel microbiological profiling, metabolic profiling by (1)H nuclear magnetic resonance of liver, plasma, urine and ileal flushes, and targeted profiling of bile acids by ultra performance liquid chromatography-mass spectrometry and short-chain fatty acids in cecum by GC-FID. Top-down multivariate analysis of metabolic profiles reveals a significant association of specific metabotypes with the resident microbiome. We derive a transgenomic graph model showing that HBF flora has a remarkably simple microbiome/metabolome correlation network, impacting directly on the host's ability to metabolize lipids: HBF mice present higher ileal concentrations of tauro-conjugated bile acids, reduced plasma levels of lipoproteins but higher hepatic triglyceride content associated with depletion of glutathione. These data indicate that the microbiome modulates absorption, storage and the energy harvest from the diet at the systems level.",
+  "type": "academic",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1038/msb4100153"
+}

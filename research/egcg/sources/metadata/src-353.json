@@ -1,0 +1,22 @@
+{
+  "id": "src-353",
+  "title": "Green tea (Camellia sinensis) for the prevention of cancer",
+  "authors": [
+    "Filippini, Tommaso",
+    "Malavolti, Marcella",
+    "Borrelli, Francesca",
+    "Izzo, Angelo A.",
+    "Fairweather‐Tait, Susan J.",
+    "Horneber, Markus",
+    "Vinceti, Marco"
+  ],
+  "doi": "10.1002/14651858.cd005004.pub3",
+  "url": "https://openalex.org/W1485232676",
+  "provider": "openalex",
+  "year": 2020,
+  "venue": "Cochrane Database of Systematic Reviews",
+  "citation_count": 323,
+  "abstract": "Overall, findings from experimental and nonexperimental epidemiological studies yielded inconsistent results, thus providing limited evidence for the beneficial effect of green tea consumption on the overall risk of cancer or on specific cancer sites. Some evidence of a beneficial effect of green tea at some cancer sites emerged from the RCTs and from case-control studies, but their methodological limitations, such as the low number and size of the studies, and the inconsistencies with the results of cohort studies, limit the interpretability of the RR estimates. The studies also indicated the occurrence of several side effects associated with high intakes of green tea. In addition, the majority of included studies were carried out in Asian populations characterised by a high intake of green tea, thus limiting the generalisability of the findings to other populations. Well conducted and adequately powered RCTs would be needed to draw conclusions on the possible beneficial effects of green tea consumption on cancer risk.",
+  "type": "academic",
+  "pdf_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD005004.pub3/pdf/full"
+}

@@ -1,0 +1,21 @@
+3	2	Review
+66	2	Introduction
+313	2	Resul Ts
+361	2	Risk Of Bias
+380	2	Discussion
+467	2	Conclusion
+480	2	Author Contributions
+484	2	References
+488	2	2. Hopkins RB, Burke N, Von Keyserlingk C, Leslie WD, Morin SN, Adachi
+491	2	3. Bonaiuti D, Shea B, Iovine R, Negrini S, Robinson V , Kemper
+498	2	4. Howe TE, Shea B, Dawson LJ, Downie F , Murray A, Ross
+522	2	12. Gotshalk LA, Kraemer WJ, Mendonca MA, Vingren JL, Kenny AM,
+526	2	13. Gotshalk LA, Volek JS, Staron RS, Denegar CR, Hagerman FC, Kraeme r
+553	2	22. Cornish SM, Candow DG, Jantz NT , Chilibeck PD, Little JP , For bes S, et
+557	2	23. Candow DG, Little JP , Chilibeck PD, Abeysekara S, Zello GA, Kaz achkov
+561	2	24. Louis M, Lebacq J, Poortmans JR, Belpaire-Dethiou MC, Devogela er JP , V an
+568	2	26. Chilibeck PD, Candow DG, Landeryou T , Kaviani M, Paus-Jens sen
+580	2	29. Tarnopolsky MA, Mahoney DJ, V ajsar J, Rodriguez C, Doherty TJ,
+584	2	30. Antolic A, Roy BD, Tarnopolsky MA, Zernicke RF , Wohl GR, Shaugh nessy
+592	2	32. Papaioannou A, Morin S, Cheung AM, Atkinson S, Brown JP , Feldma n S, et
+596	2	33. Lobo DM, Tritto AC, da Silva LR, de Oliveira PB, Benatti FB, Ros chel H, et

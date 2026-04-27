@@ -1,0 +1,23 @@
+{
+  "id": "src-080",
+  "title": "Acute and long-term effects of psilocybin on energy balance and feeding behavior in mice",
+  "authors": [
+    "Fadahunsi, Nicole",
+    "Lund, Jens",
+    "Breum, Alberte Wollesen",
+    "Mathiesen, Cecilie Vad",
+    "Larsen, Isabella Beck",
+    "Knudsen, Gitte M.",
+    "Klein, Anders B.",
+    "Clemmensen, Christoffer"
+  ],
+  "doi": "10.1038/s41398-022-02103-9",
+  "url": "https://openalex.org/W4291170424",
+  "provider": "openalex",
+  "year": 2022,
+  "venue": "Translational Psychiatry",
+  "citation_count": 46,
+  "abstract": "Psilocybin and other serotonergic psychedelics have re-emerged as therapeutics for neuropsychiatric disorders, including addiction. Psilocybin induces long-lasting effects on behavior, likely due to its profound ability to alter consciousness and augment neural connectivity and plasticity. Impaired synaptic plasticity in obesity contributes to 'addictive-like' behaviors, including heightened motivation for palatable food, and excessive food seeking and consumption. Here, we evaluate the effects of psilocybin on feeding behavior, energy metabolism, and as a weight-lowering agent in mice. We demonstrate that a single dose of psilocybin substantially alters the prefrontal cortex transcriptome but has no acute or long-lasting effects on food intake or body weight in diet-induced obese mice or in genetic mouse models of obesity. Similarly, sub-chronic microdosing of psilocybin has no metabolic effects in obese mice and psilocybin does not augment glucagon-like peptide-1 (GLP-1) induced weight loss or enhance diet-induced weight loss. A single high dose of psilocybin reduces sucrose preference but fails to counter binge-like eating behavior. Although these preclinical data discourage clinical investigation, there may be nuances in the mode of action of psychedelic drugs that are difficult to capture in rodent models, and thus require human evaluation to uncover.",
+  "type": "academic",
+  "pdf_url": "https://www.nature.com/articles/s41398-022-02103-9.pdf"
+}

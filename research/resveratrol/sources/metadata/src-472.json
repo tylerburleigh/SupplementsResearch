@@ -1,0 +1,28 @@
+{
+  "id": "src-472",
+  "title": "Slowing ageing by design: the rise of NAD + and sirtuin-activating ...",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5107309",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-19T16:10:45.217812+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "mismatched",
+  "content_file": "sources/src-472.md",
+  "quality_details": {
+    "reasons": [
+      "content may be from wrong paper: composite match score 0.29 < 0.3, 7/7 title keywords, 0/0 authors, brief keyword rate 0%, title-to-title overlap 0%"
+    ],
+    "title_hits": 7,
+    "author_hits": 0
+  }
+}

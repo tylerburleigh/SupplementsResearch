@@ -1,0 +1,22 @@
+{
+  "id": "src-150",
+  "title": "Cellular Senescence in Brain Aging",
+  "authors": [
+    "Sikora, Ewa",
+    "Bielak-Żmijewska, Anna",
+    "Dudkowska, Magdalena",
+    "Krzystyniak, Adam",
+    "Mosieniak, Grażyna",
+    "Wesierska, M",
+    "Włodarczyk, Jakub"
+  ],
+  "doi": "10.3389/fnagi.2021.646924",
+  "url": "https://openalex.org/W3130160967",
+  "provider": "openalex",
+  "year": 2021,
+  "venue": "Frontiers in Aging Neuroscience",
+  "citation_count": 278,
+  "abstract": "Aging of the brain can manifest itself as a memory and cognitive decline, which has been shown to frequently coincide with changes in the structural plasticity of dendritic spines. Decreased number and maturity of spines in aged animals and humans, together with changes in synaptic transmission, may reflect aberrant neuronal plasticity directly associated with impaired brain functions. In extreme, a neurodegenerative disease, which completely devastates the basic functions of the brain, may develop. While cellular senescence in peripheral tissues has recently been linked to aging and a number of aging-related disorders, its involvement in brain aging is just beginning to be explored. However, accumulated evidence suggests that cell senescence may play a role in the aging of the brain, as it has been documented in other organs. Senescent cells stop dividing and shift their activity to strengthen the secretory function, which leads to the acquisition of the so called senescence-associated secretory phenotype (SASP). Senescent cells have also other characteristics, such as altered morphology and proteostasis, decreased propensity to undergo apoptosis, autophagy impairment, accumulation of lipid droplets, increased activity of senescence-associated-β-galactosidase (SA-β-gal), and epigenetic alterations, including DNA methylation, chromatin remodeling, and histone post-translational modifications that, in consequence, result in altered gene expression. Proliferation-competent glial cells can undergo senescence both <i>in vitro</i> and <i>in vivo</i>, and they likely participate in neuroinflammation, which is characteristic for the aging brain. However, apart from proliferation-competent glial cells, the brain consists of post-mitotic neurons. Interestingly, it has emerged recently, that non-proliferating neuronal cells present in the brain or cultivated <i>in vitro</i> can also have some hallmarks, including SASP, typical for senescent cells that ceased to divide. It has been documented that so called senolytics, which by definition, eliminate senescent cells, can improve cognitive ability in mice models. In this review, we ask questions about the role of senescent brain cells in brain plasticity and cognitive functions impairments and how senolytics can improve them. We will discuss whether neuronal plasticity, defined as morphological and functional changes at the level of neurons and dendritic spines, can be the hallmark of neuronal senescence susceptible to the effects of senolytics.",
+  "type": "academic",
+  "pdf_url": "https://www.frontiersin.org/articles/10.3389/fnagi.2021.646924/pdf"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "src-035",
+  "title": "Variables Influencing the Effectiveness of Creatine Supplementation as a Therapeutic Intervention for Sarcopenia",
+  "authors": [
+    "Candow, Darren G.",
+    "Forbes, Scott C.",
+    "Chilibeck, Philip D.",
+    "Cornish, Stephen M.",
+    "Antonio, Jose",
+    "Kreider, Richard B."
+  ],
+  "year": 2019,
+  "abstract": "",
+  "doi": "10.3389/fnut.2019.00124",
+  "url": "https://doi.org/10.3389/fnut.2019.00124",
+  "pdf_url": "",
+  "venue": "Frontiers in Nutrition",
+  "citation_count": 62,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T13:14:43.767992+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-035.md",
+  "quality_details": {
+    "content_length": 70545,
+    "alpha_ratio": 0.73,
+    "sentence_count": 626,
+    "reasons": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "src-401",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://vitad.org/pages/vitamin-d-and-prevention-of-cancer-is-it-ready-for-prime-time",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-21T21:10:08.807937+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-401.md",
+  "quality_details": {
+    "content_length": 22334,
+    "alpha_ratio": 0.756,
+    "sentence_count": 351,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

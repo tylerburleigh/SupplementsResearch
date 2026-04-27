@@ -1,0 +1,34 @@
+{
+  "id": "src-473",
+  "title": "The efficacy of vitamin D-fortified dairy products in improving serum 25(OH)D concentration: a systematic review and meta-analysis of randomised controlled trials",
+  "authors": [
+    "Wong, Cheuk L.",
+    "Ian Givens, D.",
+    "Asioli, Daniele",
+    "Turpeinen, Anu",
+    "Han, Jia",
+    "Guo, Jing"
+  ],
+  "year": 2025,
+  "abstract": "The National Dietary and Nutrition Survey(1) confirmed the high prevalence of suboptimal vitamin D intake and status in the United Kingdom (UK) population. The UK Scientific Advisory Committee on Nutrition report in 2024(2) focused on identifying new food vehicles for vitamin D fortification. Given that dairy products are staple foods in the UK diet which may be possible vehicles for fortification, this study aims to examine the efficacy of vitamin D-fortified dairy products for improving serum 25-hydroxyvitamin D [25(OH)D] concentration using data from randomised controlled trials (RCTs).The search was conducted in PubMed, Embase, and Web of Science. After abstract/title and full-text screen, 35 eligible RCTs with interventions using vitamin D3-fortified cheese (n = 5), vitamin D3-fortified milk/milk powder (n = 15), vitamin D3-fortified yoghurt/yoghurt drinks (n = 11), vitamin D2-fortified milk/milk powder (n = 3), and vitamin D-fortified (form unknown) milk/milk powder (n = 8) and vitamin D-fortified (form unknown) yoghurt/yoghurt drinks (n = 4) were identified and included in the meta-analysis. Meta-analysis of the mean difference (MD) of serum 25(OH)D concentration between the baseline and endpoint was performed in a random effects model using STATA 18.0.Results showed that serum 25(OH)D concentrations were significantly increased by vitamin D3-fortified milk/milk powder (MD: 17.20 nmol/L, 95% CI: 11.74 – 22.65 nmol/L, p &lt; 0.001, I2= 95.96%), vitamin D3-fortified yoghurt/yoghurt drinks (MD: 26.22 nmol/L, 95% CI: 18.68 – 33.77 nmol/L, p &lt; 0.001, I2 = 97.21%), vitamin D2-fortified milk/milk powder (MD: 11.61 nmol/L, 95% CI: 9.31 – 13.91 nmol/L, p &lt; 0.001, I2 = 0%), vitamin D-fortified (form unknown) milk/milk powder (MD: 13.58 nmol/L, 95% CI: 8.53 – 18.63, p &lt; 0.001, I2 = 97.52%) and vitamin D-fortified (form unknown) yoghurt/yoghurt drinks (MD: 27.74 nmol/L, 95% CI: 16.83 – 38.64 nmol/L, p &lt; 0.001, I2 = 91.16%). Although vitamin D3-fortified cheese did not show statistically significant results (MD: 16.78 nmol/L, 95% CI: -3.61 – 37.16, p = 0.11, I2 = 99.33%), the results became significant by omitting one study when a leave-one- out analysis was conducted (MD: 24.13 nmol/L, 95% CI: 4.69 – 43.58, p = 0.015, I2 = 89.89%). Subgroup analysis of each dairy product was conducted but heterogeneity remained high in general (I2 ≥ 75%)(3).In conclusion, these findings demonstrate that vitamin D-fortified dairy products are effective in improving serum 25(OH)D concentration.",
+  "doi": "10.1017/s002966512510147x",
+  "url": "https://doi.org/10.1017/s002966512510147x",
+  "pdf_url": "",
+  "venue": "Proceedings of the Nutrition Society",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T21:00:47.830797+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-473.md",
+  "quality_details": {
+    "content_length": 4353,
+    "alpha_ratio": 0.7,
+    "sentence_count": 45,
+    "reasons": []
+  }
+}

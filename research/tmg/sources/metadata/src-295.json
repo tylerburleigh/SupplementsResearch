@@ -1,0 +1,19 @@
+{
+  "id": "src-295",
+  "title": "Cysteine metabolic circuitries: druggable targets in cancer",
+  "authors": [
+    "Bonifácio, Vasco D. B.",
+    "Pereira, Sofia A.",
+    "Serpa, Jacinta",
+    "Vicente, João B."
+  ],
+  "doi": "10.1038/s41416-020-01156-1",
+  "url": "https://openalex.org/W3108143284",
+  "provider": "openalex",
+  "year": 2020,
+  "venue": "British Journal of Cancer",
+  "citation_count": 248,
+  "abstract": "To enable survival in adverse conditions, cancer cells undergo global metabolic adaptations. The amino acid cysteine actively contributes to cancer metabolic remodelling on three different levels: first, in its free form, in redox control, as a component of the antioxidant glutathione or its involvement in protein s-cysteinylation, a reversible post-translational modification; second, as a substrate for the production of hydrogen sulphide (H<sub>2</sub>S), which feeds the mitochondrial electron transfer chain and mediates per-sulphidation of ATPase and glycolytic enzymes, thereby stimulating cellular bioenergetics; and, finally, as a carbon source for epigenetic regulation, biomass production and energy production. This review will provide a systematic portrayal of the role of cysteine in cancer biology as a source of carbon and sulphur atoms, the pivotal role of cysteine in different metabolic pathways and the importance of H<sub>2</sub>S as an energetic substrate and signalling molecule. The different pools of cysteine in the cell and within the body, and their putative use as prognostic cancer markers will be also addressed. Finally, we will discuss the pharmacological means and potential of targeting cysteine metabolism for the treatment of cancer.",
+  "type": "academic",
+  "pdf_url": "https://www.nature.com/articles/s41416-020-01156-1.pdf"
+}

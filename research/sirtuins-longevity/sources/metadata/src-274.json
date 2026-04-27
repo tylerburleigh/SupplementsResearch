@@ -1,0 +1,22 @@
+{
+  "id": "src-274",
+  "title": "Cellular Senescence in Intervertebral Disc Aging and Degeneration: Molecular Mechanisms and Potential Therapeutic Opportunities",
+  "authors": [
+    "Silwal, Prashanta",
+    "Nguyen-Thai, Allison M.",
+    "Mohammad, Haneef Ahamed",
+    "Wang, Yanshan",
+    "Robbins, Paul D.",
+    "Lee, Joon Y.",
+    "Vo, Nam V."
+  ],
+  "doi": "10.3390/biom13040686",
+  "url": "https://openalex.org/W4366277558",
+  "provider": "openalex",
+  "year": 2023,
+  "venue": "Biomolecules",
+  "citation_count": 178,
+  "abstract": "Closely associated with aging and age-related disorders, cellular senescence (CS) is the inability of cells to proliferate due to accumulated unrepaired cellular damage and irreversible cell cycle arrest. Senescent cells are characterized by their senescence-associated secretory phenotype that overproduces inflammatory and catabolic factors that hamper normal tissue homeostasis. Chronic accumulation of senescent cells is thought to be associated with intervertebral disc degeneration (IDD) in an aging population. This IDD is one of the largest age-dependent chronic disorders, often associated with neurological dysfunctions such as, low back pain, radiculopathy, and myelopathy. Senescent cells (SnCs) increase in number in the aged, degenerated discs, and have a causative role in driving age-related IDD. This review summarizes current evidence supporting the role of CS on onset and progression of age-related IDD. The discussion includes molecular pathways involved in CS such as p53-p21<sup>CIP1</sup>, p16<sup>INK4a</sup>, NF-κB, and MAPK, and the potential therapeutic value of targeting these pathways. We propose several mechanisms of CS in IDD including mechanical stress, oxidative stress, genotoxic stress, nutritional deprivation, and inflammatory stress. There are still large knowledge gaps in disc CS research, an understanding of which will provide opportunities to develop therapeutic interventions to treat age-related IDD.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2218-273X/13/4/686/pdf?version=1681804094"
+}

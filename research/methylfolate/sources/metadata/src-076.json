@@ -1,0 +1,17 @@
+{
+  "id": "src-076",
+  "title": "Genetic polymorphisms and folate status",
+  "authors": [
+    "Hiraoka, Mami",
+    "Kagawa, Yasuo"
+  ],
+  "doi": "10.1111/cga.12232",
+  "url": "https://openalex.org/W2624567430",
+  "provider": "openalex",
+  "year": 2017,
+  "venue": "Congenital Anomalies",
+  "citation_count": 173,
+  "abstract": "Moderate hyperhomocysteinemia-induced low folate status is an independent risk factor for cardiovascular disease, dementia, and depression. Folate is an essential cofactor in the one-carbon metabolism pathway and is necessary in amino acid metabolism, purine and thymidylate synthesis, and DNA methylation. In the folate cycle and homocysteine metabolism, folate, vitamin B12, vitamin B6, and vitamin B2 are important cofactors. Many enzymes are involved in folate transport and uptake, the folate pathway, and homocysteine (Hcy) metabolism, and various polymorphisms have been documented in these enzymes. Serum folate and total Hcy (tHcy) levels are influenced by folate intake and genetic polymorphisms in 5,10-methylenetertahydrofolate reductase (MTHFR) such as C677T. The prevalence of the MTHFR 677TT genotype varies across ethnic groups and regions, with a frequency of approximately 15% in Japanese populations. Individuals with the TT genotype have significantly higher tHcy levels and lower folate levels in serum than those with the CT and TT genotypes. However, administration of folic acid has been shown to eliminate these differences. Moreover, data have suggested that interventions based on genotype may be effective for motivating individuals to change their lifestyle and improve their nutrition status. Accordingly, in this review, we discuss the effects of MTHFR C677T polymorphisms on serum tHcy and folate levels with folic acid intervention and evaluate approaches for overcoming folic acid deficiency and related symptoms.",
+  "type": "academic",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/cga.12232"
+}

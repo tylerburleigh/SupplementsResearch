@@ -1,0 +1,23 @@
+{
+  "id": "src-373",
+  "title": "Evaluation of Cytochrome P450‐Mediated Cannabinoid‐Drug Interactions in Healthy Adult Participants",
+  "authors": [
+    "Bansal, Sumit",
+    "Zamarripa, C.",
+    "Spindle, Tory R.",
+    "Weerts, E.",
+    "Thummel, K.",
+    "Vandrey, R.",
+    "Paine, M.",
+    "Unadkat, J."
+  ],
+  "doi": "10.1002/cpt.2973",
+  "url": "https://www.semanticscholar.org/paper/b6194aeb316ae9ff45d26c8a5a19b2216d6e6b3e",
+  "provider": "semantic_scholar",
+  "year": 2023,
+  "venue": "Clinical pharmacology and therapy",
+  "citation_count": 54,
+  "abstract": "Understanding cannabis‐drug interactions is critical given regulatory changes that have increased access to and use of cannabis. Cannabidiol (CBD) and Δ‐9‐tetrahydrocannabinol (Δ9‐THC), the most abundant phytocannabinoids, are in vitro reversible and time‐dependent (CBD only) inhibitors of several cytochrome P450 (CYP) enzymes. Cannabis extracts were used to evaluate quantitatively potential pharmacokinetic cannabinoid‐drug interactions in 18 healthy adults. Participant received, in a randomized cross‐over manner (separated by ≥ 1 week), a brownie containing (i) no cannabis extract (ethanol/placebo), (ii) CBD‐dominant cannabis extract (640 mg CBD + 20 mg Δ9‐THC), or (iii) Δ9‐THC‐dominant cannabis extract (20 mg Δ9‐THC and no CBD). After 30 minutes, participants consumed a cytochrome P450 (CYP) drug cocktail consisting of caffeine (CYP1A2), losartan (CYP2C9), omeprazole (CYP2C19), dextromethorphan (CYP2D6), and midazolam (CYP3A). Plasma and urine samples were collected (0–24 hours). The CBD + Δ9‐THC brownie inhibited CYP2C19 > CYP2C9 > CYP3A > CYP1A2 (but not CYP2D6) activity, as evidenced by an increase in the geometric mean ratio of probe drug area under the plasma concentration‐time curve (AUC) relative to placebo (AUCGMR) of omeprazole, losartan, midazolam, and caffeine by 207%, 77%, 56%, and 39%, respectively. In contrast, the Δ9‐THC brownie did not inhibit any of the CYPs. The CBD + Δ9‐THC brownie increased Δ9‐THC AUCGMR by 161%, consistent with CBD inhibiting CYP2C9‐mediated oral Δ9‐THC clearance. Except for caffeine, these interactions were well‐predicted by our physiologically‐based pharmacokinetic model (within 26% of observed interactions). Results can be used to help guide dose adjustment of drugs co‐consumed with cannabis products and the dose of CBD in cannabis products to reduce interaction risk with Δ9‐THC.",
+  "type": "academic",
+  "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11059946"
+}

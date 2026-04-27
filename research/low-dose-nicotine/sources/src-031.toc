@@ -1,0 +1,394 @@
+22	2	Synaptic Organization Of Mso Principal
+24	2	Implanted Cats
+91	2	Lated Vascular Smooth Muscle Cells
+123	2	Physical Exercise Activates Endogenous
+124	2	Neural Precursor Cells Following
+125	2	Irradiation Of The Aging Murine Brain
+154	2	Tropomyosin Isoforms Differentially
+227	2	The Serine Protease Inhibitor Neuroserpin
+228	2	Regulates Dendritic Protrusion Number And
+229	2	Dendritic Spine Morphology
+259	2	Mice
+321	2	Visual Development
+357	2	Dent Striatum
+388	2	Development Of The Nonhuman Primate
+389	2	Visual Cortex
+422	2	Structural Changes In Dendritic Arbors
+424	2	With Key Postnatal Developmental Events In
+425	2	The Mouse
+453	2	Growth Cone Turning
+488	2	Axon Guidance By Growth Rate Modulation
+489	2	Dominates Over Biased Turning In Shallow
+490	2	Gradients
+522	2	Axon Interactions
+548	2	Development Of Hearing In Rat Auditory
+549	2	Brainstem
+579	2	Regulation Of Motoneuron Survival And
+580	2	Innervation During Embryonic Development
+616	2	Expression Of Complement Factors In The
+618	2	Disease
+653	2	Proteomic Analysis Of Spinal Cord
+655	2	Development Stages In Monodelphis
+656	2	Domestica
+686	2	Differentially Expressed Genes In The
+715	2	Long Term Reductions In Glutamatergic
+757	2	Binge Drinking And The Adolescent Brain
+791	2	Functional Recovery And Morphological
+826	2	Concentration Of Cortisol In Human Hair
+827	2	Under Rest And Pain Conditions
+845	2	Temporal Patterns Of Bone Formation
+846	2	During Fetal Growth In Pteropus
+847	2	Poliocephalus
+882	2	Transgenic Mouse
+918	2	Reproductive Tract
+948	2	Molecular Delivery To The Brain Using
+949	2	Endogenous Protein Transport
+978	2	Expression And Function Of Ghrelin And
+979	2	Receptors In Human Endometrial Cancer
+980	2	Cell Lines
+1016	2	Ghrelin And Appetite Regulation In The
+1017	2	Spinifex Hopping Mouse
+1045	2	Receptors In The Kidney Proximal Tubules
+1108	2	Leucine Supplementation Improves Glucose
+1109	2	Metabolism In Offspring From Obese Dams
+1110	2	Without Affecting Feeding Regulation
+1144	2	Central Mechanisms Of Leptin Resistance
+1146	2	Syndrome
+1176	2	Novel Actin Filaments Regulate Glucose
+1178	2	Secretion
+1212	2	Reduces The Frequency Of The Episodic
+1213	2	Ultradian Occurrences Of Brown Adipose
+1225	2	1. The locus coeruleus noradrenaline-
+1234	2	1. Elimination of
+1237	2	3. Results: In rats
+1285	2	Curcumin Reduces Hepatic And Renal Toxicity
+1315	2	Characterisation Of The Kynurenine
+1316	2	Pathway In Astrogliomas
+1351	2	Kynurenine Pathway Metabolism Is Involved
+1353	2	Concentrations In Neurons And Astrocytes
+1435	2	Exploring The Spread Of Excitation
+1436	2	Throughout The Tubular Network In
+1437	2	Mammalian Skeletal Muscle Using Superfast
+1438	2	Confocal Microscopy
+1470	2	Skeletal Muscle Pathophysiology In Mdx
+1471	2	Dystrophic Mice
+1502	2	Activation And Internalization Leading To
+1503	2	Disassembly Of Acetylcholine Receptor
+1504	2	Clusters
+1538	2	Cortical Silent Period
+1573	2	Isotonic Force Dependent Muscle Activity In
+1605	2	Aged Mammalian Skeletal Muscle
+1638	2	Modulation Of Human Corticomotor
+1640	2	Stimuli
+1673	2	Injury
+1710	2	Functional Recovery After Stroke
+1738	2	Feasibility Of Measuring Voluntary
+1739	2	Activation After Stroke Using Cortical
+1740	2	Stimulation
+1768	2	Excitability Of Motor Cortical Output To
+1770	2	Volume
+1800	2	Transcranial Magnetic Stimulation On Grip
+1801	2	Strength
+1861	2	Neurons In The Locus Coeruleus And
+1862	2	Subcoeruleus Nucleus That Project To
+1863	2	Spinal Cord Are Not Noradrenergic
+1885	2	Behaviour Of Human Genioglossus Single
+1918	2	The Boundaries And Contents Of The
+1920	2	Expression
+1954	2	Afferents To The Mesencephalic Reticular
+1955	2	Formation
+1982	2	Displaced Inferior Olivary Component
+2010	2	Bistability Permits Rapid Transitions
+2011	2	Between Spatiotemporal Waves And
+2013	2	Computational Model Of Cortex
+2082	2	Amyotrophic Lateral Sclerosis
+2119	2	Uterus
+2154	2	Intestine
+2161	2	Sst
+2193	2	Innervated Myofibroblasts In The Urinary
+2195	2	Evidence
+2238	2	Contractile Activity
+2295	2	Disrupted Gastric Slow Wave Activity And
+2331	2	Slowly Propagating Motor Activity In The
+2332	2	Isolated Rabbit Small Intestine
+2369	2	The Colon
+2401	2	Colonic Migrating Motor Complexes
+2433	2	Receptors In Colonic Mucosa But Not
+2435	2	Constipation
+2466	2	Histamine Evoked Contraction Of Smooth
+2467	2	Muscle
+2538	2	Neuronal Activity In Developing Enteric
+2539	2	Neurons
+2571	2	Axonal Damage And Plasticity Following
+2572	2	Intestinal Inflammation
+2604	2	Histological Changes In The Ileum After
+2605	2	Intestinal Ischemia And Reperfusion
+2640	2	Pathway That Underlies Peristalsis And Fecal
+2675	2	Nicotinic Pathways And Their Control Over
+2676	2	Cyclical Motor Patterns Underlying Colonic
+2677	2	Propulsion
+2708	2	Electrophysiological Changes In Enteric
+2710	2	Injury
+2742	2	Transabdominal Electrical Stimulation
+2743	2	Increases Colonic Activity In Children With
+2744	2	Chronic Constipation
+2783	2	Investigating The Contribution Of
+2784	2	Enterochromaffin Cell Distribution To
+2813	2	Neuronal Death And Glial Cell Damage
+2814	2	Occurs In Mouse Ileum Following Intestinal
+2815	2	Ischemia And Reperfusion
+2876	2	Neurovascular Transmission Is Impaired In
+2877	2	Arteries Supplying Skin Of Diabetic Rats
+2914	2	Differential Contribution Of Neuronal
+2922	2	1. However, the relative importance of nitrergic nerves to control
+2948	2	Modulation Of Muscle Sympathetic Nerve
+2949	2	Activity By Sinusoidal Galvanic Vestibular
+2951	2	Cardiac Frequency
+2981	2	Assymetrical Somatosympathetic Responses
+3014	2	Outflow And Respiratory Drive And
+3015	2	Modulate Physiological Reflexes
+3047	2	Cerebrovascular Function
+3113	2	Responses Of Mouse Mesenteric Arteries
+3114	2	Revealed By Double And Triple Knockout
+3115	2	Strategies
+3139	2	Hemorrhagic Stroke Lesion And The
+3140	2	Alteration Of Circadian Blood Pressure
+3141	2	Pattern
+3176	2	Dorsomedial Hypothalamus And Medullary
+3177	2	Raphe Mediate Respiratory Arousal
+3178	2	Responses In Rats
+3205	2	Brain Activation Associated With Evoked
+3238	2	Immunohistochemical Comparison Of
+3240	2	Ganglion
+3307	2	Peptide Receptor And Membrane Mobility
+3341	2	Modelling Extracellular Diffusion Of
+3373	2	Prepulse Inhibition Of The Startle Response
+3404	2	Exosome Release
+3438	2	Injury
+3470	2	Cultured Dorsal Root Ganglia Neurons
+3502	2	Microglia Influence On Hippocampal Neural
+3503	2	Precursors
+3538	2	Metallothioneins Induce Growth Cone
+3539	2	Chemotaxis
+3576	2	Functional Dopaminergic Differentiation Of
+3607	2	Low And High Affinity Catecholamine
+3608	2	Binding Sites In Tyrosine Hydroxylase Show
+3609	2	Structural Similarity
+3640	2	Camkii Targeting
+3673	2	Regulation Of Proliferation Of
+3674	2	Neuroblastoma Cells By Camkii
+3708	2	Chemokines And Inflammatory Mediators
+3710	2	Tiation
+3742	2	Galanin Potentiates Amylase Secretion
+3744	2	Isolated Acinar Cells
+3778	2	Antagonists Decrease The Excitatory Input
+3780	2	Subnucleus Caudalis Neurons
+3803	2	And Islet Cells
+3840	2	Feedback Excitation In Parvalbumin
+3841	2	Expressing Interneurons Of The
+3842	2	Basolateral Amygdala
+3866	2	Properties Of The Intercalated Neurons In
+3867	2	The Rodent Amygdala
+3893	2	Electrophysiological Characterization Of
+3894	2	The Medial Amygdala In Mice
+3923	2	Effects Of Sensory Stimuli On Amygdala
+3924	2	Neuron Activity In Vivo
+3956	2	Mapping The Primate Zona Incerta
+3958	2	Immunomarkers In The Rat
+3981	2	Neuromodulation Of Stochastic Resonance
+3998	2	Network Activation State Modulates Gain In
+3999	2	The Mouse Lateral Geniculate Nucleus
+4032	2	Damage
+4073	2	Causes Major Changes In The Striatal
+4074	2	Proteome Of The Rat
+4107	2	Ionic Homeostasis In Responses Of Neural
+4108	2	Cells To Stress
+4176	2	Neurotoxicity
+4219	2	Temporomandibular Joint
+4249	2	Distinct Membrane And Synaptic Properties
+4252	2	Cord
+4281	2	Electrophysiological Properties Of
+4282	2	Superficial Dorsal Horn Neurons Differ In
+4284	2	And Adult Mice
+4317	2	Rats After Sciatic Nerve Transection
+4351	2	Activity Does Not Require Increased Phrenic
+4352	2	Nerve Activity Following Acute Intermittent
+4382	2	Nerve Excitability And Mechanisms
+4384	2	Chronic Inflammatory Demyelinating
+4385	2	Polyneuropathy
+4417	2	Developmental Changes In Subthreshold
+4418	2	Potassium Currents Contribute To
+4419	2	Increased Excitability Of The Neonatal
+4420	2	Spinal Cord
+4453	2	Sodium Current Properties Differ In Neonate
+4454	2	And Adult Mouse Superficial Dorsal Horn
+4455	2	Neurons
+4493	2	Repetitive Transcranial Magnetic
+4562	2	Projection Neurons Display Long Term
+4563	2	Potentiation After High Frequency
+4564	2	Stimulation Of Cortical Afferents
+4628	2	Neuroinflammatory Response By Muller
+4630	2	Degeneration
+4662	2	Chronic Models Of Retinal Degeneration
+4695	2	Degeneration
+4729	2	Obliteration During Hyperoxia And Mimics
+4730	2	Physiological Vascularation
+4766	2	The Mammalian Eye Averages Competing
+4767	2	Defocus
+4798	2	Causes Myopia
+4825	2	Regional Variation In Sensitivity To Form
+4826	2	Deprivation Myopia In The Guinea Pig
+4855	2	Form Deprivation Induces Myopia After Optic
+4856	2	Nerve Section In The Mammalian Eye
+4888	2	Permanent Functional Reorganization Of
+4890	2	Visual Deprivation
+4921	2	Response During Fusion Of Scotopic Flicker
+4947	2	Spatial And Temporal Stimulus Variants Of
+4948	2	Multifocal Pupillographic Perimetry
+4979	2	Pupillary Responses To Blue Stimulation
+4980	2	Using Multifocal Pupillographic Objective
+4981	2	Perimetry
+5022	2	Emergence Of Novel Ocular Dominance
+5023	2	Domains In Mice
+5053	2	Anatomical And Physiological Changes In
+5087	2	Visual Cortex
+5117	2	Multiple Linear Regression For Analysing
+5153	2	Visual Cortex By Integration Of Multifocal
+5217	2	Development Of The Specialisation Of
+5218	2	Central Primate Retina
+5249	2	Facilitation In Hyperacuity Of Dragonfly
+5250	2	Hypercomplex Neurons
+5286	2	Reclassification Of Simple And Complex
+5317	2	Contrast Response Functions For Gratings
+5318	2	And Plaids In Human Visual Cortex
+5354	2	1. Purpose: To examine the spatial structure
+5379	2	Distinct Mechanisms Underlying The Effect
+5413	2	Does The Pulvinar Nucleus Contribute To
+5446	2	Cells To Transparently Moving Dots
+5505	2	How Motion Integration By Neurons In
+5506	2	Primate Area Mt Depends On Temporal
+5507	2	Frequency
+5544	2	Adaptation To Surface Motion Perceived
+5545	2	Through Touch
+5592	2	Perception Of Local Perturbations
+5621	2	System
+5656	2	Differential Cortical Representation Of
+5657	2	Inputs Arising From The Upper Arm
+5688	2	Responses In Primary And Secondary
+5689	2	Somatosensory Cortical Regions In The
+5690	2	Cat To Dual Frequency Vibrotactile Stimuli
+5711	2	200 Hz stimulus, and as the amplitude of the other stimulus frequency
+5752	2	Muscle Spindle Afferents
+5790	2	Shortened By Microstimulation In Posterior
+5791	2	Parietal Cortex
+5823	2	The Fruit Fly Drosophila Melanogaster
+5854	2	Genetic Contribution To Individual Variation
+5886	2	The Role Of Neural Synchronization In
+5887	2	Hierarchical Motor Control
+5924	2	Discrimination Of Complex Form By Simple
+5925	2	Oscillator Networks
+5958	2	Learning And Memory Pathways In The
+5959	2	Drosophila Mushroom Bodies Affect Motion
+5960	2	Response To Visual Stimuli
+6023	2	Structure And Putative Function Of
+6024	2	Antennal Sensilla Of Workers Of
+6025	2	Coptotermes Formosanus Shiraki
+6055	2	Neural Pathways Using Classical And Novel
+6056	2	Methods
+6088	2	Moral Preference And Risk Aversion In
+6121	2	Neonatal Hippocampal Lesion Model Of
+6122	2	Schizophrenia
+6144	2	Synapses
+6177	2	Can Rats Be Trained To Discriminate
+6181	2	Compounds Using Drug Discrimination
+6214	2	Behavioural Correlates Of Gestational Low
+6215	2	Dose Ethanol Exposure In Aged Offspring
+6244	2	Alcohol Reinstatement Induced Neuronal
+6245	2	Activation Following Protracted Abstinence
+6246	2	Compared To Reinstatement Immediately
+6247	2	Following Extinction
+6314	2	Exercise Or Comfort Food Reduces Stress
+6315	2	Response Following Prolonged Maternal
+6316	2	Separation In Rats
+6346	2	Reduced Anxiety In Female Offspring Of
+6347	2	Obese Mothers
+6376	2	Anxiety And Central Responses To Restraint
+6378	2	Underfeeding
+6402	2	Polysaccharide Facilitates Ejaculatory
+6403	2	Behavior In Male Rats
+6444	2	Assessing The Roles Of Oxytocin And
+6445	2	Arginine Vasopressin
+6476	2	Advanced Paternal Age Is Associated
+6477	2	With Spontaneous Hyperlocomotion And
+6478	2	Alterations In Response To Amphetamine In
+6515	2	Behaviour In Rats
+6540	2	Administration Of Low Dose Nicotine
+6575	2	Administration And Relapse Behaviour In
+6576	2	Mice
+6609	2	The Effect Of Oxytocin And Vasopressin
+6611	2	Induced Reward In Rats
+6644	2	Evaluating The Contribution Of Serotonin
+6646	2	Exposure On The Discriminative Stimulus
+6647	2	Effects Of Mdma In Rats
+6682	2	Deletion Mutations In Rat Brain
+6717	2	Specific Irap Knockout Mouse
+6748	2	Somatic Neuronal Expression And Effects
+6750	2	Behaviour
+6852	2	Cellular Models To Investigate The Effect
+6881	2	Screening Of Sphingolipid Biosynthesis
+6917	2	Investigation Of Matrix Metalloproteinase
+6919	2	Disease
+6943	2	Amyloid Precursor Protein Alpha Is Crucial
+6944	2	For Neuroprotection
+6981	2	Dystrophic Neurites
+7009	2	Calcium Oscillations In Glial Precursors
+7046	2	Pathology
+7078	2	Neuropathology Of Senile Plaques And
+7081	2	Formation In Human Brain
+7118	2	Correlate With Increased Plaque Load
+7149	2	Change In Glutathione Export Parameters
+7183	2	Tau Deposition Correlates With
+7218	2	For High Throughput Screening
+7242	2	Quinolinic Acid In Aids Dementia Complex
+7243	2	With Implications For An Alzheimer Like
+7244	2	Pathogenetic Component
+7264	2	Quin
+7275	2	Quin
+7281	2	Phosphorylated At Specific Residues Is Recruited
+7315	2	With Pathological Severity In Alzheimer
+7316	2	Disease
+7350	2	Characterisation Of Brain Derived
+7352	2	Immunoprecipitation And Mass Spectrometry
+7388	2	Compartmentalized Excitotoxicity In Primary
+7390	2	Pathology
+7423	2	Frontotemporal Dementia
+7457	2	Frontotemporal Dementia
+7531	2	Hydroxylase Phosphorylation In Rat Brain
+7532	2	And Adrenals
+7587	2	Brain
+7619	2	Dopaminergic Neurons
+7652	2	Substantia Nigra Dopaminergic Cell
+7653	2	Response To Rotenone Induced Oxidative
+7654	2	Stress In Vivo
+7684	2	Perturbed Visual Feedback With Sufficient
+7685	2	Training
+7719	2	The Midbrain Dopamine Pathways
+7748	2	Dopamine Receptor Expression Changes In
+7750	2	Peripheral Nerve Injury
+7817	2	Critical Role For The Paraventricular
+7820	2	Regulated Transcript
+7853	2	Neural Remodelling In Mice With Targeted
+7856	2	Basal Ganglia Neurodegeneration
+7925	2	Antidepressant Effect Without Symptoms Of
+7926	2	Physical Dependence
+8029	2	For The Treatment Of Cns Injury
+8096	2	Lifetime Mental Activity Promotes
+8097	2	Structural And Functional Brain Integrity
+8129	2	Influencing Iq In Children
+8197	2	Spinal Cord Contusion
+8227	2	The Establishment Of The Neuroectoderm
+8228	2	Lineage And Neuronal Differentiation
+8258	2	Alteration In Transient Receptor Potential
+8260	2	Chronic Pain
+8330	2	Relapse To Methamphetamine Addiction
+8359	2	Alcoholics

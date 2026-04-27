@@ -1,0 +1,24 @@
+{
+  "id": "src-095",
+  "title": "Gut microbiota, nutrients, and depression",
+  "authors": [
+    "Qiao, Yajun",
+    "Lin, Rong",
+    "Chen, Hanxi",
+    "Guo, Juan",
+    "Li, Guoqiang",
+    "Wang, Qiannan",
+    "Bi, Hongtao",
+    "Wei, Lixin",
+    "Gao, Tingting"
+  ],
+  "doi": "10.3389/fnut.2025.1581848",
+  "url": "https://openalex.org/W4415214655",
+  "provider": "openalex",
+  "year": 2025,
+  "venue": "Frontiers in Nutrition",
+  "citation_count": 3,
+  "abstract": "In the post-COVID-19 era, depression incidence has risen sharply, and a healthy diet is confirmed to lower this risk. However, two critical gaps remain: it is unclear whether nutrients alleviate depressive symptoms by improving the gut microbiota, and existing evidence has notable limitations. This study aimed to address these by exploring how deficiencies in key nutrients (protein, lipids, sugars, vitamins, and minerals) affect gut microbiota diversity-potentially a driver of early depression-and systematically evaluating clinical/basic research on nutrients' role in gut microbiota-mediated depression intervention. Results showed nutrients enhance gut microbiota abundance and diversity, regulate the gut-brain axis to boost short-chain fatty acid (SCFA) and neurotransmitter synthesis, and reduce inflammation, thereby alleviating depression. Thus, a healthy anti-inflammatory diet (rich in vegetables, fruits, fish) may lower depressive symptom risk. Three key research gaps were identified: 1. Mechanistic evidence relies heavily on animal studies (e.g., mouse neurotransmitter experiments) with insufficient large-scale human randomized controlled trials (RCTs) to confirm causality; 2. Conflicting findings exist [e.g., alpha-linolenic acid (ALA) has no antidepressant effect in some human cohorts]; 3. The dose-response relationship (e.g., fiber needed to elevate SCFAs to antidepressant levels) is unquantified. Future studies should quantify dietary patterns and target gut microbiota metabolism to advance early depression prevention and deepen understanding of diet-microbiota-depression links.",
+  "type": "academic",
+  "pdf_url": "https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2025.1581848/pdf"
+}

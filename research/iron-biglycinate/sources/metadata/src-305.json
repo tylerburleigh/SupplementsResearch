@@ -1,0 +1,27 @@
+{
+  "id": "src-305",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "",
+  "pdf_url": "https://backend.orbit.dtu.dk/ws/portalfiles/portal/235034017/fimmu_11_01221.pdf",
+  "venue": "",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "",
+  "fetched_at": "2026-04-21T18:16:43.007205+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-305.md",
+  "quality_details": {
+    "content_length": 80473,
+    "alpha_ratio": 0.693,
+    "sentence_count": 916,
+    "reasons": []
+  }
+}

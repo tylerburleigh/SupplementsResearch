@@ -1,0 +1,21 @@
+{
+  "id": "src-277",
+  "title": "Curcumin: Biological Activities and Modern Pharmaceutical Forms",
+  "authors": [
+    "Urošević, Maja",
+    "Nikolić, Ljubiša",
+    "Gajić, Ivana",
+    "Nikolić, Vesna",
+    "Dinić, Ana",
+    "Miljković, Vojkan"
+  ],
+  "doi": "10.3390/antibiotics11020135",
+  "url": "https://openalex.org/W4206750949",
+  "provider": "openalex",
+  "year": 2022,
+  "venue": "Antibiotics",
+  "citation_count": 309,
+  "abstract": "Curcumin (1,7-bis-(4-hydroxy-3-methoxyphenyl)-hepta-1,6-diene-3,5-dione) is a natural lipophilic polyphenol that exhibits significant pharmacological effects in vitro and in vivo through various mechanisms of action. Numerous studies have identified and characterised the pharmacokinetic, pharmacodynamic, and clinical properties of curcumin. Curcumin has an anti-inflammatory, antioxidative, antinociceptive, antiparasitic, antimalarial effect, and it is used as a wound-healing agent. However, poor curcumin absorption in the small intestine, fast metabolism, and fast systemic elimination cause poor bioavailability of curcumin in human beings. In order to overcome these problems, a number of curcumin formulations have been developed. The aim of this paper is to provide an overview of recent research in biological and pharmaceutical aspects of curcumin, methods of sample preparation for its isolation (Soxhlet extraction, ultrasound extraction, pressurised fluid extraction, microwave extraction, enzyme-assisted aided extraction), analytical methods (FTIR, NIR, FT-Raman, UV-VIS, NMR, XRD, DSC, TLC, HPLC, HPTLC, LC-MS, UPLC/Q-TOF-MS) for identification and quantification of curcumin in different matrices, and different techniques for developing formulations. The optimal sample preparation and use of an appropriate analytical method will significantly improve the evaluation of formulations and the biological activity of curcumin.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2079-6382/11/2/135/pdf?version=1642673880"
+}

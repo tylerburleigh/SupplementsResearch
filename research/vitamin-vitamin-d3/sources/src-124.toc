@@ -1,0 +1,27 @@
+34	2	Abstract
+35	2	Background
+39	2	Method
+55	2	Conclusion
+58	2	Plos One
+65	2	Open Access
+74	2	United States
+94	2	Background
+106	2	Method
+131	2	Plos One
+176	2	Plos One
+191	2	Plos One
+242	2	1 Multidis ciplinary ICU
+247	2	1 Multidis ciplinary ICU
+269	2	2 Mechanic ally ventilated
+276	2	1 Multidis ciplinary ICU
+282	2	Plos One
+297	2	Plos One
+305	2	Discussion
+318	2	Plos One
+334	2	Limitations
+344	2	Conclusion
+351	2	Author Contributions
+362	2	Plos One
+367	2	References
+421	2	Plos One
+460	2	Plos One

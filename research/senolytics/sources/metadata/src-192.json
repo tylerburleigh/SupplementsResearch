@@ -1,0 +1,25 @@
+{
+  "id": "src-192",
+  "title": "Cellular Senescence Is a Central Driver of Cognitive Disparities in Aging",
+  "authors": [
+    "Baier, Matthew P.",
+    "Ranjit, Rojina",
+    "Owen, Daniel B",
+    "Wilson, Jenna L",
+    "Stiles, Megan A.",
+    "Masingale, Anthony M",
+    "Thomas, Zachary",
+    "Bredegaard, Anne",
+    "Sherry, David M.",
+    "Logan, Sreemathi"
+  ],
+  "doi": "10.1111/acel.70041",
+  "url": "https://www.semanticscholar.org/paper/3310dd5f8b5e5a491d39b33779ce40d2e28e3d67",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "Aging Cell",
+  "citation_count": 11,
+  "abstract": "Cognitive function in aging is heterogeneous: while some older individuals develop significant impairments and dementia, others remain resilient and retain cognitive function throughout their lifespan. The molecular mechanisms that underlie these divergent cognitive trajectories, however, remain largely unresolved. Here, we utilized a high‐resolution home‐cage‐based cognitive testing paradigm to delineate mechanisms that contribute to age‐related cognitive heterogeneity. We cognitively stratified aged C57Bl/6N male mice by cognitive performance into intact (resilient) or impaired subgroups based on young performance benchmarks. Cognitively impaired males exhibited marked reactive gliosis in the hippocampus, characterized by microglial activation, increased astrocyte arborization, and elevated transcriptional expression of reactivity markers. These changes were accompanied by increased markers of cellular senescence and the associated senescence‐associated secretory phenotype (SASP) in impaired animals, including p16INK4a, SASP factors (e.g., Il‐6, Il‐1b, Mmp3), and SA‐β‐gal staining in the hippocampus. Notably, clearance of senescent cells using senolytic agents dasatinib and quercetin ameliorated the heterogeneity in cognitive performance observed with age and attenuated impairment‐associated gliosis, senescence markers, and mitochondrial dysfunction. Aged female mice could not be stratified into subgroups yet showed increased neuroinflammation with age that was not resolved with senolytics. Collectively, our findings implicate cellular senescence as a central driver of sex‐specific neuroinflammation that drives divergent cognitive trajectories in aging. Thus, we demonstrate that senolytic treatment is an effective therapeutic strategy to mitigate cognitive impairment by reducing neuroinflammation and associated metabolic disturbances.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.1111/acel.70041"
+}

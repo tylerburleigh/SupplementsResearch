@@ -1,0 +1,16 @@
+{
+  "id": "src-054",
+  "title": "Epigenetics and human disease: translating basic biology into clinical applications",
+  "authors": [
+    "Rodenhiser, D."
+  ],
+  "doi": "10.1503/cmaj.050774",
+  "url": "https://openalex.org/W2063050419",
+  "provider": "openalex",
+  "year": 2006,
+  "venue": "Canadian Medical Association Journal",
+  "citation_count": 471,
+  "abstract": "Epigenetics refers to the study of heritable changes in gene expression that occur without a change in DNA sequence. Research has shown that epigenetic mechanisms provide an \"extra\" layer of transcriptional control that regulates how genes are expressed. These mechanisms are critical components in the normal development and growth of cells. Epigenetic abnormalities have been found to be causative factors in cancer, genetic disorders and pediatric syndromes as well as contributing factors in autoimmune diseases and aging. In this review, we examine the basic principles of epigenetic mechanisms and their contribution to human health as well as the clinical consequences of epigenetic errors. In addition, we address the use of epigenetic pathways in new approaches to diagnosis and targeted treatments across the clinical spectrum.",
+  "type": "academic",
+  "pdf_url": "http://www.cmaj.ca/content/cmaj/174/3/341.full.pdf"
+}

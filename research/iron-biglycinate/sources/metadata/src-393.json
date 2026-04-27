@@ -1,0 +1,23 @@
+{
+  "id": "src-393",
+  "title": "The effect of iron dosing schedules on plasma hepcidin and iron absorption in Kenyan infants.",
+  "authors": [
+    "Uyoga, Mary A.",
+    "Mikulic, N.",
+    "Paganini, D.",
+    "Mwasi, Edith",
+    "Stoffel, Nicole U.",
+    "Zeder, C.",
+    "Karanja, S.",
+    "Zimmermann, M."
+  ],
+  "doi": "10.1093/ajcn/nqaa174",
+  "url": "https://www.semanticscholar.org/paper/ff6eb54fdd5cb81c54c025e6ad221628624170c8",
+  "provider": "semantic_scholar",
+  "year": 2020,
+  "venue": "American Journal of Clinical Nutrition",
+  "citation_count": 20,
+  "abstract": "BACKGROUND\nIn adults, oral iron doses increase plasma hepcidin (PHep) for 24 h, but not for 48 h, and there is a circadian increase in PHep over the day. Because high PHep decreases fractional iron absorption (FIA), alternate day iron dosing in the morning may be preferable to consecutive day dosing. Whether these effects occur in infants is uncertain.\n\nOBJECTIVE\nUsing stable iron isotopes in Kenyan infants, we compared FIA from morning and afternoon doses and from consecutive, alternate (every second day) and every third day iron doses.\n\nMETHODS\nIn prospective studies, we measured and compared FIA and the PHep response from 1) meals fortified with a 12-mg iron micronutrient powder given in the morning or afternoon (n = 22); 2) the same given on consecutive or alternate days (n = 21); and 3) a 12-mg iron supplement given on alternate days or every third day (n = 24).\n\nRESULTS\nIn total, 65.7% of infants were anemic. In study 1, PHep did not differ between morning and afternoon (P = 0.072), and geometric mean FIA[-SD, +SD](%) did not differ between the morning and afternoon doses [15.9 (8.9, 28.6) and 16.1 (8.7, 29.8), P = 0.877]. In study 2, PHep was increased 24 h after oral iron (P = 0.014), and mean FIA [±SD](%) from the baseline dose [23.3 (10.9)] was greater than that from the consecutive day dose (at 24 h) [20.1 (10.4); P = 0.042] but did not differ from the alternate day dose (at 48 h) [20.9 (13.4); P = 0.145]. In study 3, PHep was not increased 48 and 72 h after oral iron (P = 0.384), and the geometric mean FIA[-SD, +SD](%) from doses given at baseline, alternate days, and every third day did not differ [12.7 (7.3, 21.9), 13.8 (7.8, 24.2), and 14.8 (8.8, 24.8), respectively; P = 0.080].\n\nCONCLUSIONS\nIn Kenyan infants given 12 mg oral iron, morning and afternoon doses are comparably absorbed, dosing on consecutive days increases PHep and modestly decreases iron absorption compared with alternate day dosing, and dosing on alternate days or every third day does not increase PHep or decrease absorption. This trial was registered at clinicaltrials.gov as NCT02989311 and NCT03617575.",
+  "type": "academic",
+  "pdf_url": "https://academic.oup.com/ajcn/article-pdf/112/4/1132/33826888/nqaa174.pdf"
+}

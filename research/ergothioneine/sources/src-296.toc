@@ -1,0 +1,11 @@
+10	2	Enhancing Fertility With Patented
+14	2	Females With Diminished Ovarian Reserve
+15	2	Seeking Fertility Treatment After The
+50	2	Abstract
+150	2	Introduction
+317	2	Materials And Methods
+478	3	0.05. By evaluating changes from baseline to specific
+486	2	Results
+710	2	Discussion
+833	2	Conclusion
+865	2	References

@@ -1,0 +1,27 @@
+{
+  "id": "src-167",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://vkm.no/download/18.5387be10161937390293e0f/1518616535578/Risk%20assessment%20of%20other%20substances%20%E2%80%93%20Taurine.pdf",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "pdf",
+  "provider": "",
+  "fetched_at": "2026-04-19T12:03:04.737053+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-167.md",
+  "quality_details": {
+    "content_length": 121476,
+    "alpha_ratio": 0.701,
+    "sentence_count": 886,
+    "reasons": []
+  }
+}

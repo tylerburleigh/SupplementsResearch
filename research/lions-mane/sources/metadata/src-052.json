@@ -1,0 +1,41 @@
+{
+  "id": "src-052",
+  "title": "Neurogenesis-dependent antidepressant-like activity of Hericium erinaceus in an animal model of depression",
+  "authors": [
+    "Chong, Pit Shan",
+    "Poon, Chi Him",
+    "Roy, Jaydeep",
+    "Tsui, Ka Chun",
+    "Lew, Sze Yuen",
+    "Phang, Michael Weng Lok",
+    "Tan, Rachael Julia Yuenyinn",
+    "Cheng, Poh Guat",
+    "Fung, Man-Lung",
+    "Wong, Kah Hui",
+    "Lim, Lee Wei"
+  ],
+  "year": 2021,
+  "abstract": "AbstractBackgroundDepression is a severe neuropsychiatric disorder that affects more than 264 million people worldwide. The efficacy of conventional antidepressants are barely adequate and many have side effects.Hericium erinaceus(HE) is a medicinal mushroom that has been reported to have therapeutic potential for treating depression.MethodsAnimals subjected to chronic restraint stress were given 4 weeks HE treatment. Animals were then screened for anxiety and depressive-like behaviours. Gene and protein assays, as well as histological analysis were performed to probe the role of neurogenesis in mediating the therapeutic effect of HE. Temozolomide was administered to validate the neurogenesis-dependent mechanism of HE.ResultsThe results showed that 4 weeks of HE treatment ameliorated depressive-like behaviours in mice subjected to 14 days of restraint stress. Further molecular assays demonstrated the 4-week HE treatment elevated the expression of several neurogenesis-related genes and proteins, including doublecortin, nestin, synaptophysin, brain-derived neurotrophic factor (BDNF), tropomyosin receptor kinase B (TrkB), phosphorylated extracellular signal-regulated kinase, and phosphorylated cAMP response element-binding protein (pCREB). Increased bromodeoxyuridine-positive cells were also observed in the dentate gyrus of the hippocampus, indicating enhanced neurogenesis. Neurogenesis blocker temozolomide completely abolished the antidepressant-like effects of HE, confirming a neurogenesis-dependent mechanism. Moreover, HE induced anti-neuroinflammatory effects through reducing astrocyte activation in the hippocampus, which was also abolished with temozolomide administration.ConclusionHE exerts antidepressant effects by promoting neurogenesis and reducing neuroinflammation through enhancing the BDNF-TrkB-CREB signalling pathway.",
+  "doi": "10.1186/s13020-021-00546-8",
+  "url": "https://doi.org/10.1186/s13020-021-00546-8",
+  "pdf_url": "",
+  "venue": "Chinese Medicine",
+  "citation_count": 41,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-23T15:37:51.471399+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-052.md",
+  "quality_details": {
+    "content_length": 98442,
+    "alpha_ratio": 0.733,
+    "sentence_count": 998,
+    "reasons": [
+      "paywall_page (access this article)"
+    ]
+  }
+}

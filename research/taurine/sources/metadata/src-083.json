@@ -1,0 +1,26 @@
+{
+  "id": "src-083",
+  "title": "Sulforaphane prevents age‐associated cardiac and muscular dysfunction through Nrf2 signaling",
+  "authors": [
+    "Bose, Chhanda",
+    "Alves, Inês",
+    "Singh, Preeti",
+    "Palade, Philip",
+    "Carvalho, Eugénia",
+    "Børsheim, Elisabet",
+    "Jun, Se‐Ran",
+    "Cheema, Amrita K.",
+    "Boerma, Marjan",
+    "Awasthi, Sanjay",
+    "Singh, Sharda P."
+  ],
+  "doi": "10.1111/acel.13261",
+  "url": "https://openalex.org/W3093139371",
+  "provider": "openalex",
+  "year": 2020,
+  "venue": "Aging Cell",
+  "citation_count": 104,
+  "abstract": "Age-associated mitochondrial dysfunction and oxidative damage are primary causes for multiple health problems including sarcopenia and cardiovascular disease (CVD). Though the role of Nrf2, a transcription factor that regulates cytoprotective gene expression, in myopathy remains poorly defined, it has shown beneficial properties in both sarcopenia and CVD. Sulforaphane (SFN), a natural compound Nrf2-related activator of cytoprotective genes, provides protection in several disease states including CVD and is in various stages of clinical trials, from cancer prevention to reducing insulin resistance. This study aimed to determine whether SFN may prevent age-related loss of function in the heart and skeletal muscle. Cohorts of 2-month-old and 21- to 22-month-old mice were administered regular rodent diet or diet supplemented with SFN for 12 weeks. At the completion of the study, skeletal muscle and heart function, mitochondrial function, and Nrf2 activity were measured. Our studies revealed a significant drop in Nrf2 activity and mitochondrial functions, together with a loss of skeletal muscle and cardiac function in the old control mice compared to the younger age group. In the old mice, SFN restored Nrf2 activity, mitochondrial function, cardiac function, exercise capacity, glucose tolerance, and activation/differentiation of skeletal muscle satellite cells. Our results suggest that the age-associated decline in Nrf2 signaling activity and the associated mitochondrial dysfunction might be implicated in the development of age-related disease processes. Therefore, the restoration of Nrf2 activity and endogenous cytoprotective mechanisms by SFN may be a safe and effective strategy to protect against muscle and heart dysfunction due to aging.",
+  "type": "academic",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/acel.13261"
+}

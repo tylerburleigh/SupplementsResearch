@@ -1,0 +1,19 @@
+{
+  "id": "src-176",
+  "title": "Estimating Dietary Intake and Nutrient Adequacy among Adults in Saudi Arabia: A Population-Based Assessment",
+  "authors": [
+    "Alhumaidan, Omar",
+    "Alakeel, Shihana",
+    "Alkhunein, Sarah",
+    "Fallata, Ghadir"
+  ],
+  "doi": "10.21203/rs.3.rs-7262955/v1",
+  "url": "https://doi.org/10.21203/rs.3.rs-7262955/v1",
+  "provider": "crossref",
+  "year": 2025,
+  "venue": "",
+  "citation_count": 0,
+  "abstract": "<title>Abstract</title>\n<p>Background\nNon-communicable diseases are a major health burden in Saudi Arabia; therefore, improving dietary patterns is a key national priority. However, a lack of detailed and updated national dietary intake data hinders evidence-based policy planning. This study aims to update and enhance the National Nutrition Consumption Model (NNC-v2) to enhance a probabilistic, age-stratified assessment of food consumption and nutrient adequacy in Saudi Arabia.\nMethods\nThe model integrated multiple national data sources, including the Food and Agriculture Organization database, Global Dietary Database, Euromonitor, and General Authority for Statistics in Saudi Arabia. A probabilistic framework was applied using distributions for food supply, consumption, and nutrient composition and adjusted for age and weekly variability. The average requirement cut-point method combined with the Monte Carlo method (10,000 iterations) was used to estimate the prevalence of nutrient inadequacy.\nResults\nFood supply was stable from 2018 to 2023, with grains at 21.28 million tons. Mean intake was highest for grains (278 g/day) and proteins (120 g/day). Median energy intake was 2399 kcal/day (males) and 2366 kcal/day (females). Several micronutrients showed substantial inadequacy, including folate (− 97 µg/day), vitamin C (− 28 mg/day), and magnesium (− 113 mg/day in males), affecting over 85% of the population. Median food cost was 368 SR/month.\nConclusions\nThe NNC-v2 provides a locally adapted approach for estimating dietary exposure and nutrient adequacy in Saudi Arabia. It can support nutrition policy, public health planning, and regulatory assessment, particularly in settings where dietary survey data are limited.</p>",
+  "type": "academic",
+  "pdf_url": ""
+}

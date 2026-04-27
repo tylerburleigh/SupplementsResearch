@@ -1,0 +1,21 @@
+{
+  "id": "src-966",
+  "title": "Effect of quercetin on the pharmacokinetics of selexipag and its active metabolite in beagles.",
+  "authors": [
+    "Luo, Shun-Bin",
+    "Gu, Er-Min",
+    "Chen, Yu-Ao",
+    "Zhou, Shi-Chen",
+    "Fan, Chen",
+    "Xu, Ren-Ai"
+  ],
+  "doi": "10.1080/13880209.2021.2005636",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34860644",
+  "provider": "pubmed",
+  "year": 2022,
+  "venue": "Pharmaceutical biology",
+  "citation_count": 0,
+  "abstract": "CONTEXT: As an inhibitor cytochrome P450 family 2 subfamily C polypeptide 8 (CYP2C8), quercetin is a naturally occurring flavonoid with its glycosides consumed at least 100 mg per day in food. However, it is still unknown whether quercetin and selexipag interact.\nOBJECTIVE: The study investigated the effect of quercetin on the pharmacokinetics of selexipag and ACT-333679 in beagles.\nMATERIALS AND METHODS: The ultra-performance liquid chromatography-tandem mass spectrometry (UPLC-MS/MS) was used to investigate the pharmacokinetics of orally administered selexipag (2 mg/kg) with and without quercetin (2 mg/kg/day for 7 days) pre-treatment in beagles. The effect of quercetin on the pharmacokinetics of selexipag and its potential mechanism was studied through the pharmacokinetic parameters.\nRESULTS: The assay method was validated for selexipag and ACT-333679, and the lower limit of quantification for both was 1 ng/mL. The recovery and the matrix effect of selexipag were 84.5-91.58% and 94.98-99.67%, while for ACT-333679 were 81.21-93.90% and 93.17-99.23%. The UPLC-MS/MS method was sensitive, accurate and precise, and had been applied to the herb-drug interaction study of quercetin with selexipag and ACT-333679. Treatment with quercetin led to an increased in Cmax and AUC0-t of selexipag by about 43.08% and 26.92%, respectively. While the ACT-333679 was about 11.11% and 18.87%, respectively.\nDISCUSSION AND CONCLUSION: The study indicated that quercetin could inhibit the metabolism of selexipag and ACT-333679 when co-administration. Therefore, the clinical dose of selexipag should be used with caution when co-administered with foods high in quercetin.",
+  "type": "academic",
+  "pdf_url": ""
+}

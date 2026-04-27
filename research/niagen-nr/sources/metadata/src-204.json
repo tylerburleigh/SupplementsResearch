@@ -1,0 +1,19 @@
+{
+  "id": "src-204",
+  "title": "Niacin in the Central Nervous System: An Update of Biological Aspects and Clinical Applications",
+  "authors": [
+    "Gasperi, Valeria",
+    "Sibilano, Matteo",
+    "Savini, Isabella",
+    "Catani, Maria Valeria"
+  ],
+  "doi": "10.3390/ijms20040974",
+  "url": "https://openalex.org/W2915556067",
+  "provider": "openalex",
+  "year": 2019,
+  "venue": "International Journal of Molecular Sciences",
+  "citation_count": 266,
+  "abstract": "Niacin (also known as \"vitamin B₃\" or \"vitamin PP\") includes two vitamers (nicotinic acid and nicotinamide) giving rise to the coenzymatic forms nicotinamide adenine dinucleotide (NAD) and nicotinamide adenine dinucleotide phosphate (NADP). The two coenzymes are required for oxidative reactions crucial for energy production, but they are also substrates for enzymes involved in non-redox signaling pathways, thus regulating biological functions, including gene expression, cell cycle progression, DNA repair and cell death. In the central nervous system, vitamin B₃ has long been recognized as a key mediator of neuronal development and survival. Here, we will overview available literature data on the neuroprotective role of niacin and its derivatives, especially focusing especially on its involvement in neurodegenerative diseases (Alzheimer's, Parkinson's, and Huntington's diseases), as well as in other neuropathological conditions (ischemic and traumatic injuries, headache and psychiatric disorders).",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/1422-0067/20/4/974/pdf?version=1550903188"
+}

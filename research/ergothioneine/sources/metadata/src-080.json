@@ -1,0 +1,21 @@
+{
+  "id": "src-080",
+  "title": "Ergothioneine and mitochondria: An important protective mechanism?",
+  "authors": [
+    "Fong, Zachary Weijie",
+    "Tang, Richard Ming Yi",
+    "Cheah, Irwin Kee-Mun",
+    "Leow, Damien Meng Kiat",
+    "Chen, Lucrecia",
+    "Halliwell, Barry"
+  ],
+  "doi": "10.1016/j.bbrc.2024.150269",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38909533",
+  "provider": "pubmed",
+  "year": 2024,
+  "venue": "Biochemical and biophysical research communications",
+  "citation_count": 0,
+  "abstract": "Mitochondrial dysfunction is implicated in a wide range of human disorders including many neurodegenerative and cardiovascular diseases, metabolic diseases, cancers, and respiratory disorders. Studies have suggested the potential of l-ergothioneine (ET), a unique dietary thione, to prevent mitochondrial damage and improve disease outcome. Despite this, no studies have definitively demonstrated uptake of ET into mitochondria. Moreover, the expression of the known ET transporter, OCTN1, on the mitochondria remains controversial. In this study, we utilise mass spectrometry to demonstrate direct ET uptake in isolated mitochondria as well as its presence in mitochondria isolated from ET-treated cells and animals. Mitochondria isolated from OCTN1 knockout mice tissues, have impaired but still detectable ET uptake, raising the possibility of alternative transporter(s) which may facilitate ET uptake into the mitochondria. Our data confirm that ET can enter mitochondria, providing a basis for further work on ET in the prevention of mitochondrial dysfunction in human disease.",
+  "type": "academic",
+  "pdf_url": ""
+}

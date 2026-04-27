@@ -1,0 +1,22 @@
+{
+  "id": "src-381",
+  "title": "Iron Deficiency in Acute Coronary Syndromes-Clinical Correlates and Outcomes.",
+  "authors": [
+    "Masini, Gabriele",
+    "Barsacchi, Matilde",
+    "Chiusolo, Simona",
+    "Alberti, Mattia",
+    "Gargani, Luna",
+    "Corradi, Francesco",
+    "De Caterina, Raffaele"
+  ],
+  "doi": "10.1016/j.amjmed.2025.03.003",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40120841",
+  "provider": "pubmed",
+  "year": 2025,
+  "venue": "The American journal of medicine",
+  "citation_count": 0,
+  "abstract": "BACKGROUND: Iron deficiency is common in heart failure and relates to a worse prognosis, but its role in acute coronary syndromes is unclear. This study assessed iron deficiency prevalence, correlation with infarct size and left ventricular function, and association with in-hospital and post-discharge events in such patients.\nMETHODS: We analyzed 152 acute coronary syndrome patients using multiple iron deficiency definitions: serum iron <6 µmol/L or <13 µmol/L; transferrin saturation (TSAT) <20%; ferritin <100 µg/L; and a combined definition - ferritin <100 µg/L or TSAT<20% if ferritin 100-299 µg/L. Infarct size was approximated by peak cardiac troponin T. Cox regression analysis examined associations with in-hospital complications (death, sustained arrhythmias, or Killip class ≥3) and post-discharge events (death, myocardial infarction, or stroke).\nRESULTS: The prevalence of iron deficiency ranged from 21% to 62%, depending on definitions. Patients with deficiency defined by serum iron or TSAT were older, more frequently female, with more cardiovascular risk factors, and higher high-sensitivity C-reactive protein. Serum iron <13 µmol/L and TSAT <20% correlated with lower left ventricular ejection fraction but not with greater infarct size. Iron deficiency did not predict in-hospital complications, whereas serum iron <6 µmol/L was associated with a higher risk of post-discharge events. Such association lost significance after adjustment for hs-CRP. Lower ferritin predicted fewer events.\nCONCLUSION: Iron deficiency is frequent in acute coronary syndromes. Definitions by serum iron and TSAT identify patients with worse left ventricular systolic function and more inflammation, potentially influencing prognosis.",
+  "type": "academic",
+  "pdf_url": ""
+}

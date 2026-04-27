@@ -1,0 +1,23 @@
+18	2	2024. Studies evaluating critically ill adult patients who received vitamin D
+42	2	Keywords
+44	2	Open Access
+45	2	Edited By
+48	2	Reviewed By
+62	2	Citation
+68	2	Copyright
+87	2	Introduction
+139	2	Method
+149	2	2. The intervention group received vitamin D regardless of any
+203	2	Statistical Analysis
+238	2	Results
+390	2	Discussion
+552	2	Conclusion
+563	2	Author Contributions
+593	2	Supplementary Material
+597	2	References
+606	2	4. Holick MF , Binkley NC, Bischoff-Ferrari HA, Gordon CM, Hanley DA, Heaney RP ,
+619	2	8. Dawson-Hughes B, Mithal A, Bonjour JP , Boonen S, Burckhardt P , Fuleihan GE,
+622	2	9. American Geriatrics Society Workgroup on Vitamin D Supplementation for Older
+642	2	15. Ginde AA, Brower RG, Caterino JM, Finck L, Banner-Goodspeed VM, Grissom
+704	2	34. Miroliaee AE, Salamzadeh J, Shokouhi S, Fatemi A, Ardehali SH, Hajiesmaeili MR,
+718	2	37. Quraishi SA, De Pascale G, Needleman JS, Nakazawa H, Kaneki M, Bajwa EK,

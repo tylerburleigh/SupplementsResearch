@@ -1,0 +1,19 @@
+{
+  "id": "src-115",
+  "title": "Safety Evaluation for Restorin® NMN, a NAD+ Precursor",
+  "authors": [
+    "Turner, J. Rick",
+    "Licollari, Albert",
+    "Mihalcea, Emil",
+    "Tan, Aimin"
+  ],
+  "doi": "10.3389/fphar.2021.749727",
+  "url": "https://openalex.org/W3213932904",
+  "provider": "openalex",
+  "year": 2021,
+  "venue": "Frontiers in Pharmacology",
+  "citation_count": 16,
+  "abstract": "NAD+ is an abundant molecule in the body and vital to all living cells. NAD+ levels decline with age, and this decline correlates with age-related diseases. Therefore, sustaining NAD+ levels offers potential benefits to healthspan and longevity. Here we conducted toxicity studies to evaluate the safety of Restorin® NMN, a high purity form of the direct NAD+ precursor, β-nicotinamide mononucleotide (NMN). Based on the preliminary toxicity study and a 14-days repeated dose toxicity study at a higher dose level exposure, Restorin® NMN was administered orally to Sprague-Dawley rats for 91 days followed by a 14-days recovery period. The oral doses of 500, 1,000, and 2000 mg/kg/day were compared. There were no test item-related findings that could be considered adverse events in animals dosed at 500 mg/kg/day. The findings in the Restorin® NMN high dose group (2000 mg/kg/day) were similar to the reference item (Nicotinamide Riboside Chloride) dosed at 1740 mg/kg/day: reduced body weight, reductions in body weight gains, and diminished food consumption. In conclusion, the No-Observed-Adverse-Effect-Level (NOAEL) for Restorin® NMN is 1,000 mg/kg/day in female rats and 500 mg/kg/day in male rats, and the Low-Observed-Adverse-Effect-Level (LOAEL) for Resotrin® NMN is 2000 mg/kg/day.",
+  "type": "academic",
+  "pdf_url": "https://www.frontiersin.org/articles/10.3389/fphar.2021.749727/pdf"
+}

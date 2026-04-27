@@ -1,0 +1,23 @@
+{
+  "id": "src-093",
+  "title": "Effect of &lt;i&gt;Bacillus subtilis&lt;/i&gt; C-3102 on bone mineral density in healthy postmenopausal Japanese women: a randomized, placebo-controlled, double-blind clinical trial",
+  "authors": [
+    "Takimoto, Takuou",
+    "Hatanaka, Misaki",
+    "Hoshino, Tomohiro",
+    "Takara, Tsuyoshi",
+    "Tanaka, Ko",
+    "Shimizu, Atsushi",
+    "Morita, Hiroto",
+    "Nakamura, T."
+  ],
+  "doi": "10.12938/bmfh.18-006",
+  "url": "https://openalex.org/W2807860524",
+  "provider": "openalex",
+  "year": 2018,
+  "venue": "Bioscience of Microbiota Food and Health",
+  "citation_count": 140,
+  "abstract": "Gut microbiota influence the host immune system and are associated with various diseases. In recent years, postmenopausal bone loss has been suggested to be related to gut microbiota. In the present study, we investigated the treatment effect of the probiotic <i>Bacillus subtilis</i> C-3102 (C-3102) on bone mineral density (BMD) and its influence on gut microbiota in healthy postmenopausal Japanese women. Seventy-six healthy postmenopausal Japanese women were treated with a placebo or C-3102 spore-containing tablets for 24 weeks. When compared with the placebo, C-3102 significantly increased total hip BMD (placebo = 0.83 ± 0.63%, C-3102 = 2.53 ± 0.52%, p=0.043). There was a significant group-by-time interaction effect for urinary type I collagen cross-linked N-telopeptide (uNTx) (p=0.033), a marker of bone resorption. Specifically, the C-3102 group showed significantly lower uNTx when compared with the placebo group at 12 weeks of treatment (p=0.015). In addition, in the C-3102 group, there was a trend towards a decrease in the bone resorption marker tartrate-resistant acid phosphatase isoform 5b (TRACP-5b) when compared with the placebo group at 12 weeks of treatment (p=0.052). The relative abundance of genus <i>Bifidobacterium</i> significantly increased at 12 weeks of treatment compared with the baseline in the C-3102 group. The relative abundance of genus <i>Fusobacterium</i> was significantly decreased in the C-3102 group at 12 and 24 weeks of treatment compared with the baseline. These data suggested that C-3102 improves BMD by inhibiting bone resorption and modulating gut microbiota in healthy postmenopausal women.",
+  "type": "academic",
+  "pdf_url": "https://www.jstage.jst.go.jp/article/bmfh/37/4/37_18-006/_pdf"
+}

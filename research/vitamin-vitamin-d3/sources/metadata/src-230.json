@@ -1,0 +1,17 @@
+{
+  "id": "src-230",
+  "title": "Immunologic Effects of Vitamin D on Human Health and Disease",
+  "authors": [
+    "Charoenngam, Nipith",
+    "Holick, Michael F."
+  ],
+  "doi": "10.3390/nu12072097",
+  "url": "https://openalex.org/W3043391693",
+  "provider": "openalex",
+  "year": 2020,
+  "venue": "Nutrients",
+  "citation_count": 941,
+  "abstract": "Vitamin D is responsible for regulation of calcium and phosphate metabolism and maintaining a healthy mineralized skeleton. It is also known as an immunomodulatory hormone. Experimental studies have shown that 1,25-dihydroxyvitamin D, the active form of vitamin D, exerts immunologic activities on multiple components of the innate and adaptive immune system as well as endothelial membrane stability. Association between low levels of serum 25-hydroxyvitamin D and increased risk of developing several immune-related diseases and disorders, including psoriasis, type 1 diabetes, multiple sclerosis, rheumatoid arthritis, tuberculosis, sepsis, respiratory infection, and COVID-19, has been observed. Accordingly, a number of clinical trials aiming to determine the efficacy of administration of vitamin D and its metabolites for treatment of these diseases have been conducted with variable outcomes. Interestingly, recent evidence suggests that some individuals might benefit from vitamin D more or less than others as high inter-individual difference in broad gene expression in human peripheral blood mononuclear cells in response to vitamin D supplementation has been observed. Although it is still debatable what level of serum 25-hydroxyvitamin D is optimal, it is advisable to increase vitamin D intake and have sensible sunlight exposure to maintain serum 25-hydroxyvitamin D at least 30 ng/mL (75 nmol/L), and preferably at 40-60 ng/mL (100-150 nmol/L) to achieve the optimal overall health benefits of vitamin D.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2072-6643/12/7/2097/pdf"
+}

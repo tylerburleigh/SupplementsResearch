@@ -1,0 +1,25 @@
+{
+  "id": "src-165",
+  "title": "Bioavailability and biotransformation of sulforaphane and erucin metabolites in different biological matrices determined by LC-MS-MS.",
+  "authors": [
+    "Platz, Stefanie",
+    "Piberger, Ann Liza",
+    "Budnowski, Julia",
+    "Herz, Corinna",
+    "Schreiner, Monika",
+    "Blaut, Michael",
+    "Hartwig, Andrea",
+    "Lamy, Evelyn",
+    "Hanske, Laura",
+    "Rohn, Sascha"
+  ],
+  "doi": "10.1007/s00216-015-8482-z",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/25650001",
+  "provider": "pubmed",
+  "year": 2015,
+  "venue": "Analytical and bioanalytical chemistry",
+  "citation_count": 0,
+  "abstract": "The food-related isothiocyanate sulforaphane (SFN), a hydrolysis product of the secondary plant metabolite glucoraphanin, has been revealed to have cancer-preventive activity in experimental animals. However, these studies have often provided inconsistent results with regard to bioavailability, bioaccessibility, and outcome. This might be because the endogenous biotransformation of SFN metabolites to the structurally related erucin (ERN) metabolites has often not been taken into account. In this work, a fully validated liquid chromatography tandem mass spectrometry (LC-MS-MS) method was developed for the simultaneous determination of SFN and ERN metabolites in a variety of biological matrices. To reveal the importance of the biotransformation pathway, matrices including plasma, urine, liver, and kidney samples from mice and cell lysates derived from colon-cancer cell lines were included in this study. The LC-MS-MS method provides limits of detection from 1 nmol L(-1) to 25 nmol L(-1) and a mean recovery of 99 %. The intra and interday imprecision values are in the range 1-10 % and 2-13 %, respectively. Using LC-MS-MS, SFN and ERN metabolites were quantified in different matrices. The assay was successfully used to determine the biotransformation in all biological samples mentioned above. For a comprehensive analysis and evaluation of the potential health effects of SFN, it is necessary to consider all metabolites, including those formed by biotransformation of SFN to ERN and vice versa. Therefore, a sensitive and robust LC-MS-MS method was validated for the simultaneous quantification of mercapturic-acid-pathway metabolites of SFN and ERN.",
+  "type": "academic",
+  "pdf_url": ""
+}

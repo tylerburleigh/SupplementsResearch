@@ -1,0 +1,33 @@
+{
+  "id": "src-298",
+  "title": "Serum ergothioneine and risk of dementia in a general older Japanese population: the Hisayama Study",
+  "authors": [
+    "Meng, Xiangyin",
+    "Ohara, Tomoyuki",
+    "Nishioka, Kentaro",
+    "Shibata, Mao",
+    "Katsube, Makoto",
+    "Tateishi, Norifumi",
+    "Nakamura, Yumi",
+    "Oishi, Emi",
+    "Sakata, Satoko",
+    "Furuta, Yoshihiko",
+    "Nakao, Tomohiro",
+    "Ninomiya, Toshiharu"
+  ],
+  "year": 2025,
+  "abstract": "Aim\nTo investigate the association between serum ergothioneine and risk of developing dementia and its subtypes in a community‐dwelling older population.\n\nMethods\nIn this prospective longitudinal analysis of participants enrolled in the Hisayama Study, 1344 Japanese community‐residents aged 65 years and over without dementia at baseline were followed prospectively for a median of 11.2 years (2012–2023). Serum ergothioneine levels were quantified using liquid chromatography–mass spectrometry and divided into quartiles. Cox proportional hazards models were used to estimate the hazard ratios (HRs) and their 95% confidence intervals for the association between serum ergothioneine levels and the risk of dementia subtypes.\n\nResults\n\nDuring the follow‐up, 273 participants developed all‐cause dementia. Among them, 201 had Alzheimer's disease (AD) and 72 had non‐Alzheimer's disease (non‐AD) dementia. The age‐ and sex‐adjusted HRs for all‐cause dementia, AD, and non‐AD dementia decreased progressively across increasing quartiles of serum ergothioneine (all\nP\nfor trend &lt;0.05). These associations remained significant after adjustment for a wide range of cardiovascular, lifestyle, and dietary factors, including daily vegetable intake (\nP\nfor trend &lt;0.05). In subgroup analyses stratified by daily vegetable intake, higher serum ergothioneine levels were consistently associated with lower dementia risk, irrespective of vegetable consumption.\n\nConclusions\nOur findings showed that higher serum ergothioneine levels were associated with a lower risk of developing all‐cause dementia, AD, and non‐AD dementia in an older Japanese population. Since ergothioneine cannot be synthesized in the human body, a diet rich in ergothioneine may be beneficial in reducing the risk of dementia.",
+  "doi": "10.1111/pcn.13893",
+  "url": "https://doi.org/10.1111/pcn.13893",
+  "pdf_url": "",
+  "venue": "Psychiatry and Clinical Neurosciences",
+  "citation_count": 3,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-20T00:25:24.333790+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok"
+}

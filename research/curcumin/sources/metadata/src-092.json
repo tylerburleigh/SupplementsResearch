@@ -1,0 +1,19 @@
+{
+  "id": "src-092",
+  "title": "Advances in Oral Drug Delivery",
+  "authors": [
+    "Alqahtani, Mohammed S.",
+    "Kazi, Mohsin",
+    "Alsenaidy, Mohammad A.",
+    "Ahmad, Muhammad Zamharir"
+  ],
+  "doi": "10.3389/fphar.2021.618411",
+  "url": "https://openalex.org/W3131769770",
+  "provider": "openalex",
+  "year": 2021,
+  "venue": "Frontiers in Pharmacology",
+  "citation_count": 784,
+  "abstract": "The oral route is the most common route for drug administration. It is the most preferred route, due to its advantages, such as non-invasiveness, patient compliance and convenience of drug administration. Various factors govern oral drug absorption including drug solubility, mucosal permeability, and stability in the gastrointestinal tract environment. Attempts to overcome these factors have focused on understanding the physicochemical, biochemical, metabolic and biological barriers which limit the overall drug bioavailability. Different pharmaceutical technologies and drug delivery systems including nanocarriers, micelles, cyclodextrins and lipid-based carriers have been explored to enhance oral drug absorption. To this end, this review will discuss the physiological, and pharmaceutical barriers influencing drug bioavailability for the oral route of administration, as well as the conventional and novel drug delivery strategies. The challenges and development aspects of pediatric formulations will also be addressed.",
+  "type": "academic",
+  "pdf_url": "https://www.frontiersin.org/articles/10.3389/fphar.2021.618411/pdf"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "src-043",
+  "title": "Vitamin D supplementation and hospitalization for infection in older adults: A post-hoc analysis of data from the Australian D-Health Trial.",
+  "authors": [
+    "Pham, H.",
+    "Waterhouse, M.",
+    "Baxter, C.",
+    "Romero, B. D.",
+    "McLeod, D.",
+    "Armstrong, B.",
+    "Ebeling, P.",
+    "English, D.",
+    "Hartel, G.",
+    "O'Connell, R.",
+    "Pols, J. C. van der",
+    "Venn, A.",
+    "Webb, P.",
+    "Whiteman, D.",
+    "Neale, R."
+  ],
+  "doi": "10.1016/j.ajcnut.2022.11.015",
+  "url": "https://www.semanticscholar.org/paper/472ef791740180a56efe06304dee03ccab8aa506",
+  "provider": "semantic_scholar",
+  "year": 2022,
+  "venue": "American Journal of Clinical Nutrition",
+  "citation_count": 7,
+  "abstract": "BACKGROUND\nEvidence suggests that vitamin D influences the immune system. Recent studies indicate that vitamin D supplementation may reduce the severity of infections, but this has not been confirmed.\n\nOBJECTIVES\nThe objective of this study was to assess the effect of vitamin D supplementation on hospitalization for infection.\n\nMETHODS\nThe D-Health Trial was a randomized, double-blind, placebo-controlled trial of monthly 60,000 international units of vitamin D3 for 5 y among 21,315 Australians aged 60-84 y. Hospitalization for infection, ascertained through linkage with hospital admitted patient data, is a tertiary outcome of the trial. The primary outcome for this post-hoc analysis was hospitalization for any infection. Secondary outcomes were extended hospitalization for infection (length of stay >3 d and >6 d) and hospitalization for respiratory tract, skin, and gastrointestinal infections. We used negative binomial regression to estimate the effect of vitamin D supplementation on outcomes.\n\nRESULTS\nParticipants (46% women, mean age: 69 y), were followed up for a median of 5 y. Vitamin D supplementation had little or no effect on the incidence of hospitalization for any infection [incidence rate ratio (IRR): 0.95; 95% CI: 0.86, 1.05], respiratory tract (IRR: 0.93; 95% CI: 0.81, 1.08), skin (IRR: 0.95; 95% CI: 0.76, 1.20), gastrointestinal infections (IRR: 1.03; 95% CI: 0.84, 1.26), or hospitalizations lasting >3 d (IRR: 0.94; 95% CI: 0.81, 1.09), with all CIs consistent with a null finding. People supplemented with vitamin D had fewer hospitalizations lasting >6 d (IRR: 0.80; 95% CI: 0.65, 0.99).\n\nCONCLUSIONS\nWe did not find a protective effect of vitamin D on hospitalization for infection, but it reduced the number of extended hospitalizations. In populations where few people are vitamin D deficient, the effect of population-wide supplementation is likely to be small, but these findings support previous studies suggesting that vitamin D plays a role in infectious disease. The D-Health Trial is registered at the Australian New Zealand Clinical Trials Registry as ACTRN12613000743763.",
+  "type": "academic",
+  "pdf_url": ""
+}

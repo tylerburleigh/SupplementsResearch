@@ -1,0 +1,24 @@
+{
+  "id": "src-223",
+  "title": "Hericium erinaceus potentially rescues behavioural motor deficits through ERK-CREB-PSD95 neuroprotective mechanisms in rat model of 3-acetylpyridine-induced cerebellar ataxia",
+  "authors": [
+    "Chong, Pit Shan",
+    "Khairuddin, Sharafuddin",
+    "Tse, Anna Chung Kwan",
+    "Hiew, Lih Fhung",
+    "Lau, Chun Lok",
+    "Tipoe, George L.",
+    "Fung, Man‐Lung",
+    "Wong, Kah-Hui",
+    "Lim, Lee Wei"
+  ],
+  "doi": "10.1038/s41598-020-71966-z",
+  "url": "https://openalex.org/W3084204588",
+  "provider": "openalex",
+  "year": 2020,
+  "venue": "Scientific Reports",
+  "citation_count": 29,
+  "abstract": "Cerebellar ataxia is a neurodegenerative disorder with no definitive treatment. Although several studies have demonstrated the neuroprotective effects of Hericium erinaceus (H.E.), its mechanisms in cerebellar ataxia remain largely unknown. Here, we investigated the neuroprotective effects of H.E. treatment in an animal model of 3-acetylpyridine (3-AP)-induced cerebellar ataxia. Animals administered 3-AP injection exhibited remarkable impairments in motor coordination and balance. There were no significant effects of 25 mg/kg H.E. on the 3-AP treatment group compared to the 3-AP saline group. Interestingly, there was also no significant difference in the 3-AP treatment group compared to the non-3-AP control, indicating a potential rescue of motor deficits. Our results revealed that 25 mg/kg H.E. normalised the neuroplasticity-related gene expression to the level of non-3-AP control. These findings were further supported by increased protein expressions of pERK1/2-pCREB-PSD95 as well as neuroprotective effects on cerebellar Purkinje cells in the 3-AP treatment group compared to the 3-AP saline group. In conclusion, our findings suggest that H.E. potentially rescued behavioural motor deficits through the neuroprotective mechanisms of ERK-CREB-PSD95 in an animal model of 3-AP-induced cerebellar ataxia.",
+  "type": "academic",
+  "pdf_url": "https://www.nature.com/articles/s41598-020-71966-z.pdf"
+}

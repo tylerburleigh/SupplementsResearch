@@ -1,0 +1,16 @@
+{
+  "id": "src-075",
+  "title": "Indoles Derived From Glucobrassicin: Cancer Chemoprevention by Indole-3-Carbinol and 3,3'-Diindolylmethane",
+  "authors": [
+    "Williams, David E."
+  ],
+  "doi": "10.3389/fnut.2021.734334",
+  "url": "https://openalex.org/W3204346934",
+  "provider": "openalex",
+  "year": 2021,
+  "venue": "Frontiers in Nutrition",
+  "citation_count": 90,
+  "abstract": "Hydrolysis of glucobrassicin by plant or bacterial myrosinase produces multiple indoles predominantly indole-3-carbinol (I3C). I3C and its major <i>in vivo</i> product, 3,3'-diindolylmethane (DIM), are effective cancer chemopreventive agents in pre-clinical models and show promise in clinical trials. The pharmacokinetics/pharmacodynamics of DIM have been studied in both rodents and humans and urinary DIM is a proposed biomarker of dietary intake of cruciferous vegetables. Recent clinical studies at Oregon State University show surprisingly robust metabolism of DIM <i>in vivo</i> with mono- and di-hydroxylation followed by conjugation with sulfate or glucuronic acid. DIM has multiple mechanisms of action, the most well-characterized is modulation of aryl hydrocarbon receptor (AHR) signaling. In rainbow trout dose-dependent cancer chemoprevention by dietary I3C is achieved when given prior to or concurrent with aflatoxin B<sub>1</sub>, polycyclic aromatic hydrocarbons, nitrosamines or direct acting carcinogens such as N-methyl-N'-nitro-nitrosoguanidine. Feeding pregnant mice I3C inhibits transplacental carcinogenesis. In humans much of the focus has been on chemoprevention of breast and prostate cancer. Alteration of cytochrome P450-dependent estrogen metabolism is hypothesized to be an important driver of DIM-dependent breast cancer prevention. The few studies done to date comparing glucobrassicin-rich crucifers such as Brussels sprouts with I3C/DIM supplements have shown the greater impact of the latter is due to dose. Daily ingestion of kg quantities of Brussels sprouts is required to produce <i>in vivo</i> levels of DIM achievable by supplementation. In clinical trials these supplement doses have elicited few if any adverse effects. Sulforaphane from glucoraphanin can act synergistically with glucobrassicin-derived DIM and this may lead to opportunities for combinatorial approaches (supplement and food-based) in the clinic.",
+  "type": "academic",
+  "pdf_url": "https://www.frontiersin.org/articles/10.3389/fnut.2021.734334/pdf"
+}

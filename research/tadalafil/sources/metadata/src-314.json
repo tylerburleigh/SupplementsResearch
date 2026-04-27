@@ -1,0 +1,24 @@
+{
+  "id": "src-314",
+  "title": "Myeloid-Derived Suppressor Cells as Therapeutic Target in Hematological Malignancies",
+  "authors": [
+    "Veirman, Kim De",
+    "Valckenborgh, Els Van",
+    "Lahmar, Qods",
+    "Geeraerts, Xenia",
+    "Bruyne, Elke De",
+    "Menu, Eline",
+    "Riet, Ivan Van",
+    "Vanderkerken, Karin",
+    "Ginderachter, Jo A. Van"
+  ],
+  "doi": "10.3389/fonc.2014.00349",
+  "url": "https://openalex.org/W2040986265",
+  "provider": "openalex",
+  "year": 2014,
+  "venue": "Frontiers in Oncology",
+  "citation_count": 94,
+  "abstract": "Myeloid-derived suppressor cells (MDSC) are a heterogeneous population of immature myeloid cells that accumulate during pathological conditions such as cancer and are associated with a poor clinical outcome. MDSC expansion hampers the host anti-tumor immune response by inhibition of T cell proliferation, cytokine secretion, and recruitment of regulatory T cells. In addition, MDSC exert non-immunological functions including the promotion of angiogenesis, tumor invasion, and metastasis. Recent years, MDSC are considered as a potential target in solid tumors and hematological malignancies to enhance the effects of currently used immune modulating agents. This review focuses on the characteristics, distribution, functions, cell-cell interactions, and targeting of MDSC in hematological malignancies including multiple myeloma, lymphoma, and leukemia.",
+  "type": "academic",
+  "pdf_url": "https://www.frontiersin.org/articles/10.3389/fonc.2014.00349/pdf"
+}

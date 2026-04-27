@@ -1,0 +1,41 @@
+39	2	Keywords
+42	2	Open Access
+43	2	Edited By
+46	2	Reviewed By
+60	2	Citation
+68	2	Copyright
+85	2	1 Introduction
+150	2	2 Methods
+151	3	2.1 Protocol and registration
+167	3	2.2 Search strategy
+193	3	2.3 Eligibility and study selection
+212	3	2.4 Outcomes
+218	3	2.5 Data extraction
+230	3	2.6 Risk of bias assessment
+247	3	2.7 Data synthesis and analysis
+252	2	3 Results
+253	3	3.1 Studies selection
+273	3	3.2 Studies characteristics
+295	3	3.3 Risk of bias of included studies
+313	3	3.4 Data synthesis
+322	4	3.4.1 SFN composition and preparations
+339	5	3.4.1.1 Capsules
+488	2	And
+537	2	Psa
+655	5	3.4.1.2 Tablets
+666	5	3.4.1.3 Broccoli soups
+776	5	3.4.1.4 Frozen broccoli
+792	5	3.4.1.5 Beverages
+808	5	3.4.2.1 Effect on overall survival
+821	5	3.4.2.2 Effect on relevant tumor biomarkers
+846	5	3.4.2.3 Effect of SFN on histological and gene expression
+965	4	3.4.3 Safety outcomes
+1018	2	4 Discussion
+1251	2	5 Conclusion and future perspectives
+1282	2	Author Contributions
+1304	2	Supplementary Material
+1308	2	References
+1366	2	18. Jabbarzadeh Kaboli P, Afzalipour Khoshkbejari M, Mohammadi M, Abiri A,
+1395	2	27. Lozanovski VJ, Polychronidis G, Gross W, Gharabaghi N, Mehrabi A, Hackert T,
+1447	2	42. Thiruvengadam M, Venkidasamy B, Subramanian U, Samynathan R, Ali
+1499	2	57. Agyeman AS, Chaerkady R, Shaw PG, Davidson NE, Visvanathan K, Pandey A,

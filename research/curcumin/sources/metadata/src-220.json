@@ -1,0 +1,38 @@
+{
+  "id": "src-220",
+  "title": "Longevity and anti-aging effects of curcumin supplementation",
+  "authors": [
+    "Izadi, Mehran",
+    "Sadri, Nariman",
+    "Abdi, Amirhossein",
+    "Zadeh, Mohammad Mahdi Raeis",
+    "jalaei, Dorsa",
+    "Ghazimoradi, Mohammad Mahdi",
+    "Shouri, Sara",
+    "Tahmasebi, Safa"
+  ],
+  "year": 2024,
+  "abstract": "",
+  "doi": "10.1007/s11357-024-01092-5",
+  "url": "https://doi.org/10.1007/s11357-024-01092-5",
+  "pdf_url": "",
+  "venue": "GeroScience",
+  "citation_count": 49,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-22T14:49:09.975519+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-220.md",
+  "quality_details": {
+    "content_length": 45905,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

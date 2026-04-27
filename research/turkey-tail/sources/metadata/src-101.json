@@ -1,0 +1,32 @@
+{
+  "id": "src-101",
+  "title": "Induction of cell cycle changes and modulation of apoptogenic/anti-apoptotic and extracellular signaling regulatory protein expression by water extracts of I'm-Yunity™ (PSP)",
+  "authors": [
+    "Hsieh, Tze-chen",
+    "Wu, Peili",
+    "Park, Spencer",
+    "Wu, Joseph M"
+  ],
+  "year": 2006,
+  "abstract": "Abstract\n\nBackground\nI'm-Yunity™ (PSP) is a mushroom extract derived from deep-layer cultivated mycelia of the patented Cov-1 strain of Coriolus versicolor (CV), which contains as its main bioactive ingredient a family of polysaccharo-peptide with heterogeneous charge properties and molecular sizes. I'm-Yunity™ (PSP) is used as a dietary supplement by cancer patients and by individuals diagnosed with various chronic diseases. Laboratory studies have shown that I'm-Yunity™ (PSP) enhances immune functions and also modulates cellular responses to external challenges. Recently, I'm-Yunity™ (PSP) was also reported to exert potent anti-tumorigenic effects, evident by suppression of cell proliferation and induction of apoptosis in malignant cells. We investigate the mechanisms by which I'm-Yunity™ (PSP) elicits these effects.\n\nMethods\nHuman leukemia HL-60 and U-937 cells were incubated with increasing doses of aqueous extracts of I'm-Yunity™ (PSP). Control and treated cells were harvested at various times and analyzed for changes in: (1) cell proliferation and viability, (2) cell cycle phase transition, (3) induction of apoptosis, (4) expression of cell cycle, apoptogenic/anti-apoptotic, and extracellular regulatory proteins.\n\nResults\nAqueous extracts of I'm-Yunity™ (PSP) inhibited cell proliferation and induced apoptosis in HL-60 and U-937 cells, accompanied by a cell type-dependent disruption of the G1/S and G2/M phases of cell cycle progression. A more pronounced growth suppression was observed in treated HL-60 cells, which was correlated with time- and dose-dependent down regulation of the retinoblastoma protein Rb, diminution in the expression of anti-apoptotic proteins bcl-2 and survivin, increase in apoptogenic proteins bax and cytochrome c, and cleavage of poly(ADP-ribose) polymerase (PARP) from its native 112-kDa form to the 89-kDa truncated product. Moreover, I'm-Yunity™ (PSP)-treated HL-60 cells also showed a substantial decrease in p65 and to a lesser degree p50 forms of transcription factor NF-κB, which was accompanied by a reduction in the expression of cyclooxygenase 2 (COX2). I'm-Yunity™ (PSP) also elicited an increase in STAT1 (signal transducer and activator of transcription) and correspondingly, decrease in the expression of activated form of ERK (extracellular signal-regulated kinase).\n\nConclusion\nAqueous extracts of I'm-Yunity™ (PSP) induces cell cycle arrest and alterations in the expression of apoptogenic/anti-apoptotic and extracellular signaling regulatory proteins in human leukemia cells, the net result being suppression of proliferation and increase in apoptosis. These findings may contribute to the reported clinical and overall health effects of I'm-Yunity™ (PSP).",
+  "doi": "10.1186/1472-6882-6-30",
+  "url": "https://doi.org/10.1186/1472-6882-6-30",
+  "pdf_url": "",
+  "venue": "BMC Complementary and Alternative Medicine",
+  "citation_count": 47,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-23T18:37:29.650113+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-101.md",
+  "quality_details": {
+    "content_length": 71289,
+    "alpha_ratio": 0.729,
+    "sentence_count": 532,
+    "reasons": []
+  }
+}

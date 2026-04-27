@@ -1,0 +1,31 @@
+{
+  "id": "src-038",
+  "title": "C-reactive protein and Hypertension",
+  "authors": [
+    "Hage, F G"
+  ],
+  "year": 2014,
+  "abstract": "",
+  "doi": "10.1038/jhh.2013.111",
+  "url": "https://doi.org/10.1038/jhh.2013.111",
+  "pdf_url": "",
+  "venue": "Journal of Human Hypertension",
+  "citation_count": 166,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-24T01:05:05.243229+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-038.md",
+  "quality_details": {
+    "content_length": 19149,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

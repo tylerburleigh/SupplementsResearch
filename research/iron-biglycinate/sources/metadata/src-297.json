@@ -1,0 +1,22 @@
+{
+  "id": "src-297",
+  "title": "Iron loading induces cholesterol synthesis and sensitizes endothelial cells to TNFα-mediated apoptosis",
+  "authors": [
+    "Fisher, Allison L.",
+    "Srole, Daniel N.",
+    "Palaskas, Nicolaos J.",
+    "Meriwether, D.",
+    "Reddy, S.",
+    "Ganz, T.",
+    "Nemeth, E."
+  ],
+  "doi": "10.1016/j.jbc.2021.101156",
+  "url": "https://www.semanticscholar.org/paper/51d1b85ab2cfb061879e9d78cb722c5c549c7495",
+  "provider": "semantic_scholar",
+  "year": 2021,
+  "venue": "Journal of Biological Chemistry",
+  "citation_count": 32,
+  "abstract": "In plasma, iron is normally bound to transferrin, the principal protein in blood responsible for binding and transporting iron throughout the body. However, in conditions of iron overload when the iron-binding capacity of transferrin is exceeded, non–transferrin-bound iron (NTBI) appears in plasma. NTBI is taken up by hepatocytes and other parenchymal cells via NTBI transporters and can cause cellular damage by promoting the generation of reactive oxygen species. However, how NTBI affects endothelial cells, the most proximal cell type exposed to circulating NTBI, has not been explored. We modeled in vitro the effects of systemic iron overload on endothelial cells by treating primary human umbilical vein endothelial cells (HUVECs) with NTBI (ferric ammonium citrate [FAC]). We showed by RNA-Seq that iron loading alters lipid homeostasis in HUVECs by inducing sterol regulatory element-binding protein 2–mediated cholesterol biosynthesis. We also determined that FAC increased the susceptibility of HUVECs to apoptosis induced by tumor necrosis factor-α (TNFα). Moreover, we showed that cholesterol biosynthesis contributes to iron-potentiated apoptosis. Treating HUVECs with a cholesterol chelator hydroxypropyl-β-cyclodextrin demonstrated that depletion of cholesterol was sufficient to rescue HUVECs from TNFα-induced apoptosis, even in the presence of FAC. Finally, we showed that FAC or cholesterol treatment modulated the TNFα pathway by inducing novel proteolytic processing of TNFR1 to a short isoform that localizes to lipid rafts. Our study raises the possibility that iron-mediated toxicity in human iron overload disorders is at least in part dependent on alterations in cholesterol metabolism in endothelial cells, increasing their susceptibility to apoptosis.",
+  "type": "academic",
+  "pdf_url": "http://www.jbc.org/article/S0021925821009583/pdf"
+}

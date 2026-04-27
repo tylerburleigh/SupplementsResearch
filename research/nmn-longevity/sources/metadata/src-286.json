@@ -1,0 +1,26 @@
+{
+  "id": "src-286",
+  "title": "Timing of neoadjuvant pembrolizumab infusion and pathologic complete response among patients with triple-negative breast cancer receiving the KEYNOTE-522 regimen.",
+  "authors": [
+    "Shen, Sherry",
+    "Myers, S.",
+    "Polidorio, Natália",
+    "Bromberg, M.",
+    "Chen, Yuan",
+    "Tan, Ryan",
+    "Mai, Nicholas",
+    "Abuhadra, N.",
+    "Traina, T.",
+    "Downs-Canner, Stephanie M.",
+    "Iyengar, Neil M."
+  ],
+  "doi": "10.1200/jco.2025.43.16_suppl.e12616",
+  "url": "https://www.semanticscholar.org/paper/014970961751df1fd0e11596432ddfd0187f1434",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "Journal of Clinical Oncology",
+  "citation_count": 1,
+  "abstract": "e12616\n\nBackground:\nRecent studies have demonstrated that cancer cell metastasis, chemotherapy metabolism, and immune activation and response can be affected by host circadian rhythm. In melanoma and lung cancer, late time-of-day (ToD) immunotherapy administration is associated with worse progression-free and overall survival. The addition of pembrolizumab immunotherapy to neoadjuvant chemotherapy is the standard of care for patients with stage II or III triple negative breast cancer (TNBC) based on the KEYNOTE-522 trial. However, whether immunotherapy ToD administration affects pathologic complete response (pCR) rate in these patients is unknown.\nMethods:\nPatients with stage II-III TNBC treated with neoadjuvant chemotherapy plus pembrolizumab per the KN-522 regimen from 7/2021 – 9/2024 at Memorial Sloan Kettering Cancer Center were included in this retrospective study. Patients who received fewer than 2 cycles of doxorubicin/cyclophosphamide and/or fewer than 4 doses of neoadjuvant pembrolizumab were excluded. Patient and tumor characteristics, dosing/timing of infusions, and surgical pathology were abstracted from medical records. The primary endpoint was pCR rate, defined as absence of invasive carcinoma in breast and axillary node surgical specimens. Univariable and multivariable logistic regression models were used to assess the association of infusion ToD and patient characteristics with pCR.\nResults:\nAmong 315 included patients, 190 (60%) were White, 54 (17%) were Black, and 58 (18%) were Asian. Median body mass index (BMI) was 26.3 kg/m\n2\n. 264 (84%) patients had stage II and 45 (14%) had stage III disease. Median pembrolizumab cumulative dose was 1600mg (IQR 1400-1800mg). Median patient-level pembrolizumab infusion time was 2pm (IQR 1pm-3:30pm). 61% of pembrolizumab infusions were given after 2pm and 34% were given after 4pm. 94% of patients received ³20% of their pembrolizumab infusions after 2pm and 67% received ³20% of their pembrolizumab infusions after 4pm. There were no significant differences in clinical characteristics between patients with early vs. late ToD pembrolizumab infusions, including age, race, ethnicity, BMI, clinical stage, number of chemotherapy or immunotherapy infusions, or pembrolizumab total dose. 177 patients (56%) had pCR. In univariable and multivariable analyses, late ToD pembrolizumab or chemotherapy infusions were not significantly associated with odds of pCR, regardless of whether ToD was measured as patient-level median infusion time or percentage of infusions given before or after time cutoffs.\nConclusions:\nTime of day of pembrolizumab infusion was not significantly associated with pCR in TNBC. This contrasts with studies in other cancer types, highlighting the need for further research into ToD effects in TNBC and other tumor types where immunotherapy is utilized.",
+  "type": "academic",
+  "pdf_url": ""
+}

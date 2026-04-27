@@ -1,0 +1,26 @@
+{
+  "id": "src-273",
+  "title": "Repurposing of phosphodiesterase-5 inhibitor sildenafil as a therapeutic agent to prevent gastric cancer growth through suppressing c-MYC stability for IL-6 transcription.",
+  "authors": [
+    "Zhang, Zhenzhan",
+    "Huang, Wuqing",
+    "Huang, Donghua",
+    "Xu, Zhou",
+    "Xie, Qingfeng",
+    "Tan, Xin",
+    "He, Wenjun",
+    "Yang, Weihao",
+    "Li, Guoxin",
+    "Ji, Jianguang",
+    "Liu, Hao"
+  ],
+  "doi": "10.1038/s42003-025-07519-9",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39827331",
+  "provider": "pubmed",
+  "year": 2025,
+  "venue": "Communications biology",
+  "citation_count": 0,
+  "abstract": "Phosphodiesterase-5 (PDE5) inhibitors have shown promise as anti-cancer agents in malignancies. However, their specific effects on gastric cancer (GC) and the underlying mechanisms remain elusive. Our aim was to investigate this by combining evidence from population-based studies with data obtained from in vivo and in vitro experiments. By combing a couple of nationwide Swedish registers, GC patients who received PDE5 inhibitors were compared to matched controls while adjusting for confounding factors. The anti-tumor effect and mechanism of the PDE5 inhibitor sildenafil were evaluated via using tumor cells, patient-derived tumor organoids and xenograft animal models in GC. A total of 161 Swedish GC patients from a nationwide population-based cohort who received post-diagnostic PDE5 inhibitors demonstrated lower cancer-specific mortality compared to the controls (HR = 0.66, 95% CI = 0.47-0.92, P = 0.016). Functionally, the PDE5 inhibitor sildenafil exhibited the suppressive ability to prevent oncogenic growth in GC. Mechanistically, sildenafil restrained GC growth by directly activating PKG through PDE5 inhibition for regulating c-MYC expression via its phosphorylation and ubiquitination degradation, thereby suppressing c-MYC stability for IL-6 transcription within the downstream IL-6/JAK/STAT3 signalling pathway. The PDE5 inhibitor sildenafil may serve as a promising adjuvant for GC therapy if further randomized clinical trials confirm its efficacy.",
+  "type": "academic",
+  "pdf_url": ""
+}

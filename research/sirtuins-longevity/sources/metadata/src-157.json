@@ -1,0 +1,45 @@
+{
+  "id": "src-157",
+  "title": "Marine nutraceuticals as a source of SIRT1 and NRF2 activators for diabetes and aging-related metabolic disorders",
+  "authors": [
+    "Hadinata, Edwin",
+    "Harbuwono, Dante Saksono",
+    "Soegondo, Sidartawan",
+    "Prajitno, Jongky Hendro",
+    "Mudjanarko, Sony Wibisono",
+    "Taslim, Nurpudji Astuti",
+    "Hasyyati, Enggar Yusrina",
+    "Frediansyah, Andri",
+    "Surya, Reggie",
+    "Cahyono, Maulana Bagus Adi",
+    "Santini, Antonello",
+    "Tjandrawinata, Raymond Rubianto",
+    "Romano, Raffaele",
+    "De Luca, Lucia",
+    "Nurkolis, Fahrul"
+  ],
+  "year": 2025,
+  "abstract": "",
+  "doi": "10.1186/s13098-025-01981-5",
+  "url": "https://doi.org/10.1186/s13098-025-01981-5",
+  "pdf_url": "",
+  "venue": "Diabetology &amp; Metabolic Syndrome",
+  "citation_count": 5,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-23T11:33:10.559778+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-157.md",
+  "quality_details": {
+    "content_length": 171488,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

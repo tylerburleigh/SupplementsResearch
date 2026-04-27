@@ -1,0 +1,40 @@
+{
+  "id": "src-028",
+  "title": "Taurine supplementation in children with autism spectrum disorders: a study protocol for an exploratory randomized, double-blind, placebo-controlled trial",
+  "authors": [
+    "Chen, Yun",
+    "He, Wennan",
+    "Deng, Qun",
+    "Peng, Zhongbi",
+    "Tai, Zhaojing",
+    "Ma, Yu",
+    "Wang, Tianqi",
+    "Wang, Yi",
+    "Yan, Weili",
+    "Zhou, Hao"
+  ],
+  "year": 2025,
+  "abstract": "",
+  "doi": "10.1186/s12887-025-06216-0",
+  "url": "https://doi.org/10.1186/s12887-025-06216-0",
+  "pdf_url": "",
+  "venue": "BMC Pediatrics",
+  "citation_count": 1,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-19T11:26:59.126866+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-028.md",
+  "quality_details": {
+    "content_length": 58960,
+    "alpha_ratio": 0.761,
+    "sentence_count": 451,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

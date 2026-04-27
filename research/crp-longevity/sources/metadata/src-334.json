@@ -1,0 +1,17 @@
+{
+  "id": "src-334",
+  "title": "The impacts of exercise interventions on inflammaging markers in overweight/obesity patients with heart failure: A systematic review and meta-analysis of randomized controlled trials",
+  "authors": [
+    "Malandish, A.",
+    "Gulati, M."
+  ],
+  "doi": "10.1016/j.ijcha.2023.101234",
+  "url": "https://www.semanticscholar.org/paper/e3aaa3b242d75aeab9d6d328bd523946126f7acc",
+  "provider": "semantic_scholar",
+  "year": 2023,
+  "venue": "International Journal of Cardiology: Heart & Vasculature",
+  "citation_count": 23,
+  "abstract": "Objectives The purpose of this meta-analysis was to investigate the association of aerobic, resistance and concurrent exercises vs. control group on inflammaging markers [tumor necrosis factor-alpha (TNF-α), interleukin-6 (IL-6), IL-1-beta, IL-8, and high sensitivity C-reactive protein (hs-CRP)] in overweight or obesity patients with heart failure (HF). Methods The databases of Scopus, PubMed, Web of Science and Google Scholar were searched until August 31, 2022 for exercise interventions vs. control group on circulating inflammaging markers in patients with HF. Only randomized controlled trial (RCT) articles were included. Standardized mean difference (SMD) and 95% confidence intervals (95%CIs) were calculated (registration code = CRD42022347164). Results Forty-six full-text articles (57 intervention arms and 3693 participants) were included. A significant reduction was occurred in inflammaging markers of IL-6 [SMD-0.205(95% CI:-0.332 to −0.078),p = 0.002] and hs-CRP [SMD −0.379 (95% CI:-0.556 to −0.202), p = 0.001] with exercise training in patients with HF. Analysis of subgroup by age, body mass index (BMI), type, intensity, duration of exercise and mean left ventricular ejection fraction (LVEF) revealed that there was a significant reduction in TNF-α for middle-aged (p = 0.031), concurrent training (p = 0.033), high intensity (p = 0.005), and heart failure with reduced ejection fraction (HFrEF) (p = 0.007) compared to the control group. There was a significant reduction in IL-6 for middle-aged (p = 0.006), overweight (p = 0.001), aerobic exercise (p = 0.001), both high and moderate intensities (p = 0.037 and p = 0.034), short-term follow-up (p = 0.001), and heart failure with preserved ejection fraction (HFpEF) (p = 0.001) compared to the control group. There was a significant reduction in hs-CRP for middle-aged (p = 0.004), elderly-aged (p = 0.001), overweight (p = 0.001), aerobic exercise (p = 0.001), concurrent training (p = 0.031), both high and moderate intensities (p = 0.017 and p = 0.001), short-term (p = 0.011), long-term (p = 0.049), and very long-term (p = 0.016) follow-ups, HFrEF (p = 0.003) and heart failure with mildly reduced ejection fraction (HFmrEF) (p = 0.048) compared to the control group. Conclusions The results confirmed that aerobic exercise and concurrent training interventions were effective to improve inflammaging markers of TNF-α, IL-6, and hs-CRP. These exercise-related anti-inflammaging responses were observed across ages (middle-aged and elderly-aged), exercise intensities, duration of follow-ups, and mean LVEFs (HFrEF, HFmrEF and HFpEF) in overweight patients with HF.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.1016/j.ijcha.2023.101234"
+}

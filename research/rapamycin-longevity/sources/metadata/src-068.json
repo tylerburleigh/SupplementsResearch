@@ -1,0 +1,19 @@
+{
+  "id": "src-068",
+  "title": "Metabolic Flexibility as an Adaptation to Energy Resources and Requirements in Health and Disease",
+  "authors": [
+    "Smith, Reuben L.",
+    "Soeters, Maarten R.",
+    "Wüst, Rob C. I.",
+    "Houtkooper, Riekelt H."
+  ],
+  "doi": "10.1210/er.2017-00211",
+  "url": "https://openalex.org/W2800658350",
+  "provider": "openalex",
+  "year": 2018,
+  "venue": "Endocrine Reviews",
+  "citation_count": 723,
+  "abstract": "The ability to efficiently adapt metabolism by substrate sensing, trafficking, storage, and utilization, dependent on availability and requirement, is known as metabolic flexibility. In this review, we discuss the breadth and depth of metabolic flexibility and its impact on health and disease. Metabolic flexibility is essential to maintain energy homeostasis in times of either caloric excess or caloric restriction, and in times of either low or high energy demand, such as during exercise. The liver, adipose tissue, and muscle govern systemic metabolic flexibility and manage nutrient sensing, uptake, transport, storage, and expenditure by communication via endocrine cues. At a molecular level, metabolic flexibility relies on the configuration of metabolic pathways, which are regulated by key metabolic enzymes and transcription factors, many of which interact closely with the mitochondria. Disrupted metabolic flexibility, or metabolic inflexibility, however, is associated with many pathological conditions including metabolic syndrome, type 2 diabetes mellitus, and cancer. Multiple factors such as dietary composition and feeding frequency, exercise training, and use of pharmacological compounds, influence metabolic flexibility and will be discussed here. Last, we outline important advances in metabolic flexibility research and discuss medical horizons and translational aspects.",
+  "type": "academic",
+  "pdf_url": "https://academic.oup.com/edrv/article-pdf/39/4/489/25455807/er.2017-00211.pdf"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "src-159",
+  "title": "A comparison of the effects of alfacalcidol treatment and vitamin D2 supplementation on calcium absorption in elderly women with vertebral fractures",
+  "authors": [
+    "Francis, R. M.",
+    "Boyle, I. T.",
+    "Moniz, C.",
+    "Sutcliffe, A. M.",
+    "Davis, B. S.",
+    "Beastall, G. H.",
+    "Cowan, R. A.",
+    "Downes, N."
+  ],
+  "year": 1996,
+  "abstract": "",
+  "doi": "10.1007/bf01623386",
+  "url": "https://doi.org/10.1007/bf01623386",
+  "pdf_url": "",
+  "venue": "Osteoporosis International",
+  "citation_count": 43,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T21:05:16.722341+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-159.md",
+  "quality_details": {
+    "content_length": 10544,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

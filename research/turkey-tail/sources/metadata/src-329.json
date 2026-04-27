@@ -1,0 +1,27 @@
+{
+  "id": "src-329",
+  "title": "Dysfunctional TLR1 reduces the therapeutic efficacy of chemotherapy by attenuating HMGB1-mediated antitumor immunity in locally advanced colorectal cancer",
+  "authors": [
+    "Huang, Kevin Chih‐Yang",
+    "Ke, Tao‐Wei",
+    "Chen, Jiayi",
+    "Hong, Wei-Ze",
+    "Chiang, Shu‐Fen",
+    "Lai, Chia-Ying",
+    "Chen, Tsung-Wei",
+    "Yang, Pei-Chen",
+    "Chen, Liang-Chi",
+    "Liang, Ji‐An",
+    "Chen, William Tzu‐Liang",
+    "Chao, K. S. Clifford"
+  ],
+  "doi": "10.1038/s41598-023-46254-1",
+  "url": "https://openalex.org/W4388529923",
+  "provider": "openalex",
+  "year": 2023,
+  "venue": "Scientific Reports",
+  "citation_count": 7,
+  "abstract": "Regional lymph node metastasis is an important predictor for survival outcome and an indicator for postoperative adjuvant chemotherapy in patients with colorectal cancer. Even with advances in adjuvant chemotherapeutic regimens, 5-year distant metastasis and survival rates are still unsatisfactory. Here, we evaluate the clinical significance of polymorphisms in receptors for HMGB1, which is the hallmark of chemotherapy-induced immunogenic cell death, in patients with stage II-III colon carcinoma (COAD). We found that high cytosolic HMGB1 is elicited in stage III COAD patients who received adjuvant chemotherapy. Patients with the TLR1-N248S polymorphism (rs4833095), which causes loss-of-function in HMGB1-mediated TLR1-TLR2 signaling, may influence the therapeutic efficacy of adjuvant chemotherapy, leading to a high risk of distant metastasis within 5 years [HR = 1.694, 95% CI = 1.063-2.698, p = 0.027], suggesting that TLR1-N248S is an independent prognostic factor for locally advanced colon carcinoma patients. We found that defective TLR1 impaired TLR1/2 signaling during dendritic cell (DC) maturation for the antitumor immune response under immunogenic chemotherapy oxaliplatin (OXP) treatment. Defective TLR1 on DCs impaired their maturation ability by HMGB1 and reduced the secretion of IFNγ from T cells to eradicate tumor cells in vitro. Moreover, systemic inhibition of TLR1/2 dramatically reduced the tumor-infiltrating immune cells by OXP treatment, leading to poor therapeutic response to OXP. In contrast, administration of a TLR1/2 agonist synergistically increased the benefit of OXP treatment and triggered a high density of tumor-infiltrating immune cells. We also observed that fewer tumor-infiltrating cytotoxic T lymphocytes were located within the tumor microenvironment in patients bearing the TLR1-N248S polymorphism. Overall, our results suggest that dysfunctional TLR1 may reduce the therapeutic response to adjuvant chemotherapy by impairing HMGB1-mediated DC maturation and attenuating the antitumor immune response in locally advanced colon carcinoma patients.",
+  "type": "academic",
+  "pdf_url": "https://www.nature.com/articles/s41598-023-46254-1.pdf"
+}

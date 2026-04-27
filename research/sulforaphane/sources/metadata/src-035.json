@@ -1,0 +1,40 @@
+{
+  "id": "src-035",
+  "title": "Efficacy and Safety of Sulforaphane Added to Antipsychotics for the Treatment of Negative Symptoms of Schizophrenia",
+  "authors": [
+    "Huang, Jing",
+    "Chen, AnMei",
+    "Jin, Hua",
+    "Liu, Fangkun",
+    "Hei, Gangrui",
+    "Teng, Ziwei",
+    "Xiao, Jingmei",
+    "Wu, Renrong",
+    "Zhao, Jingping",
+    "Davis, John M.",
+    "Shao, Ping",
+    "Smith, Robert C."
+  ],
+  "year": 2025,
+  "abstract": "",
+  "doi": "10.4088/jcp.24m15272",
+  "url": "https://doi.org/10.4088/jcp.24m15272",
+  "pdf_url": "",
+  "venue": "The Journal of Clinical Psychiatry",
+  "citation_count": 11,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-18T23:19:19.202083+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-035.md",
+  "quality_details": {
+    "content_length": 53533,
+    "alpha_ratio": 0.713,
+    "sentence_count": 662,
+    "reasons": []
+  }
+}

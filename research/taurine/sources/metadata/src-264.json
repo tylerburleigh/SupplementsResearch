@@ -1,0 +1,17 @@
+{
+  "id": "src-264",
+  "title": "More powerful procedures for multiple significance testing",
+  "authors": [
+    "Hochberg, Yosef",
+    "Benjamini, Yoav"
+  ],
+  "doi": "10.1002/sim.4780090710",
+  "url": "https://openalex.org/W2123830992",
+  "provider": "openalex",
+  "year": 1990,
+  "venue": "Statistics in Medicine",
+  "citation_count": 2789,
+  "abstract": "The problem of multiple comparisons is discussed in the context of medical research. The need for more powerful procedures than classical multiple comparison procedures is indicated. To this end some new, general and simple procedures are discussed and demonstrated by two examples from the medical literature: the neuropsychologic effects of unidentified childhood exposure to lead, and the sleep patterns of sober chronic alcoholics.",
+  "type": "academic",
+  "pdf_url": ""
+}

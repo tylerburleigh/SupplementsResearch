@@ -1,0 +1,24 @@
+{
+  "id": "src-124",
+  "title": "Attenuated IGF-1 predicts all-cause and cardiovascular mortality in a Black population: A five-year prospective study.",
+  "authors": [
+    "Schutte, Aletta E",
+    "Conti, Elena",
+    "Mels, Catharina Mc",
+    "Smith, Wayne",
+    "Kruger, Ruan",
+    "Botha, Shani",
+    "Gnessi, Lucio",
+    "Volpe, Massimo",
+    "Huisman, Hugo W"
+  ],
+  "doi": "10.1177/2047487316661436",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/27450159",
+  "provider": "pubmed",
+  "year": 2016,
+  "venue": "European journal of preventive cardiology",
+  "citation_count": 0,
+  "abstract": "BACKGROUND: Inconsistent findings are reported on whether insulin-like growth factor-1 (IGF-1) is protective or harmful in predicting hypertension, carotid wall thickness and mortality. We determined the five-year prognostic value of IGF-1 for these outcomes in a large Black population prone to hypertension and cardiovascular disease.\nDESIGN: A longitudinal study as part of the PURE (Prospective Urban and Rural Epidemiology) study, North West Province, South Africa.\nMETHODS: We measured IGF-1 and IGF binding protein-3 (IGFBP-3) in 1038 HIV-uninfected participants (age range 32-94 years) and assessed blood pressure, carotid intima-media thickness and mortality.\nRESULTS: Over five years 116 deaths occurred. Baseline IGF-1 was similar in survivors and non-survivors (p = 0.50), but tended to be higher in survivors upon adjustment for IGFBP-3 and covariates (p = 0.061). Normotensives and hypertensives (p = 0.072), and those with carotid intima-media thickness < 0.9 mm and ≥ 0.9 mm also displayed similar baseline IGF-1 (p = 0.55). Multivariable-adjusted Cox-regression indicated high IGF-1 predicting lower risk for all-cause mortality (hazard ratio 0.45; 0.23-0.88) and cardiovascular mortality (hazard ratio 0.26; 0.08-0.83) when also adjusting for IGFBP-3. When including normo- and hypertensives at baseline, high IGF-1 was related to normotension at follow-up (hazard ratio 0.68; 0.49-0.95). We found no association with carotid intima-media thickness (hazard ratio 0.59; 0.31-1.14).\nCONCLUSION: In a Black South African population with low socio-economic status and harmful health behaviours, we found a protective independent association between IGF-1 and hypertension, cardiovascular and all-cause mortality, with no association with carotid wall thickness.",
+  "type": "academic",
+  "pdf_url": ""
+}

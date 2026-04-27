@@ -1,0 +1,24 @@
+{
+  "id": "src-077",
+  "title": "Deacylated Derivative of Hericenone C Treated by Lipase Shows Enhanced Neuroprotective Properties Compared to Its Parent Compound",
+  "authors": [
+    "Tamrakar, Sonam",
+    "Wang, Dongmei",
+    "Hiraki, Eri",
+    "Han, Chunguang",
+    "Ruan, Yang",
+    "Allam, Ahmed E.",
+    "Amen, Yhiya",
+    "Katakura, Yoshinori",
+    "Shimizu, Kuniyoshi"
+  ],
+  "doi": "10.3390/molecules28114549",
+  "url": "https://openalex.org/W4379470596",
+  "provider": "openalex",
+  "year": 2023,
+  "venue": "Molecules",
+  "citation_count": 8,
+  "abstract": "<i>Hericium erinaceus</i>, a mushroom species commonly known as Yamabushitake in Japan, is known to have a stimulatory effect on neurotrophic factors, such as brain-derived neurotrophic factor (BDNF) and nerve growth factor (NGF). Hericenone C, a meroterpenoid with palmitic acid as the fatty acid side chain, is reported to be one such stimulant. However, according to the structure of the compound, the fatty acid side chain seems highly susceptible to lipase decomposition, under in vivo metabolic conditions. To study this phenomenon, hericenone C from the ethanol extract of the fruiting body was subjected to lipase enzyme treatment and observed for changes in the chemical structure. The compound formed after the lipase enzyme digestion was isolated and identified using LC-QTOF-MS combined with <sup>1</sup>H-NMR analysis. It was found to be a derivative of hericenone C without its fatty acid side chain and was named deacylhericenone. Interestingly, a comparative investigation of the neuroprotective properties of hericenone C and deacylhericenone showed that the BDNF mRNA expression in human astrocytoma cells (1321N1) and the protection against H<sub>2</sub>O<sub>2-</sub>induced oxidative stress was considerably higher in the case of deacylhericenone. These findings suggest that the stronger bioactive form of the hericenone C compound is in fact deacylhericenone.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/1420-3049/28/11/4549/pdf?version=1686031459"
+}

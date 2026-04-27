@@ -1,0 +1,29 @@
+{
+  "id": "src-030",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "",
+  "pdf_url": "http://cprv.fr/stroke-aha-2024.pdf",
+  "venue": "",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "",
+  "fetched_at": "2026-04-20T12:28:54.720259+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-030.md",
+  "quality_details": {
+    "content_length": 507091,
+    "alpha_ratio": 0.715,
+    "sentence_count": 4728,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

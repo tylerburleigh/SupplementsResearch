@@ -1,0 +1,17 @@
+{
+  "id": "src-111",
+  "title": "Single Agent Polysaccharopeptide Delays Metastases and Improves Survival in Naturally Occurring Hemangiosarcoma",
+  "authors": [
+    "Brown, Dorothy Cimino",
+    "Reetz, Jennifer A."
+  ],
+  "doi": "10.1155/2012/384301",
+  "url": "https://openalex.org/W2042291418",
+  "provider": "openalex",
+  "year": 2012,
+  "venue": "Evidence-based Complementary and Alternative Medicine",
+  "citation_count": 34,
+  "abstract": "The 2008 World Health Organization World Cancer Report describes global cancer incidence soaring with many patients living in countries that lack resources for cancer control. Alternative treatment strategies that can reduce the global disease burden at manageable costs must be developed. Polysaccharopeptide (PSP) is the bioactive agent from the mushroom Coriolus versicolor. Studies indicate PSP has in vitro antitumor activities and inhibits the growth of induced tumors in animal models. Clear evidence of clinically relevant benefits of PSP in cancer patients, however, is lacking. The investment of resources required to complete large-scale, randomized controlled trials of PSP in cancer patients is more easily justified if antitumor and survival benefits are documented in a complex animal model of a naturally occurring cancer that parallels human disease. Because of its high metastatic rate and vascular origin, canine hemangiosarcoma is used for investigations in antimetastatic and antiangiogenic therapies. In this double-blind randomized multidose pilot study, high-dose PSP significantly delayed the progression of metastases and afforded the longest survival times reported in canine hemangiosarcoma. These data suggest that, for those cancer patients for whom advanced treatments are not accessible, PSP as a single agent might offer significant improvements in morbidity and mortality.",
+  "type": "academic",
+  "pdf_url": "https://downloads.hindawi.com/journals/ecam/2012/384301.pdf"
+}

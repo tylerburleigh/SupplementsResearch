@@ -1,0 +1,23 @@
+{
+  "id": "src-282",
+  "title": "Metformin kills and radiosensitizes cancer cells and preferentially kills cancer stem cells",
+  "authors": [
+    "Song, Chang W.",
+    "Lee, Hyemi",
+    "Dings, Ruud P.M.",
+    "Williams, Brent",
+    "Powers, John J.",
+    "Santos, Troy Dos",
+    "Choi, Bo‐Hwa",
+    "Park, Heon Joo"
+  ],
+  "doi": "10.1038/srep00362",
+  "url": "https://openalex.org/W2013687768",
+  "provider": "openalex",
+  "year": 2012,
+  "venue": "Scientific Reports",
+  "citation_count": 275,
+  "abstract": "Metformin kills and radiosensitizes cancer cells and eradicates radioresistant cancer stem cells by activating AMPK and suppressing mTOR.",
+  "type": "academic",
+  "pdf_url": "https://www.nature.com/articles/srep00362.pdf"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "src-134",
+  "title": "Deciphering Acetaminophen-Induced Hepatotoxicity: The Crucial Role of Transcription Factors like Nuclear Factor Erythroid 2–Related Factor 2 as Genetic Determinants of Susceptibility to Drug-Induced Liver Injury",
+  "authors": [
+    "Laddha, A. P.",
+    "Wu, Hangyu",
+    "Manautou, J."
+  ],
+  "doi": "10.1124/dmd.124.001282",
+  "url": "https://www.semanticscholar.org/paper/4587923008527aef0d01fd4d69812c16d144121f",
+  "provider": "semantic_scholar",
+  "year": 2024,
+  "venue": "Drug Metabolism And Disposition",
+  "citation_count": 10,
+  "abstract": "Acetaminophen (APAP) is the most commonly used over-the-counter medication throughout the world. At therapeutic doses, APAP has potent analgesic and antipyretic effects. The efficacy and safety of APAP are influenced by multifactorial processes dependent upon dosing, namely frequency and total dose. APAP poisoning by repeated ingestion of supratherapeutic doses, depletes glutathione stores in the liver and other organs capable of metabolic bioactivation, leading to hepatocellular death due to exhausted antioxidant defenses. Numerous genes, encompassing transcription factors and signaling pathways, have been identified as playing pivotal roles in APAP toxicity, with the liver being the primary organ studied due to its central role in APAP metabolism and injury. Nuclear factor erythroid 2–related factor 2 (NRF2) and its array of downstream responsive genes are crucial in counteracting APAP toxicity. NRF2, along with its negative regulator Kelch-like ECH-associated protein 1, plays a vital role in regulating intracellular redox homeostasis. This regulation is significant in modulating the oxidative stress, inflammation, and hepatocellular death induced by APAP. In this review, we provide an updated overview of the mechanisms through which NRF2 activation and signaling critically influence the threshold for developing APAP toxicity. We also describe how genetically modified rodent models for NRF2 and related genes have been pivotal in underscoring the significance of this antioxidant response pathway. While NRF2 is a primary focus, the article comprehensively explores other genetic factors involved in phase I and phase II metabolism of APAP, inflammation, oxidative stress, and related pathways that contribute to APAP toxicity, thereby providing a holistic understanding of the genetic landscape influencing susceptibility to this condition. SIGNIFICANCE STATEMENT This review summarizes the genetic elements and signaling pathways underlying APAP-induced liver toxicity, focusing on the crucial protective role of the transcription factor NRF2. This review also delves into the genetic intricacies influencing APAP safety and potential liver harm. It also emphasizes the need for deeper insight into the molecular mechanisms of hepatotoxicity, especially the interplay of NRF2 with other pathways.",
+  "type": "academic",
+  "pdf_url": "https://dmd.aspetjournals.org/content/dmd/early/2024/06/10/dmd.124.001282.full.pdf"
+}

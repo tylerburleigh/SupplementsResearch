@@ -1,0 +1,16 @@
+{
+  "id": "src-044",
+  "title": "Genetics of coronary heart disease: towards causal mechanisms, novel drug targets and more personalized prevention.",
+  "authors": [
+    "Orho-Melander, M"
+  ],
+  "doi": "10.1111/joim.12407",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/26477595",
+  "provider": "pubmed",
+  "year": 2015,
+  "venue": "Journal of internal medicine",
+  "citation_count": 0,
+  "abstract": "Coronary heart disease (CHD) is an archetypical multifactorial disorder that is influenced by genetic susceptibility as well as both modifiable and nonmodifiable risk factors, and their interactions. Advances during recent years in the field of multifactorial genetics, in particular genomewide association studies (GWASs) and their meta-analyses, have provided the statistical power to identify and replicate genetic variants in more than 50 risk loci for CHD and in several hundreds of loci for cardiometabolic risk factors for CHD such as blood lipids and lipoproteins. Although for a great majority of these loci both the causal variants and mechanisms remain unknown, progress in identifying the causal variants and underlying mechanisms has already been made for several genetic loci. Furthermore, identification of rare loss-of-function variants in genes such as PCSK9, NPC1L1, APOC3 and APOA5, which cause a markedly decreased risk of CHD and no adverse side effects, illustrates the power of translating genetic findings into novel mechanistic information and provides some optimism for the future of developing novel drugs, given the many genes associated with CHD in GWASs. Finally, Mendelian randomization can be used to reveal or exclude causal relationships between heritable biomarkers and CHD, and such approaches have already provided evidence of causal relationships between CHD and LDL cholesterol, triglycerides/remnant particles and lipoprotein(a), and indicated a lack of causality for HDL cholesterol, C-reactive protein and lipoprotein-associated phospholipase A2. Together, these genetic findings are beginning to lead to promising new drug targets and novel interventional strategies and thus have great potential to improve prevention, prediction and therapy of CHD.",
+  "type": "academic",
+  "pdf_url": ""
+}

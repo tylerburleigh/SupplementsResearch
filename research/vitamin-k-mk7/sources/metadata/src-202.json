@@ -1,0 +1,24 @@
+{
+  "id": "src-202",
+  "title": "MK-4 Ameliorates Diabetic Osteoporosis in Angiogenesis-Dependent Bone Formation by Promoting Mitophagy in Endothelial Cells.",
+  "authors": [
+    "Ding, Fan",
+    "Zhang, Weidong",
+    "Liu, Ting",
+    "Rong, Xing",
+    "Cui, Yajun",
+    "Meng, Lingxiao",
+    "Wang, Luxu",
+    "Liu, Bo",
+    "Li, Minqi"
+  ],
+  "doi": "10.2147/dddt.s503930",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40160965",
+  "provider": "pubmed",
+  "year": 2025,
+  "venue": "Drug design, development and therapy",
+  "citation_count": 0,
+  "abstract": "PURPOSE: Diabetic osteoporosis (DOP), one of the usual complications in diabetic patients, poses a significant threat to bone health. Type H vessels in metaphysis and medial cortical bone are associated with osteogenesis. As a form of Vitamin K2, menaquinone-4 (MK-4) is a potential treatment for osteoporosis. We aimed to investigate whether MK-4 ameliorates DOP by promoting bone formation through protecting type H vessels and its associated mechanisms.\nMETHODS: High fat diet (HDF) feeding and streptozotocin (STZ) injection were applied to establish a mouse model of type 2 diabetic osteoporosis (T2DOP). Micro-CT, Masson staining, HE staining and IHC staining were applied to observe bone mass and the osteoblastic ability of osteoblasts. Tissue immunofluorescence (IF) staining and flow cytometry were employed to assess alteration of type H blood vessels. In vitro, to evaluate the functional level and mitophagy of ECs under high glucose conditions, wound healing assay, tube formation assay, EdU assay and IF were employed. Osteogenic differentiation ability in vitro was evaluated by ALP staining, AR staining, Western blot and RT-qPCR.\nRESULTS: MK-4 alleviated type H vessel injury and angiogenesis-dependent osteogenesis in DOP mice, thereby maintaining the bone mass. The vitro results showed that MK-4 could mitigate the dysfunction of ECs subjected to HG treatment, and further facilitate the osteogenic differentiation of MC3T3-E1 cells. Moreover, mechanism exploration found that PINK1/Parkin-mediated mitophagy was required for the impact of MK-4 on ECs. Meanwhile, ERK signal pathway is necessary for the improvement of MK-4 in PINK1/Parkin-mediated mitophagy.\nCONCLUSION: MK-4 is capable of alleviating the PINK1/Parkin-mediated mitophagy of ECs via the ERK pathway, thereby facilitating angiogenesis-dependent bone formation and further ameliorating DOP.",
+  "type": "academic",
+  "pdf_url": ""
+}

@@ -1,0 +1,35 @@
+36	2	Abstract
+84	2	Introduction
+225	2	Limitations
+280	2	5. Because the included trials used various doses and ad-
+287	2	6. The trials that the panel considered were performed in
+675	2	2023. In parallel to the development of the evidence summar-
+779	2	Background
+906	2	Clearly
+935	2	Probably
+936	2	Outweigh
+1177	2	Background
+1417	2	Background
+1760	2	5. Studies of the effect of vitamin D fortification on vitamin
+1764	2	Background
+2111	2	Background
+2440	2	Background
+2795	2	5. Studies on the effect of vitamin D in people at risk for or
+2798	2	Background
+3093	2	Background
+3221	2	Background
+3491	2	Background
+3712	2	Acknowledgments
+3767	2	Summary
+3772	2	Data Availability
+4013	2	References
+4014	2	1. Bouillon R, Manousaki D, Rosen C, Trajanoska K, Rivadeneira F,
+4026	2	4. Rooney MR, Harnack L, Michos ED, Ogilvie RP, Sempos CT,
+4029	2	Jama
+4140	2	25. GRADEPro Software: GRADEpro GDT: GRADEpro Guideline
+4178	2	34. Cashman KD, Sheehy T, O
+4183	2	35. Thacher TD, Pludowski P, Shaw NJ, Mughal MZ, Munns CF,
+4202	2	40. Carpenter TO, Shaw NJ, Portale AA, Ward LM, Abrams SA,
+4225	2	45. Wang X, Li Y, O
+4404	2	87. Laaksi I, Ruohola JP, Mattila V, Auvinen A, Ylikomi T,
+5238	2	265. Shahangian S, Alspach TD, Astles JR, Yesupriya A, Dettwyler

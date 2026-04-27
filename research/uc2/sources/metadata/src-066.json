@@ -1,0 +1,36 @@
+{
+  "id": "src-066",
+  "title": "Efficacy and tolerability of native (undenatured) type II collagen supplementation for joint health in healthy volunteers: a randomized double-blind placebo-controlled study",
+  "authors": [
+    "Möller, Ingrid",
+    "Martínez, Kirsten",
+    "Terradillos-Guillén, Andrea",
+    "Costa-Larrión, Ester",
+    "Martínez-Puig, Daniel",
+    "Velasco-Álvarez, Javier"
+  ],
+  "year": 2026,
+  "abstract": "",
+  "doi": "10.1186/s12937-026-01302-0",
+  "url": "https://doi.org/10.1186/s12937-026-01302-0",
+  "pdf_url": "",
+  "venue": "Nutrition Journal",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-19T13:45:11.784304+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-066.md",
+  "quality_details": {
+    "content_length": 42138,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

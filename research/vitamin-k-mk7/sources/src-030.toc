@@ -1,0 +1,11 @@
+19	2	Usa
+27	2	Usa
+31	2	Usa
+47	2	Abstract
+69	2	Introduction
+156	2	Health
+970	2	Ffq
+1257	2	Ffq
+1317	2	Ffq
+1332	2	Ffq
+1378	2	References

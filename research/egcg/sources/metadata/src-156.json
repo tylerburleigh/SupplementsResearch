@@ -1,0 +1,20 @@
+{
+  "id": "src-156",
+  "title": "Polyphenols and Human Health: Prevention of Disease and Mechanisms of Action",
+  "authors": [
+    "Vauzour, David",
+    "Rodriguez‐Mateos, Ana",
+    "Corona, Giulia",
+    "Oruña-Concha, Marı́a José",
+    "Spencer, Jeremy P. E."
+  ],
+  "doi": "10.3390/nu2111106",
+  "url": "https://openalex.org/W2053058287",
+  "provider": "openalex",
+  "year": 2010,
+  "venue": "Nutrients",
+  "citation_count": 825,
+  "abstract": "Polyphenols are found ubiquitously in plants and their regular consumption has been associated with a reduced risk of a number of chronic diseases, including cancer, cardiovascular disease (CVD) and neurodegenerative disorders. Rather than exerting direct antioxidant effects, the mechanisms by which polyphenols express these beneficial properties appear to involve their interaction with cellular signaling pathways and related machinery that mediate cell function under both normal and pathological conditions. We illustrate that their interactions with two such pathways, the MAP kinase (ERK, JNK, p38) and PI3 kinase/Akt signaling cascades, allow them to impact upon normal and abnormal cell function, thus influencing the cellular processes involved in the initiation and progression of cancer, CVD and neurodegeneration. For example, their ability to activate ERK in neurons leads to a promotion of neuronal survival and cognitive enhancements, both of which influence the progression of Alzheimer's disease, whilst ERK activation by polyphenols in vascular endothelial cells influences nitric oxide production, blood pressure and ultimately CVD risk. The main focus of this review is to provide an overview of the role that polyphenols play in the prevention of cancer, cardiovascular disease and neurodegeneration. We present epidemiological data, human intervention study findings, as well as animal and in vitro studies in support of these actions and in each case we consider how their actions at the cellular level may underpin their physiological effects.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2072-6643/2/11/1106/pdf?version=1289235035"
+}

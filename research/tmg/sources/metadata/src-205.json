@@ -1,0 +1,16 @@
+{
+  "id": "src-205",
+  "title": "Association of Cholesteryl Ester Transfer Protein Genotypes With CETP Mass and Activity, Lipid Levels, and Coronary Risk",
+  "authors": [
+    "Thompson, Alexander"
+  ],
+  "doi": "10.1001/jama.299.23.2777",
+  "url": "https://openalex.org/W2134811220",
+  "provider": "openalex",
+  "year": 2008,
+  "venue": "JAMA",
+  "citation_count": 500,
+  "abstract": "Three CETP genotypes that are associated with moderate inhibition of CETP activity (and, therefore, modestly higher HDL-C levels) show weakly inverse associations with coronary risk. The ORs for coronary disease were compatible with the expected reductions in risk for equivalent increases in HDL-C concentration in available prospective studies.",
+  "type": "academic",
+  "pdf_url": ""
+}

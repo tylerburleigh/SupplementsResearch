@@ -1,0 +1,17 @@
+{
+  "id": "src-169",
+  "title": "A strategy to reduce cardiovascular disease by more than 80%",
+  "authors": [
+    "Wald, Nicholas",
+    "Law, M R"
+  ],
+  "doi": "10.1136/bmj.326.7404.1419",
+  "url": "https://openalex.org/W2163207768",
+  "provider": "openalex",
+  "year": 2003,
+  "venue": "BMJ",
+  "citation_count": 1569,
+  "abstract": "The Polypill strategy could largely prevent heart attacks and stroke if taken by everyone aged 55 and older and everyone with existing cardiovascular disease. It would be acceptably safe and with widespread use would have a greater impact on the prevention of disease in the Western world than any other single intervention.",
+  "type": "academic",
+  "pdf_url": "https://www.bmj.com/content/bmj/326/7404/1419.full.pdf"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "src-087",
+  "title": "Nutritional and medical food therapies for diabetic retinopathy",
+  "authors": [
+    "Shi, Ce",
+    "Wang, Peng",
+    "Airen, Shriya",
+    "Brown, Craig",
+    "Liu, Zhiping",
+    "Townsend, Justin H.",
+    "Wang, Jianhua",
+    "Jiang, Hong"
+  ],
+  "doi": "10.1186/s40662-020-00199-y",
+  "url": "https://openalex.org/W3036903625",
+  "provider": "openalex",
+  "year": 2020,
+  "venue": "Eye and Vision",
+  "citation_count": 77,
+  "abstract": "Diabetic retinopathy (DR) is a form of microangiopathy. Reducing oxidative stress in the mitochondria and cell membranes decreases ischemic injury and end-organ damage to the retina. New approaches are needed, which reduce the risk and improve the outcomes of DR while complementing current therapeutic approaches. Homocysteine (Hcy) elevation and oxidative stress are potential therapeutic targets in DR. Common genetic polymorphisms such as those of methylenetetrahydrofolate reductase (MTHFR), increase Hcy and DR risk and severity. Patients with DR have high incidences of deficiencies of crucial vitamins, minerals, and related compounds, which also lead to elevation of Hcy and oxidative stress. Addressing the effects of the MTHFR polymorphism and addressing comorbid deficiencies and insufficiencies reduce the impact and severity of the disease. This approach provides safe and simple strategies that support conventional care and improve outcomes. Suboptimal vitamin co-factor availability also impairs the release of neurotrophic and neuroprotective growth factors. Collectively, this accounts for variability in presentation and response of DR to conventional therapy. Fortunately, there are straightforward recommendations for addressing these issues and supporting traditional treatment plans. We have reviewed the literature for nutritional interventions that support conventional therapies to reduce disease risk and severity. Optimal combinations of vitamins B1, B2, B6, L-methylfolate, methylcobalamin (B12), C, D, natural vitamin E complex, lutein, zeaxanthin, alpha-lipoic acid, and n-acetylcysteine are identified for protecting the retina and choroid. Certain medical foods have been successfully used as therapy for retinopathy. Recommendations based on this review and our clinical experience are developed for clinicians to use to support conventional therapy for DR. DR from both type 1 diabetes mellitus (T1DM) and type 2 diabetes mellitus (T2DM) have similar retinal findings and responses to nutritional therapies.",
+  "type": "academic",
+  "pdf_url": "https://eandv.biomedcentral.com/track/pdf/10.1186/s40662-020-00199-y"
+}

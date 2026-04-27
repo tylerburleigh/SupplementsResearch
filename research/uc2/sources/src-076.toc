@@ -1,0 +1,29 @@
+6	2	Review
+15	2	Abstract
+35	2	Introduction
+201	2	Method
+764	2	Conclusion
+880	2	References
+1196	2	1 MRC Lifecourse Epidemiology Unit, University
+1199	2	2 NIHR Musculoskeletal Biomedical Research Unit, University
+1201	2	3 Bone and Joint Research Group, Centre for Human
+1205	2	4 Nuffield Department of Orthopaedics, Rheumatology
+1214	2	6 Rheumatology Department, AP-HP, Saint-Antoine Hospital,
+1216	2	7 Research Laboratory and Academic Division of Clinical
+1219	2	8 WHO Collaborating Centre for Public Health Aspects
+1221	2	9 Leeds Institute of Rheumatic and Musculoskeletal Medicine,
+1227	2	11 Centro Hospitalar de Lisboa Ocidental- Hospital Egas
+1231	2	13 Department of Surgery and Translational Medicine,
+1235	2	15 National Research Council, Neuroscience Institute, Aging
+1237	2	16 Department of Orthopaedic Surgery, Themistocles Gluck
+1239	2	17 Faculty of Medicine, Clinic for Orthopedic Surgery
+1242	2	18 Institute of Outdoor Sports and Environmental Science,
+1247	2	19 Osteoarthritis Research Unit, University of Montreal Hospital
+1249	2	20 Medical Faculty, Department of Pharmacology, Medical
+1254	2	23 Location VU Medical Center, Department of Rheumatology
+1257	2	24 Chair for Biomarkers Research, Biochemistry Department,
+1260	2	25 Division of Bone Diseases, Geneva University Hospitals
+1262	2	26 Mary McKillop Health Institute, Australian Catholic
+1264	2	27 Centre for Metabolic Bone Diseases, University of Sheffield
+1266	2	28 Department of Public Health, Epidemiology and Health
+1268	2	4000 Liege, Belgium

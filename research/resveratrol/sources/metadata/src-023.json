@@ -1,0 +1,29 @@
+{
+  "id": "src-023",
+  "title": "Efficacy and safety of dietary polyphenols in rheumatoid arthritis: A systematic review and meta-analysis of 47 randomized controlled trials.",
+  "authors": [
+    "Long, Zhiyong",
+    "Xiang, Wang",
+    "He, Qi",
+    "Xiao, Wei",
+    "Wei, Huagen",
+    "Li, Hao",
+    "Guo, Hua",
+    "Chen, Yuling",
+    "Yuan, Mengxia",
+    "Yuan, Xiao",
+    "Zeng, Liuting",
+    "Yang, Kailin",
+    "Deng, Yuxuan",
+    "Huang, Zhen"
+  ],
+  "doi": "10.3389/fimmu.2023.1024120",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37033930",
+  "provider": "pubmed",
+  "year": 2023,
+  "venue": "Frontiers in immunology",
+  "citation_count": 0,
+  "abstract": "OBJECTIVE: To evaluate safety and efficacy of dietary polyphenols in the treatment of rheumatoid arthritis (RA).\nMETHODS: CNKI, Pubmed, Cochrane library, Embase were searched to collect randomized controlled trials (RCTs) of dietary polyphenols in the treatment of RA. The databases were searched from the time of their establishment to November 8nd, 2022. After 2 reviewers independently screened the literature, extracted data, and assessed the risk of bias of the included studies, Meta-analysis was performed using RevMan5.4 software.\nRESULTS: A total of 49 records (47 RCTs) were finally included, involving 3852 participants and 15 types of dietary polyphenols (Cinnamon extract, Cranberry extract, Crocus sativus L. extract, Curcumin, Garlic extract, Ginger extract, Hesperidin, Olive oil, Pomegranate extract, Puerarin, Quercetin, Resveratrol, Sesamin, Tea polyphenols, Total glucosides of paeony). Pomegranate extract, Resveratrol, Garlic extract, Puerarin, Hesperidin, Ginger extract, Cinnamon extract, Sesamin only involve in 1 RCT. Cranberry extract, Crocus sativus L. extract, Olive oil, Quercetin, Tea polyphenols involve in 2 RCTs. Total glucosides of paeony and Curcumin involve in more than 3 RCTs. These RCTs showed that these dietary polyphenols could improve disease activity score for 28 joints (DAS28), inflammation levels or oxidative stress levels in RA. The addition of dietary polyphenols did not increase adverse events.\nCONCLUSION: Dietary polyphenols may improve DAS28, reduce C-reactive protein (CRP) and erythrocyte sedimentation rate (ESR), and improve oxidative stress, etc. However, more RCTs are needed to verify or modify the efficacy and safety of dietary polyphenols.\nSYSTEMATIC REVIEW REGISTRATION: https://www.crd.york.ac.uk/prospero/, identifier CRD42022315645.",
+  "type": "academic",
+  "pdf_url": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "src-081",
+  "title": "Butyrate Mitigates Weanling Piglets From Lipopolysaccharide-Induced Colitis by Regulating Microbiota and Energy Metabolism of the Gut–Liver Axis",
+  "authors": [
+    "Han, Yunsheng",
+    "Zhao, Qingyu",
+    "Tang, Chaohua",
+    "Li, Ying",
+    "Zhang, Kai",
+    "Li, Fadi",
+    "Zhang, Junmin"
+  ],
+  "doi": "10.3389/fmicb.2020.588666",
+  "url": "https://openalex.org/W3111909150",
+  "provider": "openalex",
+  "year": 2020,
+  "venue": "Frontiers in Microbiology",
+  "citation_count": 36,
+  "abstract": "Inflammatory bowel disorder is accompanied by the destruction of immunity homeostasis, gut microbiota perturbation, and chronic inflammatory liver diseases. Butyrate is known as a primary energy source for colonocytes and functional substances for mitigating pathological features of colitis. However, it is still unclear whether butyrate alleviates colitis progression by regulation of microbiota and metabolism in the gut-liver axis. In the present study, we aimed to determine the role of microbiota and metabolism of the gut-liver axis in ameliorating lipopolysaccharide (LPS)-induced colitis in piglets using protected butyrate administration. Eighteen crossbred male piglets were weaned at 30 days old and were randomly allocated to three treatments, with CON (basal diet), LPS (basal diet + LPS), and BT-LPS (basal diet + 3.0 g/kg protected butyrate + LPS). On days 19 and 21, piglets in the LPS and BT-LPS groups were intraperitoneally challenged with LPS at 100 μg/kg body weight. Butyrate administration significantly decreased LPS-induced rise in the clinical score of piglets and colonic histological scores and reduced the susceptibility to LPS-induced severe inflammatory response by decreasing proinflammatory (IL-1β, IL-6, IL-8, and TNF-α) cytokines. Butyrate supplementation accelerated the prevalence of <i>Faecalibacterium</i> and <i>Lactobacillus</i> by enhancing the tricarboxylic acid (TCA) cycle of colonocytes. Dietary supplementation with protected butyrate significantly targeted increased concentrations of butyric acid in the colon and portal venous circulation, and enhanced the TCA cycle in the gut-liver axis by mobilizing amino acid and vitamin B group as a coenzyme. Meanwhile, during this progress, LPS increased fatty acid synthesis that was reversed by butyrate treatment, which was reflected by decreased acylcarnitines. Butyrate-reshaped colonic microbial community and metabolism in the gut-liver axis contributed to morphology integrity and immunity homeostasis by promoting anti-inflammatory (IL-10 and TGF-β) cytokines and suppressing inflammatory mediator hypoxia-inducible factor 1α and its downstream response elements cyclooxygenase 2 and inducible nitric oxide synthase. These results identified the pivotal role of colonic microbiota and metabolism in the gut-liver axis for alleviating inflammatory progression and possible therapeutic targets.",
+  "type": "academic",
+  "pdf_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2020.588666/pdf"
+}

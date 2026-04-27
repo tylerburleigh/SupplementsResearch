@@ -1,0 +1,27 @@
+{
+  "id": "src-247",
+  "title": "A multiethnic bidirectional Mendelian randomization study negates causal effects of C-reactive protein concentrations on lung cancer",
+  "authors": [
+    "Wu, Xiangrong",
+    "Peng, Haoxin",
+    "Xiong, S.",
+    "Wen, Y.",
+    "Chen, Jia-Na",
+    "Li, Caichen",
+    "Jiang, Yu",
+    "Su, Z.",
+    "Liu, Jun",
+    "He, Jianxing",
+    "Liang, W.",
+    "Cai, Xiu-yu"
+  ],
+  "doi": "10.21037/tlcr-21-750",
+  "url": "https://www.semanticscholar.org/paper/334b86a986e21adbc35d1e5ab6cfd7a1f0c2e472",
+  "provider": "semantic_scholar",
+  "year": 2021,
+  "venue": "Translational Lung Cancer Research",
+  "citation_count": 1,
+  "abstract": "Background Significantly rising plasma circulating C-reaction protein (CRP) concentrations are pervasive in lung cancer (LC) development, demonstrating a bidirectional relation. However, it remains uncertain whether the causation between them exists, and the degree to which the effect varies across different ethnic ancestries remains unknown. Therefore, we attempted to investigate the causal relationship between these two phenotypes. Methods With summary statistics of CRP-related single nucleotide polymorphisms (SNPs) identified by several large-scale genome-wide association studies (GWAS) datasets based on five ethnic ancestries coverage worldwide, we implemented bidirectional two-sample Mendelian randomization (MR) analyses. Genetic summary data of 11,348 LC cases and 15,861 controls from the International Lung Cancer Consortium (ILCCO) were applied. The inverse-variance weighted (IVW) approach was utilized as the principal analysis, supplemented by various complementary methods. Results MR study did not reveal the causal relationship shared across genetically predisposed CRP blood concentrations and LC risk (OR =1.022, 95% CI: 0.965–1.083, P=0.455) including pathological subtypes (OR =1.026, 95% CI: 0.947–1.112, P=0.534 for lung adenocarcinoma; OR =1.060, 95% CI: 0.970–1.158, P=0.201 for squamous cell lung cancer). Further analyses among East Asian, Hispanic/Latin American, European, African American/Afro-Caribbean, and South Asian populations revealed consistent null causation. Additionally, the causal effects of LC on CRP concentrations were not statically significant (OR =0.999, 95% CI: 0.977–1.021, P=0.923). Conclusions We did not observe a bidirectional causal association between CRP blood concentrations on LC among East Asian, Hispanic/Latin American, European, African American/Afro-Caribbean, and South Asian ancestry individuals.",
+  "type": "academic",
+  "pdf_url": "https://tlcr.amegroups.com/article/viewFile/58861/pdf"
+}

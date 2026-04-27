@@ -1,0 +1,32 @@
+{
+  "id": "src-135",
+  "title": "Effect of taurine supplementation on hyperhomocysteinemia and markers of oxidative stress in high fructose diet induced insulin resistance",
+  "authors": [
+    "El Mesallamy, Hala O",
+    "El-Demerdash, Ebtehal",
+    "Hammad, Lamiaa N",
+    "El Magdoub, Hekmat M"
+  ],
+  "year": 2010,
+  "abstract": "AbstractBackgroundHigh intake of dietary fructose is accused of being responsible for the development of the insulin resistance (IR) syndrome. Concern has arisen because of the realization that fructose, at elevated concentrations, can promote metabolic changes that are potentially deleterious. Among these changes is IR which manifests as a decreased biological response to normal levels of plasma insulin.MethodsOral glucose tolerance tests (OGTT) were carried out, homeostasis model assessment of insulin resistance (HOMA) was calculated, homocysteine (Hcy), lipid concentrations and markers of oxidative stress were measured in maleWistarrats weighing 170-190 g. The rats were divided into four groups, kept on either control diet or high fructose diet (HFD), and simultaneously supplemented with 300 mg/kg/day taurine via intra-peritoneal (i.p.) route for 35 days.ResultsFructose-fed rats showed significantly impaired glucose tolerance, impaired insulin sensitivity, hypertriglyceridemia, hypercholesterolemia, hyperhomocysteinemia (HHcy), lower total antioxidant capacity (TAC), lower paraoxonase (PON) activity, and higher nitric oxide metabolites (NOx) concentration, when compared to rats fed on control diet. Supplementing the fructose-fed rats with taurine has ameliorated the rise in HOMA by 56%, triglycerides (TGs) by 22.5%, total cholesterol (T-Chol) by 11%, and low density lipoprotein cholesterol (LDL-C) by 21.4%. Taurine also abolished any significant difference of TAC, PON activity and NOx concentration among treated and control groups. TAC positively correlated with PON in both rats fed on the HFD and those received taurine in addition to the HFD. Fructose-fed rats showed 34.7% increase in Hcy level. Taurine administration failed to prevent the observed HHcy in the current dosage and duration.ConclusionOur results indicate that HFD could induce IR which could further result in metabolic syndrome (MS), and that taurine has a protective role against the metabolic abnormalities induced by this diet model except for HHcy.",
+  "doi": "10.1186/1758-5996-2-46",
+  "url": "https://doi.org/10.1186/1758-5996-2-46",
+  "pdf_url": "",
+  "venue": "Diabetology &amp; Metabolic Syndrome",
+  "citation_count": 52,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-19T11:59:05.262878+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-135.md",
+  "quality_details": {
+    "content_length": 44923,
+    "alpha_ratio": 0.734,
+    "sentence_count": 412,
+    "reasons": []
+  }
+}

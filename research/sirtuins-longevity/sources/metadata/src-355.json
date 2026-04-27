@@ -1,0 +1,18 @@
+{
+  "id": "src-355",
+  "title": "Cellular senescence in cancer: Unveiling dual roles, tumor microenvironment dynamics and therapeutic innovations (Review)",
+  "authors": [
+    "Lam, Yatsu",
+    "Gu, Jiaming",
+    "Yin, Peihao"
+  ],
+  "doi": "10.3892/ol.2025.15338",
+  "url": "https://www.semanticscholar.org/paper/de14546306a02db7736f5e73f995779ddb1112f1",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "Oncology Letters",
+  "citation_count": 8,
+  "abstract": "Cellular senescence exerts context-dependent effects in cancer, functioning as both a tumor suppressor and promoter. Tumor suppression occurs through p53/p16-mediated cell cycle arrest, whereas tumor promotion is driven by the senescence-associated secretory phenotype (SASP), which reshapes the tumor microenvironment. SASP, comprising inflammatory cytokines such as IL-6 and IL-8 alongside matrix-remodeling factors, fosters immune evasion, angiogenesis and therapeutic resistance. Individual SASP components exert distinct effects on tumor progression across cancer types, which underscores the importance of context-specific analyses. For instance, IL-6 is associated with metastasis in breast cancer, whereas IL-8 is notably associated with therapy resistance in lung cancer. This heterogeneity highlights the need for personalized strategies targeting specific SASP factors. The primary aim of the present review is to systematically dissect the context-dependent mechanisms underlying cellular senescence in cancer including the heterogeneity of SASP and its cancer-type-specific roles, evaluate emerging senotherapeutic modalities, and discuss key challenges and future directions to guide precision oncology approaches. Recent advances in senotherapy, including senolytics such as dasatinib and quercetin, senomorphics and Traditional Chinese Medicine-derived agents such as resveratrol, aim to eliminate pathological senescence while preserving its beneficial roles. Nonetheless, key challenges persist, particularly in biomarker identification and optimizing combinations with immunotherapy. Future research can leverage single-cell technologies to dissect senescence heterogeneity, enabling the potential development of precision oncology approaches. The primary aim of the present review is to systematically dissect the context-dependent mechanisms underlying cellular senescence in cancer-including the heterogeneity of the SASP and its cancer-type-specific roles and evaluate emerging senotherapeutic modalities, and discuss key challenges and future directions to guide precision oncology approaches. To further advance this aim, future research can leverage single-cell technologies to dissect senescence heterogeneity at the cellular and molecular levels; this will help distinguish protective senescent populations from pathogenic ones, thereby enabling the potential development of precision oncology approaches tailored to tumor-specific senescence landscapes.",
+  "type": "academic",
+  "pdf_url": ""
+}

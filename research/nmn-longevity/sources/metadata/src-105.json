@@ -1,0 +1,25 @@
+{
+  "id": "src-105",
+  "title": "Nicotinamide mononucleotide ameliorates ionizing radiation-induced spermatogenic dysfunction in mice by modulating the glycolytic pathway.",
+  "authors": [
+    "Yang, Wenqin",
+    "Nong, Weihua",
+    "Liu, Ke",
+    "Lei, Xiaocan",
+    "Chen, Xiaping",
+    "Jiang, Pei",
+    "Tang, Jiayi",
+    "Hu, Cong",
+    "Hu, Zecheng",
+    "Li, Meixiang"
+  ],
+  "doi": "10.3724/abbs.2024167",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39420833",
+  "provider": "pubmed",
+  "year": 2024,
+  "venue": "Acta biochimica et biophysica Sinica",
+  "citation_count": 0,
+  "abstract": "Radiotherapy, a common cancer treatment, leads to infertility in male cancer survivors, particularly young and middle-aged patients. Nicotinamide mononucleotide (NMN), a precursor of nicotinamide adenine dinucleotide (NAD +), plays crucial roles in energy metabolism, DNA repair, and gene expression. The purpose of this study is to investigate the protective effects and underlying mechanisms of NMN against ionizing radiation (IR)-induced testicular injury and spermatogenic dysfunction in an adult male mouse model. To assess the effects of NMN, single whole-body γ-ray irradiation is used to induce testicular injury and spermatogenic dysfunction in adult male mice. NMN is orally administered at 500 mg/kg before and after IR exposure. The structural and cellular damage to the testes caused by 5 Gy γ-ray irradiation, as well as the protective effect of NMN on testicular spermatogenic dysfunction, are evaluated. The serum hormone testosterone, LH, and FSH levels, as well as testicular NAD +, lactate, and pyruvate levels, are detected. Furthermore, the expressions of the apoptosis-related genes Bcl-2, Bax, and Caspase-3 and the rate-limiting enzymes HK2, PKM2, and LDHA, which are potentially associated with the mechanism of injury, are examined. The results demonstrate that 5 Gy γ-ray irradiation exposure causes a decrease in the serum testosterone, LH, and FSH levels in adult male mice, as well as in the testicular NAD +, lactate, and pyruvate levels, and causes damage to the testicular structure and cells. Morphometric analysis reveal a decrease in the testis mass, seminiferous tubule diameter, and height of the germinal epithelium. The sperm quantity, motility, and testicular volume are reduced in the 5 Gy group but are restored by NMN supplementation. NMN intervention downregulates the expressions of proapoptotic genes ( Bax and Caspase-3) and upregulates the expression of an antiapoptotic gene ( Bcl- 2). Sertoli cells marker genes ( WT-1, GATA-4, SOX9, and vimentin) and glycolysis rate-limiting enzyme-encoding genes ( HK2, PKM2, and LDHA) are significantly upregulated. In summary, NMN has a positive regulatory effect on testicular spermatogenic dysfunction in male mice induced by ionizing radiation. This positive effect is likely achieved by promoting the proliferation of spermatogenic cells and activating glycolytic pathways. These findings suggest that NMN supplementation may be a potential protective strategy to prevent reproductive damage to male subjects from ionizing radiation.",
+  "type": "academic",
+  "pdf_url": ""
+}

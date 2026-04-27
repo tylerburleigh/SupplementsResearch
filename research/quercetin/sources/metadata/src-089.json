@@ -1,0 +1,19 @@
+{
+  "id": "src-089",
+  "title": "Enhancement strategies for transdermal drug delivery systems: current trends and applications",
+  "authors": [
+    "Ramadon, Delly",
+    "McCrudden, Maelíosa",
+    "Courtenay, Aaron J.",
+    "Donnelly, Ryan F."
+  ],
+  "doi": "10.1007/s13346-021-00909-6",
+  "url": "https://openalex.org/W3124563177",
+  "provider": "openalex",
+  "year": 2021,
+  "venue": "Drug Delivery and Translational Research",
+  "citation_count": 586,
+  "abstract": "Transdermal drug delivery systems have become an intriguing research topic in pharmaceutical technology area and one of the most frequently developed pharmaceutical products in global market. The use of these systems can overcome associated drawbacks of other delivery routes, such as oral and parenteral. The authors will review current trends, and future applications of transdermal technologies, with specific focus on providing a comprehensive understanding of transdermal drug delivery systems and enhancement strategies. This article will initially discuss each transdermal enhancement method used in the development of first-generation transdermal products. These methods include drug/vehicle interactions, vesicles and particles, stratum corneum modification, energy-driven methods and stratum corneum bypassing techniques. Through suitable design and implementation of active stratum corneum bypassing methods, notably microneedle technology, transdermal delivery systems have been shown to deliver both low and high molecular weight drugs. Microneedle technology platforms have proven themselves to be more versatile than other transdermal systems with opportunities for intradermal delivery of drugs/biotherapeutics and therapeutic drug monitoring. These have shown that microneedles have been a prospective strategy for improving transdermal delivery systems.",
+  "type": "academic",
+  "pdf_url": "https://link.springer.com/content/pdf/10.1007/s13346-021-00909-6.pdf"
+}

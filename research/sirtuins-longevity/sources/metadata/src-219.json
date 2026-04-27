@@ -1,0 +1,23 @@
+{
+  "id": "src-219",
+  "title": "Non-pungent capsiate enhances longevity and healthspan in Caenorhabditis elegans via transient receptor potential (TRP) channels.",
+  "authors": [
+    "Lyttle, Nathan",
+    "Amirthalingam, Mohankumar",
+    "Bali, Julia",
+    "Wong, Alan",
+    "Iga, Juan Gerardo Flores",
+    "Tawata, S.",
+    "Nimmakayala, P.",
+    "Reddy, Umesh K."
+  ],
+  "doi": "10.1039/d5fo01607j",
+  "url": "https://www.semanticscholar.org/paper/dbd1be43d6b668b8aa202d87bffd577065b5d1cf",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "Food & Function",
+  "citation_count": 1,
+  "abstract": "Capsiate, a non-pungent capsaicin analog found mainly in low-pungency cultivars of Capsicum annuum L., exhibits diverse pharmacological and health-promoting properties. However, despite its equipotency, it remains less extensively studied than capsaicin. Here, we systematically investigated the toxicity profile and the life- and health-promoting mechanisms of capsiate using the genetically tractable model organism Caenorhabditis elegans (C. elegans). Capsiate was found to be safe and exerted a concentration-dependent biphasic effect, with an optimal dose (10 μmol L-1) enhancing stress resilience, reducing intracellular reactive oxygen species (ROS) levels, and extending lifespan. Mechanistically, capsiate-mediated effects required the transient receptor potential (TRP) channels TRPA-1 (TRPA1) and OSM-9 (TRPV). Activation of TRPA-1 initiated calcium-sensitive PKC-2 signaling via SGK-1, which subsequently activated DAF-16/FoxO to transactivate key longevity-related targets, including hsp-16.2 and sod-3. In parallel, TRPA-1 activation also recruited the CaMKII-p38 MAPK pathway, leading to SKN-1/Nrf2 nuclear localization and upregulation of gerontogenes, gcs-1, gst-4, and gst-10. Beyond these molecular effects, capsiate attenuated age-associated declines in learning ability, motor function, and stress resilience, highlighting its potential to promote health during aging. Together, these findings provide the first mechanistic insights into capsiate-mediated healthy lifespan extension and stress resilience in C. elegans, offering a promising foundation for future therapeutic strategies targeting age-related diseases.",
+  "type": "academic",
+  "pdf_url": ""
+}

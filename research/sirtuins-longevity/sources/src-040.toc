@@ -1,0 +1,68 @@
+76	2	Review
+80	2	Introduction
+197	2	The Putative Relationship Between
+198	2	Metformin And Aging
+766	2	Metformin And Mitochondrial
+767	2	Function
+864	2	Pharmacokinetic Properties
+925	2	Metformin And Mortality In
+926	2	Diabetic Patients
+960	2	Metformin And
+961	2	Endothelial Function And
+962	2	Cardiovascular Disease
+1102	2	Metformin And Hyperglycemic
+1103	2	Memory
+1137	2	And Healthspan
+1200	2	Calorie Restriction And Nutrient
+1201	2	Signaling Pathways
+1271	2	Calorie Restriction Mimetics
+1330	2	Metformin And Autophagy
+1375	2	Incidence Of Cancer
+1501	2	The Connection Between
+1502	2	Metformin And Improved
+1503	2	Neurological Function
+1546	2	Clinical Trials To Assess Effects
+1583	2	1. Clinical outcomes as measured by the appearance of new age-
+1632	2	Conclusions
+1694	2	Author Contributions
+1700	2	Funding
+1703	2	References
+1760	2	18. Aroda VR, Edelstein SL, Goldberg RB, Knowler WC, Marcovina SM,
+1794	2	27. Romero R, Erez O, Huttemann M, Maymon E, Panaitescu B, Conde-
+1830	2	38. Podhorecka M, Ibanez B, Dmoszyn
+1848	2	44. Vera IM, Grilo Ruivo MT, Lemos Rocha LF, Marques S, Bhatia SN, Mota
+1853	2	46. Matsuoka Y, Morimoto S, Fujishiro M, Hayakawa K, Kataoka Y, Suzuki S,
+1917	2	66. Anisimov VN, Berstein LM, Egormin PA, Piskunova TS, Popovich IG,
+1924	2	68. De Haes W, Frooninckx L, Van Assche R, Smolders A, Depuydt G, Billen J,
+1928	2	69. Bannister CA, Holden SE, Jenkins-Jones S, Morgan CL, Halcox JP, Schernthaner
+1940	2	72. Espada L, Dakhovnik A, Chaudhari P, Martirosyan A, Miek L, Poliezhaieva
+1947	2	74. Anisimov VN, Berstein LM, Popovich IG, Zabezhinski MA, Egormin PA,
+1951	2	75. Alfaras I, Mitchell SJ, Mora H, Lugo DR, Warren A, Navas-Enamorado I,
+1954	2	76. Martin-Montalvo A, Mercken EM, Mitchell SJ, Palacios HH, Mote PL,
+1964	2	79. Kulkarni AS, Brutsaert EF, Anghel V, Zhang K, Bloomgarden N, Pollak M,
+1975	2	82. Tanaka T, Biancotto A, Moaddel R, Moore AZ, Gonzalez-Freire M, Aon
+1990	2	87. Lamming DW, Ye L, Katajisto P, Goncalves MD, Saitoh M, Stevens DM,
+1994	2	88. MetaHIT consortium, Forslund K, Hildebrand F, Nielsen T, Falony G, Le
+2024	2	96. Day EA, Ford RJ, Smith BK, Mohammadi-Shemirani P, Morrow MR,
+2075	2	111. Ghosh S, Lakshmanan AP, Hwang MJ, Kubba H, Mushannen A, Triggle CR,
+2086	2	114. Nair V, Sreevalsan S, Basha R, Abdelrahim M, Abudayyeh A, Rodrigues
+2147	2	131. El-Mir M-Y, Detaille D, R-Villanueva G, Delgado-Esteban M, Guigas B,
+2209	2	147. Ritov VB, Menshikova EV, Azuma K, Wood R, Toledo FGS, Goodpaster BH,
+2279	2	169. Anderson TJ, Uehata A, Gerhard MD, Meredith IT, Knab S, Delagrange D,
+2308	2	177. Potente M, Ghaeni L, Baldessari D, Mostoslavsky R, Rossig L, Dequiedt F,
+2318	2	180. Mattagajasingh I, Kim C-S, Naqvi A, Yamamori T, Hoffman TA, Jung S-B,
+2349	2	188. El-Daly M, Pulakazhi Venu VK, Saifeddine M, Mihara K, Kang S, Fedak
+2393	2	202. Konopka AR, Laurin JL, Schoenberg HM, Reid JJ, Castor WM, Wolff CA,
+2414	2	208. Colman RJ, Anderson RM, Johnson SC, Kastman EK, Kosmatka KJ, Beasley
+2447	2	218. Howard BV, Van Horn L, Hsia J, Manson JE, Stefanick ML, Wassertheil-
+2463	2	223. Robida-Stubbs S, Glover-Cutter K, Lamming DW, Mizunuma M,
+2505	2	236. Giovannucci E, Harlan DM, Archer MC, Bergenstal RM, Gapstur SM, Habel
+2508	2	237. Gandini S, Puntoni M, Heckman-Stoddard BM, Dunn BK, Ford L, DeCensi
+2528	2	243. Wheaton WW, Weinberg SE, Hamanaka RB, Soberanes S, Sullivan LB, Anso
+2531	2	244. Pelton K, Coticchia CM, Curatolo AS, Schaffner CP, Zurakowski D, Solomon
+2553	2	250. Wahdan-Alaswad R, Fan Z, Edgerton SM, Liu B, Deng X-S, Arnadottir SS,
+2561	2	252. Bayraktar S, Hernadez-Aya LF, Lei X, Meric-Bernstam F, Litton JK, Hsu L,
+2565	2	253. Checkley LA, Rudolph MC, Wellberg EA, Giles ED, Wahdan-Alaswad RS,
+2576	2	255. Campbell JM, Stephenson MD, de Courten B, Chapman I, Bellman SM,
+2598	2	261. Justice JN, Niedernhofer L, Robbins PD, Aroda VR, Espeland MA,
+2604	2	263. Pyrkov TV, Avchaciov K, Tarkhov AE, Menshikov LI, Gudkov AV, Fedichev

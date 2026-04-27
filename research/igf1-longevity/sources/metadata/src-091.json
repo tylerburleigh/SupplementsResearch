@@ -1,0 +1,24 @@
+{
+  "id": "src-091",
+  "title": "Diabetes and Cardiovascular Disease",
+  "authors": [
+    "Grundy, Scott M.",
+    "Benjamin, Ivor J.",
+    "Burke, Gregory L.",
+    "Chait, Alan",
+    "Eckel, Robert H.",
+    "Howard, Barbara V.",
+    "Mitch, William E.",
+    "Smith, Sidney C.",
+    "Sowers, James R."
+  ],
+  "doi": "10.1161/01.cir.100.10.1134",
+  "url": "https://openalex.org/W2975364463",
+  "provider": "openalex",
+  "year": 1999,
+  "venue": "Circulation",
+  "citation_count": 2694,
+  "abstract": "This statement examines the cardiovascular complications of diabetes mellitus and considers opportunities for their prevention. These complications include coronary heart disease (CHD), stroke, peripheral arterial disease, nephropathy, retinopathy, and possibly neuropathy and cardiomyopathy. Because of the aging of the population and an increasing prevalence of obesity and sedentary life habits in the United States, the prevalence of diabetes is increasing. Thus, diabetes must take its place alongside the other major risk factors as important causes of cardiovascular disease (CVD). In fact, from the point of view of cardiovascular medicine, it may be appropriate to say, “diabetes is a cardiovascular disease.” Clinical Presentations of Diabetes Mellitus The most prevalent form of diabetes mellitus is type 2 diabetes. This disorder typically makes its appearance later in life. The underlying metabolic causes of type 2 diabetes are the combination of impairment in insulin-mediated glucose disposal (insulin resistance) and defective secretion of insulin by pancreatic �-cells. Insulin resistance develops from obesity and physical inactivity, acting on a substrate of genetic susceptibility. 1,2 Insulin secretion declines with advancing age, 3,4 and this decline may be accelerated by genetic factors. 5,6 Insulin resistance typically precedes the onset of type 2 diabetes and is commonly accompanied by other cardiovascular risk factors: dyslipidemia, hypertension, and prothrombotic factors. 7,8 The common clustering of these risk factors in a single individual has been called the metabolic syndrome. Many patients with the metabolic syndrome manifest impaired fasting glucose (IFG) 9 even when they do not have overt diabetes mellitus. 10 The metabolic syndrome commonly precedes the development of type 2 diabetes by many years11; of great importance, the risk factors that constitute this syndrome contribute independently to CVD risk. This statement was approved by the American Heart Association",
+  "type": "academic",
+  "pdf_url": "https://www.ahajournals.org/doi/pdf/10.1161/01.CIR.100.10.1134"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "src-010",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://activeimmunity.org/sulforaphane-a-natural-immunity-booster-supplement",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-18T23:18:24.086606+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-010.md",
+  "quality_details": {
+    "content_length": 121,
+    "alpha_ratio": 0.711,
+    "sentence_count": 4,
+    "reasons": [
+      "content too short (121 chars < 500)"
+    ]
+  }
+}

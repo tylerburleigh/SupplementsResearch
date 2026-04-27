@@ -1,0 +1,22 @@
+{
+  "id": "src-089",
+  "title": "Tau protein aggregation is associated with cellular senescence in the brain.",
+  "authors": [
+    "Musi, Nicolas",
+    "Valentine, Joseph M",
+    "Sickora, Kathryn R",
+    "Baeuerle, Eric",
+    "Thompson, Cody S",
+    "Shen, Qiang",
+    "Orr, Miranda E"
+  ],
+  "doi": "10.1111/acel.12840",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/30126037",
+  "provider": "pubmed",
+  "year": 2018,
+  "venue": "Aging cell",
+  "citation_count": 0,
+  "abstract": "Tau protein accumulation is the most common pathology among degenerative brain diseases, including Alzheimer's disease (AD), progressive supranuclear palsy (PSP), traumatic brain injury (TBI), and over twenty others. Tau-containing neurofibrillary tangle (NFT) accumulation is the closest correlate with cognitive decline and cell loss (Arriagada, Growdon, Hedley-Whyte, & Hyman, ), yet mechanisms mediating tau toxicity are poorly understood. NFT formation does not induce apoptosis (de Calignon, Spires-Jones, Pitstick, Carlson, & Hyman, 2009), which suggests that secondary mechanisms are driving toxicity. Transcriptomic analyses of NFT-containing neurons microdissected from postmortem AD brain revealed an expression profile consistent with cellular senescence. This complex stress response induces aberrant cell cycle activity, adaptations to maintain survival, cellular remodeling, and metabolic dysfunction. Using four AD transgenic mouse models, we found that NFTs, but not Aβ plaques, display a senescence-like phenotype. Cdkn2a transcript level, a hallmark measure of senescence, directly correlated with brain atrophy and NFT burden in mice. This relationship extended to postmortem brain tissue from humans with PSP to indicate a phenomenon common to tau toxicity. Tau transgenic mice with late-stage pathology were treated with senolytics to remove senescent cells. Despite the advanced age and disease progression, MRI brain imaging and histopathological analyses indicated a reduction in total NFT density, neuron loss, and ventricular enlargement. Collectively, these findings indicate a strong association between the presence of NFTs and cellular senescence in the brain, which contributes to neurodegeneration. Given the prevalence of tau protein deposition among neurodegenerative diseases, these findings have broad implications for understanding, and potentially treating, dozens of brain diseases.",
+  "type": "academic",
+  "pdf_url": ""
+}

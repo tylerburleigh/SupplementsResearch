@@ -1,0 +1,38 @@
+6	2	Original Contribution
+13	2	Abstract
+31	2	Introduction
+57	2	1 Clinic for Thoracic and Cardiovascular Surgery, Herz-
+60	2	2 Department of Internal Medicine, Division of Endocrinology
+102	2	Methods
+209	2	Data Analysis
+245	2	Results
+305	2	Participants
+450	2	Discussion
+674	2	References
+696	2	6. Bischoff-Ferrari HA, Dawson-Hughes B, Orav EJ, Staehelin
+701	2	7. Sanders KM, Stuart AL, Williamson EJ, Simpson JA, Kotowicz
+706	2	8. Ginde AA, Blatchford P, Breese K, Zarrabi L, Linnebur SA,
+711	2	9. Michos ED, Kalyani RR, Blackford AL, Sternberg AL, Mitchell
+717	2	10. Zittermann A, Ernst JB, Prokop S, Fuchs U, Dreier J, Kuhn
+724	2	11. Rooney MR, Harnack L, Michos ED, Ogilvie RP, Sempos CT,
+729	2	12. Moher D, Liberati A, Tetzlaff J, Altman DG, PRISMA Group
+748	2	18. Bergman P, Norlin AC, Hansen S, Rekha RS, Agerberth B,
+757	2	20. Castro M, King TS, Kunselman SJ, Cabana MD, Denlinger L,
+770	2	21. Arora P, Song Y, Dusek J, Plotnikoff G, Sabatine MS, Cheng S,
+777	2	22. Garg G, Kachhawa G, Ramot R, Khadgawat R, Tandon N, Sreeni-
+787	2	24. Witte KK, Byrom R, Gierula J, Paton MF, Jamil HA, Lowry JE,
+793	2	25. Litonjua AA, Carey VJ, Laranjo N, Harshfield BJ, McElrath TF,
+801	2	26. Hin H, Tomson J, Newman C, Kurien R, Lay M, Cox J, Sayer J,
+812	2	28. Pittas AG, Dawson-Hughes B, Sheehan P, Ware JH, Knowler WC,
+824	2	29. Forno E, Bacharier LB, Phipatanakul W, Guilbert TW, Cabana
+831	2	30. Billington EO, Burt LA, Rose MS, Davison EM, Gaudet S, Kan
+836	2	31. Nausheen S, Habib A, Bhura M, Rizvi A, Shaheen F, Begum
+843	2	32. Tsujita M, Doi Y, Obi Y, Hamano T, Tomosugi T, Futamura K,
+849	2	33. Doi Y, Tsujita M, Hamano T, Obi Y, Namba-Hamano T, Tomo-
+855	2	34. Appel LJ, Michos ED, Mitchell CM, Blackford AL, Sternberg AL,
+870	2	36. Jolliffe DA, Holt H, Greenig M, Talaei M, Perdek N, Pfeffer P,
+888	2	39. Bjelakovic G, Gluud LL, Nikolova D, Whitfield K, Wetterslev J,
+904	2	43. Aloia JF, Dhaliwal R, Shieh A, Mikhail M, Fazzari M, Ragolia L,
+911	2	45. Lutsey PL, Alonso A, Michos ED, Loehr LR, Astor BC, Coresh
+928	2	49. Littlejohns TJ, Neal NL, Bradbury KE, Heers H, Allen NE, Tur -
+933	2	50. Cheungpasitporn W, Rossetti S, Friend K, Erickson SB, Lieske

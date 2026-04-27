@@ -1,0 +1,31 @@
+{
+  "id": "src-332",
+  "title": "Effects of Mindfulness and Exercise on Growth Factors, Inflammation, and Stress Markers in Chronic Stroke: The MindFit Project Randomized Clinical Trial",
+  "authors": [
+    "Bermudo-Gallaguet, Adrià",
+    "Ariza, Mar",
+    "Agudelo, Daniela",
+    "Camins-Vila, Neus",
+    "Boldó, M.",
+    "Peters, S.",
+    "Sawicka, A.",
+    "Dacosta-Aguayo, Rosalía",
+    "Soriano-Raya, Juan José",
+    "Via, Marc",
+    "Clemente, Imma C.",
+    "García-Molina, A.",
+    "Mata, M. J. Durà",
+    "Torán-Monserrat, Pere",
+    "Erickson, Kirk I.",
+    "Mataró, Maria"
+  ],
+  "doi": "10.3390/jcm14082580",
+  "url": "https://www.semanticscholar.org/paper/700c170eb88950cf53ecb769e690dd61d2ed6b3d",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "Journal of Clinical Medicine",
+  "citation_count": 2,
+  "abstract": "Background/Objectives: Stroke often leads to persistent cognitive and emotional impairments, which rehabilitation may mitigate. However, the biological mechanisms underlying such improvements remain unclear. This study investigated whether supplementing computerized cognitive training (CCT) with mindfulness-based stress reduction (MBSR) or physical exercise (PE) modulated biomarkers of neuroplasticity, inflammation, and stress in patients with chronic stroke compared to CCT alone. We also explored whether biomarker changes mediated or correlated with behavioral improvements. Methods: In a three-arm, single-blind, randomized controlled trial (NCT04759950), 141 patients with chronic stroke were randomized (1:1:1) to MBSR+CCT, PE+CCT, or CCT-only for 12 weeks. Plasma levels of brain-derived neurotrophic factor (BDNF), insulin-like growth factor-1 (IGF-1), vascular endothelial growth factor (VEGF), C-reactive protein (CRP), interleukin-6 (IL-6), and cortisol were measured at baseline and post-intervention. Cognitive, mental health, mindfulness, and fitness outcomes were also assessed. Between- and within-group changes were analyzed using ANCOVA and paired t-tests. Per-protocol and complete-case analyses were conducted. Results: Among the 109 participants with ≥80% adherence, the only significant between-group difference was for VEGF: it remained stable in the MBSR+CCT group but declined in PE+CCT and CCT-only. Within-group analyses showed significant decreases in cortisol in MBSR+CCT and PE+CCT, while IGF-1 levels declined across all groups. In contrast, BDNF, IL-6, and CRP did not show significant changes, and biomarker changes were not significantly associated with behavioral improvements. Complete-case analysis (n = 126) yielded similar findings. Conclusions: Our findings suggest that combining MBSR or PE with CCT may modulate certain biological processes relevant to stroke recovery. MBSR may help maintain VEGF levels, which could support vascular health, while MBSR and PE may contribute to lowering cortisol levels. However, since no clear association with behavioral improvements was found, further research is needed to determine the clinical relevance of these biomarker changes in stroke recovery.",
+  "type": "academic",
+  "pdf_url": ""
+}

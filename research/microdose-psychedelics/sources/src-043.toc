@@ -1,0 +1,18 @@
+3	2	Article Open
+5	2	Lsd
+24	2	Introduction
+101	2	Materials And Methods
+102	2	Participants
+244	2	Results
+471	2	Discussion
+680	2	References
+807	2	42. Muthukumaraswamy SD, Carhart-Harris RL, Moran RJ, Brookes MJ, Williams TM,
+810	2	43. Valle M, Maqueda AE, Rabella M, Rodriguez-Pujadas A, Antonijoan RM, Romero S,
+824	2	48. Ajjimaporn A, Noppongsakit P, Ramyarangsi P, Siripornpanich V, Chaunchaiyakul
+845	2	55. Mason NL, Szabo A, Kuypers KPC, Mallaroni PA, de la Torre Fornell R, Reckweg JT,
+849	2	56. Vanhollebeke G, De Smet S, De Raedt R, Baeken C, van Mierlo P, Vanderhasselt
+923	2	Acknowledgements
+931	2	Author Contributions
+937	2	Funding
+939	2	Competing Interests
+942	2	Additional Information

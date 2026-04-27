@@ -1,0 +1,25 @@
+{
+  "id": "src-091",
+  "title": "Dysbiosis of intestinal microbiota and metabolism caused by acute patulin exposure in mice",
+  "authors": [
+    "Zhang, Ting",
+    "Guo, Zimeng",
+    "Che, Jiayin",
+    "Yan, Min",
+    "Liang, Jingyimei",
+    "Wang, Furong",
+    "Hu, Jinhong",
+    "Song, Wei",
+    "Yuan, Yahong",
+    "Yue, Tianli"
+  ],
+  "doi": "10.1002/fft2.397",
+  "url": "https://openalex.org/W4394725742",
+  "provider": "openalex",
+  "year": 2024,
+  "venue": "Food Frontiers",
+  "citation_count": 4,
+  "abstract": "Abstract Patulin (PAT) is a common mycotoxin in moldy fruits that causes gastrointestinal injury if accidentally ingested. Some studies have reported the symptoms of intestinal injury caused by PAT. However, the effects of PAT on the gut microbiota and gut metabolism remain to be investigated, which is important for clarifying the toxicological mechanisms. Thus, C57/BL6J mice were gavaged once with 0, 1, 4, and 16 mg/kg body weight PAT, and the small intestinal and colonic contents were collected. The 16S rRNA sequencing and targeted and untargeted metabolomics were applied to assess the alterations in microbiota and metabolism, respectively. The results showed that Mycoplasma , Dubosiella , and Enterorhabdus were jointly affected by acute PAT exposure in the small intestinal and colonic contents. Some inflammation‐related bacteria, such as Mycoplasma in the small intestine and Mycoplasma , Alistipes , Eubacterium_coprostanoligenes_group , and Candidatus_saccharimona in the colon, increased with increasing doses of PAT. In metabolic results, amino acids decreased and bile acids elevated in both intestinal contents; lipids increased in the small intestinal contents but decreased in the colonic contents. PAT mainly affected host amino acid and lipid metabolism; it also downregulated microbial tryptophan metabolism and short‐chain fatty acid levels (mainly in the colon), which could be explained by the decrease of Bacteroides and Lactobacillus . These influences in microbial abundances and metabolic levels persisted after PAT and its products were cleared. These results fill a gap in the effects of PAT on the gut microbiota and provide a theoretical basis for elucidating the toxic mechanism of mycotoxins.",
+  "type": "academic",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/fft2.397"
+}

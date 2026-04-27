@@ -1,0 +1,29 @@
+{
+  "id": "src-011",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://www.prosan.de/blog/vitamin-k2-natuerlich-aus-natto-oder-synthetisch-aus-oelen",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-21T10:51:30.385057+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-011.md",
+  "quality_details": {
+    "content_length": 5690,
+    "alpha_ratio": 0.808,
+    "sentence_count": 56,
+    "reasons": [
+      "paywall_page (USD)"
+    ]
+  }
+}

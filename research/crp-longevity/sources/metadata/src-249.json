@@ -1,0 +1,18 @@
+{
+  "id": "src-249",
+  "title": "The Role of Inflammation in Diabetic Retinopathy",
+  "authors": [
+    "Forrester, John V.",
+    "Kuffová, Lucia",
+    "Delibegović, Mirela"
+  ],
+  "doi": "10.3389/fimmu.2020.583687",
+  "url": "https://openalex.org/W3088840355",
+  "provider": "openalex",
+  "year": 2020,
+  "venue": "Frontiers in Immunology",
+  "citation_count": 427,
+  "abstract": "Inflammation is central to pathogenic processes in diabetes mellitus and the metabolic syndrome and particularly implicates innate immunity in the development of complications. Inflammation is a primary event in Type 1 diabetes where infectious (viral) and/or autoimmune processes initiate disease; in contrast, chronic inflammation is typical in Type 2 diabetes and is considered a sequel to increasing insulin resistance and disturbed glucose metabolism. Diabetic retinopathy (DR) is perceived as a vascular and neurodegenerative disease which occurs after some years of poorly controlled diabetes. However, many of the clinical features of DR are late events and reflect the nature of the retinal architecture and its cellular composition. Retinal microvascular disease is, in fact, an early event pathogenetically, induced by low grade, persistent leukocyte activation which causes repeated episodes of capillary occlusion and, progressive, attritional retinal ischemia. The later, overt clinical signs of DR are a consequence of the retinal ischemia. Metabolic dysregulation involving both lipid and glucose metabolism may lead to leukocyte activation. On a molecular level, we have shown that macrophage-restricted protein tyrosine phosphatase 1B (PTP1B) is a key regulator of inflammation in the metabolic syndrome involving insulin resistance and it is possible that PTP1B dysregulation may underlie retinal microvascular disease. We have also shown that adherent CCR5<sup>+</sup>CD11b<sup>+</sup> monocyte macrophages appear to be selectively involved in retinal microvascular occlusion. In this review, we discuss the relationship between early leukocyte activation and the later features of DR, common pathogenetic processes between diabetic microvascular disease and other vascular retinopathies, the mechanisms whereby leukocyte activation is induced in hyperglycemia and dyslipidemia, the signaling mechanisms involved in diabetic microvascular disease, and possible interventions which may prevent these retinopathies. We also address a possible role for adaptive immunity in DR. Although significant improvements in treatment of DR have been made with intravitreal anti-VEGF therapy, a sizeable proportion of patients, particularly with sight-threatening macular edema, fail to respond. Alternative therapies targeting inflammatory processes may offer an advantage.",
+  "type": "academic",
+  "pdf_url": "https://www.frontiersin.org/articles/10.3389/fimmu.2020.583687/pdf"
+}

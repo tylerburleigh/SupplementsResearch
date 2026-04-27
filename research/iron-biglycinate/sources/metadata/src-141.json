@@ -1,0 +1,20 @@
+{
+  "id": "src-141",
+  "title": "Association of Eating Window With Mortality Among US Adults: Insights From a Nationally Representative Study",
+  "authors": [
+    "Mao, Z.",
+    "Grant, Haley",
+    "Kritchevsky, S. B.",
+    "Newman, Anne",
+    "Farsijani, S."
+  ],
+  "doi": "10.1111/acel.70230",
+  "url": "https://www.semanticscholar.org/paper/e2868f25f305c58c62ed455b36b444346cc0c5c1",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "Aging Cell",
+  "citation_count": 4,
+  "abstract": "Time‐based diets have gained popularity for their health benefits, but their effects on human longevity remain unclear, with most evidence from short‐term human trials and animal studies. We determined the associations between eating window and mortality among U.S. adults. We conducted a prospective cohort study using NHANES 2003–2018 data linked to mortality records through December 2019. The analytic sample included 33,052 adults (aged 20 and above) with two complete 24‐h dietary recalls collected at baseline. Eating window was defined as the time between first and last consumption of any food/beverage containing > 0 kcal within 24 h. We used survey‐weighted Cox regression with Restricted Cubic Splines (RCS) to model nonlinear associations, treating eating window as both a continuous and categorical variable (< 8.0–≥ 15.0 h/day). Models were adjusted for sociodemographic, lifestyle, health, and dietary factors. Subgroup analyses were conducted by age, sex, and race/ethnicity. Over a median follow‐up of 8 years, there were 4158 all‐cause, 1277 cardiovascular, and 989 cancer deaths. RCS models showed a U‐shaped association between eating window and mortality, with the lowest risk at ~11–12 h/day (p = 0.004). Shorter windows (≤ 8 h) were linked to ≥ 30% higher all‐cause mortality, especially in older adults, and > 50% higher cardiovascular mortality in older adults, men, and Whites. Longer eating window categories (≥ 15 h/day) were associated with 25% higher all‐cause mortality (95% CI: 1.01–1.55). Moderate eating windows (~11–12 h/day) are linked to the lowest mortality risk, with deviations associated with higher risk. Differences across demographic groups highlight the need for personalized guidance.",
+  "type": "academic",
+  "pdf_url": ""
+}

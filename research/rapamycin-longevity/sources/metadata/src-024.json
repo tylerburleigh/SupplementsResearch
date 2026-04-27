@@ -1,0 +1,35 @@
+{
+  "id": "src-024",
+  "title": "Rapamycin modulates tissue aging and lifespan independently of the gut microbiota in Drosophila",
+  "authors": [
+    "Schinaman, Joseph M.",
+    "Rana, Anil",
+    "Ja, William W.",
+    "Clark, Rebecca I.",
+    "Walker, David W."
+  ],
+  "year": 2019,
+  "abstract": "AbstractThe FDA approved drug rapamycin can prolong lifespan in diverse species and delay the onset of age-related disease in mammals. However, a number of fundamental questions remain unanswered regarding the mechanisms by which rapamycin modulates age-related pathophysiology and lifespan. Alterations in the gut microbiota can impact host physiology, metabolism and lifespan. While recent studies have shown that rapamycin treatment alters the gut microbiota in aged animals, the causal relationships between rapamycin treatment, microbiota dynamics and aging are not known. Here, using Drosophila as a model organism, we show that rapamycin-mediated alterations in microbiota dynamics in aged flies are associated with improved markers of intestinal and muscle aging. Critically, however, we show that the beneficial effects of rapamycin treatment on tissue aging and lifespan are not dependent upon the microbiota. Indeed, germ-free flies show delayed onset of intestinal barrier dysfunction, improved proteostasis in aged muscles and a significant lifespan extension upon rapamycin treatment. In contrast, genetic inhibition of autophagy impairs the ability of rapamycin to mediate improved gut health and proteostasis during aging. Our results indicate that rapamycin-mediated modulation of the microbiota in aged animals is not causally required to slow tissue and organismal aging.",
+  "doi": "10.1038/s41598-019-44106-5",
+  "url": "https://doi.org/10.1038/s41598-019-44106-5",
+  "pdf_url": "",
+  "venue": "Scientific Reports",
+  "citation_count": 89,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-26T22:38:08.599040+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-024.md",
+  "quality_details": {
+    "content_length": 50405,
+    "alpha_ratio": 0.728,
+    "sentence_count": 663,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

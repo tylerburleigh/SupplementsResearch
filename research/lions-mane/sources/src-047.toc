@@ -1,0 +1,38 @@
+20	2	Abstract
+103	2	Introduction
+194	2	Materials And Methods
+393	2	Statistical Analysis
+408	2	Results
+630	2	Discussion
+938	2	References
+939	2	1. Tremlett H, Bauer KC, Appel-Cresswell S, Finlay BB, Waubant
+949	2	4. Ambrosio LF, Insfran C, V olpini X, Acosta Rodriguez E, Serra
+986	2	Conclusion
+1024	2	24. Yi Z, Shao-long Y , Ai-hong W, Zhi-chun S, Ya-fen Z, Ye-ting X,
+1058	2	32. Kozarski M, Klaus A, Niksic M, Jakovljevic D, Helsper JPFG,
+1064	2	33. Bishop KS, Kao CHJ, Xu Y , Glucina MP, Paterson RRM, Fergu-
+1079	2	7. Rothhammer V , Kenison JE, Li Z, Tjon E, Takenaka MC, Chao
+1098	2	11. Naganuma M, Sugimoto S, Mitsuyama K, Kobayashi T,
+1107	2	13. Iyer SS, Gensollen T, Gandhi A, Oh SF, Neves JF, Collin F, et
+1130	2	18. Kebaili FF, Tahar N, Esseddik TM, Redouane R, Chawki B,
+1136	2	19. Rousta N, Aslan M, Yesilcimen Akbas M, Ozcan F, Sar T, Taher-
+1163	2	55. Jin U-H, Lee S-O, Sridharan G, Lee K, Davidson LA, Jayaraman
+1168	2	56. Opitz CA, Litzenburger UM, Sahm F, Ott M, Tritschler I, Trump
+1172	2	57. DiNatale BC, Murray IA, Schroeder JC, Flaveny CA, Lahoti TS,
+1177	2	58. Natividad JM, Agus A, Planchais J, Lamas B, Jarry AC, Martin
+1200	2	64. Sillapachaiyaporn C, Rangsinth P, Nilkhet S, Ung AT, Chuchawa-
+1291	2	84. Ratto D, Corana F, Mannucci B, Priori EC, Cobelli F, Roda E,
+1306	2	87. Lee K-FK-C, Chen J-H, Teng C-C, Shen C-H, Hsieh M-C, Lu
+1322	2	90. Trovato A, Siracusa R, Di Paola R, Scuto M, Ontario ML, Bua O,
+1349	2	67. Wang Z-H, Xiang J, Liu X, Yu SP, Manfredsson FP, Sandoval
+1354	2	68. Zhang X-Q, Ip FCF, Zhang D-M, Chen L-X, Zhang W, Li Y-L,
+1379	2	74. Rothhammer V , Mascanfroni ID, Bunse L, Takenaka MC, Keni-
+1384	2	75. Rothhammer V , Borucki DM, Garcia Sanchez MI, Mazzola MA,
+1389	2	76. Shackleford G, Sampathkumar NK, Hichor M, Weill L, Meffre
+1393	2	77. Juricek L, Carcaud J, Pelhaitre A, Riday TT, Chevallier A, Lan -
+1397	2	78. Shi F, Aloufi N, Traboulsi H, Trempe J-F, Eidelman DH,
+1436	2	98. Lin Y-J, Huang C-Y , Tsai BC-K, Kumar KA, Hsieh DJ-Y , Chiu
+1445	2	100. Pankiv S, Clausen TH, Lamark T, Brech A, Bruun J-A, Outzen
+1469	2	1 Department of Biotechnology and Cell Biology, Medical
+1475	2	3 Department of Biopharmacy, Medical University of Lublin,
+1477	2	4 Department of Biochemistry and Toxicology, University of

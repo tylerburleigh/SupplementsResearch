@@ -1,0 +1,37 @@
+{
+  "id": "src-144",
+  "title": "Profiling inflammatory and oxidative stress biomarkers following taurine supplementation: a systematic review and dose-response meta-analysis of controlled trials",
+  "authors": [
+    "Faghfouri, Amir Hossein",
+    "Seyyed Shoura, Seyyed Morteza",
+    "Fathollahi, Pourya",
+    "Shadbad, Mahdi Abdoli",
+    "Papi, Shahab",
+    "Ostadrahimi, Alireza",
+    "Faghfuri, Elnaz"
+  ],
+  "year": 2022,
+  "abstract": "",
+  "doi": "10.1038/s41430-021-01010-4",
+  "url": "https://doi.org/10.1038/s41430-021-01010-4",
+  "pdf_url": "",
+  "venue": "European Journal of Clinical Nutrition",
+  "citation_count": 27,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-19T11:46:24.958037+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-144.md",
+  "quality_details": {
+    "content_length": 20038,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

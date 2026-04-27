@@ -1,0 +1,26 @@
+{
+  "id": "src-264",
+  "title": "Comparative Pharmacology of Caspase‐1 Inhibitors: Ac‐YVAD‐CMK, Z‐YVAD‐FMK, and Ac‐YVAD‐CHO in Multisystem Diseases",
+  "authors": [
+    "Zheng, Yujia",
+    "Dou, Baolei",
+    "Ren, Yifan",
+    "Zhang, Xiangyi",
+    "Zhang, Ruifeng",
+    "Zhang, Guangming",
+    "Yang, Lin",
+    "Zeng, M.",
+    "Gan, Jiali",
+    "Jiang, Xijuan",
+    "Xu, Peng"
+  ],
+  "doi": "10.1002/med.70045",
+  "url": "https://www.semanticscholar.org/paper/b152b98132af4bba7bb5c038cd9b6c37d19f186f",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "Medicinal research reviews (Print)",
+  "citation_count": 0,
+  "abstract": "Cysteine‐aspartic protease‐1 (Caspase‐1), the terminal effector of canonical inflammasome signaling, represents a validated yet pharmacologically underexploited target at the convergence of inflammatory pathology and pyroptotic cell death. Although three peptide‐based inhibitors—Ac‐YVAD‐CMK, Z‐YVAD‐FMK, and Ac‐YVAD‐CHO—have long served as prototypical experimental standards, their structural determinants, structure‐activity relationships, and developmental liabilities have not been systematically reassessed from a medicinal chemistry perspective. Integrating evidence from 144 studies (2015–2025), this review rigorously interrogates these archetypal scaffolds as both pharmacological probes and foundational templates for inhibitor design. We delineate how C‐terminal warhead chemistry (chloromethyl ketone, fluoromethyl ketone, and aldehyde) dictates covalency, reversibility, and kinetic selectivity, while N‐terminal capping strategies modulate membrane permeability, metabolic stability, and systemic exposure. By correlating chemical architecture with caspase selectivity, off‐target engagement, and context‐dependent efficacy across inflammatory, infectious, autoimmune, and oncologic models, we define structure‐kinetics‐pharmacology relationships that govern selectivity, durability, and in vivo predictability. Persistent barriers—including inadequate pharmacokinetic characterization, metabolic fragility, broad caspase cross‐reactivity, and limited scaffold diversification—are identified as principal impediments to the clinical translation of all three prototypical inhibitors. By repositioning these legacy peptide inhibitors as foundational chemical templates for translational optimization, this synthesis establishes design principles centered on kinetic selectivity, rational warhead refinement, and context‐guided optimization, and outlines strategic pathways for the development of selective, clinically viable Caspase‐1‐targeted therapeutics.",
+  "type": "academic",
+  "pdf_url": ""
+}

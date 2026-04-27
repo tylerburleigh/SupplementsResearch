@@ -1,0 +1,21 @@
+{
+  "id": "src-189",
+  "title": "Vitamin D Receptor Signaling and Ligand Modulation: Molecular Mechanisms and Therapeutic Implications.",
+  "authors": [
+    "Nguyen, T.",
+    "Nojiri, Kouki",
+    "Kurokawa, Tomohiro",
+    "Sawada, T.",
+    "Kanemoto, Yoshiaki",
+    "Kato, Shigeaki"
+  ],
+  "doi": "10.3390/ijms27052396",
+  "url": "https://www.semanticscholar.org/paper/5d2ae94f4525d2697e421e929e57e4c399b8fb01",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "International Journal of Molecular Sciences",
+  "citation_count": 0,
+  "abstract": "Vitamin D, a fat-soluble vitamin functioning as a hormone via the vitamin D receptor (VDR), is critical for calcium homeostasis and bone health. Vitamin D deficiency is linked to nutritional rickets, osteomalacia, and increased risk of non-communicable diseases such as cancer and diabetes. While serum 25(OH)D3 is used to assess vitamin D status, its active form, 1α,25(OH)2D3, exerts context-dependent effects on calcium metabolism. Nonetheless, the therapeutic utility of native vitamin D is limited in certain pathologies. In chronic kidney disease (CKD), the renal conversion of 25(OH)D3 to active 1α,25(OH)2D3 is compromised, necessitating the use of active synthetic analogs to bypass this metabolic defect. Furthermore, for dermatological and oncological disorders requiring supraphysiological dosing, synthetic analogs have been designed to dissociate beneficial anti-proliferative effects from the severe hypercalcemia induced by high-dose 1α,25(OH)2D3. VDR mediates transcriptional responses, modulated by co-regulators and chromatin remodeling complexes. Recent discoveries include non-genomic VDR pathways and SCAP (SREBP cleavage-activating protein)-dependent signaling that modulate lipid metabolism. Despite promising preclinical results, most synthetic VDR agonists fail to show efficacy in cancer therapy due to calcemic toxicity. However, compounds like eldecalcitol are effective in osteoporosis, especially in low-calcium-intake populations. Selective VDR modulators, akin to SERMs, exhibit tissue-specific effects. Moreover, novel VDR antagonists such as ZK168281 demonstrate potential to suppress hypercalcemia and vitamin D toxicity by inhibiting transcriptional activity and altering VDR localization. These agents may enable anti-inflammatory or anti-proliferative actions without calcemic risks. Understanding the nuanced biology of vitamin D and its analogs offers new avenues for therapeutic intervention beyond bone metabolism, including managing hyperparathyroidism, granulomatous diseases, and inflammation-associated disorders.",
+  "type": "academic",
+  "pdf_url": ""
+}

@@ -1,0 +1,36 @@
+{
+  "id": "src-070",
+  "title": "Nicotinamide riboside with pterostilbene (NRPT) increases NAD+ in patients with acute kidney injury (AKI): a randomized, double-blind, placebo-controlled, stepwise safety study of escalating doses of NRPT in patients with AKI",
+  "authors": [
+    "Simic, Petra",
+    "Vela Parada, Xavier Fernando",
+    "Parikh, Samir M.",
+    "Dellinger, Ryan",
+    "Guarente, Leonard P.",
+    "Rhee, Eugene P."
+  ],
+  "year": 2020,
+  "abstract": "Abstract\nBackground\nPreclinical studies have identified both NAD+ and sirtuin augmentation as potential strategies for the prevention and treatment of AKI. Nicotinamide riboside (NR) is a NAD+ precursor vitamin and pterostilbene (PT) is potent sirtuin activator found in blueberries. Here, we tested the effect of combined NR and PT (NRPT) on whole blood NAD+ levels and safety parameters in patients with AKI.\n\nMethods\nWe conducted a randomized, double-blind, placebo-controlled study of escalating doses of NRPT in 24 hospitalized patients with AKI. The study was comprised of four Steps during which NRPT (5 subjects) or placebo (1 subject) was given twice a day for 2 days. NRPT dosing was increased in each Step: Step 1250/50 mg, Step 2500/100 mg, Step 3750/150 mg and Step 41,000/200 mg. Blood NAD+ levels were measured by liquid chromatography-mass spectrometry and safety was assessed by history, physical exam, and clinical laboratory testing.\n\nResults\nAKI resulted in a 50% reduction in whole blood NAD+ levels at 48 h compared to 0 h in patients receiving placebo (p = 0.05). There was a trend for increase in NAD+ levels in all NRPT Steps individually at 48 h compared to 0 h, but only the change in Step 2 reached statistical significance (47%, p = 0.04), and there was considerable interindividual variability in the NAD+ response to treatment. Considering all Steps together, NRPT treatment increased NAD+ levels by 37% at 48 h compared to 0 h (p = 0.002). All safety laboratory tests were unchanged by NRPT treatment, including creatinine, estimated glomerular filtration rate (eGFR), electrolytes, liver function tests, and blood counts. Three of 20 patients receiving NRPT reported minor gastrointestinal side effects.\n\nConclusion\nNRPT increases whole blood NAD+ levels in hospitalized patients with AKI. In addition, NRPT up to a dose of 1000 mg/200 mg twice a day for 2 days is safe and well tolerated in these patients. Further studies to assess the potential therapeutic benefit of NRPT in AKI are warranted.\n\nTrial registration\nNCT03176628, date of registration June 5th, 2017.",
+  "doi": "10.1186/s12882-020-02006-1",
+  "url": "https://doi.org/10.1186/s12882-020-02006-1",
+  "pdf_url": "",
+  "venue": "BMC Nephrology",
+  "citation_count": 38,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-20T20:26:55.389278+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-070.md",
+  "quality_details": {
+    "content_length": 37535,
+    "alpha_ratio": 0.706,
+    "sentence_count": 377,
+    "reasons": [
+      "paywall_page (access this article)"
+    ]
+  }
+}

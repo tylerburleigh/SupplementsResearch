@@ -1,0 +1,29 @@
+{
+  "id": "src-158",
+  "title": "Functional expression of carnitine/organic cation transporter OCTN1/SLC22A4 in mouse small intestine and liver.",
+  "authors": [
+    "Sugiura, Tomoko",
+    "Kato, Sayaka",
+    "Shimizu, Takuya",
+    "Wakayama, Tomohiko",
+    "Nakamichi, Noritaka",
+    "Kubo, Yoshiyuki",
+    "Iwata, Daisuke",
+    "Suzuki, Kazuhiro",
+    "Soga, Tomoyoshi",
+    "Asano, Masahide",
+    "Iseki, Shoichi",
+    "Tamai, Ikumi",
+    "Tsuji, Akira",
+    "Kato, Yukio"
+  ],
+  "doi": "10.1124/dmd.110.032763",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/20601551",
+  "provider": "pubmed",
+  "year": 2010,
+  "venue": "Drug metabolism and disposition: the biological fate of chemicals",
+  "citation_count": 0,
+  "abstract": "Carnitine/organic cation transporter (OCTN1/SLC22A4) accepts various therapeutic agents as substrates in vitro and is expressed ubiquitously, although its function in most organs has not yet been examined. The purpose of the present study was to evaluate functional expression of OCTN1 in small intestine and liver, using octn1 gene knockout [octn1(-/-)] mice. After oral administration of [(3)H]ergothioneine ([(3)H]ERGO), a typical substrate of OCTN1, the amount of [(3)H]ERGO remaining in the small intestinal lumen was much higher in octn1(-/-) mice than in wild-type mice. In addition, uptake of [(3)H]ERGO by human embryonic kidney 293 cells heterologously expressing OCTN1 gene product and uptake of [(3)H]ERGO at the apical surface of intestinal everted sacs from wild-type mice were inhibited by OCTN1 substrates, tetraethylammonium and verapamil. Immunohistochemical analysis revealed that OCTN1 is localized on the apical surface of small intestine in mice and humans. These results suggest that OCTN1 is responsible for small intestinal absorption of [(3)H]ERGO. However, the plasma concentration of [(3)H]ERGO after oral administration was higher in octn1(-/-) mice than in wild-type mice, despite the lower absorption in octn1(-/-) mice. This was probably because of efficient hepatic uptake of [(3)H]ERGO, as revealed by integration plot analysis; the uptake clearance was close to the hepatic plasma flow rate. The uptake of [(3)H]ERGO by isolated hepatocytes was minimal, whereas [(3)H]ERGO uptake was observed in isolated nonparenchymal cells. This finding is consistent with immunostaining of OCTN1 in liver sinusoids. Thus, our results indicate that OCTN1 is functionally expressed in nonparenchymal liver cells.",
+  "type": "academic",
+  "pdf_url": ""
+}

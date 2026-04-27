@@ -1,0 +1,25 @@
+{
+  "id": "src-291",
+  "title": "Homocysteine Levels and C677T Polymorphism of Methylenetetrahydrofolate Reductase in Women with Polycystic Ovary Syndrome",
+  "authors": [
+    "Orio, Francesco",
+    "Palomba, Stefano",
+    "Biase, Sebastiano Di",
+    "Colao, Annamaria",
+    "Tauchmanovà, Libuse",
+    "Savastano, Silvia",
+    "Labella, Donato",
+    "Russo, Tiziana",
+    "Zullo, Fulvio",
+    "Lombardi, Gaetano"
+  ],
+  "doi": "10.1210/jc.2002-021142",
+  "url": "https://openalex.org/W2157515962",
+  "provider": "openalex",
+  "year": 2003,
+  "venue": "The Journal of Clinical Endocrinology & Metabolism",
+  "citation_count": 91,
+  "abstract": "The aim of this study was to investigate the homocysteine (Hcy) levels and the C677T polymorphism of 5,10-methylenetetrahydrofolate reductase (MTHFR), a crucial factor of the Hcy metabolism in young women with polycystic ovary syndrome (PCOS). Seventy young women with PCOS and another 70 healthy women with low folate intake were enrolled. Cases and controls were matched for age, body mass index, and allele frequency. Hcy, vitamin B(12), and folate levels were measured, and a genetic analysis of 5,10-MTHFR at nucleotide 677 was performed in all subjects. No difference in mean Hcy levels was observed between PCOS women in comparison to the control group. Considering the different MTHFR polymorphism, no significant difference was found in serum Hcy levels between subjects with PCOS and controls showing CC (10.4 +/- 3.1 vs. 9.7 +/- 2.9 micromol/liter +/- SD) and CT genotypes (10.9 +/- 3.8 vs. 11.0 +/- 3.2 micromol/liter +/- SD). In subjects with a TT homozygous state, a significant (P < 0.05) difference was observed between PCOS and control women (11.5 +/- 3.9 vs. 22.0 +/- 7.8 micromol/liter +/- SD). In conclusion, our data show that in PCOS women, the serum Hcy levels are normal, and the C677T polymorphism of MTHFR does not influence the Hcy levels like in controls.",
+  "type": "academic",
+  "pdf_url": "https://academic.oup.com/jcem/article-pdf/88/2/673/9148890/jcem0673.pdf"
+}

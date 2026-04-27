@@ -1,0 +1,39 @@
+{
+  "id": "src-046",
+  "title": "Investigating the clinical efficacy, safety and molecular mechanism of sulforaphane in autism spectrum disorder: an integrated study combining meta-analysis, network pharmacology, and computational biology",
+  "authors": [
+    "Long, Junzi",
+    "Liao, Xingxing",
+    "Tang, Zhiqing",
+    "Han, Kaiyue",
+    "Chen, Jiarou",
+    "Wang, Xianna",
+    "Liu, Jianjun",
+    "Zhang, Yan",
+    "Zhang, Hao"
+  ],
+  "year": 2025,
+  "abstract": "",
+  "doi": "10.1186/s40360-025-01052-5",
+  "url": "https://doi.org/10.1186/s40360-025-01052-5",
+  "pdf_url": "",
+  "venue": "BMC Pharmacology and Toxicology",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-18T23:20:21.746396+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-046.md",
+  "quality_details": {
+    "content_length": 66155,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

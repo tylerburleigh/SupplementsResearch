@@ -1,0 +1,24 @@
+{
+  "id": "src-106",
+  "title": "Fisetin carbon dots alleviate periodontitis by enhancing mitophagy through regulation of sirtuin 3 SUMOylation.",
+  "authors": [
+    "Deng, Yu",
+    "Jiang, Xinyu",
+    "Che, Zhenzhen",
+    "Shang, Yaqi",
+    "Hu, Mengting",
+    "Wang, Wentian",
+    "Yu, Weixian",
+    "Yang, Bai",
+    "Liu, Xinchan"
+  ],
+  "doi": "10.1186/s12951-025-03907-9",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41353553",
+  "provider": "pubmed",
+  "year": 2025,
+  "venue": "Journal of nanobiotechnology",
+  "citation_count": 0,
+  "abstract": "Periodontitis is a chronic inflammatory disease strongly linked to the sustained accumulation of reactive oxygen species (ROS). Eliminating excessive ROS and modulating the periodontal microenvironment to suppress inflammation represents a promising therapeutic approach for the treatment of periodontitis. Fisetin (FIS) is a naturally occurring flavonoid known for its strong antioxidant and anti-inflammatory effects. However, its poor water solubility and low bioavailability limit its therapeutic efficacy. Carbon dots (CDs), as an emerging nanomaterial, offer advantages such as simple synthesis, good biocompatibility, and low cost. To overcome the limitations of FIS, this study synthesized fisetin-derived carbon dots (FIS-CDs) via a hydrothermal method. The resulting FIS-CDs exhibits excellent water solubility, favorable biocompatibility, and demonstrates excellent ROS-scavenging capability without the need for further modification. In vitro FIS-CDs significantly reduced intracellular ROS levels, alleviate oxidative stress, maintain mitochondrial homeostasis, and suppress the generation of inflammatory cytokines. Furthermore, FIS-CDs exhibit excellent osteogenic potential. In vivo experiments confirmed that FIS-CDs markedly alleviated periodontal inflammation and oxidative damage, suppressed alveolar bone loss, and promoted regeneration of periodontal tissues. Mechanistically, FIS-CDs facilitate the activation of mitophagy by downregulating the SUMOylation of sirtuin 3 (SIRT3). This modulation contributes to the restoration of mitochondrial function, which in turn mitigates cellular injury and limits the secretion of inflammatory mediators. Collectively, these findings underscore the therapeutic promise of FIS-CDs as a safe and effective nanomaterial for periodontitis treatment and suggest a novel molecular target for future drug development.",
+  "type": "academic",
+  "pdf_url": ""
+}

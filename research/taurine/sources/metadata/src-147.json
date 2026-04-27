@@ -1,0 +1,29 @@
+{
+  "id": "src-147",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-026-13009-y",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-19T11:47:18.929071+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-147.md",
+  "quality_details": {
+    "content_length": 69697,
+    "alpha_ratio": 0.764,
+    "sentence_count": 640,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

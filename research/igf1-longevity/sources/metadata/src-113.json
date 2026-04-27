@@ -1,0 +1,20 @@
+{
+  "id": "src-113",
+  "title": "Protein restriction and cancer.",
+  "authors": [
+    "Yin, Jie",
+    "Ren, Wenkai",
+    "Huang, Xingguo",
+    "Li, Tiejun",
+    "Yin, Yulong"
+  ],
+  "doi": "10.1016/j.bbcan.2018.03.004",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/29596961",
+  "provider": "pubmed",
+  "year": 2018,
+  "venue": "Biochimica et biophysica acta. Reviews on cancer",
+  "citation_count": 0,
+  "abstract": "Protein restriction without malnutrition is currently an effective nutritional intervention known to prevent diseases and promote health span from yeast to human. Recently, low protein diets are reported to be associated with lowered cancer incidence and mortality risk of cancers in human. In murine models, protein restriction inhibits tumor growth via mTOR signaling pathway. IGF-1, amino acid metabolic programing, FGF21, and autophagy may also serve as potential mechanisms of protein restriction mediated cancer prevention. Together, dietary intervention aimed at reducing protein intake can be beneficial and has the potential to be widely adopted and effective in preventing and treating cancers.",
+  "type": "academic",
+  "pdf_url": ""
+}

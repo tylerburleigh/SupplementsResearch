@@ -1,0 +1,32 @@
+{
+  "id": "src-303",
+  "title": "Muscle Carnosine Metabolism and β-Alanine Supplementation in Relation to Exercise and Training",
+  "authors": [
+    "Derave, Wim",
+    "Everaert, Inge",
+    "Beeckman, Sam",
+    "Baguet, Audrey"
+  ],
+  "year": 2010,
+  "abstract": "",
+  "doi": "10.2165/11530310-000000000-00000",
+  "url": "https://doi.org/10.2165/11530310-000000000-00000",
+  "pdf_url": "",
+  "venue": "Sports Medicine",
+  "citation_count": 203,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T14:16:41.547907+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-303.md",
+  "quality_details": {
+    "content_length": 72380,
+    "alpha_ratio": 0.751,
+    "sentence_count": 663,
+    "reasons": []
+  }
+}

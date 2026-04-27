@@ -1,0 +1,27 @@
+{
+  "id": "src-047",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "",
+  "pdf_url": "http://content-assets.jci.org/manuscripts/64000/64125/JCI64125.v1.pdf",
+  "venue": "",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "",
+  "fetched_at": "2026-04-26T22:56:19.013020+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-047.md",
+  "quality_details": {
+    "content_length": 51845,
+    "alpha_ratio": 0.742,
+    "sentence_count": 563,
+    "reasons": []
+  }
+}

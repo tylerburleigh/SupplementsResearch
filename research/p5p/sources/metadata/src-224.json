@@ -1,0 +1,20 @@
+{
+  "id": "src-224",
+  "title": "Effect of B-vitamins on stroke risk among individuals with vascular disease who are not on antiplatelets: A meta-analysis",
+  "authors": [
+    "Park, Jong‐Ho",
+    "Saposnik, Gustavo",
+    "Ovbiagele, Bruce",
+    "Markovic, Daniela",
+    "Towfighi, Amytis"
+  ],
+  "doi": "10.1177/1747493015616512",
+  "url": "https://openalex.org/W2299732704",
+  "provider": "openalex",
+  "year": 2016,
+  "venue": "International Journal of Stroke",
+  "citation_count": 40,
+  "abstract": "Background Retrospective analyses of randomized controlled trials suggest that antiplatelet therapy may modify the potential cerebrovascular benefits of lowering homocysteine with B-vitamins among individuals with cardiovascular disease. We evaluated the effects of B-vitamin supplementation on risk of subsequent stroke among high cardiovascular risk individuals who are not taking antiplatelet medications. Methods We systematically searched the Cochrane Central Register of controlled trials, PubMed, the Internet Stroke Center stroke trials, and the clinical trials.gov website from 1966 to April 2015. Inclusion criteria included: randomized controlled trials of homocysteine-lowering therapy with B-vitamins; high cardiovascular risk population and follow-up ≥1 year. We considered stroke as the primary outcome. Among 11 randomized controlled trials meeting inclusion criteria, three studies assessed stroke as an outcome and reported event rates according to whether or not individuals were taking antiplatelets: Vitamin Intervention for Stroke Prevention (VISP), VITAmins TO Prevent Stroke (VITATOPS), and Heart Outcomes Prevention Evaluation 2 (HOPE-2). Results A total of 4643 high vascular risk subjects not taking antiplatelets were evaluated. The overall effect size across studies was summarized using the fixed effects model after confirming there was no significant heterogeneity. Heterogeneity was assessed using the Cochran’s Q and I 2 statistics. Compared with the control group, those taking B-vitamin supplementation had a lower risk of recurrent stroke (HR 0.86, 95% CI 0.62 to 1.19 for VISP; 0.65, 0.46 to 0.91 for VITATOPS; and 0.60, 0.39 to 0.92 for HOPE-2; overall HR 0.71, 0.58 to 0.88). Conclusion Homocysteine lowering with B-vitamins among high vascular risk patients who are not taking antiplatelet therapy is related to a significant reduction (29%) in overall stroke risk. A clinical trial of B-vitamins in this group may be warranted.",
+  "type": "academic",
+  "pdf_url": ""
+}

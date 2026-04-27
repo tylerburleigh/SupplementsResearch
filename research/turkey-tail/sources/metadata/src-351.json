@@ -1,0 +1,18 @@
+{
+  "id": "src-351",
+  "title": "Musarin, a novel protein with tyrosine kinase inhibitory activity from Trametes versicolor, inhibits colorectal cancer stem cell growth.",
+  "authors": [
+    "He, YingYing",
+    "Liu, Shubai",
+    "Newburg, David S"
+  ],
+  "doi": "10.1016/j.biopha.2021.112339",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34656057",
+  "provider": "pubmed",
+  "year": 2021,
+  "venue": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+  "citation_count": 0,
+  "abstract": "Colorectal cancer is the second deadly cancer in the world. Trametes versicolor is a traditional Chinese medicinal mushroom with a long history of being used to regulate immunity and prevent cancer. Trametes versicolor mushroom extract demonstrates strongly cell growth inhibitory activity on human colorectal tumor cells. In this study, we characterized a novel 12-kDa protein that named musarin, which was purified from Trametes versicolor mushroom extract and showed significant growth inhibition on multiple human colorectal cancer cell lines in vitro. The protein sequence of musarin was determined through enzyme digestion and MS/MS analysis. Furthermore, Musarin, in particular, strongly inhibits aggressive human colorectal cancer stem cell-like CD24+CD44+ HT29 proliferation in vitro and in a NOD/SCID murine xenograft model. Through whole transcription profile and gene enrichment analysis of musarin-treated CSCs-like cells, major signaling pathways and network modulated by musarin have been enriched, including the bioprocess of the Epithelial-Mesenchymal Transition, the EGFR-Ras signaling pathway and enzyme inhibitor activity. Musarin demonstrated tyrosine kinase inhibitory activity in vitro. Musarin strongly attenuated EGFR expression and down-regulated phosphorylation level, thereby slowing cancer cells proliferation. In addition, oral ingestion of musarin significantly inhibited CD24+CD44+ HT29 generated tumor development in SCID/NOD mice with less side effects in microgram doses. Targeting self-renewal aggressive stem-cell like cancer cell proliferation, with higher water solubility and lower cytotoxicity, musarin has shown strong potence to be developed as a promising novel therapeutic drug candidate against colorectal cancers, especially those that acquire chemo-resistance.",
+  "type": "academic",
+  "pdf_url": ""
+}

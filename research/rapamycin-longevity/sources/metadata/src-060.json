@@ -1,0 +1,21 @@
+{
+  "id": "src-060",
+  "title": "A Role for Autophagy in the Extension of Lifespan by Dietary Restriction in C. elegans",
+  "authors": [
+    "Hansen, Malene Bredahl",
+    "Chandra, Abha",
+    "Mitic, Laura L.",
+    "Onken, Brian",
+    "Driscoll, Monica",
+    "Kenyon, Cynthia"
+  ],
+  "doi": "10.1371/journal.pgen.0040024",
+  "url": "https://openalex.org/W1994305081",
+  "provider": "openalex",
+  "year": 2008,
+  "venue": "PLoS Genetics",
+  "citation_count": 760,
+  "abstract": "In many organisms, dietary restriction appears to extend lifespan, at least in part, by down-regulating the nutrient-sensor TOR (Target Of Rapamycin). TOR inhibition elicits autophagy, the large-scale recycling of cytoplasmic macromolecules and organelles. In this study, we asked whether autophagy might contribute to the lifespan extension induced by dietary restriction in C. elegans. We find that dietary restriction and TOR inhibition produce an autophagic phenotype and that inhibiting genes required for autophagy prevents dietary restriction and TOR inhibition from extending lifespan. The longevity response to dietary restriction in C. elegans requires the PHA-4 transcription factor. We find that the autophagic response to dietary restriction also requires PHA-4 activity, indicating that autophagy is a transcriptionally regulated response to food limitation. In spite of the rejuvenating effect that autophagy is predicted to have on cells, our findings suggest that autophagy is not sufficient to extend lifespan. Long-lived daf-2 insulin/IGF-1 receptor mutants require both autophagy and the transcription factor DAF-16/FOXO for their longevity, but we find that autophagy takes place in the absence of DAF-16. Perhaps autophagy is not sufficient for lifespan extension because although it provides raw material for new macromolecular synthesis, DAF-16/FOXO must program the cells to recycle this raw material into cell-protective longevity proteins.",
+  "type": "academic",
+  "pdf_url": "https://journals.plos.org/plosgenetics/article/file?id=10.1371/journal.pgen.0040024&type=printable"
+}

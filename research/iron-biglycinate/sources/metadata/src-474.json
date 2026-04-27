@@ -1,0 +1,19 @@
+{
+  "id": "src-474",
+  "title": "Vitamin C: A Comprehensive Review of Its Role in Health, Disease Prevention, and Therapeutic Potential",
+  "authors": [
+    "Alberts, Adina",
+    "Moldoveanu, Elena-Theodora",
+    "Niculescu, Adelina-Gabriela",
+    "Grumezescu, Alexandru Mihai"
+  ],
+  "doi": "10.3390/molecules30030748",
+  "url": "https://openalex.org/W4407224039",
+  "provider": "openalex",
+  "year": 2025,
+  "venue": "Molecules",
+  "citation_count": 89,
+  "abstract": "Since Albert Szent-Györgyi discovered it and it became used in treating scurvy, vitamin C has attracted interest in many studies due to its unique properties. It is an important cofactor in the synthesis of collagen and hormones, and it is involved in immunity, iron absorption, and processes requiring antioxidants. Thus, this review aims to emphasize the importance and usefulness of vitamin C in improving quality of life and preventing various diseases (e.g., chronic diseases, cardiovascular diseases, cancer) but also for its use in treatments against infections, neurodegenerative diseases, and cancer. Although the studies presented provide essential information about the properties of VIC and its beneficial effect on health, some studies contradict these theories. In this respect, further studies on larger samples and over a longer period are needed to demonstrate the therapeutic potential of this nutrient. However, VIC remains a necessary vitamin that should be consumed daily to maintain optimal health and prevent deficiencies that can lead to scurvy and its associated complications.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/1420-3049/30/3/748/pdf"
+}

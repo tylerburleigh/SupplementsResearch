@@ -1,0 +1,18 @@
+{
+  "id": "src-328",
+  "title": "Stress Inducibility of SIRT1 and Its Role in Cytoprotection and Cancer",
+  "authors": [
+    "Raynes, Rachel",
+    "Brunquell, Jessica",
+    "Westerheide, Sandy D."
+  ],
+  "doi": "10.1177/1947601913484497",
+  "url": "https://openalex.org/W2127475482",
+  "provider": "openalex",
+  "year": 2013,
+  "venue": "Genes & Cancer",
+  "citation_count": 66,
+  "abstract": "Cells must continuously respond to stressful insults via the upregulation of cytoprotective pathways. The longevity factor and deacetylase SIRT1 plays a critical role in coordinating this cellular response to stress. SIRT1 activity and levels are regulated by cellular stressors, including metabolic, genotoxic, oxidative, and proteotoxic stress. As a stress sensor, SIRT1 impacts cell survival by deacetylating substrate proteins to drive the cell towards a cytoprotective pathway. Extreme stress conditions, however, can cause SIRT1 to lead cells down an apoptotic pathway instead. SIRT1 is frequently dysregulated in cancer cells and has been characterized to have a dual role as both an oncogene and a tumor suppressor, likely due to its pivotal function in regulating cytoprotection. Recently, the ability of SIRT1 to regulate HSF1-dependent induction of the heat shock response has highlighted another pathway through which SIRT1 can modulate cytoprotection. Activation of HSF1 results in the production of cytoprotective chaperones that can facilitate the transformed phenotype of cancer cells. In this review, we discuss the stress-dependent regulation of SIRT1. We highlight the role of SIRT1 in stress management and cytoprotection and emphasize SIRT1-dependent activation of HSF1 as a potential mechanism for cancer promotion.",
+  "type": "academic",
+  "pdf_url": ""
+}

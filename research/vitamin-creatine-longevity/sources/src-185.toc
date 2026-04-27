@@ -1,0 +1,3 @@
+10	2	Abstract
+58	2	3 Military Institute of Aviation Medicine, Warsaw, Poland
+629	2	References

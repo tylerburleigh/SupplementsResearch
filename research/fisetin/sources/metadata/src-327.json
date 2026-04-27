@@ -1,0 +1,25 @@
+{
+  "id": "src-327",
+  "title": "Transplanted senescent renal scattered tubular-like cells induce injury in the mouse kidney.",
+  "authors": [
+    "Kim, Seo Rin",
+    "Jiang, Kai",
+    "Ferguson, Christopher M.",
+    "Tang, Hui",
+    "Chen, Xiaojun",
+    "Zhu, Xiang-Yang",
+    "Hickson, L.",
+    "Tchkonia, T.",
+    "Kirkland, J.",
+    "Lerman, L."
+  ],
+  "doi": "10.1152/ajprenal.00535.2019",
+  "url": "https://www.semanticscholar.org/paper/194953249c05171e53ae2e242a9224ff5acde29e",
+  "provider": "semantic_scholar",
+  "year": 2020,
+  "venue": "AJP - Renal Physiology",
+  "citation_count": 31,
+  "abstract": "Cellular senescence, a permanent arrest of cell proliferation, is characterized by a senescence-associated secretory phenotype (SASP), which reinforces senescence and exerts noxious effects on adjacent cells. Recent studies suggest that transplanting small numbers of senescent cells suffices to provoke tissue inflammation. We hypothesized that senescent cells can directly augment renal injury. Primary scattered tubular-like cells (STC) acquired from pig kidneys were irradiated by 10Gy of cesium radiation, and 3 weeks later cells were characterized for levels of senescence and SASP markers. Control or senescent (SEN) STC were then pre-labeled and injected (5X105 cells) into the aorta of C57BL/6J mice. Four weeks later, renal oxygenation was studied in-vivo using 16.4T magnetic resonance imaging, and function by plasma creatinine level. Renal markers of SASP, fibrosis, and microvascular density were evaluated ex-vivo. Per flow cytometry, irradiation induced senescence in 80-99% of STC, which showed increased gene expression of senescence and SASP markers, SA-ß-gal staining, and cytokines levels (especially IL-6) secreted in conditioned-medium. Four weeks after injection, cells were detected engrafted in the mouse kidneys with no evidence for rejection. Plasma creatinine and renal tissue hypoxia increased in SEN compared to control. SEN kidneys were more fibrotic, with fewer CD31+ endothelial cells, and showed upregulation of IL-6 gene expression. Therefore, exogenously delivered senescent renal STC directly injure healthy mouse kidneys. Additional studies are needed to determine the role of endogenous cellular senescence in the pathogenesis of kidney injury, and evaluate the utility of senolytic therapy.",
+  "type": "academic",
+  "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7294341"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "src-061",
+  "title": "Vitamin K‑dependent proteins involved in bone and cardiovascular health (Review)",
+  "authors": [
+    "Wen, Lianpu",
+    "Chen, Jiepeng",
+    "Duan, Lili",
+    "Li, Shuzhuang"
+  ],
+  "year": 2018,
+  "abstract": "",
+  "doi": "10.3892/mmr.2018.8940",
+  "url": "https://doi.org/10.3892/mmr.2018.8940",
+  "pdf_url": "",
+  "venue": "Molecular Medicine Reports",
+  "citation_count": 36,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T10:56:45.870288+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-061.md",
+  "quality_details": {
+    "content_length": 78091,
+    "alpha_ratio": 0.742,
+    "sentence_count": 660,
+    "reasons": []
+  }
+}

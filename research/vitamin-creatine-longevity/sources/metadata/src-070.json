@@ -1,0 +1,37 @@
+{
+  "id": "src-070",
+  "title": "Impact of Creatine Supplementation on Muscle and Bone Strength in Older Adults: A Narrative Review",
+  "authors": [
+    "Michalak, Paweł",
+    "Borowski, Konrad",
+    "Pastuszek, Oskar",
+    "Radziwon, Maja",
+    "Bolesta-Okuniewska, Emilia",
+    "Marchwińska-Pancer, Aleksandra",
+    "Kopeć, Katarzyna",
+    "Ceryn, Julia",
+    "Wicher, Anna"
+  ],
+  "year": 2026,
+  "abstract": "Introduction and purpose: Age-related declines in skeletal muscle mass and strength, together with bone loss, reduce physical performance and increase frailty and fall risk in older adults. Creatine supplementation has been proposed as a supportive and potentially preventive strategy due to its role in cellular energy buffering and its capacity to augment exercise training adaptations. This narrative review summarizes current evidence on the effects of creatine supplementation on muscle strength and function and on bone-related outcomes in older adults.\nReview methods: A narrative review of the literature was conducted using PubMed and Google Scholar. Peer-reviewed studies published between 2000 and 2025 examining creatine supplementation and muscle- or bone-related outcomes in adults were included.\nBrief description of the state of knowledge: Evidence from randomized trials and meta-analyses indicates that creatine supplementation combined with progressive resistance training increases lean mass and improves dynamic strength and functional performance in older adults more consistently than resistance training alone. Mechanistically, benefits are biologically plausible through increased intramuscular creatine/phosphocreatine availability, improved high-intensity exercise capacity, and downstream anabolic signaling that supports training responsiveness. In contrast, effects on areal bone mineral density measured by DXA are generally neutral in long-term trials and pooled analyses.\nSummary (conclusions): Creatine is a well-studied supplement that, when paired with resistance training, reliably enhances lean mass and muscle strength in older adults. Current evidence does not support creatine as an effective stand-alone strategy to increase areal BMD, but potential benefits warrant further adequately powered, long-duration trials, particularly in sarcopenic and osteopenic populations.",
+  "doi": "10.12775/jehs.2026.88.68067",
+  "url": "https://doi.org/10.12775/jehs.2026.88.68067",
+  "pdf_url": "",
+  "venue": "Journal of Education, Health and Sport",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T13:41:16.488924+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-070.md",
+  "quality_details": {
+    "content_length": 44736,
+    "alpha_ratio": 0.747,
+    "sentence_count": 371,
+    "reasons": []
+  }
+}

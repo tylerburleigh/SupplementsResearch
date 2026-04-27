@@ -1,0 +1,23 @@
+{
+  "id": "src-137",
+  "title": "Characterization of Effects of mTOR Inhibitors on Aging in Caenorhabditis elegans",
+  "authors": [
+    "Zhang, Aihan",
+    "Meecham-Garcia, Gadea",
+    "Hong, Chiminh Nguyen",
+    "Xie, Peiyun",
+    "Kern, Carina C.",
+    "Zhang, Bruce",
+    "Chapman, H.",
+    "Gems, David"
+  ],
+  "doi": "10.1093/gerona/glae196",
+  "url": "https://www.semanticscholar.org/paper/57c3784bbf073bdb836c91201fbeb0c6608eda0b",
+  "provider": "semantic_scholar",
+  "year": 2024,
+  "venue": "The journals of gerontology. Series A, Biological sciences and medical sciences",
+  "citation_count": 10,
+  "abstract": "Abstract Pharmacological inhibition of the mechanistic target of rapamycin (mTOR) signaling pathway with rapamycin can extend lifespan in several organisms. Although this includes the nematode Caenorhabditis elegans, effects in this species are relatively weak and sometimes difficult to reproduce. Here we test effects of drug dosage and timing of delivery to establish the upper limits of its capacity to extend life, and investigate drug effects on age-related pathology and causes of mortality. Liposome-mediated rapamycin treatment throughout adulthood showed a dose-dependent effect, causing a maximal 21.9% increase in mean lifespan, but shortening of lifespan at the highest dose, suggesting drug toxicity. Rapamycin treatment of larvae delayed development, weakly reduced fertility and modestly extended lifespan. By contrast, treatment initiated later in life robustly increased lifespan, even from Day 16 (or ~70 years in human terms). The rapalog temsirolimus extended lifespan similarly to rapamycin, but effects of everolimus were weaker. As in mouse, rapamycin had mixed effects on age-related pathologies, inhibiting one (uterine tumor growth) but not several others, suggesting a segmental antigeroid effect. These findings should usefully inform future experimental studies with rapamycin and rapalogs in C. elegans.",
+  "type": "academic",
+  "pdf_url": "https://academic.oup.com/biomedgerontology/advance-article-pdf/doi/10.1093/gerona/glae196/58838800/glae196.pdf"
+}

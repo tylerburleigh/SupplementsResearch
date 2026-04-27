@@ -1,0 +1,26 @@
+{
+  "id": "src-189",
+  "title": "Predicting sulforaphane-induced adverse effects in colon cancer patients via in silico investigation.",
+  "authors": [
+    "Bozic, Dragica",
+    "Baralić, Katarina",
+    "Živančević, Katarina",
+    "Miljaković, Evica Antonijević",
+    "Ćurčić, Marijana",
+    "Antonijević, Biljana",
+    "Djordjević, Aleksandra Buha",
+    "Bulat, Zorica",
+    "Zhang, Yi",
+    "Yang, Li",
+    "Đukić-Ćosić, Danijela"
+  ],
+  "doi": "10.1016/j.biopha.2021.112598",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34959120",
+  "provider": "pubmed",
+  "year": 2022,
+  "venue": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+  "citation_count": 0,
+  "abstract": "Colorectal cancer (CRC) is a significant global health burden that ranks as the third most diagnosed and second most common cause of cancer related deaths worldwide. New therapeutic strategies include chemoprevention and use of molecules which could prevent, suppress or reverse CRC progression such as sulforaphane (SFN). However, evidences about its safety in CRC patients are still lacking. The aim of this in silico investigation was to predict SFN-induced adverse effects in CRC patients by computational analysis. The study showed that 334 genes were consistently dysregulated in CRC (223 downregulated and 111 upregulated), while 38 were recognized as significant and might be used as predictive biomarkers for overall survival and metastasis (TCGA, GEO, R studio). Among them, SFN interacted with 86 genes, out of which 11 were marked as significant (correlate with overall prognosis and metastasis). Sulforaphane potentiates the overexpression of TIMP1, AURKA, and CEP55, and promotes inhibition of CRYAB, PLCE1, and MMP28, that might lead to the progression of CRC (CTD). Pathway enrichment analysis revealed that SFN stimulated Transcriptional activation of RUNX2, AURKA activation by TPX2, IL-10 signaling, while inhibited Differentiation of White and Brown Adipocyte process, an underlying pathway which inactivation led to obesity (Cytoscape ClueGo + CluePedia, DAVID). Thus, genome signature of CRC patients could serve as important factor when addressing the risk-to-benefit profile of SFN. Patients with colon cancer and increased expression of TIMP1, CCL20, SPP1, AURKA, CEP55, NEK2, SOX9 and CDK1, or downregulation of CRYAB, PLCE1, MMP28, BMP2 and PLAC8 may not be ideal candidates for SFN chemoprevention.",
+  "type": "academic",
+  "pdf_url": ""
+}

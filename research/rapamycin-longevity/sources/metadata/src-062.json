@@ -1,0 +1,17 @@
+{
+  "id": "src-062",
+  "title": "Aging as an Event of Proteostasis Collapse",
+  "authors": [
+    "Taylor, Rebecca C.",
+    "Dillin, Andrew"
+  ],
+  "doi": "10.1101/cshperspect.a004440",
+  "url": "https://openalex.org/W2162871402",
+  "provider": "openalex",
+  "year": 2011,
+  "venue": "Cold Spring Harbor Perspectives in Biology",
+  "citation_count": 546,
+  "abstract": "Aging cells accumulate damaged and misfolded proteins through a functional decline in their protein homeostasis (proteostasis) machinery, leading to reduced cellular viability and the development of protein misfolding diseases such as Alzheimer's and Huntington's. Metabolic signaling pathways that regulate the aging process, mediated by insulin/IGF-1 signaling, dietary restriction, and reduced mitochondrial function, can modulate the proteostasis machinery in many ways to maintain a youthful proteome for longer and prevent the onset of age-associated diseases. These mechanisms therefore represent potential therapeutic targets in the prevention and treatment of such pathologies.",
+  "type": "academic",
+  "pdf_url": "http://cshperspectives.cshlp.org/content/3/5/a004440.full.pdf"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "src-185",
+  "title": "The Toxicity, Pathophysiology, and Treatment of Acute Hydrazine Propellant Exposure: A Systematic Review",
+  "authors": [
+    "Nguyen, HoanVu N",
+    "Chenoweth, James",
+    "Bebarta, Vikhyat S.",
+    "Albertson, Timothy E.",
+    "Nowadly, Craig D."
+  ],
+  "doi": "10.1093/milmed/usaa429",
+  "url": "https://openalex.org/W3105086121",
+  "provider": "openalex",
+  "year": 2020,
+  "venue": "Military Medicine",
+  "citation_count": 115,
+  "abstract": "Exposure to small amounts of hydrazine and its derivatives can cause significant soft tissue injury, pulmonary injury, seizures, coma, and death. Neurologic presentations can vary based on exposure compound and dose. Decontamination is critical as treatment is mainly supportive. High-dose intravenous pyridoxine has been suggested as treatment for hydrazine-related neurologic toxicity, but this recommendation is based on limited human data. Despite recent research efforts to generate less toxic alternatives to hydrazine fuel, it will likely continue to have a role in military and aviation industries. Aerospace and military physicians should be aware of the toxicity associated with hydrazine exposure and be prepared to treat hydrazine toxicity in at-risk populations.",
+  "type": "academic",
+  "pdf_url": "https://academic.oup.com/milmed/article-pdf/186/3-4/e319/36391331/usaa429.pdf"
+}

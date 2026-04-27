@@ -1,0 +1,22 @@
+{
+  "id": "src-082",
+  "title": "Calcific aortic valve stenosis: hard disease in the heart",
+  "authors": [
+    "Peeters, Frederique E.C.M.",
+    "Meex, Steven J.R.",
+    "Dweck, Marc R.",
+    "Aïkawa, Elena",
+    "Crijns, Harry J.G.M.",
+    "Schurgers, Leon J.",
+    "Kietselaer, Bas"
+  ],
+  "doi": "10.1093/eurheartj/ehx653",
+  "url": "https://openalex.org/W2767302812",
+  "provider": "openalex",
+  "year": 2017,
+  "venue": "European Heart Journal",
+  "citation_count": 196,
+  "abstract": "Calcific aortic valve stenosis (CAVS) is common in the ageing population and set to become an increasing economic and health burden. Once present, it inevitably progresses and has a poor prognosis in symptomatic patients. No medical therapies are proven to be effective in holding or reducing disease progression. Therefore, aortic valve replacement remains the only available treatment option. Improved knowledge of the mechanisms underlying disease progression has provided us with insights that CAVS is not a passive disease. Rather, CAVS is regulated by numerous mechanisms with a key role for calcification. Aortic valve calcification (AVC) is actively regulated involving cellular and humoral factors that may offer targets for diagnosis and intervention. The discovery that the vitamin K-dependent proteins are involved in the inhibition of AVC has boosted our mechanistic understanding of this process and has opened up novel avenues in disease exploration. This review discusses processes involved in CAVS progression, with an emphasis on recent insights into calcification, methods for imaging calcification activity, and potential therapeutic options.",
+  "type": "academic",
+  "pdf_url": "https://academic.oup.com/eurheartj/article-pdf/39/28/2618/25195304/ehx653.pdf"
+}

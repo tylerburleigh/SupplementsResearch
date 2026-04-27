@@ -1,0 +1,42 @@
+{
+  "id": "src-190",
+  "title": "The Effects of Curcumin on Glycemic Control and Lipid Profiles Among Patients with Metabolic Syndrome and Related Disorders: A Systematic Review and Metaanalysis of Randomized Controlled Trials",
+  "authors": [
+    "Tabrizi, Reza",
+    "Vakili, Sina",
+    "Lankarani, Kamran B.",
+    "Akbari, Maryam",
+    "Mirhosseini, Naghmeh",
+    "Ghayour-Mobarhan, Majid",
+    "Ferns, Gordon",
+    "Karamali, Fatemeh",
+    "Karamali, Maryam",
+    "Taghizadeh, Mohsen",
+    "Kouchaki, Ebrahim",
+    "Asemi, Zatollah"
+  ],
+  "year": 2018,
+  "abstract": "Background:\nThis systematic review and meta-analysis of randomized controlled trials (RCTs), were\nperformed to determine the effects of curcumin intake on glycemic control and lipid profiles among patients with\nmetabolic syndrome (MetS) and related disorders.\n\nMethods:\nWe searched the following databases up until January 2018: MEDLINE, EMBASE, Web of Science,\nand Cochrane Central Register of Controlled Trials. The relevant data were extracted and evaluated for quality of\nthe studies in accordance with the Cochrane risk of bias tool. Data were pooled using the inverse variance method\nand expressed as standardized mean difference (MDs) with 95% confidence intervals (95% CI).\n\nResults:\nTwenty-six trials with 1890 participants were included in the current meta-analysis. The findings demonstrated\nthe significant association between curcumin intake and reduced fasting glucose levels (SMD -0.78;\n95% CI, -1.20, -0.37; P&lt;0.001), homeostasis model of assessment-estimated insulin resistance (SMD -0.91; 95%\nCI, -1.52, -0.31; P=0.003) and HbA1c (SMD -0.92; 95% CI, -1.37, -0.47; P&lt;0.001). In addition, curcumin supplementation\nwas significantly associated with triglyceride (SMD -1.21; 95 % CI, -1.78, -0.65; P&lt;0.001) and total\ncholesterol reduction (SMD -0.73; 95 % CI, -1.32, -0.13; P= 0.01). However, curcumin intake significantly increased\ninsulin levels (SMD 0.92; 95% CI, 0.06, 1.78; P=0.036). We found no significant effect of curcumin\nsupplementation on LDL- (SMD -0.52; 95% CI, -1.14, 0.11; P=0.10) and HDL-cholesterol levels (SMD 0.28;\n95% CI, -0.22, 0.77; P=0.27).\n\nConclusion:\nOverall, curcumin consumption was associated with a significant reduction in fasting glucose,\nHOMA-IR, HbA1c, triglycerides and total cholesterol levels among patients with MetS and related disorders, but\ndid not affect LDL- and HDL-cholesterol levels.",
+  "doi": "10.2174/1381612824666180828162053",
+  "url": "https://doi.org/10.2174/1381612824666180828162053",
+  "pdf_url": "",
+  "venue": "Current Pharmaceutical Design",
+  "citation_count": 51,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-22T14:40:15.125716+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-190.md",
+  "quality_details": {
+    "content_length": 12460,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

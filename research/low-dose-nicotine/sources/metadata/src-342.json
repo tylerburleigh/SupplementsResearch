@@ -1,0 +1,20 @@
+{
+  "id": "src-342",
+  "title": "Nicotine in e-cigarette aerosol reduces GABA neuron migration via the α7 nicotinic acetylcholine receptor",
+  "authors": [
+    "Parnell, A.",
+    "McCarthy, Deirdre M.",
+    "Trupiano, Mia X.",
+    "Schatschneider, Chris",
+    "Bhide, P."
+  ],
+  "doi": "10.1038/s41598-025-19504-7",
+  "url": "https://www.semanticscholar.org/paper/bd076223adebb2956f7a9e3fbd83880abe4bde25",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "bioRxiv",
+  "citation_count": 0,
+  "abstract": "Prenatal nicotine exposure is linked to adverse neurodevelopmental outcomes, yet e-cigarette use during pregnancy continues to rise due to aggressive marketing efforts and misconceptions of safety. We investigated the effect of prenatal e-cigarette aerosol exposure on the migration of GABA neurons, a developmental process critical for the establishment of cerebral cortical circuitry. Pregnant mice were exposed to nicotine-containing aerosol (e-cigarette), nicotine-free aerosol (e-liquid) or room air (control) daily beginning 2 weeks before conception and continuing until gestational day 14. E-cigarette, but not e-liquid, aerosol significantly reduced GABA neuron density in the dorsal cerebral wall at rostral forebrain level and within the marginal zone, reflecting region-specific vulnerabilities. In vitro explant cultures revealed that nicotine dose-dependently reduced neuronal migration, and this effect was mimicked by a selective α7 nicotinic acetylcholine receptor (nAChR) agonist. Blocking the α7 nAChR using a selective antagonist attenuated the effects of nicotine on neuronal migration. These findings reveal a previously unrecognized vulnerability of GABA neuron migration to e-cigarette aerosol and identify α7 nAChR activation as a mechanism for nicotine-induced impairment of GABA neuron migration. Moreover, the findings highlight the need for translational efforts to update clinical guidance and public policy regarding e-cigarette use during pregnancy.",
+  "type": "academic",
+  "pdf_url": ""
+}

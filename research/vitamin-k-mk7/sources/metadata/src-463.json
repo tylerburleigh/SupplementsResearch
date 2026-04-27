@@ -1,0 +1,24 @@
+{
+  "id": "src-463",
+  "title": "Characterisation and potential diagnostic value of circulating matrix Gla protein (MGP) species",
+  "authors": [
+    "Cranenburg, Ellen",
+    "Koos, Ralf",
+    "Schurgers, Leon J.",
+    "Magdeleyns, Elke",
+    "Schoonbrood, Thea",
+    "Landewé, Robert B M",
+    "Brandenburg, Vincent",
+    "Bekers, Otto",
+    "Vermeer, Cees"
+  ],
+  "doi": "10.1160/th09-11-0786",
+  "url": "https://openalex.org/W1969513001",
+  "provider": "openalex",
+  "year": 2010,
+  "venue": "Thrombosis and Haemostasis",
+  "citation_count": 231,
+  "abstract": "Matrix γ-carboxyglutamate (Gla) protein (MGP) is an important local inhibitor of vascular calcification, which can undergo two post-translational modifications: vitamin K-dependent γ-glutamate carboxylation and serine phosphorylation. While carboxylation is thought to have effects upon binding of calcium-ions, phosphorylation is supposed to affect the cellular release of MGP. Since both modifications can be exerted incompletely, various MGP species can be detected in the circulation. MGP levels were measured with two commercially available competitive and two novel sandwich assays in healthy controls, in patients with rheumatic disease, aortic valve disease, and end-stage renal disease, as well as in volunteers after vitamin K supplementation (VKS) and treatment with vitamin K antagonists (VKA). Major differences were found between the MGP assays, including significantly different behaviour with regard to vascular disease and the response to VKA and VKS. The dual-antibody assay measuring non-phosphorylated, non-carboxylated MGP (dp-ucMGP) was particularly sensitive for these changes and would be suited to assess the vascular vitamin K status. We conclude that the different assays for particular circulating MGP species allows the assessment of various aspects of the MGP system.",
+  "type": "academic",
+  "pdf_url": ""
+}

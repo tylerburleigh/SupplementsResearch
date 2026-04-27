@@ -1,0 +1,32 @@
+{
+  "id": "src-190",
+  "title": "A cognitive energy crisis: A systematic review &amp; meta-analysis of effective interventions for pediatric cognitive fatigue post-acquired brain injury",
+  "authors": [
+    "Danson, Emily",
+    "Brunsdon, Ruth",
+    "Lane-Brown, Amanda",
+    "Oxenham, Vincent"
+  ],
+  "year": 2026,
+  "abstract": "",
+  "doi": "10.1080/09602011.2025.2540625",
+  "url": "https://doi.org/10.1080/09602011.2025.2540625",
+  "pdf_url": "",
+  "venue": "Neuropsychological Rehabilitation",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T14:05:27.558893+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-190.md",
+  "quality_details": {
+    "content_length": 82461,
+    "alpha_ratio": 0.681,
+    "sentence_count": 893,
+    "reasons": []
+  }
+}

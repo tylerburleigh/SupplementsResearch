@@ -1,0 +1,33 @@
+{
+  "id": "src-175",
+  "title": "Guidelines for diagnosis and management of the cobalamin‐related remethylation disorders cblC, cblD, cblE, cblF, cblG, cblJ and MTHFR deficiency",
+  "authors": [
+    "Huemer, Martina",
+    "Diodato, Daria",
+    "Schwahn, Bernd",
+    "Schiff, Manuel",
+    "Bandeira, Anabela",
+    "Benoist, Jean‐François",
+    "Burlina, Alberto",
+    "Cerone, R.",
+    "Couce, María L.",
+    "García‐Cazorla, Ángeles",
+    "Marca, Giancarlo la",
+    "Pasquini, Elisabetta",
+    "Vilarinho, Laura",
+    "Weisfeld‐Adams, James D.",
+    "Kožich, Viktor",
+    "Blom, Henk J.",
+    "Baumgartner, Matthias R.",
+    "Dionisi‐Vici, Carlo"
+  ],
+  "doi": "10.1007/s10545-016-9991-4",
+  "url": "https://openalex.org/W2557591007",
+  "provider": "openalex",
+  "year": 2016,
+  "venue": "Journal of Inherited Metabolic Disease",
+  "citation_count": 311,
+  "abstract": "We strongly recommend measuring plasma total homocysteine in any patient presenting with the combination of neurological and/or visual and/or haematological symptoms, subacute spinal cord degeneration, atypical haemolytic uraemic syndrome or unexplained vascular thrombosis. We strongly recommend to initiate treatment with parenteral hydroxocobalamin without delay in any suspected remethylation disorder; it significantly improves survival and incidence of severe complications. We strongly recommend betaine treatment in individuals with MTHFR deficiency; it improves the outcome and prevents disease when given early.",
+  "type": "academic",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1007/s10545-016-9991-4"
+}

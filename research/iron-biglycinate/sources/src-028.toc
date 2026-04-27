@@ -1,0 +1,21 @@
+81	2	Abstract
+131	2	Findings
+143	2	Introduction
+152	2	1 The WHO policy is based on
+240	2	34 The potential for
+263	2	42 As only some kinds of bacteria use iron, an increase
+268	2	37 Changes in the equilibrium of the gut micro-
+274	2	43 However, very few studies have investi-
+300	2	51 Due to its chemical composition,
+328	2	13 The iron group
+331	2	13 There is some emerging
+410	2	Methods And Analysis
+421	2	1. The
+432	2	Participants
+579	2	1. At baseline,
+735	2	59 Capillary haemoglobin electropho-
+742	2	60 DNA will be extracted from buffy coat using a
+751	2	61 Fresh stool, the extracted sample
+858	2	Ethics And Dissemination
+948	2	Competing Interests
+1003	2	References

@@ -1,0 +1,29 @@
+{
+  "id": "src-105",
+  "title": "Octreotide Subcutaneous Depot for Acromegaly: A Randomized, Double-blind, Placebo-controlled Phase 3 Trial, ACROINNOVA 1.",
+  "authors": [
+    "Ferone, Diego",
+    "Freda, Pamela",
+    "Katznelson, Laurence",
+    "Gatto, Federico",
+    "Kadioğlu, Pinar",
+    "Maffei, Pietro",
+    "Seufert, Jochen",
+    "Silverstein, Julie M",
+    "Spencer-Segal, Joanna L",
+    "Isaeva, Elena",
+    "Dreval, Alexander",
+    "Harrie, Maria",
+    "Svedberg, Agneta",
+    "Tiberg, Fredrik"
+  ],
+  "doi": "10.1210/clinem/dgae707",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39378125",
+  "provider": "pubmed",
+  "year": 2025,
+  "venue": "The Journal of clinical endocrinology and metabolism",
+  "citation_count": 0,
+  "abstract": "CONTEXT: Acromegaly, characterized by excessive GH and insulin-like growth factor-1 (IGF-1), impacts quality of life (QoL) and mortality. Standard of care (SoC; octreotide long-acting repeatable or lanreotide autogel) treatment typically requires healthcare provider administration. CAM2029, a novel subcutaneous octreotide depot with increased bioavailability using FluidCrystal technology, enables self-administration and room-temperature storage.\nOBJECTIVE: Assess superiority of CAM2029 vs placebo for biochemical control in patients with controlled acromegaly.\nDESIGN: 24-week, multinational, randomized, double-blind, phase 3 trial (NCT04076462).\nSETTING: 45 sites; 10 countries.\nPATIENTS: 72 patients on SoC with biochemical control at screening [IGF-1 ≤upper limit of normal (ULN); mean GH <2.5 μg/L].\nINTERVENTIONS: Patients were randomized 2:1 to once-monthly CAM2029 (n = 48) or placebo (n = 24).\nMAIN OUTCOME MEASURES: The primary endpoint was proportion of patients with IGF-1 ≤ULN (week 22/24 mean), with dose-reduced patients classified as nonresponders; first key secondary endpoint was the same, including dose-reduced responders. The second key secondary endpoint was proportion of patients with IGF-1 ≤ULN (week 22/24) and mean GH <2.5 μg/L (week 24).\nRESULTS: At week 22/24 (intention-to-treat analysis), CAM2029-treated patients demonstrated superior response rates vs placebo for IGF-1 (72.2% vs 37.5%; risk difference: 34.6, 95% confidence interval: 11.3, 57.9; P = .0018) and combined IGF-1/GH (70.0% vs 37.5%; P = .0035). CAM2029-treated patients had well-controlled symptoms, improved QoL, and treatment satisfaction vs placebo and baseline. CAM2029 was well tolerated; safety was consistent with SoC.\nCONCLUSION: CAM2029 provides a convenient and effective treatment option for acromegaly, with superior biochemical control vs placebo. Symptom control, QoL, and satisfaction were improved from baseline SoC.\nCLINICAL TRIAL REGISTRATION: NCT04076462 (ClinicalTrials.gov).",
+  "type": "academic",
+  "pdf_url": ""
+}

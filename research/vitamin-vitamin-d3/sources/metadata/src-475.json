@@ -1,0 +1,39 @@
+{
+  "id": "src-475",
+  "title": "Effect of cholecalciferol versus calcifediol on serum 25(OH)D concentrations: a systematic review with meta-analysis",
+  "authors": [
+    "Bouden, Selma",
+    "Ben Messaoud, Meriam",
+    "Saidane, Olfa",
+    "Rouached, Leila",
+    "Ben Tekaya, Aicha",
+    "Mahmoud, Ines",
+    "Tekaya, Rawdha",
+    "Dziri, Chedly",
+    "Abdelmoula, Leila"
+  ],
+  "year": 2025,
+  "abstract": "",
+  "doi": "10.1038/s41430-024-01520-x",
+  "url": "https://doi.org/10.1038/s41430-024-01520-x",
+  "pdf_url": "",
+  "venue": "European Journal of Clinical Nutrition",
+  "citation_count": 3,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T21:35:45.264255+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-475.md",
+  "quality_details": {
+    "content_length": 14544,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "src-061",
+  "title": "Determinants and vitamin responsiveness of intermediate hyperhomocysteinemia (&gt; or = 40 micromol/liter). The Hordaland Homocysteine Study.",
+  "authors": [
+    "Guttormsen, A. B.",
+    "Ueland, Per Magne",
+    "Nesthus, Ingerid",
+    "Nygård, Ottar",
+    "Schneede, Jørn",
+    "Vollset, S E",
+    "Refsum, Helga"
+  ],
+  "doi": "10.1172/jci119024",
+  "url": "https://openalex.org/W1966202709",
+  "provider": "openalex",
+  "year": 1996,
+  "venue": "Journal of Clinical Investigation",
+  "citation_count": 261,
+  "abstract": "From 1992-93, we screened 18,043 subjects, aged 40-67 yr, and found 67 cases (0.4%) with total plasma homocysteine (tHcy) > or = 40 micromol/liter. Compared to 329 controls, the cases had lower plasma folate and cobalamin levels, lower intake of vitamin supplements, consumed more coffee, and were more frequently smokers. Homozygosity for the C677T mutation in the methylenetetrahydrofolate reductase gene was observed in 73.1% of the cases and 10.2% of the controls. Only seven cases with cobalamin deficiency and one with homocystinuria received specific therapeutic instructions. 2 yr after the screening, 58 subjects were reinvestigated. 41 still had tHcy > 20 micromol/liter, and in 37 of these, intervention with low dose folic acid (0.2 mg/d) was started. Notably, 34 of 37 (92%) had homozygosity for the C677T mutation. Plasma tHcy was reduced in all but two after 7 wk, and became normal within 7 mo in 21 of 37 subjects. Most of the remaining subjects obtained a normal tHcy level with 5 mg/d of folic acid. We conclude that most subjects with hyperhomocysteinemia > or = 40 micromol/liter in the general population have the C677T mutation combined with low folate status. Daily supplement of low dose folic acid will reduce and often normalize their tHcy level.",
+  "type": "academic",
+  "pdf_url": "http://www.jci.org/articles/view/119024/files/pdf"
+}

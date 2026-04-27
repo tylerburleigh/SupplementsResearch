@@ -1,0 +1,14 @@
+5	2	Research
+14	2	Abstract
+51	2	Background
+104	2	Methods
+175	2	2012. Incident cases were identified using two sources: a
+251	2	Results
+352	2	Discussion
+461	2	Conclusions
+496	2	Acknowledgements
+524	2	Data Availability
+543	2	Competing Interests
+564	2	1 Polyphenol Research Group, Department of Nutrition, Food Science
+599	2	References
+697	2	30. Stram DO, Hankin JH, Wilkens LR, Park S, Henderson BE, Nomura AMY,

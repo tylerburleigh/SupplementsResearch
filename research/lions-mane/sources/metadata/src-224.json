@@ -1,0 +1,24 @@
+{
+  "id": "src-224",
+  "title": "Effect of long-term nutraceutical and dietary supplement use on cognition in the elderly: a 10-year systematic review of randomised controlled trials",
+  "authors": [
+    "D’Cunha, Nathan M.",
+    "Georgousopoulou, Ekavi",
+    "Dadigamuwage, Lakshika",
+    "Kellett, Jane",
+    "Panagiotakos, Demosthenes B.",
+    "Thomas, Jackson",
+    "McKune, Andrew J.",
+    "Mellor, Duane",
+    "Naumovski, Nenad"
+  ],
+  "doi": "10.1017/s0007114517003452",
+  "url": "https://openalex.org/W2773084604",
+  "provider": "openalex",
+  "year": 2018,
+  "venue": "British Journal Of Nutrition",
+  "citation_count": 68,
+  "abstract": "Nutraceuticals have generated interest as a way to mitigate the cognitive decline in older adults. The aim of this systematic review was to determine the evidence for these claims from the scientific literature in randomised, double-blinded, controlled trials (duration: ≥1 year; participants: n≥100; age(mean): ≥65 years). Following Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines, we searched four electronic databases (PubMed, Scopus, CINAHL and Web of Science) and identified twenty-five studies published between the 15·June·2006 and 14·June·2016. Interventions included B-vitamins, n-3 fatty acids, antioxidant vitamins and herbs. Of the B-vitamin studies, four found benefits to cognition with supplementation. The first of these B-vitamin studies, in individuals with mild cognitive impairment (n 266; duration=2 years), included benefit to executive function (P=0·015) and improvements in the Mini-Mental State Examination (MMSE) among participants with baseline homocysteine above 11·3 µmol/l (P<0·001). In the same sample, the second study found cognitive benefits of B-vitamins dependent on the higher baseline plasma n-3 fatty acid status. The third B-vitamin study (n 900; duration=2 years) reported improved performance in immediate (P=0·046) and delayed recall (P=0·013), whereas the fourth study (n 856; duration=2 years) reported slower rate of cognitive decline in the MMSE (P=0·05). One study investigating DHA treatment (n 402; duration=1·5 years) revealed the slower rate of cognitive change in apoE e4 non-carriers (P=0·03). As only five included studies revealed notable benefits, presently based on the specific compounds explored here, there is not compelling evidence to support the use nutraceuticals to improve cognition in the elderly. Future long-term trials of nutraceuticals should investigate interactions with lifestyle, blood biomarkers and genetic risk factors.",
+  "type": "academic",
+  "pdf_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/5BF11A8402650425B52F5D9EEF2D0C98/S0007114517003452a.pdf/div-class-title-effect-of-long-term-nutraceutical-and-dietary-supplement-use-on-cognition-in-the-elderly-a-10-year-systematic-review-of-randomised-controlled-trials-div.pdf"
+}

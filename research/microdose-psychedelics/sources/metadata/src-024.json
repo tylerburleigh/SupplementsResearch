@@ -1,0 +1,30 @@
+{
+  "id": "src-024",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "",
+  "pdf_url": "https://www.bu.edu/bulawreview/files/2023/10/MARKS.pdf",
+  "venue": "",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "",
+  "fetched_at": "2026-04-26T10:52:05.860387+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-024.md",
+  "quality_details": {
+    "content_length": 214390,
+    "alpha_ratio": 0.764,
+    "sentence_count": 2210,
+    "reasons": [
+      "low linebreak density (606 chars/break)",
+      "paywall_page (EUR)"
+    ]
+  }
+}

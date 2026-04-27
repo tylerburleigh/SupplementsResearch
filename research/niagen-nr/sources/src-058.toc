@@ -1,0 +1,26 @@
+4	2	Study Protocol
+87	2	Introduction
+182	2	Methods
+555	2	Expected Resul Ts
+573	2	Discussion
+676	2	Ethics Statement
+681	2	Author Contributions
+687	2	Funding
+691	2	Acknowledgments
+694	2	References
+695	2	1. Tsao CW, Aday AW, Almarzooq ZI, Alonso A, Beaton AZ, Bittencourt MS,
+699	2	2. Roth GA, Mensah GA, Johnson CO, Addolorato G, Ammirati E, Baddour LM,
+703	2	3. Whelton PK, Carey RM, Aronow WS, Casey DE, Collins KJ, Dennison
+731	2	10. Niiranen TJ, Lyass A, Larson MG, Hamburg NM, Benjamin EJ, Mitchell GF ,
+769	2	22. Martens CR, Denman BA, Mazzo MR, Armstrong ML, Reisdorph N,
+782	2	26. Clement DL, De Buyzere ML, De Bacquer DA, de Leeuw PW, Duprez DA,
+796	2	30. Mitchell GF , Hwang S-J, Vasan RS, Larson MG, Pencina MJ, Hamburg NM,
+800	2	31. Laurent S, Cockcroft J, Van Bortel L, Boutouyrie P , Giannattasio C, Hayoz
+804	2	32. Demarest TG, Truong GTD, Lovett J, Mohanty JG, Mattison JA, Mattson MP ,
+808	2	33. Vuillemin A, Oppert JM, Guillemin F , Essermeant L, Fontvieille AM, Galan P ,
+827	2	38. Subar AF , Kirkpatrick SI, Mittl B, Zimmerman TP , Thompson FE, Bingley
+839	2	41. Chini CCS, Peclat TR, Warner GM, Kashyap S, Espindola-Netto JM, de
+848	2	44. Gomes AP , Price NL, Ling AJY , Moslehi JJ, Montgomery MK, Rajman L,
+863	2	47. Schandelmaier S, Briel M, Saccilotto R, Olu KK, Arpagaus A, Hemkens LG,
+866	2	48. Trammell SAJ, Schmidt MS, Weidemann BJ, Redpath P , Jaksch F , Dellinger
+870	2	49. Craighead DH, Heinbockel TC, Freeberg KA, Rossman MJ, Jackman RA,

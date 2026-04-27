@@ -1,0 +1,20 @@
+{
+  "id": "src-293",
+  "title": "Sulforaphane reactivates cellular antioxidant defense by inducing Nrf2/ARE/Prdx6 activity during aging and oxidative stress",
+  "authors": [
+    "Kubo, Eri",
+    "Chhunchha, Bhavana",
+    "Singh, Prerna",
+    "Sasaki, Hiroshi",
+    "Singh, Dhirendra P."
+  ],
+  "doi": "10.1038/s41598-017-14520-8",
+  "url": "https://openalex.org/W2766209227",
+  "provider": "openalex",
+  "year": 2017,
+  "venue": "Scientific Reports",
+  "citation_count": 222,
+  "abstract": "Upon oxidative stress and aging, Nrf2 (NFE2-related factor2) triggers antioxidant defense genes to defends against homeostatic failure. Using human(h) or rat(r) lens epithelial cells (LECs) and aging human lenses, we showed that a progressive increase in oxidative load during aging was linked to a decline in Prdx6 expression. DNA binding experiments using gel-shift and ChIP assays demonstrated a progressive reduction in Nrf2/ARE binding (-357/-349) of Prdx6 promoter. The promoter (-918) with ARE showed a marked reduction in young vs aged hLECs, which was directly correlated to decreased Nrf2/ARE binding. A Nrf2 activator, Sulforaphane (SFN), augmented Prdx6, catalase and GSTπ expression in dose-dependent fashion, and halted Nrf2 dysregulation of these antioxidants. SFN reinforced Nrf2/DNA binding and increased promoter activities by enhancing expression and facilitating Nrf2 translocalization in nucleus. Conversely, promoter mutated at ARE site did not respond to SFN, validating the SFN-mediated restoration of Nrf2/ARE signaling. Furthermore, SFN rescued cells from UVB-induced toxicity in dose-dependent fashion, which was consistent with SFN's dose-dependent activation of Nrf2/ARE interaction. Importantly, knockdown of Prdx6 revealed that Prdx6 expression was prerequisite for SFN-mediated cytoprotection. Collectively, our results suggest that loss of Prdx6 caused by dysregulation of ARE/Nrf2 can be attenuated through a SFN, to combat diseases associated with aging.",
+  "type": "academic",
+  "pdf_url": "https://www.nature.com/articles/s41598-017-14520-8.pdf"
+}

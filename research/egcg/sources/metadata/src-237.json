@@ -1,0 +1,18 @@
+{
+  "id": "src-237",
+  "title": "Quercetin increased bioavailability and decreased methylation of green tea polyphenols in vitro and in vivo.",
+  "authors": [
+    "Wang, Piwen",
+    "Heber, David",
+    "Henning, Susanne M"
+  ],
+  "doi": "10.1039/c2fo10254d",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/22438067",
+  "provider": "pubmed",
+  "year": 2012,
+  "venue": "Food & function",
+  "citation_count": 0,
+  "abstract": "The extensive methylation of green tea polyphenols (GTPs) in vivo may limit their chemopreventive potential. We investigated whether quercetin, a natural inhibitor of catechol-O-methyltransferase (COMT) and multidrug resistance proteins (MRPs), will differentially increase the intracellular concentration and decrease the methylation of GTPs in different cancer cell lines. Intrinsic COMT activity was lowest in lung cancer A549 cells, intermediate in kidney 786-O cells and highest in liver HepG2 cells. Quercetin increased the cellular absorption of epigallocatechin gallate (EGCG) four-fold in A549 cells with a decreased methylation rate from 63 to 19%, 2-fold in 786-O cells with a decreased methylation from 97% to 56%, while no significant effect was observed in HepG2 cells. The combination significantly decreased the activity and protein expression of COMT and decreased the protein expression of MRP1 compared to individual treatments. The combination exhibited the strongest increase in antiproliferation in A549 cells, an intermediate effect in 786-O cells and lowest effect in HepG2 cells. The effect of quercetin on bioavailability and metabolism of GTPs was confirmed in vivo. Severe combined immunodeficiency (SCID) mice were administered brewed green tea (GT) and a diet supplemented with 0.4% quercetin alone or in combination for 2 weeks. We observed a 2- to 3-fold increase of total and non-methylated EGCG in lung and kidney and an increasing trend in liver. In summary, combining quercetin with GT provides a promising approach to enhance the chemoprevention of GT. Responses of different cancers to the combination may vary by tissue depending on the intrinsic COMT and MRP activity.",
+  "type": "academic",
+  "pdf_url": ""
+}

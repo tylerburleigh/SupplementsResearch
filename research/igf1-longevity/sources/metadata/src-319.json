@@ -1,0 +1,20 @@
+{
+  "id": "src-319",
+  "title": "Cholesterol regulates DAF-16 nuclear localization and fasting-induced longevity in C. elegans.",
+  "authors": [
+    "Ihara, Akiko",
+    "Uno, Masaharu",
+    "Miyatake, Koichi",
+    "Honjoh, Sakiko",
+    "Nishida, Eisuke"
+  ],
+  "doi": "10.1016/j.exger.2016.10.011",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/27989925",
+  "provider": "pubmed",
+  "year": 2017,
+  "venue": "Experimental gerontology",
+  "citation_count": 0,
+  "abstract": "Cholesterol has attracted significant attention as a possible lifespan regulator. It has been reported that serum cholesterol levels have an impact on mortality due to age-related disorders such as cardiovascular disease. Diet is also known to be an important lifespan regulator. Dietary restriction retards the onset of age-related diseases and extends lifespan in various organisms. Although cholesterol and dietary restriction are known to be lifespan regulators, it remains to be established whether cholesterol is involved in dietary restriction-induced longevity. Here, we show that cholesterol deprivation suppresses longevity induced by intermittent fasting, which is one of the dietary restriction regimens that effectively extend lifespan. We also found that cholesterol is required for the fasting-induced upregulation of transcriptional target genes such as the insulin/IGF-1 pathway effector DAF-16 and that cholesterol deprivation suppresses the long lifespan of the insulin/IGF-1 receptor daf-2 mutant. Remarkably, we found that cholesterol plays an important role in the fasting-induced nuclear accumulation of DAF-16. Moreover, knockdown of the cholesterol-binding protein NSBP-1, which has been shown to bind to DAF-16 in a cholesterol-dependent manner and to regulate DAF-16 activity, suppresses both fasting-induced longevity and DAF-16 nuclear accumulation. Furthermore, this suppression was not additive to the cholesterol deprivation-induced suppression, which suggests that NSBP-1 mediates, at least in part, the action of cholesterol to promote fasting-induced longevity and DAF-16 nuclear accumulation. These findings identify a novel role for cholesterol in the regulation of lifespan.",
+  "type": "academic",
+  "pdf_url": ""
+}

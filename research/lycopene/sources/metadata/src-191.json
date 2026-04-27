@@ -1,0 +1,18 @@
+{
+  "id": "src-191",
+  "title": "Effect of lycopene on androgen receptor and prostate-specific antigen velocity.",
+  "authors": [
+    "Zhang, Xin",
+    "Wang, Qi",
+    "Neil, Barber",
+    "Chen, Xiao"
+  ],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/20819671",
+  "provider": "pubmed",
+  "year": 2010,
+  "venue": "Chinese medical journal",
+  "citation_count": 0,
+  "abstract": "BACKGROUND: There is increasing interest in the role of dietary factors in both the development and behaviour of prostate cancer. This study was carried out to evaluate the impact of the dietary factor lycopene on DNA synthesis, activity and expression of the androgen receptor gene element in prostate LnCaP cells and to report our pilot phase II study investigating its effect on prostate-specific antigen velocity over one year.\nMETHODS: LnCaP cells were grown with or without different concentrations of lycopene or tetrahydrofuran (THF solvent) added to the culture medium for 48 hours. DNA synthesis was measured by the incorporation of bromodeoxyuridine (Brdu) into DNA during a 4-hour pulse, followed by immunostaining and visualization of stained cells using fluorescence microscopy. A transient transfection of a plasmid DNA recombinant containing an androgen receptor element-luciferase (ARE-Luc) report gene into LnCaP cells was developed and the impact of different concentrations of lycopene on the androgen receptor element was reflected by quantitative analysis of the luciferase enzyme function. Expression of the androgen gene was also studied by Western blotting. The phase II pilot study patients (n=41) previously diagnosed with prostate cancer were enrolled and given lycopene supplement, 10 mg per day, and response was measured by observing changes in the plasma prostate-specific antigen (PSA) levels.\nRESULTS: The addition of 0.5 micromol/L, 5 micromol/L, 10 micromol/L and 15 micromol/L of lycopene was shown to inhibit cell growth by 2.66%, 4.29%, 3.73% and 13.66%, respectively, compared with the THF solvent control samples (P=0.015). As compared with the RPMI1640 medium group, cell proliferation in the presence of 5 micromol/L, 10 micromol/L, and 15 micromol/L lycopene was inhibited by 8.12%, 6.33% and 12.00%, respectively (P=0.024). We showed for the first time that lycopene inhibited the activity of the androgen receptor gene element in a dose-related manner. Inhibition was seen in the transcription of the luciferase construct and confirmed by androgen receptor element expression assayed by Western blotting. Regression slopes of (log) PSA vs. time decreased in 26/37 (70%, 95%CI 53%-84%) of the patients after supplementation and in eight cases (21%) the post-treatment slope was negative. For these eight patients, the average fall in PSA was equivalent to 2% over 28 days (i.e. an average slope/d of -0.000713). The Wilcoxon rank-sum test showed an overall statistically significant decrease in slope (P=0.0007). Analysis of the PSA doubling time (pretreatment vs. posttreatment) showed a median increase after supplementation for 174 days; however, this was not statistically significant (P=0.18).\nCONCLUSIONS: Lycopene as an antioxidant dietary factor could significantly inhibit DNA synthesis in a dose-dependent pattern; the result revealed lycopene might inhibit androgen receptor gene element activity and expression. Dietary lycopene may play an important role in prostate cancer cell proliferation and further supports a large randomized study into the role of lycopene supplementation in malignant prostate disease.",
+  "type": "academic",
+  "pdf_url": ""
+}

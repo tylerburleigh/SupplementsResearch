@@ -1,0 +1,19 @@
+{
+  "id": "src-328",
+  "title": "Understanding the Effectiveness of Natural Compound Mixtures in Cancer through Their Molecular Mode of Action",
+  "authors": [
+    "Aung, Thazin Nwe",
+    "Qu, Zhipeng",
+    "Kortschak, R. Daniel",
+    "Adelson, David L."
+  ],
+  "doi": "10.3390/ijms18030656",
+  "url": "https://openalex.org/W2595346203",
+  "provider": "openalex",
+  "year": 2017,
+  "venue": "International Journal of Molecular Sciences",
+  "citation_count": 316,
+  "abstract": "Many approaches to cancer management are often ineffective due to adverse reactions, drug resistance, or inadequate target specificity of single anti-cancer agents. In contrast, a combinatorial approach with the application of two or more anti-cancer agents at their respective effective dosages can achieve a synergistic effect that boosts cytotoxicity to cancer cells. In cancer, aberrant apoptotic pathways allow cells that should be killed to survive with genetic abnormalities, leading to cancer progression. Mutations in apoptotic mechanism arising during the treatment of cancer through cancer progression can consequently lead to chemoresistance. Natural compound mixtures that are believed to have multiple specific targets with minimal acceptable side-effects are now of interest to many researchers due to their cytotoxic and chemosensitizing activities. Synergistic interactions within a drug mixture enhance the search for potential molecular targets in cancer cells. Nonetheless, biased/flawed scientific evidence from natural products can suggest false positive therapeutic benefits during drug screening. In this review, we have taken these factors into consideration when discussing the evidence for these compounds and their synergistic therapeutic benefits in cancer. While there is limited evidence for clinical efficacy for these mixtures, in vitro data suggest that these preparations merit further investigation, both in vitro and in vivo.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/1422-0067/18/3/656/pdf?version=1489740148"
+}

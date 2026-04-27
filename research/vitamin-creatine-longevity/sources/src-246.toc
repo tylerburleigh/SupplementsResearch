@@ -1,0 +1,21 @@
+20	2	Abstract
+50	2	Background
+131	2	Methods
+165	2	Participants
+357	2	1  We used the score after supplementation and not change from baseline,
+372	2	Results
+614	2	Discussion
+789	2	3  One of the studies with omnivores that did not find an effect was on chil-
+1020	2	Limitations
+1071	2	Conclusions
+1115	2	Acknowledgements
+1155	2	Competing Interests
+1167	2	References
+1168	2	1. Kreider RB, Kalman DS, Antonio J, Ziegenfuss TN, Wildman R, Collins R,
+1224	2	20. Wilkinson ID, Mitchel N, Breivik S, Greenwood P , Griffiths PD, Winter EM,
+1301	2	49. Forbes SC, Cordingley DM, Cornish SM, Gualano B, Roschel H, Ostojic SM,
+1324	2	57. VAN Cutsem J, Roelands B, Pluym B, Tassignon B, Verschueren JO, De
+1329	2	59. Samadi M, Askarian A, Shirvani H, Shamsoddini A, Shakibaee A, Forbes
+1360	2	68. Prokopidis K, Giannos P , Triantafyllidis KK, Kechagias KS, Forbes SC, Can-
+1364	2	69. Prokopidis K, Giannos P , Triantafyllidis KK, Kechagias KS, Forbes SC,
+1393	2	78. Bodner-Montville J, Ahuja JKC, Ingwersen LA, Haggerty ES, Enns CW,

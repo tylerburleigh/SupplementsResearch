@@ -1,0 +1,38 @@
+{
+  "id": "src-162",
+  "title": "Curcumin as an Add-On to Antidepressive Treatment",
+  "authors": [
+    "Bergman, Joseph",
+    "Miodownik, Chanoch",
+    "Bersudsky, Yuly",
+    "Sokolik, Shmuel",
+    "Lerner, Paul P.",
+    "Kreinin, Anatoly",
+    "Polakiewicz, Jacob",
+    "Lerner, Vladimir"
+  ],
+  "year": 2013,
+  "abstract": "",
+  "doi": "10.1097/wnf.0b013e31828ef969",
+  "url": "https://doi.org/10.1097/wnf.0b013e31828ef969",
+  "pdf_url": "",
+  "venue": "Clinical Neuropharmacology",
+  "citation_count": 78,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-22T14:38:45.289546+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-162.md",
+  "quality_details": {
+    "content_length": 2868,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

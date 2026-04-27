@@ -1,0 +1,20 @@
+{
+  "id": "src-353",
+  "title": "Abstract 7149: The paradoxical role of SIRT1 in glioblastoma mediated by the tumor microenvironment",
+  "authors": [
+    "Mnahal, Anza",
+    "Tang, Wanjun",
+    "Chen, Bo",
+    "Kiang, Karrie M.",
+    "Leung, G."
+  ],
+  "doi": "10.1158/1538-7445.am2026-7149",
+  "url": "https://www.semanticscholar.org/paper/a3d3efa7952bd239370149021d18ca401c0fe8e4",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "Cancer Research",
+  "citation_count": 0,
+  "abstract": "SIRT1, a NAD+-dependent deacetylase, plays a complex role in glioblastoma (GBM), with debates surrounding its function as either a promoter or suppressor of tumorigenesis. This study aims to understand the double roles of SIRT1 in GBM incorporating in vivo and in vitro models. We conducted a series of experimentation to understand the role of SIRT1 starting with comprehensive analysis of SIRT1 expression in patient datasets, followed by SIRT1 knockdown studies in various GBM cell lines (U87, U251, and patient-derived cells) and in orthotopic, subcutaneous and intracranial tumor induction in animal models. Pharmacological interventions using SIRT1 inhibitors were also employed. Our studies uncovered that higher the SIRT 1 expression level, better is the survival in low grade glioblastomas. On the other hand, knockdown of SIRT1 did not affect the in vitro cell proliferation or migration. However, there was significant effect of SIRT1 knockdown on tumor growth. The tumor growth decreased in both intracranial and subcutaneous models. Furthermore, we observed an altered interaction dynamics between tumor cells and the surrounding neurons, caused by SIRT1 knockdown. This indicates that the influence of tumor microenvironment on SIRT1's functional role. This study reveals the dual role of SIRT1 in GBM, highlighting it as a potential therapeutic target. The paradoxical role of SIRT1 inhibition in various models proves the importance of the tumor microenvironment in shaping GBM biology also providing a future target to study.\n\nAnza Mnahal, Wanjun Tang, Bo Chen, Karrie Mei Kiang, Gilberto Ka Leung., . The paradoxical role of SIRT1 in glioblastoma mediated by the tumor microenvironment [abstract]. In: Proceedings of the American Association for Cancer Research Annual Meeting 2026; Part 1 (Regular Abstracts); 2026 Apr 17-22; San Diego, CA. Philadelphia (PA): AACR; Cancer Res 2026;86(7 Suppl):Abstract nr 7149.",
+  "type": "academic",
+  "pdf_url": ""
+}

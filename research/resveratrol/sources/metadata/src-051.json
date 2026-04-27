@@ -1,0 +1,17 @@
+{
+  "id": "src-051",
+  "title": "Effects of resveratrol on the anthropometric indices and inflammatory markers: an umbrella meta-analysis.",
+  "authors": [
+    "Molani-Gol, Roghayeh",
+    "Rafraf, Maryam"
+  ],
+  "doi": "10.1007/s00394-024-03335-9",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38374352",
+  "provider": "pubmed",
+  "year": 2024,
+  "venue": "European journal of nutrition",
+  "citation_count": 0,
+  "abstract": "BACKGROUND: The evidence for resveratrol's anti-obesity and anti-inflammatory qualities is accumulating, though meta-analyses have reported mixed results. The current umbrella meta-analysis aimed to assess the present evidence and provide an accurate estimate of the overall effects of resveratrol on the anthropometric indices and inflammatory markers.\nMETHOD: The Web of Science, PubMed, Scopus, and Google Scholar databases were searched till March 2023. The meta-analysis was performed utilizing a random-effects model. Moreover, the overall strength and quality of the evidence were assessed using the GRADE tool.\nRESULTS: The results from 19 meta-analyses investigating 81 unique randomized controlled trials with 4088 participants revealed that resveratrol supplementation reduced the body mass index (ES =  - 0.119, 95% CI (- 0.192, - 0.047), p = 0.001), waist circumference (ES =  - 0.405, 95% CI [- 0.664, - 0.147], p = 0.002), serum levels of C-reactive protein (ES =  - 0.390, 95% CI [- 0.474, - 0.306], p < 0.001), and tumor necrosis factor-α (ES =  - 0.455, 95% CI [- 0.592, - 0.318], p < 0.001) in comparison to the control group. The effects of resveratrol on body weight and Interleukin-6 levels of participants were not significant. However, resveratrol administration significantly decreased body weight in trials with intervention duration ≥ 12 weeks [ES =  - 0.160, 95% CI (- 0.268, - 0.052)] and supplement dosage ≥ 500 mg/day [ES =  - 0.130, 95% CI (- 0.238, - 0.022)].\nCONCLUSION: The findings suggest the beneficial effects of resveratrol supplementation on reducing general and central obesity, as well as decreasing some inflammatory markers. Nevertheless, further high-quality research is required to prove these achievements and also evaluate resveratrol's effects on other inflammatory markers.",
+  "type": "academic",
+  "pdf_url": ""
+}

@@ -1,0 +1,30 @@
+{
+  "id": "src-132",
+  "title": "Developmental and Neurobehavioral Toxicity of Hexaphenoxycyclotriphosphazene: Implications for Its Safety as a Flame-Retardant Alternative to Triphenyl Phosphate.",
+  "authors": [
+    "Bai, Ruobing",
+    "Xian, Hongyi",
+    "Feng, Yu",
+    "Huang, Xiyun",
+    "Tang, Shiyue",
+    "Li, Zhiming",
+    "Zhang, Long",
+    "Zhong, Yizhou",
+    "Wu, Wanyan",
+    "Tang, Jiangpeng",
+    "Gao, Chudan",
+    "Yan, Li",
+    "Zhong, Xinguang",
+    "Chen, Da",
+    "Huang, Zhenlie"
+  ],
+  "doi": "10.1021/acs.est.5c07209",
+  "url": "https://www.semanticscholar.org/paper/47d5da6e4abc7704f9960bcb643a80fd56ecb650",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "Environmental Science and Technology",
+  "citation_count": 3,
+  "abstract": "Hexaphenoxycyclotriphosphazene (HPCTP) has been introduced as a halogen-free replacement for the flame-retardant triphenyl phosphate (TPhP); however, its environmental behavior and toxicological safety remain poorly defined. Here, using zebrafish larvae with TPhP as a benchmark, we systematically evaluated the developmental and neurobehavioral toxicity of HPCTP at environmentally relevant concentrations (50-5000 ng/L) from 6 to 120 h postfertilization. HPCTP showed greater bioaccumulation potential than TPhP, suggesting the risk of long-term ecological persistence. Despite lower acute toxicity, HPCTP induced pronounced developmental defects, including reduced body length and cardiac malformations. Strikingly, HPCTP and TPhP produced divergent neurobehavioral outcomes. HPCTP caused dose-dependent depression-like behaviors (hypoactivity, light-zone avoidance) through suppression of serotonin 1A (5-HT1A) signaling, supported by decreased htr1aa expression and serotonin levels and partially rescued by the 5-HT1A receptor agonist 8-OH-DPAT. By contrast, TPhP elicited anxiety-like phenotypes (hyperactivity, thigmotaxis) via CD83-dependent neuroinflammation, evidenced by decreased cd83 expression and microglial activation, which were reversed by cd83 overexpression. Taken together, these findings demonstrate that HPCTP, though marketed as a safer alternative, poses distinct developmental and neurobehavioral hazards, underscoring the urgent need for comprehensive risk evaluation prior to its widespread application.",
+  "type": "academic",
+  "pdf_url": ""
+}

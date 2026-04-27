@@ -1,0 +1,33 @@
+{
+  "id": "src-271",
+  "title": "Protective Effects of Indian Spice Curcumin Against Amyloid-β in Alzheimer’s Disease",
+  "authors": [
+    "Reddy, P. Hemachandra",
+    "Mańczak, Maria",
+    "Yin, Xiangling",
+    "Grady, Mary Catherine",
+    "Mitchell, Andrew",
+    "Tonk, Sahil",
+    "Kuruva, Chandra Sekhar",
+    "Bhatti, Jasvinder Singh",
+    "Kandimalla, Ramesh",
+    "Vijayan, Murali",
+    "Kumar, Subodh",
+    "Wang, Rui",
+    "Pradeepkiran, Jangampalli Adi",
+    "Ogunmokun, Gilbert",
+    "Thamarai, Kavya",
+    "Quesada, Kandi",
+    "Boles, Annette",
+    "Reddy, Arubala P."
+  ],
+  "doi": "10.3233/jad-170512",
+  "url": "https://openalex.org/W2784122958",
+  "provider": "openalex",
+  "year": 2018,
+  "venue": "Journal of Alzheimer s Disease",
+  "citation_count": 345,
+  "abstract": "The purpose of our article is to assess the current understanding of Indian spice, curcumin, against amyloid-β (Aβ)-induced toxicity in Alzheimer's disease (AD) pathogenesis. Natural products, such as ginger, curcumin, and gingko biloba have been used as diets and dietary supplements to treat human diseases, including cancer, cardiovascular, respiratory, infectious, diabetes, obesity, metabolic syndromes, and neurological disorders. Products derived from plants are known to have protective effects, including anti-inflammatory, antioxidant, anti-arthritis, pro-healing, and boosting memory cognitive functions. In the last decade, several groups have designed and synthesized curcumin and its derivatives and extensively tested using cell and mouse models of AD. Recent research on Aβ and curcumin has revealed that curcumin prevents Aβ aggregation and crosses the blood-brain barrier, reach brain cells, and protect neurons from various toxic insults of aging and Aβ in humans. Recent research has also reported that curcumin ameliorates cognitive decline and improves synaptic functions in mouse models of AD. Further, recent groups have initiated studies on elderly individuals and patients with AD and the outcome of these studies is currently being assessed. This article highlights the beneficial effects of curcumin on AD. This article also critically assesses the current limitations of curcumin's bioavailability and urgent need for new formulations to increase its brain levels to treat patients with AD.",
+  "type": "academic",
+  "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/5796761"
+}

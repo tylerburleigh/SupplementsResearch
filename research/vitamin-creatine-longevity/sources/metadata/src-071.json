@@ -1,0 +1,32 @@
+{
+  "id": "src-071",
+  "title": "Serial Ingestion or Co-ingestion of Creatine and Sodium Bicarbonate on Performance Following a Resistance Exercise Workout: A Pilot Study",
+  "authors": [
+    "Ispoglou, Theocharis",
+    "Legget, David",
+    "Driscoll, James",
+    "Kaldaridou, Kyriaki"
+  ],
+  "year": 2016,
+  "abstract": "",
+  "doi": "10.30958/ajspo.3-3-2",
+  "url": "https://doi.org/10.30958/ajspo.3-3-2",
+  "pdf_url": "",
+  "venue": "Athens Journal of Sports",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T13:41:13.646969+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-071.md",
+  "quality_details": {
+    "content_length": 46185,
+    "alpha_ratio": 0.728,
+    "sentence_count": 661,
+    "reasons": []
+  }
+}

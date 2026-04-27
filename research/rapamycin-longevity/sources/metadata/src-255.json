@@ -1,0 +1,24 @@
+{
+  "id": "src-255",
+  "title": "Multifaceted role of mTOR (mammalian target of rapamycin) signaling pathway in human health and disease",
+  "authors": [
+    "Panwar, Vivek",
+    "Singh, Aishwarya",
+    "Bhatt, Manini",
+    "Tonk, Rajiv Kumar",
+    "Azizov, Shavkatjon",
+    "Raza, Agha Saquib",
+    "Sengupta, Shinjinee",
+    "Kumar, Deepak",
+    "Garg, Manoj"
+  ],
+  "doi": "10.1038/s41392-023-01608-z",
+  "url": "https://openalex.org/W4387230320",
+  "provider": "openalex",
+  "year": 2023,
+  "venue": "Signal Transduction and Targeted Therapy",
+  "citation_count": 787,
+  "abstract": "The mammalian target of rapamycin (mTOR) is a protein kinase that controls cellular metabolism, catabolism, immune responses, autophagy, survival, proliferation, and migration, to maintain cellular homeostasis. The mTOR signaling cascade consists of two distinct multi-subunit complexes named mTOR complex 1/2 (mTORC1/2). mTOR catalyzes the phosphorylation of several critical proteins like AKT, protein kinase C, insulin growth factor receptor (IGF-1R), 4E binding protein 1 (4E-BP1), ribosomal protein S6 kinase (S6K), transcription factor EB (TFEB), sterol-responsive element-binding proteins (SREBPs), Lipin-1, and Unc-51-like autophagy-activating kinases. mTOR signaling plays a central role in regulating translation, lipid synthesis, nucleotide synthesis, biogenesis of lysosomes, nutrient sensing, and growth factor signaling. The emerging pieces of evidence have revealed that the constitutive activation of the mTOR pathway due to mutations/amplification/deletion in either mTOR and its complexes (mTORC1 and mTORC2) or upstream targets is responsible for aging, neurological diseases, and human malignancies. Here, we provide the detailed structure of mTOR, its complexes, and the comprehensive role of upstream regulators, as well as downstream effectors of mTOR signaling cascades in the metabolism, biogenesis of biomolecules, immune responses, and autophagy. Additionally, we summarize the potential of long noncoding RNAs (lncRNAs) as an important modulator of mTOR signaling. Importantly, we have highlighted the potential of mTOR signaling in aging, neurological disorders, human cancers, cancer stem cells, and drug resistance. Here, we discuss the developments for the therapeutic targeting of mTOR signaling with improved anticancer efficacy for the benefit of cancer patients in clinics.",
+  "type": "academic",
+  "pdf_url": "https://www.nature.com/articles/s41392-023-01608-z.pdf"
+}

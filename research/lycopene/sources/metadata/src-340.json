@@ -1,0 +1,25 @@
+{
+  "id": "src-340",
+  "title": "The Role and Safety of Plant-Derived Nutraceuticals as Adjuvant Treatments for Pain Management: A Narrative Review",
+  "authors": [
+    "Marcianò, Gianmarco",
+    "Rania, Vincenzo",
+    "Vocca, Cristina",
+    "Palleria, Caterina",
+    "Crudo, Michele",
+    "Evangelista, Maurizio",
+    "Abrego-Guandique, Diana Marisol",
+    "Caroleo, Maria Cristina",
+    "Gallelli, Luca",
+    "Srečec, Siniša"
+  ],
+  "doi": "10.3390/nutraceuticals5040038",
+  "url": "https://openalex.org/W4416322239",
+  "provider": "openalex",
+  "year": 2025,
+  "venue": "Nutraceuticals",
+  "citation_count": 0,
+  "abstract": "Chronic pain represents a major challenge for healthcare systems worldwide. Pharmacological agents such as opioids, gabapentinoids, and non-steroidal anti-inflammatory drugs (NSAIDs) are commonly used depending on the pain type (nociceptive, neuropathic, or nociplastic), but their use is often limited by adverse effects. Nutraceuticals and dietary supplements have emerged as potential adjuvants to conventional pain management, offering improved safety profiles. This narrative review aims to evaluate the preliminary evidence on the efficacy and safety of selected plant-derived nutraceuticals for pain management. Particular attention is given to a new fixed nutraceutical formulation containing lycopene, sulforaphane (Brassica oleracea), silymarin (extracted from Silybum marianum), reduced glutathione, escin (Aesculus hippocastanum), tryptophan, and green tea (Camellia sinensis). Although this formulation has not yet been evaluated in clinical trials, preliminary data suggest that individual components may target different pain mechanisms. None of the currently available nutraceuticals act comprehensively on all pain types. Additionally, the inclusion of hepatoprotective compounds (e.g., glutathione and silymarin) may be advantageous for patients receiving multiple medications. Current evidence on these nutraceuticals remains limited and primarily preclinical. Further randomized controlled trials are needed to confirm their efficacy and safety in human pain management.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/1661-3821/5/4/38/pdf?version=1763473560"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "src-120",
+  "title": "Classification of four distinct osteoarthritis subtypes with a knee joint tissue transcriptome atlas",
+  "authors": [
+    "Yuan, Chunhui",
+    "Pan, Zongyou",
+    "Zhao, Kun",
+    "Li­, ­Jun",
+    "Sheng, Zixuan",
+    "Yao, Xudong",
+    "Liu, Hua",
+    "Zhang, Xiaolei",
+    "Yang, Yang",
+    "Yu, Dongsheng",
+    "Zhang, Yu",
+    "Xu, Yuzi",
+    "Zhang, Zhiyong",
+    "Huang, Tianlong",
+    "Liu, Wanlu",
+    "Ouyang, Hongwei"
+  ],
+  "doi": "10.1038/s41413-020-00109-x",
+  "url": "https://openalex.org/W3101709158",
+  "provider": "openalex",
+  "year": 2020,
+  "venue": "Bone Research",
+  "citation_count": 117,
+  "abstract": "The limited molecular classifications and disease signatures of osteoarthritis (OA) impede the development of prediagnosis and targeted therapeutics for OA patients. To classify and understand the subtypes of OA, we collected three types of tissue including cartilage, subchondral bone, and synovium from multiple clinical centers and constructed an extensive transcriptome atlas of OA patients. By applying unsupervised clustering analysis to the cartilage transcriptome, OA patients were classified into four subtypes with distinct molecular signatures: a glycosaminoglycan metabolic disorder subtype (C1), a collagen metabolic disorder subtype (C2), an activated sensory neuron subtype (C3), and an inflammation subtype (C4). Through ligand-receptor crosstalk analysis of the three knee tissue types, we linked molecular functions with the clinical symptoms of different OA subtypes. For example, the Gene Ontology functional term of vasculature development was enriched in the subchondral bone-cartilage crosstalk of C2 and the cartilage-subchondral bone crosstalk of C4, which might lead to severe osteophytes in C2 patients and apparent joint space narrowing in C4 patients. Based on the marker genes of the four OA subtypes identified in this study, we modeled OA subtypes with two independent published RNA-seq datasets through random forest classification. The findings of this work contradicted traditional OA diagnosis by medical imaging and revealed distinct molecular subtypes in knee OA patients, which may allow for precise diagnosis and treatment of OA.",
+  "type": "academic",
+  "pdf_url": "https://www.nature.com/articles/s41413-020-00109-x.pdf"
+}

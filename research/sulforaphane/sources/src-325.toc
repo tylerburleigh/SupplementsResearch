@@ -1,0 +1,7 @@
+32	2	1. Introduction and Overview
+75	2	2. Keratinization at a Glance
+243	3	3.2. Lessons from Lor-Deficient Mice: Quasi-Normalcy is not Synonymous with Normalcy
+274	3	3.2. Lessons from Lor-Deficient Mice: Quasi-Normalcy is not Synonymous with Normalcy
+676	3	4.3. Epidermal Barrier Repair in LKO Mice
+729	2	5. Concluding Remarks
+855	2	References

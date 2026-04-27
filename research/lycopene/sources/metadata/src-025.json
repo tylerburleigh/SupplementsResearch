@@ -1,0 +1,32 @@
+{
+  "id": "src-025",
+  "title": "The Epidemiology of Prostate Cancer",
+  "authors": [
+    "Pernar, Claire H.",
+    "Ebot, Ericka M.",
+    "Wilson, Kathryn M.",
+    "Mucci, Lorelei A."
+  ],
+  "year": 2018,
+  "abstract": "",
+  "doi": "10.1101/cshperspect.a030361",
+  "url": "https://doi.org/10.1101/cshperspect.a030361",
+  "pdf_url": "",
+  "venue": "Cold Spring Harbor Perspectives in Medicine",
+  "citation_count": 638,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-19T18:29:34.614854+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-025.md",
+  "quality_details": {
+    "content_length": 82393,
+    "alpha_ratio": 0.741,
+    "sentence_count": 1003,
+    "reasons": []
+  }
+}

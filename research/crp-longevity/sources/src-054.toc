@@ -1,0 +1,81 @@
+6	2	Review
+14	2	Abstract
+36	2	1 Department of Hygiene and Epidemiology, University
+38	2	2 Department of Neurobiology, Harvard Medical School,
+42	2	4 Department of Biostatistics, University of Liverpool,
+44	2	5 Department of Epidemiology and Biostatistics, School
+46	2	6 Centre for Global Health, Usher Institute, University
+48	2	7 Edinburgh Cancer Research Centre, Institute of Genetics
+51	2	8 Department of Medicine, Stanford Prevention Research
+54	2	9 Department of Health Research and Policy, Stanford
+56	2	10 Department of Biomedical Data Sciences, Stanford
+58	2	11 Department of Statistics, Stanford University School
+65	2	Introduction
+92	2	Methods
+252	2	Results
+387	2	Analysis
+641	2	Analysis
+885	2	Analysis
+1138	2	Analysis
+1378	2	Analysis
+1474	2	Cvd
+1526	2	Pci
+1542	2	Pci
+1553	2	Crp
+1615	2	Analysis
+1642	2	Pci
+1673	2	Stemi
+1690	2	Stemi
+1722	2	Pci
+1800	2	Stemi
+1820	2	Pci
+1852	2	Analysis
+1876	2	Crp
+1941	2	Crp
+2023	2	Crp
+2055	2	Crp
+2072	2	Hsp
+2090	2	Analysis
+2132	2	Tnf
+2164	2	Tnf
+2179	2	Tnf
+2194	2	Tnf
+2306	2	Analysis
+2525	2	Analysis
+2606	2	Analysis
+2610	2	Analysis
+2623	2	Analysis
+2627	2	Analysis
+2636	2	Analysis
+2643	2	Analysis
+2655	2	Analysis
+2659	2	Analysis
+2675	2	Analysis
+2679	2	Analysis
+2683	2	Analysis
+2703	2	Analysis
+2749	2	Analysis
+2755	2	Analysis
+2759	2	Analysis
+2773	2	Analysis
+2794	2	Analysis
+2809	2	Analysis
+2813	2	Analysis
+2819	2	Analysis
+2823	2	Analysis
+2842	2	Analysis
+2848	2	Analysis
+2854	2	Analysis
+2858	2	Analysis
+2868	2	Analysis
+2872	2	Analysis
+2876	2	Analysis
+2890	2	Conclusions
+3148	2	References
+3326	2	45. Leuzzi G, Galeone C, Taverna F, Suatoni P, Morelli D,
+3366	2	54. Rocha P, Morgan CJ, Templeton AJ, Pond GR, Naik G, Sonpavde
+3440	2	71. Jayedi A, Rahimi K, Bautista LE, Nazarzadeh M, Zargar MS,
+3524	2	91. Allin KH, Nordestgaard BG, Zacho J, Tybjaerg-Hansen A,
+3550	2	97. Dahl M, Vestbo J, Zacho J, Lange P, Tybjaerg-Hansen A, Nor -
+3608	2	109. Hartwig FP, Borges MC, Horta BL, Bowden J, Davey Smith
+3710	2	134. Ridker PM, Cushman M, Stampfer MJ, Tracy RP, Hennek -

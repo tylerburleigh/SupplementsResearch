@@ -1,0 +1,30 @@
+{
+  "id": "src-152",
+  "title": "Localization of Xenobiotic Transporter OCTN1/SLC22A4 in Hepatic Stellate Cells and Its Protective Role in Liver Fibrosis.",
+  "authors": [
+    "Tang, Yaliang",
+    "Masuo, Yusuke",
+    "Sakai, Yoshio",
+    "Wakayama, Tomohiko",
+    "Sugiura, Tomoko",
+    "Harada, Ryuichi",
+    "Futatsugi, Azusa",
+    "Komura, Takuya",
+    "Nakamichi, Noritaka",
+    "Sekiguchi, Hirotaka",
+    "Sutoh, Keita",
+    "Usumi, Koji",
+    "Iseki, Shoichi",
+    "Kaneko, Shuichi",
+    "Kato, Yukio"
+  ],
+  "doi": "10.1016/j.xphs.2016.02.023",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/27020986",
+  "provider": "pubmed",
+  "year": 2016,
+  "venue": "Journal of pharmaceutical sciences",
+  "citation_count": 0,
+  "abstract": "Xenobiotic transporters play key roles in disposition of certain therapeutic agents, although limited information is available on their roles other than pharmacokinetic issues. Here, suppressive effect of multispecific organic cation transporter OCTN1/SLC22A4 on liver fibrosis was proposed in liver injury models. After injection of hepatotoxins such as dimethylnitrosamine (DMN) or concanavalin A, hepatic fibrosis, and oxidative stress, evaluated in terms of Sirius red and 4-hydroxy-2-nonenal staining, respectively, were more severe in liver of octn1/slc22a4 gene knockout (octn1(-/-)) mice than that in wild-type mice. DMN treatment markedly increased α-smooth muscle actin and F4/80, markers of activated stellate and Kupffer cells, respectively, in liver of octn1(-/-), but had less effect in wild-type mice. Thus, octn1/slc22a4 gene deletion results in more severe hepatic fibrosis, oxidative stress, and inflammation. DMN-treated wild-type mice showed increased Octn1 staining and hepatic concentration of its food-derived antioxidant ergothioneine (ERGO). The upregulated Octn1 was co-localized with α-smooth muscle actin. Functional expression of Octn1 was demonstrated in activated human hepatic stellate cell lines, LI90 and LX-2. Provision of ERGO-rich feed ameliorated DMN-induced liver fibrosis and oxidative stress. Overall, Octn1 is upregulated in activated stellate cells, resulting in increased delivery of its substrate antioxidant ERGO and a protective effect against liver fibrosis.",
+  "type": "academic",
+  "pdf_url": ""
+}

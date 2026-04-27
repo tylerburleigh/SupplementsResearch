@@ -1,0 +1,27 @@
+{
+  "id": "src-139",
+  "title": "A novel 4'-brominated derivative of fisetin induces cell cycle arrest and apoptosis and inhibits EGFR/ERK1/2/STAT3 pathways in non-small-cell lung cancer without any adverse effects in mice.",
+  "authors": [
+    "Sabarwal, Akash",
+    "van Rooyen, Jaco C",
+    "Caburet, Jeremy",
+    "Avgenikos, Moscos",
+    "Dheeraj, Arpit",
+    "Ali, Mansoor",
+    "Mishra, Deepali",
+    "de Meester, Joséphine S B",
+    "Stander, Saskia",
+    "van Otterlo, Willem A L",
+    "Kaschula, Catherine H",
+    "Singh, Rana P"
+  ],
+  "doi": "10.1096/fj.202200669rr",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36421014",
+  "provider": "pubmed",
+  "year": 2022,
+  "venue": "FASEB journal : official publication of the Federation of American Societies for Experimental Biology",
+  "citation_count": 0,
+  "abstract": "The therapeutic toxicity and resistance to currently available treatment options are major clinical challenges for the management of lung cancer. As a novel strategy, we synthesized analogues of a known flavonol, fisetin, which has shown anti-tumorigenic potential against cancer in cell culture with no adverse effects in animal models. We studied the synthetic analogues of fisetin for their anti-cancer potential against lung cancer cells, toxicity in mice and efficacy in a xenograft model. Brominated fisetin analogues were screened for their effects on the viability of A549 and H1299 lung cancer cells, and three analogues (3a, 3b, 3c), showed improved activity compared to fisetin. These analogues were more effective in restricting lung cancer cell proliferation, inducing G2 M phase cell cycle arrest and apoptosis. The fisetin analogues also downregulated EGFR/ERK1/2/STAT3 pathways. Fisetin analogue-induced apoptosis was accompanied by a higher Bax to Bcl-2 expression ratio. Based on the in vitro studies, the most effective fisetin analogue 3b was evaluated for in vivo toxicity, wherein it did not show any hepatotoxicity or adverse health effects in mice. Furthermore, analogue 3b showed greater antitumor efficacy (p < .001) as compared to its parent compound fisetin in a human lung cancer cell xenograft study in athymic mice. Together, our data suggest that the novel fisetin analogue 3b is more effective in restricting lung cancer cell growth, both in vitro as well as in vivo, without any apparent toxicity, supporting its further development as a novel anti-lung cancer agent.",
+  "type": "academic",
+  "pdf_url": ""
+}

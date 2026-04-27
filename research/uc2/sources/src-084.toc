@@ -1,0 +1,39 @@
+3	2	Review
+11	2	Abstract
+155	2	Digital Features
+163	2	Introduction
+297	2	Methods
+525	2	Results
+590	2	2009. It is remarkable that at least one study was
+2181	2	Supartz
+2227	2	Usa
+2332	2	Dupact
+2407	2	Discussion
+2476	2	Analysis
+2488	2	5 RCTs
+2500	2	Analysis
+2521	2	Analysis
+2529	2	Embase
+2532	2	8 RCTs in qualitative
+2545	2	Grade
+2873	2	Conclusions
+2899	2	Acknowledgements
+2963	2	References
+3057	2	23. Yamamoto S, Deguchi K, Onuma M, Numata N,
+3077	2	27. Van Vijven JPJ, Luijsterburg PAJ, Verhagen AP, van
+3116	2	35. Eriksen P, Bartels EM, Altman RD, Bliddal H, Juhl C,
+3128	2	37. Peters MDJ, Godfrey CM, Khalil H, McInerney P,
+3141	2	41. Boonmaleerat K, Wanachewin O, Phitak T, Potha-
+3149	2	43. Schadow S, Siebert HC, Lochnit G, Kordelle J,
+3169	2	47. Di Cesare ML, Micheli L, Zanardelli M, Ghelardini
+3187	2	51. Naraoka T, Ishibashi Y, Tsuda E, Yamamoto Y,
+3207	2	55. Bagchi D, Misner B, Bagchi M, Kothari SC, Downs
+3212	2	56. Bakilan F, Armagan O, Ozgen M, Tascioglu F, Bolluk
+3216	2	57. Benito-Ruiz P, Camacho-Zambrano MM, Carrillo-
+3242	2	62. Kumar S, Sugihara F, Suzuki K, Inoue N,
+3269	2	67. Schauss AG, Stenehjem J, Park J, Endres JR, Clewell
+3287	2	71. De Luca P, Colombini A, Carimati G, Beggio M, de
+3293	2	72. Kilinc BE, Oc Y, Alibakan G, Bilgin E, Kanar M, Eren
+3319	2	77. Yoshinari O, Marone PA, Moriyama H, Bagchi M,
+3329	2	79. Beynen AC, van Geene HW, Grim HV, Jacobs P, van
+3373	2	88. Simons VS, Lochnit G, Wilhelm J, Ishaque B, Rick-

@@ -1,0 +1,31 @@
+{
+  "id": "src-171",
+  "title": "Effect of extra-virgin olive oil on lipid profile and inflammatory biomarkers in patients undergoing coronary angiography: a randomized, controlled, clinical trial",
+  "authors": [
+    "Khandouzi, Nafiseh",
+    "Zahedmehr, Ali",
+    "Nasrollahzadeh, Javad"
+  ],
+  "year": 2020,
+  "abstract": "Abstract\nBackground\n\nOlive oil, rich in mono-unsaturated fatty acid and the main fat in the Mediterranean diet, has long been considered to be favorable for cardiovascular health. The present study was conducted to compare the effects of high polyphenol extra-virgin olive oil (EVOO) with low polyphenol refined olive oil (ROO) on some cardiovascular risk factors in patients undergoing coronary angiography.\nMethods\n\nIn a randomized, controlled, parallel-arm, clinical trial, 40 patients (aged 54.83 ± 7.04 years) with at least one classic cardiovascular risk factor (hypertension, dyslipidemia, or diabetes) who referred to coronary angiography were randomly allocated to two groups and received 25 mL EVOO (n = 20) or ROO (n = 20) daily for 6 weeks. Fasting blood was collected and plasma lipids, malondialdehyde (MDA), C-reactive protein (CRP) as well as, inflammatory cytokines in ex-vivo lipopolysaccharide (LPS)-stimulated whole blood culture were measured at the baseline and after the dietary intervention.\nResults\n\nBaseline characteristics were similar between the two groups. Plasma LDL-cholesterol significantly reduced in EVOO group (-9.52 ± 20.44 vs 8.68 ± 18.77 mg/dL, p = 0.007 for EVOO and ROO respectively), whereas total cholesterol/HDL-cholesterol had no significant changes. EVOO resulted in significant reduction in plasma CRP (-0.40 ± 0.52 vs 0.007 ± 0.42 mg/L, p = 0.01 for EVOO and ROO respectively) and increased ex-vivo whole blood LPS-stimulated IL-10 production (12.13 ± 33.64 vs -17.47 ± 49.04 pg/mL, p = 0.035 for EVOO and ROO respectively). However, there were no significant differences in LPS-stimulated IL-6 and plasma MDA levels between the two groups.\nConclusions\n\nDaily consumption of polyphenol-rich EVOO in subjects who have been under medical treatment with risk-reducing agents could additionally improve LDL-C and selected inflammatory markers.\nTrial registration:\nNCT03796780 at clinicaltrial.gov (12/29/2018)",
+  "doi": "10.21203/rs.3.rs-31446/v1",
+  "url": "https://doi.org/10.21203/rs.3.rs-31446/v1",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-24T01:14:51.135009+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-171.md",
+  "quality_details": {
+    "content_length": 40647,
+    "alpha_ratio": 0.701,
+    "sentence_count": 408,
+    "reasons": []
+  }
+}

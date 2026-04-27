@@ -1,0 +1,22 @@
+3	2	Article
+119	2	Results
+309	2	Naad
+311	2	Nmn
+312	2	Pnp
+313	2	Nadsyn
+317	2	Nrk
+318	2	Nampt
+319	2	Nmnat
+320	2	Nadk
+330	2	Naad
+346	2	Nadp
+355	2	Nmn
+363	2	Atp
+552	2	Discussion
+752	2	Methods
+877	2	Nad
+896	2	38. Pressure waveforms were
+947	2	76. Handgrip strength was measured using a
+1039	2	References
+1280	2	Acknowledgements
+1289	2	Author Contributions

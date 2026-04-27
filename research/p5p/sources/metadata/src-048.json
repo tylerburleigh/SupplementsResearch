@@ -1,0 +1,32 @@
+{
+  "id": "src-048",
+  "title": "Plasma pyridoxal 5′-phosphate is not correlated with hemoglobin during pyridoxine supplementation in patients with rheumatoid arthritis",
+  "authors": [
+    "Huang, Y-C",
+    "Wei, J C-C"
+  ],
+  "year": 2011,
+  "abstract": "",
+  "doi": "10.1038/ejcn.2010.255",
+  "url": "https://doi.org/10.1038/ejcn.2010.255",
+  "pdf_url": "",
+  "venue": "European Journal of Clinical Nutrition",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-20T16:04:46.631308+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-048.md",
+  "quality_details": {
+    "content_length": 5425,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "src-262",
+  "title": "The Role of Oxidative Stress in the Pathogenesis of Vitiligo: A Culprit for Melanocyte Death",
+  "authors": [
+    "Xuan, Yijie",
+    "Yang, Yiwen",
+    "Xiang, Leihong",
+    "Zhang, Chengfeng"
+  ],
+  "doi": "10.1155/2022/8498472",
+  "url": "https://openalex.org/W4206921605",
+  "provider": "openalex",
+  "year": 2022,
+  "venue": "Oxidative Medicine and Cellular Longevity",
+  "citation_count": 119,
+  "abstract": "Vitiligo is a common chronic acquired pigmentation disorder characterized by loss of pigmentation. Among various hypotheses proposed for the pathogenesis of vitiligo, oxidative stress-induced immune response that ultimately leads to melanocyte death remains most widely accepted. Oxidative stress which causes elevated levels of reactive oxygen species (ROS) can lead to dysfunction of molecules and organelles, triggering further immune response, and ultimately melanocyte death. In recent years, a variety of cell death modes have been studied, including apoptosis, autophagy and autophagic cell death, ferroptosis, and other novel modes of death, which will be discussed in this review in detail. Oxidative stress is also strongly linked to these modes of death. Under oxidative stress, ROS could induce autophagy by activating the Nrf2 antioxidant pathway of melanocytes. However, persistent stimulation of ROS might eventually lead to excessive activation of Nrf2 antioxidant pathway, which in turn will inactivate autophagy. Moreover, ferroptosis may be triggered by oxidative-related transcriptional production, including ARE, the positive feedback loop related to p62, and the reduced activity and expression of GPX4. Therefore, it is reasonable to infer that these modes of death are involved in the oxidative stress response, and that oxidative stress also acts as an initiator for various modes of death through some complex mechanisms. In this study, we aim to summarize the role of oxidative stress in vitiligo and discuss the corresponding mechanisms of interaction between various modes of cell death and oxidative stress. These findings may provide new ideas for exploring the pathogenesis and potential therapeutic targets of vitiligo.",
+  "type": "academic",
+  "pdf_url": "https://downloads.hindawi.com/journals/omcl/2022/8498472.pdf"
+}

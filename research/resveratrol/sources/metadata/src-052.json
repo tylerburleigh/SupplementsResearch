@@ -1,0 +1,25 @@
+{
+  "id": "src-052",
+  "title": "The effects of resveratrol intake on weight loss: a systematic review and meta-analysis of randomized controlled trials.",
+  "authors": [
+    "Tabrizi, Reza",
+    "Tamtaji, Omid Reza",
+    "Lankarani, Kamran B",
+    "Akbari, Maryam",
+    "Dadgostar, Ehsan",
+    "Dabbaghmanesh, Mohammad Hossein",
+    "Kolahdooz, Fariba",
+    "Shamshirian, Amir",
+    "Momen-Heravi, Mansooreh",
+    "Asemi, Zatollah"
+  ],
+  "doi": "10.1080/10408398.2018.1529654",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/30421960",
+  "provider": "pubmed",
+  "year": 2020,
+  "venue": "Critical reviews in food science and nutrition",
+  "citation_count": 0,
+  "abstract": "This systematic review and meta-analysis of randomized controlled trials (RCTs) was conducted to summarize the effect of resveratrol intake on weight loss. We searched the following databases until July 2018: MEDLINE, EMBASE, Web of Science and Cochrane Central Register of Controlled Trials. Data were pooled using the inverse variance method and expressed as standardized mean difference (SMD) with 95% confidence intervals (95% CI). Out of 831 reports, 36 RCTs were eligible for including to our meta-analysis. The pooled results, using random-effects model showed that resveratrol supplementation significantly decreased body weight (SMD = -0.17; 95% CI, -0.33, -0.01; P = 0.03; I2: 62.6), body mass index (BMI) (SMD = -0.20; 95% CI, -0.35, -0.05; P = 0.01; I2: 60.6), fat mass (SMD = -0.32; 95% CI, -0.62, -0.03; P = 0.03; I2: 77.9) and waist circumference (WC) (SMD = -0.42; 95% CI, -0.68, -0.16; P = 0.001; I2: 75.2), and significantly increased lean mass (SMD = 1.21; 95% CI, 0.75, 1.67; P < 0.001; I2: 87.6). We found no significant effect of resveratrol administration on leptin (SMD = -0.20; 95% CI, -0.68, 0.27; P = 0.40; I2: 85.3) and adiponectin levels (SMD = 0.08; 95% CI, -0.39, 0.55; P = 0.74; I2: 91.0). Resveratrol supplementation significantly decreased body weight in obese patients (SMD -0.43; 95% CI, -0.60, -0.26) compared with other diseases (SMD 0.02; 95% CI, -0.29, 0.33), and type 2 diabetes mellitus (SMD -0.17; 95% CI, -0.37, 0.02). Overall, the current meta-analysis demonstrated that resveratrol intake significantly reduced weight, BMI, WC and fat mass, and significantly increased lean mass, but did not affect leptin and adiponectin levels.",
+  "type": "academic",
+  "pdf_url": ""
+}

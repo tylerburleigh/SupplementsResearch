@@ -1,0 +1,20 @@
+{
+  "id": "src-315",
+  "title": "Mitochondrial Lipid Homeostasis at the Crossroads of Liver and Heart Diseases",
+  "authors": [
+    "Dabravolski, Siarhei A.",
+    "Bezsonov, Evgeny E.",
+    "Baig, Mirza S.",
+    "Попкова, Т. В.",
+    "Orekhov, Alexander N."
+  ],
+  "doi": "10.3390/ijms22136949",
+  "url": "https://openalex.org/W3176067497",
+  "provider": "openalex",
+  "year": 2021,
+  "venue": "International Journal of Molecular Sciences",
+  "citation_count": 36,
+  "abstract": "The prevalence of NAFLD (non-alcoholic fatty liver disease) is a rapidly increasing problem, affecting a huge population around the globe. However, CVDs (cardiovascular diseases) are the most common cause of mortality in NAFLD patients. Atherogenic dyslipidemia, characterized by plasma hypertriglyceridemia, increased small dense LDL (low-density lipoprotein) particles, and decreased HDL-C (high-density lipoprotein cholesterol) levels, is often observed in NAFLD patients. In this review, we summarize recent genetic evidence, proving the diverse nature of metabolic pathways involved in NAFLD pathogenesis. Analysis of available genetic data suggests that the altered operation of fatty-acid β-oxidation in liver mitochondria is the key process, connecting NAFLD-mediated dyslipidemia and elevated CVD risk. In addition, we discuss several NAFLD-associated genes with documented anti-atherosclerotic or cardioprotective effects, and current pharmaceutical strategies focused on both NAFLD treatment and reduction of CVD risk.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/1422-0067/22/13/6949/pdf?version=1624950263"
+}

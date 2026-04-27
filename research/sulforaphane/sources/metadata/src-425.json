@@ -1,0 +1,25 @@
+{
+  "id": "src-425",
+  "title": "Interplay between Cruciferous Vegetables and the Gut Microbiome: A Multi-Omic Approach",
+  "authors": [
+    "Bouranis, John A.",
+    "Beaver, Laura M.",
+    "Jiang, Duo",
+    "Choi, Jaewoo",
+    "Wong, Carmen P.",
+    "Davis, Edward W.",
+    "Williams, David E.",
+    "Sharpton, Thomas J.",
+    "Stevens, Jan F.",
+    "Ho, Emily"
+  ],
+  "doi": "10.3390/nu15010042",
+  "url": "https://openalex.org/W4312073743",
+  "provider": "openalex",
+  "year": 2022,
+  "venue": "Nutrients",
+  "citation_count": 27,
+  "abstract": "Brassica vegetables contain a multitude of bioactive compounds that prevent and suppress cancer and promote health. Evidence suggests that the gut microbiome may be essential in the production of these compounds; however, the relationship between specific microbes and the abundance of metabolites produced during cruciferous vegetable digestion are still unclear. We utilized an ex vivo human fecal incubation model with in vitro digested broccoli sprouts (Broc), Brussels sprouts (Brus), a combination of the two vegetables (Combo), or a negative control (NC) to investigate microbial metabolites of cruciferous vegetables. We conducted untargeted metabolomics on the fecal cultures by LC-MS/MS and completed 16S rRNA gene sequencing. We identified 72 microbial genera in our samples, 29 of which were significantly differentially abundant between treatment groups. A total of 4499 metabolomic features were found to be significantly different between treatment groups (q ≤ 0.05, fold change > 2). Chemical enrichment analysis revealed 45 classes of compounds to be significantly enriched by brassicas, including long-chain fatty acids, coumaric acids, and peptides. Multi-block PLS-DA and a filtering method were used to identify microbe−metabolite interactions. We identified 373 metabolites from brassica, which had strong relationships with microbes, such as members of the family Clostridiaceae and genus Intestinibacter, that may be microbially derived.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2072-6643/15/1/42/pdf?version=1671681863"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "src-286",
+  "title": "Irradiation-induced brain senescence accelerates cardiac aging via systemic mechanisms: insights from transcriptomic profiling",
+  "authors": [
+    "Gulej, Rafał",
+    "Patai, Roland",
+    "Kiss, Tamas",
+    "Chandragiri, Siva Sai",
+    "Ekambaram, Shoba",
+    "Nagaraja, Raghavendra Y",
+    "Nagy, D.",
+    "Kordestan, Kiana Vali",
+    "Lakat, Tamas",
+    "Tarantini, S.",
+    "Mukli, Peter",
+    "Ungvari, Anna",
+    "Yabluchanskiy, A.",
+    "Benyó, Zoltán",
+    "Csiszar, A.",
+    "Ungvari, Z."
+  ],
+  "doi": "10.1007/s11357-025-01953-7",
+  "url": "https://www.semanticscholar.org/paper/2a728596fda456e3c05e0bc43f8f0eef9108afc9",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "GeroScience",
+  "citation_count": 1,
+  "abstract": "Aging is characterized by a coordinated functional decline across multiple organs. While cell-autonomous mechanisms contribute to local aging phenotypes, the systemic synchronicity of aging suggests a major role for cell non-autonomous drivers. Emerging evidence implicates the hypothalamus—a central regulator of neuroendocrine and homeostatic functions—as a potential source of circulating pro-geronic signals. A hallmark of brain aging is the accumulation of senescent cells, particularly in microglia and brain microvascular endothelial cells, including within the hypothalamus, which contributes to a heightened state of neuroinflammation and altered systemic signaling. Here, we tested the hypothesis that brain senescence and its associated inflammatory milieu promote peripheral aging by reshaping the systemic environment. To model this, we employed targeted whole-brain irradiation (WBI) in young mice—a well-established method to induce widespread brain cellular senescence and neuroinflammation, mimicking changes seen in natural aging. Two months after WBI, we performed transcriptomic profiling of the heart to evaluate remote, cell non-autonomous effects. Cardiac RNA sequencing revealed a striking overlap in gene expression changes between WBI-treated young mice and naturally aged controls. Notably, several gene sets associated with fundamental cellular and molecular mechanisms of aging were concordantly dysregulated in both groups, with strong enrichment for pathways related to mitochondrial metabolism, immune activation, interferon signaling, and extracellular matrix remodeling. These findings demonstrate that localized brain senescence is sufficient to induce aging-like transcriptomic remodeling in peripheral organs, likely mediated by circulating factors. Our findings establish brain senescence as a key orchestrator of systemic aging—a mechanism that may contribute to accelerated aging trajectories in individuals with lifestyle-associated increased brain senescence and neuroinflammation, as well as in cancer survivors exposed to senescence-inducing treatments such as whole-brain irradiation.",
+  "type": "academic",
+  "pdf_url": ""
+}

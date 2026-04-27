@@ -1,0 +1,23 @@
+{
+  "id": "src-261",
+  "title": "Cell Type‐Specific Expression of p16, p21, and p53 Reveals Age‐Dependent Glial Senescence in the AppNL‐G‐F Mouse Model of Alzheimer's Disease",
+  "authors": [
+    "Sweeney, Eileen Mac",
+    "Abate, Giulia",
+    "Bakker, B.",
+    "Mastinu, A.",
+    "Lai, Ylenia",
+    "Uberti, D.",
+    "Nilsson, Per",
+    "Tambaro, Simone"
+  ],
+  "doi": "10.1111/acel.70478",
+  "url": "https://www.semanticscholar.org/paper/bf2f6709e76bbb49da4e7e6b30b089d567c0e7e8",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "Aging Cell",
+  "citation_count": 0,
+  "abstract": "Cellular senescence, a state of irreversible cell cycle arrest, plays a key role in neurodegenerative diseases, including Alzheimer's disease (AD). While senescent cells are emerging as potential therapeutic targets, the dynamics of their occurrence over time and the specific cell types most affected by AD are still not well understood. This study investigates age‐ and pathology‐dependent changes in senescence markers, specifically p16, p21, and p53, using the amyloidogenic AppNL‐G‐F knock‐in AD mouse model. Female AppNL‐G‐F and wild‐type (WT) mice were evaluated at 4, 12, and 24 months of age to capture disease progression changes from early to advanced AD stages. Immunofluorescence and qPCR were used to quantify p16, p21, and p53 expressions. Senescence‐associated β‐galactosidase (SA‐β‐Gal) activity, IL‐1β and IL‐6 levels, and CD68‐p21 colocalization were assessed. At 4 months‐of‐age, only p21 levels in astrocytes differ between genotypes. By 12 months, AppNL‐G‐F mice exhibited increased p16 and p21 expression in glial cells, along with elevated SA‐β‐Gal activity. IL‐1β level increased in the cortex and hippocampus, while IL‐6 only in the hippocampus. Most CD68‐positive microglia co‐expressed p21 in both hippocampus (73%) and cortex (82%), indicating a prevalent senescent phenotype among reactive microglia. p16 and p21 changes became more pronounced at 24 months. p53 expression followed a distinct pattern, increasing in astrocytes at 12 months and in microglia by 24 months. Neurons showed no genotype‐dependent differences. These findings reveal a progressive, amyloid‐linked glial senescence response, supporting the AppNL‐G‐F model as a reliable platform for evaluating senotherapeutic strategies in AD.",
+  "type": "academic",
+  "pdf_url": ""
+}

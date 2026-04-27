@@ -1,0 +1,25 @@
+{
+  "id": "src-059",
+  "title": "New agents that target senescent cells: the flavone, fisetin, and the BCL-XL inhibitors, A1331852 and A1155463",
+  "authors": [
+    "Zhu, Yi",
+    "Doornebal, E.",
+    "Pirtskhalava, T.",
+    "Giorgadze, N.",
+    "Wentworth, M.",
+    "Fuhrmann-Stroissnigg, Heike",
+    "Niedernhofer, L.",
+    "Robbins, P.",
+    "Tchkonia, T.",
+    "Kirkland, J."
+  ],
+  "doi": "10.18632/aging.101202",
+  "url": "https://www.semanticscholar.org/paper/66d91390420261d7380847d26bacba59d33f24c6",
+  "provider": "semantic_scholar",
+  "year": 2017,
+  "venue": "Aging",
+  "citation_count": 627,
+  "abstract": "Senescent cells accumulate with aging and at sites of pathology in multiple chronic diseases. Senolytics are drugs that selectively promote apoptosis of senescent cells by temporarily disabling the pro-survival pathways that enable senescent cells to resist the pro-apoptotic, pro-inflammatory factors that they themselves secrete. Reducing senescent cell burden by genetic approaches or by administering senolytics delays or alleviates multiple age- and disease-related adverse phenotypes in preclinical models. Reported senolytics include dasatinib, quercetin, navitoclax (ABT263), and piperlongumine. Here we report that fisetin, a naturally-occurring flavone with low toxicity, and A1331852 and A1155463, selective BCL-XL inhibitors that may have less hematological toxicity than the less specific BCL-2 family inhibitor navitoclax, are senolytic. Fisetin selectively induces apoptosis in senescent but not proliferating human umbilical vein endothelial cells (HUVECs). It is not senolytic in senescent IMR90 cells, a human lung fibroblast strain, or primary human preadipocytes. A1331852 and A1155463 are senolytic in HUVECs and IMR90 cells, but not preadipocytes. These agents may be better candidates for eventual translation into clinical interventions than some existing senolytics, such as navitoclax, which is associated with hematological toxicity.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.18632/aging.101202"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "src-332",
+  "title": "ErZhiTianGui Decoction alleviates age-related ovarian aging by regulating mitochondrial homeostasis and inhibiting ferroptosis",
+  "authors": [
+    "Jia, Zhicheng",
+    "Li, Yongqian",
+    "Wang, Peixuan",
+    "Kai, Yang",
+    "Shi, Mengyu",
+    "Wen, C.",
+    "Qihui, Liang",
+    "Ying, Guo"
+  ],
+  "doi": "10.1186/s13048-023-01341-9",
+  "url": "https://www.semanticscholar.org/paper/3571726e497b35093a642a8168a321d0fdd227ce",
+  "provider": "semantic_scholar",
+  "year": 2024,
+  "venue": "Journal of Ovarian Research",
+  "citation_count": 9,
+  "abstract": "This study was designed to investigate the pharmacological effects and mechanisms of ErZhiTianGui Decoction (EZTG) for age-related ovarian aging in mice. This study used naturally aging mice as a model, and EZTG was used for intragastric administration. Ovarian pathological changes, as well as follicular reserve were assessed by hematoxylin and eosin staining, and serum hormone levels (anti-mullerian hormone, follicle-stimulating hormone), mitochondrial reactive oxygen species (ROS) and mitochondrial DNA (mtDNA) damage marker 8-hydroxy-2′-deoxyguanosine(8-OHdG), and lipid peroxidation markers glutathione(GSH) and malondialdehyde(MDA) were determined by enzyme-linked immunosorbent assay. Mitochondrial membrane potential (MMP) levels in ovaries were determined using flow cytometry. The levels of PINK1 and Parkin were observed using immunofluorescence staining. Mitochondrial-derived vesicles (MDVs) and mitochondrial morphology were observed using electron microscopy. Prussian blue staining was used to observe iron ion aggregation in ovarian tissue. The Iron assay kits detected total iron levels. Western blot was used to detect the expression of proteins related to mitochondrial and ferroptosis related genes. After EZTG treatment, aged mice showed increased ovarian reserve, improved serum hormone levels, increased MMP, GSH levels, and decreased mitochondrial ROS, 8-OHdG, and MDA levels. Immunofluorescence staining showed decreased levels of PINK1 and Parkin, and the same trend was observed for the Western blot. Meanwhile, electron microscopy showed that EZTG improved the mitochondrial morphology in the ovaries of aged mice. EZTG also decreased the total iron and protein levels of Acyl-CoA synthetase long-chain family4 (ACSL4) and increased the protein level of glutathione peroxidase 4 (GPX4) in the ovaries of aged mice. EZTG can maintain PINK1/Parkin-mediated mitochondrial homeostasis, reduce the lipid peroxidation caused by the accumulation of ROS, and inhibit the occurrence of ferroptosis and delaying ovarian aging. These findings suggest that EZTG may be a promising drug for treating age-related ovarian aging in females.",
+  "type": "academic",
+  "pdf_url": "https://ovarianresearch.biomedcentral.com/counter/pdf/10.1186/s13048-023-01341-9"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "src-083",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "",
+  "pdf_url": "https://lcms.cz/labrulez-bucket-strapi-h3hsga3/2024_asms_hatch_mushroom_coffee_9c919673f3.pdf",
+  "venue": "",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "",
+  "fetched_at": "2026-04-23T18:40:28.043010+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-083.md",
+  "quality_details": {
+    "content_length": 52846,
+    "alpha_ratio": 0.116,
+    "sentence_count": 98,
+    "reasons": [
+      "low alphabetic ratio (0.12 < 0.4)"
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "src-085",
+  "title": "HarvestPlus Handbook for Carotenoid Analysis.",
+  "authors": [
+    "Rodriguez–Amaya, Délia B.",
+    "Kimura, Masao"
+  ],
+  "url": "https://openalex.org/W880746178",
+  "provider": "openalex",
+  "year": 2004,
+  "venue": "International Food Policy Research Institute (International Food Policy Research Institute)",
+  "citation_count": 787,
+  "abstract": "Carotenoid analysis is inherently difficult and error prone. Despite substantial improvements and refinements in the methods for analyzing these fascinating but complicated compounds, discrepancies in analytical data can still be perceived in the literature. Analysts must be well informed about the nature and properties of carotenoids and the problems associated with their identification and quantification. Carotenoid analysis consists of several steps that can be carried out efficiently in various ways. Thus, in this handbook several procedures are given for some steps to enable the analyst to choose the procedure that best suits his/her laboratory conditions and experience. These procedures have been put together and evaluated for HarvestPlus crops in our laboratory, but we recognize that other procedures may also produce reliable results. It is important that analysts test the methods in their own laboratory prior to performing the actual analyses. Knowledge of the purpose and possible sources of error in each step will assist the analyst in appraising the performances of the methods. Indeed, the key element in the accurate determination of carotenoids is undoubtedly the analyst. Even a well-validated method may perform badly in the hands of an analyst who does not seek the appropriate information and does not pay attention to the many important details that are necessary to ensure the accuracy of the analytical results.",
+  "type": "academic",
+  "pdf_url": "http://www.ifpri.org/publication/harvestplus-handbook-carotenoid-analysis"
+}

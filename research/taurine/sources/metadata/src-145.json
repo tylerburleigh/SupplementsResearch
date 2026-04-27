@@ -1,0 +1,32 @@
+{
+  "id": "src-145",
+  "title": "Dose-response relationship of taurine on endurance cycling performance under hot and humid conditions",
+  "authors": [
+    "Li, Xinlei",
+    "Huo, Lei",
+    "Wang, Linuo",
+    "Zhang, Wenjuan"
+  ],
+  "year": 2025,
+  "abstract": "PurposeTo investigate the effects of different doses of taurine on endurance exercise performance and physiological parameters under hot and humid conditions.MethodsThis study adopted a double-blind, randomized, placebo-controlled, cross-over design. Sixteen male university students majoring in physical education (age: 20.12 ± 1.12 years; training status: ≥3 endurance sessions/week) received 4 supplement conditions: (1) placebo (maltodextrin), (2) low-dose (1 g taurine), (3) medium-dose (4 g taurine), and (4) high-dose (6 g taurine). Participants performed a graded cycling test (initial 50 W, +50 W every 3 min at 70 rpm) until exhaustion in an environmental chamber (35 °C, 65% RH). Heart rate, core temperature, skin temperature, sweat rate, RPE, and thermal sensation were measured.ResultsCompared to placebo, time to exhaustion was significantly longer in the medium-dose group (p &amp;lt; 0.05), with no significant or trend-level effects in low- or high-dose groups. Blood lactate accumulation and sweating rate were higher in the medium-dose group (p &amp;lt; 0.05). Core temperature (9 min-End) was lower in the medium-dose group during the latter exercise phase (p &amp;lt; 0.05).ConclusionUnder hot and humid conditions, acute 4 g taurine supplementation enhanced time to exhaustion during graded cycling by improving thermoregulatory responses, whereas 1 g and 6 g doses showed no ergogenic effects.",
+  "doi": "10.3389/fnut.2025.1632131",
+  "url": "https://doi.org/10.3389/fnut.2025.1632131",
+  "pdf_url": "",
+  "venue": "Frontiers in Nutrition",
+  "citation_count": 2,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-19T12:00:35.763832+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-145.md",
+  "quality_details": {
+    "content_length": 33549,
+    "alpha_ratio": 0.718,
+    "sentence_count": 333,
+    "reasons": []
+  }
+}

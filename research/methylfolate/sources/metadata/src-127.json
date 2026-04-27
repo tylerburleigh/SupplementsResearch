@@ -1,0 +1,20 @@
+{
+  "id": "src-127",
+  "title": "MTHFR Polymorphisms, Homocysteine Elevation, and Ischemic Stroke Susceptibility in East Asian and European Populations.",
+  "authors": [
+    "Wang, Mengmeng",
+    "Daghlas, Iyas",
+    "Zhang, Zhizhong",
+    "Gill, Dipender",
+    "Liu, Dandan"
+  ],
+  "doi": "10.1212/wnl.0000000000210245",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39787475",
+  "provider": "pubmed",
+  "year": 2025,
+  "venue": "Neurology",
+  "citation_count": 0,
+  "abstract": "BACKGROUND AND OBJECTIVES: Methylenetetrahydrofolate reductase (MTHFR) is a key enzyme that regulates folate and homocysteine metabolism. Genetic variation in MTHFR has been implicated in cerebrovascular disease risk, although research in diverse populations is lacking. We thus aimed to investigate the effect of genetically predicted MTHFR activity on risk of ischemic stroke (IS) and its main subtypes using a multiancestry Mendelian randomization (MR) approach.\nMETHODS: We proxied reduced MTHFR function using the C677T missense variant that impairs MTHFR function and consequently increases levels of total plasma homocysteine (tHcy) in both East Asian and European populations. Summary data for IS and its subtypes (small vessel stroke [SVS], large artery stroke [LAS], and cardioembolic stroke [CES]) were obtained from the largest available genome-wide association studies. MR estimates were calculated using the Wald ratio and random-effects inverse-variance-weighted methods. We performed sensitivity analyses to evaluate for confounding due to linkage disequilibrium.\nRESULTS: Genetically downregulated MTHFR activity, associated with a consequent SD increase in tHcy levels, was associated with an increased risk of SVS in both East Asian (odds ratio [OR] 1.20, 95% CI 1.08-1.34, p = 8.58 × 10-4) and European populations (OR 1.62, 95% CI 1.24-2.12; p = 3.73 × 10-4). There was no evidence that genetically perturbed MTHFR activity influenced risk of CES or LAS. These findings were consistent in sensitivity analyses.\nDISCUSSION: Our findings provide genetic evidence that reduced MTHFR activity was selectively associated with an increased risk of SVS in both East Asian and European populations. These findings warrant further investigation of genotype-guided nutritional supplementation for the prevention of SVS.",
+  "type": "academic",
+  "pdf_url": ""
+}

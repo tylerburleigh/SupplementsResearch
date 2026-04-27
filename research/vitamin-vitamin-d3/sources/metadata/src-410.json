@@ -1,0 +1,29 @@
+{
+  "id": "src-410",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://vitamindwiki.com/pages/role-of-vitamins-in-gastrointestinal-diseases-review",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-21T21:35:36.069106+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-410.md",
+  "quality_details": {
+    "content_length": 94720,
+    "alpha_ratio": 0.741,
+    "sentence_count": 1118,
+    "reasons": [
+      "paywall_page (USD)"
+    ]
+  }
+}

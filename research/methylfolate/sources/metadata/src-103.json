@@ -1,0 +1,21 @@
+{
+  "id": "src-103",
+  "title": "Folic acid/methylfolate for the treatment of psychopathology in schizophrenia: a systematic review and meta-analysis.",
+  "authors": [
+    "Sakuma, Kenji",
+    "Matsunaga, Shinji",
+    "Nomura, Ikuo",
+    "Okuya, Makoto",
+    "Kishi, Taro",
+    "Iwata, Nakao"
+  ],
+  "doi": "10.1007/s00213-018-4926-4",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/29785555",
+  "provider": "pubmed",
+  "year": 2018,
+  "venue": "Psychopharmacology",
+  "citation_count": 0,
+  "abstract": "RATIONALE: This study aims to examine whether folate/folic acid/methylfolate/folinic acid supplemented to antipsychotics (FA + AP) is beneficial in schizophrenia treatment.\nOBJECTIVE: We conducted a comprehensive systematic review and meta-analysis of double-blind, placebo-controlled, randomized clinical trials (RCTs) of FA + AP for schizophrenia.\nMETHODS: The primary outcome was an improvement in total symptoms. Other outcomes were psychopathology subscales (positive, negative, general, and depressive symptoms), discontinuation due to all-cause and adverse events, and individual adverse events. The meta-analysis evaluated the effect size based on a random-effects model.\nRESULTS: Although we included ten RCTs with 925 patients in total (seven folic acid RCTs (n = 789), two methylfolate RCTs (n = 96), and one folinic acid RCT (n = 40)) in the systematic review, only seven RCTs were included in the meta-analysis. Pooled FA + AP treatments were not superior to placebo + AP in the improvement of total (N = 7, n = 340; standardized mean difference (SMD) = - 0.20, 95% confidence interval (CI) = - 0.41, 0.02, p = 0.08, I2 = 0%), positive, general, or depressive symptoms. Pooled FA + AP treatments were more effective than placebo + AP for negative symptoms (N = 5, n = 281; SMD = -0.25, 95% CI = -0.49, -0.01, p = 0.04, I2 = 0%). Although pooled FA + AP treatments were associated with a lower incidence of serious adverse events than placebo treatments (N = 4, n = 241; risk ratio = 0.32, 95% CI = 0.12-0.82, p = 0.02, I2 = 0%; number needed to harm = not significant), there were no significant differences in other safety outcomes between both treatments.\nCONCLUSIONS: Our findings suggest that pooled FA + AP treatment improves negative symptoms in schizophrenia patients. Moreover, this treatment was well tolerated. However, because our results might exhibit a small-study effect, future studies with a larger sample should be conducted to obtain more robust results.",
+  "type": "academic",
+  "pdf_url": ""
+}

@@ -1,0 +1,19 @@
+{
+  "id": "src-366",
+  "title": "The dopamine hypothesis for ADHD: An evaluation of evidence accumulated from human studies and animal models",
+  "authors": [
+    "MacDonald, Hayley J.",
+    "Kleppe, Rune",
+    "Szigetvari, Peter D.",
+    "Haavik, Jan"
+  ],
+  "doi": "10.3389/fpsyt.2024.1492126",
+  "url": "https://openalex.org/W4404427128",
+  "provider": "openalex",
+  "year": 2024,
+  "venue": "Frontiers in Psychiatry",
+  "citation_count": 61,
+  "abstract": "Multiple lines of evidence indicate that altered dopamine signaling may be involved in neuropsychiatric disorders and common behavioral traits. Here we critically review evidence collected during the past 40-plus years supporting the role of dopamine dysfunction in attention deficit hyperactivity disorder (ADHD). We recapitulate the basic components of dopaminergic signaling in the central nervous system, focusing on core enzymes, transporters and receptors involved in monoaminergic functions, particularly in striatal and cortical regions. We summarize key human brain imaging and genetic studies reporting associations between dopaminergic neurotransmission and behavioral traits, with an emphasis on ADHD. We also consider ADHD in the context of animal models and single gene, metabolic, and neurological disorders with established dysfunction of the dopaminergic system. Examining the evidence in this way leads us to conclude that there is evidence for the involvement of dopamine but limited evidence for a hypo-dopaminergic state <i>per se</i> as a key component of ADHD. We propose a path forward to increase our understanding of dopamine signaling in human behavioral traits and disorders that should particularly focus on its role in clinical subgroups, during brain development and how it interacts with other neurotransmitter systems.",
+  "type": "academic",
+  "pdf_url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2024.1492126/pdf"
+}

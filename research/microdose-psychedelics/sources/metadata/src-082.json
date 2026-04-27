@@ -1,0 +1,29 @@
+{
+  "id": "src-082",
+  "title": "The Bright Side of Psychedelics: Latest Advances and Challenges in Neuropharmacology",
+  "authors": [
+    "Mastinu, Andrea",
+    "Anyanwu, Margrate",
+    "Carone, Marinella",
+    "Abate, Giulia",
+    "Bonini, Sara Anna",
+    "Peron, Gregorio",
+    "Tirelli, Emanuela",
+    "Pucci, Mariachiara",
+    "Ribaudo, Giovanni",
+    "Oselladore, Erika",
+    "Premoli, Marika",
+    "Gianoncelli, Alessandra",
+    "Uberti, Daniela",
+    "Memo, Maurizio"
+  ],
+  "doi": "10.3390/ijms24021329",
+  "url": "https://openalex.org/W4315649535",
+  "provider": "openalex",
+  "year": 2023,
+  "venue": "International Journal of Molecular Sciences",
+  "citation_count": 44,
+  "abstract": "The need to identify effective therapies for the treatment of psychiatric disorders is a particularly important issue in modern societies. In addition, difficulties in finding new drugs have led pharmacologists to review and re-evaluate some past molecules, including psychedelics. For several years there has been growing interest among psychotherapists in psilocybin or lysergic acid diethylamide for the treatment of obsessive-compulsive disorder, of depression, or of post-traumatic stress disorder, although results are not always clear and definitive. In fact, the mechanisms of action of psychedelics are not yet fully understood and some molecular aspects have yet to be well defined. Thus, this review aims to summarize the ethnobotanical uses of the best-known psychedelic plants and the pharmacological mechanisms of the main active ingredients they contain. Furthermore, an up-to-date overview of structural and computational studies performed to evaluate the affinity and binding modes to biologically relevant receptors of ibogaine, mescaline, N,N-dimethyltryptamine, psilocin, and lysergic acid diethylamide is presented. Finally, the most recent clinical studies evaluating the efficacy of psychedelic molecules in some psychiatric disorders are discussed and compared with drugs already used in therapy.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/1422-0067/24/2/1329/pdf?version=1673345432"
+}

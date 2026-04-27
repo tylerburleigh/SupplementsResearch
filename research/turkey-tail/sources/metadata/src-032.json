@@ -1,0 +1,21 @@
+{
+  "id": "src-032",
+  "title": "Bayesian estimation in NONMEM.",
+  "authors": [
+    "Johnston, Curtis K",
+    "Waterhouse, Timothy",
+    "Wiens, Matthew",
+    "Mondick, John",
+    "French, Jonathan",
+    "Gillespie, William R"
+  ],
+  "doi": "10.1002/psp4.13088",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38017712",
+  "provider": "pubmed",
+  "year": 2024,
+  "venue": "CPT: pharmacometrics & systems pharmacology",
+  "citation_count": 0,
+  "abstract": "Bayesian estimation is a powerful but underutilized tool for answering drug development questions. In this tutorial, the principles of Bayesian model development, assessment, and prior selection will be outlined. An example pharmacokinetic (PK) model will be used to demonstrate the implementation of Bayesian modeling using the nonlinear mixed-effects modeling software NONMEM.",
+  "type": "academic",
+  "pdf_url": ""
+}

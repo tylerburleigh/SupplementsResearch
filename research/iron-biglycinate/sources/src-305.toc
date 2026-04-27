@@ -1,0 +1,37 @@
+38	2	Hypothesis And Theory
+95	2	Introduction
+137	2	Discovery And Structure
+216	2	Lactoferrin And Its Membrane
+217	2	Receptors
+299	2	Lactoferrin Transport
+328	2	References
+706	2	Conclusions
+737	2	Data Availability Statement
+745	2	Author Contributions
+749	2	Funding
+753	2	References
+757	2	2. Gheblawi M, Wang K, Viveiros A, Nguyen Q, Zhong JC, Turner
+828	2	22. Ashall L, Horton CA, Nelson DE, Paszek P , Harper CV , Sillitoe
+832	2	23. Anderberg RJ, Meek RL, Hudkins KL, Cooney SK, Alpers CE, Lebo euf RC,
+868	2	36. Hettinga K, van V alenberg H, de Vries S, Boeren S, van Hooijdonk T , van
+897	2	45. Boesch AW, Zhao Y , Landman AS, Garcia MR, Fahey JV , Wira
+972	2	65. Ikoma-Seki K, Nakamura K, Morishita S, Ono T , Sugiyama K, Nishi no H,
+1025	2	81. Zhang G, Han J, Welch EJ, Ye RD, Voyno-Y asenetskaya TA, Mali k AB,
+1078	2	96. Mehrbod P , Ande SR, Alizadeh J, Rahimizadeh S, Shariati A, Ma lek H,
+1096	2	100. Naskalska A, Dabrowska A, Szczepanski A, Milewska A, Jasik K P , Pyrc
+1103	2	102. Szczepanski A, Owczarek K, Bzowska M, Gula K, Drebot I, Ochman
+1127	2	109. Dreyfuss JL, Regatieri CV , Jarrouge TR, Cavalheiro RP , Sampaio
+1134	2	111. Milewska A, Nowak P , Owczarek K, Szczepanski A, Zarebski M, Ho ang
+1137	2	112. Xu D, Olson J, Cole JN, van Wijk XM, Brinkmann V , Zychlinsky A,
+1176	2	123. Superti-Furga G, Lackner D, Wiedme T , Ingles-Prieto A, Barbo sa B, Girardi
+1195	2	128. Takeuchi T , Jyonotsuka T , Kamemori N, Kawano G, Shimizu H, And o K,
+1202	2	130. Roseanu A, Florian PE, Moisei M, Sima LE, Evans RW,
+1214	2	133. Kamemori N, Takeuchi T , Sugiyama A, Miyabayashi M, KitagawaH, Shimizu
+1221	2	135. Reghunathan R, Jayapal M, Hsu LY , Chng HH, Tai D, Leung BP ,
+1228	2	136. Brinkmann V , Reichard U, Goosmann C, Fauler B, Uhlemann Y , Weiss DS,
+1243	2	141. Urban CF , Ermert D, Schmid M, Abu-Abed U, Goosmann C, Nacken W,
+1273	2	151. Carvalho CAM, Casseb SMM, Goncalves RB, Silva EVP , Gomes AMO ,
+1373	2	181. Borodina I, Kenny LC, McCarthy CM, Paramasivan K, Pretorius R, Roberts
+1398	2	188. Patras KA, Ha AD, Rooholfada E, Olson J, Ramachandra Rao SP , Li n AE,
+1409	2	191. Morita Y , Ishikawa K, Nakano M, Wakabayashi H, Y amauchi K, A be F ,
+1414	2	192. Sangermano R, Pernarella S, Straker M, Lepanto MS, Rosa L, Cutone A,

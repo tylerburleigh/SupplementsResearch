@@ -1,0 +1,37 @@
+{
+  "id": "src-036",
+  "title": "Association between Vitamin D supplementation and mortality in critically ill patients: A systematic review and meta-analysis of randomized clinical trials",
+  "authors": [
+    "Peng, Liyuan",
+    "Li, Linjie",
+    "Wang, Peng",
+    "Chong, Weelic",
+    "Li, Yin",
+    "Zha, Xi",
+    "Deng, Haidong",
+    "Fan, Huaqian",
+    "Zhang, Yu"
+  ],
+  "year": 2020,
+  "abstract": "Background\nObservational studies suggest that low 25-hydroxyvitamin D status is common and has been associated with higher mortality in critically ill patients. This study aim to investigate whether vitamin D supplementation is associated with lower mortality in critically ill patients.\n\nMethod\nWe searched Medline, Embase, and Cochrane databases from inception to January 12, 2020, without language restrictions, for randomized controlled trials comparing the effect of vitamin D supplementation with placebo in critically ill patients. Two authors independently performed data extraction and assessed study quality. The primary outcome was all-cause mortality at the longest follow-up.\n\nResult\nWe identified nine trials with a total of 2066 patients. Vitamin D supplementation was not associated with reduced all-cause mortality at the longest follow-up (RR 0.90, 95% CI 0.74 to 1.09, I2 = 20%), at 30 days (RR 0.81, 95% CI 0.56 to 1.15), at 90 days (RR 1.15, 95% CI 0.92 to 1.44), and at 180 days (RR 0.82, 95% CI 0.65 to 1.03). Results were similar in the sensitivity analysis. The sample size met the optimum size in trial sequential analysis. Similarly, supplemental vitamin D was not associated with length of ICU stay, hospital stay, or mechanical ventilation.\n\nConclusion\nVitamin D supplement was not associated with reduced all-cause mortality in critically ill patients.\n\nSystematic review registration\nOpen Science Framework https://osf.io/bgsjq",
+  "doi": "10.1371/journal.pone.0243768",
+  "url": "https://doi.org/10.1371/journal.pone.0243768",
+  "pdf_url": "",
+  "venue": "PLOS ONE",
+  "citation_count": 13,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T20:50:45.970823+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-036.md",
+  "quality_details": {
+    "content_length": 26203,
+    "alpha_ratio": 0.689,
+    "sentence_count": 292,
+    "reasons": []
+  }
+}

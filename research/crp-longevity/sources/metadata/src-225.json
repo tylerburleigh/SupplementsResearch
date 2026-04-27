@@ -1,0 +1,18 @@
+{
+  "id": "src-225",
+  "title": "Macrophages in human atherosclerotic plaques in the era of single-cell and spatial transcriptomics",
+  "authors": [
+    "Ijaz, Adil",
+    "Rasheed, Adil",
+    "Orecchioni, Marco"
+  ],
+  "doi": "10.1093/immhor/vlaf089",
+  "url": "https://www.semanticscholar.org/paper/c72158fc743c9b80cf66e3d71405245c9b11ee2e",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "ImmunoHorizons",
+  "citation_count": 1,
+  "abstract": "Abstract Macrophages are central players of inflammation, lipid metabolism, and remodeling in atherosclerotic plaques. Historically simplified into “M1” and “M2” polarization states, their biology has been fundamentally redefined by single-cell and spatial transcriptomic technologies. Over the past decade, these approaches have identified multiple macrophage subsets within human atheromas, each driven by distinct metabolic and cytokine signatures and occupying discrete spatial niches. Human single-cell RNA sequencing (scRNA-seq), spatial transcriptomics, and multimodal omic profiling collectively demonstrate that macrophage subsets extend far beyond fixed polarization states to engage their long-recognized functions in the atheroma, including inflammation, lipid handling and repair. These findings now link macrophage identity to microenvironmental cues, vascular location, and disease stage. Importantly, these data demonstrate that these macrophages do not exist in mutually exclusive states and can transition between these subtypes in response to these aforementioned factors. Here we synthesize these advances, focusing on human data describing macrophage diversity, spatial organization, and metabolic function, and discuss how this knowledge is reshaping mechanistic models of atherosclerosis and the potential therapeutic targeting of macrophage-mediated pathology.",
+  "type": "academic",
+  "pdf_url": ""
+}

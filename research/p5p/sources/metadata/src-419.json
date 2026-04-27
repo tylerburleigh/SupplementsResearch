@@ -1,0 +1,20 @@
+{
+  "id": "src-419",
+  "title": "Association of plasma B-6 vitamers with systemic markers of inflammation before and after pyridoxine treatment in patients with stable angina pectoris.",
+  "authors": [
+    "Ulvik, Arve",
+    "Midttun, Øivind",
+    "Pedersen, Eva Ringdal",
+    "Nygård, Ottar",
+    "Ueland, Per M"
+  ],
+  "doi": "10.3945/ajcn.111.029751",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/22492365",
+  "provider": "pubmed",
+  "year": 2012,
+  "venue": "The American journal of clinical nutrition",
+  "citation_count": 0,
+  "abstract": "BACKGROUND: A negative association between systemic markers of inflammation and plasma vitamin B-6 has been observed in population-based and patient cohorts; however, vitamin B-6 (pyridoxine) treatment has mostly failed to improve inflammatory indexes.\nOBJECTIVE: We aimed to assess the effect of pyridoxine treatment on B-6 vitamer and inflammatory marker relations.\nDESIGN: We measured pyridoxal 5'-phosphate (PLP), pyridoxal, 4-pyridoxic acid (PA), C-reactive protein (CRP), neopterin, and the kynurenine-to-tryptophan ratio (KTR) in plasma and the white blood cell count (WBC). A partial Spearman's correlation was used to assess associations of B-6 vitamers with inflammatory markers before and after daily treatment with 40 mg pyridoxine hydrochloride. Generalized additive models and segmented regression analysis were used for nonlinear relations.\nRESULTS: A 9-60-fold increase in B-6 vitamer concentrations over baseline values was observed after 28 d of treatment with pyridoxine. PLP was negatively associated with all 4 inflammatory markers at baseline and, predominantly, with CRP and KTR at day 28. The catabolite PA was positively associated with neopterin and KTR before and after treatment. The dose-response relation between CRP and B-6 vitamers at day 28 was nonlinear, with an increased steepness of slope at CRP >7 mg/L. Finally, changes in B-6 vitamer concentrations were correlated with changes in inflammatory marker concentrations over a time span of 4 wk.\nCONCLUSIONS: The associations between plasma vitamin B-6 and inflammatory markers were preserved or even increased after pyridoxine treatment. The results suggest that the acute phase and activated cellular immunity are associated with increased cellular uptake and catabolism of vitamin B-6, respectively.",
+  "type": "academic",
+  "pdf_url": ""
+}

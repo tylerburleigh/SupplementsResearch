@@ -1,0 +1,29 @@
+{
+  "id": "src-023",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://puremagazine.co.uk/trimethylglycine-tmg-supplement",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-20T18:23:36.385822+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-023.md",
+  "quality_details": {
+    "content_length": 19785,
+    "alpha_ratio": 0.822,
+    "sentence_count": 170,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

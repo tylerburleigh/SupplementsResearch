@@ -1,0 +1,21 @@
+{
+  "id": "src-311",
+  "title": "Amino acid metabolism in health and disease",
+  "authors": [
+    "Ling, Zhenan",
+    "Jiang, Yifan",
+    "Ru, Jun-Nan",
+    "Lu, Jia-Hua",
+    "Ding, Bo",
+    "Wu, Jian"
+  ],
+  "doi": "10.1038/s41392-023-01569-3",
+  "url": "https://openalex.org/W4386704257",
+  "provider": "openalex",
+  "year": 2023,
+  "venue": "Signal Transduction and Targeted Therapy",
+  "citation_count": 453,
+  "abstract": "Amino acids are the building blocks of protein synthesis. They are structural elements and energy sources of cells necessary for normal cell growth, differentiation and function. Amino acid metabolism disorders have been linked with a number of pathological conditions, including metabolic diseases, cardiovascular diseases, immune diseases, and cancer. In the case of tumors, alterations in amino acid metabolism can be used not only as clinical indicators of cancer progression but also as therapeutic strategies. Since the growth and development of tumors depend on the intake of foreign amino acids, more and more studies have targeted the metabolism of tumor-related amino acids to selectively kill tumor cells. Furthermore, immune-related studies have confirmed that amino acid metabolism regulates the function of effector T cells and regulatory T cells, affecting the function of immune cells. Therefore, studying amino acid metabolism associated with disease and identifying targets in amino acid metabolic pathways may be helpful for disease treatment. This article mainly focuses on the research of amino acid metabolism in tumor-oriented diseases, and reviews the research and clinical research progress of metabolic diseases, cardiovascular diseases and immune-related diseases related to amino acid metabolism, in order to provide theoretical basis for targeted therapy of amino acid metabolism.",
+  "type": "academic",
+  "pdf_url": "https://www.nature.com/articles/s41392-023-01569-3.pdf"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "src-014",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://www.cnbc.com/2023/08/25/taurine-supplements-may-lengthen-lifespan-heres-what-research-shows.html",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-19T11:26:08.975132+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-014.md",
+  "quality_details": {
+    "content_length": 4022,
+    "alpha_ratio": 0.792,
+    "sentence_count": 28,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

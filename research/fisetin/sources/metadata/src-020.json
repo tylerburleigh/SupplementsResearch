@@ -1,0 +1,29 @@
+{
+  "id": "src-020",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://www.lifeextensioneurope.co.uk/blog/senolytics-is-a-major-advance-in-anti-aging",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-24T12:44:36.303654+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-020.md",
+  "quality_details": {
+    "content_length": 21816,
+    "alpha_ratio": 0.744,
+    "sentence_count": 344,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

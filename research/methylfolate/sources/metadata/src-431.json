@@ -1,0 +1,37 @@
+{
+  "id": "src-431",
+  "title": "Evidence for CSF accumulation of 5-methyltetrahydrofolate during repeated courses of methotrexate plus folinic acid rescue",
+  "authors": [
+    "Thyss, A",
+    "Milano, G",
+    "Etienne, MC",
+    "Paquis, P",
+    "Roche, JL",
+    "Grelier, P",
+    "Schneider, M"
+  ],
+  "year": 1989,
+  "abstract": "",
+  "doi": "10.1038/bjc.1989.127",
+  "url": "https://doi.org/10.1038/bjc.1989.127",
+  "pdf_url": "",
+  "venue": "British Journal of Cancer",
+  "citation_count": 19,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-20T13:29:15.701409+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-431.md",
+  "quality_details": {
+    "content_length": 3774,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

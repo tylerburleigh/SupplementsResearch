@@ -1,0 +1,22 @@
+{
+  "id": "src-229",
+  "title": "Endothelial KSR2 regulated by genetic variation protects against atherosclerosis through AMPKα1 stabilization",
+  "authors": [
+    "Liu, Ming",
+    "Fu, Xiangrui",
+    "Zhang, Hui",
+    "Pan, Jinyu",
+    "Jia, Qiufeng",
+    "Zhang, Chengrui",
+    "An, Fengshuang"
+  ],
+  "doi": "10.7150/thno.122864",
+  "url": "https://www.semanticscholar.org/paper/5b9acfebd7fdd8cbb24c92cbb5535f64065ad370",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "Theranostics",
+  "citation_count": 0,
+  "abstract": "Rationale: The single nucleotide polymorphism (SNP) rs11830157 within the scaffold protein kinase suppressor of Ras 2 (KSR2) locus is strongly associated with the incidence of coronary artery disease (CAD), yet its functional role remains undefined. This study aimed to investigate the potential impact of rs11830157 polymorphism on atherosclerosis and to elucidate the underlying molecular mechanisms. Methods: Dual-luciferase reporter assays, chromatin immunoprecipitation (ChIP), electrophoretic mobility shift assays (EMSA), and CRISPR/Cas9 gene-editing techniques were used to investigate the regulatory role of the SNP rs11830157. To assess the role of KSR2 in atherosclerosis, we utilized global KSR2 knockout mice fed a high-fat diet ad libitum, pair-fed global KSR2 and Apoe (Apolipoprotein E) double knockout mice, and mice with endothelial-specific KSR2 overexpression mediated by AAV9-ICAM2. Results: Genetic analyses identified SNP rs12822146, in linkage disequilibrium with rs11830157 and located within an endothelial enhancer, as a regulator of KSR2 expression via differential binding of the transcriptional repressor XBP1s. KSR2 expression was significantly reduced in endothelial cells within atherosclerotic plaques in both humans and mice. Using multiple KSR2 gene-edited mouse models, we demonstrated that endothelial KSR2 protects against atherosclerosis by suppressing inflammation and apoptosis. Mechanistic studies revealed that KSR2 competes with CRBN for binding to the K52 site of AMPKα1, inhibiting CRL4ACRBN E3 ubiquitin ligase complex-mediated K48-linked polyubiquitination and proteasomal degradation of AMPKα1. The subsequently activated AMPK signaling pathway maintains glycolytic balance in endothelial cells, ultimately exerting anti-inflammatory and anti-apoptotic effects. Conclusions: Our findings provide the first comprehensive molecular explanation of the rs12822146-KSR2-atherosclerosis axis, with important implications for both primary prevention and secondary treatment of CAD.",
+  "type": "academic",
+  "pdf_url": ""
+}

@@ -1,0 +1,23 @@
+{
+  "id": "src-046",
+  "title": "Therapeutic potential of senolytic agent quercetin in osteoarthritis: A systematic review and meta-analysis of preclinical studies.",
+  "authors": [
+    "Yamaura, K.",
+    "Nelson, A.",
+    "Nishimura, H.",
+    "Rutledge, Joan C.",
+    "Ravuri, S.",
+    "Bahney, Chelsea S.",
+    "Philippon, M.",
+    "Huard, J."
+  ],
+  "doi": "10.1016/j.arr.2023.101989",
+  "url": "https://www.semanticscholar.org/paper/c1d72b478b04d8668d0f5bebbf88893102aa3f0c",
+  "provider": "semantic_scholar",
+  "year": 2023,
+  "venue": "Ageing Research Reviews",
+  "citation_count": 31,
+  "abstract": "BACKGROUND\nQuercetin, a natural flavonoid, has shown promise as a senolytic agent for various degenerative diseases. Recently, its protective effect against osteoarthritis (OA), a representative age-related disease of the musculoskeletal system, has attracted much attention. The aim of this study is to summarize and analyze the current literature on the effects of quercetin on OA cartilage in in vivo preclinical studies.\n\nMETHODS\nThe Medline (via/using PubMed), Embase, and Web of Science databases were searched up to March 10th, 2023. Risk of bias and the qualitative assessment including mechanisms of all eligible studies and a meta-analysis of cartilage histological scores among the applicable studies was performed.\n\nRESULTS\nA total of 12 in vivo animal studies were included in this systematic review. A random-effects meta-analysis was performed on six studies using the Osteoarthritis Research Society International (OARSI) scoring system, revealing that quercetin significantly improved OA cartilage OARSI scores (SMD, -6.30 [95% CI, -9.59 to -3.01]; P = 0.0002; heterogeneity: I2 = 86%). The remaining six studies all supported quercetin's protective effects against OA during disease and aging.\n\nCONCLUSIONS\nQuercetin has shown beneficial effects on cartilage during OA across animal species. Future double-blind randomized controlled clinical trials are needed to verify the efficacy of quercetin in the treatment of OA in humans.",
+  "type": "academic",
+  "pdf_url": ""
+}

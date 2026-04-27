@@ -1,0 +1,21 @@
+{
+  "id": "src-374",
+  "title": "Mitochondrial dysfunction in sepsis: mechanisms and therapeutic perspectives",
+  "authors": [
+    "Hu, Dongxue",
+    "Prabhakaran, Harshini Sheeja",
+    "Zhang, Yuan-Yuan",
+    "Luo, Gaoxing",
+    "He, Weifeng",
+    "Liou, Yih‐Cherng"
+  ],
+  "doi": "10.1186/s13054-024-05069-w",
+  "url": "https://openalex.org/W4402193768",
+  "provider": "openalex",
+  "year": 2024,
+  "venue": "Critical Care",
+  "citation_count": 119,
+  "abstract": "Sepsis is a severe medical condition characterized by a systemic inflammatory response, often culminating in multiple organ dysfunction and high mortality rates. In recent years, there has been a growing recognition of the pivotal role played by mitochondrial damage in driving the progression of sepsis. Various factors contribute to mitochondrial impairment during sepsis, encompassing mechanisms such as reactive nitrogen/oxygen species generation, mitophagy inhibition, mitochondrial dynamics change, and mitochondrial membrane permeabilization. Damaged mitochondria actively participate in shaping the inflammatory milieu by triggering key signaling pathways, including those mediated by Toll-like receptors, NOD-like receptors, and cyclic GMP-AMP synthase. Consequently, there has been a surge of interest in developing therapeutic strategies targeting mitochondria to mitigate septic pathogenesis. This review aims to delve into the intricate mechanisms underpinning mitochondrial dysfunction during sepsis and its significant impact on immune dysregulation. Moreover, we spotlight promising mitochondria-targeted interventions that have demonstrated therapeutic efficacy in preclinical sepsis models.",
+  "type": "academic",
+  "pdf_url": "https://ccforum.biomedcentral.com/counter/pdf/10.1186/s13054-024-05069-w"
+}

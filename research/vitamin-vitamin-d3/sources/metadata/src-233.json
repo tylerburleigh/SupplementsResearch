@@ -1,0 +1,34 @@
+{
+  "id": "src-233",
+  "title": "Wnt signaling in breast cancer: biological mechanisms, challenges and opportunities",
+  "authors": [
+    "Xu, Xiufang",
+    "Zhang, Miaofeng",
+    "Xu, Faying",
+    "Jiang, Shaojie"
+  ],
+  "year": 2020,
+  "abstract": "AbstractWnt signaling is a highly conserved signaling pathway that plays a critical role in controlling embryonic and organ development, as well as cancer progression. Genome-wide sequencing and gene expression profile analyses have demonstrated that Wnt signaling is involved mainly in the processes of breast cancer proliferation and metastasis. The most recent studies have indicated that Wnt signaling is also crucial in breast cancer immune microenvironment regulation, stemness maintenance, therapeutic resistance, phenotype shaping, etc. Wnt/β-Catenin, Wnt–planar cell polarity (PCP), and Wnt–Ca2+signaling are three well-established Wnt signaling pathways that share overlapping components and play different roles in breast cancer progression. In this review, we summarize the main findings concerning the relationship between Wnt signaling and breast cancer and provide an overview of existing mechanisms, challenges, and potential opportunities for advancing the therapy and diagnosis of breast cancer.",
+  "doi": "10.1186/s12943-020-01276-5",
+  "url": "https://doi.org/10.1186/s12943-020-01276-5",
+  "pdf_url": "",
+  "venue": "Molecular Cancer",
+  "citation_count": 483,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T21:25:36.718727+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-233.md",
+  "quality_details": {
+    "content_length": 187170,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

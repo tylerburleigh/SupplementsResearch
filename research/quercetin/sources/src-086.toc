@@ -1,0 +1,535 @@
+155	2	Sppsptm
+230	2	425405 Shirpur
+237	2	425405 Shirpur
+272	2	Usa
+438	2	Ssit
+497	3	1.1 Introduction
+586	3	1.2 Mechanism of action of herbal bioenhancers
+596	4	1.2.1 Modifications in drug metabolizing enzymes
+608	4	1.2.2 Modifications in transporter proteins
+637	4	1.2.4 Other possible mechanisms
+644	3	1.3 Herbal bioenhancers in drug delivery
+645	4	1.3.1 Piperine
+686	4	1.3.2 Gingerols
+801	4	1.3.3 Glycyrrhizin
+815	4	1.3.4 Niaziridin
+825	4	1.3.5 Quercetin
+852	4	1.3.6 Genistein
+865	2	References
+903	4	1.3.7 Curcumin
+923	4	1.3.8 Capsaicin
+944	4	1.3.9 Lysergol
+967	4	1.3.10 Naringin
+983	4	1.3.11 Senomenine
+994	4	1.3.12 Allicin
+1003	4	1.3.13 Other plant extracts studied for bioenhancement activity
+1043	3	1.4 Role of herbal extracts in biosynthesis of silver
+1054	3	1.5 Recent advances in herbal drug delivery systems
+1088	2	References
+1137	3	1.6 Conclusions
+1148	3	1.7 Future prospects
+1174	2	References
+1575	3	2.1 Introduction to microparticulate drug delivery
+1632	2	28 Surendra Agrawal, Pravina Gurjar, Ayushi Agarwal
+1646	3	2.2 The proposed mechanism of bioenhancing
+1648	4	2.2.1 Increased gastrointestinal absorption
+1671	4	2.2.2 Different mechanisms related to herbal bioenhancement
+1683	2	30 Surendra Agrawal, Pravina Gurjar, Ayushi Agarwal
+1696	3	2.3 Bioenhancers in formulation development
+1697	4	2.3.1 Piperine
+1745	2	32 Surendra Agrawal, Pravina Gurjar, Ayushi Agarwal
+1748	4	2.3.2 Rutin
+1754	4	2.3.3 Capsaicin
+1764	4	2.3.4 Quercetin
+1795	4	2.3.6 Niaziridin
+1808	4	2.3.7 Glycyrrhizin
+1818	2	34 Surendra Agrawal, Pravina Gurjar, Ayushi Agarwal
+1828	3	2.4 Application of herbal bioenhancer
+1830	4	2.4.1 Bioenhancers in oral microparticulates
+1866	4	2.4.2 Bioenhancers in topical microparticulates
+1877	4	2.4.3 Bioenhancers in nasal microparticulates
+1897	2	36 Surendra Agrawal, Pravina Gurjar, Ayushi Agarwal
+1904	3	2.5 Impact of herbal bioenhancers on the
+1906	4	2.5.1 Impact on processing
+1913	4	2.5.2 Impact on stability
+1918	4	2.5.3 Interaction in finished product
+1923	3	2.6 Regulatory requirements for formulations
+1955	3	2.7 Prospects in drug development
+1964	2	38 Surendra Agrawal, Pravina Gurjar, Ayushi Agarwal
+1967	3	2.8 Conclusion
+1985	2	References
+2056	2	40 Surendra Agrawal, Pravina Gurjar, Ayushi Agarwal
+2156	2	42 Surendra Agrawal, Pravina Gurjar, Ayushi Agarwal
+2236	3	3.1 Bioenhancer
+2282	4	3.1.1 Ideal characteristics of herbal bioenhancers
+2288	3	3.2 Mechanism of bioenhancer
+2289	4	3.2.1 General mechanism
+2314	4	3.2.2 Specific mechanism
+2321	5	3.2.2.1 Enzymatic alterations
+2371	5	3.2.2.2 Using phytosomes formulation
+2394	5	3.2.2.3 Transporter protein alteration
+2427	3	3.3 Selected bioenhancers
+2443	2	References
+2544	2	References
+2782	4	3.3.10 Aloe vera
+2800	4	3.3.11 Drumstick pods
+2818	4	3.3.12 Genistein
+2841	4	3.3.13 Naringin
+2867	4	3.3.14 Sinomenium acutum
+2901	3	3.4 Role of bioenhancers in nanoparticulate drug
+2909	4	3.4.1 Nanoparticles
+2956	5	3.4.1.3 Polymeric nanoparticles
+3063	4	3.4.2 Emulsion
+3068	5	3.4.2.1 Nanoemulsions
+3084	5	3.4.2.2 Microemulsions
+3100	4	3.4.3 Lipid-based vesicular carriers
+3101	5	3.4.3.1 Liposomes
+3115	5	3.4.3.2 Niosomes
+3125	5	3.4.3.3 Transferosomes
+3148	5	3.4.3.4 Phytosomes
+3166	5	3.4.3.5 Ethosomes
+3185	5	3.4.3.6 Transethosomes
+3195	5	3.4.3.7 Menthosomes
+3213	5	3.4.3.8 Sphingosomes
+3227	3	3.5 Future perspectives
+3251	2	References
+3926	3	4.1 Introduction
+3968	3	4.2 Bioenhancers
+3999	4	4.2.1 Need for bioenhancers
+4013	4	4.2.2 Effect of bioenhancers on drugs
+4024	2	2. Inhibition of presystemic metabolism of drugs by inhibiting hepatic enzymes,
+4027	4	4.2.3 Classification of bioenhancers
+4049	3	4.3 Tuberculosis
+4081	4	4.3.1 Epidemiology
+4090	4	4.3.2 Pathogenesis
+4104	4	4.3.3 Conventional therapy of TB
+4118	3	4.4 Challenges in conventional therapy
+4136	3	4.5 Role of herbal bioenhancers in tuberculosis
+4171	4	4.5.1 Piperine from pepper
+4184	4	4.5.2 Ginger
+4196	4	4.5.3 Liquorice
+4212	4	4.5.5 Black cumin
+4219	4	4.5.6 Quercetin
+4229	4	4.5.7 Naringin
+4239	4	4.5.8 Niaziridine
+4244	4	4.5.9 Capsaicin
+4256	4	4.5.11 Gallic acid
+4262	4	4.5.12 Allicin
+4269	4	4.5.13 Turmeric
+4293	4	4.5.15 Capmul
+4296	3	4.6 Future perspectives
+4320	3	4.7 Conclusion
+4358	2	References
+4548	3	5.1 Introduction
+4593	3	5.2 Bioenhancers in cancer chemotherapy
+4621	4	5.2.1 Shortcomings of cancer chemotherapy
+4659	3	5.3 Specific examples of bioenhancers with case
+4661	4	5.3.1 Piperine
+4668	5	5.3.1.1 Mechanisms responsible for bioenhancing effect
+4707	5	5.3.1.2 In vitro studies demonstrating bioenhancing effect
+4756	5	5.3.1.3 In vivo studies demonstrating bioenhancing effect
+4872	4	5.3.2 Curcumin
+4879	5	5.3.2.1 Mechanisms responsible for bioenhancing effect
+4892	5	5.3.2.2 In vitro studies demonstrating bioenhancing effect
+4972	5	5.3.2.3 In vivo studies demonstrating bioenhancing effect
+5059	4	5.3.3 Borneol
+5071	5	5.3.3.1 Mechanisms responsible for bioenhancing effect
+5089	5	5.3.3.2 In vitro studies demonstrating bioenhancing effect
+5103	5	5.3.3.3 In vivo studies demonstrating bioenhancing effect
+5200	4	5.3.4 Quercetin
+5210	5	5.3.4.1 In vivo studies demonstrating bioenhancing effect and its mechanism
+5290	4	5.3.5 Capsaicin
+5306	5	5.3.5.1 In vitro studies demonstrating bioenhancing effect and the underlying
+5363	5	5.3.5.2 In vivo studies demonstrating bioenhancing effect
+5374	4	5.3.6 Allicin
+5397	5	5.3.6.1 Mechanisms responsible for bioenhancing effect
+5409	5	5.3.6.2 In vivo studies demonstrating bioenhancing effect
+5477	4	5.3.7 Cumin
+5492	5	5.3.7.1 In vitro studies demonstrating bioenhancing effects and underlying
+5517	5	5.3.7.2 In vivo studies demonstrating bioenhancing effect
+5566	4	5.3.8 Glycyrrhizin
+5578	5	5.3.8.1 Mechanisms responsible for bioenhancing effect
+5585	5	5.3.8.2 In vitro studies demonstrating bioenhancing effect
+5605	5	5.3.8.3 In vivo studies demonstrating bioenhancing effect
+5647	4	5.3.9 Genistein
+5650	3	270.24 Da, it is a pale yellow dendritic needle-like powder that is almost insoluble in
+5654	5	5.3.9.1 In vivo studies demonstrating bioenhancing effect
+5670	3	5.4 Clinical studies involving bioenhancers
+5878	3	5.5 Summary and future perspectives
+5958	2	References
+6417	3	6.1 Introduction
+6418	4	6.1.1 Introduction to bioenhancer
+6506	4	6.1.3 Ideal properties of a bioenhancer
+6511	2	4. The most significant property of any bioenhancer is to increase the absorption
+6513	4	6.1.4 Bioavailability enhancing effect of a bioenhancer
+6531	2	4. They promote penetration of drug into pathogen even when pathogens become
+6534	2	5. They inhibit pathogen capability of the tissue in order to reject the drug, such
+6536	2	6. They modify the signaling process between the pathogen and the host, which
+6538	2	7. They also increase the binding property between the drug and the target sites,
+6549	4	6.1.5 Mechanism of bioavailability enhancement
+6554	2	1. Bioenhancers act on the gastrointestinal tract, which improves drug absorption,
+6564	2	3. Bioenhancers increase the blood circulation and, thereby, improve the oral bio-
+6566	2	4. Bioenhancers also act by inhibiting efflux pump P-gp to move out the drug so
+6568	3	6.2 Piperine as model bioenhancer
+6583	2	Dna
+6590	4	6.2.1 Pharmacokinetics of piperine
+6593	2	1. In the first investigation to find the pharmacokinetic parameters of Piperine
+6614	2	2. The pharmacokinetic study of piperine carried out in rats using single oral dose
+6619	2	3. Piperine metabolites, including piper onyl alcohol, vanillic acid, piperonylic
+6628	4	6.2.2 Inhibition of drug metabolizing enzymes by piperine
+6654	3	6.3 Impact of piperine as bioenhancer
+6657	4	6.3.1 Piperine and pentobarbitone
+6675	4	6.3.3 Piperine and curcumin
+6687	4	6.3.4 Piperine with rifampicin, isoniazid, and pyrazinamide
+6695	4	6.3.5 Piperine with amoxicillin trihydrate and cefotaxime
+6716	4	6.3.7 Piperine and oxytetracycline
+6724	4	6.3.8 Piperine and ciprofloxacin
+6736	4	6.3.9 Piperine and nevirapine
+6750	4	6.3.10 Piperine with diclofenac sodium and pentazocine
+6763	4	6.3.11 Piperine with ampicillin and norfloxacin
+6774	4	6.3.12 Piperine and fexofenadine
+6790	4	6.3.13 Piperine and metronidazole
+6800	4	6.3.14 Piperine and ibuprofen
+6806	4	6.3.15 Piperine and oxyresveratrol
+6817	4	6.3.16 Piperine with propranolol and theophylline
+6834	4	6.3.17 Piperine and metformin
+6900	3	6.4 Impact of other herbal bioenhancers
+6920	5	6.4.1.1 Pharmacokinetics of allicin
+6939	5	6.4.1.2 Pharmacokinetics of allicin administered with another drug
+6940	2	1. Allicin and omeprazole
+6955	2	3. Amphotericin B with allicin
+6979	5	6.4.2.1 Aloe vera and vitamin C, E
+6989	5	6.4.2.2 Aloe vera and protein peptide drug
+7027	4	6.4.4 Capmul
+7041	5	6.4.5.1 Capsaicin and theophylline
+7049	5	6.4.5.2 Capsaicin and aspirin
+7052	5	6.4.5.3 Capsaicin and ciprofloxacin
+7055	4	6.4.6 Cow urine distillate
+7067	5	6.4.6.1 Cow urine distillate and cadmium toxicity, bioenhancer of zinc
+7080	5	6.4.6.2 Cow urine and gonadotropin-releasing hormone
+7085	5	6.4.6.3 Cow urine and rifampicin
+7123	5	6.4.7.1 Pharmacokinetics of curcumin
+7136	2	3. A study of pharmacokinetics of curcumin was carried out using four human
+7164	5	6.4.7.2 Effect of curcumin on pharmacokinetics of coadministered drugs
+7165	6	6.4.7.2.1 Curcumin with tamoxifen and endoxifen in patients with breast cancer
+7171	2	Auc
+7180	6	6.4.7.2.2 Curcumin and marbofloxacin in chicken
+7198	6	6.4.7.2.3 Curcumin and loratadine
+7215	6	6.4.7.2.4 Curcumin and talinolol in healthy Chinese volunteers
+7259	2	2. The percentage enhancement in bioavailability of certain drugs in combination
+7331	5	6.4.9.1 Glycyrrhizin and aconitine
+7346	5	6.4.9.2 Glycyrrhizin and paclitaxel
+7352	5	6.4.9.3 Glycyrrhizin and antibiotic
+7387	4	6.4.11 Peppermint oil
+7516	4	6.4.16 Quercetin
+7613	2	Auc
+7657	2	References
+7981	3	7.1 Introduction
+7992	3	7.2 History and concept of bioavailability enhancers
+8015	2	600 BC, a combination of three acrid drugs, namely, Maricha, Pippali, and Shunthi,
+8026	3	7.3 Classification of bioenhancers
+8036	3	7.4 Methods used for amplification of absorption
+8042	4	7.4.1 Working of bioenhancers
+8076	2	Method
+8137	3	7.5 Herbal bioenhancers and novel pharmaceutical
+8148	4	7.5.1 Nasal spray
+8155	4	7.5.2 Antibody purification
+8160	4	7.5.3 Novel herbal formulation as brain tonic
+8163	4	7.5.4 Bioenhancers in pulmonary drug delivery
+8168	4	7.5.5 Nutritional bioenhancers
+8175	4	7.5.6 Cosmeceutical approach
+8188	4	7.5.7 Bioenhancers with Ayurveda
+8194	4	7.5.8 Herbal bioenhancers for veterinary
+8203	4	7.5.9 Bioenhancers for respiratory illness treatment
+8212	4	7.5.10 Bioenhancers in a detoxifier herbal formulation
+8221	4	7.5.11 Herbal bioactive compounds and metabolic syndromes
+8235	4	7.5.12 Drugs bioenhanced by various bioenhancers
+8245	3	7.6 Patents in the field
+8255	3	7.7 Herbal bioenhancers captivating pharmaceutical
+8296	2	Llc
+8514	3	7.8 Conclusion
+8524	2	References
+8680	3	8.1 Bioenhancer
+8681	4	8.1.1 Introduction
+8720	4	8.1.2 Role of bioenhancer in bioavailability enhancement
+8729	2	1. Enhancement in the gastrointestinal blood supply and decrease in gastric acid
+8736	2	6. Prevention of first-pass effect and inhibition of acids and enzymes responsible
+8738	2	212 Deepa Mandlik, Satish Mandlik, Amarjitsing Rajput
+8746	3	8.2 Oral bioavailability improvement
+8843	2	214 Deepa Mandlik, Satish Mandlik, Amarjitsing Rajput
+8846	4	8.2.1 Techniques for improvement of bioavailability
+8853	5	8.2.1.1 Absorption enhancers
+8863	5	8.2.1.2 Prodrug
+8874	5	8.2.1.3 Dosage form and other pharmaceutical modes
+8885	5	8.2.1.4 P-glycoprotein inhibitors
+8895	4	8.2.2 Mode of action of herbal bioenhancer
+8911	2	216 Deepa Mandlik, Satish Mandlik, Amarjitsing Rajput
+8914	4	8.2.3 Need for bioavailability enhancers
+8930	4	8.2.4 Herbal bioenhancer role in oral bioavailability improvement
+8967	2	218 Deepa Mandlik, Satish Mandlik, Amarjitsing Rajput
+8984	5	8.2.4.3 Aloe
+8994	5	8.2.4.4 Genistein
+9023	5	8.2.4.5 Naringin
+9045	5	8.2.4.6 Rutin
+9048	2	220 Deepa Mandlik, Satish Mandlik, Amarjitsing Rajput
+9078	5	8.2.4.7 Boswellia serrata
+9098	5	8.2.4.8 Gingko biloba
+9124	5	8.2.4.9 Withania somnifera
+9129	2	222 Deepa Mandlik, Satish Mandlik, Amarjitsing Rajput
+9152	5	8.2.4.10 Picrorhiza kurroa
+9174	3	8.3 Nanocarrier-loaded bioenhancer in
+9176	4	8.3.1 Nanoparticles
+9197	2	224 Deepa Mandlik, Satish Mandlik, Amarjitsing Rajput
+9200	4	8.3.2 Liposomes
+9214	4	8.3.3 Phytosomes
+9222	4	8.3.4 Transfersomes
+9235	4	8.3.5 Microspheres
+9273	2	226 Deepa Mandlik, Satish Mandlik, Amarjitsing Rajput
+9345	3	8.4 Conclusion and future perspectives
+9379	2	228 Deepa Mandlik, Satish Mandlik, Amarjitsing Rajput
+9383	2	References
+9479	2	230 Deepa Mandlik, Satish Mandlik, Amarjitsing Rajput
+9579	2	232 Deepa Mandlik, Satish Mandlik, Amarjitsing Rajput
+9681	2	234 Deepa Mandlik, Satish Mandlik, Amarjitsing Rajput
+9782	2	236 Deepa Mandlik, Satish Mandlik, Amarjitsing Rajput
+9848	2	238 Deepa Mandlik, Satish Mandlik, Amarjitsing Rajput
+9893	3	9.1 Introduction
+9928	3	9.2 History
+9940	4	9.2.1 Bioenhancers in Ayurveda
+9966	4	9.2.2 Bioenhancers in modern system of medicine
+10004	3	9.3 Barriers of drug absorption
+10035	3	9.4 Methods to enhance the bioavailability of drugs
+10038	4	9.4.1 Absorption enhancers
+10050	4	9.4.2 Prodrugs
+10063	4	9.4.3 Different dosage forms and other pharmaceutical
+10070	4	9.4.4 P-glycoprotein inhibitors
+10077	3	9.5 Mechanism of action of herbal bioenhancers
+10147	3	9.6 Classification of herbal bioenhancers
+10150	3	9.7 Herbal bioenhancers
+10151	4	9.7.1 Piperine
+10218	5	9.7.1.1 Piperine and rifampicin
+10239	5	9.7.1.3 Piperine and ciprofloxacin
+10251	5	9.7.1.4 Piperine and oxytetracycline
+10261	5	9.7.1.5 Piperine with nevirapine
+10274	5	9.7.1.6 Piperine and analgesic drug
+10282	5	9.7.1.7 Piperine with ampicillin and norfloxacin
+10285	5	9.7.1.8 Piperine and fexofenadine
+10294	5	9.7.1.9 Piperine and metronidazole
+10299	5	9.7.1.10 Piperine and ibuprofen
+10306	5	9.7.1.11 Piperine with losartan potassium
+10313	5	9.7.1.12 Piperine and propranolol HCl
+10323	5	9.7.1.13 Piperine with nimesulide
+10328	5	9.7.1.14 Piperine and curcumin
+10333	4	9.7.2 Ginger
+10346	4	9.7.3 Niaziridin
+10361	4	9.7.4 Glycyrrhizin
+10378	4	9.7.5 Cumin
+10385	4	9.7.6 Caraway
+10408	4	9.7.8 Lysergol
+10417	4	9.7.9 Aloe vera gel
+10428	4	9.7.10 Curcumin
+10437	4	9.7.11 Capmul
+10441	4	9.7.12 Callistemon rigidus
+10447	4	9.7.13 Ammannia multiflora
+10452	4	9.7.14 Stevia
+10468	4	9.7.15 Genistein
+10472	5	9.7.15.1 Genistein and paclitaxel
+10484	4	9.7.16 Capsaicin
+10494	4	9.7.17 Peppermint oil
+10500	4	9.7.18 Sinomenine
+10508	4	9.7.19 Gallic acid
+10514	3	9.8 Bioflavonoids used as herbal bioenhancers
+10524	4	9.8.1 Quercetin
+10531	5	9.8.1.1 Quercetin with paclitaxel
+10535	5	9.8.1.2 Quercetin and verapamil
+10540	5	9.8.1.3 Quercetin and diltiazem
+10546	5	9.8.1.4 Quercetin with tamoxifen
+10554	5	9.8.1.5 Quercetin with fexofenadine
+10559	5	9.8.1.6 Quercetin and doxorubicin
+10566	4	9.8.2 Naringin
+10572	5	9.8.2.1 Naringin and diltiazem
+10577	5	9.8.2.2 Naringin and paclitaxel
+10587	5	9.8.2.3 Naringin and verapamil
+10594	4	9.8.3 Genistein
+10604	3	9.9 Bioenhancers of animal origin
+10607	4	9.9.1 Cow urine
+10634	4	9.9.2 Ghee
+10638	4	9.9.3 Honey
+10643	3	9.10 Recently introduced bioenhancers
+10644	4	9.10.1 Resveratrol
+10655	4	9.10.2 Lutein
+10659	4	9.10.3 Friedelin
+10666	3	9.11 Applications of herbal bioenhancers
+10696	2	References
+10770	3	9.12 Hurdles with herbal bioenhancers
+10805	3	9.13 Future scope
+10819	3	9.14 Conclusion
+10866	2	References
+11248	3	10.1 Introduction
+11267	3	10.2 Classification and mechanism of action
+11277	4	10.2.1 Inhibition of P-glycoprotein drug efflux
+11294	4	10.2.3 Absorption enhancers
+11303	3	10.3 Current trends
+11410	3	10.4 Herbal enhancers used in novel drug delivery
+11453	2	Crysmeb
+11462	4	10.4.1 Liposome
+11509	4	10.4.2 Transferosomes
+11541	4	10.4.3 Microspheres
+11571	4	10.4.4 Nanoparticles
+11613	4	10.4.5 Transdermal patches
+11650	4	10.4.6 Nasal sprays
+11664	4	10.4.7 Microcapsule
+11760	2	References
+11804	2	Method
+11814	2	References
+11835	2	Method
+11846	2	Method
+11874	2	Method
+11921	2	Design
+11926	4	10.4.9 Herbal enhancers for veterinary applications
+11954	2	References
+11967	2	Sedds
+11978	2	Method
+11981	2	Sedds
+11990	2	Method
+11998	3	10.5 Recent case studies
+12011	2	References
+12081	3	10.6 Recently used in vitro, in vivo, and ex vivo
+12093	2	References
+12109	2	Method
+12125	2	Method
+12171	3	10.7 Current patents on herbal enhancers
+12306	3	10.8 Future perspective
+12356	2	References
+12818	3	11.1 Introduction
+12846	3	11.2 Application of different herbal bioenhancer
+12891	4	11.2.2 Antitubercular and antileprotic drugs
+12959	4	11.2.4 Cardiovascular disease
+12968	4	11.2.5 Anti-inflammatory action
+12982	4	11.2.6 Nutraceuticals
+12988	3	11.3 Recent advances of bioenhancers
+12989	4	11.3.1 Bioenhancer: piperine
+12996	4	11.3.2 Bioenhancer: piperine
+13007	4	11.3.3 Bioenhancer: Artemisia annua L
+13023	4	11.3.5 Bioenhancer: naringin
+13030	4	11.3.6 Bioenhancer: piperine
+13041	3	11.4 The future of bioenhancers
+13042	4	11.4.1 Bioenhancing activity through different routes of drug
+13049	4	11.4.2 New drug delivery systems for traditional bioenhancer
+13079	2	References
+13137	2	References
+13216	4	11.4.3 Reduce the cost of drug development
+13245	2	References
+13276	4	11.4.4 Ecological aspect
+13284	4	11.4.5 Regulatory guidelines
+13317	4	11.4.6 Industry and future of bioenhancers
+13343	3	11.5 Conclusion
+13371	2	References
+13594	3	12.1 Introduction
+13604	4	12.1.2 History
+13631	3	12.2 Need of bioenhancers in veterinary
+13648	3	12.3 Difficulties related to herbal bioenhancer
+13675	3	12.4 Natural compounds as bioenhancer
+13677	4	12.4.1 Quercetin
+13678	5	12.4.1.1 Biological source
+13685	5	12.4.1.2 Uses
+13688	5	12.4.1.3 Mechanism of action
+13691	5	12.4.1.4 Combination of quercetin with other drugs
+13697	5	12.4.1.5 Examples
+13736	4	12.4.2 Stevia
+13737	5	12.4.2.1 Biological source
+13740	5	12.4.2.2 Uses
+13746	5	12.4.2.3 Dose
+13763	5	12.4.2.4 Examples
+13773	4	12.4.3 Piperine
+13774	5	12.4.3.1 Biological sources
+13777	5	12.4.3.2 Uses
+13785	5	12.4.3.3 Mechanism of action
+13787	2	1 Specific mechanism: Increase in the blood flow to the gastrointestinal tract and
+13792	2	2 Nonspecific mechanisms that block enzymes involved in drug biotransforma-
+13797	5	12.4.3.4 Dose
+13803	5	12.4.3.5 Drugs in combination with piperine
+13807	5	12.4.3.6 Examples
+13847	4	12.4.4 Allicin
+13848	5	12.4.4.1 Biological source
+13856	5	12.4.4.2 Uses
+13860	5	12.4.4.3 Mechanism of action
+13871	5	12.4.4.4 Combination with other drugs
+13873	5	12.4.4.5 Examples
+13893	4	12.4.5 Cyminum
+13894	5	12.4.5.1 Biological source
+13900	5	12.4.5.2 Uses
+13905	5	12.4.5.3 Dose
+13909	5	12.4.5.4 Combination with other drugs
+13913	5	12.4.5.5 Examples
+13964	4	12.4.6 Caraway
+13965	5	12.4.6.1 Biological source
+13968	5	12.4.6.2 Uses
+13971	5	12.4.6.3 Dose
+13974	5	12.4.6.4 Combination with other drugs
+14032	5	12.4.6.5 Examples
+14064	4	12.4.7 Black cumin
+14065	5	12.4.7.1 Biological source
+14069	5	12.4.7.2 Uses
+14072	5	12.4.7.3 Mechanism of action
+14077	5	12.4.7.4 Example
+14088	4	12.4.8 Curcumin
+14089	5	12.4.8.1 Biological source
+14098	5	12.4.8.2 Uses
+14106	5	12.4.8.3 Mechanism of action
+14119	5	12.4.8.4 Examples
+14180	4	12.4.9 Ginger
+14181	5	12.4.9.1 Biological source
+14187	5	12.4.9.2 Uses
+14194	5	12.4.9.3 Mechanism of action
+14197	5	12.4.9.4 Dose
+14211	5	12.4.9.5 Examples
+14231	4	12.4.10 Glycyrrhizin
+14232	5	12.4.10.1 Biological source
+14236	5	12.4.10.2 Uses
+14250	5	12.4.10.3 Mechanism of action
+14265	5	12.4.10.4 Dose
+14269	5	12.4.10.5 Examples
+14297	4	12.4.11 Aloe vera
+14298	5	12.4.11.1 Biological source
+14301	5	12.4.11.2 Uses
+14314	5	12.4.11.3 Mechanism of action
+14318	5	12.4.11.4 Examples
+14334	4	12.4.12 Lysergol
+14335	5	12.4.12.1 Biological source
+14341	5	12.4.12.2 Uses
+14350	5	12.4.12.3 Mechanism of action
+14354	5	12.4.12.4 Dose
+14357	5	12.4.12.5 Examples
+14379	4	12.4.13 Capsaicin
+14380	5	12.4.13.1 Biological source
+14383	5	12.4.13.2 Uses
+14385	5	12.4.13.3 Mechanism of action
+14387	5	12.4.13.4 Examples
+14419	4	12.4.14 Sinomenine
+14420	5	12.4.14.1 Biological source
+14424	5	12.4.14.2 Uses
+14427	5	12.4.14.3 Mechanism of action
+14431	5	12.4.14.4 Examples
+14460	4	12.4.15 Ammaniol
+14461	5	12.4.15.1 Biological source
+14463	5	12.4.15.2 Mechanism of action
+14466	5	12.4.15.3 Examples
+14476	4	12.4.16 Peppermint oil
+14477	5	12.4.16.1 Biological source
+14479	5	12.4.16.2 Uses
+14496	5	12.4.16.3 Mechanism of action
+14498	5	12.4.16.4 Examples
+14508	5	12.4.17.1 Biological source
+14513	5	12.4.17.2 Dose
+14515	5	12.4.17.3 Example
+14518	5	12.4.18.1 Biological source
+14522	5	12.4.18.2 Uses
+14526	5	12.4.18.3 Examples
+14581	3	12.5 Recent advances in bioenhancers
+14635	3	12.6 Future perspective of bioenhancers
+14714	2	References
+15224	2	368 Keyword index
+15420	2	370 Keyword index
+15615	2	372 Keyword index
+15758	2	374 Keyword index

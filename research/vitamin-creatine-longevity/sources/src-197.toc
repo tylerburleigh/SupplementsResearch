@@ -1,0 +1,7 @@
+12	2	Abstract
+52	2	Introduction
+70	2	Methods
+193	2	Results
+252	2	Discussion
+325	2	Conclusion
+337	2	References

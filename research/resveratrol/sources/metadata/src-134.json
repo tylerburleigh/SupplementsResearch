@@ -1,0 +1,24 @@
+{
+  "id": "src-134",
+  "title": "ROS: Basic Concepts, Sources, Cellular Signaling, and its Implications in Aging Pathways",
+  "authors": [
+    "Almeida, Arthur José Pontes Oliveira de",
+    "Oliveira, Júlio César Pinheiro Lúcio de",
+    "Pontes, Larisse Virgolino da Silva",
+    "Júnior, Javanyr Frederico de Souza",
+    "Gonçalves, Tays Amanda Felisberto",
+    "Dantas, Sabine Helena",
+    "Feitosa, Mathania Silva de Almeida",
+    "Silva, Antônia Oliveira",
+    "Medeiros, Isac Almeida de"
+  ],
+  "doi": "10.1155/2022/1225578",
+  "url": "https://openalex.org/W4306840935",
+  "provider": "openalex",
+  "year": 2022,
+  "venue": "Oxidative Medicine and Cellular Longevity",
+  "citation_count": 383,
+  "abstract": "Reactive oxygen species (ROS) are bioproducts of cellular metabolism. There is a range of molecules with oxidizing properties known as ROS. Despite those molecules being implied negatively in aging and numerous diseases, their key role in cellular signaling is evident. ROS control several biological processes such as inflammation, proliferation, and cell death. The redox signaling underlying these cellular events is one characteristic of the new generation of scientists aimed at defining the role of ROS in the cellular environment. The control of redox potential, which includes the balance of the sources of ROS and the antioxidant system, implies an important target for understanding the cells' fate derived from redox signaling. In this review, we summarized the chemical, the redox balance, the signaling, and the implications of ROS in biological aging.",
+  "type": "academic",
+  "pdf_url": "https://downloads.hindawi.com/journals/omcl/2022/1225578.pdf"
+}

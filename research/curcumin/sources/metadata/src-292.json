@@ -1,0 +1,27 @@
+{
+  "id": "src-292",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "",
+  "pdf_url": "https://eu-assets.contentstack.com/v3/assets/blt2183a7e3152cc969/blt89a765c02ac18cb1/64b50f65d58708b94829a6e6/NPI-DM-Curcumin_1221.pdf",
+  "venue": "",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "",
+  "fetched_at": "2026-04-22T15:03:29.805954+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-292.md",
+  "quality_details": {
+    "content_length": 84307,
+    "alpha_ratio": 0.693,
+    "sentence_count": 575,
+    "reasons": []
+  }
+}

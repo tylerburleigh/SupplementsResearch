@@ -1,0 +1,28 @@
+{
+  "id": "src-213",
+  "title": "Vitamin K intake and breast cancer incidence and death: results from a prospective cohort study.",
+  "authors": [
+    "Wang, Kang",
+    "Wu, Qianxue",
+    "Li, Zhuyue",
+    "Reger, Michael K",
+    "Xiong, Yongfu",
+    "Zhong, Guochao",
+    "Li, Qing",
+    "Zhang, Xiang",
+    "Li, Hongyuan",
+    "Foukakis, Theodoros",
+    "Xiang, Tingxiu",
+    "Zhang, Jianjun",
+    "Ren, Guosheng"
+  ],
+  "doi": "10.1016/j.clnu.2020.11.009",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/33277073",
+  "provider": "pubmed",
+  "year": 2021,
+  "venue": "Clinical nutrition (Edinburgh, Scotland)",
+  "citation_count": 0,
+  "abstract": "BACKGROUND & AIMS: Vitamin K prevents growth and metastasis of certain cancers, but there is little evidence regarding the association between dietary vitamin K and breast cancer incidence and death. We sought to examine whether intakes of total vitamin K, phylloquinone (vitamin K1) and menaquinones (MKs) (vitamin K2) may influence risks of breast cancer incidence and death in the US population.\nMETHODS: Herein, 2286 breast cancer cases and 207 breast cancer deaths were identified during 702,748 person-years of follow-up. Cox regression and competing risk regression were used to estimate multivariable-adjusted hazards ratios (HRs) and 95% confidence intervals (95% CIs) by dietary vitamin K intake quintile (Q) for risk of breast cancer incidence and mortality.\nRESULTS: After adjustment for confounders, the total MK intake was associated with an increased risk of breast cancer (HR Q5 vs Q1, 1.26; 95% CI, 1.05 to 1.52; Ptrend, 0.01) and death from breast cancer (HR Q5 vs Q1, 1.71; 95% CI, 0.97 to 3.01; Ptrend, 0.04). Non-linear positive dose-response associations with risks of breast cancer incidence and death were found for total MKs intake (Pnon-linearity<0.05). No statistically significant associations were observed between the intake of total vitamin K and phylloquinone and breast cancer.\nCONCLUSIONS: The present study suggests that total MK intake was associated with an altered risk of the occurrence and death of breast cancer in the general US population. If our findings are replicated in other epidemiological studies, reducing dietary intake of menaquinones may offer a novel strategy for breast cancer prevention.",
+  "type": "academic",
+  "pdf_url": ""
+}

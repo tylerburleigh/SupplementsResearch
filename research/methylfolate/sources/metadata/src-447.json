@@ -1,0 +1,26 @@
+{
+  "id": "src-447",
+  "title": "Does Folic Acid Supplementation Prevent or Promote Colorectal Cancer? Results from Model-Based Predictions",
+  "authors": [
+    "Luebeck, E. Georg",
+    "Moolgavkar, Suresh H.",
+    "Liu, Amy Y.",
+    "Boynton, Alanna",
+    "Ulrich, Cornelia M."
+  ],
+  "year": 2008,
+  "abstract": "Abstract\nFolate is essential for nucleotide synthesis, DNA replication, and methyl group supply. Low-folate status has been associated with increased risks of several cancer types, suggesting a chemopreventive role of folate. However, recent findings on giving folic acid to patients with a history of colorectal polyps raise concerns about the efficacy and safety of folate supplementation and the long-term health effects of folate fortification. Results suggest that undetected precursor lesions may progress under folic acid supplementation, consistent with the role of folate role in nucleotide synthesis and cell proliferation. To better understand the possible trade-offs between the protective effects due to decreased mutation rates and possibly concomitant detrimental effects due to increased cell proliferation of folic acid, we used a biologically based mathematical model of colorectal carcinogenesis. We predict changes in cancer risk based on timing of treatment start and the potential effect of folic acid on cell proliferation and mutation rates. Changes in colorectal cancer risk in response to folic acid supplementation are likely a complex function of treatment start, duration, and effect on cell proliferation and mutations rates. Predicted colorectal cancer incidence rates under supplementation are mostly higher than rates without folic acid supplementation unless supplementation is initiated early in life (before age 20 years). To the extent to which this model predicts reality, it indicates that the effect on cancer risk when starting folic acid supplementation late in life is small, yet mostly detrimental. Experimental studies are needed to provide direct evidence for this dual role of folate in colorectal cancer and to validate and improve the model predictions. (Cancer Epidemiol Biomarkers Prev 2008;17(6):OF1360–8)",
+  "doi": "10.1158/1055-9965.epi-07-2878",
+  "url": "https://doi.org/10.1158/1055-9965.epi-07-2878",
+  "pdf_url": "",
+  "venue": "Cancer Epidemiology, Biomarkers &amp; Prevention",
+  "citation_count": 51,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-20T13:44:23.887908+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok"
+}

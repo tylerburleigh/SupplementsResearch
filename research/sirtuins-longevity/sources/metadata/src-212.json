@@ -1,0 +1,19 @@
+{
+  "id": "src-212",
+  "title": "Biochemical Genetic Pathways that Modulate Aging in Multiple Species: Figure 1.",
+  "authors": [
+    "Bitto, Alessandro",
+    "Wang, Adrienne M.",
+    "Bennett, Christopher F.",
+    "Kaeberlein, Matt"
+  ],
+  "doi": "10.1101/cshperspect.a025114",
+  "url": "https://openalex.org/W2284546680",
+  "provider": "openalex",
+  "year": 2015,
+  "venue": "Cold Spring Harbor Perspectives in Medicine",
+  "citation_count": 119,
+  "abstract": "The mechanisms underlying biological aging have been extensively studied in the past 20 years with the avail of mainly four model organisms: the budding yeast Saccharomyces cerevisiae, the nematode Caenorhabditis elegans, the fruitfly Drosophila melanogaster, and the domestic mouse Mus musculus. Extensive research in these four model organisms has identified a few conserved genetic pathways that affect longevity as well as metabolism and development. Here, we review how the mechanistic target of rapamycin (mTOR), sirtuins, adenosine monophosphate-activated protein kinase (AMPK), growth hormone/insulin-like growth factor 1 (IGF-1), and mitochondrial stress-signaling pathways influence aging and life span in the aforementioned models and their possible implications for delaying aging in humans. We also draw some connections between these biochemical pathways and comment on what new developments aging research will likely bring in the near future.",
+  "type": "academic",
+  "pdf_url": "http://perspectivesinmedicine.cshlp.org/content/5/11/a025114.full.pdf"
+}

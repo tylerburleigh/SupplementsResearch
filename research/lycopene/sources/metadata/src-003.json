@@ -1,0 +1,29 @@
+{
+  "id": "src-003",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://bioactivesamerica.com/lycopene-modulates-growth-and-survival-associated-genes-in-prostate-cancer",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-19T18:28:57.442681+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-003.md",
+  "quality_details": {
+    "content_length": 2388,
+    "alpha_ratio": 0.796,
+    "sentence_count": 18,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

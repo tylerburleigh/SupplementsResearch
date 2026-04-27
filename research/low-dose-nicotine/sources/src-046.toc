@@ -1,0 +1,46 @@
+8	2	Abstract
+73	2	Cnni
+126	2	Methods And Materials
+127	2	Participants
+139	2	Experimental Design
+193	2	Cnni
+313	2	Cnni
+377	2	Cnni
+406	2	Results
+454	2	Cnni
+518	2	Cnni
+520	2	Discussion
+603	2	Cnni
+730	2	Cnni
+753	2	Acknowledgments And Disclosures
+763	2	Article Information
+778	2	References
+782	2	2. Orleans CT, Schoenbach VJ, Wagner EH, Quade D, Salmon MA,
+803	2	8. Weigard A, Huang-Pollock C, Heathcote A, Hawk L Jr, Schlienz NJ
+807	2	9. Mendrek A, Monterosso J, Simon SL, Jarvik M, Brody A, Olmstead R,
+839	2	19. McKee SA, Sinha R, Weinberger AH, Sofuoglu M, Harrison EL,
+848	2	22. Ashare RL, Lerman C, Cao W, Falcone M, Bernardo L, Ruparel K,
+867	2	Cnni
+873	2	29. Lurie DJ, Kessler D, Bassett DS, Betzel RF, Breakspear M,
+898	2	38. Shine JM, Bissett PG, Bell PT, Koyejo O, Balsters JH,
+905	2	40. Reddy PG, Mattar MG, Murphy AC, Wymbs NF, Grafton ST,
+921	2	45. Fedota JR, Ding X, Matous AL, Salmeron BJ, McKenna MR, Gu H,
+934	2	49. Welsch SK, Smith SS, Wetter DW, Jorenby DE, Fiore MC, Baker TB
+950	2	54. Esteban O, Markiewicz CJ, Blair RW, Moodie CA, Isik AI,
+953	2	55. Power JD, Cohen AL, Nelson SM, Wig GS, Barnes KA, Church JA,
+1002	2	75. Gipson CD, Reissner KJ, Kupchik YM, Smith ACW, Stankeviciute N,
+1010	2	Cnni
+1016	2	77. Grundey J, Thirugnanasambandam N, Kaminsky K, Drees A,
+1020	2	78. Batsikadze G, Paulus W, Hasan A, Grundey J, Kuo MF, Nitsche MA
+1033	2	82. Sadaghiani S, Scheeringa R, Le hongre K, Morillon B, Giraud AL,
+1046	2	86. Picard F, Sadaghiani S, Leroy C, Courvoisier DS, Maroy R,
+1051	2	88. Cole MW, Reynolds JR, Power JD, Repovs G, Anticevic A, Braver TS
+1064	2	92. Deco G, Van Hartevelt TJ, Fernandes HM, Stevner A, Kringelbach ML
+1086	2	99. Kleckner IR, Zhang J, Touroutoglou A, Chanes L, Xia C,
+1090	2	100. Goldstein RZ, Craig ADB, Bechara A, Garavan H, Childress AR,
+1093	2	101. Khalsa SS, Adolphs R, Cameron OG, Critchley HD, Davenport PW,
+1096	2	102. Avery JA, Burrows K, Kerr KL, Bodurka J, Khalsa SS, Paulus MP,
+1105	2	105. Hindriks R, Adhikari MH, Murayama Y, Ganzetti M, Mantini D,
+1125	2	111. Fair DA, Miranda-Dominguez O, Snyder AZ, Perrone A, Earl EA,
+1128	2	112. Weissenbacher A, Kasess C, Gerstl F, Lanzenberger R, Moser E,
+1139	2	Cnni

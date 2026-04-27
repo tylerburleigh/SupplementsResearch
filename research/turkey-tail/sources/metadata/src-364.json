@@ -1,0 +1,19 @@
+{
+  "id": "src-364",
+  "title": "Integrative Network Pharmacology and Molecular Docking Elucidate the Multi-Target Mechanisms of the Artist's Conk Medicinal Mushroom Ganoderma applanatum (Agaricomycetes) Triterpenoids against Hepatocellular Carcinoma.",
+  "authors": [
+    "Cheng, Mengtao",
+    "Pan, Hongyu",
+    "Zhao, Xin",
+    "Han, Chunchao"
+  ],
+  "doi": "10.1615/intjmedmushrooms.2025062402",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41915573",
+  "provider": "pubmed",
+  "year": 2026,
+  "venue": "International journal of medicinal mushrooms",
+  "citation_count": 0,
+  "abstract": "Hepatocellular carcinoma (HCC) poses a significant global public health challenge, with conventional therapies often limited by severe adverse reactions. This study utilized network pharmacology and molecular docking to identify anti-HCC compounds from Ganoderma applanatum triterpenoids (GAT). Sixty compounds were screened using Swiss ADME, with potential targets predicted subsequently. Intersection analysis with HCC-associated targets identified 339 overlapping targets. Subsequent protein-protein interaction (PPI) network analysis identified nine core targets. Gene Ontology (GO) and Kyoto Encyclopedia of Genes and Genomes (KEGG) enrichment analyses demonstrated that GAT inhibits HCC progression by modulating cancer-associated signaling pathways such as PI3K-Akt, MAPK, Ras, and Rap1 signaling. A compound-target network identified core compounds. Molecular docking demonstrated strong binding affinities between four compounds (applanaic acid C, methyl gibbosate A, bovistol, lucidone A) and three targets (AKT1, MAPK1, SRC). Toxicity predictions indicated low acute oral toxicity for applanaic acid C (LD50 > 300 mg/kg) and lucidone A (LD50 > 5000 mg/kg). Moreover, immunotoxicity risks were noted, which require key attention during subsequent drug development. This study systematically elucidates the multi-target and multi-pathway anti-HCC mechanisms of GAT providing a foundation for developing natural product-derived therapeutics. Further experimental validation of the efficacy and safety profiles is warranted for these potential lead compounds.",
+  "type": "academic",
+  "pdf_url": ""
+}

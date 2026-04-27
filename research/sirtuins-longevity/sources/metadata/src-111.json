@@ -1,0 +1,23 @@
+{
+  "id": "src-111",
+  "title": "Transcriptomics Reveals Discordant Lipid Metabolism Effects between In Vitro Models Exposed to Elafibranor and Liver Samples of NAFLD Patients after Bariatric Surgery.",
+  "authors": [
+    "Boeckmans, Joost",
+    "Gatzios, Alexandra",
+    "Heymans, Anja",
+    "Rombaut, Matthias",
+    "Rogiers, Vera",
+    "De Kock, Joery",
+    "Vanhaecke, Tamara",
+    "Rodrigues, Robim M"
+  ],
+  "doi": "10.3390/cells11050893",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35269515",
+  "provider": "pubmed",
+  "year": 2022,
+  "venue": "Cells",
+  "citation_count": 0,
+  "abstract": "BACKGROUND AND AIMS: Non-alcoholic steatohepatitis (NASH) is a life-threatening stage of non-alcoholic fatty liver disease (NAFLD) for which no drugs have been approved. We have previously shown that human-derived hepatic in vitro models can be used to mimic key cellular mechanisms involved in the progression of NASH. In the present study, we first characterize the transcriptome of multiple in vitro NASH models. Subsequently, we investigate how elafibranor, which is a peroxisome proliferator-activated receptor (PPAR)-α/δ agonist that has recently failed a phase 3 clinical trial as a potential anti-NASH compound, modulates the transcriptome of these models. Finally, we compare the elafibranor-induced gene expression modulation to transcriptome data of patients with improved/resolved NAFLD/NASH upon bariatric surgery, which is the only proven clinical NASH therapy.\nMETHODS: Human whole genome microarrays were used for the transcriptomics evaluation of hepatic in vitro models. Comparison to publicly available clinical datasets was conducted using multiple bioinformatic application tools.\nRESULTS: Primary human hepatocytes (PHH), HepaRG, and human skin stem cell-derived hepatic progenitors (hSKP-HPC) exposed to NASH-inducing triggers exhibit up to 35% overlap with datasets of liver samples from NASH patients. Exposure of the in vitro NASH models to elafibranor partially reversed the transcriptional modulations, predicting an inhibition of toll-like receptor (TLR)-2/4/9-mediated inflammatory responses, NFκB-signaling, hepatic fibrosis, and leukocyte migration. These transcriptomic changes were also observed in the datasets of liver samples of patients with resolved NASH. Peroxisome Proliferator Activated Receptor Alpha (PPARA), PPARG Coactivator 1 Alpha (PPARGC1A), and Sirtuin 1 (SIRT1) were identified as the major common upstream regulators upon exposure to elafibranor. Analysis of the downstream mechanistic networks further revealed that angiopoietin Like 4 (ANGPTL4), pyruvate dehydrogenase kinase 4 (PDK4), and perilipin 2 (PLIN2), which are involved in the promotion of hepatic lipid accumulation, were also commonly upregulated by elafibranor in all in vitro NASH models. Contrarily, these genes were not upregulated in liver samples of patients with resolved NASH.\nCONCLUSION: Transcriptomics comparison between in vitro NASH models exposed to elafibranor and clinical datasets of NAFLD patients after bariatric surgery reveals commonly modulated anti-inflammatory responses, but discordant modulations of key factors in lipid metabolism. This discordant adverse effect of elafibranor deserves further investigation when assessing PPAR-α/δ agonism as a potential anti-NASH therapy.",
+  "type": "academic",
+  "pdf_url": ""
+}

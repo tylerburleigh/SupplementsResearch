@@ -1,0 +1,13 @@
+13	2	Introduction
+84	2	Abstract
+911	2	1. Morphology
+924	2	3. Physical properties
+928	2	4. Drug load and Encapsulation Efficiency
+939	2	5. Antioxidant activity
+944	2	6. Drug release
+952	2	7. Stability
+958	2	8. Other Studies
+968	2	References
+1060	2	30. Urzua Catalina, Gonzales Estefania, Dueik Veronica, Bouchon Pedro, Gimenez
+1094	2	Graphical Abstract
+1095	2	About Authors

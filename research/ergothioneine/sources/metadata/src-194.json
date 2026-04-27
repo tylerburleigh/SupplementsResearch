@@ -1,0 +1,24 @@
+{
+  "id": "src-194",
+  "title": "Red blood cell metabolomics identify ergothioneine as a key metabolite in DMARD-naïve rheumatoid arthritis and response to methotrexate",
+  "authors": [
+    "Sigaux, Johanna",
+    "Junot, Christophe",
+    "Boissier, Marie‐Christophe",
+    "Petit, Mylène",
+    "Breckler, Magali",
+    "Castelli, Florence",
+    "Fenaille, François",
+    "Roméo, Paul‐Henri",
+    "Semerano, Luca"
+  ],
+  "doi": "10.1038/s41598-024-68477-6",
+  "url": "https://openalex.org/W4402357004",
+  "provider": "openalex",
+  "year": 2024,
+  "venue": "Scientific Reports",
+  "citation_count": 4,
+  "abstract": "Using a new red blood cell (RBC) metabolite extraction protocol, we performed a metabolomic analysis on RBCs in rheumatoid arthritis (RA) patients treated or not with methotrexate (MTX), with the two following objectives: to compare the RBC metabolic profiles of MTX-naïve RA patients and healthy controls (HC), and to investigate whether RBC profiles before and after MTX treatment in RA differed between responders and non-responders. Plasma analysis was performed in parallel. Metabolites were extracted and identified in RBCs and plasma by liquid chromatography-mass spectrometry. We compared the metabolomic fingerprints of 31 DMARD-naïve RA patients and 39 HCs. We also compared the RBC and plasma metabolomes of 25 RA patients who responded or not to MTX therapy before (M0) and after a 3-month treatment period (M3). Significance was determined by Storey's false discovery rate (FDR) q-values to correct for multiple testing. RA patients and HCs differed in the metabolomic signature of RBCs. The signature mainly contained amino acids (AA). Eleven metabolites, including 4 metabolites belonging to the carbohydrate subclass and 2 amino acids (creatine and valine) showed accumulation in RBCs from RA patients. Conversely, citrulline (fold change = 0.83; q = 0.025), histidine (fold change = 0.86; q = 0.014) and ergothioneine (EGT) (fold change = 0.66; q = 0.024), were lower in RBC of RA patients. Five plasma metabolites, including succinic acid and hydroxyproline, were higher in RA patients, and 7 metabolites, including DHEA sulfate, alanine, threonine and ornithine, were lower. Among RA patients undergoing MTX treatment pre-treatment (M0), EGT values were significantly lower in non-responders. In conclusion, low RBC levels of EGT, a food-derived AA barely detectable in plasma, characterize DMARD naïve RA patients and lack of response to MTX treatment.",
+  "type": "academic",
+  "pdf_url": "https://www.nature.com/articles/s41598-024-68477-6.pdf"
+}

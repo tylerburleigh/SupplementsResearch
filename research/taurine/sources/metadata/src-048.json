@@ -1,0 +1,37 @@
+{
+  "id": "src-048",
+  "title": "Taurine reduces the risk for metabolic syndrome: a systematic review and meta-analysis of randomized controlled trials",
+  "authors": [
+    "Tzang, Chih-Chen",
+    "Chi, Liang-Yun",
+    "Lin, Long-Huei",
+    "Lin, Ting-Yu",
+    "Chang, Ke-Vin",
+    "Wu, Wei-Ting",
+    "Özçakar, Levent"
+  ],
+  "year": 2024,
+  "abstract": "Abstract\nBackground\nMetabolic syndrome (MetS) is a cluster of interconnected risk factors that significantly increase the likelihood of cardiovascular disease and type 2 diabetes. Taurine has emerged as a potential therapeutic agent for MetS. This meta-analysis of randomized controlled trials (RCTs) aimed to evaluate the effects of taurine supplementation on MetS-related parameters.\n\nMethods\nWe conducted electronic searches through databases like Embase, PubMed, Web of Science, Cochrane CENTRAL, and ClinicalTrials.gov, encompassing publications up to December 1, 2023. Our analysis focused on established MetS diagnostic criteria, including systolic blood pressure (SBP), diastolic blood pressure (DBP), fasting blood glucose (FBG), triglyceride (TG), and high-density lipoprotein cholesterol (HDL-C). Meta-regression explored potential dose-dependent relationships based on the total taurine dose administered during the treatment period. We also assessed secondary outcomes like body composition, lipid profile, and glycemic control.\n\nResults\nOur analysis included 1024 participants from 25 RCTs. The daily dosage of taurine in the studies ranged from 0.5 g/day to 6 g/day, with follow-up periods varying between 5 and 365 days. Compared to control groups, taurine supplementation demonstrated statistically significant reductions in SBP (weighted mean difference [WMD] = −3.999 mmHg, 95% confidence interval [CI] = −7.293 to −0.706, p = 0.017), DBP (WMD = −1.509 mmHg, 95% CI = −2.479 to −0.539, p = 0.002), FBG (WMD: −5.882 mg/dL, 95% CI: −10.747 to −1.018, p = 0.018), TG (WMD: −18.315 mg/dL, 95% CI: −25.628 to −11.002, p &lt; 0.001), but not in HDL-C (WMD: 0.644 mg/dl, 95% CI: −0.244 to 1.532, p = 0.155). Meta-regression analysis revealed a dose-dependent reduction in DBP (coefficient = −0.0108 mmHg per g, p = 0.0297) and FBG (coefficient = −0.0445 mg/dL per g, p = 0.0273). No significant adverse effects were observed compared to the control group.\n\nConclusion\nTaurine supplementation exhibits positive effects on multiple MetS-related factors, making it a potential dietary addition for individuals at risk of or already experiencing MetS. Future research may explore dose-optimization strategies and potential long-term benefits of taurine for MetS management.",
+  "doi": "10.1038/s41387-024-00289-z",
+  "url": "https://doi.org/10.1038/s41387-024-00289-z",
+  "pdf_url": "",
+  "venue": "Nutrition &amp; Diabetes",
+  "citation_count": 23,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-19T11:30:12.911943+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-048.md",
+  "quality_details": {
+    "content_length": 52039,
+    "alpha_ratio": 0.736,
+    "sentence_count": 616,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

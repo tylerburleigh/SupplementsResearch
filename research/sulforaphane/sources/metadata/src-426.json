@@ -1,0 +1,17 @@
+{
+  "id": "src-426",
+  "title": "Therapeutic potential of sulforaphane in liver diseases: a review",
+  "authors": [
+    "Liang, Yan",
+    "Yan, Yachun"
+  ],
+  "doi": "10.3389/fphar.2023.1256029",
+  "url": "https://openalex.org/W4386244971",
+  "provider": "openalex",
+  "year": 2023,
+  "venue": "Frontiers in Pharmacology",
+  "citation_count": 17,
+  "abstract": "The burden of liver diseases such as metabolic-associated fatty liver diseases and hepatocellular carcinoma has increased rapidly worldwide over the past decades. However, pharmacological therapies for these liver diseases are insufficient. Sulforaphane (SFN), an isothiocyanate that is mainly found in cruciferous vegetables, has been found to have a broad spectrum of activities like antioxidation, anti-inflammation, anti-diabetic, and anticancer effects. Recently, a growing number of studies have reported that SFN could significantly ameliorate hepatic steatosis and prevent the development of fatty liver, improve insulin sensitivity, attenuate oxidative damage and liver injury, induce apoptosis, and inhibit the proliferation of hepatoma cells through multiple signaling pathways. Moreover, many clinical studies have demonstrated that SFN is harmless to the human body and well-tolerated by individuals. This emerging evidence suggests SFN to be a promising drug candidate in the treatment of liver diseases. Nevertheless, limitations exist in the development of SFN as a hepatoprotective drug due to its special properties, including instability, water insolubility, and high inter-individual variation of bioavailability when used from broccoli sprout extracts. Herein, we comprehensively review the recent progress of SFN in the treatment of common liver diseases and the underlying mechanisms, with the aim to provide a better understanding of the therapeutic potential of SFN in liver diseases.",
+  "type": "academic",
+  "pdf_url": "https://www.frontiersin.org/articles/10.3389/fphar.2023.1256029/pdf"
+}

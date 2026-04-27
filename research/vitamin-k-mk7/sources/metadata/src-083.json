@@ -1,0 +1,32 @@
+{
+  "id": "src-083",
+  "title": "Vitamin K and Osteoporosis",
+  "authors": [
+    "Fusaro, Maria",
+    "Cianciolo, Giuseppe",
+    "Brandi, Maria Luisa",
+    "Ferrari, Serge",
+    "Nickolas, Thomas L.",
+    "Tripepi, Giovanni",
+    "Plebani, Mario",
+    "Zaninotto, Martina",
+    "Iervasi, Giorgio",
+    "Manna, Gaetano La",
+    "Gallieni, Maurizio",
+    "Vettor, Roberto",
+    "Aghi, Andrea",
+    "Gasperoni, Lorenzo",
+    "Giannini, Sandro",
+    "Sella, Stefania",
+    "Cheung, Angela M."
+  ],
+  "doi": "10.3390/nu12123625",
+  "url": "https://openalex.org/W3108607526",
+  "provider": "openalex",
+  "year": 2020,
+  "venue": "Nutrients",
+  "citation_count": 123,
+  "abstract": "Vitamin K acts as a coenzyme of carboxylase, catalyzing the carboxylation of several vitamin K dependent proteins. Beyond its well-known effects on blood coagulation, it also exerts relevant effects on bone and the vascular system. In this review, we point out the relevance of an adequate vitamin K intake to obtain sufficient levels of carboxylated (active form) vitamin K dependent proteins (such as Osteocalcin and matrix Gla protein) to prevent bone health. Another bone-related action of Vitamin K is being a ligand of the nuclear steroid and xenobiotic receptor (SXR). We also discuss the recommended intake, deficiency, and assessment of vitamin K. Furthermore, we review the few available studies that have as pre-specified outcome bone fractures, indicating that we need more clinical studies to confirm that vitamin K is a potential therapeutic agent for bone fractures.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2072-6643/12/12/3625/pdf"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "src-364",
+  "title": "The cytochrome P450 isoenzyme and some new opportunities for the prediction of negative drug interaction in vivo",
+  "authors": [
+    "Sychev, D. A.",
+    "Ashraf, G.",
+    "Svistunov, A.",
+    "Maksimov, M.",
+    "Tarasov, V.",
+    "Chubarev, V.",
+    "Otdelenov, V. A.",
+    "Denisenko, N. P.",
+    "Barreto, G.",
+    "Aliev, G."
+  ],
+  "doi": "10.2147/dddt.s149069",
+  "url": "https://www.semanticscholar.org/paper/062fd84aa81c456db0377c7b7be55bf039572737",
+  "provider": "semantic_scholar",
+  "year": 2018,
+  "venue": "Drug Design, Development and Therapy",
+  "citation_count": 93,
+  "abstract": "Cytochrome (CYP) 450 isoenzymes are the basic enzymes involved in Phase I biotransformation. The most important role in biotransformation belongs to CYP3A4, CYP2D6, CYP2C9, CYP2C19 and CYP1A2. Inhibition and induction of CYP isoenzymes caused by drugs are important and clinically relevant pharmacokinetic mechanisms of drug interaction. Investigation of the activity of CYP isoenzymes by using phenotyping methods (such as the determination of the concentration of specific substrates and metabolites in biological fluids) during drug administration provides the prediction of negative side effects caused by drug interaction. In clinical practice, the process of phenotyping of CYP isoenzymes and some endogenous substrates in the ratio of cortisol to 6β-hydroxycortisol in urine for the evaluation of CYP3A4 activity has been deemed to be a quite promising, safe and minimally invasive method for patients nowadays.",
+  "type": "academic",
+  "pdf_url": "https://www.dovepress.com/getfile.php?fileID=41963"
+}

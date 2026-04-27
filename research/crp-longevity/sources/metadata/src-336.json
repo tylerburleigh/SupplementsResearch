@@ -1,0 +1,19 @@
+{
+  "id": "src-336",
+  "title": "Resistance Exercise Training and Greek Yogurt Consumption Modulate Markers of Systemic Inflammation in Healthy Young Males—A Secondary Analysis of a Randomized Controlled Trial",
+  "authors": [
+    "Fraschetti, Emily C.",
+    "Abdul-Sater, A.",
+    "Perry, C. G.",
+    "Josse, Andrea R."
+  ],
+  "doi": "10.3390/nu17172816",
+  "url": "https://www.semanticscholar.org/paper/1b7d06724020f67ab92526b189b1b7bdc63cbea3",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "Nutrients",
+  "citation_count": 3,
+  "abstract": "Background/Objectives: Chronic exercise training reduces markers of systemic inflammation; however, less is known about how to optimize this adaptation using nutrition. Dairy products, especially fermented ones, like Greek yogurt (GY), contain anti-inflammatory constituents. This secondary analysis aimed to examine the influence of post-exercise GY consumption vs. an isoenergetic carbohydrate pudding (CP; control) on markers of systemic inflammation during an exercise training intervention. Methods: Thirty healthy young males completed 12 weeks of resistance and plyometric exercise training and were randomized to consume GY (n = 15) or CP (n = 15). Rested/fasted blood samples were acquired at baseline, and weeks 1 and 12, and inflammatory biomarkers (tumor necrosis factor-alpha [TNF-α], interleukin [IL]-6, IL-1 receptor antagonist [IL-1ra], IL-1Beta [IL-1β], IL-10, and C-reactive protein [CRP]) were measured. Linear mixed models were run on the absolute concentrations, and linear regressions were performed on the absolute change (baseline to week 12), allowing us to account for important covariates. Results: In both groups, CRP (pro) and IL-1ra (anti) increased at week 1 vs. baseline and week 12, while IL-1β (pro) decreased at week 12 vs. baseline (main time effects). We observed significant interactions for IL-6, TNF-α, and the TNF-α/IL-10 ratio, indicating that at week 12, IL-6 (pro) was lower in GY, whereas TNF-α and TNF-α/IL-10 (both pro-inflammatory) were higher in CP vs. week 1 and baseline, respectively. Additionally, within our linear regression models, higher baseline concentrations of IL-1ra (anti), IL-10 (anti) and CRP (pro) predicted greater change over the intervention. Conclusions: These results indicate that our intervention benefited circulating inflammatory markers, and GY supplementation may enhance these effects.",
+  "type": "academic",
+  "pdf_url": ""
+}

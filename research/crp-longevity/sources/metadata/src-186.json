@@ -1,0 +1,18 @@
+{
+  "id": "src-186",
+  "title": "Efficacy of omega-3 polyunsaturated fatty acids on hormones, oxidative stress, and inflammatory parameters among polycystic ovary syndrome: a systematic review and meta-analysis.",
+  "authors": [
+    "Yuan, Jialing",
+    "Wen, Xuemei",
+    "Jia, Ming"
+  ],
+  "doi": "10.21037/apm-21-2018",
+  "url": "https://www.semanticscholar.org/paper/7fd06fd6ca9aa962397110dcdf6ab08bcf0b7f3d",
+  "provider": "semantic_scholar",
+  "year": 2021,
+  "venue": "Annals of Palliative Medicine",
+  "citation_count": 20,
+  "abstract": "BACKGROUND\nThere is a close relationship between hormones, oxidative stress, and inflammatory factors and polycystic ovary syndrome (PCOS). This meta-analysis was conducted to evaluate the changes in hormones, oxidative stress, and inflammatory factors of PCOS patients who were supplemented with omega-3 polyunsaturated fatty acids (n-3 PUFAs).\n\nMETHODS\nThe databases of PubMed, Cochrane Library, Embase, and Web of Science were searched from inception to February 2021. We have included all randomized controlled trials (RCTs) that reported the n-3 PUFA treatment in PCOS. Weighted mean differences (WMD) and 95% confidence interval (CI) were calculated, and either the fixed effects model or random effects model was used.\n\nRESULTS\n314 studies were initially identified, and 10 RCTs with 610 patients were finally included in the current study. Results suggested that PCOS patients with n-3 PUFAs supplementation may have a reduction in C-reactive protein (CRP; -8.97 mg/dL; 95% CI: -17.66 to -0.28 mg/dL; P=0.04; I2=99%); serum malondialdehyde (MDA; -0.40 mg/dL; 95% CI: -0.56 to -0.25 mg/dL; P<0.00001; I2=42); luteinizing hormone (LH; -1.33 mg/dL; 95% CI: -2.63 to -0.04 mg/dL; P=0.04; I2=0%); serum total testosterone (TT; -0.11 mg/dL; 95% CI: -0.18 to -0.04 mg/dL; P=0.02; I2=73%); and an increase in total antioxidant capacity (TAC; 72.24 mg/dL; 95% CI: 22.32 to 122.16 mg/dL; P=0.005; I2=50%) and serum sex hormone binding globulin (SHBG; 0.68 mg/dL; 95% CI: 0.06 to 1.31 mg/dL; P=0.03; I2=0%).However, no effect on glutathione (GSH; -12.63 mg/dL; 95% CI: -50.34 to 25.07 mg/dL; P=0.51; I2=56%), dehydroepiandrosterone sulfate (DHEAS; -0.01 mg/dL; 95% CI: -1.53 to 1.50 mg/dL; P=0.99; I2=78%), free androgen index (FAI; 0.00 mg/dL; 95% CI: -0.03 to 0.03 mg/dL; P=0.99; I2=0%), or follicle-stimulating hormone (FSH; 0.37 mg/dL; 95% CI: -0.55 to 1.29 mg/dL; P=0.43; I2=61) was found.\n\nCONCLUSIONS\nThis meta-analysis showed that supplementation of n-3 PUFAs in PCOS women can significantly improve CRP, MDA, LH, TT, TAC, and SHBG, but did not affect the concentrations of GSH, DHEAS, FAI, or FSH.",
+  "type": "academic",
+  "pdf_url": "https://apm.amegroups.com/article/viewFile/77612/pdf"
+}

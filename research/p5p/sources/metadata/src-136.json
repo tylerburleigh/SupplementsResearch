@@ -1,0 +1,21 @@
+{
+  "id": "src-136",
+  "title": "Human Cystathionine β-Synthase Is a Heme Sensor Protein. Evidence That the Redox Sensor Is Heme and Not the Vicinal Cysteines in the CXXC Motif Seen in the Crystal Structure of the Truncated Enzyme<sup>,</sup>",
+  "authors": [
+    "Taoka, Shinichi",
+    "Lepore, Bryan W.",
+    "Kabil, Ömer",
+    "Ojha, Sunil",
+    "Ringe, Dagmar",
+    "Banerjee, Ruma"
+  ],
+  "doi": "10.1021/bi026052d",
+  "url": "https://openalex.org/W2087927611",
+  "provider": "openalex",
+  "year": 2002,
+  "venue": "Biochemistry",
+  "citation_count": 129,
+  "abstract": "Elevated levels of homocysteine, a sulfur-containing amino acid, are correlated with increased risk for cardiovascular diseases and Alzheimers disease and with neural tube defects. The only route for the catabolic removal of homocysteine in mammals begins with the pyridoxal phosphate- (PLP-) dependent beta-replacement reaction catalyzed by cystathionine beta-synthase. The enzyme has a b-type heme with unusual spectroscopic properties but as yet unknown function. The human enzyme has a modular organization and can be cleaved into an N-terminal catalytic core, which retains both the heme and PLP-binding sites and is highly active, and a C-terminal regulatory domain, where the allosteric activator S-adenosylmethionine is presumed to bind. Studies with the isolated recombinant enzyme and in transformed human liver cells indicate that the enzyme is approximately 2-fold more active under oxidizing conditions. In addition to heme, the enzyme contains a CXXC oxidoreductase motif that could, in principle, be involved in redox sensing. In this study, we have examined the role of heme versus the vicinal thiols in modulating the redox responsiveness of the enzyme. Deletion of the heme domain leads to loss of redox sensitivity. In contrast, substitution of either cysteine with a non-redox-active amino acid does not affect the responsiveness of the enzyme to reductants. We also report the crystal structure of the catalytic core of the enzyme in which the vicinal cysteines are reduced without any discernible differences in the remainder of the protein. The structure of the catalytic core is compared to those of other members of the fold II family of PLP-dependent enzymes and provides insights into active site residues that may be important in interacting with the substrates and intermediates.",
+  "type": "academic",
+  "pdf_url": ""
+}

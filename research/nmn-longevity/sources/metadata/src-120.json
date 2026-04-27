@@ -1,0 +1,28 @@
+{
+  "id": "src-120",
+  "title": "A nonrandomized study of single oral supplementation within the daily tolerable upper level of nicotinamide affects blood nicotinamide and NAD+ levels in healthy subjects",
+  "authors": [
+    "Ito, Tetsufumi",
+    "Sato, Tomohito",
+    "Hakamata, Akio",
+    "Onoda, Yuki",
+    "Sato, Shumpei",
+    "Yamazaki, Fumiyoshi",
+    "Horikawa, Makoto",
+    "Takahashi, Yutaka",
+    "Kitamoto, Takuya",
+    "Suzuki, Masako",
+    "Uchida, Shinya",
+    "Odagiri, Keiichi",
+    "Setou, Mitsutoshi"
+  ],
+  "doi": "10.1016/j.tma.2020.04.002",
+  "url": "https://openalex.org/W3025234224",
+  "provider": "openalex",
+  "year": 2020,
+  "venue": "Translational Medicine of Aging",
+  "citation_count": 15,
+  "abstract": "A decrease in nicotinamide adenine dinucleotide (NAD+) levels is a hallmark of aging in multiple organisms, including humans. We report a human clinical trial designed to assess the efficacy of single-dose supplementation of nicotinamide, a form of vitamin B3, on increasing NAD+ levels. Nicotinamide intake within the daily tolerable upper level (200 mg) led to the maximal whole blood concentration by a 30-fold increase at 0.5 h with a consistent decrease until 6 h in all 6 healthy male volunteers. The increase in blood nicotinamide amounted to 17%, whereas renal clearance accounted for 1.8% of the ingested dose. NAD+ levels reached a maximum concentration at 12 h, with all time points showing a trend of increase. Blood metabolome assay indicates that the metabolomic changes with NAM supplementation lasted 24 h and then returned to baseline by 48 h. The basal levels of whole blood NAD+ varied among individuals with a negative correlation with body height as well as nicotinamide mononucleotide (NMN) levels. These data warrant consideration for further clinical evaluation with repeated doses of nicotinamide within the safety dose range for the potency to increase NAD+ levels and potential accompanying benefits for healthy longevity.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.1016/j.tma.2020.04.002"
+}

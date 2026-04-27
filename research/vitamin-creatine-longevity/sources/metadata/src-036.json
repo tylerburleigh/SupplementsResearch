@@ -1,0 +1,34 @@
+{
+  "id": "src-036",
+  "title": "Potential for use of creatine supplementation following mild traumatic brain injury",
+  "authors": [
+    "Ainsley Dean, Philip John",
+    "Arikan, Gozdem",
+    "Opitz, Bertram",
+    "Sterr, Annette"
+  ],
+  "year": 2017,
+  "abstract": "There is significant overlap between the neuropathology of mild traumatic brain injury (mTBI) and the cellular role of creatine, as well as evidence of neural creatine alterations after mTBI. Creatine supplementation has not been researched in mTBI, but shows some potential as a neuroprotective when administered prior to or after TBI. Consistent with creatine’s cellular role, supplementation reduced neuronal damage, protected against the effects of cellular energy crisis and improved cognitive and somatic symptoms. A variety of factors influencing the efficacy of creatine supplementation are highlighted, as well as avenues for future research into the potential of supplementation as an intervention for mTBI. In particular, the slow neural uptake of creatine may mean that greater effects are achieved by pre-emptive supplementation in at-risk groups.",
+  "doi": "10.2217/cnc-2016-0016",
+  "url": "https://doi.org/10.2217/cnc-2016-0016",
+  "pdf_url": "",
+  "venue": "Concussion",
+  "citation_count": 48,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T13:14:43.767789+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-036.md",
+  "quality_details": {
+    "content_length": 743,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

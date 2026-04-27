@@ -1,0 +1,19 @@
+{
+  "id": "src-199",
+  "title": "Cell-intrinsic mTOR/LET-363 influences morphological aging of the ALM touch receptor neuron in Caenorhabditis elegans",
+  "authors": [
+    "Whitley, Sophia C.",
+    "Zhong, Ruiling",
+    "Baumberger, Sophie",
+    "Richardson, Claire E."
+  ],
+  "doi": "10.1371/journal.pone.0345575",
+  "url": "https://www.semanticscholar.org/paper/56977af640b81b81d988f5d53427d33817411632",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "PLoS ONE",
+  "citation_count": 0,
+  "abstract": "The mechanistic target of rapamycin (mTOR) promotes neuronal aging, but it remains unclear whether these effects arise from mTOR activity within neurons, other brain cell types, or peripheral tissues. Here, we tested the hypothesis that Caenorhabditis elegans mTOR/let-363 functions cell-intrinsically in neurons during adulthood to promote age-related neuron morphological aging. We used a floxed let-363 allele in combination with heat-shock-induced, pan-somatic Cre recombinase expression to generate pan-somatic, adult knockdown, and with a Cre-driver that expresses in a small subset of neurons, the Touch Receptor Neurons, to generate neuron-intrinsic knockdown. Adult-onset, pan-somatic knockdown of let-363 did not robustly alter lifespan or neuron morphological aging. In contrast, neuron-specific let-363 knockdown resulted in a reduction in one aspect of neuron morphological aging – ectopic neurite sprouting from the soma – without extending lifespan. Together, these findings suggest that mTOR/let-363 can act cell-intrinsically within neurons to promote or potentiate an aspect of morphological aging. These results help clarify the potential cell-type specificity of mTOR’s roles in neuronal aging and provide a foundation for defining the mechanisms through which mTOR intersects with neuron-intrinsic aging pathways.",
+  "type": "academic",
+  "pdf_url": ""
+}

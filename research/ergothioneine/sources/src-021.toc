@@ -1,0 +1,5 @@
+8	2	Abstract
+723	2	Conclusions
+743	2	Acknowledgements
+755	2	References
+885	2	40. EFSA Panel on Dietetic Products, Nutrition and Allergies,

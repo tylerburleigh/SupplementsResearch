@@ -1,0 +1,38 @@
+{
+  "id": "src-213",
+  "title": "Efficacy of curcumin supplementation for the treatment and prevention of pouchitis after ileal pouch-anal anastomosis: a randomized controlled trial",
+  "authors": [
+    "He, An-qi",
+    "Xiao, Wan-yi",
+    "Zheng, Ting",
+    "Li, Kai-yu",
+    "Li, Bao-song",
+    "Wang, Song",
+    "Yu, Qing-xiang",
+    "Liu, Gang"
+  ],
+  "year": 2025,
+  "abstract": "",
+  "doi": "10.1007/s00394-025-03676-z",
+  "url": "https://doi.org/10.1007/s00394-025-03676-z",
+  "pdf_url": "",
+  "venue": "European Journal of Nutrition",
+  "citation_count": 1,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-22T14:48:14.137109+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-213.md",
+  "quality_details": {
+    "content_length": 29800,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

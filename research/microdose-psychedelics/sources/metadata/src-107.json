@@ -1,0 +1,21 @@
+{
+  "id": "src-107",
+  "title": "Uncovering Psychedelics: From Neural Circuits to Therapeutic Applications",
+  "authors": [
+    "Melani, Alice",
+    "Bonaso, Marco",
+    "Biso, Letizia",
+    "Zucchini, Benedetta",
+    "Conversano, Ciro",
+    "Scarselli, Marco"
+  ],
+  "doi": "10.3390/ph18010130",
+  "url": "https://openalex.org/W4406629036",
+  "provider": "openalex",
+  "year": 2025,
+  "venue": "Pharmaceuticals",
+  "citation_count": 12,
+  "abstract": "Psychedelics, historically celebrated for their cultural and spiritual significance, have emerged as potential breakthrough therapeutic agents due to their profound effects on consciousness, emotional processing, mood, and neural plasticity. This review explores the mechanisms underlying psychedelics' effects, focusing on their ability to modulate brain connectivity and neural circuit activity, including the default mode network (DMN), cortico-striatal thalamo-cortical (CSTC) loops, and the relaxed beliefs under psychedelics (REBUS) model. Advanced neuroimaging techniques reveal psychedelics' capacity to enhance functional connectivity between sensory cerebral areas while reducing the connections between associative brain areas, decreasing the rigidity and rendering the brain more plastic and susceptible to external changings, offering insights into their therapeutic outcome. The most relevant clinical trials of 3,4-methylenedioxymethamphetamine (MDMA), psilocybin, and lysergic acid diethylamide (LSD) demonstrate significant efficacy in treating treatment-resistant psychiatric conditions such as post-traumatic stress disorder (PTSD), depression, and anxiety, with favorable safety profiles. Despite these advancements, critical gaps remain in linking psychedelics' molecular actions to their clinical efficacy. This review highlights the need for further research to integrate mechanistic insights and optimize psychedelics as tools for both therapy and understanding human cognition.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/1424-8247/18/1/130/pdf?version=1737438874"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "src-036",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://doi.org/10.3389/fpsyg.2024.1356434",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-23T21:38:10.405529+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-036.md",
+  "quality_details": {
+    "content_length": 49440,
+    "alpha_ratio": 0.745,
+    "sentence_count": 609,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

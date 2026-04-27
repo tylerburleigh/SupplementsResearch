@@ -1,0 +1,21 @@
+{
+  "id": "src-915",
+  "title": "The flavonoid quercetin decreases ACE2 and TMPRSS2 expression but not SARS‐CoV‐2 infection in cultured human lung cells",
+  "authors": [
+    "Houghton, M.",
+    "Balland, E.",
+    "Gartner, Matthew J",
+    "Thomas, B. J.",
+    "Subbarao, K.",
+    "Williamson, Gary"
+  ],
+  "doi": "10.1002/biof.2084",
+  "url": "https://www.semanticscholar.org/paper/91c3b6f6a3bded2da63474468e5551f510dd80cf",
+  "provider": "semantic_scholar",
+  "year": 2024,
+  "venue": "Biofactors",
+  "citation_count": 6,
+  "abstract": "Severe acute respiratory syndrome coronavirus 2 (SARS‐CoV‐2) binds to angiotensin‐converting enzyme 2 (ACE2) on host cells, via its spike protein, and transmembrane protease, serine 2 (TMPRSS2) cleaves the spike‐ACE2 complex to facilitate virus entry. As rate‐limiting steps for virus entry, modulation of ACE2 and/or TMPRSS2 may decrease SARS‐CoV‐2 infectivity and COVID‐19 severity. In silico modeling suggested the natural bioactive flavonoid quercetin can bind to ACE2 and a recent randomized clinical trial demonstrated that oral supplementation with quercetin increased COVID‐19 recovery. A range of cultured human cells were assessed for co‐expression of ACE2 and TMPRSS2. Immortalized Calu‐3 lung cells, cultured and matured at an air–liquid interface (Calu‐3‐ALIs), were established as the most appropriate. Primary bronchial epithelial cells (PBECs) were obtained from healthy adult males (N = 6) and cultured under submerged conditions to corroborate the outcomes. Upon maturation or reaching 80% confluence, respectively, the Calu‐3‐ALIs and PBECs were treated with quercetin, and mRNA and protein expression were assessed by droplet digital PCR and ELISA, respectively. SARS‐CoV‐2 infectivity, and the effects of pre‐ and co‐treatment with quercetin, was assessed by median tissue culture infectious dose assay. Quercetin dose‐dependently decreased ACE2 and TMPRSS2 mRNA and protein in both Calu‐3‐ALIs and PBECs after 4 h, while TMPRSS2 remained suppressed in response to prolonged treatment with lower doses (twice daily for 3 days). Quercetin also acutely decreased ADAM17 mRNA, but not ACE, in Calu‐3‐ALIs, and this warrants further investigation. Calu‐3‐ALIs, but not PBECs, were successfully infected with SARS‐CoV‐2; however, quercetin had no antiviral effect, neither directly nor indirectly through downregulation of ACE2 and TMPRSS2. Calu‐3‐ALIs were reaffirmed to be an optimal cell model for research into the regulation of ACE2 and TMPRSS2, without the need for prior genetic modification, and will prove valuable in future coronavirus and respiratory infectious disease work. However, our data demonstrate that a significant decrease in the expression of ACE2 and TMPRSS2 by a promising prophylactic candidate may not translate to infection prevention.",
+  "type": "academic",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/biof.2084"
+}

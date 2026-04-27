@@ -1,0 +1,24 @@
+{
+  "id": "src-033",
+  "title": "Sulforaphane promotes C. elegans longevity and healthspan via DAF-16/DAF-2 insulin/IGF-1 signaling",
+  "authors": [
+    "Qi, Zhimin",
+    "Ji, Huihui",
+    "Le, Monika",
+    "Li, Hanmei",
+    "Wieland, A.",
+    "Bauer, Sonja",
+    "Liu, Li",
+    "Wink, M.",
+    "Herr, I."
+  ],
+  "doi": "10.18632/aging.202512",
+  "url": "https://www.semanticscholar.org/paper/a9932043c9c19fb80f6b8d7bbf801636e0905f28",
+  "provider": "semantic_scholar",
+  "year": 2021,
+  "venue": "Aging",
+  "citation_count": 63,
+  "abstract": "The broccoli-derived isothiocyanate sulforaphane inhibits inflammation, oxidative stress and cancer, but its effect on healthspan and longevity are unclear. We used the C. elegans nematode model and fed the wildtype and 9 mutant strains ±sulforaphane. The lifespan, phenotype, pharyngeal pumping, mobility, lipofuscin accumulation, and RNA and protein expression of the nematodes were assessed by using Kaplan-Meier survival analysis, in vivo live imaging, fluorescence microscopy, and qRT-PCR. Sulforaphane increased the lifespan and promoted a health-related phenotype by increasing mobility, appetite and food intake and reducing lipofuscin accumulation. Mechanistically, sulforaphane inhibited DAF-2-mediated insulin/insulin-like growth factor signaling and its downstream targets AGE-1, AKT-1/AKT-2. This was associated with increased nuclear translocation of the FOXO transcription factor homolog DAF-16. In turn, the target genes sod-3, mtl-1 and gst-4, known to enhance stress resistance and lifespan, were upregulated. These results indicate that sulforaphane prolongs the lifespan and healthspan of C. elegans through insulin/IGF-1 signaling. Our results provide the basis for a nutritional sulforaphane-enriched strategy for the promotion of healthy aging and disease prevention.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.18632/aging.202512"
+}

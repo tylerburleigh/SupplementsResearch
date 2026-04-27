@@ -1,0 +1,32 @@
+{
+  "id": "src-062",
+  "title": "Slowing ageing by design: the rise of NAD+ and sirtuin-activating compounds",
+  "authors": [
+    "Bonkowski, Michael S.",
+    "Sinclair, David A."
+  ],
+  "year": 2016,
+  "abstract": "",
+  "doi": "10.1038/nrm.2016.93",
+  "url": "https://doi.org/10.1038/nrm.2016.93",
+  "pdf_url": "",
+  "venue": "Nature Reviews Molecular Cell Biology",
+  "citation_count": 745,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-23T11:26:42.734825+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-062.md",
+  "quality_details": {
+    "content_length": 49287,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

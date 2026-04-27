@@ -1,0 +1,19 @@
+39	2	Abstract
+55	2	Introduction
+114	2	Materials And Methods
+124	2	2024. The merge of MESH and non-MESH terms were used as
+214	2	Results
+328	2	Discussion
+515	2	Conclusion
+600	2	References
+658	2	Limitations
+662	2	Limitations
+664	2	Limitations
+666	2	Limitations
+670	2	Limitations
+674	2	Limitations
+678	2	Limitations
+681	2	Limitations
+683	2	Limitations
+685	2	Limitations
+689	2	Limitations

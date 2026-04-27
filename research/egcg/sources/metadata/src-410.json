@@ -1,0 +1,21 @@
+{
+  "id": "src-410",
+  "title": "Green tea effects on cognition, mood and human brain function: A systematic review",
+  "authors": [
+    "Mancini, Edele",
+    "Beglinger, Christoph",
+    "Drewe, Jürgen",
+    "Zanchi, Davide",
+    "Lang, Undine E.",
+    "Borgwardt, Stefan"
+  ],
+  "doi": "10.1016/j.phymed.2017.07.008",
+  "url": "https://openalex.org/W2739146440",
+  "provider": "openalex",
+  "year": 2017,
+  "venue": "Phytomedicine",
+  "citation_count": 210,
+  "abstract": "The reviewed studies presented evidence that green tea influences psychopathological symptoms (e.g. reduction of anxiety), cognition (e.g. benefits in memory and attention) and brain function (e.g. activation of working memory seen in functional MRI). The effects of green tea cannot be attributed to a single constituent of the beverage. This is exemplified in the finding that beneficial green tea effects on cognition are observed under the combined influence of both caffeine and l-theanine, whereas separate administration of either substance was found to have a lesser impact.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.1016/j.phymed.2017.07.008"
+}

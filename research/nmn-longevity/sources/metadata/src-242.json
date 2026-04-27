@@ -1,0 +1,25 @@
+{
+  "id": "src-242",
+  "title": "β-Nicotinamide Mononucleotide Prevents Senescence and Lipid Accumulation in Hepatic Stellate Cells by Restoring SIRT1 Function.",
+  "authors": [
+    "Saka, Tomofumi",
+    "Hayashi, Riri",
+    "Yoshino, Yuta",
+    "Mitsui, Taichi",
+    "Maruyama, Hiroe",
+    "Kono, Hiroyuki",
+    "Kawaguchi, Mitsuyasu",
+    "Nakagawa, H.",
+    "Ikari, Akira",
+    "Endo, Satoshi"
+  ],
+  "doi": "10.1016/j.cbi.2026.112012",
+  "url": "https://www.semanticscholar.org/paper/03f7dcc09707734548d790ffd4ac31744de940d7",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "Chemico-Biological Interactions",
+  "citation_count": 0,
+  "abstract": "The activation of hepatic stellate cells (HSCs) plays a vital role in liver wound healing, including liver regeneration and repair. However, as senescent cells increase with the continued activation, the secretion of extracellular matrix, collagen, transforming growth factor-β, and other cytokines increases, leading to liver fibrosis, cirrhosis, and liver cancer. This study investigated the effects of lipid peroxidation-derived aldehydes (LPDAs) such as 4-hydroxy-2-nonenal (HNE) and 4-oxo-2-nonenal (ONE), which accumulate with aging, on HSC senescence. Additionally, it investigated the inhibitory effects of nicotinamide mononucleotide (NMN), a precursor of NAD+ and cofactor for the anti-aging factor sirtuin 1 (SIRT1). In LX-2 cells, HNE and ONE significantly increased the gene expression of senescence-associated secretory phenotype factors and SA-βGal activity. HNE-induced cellular senescence was inhibited by NMN pretreatment. NMN pretreatment significantly decreased the Bax/Bcl2 ratio, indicating reduced mitochondrial outer membrane permeability, and restored mitochondrial membrane potential. NMN pretreatment also restored protein expression and enzyme activity of SIRT1, which were decreased by HNE treatment. Furthermore, NMN pretreatment reversed the HNE-induced decrease in lipid-metabolizing enzyme expression and increased intracellular lipid content. In summary, the NAD+ precursor NMN inhibited HSC senescence induced by LPDAs. The underlying mechanism was associated with the amelioration of mitochondrial membrane potential, restoration of intracellular NAD+ levels and SIRT1 activity, and improvement of lipid accumulation. These findings suggest that NMN may contribute to the development of novel anti-aging strategies for HSC-associated pathologies.",
+  "type": "academic",
+  "pdf_url": ""
+}

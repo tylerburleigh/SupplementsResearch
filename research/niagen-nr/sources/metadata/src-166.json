@@ -1,0 +1,30 @@
+{
+  "id": "src-166",
+  "title": "Nicotinamide mononucleotide (NMN) supplementation rescues cerebromicrovascular endothelial function and neurovascular coupling responses and improves cognitive function in aged mice",
+  "authors": [
+    "Tarantini, Stefano",
+    "Valcarcel‐Ares, Marta Noa",
+    "Tóth, Péter",
+    "Yabluchanskiy, Andriy",
+    "Tucsek, Zsuzsanna",
+    "Kiss, Tamás",
+    "Hertelendy, Péter",
+    "Kinter, Michael",
+    "Ballabh, Praveen",
+    "Süle, Zoltán",
+    "Farkas, Eszter",
+    "Baur, Joseph A.",
+    "Sinclair, David",
+    "Csiszár, Anna",
+    "Ungvári, Zoltán"
+  ],
+  "doi": "10.1016/j.redox.2019.101192",
+  "url": "https://openalex.org/W2938269442",
+  "provider": "openalex",
+  "year": 2019,
+  "venue": "Redox Biology",
+  "citation_count": 274,
+  "abstract": "Adjustment of cerebral blood flow (CBF) to neuronal activity via neurovascular coupling (NVC) has an essential role in maintenance of healthy cognitive function. In aging increased oxidative stress and cerebromicrovascular endothelial dysfunction impair NVC, contributing to cognitive decline. There is increasing evidence showing that a decrease in NAD<sup>+</sup> availability with age plays a critical role in a range of age-related cellular impairments but its role in impaired NVC responses remains unexplored. The present study was designed to test the hypothesis that restoring NAD<sup>+</sup> concentration may exert beneficial effects on NVC responses in aging. To test this hypothesis 24-month-old C57BL/6 mice were treated with nicotinamide mononucleotide (NMN), a key NAD<sup>+</sup> intermediate, for 2 weeks. NVC was assessed by measuring CBF responses (laser Doppler flowmetry) evoked by contralateral whisker stimulation. We found that NVC responses were significantly impaired in aged mice. NMN supplementation rescued NVC responses by increasing endothelial NO-mediated vasodilation, which was associated with significantly improved spatial working memory and gait coordination. These findings are paralleled by the sirtuin-dependent protective effects of NMN on mitochondrial production of reactive oxygen species and mitochondrial bioenergetics in cultured cerebromicrovascular endothelial cells derived from aged animals. Thus, a decrease in NAD<sup>+</sup> availability contributes to age-related cerebromicrovascular dysfunction, exacerbating cognitive decline. The cerebromicrovascular protective effects of NMN highlight the preventive and therapeutic potential of NAD<sup>+</sup> intermediates as effective interventions in patients at risk for vascular cognitive impairment (VCI).",
+  "type": "academic",
+  "pdf_url": "https://ars.els-cdn.com/content/image/1-s2.0-S221323171930240X-fx1_lrg.jpg"
+}

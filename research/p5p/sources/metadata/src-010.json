@@ -1,0 +1,29 @@
+{
+  "id": "src-010",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://www.chemicalbook.com/article/benefits-of-pyridoxal-5-phosphate-monohydrate-supplements.htm",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-20T15:58:47.519437+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-010.md",
+  "quality_details": {
+    "content_length": 6635,
+    "alpha_ratio": 0.77,
+    "sentence_count": 60,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

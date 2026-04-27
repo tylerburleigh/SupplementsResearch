@@ -1,0 +1,36 @@
+{
+  "id": "src-177",
+  "title": "Impact of vitamin D3 supplementation on motor functionality and the immune response in Parkinson’s disease patients with vitamin D deficiency",
+  "authors": [
+    "Li, Danfeng",
+    "Ma, Xibo",
+    "Zhang, Wentao",
+    "Zhong, Ping",
+    "Li, Mei",
+    "Liu, Shihua"
+  ],
+  "year": 2025,
+  "abstract": "",
+  "doi": "10.1038/s41598-025-10821-5",
+  "url": "https://doi.org/10.1038/s41598-025-10821-5",
+  "pdf_url": "",
+  "venue": "Scientific Reports",
+  "citation_count": 9,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T21:06:44.407837+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-177.md",
+  "quality_details": {
+    "content_length": 41341,
+    "alpha_ratio": 0.689,
+    "sentence_count": 501,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "src-269",
+  "title": "Astrocytes as a Therapeutic Target in Alzheimer’s Disease–Comprehensive Review and Recent Developments",
+  "authors": [
+    "Rodríguez-Giraldo, Mateo",
+    "González-Reyes, Rodrigo E.",
+    "Ramírez-Guerrero, Sofía",
+    "Bonilla-Trilleras, Carlos E.",
+    "Guardo-Maya, Santiago",
+    "Nava-Mesa, Mauricio O."
+  ],
+  "doi": "10.3390/ijms232113630",
+  "url": "https://openalex.org/W4308512354",
+  "provider": "openalex",
+  "year": 2022,
+  "venue": "International Journal of Molecular Sciences",
+  "citation_count": 102,
+  "abstract": "Alzheimer's disease (AD) is a frequent and disabling neurodegenerative disorder, in which astrocytes participate in several pathophysiological processes including neuroinflammation, excitotoxicity, oxidative stress and lipid metabolism (along with a critical role in apolipoprotein E function). Current evidence shows that astrocytes have both neuroprotective and neurotoxic effects depending on the disease stage and microenvironmental factors. Furthermore, astrocytes appear to be affected by the presence of amyloid-beta (Aβ), with alterations in calcium levels, gliotransmission and proinflammatory activity via RAGE-NF-κB pathway. In addition, astrocytes play an important role in the metabolism of tau and clearance of Aβ through the glymphatic system. In this review, we will discuss novel pharmacological and non-pharmacological treatments focused on astrocytes as therapeutic targets for AD. These interventions include effects on anti-inflammatory/antioxidant systems, glutamate activity, lipid metabolism, neurovascular coupling and glymphatic system, calcium dysregulation, and in the release of peptides which affects glial and neuronal function. According to the AD stage, these therapies may be of benefit in either preventing or delaying the progression of the disease.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/1422-0067/23/21/13630/pdf?version=1667811416"
+}

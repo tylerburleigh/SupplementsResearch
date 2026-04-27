@@ -1,0 +1,28 @@
+{
+  "id": "src-093",
+  "title": "MIB-626, an Oral Formulation of a Microcrystalline Unique Polymorph of β-Nicotinamide Mononucleotide, Increases Circulating Nicotinamide Adenine Dinucleotide and its Metabolome in Middle-Aged and Older Adults",
+  "authors": [
+    "Pencina, Karol M",
+    "Lavu, Siva",
+    "dos Santos, Marcello",
+    "Beleva, Yusnie M",
+    "Cheng, Ming",
+    "Livingston, David",
+    "Bhasin, Shalender"
+  ],
+  "year": 2023,
+  "abstract": "Abstract\n\nBackground\nNicotinamide adenine dinucleotide (NAD) precursors, nicotinamide mononucleotide (NMN), or nicotinamide riboside (NR) extend healthspan and ameliorate some age-related conditions in model organisms. However, early-phase trials of NAD precursors have yielded varying results and their pharmacokinetics remain incompletely understood. Here, we report the pharmacokinetics and pharmacodynamics of MIB-626, a microcrystalline unique polymorph βNMN formulation.\n\nMethods\nIn this double-blind, placebo-controlled study, 32 overweight or obese adults, 55–80 years, were block-randomized, stratified by sex, to 1 000-mg MIB-626 once daily, twice daily, or placebo for 14 days. NMN, NAD, and NAD metabolome were measured using liquid chromatography–tandem mass spectrometry.\n\nResults\nParticipant characteristics were similar across groups. MIB-626 was well tolerated and frequency of adverse events was similar across groups. Blood NMN concentrations on Day 14 in MIB-626-treated groups were significantly higher compared to placebo (1.7-times and 3.7-times increase above baseline in 1 000 mg once-daily and twice-daily groups in mean AUClast, respectively). MIB-626 treatment was associated with substantial dose-related increases in blood NAD levels. Blood levels of NAD metabolites were higher in NMN-treated participants on Days 8 and 14 than at baseline. Changes in NMN or NAD levels were not related to sex, body mass index, or age. Very little unmodified NMN was excreted in the urine.\n\nConclusion\nMIB-626 1 000 mg once-daily or twice-daily regimens were safe and associated with substantial dose-related increases in blood NAD levels and its metabolome. These foundational data that were obtained using a pharmaceutical-grade βNMN, standardized sample collection, and validated liquid chromatography–tandem mass spectrometry assays, should facilitate design of efficacy trials in disease conditions.",
+  "doi": "10.1093/gerona/glac049",
+  "url": "https://doi.org/10.1093/gerona/glac049",
+  "pdf_url": "",
+  "venue": "The Journals of Gerontology: Series A",
+  "citation_count": 42,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-23T13:59:50.405134+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok"
+}

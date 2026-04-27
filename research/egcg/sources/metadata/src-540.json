@@ -1,0 +1,21 @@
+{
+  "id": "src-540",
+  "title": "Machine learning-driven blood biomarker profiling and EGCG intervention in fetal alcohol spectrum disorder.",
+  "authors": [
+    "Ramos-Triguero, Anna",
+    "Navarro-Tapia, Elisabet",
+    "Vieiros, Melina",
+    "Martínez, Leopoldo",
+    "García-Algar, Óscar",
+    "Andreu-Fernández, Vicente"
+  ],
+  "doi": "10.1016/j.ijchp.2025.100620",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40980771",
+  "provider": "pubmed",
+  "year": 2025,
+  "venue": "International journal of clinical and health psychology : IJCHP",
+  "citation_count": 0,
+  "abstract": "Fetal alcohol spectrum disorder (FASD) is a complex neurodevelopmental condition caused by prenatal alcohol exposure (PAE), often underdiagnosed due to heterogeneous symptoms and diagnostic challenges. This study aimed to identify serum-based biomarkers for early FASD diagnosis and assess the potential of epigallocatechin gallate (EGCG), a natural antioxidant found in green tea, in modulating markers related to FASD. Luminex immunoassays were employed to analyze serum samples from FASD patients, identifying seven predictive biomarkers involved in neuroinflammation and immune dysregulation: IL-10, IFNγ, CCL2, NGFβ, IL-1β, CX3CL1, and CXCL16. These biomarkers reflect key disruptions in brain health, particularly in neuroinflammation, which contributes to the cognitive, behavioral, and mental health challenges frequently observed in FASD patients, including memory deficits, attention problems, and emotional dysregulation. To enhance diagnostic precision, machine learning (ML) models were trained on these biomarker datasets, with Random Forest (RF) achieving the highest accuracy (0.89), sensitivity (0.92), specificity (0.83), and ROC AUC (0.88). Additionally, an open-label pilot study in children diagnosed with FASD showed significant restoration of the levels of IFNy, CX3CL1, IL-1β, IL-10, and NGFβ after 12 months of EGCG treatment, suggesting its potential role in mitigating neuroinflammatory responses and promoting neurogenesis. These findings underscore the value of integrating serum biomarkers with ML-driven approaches to advance FASD diagnostics, while also identifying EGCG as a promising intervention for neurodevelopmental and mental health impairments associated with the disorder.",
+  "type": "academic",
+  "pdf_url": ""
+}

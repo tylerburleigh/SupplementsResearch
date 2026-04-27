@@ -1,0 +1,17 @@
+{
+  "id": "src-413",
+  "title": "TOTAL ENERGY INTAKE: IMPLICATIONS FOR EPIDEMIOLOGIC ANALYSES",
+  "authors": [
+    "Willett, Walter C.",
+    "Stampfer, Meir J."
+  ],
+  "doi": "10.1093/oxfordjournals.aje.a114366",
+  "url": "https://openalex.org/W4292996332",
+  "provider": "openalex",
+  "year": 1986,
+  "venue": "American Journal of Epidemiology",
+  "citation_count": 2750,
+  "abstract": "Associations between intake of specific nutrients and disease cannot be considered primary effects of diet if they are simply the result of differences between cases and noncases in body size, physical activity, and metabolic efficiency. Epidemiologic studies of diet and disease should therefore be directed at the effect of nutrient intakes independent of total caloric intake in most instances. This is not accomplished with nutrient density measures of dietary intake but can be achieved by employing nutrient intakes adjusted for caloric intake by regression analysis. While pitfalls in the manipulation and interpretation of energy intake data in epidemiologic studies have been emphasized, these considerations also highlight the usefulness of obtaining a measurement of total caloric intake. For instance, if a questionnaire obtained information on only cholesterol intake in a study of coronary heart disease, it is possible that no association with disease would be found even if a real positive effect of a high cholesterol diet existed, since the caloric intake of cases is likely to be less than that of noncases. Such a finding could be appropriately interpreted if an estimate of total caloric intake were available. The relationships between dietary factors and disease are complex. Even with carefully collected measures of intake, consideration of the biologic implications of various analytic approaches is needed to avoid misleading conclusions.",
+  "type": "academic",
+  "pdf_url": ""
+}

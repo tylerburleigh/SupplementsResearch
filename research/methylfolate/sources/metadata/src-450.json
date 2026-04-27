@@ -1,0 +1,23 @@
+{
+  "id": "src-450",
+  "title": "Associations of Plasma Folate and Vitamin B6 With Blood DNA Methylation Age: An Analysis of One-Carbon Metabolites in the VA Normative Aging Study.",
+  "authors": [
+    "Nwanaji-Enwerem, Jamaji C",
+    "Colicino, Elena",
+    "Gao, Xu",
+    "Wang, Cuicui",
+    "Vokonas, Pantel",
+    "Boyer, Edward W",
+    "Baccarelli, Andrea A",
+    "Schwartz, Joel"
+  ],
+  "doi": "10.1093/gerona/glaa257",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/33027507",
+  "provider": "pubmed",
+  "year": 2021,
+  "venue": "The journals of gerontology. Series A, Biological sciences and medical sciences",
+  "citation_count": 0,
+  "abstract": "One-carbon metabolism is an important contributor to aging-related diseases; nevertheless, relationships of one-carbon metabolites with novel DNA methylation-based measures of biological aging remain poorly characterized. We examined relationships of one-carbon metabolites with 3 DNA methylation-based measures of biological aging: DNAmAge, GrimAge, and PhenoAge. We measured plasma levels of 4 common one-carbon metabolites (vitamin B6, vitamin B12, folate, and homocysteine) in 715 VA Normative Aging Study participants with at least 1 visit between 1999 and 2008 (observations = 1153). DNA methylation age metrics were calculated using the HumanMethylation450 BeadChip. We utilized Bayesian Kernel Machine Regression models adjusted for chronological age, lifestyle factors, age-related diseases, and study visits to determine metabolites important to the aging outcomes. Bayesian Kernel Machine Regression models allowed for the estimation of the relationships of single metabolites and the cumulative metabolite mixture with methylation age. Log vitamin B6 was selected as important to PhenoAge (β = -1.62 years, 95% CI: -2.28, -0.96). Log folate was selected as important to GrimAge (β = 0.75 years, 95% CI: 0.41, 1.09) and PhenoAge (β = 1.62 years, 95% CI: 0.95, 2.29). Compared to a model where each metabolite in the mixture is set to its 50th percentile, the log cumulative mixture with each metabolite at its 30th (β = -0.13 years, 95% CI: -0.26, -0.005) and 40th percentile (β = -0.06 years, 95% CI: -0.11, -0.005) was associated with decreased GrimAge. Our results provide novel characterizations of the relationships between one-carbon metabolites and DNA methylation age in a human population study. Further research is required to confirm these findings and establish their generalizability.",
+  "type": "academic",
+  "pdf_url": ""
+}

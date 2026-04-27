@@ -1,0 +1,160 @@
+3	2	Clinical Practice Guideline
+32	3	1.1 We recommend treating postmenopausal women
+38	3	2.1 In postmenopausal women at high risk of fractures,
+63	3	2.2 In postmenopausal women with osteoporosis
+92	3	3.1 In postmenopausal women with osteoporosis
+103	3	3.2 In postmenopausal women with osteoporosis
+109	3	3.3 In postmenopausal women with osteoporosis
+122	3	4.1 In postmenopausal women with osteoporosis at
+128	3	4.2 In postmenopausal women with osteoporosis
+134	3	5.1. In postmenopausal women with osteoporosis at
+144	3	6.1 In postmenopausal women at high risk of fracture
+158	3	6.2 In postmenopausal women with osteoporosis
+180	3	7.1 In postmenopausal women at high risk of fracture
+188	3	8.1 In postmenopausal women with low bone min-
+193	3	8.2 In postmenopausal women at high risk of frac-
+201	3	11.1 In postmenopausal women with a low bone
+215	2	Introduction
+318	2	1. Who to Treat
+319	3	1.1 We recommend treating postmenopausal women
+410	2	2. Bisphosphonates
+411	3	2.1 In postmenopausal women at high risk of frac-
+418	3	2.2 In postmenopausal wome n with osteoporosis who
+662	2	3. Denosumab
+663	3	3.1 In postmenopausal women with osteoporosis
+674	3	3.2 In postmenopausal women with osteoporosis
+680	3	3.3 In postmenopausal women with osteoporosis
+730	2	2. Denosumab has been shown to
+881	3	4.1 In postmenopausal women with osteoporosis at
+887	3	4.2 In postmenopausal women with osteoporosis
+1007	2	5. Selective Estrogen Receptor Modulators
+1008	3	5.1. In postmenopausal women with osteoporosis at
+1089	2	6. Menopausal Hormone Therapy
+1091	3	6.1 In postmenopausal women at high risk of fracture
+1104	3	6.2 In postmenopausal women with osteoporosis at
+1186	2	7. Calcitonin
+1187	3	7.1 In postmenopausal women at high risk of fracture
+1230	2	8. Calcium and Vitamin D
+1231	3	8.1 In postmenopausal women with low BMD and
+1235	3	8.2 In postmenopausal women at high risk of fracture
+1415	2	9. Approach to Treatment or Choosing
+1505	2	10. Optimal Duration of Treatment and
+1699	2	11. Monitoring
+1700	3	11.1 In postmenopausal women with a low BMD and
+1827	2	Participants
+1905	2	1. To be considered for membership of a Writing
+1912	2	2. Potential COIs that should be declared include all
+1916	2	3. The Chair of the Clinical Guidelines Subcom-
+1926	2	4. The Chair of the Clinical Guidelines Subcom-
+1934	2	5. The Chair and Co-Chair of the Writing Com-
+2065	2	Iab
+2118	2	7. Writing Committee members with relevant COIs
+2122	2	8. All Writing Committee members must refrain
+2125	2	9. If a member is aware of another person who
+2129	2	10. Staff, Writing Committee Chairs, and members
+2132	2	Acknowledgments
+2139	2	References
+2142	2	2. Gehlbach S, Saag KG, Adachi JD, Hooven FH, Flahive J, Boonen
+2154	2	5. Hopkins RB, Pullenayegum E, Goeree R, Adachi JD, Papaioannou
+2158	2	6. Ioannidis G, Papaioannou A, Hopman WM, Akhtar-Danesh N,
+2167	2	8. Kim SC, Kim DH, Mogun H, Eddings W, Polinski JM, Franklin
+2172	2	9. Lewiecki EM, Bilezikian JP, Carey JJ, Dell RM, Gordon CM,
+2177	2	10. Michael Lewiecki E, Wright NC, Curtis JR, Siris E, Gagel RF,
+2187	2	12. Barrionuevo P, Kapoor E, Asi N, Alahdab F, Mohammed K,
+2193	2	13. Barrionuevo P, Gionfriddo MR, Castaneda-Guarderas A,
+2198	2	14. Compston J, Cooper A, Cooper C, Gittoes N, Gregson C, Harvey
+2204	2	15. Cosman F, de Beur SJ, LeBoff MS, Lewiecki EM, Tanner B,
+2208	2	16. Papaioannou A, Morin S, Cheung AM, Atkinson S, Brown JP,
+2217	2	18. Body JJ, Bergmann P, Boonen S, Boutsen Y, Devogelaer JP,
+2222	2	19. Dimai HP, Pietschmann P, Resch H, Preisinger E, Fahrleitner-
+2228	2	20. Zerbini CA, Szejnfeld VL, Abergaria BH, McCloskey EV,
+2232	2	21. Meeta, Harinarayan CV, Marwah R, Sahay R, Kalra S, Babhulkar
+2236	2	22. Radominski SC, Bernardo W, Paula AP, Albergaria BH, Moreira
+2257	2	25. Kanis JA, McCloskey EV, Johansson H, Strom O, Borgstrom F,
+2267	2	28. Lindsay R, Silverman SL, Cooper C, Hanley DA, Barton I, Broy
+2274	2	30. Huntjens KM, Kosar S, van Geel TA, Geusens PP, Willems P,
+2283	2	32. Clinton J, Franta A, Polissar NL, Neradilek B, Mounce D, Fink
+2287	2	33. Schousboe JT, Fink HA, Taylor BC, Stone KL, Hillier TA, Nevitt
+2299	2	35. Black DM, Reid IR, Boonen S, Bucci-Rechtweg C, Cauley JA,
+2305	2	36. Black DM, Schwartz AV, Ensrud KE, Cauley JA, Levis S, Quandt
+2314	2	38. Naylor KE, Jacques RM, Paggiosi M, Gossiel F, Peel NFA,
+2319	2	39. Naylor KE, Bradburn M, Paggiosi MA, Gossiel F, Peel NFA,
+2324	2	40. Adler RA, El-Hajj Fuleihan G, Bauer DC, Camacho PM, Clarke
+2330	2	41. Adams AL, Adams JL, Raebel MA, Tang BT, Kuntz JL,
+2342	2	44. Vestergaard P, Schwartz K, Pinholt EM, Rejnmark L, Mosekilde
+2347	2	46. Kim DH, Rogers JR, Fulchino LA, Kim CA, Solomon DH, Kim
+2364	2	51. Bone HG, Wagman RB, Brandi ML, Brown JP, Chapurlat R,
+2372	2	52. Jamal SA, Ljunggren O, Stehman-Breen C, Cummings SR,
+2391	2	56. Cummings SR, San Martin J, McClung MR, Siris ES, Eastell R,
+2405	2	58. Papapoulos S, Lippuner K, Roux C, Lin CJF, Kendler DL,
+2416	2	60. Watts NB, Roux C, Modlin JF, Brown JP, Daniels A, Jackson S,
+2421	2	61. Tsourdi E, Langdahl B, Cohen-Solal M, Aubry-Rozier B, Eriksen
+2432	2	63. Bone HG, Bolognese MA, Yuen CK, Kendler DL, Miller PD, Yang
+2437	2	64. Miller PD, Wagman RB, Peacock M, Lewiecki EM, Bolognese
+2447	2	66. Ishikawa K, Nagai T, Sakamoto K, Ohara K, Eguro T, Ito H,
+2452	2	67. McClung MR, Lewiecki EM, Cohen SB, Bolognese MA,
+2461	2	69. Kendler DL, McClung MR, Freemantle N, Lillestol M, Moffett
+2466	2	70. Kendler DL, Macarios D, Lillestol MJ, Moffett A, Satram-Hoang
+2471	2	71. Hadji P, Papaioannou N, Gielen E, Feudjo Tepie M, Zhang E,
+2479	2	72. Kendler DL, Marin F, Zerbini CAF, Russo LA, Greenspan SL,
+2487	2	73. Neer RM, Arnaud CD, Zanchetta JR, Prince R, Gaich GA,
+2492	2	74. Miller PD, Hattersley G, Riis BJ, Williams GC, Lau E, Russo LA,
+2498	2	75. Black DM, Bilezikian JP, Ensrud KE, Greenspan SL, Palermo L,
+2503	2	76. Keaveny TM, Hoffmann PF, Singh M, Palermo L, Bilezikian JP,
+2509	2	77. Cosman F, Miller PD, Williams GC, Hattersley G, Hu MY, Valter
+2515	2	78. Eastell R, Nickelsen T, Marin F, Barker C, Hadji P, Farrerons J,
+2533	2	81. Geusens P, Marin F, Kendler DL, Russo LA, Zerbini CA, Minisola
+2540	2	82. Greenspan SL, Bone HG, Ettinger MP, Hanley DA, Lindsay R,
+2547	2	83. Crandall CJ, Newberry SJ, Diamant A, Lim Y-W, Gellad WF,
+2551	2	84. Ettinger B, Black DM, Mitlak BH, Knickerbocker RK, Nickelsen
+2559	2	85. Ensrud KE, Stock JL, Barrett-Connor E, Grady D, Mosca L,
+2564	2	86. Reid IR, Eastell R, Fogelman I, Adachi JD, Rosen A, Netelenbos
+2569	2	87. Silverman SL, Christiansen C, Genant HK, Vukicevic S, Zanchetta
+2584	2	90. Pinkerton JV, Harvey JA, Lindsay R, Pan K, Chines AA, Mirkin S,
+2588	2	91. Cuzick J, Sestak I, Bonanni B, Costantino JP, Cummings S,
+2599	2	93. Cauley JA, Robbins J, Chen Z, Cummings SR, Jackson RD, LaCroix
+2605	2	94. Hulley S, Grady D, Bush T, Furberg C, Herrington D, Riggs B,
+2633	2	99. Manson JE, Chlebowski RT, Stefanick ML, Aragaki AK, Rossouw
+2643	2	100. Cummings SR, Ettinger B, Delmas PD, Kenemans P, Stathopoulos
+2649	2	101. Kenemans P, Bundred NJ, Foidart J-M, Kubista E, von Schoultz B,
+2655	2	102. Stuenkel CA, Davis SR, Gompel A, Lumsden MA, Murad MH,
+2659	2	103. Mohammed K, Abu Dabrh AM, Benkhadra K, Al Nofal A,
+2668	2	104. Chesnut CH III, Silverman S, Andriano K, Genant H, Gimona A,
+2674	2	105. Lyritis GP, Paspati I, Karachalios T, Ioakimidis D, Skarantavos G,
+2684	2	108. Chapuy MC, Arlot ME, Duboeuf F, Brun J, Crouzet B, Arnaud S,
+2687	2	109. Jackson RD, LaCroix AZ, Gass M, Wallace RB, Robbins J, Lewis
+2702	2	111. Chapuy MC, Pamphile R, Paris E, Kempf C, Schlichting M,
+2713	2	113. Sanders KM, Stuart AL, Williamson EJ, Simpson JA, Kotowicz
+2729	2	117. Thiele I, Linseisen J, Meisinger C, Schwab S, Huth C, Peters A,
+2735	2	118. Radford LT, Bolland MJ, Mason B, Horne A, Gamble GD, Grey
+2742	2	120. Bischoff-Ferrari HA, Dawson-Hughes B, Orav EJ, Staehelin HB,
+2748	2	121. Ross AC, Manson JE, Abrams SA, Aloia JF, Brannon PM, Clinton
+2756	2	123. Diez-Perez A, Adachi JD, Agnusdei D, Bilezikian JP, Compston
+2764	2	125. Cummings SR, Cosman F, Lewiecki EM, Schousboe JT, Bauer
+2774	2	127. Miller PD, Bolognese MA, Lewiecki EM, McClung MR, Ding B,
+2784	2	129. Brown JP, Ferrari S, Gilchrist N, Jensen JE, Pannacciulli N,
+2794	2	130. Lamy O, Gonzalez-Rodriguez E, Stoll D, Hans D, Aubry-Rozier
+2802	2	132. Cummings SR, Ferrari S, Eastell R, Gilchrist N, Jensen JB,
+2811	2	133. Freemantle N, Satram-Hoang S, Tang ET, Kaur P, Macarios D,
+2823	2	136. Bone HG, Cosman F, Miller PD, Williams GC, Hattersley G, Hu
+2828	2	137. Khan AA, Morrison A, Hanley DA, Felsenberg D, McCauley LK,
+2853	2	141. Hellstein JW, Adler RA, Edwards B, Jacobsen PL, Kalmar JR,
+2861	2	142. Dimopoulos MA, Kastritis E, Bamia C, Melakopoulos I, Gika D,
+2867	2	143. Vandone AM, Donadio M, Mozzati M, Ardine M, Polimeni MA,
+2875	2	145. Goh SK, Yang KY, Koh JS, Wong MK, Chua SY, Chua DT,
+2879	2	146. Shane E, Burr D, Abrahamsen B, Adler RA, Brown TD, Cheung
+2887	2	147. Shane E, Burr D, Ebeling PR, Abrahamsen B, Adler RA, Brown
+2896	2	148. Park-Wyllie LY, Mamdani MM, Juurlink DN, Hawker GA,
+2904	2	150. Feldstein AC, Black D, Perrin N, Rosales AG, Friess D, Boardman
+2912	2	152. LeBlanc ES, Rosales AG, Black DM, Genant HK, Dell RM, Friess
+2918	2	153. Dell RM, Adams AL, Greene DF, Funahashi TT, Silverman SL,
+2922	2	154. Black DM, Delmas PD, Eastell R, Reid IR, Boonen S, Cauley JA,
+2929	2	155. Watts NB, Lewiecki EM, Bonnick SL, Laster AJ, Binkley N, Blank
+2938	2	157. Hansen KE, Swenson ED, Baltz B, Schuna AA, Jones AN, Elliott
+2941	2	158. Wade SW, Satram-Hoang S, Nadkar A, Macarios D, Tosteson
+2950	2	159. Watts NB, Cooper C, Lindsay R, Eastell R, Manhart MD, Barton
+2963	2	162. Bauer DC, Black DM, Bouxsein ML, Lui LY, Cauley JA, de Papp
+2982	2	165. Diez-Perez A, Naylor KE, Abrahamsen B, Agnusdei D, Brandi
+2992	2	166. Eastell R, Barton I, Hannon RA, Chines A, Garnero P, Delmas
+2996	2	167. Guyatt G, Oxman AD, Akl EA, Kunz R, Vist G, Brozek J, Norris
+3001	2	168. Guyatt GH, Oxman AD, Vist GE, Kunz R, Falck-Ytter Y, Alonso-

@@ -1,0 +1,29 @@
+{
+  "id": "src-148",
+  "title": "Targeting SIRT3 to regulate mitophagy-dependent ferroptosis for preventing glucocorticoid-induced osteoporosis.",
+  "authors": [
+    "Hu, Yunhao",
+    "Lu, Hongduo",
+    "Fang, Hanjun",
+    "Chen, Benlu",
+    "Chen, Zhiwen",
+    "Jiang, Mengyu",
+    "Zhou, Yuehui",
+    "Li, Ziyuan",
+    "Gao, Shihua",
+    "Huang, Zeqing",
+    "Zhou, Chi",
+    "Liu, Yuhao",
+    "Chen, Zhenqiu",
+    "Fan, Yinuo"
+  ],
+  "doi": "10.1097/js9.0000000000002783",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40607908",
+  "provider": "pubmed",
+  "year": 2025,
+  "venue": "International journal of surgery (London, England)",
+  "citation_count": 0,
+  "abstract": "BACKGROUND: Compelling evidence has implicated osteoblast ferroptosis as a critical contributor to the pathogenesis of glucocorticoid-induced osteoporosis (GIOP). However, the underlying regulatory mechanisms remain poorly understood.\nMETHODS: In the glucocorticoids (GCs)-induced GIOP rat model, both osteoblast dysfunction and ferroptosis markers were assessed. Ferroptosis was inhibited with deferoxamine (DFO). Transcriptomic profiling was performed to analyze the correlation between mitophagy and SIRT3 levels. In MC3T3-E1 cells exposed to GCs, we examined key mitophagy markers PINK1 and PARKIN, mitochondrial function, and SIRT3 expression. Treatments included DFO, mitophagy inhibitors (Mdivi-1), and SIRT3 agonists (Nicotinamide riboside chloride).\nRESULTS: In the GIOP rat model, significant osteoblast dysfunction and elevated ferroptosis markers were observed. Although DFO treatment inhibited ferroptosis, it failed to restore osteogenesis, suggesting the involvement of additional regulatory mechanisms in osteogenic function regulation. Transcriptomic profiling highlighted a robust correlation between mitophagy and SIRT3 levels in GIOP. In GC-exposed MC3T3-E1 cells, key mitophagy markers PINK1 and PARKIN were upregulated, mitochondrial function was impaired, and SIRT3 expression was significantly reduced. Notably, while DFO treatment did not restore mitochondrial homeostasis, the application of Mdivi-1 (mitophagy inhibitor) and Nicotinamide riboside chloride (SIRT3 agonists) effectively alleviated ferroptosis and restored mitochondrial function.\nCONCLUSIONS: SIRT3 regulates ferroptosis by inhibiting excessive mitophagy in osteoblasts, providing a novel mechanistic pathway for mitigating GIOP. These findings suggest that SIRT3 represents a critical regulator of mitophagy-dependent ferroptosis and a potential therapeutic target for GIOP.",
+  "type": "academic",
+  "pdf_url": ""
+}

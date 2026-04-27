@@ -1,0 +1,22 @@
+{
+  "id": "src-355",
+  "title": "Pharmacological Insights and Technological Innovations in Curcuma longa L. and Echinacea purpurea (L.) Moench as Plant-Derived Immunomodulators",
+  "authors": [
+    "Espinoza, Juan Pablo",
+    "Guajardo, Valentina López",
+    "Rodríguez-Díaz, Maité",
+    "Moreno, Mabel",
+    "Klagges, Carolina",
+    "Castillo-Ruiz, Mario",
+    "Otero, Carolina"
+  ],
+  "doi": "10.3390/ph19010093",
+  "url": "https://openalex.org/W7118178561",
+  "provider": "openalex",
+  "year": 2026,
+  "venue": "Pharmaceuticals",
+  "citation_count": 0,
+  "abstract": "Immune dysregulation and chronic inflammation are central contributors to many diseases. <i>Curcuma longa</i> L. and <i>Echinacea purpurea</i> (L.) Moench are widely used medicinal plants with extensive preclinical evidence supporting immunomodulatory effects. Their key metabolites, curcuminoids, turmerones, alkamides, polysaccharides, and caffeic acid derivatives, engage with critical pathways, including NF-κB, MAPK, JAK/STAT, and Nrf2. This interaction modulates cytokine production, oxidative stress responses, and both innate and adaptive immune activities. Although numerous mechanistic and early clinical studies support these actions, human evidence remains inconsistent, partly due to poor and variable oral bioavailability and substantial heterogeneity in extract composition, despite the existence of some standardized preparations. Recent technological strategies, including micelles, phytosomes, phospholipid complexes, nanoemulsions, polymeric nanoparticles, and liposomal systems, have improved solubility, stability, and systemic exposure of key metabolites, particularly curcuminoids. However, clinical results are still limited and often derived from small or heterogeneous trials. This review summarizes the ethnopharmacological background, mechanistic data, clinical findings, and formulation advances for both species and highlights the translational barriers that restrict their therapeutic application. Rigorous clinical studies using standardized and technologically optimized preparations are required to determine the true immunomodulatory potential of <i>C. longa</i> and <i>E. purpurea.</i>",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/1424-8247/19/1/93/pdf?version=1767436318"
+}

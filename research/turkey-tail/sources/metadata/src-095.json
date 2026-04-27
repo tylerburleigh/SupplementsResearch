@@ -1,0 +1,37 @@
+{
+  "id": "src-095",
+  "title": "The mycelium of the Trametes versicolor (Turkey tail) mushroom and its fermented substrate each show potent and complementary immune activating properties in vitro",
+  "authors": [
+    "Benson, Kathleen F.",
+    "Stamets, Paul",
+    "Davis, Renee",
+    "Nally, Regan",
+    "Taylor, Alex",
+    "Slater, Sonya",
+    "Jensen, Gitte S."
+  ],
+  "year": 2019,
+  "abstract": "AbstractBackgroundThe medicinal mushroomTrametes versicolor(Tv, Turkey Tail) is often prepared for consumption as a powder from the fungal mycelium and the fermented substrate on which it grew. The goal for this study was to evaluate the immune-modulating properties of the mycelium versus the fermented substrate, to document whether an important part of the immune-activating effects resides in the metabolically fermented substrate.MethodsTv mycelium was cultured on rice flour. The mycelium and the fermented substrate were mechanically separated, dried, and milled. The initial substrate served as a control. Aqueous fractions were extracted and passed through 0.22-μm filters. The remaining solids were passed through homogenization spin columns without filtration. The aqueous and solid fractions of the initial substrate (IS), the fermented substrate (FS), and theTrametes versicolormycelium (TvM) were tested for immune-activating and modulating activities on human peripheral blood mononuclear cell cultures, to examine expression of the CD69 activation marker on lymphocytes versus monocytes, and on the T, NKT, and NK lymphocyte subsets. Culture supernatants were tested for cytokines using Luminex arrays.ResultsBoth aqueous and solid fractions of TvM triggered robust induction of CD69 on lymphocytes and monocytes, whereas FS only triggered minor induction of CD69, and IS had no activating effect. The aqueous extract of TvM had stronger activating effects than the solid fraction. In contrast, the solid fraction of IS triggered a reduction in CD69, below levels on untreated cells.Both aqueous and solid fractions of FS triggered large and dose-dependent increases in immune-activating pro-inflammatory cytokines (IL-2, IL-6), anti-inflammatory cytokines Interleukin-1 receptor antagonist (IL-1ra) and Interleukin-10 (IL-10), anti-viral cytokines interferon-gamma (IFN-γ) and Macrophage Inflammatory Protein-alpha (MIP-1α), as well as Granulocyte-Colony Stimulating Factor (G-CSF) and Interleukin-8 (IL-8). TvM triggered more modest cytokine increases. The aqueous extract of IS showed no effects, whereas the solid fraction showed modest effects on induction of cytokines and growth factors.ConclusionThe results demonstrated that the immune-activating bioactivity of a mycelial-based medicinal mushroom preparation is a combination of the mycelium itself (including insoluble beta-glucans, and also water-soluble components), and the highly bioactive, metabolically fermented substrate, not present in the initial substrate.",
+  "doi": "10.1186/s12906-019-2681-7",
+  "url": "https://doi.org/10.1186/s12906-019-2681-7",
+  "pdf_url": "",
+  "venue": "BMC Complementary and Alternative Medicine",
+  "citation_count": 56,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-23T18:36:42.276558+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-095.md",
+  "quality_details": {
+    "content_length": 58651,
+    "alpha_ratio": 0.766,
+    "sentence_count": 537,
+    "reasons": [
+      "paywall_page (access this article)"
+    ]
+  }
+}

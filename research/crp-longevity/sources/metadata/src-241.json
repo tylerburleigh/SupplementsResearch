@@ -1,0 +1,18 @@
+{
+  "id": "src-241",
+  "title": "Exploring the causal relationship between interleukin-6 or C reactive protein and malignant melanoma using a two-sample Mendelian randomization approach",
+  "authors": [
+    "Wang, Quan",
+    "Zheng, Wei",
+    "Pan, S."
+  ],
+  "doi": "10.3389/fonc.2024.1375362",
+  "url": "https://www.semanticscholar.org/paper/51b7ae27d5c9c07a4eb552706b39ce456f8c28ec",
+  "provider": "semantic_scholar",
+  "year": 2024,
+  "venue": "Frontiers in Oncology",
+  "citation_count": 0,
+  "abstract": "The goal was to explore the effect of interleukin-6 (IL6) and C reactive protein (CRP) on malignant melanoma (MM) using two-sample Mendelian randomization. Methods Data for this study were obtained from the IEU Open GWAS project website for genome-wide association study data (GWAS) on interleukin-6, C reactive protein levels and malignant melanoma. Inverse variance weighted (IVW) method was mainly used and supplemented with MR-Egger regression and weighted median. Finally, horizontal multivariate validity and heterogeneity tests were performed to assess the stability and reliability of the results. Results The results of univariate two-sample MR analyses showed no significant effect of CRP on MM: inverse variance weighting method (OR=0.999, 95% CI: 0.998–1.001, P=0.343), MR-Egger regression (OR= 1.000, 95% CI: 0.998–1.001, P= 0.180), and weighted median method (OR= 0.999, 95% CI: 0.997 to 1.000, P= 0.583), and weighted model (OR= 0.999, 95% CI: 0.998 to 1.001, P= 0.328). Also,IL-6 had no significant effect on MM: inverse variance weighting method (OR= 1.001, 95% CI: 0.999 to 1.002, P=0.461), MR-Egger regression (OR= 1.000, 95% CI: 0.997 to 1.004, P= 0.910), weighted median method (OR= 1.000, 95% CI: 0.998 to 1.002, P= 0.749), and weighted mode (OR= 1.000, 95% CI: 0.998 to 1.002, P= 0.820). Conclusion There was no causal relationship between C-reactive protein and IL-6 on the risk of malignant melanoma.",
+  "type": "academic",
+  "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11215064"
+}

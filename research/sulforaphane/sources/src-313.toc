@@ -1,0 +1,23 @@
+45	2	Paul Talalay
+54	2	Paul Talalay
+91	2	Paul Talalay
+131	2	Paul Talalay
+178	2	Paul Talalay
+216	2	Paul Talalay
+253	2	Paul Talalay
+290	2	Paul Talalay
+327	2	Paul Talalay
+364	2	Paul Talalay
+401	2	Paul Talalay
+443	2	Paul Talalay
+487	2	Paul Talalay
+530	2	Paul Talalay
+552	2	Paul Talalay
+553	2	Personal Notes
+573	2	Acknowledgments
+578	2	Paul Talalay
+579	2	References
+611	2	Paul Talalay
+643	2	Paul Talalay
+644	2	Selected Bibliography
+673	2	Paul Talalay

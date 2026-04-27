@@ -1,0 +1,47 @@
+2408	1	CRP with higher intake ¼ IL-6,
+2543	1	CRP (M)
+2579	1	MCP-1, PGE2
+2597	1	TNF-a, ¼ IL-6, CRP 346
+2600	1	CRP with high intake
+2617	1	MCP-1
+2622	1	CRP, RANTES
+2631	1	RANTES, IL-8, IFN-a
+2638	1	CRP 340
+2645	1	CRP
+2669	1	CRP, IL-6, IL-15, MIG
+2992	1	sP-selectin with black tea 384
+3007	1	SAA
+3175	1	IL-6 with higher intake
+3191	1	Leucocyte count, ﬁbrinogen with higher intake
+3195	1	CRP, IL-6 (1–2 drinks/d v. 0 drinks/d)
+3198	1	sTNFR2, ﬁbrinogen, sVCAM-1
+3206	1	Fibrinogen with higher intake
+3246	1	MCP-1 in patients
+3267	1	Fibrinogen
+3275	1	CRP, ﬁbrinogen 446
+3595	1	IL-6, sICAM-1, sVCAM-1
+3611	1	sVCAM-1 with low-AGE diet
+3617	1	CRP, TNF-a, sVCAM-1 and PAI-1
+4051	1	sVCAM-1, von Willibrand factor
+4055	1	sVCAM-1, sICAM-1, sE-selectin,
+4060	1	sVCAM-1, sICAM-1
+4634	1	sVCAM-1, sE-selectin
+4637	1	CRP, IL-6, SAA, sVCAM-1
+4640	1	CRP
+4646	1	CRP, sVCAM-1, sICAM-1, sE-selectin 606
+4652	1	sVCAM-1, MCSF
+4655	1	CRP, IL-6, SAA, sVCAM-1, MCSF
+4673	1	sE-selectin
+4680	1	von Willibrand factor, thrombomodulin
+4685	1	von Willibrand factor, thrombomodulin
+4696	1	sVCAM-1
+4706	1	von Willibrand factor, thrombomodulin
+4712	1	CRP, IL-6 624
+4727	1	sICAM-1 (especially in women)
+4730	1	sP-selectin
+4738	1	sICAM-1, thrombomodulin
+4759	1	PAI-1 activity, inﬂammatory gene
+4765	1	CRP, IL-6
+4847	1	sICAM-1
+4851	1	Leucocytes, CRP, IL-6, granulocyte
+4865	1	IL-18

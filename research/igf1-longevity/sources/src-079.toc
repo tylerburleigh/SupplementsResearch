@@ -1,0 +1,13 @@
+8	1	The Author(s) 2017. This article is an open access publication
+9	2	Abstract
+32	2	Introduction
+67	2	1 British Heart Foundation Glasgow Cardiovascular Research Centre,
+240	2	Findings
+361	2	Conclusion
+391	2	References
+395	2	1. Sarwar N, Gao P , Seshasai S, Gobin R, Kaptoge S, Di Angelantonio
+402	2	3. Tillin T, Hughes AD, Mayet J, Whincup P , Sattar N, Forouhi NG,
+430	2	10. Nakagami T, Qiao Q, Carstensen B, Nhr-Hansen C, Hu G,
+467	2	18. Emerging Risk Factors Collaboration, Seshasai SRK, Kaptoge S,
+477	2	20. Negandhi PH, Ghouri N, Colhoun HM, Fischbacher CM, Lindsay
+481	2	21. Misra A, Tandon N, Ebrahim S, Sattar N, Alam D, Shrivastava U,

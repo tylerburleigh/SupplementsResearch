@@ -1,0 +1,18 @@
+{
+  "id": "src-519",
+  "title": "Is 5-methyltetrahydrofolate an alternative to folic acid for the prevention of neural tube defects?",
+  "authors": [
+    "Obeid, Rima",
+    "Holzgreve, Wolfgang",
+    "Pietrzik, Klaus"
+  ],
+  "doi": "10.1515/jpm-2012-0256",
+  "url": "https://openalex.org/W1978073234",
+  "provider": "openalex",
+  "year": 2013,
+  "venue": "Journal of Perinatal Medicine",
+  "citation_count": 96,
+  "abstract": "Women have higher requirements for folate during pregnancy. An optimal folate status must be achieved before conception and in the first trimester when the neural tube closes. Low maternal folate status is causally related to neural tube defects (NTDs). Many NTDs can be prevented by increasing maternal folate intake in the preconceptional period. Dietary folate is protective, but recommending increasing folate intake is ineffective on a population level particularly during periods of high demands. This is because the recommendations are often not followed or because the bioavailability of food folate is variable. Supplemental folate [folic acid (FA) or 5-methyltetrahydrofolate (5-methylTHF)] can effectively increase folate concentrations to the level that is considered to be protective. FA is a synthetic compound that has no biological functions unless it is reduced to dihydrofolate and tetrahydrofolate. Unmetabolized FA appears in the circulation at doses of >200 μg. Individuals show wide variations in their ability to reduce FA. Carriers of certain polymorphisms in genes related to folate metabolism or absorption can better benefit from 5-methylTHF instead of FA. 5-MethylTHF [also known as (6S)-5-methylTHF] is the predominant natural form that is readily available for transport and metabolism. In contrast to FA, 5-methylTHF has no tolerable upper intake level and does not mask vitamin B12 deficiency. Supplementation of the natural form, 5-methylTHF, is a better alternative to supplementation of FA, especially in countries not applying a fortification program. Supplemental 5-methylTHF can effectively improve folate biomarkers in young women in early pregnancy in order to prevent NTDs.",
+  "type": "academic",
+  "pdf_url": "https://www.degruyter.com/document/doi/10.1515/jpm-2012-0256/pdf"
+}

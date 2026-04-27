@@ -1,0 +1,38 @@
+{
+  "id": "src-050",
+  "title": "Improving insulin resistance by sulforaphane <i>via</i> activating the <i>Bacteroides</i> and <i>Lactobacillus</i> SCFAs–GPR–GLP1 signal axis",
+  "authors": [
+    "Tian, Sicong",
+    "Lei, Yiting",
+    "Zhao, Fangling",
+    "Che, Jiawen",
+    "Wu, Yanhong",
+    "Lei, Peng",
+    "Kang, Yea Eun",
+    "Shan, Yujuan"
+  ],
+  "year": 2024,
+  "abstract": "SFN alleviated IR via the Bacteroides and Lactobacillus-SCFAs–GPR41/43-GLP1 axis and protected the intestinal mucosal barrier, thereby, reducing the inflammatory response.",
+  "doi": "10.1039/d4fo01059k",
+  "url": "https://doi.org/10.1039/d4fo01059k",
+  "pdf_url": "",
+  "venue": "Food &amp; Function",
+  "citation_count": 37,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-18T23:21:36.343842+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-050.md",
+  "quality_details": {
+    "content_length": 5258,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

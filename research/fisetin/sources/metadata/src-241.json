@@ -1,0 +1,18 @@
+{
+  "id": "src-241",
+  "title": "Genome-Protecting Compounds as Potential Geroprotectors",
+  "authors": [
+    "Proshkina, Ekaterina",
+    "Shaposhnikov, Mikhail",
+    "Moskalev, Alexey"
+  ],
+  "doi": "10.3390/ijms21124484",
+  "url": "https://openalex.org/W3037452356",
+  "provider": "openalex",
+  "year": 2020,
+  "venue": "International Journal of Molecular Sciences",
+  "citation_count": 36,
+  "abstract": "Throughout life, organisms are exposed to various exogenous and endogenous factors that cause DNA damages and somatic mutations provoking genomic instability. At a young age, compensatory mechanisms of genome protection are activated to prevent phenotypic and functional changes. However, the increasing stress and age-related deterioration in the functioning of these mechanisms result in damage accumulation, overcoming the functional threshold. This leads to aging and the development of age-related diseases. There are several ways to counteract these changes: (1) prevention of DNA damage through stimulation of antioxidant and detoxification systems, as well as transition metal chelation; (2) regulation of DNA methylation, chromatin structure, non-coding RNA activity and prevention of nuclear architecture alterations; (3) improving DNA damage response and repair; (4) selective removal of damaged non-functional and senescent cells. In the article, we have reviewed data about the effects of various trace elements, vitamins, polyphenols, terpenes, and other phytochemicals, as well as a number of synthetic pharmacological substances in these ways. Most of the compounds demonstrate the geroprotective potential and increase the lifespan in model organisms. However, their genome-protecting effects are non-selective and often are conditioned by hormesis. Consequently, the development of selective drugs targeting genome protection is an advanced direction.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/1422-0067/21/12/4484/pdf?version=1593499799"
+}

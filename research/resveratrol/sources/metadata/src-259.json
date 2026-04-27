@@ -1,0 +1,17 @@
+{
+  "id": "src-259",
+  "title": "Mammalian Sirtuins: Biological Insights and Disease Relevance",
+  "authors": [
+    "Haigis, Marcia C.",
+    "Sinclair, David"
+  ],
+  "doi": "10.1146/annurev.pathol.4.110807.092250",
+  "url": "https://openalex.org/W2118964113",
+  "provider": "openalex",
+  "year": 2010,
+  "venue": "Annual Review of Pathology Mechanisms of Disease",
+  "citation_count": 2034,
+  "abstract": "Aging is accompanied by a decline in the healthy function of multiple organ systems, leading to increased incidence and mortality from diseases such as type II diabetes mellitus, neurodegenerative diseases, cancer, and cardiovascular disease. Historically, researchers have focused on investigating individual pathways in isolated organs as a strategy to identify the root cause of a disease, with hopes of designing better drugs. Studies of aging in yeast led to the discovery of a family of conserved enzymes known as the sirtuins, which affect multiple pathways that increase the life span and the overall health of organisms. Since the discovery of the first known mammalian sirtuin, SIRT1, 10 years ago, there have been major advances in our understanding of the enzymology of sirtuins, their regulation, and their ability to broadly improve mammalian physiology and health span. This review summarizes and discusses the advances of the past decade and the challenges that will confront the field in the coming years.",
+  "type": "academic",
+  "pdf_url": ""
+}

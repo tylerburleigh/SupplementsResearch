@@ -1,0 +1,17 @@
+{
+  "id": "src-193",
+  "title": "Tolerance and Autoimmunity",
+  "authors": [
+    "Kamradt, Thomas",
+    "Mitchison, N"
+  ],
+  "doi": "10.1056/nejm200103013440907",
+  "url": "https://openalex.org/W2326775643",
+  "provider": "openalex",
+  "year": 2001,
+  "venue": "New England Journal of Medicine",
+  "citation_count": 452,
+  "abstract": "The immunologic specificity of the antigen receptors of T cells and B cells is the result of random shuffling of the many genes that form the DNA code for the antigen-binding site of these receptors.13 Theoretically, this process could generate 109 different T-cell receptors, including some that can bind to autoantigens (these cells are often called self-reactive T cells). Tolerance is the process that eliminates or neutralizes such autoreactive cells, and a breakdown in the working of this system can cause autoimmunity.B-Cell ToleranceAutoantibodies are characteristic of many autoimmune diseases and may be the direct cause of the . . .",
+  "type": "academic",
+  "pdf_url": ""
+}

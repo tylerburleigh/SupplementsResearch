@@ -1,0 +1,28 @@
+{
+  "id": "src-187",
+  "title": "Resveratrol: French Paradox Revisited - PMC - NIH",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3398412",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-19T16:12:41.458087+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "mismatched",
+  "content_file": "sources/src-187.md",
+  "quality_details": {
+    "reasons": [
+      "content may be from wrong paper: composite match score 0.30 < 0.3, 5/6 title keywords, 0/0 authors, brief keyword rate 20%, title-to-title overlap 0%"
+    ],
+    "title_hits": 5,
+    "author_hits": 0
+  }
+}

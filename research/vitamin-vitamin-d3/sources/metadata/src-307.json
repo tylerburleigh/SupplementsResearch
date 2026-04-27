@@ -1,0 +1,29 @@
+{
+  "id": "src-307",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2025.1579957/full",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-21T21:46:52.837876+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-307.md",
+  "quality_details": {
+    "content_length": 135007,
+    "alpha_ratio": 0.758,
+    "sentence_count": 1238,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

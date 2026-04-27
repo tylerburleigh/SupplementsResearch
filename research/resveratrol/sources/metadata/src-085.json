@@ -1,0 +1,17 @@
+{
+  "id": "src-085",
+  "title": "Curcumin: An Anti-Inflammatory Molecule from a Curry Spice on the Path to Cancer Treatment",
+  "authors": [
+    "Basnet, Purusotam",
+    "Škalko‐Basnet, Nataša"
+  ],
+  "doi": "10.3390/molecules16064567",
+  "url": "https://openalex.org/W2102192655",
+  "provider": "openalex",
+  "year": 2011,
+  "venue": "Molecules",
+  "citation_count": 736,
+  "abstract": "Oxidative damage and inflammation have been pointed out in preclinical studies as the root cause of cancer and other chronic diseases such as diabetes, hypertension, Alzheimer's disease, etc. Epidemiological and clinical studies have suggested that cancer could be prevented or significantly reduced by treatment with anti-oxidant and anti-inflammatory drugs, therefore, curcumin, a principal component of turmeric (a curry spice) showing strong anti-oxidant and anti-inflammatory activities, might be a potential candidate for the prevention and/or treatment of cancer and other chronic diseases. However, curcumin, a highly pleiotropic molecule with an excellent safety profile targeting multiple diseases with strong evidence on the molecular level, could not achieve its optimum therapeutic outcome in past clinical trials, largely due to its low solubility and poor bioavailability. Curcumin can be developed as a therapeutic drug through improvement in formulation properties or delivery systems, enabling its enhanced absorption and cellular uptake. This review mainly focuses on the anti-inflammatory potential of curcumin and recent developments in dosage form and nanoparticulate delivery systems with the possibilities of therapeutic application of curcumin for the prevention and/or treatment of cancer.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/1420-3049/16/6/4567/pdf?version=1403113105"
+}

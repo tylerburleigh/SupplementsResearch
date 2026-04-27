@@ -1,0 +1,21 @@
+{
+  "id": "src-324",
+  "title": "Targeting Molecular Mediators of Ferroptosis and Oxidative Stress for Neurological Disorders",
+  "authors": [
+    "Li, Jing",
+    "Jia, Bowen",
+    "Cheng, Ying",
+    "Song, Yiting",
+    "Li, Qianqian",
+    "Luo, Chengliang"
+  ],
+  "doi": "10.1155/2022/3999083",
+  "url": "https://openalex.org/W4286615395",
+  "provider": "openalex",
+  "year": 2022,
+  "venue": "Oxidative Medicine and Cellular Longevity",
+  "citation_count": 117,
+  "abstract": "With the acceleration of population aging, nervous system diseases including Alzheimer's disease (AD), Parkinson's disease (PD), Huntington's disease (HD), anxiety, depression, stroke, and traumatic brain injury (TBI) have become a huge burden on families and society. The mechanism of neurological disorders is complex, which also lacks effective treatment, so relevant research is required to solve these problems urgently. Given that oxidative stress-induced lipid peroxidation eventually leads to ferroptosis, both oxidative stress and ferroptosis are important mechanisms causing neurological disorders, targeting mediators of oxidative stress and ferroptosis have become a hot research direction at present. Our review provides a current view of the mechanisms underlying ferroptosis and oxidative stress participate in neurological disorders, the potential application of molecular mediators targeting ferroptosis and oxidative stress in neurological disorders. The target of molecular mediators or agents of oxidative stress and ferroptosis associated with neurological disorders, such as reactive oxygen species (ROS), nuclear factor erythroid 2-related factor-antioxidant response element (Nrf2-ARE), n-acetylcysteine (NAC), Fe<sup>2+</sup>, NADPH, and its oxidases NOX, has been described in this article. Given that oxidative stress-induced ferroptosis plays a pivotal role in neurological disorders, further research on the mechanisms of ferroptosis caused by oxidative stress will help provide new targets for the treatment of neurological disorders.",
+  "type": "academic",
+  "pdf_url": "https://downloads.hindawi.com/journals/omcl/2022/3999083.pdf"
+}

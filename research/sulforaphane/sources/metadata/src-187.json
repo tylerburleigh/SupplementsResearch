@@ -1,0 +1,22 @@
+{
+  "id": "src-187",
+  "title": "Effective myocardial infarction treatment by targeted accumulation of Sulforaphane using porous magnetic silica nanoparticles.",
+  "authors": [
+    "Zhang, Jian",
+    "Dong, Yanyan",
+    "Liu, Xue",
+    "Jin, Hongbo",
+    "Wang, Shuyuan",
+    "An, Na",
+    "Wang, Lei"
+  ],
+  "doi": "10.1016/j.ijpharm.2023.123389",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37714315",
+  "provider": "pubmed",
+  "year": 2023,
+  "venue": "International journal of pharmaceutics",
+  "citation_count": 0,
+  "abstract": "Myocardial infarction (MI) is a common cardiovascular pathology that induces extensive sterile inflammation during its early stages, posing a severe threat to human health. Effectively modulating cardiac inflammation may improve post-MI outcomes. Unfortunately, owing to the side effects of therapeutic drugs and cardiac coronary artery occlusion, current MI drugs are sub-optimal for the clinical management of ischemic myocardia. Sulforaphane (SFN) has been adopted for MI treatment due to its myocardial protective effects and low toxicity. However, the targeted accumulation of SFN in infarcted areas remains challenging. Herein, porous magnetic silica nanoparticles (PMSNs) were synthesized and loaded with SFN to improve the specificity of targeted SFN delivery to infarcted areas in mouse models of MI. PMSNs loaded with SFN (PMSNs + SFN) decreased the levels of pro-inflammatory cytokines, thus leading to the improvement of cardiac function and cell survival without adverse effects. To further explore SFN's mechanisms of action in MI, a cellular (in vitro) model was established via oxygen and glucose deprivation (OGD). HSF1 and Nrf2 knockdown resulted in a decrease of SFN-induced HSP70 expression in OGD cells. Moreover, as a result of HSP70 knockdown, the pro-survival and anti-inflammatory effects of SFN were blocked in OGD cells. The level of pro-inflammatory cytokines decreased upon HSP70 overexpression, and cell survival rate increased under OGD conditions. In summary, the results confirm that PMSNs are capable of transporting SFN to infarcted areas in the myocardium, where the drug exerts cardioprotective effects against myocardial injury by up-regulating HSP70 through Nrf2/HSF1.",
+  "type": "academic",
+  "pdf_url": ""
+}

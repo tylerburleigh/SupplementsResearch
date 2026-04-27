@@ -1,0 +1,25 @@
+{
+  "id": "src-573",
+  "title": "Dose escalation of a curcuminoid formulation",
+  "authors": [
+    "Lao, Christopher D.",
+    "Ruffin, Mack T.",
+    "Normolle, Daniel P.",
+    "Heath, Dennis D.",
+    "Murray, Sandra I.",
+    "Bailey, Joanne",
+    "Boggs, Martha E.",
+    "Crowell, James A.",
+    "Rock, Cheryl L.",
+    "Brenner, Dean E."
+  ],
+  "doi": "10.1186/1472-6882-6-10",
+  "url": "https://openalex.org/W1604068141",
+  "provider": "openalex",
+  "year": 2006,
+  "venue": "BMC Complementary and Alternative Medicine",
+  "citation_count": 1371,
+  "abstract": "The tolerance of curcumin in high single oral doses appears to be excellent. Given that achieving systemic bioavailability of curcumin or its metabolites may not be essential for colorectal cancer chemoprevention, these findings warrant further investigation for its utility as a long-term chemopreventive agent.",
+  "type": "academic",
+  "pdf_url": "https://bmccomplementmedtherapies.biomedcentral.com/counter/pdf/10.1186/1472-6882-6-10"
+}

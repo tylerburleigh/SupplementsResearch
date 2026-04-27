@@ -1,0 +1,23 @@
+{
+  "id": "src-097",
+  "title": "Long-term benefit of Microbiota Transfer Therapy on autism symptoms and gut microbiota",
+  "authors": [
+    "Kang, Dae‐Wook",
+    "Adams, James B.",
+    "Coleman, Devon M.",
+    "Pollard, Elena L.",
+    "Maldonado, Juan",
+    "McDonough-Means, Sharon",
+    "Caporaso, J. Gregory",
+    "Krajmalnik‐Brown, Rosa"
+  ],
+  "doi": "10.1038/s41598-019-42183-0",
+  "url": "https://openalex.org/W2936474142",
+  "provider": "openalex",
+  "year": 2019,
+  "venue": "Scientific Reports",
+  "citation_count": 719,
+  "abstract": "Many studies have reported abnormal gut microbiota in individuals with Autism Spectrum Disorders (ASD), suggesting a link between gut microbiome and autism-like behaviors. Modifying the gut microbiome is a potential route to improve gastrointestinal (GI) and behavioral symptoms in children with ASD, and fecal microbiota transplant could transform the dysbiotic gut microbiome toward a healthy one by delivering a large number of commensal microbes from a healthy donor. We previously performed an open-label trial of Microbiota Transfer Therapy (MTT) that combined antibiotics, a bowel cleanse, a stomach-acid suppressant, and fecal microbiota transplant, and observed significant improvements in GI symptoms, autism-related symptoms, and gut microbiota. Here, we report on a follow-up with the same 18 participants two years after treatment was completed. Notably, most improvements in GI symptoms were maintained, and autism-related symptoms improved even more after the end of treatment. Important changes in gut microbiota at the end of treatment remained at follow-up, including significant increases in bacterial diversity and relative abundances of Bifidobacteria and Prevotella. Our observations demonstrate the long-term safety and efficacy of MTT as a potential therapy to treat children with ASD who have GI problems, and warrant a double-blind, placebo-controlled trial in the future.",
+  "type": "academic",
+  "pdf_url": "https://www.nature.com/articles/s41598-019-42183-0.pdf"
+}

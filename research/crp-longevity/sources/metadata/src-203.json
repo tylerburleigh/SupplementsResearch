@@ -1,0 +1,32 @@
+{
+  "id": "src-203",
+  "title": "Plasma D-Dimer Value Corrected with Some Physiological and Inflammatory Markers (C-Reactive Protein and Ferritin) in Iraqi Patients with COVID-19 Infection",
+  "authors": [
+    "M. Obaid, Reem",
+    "Ali, Sanaa Hussein",
+    "Hussein, Zainab Ali",
+    "Habeeb, Hadeel Q.A."
+  ],
+  "year": 2024,
+  "abstract": "Since the beginning of the COVID-19 pandemic it has been observed that patients have elevated plasma levels of D-dimer and some inflammatory markers (ferritin, interleukine 6, C-reactive protein (CRP) or fibrinogen). Some studies point to the existence of a certain correlation between those markers and D-dimer. CRP is a protein discovered in the 1930s by Tillett and Francis and is an acute phase reactant. It is a pentameric protein which is synthesized by the liver under the action of cytokine interleukin 6 (IL-6). D-dimers are multiple peptide fragments produced as a result of degradation of crosslinked fibrin, mediated by plasmin. A total of 60 patients were recruited and categorized into :1- group1 (controls), 2- group 2 (COVID-19 patients). 5 ml of blood was obtained from each patient by vein puncture, using 5 ml disposable syringes, then centrifuged at 3000 rpm for 10 minutes to collect the serum.  D- dimer, C-reactive protein were measured by using (Roche Diagnostics GmbH, Mannheim, Germany). At the same time, the Ferritin was assessed by using a miniVIDAS analyzer for the fluorescent enzymatic detection of β2-microglobulin (β2M) using the technique.\nEnzyme Linked Fluorescent Assay (ELFA) (BioMerieux). Our results showed that there was a non- significant difference in the P-values between control and patients males and females. The Mean ± SE of age in control group was 45.90 ± 3.34, while the Mean ± SE of age in patients was 45.35 ± 2.52. There was a non- significant difference between the two groups, the Mean ± SE of CRP in control group was 5.04 ±0.81, while the Mean ± SE of CRP in COVID-19 patients was 37.16 ±3.24, there was a highly Significant differences between them (P≤0.01).\nThe CRP of COVID-19 patients were compared with those of control patients, the results shows significant increased CRP in covid-19 patients group as a compression with the control group, the findings of the study is similar to Jacob Lentner, etal findings. In response to infections, the liver synthesizes significant quantities of acute-phase proteins (APPs), such as CRP. This acute inflammatory protein is a highly sensitive biomarker for inflammation, tissue damage, and infection. It has been shown that CRP levels are correlated with levels of inflammation. CRP levels can promote phagocytosis and activate the complement system. In other words, CRP binds to microorganisms and promotes their removal through phagocytosis. D-dimers are one of the fragments produced when plasmin cleaves fibrin to break down clots. Our study showed that the serum D-dimer concentrations in patients significantly higher than those in control group which is similar to Mamta Soni, etal, 2020 findings.\nElevated D-dimer levels have emerged as a consistent finding in severely ill COVID-19 patients, Multiple studies have identified an association between higher D-dimer levels and an increased risk of mortality in the COVID-19 patient population.\nFerritin is an iron-storing protein; its serum level reflects the normal iron level and helps the diagnosis of iron deficiency anemia. Circulation ferritin level increases during viral infections and can be a marker of viral replication. Our study showed a significant increase in ferritin level in covid-19 patients group compared to control group, which consider similar to [] results.\nAlthough the exact cause for elevated ferritin in COVID-19 infection is unknown, it could be influenced by cytokine release or cellular damage that results in the leakage of intracellular ferritin. It has been previously shown that ferritin is a direct indicator of cellular damage suggestive of an association between organ damage and ferritin production. This could later cause cell death, known as ferroptosis. It is suggested that inflammation associated with sepsis could alter iron metabolism and deficiency to facilitate the immune system, which could be an early sign of COVID.",
+  "doi": "10.55544/jrasb.2.6.24",
+  "url": "https://doi.org/10.55544/jrasb.2.6.24",
+  "pdf_url": "",
+  "venue": "Journal for Research in Applied Sciences and Biotechnology",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-24T01:21:02.009274+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-203.md",
+  "quality_details": {
+    "content_length": 20322,
+    "alpha_ratio": 0.705,
+    "sentence_count": 323,
+    "reasons": []
+  }
+}

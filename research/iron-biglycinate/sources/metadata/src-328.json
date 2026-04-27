@@ -1,0 +1,25 @@
+{
+  "id": "src-328",
+  "title": "Ferroptosis activation contributes to kidney aging in mice by promoting tubular cell senescence.",
+  "authors": [
+    "Wang, Zheng",
+    "Dai, Yue",
+    "Jin, Rui",
+    "Mo, Dexiameng",
+    "Hu, Qi",
+    "Huang, Yi",
+    "Zhang, Le",
+    "Zhang, Cuntai",
+    "Gao, Hongyu",
+    "Yan, Qi"
+  ],
+  "doi": "10.1093/gerona/glaf042",
+  "url": "https://www.semanticscholar.org/paper/b2caa3922d46d681d5ba0e5d407f88db0e4466e7",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "The journals of gerontology. Series A, Biological sciences and medical sciences",
+  "citation_count": 3,
+  "abstract": "Kidney aging is the strongest independent risk factor for chronic kidney disease. Ferroptosis, a recently discovered form of cell death mediated by iron overload and lipid peroxidation accumulation, has an unclear role in kidney aging. To determine the pathophysiological role of ferroptosis during kidney aging, we employed immunofluorescence, western blotting, and qRT‒PCR to analyze renal cells and tissues in natural aging and accelerated aging mouse models. We investigated the activation of ferroptosis during aging and examined the effects of the ferroptosis inhibitor ferrostatin-1 and the ferroptosis inducer erastin on age-related renal interstitial fibrosis in aged model mice. We found that both naturally aged and stress-aged renal tubular cells and tissues presented extensive abnormalities in ferroptosis-related genes. This included increased expression of ACSL4 and decreased expression of GPX4. Additionally, these abnormalities were accompanied by elevated free iron concentrations; increased expression of iron import proteins, and iron storage proteins; and downregulated expression of the iron export protein Fpn. We further discovered that ferrostatin-1 inhibited, whereas erastin increased, age-related renal interstitial fibrosis in aged mouse kidneys. Finally, our study revealed that aged renal tubular cells exhibit characteristics of ferroptosis and are highly sensitive to ferroptosis, as demonstrated by the activation of ferroptosis-related genes, accumulation of lipid peroxides. Ferrostatin-1 inhibited, whereas erastin increased, D-galactose induced, renal tubular cell senescence in vitro. These findings suggest that ferroptosis exacerbates renal tubular cell senescence and age-related renal interstitial fibrosis. Managing ferroptosis may represent a novel strategy for reversing kidney aging.",
+  "type": "academic",
+  "pdf_url": ""
+}

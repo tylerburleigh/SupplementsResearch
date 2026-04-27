@@ -1,0 +1,25 @@
+{
+  "id": "src-396",
+  "title": "The Z isomer of pyridoxilidenerhodanine 5'-phosphate is an efficient inhibitor of human pyridoxine 5'-phosphate oxidase, a crucial enzyme in vitamin B6 salvage pathway and a potential chemotherapeutic target.",
+  "authors": [
+    "Graziani, Claudio",
+    "Barile, Anna",
+    "Antonelli, Lorenzo",
+    "Fiorillo, Annarita",
+    "Ilari, Andrea",
+    "Vetica, Fabrizio",
+    "di Salvo, Martino Luigi",
+    "Paiardini, Alessandro",
+    "Tramonti, Angela",
+    "Contestabile, Roberto"
+  ],
+  "doi": "10.1111/febs.17274",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39288205",
+  "provider": "pubmed",
+  "year": 2024,
+  "venue": "The FEBS journal",
+  "citation_count": 0,
+  "abstract": "Pyridoxal 5'-phosphate (PLP), the catalytically active form of vitamin B6, acts as a cofactor in many metabolic processes. In humans, PLP is produced in the reactions catalysed by pyridox(am)ine 5'-phosphate oxidase (PNPO) and pyridoxal kinase (PDXK). Both PNPO and PDXK are involved in cancer progression of many tumours. The silencing of PNPO and PDXK encoding genes determines a strong reduction in tumour size and neoplastic cell invasiveness in models of acute myeloid leukaemia (in the case of PDXK) and ovarian and breast cancer (in the case of PNPO). In the present work, we demonstrate that pyridoxilidenerhodanine 5'-phosphate (PLP-R), a PLP analogue that has been tested by other authors on malignant cell lines reporting a reduction in proliferation, inhibits PNPO in vitro following a mixed competitive and allosteric mechanism. We also show that the unphosphorylated precursor of this inhibitor (PL-R), which has more favourable pharmacokinetic properties according to our predictions, is phosphorylated by PDXK and therefore transformed into PLP-R. On this ground, we propose the prototype of a novel prodrug-drug system as a useful starting point for the development of new, potential, antineoplastic agents.",
+  "type": "academic",
+  "pdf_url": ""
+}

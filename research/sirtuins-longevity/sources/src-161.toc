@@ -1,0 +1,32 @@
+11	2	Abstract
+45	2	Background
+131	2	Methods
+295	2	Results
+408	2	Discussion
+632	2	3 Months
+674	2	Conclusion
+698	2	Acknowledgments
+724	2	Competing Interests
+741	2	References
+754	2	5. Nishioji K, Sumida Y, Kamaguchi M, Mochizuki N, Kobayashi M, Nishimura T,
+758	2	6. Amirkalali B, Poustchi H, Keyvani H, Khansari MR, Ajdarkosh H, Maadi M,
+761	2	7. Bagheri Lankarani K, Ghaffarpasand F, Mahmoodi M, Lotfi M, Zamiri N,
+782	2	12. Colak Y, Ozturk O, Senates E, Tuncer I, Yorulmaz E, Adali G, Doganay L, Enc
+802	2	19. Colak Y, Yesil A, Mutlu HH, Caklili OT, Ulasoglu C, Senates E, Takir M, Kostek O,
+817	2	24. Kim JA, Kim DK, Kang OH, Choi YA, Park HJ, Choi SC, Kim TH, Yun KJ, Nah
+834	2	28. Da-Silva WS, Harney JW, Kim BW, Li J, Bianco SD, Crescenzi A, Christoffolete
+847	2	32. Deng YJ, Zhang YP, Yang QH, Han L, Liang YJ, He YF, Li YY, Wang GL, Lin
+849	2	2 Pathway in Non-alcoholic Fatty Liver Disease Rats Induced by High-fat
+856	2	35. Daneshi-Maskooni M, Keshavarz SA, Mansouri S, Qorbani M, Alavian SM,
+862	2	36. Jazayeri-Tehrani SA, Rezayat SM, Mansouri S, Qorbani M, Alavian SM,
+867	2	37. Jazayeri-Tehrani SA, Rezayat SM, Mansouri S, Qorbani M, Alavian SM,
+909	2	50. Vafai-Najar A, Vahedian-Shahroodi M, Tehrani H, Dogonchi M, Lael-Monfared
+912	2	51. Baghiani-Moghaddam MH, Bakhtiari-Aghdam F, Asghari-Jafarabadi M,
+920	2	53. Ajami M, Pazoki-Toroudi H, Amani H, Nabavi SF, Braidy N, Vacca RA,
+932	2	56. Duarte DA, Mariana Ap BR, Papadimitriou A, Silva KC, Amancio VH,
+936	2	57. Yanagisawa S, Papaioannou AI, Papaporfyriou A, Baker JR, Vuppusetty C,
+939	2	58. Bo S, Togliatto G, Gambino R, Ponzo V, Lombardo G, Rosato R, Cassader M,
+945	2	60. Rahman MM, Alam MN, Ulla A, Sumi FA, Subhan N, Khan T, Sikder B,
+966	2	65. Kandikattu HK, Rachitha P, Jayas hree GV, Krupashree K, Sukhith M,
+991	2	72. Kazemi S, Yaghooblou F, Siassi F, Rahimi AF, Ghavipour M, Koohdani F,
+1040	2	87. Das I, Acharya A, Berry DL, Sen S, Williams E, Permaul E, Sengupta A,

@@ -1,0 +1,23 @@
+{
+  "id": "src-233",
+  "title": "Senolytic combination of dasatinib and quercetin attenuates renal damage in diabetic kidney disease.",
+  "authors": [
+    "Guo, Xiuli",
+    "Wen, Si",
+    "Wang, Jiao",
+    "Zeng, Xiaobian",
+    "Yu, Hongyuan",
+    "Chen, Ying",
+    "Zhu, Xinwang",
+    "Xu, Li"
+  ],
+  "doi": "10.1016/j.phymed.2024.155705",
+  "url": "https://www.semanticscholar.org/paper/318618b881d214a009aa6652e84b9293204f985e",
+  "provider": "semantic_scholar",
+  "year": 2024,
+  "venue": "Phytomedicine",
+  "citation_count": 33,
+  "abstract": "BACKGROUND\nSenolytic combination of dasatinib and quercetin (DQ) is the most studied senolytics drugs used to treat various age-related diseases. However, its protective activity against diabetic kidney disease (DKD) and underlying mechanisms are uncertain.\n\nPURPOSE\nTo investigate the functions and potential mechanisms of the senolytics DQ on DKD.\n\nMETHODS\nDiabetic db/db mice were administrated DQ or transfected with over-expressed PPARα or shPPARα vector. The positive control group was administered irbesartan. Renal function and fibrotic changes in kidney tissue were tested. Single-cell RNA-seq (scRNA-seq) was conducted to analyze the differential transcriptome between the diabetic and control mice. Molecular docking simulation was used to assess the combination of DQ and potential factors. Moreover, tubular epithelial cells under high-glucose (HG) conditions were incubated with DQ and transfected with or without over-expressed PPARα/siPPARα vector.\n\nRESULTS\nDQ significantly improved renal function, histopathological and fibrotic changes, alleviated lipid deposition, and increased ATP levels in mice with DKD. DQ reduced multiple fatty acid oxidation (FAO) pathway-related proteins and up-regulated PPARα in db/db mice. Overexpression of PPARα upregulated the expression of PPARα-targeting downstream FAO pathway-related proteins, restored renal function, and inhibited renal fibrosis in vitro and in vivo. Moreover, molecular docking and dynamics simulation analyses indicated the nephroprotective effect of DQ via binding to PPARα. Knockdown of PPARα reversed the effect of DQ on the FAO pathway and impaired the protective effect of DQ during DKD.\n\nCONCLUSION\nFor the first time, DQ was found to exert a renal protective effect by binding to PPARα and attenuating renal damage through the promotion of FAO in DKD.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.1016/j.phymed.2024.155705"
+}

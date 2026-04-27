@@ -1,0 +1,48 @@
+{
+  "id": "src-514",
+  "title": "Vitamin D and cause-specific vascular disease and mortality: a Mendelian randomisation study involving 99,012 Chinese and 106,911 European adults",
+  "authors": [
+    "Huang, Tao",
+    "Afzal, Shoaib",
+    "Yu, Canqing",
+    "Guo, Yu",
+    "Bian, Zheng",
+    "Yang, Ling",
+    "Millwood, Iona Y.",
+    "Walters, Robin G.",
+    "Chen, Yiping",
+    "Chen, Ningyu",
+    "Gao, Ruqin",
+    "Chen, Junshi",
+    "Clarke, Robert",
+    "Chen, Zhengming",
+    "Ellervik, Christina",
+    "Nordestgaard, Børge G.",
+    "Lv, Jun",
+    "Li, Liming"
+  ],
+  "year": 2019,
+  "abstract": "",
+  "doi": "10.1186/s12916-019-1401-y",
+  "url": "https://doi.org/10.1186/s12916-019-1401-y",
+  "pdf_url": "",
+  "venue": "BMC Medicine",
+  "citation_count": 52,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T21:11:02.940228+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-514.md",
+  "quality_details": {
+    "content_length": 60231,
+    "alpha_ratio": 0.686,
+    "sentence_count": 561,
+    "reasons": [
+      "paywall_page (access this article)"
+    ]
+  }
+}

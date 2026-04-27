@@ -1,0 +1,33 @@
+{
+  "id": "src-036",
+  "title": "Effect of taurine administration on symptoms, severity, or clinical outcome of dilated cardiomyopathy and heart failure in humans: a systematic review",
+  "authors": [
+    "McGurk, Kathryn A.",
+    "Kasapi, Melpomeni",
+    "Ware, James S."
+  ],
+  "year": 2022,
+  "abstract": "<ns3:p>\n<ns3:bold>Background:</ns3:bold>\nTaurine, 2-aminoethanesulfonic acid, is an amino acid found in animal products. Taurine is produced for human consumption as a supplement and ingredient in beverages. Supplementation is a safe, inexpensive, and effective treatment for dilated cardiomyopathy (DCM) in domestic mammals, however it is currently unlicensed in Europe and the United States for human medical treatment. Recent genome-wide association studies of DCM have identified the locus of the taurine transporter (\n<ns3:italic>SLC6A6</ns3:italic>\n). To assess whether taurine supplementation may be a novel therapeutic option for DCM, we undertook a systematic review.\n</ns3:p>\n<ns3:p>\n<ns3:bold>Methods:</ns3:bold>\nFour electronic databases (PubMed, Cochrane Central Register, Web of Science, Biomed Central) were searched until 11/03/21. Included studies of human participants reported measured phenotypes or symptoms for cardiomyopathy, heart failure (HF), or altered left ventricle structure or function, administering taurine in any formulation, by any method. Non-English articles were excluded. Meta-analysis was completed in R software (version 3.6.0). The Newcastle-Ottawa Scale quality assessment score (NOQAS) tool was used to assess bias.\n</ns3:p>\n<ns3:p>\n<ns3:bold>Results:</ns3:bold>\n285 articles were identified, of which eleven met our criteria for inclusion. Only one paper was deemed “high quality” using the NOQAS tool. Taurine supplementation varied across studies; by dose (500 mg to 6g per day), frequency (once to thrice daily), delivery method (tablet, capsule, drink, powder), and duration (2 to 48 weeks). Patient inclusion was all-cause HF patients with ejection fraction (EF) &lt;50% and no study was specific to DCM. While improvements in diastolic and systolic function, exercise capacity, and haemodynamic parameters were described, only EF and stroke volume were measured in enough studies to complete a meta-analysis; the association was not significant with all-cause HF (P&lt;0.05). No significant safety concerns were reported.\n</ns3:p>\n<ns3:p>\n<ns3:bold>Conclusions:</ns3:bold>\nA formal clinical trial is needed to address whether taurine supplementation is beneficial to the approximately 1/250 individuals with DCM in the population.\n</ns3:p>",
+  "doi": "10.12688/wellcomeopenres.17505.3",
+  "url": "https://doi.org/10.12688/wellcomeopenres.17505.3",
+  "pdf_url": "",
+  "venue": "Wellcome Open Research",
+  "citation_count": 2,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-19T11:27:50.415716+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-036.md",
+  "quality_details": {
+    "content_length": 55236,
+    "alpha_ratio": 0.761,
+    "sentence_count": 466,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

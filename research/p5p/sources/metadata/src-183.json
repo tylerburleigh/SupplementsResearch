@@ -1,0 +1,18 @@
+{
+  "id": "src-183",
+  "title": "Reversal of linezolid-associated cytopenias, but not peripheral neuropathy, by administration of vitamin B6",
+  "authors": [
+    "Spellberg, Brad",
+    "Yoo, Thomas",
+    "Bayer, Arnold S."
+  ],
+  "doi": "10.1093/jac/dkh405",
+  "url": "https://openalex.org/W2150460137",
+  "provider": "openalex",
+  "year": 2004,
+  "venue": "Journal of Antimicrobial Chemotherapy",
+  "citation_count": 89,
+  "abstract": "Vitamin B6 treatment may be useful to prevent or modify the course of linezolid-associated cytopenias. More formal and rigorous study of vitamin B6 therapy in patients receiving prolonged courses of linezolid is warranted.",
+  "type": "academic",
+  "pdf_url": "https://academic.oup.com/jac/article-pdf/54/4/832/2294513/dkh405.pdf"
+}

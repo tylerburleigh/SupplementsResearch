@@ -1,0 +1,17 @@
+{
+  "id": "src-078",
+  "title": "Plant Phenolics: Extraction, Analysis and Their Antioxidant and Anticancer Properties",
+  "authors": [
+    "Dai, Jin",
+    "Mumper, Russell J."
+  ],
+  "doi": "10.3390/molecules15107313",
+  "url": "https://openalex.org/W1965606785",
+  "provider": "openalex",
+  "year": 2010,
+  "venue": "Molecules",
+  "citation_count": 4193,
+  "abstract": "Phenolics are broadly distributed in the plant kingdom and are the most abundant secondary metabolites of plants. Plant polyphenols have drawn increasing attention due to their potent antioxidant properties and their marked effects in the prevention of various oxidative stress associated diseases such as cancer. In the last few years, the identification and development of phenolic compounds or extracts from different plants has become a major area of health- and medical-related research. This review provides an updated and comprehensive overview on phenolic extraction, purification, analysis and quantification as well as their antioxidant properties. Furthermore, the anticancer effects of phenolics in-vitro and in-vivo animal models are viewed, including recent human intervention studies. Finally, possible mechanisms of action involving antioxidant and pro-oxidant activity as well as interference with cellular functions are discussed.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/1420-3049/15/10/7313/pdf?version=1403112893"
+}

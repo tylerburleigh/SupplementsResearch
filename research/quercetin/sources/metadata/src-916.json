@@ -1,0 +1,19 @@
+{
+  "id": "src-916",
+  "title": "Diverse and Synergistic Actions of Phytochemicals in a Plant-Based Multivitamin/Mineral Supplement against Oxidative Stress and Inflammation in Healthy Individuals: A Systems Biology Approach Based on a Randomized Clinical Trial",
+  "authors": [
+    "Kang, Seunghee",
+    "Kim, Youjin",
+    "Lee, Yeonkyung",
+    "Kwon, Oran"
+  ],
+  "doi": "10.3390/antiox13010036",
+  "url": "https://www.semanticscholar.org/paper/1f75417fc6d06ff050f3ed1dbb5cd06ac4da59ab",
+  "provider": "semantic_scholar",
+  "year": 2023,
+  "venue": "Antioxidants",
+  "citation_count": 5,
+  "abstract": "Traditional clinical methodologies often fall short of revealing the complex interplay of multiple components and targets within the human body. This study was designed to explore the complex and synergistic effects of phytochemicals in a plant-based multivitamin/mineral supplement (PBS) on oxidative stress and inflammation in healthy individuals. Utilizing a systems biology framework, we integrated clinical with multi-omics analyses, including UPLC-Q-TOF-MS for 33 phytochemicals, qPCR for 42 differential transcripts, and GC-TOF-MS for 17 differential metabolites. A Gene Ontology analysis facilitated the identification of 367 biological processes linked to oxidative stress and inflammation. As a result, a comprehensive network was constructed consisting of 255 nodes and 1579 edges, featuring 10 phytochemicals, 26 targets, and 218 biological processes. Quercetin was identified as having the broadest target spectrum, succeeded by ellagic acid, hesperidin, chlorogenic acid, and quercitrin. Moreover, several phytochemicals were associated with key genes such as HMOX1, TNF, NFE2L2, CXCL8, and IL6, which play roles in the Toll-like receptor, NF-kappa B, adipocytokine, and C-type lectin receptor signaling pathways. This clinical data-driven network system approach has significantly advanced our comprehension of a PBS’s effects by pinpointing pivotal phytochemicals and delineating their synergistic actions, thus illuminating potential molecular mechanisms.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2076-3921/13/1/36/pdf?version=1703323972"
+}

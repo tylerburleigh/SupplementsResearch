@@ -1,0 +1,23 @@
+{
+  "id": "src-259",
+  "title": "Association between plasma ceramide levels and endothelial dysfunction in patients with acute coronary syndrome: A prospective observational study",
+  "authors": [
+    "Chen, Jie",
+    "Cheng, Yang",
+    "Cai, Xingxuan",
+    "Wang, Mingyi",
+    "Zhang, Zhengbin",
+    "Wei, Simeng",
+    "Zhou, Shanshan",
+    "Chen, Yundai"
+  ],
+  "doi": "10.1097/md.0000000000048341",
+  "url": "https://www.semanticscholar.org/paper/915a67df475b7adf36fbf3d77097f5a5aefd2b6a",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "Medicine",
+  "citation_count": 0,
+  "abstract": "Ceramides are bioactive lipids that contribute to endothelial dysfunction (ED) by promoting inflammation and oxidative stress. However, whether ceramide levels are linked to peripheral microvascular endothelial function in patients with acute coronary syndrome (ACS) is not well understood. We conducted a prospective observational study of 80 ACS patients undergoing percutaneous coronary intervention at a single center. Peripheral endothelial function was assessed using the EndoPAT2000® system. ED was defined as a reactive hyperemia index <1.67. Plasma ceramide species were quantified using high-performance liquid chromatography coupled with tandem mass spectrometry. The patients were stratified by ED status, ceramide level tertiles, and subgroup clinical characteristics. Multivariate logistic regression was used to determine the odds ratios and 95% confidence intervals for ED. ED was present in 57.5% of the patients. No significant differences were observed in age, gender, traditional cardiovascular risk factors, or lipid parameters between ED and non-ED groups. Among the 7 ceramide species analyzed, cer (d18:1/24:0) was significantly elevated in the ED group (\nP\n= .045). Cer (d18:1/24:0) was independently associated with ED (odds ratios = 2.83; 95% confidence intervals: 1.08–7.44;\nP\n= .034). Reactive hyperemia index values declined across tertiles of cer (d18:1/24:0) (\nP\nfor trend = .03). Among patients on standard medications such as statins, β-blockers, or angiotensin-converting enzyme inhibitors (ACEI)/ARB) therapy, cer (d18:1/24:0) levels were still markedly higher in those with ED than in those without (all\nP\n< .05). Plasma cer (d18:1/24:0) is independently associated with impaired endothelial function in ACS patients. Its elevated levels in patients with ED despite receiving standard cardiovascular therapies suggest its potential role in residual ED and indicate its value as a candidate biomarker for vascular risk stratification.",
+  "type": "academic",
+  "pdf_url": ""
+}

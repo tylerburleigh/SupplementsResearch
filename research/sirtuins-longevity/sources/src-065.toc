@@ -1,0 +1,106 @@
+24	2	Manuscript
+25	2	Accepted
+26	2	Accepted Manuscript
+60	2	Manuscript
+61	2	Accepted
+62	2	Accepted Manuscript
+90	2	Manuscript
+91	2	Accepted
+92	2	Accepted Manuscript
+99	2	Manuscript
+100	2	Accepted
+101	2	Accepted Manuscript
+104	2	1.  Sirtuins family
+129	2	Manuscript
+130	2	Accepted
+131	2	Accepted Manuscript
+159	2	Manuscript
+160	2	Accepted
+161	2	Accepted Manuscript
+168	4	1.1.4.  Putative therapeutic roles of SIRTs
+181	2	2.  Atherosclerosis
+188	2	Manuscript
+189	2	Accepted
+190	2	Accepted Manuscript
+201	3	3.1.  Lipid modification
+217	2	Manuscript
+218	2	Accepted
+219	2	Accepted Manuscript
+241	3	3.2.  Reduction of oxidative stress
+246	2	Manuscript
+247	2	Accepted
+248	2	Accepted Manuscript
+267	3	3.3.  Anti-inflammatory actions
+275	2	Manuscript
+276	2	Accepted
+277	2	Accepted Manuscript
+287	3	3.4.  Macrophage migration and foam cell deposition
+300	3	3.5.  Autophagy
+304	2	Manuscript
+305	2	Accepted
+306	2	Accepted Manuscript
+322	3	3.6.  Vascular function
+335	2	Manuscript
+336	2	Accepted
+337	2	Accepted Manuscript
+340	2	4.  SIRTs and cigarette smoke
+353	2	5.  SIRTs and statins
+364	2	Manuscript
+365	2	Accepted
+366	2	Accepted Manuscript
+373	2	6.  Pharmacological modulators of SIRTs
+388	3	6.1.  Metformin
+393	2	Manuscript
+394	2	Accepted
+395	2	Accepted Manuscript
+405	3	6.2.  Resveratrol
+411	3	6.3.  Genistein
+423	2	Manuscript
+424	2	Accepted
+425	2	Accepted Manuscript
+428	3	6.4.  Quercetin
+433	3	6.5.  Berberine
+439	3	6.6.  Curcumin
+452	2	Manuscript
+453	2	Accepted
+454	2	Accepted Manuscript
+459	3	6.8.  Ginkgolide B
+465	3	6.9 Evaluation of clinical effects of pharmacological modulators of SIRTs
+482	2	Manuscript
+483	2	Accepted
+484	2	Accepted Manuscript
+486	2	7.  Conclusions
+502	2	Acknowledgments
+506	2	Manuscript
+507	2	Accepted
+508	2	Accepted Manuscript
+540	2	Manuscript
+541	2	Accepted
+542	2	Accepted Manuscript
+576	2	Manuscript
+577	2	Accepted
+578	2	Accepted Manuscript
+613	2	Manuscript
+614	2	Accepted
+615	2	Accepted Manuscript
+650	2	Manuscript
+651	2	Accepted
+652	2	Accepted Manuscript
+687	2	Manuscript
+688	2	Accepted
+689	2	Accepted Manuscript
+725	2	Manuscript
+726	2	Accepted
+727	2	Accepted Manuscript
+763	2	Manuscript
+764	2	Accepted
+765	2	Accepted Manuscript
+800	2	Manuscript
+801	2	Accepted
+802	2	Accepted Manuscript
+829	2	Manuscript
+830	2	Accepted
+831	2	Accepted Manuscript
+839	2	Manuscript
+840	2	Accepted
+841	2	Accepted Manuscript

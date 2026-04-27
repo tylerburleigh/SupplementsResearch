@@ -1,0 +1,23 @@
+{
+  "id": "src-088",
+  "title": "Fungal Mushrooms: A Natural Compound With Therapeutic Applications",
+  "authors": [
+    "Chugh, Rishi Man",
+    "Mittal, Pooja",
+    "MP, Namratha",
+    "Arora, Tanu",
+    "Bhattacharya, Tanima",
+    "Chopra, Hitesh",
+    "Cavalu, Simona",
+    "Gautam, Rupesh K."
+  ],
+  "doi": "10.3389/fphar.2022.925387",
+  "url": "https://openalex.org/W4285087944",
+  "provider": "openalex",
+  "year": 2022,
+  "venue": "Frontiers in Pharmacology",
+  "citation_count": 130,
+  "abstract": "Fungi are extremely diverse in terms of morphology, ecology, metabolism, and phylogeny. Approximately, 130 medicinal activities like antitumor, immunomodulation, antioxidant, radical scavenging, cardioprotective and antiviral actions are assumed to be produced by the various varieties of medicinal mushrooms. The polysaccharides, present in mushrooms like β-glucans, micronutrients, antioxidants like glycoproteins, triterpenoids, flavonoids, and ergosterols can help establish natural resistance against infections and toxins.. Clinical trials have been performed on mushrooms like <i>Agaricus blazei Murrill Kyowa</i> for their anticancer effect<i>, A. blazei Murrill</i> for its antihypertensive and cardioprotective effects, and some other mushrooms had also been evaluated for their neurological effects. The human evaluation dose studies had been also performed and the toxicity dose was evaluated from the literature for number of mushrooms. All the mushrooms were found to be safe at a dose of 2000 mg/kg but some with mild side effects. The safety and therapeutic effectiveness of the fungal mushrooms had shifted the interest of biotechnologists toward fungal nanobiotechnology as the drug delivery system due to the vast advantages of nanotechnology systems. In complement to the vital nutritional significance of medicinal mushrooms, numerous species have been identified as sources of bioactive chemicals. Moreover, there are unanswered queries regarding its safety, efficacy, critical issues that affect the future mushroom medicine development, that could jeopardize its usage in the twenty-first century.",
+  "type": "academic",
+  "pdf_url": "https://www.frontiersin.org/articles/10.3389/fphar.2022.925387/pdf"
+}

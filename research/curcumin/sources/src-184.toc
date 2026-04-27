@@ -1,0 +1,16 @@
+5	2	Research
+11	2	Abstract
+39	2	Introduction
+49	2	1 Health Research Center, Life Style Institute, Baqiyatallah University of Medical
+99	2	Methods
+219	2	Statistical Analysis
+232	2	Results
+337	2	Discussion
+579	2	Conclusions
+587	2	Acknowledgments
+611	2	Competing Interests
+614	2	1 Health Research Center, Life Style Institute, Baqiyatallah University of Medical
+623	2	References
+641	2	7. Kalan Farmanfarma K, Kaykhaei MA, Adineh HA, Mohammadi M, Dabiri
+691	2	22. Young JM, Florkowski CM, Molyneux SL, McEwan RG, Frampton CM,
+749	2	39. Santos-Parker JR, Strahler TR, Bassett CJ, Bispham NZ, Chonchol MB, Seals

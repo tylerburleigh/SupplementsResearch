@@ -1,0 +1,21 @@
+{
+  "id": "src-228",
+  "title": "The Role of Gut Microbiota Biomodulators on Mucosal Immunity and Intestinal Inflammation",
+  "authors": [
+    "Amoroso, Chiara",
+    "Perillo, Federica",
+    "Strati, Francesco",
+    "Fantini, Massimo Claudio",
+    "Caprioli, Flavio",
+    "Facciotti, Federica"
+  ],
+  "doi": "10.3390/cells9051234",
+  "url": "https://openalex.org/W3025018074",
+  "provider": "openalex",
+  "year": 2020,
+  "venue": "Cells",
+  "citation_count": 231,
+  "abstract": "Alterations of the gut microbiota may cause dysregulated mucosal immune responses leading to the onset of inflammatory bowel diseases (IBD) in genetically susceptible hosts. Restoring immune homeostasis through the normalization of the gut microbiota is now considered a valuable therapeutic approach to treat IBD patients. The customization of microbe-targeted therapies, including antibiotics, prebiotics, live biotherapeutics and faecal microbiota transplantation, is therefore considered to support current therapies in IBD management. In this review, we will discuss recent advancements in the understanding of host-microbe interactions in IBD and the basis to promote homeostatic immune responses through microbe-targeted therapies. By considering gut microbiota dysbiosis as a key feature for the establishment of chronic inflammatory events, in the near future it will be suitable to design new cost-effective, physiologic, and patient-oriented therapeutic strategies for the treatment of IBD that can be applied in a personalized manner.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2073-4409/9/5/1234/pdf?version=1589615554"
+}

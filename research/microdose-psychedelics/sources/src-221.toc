@@ -1,0 +1,23 @@
+11	2	Background
+52	2	Abstract
+66	2	1 Department of Neuropsychology and Psychopharmacology, Faculty of
+69	2	2 Department of Psychology, University College London, London, UK
+70	2	3 Department of Psychology, Neuropsychopharmacology Unit, Imperial
+72	2	4 Neurobiology Research Unit, Rigshospitalet and University of
+74	2	5 Department of Pharmacology and Experimental Therapeutics, Louisiana
+76	2	6 Purdue University College of Pharmacy, West Lafayette, LA, USA
+77	2	7 Department of Psychiatry and Behavioral Sciences, Psychiatry
+81	2	9 COMPASS Pathways, London, UK
+82	2	10 Neuropsychopharmacology, Imperial College London, London, UK
+178	2	1. The use of a low dose below the perceptual threshold
+182	2	3. The intention to improve well-being and enhance cogni-
+726	2	6 Gs Predominantly in the caudate nucleus, with
+748	2	7 Gs Predominantly the caudate and putamen nu-
+1056	2	Acknowledgements
+1070	2	References
+1568	2	References
+1759	2	Acknowledgements
+1769	2	References
+1923	2	References
+2096	2	References
+2186	2	2 Department of Neuropsychology and Psychopharmacology, Faculty of

@@ -1,0 +1,24 @@
+{
+  "id": "src-026",
+  "title": "Applied Concepts in PBPK Modeling: How to Build a PBPK/PD Model.",
+  "authors": [
+    "Kuepfer, L",
+    "Niederalt, C",
+    "Wendl, T",
+    "Schlender, J-F",
+    "Willmann, S",
+    "Lippert, J",
+    "Block, M",
+    "Eissing, T",
+    "Teutonico, D"
+  ],
+  "doi": "10.1002/psp4.12134",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/27653238",
+  "provider": "pubmed",
+  "year": 2016,
+  "venue": "CPT: pharmacometrics & systems pharmacology",
+  "citation_count": 0,
+  "abstract": "The aim of this tutorial is to introduce the fundamental concepts of physiologically based pharmacokinetic/pharmacodynamic (PBPK/PD) modeling with a special focus on their practical implementation in a typical PBPK model building workflow. To illustrate basic steps in PBPK model building, a PBPK model for ciprofloxacin will be constructed and coupled to a pharmacodynamic model to simulate the antibacterial activity of ciprofloxacin treatment.",
+  "type": "academic",
+  "pdf_url": ""
+}

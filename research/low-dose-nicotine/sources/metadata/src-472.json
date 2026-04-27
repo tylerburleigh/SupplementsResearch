@@ -1,0 +1,29 @@
+{
+  "id": "src-472",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "",
+  "pdf_url": "https://memory.psych.upenn.edu/files/pubs/SakoKaha22.pdf",
+  "venue": "",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "",
+  "fetched_at": "2026-04-23T21:33:20.707983+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-472.md",
+  "quality_details": {
+    "content_length": 56759,
+    "alpha_ratio": 0.762,
+    "sentence_count": 942,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

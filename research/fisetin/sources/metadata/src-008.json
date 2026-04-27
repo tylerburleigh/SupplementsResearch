@@ -1,0 +1,29 @@
+{
+  "id": "src-008",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://vanahealth.com/discover-fisetin-a-natural-health-booster",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-24T12:44:08.667108+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-008.md",
+  "quality_details": {
+    "content_length": 8372,
+    "alpha_ratio": 0.821,
+    "sentence_count": 79,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

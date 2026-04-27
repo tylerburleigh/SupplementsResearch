@@ -1,0 +1,19 @@
+{
+  "id": "src-324",
+  "title": "NMN supplementation as a strategy to improve oocyte quality: a systematic review and transcriptomic analysis",
+  "authors": [
+    "Noh, H.",
+    "Gupta, S. Sen",
+    "Seshadri, S.",
+    "Gonzalez, Xavier Viñals"
+  ],
+  "doi": "10.1007/s10815-025-03720-1",
+  "url": "https://www.semanticscholar.org/paper/9f0bce46cd1f6ff2c5bbc687445d9b41f9216a7f",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "Journal of Assisted Reproduction and Genetics",
+  "citation_count": 0,
+  "abstract": "Oocyte quality declines with age and metabolic stress, largely due to mitochondrial dysfunction and NAD⁺ depletion. Nicotinamide mononucleotide (NMN), a precursor of NAD⁺, has emerged as a potential intervention to restore cellular energy metabolism. This study systematically reviews preclinical evidence on NMN supplementation and integrates transcriptomic analysis of human oocytes to assess its relevance in human fertility. A systematic review was conducted following PRISMA guidelines across Medline, Embase, and Scopus (January 2015–October 2024). Seven high-quality original studies were included after screening and bias assessment. Data were synthesised through thematic analysis and pathway annotation. Additionally, single-oocyte RNA sequencing was performed on 46 human oocytes at germinal vesicle, metaphase I, and metaphase II stages to profile NAD⁺-related gene expression. Across animal models, NMN supplementation has been shown to improve mitochondrial regulation, reduce oxidative stress, and modulate apoptotic and inflammatory pathways in response to metabolic, environmental, and ageing stress. Transcriptomic analysis identified 900 differentially expressed genes between germinal vesicle and metaphase II oocytes, with significant changes in mitochondrial and oxidative stress–related genes (i.e. SIRT3, DNM1L, SOD1), aligned with NMN’s known mechanisms of action. NMN supplementation shows improvements for oocyte function across diverse preclinical models. Human transcriptomic data further highlight mitochondrial and oxidative pathways as key regulatory points during oocyte maturation. Standardised protocols and clinical trials are needed to evaluate NMN’s translational potential in the context of human reproduction.",
+  "type": "academic",
+  "pdf_url": ""
+}

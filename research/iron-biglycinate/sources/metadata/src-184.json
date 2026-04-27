@@ -1,0 +1,25 @@
+{
+  "id": "src-184",
+  "title": "The magnitude of the plasma hepcidin response to oral iron supplements depends on the iron dosage.",
+  "authors": [
+    "Karczewski, Maximilian",
+    "Simic, Stana",
+    "Saleh, Lanja",
+    "Nowak, Albina",
+    "Schubert, Morton G",
+    "Moretti, Diego",
+    "Swinkels, Dorine W",
+    "Beuschlein, Felix",
+    "Suter, Paolo M",
+    "Krayenbuehl, Pierre-Alexandre"
+  ],
+  "doi": "10.57187/s.3635",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38579297",
+  "provider": "pubmed",
+  "year": 2024,
+  "venue": "Swiss medical weekly",
+  "citation_count": 0,
+  "abstract": "BACKGROUND: Iron deficiency without anaemia is a common health problem, especially in young menstruating women. The efficacy of the usually recommended oral iron supplementation is limited due to increased plasma hepcidin concentration, which reduces iron absorption and leads to side effects such as intestinal irritation. This observation raises the question of how low-dose iron therapy may affect plasma hepcidin levels and whether oral iron intake dose-dependently affects plasma hepcidin production.\nMETHODS: Fifteen non-anaemic women with iron deficiency (serum ferritin ≤30 ng/ml) received a single dose of 0, 6, 30, or 60 mg of elemental oral iron as ferrous sulfate on different days. Plasma hepcidin was measured before and seven hours after each dose.\nRESULTS: Subjects had an average age of 23 (standard deviation = 3.0) years and serum ferritin of 24 ng/ml (interquartile range = 16-27). The highest mean change in plasma hepcidin levels was measured after ingesting 60 mg of iron, increasing from 2.1 ng/ml (interquartile range = 1.6-2.9) to 4.1 ng/ml (interquartile range = 2.5-6.9; p < 0.001). Iron had a significant dose-dependent effect on the absolute change in plasma hepcidin (p = 0.008), where lower iron dose supplementation resulted in lower plasma hepcidin levels. Serum ferritin levels were significantly correlated with fasting plasma hepcidin levels (R2 = 0.504, p = 0.003) and the change in plasma hepcidin concentration after iron intake (R2 = 0.529, p = 0.002).\nCONCLUSION: We found a dose-dependent effect of iron supplementation on plasma hepcidin levels. Lower iron dosage results in a smaller increase in hepcidin and might thus lead to more efficient intestinal iron absorption and fewer side effects. The effectiveness and side effects of low-dose iron treatment in women with iron deficiency should be further investigated. This study was registered at the Swiss National Clinical Trials Portal (2021-00312) and ClinicalTrials.gov (NCT04735848).",
+  "type": "academic",
+  "pdf_url": ""
+}

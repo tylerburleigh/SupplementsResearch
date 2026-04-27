@@ -1,0 +1,17 @@
+{
+  "id": "src-078",
+  "title": "Acquired sensorineural hearing loss, oxidative stress, and microRNAs.",
+  "authors": [
+    "Nunez, Desmond A",
+    "Guo, Ru C"
+  ],
+  "doi": "10.4103/nrr.nrr-d-24-00579",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39314173",
+  "provider": "pubmed",
+  "year": 2025,
+  "venue": "Neural regeneration research",
+  "citation_count": 0,
+  "abstract": "Hearing loss is the third leading cause of human disability. Age-related hearing loss, one type of acquired sensorineural hearing loss, is largely responsible for this escalating global health burden. Noise-induced, ototoxic, and idiopathic sudden sensorineural are other less common types of acquired hearing loss. The etiology of these conditions is complex and multi-factorial involving an interplay of genetic and environmental factors. Oxidative stress has recently been proposed as a likely linking cause in most types of acquired sensorineural hearing loss. Short non-coding RNA sequences known as microRNAs (miRNAs) have increasingly been shown to play a role in cellular hypoxia and oxidative stress responses including promoting an apoptotic response. Sensory hair cell death is a central histopathological finding in sensorineural hearing loss. As these cells do not regenerate in humans, it underlies the irreversibility of human age-related hearing loss. Ovid EMBASE, Ovid MEDLINE, Web of Science Core Collection, and ClinicalTrials.gov databases over the period August 1, 2018 to July 31, 2023 were searched with \"hearing loss,\" \"hypoxamiRs,\" \"hypoxia,\" \"microRNAs,\" \"ischemia,\" and \"oxidative stress\" text words for English language primary study publications or registered clinical trials. Registered clinical trials known to the senior author were also assessed. A total of 222 studies were thus identified. After excluding duplicates, editorials, retractions, secondary research studies, and non-English language articles, 39 primary studies and clinical trials underwent full-text screening. This resulted in 11 animal, in vitro , and/or human subject journal articles and 8 registered clinical trial database entries which form the basis of this narrative review. MiRNAs miR-34a and miR-29b levels increase with age in mice. These miRNAs were demonstrated in human neuroblastoma and murine cochlear cell lines to target Sirtuin 1/peroxisome proliferator-activated receptor gamma coactivator-1-alpha (SIRT1/PGC-1α), SIRT1/p53, and SIRT1/hypoxia-inducible factor 1-alpha signaling pathways resulting in increased apoptosis. Furthermore, hypoxia and oxidative stress had a similar adverse apoptotic effect, which was inhibited by resveratrol and a myocardial inhibitor-associated transcript, a miR-29b competing endogenous mRNA. Gentamicin reduced miR-182-5p levels and increased cochlear oxidative stress and cell death in mice - an effect that was corrected by inner ear stem cell-derived exosomes. There is ongoing work seeking to determine if these findings can be effectively translated to humans.",
+  "type": "academic",
+  "pdf_url": ""
+}

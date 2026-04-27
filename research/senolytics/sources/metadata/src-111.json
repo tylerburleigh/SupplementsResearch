@@ -1,0 +1,30 @@
+{
+  "id": "src-111",
+  "title": "Cellular senescence of granulosa cells in the pathogenesis of polycystic ovary syndrome.",
+  "authors": [
+    "Tanaka, Tsurugi",
+    "Urata, Yoko",
+    "Harada, Miyuki",
+    "Kunitomi, Chisato",
+    "Kusamoto, Akari",
+    "Koike, Hiroshi",
+    "Xu, Zixin",
+    "Sakaguchi, Nanoka",
+    "Tsuchida, Chihiro",
+    "Komura, Airi",
+    "Teshima, Ayaka",
+    "Takahashi, Nozomi",
+    "Wada-Hiraike, Osamu",
+    "Hirota, Yasushi",
+    "Osuga, Yutaka"
+  ],
+  "doi": "10.1093/molehr/gaae015",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38603629",
+  "provider": "pubmed",
+  "year": 2024,
+  "venue": "Molecular human reproduction",
+  "citation_count": 0,
+  "abstract": "Polycystic ovary syndrome (PCOS) is one of the most common endocrine disorders in women of reproductive age, but its pathology has not been fully characterized and the optimal treatment strategy remains unclear. Cellular senescence is a permanent state of cell-cycle arrest that can be induced by multiple stresses. Senescent cells contribute to the pathogenesis of various diseases, owing to an alteration in secretory profile, termed 'senescence-associated secretory phenotype' (SASP), including with respect to pro-inflammatory cytokines. Senolytics, a class of drugs that selectively eliminate senescent cells, are now being used clinically, and a combination of dasatinib and quercetin (DQ) has been extensively used as a senolytic. We aimed to investigate whether cellular senescence is involved in the pathology of PCOS and whether DQ treatment has beneficial effects in patients with PCOS. We obtained ovaries from patients with or without PCOS, and established a mouse model of PCOS by injecting dehydroepiandrosterone. The expression of the senescence markers p16INK4a, p21, p53, γH2AX, and senescence-associated β-galactosidase and the SASP-related factor interleukin-6 was significantly higher in the ovaries of patients with PCOS and PCOS mice than in controls. To evaluate the effects of hyperandrogenism and DQ on cellular senescence in vitro, we stimulated cultured human granulosa cells (GCs) with testosterone and treated them with DQ. The expression of markers of senescence and a SASP-related factor was increased by testosterone, and DQ reduced this increase. DQ reduced the expression of markers of senescence and a SASP-related factor in the ovaries of PCOS mice and improved their morphology. These results indicate that cellular senescence occurs in PCOS. Hyperandrogenism causes cellular senescence in GCs in PCOS, and senolytic treatment reduces the accumulation of senescent GCs and improves ovarian morphology under hyperandrogenism. Thus, DQ might represent a novel therapy for PCOS.",
+  "type": "academic",
+  "pdf_url": ""
+}

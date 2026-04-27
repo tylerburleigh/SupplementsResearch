@@ -1,0 +1,13 @@
+3	2	Research Article
+13	2	Abstract
+27	2	Introduction
+52	2	Jns
+53	2	Journal Of Nutritional Science
+295	2	Statistical Analysis
+305	2	Results
+440	2	Discussion
+642	2	Conclusion
+669	2	Supplementary Material
+672	2	Acknowledgments
+686	2	Fenumat
+692	2	References

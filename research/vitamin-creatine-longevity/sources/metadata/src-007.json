@@ -1,0 +1,30 @@
+{
+  "id": "src-007",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://healthinkwell.com/creatine-and-diabetes",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-21T12:54:02.303806+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-007.md",
+  "quality_details": {
+    "content_length": 118,
+    "alpha_ratio": 0.831,
+    "sentence_count": 0,
+    "reasons": [
+      "content too short (118 chars < 500)",
+      "few sentences detected (0 < 3)"
+    ]
+  }
+}

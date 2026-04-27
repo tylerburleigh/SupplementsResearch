@@ -1,0 +1,17 @@
+{
+  "id": "src-293",
+  "title": "The Human Gut Microbiome – A Potential Controller of Wellness and Disease",
+  "authors": [
+    "Kho, Zhi Y.",
+    "Lal, Sunil K."
+  ],
+  "doi": "10.3389/fmicb.2018.01835",
+  "url": "https://openalex.org/W2885492105",
+  "provider": "openalex",
+  "year": 2018,
+  "venue": "Frontiers in Microbiology",
+  "citation_count": 1079,
+  "abstract": "Interest toward the human microbiome, particularly gut microbiome has flourished in recent decades owing to the rapidly advancing sequence-based screening and humanized gnotobiotic model in interrogating the dynamic operations of commensal microbiota. Although this field is still at a very preliminary stage, whereby the functional properties of the complex gut microbiome remain less understood, several promising findings have been documented and exhibit great potential toward revolutionizing disease etiology and medical treatments. In this review, the interactions between gut microbiota and the host have been focused on, to provide an overview of the role of gut microbiota and their unique metabolites in conferring host protection against invading pathogen, regulation of diverse host physiological functions including metabolism, development and homeostasis of immunity and the nervous system. We elaborate on how gut microbial imbalance (dysbiosis) may lead to dysfunction of host machineries, thereby contributing to pathogenesis and/or progression toward a broad spectrum of diseases. Some of the most notable diseases namely <i>Clostridium difficile</i> infection (infectious disease), inflammatory bowel disease (intestinal immune-mediated disease), celiac disease (multisystemic autoimmune disorder), obesity (metabolic disease), colorectal cancer, and autism spectrum disorder (neuropsychiatric disorder) have been discussed and delineated along with recent findings. Novel therapies derived from microbiome studies such as fecal microbiota transplantation, probiotic and prebiotics to target associated diseases have been reviewed to introduce the idea of how certain disease symptoms can be ameliorated through dysbiosis correction, thus revealing a new scientific approach toward disease treatment. Toward the end of this review, several research gaps and limitations have been described along with suggested future studies to overcome the current research lacunae. Despite the ongoing debate on whether gut microbiome plays a role in the above-mentioned diseases, we have in this review, gathered evidence showing a potentially far more complex link beyond the unidirectional cause-and-effect relationship between them.",
+  "type": "academic",
+  "pdf_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2018.01835/pdf"
+}

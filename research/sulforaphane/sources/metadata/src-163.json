@@ -1,0 +1,20 @@
+{
+  "id": "src-163",
+  "title": "Optimization of Heterologous Glucoraphanin Production In Planta.",
+  "authors": [
+    "Barnum, Collin R",
+    "Endelman, Benjamin J",
+    "Ornelas, Izaiah J",
+    "Pignolet, Roxanna M",
+    "Shih, Patrick M"
+  ],
+  "doi": "10.1021/acssynbio.2c00030",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35438493",
+  "provider": "pubmed",
+  "year": 2022,
+  "venue": "ACS synthetic biology",
+  "citation_count": 0,
+  "abstract": "Glucoraphanin is a plant specialized metabolite found in cruciferous vegetables that has long been a target for production in a heterologous host because it can subsequently be hydrolyzed to form the chemopreventive compound sulforaphane before and during consumption. However, previous studies have only been able to produce small amounts of glucoraphanin in heterologous plant and microbial systems compared to the levels found in glucoraphanin-producing plants, suggesting that there may be missing auxiliary genes that play a role in improving production in planta. In an effort to identify auxiliary genes required for high glucoraphanin production, we leveraged transient expression in Nicotiana benthamiana to screen a combination of previously uncharacterized coexpressed genes and rationally selected genes alongside the glucoraphanin biosynthetic pathway. This strategy alleviated metabolic bottlenecks, which improved glucoraphanin production by 4.74-fold. Our optimized glucoraphanin biosynthetic pathway provides a pathway amenable for high glucoraphanin production.",
+  "type": "academic",
+  "pdf_url": ""
+}

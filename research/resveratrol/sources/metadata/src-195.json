@@ -1,0 +1,19 @@
+{
+  "id": "src-195",
+  "title": "The therapeutic potential of resveratrol: a review of clinical trials",
+  "authors": [
+    "Berman, Adi Y.",
+    "Motechin, Rachel A.",
+    "Wiesenfeld, Maia Y.",
+    "Holz, Marina K."
+  ],
+  "doi": "10.1038/s41698-017-0038-6",
+  "url": "https://openalex.org/W2756041018",
+  "provider": "openalex",
+  "year": 2017,
+  "venue": "npj Precision Oncology",
+  "citation_count": 840,
+  "abstract": "Resveratrol is a nutraceutical with several therapeutic effects. It has been shown to mimic effects of caloric restriction, exert anti-inflammatory and anti-oxidative effects, and affect the initiation and progression of many diseases through several mechanisms. While there is a wealth of in vitro and in vivo evidence that resveratrol could be a promising therapeutic agent, clinical trials must confirm its potential. In this work, we reviewed the current clinical data available regarding the pharmacological action of resveratrol. Most of the clinical trials of resveratrol have focused on cancer, neurological disorders, cardiovascular diseases, diabetes, non-alcoholic fatty liver disease (NAFLD), and obesity. We found that for neurological disorders, cardiovascular diseases, and diabetes, the current clinical trials show that resveratrol was well tolerated and beneficially influenced disease biomarkers. However resveratrol had ambiguous and sometimes even detrimental effects in certain types of cancers and in NAFLD. In most of the clinical trials, the major obstacle presented was resveratrol's poor bioavailability. Thus, this work provides useful considerations for the planning and design of future pre-clinical and clinical research on resveratrol.",
+  "type": "academic",
+  "pdf_url": "https://www.nature.com/articles/s41698-017-0038-6.pdf"
+}

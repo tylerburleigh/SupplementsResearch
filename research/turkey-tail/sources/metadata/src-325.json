@@ -1,0 +1,31 @@
+{
+  "id": "src-325",
+  "title": "Exploring the Impact of Ketodeoxynonulosonic Acid in Host-Pathogen Interactions Using Uptake and Surface Display by Nontypeable Haemophilus influenzae",
+  "authors": [
+    "Saha, Sudeshna",
+    "Coady, Alison",
+    "Sasmal, Aniruddha",
+    "Kawanishi, Kunio",
+    "Choudhury, Biswa",
+    "Yu, Hai",
+    "Sorensen, Ricardo U.",
+    "Inostroza, Jaime",
+    "Schoenhofen, Ian C.",
+    "Chen, Xi",
+    "Münster-Kühnel, Anja",
+    "Sato, Chihiro",
+    "Kitajima, Ken",
+    "Ram, Sanjay",
+    "Nizet, Victor",
+    "Varki, Ajit"
+  ],
+  "doi": "10.1128/mbio.03226-20",
+  "url": "https://openalex.org/W3122921496",
+  "provider": "openalex",
+  "year": 2021,
+  "venue": "mBio",
+  "citation_count": 21,
+  "abstract": "Surface expression of the common vertebrate sialic acid (Sia) <i>N</i>-acetylneuraminic acid (Neu5Ac) by commensal and pathogenic microbes appears structurally to represent \"molecular mimicry\" of host sialoglycans, facilitating multiple mechanisms of host immune evasion. In contrast, ketodeoxynonulosonic acid (Kdn) is a more ancestral Sia also present in prokaryotic glycoconjugates that are structurally quite distinct from vertebrate sialoglycans. We detected human antibodies against Kdn-terminated glycans, and sialoglycan microarray studies found these anti-Kdn antibodies to be directed against Kdn-sialoglycans structurally similar to those on human cell surface Neu5Ac-sialoglycans. Anti-Kdn-glycan antibodies appear during infancy in a pattern similar to those generated following incorporation of the nonhuman Sia <i>N</i>-glycolylneuraminic acid (Neu5Gc) onto the surface of nontypeable <i>Haemophilus influenzae</i> (NTHi), a human commensal and opportunistic pathogen. NTHi grown in the presence of free Kdn took up and incorporated the Sia into its lipooligosaccharide (LOS). Surface display of the Kdn within NTHi LOS blunted several virulence attributes of the pathogen, including Neu5Ac-mediated resistance to complement and whole blood killing, complement C3 deposition, IgM binding, and engagement of Siglec-9. Upper airway administration of Kdn reduced NTHi infection in human-like <i>Cmah</i> null (Neu5Gc-deficient) mice that express a Neu5Ac-rich sialome. We propose a mechanism for the induction of anti-Kdn antibodies in humans, suggesting that Kdn could be a natural and/or therapeutic \"Trojan horse\" that impairs colonization and virulence phenotypes of free Neu5Ac-assimilating human pathogens.<b>IMPORTANCE</b> All cells in vertebrates are coated with a dense array of glycans often capped with sugars called sialic acids. Sialic acids have many functions, including serving as a signal for recognition of \"self\" cells by the immune system, thereby guiding an appropriate immune response against foreign \"nonself\" and/or damaged cells. Several pathogenic bacteria have evolved mechanisms to cloak themselves with sialic acids and evade immune responses. Here we explore a type of sialic acid called \"Kdn\" (ketodeoxynonulosonic acid) that has not received much attention in the past and compare and contrast how it interacts with the immune system. Our results show potential for the use of Kdn as a natural intervention against pathogenic bacteria that take up and coat themselves with external sialic acid from the environment.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.1128/mbio.03226-20"
+}

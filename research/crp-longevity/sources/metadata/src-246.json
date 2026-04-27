@@ -1,0 +1,19 @@
+{
+  "id": "src-246",
+  "title": "Association Between C-Reactive Protein and Risk of Amyotrophic Lateral Sclerosis: A Mendelian Randomization Study",
+  "authors": [
+    "Zhu, Yahui",
+    "Li, Mao",
+    "Zhang, Jinghong",
+    "Huang, Xusheng"
+  ],
+  "doi": "10.3389/fgene.2022.919031",
+  "url": "https://www.semanticscholar.org/paper/084a1ccceca55ef09946b075623d9fae0327cfa1",
+  "provider": "semantic_scholar",
+  "year": 2022,
+  "venue": "Frontiers in Genetics",
+  "citation_count": 3,
+  "abstract": "Background: Until now, the relationship between C-reactive protein (CRP) levels and amyotrophic lateral sclerosis (ALS) risk has not been fully established. It is necessary to assess whether there is a causal relationship between C-reactive protein levels and ALS risk. Objective and Methods: We aimed to determine whether CRP has causal effects on risk of ALS. In this present study, summary-level data for ALS (20,806 cases and 59,804 controls) was obtained from large analyses of genome-wide association studies. For instrumental variables, 37 single nucleotide polymorphisms that had been previously identified to be related to CRP levels were used, including 4 SNPs of conservative CRP genetic variants and 33 SNPs of liberal CRP genetic variants. MR estimates were calculated using the inverse-variance weighted method, supplemented by MR-Egger, weighted median, and MR-PRESSO methods. Results: There was no significant causal relationship between genetically predicted CRP levels and ALS risk (OR = 1.123, 95% CI = 0.963–1.309, p = 0.139) and results for the conservative CRP instruments were consistent (OR = 0.964, 95% CI = 0.830–1.119, p = 0.628). Pleiotropic bias was not observed in this study. Conclusions: This study suggests that genetically predicted CRP levels may not be a causal risk factor for ALS.",
+  "type": "academic",
+  "pdf_url": "https://www.frontiersin.org/articles/10.3389/fgene.2022.919031/pdf"
+}

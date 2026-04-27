@@ -1,0 +1,33 @@
+{
+  "id": "src-224",
+  "title": "Disturbed Gut-Liver axis indicating oral exposure to polystyrene microplastic potentially increases the risk of insulin resistance",
+  "authors": [
+    "Shi, Chunzhen",
+    "Han, Xiaohong",
+    "Guo, Wei",
+    "Wu, Qi",
+    "Yang, Xiaoxi",
+    "Wang, Yuanyuan",
+    "Tang, Gang",
+    "Wang, Shunhao",
+    "Wang, Ziniu",
+    "Liu, Yaquan",
+    "Li, Min",
+    "Lv, Meilin",
+    "Guo, Yunhe",
+    "Li, Zikang",
+    "Li, Junya",
+    "Shi, Jianbo",
+    "Qu, Guangbo",
+    "Jiang, Guibin"
+  ],
+  "doi": "10.1016/j.envint.2022.107273",
+  "url": "https://openalex.org/W4225150537",
+  "provider": "openalex",
+  "year": 2022,
+  "venue": "Environment International",
+  "citation_count": 195,
+  "abstract": "Human uptake abundance of microplastics via various pathways, and they accumulate in human liver, kidney, gut and even placenta (especially with a diameter of 1 μm or less). Recent scientific studies have found that exposure to microplastics causes intestinal inflammation and liver metabolic disorder, but it remains largely unknown that whether the damage and inflammation may cause further development of severe diseases. In this study, we discovered one of such potential diseases that may be induced by the exposure to small-sized microplastics (with a diameter of 1 μm) performing a multi-organ and multi-omics study comprising metabolomics and microbiome approaches. Unlike other animal experiments, the dosing strategy was applied in mice according to the daily exposure of the highly exposed population, which was more environmentally relevant and reflective of real-world human exposure. Our studies on the gut-liver axis metabolism have shown that the crosstalk between the gut and liver ultimately leaded to insulin resistance and even diabetes. We proactively verified this hypothesis by measuring the levels of fasting blood glucose and fasting insulin, which were found significantly elevated in the mice with microplastics exposure. These results indicate the urgent need of large-scale cohort evaluation on epidemiology and prognosis of insulin resistance after microplastics exposure in future.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.1016/j.envint.2022.107273"
+}

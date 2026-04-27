@@ -1,0 +1,17 @@
+{
+  "id": "src-313",
+  "title": "In Silico Investigation of the Molecular-Level Interactions of Phenolic Compounds in Propolis with the Mechanosensitive Piezo1 Channel",
+  "authors": [
+    "Amaç, Bişar",
+    "Göç, Ömer"
+  ],
+  "doi": "10.34248/bsengineering.1859600",
+  "url": "https://www.semanticscholar.org/paper/e0f802cd627ba996db299d66f27eef4d0942e7ce",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "Black Sea Journal of Engineering and Science",
+  "citation_count": 0,
+  "abstract": "The aim of this study is to evaluate the interactions between the A, B and C chains of the Piezo1 (6B3R) protein and selected natural phenolic and flavonoid compounds using molecular docking methods, and to comparatively examine chain-specific binding profiles. Molecular docking analyses were performed using Schrödinger Maestro software. The Piezo1 structure was obtained from the Protein Data Bank (PDB ID: 6B3R), and protein and ligand preparations were carried out under physiological pH conditions. Separate Glide grids were defined for chains A, B, and C; docking operations were performed in Glide SP and XP modes. Binding affinities were evaluated based on docking scores and Glide emodel values, and 2D and 3D interaction analyses were performed for the best poses. Additionally, the physicochemical and ADME properties of the selected ligands were calculated. Docking analyses revealed that ligand binding behaviour differed significantly between Piezo1 chains. In particular, epigallocatechin gallate (EGCG) and epicatechin gallate exhibited strong and stable binding profiles across all chains, with the highest binding affinity observed in the C chain. It was determined that the strong interactions were supported by multiple hydrogen bonds and aromatic interactions. This study reveals the chain-specific ligand binding properties of Piezo1 and demonstrates that natural polyphenolic compounds can form strong interactions with this mechanosensitive ion channel. The findings contribute to understanding the molecular basis of Piezo1-mediated mechanotransduction and provide a structural reference for future experimental studies, particularly in the context of cardiovascular mechanotransduction.",
+  "type": "academic",
+  "pdf_url": ""
+}

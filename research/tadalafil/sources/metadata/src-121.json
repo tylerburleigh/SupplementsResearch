@@ -1,0 +1,23 @@
+{
+  "id": "src-121",
+  "title": "Development of novel phosphodiesterase 5 inhibitors for the therapy of alzheimer's disease.",
+  "authors": [
+    "Zuccarello, Elisa",
+    "Acquarone, Erica",
+    "Calcagno, Elisa",
+    "Argyrousi, Elentina K.",
+    "Deng, S.",
+    "Landry, D.",
+    "Arancio, O.",
+    "Fiorito, J."
+  ],
+  "doi": "10.1016/j.bcp.2020.113818",
+  "url": "https://www.semanticscholar.org/paper/da2ea06e1dff9ff4c1abb3da7c6458c184b78390",
+  "provider": "semantic_scholar",
+  "year": 2020,
+  "venue": "Biochemical Pharmacology",
+  "citation_count": 67,
+  "abstract": "Nitric oxide (NO) is a gaseous molecule that plays a multifactorial role in several cellular processes. In the central nervous system, the NO dual nature in neuroprotection and neurotoxicity has been explored to unveil its involvement in Alzheimer's disease (AD). A growing body of research shows that the activation of the NO signaling pathway leading to the phosphorylation of the transcription factor cyclic adenine monophosphate responsive element binding protein (CREB) (so-called NO/cGMP/PKG/CREB signaling pathway) ameliorates altered neuroplasticity and memory deficits in AD animal models. In addition to NO donors, several other pharmacological agents, such as phosphodiesterase 5 (PDE5) inhibitors have been used to activate the pathway and rescue memory disorders. PDE5 inhibitors, including sildenafil, tadalafil and vardenafil, are marketed for the treatment of erectile dysfunction and arterial pulmonary hypertension due to their vasodilatory properties. The ability of PDE5 inhibitors to interfere with the NO/cGMP/PKG/CREB signaling pathway by increasing the levels of cGMP has prompted the hypothesis that PDE5 inhibition might be used as an effective therapeutic strategy for the treatment of AD. To this end, newly designed PDE5 inhibitors belonging to different chemical classes with improved pharmacologic profile (e.g. higher potency, improved selectivity, and blood-brain barrier penetration) have been synthesized and evaluated in several animal models of AD. In addition, recent medicinal chemistry effort has led to the development of agents concurrently acting on the PDE5 enzyme and a second target involved in AD. Both marketed and investigational PDE5 inhibitors have shown to reverse cognitive defects in young and aged wild type mice as well as transgenic mouse models of AD and tauopathy using a variety of behavioral tasks. These studies confirmed the therapeutic potential of PDE5 inhibitors as cognitive enhancers. However, clinical studies assessing cognitive functions using marketed PDE5 inhibitors have not been conclusive. Drug discovery efforts by our group and others are currently directed towards the development of novel PDE5 inhibitors tailored to AD with improved pharmacodynamic and pharmacokinetic properties. In summary, the present perspective reports an overview of the correlation between the NO signaling and AD, as well as an outline of the PDE5 inhibitors used as an alternative approach in altering the NO pathway leading to an improvement of learning and memory. The last two sections describe the preclinical and clinical evaluation of PDE5 inhibitors for the treatment of AD, providing a comprehensive analysis of the current status of the AD drug discovery efforts involving PDE5 as a new therapeutic target.",
+  "type": "academic",
+  "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7263960"
+}

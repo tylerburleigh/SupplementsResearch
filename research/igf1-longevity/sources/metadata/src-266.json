@@ -1,0 +1,18 @@
+{
+  "id": "src-266",
+  "title": "PRISMA-7 (for frailty assessment) and SARC-F (for evaluation of sarcopenia risk) in predicting emergency department readmission and mortality",
+  "authors": [
+    "Goktekin, M. C.",
+    "Gul, Evrim",
+    "Aksu, Feyza"
+  ],
+  "doi": "10.22514/sv.2025.012",
+  "url": "https://www.semanticscholar.org/paper/c03216eb624fadde604d9e725717a8137374ce7a",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "Signa Vitae",
+  "citation_count": 1,
+  "abstract": "Background : Frailty scores can predict hospitalization and other related adversities. The frailty status determination is thus useful in clinical decisions regarding elderly patients. This study was aimed to evaluate the potential of PRISMA-7 (Program on Research for Integrating Services for the Maintenance of Autonomy 7 item questionnaire) and SARC-F (A Simple Questionnaire to Rapidly Diagnose Sarcopenia) scores in predicting hospitalization following the emergency department (ED) admission, readmission at 1, 3 and 6 months, and mortality within 6-month follow-up period. Methods : A total of 150 patients of over 65 years age and presented to the ED in 6-month period were included in this prospective study. The patients’ SARC-F and PRISMA-7 scores were calculated at the first presentation to ED. Later, the same patients were evaluated via the electronic hospital system and called by phone. Their status was evaluated regarding the recurrent ED visits, hospitalization and mortality at 1, 3 and 6 months. Results : At the time of presentation, 72% patients had sarcopenia risk according to SARC-F score and 68.7% had frailty risk as per the PRISMA-7 score. ROC (Receiver Operating Characteristic) analysis exhibited the relationship between long-term mortality and PRISMA-7 and SARC-F scores. The best cut-off value of PRISMA-7 for predicting 6-month mortality was > 3 in this study group. The best cut-off for long-term mortality was > 7 in the ROC analysis of SARC-F score. Conclusions : PRISMA-7 and SARC-F were applicable at the initial presentation to ED as well as at the follow-up. Towards the end of study, positivity of single questionnaire predicted the readmission to ED, especially in the 1st month follow-up, while the positivity of both questionnaires predicted mortality in all the follow-ups. Clinical Trial Registration : NCT06525038.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.22514/sv.2025.012"
+}

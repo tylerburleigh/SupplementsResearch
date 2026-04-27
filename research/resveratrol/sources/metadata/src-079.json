@@ -1,0 +1,22 @@
+{
+  "id": "src-079",
+  "title": "Polymeric Nanoparticles for Drug Delivery: Recent Developments and Future Prospects",
+  "authors": [
+    "Begines, Belén",
+    "Ortíz, Tamara",
+    "Pérez‐Aranda, María",
+    "Martínez, Guillermo",
+    "Merinero, Manuel",
+    "Argüelles‐Arias, Federico",
+    "Alcudia, Ana"
+  ],
+  "doi": "10.3390/nano10071403",
+  "url": "https://openalex.org/W3043787700",
+  "provider": "openalex",
+  "year": 2020,
+  "venue": "Nanomaterials",
+  "citation_count": 988,
+  "abstract": "The complexity of some diseases-as well as the inherent toxicity of certain drugs-has led to an increasing interest in the development and optimization of drug-delivery systems. Polymeric nanoparticles stand out as a key tool to improve drug bioavailability or specific delivery at the site of action. The versatility of polymers makes them potentially ideal for fulfilling the requirements of each particular drug-delivery system. In this review, a summary of the state-of-the-art panorama of polymeric nanoparticles as drug-delivery systems has been conducted, focusing mainly on those applications in which the corresponding disease involves an important morbidity, a considerable reduction in the life quality of patients-or even a high mortality. A revision of the use of polymeric nanoparticles for ocular drug delivery, for cancer diagnosis and treatment, as well as nutraceutical delivery, was carried out, and a short discussion about future prospects of these systems is included.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2079-4991/10/7/1403/pdf?version=1595380549"
+}

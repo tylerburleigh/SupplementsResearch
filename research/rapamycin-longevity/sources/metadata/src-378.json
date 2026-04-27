@@ -1,0 +1,22 @@
+{
+  "id": "src-378",
+  "title": "Metabolic consequences of long-term rapamycin exposure on common marmoset monkeys (Callithrix jacchus)",
+  "authors": [
+    "Ross, Corinna N.",
+    "Salmon, Adam B.",
+    "Strong, Randy",
+    "Fernández, Elizabeth",
+    "Javors, Marty",
+    "Richardson, Arlan",
+    "Tardif, Suzette D."
+  ],
+  "doi": "10.18632/aging.100843",
+  "url": "https://openalex.org/W2334913276",
+  "provider": "openalex",
+  "year": 2015,
+  "venue": "Aging",
+  "citation_count": 49,
+  "abstract": "Rapamycin has been shown to extend lifespan in rodent models, but the effects on metabolic health and function have been widely debated in both clinical and translational trials. Prior to rapamycin being used as a treatment to extend both lifespan and healthspan in the human population, it is vital to assess the side effects of the treatment on metabolic pathways in animal model systems, including a closely related non-human primate model. In this study, we found that long-term treatment of marmoset monkeys with orally-administered encapsulated rapamycin resulted in no overall effects on body weight and only a small decrease in fat mass over the first few months of treatment. Rapamycin treated subjects showed no overall changes in daily activity counts, blood lipids, or significant changes in glucose metabolism including oral glucose tolerance. Adipose tissue displayed no differences in gene expression of metabolic markers following treatment, while liver tissue exhibited suppressed G6Pase activity with increased PCK and GPI activity. Overall, the marmosets revealed only minor metabolic consequences of chronic treatment with rapamycin and this adds to the growing body of literature that suggests that chronic and/or intermittent rapamycin treatment results in improved health span and metabolic functioning. The marmosets offer an interesting alternative animal model for future intervention testing and translational modeling.",
+  "type": "academic",
+  "pdf_url": "https://www.aging-us.com/article/100843/pdf"
+}

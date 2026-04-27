@@ -1,0 +1,26 @@
+{
+  "id": "src-308",
+  "title": "Human SHMT inhibitors reveal defective glycine import as a targetable metabolic vulnerability of diffuse large B-cell lymphoma",
+  "authors": [
+    "Ducker, Gregory S.",
+    "Ghergurovich, Jonathan M.",
+    "Mainolfi, Nello",
+    "Suri, Vipin",
+    "Jeong, Stephanie",
+    "Li, Hsin‐Jung",
+    "Friedman, Adam",
+    "Manfredi, Mark",
+    "Gitai, Zemer",
+    "Kim, Hahn",
+    "Rabinowitz, Joshua D."
+  ],
+  "doi": "10.1073/pnas.1706617114",
+  "url": "https://openalex.org/W2761750372",
+  "provider": "openalex",
+  "year": 2017,
+  "venue": "Proceedings of the National Academy of Sciences",
+  "citation_count": 263,
+  "abstract": "The enzyme serine hydroxymethyltransferse (SHMT) converts serine into glycine and a tetrahydrofolate-bound one-carbon unit. Folate one-carbon units support purine and thymidine synthesis, and thus cell growth. Mammals have both cytosolic SHMT1 and mitochondrial SHMT2, with the mitochondrial isozyme strongly up-regulated in cancer. Here we show genetically that dual SHMT1/2 knockout blocks HCT-116 colon cancer tumor xenograft formation. Building from a pyrazolopyran scaffold that inhibits plant SHMT, we identify small-molecule dual inhibitors of human SHMT1/2 (biochemical IC<sub>50</sub> ∼ 10 nM). Metabolomics and isotope tracer studies demonstrate effective cellular target engagement. A cancer cell-line screen revealed that B-cell lines are particularly sensitive to SHMT inhibition. The one-carbon donor formate generally rescues cells from SHMT inhibition, but paradoxically increases the inhibitor's cytotoxicity in diffuse large B-cell lymphoma (DLBCL). We show that this effect is rooted in defective glycine uptake in DLBCL cell lines, rendering them uniquely dependent upon SHMT enzymatic activity to meet glycine demand. Thus, defective glycine import is a targetable metabolic deficiency of DLBCL.",
+  "type": "academic",
+  "pdf_url": "https://www.osti.gov/servlets/purl/1413304"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "src-059",
+  "title": "Low iron stores in infants and children with treated phenylketonuria: A population at risk for iron-deficiency anaemia and associated cognitive deficits",
+  "authors": [
+    "Bodley, J. L.",
+    "Austin, V. J.",
+    "Hanley, W. B.",
+    "Clarke, J. T. R.",
+    "Zlotkin, S."
+  ],
+  "year": 1993,
+  "abstract": "",
+  "doi": "10.1007/bf02072491",
+  "url": "https://doi.org/10.1007/bf02072491",
+  "pdf_url": "",
+  "venue": "European Journal of Pediatrics",
+  "citation_count": 17,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T18:08:26.176797+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-059.md",
+  "quality_details": {
+    "content_length": 9281,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

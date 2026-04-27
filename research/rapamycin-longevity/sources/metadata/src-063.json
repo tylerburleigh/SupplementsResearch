@@ -1,0 +1,18 @@
+{
+  "id": "src-063",
+  "title": "Mechanisms of muscle atrophy and hypertrophy: implications in health and disease",
+  "authors": [
+    "Sartori, Roberta",
+    "Romanello, Vanina",
+    "Sandri, Marco"
+  ],
+  "doi": "10.1038/s41467-020-20123-1",
+  "url": "https://openalex.org/W3121032204",
+  "provider": "openalex",
+  "year": 2021,
+  "venue": "Nature Communications",
+  "citation_count": 884,
+  "abstract": "Skeletal muscle is the protein reservoir of our body and an important regulator of glucose and lipid homeostasis. Consequently, the growth or the loss of muscle mass can influence general metabolism, locomotion, eating and respiration. Therefore, it is not surprising that excessive muscle loss is a bad prognostic index of a variety of diseases ranging from cancer, organ failure, infections and unhealthy ageing. Muscle function is influenced by different quality systems that regulate the function of contractile proteins and organelles. These systems are controlled by transcriptional dependent programs that adapt muscle cells to environmental and nutritional clues. Mechanical, oxidative, nutritional and energy stresses, as well as growth factors or cytokines modulate signaling pathways that, ultimately, converge on protein and organelle turnover. Novel insights that control and orchestrate such complex network are continuously emerging and will be summarized in this review. Understanding the mechanisms that control muscle mass will provide therapeutic targets for the treatment of muscle loss in inherited and non-hereditary diseases and for the improvement of the quality of life during ageing.",
+  "type": "academic",
+  "pdf_url": "https://www.nature.com/articles/s41467-020-20123-1.pdf"
+}

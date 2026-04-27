@@ -1,0 +1,25 @@
+15	2	1. Skeletal muscle atrophy and hypertrophy
+68	2	8. In contrast, if pre-differentiation myoblasts are treated
+88	2	13. NFAT dephosphorylation and nuclear translocation are
+194	2	Igf
+200	2	Igf
+214	2	Igf
+216	2	Igf
+231	2	Igf Igf
+233	2	Igf
+235	2	Igf
+298	2	Nfat
+299	2	Nfat
+380	2	Con
+382	2	Igf
+386	2	Con
+388	2	Con
+390	2	Rap
+424	2	Concon
+425	2	Con
+428	2	Con
+501	2	8. These two constructs behaved as would be predicted if the Akt
+623	2	9. In reconciling these
+661	2	Methods
+701	2	8. The tetracycline-responsive vector encoding constitutively active
+752	2	Acknowledgements

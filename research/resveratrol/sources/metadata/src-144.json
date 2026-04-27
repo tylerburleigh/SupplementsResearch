@@ -1,0 +1,17 @@
+{
+  "id": "src-144",
+  "title": "Epigenetics of Aging and Aging-Associated Diseases",
+  "authors": [
+    "Saul, Dominik",
+    "Kosinsky, Robyn Laura"
+  ],
+  "doi": "10.3390/ijms22010401",
+  "url": "https://openalex.org/W3117221748",
+  "provider": "openalex",
+  "year": 2021,
+  "venue": "International Journal of Molecular Sciences",
+  "citation_count": 221,
+  "abstract": "Aging represents the multifactorial decline in physiological function of every living organism. Over the past decades, several hallmarks of aging have been defined, including epigenetic deregulation. Indeed, multiple epigenetic events were found altered across different species during aging. Epigenetic changes directly contributing to aging and aging-related diseases include the accumulation of histone variants, changes in chromatin accessibility, loss of histones and heterochromatin, aberrant histone modifications, and deregulated expression/activity of miRNAs. As a consequence, cellular processes are affected, which results in the development or progression of several human pathologies, including cancer, diabetes, osteoporosis, and neurodegenerative disorders. In this review, we focus on epigenetic mechanisms underlying aging-related processes in various species and describe how these deregulations contribute to human diseases.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/1422-0067/22/1/401/pdf?version=1609568120"
+}

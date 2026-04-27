@@ -1,0 +1,22 @@
+{
+  "id": "src-268",
+  "title": "Relevant mediators involved in and therapies targeting the inflammatory response induced by activation of the NLRP3 inflammasome in ischemic stroke",
+  "authors": [
+    "Xu, Qingxue",
+    "Zhao, Bo",
+    "Ye, Yingze",
+    "Li, Yina",
+    "Zhang, Yonggang",
+    "Xiong, Xiaoxing",
+    "Gu, Lijuan"
+  ],
+  "doi": "10.1186/s12974-021-02137-8",
+  "url": "https://openalex.org/W3165628350",
+  "provider": "openalex",
+  "year": 2021,
+  "venue": "Journal of Neuroinflammation",
+  "citation_count": 111,
+  "abstract": "The nucleotide-binding oligomerization domain (NOD)-like receptor (NLR) family pyrin domain-containing 3 (NLRP3) inflammasome is a member of the NLR family of inherent immune cell sensors. The NLRP3 inflammasome can detect tissue damage and pathogen invasion through innate immune cell sensor components commonly known as pattern recognition receptors (PRRs). PRRs promote activation of nuclear factor kappa B (NF-κB) pathways and the mitogen-activated protein kinase (MAPK) pathway, thus increasing the transcription of genes encoding proteins related to the NLRP3 inflammasome. The NLRP3 inflammasome is a complex with multiple components, including an NAIP, CIITA, HET-E, and TP1 (NACHT) domain; apoptosis-associated speck-like protein containing a CARD (ASC); and a leucine-rich repeat (LRR) domain. After ischemic stroke, the NLRP3 inflammasome can produce numerous proinflammatory cytokines, mediating nerve cell dysfunction and brain edema and ultimately leading to nerve cell death once activated. Ischemic stroke is a disease with high rates of mortality and disability worldwide and is being observed in increasingly younger populations. To date, there are no clearly effective therapeutic strategies for the clinical treatment of ischemic stroke. Understanding the NLRP3 inflammasome may provide novel ideas and approaches because targeting of upstream and downstream molecules in the NLRP3 pathway shows promise for ischemic stroke therapy. In this manuscript, we summarize the existing evidence regarding the composition and activation of the NLRP3 inflammasome, the molecules involved in inflammatory pathways, and corresponding drugs or molecules that exert effects after cerebral ischemia. This evidence may provide possible targets or new strategies for ischemic stroke therapy.",
+  "type": "academic",
+  "pdf_url": "https://jneuroinflammation.biomedcentral.com/counter/pdf/10.1186/s12974-021-02137-8"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "src-217",
+  "title": "Identification of menaquinone-4 (vitamin K2) target genes in bovine endometrial epithelial cells in vitro.",
+  "authors": [
+    "Bai, Hanako",
+    "Kawahara, Manabu",
+    "Takahashi, Masashi"
+  ],
+  "doi": "10.1016/j.theriogenology.2022.12.033",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36592516",
+  "provider": "pubmed",
+  "year": 2023,
+  "venue": "Theriogenology",
+  "citation_count": 0,
+  "abstract": "The effect of vitamin K on bovine endometrial epithelial cells has not been thoroughly investigated. The objective of this study was to examine the effect of the biologically active form of vitamin K, menaquinone-4, on gene expression in bovine endometrial epithelial cells. First, we examined the mRNA and protein expression levels of UBIAD1, a menaquinone-4 biosynthetic enzyme. Second, we screened for potential target genes of menaquinone-4 in bovine endometrial epithelial cells using RNA-sequencing. We found 50 differentially expressed genes; 42 were upregulated, and 8 were downregulated. Among them, a dose-dependent response to menaquinone-4 was observed for the top three upregulated (TRIB3, IL6, and TNFAIP3) and downregulated (CDC6, ORC1, and RRM2) genes. It has been suggested that these genes play important roles in reproductive events. In addition, GDF15 and VEGFA, which are important for cellular functions as they are commonly involved in pathways, such as positive regulation of cell communication, cell differentiation, and positive regulation of MAPK cascade, were upregulated in endometrial epithelial cells by menaquinone-4 treatment. To the best of our knowledge, this is the first study showing the expression of UBIAD1 in the bovine uterus. Moreover, the study determined menaquinone-4 target genes in bovine endometrial epithelial cells, which may positively affect pregnancy with alteration of gene expression in cattle uterus.",
+  "type": "academic",
+  "pdf_url": ""
+}

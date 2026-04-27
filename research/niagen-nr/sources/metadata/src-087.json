@@ -1,0 +1,20 @@
+{
+  "id": "src-087",
+  "title": "Cardiac Energy Metabolism in Heart Failure",
+  "authors": [
+    "Lopaschuk, Gary D.",
+    "Karwi, Qutuba G.",
+    "Tian, Rong",
+    "Wende, Adam R.",
+    "Abel, E. Dale"
+  ],
+  "doi": "10.1161/circresaha.121.318241",
+  "url": "https://openalex.org/W3160863677",
+  "provider": "openalex",
+  "year": 2021,
+  "venue": "Circulation Research",
+  "citation_count": 1212,
+  "abstract": "Alterations in cardiac energy metabolism contribute to the severity of heart failure. However, the energy metabolic changes that occur in heart failure are complex and are dependent not only on the severity and type of heart failure present but also on the co-existence of common comorbidities such as obesity and type 2 diabetes. The failing heart faces an energy deficit, primarily because of a decrease in mitochondrial oxidative capacity. This is partly compensated for by an increase in ATP production from glycolysis. The relative contribution of the different fuels for mitochondrial ATP production also changes, including a decrease in glucose and amino acid oxidation, and an increase in ketone oxidation. The oxidation of fatty acids by the heart increases or decreases, depending on the type of heart failure. For instance, in heart failure associated with diabetes and obesity, myocardial fatty acid oxidation increases, while in heart failure associated with hypertension or ischemia, myocardial fatty acid oxidation decreases. Combined, these energy metabolic changes result in the failing heart becoming less efficient (ie, a decrease in cardiac work/O<sub>2</sub> consumed). The alterations in both glycolysis and mitochondrial oxidative metabolism in the failing heart are due to both transcriptional changes in key enzymes involved in these metabolic pathways, as well as alterations in NAD redox state (NAD<sup>+</sup> and nicotinamide adenine dinucleotide levels) and metabolite signaling that contribute to posttranslational epigenetic changes in the control of expression of genes encoding energy metabolic enzymes. Alterations in the fate of glucose, beyond flux through glycolysis or glucose oxidation, also contribute to the pathology of heart failure. Of importance, pharmacological targeting of the energy metabolic pathways has emerged as a novel therapeutic approach to improving cardiac efficiency, decreasing the energy deficit and improving cardiac function in the failing heart.",
+  "type": "academic",
+  "pdf_url": "https://www.ahajournals.org/doi/pdf/10.1161/CIRCRESAHA.121.318241"
+}

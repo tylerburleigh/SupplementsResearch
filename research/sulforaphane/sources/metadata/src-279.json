@@ -1,0 +1,18 @@
+{
+  "id": "src-279",
+  "title": "Cancer stem cells: problems for therapy?",
+  "authors": [
+    "Alison, Malcolm",
+    "Lim, Susan",
+    "Nicholson, Linda"
+  ],
+  "doi": "10.1002/path.2793",
+  "url": "https://openalex.org/W1997793743",
+  "provider": "openalex",
+  "year": 2010,
+  "venue": "The Journal of Pathology",
+  "citation_count": 314,
+  "abstract": "Many, if not all, tumours contain a sub-population of self-renewing and expanding stem cells known as cancer stem cells (CSCs). The symmetric division of CSCs is one mechanism enabling expansion in their numbers as tumours grow, while epithelial-mesenchymal transition (EMT) is an increasingly recognized mechanism to generate further CSCs endowed with a more invasive and metastatic phenotype. Putative CSCs are prospectively isolated using methods based on either a surface marker or an intracellular enzyme activity and then assessed by a 'sphere-forming' assay in non-adherent culture and/or by their ability to initiate new tumour growth when xenotransplanted into immunocompromised mice-hence, these cells are often referred to as tumour-propagating cells (TPCs). Cell sub-populations enriched for tumour-initiating ability have also been found in murine tumours, countering the argument that xenografting human cells merely select human cells with an ability to grow in mice. Cancer progression can be viewed as an evolutionary process that generates new/multiple clones with a fresh identity; this may be a major obstacle to successful cancer stem cell eradication if treatment targets only a single type of stem cell. In this review, we first briefly discuss evidence that cancer can originate from normal stem cells or closely related descendants. We then outline the attributes of CSCs and review studies in which they have been identified in various cancers. Finally, we discuss the implications of these findings for successful cancer therapies, concentrating on the self-renewal pathways (Wnt, Notch, and Hedgehog), aldehyde dehydrogenase activity, EMT, miRNAs, and other epigenetic modifiers as potential targets for therapeutic manipulation.",
+  "type": "academic",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/path.2793"
+}

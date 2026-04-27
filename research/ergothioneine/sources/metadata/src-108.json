@@ -1,0 +1,23 @@
+{
+  "id": "src-108",
+  "title": "Ergothioneine in the brain",
+  "authors": [
+    "Ishimoto, Takahiro",
+    "Kato, Yukio"
+  ],
+  "year": 2022,
+  "abstract": "Ergothioneine (ERGO) is a naturally occurring food‐derived antioxidant. Despite its extremely hydrophilic properties, ERGO is easily absorbed from the gastrointestinal tract and distributed to various organs, including the brain. This is primarily because its entry into brain cells is mediated by the ERGO‐specific transporter OCTN1/SLC22A4. Octn1 gene knockout mice do not have ERGO in the brain, due to the absence of OCTN1 in neurons, neural stem cells, and microglia. The existence of OCTN1 and uptake of ERGO into the brain parenchymal cells may suggest that ERGO and its transporter play a pivotal role in brain function. Oral administration of ERGO has antidepressant activities in mice. Furthermore, repeated oral administration of ERGO and ERGO‐containing food extract tablets enhance memory function in mice and humans, respectively. ERGO also protects against stress‐induced sleep disturbance and neuronal injury induced by amyloid β in rodents. In vitro observations suggest that ERGO benefits brain function through both its antioxidative activity and by promoting neurogenesis and neuronal maturation. This review discusses the possible involvement of ERGO in brain function and its potential therapeutic properties.",
+  "doi": "10.1002/1873-3468.14271",
+  "url": "https://doi.org/10.1002/1873-3468.14271",
+  "pdf_url": "",
+  "venue": "FEBS Letters",
+  "citation_count": 43,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-20T00:17:39.615875+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok"
+}

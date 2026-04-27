@@ -1,0 +1,33 @@
+{
+  "id": "src-318",
+  "title": "Phase I Study of mTORC1/2 Inhibitor Sapanisertib (CB-228/TAK-228) in Combination with Metformin in Patients with mTOR/AKT/PI3K Pathway Alterations and Advanced Solid Malignancies.",
+  "authors": [
+    "Subbiah, Vivek",
+    "Coleman, Niamh",
+    "Piha-Paul, Sarina A",
+    "Tsimberidou, Apostolia M",
+    "Janku, Filip",
+    "Rodon, Jordi",
+    "Pant, Shubham",
+    "Dumbrava, Ecaterina E Ileana",
+    "Fu, Siqing",
+    "Hong, David S",
+    "Zhang, Shizhen",
+    "Sun, Ming",
+    "Jiang, Yunfang",
+    "Roszik, Jason",
+    "Song, Juhee",
+    "Yuan, Ying",
+    "Meric-Bernstam, Funda",
+    "Naing, Aung"
+  ],
+  "doi": "10.1158/2767-9764.crc-22-0260",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38126764",
+  "provider": "pubmed",
+  "year": 2024,
+  "venue": "Cancer research communications",
+  "citation_count": 0,
+  "abstract": "BACKGROUND: Sapanisertib (CB-228/TAK-228) is a potent, selective ATP-competitive, dual inhibitor of mTORC1/2. Metformin is thought to inhibit the mTOR pathway through upstream activation of 5'-AMP-activated protein kinase (AMPK) suggesting combination therapy may enhance antitumor activity of sapanisertib. We report preliminary safety, tolerability, and efficacy from the dose-escalation study of sapanisertib in combination with metformin in patients with advanced solid tumors.\nMETHODS: Patients with advanced metastatic solid tumors resistant or refractory to standard treatment, with and without mTOR/AKT/PI3K pathway alterations, received sapanisertib 3 or 4 mg daily together with metformin once to three times daily (500-1,500 mg). All patients underwent 14-day titration period for metformin in cycle 1. Tumor measurements were performed following cycle 2 and subsequently every 8 weeks.\nRESULTS: A total of 30 patients were enrolled across four cohorts (3 mg/500 mg; 3 mg/1,000 mg, 4 mg/1,000 mg; 4 mg/1,500 mg). 19 were female (63%), median age was 57 (range: 30-77), all were Eastern Cooperative Oncology Group performance status 1. Tumor types included sarcoma (6), breast (4), ovarian (4), head and neck (3), colorectal (2), lung (2), renal cell (2), endometrial (2), gastroesophageal junction (1), prostate (1), stomach (1), urachus (1), and cervical cancer (1). Median number of prior lines of therapy was 4. Most common genomic alterations included PIK3CA (27%), PTEN (17%), AKT1/2 (10%), mTOR (10%). Of 30 patients evaluable for response, 4 patients achieved partial response (PR); 15 patients achieved stable disease (SD) as best response. Disease control rate (PR+SD) was 63%. Of the responders in PR, 3 of 4 patients had documented PTEN mutations (3/5 patients enrolled with PTEN mutations had PR); 2 of 4 of patients in PR had comutations (patient with leiomyosarcoma had both PTEN and TSC; patient with breast cancer had both PTEN and STK11); 1 of 4 patients in PR had AKT and mTOR mutation; tumor types included leiomyosarcoma (n = 2), breast (n = 1), and endometrial cancer (n = 1). Most common treatment-emergent adverse events included nausea, anorexia, diarrhea, and rash. Grade (G) 3-5 treatment-related adverse events included hyperglycemia (4/30; 13%), fatigue (2/30; 7%), hypertriglyceridemia (1/30; 3%), rash (2/20; 7%), diarrhea (2/30; 7%), creatinine increase (1/30; 3%), acidosis (1/30; 3%). No dose-limiting toxicities (DLT) were reported in the 3 mg/500 mg cohort. One of 6 patient had DLT in the 3 mg/1,000 mg cohort (G3 diarrhea) and 2 of 11 patients had DLTs in the 4 mg/1,500 mg cohort (G3 fatigue, G3 rash). 4 mg/1,000 mg was defined as the MTD.\nCONCLUSIONS: The safety profile of mTORC1/2 inhibitor sapanisertib in combination with metformin was generally tolerable, with antitumor activity observed in patients with advanced malignancies harboring PTEN mutations and AKT/mTOR pathway alterations.\nSIGNIFICANCE: Sapanisertib (CB-228/TAK-228) is a potent, selective ATP-competitive, next-generation dual inhibitor of mTORC1/2. Metformin is thought to inhibit the mTOR pathway through upstream activation of AMPK suggesting combination therapy may enhance antitumor activity of sapanisertib. This dose-escalation study of sapanisertib and metformin in advanced solid tumors and mTOR/AKT/PI3K pathway alterations, demonstrates safety, tolerability, and early clinical activity in advanced malignancies harboring PTEN mutations and AKT/mTOR pathway alterations.Clinical trial information: NCT03017833.",
+  "type": "academic",
+  "pdf_url": ""
+}

@@ -1,0 +1,33 @@
+{
+  "id": "src-131",
+  "title": "Regulation of CXCR4 Expression by Taurine in Macrophage-Like Cells",
+  "authors": [
+    "Satsu, Hideo",
+    "Fukumura, Midori",
+    "Watari, Kenji"
+  ],
+  "year": 2022,
+  "abstract": "",
+  "doi": "10.1007/978-3-030-93337-1_4",
+  "url": "https://doi.org/10.1007/978-3-030-93337-1_4",
+  "pdf_url": "",
+  "venue": "Advances in Experimental Medicine and Biology",
+  "citation_count": 1,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-19T11:58:29.825088+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-131.md",
+  "quality_details": {
+    "content_length": 13001,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

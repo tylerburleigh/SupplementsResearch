@@ -1,0 +1,29 @@
+{
+  "id": "src-371",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://vitamindwiki.com/pages/review-of-vitamin-d-deficiencies-in-developing-countries",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-21T21:27:51.413884+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-371.md",
+  "quality_details": {
+    "content_length": 64211,
+    "alpha_ratio": 0.745,
+    "sentence_count": 1108,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

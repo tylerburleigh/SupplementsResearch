@@ -1,0 +1,17 @@
+33	2	1. Introduction
+61	2	2 BioMedResearchInternational
+101	2	2. Materials and Methods
+248	2	3. Results
+278	2	4 BioMedResearchInternational
+285	2	Nmibc
+288	2	Mibc
+299	2	1 H incubation
+300	2	2 H incubation
+340	2	4. Discussion
+486	2	5. Conclusions
+496	2	6 BioMedResearchInternational
+499	2	Data Availability
+510	2	Acknowledgments
+514	2	References
+654	2	Inflam Mation
+713	2	Aids

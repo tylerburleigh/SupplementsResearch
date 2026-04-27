@@ -1,0 +1,22 @@
+{
+  "id": "src-056",
+  "title": "Microorganisms: A Potential Source of Bioactive Molecules for Antioxidant Applications",
+  "authors": [
+    "Rani, Alka",
+    "Saini, Khem Chand",
+    "Bast, Felix",
+    "Mehariya, Sanjeet",
+    "Bhatia, Shashi Kant",
+    "Lavecchia, Roberto",
+    "Zuorro, Antonio"
+  ],
+  "doi": "10.3390/molecules26041142",
+  "url": "https://openalex.org/W3130059566",
+  "provider": "openalex",
+  "year": 2021,
+  "venue": "Molecules",
+  "citation_count": 150,
+  "abstract": "Oxidative stress originates from an elevated intracellular level of free oxygen radicals that cause lipid peroxidation, protein denaturation, DNA hydroxylation, and apoptosis, ultimately impairing cell viability. Antioxidants scavenge free radicals and reduce oxidative stress, which further helps to prevent cellular damage. Medicinal plants, fruits, and spices are the primary sources of antioxidants from time immemorial. In contrast to plants, microorganisms can be used as a source of antioxidants with the advantage of fast growth under controlled conditions. Further, microbe-based antioxidants are nontoxic, noncarcinogenic, and biodegradable as compared to synthetic antioxidants. The present review aims to summarize the current state of the research on the antioxidant activity of microorganisms including actinomycetes, bacteria, fungi, protozoa, microalgae, and yeast, which produce a variety of antioxidant compounds, i.e., carotenoids, polyphenols, vitamins, and sterol, etc. Special emphasis is given to the mechanisms and signaling pathways followed by antioxidants to scavenge Reactive Oxygen Species (ROS), especially for those antioxidant compounds that have been scarcely investigated so far.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/1420-3049/26/4/1142/pdf?version=1614941672"
+}

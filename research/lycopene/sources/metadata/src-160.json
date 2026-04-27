@@ -1,0 +1,22 @@
+{
+  "id": "src-160",
+  "title": "Lycopene attenuates trimethylamine-N-oxide-induced senescence in endothelial progenitor cells via the AMPK/SIRT1 pathway.",
+  "authors": [
+    "Liu, Yanfeng",
+    "Liu, Zhenhao",
+    "Tu, Tengcan",
+    "Liu, Hao",
+    "Tan, Chujun",
+    "Feng, Dan",
+    "Zou, Jun"
+  ],
+  "doi": "10.1080/10641963.2025.2487891",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40190067",
+  "provider": "pubmed",
+  "year": 2025,
+  "venue": "Clinical and experimental hypertension (New York, N.Y. : 1993)",
+  "citation_count": 0,
+  "abstract": "Aging-related diseases, which are associated with the senescence of endothelial progenitor cells (EPCs), are consistently accompanied by elevated levels of circulating trimethylamine-N-oxide (TMAO), a marker predictive of poor prognosis. Lycopene (Lyc) deficiency has been demonstrated to be linked to these age-related diseases. The AMPK/SIRT1 pathway plays a pivotal role in cellular senescence. In this study, we hypothesize that lycopene could mitigate TMAO-induced EPCs senescence, with involvement of the AMPK/SIRT1 pathway. EPCs were subjected to treatment with TMAO, Lyc, small interfering RNA targeting AMP-activated protein kinase (siAMPK), or sirtin-1 (siSIRT1). The biological functions of EPCs were evaluated through, CCK-8, transwell and tube formation assays, while their senescence was assessed via SA-β-gal activity assay and Western blotting. ROS generation was measured using dichlorodihydrofluorescein diacetate staining. TMAO-induced suppression of EPCs' functionality was alleviated by Lyc, but this effect was reversed by siAMPK and siSIRT1. TMAO increased SA-β-gal-positive cell number and ROS production, while reducing the expression of AMPK and SIRT1. These effects were attenuated by Lyc. However, the protective effects were diminished by siAMPK and siSIRT1. In conclusion, Lyc ameliorates TMAO-induced EPCs senescence through the AMPK/SIRT1 pathway.",
+  "type": "academic",
+  "pdf_url": ""
+}

@@ -1,0 +1,20 @@
+{
+  "id": "src-209",
+  "title": "Extension of chronological life span in yeast by decreased TOR pathway signaling.",
+  "authors": [
+    "Powers, R.",
+    "Kaeberlein, M.",
+    "Caldwell, Seth D",
+    "Kennedy, B.",
+    "Fields, S."
+  ],
+  "doi": "10.1101/gad.1381406",
+  "url": "https://www.semanticscholar.org/paper/0bce5ffae7601acbf63bae596dbd6fd7b50618c3",
+  "provider": "semantic_scholar",
+  "year": 2006,
+  "venue": "Genes & Development",
+  "citation_count": 1003,
+  "abstract": "Chronological life span (CLS) in Saccharomyces cerevisiae, defined as the time cells in a stationary phase culture remain viable, has been proposed as a model for the aging of post-mitotic tissues in mammals. We developed a high-throughput assay to determine CLS for approximately 4800 single-gene deletion strains of yeast, and identified long-lived strains carrying mutations in the conserved TOR pathway. TOR signaling regulates multiple cellular processes in response to nutrients, especially amino acids, raising the possibility that decreased TOR signaling mediates life span extension by calorie restriction. In support of this possibility, removal of either asparagine or glutamate from the media significantly increased stationary phase survival. Pharmacological inhibition of TOR signaling by methionine sulfoximine or rapamycin also increased CLS. Decreased TOR activity also promoted increased accumulation of storage carbohydrates and enhanced stress resistance and nuclear relocalization of the stress-related transcription factor Msn2. We propose that up-regulation of a highly conserved response to starvation-induced stress is important for life span extension by decreased TOR signaling in yeast and higher eukaryotes.",
+  "type": "academic",
+  "pdf_url": "http://genesdev.cshlp.org/content/20/2/174.full.pdf"
+}

@@ -1,0 +1,19 @@
+3	2	Open
+4	2	Original Article
+25	2	Introduction
+29	2	1 The incidence of
+37	2	4 Prostate cancer incidence and mortality varies globally,
+40	2	5 Several hypotheses have been
+84	2	Participants And Methods
+243	2	25 Unknown values were categorised as
+255	2	Results
+514	2	Discussion
+594	2	29 Prostate cancer screening history was
+685	2	6 These dietary components were not associated in
+692	2	32 Previously, the EPIC con-
+710	2	37 In this study, there was no overall relationship between
+801	2	44 Future studies will need to
+807	2	Conclusions
+811	2	Conflict Of Interest
+813	2	Acknowledgements
+836	2	References

@@ -1,0 +1,27 @@
+{
+  "id": "src-025",
+  "title": "Effect of multivitamin-mineral supplementation versus placebo on cognitive function: Results from the clinic sub-cohort of the COSMOS randomized clinical trial and meta-analysis of three cognitive studies within COSMOS.",
+  "authors": [
+    "Vyas, Chirag M.",
+    "Manson, J.",
+    "Sesso, H.",
+    "Cook, Nancy R.",
+    "Rist, P.",
+    "Weinberg, Alison",
+    "Moorthy, M. V.",
+    "Baker, Laura D.",
+    "Espeland, M.",
+    "Yeung, Lok-Kin",
+    "Brickman, A.",
+    "Okereke, Olivia I."
+  ],
+  "doi": "10.1016/j.ajcnut.2023.12.011",
+  "url": "https://www.semanticscholar.org/paper/e366d64ecf96a7f2a3fe4ccda2fabbe174176bef",
+  "provider": "semantic_scholar",
+  "year": 2023,
+  "venue": "American Journal of Clinical Nutrition",
+  "citation_count": 24,
+  "abstract": "BACKGROUND\nLonger effects of multivitamin-mineral (MVM) supplementation on late-life cognitive function remain untested using in-person, detailed neuropsychological assessments. Furthermore, insufficient evidence exists for healthcare providers to recommend daily MVM supplements to prevent cognitive decline.\n\nOBJECTIVES\nTo: 1) test MVM effects on cognitive change using in-person, detailed neuropsychological assessments; 2) conduct a meta-analysis within COSMOS (COcoa Supplement and Multivitamin Outcomes Study) cognitive sub-studies for a robust evaluation of MVM effects on cognition.\n\nDESIGN\nCOSMOS is a 2x2 factorial trial of cocoa extract [500 mg flavanols/day] and/or a daily multivitamin-mineral supplement for cardiovascular disease and cancer prevention among 21,442 US adults aged ≥60 years. There were 573 participants in the clinic sub-cohort of COSMOS (i.e., COSMOS-Clinic) who completed all cognitive tests administered at baseline. For meta-analysis, we included non-overlapping participants across three COSMOS cognitive sub-studies: COSMOS-Clinic (n=573); COSMOS-Mind (n=2158); COSMOS-Web (n=2472).\n\nRESULTS\nIn COSMOS-Clinic, we observed a modest benefit of MVM, compared to placebo, on global cognition over 2 years [mean difference (95% confidence interval (CI))=0.06 standard deviation units (SU) (-0.003, 0.13)], with a significantly more favorable change in episodic memory [mean difference (95% CI)=0.12 SU (0.002, 0.23)] but not in executive function/attention [mean difference (95% CI)=0.04 SU (-0.04, 0.11)]. Meta-analysis of COSMOS sub-studies showed clear evidence of MVM benefits on global cognition [mean difference (95% CI)=0.07 SU (0.03, 0.11); p=0.0009] and episodic memory [mean difference (95% CI)=0.06 SU (0.03, 0.10); p=0.0007]; magnitude of effect on global cognition was equivalent to reducing cognitive aging by 2 years.\n\nCONCLUSIONS\nIn COSMOS-Clinic, daily MVM supplementation led to a significantly more favorable 2-year change in episodic memory. The meta-analysis within COSMOS cognitive sub-studies indicated that daily MVM significantly benefited both global cognition and episodic memory. These findings within the COSMOS trial support the benefits of a daily MVM in preventing cognitive decline among older adults.\n\nTRIAL REGISTRATION\ni) COSMOS - ClinicalTrials.gov identifier: NCT02422745, URL: https://www.\n\nCLINICALTRIALS\ngov/study/NCT02422745; ii) COSMOS-Mind - ClinicalTrials.gov identifier: NCT03035201, URL: https://clinicaltrials.gov/study/NCT03035201; iii) COSMOS-Web - ClinicalTrials.gov identifier: NCT04582617, URL: https://clinicaltrials.gov/study/NCT04582617.",
+  "type": "academic",
+  "pdf_url": ""
+}

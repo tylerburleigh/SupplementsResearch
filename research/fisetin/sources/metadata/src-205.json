@@ -1,0 +1,24 @@
+{
+  "id": "src-205",
+  "title": "Co-Encapsulation of Fisetin and Cisplatin into Liposomes for Glioma Therapy: From Formulation to Cell Evaluation.",
+  "authors": [
+    "Renault-Mahieux, Morgane",
+    "Vieillard, Victoire",
+    "Seguin, Johanne",
+    "Espeau, Philippe",
+    "Le, Dang Tri",
+    "Lai-Kuen, René",
+    "Mignet, Nathalie",
+    "Paul, Muriel",
+    "Andrieux, Karine"
+  ],
+  "doi": "10.3390/pharmaceutics13070970",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34206986",
+  "provider": "pubmed",
+  "year": 2021,
+  "venue": "Pharmaceutics",
+  "citation_count": 0,
+  "abstract": "(1) Background: Glioblastoma (GBM) is the most frequent cerebral tumor. It almost always relapses and there is no validated treatment for second-line GBM. We proposed the coencapsulation of fisetin and cisplatin into liposomes, aiming to (i) obtain a synergistic effect by combining the anti-angiogenic effect of fisetin with the cytotoxic effect of cisplatin, and (ii) administrate fisetin, highly insoluble in water. The design of a liposomal formulation able to encapsulate, retain and deliver both drugs appeared a challenge. (2) Methods: Liposomes with increasing ratios of cholesterol/DOPC were prepared and characterized in term of size, PDI and stability. The incorporation of fisetin was explored using DSC. The antiangiogneic and cytotoxic activities of the selected formulation were assayed in vitro. (3) Results: We successfully developed an optimized liposomal formulation incorporating both drugs, composed by DOPC/cholesterol/DODA-GLY-PEG2000 at a molar ratio of 75.3/20.8/3.9, with a diameter of 173 ± 8 nm (PDI = 0.12 ± 0.01) and a fisetin and cisplatin drug loading of 1.7 ± 0.3% and 0.8 ± 0.1%, respectively, with a relative stability over time. The maximum incorporation of fisetin into the bilayer was determined at 3.2% w/w. Then, the antiangiogenic activity of fisetin was maintained after encapsulation. The formulation showed an additive effect of cisplatin and fisetin on GBM cells; (4) Conclusions: The developed co-loaded formulation was able to retain the activity of fisetin, was effective against GBM cells and is promising for further in vivo experimentations.",
+  "type": "academic",
+  "pdf_url": ""
+}

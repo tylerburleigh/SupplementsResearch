@@ -1,0 +1,30 @@
+{
+  "id": "src-012",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "https://www.greenskybio.com/green_tea_extract/38071.html",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "web",
+  "provider": "",
+  "fetched_at": "2026-04-23T01:11:04.324526+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-012.md",
+  "quality_details": {
+    "content_length": 104,
+    "alpha_ratio": 0.827,
+    "sentence_count": 0,
+    "reasons": [
+      "content too short (104 chars < 500)",
+      "few sentences detected (0 < 3)"
+    ]
+  }
+}

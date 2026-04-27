@@ -1,0 +1,189 @@
+3	2	Health Technology Assessment
+117	2	Abstract
+186	2	Abstract
+288	2	Contents
+400	2	List Of Tables
+470	2	Fev
+525	2	List Of Abbreviations
+530	2	Background
+547	2	Methods
+619	2	Scientific Summary
+625	2	Results
+721	2	Scientific Summary
+804	2	Conclusions
+816	2	Scientific Summary
+852	2	2 In Asian cohorts in the northern hemisphere the burden is even
+860	2	10 The vitamin D axis is
+966	2	Background
+980	2	25 This finding
+1013	2	31 Cohort studies in adults from the UK, USA,
+1019	2	37 Mother–offspring cohort studies based in Southampton have
+1039	2	1 Whole-body, hip and lumbar spine
+1064	2	Summary
+1081	2	Background
+1108	2	10 Use of sunscreen during the summer may prevent adequate synthesis
+1126	2	10 There is much controversy
+1182	2	64 The distinction between replete and
+1188	2	65 Where a threshold was detected, this varied
+1207	2	Background
+1256	2	75 Again, the conclusion was that there was insufficient
+1261	2	76 Most recently,
+1292	2	Design
+1380	2	Review Methods
+1482	2	Review Methods
+1598	2	Results Of The Review
+1636	2	Discussion
+1701	2	Discussion
+1709	2	Results Of The Review
+1743	2	Discussion
+1819	2	Results Of The Review
+1823	2	Discussion
+1893	2	Discussion
+1934	2	Results Of The Review
+1986	2	Discussion
+2054	2	Results Of The Review
+2084	2	Discussion
+2155	2	Discussion
+2167	2	Results Of The Review
+2198	2	Discussion
+2241	2	Discussion
+2277	2	Results Of The Review
+2322	2	Discussion
+2366	2	Discussion
+2379	2	Discussion
+2385	2	Results Of The Review
+2504	2	Results Of The Review
+2508	2	Discussion
+2582	2	Discussion
+2622	2	Results Of The Review
+2626	2	Discussion
+2658	2	Discussion
+2690	2	Results Of The Review
+2730	2	71 A further issue was the frequent lack of documentation of the gestational age at
+2794	2	Summary Discussion
+2873	2	Acknowledgements
+2926	2	Acknowledgements
+2930	2	References
+3027	2	References
+3127	2	References
+3231	2	References
+3336	2	References
+3408	2	References
+3671	2	Sign
+3673	2	Nice
+3698	2	1. Setting
+3699	2	2. Study design
+3700	2	3. Outcome measured
+3701	2	4. Statistical techniques used
+3702	2	5. Confounding factors adjusted for
+3703	2	6. Cohort size
+3704	2	7. Number of subjects studied for outcome
+3727	2	11. Response rates for:
+3732	2	13. Sample sizes for:
+3756	2	1. Setting
+3757	2	2. Study design
+3758	2	3. Outcome measured
+3759	2	4. Statistical techniques used
+3761	2	5. Confounding factors adjusted for
+3762	2	6. Cohort size
+3763	2	7. Number of subjects studied for outcome
+3767	2	11. Duration of follow-up
+3784	2	6. Are details of the study medication given
+3792	2	13. What proportion of the cohort completed the trial
+3795	2	16. Sample size
+3813	2	1. Setting
+3814	2	2. Study design
+3815	2	3. Outcome measured
+3816	2	4. Statistical techniques used
+3817	2	5. Confounding factors adjusted for
+3818	2	6. Cohort size
+3819	2	7. Number of subjects studied for outcome
+3838	2	6. Measures of later outcomes objective
+3844	2	11. Information on non-participants
+3846	2	13. Sample size
+3860	2	1. Case definition explicit
+3874	2	2. How is maternal vitamin
+3883	2	3. Participants grouped
+3899	2	4. Measurements of
+3914	2	5. Measurements of later
+3924	2	6. Control selection
+3948	2	7. Measures of vitamin D
+3966	2	8. Setting and population
+3981	2	9. Outcome assessment
+3999	2	10. Analysis rigorous
+4016	2	11. Response rates for:
+4024	2	12. Information on
+4041	2	13. Sample sizes for:
+4049	2	14. Adequate consideration
+4078	2	1. Study design
+4093	2	2. Adequate description of
+4112	2	3. How is maternal
+4124	2	4. Participants grouped
+4141	2	5. Measurements of
+4156	2	6. Measurements of later
+4166	2	7. Measures of vitamin D
+4181	2	8. Consideration for the
+4200	2	9. Outcome assessment
+4207	2	10. What proportion
+4229	2	11. Information on
+4242	2	12. Analysis rigorous
+4258	2	13. Sample size Extremely ambiguous, not
+4270	2	1. Study
+4285	2	2. Are CONSORT
+4293	2	3. Adequate description of
+4312	2	4. Is randomisation
+4319	2	5. Is there placebo control
+4328	2	6. Are details of the study
+4336	2	7. Is change in maternal
+4340	2	8. Are details of the
+4347	2	9. Measurements of
+4362	2	10. Measurements of later
+4372	2	11. Measures of vitamin D
+4387	2	12. Consideration for the
+4419	2	13. What proportion of the
+4427	2	14. Information on
+4441	2	15. Analysis rigorous
+4453	2	16. Sample size Extremely ambiguous, not
+4511	2	Design
+4517	2	Participants
+4535	2	133 Low Low Low Medium Low Medium Medium Medium
+4561	2	Analysis
+4562	2	11. Response rates
+4565	2	Participants
+4566	2	13. Sample size
+4603	2	Design
+4623	2	103 Medium Low Low Low Medium Low Medium
+4674	2	Participants
+4676	2	Analysis
+4732	2	Design
+4752	2	111 Low Medium Medium High Low Low Medium
+4779	2	Participants
+4781	2	Analysis
+4814	2	Design
+4816	2	Consort
+4838	2	3 Medium High Medium Medium Low Medium Low Medium
+4872	2	Analysis
+4940	2	Analysis
+5744	2	1200 IU vitamin D
+7371	2	Bmd
+7638	2	Bmd
+7642	2	1. Adjusted for z-score birthweight
+7812	2	Bmd
+7986	2	Bmc
+9217	2	Analysis
+9343	2	Usa
+9375	2	Sga
+9666	2	Sga
+10453	2	Lbw
+10507	2	Analysis
+11360	2	Usa
+11571	2	Usa
+11972	2	Usa
+12198	3	37.8 Not given Not given No significant association
+12282	2	Usa
+12463	2	Analysis
+12563	2	Analysis
+12694	2	Analysis
+13130	2	Eme
+13132	2	Hta
+13134	2	Phr

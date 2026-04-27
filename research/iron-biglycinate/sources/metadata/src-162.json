@@ -1,0 +1,19 @@
+{
+  "id": "src-162",
+  "title": "Sleep duration and all-cause mortality in the elderly in China: a population-based cohort study",
+  "authors": [
+    "Ren, Yanfeng",
+    "Miao, M.",
+    "Yuan, W.",
+    "Sun, Jiangwei"
+  ],
+  "doi": "10.1186/s12877-020-01962-5",
+  "url": "https://www.semanticscholar.org/paper/0ca28e4be65e0ca8e6c745eeca57ba060ad0bf25",
+  "provider": "semantic_scholar",
+  "year": 2020,
+  "venue": "BMC Geriatrics",
+  "citation_count": 38,
+  "abstract": "Background Although a U-shaped association between sleep duration and all-cause mortality has been found in general population, its association in the elderly adults, especially in the oldest-old, is rarely explored. Methods In present cohort study, we prospectively explore the association between sleep duration and all-cause mortality among 15,092 participants enrolled in the Chinese Longitudinal Healthy Longevity Survey (CLHLS) from 2005 to 2019. Sleep duration and death information was collected by using structured questionnaires. Cox regression model with sleep duration as a time-varying exposure was performed to calculate the hazard ratios (HRs) and 95% confidence intervals (CIs). The dose-response association between them was explored via a restricted cubic spline function. Results During an average follow-up of 4.51 (standard deviation, SD: 3.62) years, 10,768 participants died during the follow-up period. The mean (SD) age of the participants was 89.26 (11.56) years old. Compared to individuals with moderate sleep duration (7–8 hours), individuals with long sleep duration (> 8 hours) had a significantly higher risk of all-cause mortality (HR: 1.13, 95%CI: 1.09–1.18), but not among individuals with short sleep duration (≤ 6 hours) (HR: 1.02, 95%CI: 0.96–1.09). Similar results were observed in subgroup analyses based on age and gender. In the dose-response analysis, a J-shaped association was observed. Conclusions Sleep duration was associated with all-cause mortality in a J-shaped pattern in the elderly population in China.",
+  "type": "academic",
+  "pdf_url": "https://bmcgeriatr.biomedcentral.com/track/pdf/10.1186/s12877-020-01962-5"
+}

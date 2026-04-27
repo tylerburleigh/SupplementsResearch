@@ -1,0 +1,23 @@
+{
+  "id": "src-343",
+  "title": "Curcumin-incorporated EGCG-based nano-antioxidants alleviate colon and kidney inflammation via antioxidant and anti-inflammatory therapy",
+  "authors": [
+    "Pan, Qingqing",
+    "Xie, Li",
+    "Zhu, Huang",
+    "Zong, Zhihui",
+    "Wu, Di",
+    "Liu, Rong",
+    "He, Bin",
+    "Pu, Yujie"
+  ],
+  "doi": "10.1093/rb/rbae122",
+  "url": "https://www.semanticscholar.org/paper/a73c3c4deb713c7eaf5db74a4fa89387ad8f1952",
+  "provider": "semantic_scholar",
+  "year": 2024,
+  "venue": "Regenerative Biomaterials",
+  "citation_count": 60,
+  "abstract": "Abstract Natural remedies are gaining attention as promising approaches to alleviating inflammation, yet their full potential is often limited by challenges such as poor bioavailability and suboptimal therapeutic effects. To overcome these limitations, we have developed a novel nano-antioxidant (EK) based on epigallocatechin gallate (EGCG) aimed at enhancing the oral and systemic bioavailability, as well as the anti-inflammatory efficacy, of curcumin (Cur) in conditions such as acute colon and kidney inflammation. EK is synthesized using a straightforward Mannich reaction between EGCG and L-lysine (K), resulting in the formation of EGCG oligomers. These oligomers spontaneously self-assemble into nanoparticles with a spherical morphology and an average diameter of approximately 160 nm. In vitro studies reveal that EK nanoparticles exhibit remarkable radical-scavenging capabilities and effectively regulate redox processes within macrophages, a key component in the body’s inflammatory response. By efficiently encapsulating curcumin within these EK nanoparticles, we create Cur@EK, a formulation that demonstrates a synergistic anti-inflammatory effect. Specifically, Cur@EK significantly reduces the levels of pro-inflammatory cytokines TNF-α and IL-6 while increasing the anti-inflammatory cytokine IL-10 in lipopolysaccharide-stimulated macrophages, highlighting its potent anti-inflammatory properties. When administered either orally or intravenously, Cur@EK shows superior bioavailability compared to free curcumin and exhibits pronounced anti-inflammatory effects in mouse models of ulcerative colitis and acute kidney injury. These findings suggest that the EK nano-antioxidant platform not only enhances the bioavailability of curcumin but also amplifies its therapeutic impact, offering a promising new avenue for the treatment and management of inflammation in both oral and systemic contexts.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.1093/rb/rbae122"
+}

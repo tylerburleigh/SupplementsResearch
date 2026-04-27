@@ -1,0 +1,21 @@
+{
+  "id": "src-176",
+  "title": "Effect of omega-3 supplementation on metabolic and inflammatory markers in adults with HIV infection: a systematic review and meta-analysis",
+  "authors": [
+    "Bai, Jie",
+    "Cao, Yuanxing",
+    "Wang, Lichao",
+    "Ni, Jiankang",
+    "Zhu, Yuyuan",
+    "Wei, Tong-jian"
+  ],
+  "doi": "10.3389/fnut.2026.1746723",
+  "url": "https://www.semanticscholar.org/paper/87d805abc84362e774d78ac9bac52202ff874794",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "Frontiers in Nutrition",
+  "citation_count": 0,
+  "abstract": "Background People living with human immunodeficiency virus (HIV) infection frequently exhibit altered lipid profiles and persistent inflammation that contribute to long-term morbidity. Omega-3 fatty acids are commonly recommended in this population, but the magnitude and consistency of their benefits remain uncertain. This study aimed to precisely re-estimate the effects of omega-3 supplementation compared with control on selected metabolic (lipid profile) and inflammatory biomarkers (C-reactive protein, CRP), IL-6, and TNF-α in adults with HIV. Methods We searched PubMed/MEDLINE, Web of Science, and Scopus databases from 1965 to September 2025 for randomized trials reporting lipid or inflammatory biomarkers in adults with HIV. Eligible studies included participants aged 18 years or older and provided the exact numeric triplets required for reproduction (N, mean change or endpoint, and SD). Risk of bias was assessed using RoB 2. All analyses, figures, funnel plots, Egger and Begg tests, and subgroup tests were reproduced exactly from the investigator-supplied Stata 17.0. To explore heterogeneity, we conducted subgroup analyses and meta-regression analyses using study-level percentages of male participants and follow-up duration in months extracted from the data sheets; outcomes with fewer than 3 usable studies were not pooled. Results Twenty-one trials supplying the exact numeric triplets met the inclusion criteria, representing 1,118 participants in total. The reproduced pooled analyses included total cholesterol (n = 15), High-Density Lipoprotein Cholestrol (HDL-C) (n = 13), triglycerides (n = 13), Low-Density (LDL-C) (n = 11), Interleukin-6 Lipoprotein Cholestrol (IL-6) (n = 4), CRP (n = 8), apolipoprotein (Apo A) (n = 4), and Apo B (n = 4). Using only the numeric outcome values explicitly reported in the included studies, we observed a modest, non-significant increase in HDL-C (weighted mean difference [WMD] 0.02 mg/dL, 95% CI –1.01–0.06) and a clear reduction in triglycerides (WMD − 0.86 mg/dL, 95% CI −1.18 to −0.54), while findings for total cholesterol and LDL-C were inconsistent and imprecise. Conclusion In adults with HIV, omega-3 supplementation was associated with small, insignificant increases in HDL-C and meaningful reductions in triglycerides, whereas effects on other lipid fractions were inconsistent. Omega-3 supplementation was associated with a consistent reduction in CRP and modest improvements in other inflammatory biomarkers such as IL-6, while evidence for TNF-α remains inconclusive.",
+  "type": "academic",
+  "pdf_url": ""
+}

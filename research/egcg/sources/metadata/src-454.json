@@ -1,0 +1,25 @@
+{
+  "id": "src-454",
+  "title": "Aging is associated with hypermethylation of autophagy genes in macrophages.",
+  "authors": [
+    "Khalil, Hany",
+    "Tazi, Mia",
+    "Caution, Kyle",
+    "Ahmed, Amr",
+    "Kanneganti, Apurva",
+    "Assani, Kaivon",
+    "Kopp, Benjamin",
+    "Marsh, Clay",
+    "Dakhlallah, Duaa",
+    "Amer, Amal O"
+  ],
+  "doi": "10.1080/15592294.2016.1144007",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/26909551",
+  "provider": "pubmed",
+  "year": 2016,
+  "venue": "Epigenetics",
+  "citation_count": 0,
+  "abstract": "Autophagy is a biological process characterized by self-digestion and involves induction of autophagosome formation, leading to degradation of autophagic cargo. Aging is associated with the reduction of autophagy activity leading to neurodegenerative disorders, chronic inflammation, and susceptibility to infection; however, the underlying mechanism is unclear. DNA methylation by DNA methyltransferases reduces the expression of corresponding genes. Since macrophages are major players in inflammation and defense against infection we determined the differences in methylation of autophagy genes in macrophages derived from young and aged mice. We found that promoter regions of Atg5 and LC3B are hypermethylated in macrophages from aged mice and this is accompanied by low gene expression. Treatment of aged mice and their derived macrophages with methyltransferase inhibitor (2)-epigallocatechin-3-gallate (EGCG) or specific DNA methyltransferase 2 (DNMT2) siRNA restored the expression of Atg5 and LC3 in vivo and in vitro. Our study builds a foundation for the development of novel therapeutics aimed to improve autophagy in the elderly population and suggests a role for DNMT2 in DNA methylation activities.",
+  "type": "academic",
+  "pdf_url": ""
+}

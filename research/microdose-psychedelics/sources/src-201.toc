@@ -1,0 +1,36 @@
+10	2	Confidential
+15	2	Disclosures
+17	2	Confidential
+33	2	Bias And Blinding Go Together
+41	2	Confidential
+52	2	Complications In Psychedelic Research
+55	2	Confidential
+67	2	Confidential
+87	2	Confidential
+90	2	Confidential
+136	2	Confidential
+142	2	Data On Blinding Integrity
+145	2	Confidential
+146	2	Data On Expectancy Bias
+149	2	Confidential
+150	2	Data On Expectancy Bias
+165	2	Confidential
+166	2	Data On Expectancy Bias
+171	2	Confidential
+182	2	Psychedelic Study Data On Expectancy Bias
+188	2	Confidential
+202	2	Confidential
+214	2	Confidential
+222	2	Confidential
+239	2	Should We Formally Assess
+243	2	Confidential
+253	2	Confidential
+267	2	Confidential
+281	2	Confidential
+287	2	Future Directions
+289	2	Confidential
+313	2	References
+315	2	Confidential
+338	2	References
+340	2	Confidential
+352	2	References

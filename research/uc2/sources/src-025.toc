@@ -1,0 +1,22 @@
+10	2	Abstract
+43	2	Introduction
+68	2	Materials And Methods
+393	2	Results
+532	2	Method
+534	2	Analysis
+557	2	Comp
+560	2	Method
+562	2	Analysis
+651	2	Discussion
+840	2	Conclusion
+866	2	Ucii
+924	2	Competing Interests
+936	2	Acknowledgements
+958	2	References
+993	2	12. Lotz M, Martel-Pelletier J, Christiansen C, Brandi ML, Bruyere O,
+1017	2	18. Asnagli H, Martire D, Belmonte N, Quentin J, Bastian H, Boucard-Jourdin M,
+1021	2	19. Broere F, Wieten L, Klein Koerkamp EI, van Roon JA, Guichelaar T, Lafeber
+1038	2	24. Van Vijven JP, Luijsterburg PA, Verhagen AP, van Osch GJ, Kloppenburg M,
+1055	2	29. Hochberg MC, Martel-Pelletier J, Monfort J, Moller I, Castillo JR, Arden N
+1065	2	31. Andersson ML, Petersson IF, Karlsson KE, Jonsson EN, Mansson B, Heinegard
+1069	2	32. Andersson ML, Thorstensson CA, Roos EM, Petersson IF, Heinegard D, Saxne

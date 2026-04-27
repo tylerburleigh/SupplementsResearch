@@ -1,0 +1,21 @@
+{
+  "id": "src-148",
+  "title": "Is hyperhomocysteinemia a causal factor for heart failure? The impact of the functional variants of MTHFR and PON1 on ischemic and non-ischemic etiology.",
+  "authors": [
+    "Strauss, Ewa",
+    "Supinski, Wieslaw",
+    "Radziemski, Artur",
+    "Oszkinis, Grzegorz",
+    "Pawlak, Andrzej Leon",
+    "Gluszek, Jerzy"
+  ],
+  "doi": "10.1016/j.ijcard.2016.11.213",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/27863359",
+  "provider": "pubmed",
+  "year": 2017,
+  "venue": "International journal of cardiology",
+  "citation_count": 0,
+  "abstract": "BACKGROUND: Hyperhomocysteinemia was found to be uniformly associated with the development of heart failure (HF) and HF mortality; however, it is uncertain whether this relation is causative or not. We used Mendelian randomization to examine the associations of the methylene tetrahydrofolate gene (MTHFR) and paraoxonase 1 gene (PON1) variants as a proxy for lifelong exposure to high Hcy and Hcy-thiolactone concentrations with the development of HF in men aged ≤60years and the occurrence of adverse effects at one-year follow-up.\nMETHODS: The study enrolled 172 men with HF: 117 with ischemic etiology (iHF) related to coronary artery disease (CAD) and 55 with non-ischemic etiology (niHF) related to dilated cardiomyopathy (DCM). The reference group of 329 CAD patients without HF and the control group of 384 men were also analyzed.\nRESULTS: Hyperhomocysteinemia (OR=2.0, P<0.05) and the MTHFR 677TT/1298AA, 677CC/1298CC genotypes (OR=1.6, P=0.03) were associated with HF regardless of its etiology, especially among normotensives (OR=4.6, P=0.001 and OR=2.3, P=0.003, respectively). In niHF, the PON1 162AA (OR=2.3, P=0.03) and 575AG+GG (OR=0.46, P=0.01) genotypes also influenced the risk. The interaction between HDLC<1mmol/L and the PON1 575GG genotype was found to influence the risk of iHF (OR=7.2, P=0.009). Hyperhomocysteinemia improved the classification of niHF patients as 'high-risk' by 10.1%. Ejection fraction <30% and DCM increased the probability of HF death or re-hospitalization within one year.\nCONCLUSION: Our results provide evidence that hyperhomocysteinemia is a causal factor for niHF in DCM, while dysfunctional HDL could contribute to the pathogenesis of iHF.",
+  "type": "academic",
+  "pdf_url": ""
+}

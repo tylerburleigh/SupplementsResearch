@@ -1,0 +1,17 @@
+{
+  "id": "src-147",
+  "title": "Quercetin Prevents LPS-Induced Oxidative Stress and Inflammation by Modulating NOX2/ROS/NF-kB in Lung Epithelial Cells.",
+  "authors": [
+    "Sul, Ok-Joo",
+    "Ra, Seung Won"
+  ],
+  "doi": "10.3390/molecules26226949",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34834040",
+  "provider": "pubmed",
+  "year": 2021,
+  "venue": "Molecules (Basel, Switzerland)",
+  "citation_count": 0,
+  "abstract": "Oxidative stress caused by the production of reactive oxygen species (ROS) plays a major role in inflammatory processes. We hypothesized that modulation of ROS via quercetin may protect against oxidative stress and inflammation. Thus, this study aimed to investigate the effects of quercetin on oxidative stress and inflammation in lung epithelial A549 cells. The lipopolysaccharide (LPS)-induced elevation of intracellular ROS levels was reduced after quercetin treatment, which also almost completely abolished the mRNA and protein expression of nicotinamide adenine dinucleotide phosphate oxidase 2 (NOX2) induced by LPS stimulation. In addition, quercetin suppressed the nuclear translocation of nuclear factor kappa B (NF-κB) and reduced levels of inflammatory cytokine tumor necrosis factor (TNF)-α, interleukin (IL)-1, and IL-6, which had increased significantly after LPS exposure. Our data demonstrated that quercetin decreased ROS-induced oxidative stress and inflammation by suppressing NOX2 production.",
+  "type": "academic",
+  "pdf_url": ""
+}

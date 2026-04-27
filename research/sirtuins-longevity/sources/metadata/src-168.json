@@ -1,0 +1,24 @@
+{
+  "id": "src-168",
+  "title": "Sarcopenia and Muscle Aging: A Brief Overview",
+  "authors": [
+    "Dao, Tam",
+    "Green, Alex E.",
+    "Kim, Yun-A",
+    "Bae, Sung‐Jin",
+    "Ha, Ki‐Tae",
+    "Gariani, Karim",
+    "Lee, Mi-ra",
+    "Menzies, Keir J.",
+    "Ryu, Dongryeol"
+  ],
+  "doi": "10.3803/enm.2020.405",
+  "url": "https://openalex.org/W3114620049",
+  "provider": "openalex",
+  "year": 2020,
+  "venue": "Endocrinology and Metabolism",
+  "citation_count": 210,
+  "abstract": "The world is facing the new challenges of an aging population, and understanding the process of aging has therefore become one of the most important global concerns. Sarcopenia is a condition which is defined by the gradual loss of skeletal muscle mass and function with age. In research and clinical practice, sarcopenia is recognized as a component of geriatric disease and is a current target for drug development. In this review we define this condition and provide an overview of current therapeutic approaches. We further highlight recent findings that describe key pathophysiological phenotypes of this condition, including alterations in muscle fiber types, mitochondrial function, nicotinamide adenine dinucleotide (NAD+) metabolism, myokines, and gut microbiota, in aged muscle compared to young muscle or healthy aged muscle. The last part of this review examines new therapeutic avenues for promising treatment targets. There is still no accepted therapy for sarcopenia in humans. Here we provide a brief review of the current state of research derived from various mouse models or human samples that provide novel routes for the development of effective therapeutics to maintain muscle health during aging.",
+  "type": "academic",
+  "pdf_url": "https://www.e-enm.org/upload/pdf/enm-2020-405.pdf"
+}

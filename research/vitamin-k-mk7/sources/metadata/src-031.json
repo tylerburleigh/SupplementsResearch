@@ -1,0 +1,40 @@
+{
+  "id": "src-031",
+  "title": "Efficacy of vitamin K2 in the prevention and treatment of postmenopausal osteoporosis: A systematic review and meta-analysis of randomized controlled trials",
+  "authors": [
+    "Ma, Ming-ling",
+    "Ma, Zi-jian",
+    "He, Yi-lang",
+    "Sun, Hao",
+    "Yang, Bin",
+    "Ruan, Bin-jia",
+    "Zhan, Wan-da",
+    "Li, Shi-xuan",
+    "Dong, Hui",
+    "Wang, Yong-xiang"
+  ],
+  "year": 2022,
+  "abstract": "IntroductionVitamin K (VK) as a nutrient, is a cofactor in the carboxylation of osteocalcin (OC), which can bind with hydroxyapatite to promote bone mineralization and increase bone strength. However, some studies have been inconsistent on whether vitamin K2 (VK2) can maintain or improve bone mineral density (BMD) and reduce the incidence of fractures in postmenopausal women. Therefore, the main objective of this meta-analysis was to determine the effect of VK2 as a nutritional supplement on BMD and fracture incidence in postmenopausal women.MethodsWe searched PubMed, EMBASE, and Cochrane Library databases (published before March 17, 2022) and then extracted and pooled data from all randomized controlled trials (RCTs) that met the inclusion criteria.ResultsSixteen RCTs with a total of 6,425 subjects were included in this meta-analysis. The overall effect test of 10 studies showed a significant improvement in lumbar spine BMD (BMD LS) (P = 0.006) with VK2. The subgroup analysis of VK2 combination therapy showed that BMD LS was significantly maintained and improved with the administration of VK2 (P = 0.03). The overall effect test of the six RCTs showed no significant difference in fracture incidence between the two groups (RR=0.96, P=0.65). However, after excluding one heterogeneous study, the overall effect test showed a significant reduction in fracture incidence with VK2 (RR = 0.43, P = 0.01). In addition, this meta-analysis showed that VK2 reduced serum undercarboxylated osteocalcin (uc-OC) levels and the ratio of uc-OC to cOC in both subgroups of VK2 combined intervention and alone. However, for carboxylated osteocalcin (cOC), both subgroup analysis and overall effect test showed no significant effect of VK2 on it. And the pooled analysis of adverse reactions showed no significant difference between the VK2 and control groups (RR = 1.03, 95%CI 0.87 to 1.21, P = 0.76).ConclusionsThe results of this meta-analysis seem to indicate that VK2 supplementation has a positive effect on the maintenance and improvement of BMD LS in postmenopausal women, and it can also reduce the fracture incidence, serum uc-OC levels and the ratio of uc-OC to cOC. In conclusion, VK2 can indirectly promote bone mineralization and increase bone strength.",
+  "doi": "10.3389/fpubh.2022.979649",
+  "url": "https://doi.org/10.3389/fpubh.2022.979649",
+  "pdf_url": "",
+  "venue": "Frontiers in Public Health",
+  "citation_count": 51,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T10:52:57.315653+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-031.md",
+  "quality_details": {
+    "content_length": 45883,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

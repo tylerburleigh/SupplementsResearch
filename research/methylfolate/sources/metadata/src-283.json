@@ -1,0 +1,19 @@
+{
+  "id": "src-283",
+  "title": "Residues 45 and 404 in the murine reduced folate carrier may interact to alter carrier binding and mobility.",
+  "authors": [
+    "Zhao, Rongbao",
+    "Wang, Yanhua",
+    "Gao, Feng",
+    "Goldman, I David"
+  ],
+  "doi": "10.1016/s0005-2736(03)00136-6",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/12832086",
+  "provider": "pubmed",
+  "year": 2003,
+  "venue": "Biochimica et biophysica acta",
+  "citation_count": 0,
+  "abstract": "The reduced folate carrier (RFC), a facilitative transporter, plays a major role in the delivery of reduced folates and antifolates into cells. Previous studies indicated that mutations of E45K in the first transmembrane domain (TMD), and K404L in the 11th TMD, produce selective and opposite alterations in binding of natural folate substrates to murine RFC. The former mutation is frequently associated with antifolate resistance. The current study was designed to determine whether there might be an interaction between these sites by comparing the transport properties of RFC-null cell lines stably transfected with K404E, E45K, or E45K/K404E carriers. These studies demonstrated that: (1) All mutant carriers were inserted into the plasma membrane. (2) In the K404E mutant, the influx K(t)'s for 5-formyltetrahydrofolate and 5-methyltetrahydrofolate were markedly increased, and to a much smaller extent folic acid, as compared to L1210 cells. However, with introduction of a second E45K mutation the influx K(t) for these folates reverted to those of the E45K cells which retained wild-type binding for 5-methyltetrahydrofolate and enhanced binding of 5-formyltetrahydrofolate and folic acid. (3) The influx V(max) of the E45K mutant was markedly reduced. Introduction of the second K404E mutation doubled this parameter and the ratio of V(max) to K(t) for 5-formytetrahydrofolate was restored to approximately 50% that of the wild-type carrier consistent with a substantial increase in function. (4) Chloride inhibits wild-type RFC but the E45K mutant requires chloride for activity. The K404E mutant is also suppressed by chloride but introduction of the K404E mutation decreased the chloride-dependence of E45K. The results suggest that there is an interaction between the E45 and K404 residues in the first and 11th TMDs, respectively, but that the E45 residue appears to be the more dominant determinant of binding and anion sensitivity.",
+  "type": "academic",
+  "pdf_url": ""
+}

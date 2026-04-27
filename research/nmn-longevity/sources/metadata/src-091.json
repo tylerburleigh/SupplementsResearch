@@ -1,0 +1,33 @@
+{
+  "id": "src-091",
+  "title": "Glycolysis-Mediated Activation of v-ATPase by Nicotinamide Mononucleotide Ameliorates Lipid-Induced Cardiomyopathy by Repressing the CD36-TLR4 Axis.",
+  "authors": [
+    "Wang, Shujin",
+    "Han, Yinying",
+    "Liu, Ruimin",
+    "Hou, Mengqian",
+    "Neumann, Dietbert",
+    "Zhang, Jun",
+    "Wang, Fang",
+    "Li, Yumeng",
+    "Zhao, Xueya",
+    "Schianchi, Francesco",
+    "Dai, Chao",
+    "Liu, Lizhong",
+    "Nabben, Miranda",
+    "Glatz, Jan F C",
+    "Wu, Xin",
+    "Lu, Xifeng",
+    "Li, Xi",
+    "Luiken, Joost J F P"
+  ],
+  "doi": "10.1161/circresaha.123.322910",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38422177",
+  "provider": "pubmed",
+  "year": 2024,
+  "venue": "Circulation research",
+  "citation_count": 0,
+  "abstract": "BACKGROUND: Chronic overconsumption of lipids followed by their excessive accumulation in the heart leads to cardiomyopathy. The cause of lipid-induced cardiomyopathy involves a pivotal role for the proton-pump vacuolar-type H+-ATPase (v-ATPase), which acidifies endosomes, and for lipid-transporter CD36, which is stored in acidified endosomes. During lipid overexposure, an increased influx of lipids into cardiomyocytes is sensed by v-ATPase, which then disassembles, causing endosomal de-acidification and expulsion of stored CD36 from the endosomes toward the sarcolemma. Once at the sarcolemma, CD36 not only increases lipid uptake but also interacts with inflammatory receptor TLR4 (Toll-like receptor 4), together resulting in lipid-induced insulin resistance, inflammation, fibrosis, and cardiac dysfunction. Strategies inducing v-ATPase reassembly, that is, to achieve CD36 reinternalization, may correct these maladaptive alterations. For this, we used NAD+ (nicotinamide adenine dinucleotide)-precursor nicotinamide mononucleotide (NMN), inducing v-ATPase reassembly by stimulating glycolytic enzymes to bind to v-ATPase.\nMETHODS: Rats/mice on cardiomyopathy-inducing high-fat diets were supplemented with NMN and for comparison with a cocktail of lysine/leucine/arginine (mTORC1 [mechanistic target of rapamycin complex 1]-mediated v-ATPase reassembly). We used the following methods: RNA sequencing, mRNA/protein expression analysis, immunofluorescence microscopy, (co)immunoprecipitation/proximity ligation assay (v-ATPase assembly), myocellular uptake of [3H]chloroquine (endosomal pH), and [14C]palmitate, targeted lipidomics, and echocardiography. To confirm the involvement of v-ATPase in the beneficial effects of both supplementations, mTORC1/v-ATPase inhibitors (rapamycin/bafilomycin A1) were administered. Additionally, 2 heart-specific v-ATPase-knockout mouse models (subunits V1G1/V0d2) were subjected to these measurements. Mechanisms were confirmed in pharmacologically/genetically manipulated cardiomyocyte models of lipid overload.\nRESULTS: NMN successfully preserved endosomal acidification during myocardial lipid overload by maintaining v-ATPase activity and subsequently prevented CD36-mediated lipid accumulation, CD36-TLR4 interaction toward inflammation, fibrosis, cardiac dysfunction, and whole-body insulin resistance. Lipidomics revealed C18:1-enriched diacylglycerols as lipid class prominently increased by high-fat diet and subsequently reversed/preserved by lysine/leucine/arginine/NMN treatment. Studies with mTORC1/v-ATPase inhibitors and heart-specific v-ATPase-knockout mice further confirmed the pivotal roles of v-ATPase in these beneficial actions.\nCONCLUSION: NMN preserves heart function during lipid overload by preventing v-ATPase disassembly.",
+  "type": "academic",
+  "pdf_url": ""
+}

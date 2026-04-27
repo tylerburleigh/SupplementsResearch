@@ -1,0 +1,26 @@
+{
+  "id": "src-159",
+  "title": "Associations of Serum Carotenoids With Risk of All-Cause and Cardiovascular Mortality in Hypertensive Adults.",
+  "authors": [
+    "Zhu, Xu",
+    "Cheang, Iokfai",
+    "Tang, Yuan",
+    "Shi, Mengsha",
+    "Zhu, Qingqing",
+    "Gao, Rongrong",
+    "Liao, Shengen",
+    "Yao, Wenming",
+    "Zhou, Yanli",
+    "Zhang, Haifeng",
+    "Li, Xinli"
+  ],
+  "doi": "10.1161/jaha.122.027568",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36752230",
+  "provider": "pubmed",
+  "year": 2023,
+  "venue": "Journal of the American Heart Association",
+  "citation_count": 0,
+  "abstract": "Background Systemic oxidative stress is involved in the development of hypertension, whereas carotenoids are a group of natural antioxidants. Our study aims to evaluate the relationships between the serum concentrations of major carotenoids and mortality in hypertensive adults. Methods and Results Data on 5 serum carotenoids from the National Health and Nutrition Examination Survey (NHANES) III and NHANES 2001-2006 were included. Outcome measures (all-cause and cardiovascular mortality) were identified from the National Death Index through December 31, 2019. Multiple Cox proportional hazards regression and restricted cubic spline analyses were performed to determine the association between carotenoid levels and outcomes. A total of 8390 hypertensive adults were included in the analysis. At a median follow-up duration of 16.6 years, all-cause and cardiovascular mortality occurred in 4005 (47.74%) and 1205 (14.36%) participants, respectively. Compared with the lowest quartiles, the highest quartiles of 5 major serum carotenoids were associated with lower risk of all-cause mortality, with multivariable-adjusted hazard ratios (HRs) of 0.63 (95% CI, 0.56-0.71) for α-carotene, 0.70 (95% CI, 0.61-0.80); for β-carotene, 0.67 (95% CI, 0.58-0.76); for β-cryptoxanthin, 0.74 (95% CI, 0.64-0.86) for lycopene; and 0.72 (95% CI, 0.63-0.83) for lutein/zeaxanthin. For cause-specific mortality, this association with the fourth quartile of serum carotenoids was evident for a reduced rate of cardiovascular mortality, with a 32% reduction for α-carotene (HR, 0.68 [95% CI, 0.55-0.86]), a 29% reduction for β-cryptoxanthin (HR, 0.71 [95% CI, 0.56-0.89]), and a 26% reduction for lycopene (HR, 0.74 [95% CI, 0.59-0.94]), but not for β-carotene and lutein/zeaxanthin. In addition, we found that serum α-carotene, β-carotene, β-cryptoxanthin, and lutein/zeaxanthin levels were nonlinearly related to all-cause mortality with inflection points of 2.43, 8.49, 5.12, and 14.17 μg/dL, respectively. Serum α-carotene, β-cryptoxanthin, and lutein/zeaxanthin concentrations showed nonlinear associations with cardiovascular mortality with inflection points of 2.31, 5.26, and 15.40 μg/dL, respectively. Conclusions Findings suggest that higher serum carotenoid concentrations were associated with lower risks of all-cause and cardiovascular mortality in hypertensive adults.",
+  "type": "academic",
+  "pdf_url": ""
+}

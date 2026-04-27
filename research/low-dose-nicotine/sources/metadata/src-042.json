@@ -1,0 +1,21 @@
+{
+  "id": "src-042",
+  "title": "Altered Cognitive Flexibility and Synaptic Plasticity in the Rat Prefrontal Cortex after Exposure to Low (≤15 cGy) Doses of 28Si Radiation",
+  "authors": [
+    "Britten, R.",
+    "Duncan, Vania D.",
+    "Fesshaye, Arriyam S.",
+    "Rudobeck, Emil",
+    "Nelson, G.",
+    "Vlkolinský, R."
+  ],
+  "doi": "10.1667/rr15458.1",
+  "url": "https://www.semanticscholar.org/paper/56955b1fc1862ef21e56ef4c176a1dddd5633719",
+  "provider": "semantic_scholar",
+  "year": 2020,
+  "venue": "Radiation Research",
+  "citation_count": 40,
+  "abstract": "This study has established the impact that 1–15 cGy 600 MeV/n 28Si radiation had on cognitive flexibility performance, glutamatergic synaptic transmission and plasticity in the prelimbic area (PrL) of the medial prefrontal cortex (mPFC) of ∼10-month-old (at the time of irradiation) male Wistar rats. Exposure to 1 cGy 600 MeV/n 28Si ions resulted in significantly impaired performance in the simple (SD) and compound discrimination (CD) stages of the attentional set shifting (ATSET) task. However, there was a pronounced non-linear dose response for cognitive impairment. Should similar effects occur in astronauts, the impairment of SD performance would result in a decreased ability to identify and learn the “rules” required to respond to new tasks/situations, while the impaired CD performance would result in a decreased ability to identify and maintain focus on relevant aspects of the task being conducted. The irradiated rats were also screened for performance in a task for unconstrained cognitive flexibility (UCFlex), often referred to as creative problem solving. Exposure to 1, 5 and 10 cGy resulted in a significant reduction in UCFlex performance, in an apparent all-or-none responsive manner. Importantly, performance in the ATSET test was not indicative of UCFlex performance. From a risk assessment perspective, these findings suggest that a value based on a single behavioral end point may not fully represent the cognitive deficits induced by space radiation, even within the cognitive flexibility domain. After completion of the cognitive flexibility testing, in vitro electrophysiological assessments of glutamatergic synaptic transmission and plasticity were performed in slices of the PrL cortex of 10 cGy irradiated rats. Extracellular recordings of field excitatory postsynaptic potentials revealed that radiation significantly decreased long-term depression in layer L5. Patch-clamp whole cell recordings in pyramidal neurons of the L2–3 revealed reduced frequency of spontaneous excitatory postsynaptic currents indicating alterations in presynaptic glutamate release and impaired neuronal spiking (e.g., decreased action potential amplitudes) in irradiated neurons. However, there was no obvious correlation between magnitudes of these electrophysiological decrements and the cognitive performance status of the irradiated rats. These data suggest that while radiation-induced changes in synaptic plasticity in the PrL cortex may be associated with cognitive impairment, they are most likely not the sole determinant of the incidence and severity of such impairments.",
+  "type": "academic",
+  "pdf_url": ""
+}

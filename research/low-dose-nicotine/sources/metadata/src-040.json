@@ -1,0 +1,17 @@
+{
+  "id": "src-040",
+  "title": "Effects of nicotine on task switching and distraction in non-smokers. An fMRI study.",
+  "authors": [
+    "Ahrens, S.",
+    "Thiel, C."
+  ],
+  "doi": "10.1016/j.neuroscience.2020.07.029",
+  "url": "https://www.semanticscholar.org/paper/73bb5499f6ae5b81809b91b12174fc9a12a4abfc",
+  "provider": "semantic_scholar",
+  "year": 2020,
+  "venue": "Neuroscience",
+  "citation_count": 5,
+  "abstract": "Nicotine improves sustained attention and reduces distractor interference, promoting cognitive stability. While stable performance may be beneficial in some situations, others require flexible updating of task demands. Frontoparietal networks, basal ganglia and thalamus contribute to an optimal balance of stable and flexible performance. We aimed to test how the cholinergic agonist nicotine modulates this balance and used an ongoing visual task including switch and distractor trials to gauge cognitive flexibility and stability respectively. Young healthy non-smokers (n=39) received either a 7 mg transdermal nicotine or placebo patch in a double-blind, within-subject design one hour prior to performing the task in a 3T MR scanner. Nicotine enhanced response times in all task conditions but did not significantly impact distractor or switch costs. Neurally, there was no significant nicotine induced modulation of distractor- or switch-related activity on group level. However, a brain-behaviour correlation analysis revealed that the nicotine-induced alterations of distractor costs correlated positively with distractor-related neural activity in the right intraparietal sulcus and the right pulvinar nucleus of the thalamus. We suggest that a nicotinic contribution to balancing stability and flexibility is weak in young healthy non-smokers. The brain-behaviour correlations imply that if nicotine reduces distractor interference, the modulation is found in thalamic-parietal networks.",
+  "type": "academic",
+  "pdf_url": ""
+}

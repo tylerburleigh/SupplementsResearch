@@ -1,0 +1,29 @@
+{
+  "id": "src-155",
+  "title": "Functional effects of protein sequence polymorphisms in the organic cation/ergothioneine transporter OCTN1 (SLC22A4).",
+  "authors": [
+    "Urban, Thomas J",
+    "Yang, Chen",
+    "Lagpacan, Leah L",
+    "Brown, Chaline",
+    "Castro, Richard A",
+    "Taylor, Travis R",
+    "Huang, Conrad C",
+    "Stryke, Douglas",
+    "Johns, Susan J",
+    "Kawamoto, Michiko",
+    "Carlson, Elaine J",
+    "Ferrin, Thomas E",
+    "Burchard, Esteban G",
+    "Giacomini, Kathleen M"
+  ],
+  "doi": "10.1097/fpc.0b013e3281c6d08e",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/17700366",
+  "provider": "pubmed",
+  "year": 2007,
+  "venue": "Pharmacogenetics and genomics",
+  "citation_count": 0,
+  "abstract": "BACKGROUND: OCTN1 is a multispecific transporter of organic cations and zwitterions, including several clinically important drugs as well as the antioxidant ergothioneine. OCTN1 is highly expressed in the kidney, where it is thought to aid in active secretion of organic cations, and may facilitate the active reabsorption of ergothioneine. Genetic variation in OCTN1 may help to explain interindividual variability in the pharmacokinetics of many cationic or zwitterionic drugs.\nMETHODS: We screened for human genetic variants in the OCTN1 coding region by direct sequencing in a large sample (n=270) of ethnically diverse healthy volunteers.\nRESULTS: Six protein sequence-altering variants were identified, including five-amino-acid substitutions and one nonsense mutation. Two of the variants, T306I and L503F, were polymorphic, occurring at frequencies of 37 and 19%, respectively, in the total sample. Allele frequencies are varied by ethnicity. In biochemical assays, two of the variants (D165G and R282X) resulted in complete loss of transport function, and one variant (M205I) caused a reduction in activity to approximately 50% of the reference sequence protein. One variant, L503F, showed altered substrate specificity; this variant occurred at particularly high allele frequency (42%) in the European-American participants in our sample. Subcellular localization and ergothioneine inhibition kinetics were similar among the common amino-acid sequence variants of OCTN1.\nCONCLUSIONS: The common OCTN1-L503F variant may explain a significant amount of population variation in the pharmacokinetics of OCTN1 substrate drugs. The rare loss-of-function variants provide a rational tool for studying the importance of ergothioneine in humans in vivo.",
+  "type": "academic",
+  "pdf_url": ""
+}

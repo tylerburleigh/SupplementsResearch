@@ -1,0 +1,24 @@
+{
+  "id": "src-247",
+  "title": "Nicotinamide mononucleotide attenuates hyperandrogenism in a polycystic ovary syndrome-like rat model by suppressing NLRP3 inflammasome–mediated granulosa-cell pyroptosis",
+  "authors": [
+    "Zhang, Yiwen",
+    "Huang, Kongwei",
+    "Nong, Weihua",
+    "Guo, Zhenwei",
+    "Xie, Qin",
+    "Lei, Xiaocan",
+    "Zhang, Shun",
+    "Li, Meixiang",
+    "Zhang, Jiaming"
+  ],
+  "doi": "10.1186/s13048-026-01996-0",
+  "url": "https://www.semanticscholar.org/paper/4c039e183dcd79d0c89dc3ba1c230798fa6eb4c3",
+  "provider": "semantic_scholar",
+  "year": 2026,
+  "venue": "Journal of Ovarian Research",
+  "citation_count": 0,
+  "abstract": "Background Polycystic ovary syndrome (PCOS) is a common endocrine disorder characterized by ovarian dysfunction and hyperandrogenism. This study aimed to evaluate the therapeutic potential of nicotinamide mononucleotide (NMN) in reducing PCOS-associated hyperandrogenism and to investigate the underlying inflammatory mechanisms. Methods Female Sprague-Dawley rats were divided into three groups: control, PCOS model, and PCOS model treated with NMN. PCOS was induced via continuous letrozole administration combined with a high-fat diet for 30 days. Subsequently, the NMN-treated group received NMN supplementation for an additional 30 days. Results NMN administration significantly reduced body weight and serum testosterone levels in PCOS rats and restored regular estrous cyclicity. Transcriptomic analysis of ovarian tissue revealed significant activation of inflammatory and steroidogenic pathways. Further investigation demonstrated upregulated expression of pyroptosis-related molecules (NLRP3, Caspase-1, GSDMD, IL-1β, and IL-18) in ovarian tissue from PCOS rats and in inflammatory cytokine-exposed granulosa cells. NMN treatment effectively suppressed these pyroptosis markers. Additionally, inflammation increased the expression of key androgen biosynthesis enzymes, including CYP11A1, CYP17A1, and 3β-HSD. Conclusion NMN mitigates hyperandrogenism in PCOS, likely by inhibiting granulosa cell pyroptosis through suppression of the NLRP3 inflammasome pathway.",
+  "type": "academic",
+  "pdf_url": ""
+}

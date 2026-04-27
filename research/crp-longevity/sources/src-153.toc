@@ -1,0 +1,96 @@
+47	2	9 Another position paper elaborates that inflamma-
+55	2	11 In contrast,
+118	2	11 The results of
+126	2	18 On the contrary, the Cardiovascular
+133	2	12 Emerging evi-
+161	2	20 Neither did the
+186	2	27 Thus, further research explor-
+223	2	28 This promiscuous and complex system comprises
+280	2	34 Consequently,
+356	2	Mace
+395	2	37 Application of MKEY has
+421	2	41 Regression analyses in humans
+468	2	Renewal
+474	2	Acclaim
+482	2	Redhart
+488	2	Cantos
+515	2	51 However, their exploit-
+563	2	56 The first
+581	2	61 Genetic deletion or
+640	2	76 Immune cells use several metabolic traits
+646	2	76 Metabolic profiling
+677	2	80 These foamy macrophages are characterized by increased
+702	2	87 Thus, metabolic priming by therapeutics that promote utiliza-
+741	2	91 Amino acids crucially
+749	2	93 Thus, targeting arginine and tryptophan metabolism as
+765	2	94 Of particular interest is the develop-
+797	2	110 Moreover, the role of hypo-
+808	2	113 It comprises a
+814	2	101 Recent evidence suggests that enhanced
+834	2	104 Notably, the amount
+851	2	98 These findings may have therapeutic implications in athero-
+882	2	11 These data warrant further studies to identify patient sub-
+903	2	124 Advances in immunology have enabled
+909	2	Acknowledgements
+926	2	References
+941	2	7. Winkels H, Ehinger E, Vassallo M, Buscher K, Dinh H, Kobiyama K, Hamers A,
+946	2	8. Cole JE, Park I, Ahern D, Kassiteridi C, Danso Abeam D, Goddard M, Green P,
+961	2	11. Ridker PM, Everett BM, Thuren T, MacFadyen JG, Chang WH, Ballantyne C,
+967	2	12. Ridker PM, Everett BM, Pradhan A, MacFadyen JG, Solomon DH, Zaharris E,
+975	2	14. Duewell P, Kono H, Rayner KJ, Sirois CM, Vladimer G, Bauernfeind FG, Abela
+980	2	15. Ridker PM, MacFadyen JG, Everett BM, Libby P, Thuren T, Glynn RJ, Ridker PM,
+992	2	16. Ridker PM, Libby P, MacFadyen JG, Thuren T, Ballantyne C, Fonseca F, Koenig
+1010	2	18. Gomez D, Baylis RA, Durgin BG, Newman AAC, Alencar GF, Mahan S, St
+1036	2	24. Mann DL, McMurray JJV, Packer M, Swedberg K, Borer JS, Colucci WS, Djian J,
+1042	2	25. Torre-Amione G, Anker SD, Bourge RC, Colucci WS, Greenberg BH,
+1049	2	26. Everett BM, Cornel J, Lainscak M, Anker SD, Abbate A, Thuren T, Libby P,
+1067	2	31. Majmudar MD, Keliher EJ, Heidt T, Leuschner F, Truelove J, Sena BF, Gorbatov
+1073	2	32. Liehn EA, Piccinini A-M, Koenen RR, Soehnlein O, Adage T, Fatu R, Curaj A,
+1078	2	33. Gilbert J, Lekstrom-Himes J, Donaldson D, Lee Y, Hu M, Xu J, Wyant T,
+1088	2	35. Maggi P, Bruno G, Perilli F, Saracino A, Volpe A, Santoro C, Ladisa N, Angarano
+1096	2	37. Koenen RR, Hundelshausen von P, Nesmelova IV, Zernecke A, Liehn EA, Sarabi
+1105	2	39. Alard J-E, Ortega-Gomez A, Wichapong K, Bongiovanni D, Horckmans M,
+1121	2	42. Merckelbach S, van der Vorst EPC, Kallmayer M, Rischpler C, Burgkart R,
+1130	2	44. Mehta NN, Li M, William D, Khera AV, DerOhannessian S, Qu L, Ferguson JF,
+1137	2	46. Abraham M, Wald H, Vaizel-Ohayon D, Grabovsky V, Oren Z, Karni A, Weiss
+1141	2	47. Hundelshausen von P, Agten SM, Eckardt V, Blanchet X, Schmitt MM, Ippel H,
+1154	2	51. Gotwals P, Cameron S, Cipolletta D, Cremasco V, Crystal A, Hewes B, Mueller
+1161	2	53. Seijkens TTP, Poels K, Meiler S, van Tiel CM, Kusters PJH, Reiche M, Atzler D,
+1183	2	56. Matsumoto T, Sasaki N, Yamashita T, Emoto T, Kasahara K, Mizoguchi T,
+1190	2	58. Doesch AO, Zhao L, Gleissner CA, Akhavanpoor M, Rohde D, Okuyucu D,
+1209	2	63. Lutgens E, Gorelik L, Daemen MJ, de Muinck ED, Grewal IS, Koteliansky VE,
+1218	2	66. Lutgens E, Lievens D, Beckers L, Wijnands E, Soehnlein O, Zernecke A,
+1224	2	67. Cipollone F, Ferri C, Desideri G, Paloscia L, Materazzo G, Mascellanti M, Fazia
+1229	2	68. Zarzycka B, Seijkens T, Nabuurs SB, Ritschel T, Grommes J, Soehnlein O,
+1233	2	69. Chatzigeorgiou A, Seijkens T, Zarzycka B, Engel D, Poggi M, van den Berg S, van
+1241	2	70. Seijkens TTP, van Tiel CM, Kusters PJH, Atzler D, Soehnlein O, Zarzycka B,
+1254	2	72. Aarts S, Seijkens TTP, Kusters PJH, van der Pol SMA, Zarzycka B, Heijnen P,
+1266	2	74. Bosch L, de Haan J, Seijkens T, van Tiel C, Brans M, Pasterkamp G, Lutgens E,
+1270	2	75. Lameijer M, Binderup T, van Leent MMT, Senders ML, Fay F, Malkus J, Sanchez-
+1279	2	77. Tomas L, Edsfeldt A, Mollet IG, Perisic Matic L, Prehn C, Adamski J, Paulsson-
+1283	2	78. Shirai T, Nazarewicz RR, Wallis BB, Yanes RE, Watanabe R, Hilhorst M, Tian L,
+1290	2	80. Kim K, Shim D, Lee JS, Zaitsev K, Williams JW, Kim K-W, Jang M-Y, Seok Jang
+1296	2	81. Baardman J, Verberk SGS, Prange KHM, van Weeghel M, van der Velden S,
+1307	2	84. Cole JE, Astola N, Cribbs AP, Goddard ME, Park I, Green P, Davies AH,
+1312	2	85. Infantino V, Convertini P, Cucci L, Panaro MA, Di Noia MA, Calvello R, Palmieri
+1315	2	86. Tannahill GM, Curtis AM, Adamik J, Palsson-McDermott EM, McGettrick
+1326	2	88. Michalek RD, Gerriets VA, Jacobs SR, Macintyre AN, MacIver NJ, Mason EF,
+1350	2	93. Forteza MJ, Polyzos KA, Baumgartner R, Suur BE, Mussbacher M, Johansson
+1354	2	94. Perez-Tilve D, Hofmann SM, Basford J, Nogueiras R, Pfluger PT, Patterson JT,
+1367	2	96. Finan B, Yang B, Ottaway N, Smiley DL, Ma T, Clemmensen C, Chabenne J,
+1382	2	99. Vujic N, Schlager S, Eichmann TO, Madreiter-Sokolowski CT, Goeritzer M,
+1387	2	100. Lenglet S, Thomas A, Soehnlein O, Montecucco F, Burger F, Pelli G, Galan K,
+1394	2	102. Hoyer FF, Khoury M, Slomka H, Kebschull M, Lerner R, Lutz B, Schott H,
+1401	2	104. Rinne P, Rami M, Nuutinen S, Santovito D, van der Vorst EPC, Guillamat-Prats
+1405	2	105. He S, Kahles F, Rattik S, Nairz M, McAlpine CS, Anzai A, Selgrade D, Fenn AM,
+1410	2	106. McAlpine CS, Kiss MG, Rattik S, He S, Vassalli A, Valet C, Anzai A, Chan CT,
+1419	2	109. Sutton GM, Trevaskis JL, Hulver MW, McMillan RP, Markward NJ, Babin MJ,
+1436	2	114. Bowles NP, Karatsoreos IN, Li X, Vemuri VK, Wood J-A, Li Z, Tamashiro KLK,
+1440	2	115. Jourdan T, Godlewski G, Cinar R, Bertola A, Szanda G, Liu J, Tam J, Han T,
+1444	2	116. Ruiz de Azua I, Mancini G, Srivastava RK, Rey AA, Cardinal P, Tedesco L,
+1450	2	117. Nohria A, Kinlay S, Buck JS, Redline W, Copeland-Halperin R, Kim S, Beckman
+1456	2	119. Greenberg JD, Kremer JM, Curtis JR, Hochberg MC, Reed G, Tsao P,
+1465	2	121. Roubille C, Richer V, Starnino T, McCourt C, McFarlane A, Fleming P, Siu S,
+1471	2	122. Van Tassell BW, Canada J, Carbone S, Trankle C, Buckley L, Oddi Erdle C,
+1477	2	123. Everett BM, Cornel JH, Lainscak M, Anker SD, Abbate A, Thuren T, Libby P,
+1480	2	124. Yin C, Ackermann S, Ma Z, Mohanta SK, Zhang C, Li Y, Nietzsche S,

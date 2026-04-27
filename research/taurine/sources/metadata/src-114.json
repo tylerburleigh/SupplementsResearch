@@ -1,0 +1,32 @@
+{
+  "id": "src-114",
+  "title": "Modulation of DNA methylation by one-carbon metabolism: a milestone for healthy aging",
+  "authors": [
+    "Choi, Sang-Woon",
+    "Friso, Simonetta"
+  ],
+  "year": 2023,
+  "abstract": "",
+  "doi": "10.4162/nrp.2023.17.4.597",
+  "url": "https://doi.org/10.4162/nrp.2023.17.4.597",
+  "pdf_url": "",
+  "venue": "Nutrition Research and Practice",
+  "citation_count": 29,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-19T11:56:28.962472+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-114.md",
+  "quality_details": {
+    "content_length": 69197,
+    "alpha_ratio": 0.768,
+    "sentence_count": 719,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

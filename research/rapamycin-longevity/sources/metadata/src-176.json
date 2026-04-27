@@ -1,0 +1,17 @@
+{
+  "id": "src-176",
+  "title": "Stress resistance and lifespan are increased in C. elegans but decreased in S. cerevisiae by mafr-1/maf1 deletion",
+  "authors": [
+    "Cai, Ying",
+    "Wei, Yuehua"
+  ],
+  "doi": "10.18632/oncotarget.7769",
+  "url": "https://www.semanticscholar.org/paper/74da28e1a47105191bc2bcaf7b08fc604a96b2b7",
+  "provider": "semantic_scholar",
+  "year": 2016,
+  "venue": "OncoTarget",
+  "citation_count": 38,
+  "abstract": "Maf1 is a conserved effector of the mechanistic target of rapamycin (mTOR), an aging promoting kinase. However, whether Maf1 is required for lifespan extension caused by mTOR inhibition, such as dietary restriction (DR) or calorie restriction (CR) remains elusive. Here we show that deletion of maf1 in the budding yeast S. cerevisiae but not mafr-1 in C. elegans prevents DR or CR to extend lifespan. Interestingly, mafr-1 deletion increases stress tolerance and extends lifespan. MAFR-1 is phosphorylated in a mTOR-dependent manner and mafr-1 deletion alleviates the inhibition of tRNA synthesis caused by reduced mTOR activity. We find that the opposite effect of mafr-1 deletion on lifespan is due to an enhancement of stress response, including oxidative stress response, mitochondrial unfolded protein response (UPRmt) and autophagy. mafr-1 deletion also attenuates the paralysis of a C. elegans model of Alzheimer's disease. Our study reveals distinct mechanisms of lifespan regulation by Maf1 and MAFR-1.",
+  "type": "academic",
+  "pdf_url": "http://www.oncotarget.com/index.php?journal=oncotarget&page=article&op=download&path%5B%5D=7769&path%5B%5D=22586"
+}

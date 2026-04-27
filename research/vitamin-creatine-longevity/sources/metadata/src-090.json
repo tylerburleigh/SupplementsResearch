@@ -1,0 +1,37 @@
+{
+  "id": "src-090",
+  "title": "Creatine supplementation and muscle-brain axis: a new possible mechanism?",
+  "authors": [
+    "Ribeiro, Felipe",
+    "Forbes, Scott C.",
+    "Candow, Darren G.",
+    "Perim, Pedro",
+    "Lira, Fabio Santos",
+    "Lancha, Antonio Herbert",
+    "Rosa Neto, José C."
+  ],
+  "year": 2025,
+  "abstract": "The brain and skeletal muscle have a high energy demand, of which creatine is an important regulator. Creatine acts as both a spatial and temporal energy buffer and reduces oxidative stress and inflammation. Creatine supplementation is well-recognized to enhance exercise performance, muscular strength and lean tissue mass, with emerging research showing benefits on cognitive function. Herein, we discuss the potential muscle-brain axis and the purported benefits of creatine supplementation on myokines, with a focus on brain-derived neurotrophic factor (BDNF). Myokines and the muscle-brain axis have been implicated in strength, endurance, neuroprotection, and cognitive performance, particularly in aging and clinical conditions. Creatine is a pleiotropic molecule and the mechanisms are multifactorial, however, they appear to be associated with improved bioenergetics, muscle hypertrophy, anti-inflammatory effects and on improved glucose metabolism. Despite the growing body of research on creatine, limitations such as variability in study designs, dosages, and individual responses need to be carefully interpreted. Further research is warranted to verify this hypothesis and to establish optimal supplementation protocols, particularly, in terms of its short-term and long-term implications for neuromuscular and cognitive performance.",
+  "doi": "10.3389/fnut.2025.1579204",
+  "url": "https://doi.org/10.3389/fnut.2025.1579204",
+  "pdf_url": "",
+  "venue": "Frontiers in Nutrition",
+  "citation_count": 4,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-21T13:45:19.853684+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-090.md",
+  "quality_details": {
+    "content_length": 42573,
+    "alpha_ratio": 0.743,
+    "sentence_count": 377,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

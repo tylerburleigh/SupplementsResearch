@@ -1,0 +1,28 @@
+{
+  "id": "src-166",
+  "title": "Association between serum 25-hydroxyvitamin D concentration and the risk of colorectal cancer: A cross-sectional study.",
+  "authors": [
+    "Wang, Yuru",
+    "Feng, Siqi",
+    "Chen, Jian",
+    "Li, Yun",
+    "Wang, Miaomiao",
+    "Wu, Tingting",
+    "Fu, Shujuan",
+    "Zhou, Zhangjie",
+    "Li, Cunya",
+    "Wu, Pantong",
+    "Wang, Zhiying",
+    "Zhong, Zhixian",
+    "Zhong, Yi"
+  ],
+  "doi": "10.1371/journal.pone.0320335",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40131935",
+  "provider": "pubmed",
+  "year": 2025,
+  "venue": "PloS one",
+  "citation_count": 0,
+  "abstract": "BACKGROUND: The role of vitamin D in the prevention of colorectal cancer (CRC) has been the focus of research, but the results of relevant studies are not entirely consistent. While most studies indicate that vitamin D has a protective effect against CRC, there are also research reports stating that at high serum levels, there is no significant association between vitamin D and CRC, or even an increased risk. Additionally, there are still differences in the recommended serum 25-hydroxyvitamin D [25(OH)D] concentrations among various guidelines or committees. This study examined the association between serum 25-hydroxyvitamin D concentrations and the risk of CRC in US adults.\nMETHODS: This study included 43,678 adult participants from the National Health and Nutrition Examination Survey (NHANES) 2001-2018, and logistic regression modelling was used to examine the association between serum 25(OH)D concentrations and the risk of CRC. We grouped participants according to the classification criteria of the various guidelines available for vitamin D, and controlled for confounding using a multi-model strategy, adjusting for key covariates such as gender, age, race, education level, marital status, family income to poverty ratio (PIR), body mass index (BMI), smoking habits, drinking habits, diabetes, hypertension, dyslipidemia, calcium intake, and total folate intake. We also performed trend tests to evaluate the linear relationship between serum 25(OH)D concentrations and CRC risk, used restricted cubic spline (RCS) plots to assess the dose-response relationship, and conducted further subgroup analyses with interaction tests to examine potential variations in the association across different population groups. We focused on the association between serum 25(OH)D concentration ≤ 75 nmol/L and CRC, again using multivariable logistic regression with a multi-model strategy and RCS plots.\nRESULTS: A total of 43,382 participants without CRC and 296 participants with CRC were included in this study. In the fully adjusted model, participants with serum 25(OH)D < 50 nmol/L had more than twice the risk of developing CRC compared to those with levels of 50-< 75 nmol/L (<30 nmol/L: Odds Ratio [OR] = 2.038, 95% Confidence Interval [CI]: 1.011-4.109; 30- < 50 nmol/L: OR = 2.090, 95% CI: 1.361-3.211). The negative correlation between serum 25(OH)D concentration and the risk of CRC was significant when serum 25(OH)D concentration was ≤ 75 nmol/L (P < 0.001). Each 1 nmol/L increase in serum 25(OH)D concentration was associated with an approximately 2.3% reduction in the risk of CRC (95% CI: 0.964-0.990).\nCONCLUSIONS: Our findings indicate a strong inverse association between serum 25(OH)D concentrations and the risk of CRC, particularly when levels are ≤75 nmol/L. Maintaining serum 25(OH)D above 75 nmol/L is associated with a lower CRC risk and may serve as a cost-effective preventive strategy. Public health measures, including routine vitamin D screening in high-risk populations and targeted supplementation, could further support CRC prevention efforts.",
+  "type": "academic",
+  "pdf_url": ""
+}

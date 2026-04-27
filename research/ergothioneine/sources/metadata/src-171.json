@@ -1,0 +1,27 @@
+{
+  "id": "src-171",
+  "title": "Investigating the ID3/SLC22A4 as immune-related signatures in ischemic stroke.",
+  "authors": [
+    "Lu, Dading",
+    "Cai, Heng",
+    "Li, Yugang",
+    "Chang, Wenyuan",
+    "Liu, Xiu",
+    "Dai, Qiwei",
+    "Yu, Wanning",
+    "Chen, Wangli",
+    "Qiao, Guomin",
+    "Xie, Haojie",
+    "Xiao, Xiong",
+    "Li, Zhiqing"
+  ],
+  "doi": "10.18632/aging.205308",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38112574",
+  "provider": "pubmed",
+  "year": 2023,
+  "venue": "Aging",
+  "citation_count": 0,
+  "abstract": "BACKGROUND: Ischemic stroke (IS) is a fearful disease that can cause a variety of immune events. Nevertheless, precise immune-related mechanisms have yet to be systematically elucidated. This study aimed to identify immune-related signatures using machine learning and to validate them with animal experiments and single cell analysis.\nMETHODS: In this study, we screened 24 differentially expressed genes (DEGs) while identifying immune-related signatures that may play a key role in IS development through a comprehensive strategy between least absolute shrinkage and selection operation (LASSO) regression, support vector machine (SVM) and immune-related genes. In addition, we explored immune infiltration using the CIBERSORT algorithm. Finally, we performed validation in mouse brain tissue and single cell analysis.\nRESULTS: We identified 24 DEGs for follow-up analysis. ID3 and SLC22A4 were finally identified as the better immune-related signatures through a comprehensive strategy among DEGs, LASSO, SVM and immune-related genes. RT-qPCR, western blot, and immunofluorescence revealed a significant decrease in ID3 and a significant increase in SLC22A4 in the middle cerebral artery occlusion group. Single cell analysis revealed that ID3 was mainly concentrated in endothelial_2 cells and SLC22A4 in astrocytes in the MCAO group. A CIBERSORT finds significantly altered levels of immune infiltration in IS patients.\nCONCLUSIONS: This study focused on immune-related signatures after stroke and ID3 and SLC22A4 may be new therapeutic targets to promote functional recovery after stroke. Furthermore, the association of ID3 and SLC22A4 with immune cells may be a new direction for post-stroke immunotherapy.",
+  "type": "academic",
+  "pdf_url": ""
+}

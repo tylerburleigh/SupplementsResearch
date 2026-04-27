@@ -1,0 +1,23 @@
+{
+  "id": "src-116",
+  "title": "Ginsenoside Rh2 targets SIRT1-mediated deacetylation to modulate ERα/AR balance and overcome endocrine therapy resistance in prostate cancer using 3D organoid models.",
+  "authors": [
+    "Chen, Xinan",
+    "Luo, Wei",
+    "Ren, Yueying",
+    "Mou, Zezhong",
+    "Xu, Chenyang",
+    "Hu, Jimeng",
+    "Hu, Mengbo",
+    "Jiang, Haowen"
+  ],
+  "doi": "10.1007/s10565-025-10091-x",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41091265",
+  "provider": "pubmed",
+  "year": 2025,
+  "venue": "Cell biology and toxicology",
+  "citation_count": 0,
+  "abstract": "Resistance to endocrine therapy remains a major challenge in treating prostate cancer (PCa), highlighting the need for alternative therapeutic approaches. In this study, we investigated the potential of Ginsenoside Rh2 to counteract such resistance by influencing the SIRT1-dependent deacetylation pathway, thereby modulating the equilibrium between estrogen receptor α (ERα) and androgen receptor (AR). We proposed that Rh2 may suppress therapy-resistant PCa progression by adjusting ERα/AR transcriptional dynamics. Through network pharmacology analysis, key anti-PCa targets of Rh2 were identified, with Cytoscape enrichment indicating a pivotal role in AR signaling modulation. Functional validation was performed using 3D tumor organoids and human PCa cell lines (C4-2B and LNCaP) treated with Rh2 to assess cellular behaviors and receptor deacetylation status. Additionally, xenograft mouse models were employed to evaluate Rh2's in vivo effects, based on tumor burden, serum PSA levels, and tissue histopathology. Rh2 treatment led to significant, dose- and time-dependent inhibition of PCa cell proliferation and metastatic traits, accompanied by restored ERα/AR balance through activation of SIRT1. In animal studies, Rh2 notably reduced tumor size, decreased PSA expression, and improved systemic health indicators. Collectively, our results suggest that Rh2 re-sensitizes PCa to endocrine therapy by targeting the SIRT1 pathway, positioning it as a promising phytochemical candidate for managing resistant PCa. This work provides mechanistic insights supporting Rh2's potential for clinical translation.",
+  "type": "academic",
+  "pdf_url": ""
+}

@@ -1,0 +1,19 @@
+{
+  "id": "src-085",
+  "title": "Controlled drug delivery vehicles for cancer treatment and their performance",
+  "authors": [
+    "Senapati, Sudipta",
+    "Mahanta, Arun Kumar",
+    "Kumar, Sunil",
+    "Maiti, Pralay"
+  ],
+  "doi": "10.1038/s41392-017-0004-3",
+  "url": "https://openalex.org/W2807410315",
+  "provider": "openalex",
+  "year": 2018,
+  "venue": "Signal Transduction and Targeted Therapy",
+  "citation_count": 2101,
+  "abstract": "Although conventional chemotherapy has been successful to some extent, the main drawbacks of chemotherapy are its poor bioavailability, high-dose requirements, adverse side effects, low therapeutic indices, development of multiple drug resistance, and non-specific targeting. The main aim in the development of drug delivery vehicles is to successfully address these delivery-related problems and carry drugs to the desired sites of therapeutic action while reducing adverse side effects. In this review, we will discuss the different types of materials used as delivery vehicles for chemotherapeutic agents and their structural characteristics that improve the therapeutic efficacy of their drugs and will describe recent scientific advances in the area of chemotherapy, emphasizing challenges in cancer treatments.",
+  "type": "academic",
+  "pdf_url": "https://www.nature.com/articles/s41392-017-0004-3.pdf"
+}

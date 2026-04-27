@@ -1,0 +1,31 @@
+{
+  "id": "src-086",
+  "title": "Immunomodulatory Properties of Coriolus versicolor: The Role of Polysaccharopeptide",
+  "authors": [
+    "Saleh, Mohammad H.",
+    "Rashedi, Iran",
+    "Keating, Armand"
+  ],
+  "year": 2017,
+  "abstract": "",
+  "doi": "10.3389/fimmu.2017.01087",
+  "url": "https://doi.org/10.3389/fimmu.2017.01087",
+  "pdf_url": "",
+  "venue": "Frontiers in Immunology",
+  "citation_count": 84,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-23T18:36:42.275765+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-086.md",
+  "quality_details": {
+    "content_length": 69692,
+    "alpha_ratio": 0.727,
+    "sentence_count": 609,
+    "reasons": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "src-172",
+  "title": "Long-term caloric restriction in ApoE-deficient mice results in neuroprotection via Fgf21-induced AMPK/mTOR pathway",
+  "authors": [
+    "Rühlmann, C.",
+    "Wölk, Tjark",
+    "Blümel, Tobias",
+    "Stahn, L.",
+    "Vollmar, B.",
+    "Kuhla, A."
+  ],
+  "doi": "10.18632/aging.101086",
+  "url": "https://www.semanticscholar.org/paper/82ea3b0ba045a11a34d9bc4fc190846950c4e29f",
+  "provider": "semantic_scholar",
+  "year": 2016,
+  "venue": "Aging",
+  "citation_count": 53,
+  "abstract": "Caloric restriction (CR) decelerates the aging process, extends lifespan and exerts neuroprotective effects in diverse species by so far unknown mechanisms. Based on known neuroprotective effects of fibroblastic growth factor 21 (Fgf21) we speculate that CR upregulates Fgf21, which phosphorylates neuronal AMP-activated protein kinase (AMPK), leading to a decrease of mammalian target of rapamycin (mTOR) signaling activity and an inhibition of tau-hyperphosphorylation. This in turn reduces the formation of neurofibrillary tangles, a neuropathological hallmark of Alzheimer's disease. ApoE-deficient mice (ApoE−/−), serving as a model of neurodegeneration, showed upon CR vs. ad libitum feeding increased Fgf21 levels in both, plasma and brain as well as higher phosphorylation of fibroblastic growth factor receptor 1c (Fgfr1c), extracellular signal-regulated kinases 1/2 (ERK1/2) and AMPK in brain, lower activity of mTOR and decreased Tau-phosphorylation. Finally, CR in ApoE−/− mice caused neuroprotection as indicated by a higher synaptic plasticity shown by immunohistochemical analysis with increased numbers of PSD95-positive neurons and a better cognitive performance as analyzed with Morris water maze test. These data provide substantial evidence that neuroprotection upon CR seems to be Fgf21-dependent. Further experiments are necessary to evaluate Fgf21 as a therapeutic tool to treat tauopathy for improvement of cognitive performance.",
+  "type": "academic",
+  "pdf_url": "https://doi.org/10.18632/aging.101086"
+}

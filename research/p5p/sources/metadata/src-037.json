@@ -1,0 +1,17 @@
+{
+  "id": "src-037",
+  "title": "Investigation of enzymatic quality and quantity using pyridoxal 5'-phosphate (PLP) regeneration system as a decoy in Escherichia coli.",
+  "authors": [
+    "Xue, Chengfeng",
+    "Ng, I-Son"
+  ],
+  "doi": "10.1016/j.ijbiomac.2023.123814",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36841388",
+  "provider": "pubmed",
+  "year": 2023,
+  "venue": "International journal of biological macromolecules",
+  "citation_count": 0,
+  "abstract": "Pyridoxal 5'-phosphate (PLP), an essential cofactor for multiple enzymes, was used as a protein decoy to prompt enzyme expression and activity for the first time. The best chassis, denoted as WJK, was developed using a pyridoxal kinase (PdxK) and integrated at the HK022 phage attack site of Escherichia coli W3110. When compared with the original strain, the amount and activity of lysine decarboxylase (CadA) in WJK were significantly increased by 100 % and 120 %, respectively. When supplementary nineteen amino acids as second carbon source, cell growth and protein trade-off were observed. The transcriptional levels of genes from glycolysis to TCA cycle, adhE, argH and gdhA were dominating and redirected more flux into α-ketoglutarate, thus facilitated cell growth. Stepwise improvement was conducted with pyridoxal and nitrogen-rich medium; hence, CadA activity was increased to 60 g-cadaverine/g-dry cell weight/h. By reutilizing the whole-cell biocatalysts in two repeated reactions with the supplementation of fresh cells, a total cadaverine of 576 g/L was obtained even without additional PLP. Notably, PLP decoy augment the enzymatic activities of 5-aminolevulinic acid synthase and glutamate/lysine/arginine decarboxylases by over 100 %. Finally, a conserved PLP-binding pocket, Ser-His-Lys, was identified as a vital PLP sponge site that simultaneously improved protein quality and quantity.",
+  "type": "academic",
+  "pdf_url": ""
+}

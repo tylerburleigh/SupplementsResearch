@@ -1,0 +1,32 @@
+{
+  "id": "src-125",
+  "title": "Rapamycin treatment for Alzheimer’s disease and related dementias: a pilot phase 1 clinical trial",
+  "authors": [
+    "Gonzales, Mitzi M.",
+    "Garbarino, V.",
+    "Kautz, Tiffany F.",
+    "Song, Xuemei",
+    "Lopez-Cruzan, Marisa",
+    "Linehan, Leslie",
+    "Skike, Candice E. Van",
+    "Erausquin, Gabriel A. De",
+    "Galvan, V.",
+    "Orr, M.",
+    "Musi, Nicolas",
+    "He, Yingxin",
+    "Bateman, Randall J.",
+    "Wang, Chen‐Pin",
+    "Seshadri, Sudha",
+    "Kraig, Ellen",
+    "Kellogg, Dean"
+  ],
+  "doi": "10.1038/s43856-025-00904-9",
+  "url": "https://www.semanticscholar.org/paper/b255981f6cd955f14c5688e217e222808cc88205",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "Communications Medicine",
+  "citation_count": 17,
+  "abstract": "Rapamycin has been shown to extend lifespan and acts on pathologies underlying Alzheimer’s disease and related dementias in animal models. However, rapamycin’s clinical application remains underexplored. We conducted a single-site open-label phase 1 clinical trial (ClinicalTrials.gov: NCT04200911) to examine the effects of rapamycin in humans. Eligible participants were people 55-85 years old with mild cognitive impairment or early-stage dementia, which was defined as having a Global Clinical Dementia Rating Scale Score of 0.5–1. All participants received rapamycin (1 mg/day) for eight weeks. The primary aim was to evaluate rapamycin’s central nervous system penetrance by assaying drug levels in the cerebrospinal fluid (CSF) before and after treatment. Secondary aims evaluated safety, cognition, Alzheimer’s disease, and inflammatory biomarkers in the CSF and plasma. In ten participants (mean age 74 ± 4 years, 60% female), we find that rapamycin is not detectable in the CSF before or after treatment. After treatment, we find that twenty, mostly mild adverse events occur, systolic blood pressure and hemoglobin A1c increase, multiple erythrocyte parameters decrease, and there are no significant cognitive changes. Furthermore, we find that CSF phosphorylated tau-181 (mean change (95% confidence interval) pg/ml), 2.64 [0.70–4.59]), glial fibrillary acidic protein (6262.21 [3787.44–9373.84]), and neurofilament light (367.19 [204.28–561.61]) and plasma interferon gamma (4.37 [3.01–5.74]), interleukin 5 (0.33 [0.12–0.64]), vascular endothelial growth factor D (3741.03 [1505.98–5976.07]), soluble fms-like tyrosine kinase-1 (258.88 [89.03-428.74]) and placental growth factor (20.81 [12.38–29.25]) significantly increase (FDR-corrected p-value < 0.05). Rapamycin is not detectable in the CSF before or after treatment, but several Alzheimer’s disease and inflammatory biomarkers increase after treatment. Our results highlight the need to better understand the biological effects and clinical impact of repurposing rapamycin for Alzheimer’s disease. The drug rapamycin has been shown to increase longevity and reverse changes in the brain associated with Alzheimer’s disease and related dementias in animal models. However, rapamycin’s role in the clinical setting is unclear. Here we show data from a phase 1 clinical trial in ten participants with mild cognitive impairment or Alzheimer’s disease who were treated with rapamycin (1 mg/day) for eight weeks. Findings show that rapamycin levels were not detectable in cerebrospinal fluid before or after treatment. All participants knew they were receiving rapamycin and did not experience any serious negative health events due to the treatment. Additionally, several Alzheimer’s disease and inflammatory biomarkers were increased from baseline to post-treatment. These results highlight the need to better understand the impact of rapamycin on Alzheimer’s disease in humans. Gonzales et al. conducted an open-label phase 1 clinical trial of rapamycin for mild cognitive impairment and dementia due to Alzheimer’s disease. Rapamycin is not detected in cerebrospinal fluid before or after treatment, but there are changes in multiple neurodegenerative diseases and inflammatory biomarkers from baseline to post-treatment.",
+  "type": "academic",
+  "pdf_url": ""
+}

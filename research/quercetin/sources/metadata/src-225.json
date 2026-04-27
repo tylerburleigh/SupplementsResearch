@@ -1,0 +1,28 @@
+{
+  "id": "src-225",
+  "title": "Exploring the effects of Dasatinib, Quercetin, and Fisetin on DNA methylation clocks: a longitudinal study on senolytic interventions",
+  "authors": [
+    "Lee, Edwin",
+    "Carreras-Gallo, Natàlia",
+    "Lopez, Leilani",
+    "Turner, Logan",
+    "Lin, Aaron",
+    "Mendez, T.",
+    "Went, H.",
+    "Tomusiak, Alan",
+    "Verdin, Eric",
+    "Corley, Michael J.",
+    "Ndhlovu, L.",
+    "Smith, Ryan",
+    "Dwaraka, Varun B."
+  ],
+  "doi": "10.1101/2023.09.22.23295961",
+  "url": "https://www.semanticscholar.org/paper/4ac4c93f6cd519b0d76b2e27a5de561f4da6da70",
+  "provider": "semantic_scholar",
+  "year": 2023,
+  "venue": "medRxiv",
+  "citation_count": 34,
+  "abstract": "Senolytics, small molecules targeting cellular senescence, have emerged as potential therapeutics to enhance health span. However, their impact on epigenetic age remains unstudied. This study aimed to assess the effects of Dasatinib and Quercetin (DQ) senolytic treatment on DNA methylation (DNAm), epigenetic age, and immune cell subsets. In a Phase I pilot study, 19 participants received DQ for 6 months, with DNAm measured at baseline, 3 months, and 6 months. Significant increases in epigenetic age acceleration were observed in first-generation epigenetic clocks and mitotic clocks at 3 and 6 months, along with a notable decrease in telomere length. However, no significant differences were observed in second and third-generation clocks. Building upon these findings, a subsequent investigation evaluated the combination of DQ with Fisetin (DQF), a well-known antioxidant and antiaging senolytic molecule. After one year, 19 participants (including 10 from the initial study) received DQF for 6 months, with DNAm assessed at baseline and 6 months. Remarkably, the addition of Fisetin to the treatment resulted in non-significant increases in epigenetic age acceleration, suggesting a potential mitigating effect of Fisetin on the impact of DQ on epigenetic aging. Furthermore, our analyses unveiled notable differences in immune cell proportions between the DQ and DQF treatment groups, providing a biological basis for the divergent patterns observed in the evolution of epigenetic clocks. These findings warrant further research to validate and comprehensively understand the implications of these combined interventions.",
+  "type": "academic",
+  "pdf_url": "https://www.aging-us.com/article/205581/pdf"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "src-065",
+  "title": "A Novel Anti-Osteoporosis Mechanism of VK2: Interfering with Ferroptosis via AMPK/SIRT1 Pathway in Type 2 Diabetic Osteoporosis.",
+  "authors": [
+    "Jin, Chen",
+    "Tan, Kai",
+    "Yao, Zhe",
+    "Lin, Bing-Hao",
+    "Zhang, Du-Piao",
+    "Chen, Wei-Kai",
+    "Mao, Shu-Ming",
+    "Zhang, Wei",
+    "Chen, Liang",
+    "Lin, Zhen",
+    "Weng, She-Ji",
+    "Bai, Bing-Li",
+    "Zheng, Wen-Hao",
+    "Zheng, Gang",
+    "Wu, Zong-Yi",
+    "Yang, Lei"
+  ],
+  "doi": "10.1021/acs.jafc.2c05632",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36719855",
+  "provider": "pubmed",
+  "year": 2023,
+  "venue": "Journal of agricultural and food chemistry",
+  "citation_count": 0,
+  "abstract": "Type 2 diabetic osteoporosis (T2DOP) is a chronic bone metabolic disease. Compared with traditional menopausal osteoporosis, the long-term high glucose (HG) microenvironment increases patients' risk of fracture and osteonecrosis. We were accumulating evidence that implicated ferroptosis as a pivotal mechanism of glucolipotoxicity-mediated death of osteocytes and osteoblast, a novel form of programmed cell death resulting from uncontrolled lipid peroxidation depending on iron. Vitamin K2 (VK2), a fat-soluble vitamin, is clinically applied to prevent osteoporosis and improve coagulation. This study aimed to clarify the role and mechanism of VK2 in HG-mediated ferroptosis. We established the mouse T2DOP model by intraperitoneal injection of streptozotocin solution and a high-fat and high-sugar diet. We also cultured bone marrow mesenchymal stem cells (BMSCs) in HG to simulate the diabetic environment in vitro. Based on our data, VK2 inhibited HG-mediated bone loss and ferroptosis, the latter manifested by decreased levels of mitochondrial reactive oxygen species, lipid peroxidation, and malondialdehyde and increased glutathione in vitro. In addition, VK2 treatment was capable of restoring bone mass and strengthening the expression of SIRT1, GPX4, and osteogenic markers in the distal femurs. As for further mechanism exploration, we found that VK2 could activate AMPK/SIRT1 signaling, and knockdown of SIRT1 by siRNA prevented the VK2-mediated positive effect in HG-cultured BMSCs. Summarily, VK2 could ameliorate T2DOP through the activation of the AMPK/SIRT1 signaling pathway to inhibit ferroptosis.",
+  "type": "academic",
+  "pdf_url": ""
+}

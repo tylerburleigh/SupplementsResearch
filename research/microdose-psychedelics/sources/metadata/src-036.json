@@ -1,0 +1,41 @@
+{
+  "id": "src-036",
+  "title": "LSD increases sleep duration the night after microdosing",
+  "authors": [
+    "Allen, Nathan",
+    "Jeremiah, Aron",
+    "Murphy, Robin",
+    "Sumner, Rachael",
+    "Forsyth, Anna",
+    "Hoeh, Nicholas",
+    "Menkes, David B.",
+    "Evans, William",
+    "Muthukumaraswamy, Suresh",
+    "Sundram, Frederick",
+    "Roop, Partha"
+  ],
+  "year": 2024,
+  "abstract": "Abstract\n\nMicrodosing psychedelic drugs at a level below the threshold to induce hallucinations is an increasingly common lifestyle practice. However, the effects of microdosing on sleep have not been previously reported. Here, we report results from a Phase 1 randomized controlled trial in which 80 healthy adult male volunteers received a 6-week course of either LSD (10 µg) or placebo with doses self-administered every third day. Participants used a commercially available sleep/activity tracker for the duration of the trial. Data from 3231 nights of sleep showed that on the night after microdosing, participants in the LSD group slept an extra 24.3 min per night (95% Confidence Interval 10.3–38.3 min) compared to placebo—with no reductions of sleep observed on the dosing day itself. There were no changes in the proportion of time spent in various sleep stages or in participant physical activity. These results show a clear modification of the physiological sleep requirements in healthy male volunteers who microdose LSD. The clear, clinically significant changes in objective measurements of sleep observed are difficult to explain as a placebo effect. Trial registration: Australian New Zealand Clinical Trials Registry: A randomized, double-blind, placebo-controlled trial of repeated microdoses of lysergic acid diethylamide (LSD) in healthy volunteers;\nhttps://www.anzctr.org.au/Trial/Registration/TrialReview.aspx?id=381476\n; ACTRN12621000436875.",
+  "doi": "10.1038/s41398-024-02900-4",
+  "url": "https://doi.org/10.1038/s41398-024-02900-4",
+  "pdf_url": "",
+  "venue": "Translational Psychiatry",
+  "citation_count": 11,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-26T10:42:49.375117+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-036.md",
+  "quality_details": {
+    "content_length": 43558,
+    "alpha_ratio": 0.768,
+    "sentence_count": 415,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

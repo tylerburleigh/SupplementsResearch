@@ -1,0 +1,24 @@
+{
+  "id": "src-036",
+  "title": "Systematic Review and Network Meta-Analysis of the Effects of Plant Extracts on Cognitive Function and Quality of Life in Stroke Patients.",
+  "authors": [
+    "Li, Ji",
+    "Jin, Jingfen",
+    "Cheng, Yifeng",
+    "Zhang, Yuping",
+    "Wang, Xuyang",
+    "Chen, Yali",
+    "Wang, Chunfen",
+    "Tang, Wenxue",
+    "Zhang, Ning"
+  ],
+  "doi": "10.1002/ptr.8472",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40083108",
+  "provider": "pubmed",
+  "year": 2025,
+  "venue": "Phytotherapy research : PTR",
+  "citation_count": 0,
+  "abstract": "In recent years, numerous researchers have focused on plant extracts derived from traditional medicines to treat stroke, as these extracts may improve patients' cognitive function and quality of life. This study aims to evaluate the effects of nine distinct plant extracts ( Ginkgo biloba extract, Ginsenosides, Berberine, St. John's Wort extract, Resveratrol, Gastrodin, Crocus sativus L., Moringa oleifera Seed extract, and Panax Notoginseng Saponins) on cognitive function and quality of life in stroke patients. This study seeks to conduct a network meta-analysis to assess the impact of these plant extracts on cognitive function and quality of life in stroke patients. Researchers systematically searched the Embase, PubMed, Cochrane Library, and Web of Science databases from database inception through October 2024 searched for randomized controlled trials (RCTs) exclusively(no language restrictions). The selected studies were evaluated for methodological quality via the Cochrane bias risk assessment tool, and data analysis software was used to analyze the data accordingly. The primary outcome measures included the following assessment scales: National Institute of Health Stroke Scale (NIHSS), Modified Rankin Scale (mRS), Activities of Daily Living Scale (ADLs), Barthel Index (BI), Montreal Cognitive Assessment (MOCA), and Mini-Mental State Examination (MMSE). Treatment effects were ranked based on probability values derived from the surface under the cumulative ranking curve (SUCRA). Moreover, cluster analysis was applied to evaluate the effects of plant extracts on six scales that reflect cognitive function and quality of life in patients. After screening, 48 eligible randomized controlled trials were included, covering 6599 stroke patients and evaluating nine different plant extract treatments. Specifically, results from 33 trials were included in the NIHSS score, 10 in the mRS score, 11 in the ADL score, 11 in the BI score, nine in the MMSE score, and eight in the MOCA score. Findings indicate that St. John's Wort extract (SUCRA 71.2%) was the most effective in reducing NIHSS scores, Berberine (SUCRA 84.1%) was most effective in reducing mRS scores, and St. John's Wort extract (SUCRA 99.1%) showed the highest efficacy in enhancing ADL scores. Ginsenosides were the most effective in improving Barthel Index (SUCRA 74.7%), MMSE (SUCRA 93%), and MOCA (SUCRA 79.7%) scores. The NMA indicates that, compared to placebo, St. John's Wort extract, Berberine, and Ginsenosides can enhance cognitive function and improve quality of life in stroke patients. This study provides valuable insights into using plant extracts for stroke treatment, potentially guiding clinical practice, but there are some unavoidable limitations to our study, including heterogeneity, differences in extraction methods of plant extracts, and lack of consideration of social support systems and dose effects. Future longer follow-up, larger samples, and more methodologically rigorous randomized controlled trials are recommended to clearly establish the effects of different dosages on cognitive function and quality of life in stroke patients.",
+  "type": "academic",
+  "pdf_url": ""
+}

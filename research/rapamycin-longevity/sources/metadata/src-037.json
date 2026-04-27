@@ -1,0 +1,39 @@
+{
+  "id": "src-037",
+  "title": "Inhibition of mTOR by Rapamycin Abolishes Cognitive Deficits and Reduces Amyloid-β Levels in a Mouse Model of Alzheimer's Disease",
+  "authors": [
+    "Spilman, Patricia",
+    "Podlutskaya, Natalia",
+    "Hart, Matthew J.",
+    "Debnath, Jayanta",
+    "Gorostiza, Olivia",
+    "Bredesen, Dale",
+    "Richardson, Arlan",
+    "Strong, Randy",
+    "Galvan, Veronica"
+  ],
+  "year": 2010,
+  "abstract": "",
+  "doi": "10.1371/journal.pone.0009979",
+  "url": "https://doi.org/10.1371/journal.pone.0009979",
+  "pdf_url": "",
+  "venue": "PLoS ONE",
+  "citation_count": 878,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-26T22:39:29.078747+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-037.md",
+  "quality_details": {
+    "content_length": 44126,
+    "alpha_ratio": 0.759,
+    "sentence_count": 405,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

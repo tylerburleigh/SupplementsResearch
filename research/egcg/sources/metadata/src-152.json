@@ -1,0 +1,22 @@
+{
+  "id": "src-152",
+  "title": "Exploring the liver toxicity mechanism of Tripterygium wilfordii extract based on metabolomics, network pharmacological analysis and experimental validation.",
+  "authors": [
+    "Zhou, Guohua",
+    "Su, Shu-lan",
+    "Yu, Li",
+    "Shang, E.",
+    "Hua, Yong-qing",
+    "Yu, Hao",
+    "Duan, Jingao"
+  ],
+  "doi": "10.1016/j.jep.2024.118888",
+  "url": "https://www.semanticscholar.org/paper/e1c0400cc81eed28806cd41e238251abe7f146f0",
+  "provider": "semantic_scholar",
+  "year": 2024,
+  "venue": "Journal of Ethnopharmacology",
+  "citation_count": 20,
+  "abstract": "ETHNOPHARMACOLOGICAL RELEVANCE\nTripterygii wilfordii Radix, (TW) as a toxic herbal medicine, is the root of Tripterygium wilfordii Hook. F. , which commonly used in China for the treatment of rheumatoid arthritis and autoimmune diseases, but its severe toxicity, particularly hepatotoxicity, significantly impacts its clinical application.\n\nAIM OF THE STUDY\nThe hepatotoxicity and its molecular mechanism of 70% TW ethanol extract (TWE) on male mice were demonstrated based on metabolomics, network pharmacological analysis and experimental validation.\n\nMATERIALS AND METHODS\nThe toxic and bioactive ingredients in TWE were quantitative analyzed by Triple quadrupole (TQ) mass spectrometry method. The liver organ index, as well as the liver function indexes AST and ALT were evaluated after administering different doses of TWE for 24 hours, and a pathological change was analyzed in liver tissue. Non-targeted metabolomics using UPLC-QTOF/MS was performed on both the plasma and liver tissue samples in combination with network toxicology to screen for key targets related to TWE toxicity in the liver. These key targets including caspase 3, NF-κB, TLR4, TNF-α, NQO1, and Bcl2 were subsequently verified through Western blotting experiments.\n\nRESULTS\nThe six toxic and active ingredients of raphenolactone, ranolactone, triptolide tripterine, wilforlide A, demethylzeylasterain in TWE for the contents of 0.709, 1.408, 0.353, 0.354, 0.882, 0.227 mg.g-1, respectively. Alanine aminotransferase (ALT) and aspartate aminotransferase (AST) levels increased and liver index decreased after administration of TWE for 24hr. Pathological analysis showed that TWE could produce toxicity to mouse liver, and its toxicity was dose-dependent. In the high-dose group, TW-D (11.23g/kg) and TW-E (22.46g/kg) caused a large amount of rupture in mouse liver nucleus and a large amount of inflammatory infiltration at the same time. Furthermore, 63 metabolites in plasma and 89 metabolites in the liver tissue were identified. The main metabolic pathways involved glycerol phospholipid metabolism, glycosylphosphatidylinositol-ether lipid metabolism, fatty acid metabolism, sphingomyelin metabolism, and ether lipid metabolism in plasma and liver tissue. Through analysis of the top 10 correlated targets, 6 out of the top 10 selected target proteins exhibited consistent expression patterns with liver injury. The levels of Bcl2 and NQ-O1 decreased with increasing exposure dose. The expression of Caspase 3, NF-κB, TLR4, and TNF-α increased with increasing dose. These findings suggest that protein expression has a regulatory effect at different doses groups compared to the control group.These findings suggest a regulatory effect of protein expression in different dose groups compared to the control group.\n\nCONCLUSION\nThe hepatotoxic effects of TWE can increase ALT and AST levels in plasma, leading to hepatic oxidative damage and inflammatory response. The toxic mechanisms that produce are closely related to the regulating of the abnormal metabolites in plasma and liver tissue. Furthermore, the regulating the expression levels of targeted proteins of TNF-α, NF-κB, Caspase 3, NQ-O1, and Bcl2 were confirmed by examining the liver tissue. These data clearly elucidate the toxicity mechanism of TW, laying the foundation for ensuring the quality and safety of drugs.",
+  "type": "academic",
+  "pdf_url": ""
+}

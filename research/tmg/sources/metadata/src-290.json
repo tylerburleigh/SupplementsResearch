@@ -1,0 +1,20 @@
+{
+  "id": "src-290",
+  "title": "Implication of Trimethylamine N-Oxide (TMAO) in Disease: Potential Biomarker or New Therapeutic Target",
+  "authors": [
+    "Janeiro, Manuel H.",
+    "Ramírez, María Luisa Ramírez",
+    "Milagro, Fermı́n I.",
+    "Martínéz, J. Alfredo",
+    "Solas, Maite"
+  ],
+  "doi": "10.3390/nu10101398",
+  "url": "https://openalex.org/W2892844483",
+  "provider": "openalex",
+  "year": 2018,
+  "venue": "Nutrients",
+  "citation_count": 609,
+  "abstract": "Trimethylamine N-oxide (TMAO) is a molecule generated from choline, betaine, and carnitine via gut microbial metabolism. The plasma level of TMAO is determined by several factors including diet, gut microbial flora, drug administration and liver flavin monooxygenase activity. In humans, recent clinical studies evidence a positive correlation between elevated plasma levels of TMAO and an increased risk for major adverse cardiovascular events. A direct correlation between increased TMAO levels and neurological disorders has been also hypothesized. Several therapeutic strategies are being explored to reduce TMAO levels, including use of oral broad spectrum antibiotics, promoting the growth of bacteria that use TMAO as substrate and the development of target-specific molecules. Despite the accumulating evidence, it is questioned whether TMAO is the mediator of a bystander in the disease process. Thus, it is important to undertake studies to establish the role of TMAO in human health and disease. In this article, we reviewed dietary sources and metabolic pathways of TMAO, as well as screened the studies suggesting possible involvement of TMAO in the etiology of cardiovascular and neurological disorders, underlying the importance of TMAO mediating inflammatory processes. Finally, the potential utility of TMAO as therapeutic target is also analyzed.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/2072-6643/10/10/1398/pdf?version=1539080731"
+}

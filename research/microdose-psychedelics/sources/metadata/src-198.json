@@ -1,0 +1,20 @@
+{
+  "id": "src-198",
+  "title": "Expectancy Effects, Failure of Blinding Integrity, and Placebo Response in Trials of Treatments for Psychiatric Disorders: A Narrative Review.",
+  "authors": [
+    "Huneke, N.",
+    "Veronesi, Guilherme Fusetto",
+    "Garner, Matthew",
+    "Baldwin, David S.",
+    "Cortese, S."
+  ],
+  "doi": "10.1001/jamapsychiatry.2025.0085",
+  "url": "https://www.semanticscholar.org/paper/d23f4f2e84b8ab168936152f41a301775b651109",
+  "provider": "semantic_scholar",
+  "year": 2025,
+  "venue": "JAMA psychiatry",
+  "citation_count": 34,
+  "abstract": "Importance\nExpectancy effects are significant confounding factors in psychiatric randomized clinical trials (RCTs), potentially affecting the interpretation of study results. This narrative review is the first, to our knowledge, to explore the relationship between expectancy effects, compromised blinding integrity, and the effects of active treatment/placebo in psychiatric RCTs. Additionally, we present statistical and experimental approaches that may help mitigate the confounding impact of expectancy effects. The review concludes with recommendations to enhance the reliability of RCTs in psychiatry.\n\nObservations\nThe placebo response comprises both specific and nonspecific elements, with expectation being a key specific component. Evidence from experimental and clinical studies suggests that expectancy can influence treatment responses in RCTs. Blinding integrity may be compromised by perceived treatment efficacy and adverse effects, introducing bias into outcome assessments. Treatment expectations can lead to unblinding during RCTs, and meta-analytic data from studies in the fields of psychedelics and anxiety disorders indicate that this can influence effect sizes. Therefore, controlling for expectancy effects is essential when interpreting RCT results. Novel statistical methods, though still in need of further validation, offer strategies to address this issue. Another approach may involve experimental medicine models, which aim to develop objective improvement markers (readouts) less affected by expectancy effects.\n\nConclusions and Relevance\nExpectancy effects represent a significant confound in psychiatric RCTs. We recommend collecting data on treatment expectations alongside monitoring blinding integrity to more accurately interpret study results. Additionally, developing objective readouts that are less confounded by expectancy effects offers another promising avenue for mitigating these confounding influences in psychiatric RCTs.",
+  "type": "academic",
+  "pdf_url": ""
+}

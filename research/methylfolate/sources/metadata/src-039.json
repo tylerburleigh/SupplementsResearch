@@ -1,0 +1,29 @@
+{
+  "id": "src-039",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "",
+  "pdf_url": "https://www.scienceopen.com/document_file/21c44beb-1274-4f3c-9a22-e4b35d989639/PubMedCentral/21c44beb-1274-4f3c-9a22-e4b35d989639.pdf",
+  "venue": "",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "",
+  "fetched_at": "2026-04-20T12:30:00.398026+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "degraded",
+  "content_file": "sources/src-039.md",
+  "quality_details": {
+    "content_length": 147530,
+    "alpha_ratio": 0.717,
+    "sentence_count": 1276,
+    "reasons": [
+      "paywall_page (EUR)"
+    ]
+  }
+}

@@ -1,0 +1,6 @@
+46	2	Abstract
+591	2	3. Herrick KA, Storandt RJ, Afful J, Pfeiffer CM, Schleicher RL, Gahche JJ,
+597	2	5. Bouillon R, Marcocci C, Carmeliet G, Bikle D, White JH, Dawson- Hughes B
+618	2	9. Grant WB, Al Anouti F, Boucher BJ, Dursun E, Gezen- Ak D, Jude EB
+627	2	11. McDonnell SL, Baggerly CA, French CB, Baggerly LL, Garland CF, Gorham ED
+639	2	14. Adebayo FA, Itkonen ST, Ohman T, Kiely M, Cashman KD, Lamberg- Allardt C,

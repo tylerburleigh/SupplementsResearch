@@ -1,0 +1,34 @@
+{
+  "id": "src-035",
+  "title": "C-reactive protein and prospective cardiometabolic risk: observational and Mendelian randomization study of ischemic stroke and all-cause death",
+  "authors": [
+    "Rolver, Monica G.",
+    "Emanuelsson, Frida",
+    "Nordestgaard, Børge G.",
+    "Benn, Marianne"
+  ],
+  "year": 2025,
+  "abstract": "",
+  "doi": "10.1186/s12933-025-03028-5",
+  "url": "https://doi.org/10.1186/s12933-025-03028-5",
+  "pdf_url": "",
+  "venue": "Cardiovascular Diabetology",
+  "citation_count": 1,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-24T01:04:15.805500+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-035.md",
+  "quality_details": {
+    "content_length": 59697,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "src-039",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "10.11477/mf.1416202748",
+  "url": "",
+  "pdf_url": "",
+  "venue": "",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "",
+  "fetched_at": "2026-04-19T11:27:52.681179+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "abstract_only",
+  "content_file": "sources/src-039.md",
+  "quality_details": {
+    "content_length": 4456,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

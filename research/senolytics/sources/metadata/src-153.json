@@ -1,0 +1,26 @@
+{
+  "id": "src-153",
+  "title": "Targeted clearance of senescent cells using an antibody-drug conjugate against a specific membrane marker",
+  "authors": [
+    "Poblocka, Marta",
+    "Bassey, Akang Leonard",
+    "Smith, Victoria M.",
+    "Falcicchio, Marta",
+    "Manso, Ana Sousa",
+    "Althubiti, Mohammad",
+    "Sheng, Xiaobo",
+    "Kyle, Andrew F.",
+    "Barber, Ruth",
+    "Frigerio, Mark",
+    "Macip, Salvador"
+  ],
+  "doi": "10.1038/s41598-021-99852-2",
+  "url": "https://openalex.org/W3207332839",
+  "provider": "openalex",
+  "year": 2021,
+  "venue": "Scientific Reports",
+  "citation_count": 127,
+  "abstract": "A wide range of diseases have been shown to be influenced by the accumulation of senescent cells, from fibrosis to diabetes, cancer, Alzheimer's and other age-related pathologies. Consistent with this, clearance of senescent cells can prolong healthspan and lifespan in in vivo models. This provided a rationale for developing a new class of drugs, called senolytics, designed to selectively eliminate senescent cells in human tissues. The senolytics tested so far lack specificity and have significant off-target effects, suggesting that a targeted approach could be more clinically relevant. Here, we propose to use an extracellular epitope of B2M, a recently identified membrane marker of senescence, as a target for the specific delivery of toxic drugs into senescent cells. We show that an antibody-drug conjugate (ADC) against B2M clears senescent cells by releasing duocarmycin into them, while an isotype control ADC was not toxic for these cells. This effect was dependent on p53 expression and therefore more evident in stress-induced senescence. Non-senescent cells were not affected by either antibody, confirming the specificity of the treatment. Our results provide a proof-of-principle assessment of a novel approach for the specific elimination of senescent cells using a second generation targeted senolytic against proteins of their surfaceome, which could have clinical applications in pathological ageing and associated diseases.",
+  "type": "academic",
+  "pdf_url": "https://www.nature.com/articles/s41598-021-99852-2.pdf"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "src-314",
+  "title": "Multivariate genomic scan implicates novel loci and haem metabolism in human ageing",
+  "authors": [
+    "Timmers, Paul R. H. J.",
+    "Wilson, James F.",
+    "Joshi, Peter K.",
+    "Deelen, Joris"
+  ],
+  "doi": "10.1038/s41467-020-17312-3",
+  "url": "https://openalex.org/W3015486681",
+  "provider": "openalex",
+  "year": 2020,
+  "venue": "Nature Communications",
+  "citation_count": 160,
+  "abstract": "Ageing phenotypes, such as years lived in good health (healthspan), total years lived (lifespan), and survival until an exceptional old age (longevity), are of interest to us all but require exceptionally large sample sizes to study genetically. Here we combine existing genome-wide association summary statistics for healthspan, parental lifespan, and longevity in a multivariate framework, increasing statistical power, and identify 10 genomic loci which influence all three phenotypes, of which five (near FOXO3, SLC4A7, LINC02513, ZW10, and FGD6) have not been reported previously at genome-wide significance. The majority of these 10 loci are associated with cardiovascular disease and some affect the expression of genes known to change their activity with age. In total, we implicate 78 genes, and find these to be enriched for ageing pathways previously highlighted in model organisms, such as the response to DNA damage, apoptosis, and homeostasis. Finally, we identify a pathway worthy of further study: haem metabolism.",
+  "type": "academic",
+  "pdf_url": "https://www.nature.com/articles/s41467-020-17312-3.pdf"
+}

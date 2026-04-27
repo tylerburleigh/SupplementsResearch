@@ -1,0 +1,19 @@
+{
+  "id": "src-158",
+  "title": "Erythropoietin: New Directions for the Nervous System",
+  "authors": [
+    "Maiese, Kenneth",
+    "Chong, Zhao Zhong",
+    "Shang, Yan",
+    "Wang, Shaohui"
+  ],
+  "doi": "10.3390/ijms130911102",
+  "url": "https://openalex.org/W2109242929",
+  "provider": "openalex",
+  "year": 2012,
+  "venue": "International Journal of Molecular Sciences",
+  "citation_count": 89,
+  "abstract": "New treatment strategies with erythropoietin (EPO) offer exciting opportunities to prevent the onset and progression of neurodegenerative disorders that currently lack effective therapy and can progress to devastating disability in patients. EPO and its receptor are present in multiple systems of the body and can impact disease progression in the nervous, vascular, and immune systems that ultimately affect disorders such as Alzheimer's disease, Parkinson's disease, retinal injury, stroke, and demyelinating disease. EPO relies upon wingless signaling with Wnt1 and an intimate relationship with the pathways of phosphoinositide 3-kinase (PI 3-K), protein kinase B (Akt), and mammalian target of rapamycin (mTOR). Modulation of these pathways by EPO can govern the apoptotic cascade to control β-catenin, glycogen synthase kinase-3β, mitochondrial permeability, cytochrome c release, and caspase activation. Yet, EPO and each of these downstream pathways require precise biological modulation to avert complications associated with the vascular system, tumorigenesis, and progression of nervous system disorders. Further understanding of the intimate and complex relationship of EPO and the signaling pathways of Wnt, PI 3-K, Akt, and mTOR are critical for the effective clinical translation of these cell pathways into robust treatments for neurodegenerative disorders.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/1422-0067/13/9/11102/pdf?version=1403144764"
+}

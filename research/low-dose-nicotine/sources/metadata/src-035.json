@@ -1,0 +1,24 @@
+{
+  "id": "src-035",
+  "title": "Chronic nicotine improves cognitive and social impairment in mice overexpressing wild type α-synuclein.",
+  "authors": [
+    "Subramaniam, S.",
+    "Magen, Iddo",
+    "Bove, Nicholas",
+    "Zhu, Chunni",
+    "Lemesre, Vincent",
+    "Dutta, Garima",
+    "Elias, C.",
+    "Lester, H.",
+    "Chesselet, M."
+  ],
+  "doi": "10.1016/j.nbd.2018.05.018",
+  "url": "https://www.semanticscholar.org/paper/02f1c7180ff6309124cc68de2db7947a7fb59850",
+  "provider": "semantic_scholar",
+  "year": 2018,
+  "venue": "Neurobiology of Disease",
+  "citation_count": 31,
+  "abstract": "In addition to dopaminergic and motor deficits, patients with Parkinson's disease (PD) suffer from non-motor symptoms, including early cognitive and social impairment, that do not respond well to dopaminergic therapy. Cholinergic deficits may contribute to these problems, but cholinesterase inhibitors have limited efficacy. Mice over-expressing α-synuclein, a protein critically associated with PD, show deficits in cognitive and social interaction tests, as well as a decrease in cortical acetylcholine. We have evaluated the effects of chronic administration of nicotine in mice over-expressing wild type human α-synuclein under the Thy1-promoter (Thy1-aSyn mice). Nicotine was administered subcutaneously by osmotic minipump for 6 months from 2 to 8 months of age at 0.4 mg/kg/h and 2.0 mg/kg/h. The higher dose was toxic in the Thy1-aSyn mice, but the low dose was well tolerated and both doses ameliorated cognitive impairment in Y-maze performance after 5 months of treatment. In a separate cohort of Thy1-aSyn mice, nicotine was administered at the lower dose for one month beginning at 5 months of age. This treatment partially eliminated the cognitive deficit in novel object recognition and social impairment. In contrast, chronic nicotine did not improve motor deficits after 2, 4 or 6 months of treatment, nor modified α-synuclein aggregation, tyrosine hydroxylase immunostaining, synaptic and dendritic markers, or microglial activation in Thy1-aSyn mice. These results suggest that cognitive and social impairment in synucleinopathies like PD may result from deficits in cholinergic neurotransmission and may benefit from chronic administration of nicotinic agonists.",
+  "type": "academic",
+  "pdf_url": "https://europepmc.org/articles/pmc6051902?pdf=render"
+}

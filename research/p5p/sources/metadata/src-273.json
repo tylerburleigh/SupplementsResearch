@@ -1,0 +1,22 @@
+{
+  "id": "src-273",
+  "title": "Pyridoxal 5′-Phosphate-Dependent Enzymes at the Crossroads of Host–Microbe Tryptophan Metabolism",
+  "authors": [
+    "Cellini, Barbara",
+    "Zelante, Teresa",
+    "Dindo, Mirco",
+    "Bellet, Marina Maria",
+    "Renga, Giorgia",
+    "Romani, Luigina",
+    "Costantini, Claudio"
+  ],
+  "doi": "10.3390/ijms21165823",
+  "url": "https://openalex.org/W3048818079",
+  "provider": "openalex",
+  "year": 2020,
+  "venue": "International Journal of Molecular Sciences",
+  "citation_count": 42,
+  "abstract": "The chemical processes taking place in humans intersects the myriad of metabolic pathways occurring in commensal microorganisms that colonize the body to generate a complex biochemical network that regulates multiple aspects of human life. The role of tryptophan (Trp) metabolism at the intersection between the host and microbes is increasingly being recognized, and multiple pathways of Trp utilization in either direction have been identified with the production of a wide range of bioactive products. It comes that a dysregulation of Trp metabolism in either the host or the microbes may unbalance the production of metabolites with potential pathological consequences. The ability to redirect the Trp flux to restore a homeostatic production of Trp metabolites may represent a valid therapeutic strategy for a variety of pathological conditions, but identifying metabolic checkpoints that could be exploited to manipulate the Trp metabolic network is still an unmet need. In this review, we put forward the hypothesis that pyridoxal 5'-phosphate (PLP)-dependent enzymes, which regulate multiple pathways of Trp metabolism in both the host and in microbes, might represent critical nodes and that modulating the levels of vitamin B6, from which PLP is derived, might represent a metabolic checkpoint to re-orienteer Trp flux for therapeutic purposes.",
+  "type": "academic",
+  "pdf_url": "https://www.mdpi.com/1422-0067/21/16/5823/pdf?version=1597383153"
+}

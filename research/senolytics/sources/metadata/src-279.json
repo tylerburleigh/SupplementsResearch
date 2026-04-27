@@ -1,0 +1,26 @@
+{
+  "id": "src-279",
+  "title": "The murine dialysis fistula model exhibits a senescence phenotype: pathobiological mechanisms and therapeutic potential.",
+  "authors": [
+    "Nath, K.",
+    "O'Brien, D.",
+    "Croatt, A. J.",
+    "Grande, J.",
+    "Ackerman, A.",
+    "Nath, Meryl C",
+    "Yamada, S.",
+    "Terzic, A.",
+    "Tchkonia, T.",
+    "Kirkland, J.",
+    "Katusic, Z."
+  ],
+  "doi": "10.1152/ajprenal.00308.2018",
+  "url": "https://www.semanticscholar.org/paper/2a457cfd23faf99994aa3a536c4cc5d15133d413",
+  "provider": "semantic_scholar",
+  "year": 2018,
+  "venue": "AJP - Renal Physiology",
+  "citation_count": 27,
+  "abstract": "There is no therapy that promotes maturation and functionality of a dialysis arteriovenous fistula (AVF). The search for such therapies largely relies on evaluation of vascular responses and putative therapies in experimental AVFs. We studied an AVF in mice with chronic kidney disease (CKD). We demonstrate numerous stressors in the vein of the AVF-CKD group, including pathological shear, mitogenic, inflammatory, and hypoxia-reoxygenation stress. Because stress promotes premature senescence, we examined whether senescence is induced in the vein of the AVF-CKD model. We demonstrate a senescence phenotype in the AVF-CKD model, as indicated by increased expression of p16Ink4a, p21Cip1, and p53 and expected changes for certain senescence-associated microRNAs. RNA-sequencing analysis demonstrated differential expression of ~10,000 genes, including upregulation of proinflammatory and proliferative genes, in the vein of the AVF-CKD group. The vein in the AVF-CKD group exhibited telomere erosion and increased senescence-associated β-galactosidase activity and staining. Senescence was induced in the artery of the AVF-CKD group and in the vein of the AVF without CKD. Finally, given the rapidly rising clinical interest in senolytics, we provide proof of concept of senolytics as a therapeutic approach by demonstrating that senolytics decrease p16Ink4a expression in the AVF-CKD model. This study introduces a novel concept underlying the basis for maturational and functional failure in human dialysis AVFs and identifies a new target for senolytic therapy.",
+  "type": "academic",
+  "pdf_url": "https://journals.physiology.org/doi/pdf/10.1152/ajprenal.00308.2018"
+}

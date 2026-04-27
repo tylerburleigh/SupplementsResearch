@@ -1,0 +1,27 @@
+{
+  "id": "src-176",
+  "title": "",
+  "authors": [],
+  "year": 0,
+  "abstract": "",
+  "doi": "",
+  "url": "",
+  "pdf_url": "https://lucris.lub.lu.se/ws/portalfiles/portal/48792396/1532502121article_pdf555035515.pdf",
+  "venue": "",
+  "citation_count": 0,
+  "type": "academic",
+  "provider": "",
+  "fetched_at": "2026-04-21T11:02:17.147767+00:00",
+  "has_pdf": true,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-176.md",
+  "quality_details": {
+    "content_length": 75835,
+    "alpha_ratio": 0.744,
+    "sentence_count": 768,
+    "reasons": []
+  }
+}

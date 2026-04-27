@@ -1,0 +1,26 @@
+{
+  "id": "src-083",
+  "title": "Sulforaphane Activates a lysosome-dependent transcriptional program to mitigate oxidative stress.",
+  "authors": [
+    "Li, Dan",
+    "Shao, Rong",
+    "Wang, Na",
+    "Zhou, Nan",
+    "Du, Kaili",
+    "Shi, Jiahui",
+    "Wang, Yihan",
+    "Zhao, Zhuangzhuang",
+    "Ye, Xin",
+    "Zhang, Xiaoli",
+    "Xu, Haoxing"
+  ],
+  "doi": "10.1080/15548627.2020.1739442",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/32138578",
+  "provider": "pubmed",
+  "year": 2021,
+  "venue": "Autophagy",
+  "citation_count": 0,
+  "abstract": "Oxidative stress underlies a number of pathological conditions, including cancer, neurodegeneration, and aging. Antioxidant-rich foods help maintain cellular redox homeostasis and mitigate oxidative stress, but the underlying mechanisms are not clear. For example, sulforaphane (SFN), an electrophilic compound that is enriched in cruciferous vegetables such as broccoli, is a potent inducer of cellular antioxidant responses. NFE2L2/NRF2 (nuclear factor, erythroid 2 like 2), a transcriptional factor that controls the expression of multiple detoxifying enzymes through antioxidant response elements (AREs), is a proposed target of SFN. NFE2L2/NRF2 is a target gene of TFEB (transcription factor EB), a master regulator of autophagic and lysosomal functions, which we show here to be potently activated by SFN. SFN induces TFEB nuclear translocation via a Ca2+-dependent but MTOR (mechanistic target of rapamycin kinase)-independent mechanism through a moderate increase in reactive oxygen species (ROS). Activated TFEB then boosts the expression of genes required for autophagosome and lysosome biogenesis, which are known to facilitate the clearance of damaged mitochondria. Notably, TFEB activity is required for SFN-induced protection against both acute oxidant bursts and chronic oxidative stress. Hence, by simultaneously activating macroautophagy/autophagy and detoxifying pathways, natural compound SFN may trigger a self-defense cellular mechanism that can effectively mitigate oxidative stress commonly associated with many metabolic and age-related diseases.Abbreviations: ANOVA: analyzes of variance; AREs: antioxidant response elements; Baf-A1: bafilomycin A1; BHA: butylhydroxyanisole; CAT: catechin hydrate; CCCP: carbonyl cyanide m- chlorophenylhydrazone; CLEAR: coordinated lysosomal expression and regulation; DCFH-DA: 2',7'-dichlorofluorescin diacetate; FBS: fetal bovine serum; GFP: green fluorescent protein; HMOX1/HO-1: heme oxygenase 1; KD: knockdown; KEAP1: kelch like ECH associated protein 1; KO: knockout; LAMP1: lysosomal associated membrane protein 1; MCOLN1/TRPML1: mucolipin 1; ML-SA1: mucolipin-specific synthetic agonist 1; ML-SI3: mucolipin-specific synthetic inhibitor 3; MTOR: mechanistic target of rapamycin kinase; MTORC1: mechanistic target of rapamycin kinase complex 1; NAC: N-acetylcysteine; NFE2L2/NRF2: nuclear factor: erythroid 2 like 2; NPC: Niemann-Pick type C; PBS: phosphate-buffered saline; PPP2/PP2A: protein phosphatase 2; Q-PCR: real time polymerase chain reaction; ROS: reactive oxygen species; RPS6KB1/S6K1/p70S6K: ribosomal protein S6 kinase B1; SFN: sulforaphane; TFEB: transcription factor EB; WT, wild-type.",
+  "type": "academic",
+  "pdf_url": ""
+}

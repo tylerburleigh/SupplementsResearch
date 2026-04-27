@@ -1,0 +1,35 @@
+{
+  "id": "src-153",
+  "title": "Taurine Treatment Provides Neuroprotection in a Mouse Model of Manganism",
+  "authors": [
+    "Ommati, Mohammad Mehdi",
+    "Heidari, Reza",
+    "Ghanbarinejad, Vahid",
+    "Abdoli, Narges",
+    "Niknahad, Hossein"
+  ],
+  "year": 2019,
+  "abstract": "",
+  "doi": "10.1007/s12011-018-1552-2",
+  "url": "https://doi.org/10.1007/s12011-018-1552-2",
+  "pdf_url": "",
+  "venue": "Biological Trace Element Research",
+  "citation_count": 59,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-19T12:01:45.582292+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-153.md",
+  "quality_details": {
+    "content_length": 29416,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

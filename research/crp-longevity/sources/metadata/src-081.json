@@ -1,0 +1,24 @@
+{
+  "id": "src-081",
+  "title": "The Continuum of Aging and Age-Related Diseases: Common Mechanisms but Different Rates",
+  "authors": [
+    "Franceschi, Claudio",
+    "Garagnani, Paolo",
+    "Morsiani, Cristina",
+    "Conte, Maria",
+    "Santoro, Aurelia",
+    "Grignolio, Andrea",
+    "Monti, Daniela",
+    "Capri, Miriam",
+    "Salvioli, Stefano"
+  ],
+  "doi": "10.3389/fmed.2018.00061",
+  "url": "https://openalex.org/W2794019774",
+  "provider": "openalex",
+  "year": 2018,
+  "venue": "Frontiers in Medicine",
+  "citation_count": 963,
+  "abstract": "Geroscience, the new interdisciplinary field that aims to understand the relationship between aging and chronic age-related diseases (ARDs) and geriatric syndromes (GSs), is based on epidemiological evidence and experimental data that aging is the major risk factor for such pathologies and assumes that aging and ARDs/GSs share a common set of basic biological mechanisms. A consequence is that the primary target of medicine is to combat aging instead of any single ARD/GSs one by one, as favored by the fragmentation into hundreds of specialties and sub-specialties. If the same molecular and cellular mechanisms underpin both aging and ARDs/GSs, a major question emerges: which is the difference, if any, between aging and ARDs/GSs? The hypothesis that ARDs and GSs such as frailty can be conceptualized as accelerated aging will be discussed by analyzing in particular frailty, sarcopenia, chronic obstructive pulmonary disease, cancer, neurodegenerative diseases such as Alzheimer and Parkinson as well as Down syndrome as an example of progeroid syndrome. According to this integrated view, aging and ARDs/GSs become part of a continuum where precise boundaries do not exist and the two extremes are represented by centenarians, who largely avoided or postponed most ARDs/GSs and are characterized by decelerated aging, and patients who suffered one or more severe ARDs in their 60s, 70s, and 80s and show signs of accelerated aging, respectively. In between these two extremes, there is a continuum of intermediate trajectories representing a sort of gray area. Thus, clinically different, classical ARDs/GSs are, indeed, the result of peculiar combinations of alterations regarding the same, limited set of basic mechanisms shared with the aging process. Whether an individual will follow a trajectory of accelerated or decelerated aging will depend on his/her genetic background interacting lifelong with environmental and lifestyle factors. If ARDs and GSs are manifestations of accelerated aging, it is urgent to identify markers capable of distinguishing between biological and chronological age to identify subjects at higher risk of developing ARDs and GSs. To this aim, we propose the use of DNA methylation, N-glycans profiling, and gut microbiota composition to complement the available disease-specific markers.",
+  "type": "academic",
+  "pdf_url": "https://www.frontiersin.org/articles/10.3389/fmed.2018.00061/pdf"
+}

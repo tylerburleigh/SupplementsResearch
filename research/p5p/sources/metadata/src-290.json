@@ -1,0 +1,16 @@
+{
+  "id": "src-290",
+  "title": "Role of Nrf2 in Oxidative Stress and Toxicity",
+  "authors": [
+    "Ma, Qiang"
+  ],
+  "doi": "10.1146/annurev-pharmtox-011112-140320",
+  "url": "https://openalex.org/W2117800935",
+  "provider": "openalex",
+  "year": 2013,
+  "venue": "The Annual Review of Pharmacology and Toxicology",
+  "citation_count": 4650,
+  "abstract": "Organismal life encounters reactive oxidants from internal metabolism and environmental toxicant exposure. Reactive oxygen and nitrogen species cause oxidative stress and are traditionally viewed as being harmful. On the other hand, controlled production of oxidants in normal cells serves useful purposes to regulate signaling pathways. Reactive oxidants are counterbalanced by complex antioxidant defense systems regulated by a web of pathways to ensure that the response to oxidants is adequate for the body's needs. A recurrent theme in oxidant signaling and antioxidant defense is reactive cysteine thiol-based redox signaling. The nuclear factor erythroid 2-related factor 2 (Nrf2) is an emerging regulator of cellular resistance to oxidants. Nrf2 controls the basal and induced expression of an array of antioxidant response element-dependent genes to regulate the physiological and pathophysiological outcomes of oxidant exposure. This review discusses the impact of Nrf2 on oxidative stress and toxicity and how Nrf2 senses oxidants and regulates antioxidant defense.",
+  "type": "academic",
+  "pdf_url": ""
+}

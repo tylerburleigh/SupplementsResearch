@@ -1,0 +1,35 @@
+{
+  "id": "src-051",
+  "title": "Effects of Taurine Supplementation on Growth in Low Birth Weight Infants: A Systematic Review and Meta-Analysis",
+  "authors": [
+    "Cao, Shun-li",
+    "Jiang, Hong",
+    "Niu, Shi-ping",
+    "Wang, Xiao-hu",
+    "Du, Shan"
+  ],
+  "year": 2018,
+  "abstract": "",
+  "doi": "10.1007/s12098-018-2609-0",
+  "url": "https://doi.org/10.1007/s12098-018-2609-0",
+  "pdf_url": "",
+  "venue": "The Indian Journal of Pediatrics",
+  "citation_count": 10,
+  "type": "academic",
+  "provider": "crossref",
+  "fetched_at": "2026-04-19T11:30:38.903918+00:00",
+  "has_pdf": false,
+  "peer_reviewed": null,
+  "is_retracted": false,
+  "publication_types": [],
+  "quality": "ok",
+  "content_file": "sources/src-051.md",
+  "quality_details": {
+    "content_length": 11052,
+    "alpha_ratio": 0.0,
+    "sentence_count": 0,
+    "reasons": [
+      "fallback to DOI landing page — abstract/metadata only, not full text"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "src-285",
+  "title": "2019 ACC/AHA Guideline on the Primary Prevention of Cardiovascular Disease: Executive Summary: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines",
+  "authors": [
+    "Arnett, Donna K.",
+    "Blumenthal, Roger S.",
+    "Albert, Michelle A.",
+    "Buroker, Andrew B.",
+    "Goldberger, Zachary D.",
+    "Hahn, Ellen J.",
+    "Himmelfarb, Cheryl Dennison",
+    "Khera, Amit",
+    "Lloyd‐Jones, Donald M.",
+    "McEvoy, John W.",
+    "Michos, Erin D.",
+    "Miedema, Michael D.",
+    "Muñoz, Daniel",
+    "Smith, Sidney C.",
+    "Virani, Salim S.",
+    "Williams, Kim A.",
+    "Yeboah, Joseph",
+    "Ziaeian, Boback"
+  ],
+  "doi": "10.1161/cir.0000000000000677",
+  "url": "https://openalex.org/W2921012991",
+  "provider": "openalex",
+  "year": 2019,
+  "venue": "Circulation",
+  "citation_count": 4507,
+  "abstract": "1. The most important way to prevent atherosclerotic vascular disease, heart failure, and atrial fibrillation is to promote a healthy lifestyle throughout life. 2. A team-based care approach is an effective strategy for the prevention of cardiovascular disease. Clinicians should evaluate the social determinants of health that affect individuals to inform treatment decisions. 3. Adults who are 40 to 75 years of age and are being evaluated for cardiovascular disease prevention should undergo 10-year atherosclerotic cardiovascular disease (ASCVD) risk estimation and have a clinician–patient risk discussion before starting on pharmacological therapy, such as antihypertensive therapy, a statin, or aspirin. The presence or absence of additional risk-enhancing factors can help guide decisions about preventive interventions in select individuals, as can coronary artery calcium scanning. 4. All adults should consume a healthy diet that emphasizes the intake of vegetables, fruits, nuts, whole grains, lean vegetable or animal protein, and fish and minimizes the intake of trans fats, processed meats, refined carbohydrates, and sweetened beverages. For adults with overweight and obesity, counseling and caloric restriction are recommended for achieving and maintaining weight loss. 5. Adults should engage in at least 150 minutes per week of accumulated moderate-intensity physical activity or 75 minutes per week of vigorous-intensity physical activity. 6. For adults with type 2 diabetes mellitus, lifestyle changes, such as improving dietary habits and achieving exercise recommendations are crucial. If medication is indicated, metformin is first-line therapy, followed by consideration of a sodium-glucose cotransporter 2 inhibitor or a glucagon-like peptide-1 receptor agonist. 7. All adults should be assessed at every healthcare visit for tobacco use, and those who use tobacco should be assisted and strongly advised to quit. 8. Aspirin should be used infrequently in the routine primary prevention of ASCVD because of lack of net benefit. 9. Statin therapy is first-line treatment for primary prevention of ASCVD in patients with elevated low-density lipoprotein cholesterol levels (≥190 mg/dL), those with diabetes mellitus, who are 40 to 75 years of age, and those determined to be at sufficient ASCVD risk after a clinician–patient risk discussion. 10. Nonpharmacological interventions are recommended for all adults with elevated blood pressure or hypertension. For those requiring pharmacological therapy, the target blood pressure should generally be &lt;130/80 mm Hg.",
+  "type": "academic",
+  "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/8344373"
+}
