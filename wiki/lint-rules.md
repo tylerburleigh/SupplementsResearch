@@ -2,7 +2,7 @@
 type: meta
 sources: []
 created: "2026-04-19"
-updated: "2026-04-27"
+updated: "2026-04-29"
 status: current
 tags:
   - meta
@@ -25,7 +25,7 @@ See also: [[index]], [[research-backlog]], [[ingest-checklist]], [[taxonomy]]
 
 - [ ] `type` matches page location for content pages (entity in `entities/`, concept in `concepts/`, etc.); `type: meta` scaffold pages are exempt and may live in root or directory README/queue files
 - [ ] `entity_type` present on all entity pages (supplement, compound, brand, delivery-form)
-- [ ] Supplement entity pages include `evidence_level`, `mechanistic_evidence`, `animal_evidence`, `human_evidence`, `translational_status`, `practical_status`, `primary_outcomes`, `primary_pathways`, and `primary_genetics`
+- [ ] Supplement entity pages include `evidence_level`, `mechanistic_evidence`, `animal_evidence`, `human_evidence`, `translational_status`, `practical_status`, `translation_plausibility`, `replication_status`, `claim_scope`, `primary_outcomes`, `primary_pathways`, and `primary_genetics`
 - [ ] `concept_type` present on all concept pages (pathway, pathway-family, outcome, condition, biomarker, process, risk-domain, population, gene, genetic-variant, genotype, pharmacogenomic-marker)
 - [ ] Concept pages include `domain`
 - [ ] `aliases` list present on entity pages (can be empty)
@@ -70,10 +70,11 @@ See also: [[index]], [[research-backlog]], [[ingest-checklist]], [[taxonomy]]
 - [ ] Required sections present: What It Is, Mechanism of Action, Evidence by Outcome, Dosing, Safety Profile, Interactions, Practical Notes, Key Gaps
 - [ ] Evidence tables keep mechanistic, animal, human biomarker, and human endpoint evidence separate
 - [ ] Evidence Streams section distinguishes mechanistic, animal, and human evidence and flags blocking negative evidence
+- [ ] Practical Translation Check distinguishes human-plausible dose, replication robustness, claim scope, expected effect size, measure-to-target need, and hype risk
 - [ ] Decision Snapshot, dosing, safety, interaction, and practical status claims cite at least one non-synthesis anchor or are marked as unverified/gap
 - [ ] `evidence_level: 3` or `evidence_level: 4` supplement entities cite a human RCT, systematic review, or meta-analysis anchor
 - [ ] Dosing table present with Form, Dose Range, Timing, Studied Population, Dose Confidence, and Notes columns
-- [ ] Decision Snapshot section present with practical status, best-supported uses, unsupported/overhyped uses, dose/form, and cautions
+- [ ] Decision Snapshot section present with practical status, best-supported uses, unsupported/overhyped uses, dose/form, translation bottleneck, best justified claim, main reason not to take, and cautions
 
 ## Concept Rules
 

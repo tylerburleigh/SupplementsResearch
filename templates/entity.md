@@ -8,6 +8,9 @@ animal_evidence: "none"  # strong | moderate | weak | mixed | negative | none
 human_evidence: "untested"  # strong | moderate | weak | mixed | negative | none | untested
 translational_status: "insufficient"  # human-supported | mechanism-led | animal-led | contradicted | insufficient
 practical_status: "research-only"  # candidate | consider | deprioritize | avoid | research-only
+translation_plausibility: "unknown"  # high | moderate | low | blocked | unknown
+replication_status: "unknown"  # replicated | mixed | single-lab | failed | untested | unknown
+claim_scope: "unknown"  # general-longevity | condition-specific | biomarker-only | mechanism-only | unknown
 primary_outcomes: []
 primary_pathways: []
 primary_genetics: []
@@ -33,6 +36,9 @@ tags:
 | Best-supported uses | | Low / Moderate / High |
 | Unsupported or overhyped uses | | Low / Moderate / High |
 | Practical dose/form | | Low / Moderate / High |
+| Translation bottleneck | | Low / Moderate / High |
+| Best justified claim | | Low / Moderate / High |
+| Main reason not to take | | Low / Moderate / High |
 | Main cautions | | Low / Moderate / High |
 
 ## Evidence Streams
@@ -47,6 +53,20 @@ tags:
 | Human | strong / moderate / weak / mixed / negative / none / untested | beneficial / harmful / mixed / null / unknown | | yes / no | [[Source Summary Page]] |
 
 Keep evidence streams separate: mechanistic findings do not count as animal or human evidence, and animal findings do not count as human evidence.
+
+## Practical Translation Check
+
+> [!analysis] Practical translation
+> Evaluate whether the evidence survives contact with real-world use. Keep this separate from evidence quality: good mechanistic or animal evidence can still fail on dose plausibility, replication, claim scope, or effect size.
+
+| Dimension | Assessment | Confidence | Notes |
+|-----------|------------|------------|-------|
+| Human-plausible dose | high / moderate / low / blocked | Low / Moderate / High | Does the studied dose map to routine human use? |
+| Replication robustness | replicated / mixed / single-lab / failed / untested | Low / Moderate / High | Independent replication, species consistency, sex effects, ITP status if relevant |
+| Claim scope | general-longevity / condition-specific / biomarker-only / mechanism-only | Low / Moderate / High | What claim is actually justified? |
+| Expected effect size | large / moderate / small / unknown | Low / Moderate / High | Is the likely benefit meaningful versus alternatives? |
+| Measure-to-target needed | yes / no / optional | Low / Moderate / High | Does use require labs or biomarker targeting? |
+| Hype risk | low / moderate / high | Low / Moderate / High | Are public claims ahead of demonstrated outcomes? |
 
 ## What It Is
 
@@ -75,9 +95,9 @@ Keep evidence streams separate: mechanistic findings do not count as animal or h
 | Human biomarker | strong / moderate / weak / mixed / negative / none / untested | | |
 | Human clinical endpoint | strong / moderate / weak / mixed / negative / none / untested | | |
 
-| Outcome | Effect Direction | Population | Genetic Context | Clinical Relevance | Evidence Level | Translational Status | Source |
-|---------|------------------|------------|-----------------|--------------------|----------------|----------------------|--------|
-| [[Outcome or Condition]] | beneficial / harmful / mixed / null / unknown | | | | 1-4 | human-supported / mechanism-led / animal-led / contradicted / insufficient | [[Source Summary Page]] |
+| Outcome | Effect Direction | Population | Genetic Context | Claim Scope | Clinical Relevance | Evidence Level | Translational Status | Source |
+|---------|------------------|------------|-----------------|-------------|--------------------|----------------|----------------------|--------|
+| [[Outcome or Condition]] | beneficial / harmful / mixed / null / unknown | | | general-longevity / condition-specific / biomarker-only / mechanism-only | | 1-4 | human-supported / mechanism-led / animal-led / contradicted / insufficient | [[Source Summary Page]] |
 
 ### [Outcome 2]
 

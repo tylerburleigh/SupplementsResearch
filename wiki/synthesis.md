@@ -2,7 +2,7 @@
 type: meta
 sources: []
 created: "2026-04-18"
-updated: "2026-04-27"
+updated: "2026-04-29"
 status: current
 tags:
   - meta
@@ -41,7 +41,7 @@ These views should become the first decision surface once supplements are ingest
 ### Worth Considering
 
 ```dataview
-TABLE practical_status AS "Practical Status", evidence_level AS "Evidence", translational_status AS "Translational Status", primary_outcomes AS "Primary Outcomes", updated AS "Updated"
+TABLE practical_status AS "Practical Status", evidence_level AS "Evidence", translational_status AS "Translational Status", translation_plausibility AS "Translation", replication_status AS "Replication", claim_scope AS "Claim Scope", primary_outcomes AS "Primary Outcomes", updated AS "Updated"
 FROM "wiki/entities"
 WHERE entity_type = "supplement" AND contains(list("candidate", "consider"), practical_status)
 SORT practical_status ASC, evidence_level DESC, file.name ASC
@@ -50,7 +50,7 @@ SORT practical_status ASC, evidence_level DESC, file.name ASC
 ### Avoid or Deprioritize
 
 ```dataview
-TABLE practical_status AS "Practical Status", evidence_level AS "Evidence", human_evidence AS "Human Evidence", primary_outcomes AS "Primary Outcomes", updated AS "Updated"
+TABLE practical_status AS "Practical Status", evidence_level AS "Evidence", human_evidence AS "Human Evidence", translation_plausibility AS "Translation", replication_status AS "Replication", claim_scope AS "Claim Scope", primary_outcomes AS "Primary Outcomes", updated AS "Updated"
 FROM "wiki/entities"
 WHERE entity_type = "supplement" AND contains(list("avoid", "deprioritize"), practical_status)
 SORT practical_status ASC, file.name ASC
@@ -59,7 +59,7 @@ SORT practical_status ASC, file.name ASC
 ### Research-Only
 
 ```dataview
-TABLE translational_status AS "Translational Status", mechanistic_evidence AS "Mechanistic", animal_evidence AS "Animal", human_evidence AS "Human", primary_outcomes AS "Primary Outcomes", updated AS "Updated"
+TABLE translational_status AS "Translational Status", translation_plausibility AS "Translation", replication_status AS "Replication", claim_scope AS "Claim Scope", mechanistic_evidence AS "Mechanistic", animal_evidence AS "Animal", human_evidence AS "Human", primary_outcomes AS "Primary Outcomes", updated AS "Updated"
 FROM "wiki/entities"
 WHERE entity_type = "supplement" AND practical_status = "research-only"
 SORT translational_status ASC, file.name ASC

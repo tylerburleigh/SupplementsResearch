@@ -8,7 +8,7 @@ source_role: ""  # synthesis | primary-anchor | contradiction | dosing | safety 
 evidence_layer: ""  # mechanistic | animal | human | genetics | mixed
 reading_status: ""  # full-text | abstract-only | report-derived
 decision_relevance: ""  # high | medium | low
-anchor_for: []  # efficacy | mechanism | dosing | safety | contradiction | genetics | stack-decision
+anchor_for: []  # efficacy | mechanism | dosing | safety | translation | contradiction | genetics | stack-decision
 sources: []
 created: "{{date}}"
 updated: "{{date}}"
@@ -53,7 +53,7 @@ tags:
 
 | Claim Type | Entity or Concept | Evidence Layer | Stream Rating | Claim | Evidence Level |
 |------------|-------------------|----------------|---------------|-------|----------------|
-| efficacy / mechanism / dosing / safety / contradiction / genetics | [[Page]] | mechanistic / animal / human / genetics / mixed | strong / moderate / weak / mixed / negative / none / untested | | 1-4 |
+| efficacy / mechanism / dosing / safety / translation / contradiction / genetics / stack-decision | [[Page]] | mechanistic / animal / human / genetics / mixed | strong / moderate / weak / mixed / negative / none / untested | | 1-4 |
 
 ## Promotion Notes
 

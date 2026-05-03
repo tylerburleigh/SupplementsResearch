@@ -2,7 +2,7 @@
 type: meta
 sources: []
 created: "2026-04-19"
-updated: "2026-04-27"
+updated: "2026-04-29"
 status: current
 tags:
   - meta
@@ -18,7 +18,7 @@ See also: [[catalog]], [[Evidence Map]], [[Supplements Database]], [[Hypotheses 
 ## Supplements
 
 ```dataview
-TABLE entity_type AS "Type", practical_status AS "Practical Status", translational_status AS "Translational Status", evidence_level AS "Evidence", mechanistic_evidence AS "Mechanistic", animal_evidence AS "Animal", human_evidence AS "Human", primary_outcomes AS "Primary Outcomes", length(sources) AS "Sources"
+TABLE entity_type AS "Type", practical_status AS "Practical Status", translational_status AS "Translational Status", translation_plausibility AS "Translation", replication_status AS "Replication", claim_scope AS "Claim Scope", evidence_level AS "Evidence", mechanistic_evidence AS "Mechanistic", animal_evidence AS "Animal", human_evidence AS "Human", primary_outcomes AS "Primary Outcomes", length(sources) AS "Sources"
 FROM "wiki/entities"
 WHERE entity_type = "supplement"
 SORT file.name ASC
@@ -54,7 +54,7 @@ SORT review_by ASC, evidence_level DESC
 ## Mechanism-Led Candidates
 
 ```dataview
-TABLE practical_status AS "Practical Status", mechanistic_evidence AS "Mechanistic", animal_evidence AS "Animal", human_evidence AS "Human", primary_outcomes AS "Primary Outcomes"
+TABLE practical_status AS "Practical Status", translation_plausibility AS "Translation", replication_status AS "Replication", claim_scope AS "Claim Scope", mechanistic_evidence AS "Mechanistic", animal_evidence AS "Animal", human_evidence AS "Human", primary_outcomes AS "Primary Outcomes"
 FROM "wiki/entities"
 WHERE translational_status = "mechanism-led"
 SORT file.name ASC

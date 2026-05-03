@@ -18,6 +18,12 @@ properties:
     displayName: Human
   translational_status:
     displayName: Translational Status
+  translation_plausibility:
+    displayName: Translation
+  replication_status:
+    displayName: Replication
+  claim_scope:
+    displayName: Claim Scope
   primary_outcomes:
     displayName: Primary Outcomes
   primary_pathways:
@@ -36,6 +42,9 @@ views:
       - practical_status
       - evidence_level
       - translational_status
+      - translation_plausibility
+      - replication_status
+      - claim_scope
       - mechanistic_evidence
       - animal_evidence
       - human_evidence
@@ -54,6 +63,9 @@ views:
       - practical_status
       - evidence_level
       - translational_status
+      - translation_plausibility
+      - replication_status
+      - claim_scope
       - primary_outcomes
       - sources
       - updated
@@ -67,6 +79,9 @@ views:
       - practical_status
       - evidence_level
       - translational_status
+      - translation_plausibility
+      - replication_status
+      - claim_scope
       - mechanistic_evidence
       - animal_evidence
       - human_evidence
@@ -81,6 +96,9 @@ views:
       - file.name
       - translational_status
       - practical_status
+      - translation_plausibility
+      - replication_status
+      - claim_scope
       - mechanistic_evidence
       - animal_evidence
       - human_evidence

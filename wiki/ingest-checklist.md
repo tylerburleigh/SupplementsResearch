@@ -2,7 +2,7 @@
 type: meta
 sources: []
 created: "2026-04-19"
-updated: "2026-04-26"
+updated: "2026-04-29"
 status: current
 tags:
   - meta
@@ -28,6 +28,7 @@ See also: [[lint-rules]], [[research-methodology]], [[taxonomy]], [[Quick Refere
 - [ ] Primary-anchor sources reviewed (major RCTs/meta-analyses, dosing, safety, contradictions, stack decisions)
 - [ ] Source roles separated from evidence layers (`source_role` = why used; `evidence_layer` = mechanistic / animal / human / genetics / mixed)
 - [ ] Potential contradictions flagged and reviewed
+- [ ] Practical translation bottlenecks flagged: human-plausible dose, replication robustness, claim scope, effect size, measure-to-target needs, and hype risk
 
 ### Anchor Promotion Review
 
@@ -35,15 +36,19 @@ Before extraction, classify decision-relevant claims from the report:
 
 | Claim | From Report | Evidence Layer | Needs Anchor? | Anchor Source | Reason |
 |-------|-------------|----------------|---------------|---------------|--------|
-| | report source | mechanistic / animal / human / genetics / mixed | yes / no | source page or [[promotion-queue]] | evidence level / dosing / safety / contradiction / genetics / stack decision |
+| | report source | mechanistic / animal / human / genetics / mixed | yes / no | source page or [[promotion-queue]] | evidence level / dosing / safety / translation / contradiction / genetics / stack decision |
 
 ## Post-Extraction Review
 
 - [ ] New entity pages have all required sections (What It Is, Mechanism, Evidence, Dosing, Safety, Interactions, Practical Notes, Key Gaps)
 - [ ] Evidence tables populated with evidence levels
 - [ ] Entity Decision Snapshot populated (`practical_status`, best-supported uses, unsupported/overhyped uses, practical dose/form, cautions)
+- [ ] Entity Decision Snapshot includes translation bottleneck, best justified claim, and main reason not to take
 - [ ] Mechanistic, animal, and human evidence streams rated separately; blocking negative signals flagged
 - [ ] No evidence stream collapsed into another (mechanistic evidence stays mechanistic; animal evidence stays animal; human evidence stays human)
+- [ ] Practical Translation Check populated with human-plausible dose, replication robustness, claim scope, expected effect size, measure-to-target need, and hype risk
+- [ ] Supplement frontmatter populated with `translation_plausibility`, `replication_status`, and `claim_scope`
+- [ ] Evidence-by-outcome rows state claim scope without upgrading condition-specific, biomarker-only, or mechanism-only findings into general longevity claims
 - [ ] Outcome/condition/process concepts use the right `concept_type` and `domain`
 - [ ] Genetics concepts use `concept_type: gene`, `genetic-variant`, `genotype`, or `pharmacogenomic-marker` and `domain: genetics`
 - [ ] Hypotheses include `effect_direction`, `population`, `genetic_context`, and stream ratings
@@ -54,6 +59,7 @@ Before extraction, classify decision-relevant claims from the report:
 - [ ] Wikilinks used (not markdown links) for all cross-references
 - [ ] Aliases set for abbreviations and synonyms
 - [ ] Dosing table in entity page matches [[Quick Reference Dosing]]
+- [ ] Dosing page or entity dosing section includes Dose Translation when animal, in-vitro, or unusually high-dose evidence drives the claim
 - [ ] Taxonomy categories assigned if applicable (see [[taxonomy]])
 - [ ] Report-level source-summary created; individual primary-source summaries created only for anchor claims that need their own provenance
 - [ ] Source-summary pages list entities, concepts, hypotheses/decisions, and claims they support

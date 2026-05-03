@@ -97,6 +97,9 @@ animal_evidence: none
 human_evidence: untested
 translational_status: insufficient
 practical_status: research-only
+translation_plausibility: unknown
+replication_status: unknown
+claim_scope: unknown
 primary_outcomes:
   - "[[Healthy Aging]]"
 primary_pathways: []

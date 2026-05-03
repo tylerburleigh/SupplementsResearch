@@ -28,6 +28,12 @@ tags:
 
 ### [Outcome 2]
 
+## Dose Translation
+
+| Evidence Source | Studied Dose | Human-Equivalent / Practical Dose | Plausibility | Notes |
+|-----------------|--------------|-----------------------------------|--------------|-------|
+| [[Source Summary Page]] | | | high / moderate / low / blocked | |
+
 ## Timing and Cycling
 
 > [!source] Timing recommendations. [[Source Summary Page]]

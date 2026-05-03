@@ -2,7 +2,7 @@
 type: meta
 sources: []
 created: "2026-04-19"
-updated: "2026-04-26"
+updated: "2026-04-29"
 status: current
 tags:
   - meta
@@ -20,9 +20,9 @@ This page is populated from supplement entity pages and dedicated `type: dosing`
 
 ## Dosing Reference
 
-| Supplement | Form | Dose Range | Timing | Studied Population | Dose Confidence | Key Notes | Source Page |
-|------------|------|------------|--------|--------------------|-----------------|-----------|-------------|
-| | | | | | Low / Moderate / High | | |
+| Supplement | Form | Dose Range | Timing | Studied Population | Dose Confidence | Translation Plausibility | Key Notes | Source Page |
+|------------|------|------------|--------|--------------------|-----------------|-------------------------|-----------|-------------|
+| | | | | | Low / Moderate / High | high / moderate / low / blocked / unknown | | |
 
 <!-- Add rows during each ingest. Link source page as wikilink. -->
 

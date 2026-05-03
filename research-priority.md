@@ -7,17 +7,6 @@
 
 <!-- Rank from highest to lowest priority. Add notes on why each is prioritized. -->
 
-1. **Sulforaphane** — Nrf2 activation, cancer prevention evidence, widely discussed
-2. **Creatine** — Cognitive + physical benefits, strong evidence base, commonly used
-3. **NMN/NR** — NAD+ precursors, longevity pathway central, active debate
-4. **Curcumin** — Anti-inflammatory, Nrf2 cross-over with sulforaphane, formulation questions
-5. **Omega-3 (EPA/DHA)** — Cardiovascular evidence, foundational supplement
-6. **Vitamin D3** — Widespread deficiency, interacts with many pathways
-7. **Magnesium** — Mineral cofactor, multiple forms, dose-dependent effects
-8. **Taurine** — Emerging longevity evidence, Ellenberg research
-9. **CoQ10** — Mitochondrial support, interacts with statins
-10. **Resveratrol** — Sirtuin activation, controversial evidence, worth clarifying
-
 ## Completed Research
 
 <!-- Move supplements here after their research report is generated. -->

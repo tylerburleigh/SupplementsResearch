@@ -26,6 +26,12 @@ properties:
     displayName: Human
   translational_status:
     displayName: Translational Status
+  translation_plausibility:
+    displayName: Translation
+  replication_status:
+    displayName: Replication
+  claim_scope:
+    displayName: Claim Scope
   effect_direction:
     displayName: Effect Direction
   population:
@@ -51,6 +57,9 @@ views:
       - practical_status
       - evidence_level
       - translational_status
+      - translation_plausibility
+      - replication_status
+      - claim_scope
       - mechanistic_evidence
       - animal_evidence
       - human_evidence
@@ -72,6 +81,9 @@ views:
       - animal_evidence
       - human_evidence
       - translational_status
+      - translation_plausibility
+      - replication_status
+      - claim_scope
       - effect_direction
       - primary_outcomes
       - population
@@ -103,6 +115,9 @@ views:
       - file.name
       - type
       - practical_status
+      - translation_plausibility
+      - replication_status
+      - claim_scope
       - mechanistic_evidence
       - animal_evidence
       - human_evidence

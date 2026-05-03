@@ -96,6 +96,7 @@ ANCHOR_FOR = {
     "mechanism",
     "dosing",
     "safety",
+    "translation",
     "contradiction",
     "genetics",
     "stack-decision",
@@ -110,6 +111,15 @@ TRANSLATIONAL = {
     "insufficient",
 }
 PRACTICAL = {"candidate", "consider", "deprioritize", "avoid", "research-only"}
+TRANSLATION_PLAUSIBILITY = {"high", "moderate", "low", "blocked", "unknown"}
+REPLICATION_STATUSES = {"replicated", "mixed", "single-lab", "failed", "untested", "unknown"}
+CLAIM_SCOPES = {
+    "general-longevity",
+    "condition-specific",
+    "biomarker-only",
+    "mechanism-only",
+    "unknown",
+}
 EFFECT_DIRECTIONS = {"beneficial", "harmful", "mixed", "null", "unknown"}
 HYPOTHESIS_STATUSES = {"open", "supported", "contradicted", "nuanced"}
 INGEST_STATUSES = {"in-progress", "complete"}
@@ -153,6 +163,9 @@ SCHEMA_ENUMS = {
     "human_evidence": HUMAN_RATINGS,
     "translational_status": TRANSLATIONAL,
     "practical_status": PRACTICAL,
+    "translation_plausibility": TRANSLATION_PLAUSIBILITY,
+    "replication_status": REPLICATION_STATUSES,
+    "claim_scope": CLAIM_SCOPES,
     "effect_direction": EFFECT_DIRECTIONS,
     "hypothesis_status": HYPOTHESIS_STATUSES,
     "decision_type": DECISION_TYPES,
@@ -570,6 +583,9 @@ def check_frontmatter(pages: list[Page]) -> list[Finding]:
                     "human_evidence",
                     "translational_status",
                     "practical_status",
+                    "translation_plausibility",
+                    "replication_status",
+                    "claim_scope",
                     "primary_outcomes",
                     "primary_pathways",
                     "primary_genetics",
@@ -585,6 +601,9 @@ def check_frontmatter(pages: list[Page]) -> list[Finding]:
                 check_enum(findings, page, "human_evidence", HUMAN_RATINGS)
                 check_enum(findings, page, "translational_status", TRANSLATIONAL)
                 check_enum(findings, page, "practical_status", PRACTICAL)
+                check_enum(findings, page, "translation_plausibility", TRANSLATION_PLAUSIBILITY)
+                check_enum(findings, page, "replication_status", REPLICATION_STATUSES)
+                check_enum(findings, page, "claim_scope", CLAIM_SCOPES)
 
         elif page_type == "concept":
             check_enum(findings, page, "concept_type", CONCEPT_TYPES)
@@ -926,6 +945,9 @@ def catalog_metadata(page: Page) -> str:
             str(fm.get("entity_type", "")),
             f"practical: {fm.get('practical_status', '')}",
             f"translational: {fm.get('translational_status', '')}",
+            f"translation: {fm.get('translation_plausibility', '')}",
+            f"replication: {fm.get('replication_status', '')}",
+            f"scope: {fm.get('claim_scope', '')}",
             f"evidence: {fm.get('evidence_level', '')}",
         ]
     elif page.type == "concept":

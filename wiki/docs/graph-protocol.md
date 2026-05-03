@@ -2,7 +2,7 @@
 type: meta
 sources: []
 created: "2026-04-19"
-updated: "2026-04-27"
+updated: "2026-04-29"
 status: current
 tags:
   - meta
@@ -17,7 +17,7 @@ See also: [[ingest-checklist]], [[lint-rules]], [[research-methodology]], [[sche
 
 | Type | Directory | Represents | Key Frontmatter |
 |------|-----------|------------|-----------------|
-| entity | `wiki/entities/` | Supplements, compounds, brands, delivery forms | `entity_type`, `aliases`, `sources`, `evidence_level`, `mechanistic_evidence`, `animal_evidence`, `human_evidence`, `translational_status`, `practical_status`, `primary_outcomes`, `primary_pathways`, `primary_genetics` |
+| entity | `wiki/entities/` | Supplements, compounds, brands, delivery forms | `entity_type`, `aliases`, `sources`, `evidence_level`, `mechanistic_evidence`, `animal_evidence`, `human_evidence`, `translational_status`, `practical_status`, `translation_plausibility`, `replication_status`, `claim_scope`, `primary_outcomes`, `primary_pathways`, `primary_genetics` |
 | concept | `wiki/concepts/` | Pathways, pathway families, outcomes, conditions, biomarkers, processes, risk domains, populations, genes, variants, genotypes | `concept_type`, `domain`, `sources` |
 | hypothesis | `wiki/hypotheses/` | Testable claim: supplement → pathway/process → outcome/condition/risk-domain, optionally scoped by genetics | `supplements`, `pathways`, `outcomes`, `population`, `genetic_context`, `effect_direction`, `mechanistic_evidence`, `animal_evidence`, `human_evidence`, `translational_status`, `evidence_level`, `hypothesis_status`, `review_by`, `if_supported`, `if_contradicted`, `evaluated` |
 | source-summary | `wiki/sources/` | One per ingested synthesis source or selected primary anchor | `raw_path`, `raw_hash`, `ingest_status`, `study_type`, `source_role`, `evidence_layer`, `reading_status`, `decision_relevance`, `anchor_for` |

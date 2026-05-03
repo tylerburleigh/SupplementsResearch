@@ -142,6 +142,18 @@ The wiki also tracks `mechanistic_evidence`, `animal_evidence`, and `human_evide
 
 Genetics evidence is handled through concept pages for genes, variants, genotypes, and pharmacogenomic markers, then linked into supplement hypotheses through `genetic_context`.
 
+## Practical Translation
+
+Supplement entities also track whether evidence maps to real-world use:
+
+| Field | Meaning |
+|-------|---------|
+| `translation_plausibility` | Whether studied dose, route, and context are practical for routine human supplementation |
+| `replication_status` | Whether the key claim is independently robust or still fragile |
+| `claim_scope` | Whether the strongest justified claim is general longevity, condition-specific, biomarker-only, or mechanism-only |
+
+This keeps a positive mechanism or animal result from being treated as a practical stack recommendation when the dose is implausible, the result is unreplicated, or the claim is narrower than the marketing.
+
 ## Practical Status
 
 Supplement entities also carry a `practical_status` field. This is separate from evidence level: a supplement can have plausible evidence but still be marked `deprioritize` because the effect is small, population-specific, unsafe in context, or impractical.

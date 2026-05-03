@@ -2,7 +2,7 @@
 type: meta
 sources: []
 created: "2026-04-19"
-updated: "2026-04-27"
+updated: "2026-04-29"
 status: current
 tags:
   - meta
@@ -47,6 +47,7 @@ Research reports can be ingested as synthesis sources. Individual primary source
 - Safety, contraindication, or interaction anchors
 - Contradictions that change a hypothesis status or practical decision
 - Claims that directly affect stack inclusion, exclusion, or dose choice
+- Translation bottlenecks that affect practical posture, including human-plausible dose, replication robustness, claim scope, or expected effect size
 - Genetics claims that affect efficacy, risk, dose, contraindications, or population fit
 
 Do not create source-summary pages for every citation in a report by default. That creates provenance noise and makes the graph harder to use.
@@ -81,6 +82,7 @@ Keep these separate. A source can be a `primary-anchor` with `evidence_layer: me
 Decision-critical claims cannot rely only on `source_role: synthesis`. A claim is decision-critical if it affects:
 
 - `practical_status`
+- `translation_plausibility`, `replication_status`, or `claim_scope`
 - `evidence_level`
 - `mechanistic_evidence`, `animal_evidence`, `human_evidence`, or `translational_status`
 - Dosing, form, timing, pharmacokinetics, or bioavailability
@@ -107,6 +109,27 @@ Every supplement-outcome claim should preserve three separate evidence streams:
 - **Human:** observational evidence, biomarker RCTs, clinical endpoints, safety, and real-world contraindications
 
 A claim can be considered `mechanism-led` when mechanistic evidence is strong, animal/human data are weak or untested, and neither stream shows a clear negative signal. A plausible mechanism should be marked `contradicted` if stronger animal or human evidence is null, harmful, or directionally opposed.
+
+## Practical Translation Handling
+
+Evidence quality is not the same as practical usefulness. Supplement entity pages use a Practical Translation Check to document whether the evidence survives real-world use.
+
+Track these dimensions separately from evidence streams:
+
+| Dimension | What to ask | How it changes decisions |
+|-----------|-------------|--------------------------|
+| Human-plausible dose | Does the studied dose, route, or exposure map to routine human supplementation? | Implausible translation can downgrade practical status even when animal or mechanistic findings are positive. |
+| Replication robustness | Is the key result independently replicated, or is it one lab, one preprint, one sex, one species, or a failed replication? | Fragile evidence should stay research-only, deprioritized, or explicitly time-bound. |
+| Claim scope | Is the justified claim general longevity, condition-specific, biomarker-only, or mechanism-only? | Narrow evidence should not be promoted into broad stack recommendations. |
+| Expected effect size | Is the likely benefit meaningful compared with higher-impact alternatives and stack complexity? | Small effects may still be real but deprioritized. |
+| Measure-to-target need | Does use require labs, biomarker targets, or dose adjustment over time? | Nutrient and biomarker-driven interventions should be handled as monitoring decisions, not fixed-dose defaults. |
+| Hype risk | Are commercial or public claims ahead of demonstrated outcomes? | Hype does not change evidence quality, but it can lower practical confidence and should be recorded as claim inflation. |
+
+### Claim Inflation / Hype Risk
+
+A supplement can have real evidence for a narrow use while still being overhyped for longevity. Treat hype risk as a practical-posture modifier, not as evidence. Record the strongest justified claim first, then separately note unsupported or inflated claims.
+
+Use `translation_plausibility: blocked` when a positive finding depends on exposure that is not achievable or reasonable in routine human supplementation. Use `claim_scope: condition-specific`, `biomarker-only`, or `mechanism-only` when the evidence does not justify a general longevity claim.
 
 ## Genetics Handling
 
@@ -245,6 +268,11 @@ Before citing any source:
 - [ ] Population relevant (human > animal > in-vitro for clinical claims)
 - [ ] Conflicts of interest checked and disclosed
 - [ ] Dose and form match what's being claimed
+- [ ] Studied dose has plausible human translation, or implausibility is disclosed
+- [ ] Key claim replication status checked where practical
+- [ ] Claim scope stated without upgrading narrow condition, biomarker, or mechanism evidence into broad longevity evidence
+- [ ] Expected effect size considered against practical burden and better-supported alternatives
+- [ ] Measure-to-target needs identified for nutrient or biomarker-driven interventions
 - [ ] Outcome measure is clinically meaningful (not just a surrogate biomarker, unless disclosed)
 - [ ] Recency appropriate for topic
 - [ ] Not retracted or corrected
