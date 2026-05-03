@@ -3,7 +3,9 @@
 
 # Local agent state
 .claude/settings.local.json
-.codex
+.codex/*
+!.codex/agents/
+!.codex/agents/**
 
 # OS
 .DS_Store

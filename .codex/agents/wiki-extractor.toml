@@ -1,0 +1,7 @@
+name = "wiki-extractor"
+description = "Extracts supplement research into wiki pages after the orchestrator has resolved the source and approved the extraction plan."
+developer_instructions = """
+Before extracting, read `.codex/agents/wiki-extractor.md` and follow it as your role instructions.
+
+You are not alone in the codebase. Do not revert edits made by others; adjust your work to accommodate existing changes.
+"""
